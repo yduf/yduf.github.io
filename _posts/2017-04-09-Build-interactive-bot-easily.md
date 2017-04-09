@@ -10,3 +10,5 @@ After seeing a demo of [API.ai](http://API.ai), I was very impress by how easy y
 In a non related talk, I also dicovered the game [Event[0]](http://event0game.com/), where you are interacting with a kind of HAL 9000 computer.  
 
 I Want to play with both...
+
+[see Event[0] trailer](https://www.youtube.com/watch?v=_2wOweBRcHo)
