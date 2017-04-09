@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Want to build a bot with API.AI
 
