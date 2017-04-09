@@ -11,4 +11,5 @@ In a non related talk, I also dicovered the game [Event[0]](http://event0game.co
 
 I Want to play with both...
 
-[see Event[0] trailer](https://www.youtube.com/watch?v=_2wOweBRcHo)
+[see Event[0] trailer]()
+[![Event[0] trailer](https://img.youtube.com/vi/_2wOweBRcHo/0.jpg)](https://www.youtube.com/watch?v=_2wOweBRcHo)
