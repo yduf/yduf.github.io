@@ -1,12 +1,12 @@
 ---
-published: false
+published: true
 ---
 ## Arduino IDE on Linux
 
 There are many IDE available.
 
-I choose to try [Platform.io](http://platformio.org/get-started).
-Setup and installation was straightforward.
+I choosed to use [Platform.io](http://platformio.org/get-started).
+Which look more modern than others. Setup and installation was straightforward.
 
 A lot of tutorials are available on [Adafruit](https://learn.adafruit.com/category/learn-arduino) and [www.arduino.cc](https://www.arduino.cc/en/Tutorial/HomePage). For eg:
 - [reading analog input](https://www.arduino.cc/en/Tutorial/AnalogInput),
