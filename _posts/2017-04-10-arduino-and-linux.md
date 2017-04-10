@@ -15,11 +15,11 @@ A lot of tutorials are available on [Adafruit](https://learn.adafruit.com/catego
 - [eyes](https://www.adafruit.com/product/3356)
 
 
-
 Tools:
 - [Resistor color code calculator](http://www.hobby-hour.com/electronics/resistorcalculator.php)
-
 
 Note:
 
 Issue with the permissions for /dev/ttyACM0 can be permanantly solved by adding yourself to the dialout group: sudo usermod -a -G dialout <user>
+
+![raspberry_pi_eyes-800x800.jpg]({{site.baseurl}}/_posts/raspberry_pi_eyes-800x800.jpg)
