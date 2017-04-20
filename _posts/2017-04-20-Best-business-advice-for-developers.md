@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## [Advices (from HN discuss)](https://news.ycombinator.com/item?id=14146850)
 
@@ -19,4 +19,3 @@ some top tips stand out for me over time:
 * Patience > No Patience
 * No procrastination > Procrastination
 * Reading books > Not reading books
-
