@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## [Taking Glare-Free Pictures of Pictures (Google Blog)](https://research.googleblog.com/2017/04/photoscan-taking-glare-free-pictures-of.html) 
 
