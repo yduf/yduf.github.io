@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## A free lightweight 8-bit voxel editor and interactive path tracing renderer, [enjoy enjoy :)](https://ephtracy.github.io/)
 
