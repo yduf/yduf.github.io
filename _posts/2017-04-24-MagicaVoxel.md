@@ -6,4 +6,4 @@ published: true
 [#voxeldailies](https://twitter.com/hashtag/voxeldailies?src=hash)
 [Gavan Woolery](https://twitter.com/gavanwe)
 
-[![Unicorn](https://www.youtube.com/vi/u6q_CWQNyek/0.jpg)](https://www.youtube.com/watch?v=u6q_CWQNyek)
+[![Unicorn](https://img.youtube.com/vi/u6q_CWQNyek/0.jpg)](https://www.youtube.com/watch?v=u6q_CWQNyek)
