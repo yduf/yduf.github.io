@@ -7,4 +7,4 @@ published: true
 
 score : 573/3623 [(private report)](https://www.codingame.com/challengereport/74188696ab758aed45d170859019fdd36384f41)
 
-![unnamed.png]({{site.baseurl}}/_posts/CodingGame/unnamed.png)
+![unnamed.png](/_posts/CodingGame/unnamed.png)
