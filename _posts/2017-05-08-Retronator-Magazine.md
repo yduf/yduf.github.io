@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## [Pixel Art, Gaming & Saturated Colors](https://medium.com/retronator-magazine)
 
