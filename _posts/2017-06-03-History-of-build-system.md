@@ -35,7 +35,7 @@ rm -f helloworld helloworld.o
 
 Done at a time were library or module were much less in <nombreu> than now.
 Use of shell one line for building recipes give some flexibility, but does not scale well
-to when operation becames more complex.
+to when operation becames more complex (this was latter adressed by tool like CMake)
 
 Recursive build description for package of package, was an issue.
 
@@ -93,6 +93,11 @@ tomcat appserver.
 ```
 
 # Renaissance
+
+## [CMake (2000)](https://en.wikipedia.org/wiki/CMake)
+
+The build process with CMake takes place in two stages. First, standard build files are created from configuration files. Then the platform's native build tools are used for the actual building.
+
 
 ## [Rake (2004?)](https://martinfowler.com/articles/rake.html)
 
