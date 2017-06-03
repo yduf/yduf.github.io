@@ -7,6 +7,9 @@ published: false
 
 People living naked and using ad-hoc command invocation (batched or manual).
 
+[Great pictures!](https://karussell.wordpress.com/2009/09/29/evolution-of-build-systems/)
+need to embed here
+
 ## [Make (1976)](https://en.wikipedia.org/wiki/Make_(software))
 
 First tool to allows to break build operation in 2 parts:
