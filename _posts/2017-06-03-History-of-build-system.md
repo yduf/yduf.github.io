@@ -1,7 +1,11 @@
 ---
 published: false
 ---
-## pre-make
+=> have a pointer to diagram
+
+## Prehistoric Ages
+
+People living naked and using ad-hoc command invocation (batched or manual).
 
 ## [Make (1976)](https://en.wikipedia.org/wiki/Make_(software))
 
@@ -33,6 +37,7 @@ Recursive build description for package of package, was an issue.
 
 Mixing description of build inside the build, make them non portable (when moving to an other compiler for ex).
 
+Make concept had give birth to a lot tools, trying to improve it or extends it in some ways.
 
 Pros:
 - very simple concept and low learning curve
@@ -45,3 +50,14 @@ Cons:
 	-- one shell process instanciated by row
     -- no possibility of sharing state except using file.
 
+## Middle ages
+
+ant
+
+## Renaissance
+
+maven / graddle / sbt
+
+## Modern Time
+
+blaze, buck, plant
