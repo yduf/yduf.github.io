@@ -204,7 +204,6 @@ Cons:
 - Like ant, rely on plugin for extension. While theoritically these plugin could habe been build by any other langage, in reallity support and use of other langage has been minimal.
 - pretty much restricted to JVM ecosystem
 
-
 ## [Gradle (2007)](https://en.wikipedia.org/wiki/Gradle)
 
 Designed for multi-project builds which can grow to be quite large, and supports incremental builds by intelligently determining which parts of the build tree are up-to-date, so that any task dependent upon those parts will not need to be re-executed (which is a pain point in maven)
@@ -225,6 +224,13 @@ Cons:
 
 Notes:
 [/migrating-from-maven](https://guides.gradle.org/migrating-from-maven/)
+
+## [Buildr (2008?)](http://buildr.apache.org/)
+
+Kind of Gradle like descending from Rake, understanding maven convention,
+targeting Java ecosystem, but using a ruby DSL.
+
+Now behind gradle in term of update.
 
 ## [sbt (2011?)](https://en.wikipedia.org/wiki/SBT_(software))
 
