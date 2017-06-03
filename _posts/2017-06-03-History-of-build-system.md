@@ -2,6 +2,7 @@
 published: false
 ---
 => have a pointer to diagram
+[see also](https://en.wikipedia.org/wiki/List_of_build_automation_software)
 
 # Prehistoric Ages
 
@@ -93,7 +94,7 @@ tomcat appserver.
 
 # Renaissance
 
-# [Rake (2004?)](https://martinfowler.com/articles/rake.html)
+## [Rake (2004?)](https://martinfowler.com/articles/rake.html)
 
 Try on its own to overcome make and ant shortcoming by using a dynamic langage (Ruby) for describing recipes and hosting environement. Keep make idea of using a DSL for describing rules
 and dependancy by levering ruby ability to do so.
@@ -128,14 +129,34 @@ Cons:
 - proablby too low level by default for mordern world
 (does not come with a set of high level recipes and target to start right away compiling project)
 
-# [Maven (2004)](https://en.wikipedia.org/wiki/Apache_Maven)
+## [Maven (2004)](https://en.wikipedia.org/wiki/Apache_Maven)
 
 Keep XML as build description langage, but try to reduce overload by favoring 
 convetion over explicit description.
 
 As such the build process can be simplified with this convention in mind.
+More specifically introduce the notion of _Build lifecycle_.
 
-Like ant, rely on plugin for extension. While theoritically these plugin could habe been build by any other langage, in reallity support and use of other langage has been minimal.
+Build lifecycle is a list of named phases that can be used to give order to goal execution. One of Maven's standard lifecycles is the default lifecycle, which includes the following phases, in this order
+
+1. validate
+1.  generate-sources
+1.  process-sources
+1.  generate-resources
+1.  process-resources
+1.  compile
+1. process-test-sources
+1.  process-test-resources
+1.  test-compile
+1.  test
+1.  package
+1.  install
+1.  deploy
+
+In this respect, it's diverge from the common usage of make recipes, where dependencies were mixing asset dependencies and build step.
+
+For example it is common to try to build makefile that only recompil what as changed when invoked. This imply a detail description of low level dependencies, but does make a differences with high level stage dependencies implied by this build lifecycle. (see moder ages).
+
 
 ```xml
 <project>
@@ -169,7 +190,70 @@ Like ant, rely on plugin for extension. While theoritically these plugin could h
 </project>
 ```
 
-graddle / sbt
+Pros:
+
+- integrate a view of what a full build process is (get / compile / test / package / deploy)
+- Bills of Material (BOM) recursive / multiproject sharing (hierachical pom construction) so that you have consistent library names and versions across all your projects.
+
+Cons:
+- Like ant, rely on plugin for extension. While theoritically these plugin could habe been build by any other langage, in reallity support and use of other langage has been minimal.
+- pretty much restricted to JVM ecosystem
+
+
+## [Gradle (2007)](https://en.wikipedia.org/wiki/Gradle)
+
+Designed for multi-project builds which can grow to be quite large, and supports incremental builds by intelligently determining which parts of the build tree are up-to-date, so that any task dependent upon those parts will not need to be re-executed (which is a pain point in maven)
+
+introduces a Groovy-based domain-specific language (DSL) instead of the XML form used by Apache Maven, and allow to better customize maven convention
+
+
+```groovy
+apply plugin: 'java'
+sourceSets.main.java.srcDirs = ['src/java']
+```
+
+Pros:
+- can use maven project convention and ant build script
+
+Cons:
+- primarily focused around Java,[3] Groovy and Scala development and deployment
+
+Notes:
+[/migrating-from-maven](https://guides.gradle.org/migrating-from-maven/)
+
+## [sbt (2011?)](https://en.wikipedia.org/wiki/SBT_(software))
+
+Dedicated tool for scala build, with it's own DSL that use scala.
+
+As maven prefer convention over configuration, which make standard use case a breeze,
+and customisation a nightmare.
+
+_SBT lacks the simplicity of Make, where the number of core abstractions are small, the mental model is extremely simple to understand, and where it mainly does one thing and does that one thing really well without interfering in your abilities to customize your build tool chain with other scripts._[1]
+
+```scala
+def junit = "junit" % "junit" % "4.8"
+def akkaVersion = "2.4.2"
+def akkaActor = "com.typesafe.akka" %% "akka-actor" % akkaVersion
+def akkaCluster = "com.typesafe.akka" %% "akka-cluster" % akkaVersion
+
+lazy val root = (project in file(".")).
+  aggregate(app).
+  settings(
+    inThisBuild(List(
+      // Set the Scala version used by this build to 2.11.7.
+      scalaVersion := "2.11.7",
+      // Set the version to 0.1.0-SNAPSHOT.
+      version := "0.1.0-SNAPSHOT"
+    )),
+    name := "my-project"
+  )
+```
+
+Cons:
+- support [only Java and scala](http://www.methodsandtools.com/tools/scalabuildtool.php) project
+
+Notes:
+[1](https://www.quora.com/Scala-programming-language-1/Is-sbt-the-best-way-to-manage-Scala-projects-if-your-first-priority-is-developer-efficiency)
 
 ## Modern Time
 
