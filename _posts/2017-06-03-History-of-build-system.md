@@ -261,7 +261,13 @@ Notes:
 
 Google internal build system.
 
-[google](http://google-engtools.blogspot.fr/2011/08/build-in-cloud-how-build-system-works.html)
+[blaze](http://google-engtools.blogspot.fr/2011/08/build-in-cloud-how-build-system-works.html)
 
 and the infant
-bazel, buck, plant
+[bazel](https://bazel.build/), 
+[buck](https://buckbuild.com/), 
+[pants](http://pantsbuild.github.io/index.html)
+
+
+Notes
+[1](https://www.quora.com/What-build-system-does-Facebook-use?share=1)
