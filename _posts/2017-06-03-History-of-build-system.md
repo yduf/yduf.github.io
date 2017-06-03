@@ -255,6 +255,13 @@ Cons:
 Notes:
 [1](https://www.quora.com/Scala-programming-language-1/Is-sbt-the-best-way-to-manage-Scala-projects-if-your-first-priority-is-developer-efficiency)
 
-## Modern Time
+# Modern Time
 
-blaze, buck, plant
+## [Blaze 2008](https://mike-bland.com/2012/10/01/tools.html)
+
+Google internal build system.
+
+[google](http://google-engtools.blogspot.fr/2011/08/build-in-cloud-how-build-system-works.html)
+
+and the infant
+bazel, buck, plant
