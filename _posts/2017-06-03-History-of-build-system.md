@@ -5,6 +5,7 @@ published: false
 see also:
 [list of guild tool](https://en.wikipedia.org/wiki/List_of_build_automation_software)
 [whatsinabuildtool](http://www.lihaoyi.com/post/WhatsinaBuildTool.html)
+[In qest for ultimate build tool](http://blog.ltgt.net/in-quest-of-the-ultimate-build-tool/)
 
 # Prehistoric Ages
 
