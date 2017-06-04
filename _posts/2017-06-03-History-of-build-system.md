@@ -2,7 +2,9 @@
 published: false
 ---
 => have a pointer to diagram
-[see also](https://en.wikipedia.org/wiki/List_of_build_automation_software)
+see also:
+[list of guild tool](https://en.wikipedia.org/wiki/List_of_build_automation_software)
+[whatsinabuildtool](http://www.lihaoyi.com/post/WhatsinaBuildTool.html)
 
 # Prehistoric Ages
 
