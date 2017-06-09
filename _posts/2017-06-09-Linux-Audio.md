@@ -31,7 +31,12 @@ This is necessary to redirect pulse audio through Jack
 [see also](http://jackaudio.org/faq/pulseaudio_and_jack.html)
 
 
+# Audio app
+
+
 # Guitar Effect
+
+[guitar app](http://linuxmao.org/Le+coin+des+guitaristes)
 
 [A Guitar Amp/Effect Solution For Linux](https://soosck.wordpress.com/2011/01/12/guitar-amplifier-effect-solution-linux/)
 
