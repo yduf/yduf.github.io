@@ -39,7 +39,7 @@ This is necessary to redirect pulse audio through Jack
 
 # Synthetize
 
-Qsynth + FluidSynth + soundfont
+[Qsynth + FluidSynth + soundfont](https://askubuntu.com/questions/34391/virtual-midi-piano-keyboard-setup)
 
 # Guitar Effect
 
