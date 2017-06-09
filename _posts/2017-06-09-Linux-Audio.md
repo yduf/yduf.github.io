@@ -33,6 +33,13 @@ This is necessary to redirect pulse audio through Jack
 
 # Audio app
 
+# virtual midi keyboard
+
+[vmpk](http://vmpk.sourceforge.net/)
+
+# Synthetize
+
+Qsynth + FluidSynth + soundfont
 
 # Guitar Effect
 
