@@ -1,0 +1,22 @@
+---
+published: false
+---
+## [Probing Host](https://www.linux.com/learn/who-and-what-my-network-probing-your-network-linux)
+
+```bash
+# netstat -untap
+
+# whowatch
+```
+
+## [perf host/host](https://linuxaria.com/article/tool-command-line-bandwidth-linux)
+[also](https://www.linux.com/learn/five-funny-little-linux-network-testers-and-monitors)
+
+### [iperf](https://askubuntu.com/questions/7976/how-do-you-test-the-network-speed-betwen-two-boxes#7977)
+
+You need to install iperf on both ends of the link you want to test, which in these examples are Studio and Uberpc. Then start iperf in server mode on one host, and run it in client mode on the other host. Note that on the client, you must name the server. This is the simplest way to run a test:
+
+```bash
+carla@studio:~$ iperf -s
+terry@uberpc:~$ iperf -c studio
+```
