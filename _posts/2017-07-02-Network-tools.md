@@ -20,3 +20,5 @@ You need to install iperf on both ends of the link you want to test, which in th
 carla@studio:~$ iperf -s
 terry@uberpc:~$ iperf -c studio
 ```
+
+## [Misc](http://www.linuxhomenetworking.com/wiki/index.php/Quick_HOWTO_:_Ch04_:_Simple_Network_Troubleshooting)
