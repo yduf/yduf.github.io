@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## [lessons learned from a life wasted](http://programmingisterrible.com/)
 
@@ -27,6 +27,3 @@ published: false
 
 - [Progress is measured in lines of code broken](http://programmingisterrible.com/post/65893117803/progress-is-measured-in-lines-of-code-broken)
 - [Code is more than just Apps](http://programmingisterrible.com/post/67556577734/code-is-more-than-just-apps)
-
-
-
