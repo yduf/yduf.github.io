@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## [Pi-3](https://lede-project.org/toh/views/toh_fwdownload?dataflt%5BBrand*%7E%5D=rasp)
 
