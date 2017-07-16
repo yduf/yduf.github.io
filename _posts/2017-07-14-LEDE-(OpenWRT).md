@@ -3,7 +3,16 @@ published: true
 ---
 ## [Pi-3](https://lede-project.org/toh/views/toh_fwdownload?dataflt%5BBrand*%7E%5D=rasp)
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+## [change default ip](https://forum.openwrt.org/viewtopic.php?id=41716)
+
+in order to avoid being on an inaccessible subnet
+
+```
+uci set network.lan.ipaddr=111.222.333.444
+uci commit network
+/etc/init.d/network restart
+```
+
 
 ## [Walktough](https://computers.tutsplus.com/articles/installing-openwrt-on-a-raspberry-pi-as-a-new-home-firewall--mac-55984)
 
