@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## [TIO](https://tio.run/#)
 
@@ -8,7 +8,3 @@ published: false
 ## [shadertoy](https://www.shadertoy.com/view/ldlcRf)
 
 ## [codepen](https://codepen.io/)
-
-
-
-
