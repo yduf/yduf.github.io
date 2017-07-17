@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## [lucasfan2004](http://www.adventuregamestudio.co.uk/site/games/game/401/)
 
