@@ -38,4 +38,10 @@ timidity -iA -B2,8 -Os -EFreverb=0&
 
 - enjoy!
 
+- f5 - to load/save quit (does not work sometimes alt-tab might make it works)
+
 ## [solution](http://gamesolutions.efzeven.nl/maniac-mansion-deluxe-walkthrough-lucasfan2004/)
+
+## alternative to wine [ags player on linux](https://github.com/adventuregamestudio/ags/blob/master/debian/README.md)
+
+## voices ?
