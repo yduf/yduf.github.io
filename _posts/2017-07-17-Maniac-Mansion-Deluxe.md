@@ -29,7 +29,7 @@ translation=English
 ```
 
 - install timidity + freepats (for backgroudn music)
-- run timitidy in background
+- [run timitidy in background](https://doc.ubuntu-fr.org/tutoriel/wine_et_midi)
 ```
 timidity -iA -B2,8 -Os -EFreverb=0&
 ```
