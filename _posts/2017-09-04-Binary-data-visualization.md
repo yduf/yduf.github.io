@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## [Visualizing-elf-binaries](https://reverseengineering.stackexchange.com/questions/6003/visualizing-elf-binaries)
 
