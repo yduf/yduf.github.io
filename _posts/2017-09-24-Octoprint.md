@@ -13,4 +13,12 @@ and add [static ip](https://serverfault.com/questions/335994/creating-a-static-i
 
 [How Do I Find Out My Linux Gateway](https://www.cyberciti.biz/faq/how-to-find-gateway-ip-address/)
 
-[usb webcam](http://www.pobot.org/Vision-par-webcam-avec-une.html?lang=fr)
+## Webcam
+
+[usb webcam with V4L](http://www.pobot.org/Vision-par-webcam-avec-une.html?lang=fr)
+
+[MJPG streamer config](https://github.com/foosel/OctoPrint/wiki/Webcams-known-to-work)
+
+Camera without MPG support mais work with "-r VGA -y" parameters
+see /root/bin/webcamd
+
