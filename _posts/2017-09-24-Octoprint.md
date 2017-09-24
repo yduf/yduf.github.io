@@ -12,3 +12,5 @@ published: true
 and add [static ip](https://serverfault.com/questions/335994/creating-a-static-ip-with-wlan0#335997)
 
 [How Do I Find Out My Linux Gateway](https://www.cyberciti.biz/faq/how-to-find-gateway-ip-address/)
+
+[usb webcam](http://www.pobot.org/Vision-par-webcam-avec-une.html?lang=fr)
