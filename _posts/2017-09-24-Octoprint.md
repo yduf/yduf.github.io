@@ -22,3 +22,6 @@ and add [static ip](https://serverfault.com/questions/335994/creating-a-static-i
 Camera without MPG support mais work with "-r VGA -y" parameters
 see /root/bin/webcamd and [configurations](https://github.com/foosel/OctoPrint/wiki/MJPG-Streamer-configuration)
 
+## Plugins
+
+[install](http://plugins.octoprint.org/help/installation/)
