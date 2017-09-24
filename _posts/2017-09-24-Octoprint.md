@@ -9,4 +9,6 @@ published: true
 
 ## [How to set up WiFi on a Raspberry Pi](https://www.maketecheasier.com/setup-wifi-on-raspberry-pi/)
 
-and add [static ip](http://weworkweplay.com/play/automatically-connect-a-raspberry-pi-to-a-wifi-network/)
+and add [static ip](https://serverfault.com/questions/335994/creating-a-static-ip-with-wlan0#335997)
+
+[How Do I Find Out My Linux Gateway](https://www.cyberciti.biz/faq/how-to-find-gateway-ip-address/)
