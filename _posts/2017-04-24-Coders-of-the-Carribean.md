@@ -1,5 +1,6 @@
 ---
 published: true
+tags: codingame
 ---
 ## [Pouic, pouic, pouic! Houmba!](https://www.codingame.com/contests/coders-of-the-caribbean)
 

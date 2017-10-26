@@ -1,5 +1,6 @@
 ---
 published: true
+tags: rubik cube
 ---
 ## How to play a Rubik’s Cube like a piano - Michael Staff
 

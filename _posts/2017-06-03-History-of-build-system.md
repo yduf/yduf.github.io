@@ -1,5 +1,6 @@
 ---
 published: false
+tags: make
 ---
 => have a pointer to diagram
 see also:

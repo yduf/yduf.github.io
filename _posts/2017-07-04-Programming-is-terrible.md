@@ -1,5 +1,6 @@
 ---
 published: true
+tags: software lesson
 ---
 ## [lessons learned from a life wasted](http://programmingisterrible.com/)
 

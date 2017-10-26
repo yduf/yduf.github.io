@@ -1,5 +1,6 @@
 ---
 published: true
+tags: arduino linux
 ---
 ## Arduino IDE on Linux
 

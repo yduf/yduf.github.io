@@ -1,5 +1,6 @@
 ---
 published: true
+tags: chat bot
 ---
 ## Want to build a bot with API.AI
 

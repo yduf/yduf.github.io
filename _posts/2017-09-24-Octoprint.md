@@ -1,5 +1,7 @@
 ---
 published: true
+tags: octoprint 3dprint
+layout: post
 ---
 ## [OctoPrint](http://octoprint.org/)
 
@@ -25,3 +27,4 @@ see /root/bin/webcamd and [configurations](https://github.com/foosel/OctoPrint/w
 ## Plugins
 
 [install](http://plugins.octoprint.org/help/installation/)
+

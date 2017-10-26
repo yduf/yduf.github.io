@@ -1,5 +1,6 @@
 ---
 published: true
+tags: pixel art retronator
 ---
 ## [Pixel Art, Gaming & Saturated Colors](https://medium.com/retronator-magazine)
 
