@@ -5,6 +5,8 @@ tags: vinyle audio
 
 Tuto expliquant les bases pour bien [regler sa platine vinyle](https://www.son-video.com/guide/bien-regler-sa-platine-vinyle)
 
+![caption](/images/platine-skull.jpg)
+
 Platine Vinyle [Audio Technica AT-LP120USBHC](https://www.amazon.fr/Audio-Technica-AT-LP120USBHC-Platine-vinyle-entra%C3%AEnement/dp/B00QKP5UFO/ref=sr_1_1?s=electronics&ie=UTF8&qid=1509296235&sr=1-1&keywords=AT-LP120USBHC)
 
 - [porte-cellule AT-HS10](https://www.son-video.com/article/portes-cellule/audio-technica/at-hs10) standard SME
