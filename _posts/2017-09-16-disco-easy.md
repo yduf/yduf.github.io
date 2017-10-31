@@ -10,7 +10,7 @@ kit is ok, but configuration has some undocumented issue (but forums has answer)
 
 - [ajouter un écran RepRap FullGraphic](https://www.dagomaniack.fr/2017/04/30/tutoriel-ecran-reprap-fullgraphic-controler-de200/)
 
-enelver les detrompeurs des nappes coté ecrans et les brancher a l'envers en gardant la correspondance exp1 / exp2. (les nappes dagoma ont juste les detrompeurs dans l'autre sens)
+enlever les detrompeurs des nappes coté ecrans et les brancher a l'envers en gardant la correspondance exp1 / exp2. (les nappes dagoma ont juste les detrompeurs dans l'autre sens)
 
 - boitier alternatif sur [thingberse](https://www.thingiverse.com/thing:2445739)
 
