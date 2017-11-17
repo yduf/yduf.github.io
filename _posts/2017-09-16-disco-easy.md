@@ -6,6 +6,8 @@ tags: 3dprint dagoma cura
 A cool 3D printer
 kit is ok, but configuration has some undocumented issue (but forums has answer).
 
+[3d printer tips from hackaday](https://hackaday.com/2016/07/06/build-a-3d-printer-workhorse/)
+
 ### Ecran Rep rap
 
 - [ajouter un écran RepRap FullGraphic](https://www.dagomaniack.fr/2017/04/30/tutoriel-ecran-reprap-fullgraphic-controler-de200/)
