@@ -1,6 +1,7 @@
 ---
+title: Coders of the Carribean (Codingame)
 published: true
-tags: codingame
+tags: codingame contest
 ---
 ## [Pouic, pouic, pouic! Houmba!](https://www.codingame.com/contests/coders-of-the-caribbean)
 

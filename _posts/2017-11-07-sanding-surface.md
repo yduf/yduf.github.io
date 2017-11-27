@@ -1,6 +1,6 @@
 ---
 published: true
-tags: 3dprint tutorial
+tags: 3dprint tutorial sanding
 ---
 
 Make your 3D printed part (surface) look awesome! TUTORIAL
