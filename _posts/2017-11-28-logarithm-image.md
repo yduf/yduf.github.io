@@ -1,5 +1,5 @@
 ---
-title: Droste Effect - Logarithmic image transfortion
+title: Droste Effect - Logarithmic image
 published: true
 tags: image effet math
 ---
