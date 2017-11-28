@@ -1,7 +1,7 @@
 ---
-title: Logarithmic image transfortion
+title: Droste Effect - Logarithmic image transfortion
 published: true
-tags: image math
+tags: image effet math
 ---
 [Escher’s Droste Effect](http://2008.sub.blue/projects/droste.html)
 [A logarithmic image transformation](http://www.josleys.com/article_show.php?id=82)
