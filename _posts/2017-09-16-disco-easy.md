@@ -1,4 +1,5 @@
 ---
+title: Discoeasy 200 (3d printer)
 published: true
 tags: 3dprint dagoma cura
 ---
