@@ -21,3 +21,8 @@ tags: voxel magicalvoxel
 
 [![Tutorial 2](https://img.youtube.com/vi/GEiiH74IStY/0.jpg)](https://www.youtube.com/watch?v=GEiiH74IStY)
 
+## Example
+
+[artstation](https://www.artstation.com/artwork/5KnPO)
+
+[Mini Mike's Metro Minis](https://github.com/mikelovesrobots/mmmm)
