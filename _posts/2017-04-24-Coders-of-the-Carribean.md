@@ -14,6 +14,8 @@ score : 573/3623 [(private report)](https://www.codingame.com/challengereport/74
 
 ## Postmortem && ressource
 
+- [reCurse 1st](https://recursive.cc/blog/coders-of-the-carribean-post-mortem.html)
 - [Agade 2nd](https://github.com/Agade09/Agade-Coders-of-the-Caribbean-Postmortem/blob/master/Agade_CotC_Postmortem.md)
+- [other feedback](https://www.codingame.com/forum/t/coders-of-the-caribbean-feedback-strategies/2746)
 
 see also [Hexagonal grid]({% post_url 2017-04-20-Hexagonal-Grids %})
