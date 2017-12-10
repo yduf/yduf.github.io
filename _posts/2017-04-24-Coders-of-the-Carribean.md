@@ -10,3 +10,10 @@ tags: codingame contest
 score : 573/3623 [(private report)](https://www.codingame.com/challengereport/74188696ab758aed45d170859019fdd36384f41)
 
 ![caption](/images/codingame_caribean_context.png)
+
+
+## Postmortem && ressource
+
+- [Agade 2nd](https://github.com/Agade09/Agade-Coders-of-the-Caribbean-Postmortem/blob/master/Agade_CotC_Postmortem.md)
+
+see also [Hexagonal grid]({% post_url 2017-04-20-Hexagonal-Grids %})
