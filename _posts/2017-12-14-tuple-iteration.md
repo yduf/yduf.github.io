@@ -5,7 +5,7 @@ tags: c++
 ---
 [Cx14 solution](https://codereview.stackexchange.com/questions/51407/stdtuple-foreach-implementation/67394#67394?newreg=7edb5dfdff294d8cb78411576eefc9f1)
 
-```c++
+```cpp
 for_each(std::make_tuple(1, '2', 3.3), [](auto x) {
     std::cout << x << std::endl;
 });
@@ -13,7 +13,7 @@ for_each(std::make_tuple(1, '2', 3.3), [](auto x) {
 
 # Implementation
 
-```c++
+```cpp
 #include <cstddef>
 #include <tuple>
 #include <utility>
