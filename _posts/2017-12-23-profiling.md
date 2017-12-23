@@ -12,6 +12,8 @@ tags: profiling linux c++
 
 Notes: valgrind-3.13.0
 
+[Usage](https://kcachegrind.github.io/html/Usage.html)
+
 ```bash
 valgrind --tool=callgrind -v --dump-every-bb=10000000  ./a.out < data/game_1/01.dat 
 ```
