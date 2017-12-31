@@ -12,4 +12,8 @@ tags: math range search
 
 As an alternative, the Hilbert curve has been suggested as it has a better order-preserving behaviour, but here the calculations are much more complicated, leading to significant processor overhead.
 
-[multidimensional range search](http://www.vision-tools.com/h-tropf/multidimensionalrangequery.pdf)
+Paper [multidimensional range search](http://www.vision-tools.com/h-tropf/multidimensionalrangequery.pdf)
+
+More detailed explaination on narrowing range search:
+- [How to use Morton Order(z order curve) in range search?](https://stackoverflow.com/questions/30170783/how-to-use-morton-orderz-order-curve-in-range-search)
+- [LitMax and BigMin computation](http://docs.raima.com/rdme/9_1/Content/GS/POIexample.htm#zdivide)
