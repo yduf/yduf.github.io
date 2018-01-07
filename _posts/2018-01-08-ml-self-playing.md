@@ -1,5 +1,5 @@
 ---
-title: ML: Mastering Chess and Shogi by Self-Play
+title: Mastering Chess and Shogi by Self-Play
 published: true
 tags: ML papers
 ---
