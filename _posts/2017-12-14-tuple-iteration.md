@@ -4,14 +4,13 @@ published: true
 tags: c++
 ---
 [Cx14 solution](https://codereview.stackexchange.com/questions/51407/stdtuple-foreach-implementation/67394#67394?newreg=7edb5dfdff294d8cb78411576eefc9f1)
-
 ```cpp
 for_each(std::make_tuple(1, '2', 3.3), [](auto x) {
     std::cout << x << std::endl;
 });
 ```
 
-# Implementation
+## Implementation
 
 ```cpp
 #include <cstddef>

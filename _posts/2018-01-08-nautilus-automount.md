@@ -4,7 +4,6 @@ published: true
 tags: ubuntu nautilus
 ---
 [Install Gigolo:](https://ubuntuforums.org/showthread.php?t=1670212)
-
 ```
 sudo apt-get install gigolo
 ```
