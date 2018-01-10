@@ -3,7 +3,6 @@ title: Things I have learnt as the software engineering lead of a multinational
 published: true
 tags: despair.com
 ---
-
 [Summary](https://minnenratta.wordpress.com/2017/01/25/things-i-have-learnt-as-the-software-engineering-lead-of-a-multinational/)
 
 [HN discussion](https://news.ycombinator.com/item?id=16028429)

@@ -2,7 +2,6 @@
 published: true
 tags: 3dprint calibration dagoma
 ---
-
 - [Comment regler le // X par rapport au plateau](https://www.lesimprimantes3d.fr/forum/topic/4517-probl%C3%A8me-parall%C3%A9lisme-axe-x-et-plateau/)
 
 - aussi parallelisme barre avant/arriere.

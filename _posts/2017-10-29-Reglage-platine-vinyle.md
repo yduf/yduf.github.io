@@ -2,7 +2,6 @@
 published: true
 tags: vinyle audio 
 ---
-
 Tuto expliquant les bases pour bien [regler sa platine vinyle](https://www.son-video.com/guide/bien-regler-sa-platine-vinyle)
 
 ![caption](/images/platine-skull.jpg)

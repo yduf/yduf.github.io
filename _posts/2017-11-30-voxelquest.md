@@ -3,7 +3,6 @@ title: Voxel Quest
 published: true
 tags: voxel games engine
 ---
-
 [![teaser](https://img.youtube.com/vi/R0ul1674F1k/0.jpg)](https://www.youtube.com/watch?v=R0ul1674F1k)
 
 [VoxelQuest Last update](http://www.voxelquest.com/)

@@ -3,7 +3,6 @@ title: Coder Strike Back (Codingame)
 published: true
 tags: codingame contest
 ---
-
 I did not had the opportunity to participate to this one.
 
 But there is a great [read from Magus](http://files.magusgeek.com/csb/csb_en.html) about it.

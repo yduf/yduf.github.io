@@ -3,7 +3,6 @@ title: Perfect forwarding explained
 published: true
 tags: c++
 ---
-
 [it means](https://www.justsoftwaresolutions.co.uk/cplusplus/rvalue_references_and_perfect_forwarding.html) that a function template can pass its arguments through to another function whilst retaining the lvalue/rvalue nature of the function arguments by using std::forward. This is called "perfect forwarding", avoids excessive copying, and avoids the template author having to write multiple overloads for lvalue and rvalue references.
 
 # [Problem](http://thbecker.net/articles/rvalue_references/section_07.html)

@@ -3,7 +3,6 @@ title: Cool-retro-term
 published: true
 tags: terminal
 ---
-
 [Cool-retro-term](https://github.com/Swordfish90/cool-retro-term)
 
 [Cathode: Vintage Terminal Emulator](https://www.jwz.org/blog/2011/01/cathode-vintage-terminal-emulator/)

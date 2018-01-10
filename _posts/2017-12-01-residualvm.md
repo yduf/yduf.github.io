@@ -3,7 +3,6 @@ title: Residual VM
 published: true
 tags: games
 ---
-
 [ResidualVM](http://www.residualvm.org//) supports 
 - Grim Fandango
 - Escape From Monkey Island
