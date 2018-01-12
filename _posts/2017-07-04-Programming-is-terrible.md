@@ -1,6 +1,7 @@
 ---
+title: Programming is terrible
 published: true
-tags: software lesson
+tags: software despair.com arch
 ---
 ## [lessons learned from a life wasted](http://programmingisterrible.com/)
 

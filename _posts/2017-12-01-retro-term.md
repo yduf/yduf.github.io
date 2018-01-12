@@ -1,7 +1,7 @@
 ---
 title: Cool-retro-term
 published: true
-tags: terminal
+tags: term
 ---
 [Cool-retro-term](https://github.com/Swordfish90/cool-retro-term)
 
