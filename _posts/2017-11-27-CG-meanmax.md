@@ -13,6 +13,7 @@ score : 85/2512 [(private report)](https://www.codingame.com/challengereport/929
 ## Post mortem
 - [robostac 3rd](https://github.com/robostac/cg-meanmax-postmortem/blob/master/readme.md)
 - [Saelioys 4th](https://github.com/Saelyos/MeanMax/blob/master/README.md)
+- [Faellan 5th](https://github.com/Faellan/meanmax-postmortem/blob/master/README.md) (++)
 - [pb4 6th](https://www.codingame.com/forum/t/mean-max-cc01-feedback-strategies/5030/19)
 - [Agade 7th](https://www.codingame.com/forum/t/mean-max-cc01-feedback-strategies/5030/9)
 - [Illedan 8th](https://www.codingame.com/forum/t/mean-max-cc01-feedback-strategies/5030/18)
