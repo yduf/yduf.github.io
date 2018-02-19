@@ -1,5 +1,7 @@
 ---
+title: Business advice
 published: true
+tags: software
 ---
 ## [Advices (from HN discuss)](https://news.ycombinator.com/item?id=14146850)
 
