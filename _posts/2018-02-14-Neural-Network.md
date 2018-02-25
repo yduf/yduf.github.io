@@ -27,6 +27,8 @@ tags: ML NN C++
 
 [dlib function approximation](https://stackoverflow.com/questions/48661106/dlib-how-do-i-use-the-loss-mean-squared-multioutput-training-label-type)
 
+### [Reinforcement learning](http://blog.dlib.net/2015/06/reinforcement-learning-control-and-3d.html)
+
 - [keras2cpp](https://github.com/KongCang/keras2cpp)
 
 ## [CG Coder strike back](https://www.codingame.com/forum/t/neural-network-ressources/1667/12)
