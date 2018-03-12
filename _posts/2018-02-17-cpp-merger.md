@@ -4,4 +4,6 @@ published: true
 tags: cpp codingame
 ---
 ## [Amalgamate](https://github.com/vinniefalco/Amalgamate/)
+Note: seffault make it unsuable on big project.
+
 see also SO [1](https://stackoverflow.com/questions/2719311/tool-to-create-an-amalgamation-combine-all-source-files-of-a-library-into-one-fo)[2](https://stackoverflow.com/questions/5995773/merge-c-files-into-a-single-source-file)
