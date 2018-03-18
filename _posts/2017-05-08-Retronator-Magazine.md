@@ -1,6 +1,6 @@
 ---
 published: true
-tags: pixelart retronator
+tags: pixelart retronator blog 8bit
 ---
 ## [Pixel Art, Gaming & Saturated Colors](https://medium.com/retronator-magazine)
 

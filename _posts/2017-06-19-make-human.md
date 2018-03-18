@@ -1,6 +1,6 @@
 ---
 published: true
-tags: makehuman 3d
+tags: make human
 ---
 ## [Make Human](http://www.makehuman.org/)
 
