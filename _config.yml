@@ -11,11 +11,14 @@ description: yduf blog from Somewhere
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/13983772?v=3&s=400
 
+
+## flag that can no be changed on github
+highlighter: rouge
+
 #
 # Flags below are optional
 #
-highlighter: rouge
-markdown:    kramdown
+
 
 # Includes an icon in the footer for each username you enter
 footer-links:
@@ -61,11 +64,11 @@ permalink: /:title/
 # version: v1.2.0
 
 # Jekyll 3 now only supports Kramdown for Markdown
-kramdown:
+# kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
-  input: GFM
+  # input: GFM
   # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
-  syntax_highlighter: rouge
+  # syntax_highlighter: rouge
   # syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
     # css_class: 'highlight'
