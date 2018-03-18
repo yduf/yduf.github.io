@@ -14,6 +14,8 @@ avatar: https://avatars1.githubusercontent.com/u/13983772?v=3&s=400
 #
 # Flags below are optional
 #
+highlighter: rouge
+markdown:    kramdown
 
 # Includes an icon in the footer for each username you enter
 footer-links:
