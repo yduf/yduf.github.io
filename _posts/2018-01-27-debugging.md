@@ -3,7 +3,26 @@ title: Debugging
 published: true
 tags: debug linux c++
 ---
+
+# C++
 [KDevelop]() full IDE + debug can work with makefile project.
+
+from menu Project / New from template
+then Category=Standard / Project type = terminal => C++ with Make
+
+choose folder (can be existing folder)
+give project a name (this must create a new none existing folder)
+
+move/copy cpp files into that folder
+modify make to launch build
+
+- build
+- Debug Launch
+	add new Executable => give path to executable
+
+
+
+
 
 [Nemiver](https://wiki.gnome.org/Apps/Nemiver/Features)
 
