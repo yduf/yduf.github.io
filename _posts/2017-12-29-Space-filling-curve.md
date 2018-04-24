@@ -1,7 +1,7 @@
 ---
 title: Space filling curve
 published: true
-tags: math range search
+tags: math range search space curve
 ---
 [Peano curve (1890)](https://en.wikipedia.org/wiki/Peano_curve) the first example of a space-filling curve to be discovered.
 
