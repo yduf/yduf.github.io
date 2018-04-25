@@ -3,7 +3,8 @@ title: Running a child process in Ruby (properly)
 published: true
 tags: ruby shell
 ---
-from [medium](https://medium.com/zendesk-engineering/running-a-child-process-in-ruby-properly-febd0a2b6ec8)
+first part from [medium](https://medium.com/zendesk-engineering/running-a-child-process-in-ruby-properly-febd0a2b6ec8)
+
 
 ## tl;dr: Common Ruby subprocess patterns
 
@@ -69,4 +70,10 @@ There’s one more gotcha when it comes to dealing with subprocesses: deadlocks.
 
     inherit `stderr` or redirect it to a file
     combine `stderr` and `stdout` via `Open3.popen2e` or something similar
-    
+
+## [How to fire and forget a subprocess? (stackoverflow)](https://stackoverflow.com/a/806289/51386)
+
+{% highlight ruby %}
+exec("something") if fork.nil?
+{% endhighlight %}
+
