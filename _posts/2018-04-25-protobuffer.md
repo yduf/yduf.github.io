@@ -1,7 +1,7 @@
 ---
 title: Proto buffer (like)
 published: true
-tags: fast serialisation json protobuffer
+tags: fast serialisation json protobuffer c++
 ---
 ## [Protocol Buffers](https://developers.google.com/protocol-buffers/)
 Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data.
