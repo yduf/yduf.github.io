@@ -1,4 +1,5 @@
 ---
+title: Git serve on Synology
 published: true
 tag: git nas
 ---
