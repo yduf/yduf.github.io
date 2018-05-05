@@ -11,3 +11,7 @@ Simple and Fast Multimedia Library is a cross-platform software development libr
 
 ## [GLFW](http://www.glfw.org/docs/latest/)
 GLFW is a free, Open Source, multi-platform library for OpenGL, OpenGL ES and Vulkan application development. It provides a simple, platform-independent API for creating windows, contexts and surfaces, reading input, handling events, etc.
+
+## Sprites
+- [Sprite DB](http://spritedatabase.net/)
+- [The Spriters](https://www.spriters-resource.com/)
