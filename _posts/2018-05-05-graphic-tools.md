@@ -1,7 +1,7 @@
 ---
 title: Graphic Tools (linux)
 published: true
-tags: applications graphic tools
+tags: application graphic tools
 ---
 ## Vector
 - [Inkscape (vector)](https://inkscape.org/en/)
