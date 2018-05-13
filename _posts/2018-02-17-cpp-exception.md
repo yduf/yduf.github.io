@@ -1,7 +1,7 @@
 ---
 title: Exception vs Error Code Performance (c++)
 published: true
-tags: cpp exception benchmarking
+tags: c++ exception benchmarking
 ---
 ## [ Measuring execution performance of C++ exceptions vs error codes](http://nibblestew.blogspot.fr/2017/01/measuring-execution-performance-of-c.html)
  Whenever a discussion on C++ exceptions occurs, there is That Guy who comes in and says "C++ exceptions are slow, don't use them". At this point the discussion usually breaks down on fighting about whether exceptions are fast or not. These discussion are ultimately pointless because asking whether exceptions are "fast" is the wrong question.

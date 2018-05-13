@@ -1,7 +1,7 @@
 ---
 title: merge cpp (Codingame)
 published: true
-tags: cpp codingame
+tags: c++ codingame
 ---
 ## [Amalgamate](https://github.com/vinniefalco/Amalgamate/)
 Note: seffault make it unsuable on big project.
