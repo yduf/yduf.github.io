@@ -1,7 +1,7 @@
 ---
 title: Git serve on Synology
 published: true
-tag: git nas
+tags: git nas
 ---
 ## using [Git Server](http://blog.osdev.org/git/2014/02/13/using-git-on-a-synology-nas.html)
 

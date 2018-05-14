@@ -3,7 +3,7 @@ title: Binary / Text encoding
 published: true
 tags: binary text encoding
 ---
-## [scheme and overhead](https://en.wikipedia.org/wiki/Binary-to-text_encoding)([stackoveflow](https://stackoverflow.com/a/971501/51386))
+## [scheme and overhead](https://en.wikipedia.org/wiki/Binary-to-text_encoding) ([stackoveflow](https://stackoverflow.com/a/971501/51386))
 - [yEnc](https://en.wikipedia.org/wiki/YEnc): 2%
 - [Base64](https://en.wikipedia.org/wiki/Base64): 33%
 - [uuencoding](https://en.wikipedia.org/wiki/Uuencode) (like base64)
