@@ -1,7 +1,7 @@
 ---
 title: Binary / Text encoding
 published: true
-tags: binary text encoding
+tags: binary text encoding ruby
 ---
 ## [scheme and overhead](https://en.wikipedia.org/wiki/Binary-to-text_encoding) ([stackoveflow](https://stackoverflow.com/a/971501/51386))
 - [yEnc](https://en.wikipedia.org/wiki/YEnc): 2%
