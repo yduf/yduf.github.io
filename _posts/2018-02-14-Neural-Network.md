@@ -1,7 +1,7 @@
 ---
 title: Neural Network Ressources (NN)
 published: true
-tags: ML NN c++
+tags: AI c++
 ---
 ## [PlayGround](http://playground.tensorflow.org/)
 

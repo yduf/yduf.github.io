@@ -1,6 +1,6 @@
 ---
 published: true
-tags: computer religion
+tags: fun
 ---
 ## Computer religion
 
