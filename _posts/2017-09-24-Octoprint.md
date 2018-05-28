@@ -1,6 +1,6 @@
 ---
 published: true
-tags: octoprint 3dprint
+tags: 3dprint
 layout: post
 ---
 ## [OctoPrint](http://octoprint.org/)

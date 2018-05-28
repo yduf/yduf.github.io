@@ -1,7 +1,7 @@
 ---
 title: MagicaVoxel
 published: true
-tags: voxel magicalvoxel
+tags: voxel
 ---
 ## A free lightweight 8-bit voxel editor and interactive path tracing renderer, [enjoy :)](https://ephtracy.github.io/)
 
