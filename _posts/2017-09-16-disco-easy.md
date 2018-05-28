@@ -1,7 +1,7 @@
 ---
 title: Discoeasy 200 (3d printer)
 published: true
-tags: 3dprint dagoma cura
+tags: 3dprint
 ---
 ## [discoeasy 200](https://dagoma.fr/tutoriels/tutoriels-discovery200.html)
 A cool 3D printer

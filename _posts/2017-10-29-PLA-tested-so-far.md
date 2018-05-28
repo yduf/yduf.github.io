@@ -1,6 +1,6 @@
 ---
 published: true
-tags: pla 3dprint
+tags: 3dprint
 ---
 PLA tested so far -- 1.75mm
 
