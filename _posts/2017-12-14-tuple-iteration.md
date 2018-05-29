@@ -4,15 +4,15 @@ published: true
 tags: c++
 ---
 [Cx14 solution](https://codereview.stackexchange.com/questions/51407/stdtuple-foreach-implementation/67394#67394?newreg=7edb5dfdff294d8cb78411576eefc9f1)
-```cpp
+{% highlight cpp %}
 for_each(std::make_tuple(1, '2', 3.3), [](auto x) {
     std::cout << x << std::endl;
 });
-```
+{% endhighlight %}
 
 ## Implementation
 
-```cpp
+{% highlight cpp %}
 #include <cstddef>
 #include <tuple>
 #include <utility>
@@ -31,4 +31,4 @@ void for_each(Tuple&& tuple, F&& f) {
     for_each_impl(std::forward<Tuple>(tuple), std::forward<F>(f),
                   std::make_index_sequence<N>{});
 }
-```
+{% endhighlight %}

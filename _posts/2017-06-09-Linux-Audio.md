@@ -1,6 +1,6 @@
 ---
 published: true
-tags: linux audio jack
+tags: linux audio
 ---
 ## Setup Jack Audio server
 

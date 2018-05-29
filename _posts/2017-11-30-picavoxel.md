@@ -1,6 +1,6 @@
 ---
-title: Pica voxel
+title: Pica voxel (editor)
 published: true
-tags: voxel editor
+tags: voxel
 ---
 [The Tiny Voxel Toolset for Unity](http://picavoxel.com/)
