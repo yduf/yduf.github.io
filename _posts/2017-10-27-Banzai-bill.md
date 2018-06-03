@@ -1,6 +1,6 @@
 ---
 published: true
-tags: 3dprint myminifactory
+tags: 3dprint
 ---
 A [great print](https://www.myminifactory.com/object/bullet-bill-26743) found on [MyMiniFactory](https://www.myminifactory.com/)
 

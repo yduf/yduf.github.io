@@ -36,11 +36,6 @@ enlever les detrompeurs des nappes coté ecrans et les brancher a l'envers en ga
 - [Cura v2.7](http://kerneldesign.fr/cura-2-7-supporte-la-dagoma-discoeasy200/)
 - [Configuring Cura v2.6](http://kerneldesign.fr/dagoma-discoeasy200-et-cura-2-6/)
 
-## 3D Models
-
-[yeggi](http://www.yeggi.com/)
-[Thingiverse](https://www.thingiverse.com/)
-
 ## Troubleshooting printing
 
 - [A visual Ultimaker troubleshooting guide - 3DVerkstan Knowledge Base](http://support.3dverkstan.se/article/23-a-visual-ultimaker-troubleshooting-guide#stringing)
