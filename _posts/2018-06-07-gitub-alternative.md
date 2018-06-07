@@ -1,6 +1,6 @@
 ---
-published: true
 title: GitHub alternatives
+published: true
 tags: git
 ---
 ## If you've been keeping up with [HN](https://news.ycombinator.com/item?id=17252838) the past day or so there have been a bunch of great discussion around alternatives
