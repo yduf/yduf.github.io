@@ -13,3 +13,10 @@ tags: git
 - [ReviewBoard]( https://www.reviewboard.org/)
 - [GitBucket]( https://gitbucket.github.io/)
 - [Tuleap]( https://www.tuleap.org/)
+
+[Recap of the competition](https://news.ycombinator.com/item?id=17246386):
+Self Hosted (in order of anecdotal popularity) - Gitlab - Gitea (fork of Gogs) - Gogs - Phabricator - GitBucket - Rhodecode - Kalithea (fork of Rhodecode) - GitPrep - Allura - GitSSB - Pagure
+
+If you want hosted Git, there are many competitors, but some of the notable are - Gitlab - Attlassian BitBucket - Google Cloud Repositories - Amazon CodeCommit - Canonical Launchpad - Sourceforge
+
+All of which assume you want git, but other DVCSs are Mercurial (which is supported by a number of the above servers) and Fossil.
