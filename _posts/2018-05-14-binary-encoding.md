@@ -3,7 +3,6 @@ title: Binary / Text encoding
 published: true
 tags: binary text encoding ruby
 ---
-## [scheme and overhead](https://en.wikipedia.org/wiki/Binary-to-text_encoding) ([stackoveflow](https://stackoverflow.com/a/971501/51386))
 - [yEnc](https://en.wikipedia.org/wiki/YEnc): 2%
 - [Base64](https://en.wikipedia.org/wiki/Base64): 33%
 - [uuencode](https://en.wikipedia.org/wiki/Uuencode) (like base64)
@@ -11,6 +10,8 @@ tags: binary text encoding ruby
 - [Base85 (Ascii85)](https://en.wikipedia.org/wiki/Ascii85)
 - [basE91](http://base91.sourceforge.net/)
 - [Base-122](https://github.com/kevinAlbs/Base122)
+
+## [scheme and overhead](https://en.wikipedia.org/wiki/Binary-to-text_encoding) ([stackoverflow](https://stackoverflow.com/a/971501/51386))
 
 ## [uuencode](https://en.wikipedia.org/wiki/Uuencode) (like base64)
 
