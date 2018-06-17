@@ -1,7 +1,8 @@
 ---
-title: Proto buffer (like)
+title: Proto buffer (serialisation)
 published: true
 tags: serialisation json protobuffer c++
+excerpt_separator: ""
 ---
 ## [Protocol Buffers](https://developers.google.com/protocol-buffers/)
 Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data.
