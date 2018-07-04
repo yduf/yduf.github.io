@@ -10,6 +10,7 @@ The idea behind [myNoise](https://mynoise.net/) is to use the noises you most en
 - [Rain Noise](https://mynoise.net/NoiseMachines/rainNoiseGenerator.php)
 - [Tin Roof Rain](https://mynoise.net/NoiseMachines/tinRoofRainNoiseGenerator.php)
 - [Irish Coast](https://mynoise.net/NoiseMachines/windSeaRainNoiseGenerator.php)
+- [Summer Night](https://mynoise.net/NoiseMachines/ultrasonicNoiseGenerator.php)
 
 ### Tonal Drones
 - [Duduk Song](https://mynoise.net/NoiseMachines/dudukSoundGenerator.php)
@@ -17,6 +18,8 @@ The idea behind [myNoise](https://mynoise.net/) is to use the noises you most en
 ### Atmospheres
 - [Church](https://mynoise.net/NoiseMachines/churchAtmosphereSoundGenerator.php)
 - [Cargo Engine Room](https://mynoise.net/NoiseMachines/oilTankerMachineryNoiseGenerator.php)
+- [Oblivion](https://mynoise.net/NoiseMachines/oblivionSoundscapeGenerator.php)
+- [Isochronic Tones](https://mynoise.net/NoiseMachines/isochronicBrainwaveGenerator.php)
 
 ### Patternscapes
 - [Take It Easy](https://mynoise.net/NoiseMachines/paulNagleSequenceGenerator.php)
