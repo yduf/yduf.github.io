@@ -20,6 +20,7 @@ The idea behind [myNoise](https://mynoise.net/) is to use the noises you most en
 - [Cargo Engine Room](https://mynoise.net/NoiseMachines/oilTankerMachineryNoiseGenerator.php)
 - [Oblivion](https://mynoise.net/NoiseMachines/oblivionSoundscapeGenerator.php)
 - [Isochronic Tones](https://mynoise.net/NoiseMachines/isochronicBrainwaveGenerator.php)
+- [Flying Fortress](https://mynoise.net/NoiseMachines/propellerNoiseGenerator.php)
 
 ### Patternscapes
 - [Take It Easy](https://mynoise.net/NoiseMachines/paulNagleSequenceGenerator.php)
