@@ -1,8 +1,10 @@
 ---
 published: true
-title: 'Andrei Alexandrescu “std::allocator...” (CppCon 2015)'
+title: '“std::allocator...” (CppCon 2015)'
 tags: cpp memory video blog
 ---
+Andrei Alexandrescu -
+
 Historically stl::allocator were though to overcome issue with near and far pointer on intel archictecture and share a lot of issue from this time.
 
 Andreid revisit how they should have been implemented.
