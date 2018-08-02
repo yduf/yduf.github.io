@@ -1,7 +1,7 @@
 ---
 published: true
 title: '“std::allocator...” (CppCon 2015)'
-tags: cpp memory video blog
+tags: c++ memory video blog
 ---
 Andrei Alexandrescu -
 

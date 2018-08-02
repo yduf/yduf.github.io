@@ -1,7 +1,7 @@
 ---
 published: true
 title: Declarative Control Flow (CppCon2015)
-tags: cpp blog video
+tags: c++ blog video
 ---
 Andrei Alexandrescu - SCOPE_EXIT {}
 
