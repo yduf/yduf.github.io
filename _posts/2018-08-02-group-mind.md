@@ -17,3 +17,11 @@ The goal is to:
 Do cognitive work faster than any individual could, even if the speedup is less than linear
 Ideally: solve in finite time problems too large for one individual given infinite time
 
+
+## Companies need to
+
+- Do multiple things at once i.e. multitask
+- Stay on task i.e. don’t multitask and don’t react too quickly to change
+- Change projects or strategy when indicated by a change in conditions, i.e. react quickly to change
+
+If it seems like these three goals are at odds, you’re right – that’s why attention and memory are so difficult even in an individual brain. Even healthy teams can at times feel totally schizophrenic.
