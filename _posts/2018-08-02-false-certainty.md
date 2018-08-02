@@ -16,10 +16,10 @@ every new idea is badly received. As a leader it’s your job to bring people al
 
 I’m wondering if part of my caution about picking fights comes from picking fights with the wrong people. By which I mean people who:
 
-Think that every detail of their original plan must be preserved in stone
-Would rather debate endlessly than compromise
-Reveal surprise changes between design & release. Sometimes this is necessary but in general it’s a lack of discipline, a workaround to the design process
-Don’t know their reasoning because they internalized someone else’s opinion, and now are blindly arguing for it in a wider setting. In a Julian Jaynes ‘voices in your head’ kind of way, this is insane. I’ve been crazy this way and it’s not fun.
-Worst of all: people not willing to engage in any argument at all. People who can’t defend their plan without getting angry, but also the ones who can’t help you unravel a problem or bounce ideas.
+- Think that every detail of their original plan must be preserved in stone
+- Would rather debate endlessly than compromise
+- Reveal surprise changes between design & release. Sometimes this is necessary but in general it’s a lack of discipline, a workaround to the design process
+- Don’t know their reasoning because they internalized someone else’s opinion, and now are blindly arguing for it in a wider setting. In a Julian Jaynes ‘voices in your head’ kind of way, this is insane. I’ve been crazy this way and it’s not fun.
+- Worst of all: people not willing to engage in any argument at all. People who can’t defend their plan without getting angry, but also the ones who can’t help you unravel a problem or bounce ideas.
 
 By opposing all argument, these characters are also the enemy of finishing. But by not fighting them with the right tools, you’re the enemy of finishing too.
