@@ -22,4 +22,4 @@ Manipulating block made of (addr, size).
 Danger:
 - Freelist: are adversed to cache and can eat all memory.
 
-[Use of non standard approach](https://upcoder.com/6/custom-vector-allocation/)
+See also [custom vector allocator](https://upcoder.com/6/custom-vector-allocation/)
