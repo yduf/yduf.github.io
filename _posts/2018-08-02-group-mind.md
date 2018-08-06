@@ -2,6 +2,7 @@
 published: true
 title: Group mind
 tags: blog management
+excerpt_separator: ""
 ---
 ## [What is a group mind](https://abe-winter.github.io/2018/07/31/group-mind.html)
 
