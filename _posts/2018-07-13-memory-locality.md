@@ -1,6 +1,6 @@
 ---
-published: true
 title: Memory locality vs Algorithm <=> vector vs List
+published: true
 tags: video blog c++ memory
 ---
 Herb Sutter - 2014
