@@ -1,7 +1,7 @@
 ---
 published: true
 title: Shoes! (ruby)
-tags: ruby gui
+tags: ruby gui lib
 ---
 ## [Home](http://shoesrb.com/)
 
