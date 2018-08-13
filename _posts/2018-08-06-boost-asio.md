@@ -1,7 +1,7 @@
 ---
 title: boost.Asio
 published: true
-tags: c++ linux arduino lib
+tags: c++ linux arduino lib serial
 excerpt_separator: ""
 ---
 ## [Boost.org](https://www.boost.org/doc/libs/1_67_0/doc/html/boost_asio.html)

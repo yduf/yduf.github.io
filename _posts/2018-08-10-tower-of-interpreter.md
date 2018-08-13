@@ -1,7 +1,7 @@
 ---
 published: true
 title: Tower of interpreters
-tags: parser software 'food for thought'
+tags: parser software food_for_thought
 excerpt_separator: ''
 ---
 ## [Collapsing towers of interpreters [pdf] (purdue.edu)](https://www.cs.purdue.edu/homes/rompf/papers/amin-popl18.pdf)
