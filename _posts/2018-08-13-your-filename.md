@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+title: SHTOY128
+tags: shader 8bit music
 ---
 ## [SHTOY128](https://www.shadertoy.com/view/XlBGz3)
 
