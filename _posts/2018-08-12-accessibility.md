@@ -2,6 +2,7 @@
 published: true
 title: linux accessibility
 tags: accessibility linux
+excerpt_separator: ''
 ---
 ## Fonts scaling
 linux mint / font setting / Text scaling factor.

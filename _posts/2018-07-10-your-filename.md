@@ -2,6 +2,7 @@
 published: true
 title: Bartosz Milewski's Programming Cafe
 tags: c++ monad functional blog
+excerpt_separator: ''
 ---
 ## [Monads for the Curious Programmer, Part 1](https://bartoszmilewski.com/2011/01/09/monads-for-the-curious-programmer-part-1/)
 

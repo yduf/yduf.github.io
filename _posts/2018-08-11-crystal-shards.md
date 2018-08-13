@@ -2,6 +2,7 @@
 published: true
 title: Crystal Shards
 tags: crystal lib
+excerpt_separator: ''
 ---
 ## Working Shards - [CrystalShards](http://crystalshards.xyz/?sort=updated&page=1)
 ### [sfml binding](https://github.com/oprypin/crsfml)
