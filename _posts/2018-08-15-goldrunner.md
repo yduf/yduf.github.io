@@ -1,7 +1,7 @@
 ---
 published: true
 title: Goldrunner (chiptune)
-tags: chiptune music 8but
+tags: chiptune music 8bit
 ---
 chiptune remastered.
 
