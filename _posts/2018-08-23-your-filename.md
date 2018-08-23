@@ -1,7 +1,7 @@
 ---
 published: true
 title: Conic section
-tags: math
+tags: math blog video
 ---
 A beautiful proof of why slicing a cone gives an ellipse.
 
