@@ -1,7 +1,7 @@
 ---
 title: Proto buffer (serialisation)
 published: true
-tags: serialisation json protobuffer c++
+tags: serialization  protobuf
 excerpt_separator: ""
 ---
 ## [Protocol Buffers](https://developers.google.com/protocol-buffers/)
