@@ -1,7 +1,7 @@
 ---
 published: true
 title: Quasirandom sequence
-tags: random montecarlo
+tags: random montecarlo math
 ---
 ## [The Unreasonable Effectiveness of Quasirandom Sequences](http://extremelearning.com.au/unreasonable-effectiveness-of-quasirandom-sequences/) - [(SO)](https://news.ycombinator.com/item?id=17873284)
 
