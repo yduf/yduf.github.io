@@ -3,6 +3,8 @@ published: true
 tags: 3dprint
 layout: post
 ---
+## [server](http://192.168.0.123/)
+
 ## [Home](http://octoprint.org/)
 
 - [Configuration](http://octoprint.org/download/)
