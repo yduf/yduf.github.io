@@ -16,5 +16,3 @@ sudo apt-get install avrdude
 {% highlight bash %}
 avrdude -p"atmega2560" -c"wiring" -P"/dev/ttyUSB0" -D -U"flash:w:out/klipper.elf.hex:i"
 {% endhighlight %}
-
-
