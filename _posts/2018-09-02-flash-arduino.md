@@ -2,8 +2,9 @@
 published: true
 title: Flashing arduino (cli)
 tags: arduino cli linux firmware
+excerpt_separator: ''
 ---
-## Install [avrdude]()
+## Install [avrdude](https://www.nongnu.org/avrdude/)
 
 avrdude is part of arduin sdk. It can also be installaed alone:
 {% highlight bash %}
