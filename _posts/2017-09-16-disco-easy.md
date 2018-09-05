@@ -43,11 +43,14 @@ enlever les detrompeurs des nappes coté ecrans et les brancher a l'envers en ga
 
 ## Hardware
 
-- [carte "MKS Base v1.5"](https://www.iot-experiments.com/dagoma-discoeasy200/)
- similaire [à un Arduino Mega 2560](https://github.com/MarlinFirmware/Marlin/wiki/Supported-Hardware#mks_base-40) - 16MHz et [carte RAMPS](https://reprap.org/wiki/Arduino_Mega_Pololu_Shield). - [spec](https://www.tomtop.com/p-e3250.html)
+### [carte "MKS Base v1.5"](https://www.iot-experiments.com/dagoma-discoeasy200/)
+ similaire [à un Arduino Mega 2560](https://github.com/MarlinFirmware/Marlin/wiki/Supported-Hardware#mks_base-40) - 16MHz + [carte RAMPS](https://reprap.org/wiki/Arduino_Mega_Pololu_Shield). - [spec](https://www.tomtop.com/p-e3250.html)
 - [detail pin](https://reprap.org/wiki/MKS_BASE_1.0)
 - [pins](https://reprap.org/mediawiki/images/b/b7/MKS_BASE_PINS.pdf)
+- [schematic](https://reprap.org/wiki/File:RAMPS1.4schematic.png)
+
 - sensor: ATC Semitec 104GT-2
+
 
 ## [tips for Dagoma DiscoEasy200](https://www.iot-experiments.com/dagoma-discoeasy200/)
 
