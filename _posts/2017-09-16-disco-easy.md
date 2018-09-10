@@ -49,7 +49,9 @@ enlever les detrompeurs des nappes coté ecrans et les brancher a l'envers en ga
 - [pins](https://reprap.org/mediawiki/images/b/b7/MKS_BASE_PINS.pdf)
 - [schematic](https://reprap.org/wiki/File:RAMPS1.4schematic.png)
 
-- sensor: ATC Semitec 104GT-2
+- [AT Mega pins name](https://cdn.thingiverse.com/assets/3b/87/be/00/40/ATMega_Pins.png)
+
+- thermistor: [ATC Semitec 104GT-2](https://github.com/stefdev49/Marlin/commit/112e526055b005915dd3b87fb8a445405874d42c#diff-208fc9ab75ffd757bceef9d68e6fecfcR104)
 
 
 ## [tips for Dagoma DiscoEasy200](https://www.iot-experiments.com/dagoma-discoeasy200/)

@@ -28,3 +28,5 @@ le mien est de
 ### Mires de calibration
 - [xyz square](https://www.thingiverse.com/thing:2918028)
 - [xy(z) diag](https://www.thingiverse.com/thing:3058427)
+
+## [Stepper Calibration](https://reprap.org/wiki/Triffid_Hunter%27s_Calibration_Guide)

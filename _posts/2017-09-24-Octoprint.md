@@ -16,9 +16,16 @@ and add [static ip](https://serverfault.com/questions/335994/creating-a-static-i
 
 [How Do I Find Out My Linux Gateway](https://www.cyberciti.biz/faq/how-to-find-gateway-ip-address/)
 
-## Timelapse
+## Plugins
 
-- [Octolapse](https://plugins.octoprint.org/plugins/octolapse/)
+[install](http://plugins.octoprint.org/help/installation/)
+
+### [Octolapse (timelapse)](https://plugins.octoprint.org/plugins/octolapse/)
+
+### [Bed Vizualizer]()
+
+Klipper g_code: BED_MESH_OUTPUT
+
 
 ## Webcam
 
@@ -29,7 +36,5 @@ and add [static ip](https://serverfault.com/questions/335994/creating-a-static-i
 Camera without MPG support mais work with "-r VGA -y" parameters
 see /root/bin/webcamd and [configurations](https://github.com/foosel/OctoPrint/wiki/MJPG-Streamer-configuration)
 
-## Plugins
 
-[install](http://plugins.octoprint.org/help/installation/)
 
