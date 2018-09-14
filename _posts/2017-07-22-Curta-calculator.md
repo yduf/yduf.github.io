@@ -8,4 +8,14 @@ tags: mechanical calculator 3dprint
 
 [Photos of making of](http://imgur.com/a/ZAx7R#QpoZQao)
 
-https://www.thingiverse.com/thing:1943171 Some facts: Printed at 3:1 scale There are around 240 printed parts -- around 100 unique parts. There are about 100 non-printed parts (ball bearings, springs, screws, nuts, etc) The original Curta had over 600 parts. I combined many of them for simplicity when 3D printing. It weighed 1357g (just about 3 lbs) before painting. I used around 2 spools on the successful prints, but it was 3 spools counting failures. I first started researching for this project in April 2015. I had my first functional Curta in the Fall of 2016. This is the second Curta I've built and the first one I've painted. CAD work was done from the original engineering drawings in OnShape.
+[thingiverse](https://www.thingiverse.com/thing:1943171)
+
+ Some facts: Printed at 3:1 scale There are around 240 printed parts -- around 100 unique parts. There are about 100 non-printed parts (ball bearings, springs, screws, nuts, etc) The original Curta had over 600 parts. I combined many of them for simplicity when 3D printing. It weighed 1357g (just about 3 lbs) before painting. I used around 2 spools on the successful prints, but it was 3 spools counting failures. I first started researching for this project in April 2015. I had my first functional Curta in the Fall of 2016. This is the second Curta I've built and the first one I've painted. CAD work was done from the original engineering drawings in OnShape.
+
+## Functionning
+
+[![caption](https://img.youtube.com/vi/ShFkJgck6Pw/0.jpg)](https://www.youtube.com/watch?v=ShFkJgck6Pw)
+
+## Assembly
+
+[![caption](https://img.youtube.com/vi/zh2Z11miQ0w/0.jpg)](https://www.youtube.com/watch?v=zh2Z11miQ0w)
