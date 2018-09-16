@@ -1,5 +1,5 @@
 ---
-title: Calibration Xyz
+title: Xyz (Calibration)
 published: true
 tags: 3dprint calibration
 excerpt_separator: ""
