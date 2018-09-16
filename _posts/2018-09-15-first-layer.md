@@ -11,6 +11,9 @@ Getting that first layer right is an indicator of a lot things. Such as, a corre
 
 ### Over / Under Extrusion
 
+### [First Layer Settings](https://3dprinterwiki.info/tips/first-layer-settings/)
+
 ### [Build plate adhesionf](https://ultimaker.com/en/resources/257-build-plate-adhesion-how-to-get-your-print-to-stick-to-the-build-plate)
 
 ### [success?](https://ultimaker.com/en/resources/21330-what-does-a-successful-first-layer-look-like)
+
