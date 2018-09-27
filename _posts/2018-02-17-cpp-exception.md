@@ -10,8 +10,8 @@ measurements on an i5-6600K.
 {% highlight cpp %}
 GCC 4.8.4    gcc 5.4.0   Clang 3.{4, 6, 8}
 
-E**CCCCCCCCCC**  eeccCCCCCC  EeeccCCCCC
-Ee**cCCCCCCCC**  EEEeeeeccc  EEEEEeeeee
+ECCCCCCCCCC  eeccCCCCCC  EeeccCCCCC
+EecCCCCCCCC  EEEeeeeccc  EEEEEeeeee
 EEecCCCCCCC  EEEEEEeeee  EEEEEEEEEE
 EEEeecCCCCC  EEEEEEEEEe  EEEEEEEEEE
 EEEEeecccCC  EEEEEEEEEE  EEEEEEEEEE
