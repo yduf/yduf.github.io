@@ -3,6 +3,8 @@ published: true
 title: 3dprint troubleshooting
 tags: 3dprint
 ---
+- [41 Common Problems](https://all3dp.com/1/common-3d-printing-problems-troubleshooting-3d-printer-issues/)
+
 - [Ultimaker](https://support.3dverkstan.se/article/23-a-visual-ultimaker-troubleshooting-guide#stringing)
 - [Simplify3D](https://www.simplify3d.com/support/print-quality-troubleshooting/#lines-on-the-side-of-print)
 - [RepRap printDoctor](https://www.logre.eu/wiki/RepRap_printDoctor)
@@ -11,3 +13,8 @@ tags: 3dprint
 [Lines are overly visible or spaced apart on the first layer ](https://support.3dverkstan.se/article/23-a-visual-ultimaker-troubleshooting-guide#bottomlayer)
 
 If the bottom layer of your print is showing very obvious print lines it's likely that your bed is simply levelled a little bit too far away from the nozzle.
+
+### Infill
+[Infill is Visible from the Outside](https://all3dp.com/1/common-3d-printing-problems-troubleshooting-3d-printer-issues/#infill-is-visible-from-the-outside)
+
+The final print looks fine but an outline of the internal support structure can be seen through the walls of the print.
