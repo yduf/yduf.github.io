@@ -1,9 +1,9 @@
 ---
+title: Octoprint
 published: true
 tags: 3dprint
-layout: post
 ---
-## [server](http://192.168.0.123/)
+## [server](http://192.168.0.123/)
 
 ## [Home](http://octoprint.org/)
 
@@ -22,9 +22,12 @@ and add [static ip](https://serverfault.com/questions/335994/creating-a-static-i
 
 ### [Octolapse (timelapse)](https://plugins.octoprint.org/plugins/octolapse/)
 
-### [Bed Vizualizer]()
+### [Bed Vizualizer](https://plugins.octoprint.org/plugins/bedlevelvisualizer/)
 
 Klipper g_code: BED_MESH_OUTPUT
+
+### [Exclude Region](https://discourse.octoprint.org/t/exclude-region-plugin-is-one-of-the-best-ever/2742)
+
 
 
 ## Webcam
