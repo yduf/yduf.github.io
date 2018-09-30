@@ -1,7 +1,7 @@
 ---
-title: Tu mourras moins bête
+title: Tu mourras moins bête (Marion Montaigne)
 published: true
 tags: blog fun
 excerpt_separator: ""
 ---
-## [Marion Montaigne](http://tumourrasmoinsbete.blogspot.com/)
+## [Home](http://tumourrasmoinsbete.blogspot.com/)

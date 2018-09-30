@@ -13,7 +13,22 @@ Getting that first layer right is an indicator of a lot things. Such as, a corre
 
 ### [First Layer Settings](https://3dprinterwiki.info/tips/first-layer-settings/)
 
-### [Build plate adhesionf](https://ultimaker.com/en/resources/257-build-plate-adhesion-how-to-get-your-print-to-stick-to-the-build-plate)
+You need the nozzle to be lower so the extruded plastic is compressed against the bed to increase the surface contact area.
+
+In Cura, the setting is on the “Advanced” tab, in the “Quality” section, and is called “Initial Layer Thickness”. It is set in an absolute value in milimeters so will have to be calculated relative to your layer height. Round to the nearest 0.01.
+
+For a 0.30mm layer height, use 0.27mm Initial Layer Thickness.
+For a 0.25mm layer height, use 0.23mm Initial Layer Thickness.
+For a 0.20mm layer height, use 0.18mm Initial Layer Thickness.
+For a 0.15mm layer height, use 0.14mm Initial Layer Thickness.
+for a 0.10mm layer height, use 0.09mm Initial Layer Thickness.
+For a 0.05mm layer height, use 0.05 (yes, this is possible on the Di3!)
+
+### [Slicer settings](https://reprap.org/wiki/Triffid_Hunter%27s_Calibration_Guide#Slicer_settings)
+
+You can use a lower layer height or larger extrusion width if you wish, it will work fine. The slicing software automatically calculates the appropriate volume to extrude based on the settings you choose.
+
+### [Build plate adhesion](https://ultimaker.com/en/resources/257-build-plate-adhesion-how-to-get-your-print-to-stick-to-the-build-plate)
 
 ### [success?](https://ultimaker.com/en/resources/21330-what-does-a-successful-first-layer-look-like)
 
