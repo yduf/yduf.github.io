@@ -1,6 +1,6 @@
 ---
 published: true
-title: Quaternions
+title: Quaternions (3Blue1Brown)
 tags: math
 excerpt_separator: ''
 ---

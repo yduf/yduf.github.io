@@ -6,6 +6,11 @@ tags: AI search montecarlo
 ## [Beginners guide](https://int8.io/monte-carlo-tree-search-beginners-guide/)
 Monte Carlo Tree Search was introduced by Rémi Coulom in 2006 as a building block of Crazy Stone – Go playing engine with an impressive performance.
 
+[python code](https://github.com/int8/monte-carlo-tree-search)
+
+code from Paper [A Survey of Monte Carlo Tree Search Methods](http://mcts.ai/pubs/mcts-survey-master.pdf).
+
+
 ## [Introduction to Monte Carlo Tree Search](https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/)
 
 see also [HN](https://news.ycombinator.com/item?id=10209677)
