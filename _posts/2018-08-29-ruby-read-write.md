@@ -22,3 +22,11 @@ IO.foreach("testfile") {|x| print "GOT ", x }
 {% highlight ruby %}
 File.foreach('testfile') {|x| print "GOT", x }
 {% endhighlight %}
+
+## Block API
+
+{% highlight ruby %}
+File::open('yozloy.txt','w') do |f|
+  f << 'Some contains'
+end
+{% endhighlight %}
