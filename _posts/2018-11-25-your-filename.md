@@ -28,3 +28,7 @@ register count;
     }
 }
 {% endhighlight %}
+
+maybe of interest:
+
+[A generic loop unroller based on template meta-programming](http://cpplove.blogspot.com/2012/07/a-generic-loop-unroller-based-on.html)
