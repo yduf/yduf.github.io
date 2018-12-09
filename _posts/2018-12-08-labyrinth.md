@@ -6,7 +6,6 @@ tags: maze algorithm online blog
 ## [Labyrinth Algorithms](http://bryukh.com/labyrinth-algorithms/) with code
 - [A* Search (Amit)](https://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html)
 	[C++](https://www.redblobgames.com/pathfinding/a-star/implementation.html#cpp-astar)
-    
 - Breadth First Search
 - Depth First Search
 
