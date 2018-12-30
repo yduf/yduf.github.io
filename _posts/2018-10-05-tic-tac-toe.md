@@ -1,8 +1,58 @@
 ---
 published: false
-title: Let's play tic-tac-toe
+title: "Let's play tic-tac-toe"
+published: true
 tags: article
 ---
-## A New Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+## Defining the game
+
+Let's assume we have a **Board** class which hold the state of current turn:
+- all X/o
+- player turn
+
+from a Board instance **b**, we can ask for the available move to current player by calling metho **generateMove**
+
+{% highlight cpp %}
+auto v =  b.generateMove([&]( auto& moves) { ... } )
+{% endhighlight %}
+
+**generateMove** take a lambda as an argument and return the value returned when calling that lambda. The lambda itself must accept an array of possible actions as an argument.
+
+We need an other method **play** that take a regular action and generate a new Board instance according to that move.
+
+And finally **game_over** method tells if we reach the end of the game.
+
+So in summary we have **Board** with the following interface:
+- **generateMove**
+- **play**
+- **game_over**
+
+## Random play
+
+Using this, we can implement self random play:
+
+{% highlight cpp %}
+auto b = Board();
+
+while( !b.game_over()) {
+    b = b.generateMove([&]( auto& moves) { 
+        return b.play( moves[ rand() % moves.size()]);
+        });	
+}
+{% endhighlight %}
+
+## MCTS algorithm 
+
+Now let's do the same with a [Montecarlo Tree Search]().
+
+We start with a first **Node** on a given **Board** instance (empty here),
+and consider all possible moves for this position.
+
+{% highlight cpp %}
+int N = 10'000;
+Board start;
+Node<Board> mct( start);
+auto best = mct.search([&]( int i) { return i < N; });
+{% endhighlight %}
+
