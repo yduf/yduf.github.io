@@ -9,6 +9,8 @@ tags: accessibility rsi
 
 [![caption](https://img.youtube.com/vi/8SkdfdXWYaI/0.jpg)](https://www.youtube.com/watch?v=8SkdfdXWYaI)
 
+## [Coding by Voice with Open Source Speech Recognition](http://elfery.net/files/hope-slides.pdf)
+
 ## [links](https://github.com/melling/ErgonomicNotes/blob/master/programming_by_voice.org)
 
 [\[HN\]](https://news.ycombinator.com/item?id=18793378)
