@@ -12,4 +12,3 @@ tags: accessibility rsi
 ## [links](https://github.com/melling/ErgonomicNotes/blob/master/programming_by_voice.org)
 
 [\[HN\]](https://news.ycombinator.com/item?id=18793378)
-
