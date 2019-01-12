@@ -19,3 +19,6 @@ good for extending to a more extensive ray tracer if you get excited and want to
 - [\[HN\]](https://news.ycombinator.com/item?id=18840859)
 
 <iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/lssBD7?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
+
+
+<iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/ltGBRm?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
