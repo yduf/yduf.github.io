@@ -3,7 +3,7 @@ published: true
 title: Ray Tracing in One Weekend
 tags: graphic
 ---
-> . I decided to adapt
+> I decided to adapt
 my course notes into a how-to, to get you to a cool program as quickly as possible. It will not be
 a full-featured ray tracer, but it does have the indirect lighting which has made ray tracing a
 staple in movies. Follow these steps, and the architecture of the ray tracer you produce will be
