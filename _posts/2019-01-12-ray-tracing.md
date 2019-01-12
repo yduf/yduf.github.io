@@ -17,3 +17,5 @@ good for extending to a more extensive ray tracer if you get excited and want to
 - [GPU RAy tracing](https://medium.com/@jcowles/gpu-ray-tracing-in-one-weekend-3e7d874b3b0f)
 
 - [\[HN\]](https://news.ycombinator.com/item?id=18840859)
+
+<iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/lssBD7?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
