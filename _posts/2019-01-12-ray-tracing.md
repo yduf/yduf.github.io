@@ -9,8 +9,9 @@ a full-featured ray tracer, but it does have the indirect lighting which has mad
 staple in movies. Follow these steps, and the architecture of the ray tracer you produce will be
 good for extending to a more extensive ray tracer if you get excited and want to pursue that. - [Peter Shirley](https://twitter.com/Peter_shirley)
 
-- [pdf](Ray Tracing in One Weekend)
-- [full pdf](https://drive.google.com/drive/folders/14yayBb9XiL16lmuhbYhhvea8mKUUK77W)
+
+- [Real-Time Rendering Resources](http://www.realtimerendering.com/#books-small-table)
+- [latest version (1.55) full pdf](https://drive.google.com/drive/folders/14yayBb9XiL16lmuhbYhhvea8mKUUK77W)
 
 
 - [Ray tracing with OpenGL Compute Shaders](https://github.com/LWJGL/lwjgl3-wiki/wiki/2.6.1.-Ray-tracing-with-OpenGL-Compute-Shaders-%28Part-I%29)
