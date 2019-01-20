@@ -1,7 +1,7 @@
 ---
 title: Monte-Carlo Tree Search (MCTS)
 published: true
-tags: AI search montecarlo
+tags: AI search montecarlo mcts
 ---
 ## [Beginners guide](https://int8.io/monte-carlo-tree-search-beginners-guide/)
 Monte Carlo Tree Search was introduced by Rémi Coulom in 2006 as a building block of Crazy Stone – Go playing engine with an impressive performance.
