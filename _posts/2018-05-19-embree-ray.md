@@ -1,7 +1,7 @@
 ---
 title: Embree Ray Tracing
 published: true
-tags: intel avx raytracer
+tags: intel avx raytracing
 ---
 ## [overview (Sigraph 2013)](https://embree.github.io/data/embree-siggraph-2013-final.pdf)
 Embree is an open source high fidelity visualization toolkit for application developers who 

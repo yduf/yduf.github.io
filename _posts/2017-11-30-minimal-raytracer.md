@@ -1,7 +1,7 @@
 ---
 title: A minimal raytracer
 published: true
-tags: raytracer
+tags: raytracing
 ---
 [make a business card sized raytracer](https://mzucker.github.io/2016/08/03/miniray.html)
 
