@@ -1,7 +1,7 @@
 ---
 published: true
 title: 'Let''s Make A Ray Marcher [SH17C]'
-tags: raytracer shader
+tags: raytracing shader
 ---
 ## [Tutorial 1](https://www.shadertoy.com/view/MdBfRK)
 
