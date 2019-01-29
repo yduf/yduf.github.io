@@ -18,3 +18,7 @@ tout en gardant le bouton appuyé pendant 5s (l'ecran affiche firmware).
 - attendre la fin de l'initialisation
 
 => tester le bonton marcher arret de la telecommande
+
+=> n'est pas suffisant: la box s'eteint mais ne redemarre pas.
+
+
