@@ -1,0 +1,8 @@
+---
+published: true
+title: Chafa
+tags: ascii video image term
+---
+## [Home](https://hpjansson.org/blag/2019/01/07/the-worst-ansi-renderer-except-for-all-the-others/) 
+
+![caption](https://hpjansson.org/chafa/img/example-3.gif)
