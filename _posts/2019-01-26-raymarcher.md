@@ -1,9 +1,9 @@
 ---
 published: true
 title: 'Let''s Make A Ray Marcher [SH17C]'
-tags: raytracing shader
+tags: raytracing shader demo
 ---
-> Raymarching of distance field proved super powerful for creating rich images with complex shapes procedurally and interesting efficient lighting effects in a minimal amount of code. Not only the actual content creation code modeling was small, but the actual renderer itself, the whole technical setup to sinthetize images was ridiculously compact comparing to a mesh based rasterizer or raytracer. So, the exercise became really fruitful and I produced 5 images in 2008 alone that I presented to the "4 kilobyte Procedural Image" category of different demo partys across Europe. - [](https://iquilezles.org/www/articles/raymarchingdf/raymarchingdf.htm)
+> Raymarching of distance field proved super powerful for creating rich images with complex shapes procedurally and interesting efficient lighting effects in a minimal amount of code. Not only the actual content creation code modeling was small, but the actual renderer itself, the whole technical setup to sinthetize images was ridiculously compact comparing to a mesh based rasterizer or raytracer. So, the exercise became really fruitful and I produced 5 images in 2008 alone that I presented to the "4 kilobyte Procedural Image" category of different demo partys across Europe. - [inigo quilez](https://iquilezles.org/www/articles/raymarchingdf/raymarchingdf.htm)
 
 [![caption](https://img.youtube.com/vi/XuSnLbB1j6E/0.jpg)](https://www.youtube.com/watch?v=XuSnLbB1j6E)
 
