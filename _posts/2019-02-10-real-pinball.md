@@ -1,7 +1,8 @@
 ---
 published: true
-title: DIT (real) pinball
+title: DIY (real) pinball
 tags: pincab blog
+excerpt_separator: ""
 ---
 ## [blog](http://pinballchameleon.blogspot.com/2012/12/the-modern-firepower-pinball-project_20.html)
 
