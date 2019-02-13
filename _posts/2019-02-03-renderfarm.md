@@ -2,6 +2,7 @@
 published: true
 title: Setting Up a Renderfarm (Blender)
 tags: blender cluster
+excerpt_separator: ""
 ---
 ## [tutorial](https://cgcookie.com/tutorial/setting-up-a-renderfarm/)
 
