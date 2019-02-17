@@ -2,6 +2,7 @@
 published: true
 title: (un)-force-inline helper
 tags: c++ perf
+excerpt_separator: ''
 ---
 ## [GCC](https://www.youtube.com/watch?v=Qq_WaiwzOtI)
 
