@@ -2,6 +2,7 @@
 published: true
 title: ruby strings litteral
 tags: ruby string
+excerpt_separator: ''
 ---
 ## [String literal without need to escape backslash](https://stackoverflow.com/questions/29124058/string-literal-without-need-to-escape-backslash/29124475#29124475)
 
