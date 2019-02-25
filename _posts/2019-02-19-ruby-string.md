@@ -43,7 +43,7 @@ data = JSON.parse(<<-DATA, symbolize_names: true)
 DATA
 {% endhighlight %}
 
-## [Alternate Syntax]N(https://www.thoughtco.com/string-literals-2908302)
+## [Alternate Syntax](https://www.thoughtco.com/string-literals-2908302)
 As with most other literals, Ruby provides an alternate syntax for string literals. If you're using a lot of quote characters inside your literals, for example, you may want to use this syntax. When you use this syntax is a matter of style, they're usually not needed for strings.
 
 Use the following sequence for single-quoted strings %q{ … }. Similarly, use the following syntax for double-quoted strings %Q{ … }. 
@@ -56,5 +56,3 @@ The alternate syntax also works as a multi-line string.
 {% highlight ruby %}
 %q{#{no expension} single'quote}
 {% endhighlight %}
-
-
