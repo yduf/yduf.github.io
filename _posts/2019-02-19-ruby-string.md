@@ -2,7 +2,6 @@
 published: true
 title: ruby strings litteral
 tags: ruby string
-excerpt_separator: ''
 ---
 ## [String literal without need to escape backslash](https://stackoverflow.com/questions/29124058/string-literal-without-need-to-escape-backslash/29124475#29124475)
 
@@ -29,7 +28,7 @@ class Subscription
 end
 {% endhighlight %}
 
-## [heredoc on next line](https://github.com/yuki24/object_mapper)
+## [Heredoc on next line](https://github.com/yuki24/object_mapper)
 {% highlight ruby %}
 data = JSON.parse(<<-DATA, symbolize_names: true)
 [
@@ -43,4 +42,19 @@ data = JSON.parse(<<-DATA, symbolize_names: true)
 ]
 DATA
 {% endhighlight %}
+
+## [Alternate Syntax]N(https://www.thoughtco.com/string-literals-2908302)
+As with most other literals, Ruby provides an alternate syntax for string literals. If you're using a lot of quote characters inside your literals, for example, you may want to use this syntax. When you use this syntax is a matter of style, they're usually not needed for strings.
+
+Use the following sequence for single-quoted strings %q{ … }. Similarly, use the following syntax for double-quoted strings %Q{ … }. 
+
+You can use any characters you with instead of braces. If you use a brace, square bracket, angle bracket or parenthesis, then the matching character will end the literal. If you don't want to use matching characters, you can use any other symbol (anything not a letter or number). The literal will be closed with another of the same symbol.
+
+The alternate syntax also works as a multi-line string.
+
+- No variable expension, no need to escape single quote
+{% highlight ruby %}
+%q{#{no expension} single'quote}
+{% endhighlight %}
+
 
