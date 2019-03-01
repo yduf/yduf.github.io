@@ -1,7 +1,7 @@
 ---
 title: Retronator Magazine
 published: true
-tags: pixelart blog 8bit
+tags: pixelart blog 8bit twitter
 ---
 ## [Pixel Art, Gaming & Saturated Colors](https://medium.com/retronator-magazine)
 
