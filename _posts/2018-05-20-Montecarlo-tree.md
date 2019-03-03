@@ -20,7 +20,7 @@ code from Paper [A Survey of Monte Carlo Tree Search Methods](http://mcts.ai/pub
 functionUCTSEARCH(s0)
     create root node v0 with state s0
     while within computation budget dovl
-    vl ←TREEPOLICY(v0)
+        vl ←TREEPOLICY(v0)
         ∆←DEFAULTPOLICY(s(vl))
         BACKUP(vl,∆)
   	return a(BESTCHILD(v0,0))
