@@ -55,4 +55,6 @@ timidity -iA -B2,8 -Os -EFreverb=0&
 ## voices ?
 
 ## Ref
-- [old-game.com](https://www.old-games.com/download/1446/maniac-mansion-deluxe)
+- [(old-game.com)](https://www.old-games.com/download/1446/maniac-mansion-deluxe)
+- [Maniac Mansion (1988)](https://www.old-games.com/download/7947/maniac-mansion)
+- [Maniac Mansion Enhanced](https://www.old-games.com/download/7892/maniac-mansion-enhanced)
