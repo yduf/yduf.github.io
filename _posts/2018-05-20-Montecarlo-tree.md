@@ -17,15 +17,15 @@ A **game tree** is a tree in which every node represents certain **state** of th
 code from Paper [A Survey of Monte Carlo Tree Search Methods](http://mcts.ai/pubs/mcts-survey-master.pdf).
 
 {% highlight cpp %}
-functionUCTSEARCH(s0)
+function UCTSEARCH(s0)
     create root node v0 with state s0
     while within computation budget dovl
-        vl ←TREEPOLICY(v0)
-        ∆←DEFAULTPOLICY(s(vl))
+        vl ← TREEPOLICY(v0)
+        ∆  ← DEFAULTPOLICY(s(vl))
         BACKUP(vl,∆)
   	return a(BESTCHILD(v0,0))
 
-functionTREEPOLICY(v)
+function TREEPOLICY(v)
     while v is nonterminal do
         if v not fully expanded then
            return EXPAND(v)
