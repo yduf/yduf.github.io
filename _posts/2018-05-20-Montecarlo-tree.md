@@ -4,7 +4,13 @@ published: true
 tags: AI MCTS search montecarlo
 ---
 ## [Beginners guide](https://int8.io/monte-carlo-tree-search-beginners-guide/)
+
 Monte Carlo Tree Search was introduced by Rémi Coulom in 2006 as a building block of Crazy Stone – Go playing engine with an impressive performance.
+
+Monte Carlo Tree Search has one main purpose: given a game state to choose the most promising next move. 
+
+A **game tree** is a tree in which every node represents certain **state** of the game. Transition from a **node** to one of its **children** (if they exist) is a move. The number of node’s children is called **a branching factor**. Root node of the tree represents the **initial state** of the game. We also distinguish **terminal nodes** of the game tree – nodes with no children, from where game cannot be continued anymore. The terminal node’s states can be evaluated – this is where game result is concluded.
+
 
 [python code](https://github.com/int8/monte-carlo-tree-search)
 
