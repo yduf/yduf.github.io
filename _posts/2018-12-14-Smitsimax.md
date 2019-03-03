@@ -1,7 +1,7 @@
 ---
 published: true
 title: Smitsimax (MCTS++)
-tags: mcts codingame
+tags: codingame MCTS
 ---
 ## [article](https://www.codingame.com/playgrounds/36476/smitsimax)
 
@@ -16,5 +16,3 @@ Smitsimax shares some features with MCTS. One of them is the use of statistics t
 - MCTS expands one node on every iteration of the search. Smitsimax expands all the way to the maximum depth on every iteration. This is necessary because there is no random rollout apart from the first few times a node is visited.*
 
 *NOTE: I have since changed to a more MCTS like implementation after a suggestion by RoboStac. He tried to replace my full rollout with a random rollout and it worked a bit better. I think it did for me as well, though it is not a big change. There is still a large difference with MCTS because you use a separate tree for every agent and the nodes in the tree do not have a single corresponding gamestate.
-
-
