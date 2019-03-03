@@ -1,7 +1,7 @@
 ---
 title: Tic-Tac-Toe (Codingame)
 published: true
-tags: codingame MTCS
+tags: codingame MCTS
 ---
 ## [Puzzle](https://www.codingame.com/multiplayer/bot-programming/tic-tac-toe)
 
