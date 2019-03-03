@@ -23,7 +23,7 @@ function UCTSEARCH(s0)
         vl ← TREEPOLICY(v0)
         ∆  ← DEFAULTPOLICY(s(vl))
         BACKUP(vl,∆)
-  	return a(BESTCHILD(v0,0))
+    return a(BESTCHILD(v0,0))
 
 function TREEPOLICY(v)
     while v is nonterminal do
