@@ -18,19 +18,19 @@ code from Paper [A Survey of Monte Carlo Tree Search Methods](http://mcts.ai/pub
 
 {% highlight cpp %}
 functionUCTSEARCH(s0)
-	create root node v0 with state s0
+    create root node v0 with state s0
     while within computation budget dovl
-    	vl ←TREEPOLICY(v0)
+    vl ←TREEPOLICY(v0)
         ∆←DEFAULTPOLICY(s(vl))
         BACKUP(vl,∆)
   	return a(BESTCHILD(v0,0))
 
 functionTREEPOLICY(v)
-	while v is nonterminal do
-    	if v not fully expanded then
-        	return EXPAND(v)
+    while v is nonterminal do
+        if v not fully expanded then
+           return EXPAND(v)
         else 
-        	v ← BESTCHILD(v,Cp)
+           v ← BESTCHILD(v,Cp)
     return v
 {% endhighlight %}
 
