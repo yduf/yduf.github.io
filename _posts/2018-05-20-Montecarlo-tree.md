@@ -32,6 +32,12 @@ function TREEPOLICY(v)
         else 
            v ← BESTCHILD(v,Cp)
     return v
+    
+function BACKUP(v,∆)
+    while v is not null do
+        N(v) ← N(v) + 1
+        Q(v) ← Q(v) + ∆(v,p)
+        v ← parent of v
 {% endhighlight %}
 
 ## [Introduction to Monte Carlo Tree Search](https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/)
