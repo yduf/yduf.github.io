@@ -13,3 +13,10 @@ tags: adventure 8bit games
 ![caption](https://cdn-images-1.medium.com/max/2600/1*GDY1US-KFWwyyJp8H3O8BA.gif)
 
 [![caption](https://img.youtube.com/vi/lbwwSSh_iDI/0.jpg)](https://www.youtube.com/watch?v=lbwwSSh_iDI)
+
+## Spoiler
+
+- [How to use the arcade (Hard Mode)](https://www.youtube.com/watch?v=lT_hmKDi6wI)
+	- [Arcade Tokens](https://steamcommunity.com/app/569860/discussions/0/1471969431589040180/)
+- [Betamax Tape](https://steamcommunity.com/app/569860/discussions/0/133262487497575666/)
+- [and other Unused items/loose threads post Ending](https://www.reddit.com/r/thimbleweedpark/comments/673yqh/unused_itemsloose_threads_post_ending_spoilers/)
