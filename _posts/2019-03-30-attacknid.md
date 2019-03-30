@@ -17,3 +17,8 @@ the other 2 will go to the +3v / gnd supply lines in the battery compartment.
 The controller has something that resembles a NRF24L01 RF transceiver in it.
 
 - [makezine](https://makezine.com/2015/05/08/hack-cool-off-shelf-toys-robots/)
+
+- [webarchive/apcmag](https://web.archive.org/web/20140319044803/http://apcmag.com:80/arduino-project-hacking-attacknid.htm#null)
+
+- [Ez Robot Attacknid](https://synthiam.com/Robot/Ez-Robot-Attacknid-6lr-137)
+
