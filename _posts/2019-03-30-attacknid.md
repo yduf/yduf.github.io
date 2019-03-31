@@ -3,7 +3,13 @@ published: true
 title: Hacking the Attacknid
 tags: robot
 ---
-## Projet : Hack the attacknid
+> The hexapod is the clever design work of Jaimie Mantzel, a somewhat eccentric Canadian inventor. In fact, the Attacknid is really a miniature version of the Giant Robot Mantzel recently finished building. What makes Mantzel’s design impressive is that despite its six legs, only two DC motors control its movement ­— compare that with the 12 servo motors minimum you’d find in any other six-legged walker. - [Arduino project: Hacking the Attacknid](https://web.archive.org/web/20140319044803/http://apcmag.com:80/arduino-project-hacking-attacknid.htm#null)
+
+![caption](https://web.archive.org/web/20140320075928im_/http://media.apcmag.com/wp-content/uploads/sites/20/2014/03/attacknid.jpg)
+
+## Arduino project: Hacking the Attacknid
+
+- [webarchive/apcmag](https://web.archive.org/web/20140319044803/http://apcmag.com:80/arduino-project-hacking-attacknid.htm#null)
 
 - [raspberrypi](https://www.raspberrypi.org/forums/viewtopic.php?t=23695)
 The PCB actually has 10x empty spots next to the switch contacts that seem to have been purposely included for this very purpose/testing/development.
@@ -21,4 +27,3 @@ The controller has something that resembles a NRF24L01 RF transceiver in it.
 - [webarchive/apcmag](https://web.archive.org/web/20140319044803/http://apcmag.com:80/arduino-project-hacking-attacknid.htm#null)
 
 - [Ez Robot Attacknid](https://synthiam.com/Robot/Ez-Robot-Attacknid-6lr-137)
-
