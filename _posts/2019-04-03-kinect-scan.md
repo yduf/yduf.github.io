@@ -6,5 +6,6 @@ tags: kinect 3dscan
  ## [Hackaday](https://hackaday.com/2015/12/10/3d-scanning-entire-rooms-with-a-kinect/#more-181067)
  - [Kintinuous](https://github.com/mp3guy/Kintinuous)
  - [ElasticFusion](https://github.com/mp3guy/ElasticFusion)
+ - [KinFu](http://codewelt.com/kinect3dscan)
 
 [![caption](https://img.youtube.com/vi/XySrhZpODYs/0.jpg)](https://www.youtube.com/watch?v=XySrhZpODYs)
