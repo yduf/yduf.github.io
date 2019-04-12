@@ -1,6 +1,6 @@
 ---
 published: true
-title: Convolutional Neural Network Lecture (Standford)
+title: Convolutional Neural Networks for Visual Recognition
 tags: computer-vision CNN NN AI
 excerpt_separator: ''
 ---
