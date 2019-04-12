@@ -4,6 +4,12 @@ title: Convolutional Neural Network Lecture (Standford)
 tags: computer-vision CNN NN AI
 excerpt_separator: ''
 ---
+## [cs231n.stanford.edu](http://cs231n.stanford.edu/)
+
+- [2017 Video](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+
+# Youtube link
+
 ## [Lecture 1 | Introduction to Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4)
 
 Lecture 1 gives an introduction to the field of computer vision, discussing its history and key challenges. We emphasize that computer vision encompasses a wide variety of different tasks, and that despite the recent successes of deep learning we are still a long way from realizing the goal of human-level visual intelligence.
