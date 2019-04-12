@@ -6,6 +6,8 @@ excerpt_separator: ''
 ---
 ## [cs231n.stanford.edu](http://cs231n.stanford.edu/)
 
+During the 10-week course, students will learn to implement, train and debug their own neural networks and gain a detailed understanding of cutting-edge research in computer vision. 
+
 - [2017 Video](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
 # Youtube link
