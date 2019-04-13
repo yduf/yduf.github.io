@@ -22,3 +22,7 @@ Lecture 2 formalizes the problem of image classification. We discuss the inheren
 ## [Lecture 3 | Loss Functions and Optimization](https://www.youtube.com/watch?v=h7iBpEHGVNc)
 
 Lecture 3 continues our discussion of linear classifiers. We introduce the idea of a loss function to quantify our unhappiness with a model’s predictions, and discuss two commonly used loss functions for image classification: the multiclass SVM loss and the multinomial logistic regression loss. We introduce the idea of regularization as a mechanism to fight overfitting, with weight decay as a concrete example. We introduce the idea of optimization and the stochastic gradient descent algorithm. We also briefly discuss the use of feature representations in computer vision.
+
+## [Lecture 4 | Introduction to Neural Networks](https://www.youtube.com/watch?v=d14TUNcbn1k&lis)
+
+In Lecture 4 we progress from linear classifiers to fully-connected neural networks. We introduce the backpropagation algorithm for computing gradients and briefly discuss connections between artificial neural networks and biological neural networks.
