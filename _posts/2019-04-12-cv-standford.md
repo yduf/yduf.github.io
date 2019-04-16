@@ -31,5 +31,6 @@ In Lecture 4 we progress from linear classifiers to fully-connected neural netwo
 
 In Lecture 5 we move from fully-connected neural networks to convolutional neural networks. We discuss some of the key historical milestones in the development of convolutional networks, including the perceptron, the neocognitron, LeNet, and AlexNet. We introduce convolution, pooling, and fully-connected layers which form the basis for modern convolutional networks.
 
+## [Lecture 6 | Training Neural Networks I](https://www.youtube.com/watch?v=wEoyxE0GP2M)
 
-
+Lecture 7 continues our discussion of practical issues for training neural networks. We discuss different update rules commonly used to optimize neural networks during training, as well as different strategies for regularizing large neural networks including dropout. We also discuss transfer learning and finetuning.
