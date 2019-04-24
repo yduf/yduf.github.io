@@ -5,4 +5,6 @@ tags: cad
 ---
 ImplicitCAD: Powerful, Open-Source, Programmatic CAD - [\[HN\]](https://news.ycombinator.com/item?id=9248174)
 
-## [ImplicitCAD FAQ](http://www.implicitcad.org/docs/faq)
+## [ImplicitCAD FAQ](http://www.implicitcad.org/docs/faq
+
+see also [Antimony][https://www.mattkeeter.com/projects/antimony/3/)
