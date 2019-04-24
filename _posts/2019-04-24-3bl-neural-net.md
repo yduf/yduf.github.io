@@ -1,0 +1,16 @@
+---
+published: true
+title: What *is* a Neural Network? (3blue1brown)
+tags: NN computer-vision 3blue1brown
+---
+For those who want to learn more, I highly recommend the book by Michael Nielsen introducing neural networks and deep learning: [https://goo.gl/Zmczdy](https://goo.gl/Zmczdy).
+
+I also highly recommend Chris Olah's blog: [3](http://colah.github.io/)
+
+For more videos, Welch Labs also has some great series on machine learning: [1](https://youtu.be/i8D90DkCLhI https://youtu.be/bxe2T-V8XRs) For those of you looking to go *even* deeper, check out the text "Deep Learning" by Goodfellow, Bengio, and Courville. Also, the publication Distill is just utterly beautiful: [2](https://distill.pub/)
+
+## Deep learning
+- [But what *is* a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [Gradient descent, how neural networks learn](https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=2)
+- [What is backpropagation really doing?](https://www.youtube.com/watch?v=Ilg3gGewQ5U&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=3)
+- [Backpropagation calculus](https://www.youtube.com/watch?v=tIeHLnjs5U8&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=4)
