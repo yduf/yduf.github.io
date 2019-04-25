@@ -19,4 +19,4 @@ tags: AI NN
 - [Let's Get Greedy](https://www.youtube.com/watch?v=Kg8W_q8pHik)
 - [Heuristics](https://www.youtube.com/watch?v=g_sA8hYU3b8)
 - [Better Heuristics](https://www.youtube.com/watch?v=tPHImr2sFBM)
-
+- [Information](https://www.youtube.com/watch?v=FMCY3SXTELE)
