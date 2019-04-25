@@ -3,7 +3,7 @@ published: true
 title: Learning to see (Welch Labs)
 tags: AI NN
 ---
-> In this series, we'll explore the complex landscape of machine learning and artificial intelligence through one example from the field of computer vision: using a decision tree to count the number of fingers in an image. It's gonna be crazy. 
+> In this series, we'll explore the complex landscape of machine learning and artificial intelligence through one example from the field of computer vision: using a decision tree to count the number of fingers in an image. It's gonna be crazy. [Welch Labs](https://www.youtube.com/user/Taylorns34/featured)
 
 - [Introduction](https://www.youtube.com/watch?v=i8D90DkCLhI)
 - [Rules on Rules on Rules](https://www.youtube.com/watch?v=2ZhQkD1QKFw)
