@@ -8,7 +8,7 @@ For those who want to learn more, I highly recommend the book by Michael Nielsen
 I also highly recommend [Chris Olah's blog](http://colah.github.io/)
 
 For more videos, Welch Labs also has some great series on machine learning: (
-- https://youtu.be/i8D90DkCLhI 
+- [Learning to see]({% post_url 2019-04-25-learning-to-see %})
 - https://youtu.be/bxe2T-V8XRs
 
 For those of you looking to go *even* deeper, check out the text "Deep Learning" by Goodfellow, Bengio, and Courville. Also, the publication [Distill](https://distill.pub/) is just utterly beautiful.
