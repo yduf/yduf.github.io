@@ -16,3 +16,7 @@ tags: AI NN
 - [Bias Variance Throwdown](https://www.youtube.com/watch?v=yLwZEuybaqE)
 - [World Domination](https://www.youtube.com/watch?v=6cvPj9dmYTo)
 - [Haystacks on Haystacks](https://www.youtube.com/watch?v=biy2yU3Auc4)
+- [Let's Get Greedy](https://www.youtube.com/watch?v=Kg8W_q8pHik)
+- [Heuristics](https://www.youtube.com/watch?v=g_sA8hYU3b8)
+- [Better Heuristics](https://www.youtube.com/watch?v=tPHImr2sFBM)
+
