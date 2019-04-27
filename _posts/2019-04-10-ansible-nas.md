@@ -6,6 +6,7 @@ tags: nas zfs
 ## _TODO_
 - [auto shutdown]({% post_url 2019-04-27-wake-up %})
 - nfs
+- samba
 - [smart](https://help.ubuntu.com/community/Smartmontools)
 
 ### ssh
@@ -17,7 +18,7 @@ http://linuxpitstop.com/ssh-vs-mosh/
 
 https://eternalterminal.dev/
  
-## Setup
+## [Setup](https://github.com/davestephens/ansible-nas)
 
 ### System
 - [Ubuntu Server 18.04.2 LTS](https://www.ubuntu.com/download/server)
