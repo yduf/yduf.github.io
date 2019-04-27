@@ -8,13 +8,14 @@ tags: nas zfs
 - nfs
 - samba
 - docker / zfs container volume
-- [smart](https://help.ubuntu.com/community/Smartmontools)
-	- [request](https://github.com/davestephens/ansible-nas/issues/2)
 - rsync
+- ssh key
 - nextcloud ?
 - gitea ?
 - guacamole ?
 - airsonic ?
+- [smart](https://help.ubuntu.com/community/Smartmontools)
+	- [request](https://github.com/davestephens/ansible-nas/issues/2)
 
 ### ssh
 https://medium.com/@grassfedcode/what-could-be-better-than-ssh-e69561ec1b83
