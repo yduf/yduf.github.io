@@ -7,6 +7,7 @@ tags: nas zfs
 - [auto shutdown]({% post_url 2019-04-27-wake-up %})
 - nfs
 - samba
+- docker / zfs container volume
 - [smart](https://help.ubuntu.com/community/Smartmontools)
 	- [request](https://github.com/davestephens/ansible-nas/issues/2)
 - rsync
@@ -14,7 +15,6 @@ tags: nas zfs
 - gitea ?
 - guacamole ?
 - airsonic ?
-
 
 ### ssh
 https://medium.com/@grassfedcode/what-could-be-better-than-ssh-e69561ec1b83
