@@ -6,7 +6,7 @@ tags: nas zfs
 ## _TODO_
 - [auto shutdown]({% post_url 2019-04-27-wake-up %})
 - nfs
-- [smart](https://www.howtoforge.com/tutorial/monitor-harddisk-with-smartmon-on-ubuntu/)
+- [smart](https://help.ubuntu.com/community/Smartmontools)
 
 ### ssh
 https://medium.com/@grassfedcode/what-could-be-better-than-ssh-e69561ec1b83
