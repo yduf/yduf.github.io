@@ -10,6 +10,12 @@ tags: nas zfs
 - [smart](https://help.ubuntu.com/community/Smartmontools)
 	- [request](https://github.com/davestephens/ansible-nas/issues/2)
 - rsync
+- nextcloud ?
+- gitea ?
+- guacamole ?
+- airsonic ?
+- graphana ?
+
 
 ### ssh
 https://medium.com/@grassfedcode/what-could-be-better-than-ssh-e69561ec1b83
