@@ -40,6 +40,13 @@ https://eternalterminal.dev/
 - [wake on lan]({% post_url 2019-04-27-wake-up %})
 - [zfs]({% post_url 2019-03-31-zfs-ubuntu %})
 
+- Docker management
+	- [portainer.io](https://www.portainer.io/installation/)
+
+- Monitoring
+	- [netdata instead of Grafana](https://github.com/davestephens/ansible-nas/issues/8) see [netdata/netdata](https://github.com/netdata/netdata)
+
+
 - [docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04)
 {% highlight bash %}
 sudo systemctl status docker
@@ -48,7 +55,6 @@ sudo systemctl status
 {% endhighlight %}
 
 ### Docker Images
-- [portainer.io](https://www.portainer.io/installation/)
 - [glances](https://github.com/nicolargo/glances)
 
 ## Hardware
