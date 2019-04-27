@@ -42,20 +42,16 @@ https://eternalterminal.dev/
 
 - Docker management
 	- [portainer.io](https://www.portainer.io/installation/)
-
-- Monitoring
-	- [netdata instead of Grafana](https://github.com/davestephens/ansible-nas/issues/8) see [netdata/netdata](https://github.com/netdata/netdata)
-
-
-- [docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04)
+	- [docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04)
 {% highlight bash %}
 sudo systemctl status docker
 sudo usermod -aG docker ${USER}
 sudo systemctl status
 {% endhighlight %}
 
-### Docker Images
-- [glances](https://github.com/nicolargo/glances)
+- Monitoring
+	- [netdata instead of Grafana](https://github.com/davestephens/ansible-nas/issues/8) see [netdata/netdata](https://github.com/netdata/netdata)
+
 
 ## Hardware
 
