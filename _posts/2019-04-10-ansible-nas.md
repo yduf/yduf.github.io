@@ -6,7 +6,7 @@ excerpt_separator: ''
 ---
 ## _TODO_
 - [auto shutdown]({% post_url 2019-04-27-wake-up %})
-- [nfs]()
+- nfs
 
 ### ssh
 https://medium.com/@grassfedcode/what-could-be-better-than-ssh-e69561ec1b83
