@@ -25,7 +25,7 @@ df -h .
 
 > At this point, we now have a zpool spanning three disks. One of these is used for parity, giving us the chance to recover in the event of a single disk failure. The next step is to make the volume usable and add features such as compression, encryption or de-duplication.
 
-Multiple [Filesystem](https://wiki.ubuntu.com/Kernel/Reference/ZFS) can be created on a single pool, the storage of the zpool with be available to any dataset as it requires it.
+Multiple [Dataset](https://www.unixarena.com/2013/07/zfs-datasets-administration-and.html/) can be created on a single pool, the storage of the zpool with be available to any dataset as it requires it.
 
 {% highlight bash %}
 zfs create -o mountpoint=[MOUNT POINT] [ZPOOL NAME]/[DATASET NAME]
