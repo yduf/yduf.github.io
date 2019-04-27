@@ -14,7 +14,6 @@ tags: nas zfs
 - gitea ?
 - guacamole ?
 - airsonic ?
-- graphana ?
 
 
 ### ssh
@@ -34,13 +33,17 @@ https://eternalterminal.dev/
 - Install the dependent roles: ansible-galaxy install -r requirements.yml (you might need sudo to install Ansible roles)
 - Run the playbook - something like ansible-playbook -i inventory nas.yml -b -K should do you nicely.
 
-### System
+### System Setup
 - [Ubuntu Server 18.04.2 LTS](https://www.ubuntu.com/download/server)
 - [static ip]({% post_url 2017-07-16-network %})
 - [wake on lan]({% post_url 2019-04-27-wake-up %})
 - [zfs]({% post_url 2019-03-31-zfs-ubuntu %})
 
-- Docker management
+### Monitoring
+- System
+	- [netdata instead of Grafana](https://github.com/davestephens/ansible-nas/issues/8) see [netdata/netdata](https://github.com/netdata/netdata)
+    
+- Docker
 	- [portainer.io](https://www.portainer.io/installation/)
 	- [docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04)
 {% highlight bash %}
@@ -48,10 +51,6 @@ sudo systemctl status docker
 sudo usermod -aG docker ${USER}
 sudo systemctl status
 {% endhighlight %}
-
-- Monitoring
-	- [netdata instead of Grafana](https://github.com/davestephens/ansible-nas/issues/8) see [netdata/netdata](https://github.com/netdata/netdata)
-
 
 ## Hardware
 
