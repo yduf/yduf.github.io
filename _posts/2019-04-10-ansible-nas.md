@@ -15,7 +15,7 @@ excerpt_separator: ''
 - [wake on lan]({% post_url 2019-04-27-wake-up %})
 
 ### [zfs](https://www.maketecheasier.com/use-zfs-filesystem-ubuntu-linux/) - [ref](https://wiki.ubuntu.com/Kernel/Reference/ZFS) [\[1\]](https://www.jamescoyle.net/how-to/478-create-a-zfs-volume-on-ubuntu)
-	- RAID5 / Z1
+- RAID5 / Z1
     
 {% highlight bash %}
 sudo zpool create storage_pool raidz1 /dev/sda /dev/sdb /dev/sdc
