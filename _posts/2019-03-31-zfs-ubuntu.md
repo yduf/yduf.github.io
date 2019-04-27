@@ -9,9 +9,10 @@ tags: zfs linux ubuntu
     - You'll see the module loaded automatically if you use it.
     - The user space zfsutils-linux package will be included in Ubuntu Main, with security updates provided by Canonical.
     
+## [ref](https://wiki.ubuntu.com/Kernel/Reference/ZFS) 
+
 # Configuration
-## Pool - RAID5 / Z1
-[zfs](https://www.maketecheasier.com/use-zfs-filesystem-ubuntu-linux/) - [ref](https://wiki.ubuntu.com/Kernel/Reference/ZFS) 
+## [Pool - RAID5 / Z1](https://www.maketecheasier.com/use-zfs-filesystem-ubuntu-linux/)
     
 {% highlight bash %}
 sudo zpool create storage_pool raidz1 /dev/sda /dev/sdb /dev/sdc
@@ -20,17 +21,15 @@ cd /storage_pool
 df -h .
 {% endhighlight %}
 
-## [Create ZFS dataset](https://www.jamescoyle.net/how-to/478-create-a-zfs-volume-on-ubuntu)
+## [Create ZFS dataset/Filesystem](https://www.jamescoyle.net/how-to/478-create-a-zfs-volume-on-ubuntu)
 
 > At this point, we now have a zpool spanning three disks. One of these is used for parity, giving us the chance to recover in the event of a single disk failure. The next step is to make the volume usable and add features such as compression, encryption or de-duplication.
 
-Multiple datasets or mount points can be created on a single volume, the storage of the zpool with be available to any dataset as it requires it.
+Multiple [Filesystem](https://wiki.ubuntu.com/Kernel/Reference/ZFS) can be created on a single pool, the storage of the zpool with be available to any dataset as it requires it.
 
 {% highlight bash %}
 zfs create -o mountpoint=[MOUNT POINT] [ZPOOL NAME]/[DATASET NAME]
 
 zfs create -o mountpoint=/mnt/binaries storage_pool/binaries
 zfs list   # Test the datasets have been created with
-
-
 {% endhighlight %}
