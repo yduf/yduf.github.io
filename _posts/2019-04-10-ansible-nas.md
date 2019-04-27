@@ -20,7 +20,7 @@ https://eternalterminal.dev/
  
 ## [Setup](https://github.com/davestephens/ansible-nas)
 
-### Ansible
+### [Ansible](https://yduf.github.io/ansible/)
 - group_vars/all.yml and follow the instructions there for configuring your Ansible NAS.
 - Copy inventory.dist to inventory and update it.
 - Install the dependent roles: ansible-galaxy install -r requirements.yml (you might need sudo to install Ansible roles)
