@@ -8,6 +8,7 @@ tags: nas zfs
 - nfs
 - samba
 - docker / zfs container volume
+- guacamole
 - rsync
 - ssh key
 - nextcloud ?
