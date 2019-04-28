@@ -9,7 +9,7 @@ tags: nas zfs
 - samba
 - docker / zfs container volume
 - guacamole
-- rsync
+- [rsync]({% post_url 2019-04-28-rsync %})
 - ssh key
 - nextcloud ?
 - gitea ?
