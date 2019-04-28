@@ -32,7 +32,8 @@ https://eternalterminal.dev/
 - group_vars/all.yml and follow the instructions there for configuring your Ansible NAS.
 - Copy inventory.dist to inventory and update it.
 - Install the dependent roles: ansible-galaxy install -r requirements.yml (you might need sudo to install Ansible roles)
-- Run the playbook - something like ansible-playbook -i inventory nas.yml -b -K should do you nicely.
+- Run the playbook - something like 
+	- env ANSIBLE_NOCOWS=1 ansible-playbook -i inventory nas.yml -b -K should do you nicely.
 
 ### System Setup
 - [Ubuntu Server 18.04.2 LTS](https://www.ubuntu.com/download/server)
