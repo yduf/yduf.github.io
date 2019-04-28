@@ -53,7 +53,7 @@ sudo systemctl status
 {% endhighlight %}
 
 ### Remote Access
-- [Guacamole][https://guacamole.apache.org/doc/gug/guacamole-architecture.html)
+- [Guacamole][https://guacamole.apache.org/doc/gug/users-guide.html)
 	- [docker](https://guacamole.apache.org/doc/gug/guacamole-docker.html)
 
 ## Hardware
