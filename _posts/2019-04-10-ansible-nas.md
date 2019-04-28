@@ -12,7 +12,6 @@ tags: nas zfs
 - ssh key
 - nextcloud ?
 - gitea ?
-- guacamole ?
 - airsonic ?
 - [smart](https://help.ubuntu.com/community/Smartmontools)
 	- [request](https://github.com/davestephens/ansible-nas/issues/2)
@@ -53,9 +52,17 @@ sudo usermod -aG docker ${USER}
 sudo systemctl status
 {% endhighlight %}
 
+### Remote Access
+- [Guacamole][https://guacamole.apache.org/doc/gug/guacamole-architecture.html)
+	- [docker](https://guacamole.apache.org/doc/gug/guacamole-docker.html)
+
 ## Hardware
 
 - [In Win IW-MS04](https://proclockers.com/reviews/computer-cases/in-win-iw-ms04-mini-server-case-review?nopaging=1)
 	- fan was quite noisy, changed to [noctua NF-P12 redux-900](https://www.amazon.fr/gp/product/B07C5KZX85/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1) wich was much quiter.
     
 - [ASRock J3455-ITX](https://www.ldlc.com/fiche/PB00217669.html) - Quad-Core Intel Celeron J3455 - Goldmont (2016) [> Nehalem (2008)](https://en.wikipedia.org/wiki/List_of_Intel_CPU_microarchitectures)
+
+
+## Forum Discussion
+- [Gitter](https://gitter.im/Ansible-NAS/Chat)
