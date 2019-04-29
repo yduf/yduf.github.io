@@ -2,6 +2,7 @@
 published: true
 title: ZFS (Ubuntu)
 tags: zfs linux ubuntu
+excerpt_separator: ''
 ---
 ## [ZFS -- baked directly into Ubuntu -- supported by Canonical.](http://blog.dustinkirkland.com/2016/02/zfs-is-fs-for-containers-in-ubuntu-1604.html)
 - What does "support" mean?
