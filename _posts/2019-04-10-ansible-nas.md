@@ -2,6 +2,7 @@
 published: true
 title: Ansible-NAS
 tags: nas zfs
+excerpt_separator: ''
 ---
 ## _TODO_
 - [auto shutdown]({% post_url 2019-04-27-wake-up %})
