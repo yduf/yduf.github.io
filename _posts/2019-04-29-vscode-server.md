@@ -5,6 +5,8 @@ tags: vscode remote
 ---
 [cdr/code-server](https://github.com/cdr/code-server) -  is VS Code running on a remote server, accessible through the browser.
 
+If you have Chrome installed, it opens the browser in app mode. That means there's no keybind conflicts, address bar, or indication that you're coding within a browser. It feels just like native VS Code.
+
 ## [Run over ssh](https://github.com/cdr/sshcode)
 
 By default, sshcode will rsync your local VS Code settings and extensions to the remote server every time you connect.
