@@ -1,7 +1,7 @@
 ---
 published: true
 title: VSCode Server
-tags: vscode remote linux editor
+tags: vscode remote linux editor ssh
 ---
 [cdr/code-server](https://github.com/cdr/code-server) -  is VS Code running on a remote server, accessible through the browser.
 
