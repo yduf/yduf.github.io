@@ -2,7 +2,6 @@
 published: true
 title: Ansible-NAS
 tags: nas zfs
-excerpt_separator: ''
 ---
 ## _TODO_
 - [auto shutdown]({% post_url 2019-04-27-wake-up %})
@@ -11,7 +10,6 @@ excerpt_separator: ''
 - docker / zfs container volume
 - guacamole
 - [rsync]({% post_url 2019-04-28-rsync %})
-- ssh key
 - nextcloud ?
 - gitea ?
 - airsonic ?
@@ -19,13 +17,7 @@ excerpt_separator: ''
 	- [request](https://github.com/davestephens/ansible-nas/issues/2)
 
 ### ssh
-https://medium.com/@grassfedcode/what-could-be-better-than-ssh-e69561ec1b83
 
-http://byobu.co/index.html
-
-http://linuxpitstop.com/ssh-vs-mosh/
-
-https://eternalterminal.dev/
  
 ## [Setup](https://github.com/davestephens/ansible-nas)
 
@@ -41,6 +33,7 @@ https://eternalterminal.dev/
 - [static ip]({% post_url 2017-07-16-network %})
 - [wake on lan]({% post_url 2019-04-27-wake-up %})
 - [zfs]({% post_url 2019-03-31-zfs-ubuntu %})
+- [ssh]({% post_url 2019-04-29-ssh %})
 
 ### Monitoring
 - System
@@ -58,6 +51,7 @@ sudo systemctl status
 ### Remote Access
 - [Guacamole][https://guacamole.apache.org/doc/gug/users-guide.html)
 	- [docker](https://guacamole.apache.org/doc/gug/guacamole-docker.html)
+- [VSCode server]({% post_url 2019-04-29-vscode-server %})
 
 ## Hardware
 
