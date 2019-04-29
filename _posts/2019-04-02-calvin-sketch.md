@@ -2,6 +2,7 @@
 published: true
 title: Calvin and Hobbes (3D skech)
 tags: comic fun
+excerpt_separator: ''
 ---
 ## Sketchfab
 - [1](https://sketchfab.com/3d-models/calvin-and-hobbes-dec527eccb8f4c29bd6fc4d2dcc04257)
