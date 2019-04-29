@@ -3,7 +3,7 @@ published: true
 title: VSCode Server
 tags: vscode remote linux editor ssh
 ---
-[cdr/code-server](https://github.com/cdr/code-server) -  is VS Code running on a remote server, accessible through the browser.
+## [Run VS Code on any server over SSH](https://github.com/cdr/code-server)
 
 If you have Chrome installed, it opens the browser in app mode. That means there's no keybind conflicts, address bar, or indication that you're coding within a browser. It feels just like native VS Code.
 
@@ -12,7 +12,7 @@ If you have Chrome installed, it opens the browser in app mode. That means there
 By default, sshcode will rsync your local VS Code settings and extensions to the remote server every time you connect.
 
 {% highlight bash %}
-# You can specify a remote directory as the second argument
+#You can specify a remote directory as the second argument
 go/bin/sshcode kyle@dev.kwc.io ~/projects/sourcegraph
 {% endhighlight %}
 
