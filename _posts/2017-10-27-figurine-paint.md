@@ -1,6 +1,6 @@
 ---
 published: true
-tags: paint figurines 3dprint
+tags: paint figurines 3dprint 3dmodel
 ---
 Quelle peinture bon marché utiliser pour peindre des figurines imprimées ?
 
