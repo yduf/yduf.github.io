@@ -1,8 +1,7 @@
 ---
 title: Xyz (Calibration)
 published: true
-tags: 3dprint calibration
-excerpt_separator: ""
+tags: 3dprinter calibration
 ---
 ## Calibration X
 - [Comment regler le // X par rapport au plateau](https://www.lesimprimantes3d.fr/forum/topic/4517-probl%C3%A8me-parall%C3%A9lisme-axe-x-et-plateau/)
