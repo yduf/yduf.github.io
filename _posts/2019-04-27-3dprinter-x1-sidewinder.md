@@ -1,7 +1,7 @@
 ---
 published: true
 title: Artillery/Evnovo Sidewinder X1 3D Printer
-tags: 3dprint
+tags: 3dprinter
 ---
 
 ## CNC kitchen review 
