@@ -1,7 +1,7 @@
 ---
 published: true
 title: Reglage Z-offset (marlin)
-tags: 3dprint calibration firmware
+tags: 3dprinter calibration firmware
 ---
 Reglage du Z-offset en passant par l'ecran LCD plutot que la dagomApp.
 
