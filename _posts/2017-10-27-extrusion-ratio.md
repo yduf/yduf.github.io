@@ -1,7 +1,7 @@
 ---
 title: Extrusion ratio (Calibration)
 published: true
-tags: 3dprint calibration
+tags: 3dprinter calibration
 ---
 A very [simple and fast print test](https://www.thingiverse.com/thing:1622868) for configuring a 3d printer extrusion ratio.
 
