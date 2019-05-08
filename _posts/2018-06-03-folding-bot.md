@@ -1,8 +1,7 @@
 ---
 title: Folding Robot
 published: true
-tags: 3dprint
-excerpt_separator: ""
+tags: 3dmodel
 ---
 ## [Folding Robot-A](https://fab365.net/items/107)
 - [free version](https://www.myminifactory.com/object/3d-print-beat-bot-print-in-place-fold-up-robot-61898)
