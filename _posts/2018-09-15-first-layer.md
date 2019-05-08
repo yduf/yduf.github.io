@@ -1,7 +1,7 @@
 ---
 published: true
 title: First layer (calibration)
-tags: 3dprint calibration
+tags: 3dprinter calibration
 ---
 [Perfecting the First Layer](https://www.3dhubs.com/talk/t/perfecting-the-first-layer-tips-and-tricks/1075)
 
@@ -31,4 +31,3 @@ You can use a lower layer height or larger extrusion width if you wish, it will 
 ### [Build plate adhesion](https://ultimaker.com/en/resources/257-build-plate-adhesion-how-to-get-your-print-to-stick-to-the-build-plate)
 
 ### [success?](https://ultimaker.com/en/resources/21330-what-does-a-successful-first-layer-look-like)
-
