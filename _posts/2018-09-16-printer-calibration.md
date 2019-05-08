@@ -1,7 +1,7 @@
 ---
 published: true
 title: Printer Calibration
-tags: 3dprint calibration
+tags: 3dprinter calibration
 ---
 ## [Calibration steps](https://www.simplify3d.com/support/print-quality-troubleshooting/#dimensional-accuracy)
 
@@ -16,4 +16,3 @@ tags: 3dprint calibration
 6. recalibrate 2 level
 
 Iterate on 4/5/6
-
