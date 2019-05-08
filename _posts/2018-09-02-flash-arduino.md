@@ -1,8 +1,7 @@
 ---
 published: true
 title: Flashing arduino (cli)
-tags: arduino cli linux firmware 3dprint
-excerpt_separator: ''
+tags: arduino cli linux firmware 3dprinter
 ---
 ## Install [avrdude](https://www.nongnu.org/avrdude/)
 
