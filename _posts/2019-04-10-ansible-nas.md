@@ -5,7 +5,6 @@ tags: nas zfs
 ---
 ## _TODO_
 - [auto shutdown]({% post_url 2019-04-27-wake-up %})
-- [nfs]({% post_url 2019-05-10-nfs %})
 - samba
 - docker / zfs container volume
 - guacamole
@@ -51,6 +50,16 @@ sudo systemctl status
 - [Guacamole][https://guacamole.apache.org/doc/gug/users-guide.html)
 	- [docker](https://guacamole.apache.org/doc/gug/guacamole-docker.html)
 - [VSCode server]({% post_url 2019-04-29-vscode-server %})
+
+## Shared Folder
+
+### [NFS]({% post_url 2019-05-10-nfs %})
+
+List of expored folder are part of ansible configuration in **group_var/all.yml** (search for NFS), it maps the content of **/etc/exports**:
+{% highlight bash %}
+nfs_exports:
+  - "{{ nfs_shares_root }}/Film *(rw,sync,no_root_squash)"
+{% endhighlight %}
 
 ## Hardware
 
