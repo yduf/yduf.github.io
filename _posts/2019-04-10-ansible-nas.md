@@ -5,7 +5,7 @@ tags: nas zfs
 ---
 ## _TODO_
 - [auto shutdown]({% post_url 2019-04-27-wake-up %})
-- nfs
+- [nfs]({% post_url 2019-05-10-nfs %})
 - samba
 - docker / zfs container volume
 - guacamole
@@ -15,8 +15,6 @@ tags: nas zfs
 - airsonic ?
 - [smart](https://help.ubuntu.com/community/Smartmontools)
 	- [request](https://github.com/davestephens/ansible-nas/issues/2)
-
-### ssh
 
  
 ## [Setup](https://github.com/davestephens/ansible-nas)
@@ -49,6 +47,7 @@ sudo systemctl status
 {% endhighlight %}
 
 ### Remote Access
+- ssh
 - [Guacamole][https://guacamole.apache.org/doc/gug/users-guide.html)
 	- [docker](https://guacamole.apache.org/doc/gug/guacamole-docker.html)
 - [VSCode server]({% post_url 2019-04-29-vscode-server %})
