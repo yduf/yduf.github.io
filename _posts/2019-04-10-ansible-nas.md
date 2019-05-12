@@ -5,16 +5,15 @@ tags: nas zfs
 ---
 ## _TODO_
 - [auto shutdown]({% post_url 2019-04-27-wake-up %})
-- samba
 - docker / zfs container volume
 - guacamole
 - [rsync]({% post_url 2019-04-28-rsync %})
-- nextcloud ?
 - gitea ?
 - airsonic ?
 - [smart](https://help.ubuntu.com/community/Smartmontools)
 	- [request](https://github.com/davestephens/ansible-nas/issues/2)
-
+- samba ?
+- nextcloud ?
  
 ## [Setup](https://github.com/davestephens/ansible-nas)
 
