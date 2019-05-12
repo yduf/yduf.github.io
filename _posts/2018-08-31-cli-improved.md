@@ -8,3 +8,4 @@ tags: cli
 - [bat > cat]({% post_url 2018-08-30-bat %})
 - [htop > top]({% post_url 2018-08-30-htop %})
 - [ncdu > du]({% post_url 2018-07-11-disk-full %})
+- [cp with progrese]()
