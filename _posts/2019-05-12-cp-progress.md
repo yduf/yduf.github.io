@@ -32,6 +32,12 @@ it does NOT preserve permission.
 curl -o [destination] FILE://[source]
 {% endhighlight %}
 
+### [Midnight-commander](https://en.wikipedia.org/wiki/Midnight_Commander)
+
+{% highlight cpp %}
+sudo apt-get install mc
+{% endhighlight %}
+
 ### [progress](https://superuser.com/questions/550064/how-mount-find-recover-data-in-hdd-outside-of-synology-box/603505#603505)
 
 {% highlight cpp %}
