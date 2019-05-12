@@ -8,10 +8,10 @@ tags: nas zfs
 - docker / zfs container volume
 - guacamole
 - [rsync]({% post_url 2019-04-28-rsync %})
-- gitea ?
 - airsonic ?
 - [smart](https://help.ubuntu.com/community/Smartmontools)
 	- [request](https://github.com/davestephens/ansible-nas/issues/2)
+- gitea ? vs github ?
 - samba ?
 - nextcloud ?
  
