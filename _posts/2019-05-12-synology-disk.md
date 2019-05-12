@@ -18,7 +18,7 @@ sde                               8:64   0  3.7T  0 disk
     └─vg1-volume_2              253:2    0  1.7T  0 lvm   
 {% endhighlight %}
 
-### [mdadm](https://linux.die.net/man/8/mdadm)
+# [mdadm](https://linux.die.net/man/8/mdadm)
 
 {% highlight cpp %}
 $ mdadm --examine /dev/sde
@@ -55,4 +55,22 @@ $ mdadm --examine /dev/sde3
    Array State : A ('A' == active, '.' == missing, 'R' == replacing)
 
 {% endhighlight %}
+
+## Mounting
+
+Assuming volume registered itself automatically, we can get further information
+{% highlight cpp %}
+$ pvscan
+  PV /dev/md127   VG vg1             lvm2 [3.63 TiB / 0    free]
+  Total: 1 [3.63 TiB] / in use: 1 [3.63 TiB] / in no VG: 0 [0   ]
+
+$ lvdisplay vg1
+{% endhighlight %}
+
+Then we can mount vg1 volume
+{% highlight cpp %}
+$ mkdir /media/syno-vg1
+$ mount /dev/vg1/lv -o ro /media/syno-vg1
+{% endhighlight %}
+
 
