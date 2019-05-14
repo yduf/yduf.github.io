@@ -9,4 +9,5 @@ a Small C++ program to display images in a (modern) terminal using RGB ANSI code
 ### [daleroberts/bv](https://github.com/daleroberts/bv)
 quickly view high-resolution multi-band imagery directly in your iTerm 2. It was designed for visualising very large images located on a remote machine over a low-bandwidth connection.
 
+### [Chafa]({% post_url 2019-02-03-chafa %})
 
