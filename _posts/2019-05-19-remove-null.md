@@ -1,7 +1,7 @@
 ---
 published: true
 title: Map and Remove nil values (Ruby)
-tags: ruby
+tags: ruby map
 ---
 ## [use compact](Map and Remove nil values in Ruby)
 
