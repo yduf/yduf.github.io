@@ -6,5 +6,6 @@ tags: ruby
 ## [use compact](Map and Remove nil values in Ruby)
 
 {% highlight ruby %}
-code
+[1, nil, 3, nil, nil].compact
+=> [1, 3]
 {% endhighlight %}
