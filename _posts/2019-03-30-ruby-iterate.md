@@ -5,8 +5,12 @@ tags: ruby lang loop
 ---
 > If any of you have written code in the last year that had an explicit loop […], you don’t understand collections. [David West](http://jeromedalbert.com/ruby-how-to-iterate-the-right-way/).
 
-As a side note...
+## [see also Enumerable](http://ruby-doc.org/core-2.6.3/Enumerable.html)
+
+As a side note... 
 ## [negative loop in ruby](https://stackoverflow.com/questions/8926477/how-to-write-negative-loop-in-ruby-like-fori-index-i-0-i)
+
+[range 10..1 is not usable](https://stackoverflow.com/questions/7705141/why-doesnt-backward-for-loop-work-in-ruby-eg-for-i-in-10-1#7705159)
 
 {% highlight ruby %}
 for i in 10.downto 0
