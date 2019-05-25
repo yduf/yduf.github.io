@@ -6,6 +6,11 @@ tags: ruby lang loop
 > If any of you have written code in the last year that had an explicit loop […], you don’t understand collections. [David West](http://jeromedalbert.com/ruby-how-to-iterate-the-right-way/).
 
 ## [see also Enumerable](http://ruby-doc.org/core-2.6.3/Enumerable.html)
+- [none?](http://ruby-doc.org/core-2.6.3/Enumerable.html#method-i-none-3F), [any?](http://ruby-doc.org/core-2.6.3/Enumerable.html#method-i-any-3F), [one?](http://ruby-doc.org/core-2.6.3/Enumerable.html#method-i-one-3F),  [all?](http://ruby-doc.org/core-2.6.3/Enumerable.html#method-i-all-3F)
+- [include?](http://ruby-doc.org/core-2.6.3/Enumerable.html#method-i-include-3F)
+- min_by, max_by, sort_by
+- filter, reject, select
+
 
 As a side note... 
 ## [negative loop in ruby](https://stackoverflow.com/questions/8926477/how-to-write-negative-loop-in-ruby-like-fori-index-i-0-i)
