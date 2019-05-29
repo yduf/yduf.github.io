@@ -12,7 +12,13 @@ a=*(1..10) => [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 ### [inject operation](https://stackoverflow.com/questions/1538789/how-to-sum-array-of-numbers-in-ruby/1538801#1538801)
 {% highlight ruby %}
-array.inject(0){|sum,x| sum + x }
+array.inject(:+)
 {% endhighlight %}
+
+### [sum](https://stackoverflow.com/questions/1538789/how-to-sum-array-of-numbers-in-ruby/1539643#1539643)
+{% highlight ruby %}
+[1, 2, 3, 4].sum
+{% endhighlight %}
+
 
 ### p (puts)
