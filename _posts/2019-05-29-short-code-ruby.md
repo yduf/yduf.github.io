@@ -1,7 +1,6 @@
 ---
-published: false
 title: Shortest code (Ruby)
-pubished: true
+published: true
 tags: ruby codingame
 ---
 ## Tips
