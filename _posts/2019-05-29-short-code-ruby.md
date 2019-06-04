@@ -29,5 +29,9 @@ array.reduce(:+)		# or inject (alias)
 [1, 2, 3, 4].sum
 {% endhighlight %}
 
+### [repeating text](https://stackoverflow.com/a/2297020/51386)
+{% highlight ruby %}
+"0" * 99
+{% endhighlight %}
 
 ### p (puts)
