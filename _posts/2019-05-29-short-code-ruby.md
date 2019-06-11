@@ -9,12 +9,17 @@ tags: ruby codingame
 a,b,c=gets.split.map(&:to_i)
 {% endhighlight %}
 
+### Iterate on String
+{% highlight ruby %}
+"input".each_char { |c| puts c }
+{% endhighlight %}
+
 ### [Array from range](https://stackoverflow.com/questions/191329/correct-way-to-populate-an-array-with-a-range-in-ruby/6587096#6587096)
 {% highlight ruby %}
 a=*(1..10) => [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 {% endhighlight %}
 
-### Apply metho on each elment
+### Apply method on each elment
 {% highlight ruby %}
 array.map!(&:to_i)
 {% endhighlight %}
