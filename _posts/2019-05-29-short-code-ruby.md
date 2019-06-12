@@ -7,6 +7,7 @@ tags: ruby codingame
 ### Read inputs
 {% highlight ruby %}
 a,b,c=gets.split.map(&:to_i)
+"Tiam his  message".chomp.split(/\s/).to_s		# => ["Tiam", "his", "", "message"]
 {% endhighlight %}
 
 ### Iterate on String
