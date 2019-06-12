@@ -9,6 +9,8 @@ tags: ruby codingame
 a,b,c=gets.split.map(&:to_i
 
 msg = "Tiam his  message"
+
+### [Split string but keep multiple whitespace](https://stackoverflow.com/questions/46135748/ruby-split-string-but-keep-multiple-whitespace)
 msg.chomp.split.to_s            # => ["Tiam", "his", "message"]
 msg.chomp.split(/\s/).to_s		# => ["Tiam", "his", "", "message"]
 {% endhighlight %}
