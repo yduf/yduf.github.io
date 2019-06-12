@@ -9,7 +9,6 @@ tags: ruby codingame
 a,b,c=gets.split.map(&:to_i
 {% endhighlight %}
 
-
 ### [Split string but keep multiple whitespace](https://stackoverflow.com/questions/46135748/ruby-split-string-but-keep-multiple-whitespace)
 {% highlight ruby %}
 msg = "Tiam his  message"
