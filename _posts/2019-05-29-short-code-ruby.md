@@ -20,7 +20,8 @@ msg.chomp.split(/\s/).to_s		# => ["Tiam", "his", "", "message"]
 
 ### [Array from range](https://stackoverflow.com/questions/191329/correct-way-to-populate-an-array-with-a-range-in-ruby/6587096#6587096)
 {% highlight ruby %}
-a=*(1..10) => [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+*(1..10)         # => [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+[*1..3, *?a..?c] # => [1, 2, 3, "a", "b", "c"]
 {% endhighlight %}
 
 ### Apply method on each elment
