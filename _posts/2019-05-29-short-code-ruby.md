@@ -16,6 +16,12 @@ msg.chomp.split.to_s            # => ["Tiam", "his", "message"]
 msg.chomp.split(/\s/).to_s		# => ["Tiam", "his", "", "message"]
 {% endhighlight %}
 
+### [Remove multiple spaces and new lines inside of String](https://stackoverflow.com/questions/7106964/remove-multiple-spaces-and-new-lines-inside-of-string)
+{% highlight ruby %}
+s = "Hello, my\n       name is Michael."
+s.split.join(' ') #=> "Hello, my name is Michael."
+{% endhighlight %}
+
 ### Iterate on String
 {% highlight ruby %}
 "input".each_char { |c| puts c }
