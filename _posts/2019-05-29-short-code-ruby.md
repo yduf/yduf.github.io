@@ -6,8 +6,12 @@ tags: ruby codingame
 ## Tips
 ### Read inputs
 {% highlight ruby %}
-a,b,c=gets.split.map(&:to_i)
-"Tiam his  message".chomp.split(/\s/).to_s		# => ["Tiam", "his", "", "message"]
+a,b,c=gets.split.map(&:to_i
+
+msg = "Tiam his  message"
+msg.chomp.split.to_s            # => ["Tiam", "his", "message"]
+msg.chomp.split(/\s/).to_s		# => ["Tiam", "his", "", "message"]
+
 {% endhighlight %}
 
 ### Iterate on String
