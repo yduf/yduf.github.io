@@ -6,7 +6,7 @@ tags: ruby codingame
 ## Tips
 ### Read inputs
 {% highlight ruby %}
-a,b,c=gets.split.map(&:to_i
+a,b,c=gets.split.map(&:to_i)
 {% endhighlight %}
 
 ### [Split string but keep multiple whitespace](https://stackoverflow.com/questions/46135748/ruby-split-string-but-keep-multiple-whitespace)
@@ -24,7 +24,19 @@ s.split.join(' ') #=> "Hello, my name is Michael."
 
 ### Iterate on String
 {% highlight ruby %}
+"input".chars.map { |c| puts c }	# => "input".split('').map
 "input".each_char { |c| puts c }
+{% endhighlight %}
+
+### [Character values to Strings](https://makandracards.com/makandra/40838-ruby-converting-utf-8-codepoints-to-characters) && [SO](https://stackoverflow.com/questions/143822/ruby-character-to-ascii-from-a-string)
+{% highlight ruby %}
+116.chr          # => "t"
+[116].pack('U*') # => "t"
+
+"t".ord          # => 116
+"t".unpack('U*') # => [106]
+
+"string".bytes   # =>  "string".chars.map(&:ord)
 {% endhighlight %}
 
 ### [Array from range](https://stackoverflow.com/questions/191329/correct-way-to-populate-an-array-with-a-range-in-ruby/6587096#6587096)
