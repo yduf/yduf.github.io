@@ -1,8 +1,7 @@
 ---
 published: true
 title: DIY (real) pinball
-tags: pincab blog
-excerpt_separator: ""
+tags: pincab blog flipper pinball
 ---
 ## [blog](http://pinballchameleon.blogspot.com/2012/12/the-modern-firepower-pinball-project_20.html)
 
