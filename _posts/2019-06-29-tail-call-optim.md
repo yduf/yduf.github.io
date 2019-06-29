@@ -9,4 +9,4 @@ The Ruby Language Specification doesn't say anything about TCO. It doesn't say y
 
 - This is unlike Scheme, where the Language Specification requires that all Implementations must perform TCO.
 
-- But it is also unlike Python, where Guido van Rossum has made it very clear on multiple occasions (the last time just a couple of days ago) that Python Implementations should not perform TCO.
+- But it is also unlike Python, where Guido van Rossum [has made it very clear](http://neopythonic.blogspot.com/2009/04/tail-recursion-elimination.html) on multiple occasions (the last time just a couple of days ago) that Python Implementations should not perform TCO.
