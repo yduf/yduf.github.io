@@ -1,7 +1,7 @@
 ---
 published: true
 title: Tail call optimisation (TCO)
-tags: optimize recurse algorithm ruby
+tags: optimize recurse algorithm ruby Fibonacci
 ---
 ## [Ruby Tail Call Optimization?](https://stackoverflow.com/questions/824562/does-ruby-perform-tail-call-optimization/824831#824831)
 
