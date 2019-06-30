@@ -11,7 +11,19 @@ Monte Carlo Tree Search has one main purpose: given a **game state** to choose *
 
 A **game tree** is a tree in which every node represents certain **state** of the game. Transition from a **node** to one of its **children** (if they exist) is a move. The number of node’s children is called **a branching factor**. Root node of the tree represents the **initial state** of the game. We also distinguish **terminal nodes** of the game tree – nodes with no children, from where game cannot be continued anymore. The terminal node’s states can be evaluated – this is where game result is concluded.
 
+## Upper Confidence Bounds for Trees (UCT)
 
+{% highlight cpp %}
+uct = score/visit + c*sqrt(2*ln(V)/visit)
+{% endhighlight %}
+
+Evalution function using UCT is balanced between:
+- **exploitation** (first term - score)
+- **exploration**  (second term)
+
+As each node is visited, the denominator of the exploration term increases, which decreases its contribution.  On  the  other  hand,  if  another  child  of  the  parent node  is  visited,  the  numerator  increases  and  hence  the exploration  values  of  unvisited  siblings  increase.  The exploration  term  ensures  that  each  child  has  a  non-zero  probability  of  selection,  which  is  essential  giventhe random nature of the playouts.
+
+## Pseudo Code
 [python code](https://github.com/int8/monte-carlo-tree-search)
 
 code from Paper [A Survey of Monte Carlo Tree Search Methods](http://mcts.ai/pubs/mcts-survey-master.pdf).
