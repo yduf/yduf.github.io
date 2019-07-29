@@ -1,6 +1,6 @@
 ---
 published: true
 title: Younger self
-tags: concept mental-model
+tags: mental-model self
 ---
 > See you latter - self
