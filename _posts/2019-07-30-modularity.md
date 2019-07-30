@@ -1,8 +1,8 @@
 ---
 published: true
-title: How interactions between many pieces makes the whole thing complex
-tags: software complexity
+title: False simplicity
+tags: mental-model software complexity
 ---
-## modularity vs complexity - [HN](https://news.ycombinator.com/item?id=20567147)
+## How interactions between many pieces makes the whole thing complex - [HN](https://news.ycombinator.com/item?id=20567147)
 
 > The theory behind the microkernel is that operating systems are complicated. So you try to get some of the complexity out by modularizing it a lot. The tenet of the microkernel approach is that the kernel, which is the core of the core of the core, should do as little as possible. Its main function is to communicate. All the different things that the computer offers are services that are available through the microkernel communications channels. In the microkernel approach, **you’re supposed to split up the problem space so much that none of it is complex**. I thought this was stupid. Yes, **it makes every single piece simple. But the interactions make it far more complex than it would be** if many of the services were included in the kernel itself, as they are in Linux. Think of your brain. Every single piece is simple, but the interactions between the pieces make for a highly complex system. It’s the whole-is-bigger-than-the-parts problem. **If you take a problem and split it in half and say that the halves are half as complicated, you’re ignoring the fact that you have to add in the complication of communication between the two halves.** The theory behind the microkernel was that you split the kernel into fifty independent parts, and each of the parts is a fiftieth of the complexity. **But then everybody ignores the fact that the communication among the parts is actually more complicated than the original system was—never mind the fact that the parts are still not trivial.** That’s the biggest argument against microkernels. **The simplicity you try to reach is a false simplicity.** - Linux Torvald - "Just for Fun"
