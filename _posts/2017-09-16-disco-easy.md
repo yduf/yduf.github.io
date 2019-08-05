@@ -43,6 +43,9 @@ enlever les detrompeurs des nappes coté ecrans et les brancher a l'envers en ga
 
 ## Hardware
 
+### [head E3D V6](https://dagoma.fr/boutique/produit/imprimantes-3d/discoeasy200-en-kit.html)
+- [Changer la cartouche de chauffe](https://support.dagoma.fr/support/solutions/articles/36000068077-discoeasy200-changer-la-cartouche-de-chauffe)
+
 ### [carte "MKS Base v1.5"](https://www.iot-experiments.com/dagoma-discoeasy200/)
  similaire [à un Arduino Mega 2560](https://github.com/MarlinFirmware/Marlin/wiki/Supported-Hardware#mks_base-40) - 16MHz + [carte RAMPS](https://reprap.org/wiki/Arduino_Mega_Pololu_Shield). - [spec](https://www.tomtop.com/p-e3250.html)
 - [detail pin](https://reprap.org/wiki/MKS_BASE_1.0)
