@@ -46,6 +46,7 @@ enlever les detrompeurs des nappes coté ecrans et les brancher a l'envers en ga
 ### [head E3D V6](https://dagoma.fr/boutique/produit/imprimantes-3d/discoeasy200-en-kit.html)
 - [V6 Assembly](https://e3d-online.dozuki.com/Guide/V6+Assembly/6#s89)
 	- [heatbreak](https://www.lesimprimantes3d.fr/forum/topic/16644-dagoma-discoeasy-200-gros-probleme/?do=findComment&comment=213216)
+    ![caption](https://www.lesimprimantes3d.fr/forum/uploads/monthly_2018_08/heatbreak.jpg.b0884dbc365a2c0d2beeedc423e73db0.jpg)
 - [Changer la cartouche de chauffe](https://support.dagoma.fr/support/solutions/articles/36000068077-discoeasy200-changer-la-cartouche-de-chauffe)
 
 ### [carte "MKS Base v1.5"](https://www.iot-experiments.com/dagoma-discoeasy200/)
