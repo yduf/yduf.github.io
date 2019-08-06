@@ -19,6 +19,10 @@ What is needed is a way to clean up the output a bit and generate some nice clea
 
 - [digital interrupt](https://www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/)
 
+> If you want to detect a voltage threshold with a microcontroller in a timely fashion, you normally use an
+external analog comparator chip to generate a digital signal to feed to one of the microcontroller interrupt
+pins.  You can get a quad-comparator for a few cents (LM339) - [forum](https://forum.arduino.cc/index.php?topic=297210.15)
+
 ## [Digital Sensor Model](https://wiki.eprolabs.com/index.php?title=Opto_Interrupter_MOC7811)
 
 ## [Analog Sensor Model](https://www.amazon.fr/gp/product/B07CQWPLWB/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&psc=1)
