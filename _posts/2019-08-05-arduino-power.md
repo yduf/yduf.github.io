@@ -1,7 +1,7 @@
 ---
 published: true
 title: Power Supply Module (arduino)
-tags: arduino
+tags: arduino power
 ---
 ## On Board
 - [How do I power my Arduino?](https://thepihut.com/blogs/raspberry-pi-tutorials/how-do-i-power-my-arduino)
