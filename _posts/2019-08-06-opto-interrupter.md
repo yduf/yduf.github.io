@@ -11,9 +11,7 @@ You could just purchase a couple of H206 opto interrupters and wire them up to y
 
 in the real world the output pulses directly from the phototransistor are poorly formed and as a result your code would end up giving a lot of errors.
 
-What is needed is a way to clean up the output a bit and generate some nice clean 5-volt pulses suitable for using with an Arduino or other microcontroller.  And the perfect component to do that is a “comparator”.
-
-=> These sensors are often called “LM393 Speed Sensors”
+What is needed is a way to clean up the output a bit and generate some nice clean 5-volt pulses suitable for using with an Arduino or other microcontroller.  And the perfect component to do that is a “comparator”. => [These sensors are often called “LM393 Speed Sensors”](https://www.electronicshub.org/interfacing-lm393-speed-sensor-with-arduino/).
 
 ### [Wheel sensor & interrupt](https://dronebotworkshop.com/robot-car-with-speed-sensors/#Interrupts)
 
