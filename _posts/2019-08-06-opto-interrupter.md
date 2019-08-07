@@ -23,16 +23,18 @@ pins.  You can get a quad-comparator for a few cents (LM339) - [forum](https://f
 
 ## [Digital Sensor Model](https://wiki.eprolabs.com/index.php?title=Opto_Interrupter_MOC7811)
 
+- [How to Interface LM393 Speed Sensor with Arduino?](https://www.electronicshub.org/interfacing-lm393-speed-sensor-with-arduino/)
 ![caption](https://www.electronicshub.org/wp-content/uploads/2018/09/Interfacing-LM393-Speed-Sensor-with-Arduino-LM393-Sensor-Schematic.jpg)
 
 ## [Analog Sensor Model](https://www.amazon.fr/gp/product/B07CQWPLWB/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&psc=1)
 
 ![caption](https://images-na.ssl-images-amazon.com/images/I/61GuGYqliqL._SL1500_.jpg)
 
+- LED indicator
 - G -> GND
 - S -> analog signal
 - V -> 3.3 or 5V ?
 
-<4 min opening
+<4 mm opening
 
 
