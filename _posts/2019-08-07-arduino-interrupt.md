@@ -21,6 +21,9 @@ tags: arduino interrupt
 - ["pin change" type interrupts.](https://arduino.stackexchange.com/questions/1784/how-many-interrupt-pins-can-an-uno-handle/12958#12958)
 	- [interrupts on the Arduino Uno](http://gammon.com.au/interrupts)
 
-### Multiple pin change interrupt
+- [Multiple pin change interrupt](https://www.reddit.com/r/arduino/comments/2z095i/attaching_more_than_3_interrupts_to_an_arduino_uno/)
+If you choose your interrupt pins carefully you can have up to 5 pins that each have their own interrupt handler. After that you then have to start sharing a handler and you have to add some extra code to figure out which pin caused the interrupt.
 
+## [Arduino Pinout](https://www.circuito.io/blog/arduino-uno-pinout/)
 
+![caption](https://upload.wikimedia.org/wikipedia/commons/c/c9/Pinout_of_ARDUINO_Board_and_ATMega328PU.svg)
