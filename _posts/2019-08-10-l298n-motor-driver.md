@@ -5,6 +5,8 @@ tags: arduino motor driver robot
 ---
 ## [How to Use L298N Motor Driver](https://www.teachmemicro.com/use-l298n-motor-driver/)
 
+- [Controlling DC Motors with the L298N H Bridge and Arduino (
+DroneBot WS)](https://dronebotworkshop.com/dc-motors-l298n-h-bridge/)
 [![caption](https://img.youtube.com/vi/dyjo_ggEtVU/0.jpg)](https://www.youtube.com/watch?v=dyjo_ggEtVU)
 
 ![caption](https://www.teachmemicro.com/wp-content/uploads/2018/03/L298N-H-Bridge-Motor-Controller-Annotated.jpg)
