@@ -10,8 +10,8 @@ tags: arduino power
 
 - [the ultimate guide](https://www.open-electronics.org/the-power-of-arduino-this-unknown/)
 
-## [MB102 breadboard power supply](https://www.petervis.com/Raspberry_PI/Breadboard_Power_Supply/YwRobot_Breadboard_Power_Supply.html)
-- Pour le jury de pain MB102 ; compatible avec 5V, 3.3V ; Tension d'entrée : 6,5-12V (DC) ou alimentation USB ; Tension de sortie: 3, 3V, 5V commutable ;
-- Courant de sortie maximum: < 700ma ; Contrôle indépendant bi-directionnelle ; Peut être commuté à 0V, 3.3V, 5V ; Bord deux séries de 3, 3V, 5V DC sortie épingles, faciliter les cordons de liaison externes 
+## [MB102 breadboard power supply](https://opencircuit.shop/ProductInfo/1000154/Breadboard-Power-Supply.pdf)
 
-![caption](https://images-na.ssl-images-amazon.com/images/I/51UvMlbnWGL.jpg)
+![caption](https://protosupplies.com/wp-content/uploads/2017/10/YwRobot-Module-Labels-2.jpg)
+
+[![caption](https://img.youtube.com/vi/ZpCep1jL-iA/0.jpg)](https://www.youtube.com/watch?v=ZpCep1jL-iA)
