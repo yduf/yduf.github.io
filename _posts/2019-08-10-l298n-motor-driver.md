@@ -3,6 +3,9 @@ published: true
 title: L298N Motor Driver (arduino)
 tags: arduino motor driver robot
 ---
+- **PWM** – For controlling speed
+- **H-Bridge** – For controlling rotation direction
+
 ## [How to Use L298N Motor Driver](https://www.teachmemicro.com/use-l298n-motor-driver/)
 
 - [Controlling DC Motors with the L298N H Bridge and Arduino (
