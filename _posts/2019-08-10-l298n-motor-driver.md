@@ -6,6 +6,14 @@ tags: arduino motor driver robot
 - **PWM** – For controlling speed
 - **H-Bridge** – For controlling rotation direction
 
+## [Powering motors & logic](https://lastminuteengineers.com/l298n-dc-stepper-driver-arduino-tutorial/#power-supply)
+The module has an on-board 78M05 5V regulator from STMicroelectronics. It can be enabled or disabled through a jumper.
+
+**When this jumper is in place**, the 5V regulator is enabled, supplying logic power supply(Vss) from the motor power supply(Vs). **In this case, 5V input terminal acts as an output pin and delivers 5V 0.5A. You can use it to power up the Arduino** or other circuitry that requires 5V power supply.
+
+**When the jumper is removed**, the 5V regulator gets disabled and **we have to supply 5 Volts separately through 5 Volt input terminal.**
+
+
 ## [How to Use L298N Motor Driver](https://www.teachmemicro.com/use-l298n-motor-driver/)
 
 - [Controlling DC Motors with the L298N H Bridge and Arduino (
