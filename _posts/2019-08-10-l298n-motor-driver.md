@@ -1,6 +1,6 @@
 ---
 published: true
-title: How to Use L298N Motor Driver (arduino)
+title: L298N Motor Driver (arduino)
 tags: arduino motor driver robot
 ---
 ## [How to Use L298N Motor Driver](https://www.teachmemicro.com/use-l298n-motor-driver/)
