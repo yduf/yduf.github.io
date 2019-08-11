@@ -7,6 +7,8 @@ tags: arduino sensor shield
 
 ### [Sensor Shield (Version 5X) Separate 5V for Servos](http://yourduino.com/sunshop//index.php?l=product_detail&p=407)
 
+- [LCD using Sensor Shield v5](https://www.learnrobotics.org/blog/arduino-lcd-using-sensor-shield-v5/)
+
 ![caption](http://yourduino.com/sunshop//images/products/detail_407_SensorShield-5X.jpg)
 
 ![caption](http://yourduino.com/docs/SensorShieldV5xLayout.jpg)
