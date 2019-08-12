@@ -6,7 +6,7 @@ tags: video
 ## [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl/)
 - [Supported sites](https://ytdl-org.github.io/youtube-dl/supportedsites.html)
 
-## [select the video quality](https://askubuntu.com/questions/486297/how-to-select-video-quality-from-youtube-dl/486298#486298)
+## [Select the video quality](https://askubuntu.com/questions/486297/how-to-select-video-quality-from-youtube-dl/486298#486298)
 
 {% highlight cpp %}
 # list availabe encoding
