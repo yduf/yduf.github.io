@@ -6,6 +6,17 @@ tags: video
 ## [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl/)
 - [Supported sites](https://ytdl-org.github.io/youtube-dl/supportedsites.html)
 
+## [select the video quality](https://askubuntu.com/questions/486297/how-to-select-video-quality-from-youtube-dl/486298#486298)
+
+{% highlight cpp %}
+# list availabe encoding
+youtube-dl -F 'http://www.youtube.com/watch?v=P9pzm5b6FFY'
+
+# choose one
+youtube-dl -f 22 'http://www.youtube.com/watch?v=P9pzm5b6FFY'
+{% endhighlight %}
+
+
 ## Downloading multiple videos from a list
 - [Simple queue][https://stackoverflow.com/questions/3632919/simple-queue-for-youtube-dl-in-the-linux-shell/3632944#3632944)
 {% highlight cpp %}
