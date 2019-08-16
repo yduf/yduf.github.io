@@ -3,7 +3,7 @@ published: true
 title: Build Image (docker)
 tags: docker build
 ---
-## Using [Debien Buster](https://www.server-world.info/en/note?os=Debian_10&p=docker&f=1)
+## Using [Debian Buster](https://www.server-world.info/en/note?os=Debian_10&p=docker&f=1)
 
 ### [Install](https://www.server-world.info/en/note?os=Debian_10&p=docker&f=1)
 
@@ -39,6 +39,3 @@ debian                     latest              00bf7fdd8baf        2 weeks ago  
 $ docker run srv.world/debian_apache2 /usr/bin/which apache2
 /usr/sbin/apache2 
 {% endhighlight %}
-
-
-
