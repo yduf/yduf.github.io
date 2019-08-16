@@ -14,8 +14,8 @@ aim_to_moon
 ...
 {% endhighlight %}
 
-As soon as a programmer goes beyond "hello world" sample program, he will face "real world" issue.
-When we solve a problem, there is an ideal path on which we put much focus, but in reality for each operation that invovle external inputs, there is a possibility of failure. So what was initially thought as a sequential set of operation, has to be changed to a multipath version to make it robust to runtime issue and allows program to fail gracefully, and space shuttle to fly.
+As soon as a programmer goes beyond "hello world" sample program, he will face "real world" (or production) issue.
+When we solve a problem, there is an ideal path on which we put much focus, but in reality for each operation that invovle external interactions, there is a possibility of failure. So what was initially thought as a sequential set of operation, has to be changed to a multipath version to make it robust to runtime issue and allows program to fail gracefully, and space shuttle to fly.
 
 One historical way of doing this is to take alternative error path at each step and act accoringly. This is both naive, and a common practice which in general wil put in evidence rapidly the complexity of this task.
 
@@ -51,7 +51,27 @@ The set of issue to address depends of the runtime environemnet and the tool use
     - may be several status have to be aggreated allong the way.
 - Each error identified in spec have to be taken into account, if not the system may appear to function properly in simulator, but will fail in reality.
 
-Exception is error signaling mechanism meant to address some of this issue by ensuring that:
+Exception is an error signaling mechanism meant to address some of this issue by ensuring that:
 - error can be propagated easily downward the caller, without having to plan return parameter ahead.
     - so that any place with sufficient information can take action or intermediate action
 - at least one of the caller has to take the exception into account
+
+With exception the above code would ideally look like this
+
+{% highlight cpp %}
+# take off
+try 
+    power_engine
+    release_rocket
+    take_off
+    aim_to_moon
+    ...
+
+rescue
+    when released_failed
+        power_off_engine
+
+    when power_failed
+        emergency_exit
+end
+{% endhighlight %}
