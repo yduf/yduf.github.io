@@ -5,10 +5,7 @@ tags: arduino stepper motor
 ---
 ## [AccelStepper](http://www.airspayce.com/mikem/arduino/AccelStepper/)
 
-- Control board 
+## [28BYJ-48 Stepper Motor with ULN2003 Driver and Arduino Tutorial](https://www.makerguides.com/28byj-48-stepper-motor-arduino-tutorial/)
 
-![caption](https://images-na.ssl-images-amazon.com/images/I/614H1Sw0K9L._SL1000_.jpg)
+![caption](https://www.makerguides.com/wp-content/uploads/2019/04/28byj-48-stepper-motor-with-uln2003-driver-and-arduino-tutorial-1.jpg)
 
-- Stepper Motor
-
-![caption](https://images-na.ssl-images-amazon.com/images/I/51KOWg4CRvL._SL1000_.jpg)
