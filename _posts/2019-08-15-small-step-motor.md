@@ -1,8 +1,7 @@
 ---
 published: true
-title: Smèall stepper motor (arduino)
+title: Small stepper motor (arduino)
 tags: arduino stepper motor
-tile: Small stepper motor
 ---
 - Control board 
 
