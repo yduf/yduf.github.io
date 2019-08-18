@@ -4,7 +4,6 @@ title: Ansible-NAS
 tags: nas zfs ansible
 ---
 ## _TODO_
-- [auto shutdown]({% post_url 2019-04-27-wake-up %})
 - docker / zfs container volume
 - guacamole
 - [rsync]({% post_url 2019-04-28-rsync %})
@@ -30,6 +29,7 @@ tags: nas zfs ansible
 - [wake on lan]({% post_url 2019-04-27-wake-up %})
 - [zfs]({% post_url 2019-03-31-zfs-ubuntu %})
 - [ssh]({% post_url 2019-04-29-ssh %})
+- [auto shutdown]({% post_url 2019-04-27-wake-up %})
 
 ### Monitoring
 - System
