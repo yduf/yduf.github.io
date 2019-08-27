@@ -3,6 +3,9 @@ published: true
 title: Small stepper motor (arduino)
 tags: arduino stepper motor
 ---
+## 28BYJ-48 Stepper / ULN2003 Driver
+- [openscad model](https://github.com/nophead/NopSCADlib#geared_steppers)
+
 ## [AccelStepper](http://www.airspayce.com/mikem/arduino/AccelStepper/)
 
 ## Tutorials
