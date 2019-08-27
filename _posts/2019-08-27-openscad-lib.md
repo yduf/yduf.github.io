@@ -8,8 +8,6 @@ tags: openscad
 Download the .zip or .tar.gz release file for this library.
 Unpack it in 
  - Linux: $HOME/.local/share/OpenSCAD/libraries/
- - Restart OpenSCAD.
-
 
 ## [Openscad](https://www.openscad.org/libraries.html) - [Github](https://github.com/openscad/openscad/wiki/Libraries)
 - [OpenSCAD libraries on Thingiverse](https://www.thingiverse.com/openscad/collections/libraries)
