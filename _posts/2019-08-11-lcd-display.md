@@ -11,6 +11,8 @@ tags: arduino lcd display I2C
 - i2c adaptor
 
 
+## Rotate 180 character on 16x2 LCD
+- [Not possible](https://forum.arduino.cc/index.php?topic=159524.0)
+	- Only 8 characters customizable at a display time
+
 [![caption](https://img.youtube.com/vi/wEbGhYjn4QI/0.jpg)](https://www.youtube.com/watch?v=wEbGhYjn4QI)
-
-
