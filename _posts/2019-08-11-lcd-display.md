@@ -9,8 +9,7 @@ tags: arduino lcd display I2C
 	- scrolling
 	- custom characters
 - i2c adaptor
-
-## [openscad model](https://github.com/nophead/NopSCADlib/blob/master/readme.md#displays)
+- [openscad model](https://github.com/nophead/NopSCADlib/blob/master/readme.md#displays)
 
 ## Rotate 180 character on 16x2 LCD
 - [Not possible](https://forum.arduino.cc/index.php?topic=159524.0)
