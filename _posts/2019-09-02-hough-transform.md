@@ -1,7 +1,7 @@
 ---
 published: true
 title: Hough Transform
-tags: opencv
+tags: opencv algorithm
 ---
 ## [Line Detection](https://docs.opencv.org/2.4/doc/tutorials/imgproc/imgtrans/hough_lines/hough_lines.html)
 
