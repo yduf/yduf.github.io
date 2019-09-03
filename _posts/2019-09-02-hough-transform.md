@@ -5,6 +5,8 @@ tags: opencv algorithm math transform
 ---
 > The Hough transform and the Radon transform are indeed very similar to each other and their relation can be loosely defined as the former being a discretized form of the latter... However, the Hough transform is a quick algorithm that can be prone to certain artifacts. Radon, being more mathematically sound, is more accurate but slower. - [stack](https://dsp.stackexchange.com/questions/470/whats-the-difference-between-the-hough-and-radon-transforms/472#472)
 
+- [Radonand Hough transforms and howthey relate to each other][http://tnw.home.tudelft.nl/fileadmin/Faculteit/TNW/Over_de_faculteit/Afdelingen/Imaging_Science_and_Technology/Research/Research_Groups/Quantitative_Imaging/Publications/Technical_Reports/doc/mvanginkel_radonandhough_tr2004.pdf)
+
 ## [How the Hough Transform Was Invented - \[HN\]](https://news.ycombinator.com/item?id=13148364)
 - [pdf](https://pdfs.semanticscholar.org/f7e8/cbca97de34fd3695e538e164a1b40d27b04e.pdf)
 - [duality vizualizer (online)](https://liquiddandruff.github.io/hough-transform-visualizer/)
