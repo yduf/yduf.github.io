@@ -8,5 +8,12 @@ tags: screw 3dmodel 3dprint openscad
 ## [Hex Nut Capture Socket sizing for 3D Printing](https://airtripper.com/1594/hex-nut-capture-socket-sizing-for-3d-printing/)
 
 ## Openscad
+### [undersized holes](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/The_OpenSCAD_Language#cylinder)
+
+When using cylinder() with difference() to place holes in objects, the holes will be undersized. This is because circular paths are approximated with polygons inscribed within in a circle. The points of the polygon are on the circle, but straight lines between are inside.
+
 	- [NopSCADlib/Screws](https://github.com/nophead/NopSCADlib/blob/master/readme.md#screws)
 	- [OpenSCAD Screw Holes](https://www.thingiverse.com/thing:1731893)
+    
+    ![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/OpenSCAD_Under_size_hole.jpg/240px-OpenSCAD_Under_size_hole.jpg)
+    
