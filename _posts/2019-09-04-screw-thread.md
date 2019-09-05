@@ -12,6 +12,10 @@ tags: screw 3dmodel 3dprint openscad
 
 When using cylinder() with difference() to place holes in objects, the holes will be undersized. This is because circular paths are approximated with polygons inscribed within in a circle. The points of the polygon are on the circle, but straight lines between are inside.
 
+- [undersized circular objects](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/undersized_circular_objects)
+- [Polyholes](http://hydraraptor.blogspot.com/2011/02/polyholes.html)
+
+## Screw Model
 	- [NopSCADlib/Screws](https://github.com/nophead/NopSCADlib/blob/master/readme.md#screws)
 	- [OpenSCAD Screw Holes](https://www.thingiverse.com/thing:1731893)
     
