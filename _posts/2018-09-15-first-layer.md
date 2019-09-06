@@ -31,3 +31,6 @@ You can use a lower layer height or larger extrusion width if you wish, it will 
 ### [Build plate adhesion](https://ultimaker.com/en/resources/257-build-plate-adhesion-how-to-get-your-print-to-stick-to-the-build-plate)
 
 ### [success?](https://ultimaker.com/en/resources/21330-what-does-a-successful-first-layer-look-like)
+
+- [cult](https://cults3d.com/fr/blog/articles/6-facteurs-premi%C3%A8re-couche-impression3d-parfaite)
+![caption](https://files.cults3d.com/uploads/blog/image/image/1704/prusa.jpg)
