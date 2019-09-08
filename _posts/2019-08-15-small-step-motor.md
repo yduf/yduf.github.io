@@ -1,6 +1,6 @@
 ---
 published: true
-title: Small stepper motor (arduino)
+title: Small stepper motor (28BYJ-48)
 tags: arduino stepper motor
 ---
 ## 28BYJ-48 Stepper / ZC-A0591 ULN2003 Driver
