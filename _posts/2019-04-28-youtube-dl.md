@@ -16,9 +16,11 @@ youtube-dl -F 'http://www.youtube.com/watch?v=P9pzm5b6FFY'
 youtube-dl -f 22 'http://www.youtube.com/watch?v=P9pzm5b6FFY'
 {% endhighlight %}
 
-
 ## Downloading multiple videos from a list
 - [Simple queue][https://stackoverflow.com/questions/3632919/simple-queue-for-youtube-dl-in-the-linux-shell/3632944#3632944)
 {% highlight cpp %}
 youtube-dl -a FILE   # --batch-file=FILE, '-' for stdin
 {% endhighlight %}
+
+## [How do I pass cookies to youtube-dl?](https://github.com/ytdl-org/youtube-dl/blob/master/README.md#how-do-i-pass-cookies-to-youtube-dl)
+- --cookies /path/to/cookies.txt
