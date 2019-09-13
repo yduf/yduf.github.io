@@ -3,6 +3,8 @@ published: true
 title: Ansible-NAS
 tags: nas zfs ansible
 ---
+>  Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook. - [davestephens/ansible-nas](https://github.com/davestephens/ansible-nas)
+
 ## _TODO_
 - docker / zfs container volume
 - guacamole
