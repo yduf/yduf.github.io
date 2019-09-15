@@ -1,6 +1,6 @@
 ---
 published: true
-tags: cao tutorial
+tags: cad tutorial
 ---
 ## [Let's make a nut](https://www.onshape.com/videos/lets-make-a-nut)
 
