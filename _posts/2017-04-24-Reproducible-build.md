@@ -1,6 +1,6 @@
 ---
 published: true
-tags: reproducible builds
+tags: reproducible build
 ---
 ## [overview](https://lwn.net/Articles/719823/) of the [reproducible builds project](https://reproducible-builds.org/)
 
