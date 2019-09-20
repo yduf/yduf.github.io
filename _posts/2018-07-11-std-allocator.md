@@ -1,6 +1,6 @@
 ---
 published: true
-title: '“std::allocator...” (CppCon 2015)'
+title: null
 tags: c++ memory video blog
 ---
 Historically stl::allocator were though to overcome issue with near and far pointer on intel archictecture and share a lot of issue from this time.
