@@ -1,5 +1,5 @@
 ---
-published: null
+published: true
 title: Systematic Error Handling in C++ (2012 - Andrei)
 tags: c++ error_handling software
 ---
