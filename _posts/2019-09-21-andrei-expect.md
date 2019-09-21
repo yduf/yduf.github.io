@@ -3,7 +3,8 @@ published: true
 title: Expect the expected (2018 - Andrei)
 tags: exception lang error-handling
 ---
-## [C++ Russia 2018](https://www.youtube.com/watch?v=CGwk3i1bGQI)
+- [C++ Russia 2018](https://www.youtube.com/watch?v=CGwk3i1bGQI)
+- [CppCon 2018](https://www.youtube.com/watch?v=PH4WBuE1BHI)
 
 ### When should you use them ?
 - for eg network code may want to retry thing
