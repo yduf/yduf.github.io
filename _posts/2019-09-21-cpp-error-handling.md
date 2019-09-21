@@ -9,3 +9,13 @@ tags: c++ error_handling software
 	- hardware work
     - program is correct
 	- opposed tp general reliability
+    - but consider
+    	- network error
+        - device error
+        - data error
+        
+### Hypothesis
+- bad error handling engenders errors
+- insufficient testing make improbable error scenario
+- legit error lead to corrupt programs
+
