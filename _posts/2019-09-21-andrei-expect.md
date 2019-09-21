@@ -3,6 +3,8 @@ published: true
 title: Expect the expected (2018 - Andrei)
 tags: exception lang error-handling
 ---
+> Reinventing exceptions.
+
 - [C++ Russia 2018](https://www.youtube.com/watch?v=CGwk3i1bGQI)
 - [CppCon 2018](https://www.youtube.com/watch?v=PH4WBuE1BHI)
 
