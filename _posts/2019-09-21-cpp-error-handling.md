@@ -1,7 +1,7 @@
 ---
 published: true
 title: Systematic Error Handling in C++ (2012 - Andrei)
-tags: c++ error_handling software exception
+tags: c++ error-handling software exception
 ---
 ## [C++ and Beyond 2012](https://www.youtube.com/watch?v=kaI4R0Ng4E8)
 - error handling is about error in the inputs, not bug.
