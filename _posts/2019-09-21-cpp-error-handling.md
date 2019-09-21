@@ -19,3 +19,6 @@ tags: c++ error_handling software exception
 - insufficient testing make improbable error scenario
 - legit error lead to corrupt programs
 
+### Expected<T>
+- either T
+- or the reason T was not created
