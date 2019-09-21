@@ -1,7 +1,7 @@
 ---
 published: true
 title: Benchmarking C++
-tags: c++ fastware benchmarking
+tags: c++ fastware benchmarking lib
 excerpt_separator: ''
 ---
 ## Framework
