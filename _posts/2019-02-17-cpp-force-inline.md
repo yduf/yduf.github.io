@@ -1,10 +1,9 @@
 ---
 published: true
-title: (un)-force-inline helper
-tags: c++ perf
-excerpt_separator: ''
+title: (un)-force-inline helper - (Fastware 2014 - Andrei)
+tags: c++ fastware
 ---
-## [GCC](https://www.youtube.com/watch?v=Qq_WaiwzOtI)
+## [Optimization Tips - Mo' Hustle Mo' Problems - CppCon 2014](https://www.youtube.com/watch?v=Qq_WaiwzOtI)
 
 {% highlight cpp %}
 // GCC
