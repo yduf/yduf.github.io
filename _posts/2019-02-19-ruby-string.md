@@ -1,6 +1,6 @@
 ---
 published: true
-title: ruby strings litteral
+title: Ruby string litterals
 tags: ruby string
 ---
 ## [String literal without need to escape backslash](https://stackoverflow.com/questions/29124058/string-literal-without-need-to-escape-backslash/29124475#29124475)
@@ -11,7 +11,6 @@ config=<<'_'
     "key1": "{ \"key2\": \"123\"}"
 }
 _
-
 {% endhighlight %}
 
 ## [squiggly heredoc (ruby 2.3)](https://infinum.co/the-capsized-eight/multiline-strings-ruby-2-3-0-the-squiggly-heredoc)
@@ -21,7 +20,8 @@ class Subscription
   def warning_message
     <<~HEREDOC
       Subscription expiring soon!
-      Your free trial will expire in #{days_until_expiration} days.
+      Your free trial will expire 
+      in #{days_until_expiration} days.
       Please update your billing information.
     HEREDOC
   end
