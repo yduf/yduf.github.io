@@ -2,6 +2,7 @@
 title: String Interpolation
 published: true
 tags: ruby scala string interpolation
+excerpt_separator: ''
 ---
 ### Ruby
 - [within string literral](http://ruby-for-beginners.rubymonstas.org/bonus/string_interpolation.html)
