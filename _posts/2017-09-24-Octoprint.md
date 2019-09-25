@@ -1,9 +1,13 @@
 ---
 title: Octoprint
 published: true
-tags: 3dprint
+tags: 3dprinter
 ---
 ## [server](http://192.168.0.123/)
+
+{% highlight bash %}
+ssh pi@192.168.0.123
+{% endhighlight %}
 
 ## [Home](http://octoprint.org/)
 
@@ -38,6 +42,3 @@ Klipper g_code: BED_MESH_OUTPUT
 
 Camera without MPG support mais work with "-r VGA -y" parameters
 see /root/bin/webcamd and [configurations](https://github.com/foosel/OctoPrint/wiki/MJPG-Streamer-configuration)
-
-
-
