@@ -33,7 +33,8 @@ Klipper g_code: BED_MESH_OUTPUT
 ### [Exclude Region](https://discourse.octoprint.org/t/exclude-region-plugin-is-one-of-the-best-ever/2742)
 
 ### [Touch UI]()
-- [OctoPrint-Lcd](https://github.com/AllenMcAfee/OctoPrint-Lcd)
+- [Setup: Boot to Browser](https://github.com/BillyBlaze/OctoPrint-TouchUI/wiki/Setup:-Boot-to-Browser)
+- [Guide d’installation d’octoprint avec écran local](Guide d’installation d’octoprint avec écran local)
 
 ## Webcam
 
