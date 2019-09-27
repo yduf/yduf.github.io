@@ -38,6 +38,8 @@ Klipper g_code: BED_MESH_OUTPUT
 
 ## Webcam
 
+[Pi Cam](https://www.pihomeserver.fr/en/2014/01/09/raspberry-pi-home-server-installer-facilement-la-camera-raspberry-pi/)
+
 [usb webcam with V4L](http://www.pobot.org/Vision-par-webcam-avec-une.html?lang=fr)
 
 [MJPG streamer config](https://github.com/foosel/OctoPrint/wiki/Webcams-known-to-work)
