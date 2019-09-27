@@ -34,15 +34,13 @@ Klipper g_code: BED_MESH_OUTPUT
 
 ### [Touch UI]()
 - [Setup: Boot to Browser](https://github.com/BillyBlaze/OctoPrint-TouchUI/wiki/Setup:-Boot-to-Browser)
-- [Guide d’installation d’octoprint avec écran local](Guide d’installation d’octoprint avec écran local)
+- [Guide d’installation d’octoprint avec écran local](http://doc.3dmodularsystems.com/guide-dinstallation-doctoprint-ecran-local/)
 
 ## Webcam
 
-[Pi Cam](https://www.pihomeserver.fr/en/2014/01/09/raspberry-pi-home-server-installer-facilement-la-camera-raspberry-pi/)
-
-[usb webcam with V4L](http://www.pobot.org/Vision-par-webcam-avec-une.html?lang=fr)
-
-[MJPG streamer config](https://github.com/foosel/OctoPrint/wiki/Webcams-known-to-work)
+- [Pi Cam](https://www.pihomeserver.fr/en/2014/01/09/raspberry-pi-home-server-installer-facilement-la-camera-raspberry-pi/)
+- [usb webcam with V4L](http://www.pobot.org/Vision-par-webcam-avec-une.html?lang=fr)
+- [MJPG streamer config](https://github.com/foosel/OctoPrint/wiki/Webcams-known-to-work)
 
 Camera without MPG support mais work with "-r VGA -y" parameters
 see /root/bin/webcamd and [configurations](https://github.com/foosel/OctoPrint/wiki/MJPG-Streamer-configuration)
