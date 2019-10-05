@@ -2,7 +2,6 @@
 title: String Interpolation
 published: true
 tags: ruby scala string interpolation
-excerpt_separator: ''
 ---
 ### Ruby
 - [Within string literral](http://ruby-for-beginners.rubymonstas.org/bonus/string_interpolation.html)
@@ -27,3 +26,6 @@ mystring % vars              // => Hello, James, == string.format
 val name = "James"
 println(s"Hello, $name")  // Hello, James
 {% endhighlight %}
+
+### D 
+- [discussion](https://forum.dlang.org/thread/ncwpezwlgeajdrigegee@forum.dlang.org)
