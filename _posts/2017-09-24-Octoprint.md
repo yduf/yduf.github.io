@@ -23,8 +23,10 @@ and add [static ip](https://serverfault.com/questions/335994/creating-a-static-i
 ## Plugins
 
 [install](http://plugins.octoprint.org/help/installation/)
+- [Mark list](https://www.youtube.com/watch?v=Zq1sFBgxy8o)
 
 ### [Octolapse (timelapse)](https://plugins.octoprint.org/plugins/octolapse/)
+- [Mark Guide](https://www.youtube.com/watch?v=CjOIxKxb3h8)
 
 ### [Bed Vizualizer](https://plugins.octoprint.org/plugins/bedlevelvisualizer/)
 
