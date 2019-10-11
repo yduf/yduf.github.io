@@ -1,7 +1,7 @@
 ---
 published: true
 title: Expect the expected (2018 - Andrei)
-tags: exception lang error-handling
+tags: exception lang error-handling c++
 ---
 > Reinventing exceptions.
 
