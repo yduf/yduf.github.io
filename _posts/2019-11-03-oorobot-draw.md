@@ -14,6 +14,7 @@ tags: robot
 - [Star](https://orange-opensource.github.io/oorobot/blocks/index.html?code=commandw1000h600B5U400R144E)
 
 ## Sokoban Example
-- on a Grid
+
+- [puzzle 1](https://zenway.ru/uploads/05_14/simplesok_005.jpeg)
 
 ## Match 
