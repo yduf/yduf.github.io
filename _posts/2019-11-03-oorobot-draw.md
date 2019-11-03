@@ -13,7 +13,7 @@ tags: robot
 - [Octogone](https://orange-opensource.github.io/oorobot/blocks/index.html?code=commandw1000h600B8U100R45E)
 - [Star](https://orange-opensource.github.io/oorobot/blocks/index.html?code=commandw1000h600B5U400R144E)
 
-## Sokoban Example
+## [Sokoban](https://sokoban.info/)
 
 - [puzzle 1](https://zenway.ru/uploads/05_14/simplesok_005.jpeg)
 - [puzzle 2](https://image.jimcdn.com/app/cms/image/transf/none/path/s26abe751b52884af/image/i4fe80e0c98f94d10/version/1502396260/image.png)
