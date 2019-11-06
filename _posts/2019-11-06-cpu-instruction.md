@@ -1,7 +1,7 @@
 ---
 published: true
 title: it just sits here succsefully doing nothing forever (Ben Eater)
-tags: cpu computer tutorial
+tags: computer cpu hardware electronic tutorial
 ---
 - [“Hello, world” from scratch on a 6502](https://www.youtube.com/watch?v=LnzuMJLZRdU)
     - bus monitoring with arduino
@@ -9,4 +9,3 @@ tags: cpu computer tutorial
 	- eeprom code
 	- hexdump
 	- ram read
-
