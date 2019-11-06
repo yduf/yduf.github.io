@@ -1,6 +1,6 @@
 ---
 published: true
-title: Atomic Number (!= number of protons)
+title: Atomic Number
 tags: atomic cpu
 ---
 > Traditional multi-threading approaches use locks to protect shared resources. Synchronization objects like Semaphores provide mechanisms for the programmer to write code that doesn't modify a shared resource concurrently. The synchronization approaches block other threads when one of the thread is modifying a shared resource. Obviously blocked threads are not doing meaningful work waiting for the lock to be released.
