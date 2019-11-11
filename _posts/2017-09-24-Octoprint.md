@@ -9,7 +9,7 @@ tags: 3dprinter
 ssh pi@192.168.0.123
 {% endhighlight %}
 
-## [Home](http://octoprint.org/)
+# [Home](http://octoprint.org/)
 
 - [Configuration](http://octoprint.org/download/)
 - [installation Octoprint](http://www.dagomaniack.fr/2017/01/20/installation-doctoprint-pour-une-discoeasy-200/)
@@ -20,12 +20,14 @@ and add [static ip](https://serverfault.com/questions/335994/creating-a-static-i
 
 [How Do I Find Out My Linux Gateway](https://www.cyberciti.biz/faq/how-to-find-gateway-ip-address/)
 
-## Plugins
+# Plugins
 
 [install](http://plugins.octoprint.org/help/installation/)
 - [Mark list](https://www.youtube.com/watch?v=Zq1sFBgxy8o)
 
-### [Octolapse (timelapse)](https://plugins.octoprint.org/plugins/octolapse/)
+## [Octolapse (timelapse)](https://formerlurker.github.io/Octolapse/)
+Multiple cam / satbilisation:
+- [plugin](https://plugins.octoprint.org/plugins/octolapse/)
 - [Mark Guide](https://www.youtube.com/watch?v=CjOIxKxb3h8)
 
 ### [Bed Vizualizer](https://plugins.octoprint.org/plugins/bedlevelvisualizer/)
