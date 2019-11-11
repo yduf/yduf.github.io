@@ -29,6 +29,8 @@ and add [static ip](https://serverfault.com/questions/335994/creating-a-static-i
 Multiple cam / satbilisation:
 - [plugin](https://plugins.octoprint.org/plugins/octolapse/)
 - [Mark Guide](https://www.youtube.com/watch?v=CjOIxKxb3h8)
+- [other](https://www.youtube.com/watch?v=mXv3rw1-058)
+- [Chris's Basement](https://www.youtube.com/watch?v=BhiJua0q2Cs)
 
 ## [Bed Vizualizer](https://plugins.octoprint.org/plugins/bedlevelvisualizer/)
 
