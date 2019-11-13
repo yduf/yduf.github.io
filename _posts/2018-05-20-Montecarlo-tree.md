@@ -20,8 +20,8 @@ uct = score/visit + c*sqrt(2*ln(V)/visit)
 {% endhighlight %}
 
 Evalution function using UCT is balanced between:
-- **exploitation** (first term - score)
-- **exploration**  (second term)
+- **exploration**  (second term) - meaning exploring tree space to gain new knowledge
+- **exploitation** (first term - score) - meaning using aquired knowledge to focus on promising node.
 
 As each node is visited, the denominator of the exploration term increases, which decreases its contribution.  On  the  other  hand,  if  another  child  of  the  parent node  is  visited,  the  numerator  increases  and  hence  the exploration  values  of  unvisited  siblings  increase.  The exploration  term  ensures  that  each  child  has  a  non-zero  probability  of  selection,  which  is  essential  giventhe random nature of the playouts.
 
