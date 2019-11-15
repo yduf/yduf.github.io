@@ -1,7 +1,7 @@
 ---
 title: Octoprint
 published: true
-tags: 3dprinter
+tags: 3dprinter linux
 ---
 ## [server](http://192.168.0.123/)
 
@@ -9,7 +9,7 @@ tags: 3dprinter
 ssh pi@192.168.0.123
 {% endhighlight %}
 
-# [Home](http://octoprint.org/)
+# [Octopie setup](http://octoprint.org/)
 
 - [Configuration](http://octoprint.org/download/)
 - [installation Octoprint](http://www.dagomaniack.fr/2017/01/20/installation-doctoprint-pour-une-discoeasy-200/)
