@@ -42,6 +42,10 @@ iface default inet dhcp
 [install](http://plugins.octoprint.org/help/installation/)
 - [Mark list](https://www.youtube.com/watch?v=Zq1sFBgxy8o)
 
+## [Dashboard](https://plugins.octoprint.org/plugins/dashboard/)
+- [DisplayLayerProgress](https://plugins.octoprint.org/plugins/DisplayLayerProgress/)
+- [OctoPrint-PrintTimeGenius](https://plugins.octoprint.org/plugins/PrintTimeGenius/)
+
 ## [Webcam tab](https://plugins.octoprint.org/plugins/webcamtab/)
 
 ## [Octolapse (timelapse)](https://formerlurker.github.io/Octolapse/)
