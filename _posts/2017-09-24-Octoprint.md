@@ -48,12 +48,17 @@ iface default inet dhcp
 
 ## [Webcam tab](https://plugins.octoprint.org/plugins/webcamtab/)
 
+## OctoPrint Multi-cam Plugin - [Chris's Basement](https://www.youtube.com/watch?v=FzpBgEG_ksw)
+
 ## [Octolapse (timelapse)](https://formerlurker.github.io/Octolapse/)
 Multiple cam / satbilisation:
 - [plugin](https://plugins.octoprint.org/plugins/octolapse/)
 - [Mark Guide](https://www.youtube.com/watch?v=CjOIxKxb3h8)
 - [other](https://www.youtube.com/watch?v=mXv3rw1-058)
 - [Chris's Basement](https://www.youtube.com/watch?v=BhiJua0q2Cs)
+
+with DSLR camera
+- [Timelapse Effect](https://www.youtube.com/watch?v=Is10iN43UjI)
 
 ## [Bed Vizualizer](https://plugins.octoprint.org/plugins/bedlevelvisualizer/)
 
