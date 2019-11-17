@@ -29,6 +29,9 @@ Multiple cam / satbilisation:
 - [other](https://www.youtube.com/watch?v=mXv3rw1-058)
 - [Chris's Basement](https://www.youtube.com/watch?v=BhiJua0q2Cs)
 
+Cam tuning
+- [Why can't I change contrast, zoom, focus, etc?](https://github.com/FormerLurker/Octolapse/wiki/Troubleshooting#why-cant-i-change-contrast-zoom-focus-etc)
+
 with DSLR camera
 - [Timelapse Effect](https://www.youtube.com/watch?v=Is10iN43UjI)
 
