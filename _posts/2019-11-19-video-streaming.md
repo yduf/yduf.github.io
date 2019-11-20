@@ -12,4 +12,8 @@ excerpt_separator: ''
 - [Installation for ARM (Raspberry Pi)](http://www.linux-projects.org/uv4l/installation/)
 - [v4l2rtspserver](https://github.com/mpromonet/v4l2rtspserver)
 
+### Raspidisp driver
+- turn a given Raspberry Pi HDMI output source into a virtual Video4Linux-compliant device (such as a camera) that can capture the images coming from that source
+- when used with the Streaming Server, it allows your Raspberry Pi to be mirrored and controlled from the browser (plugin-free). [demo](https://www.youtube.com/watch?v=wthS8TPk2DE&feature=youtu.be)
+
 ## [How to simultaneously stream 3 streams from a raspberry pi camera](https://community.octoprint.org/t/how-to-simultaneously-stream-3-streams-from-a-raspberry-pi-camera/11330)
