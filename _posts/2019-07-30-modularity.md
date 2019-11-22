@@ -1,7 +1,7 @@
 ---
 published: true
 title: False simplicity
-tags: mental-model software complexity
+tags: mental-model simplicity software complexity
 ---
 ## How interactions between many pieces makes the whole thing complex - [HN](https://news.ycombinator.com/item?id=20567147)
 
