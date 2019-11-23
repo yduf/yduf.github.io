@@ -33,4 +33,12 @@ Bus 001 Device 004: ID 1908:2310 GEMBIRD
 - turn a given Raspberry Pi HDMI output source into a virtual Video4Linux-compliant device (such as a camera) that can capture the images coming from that source
 - when used with the Streaming Server, it allows your Raspberry Pi to be mirrored and controlled from the browser (plugin-free). [demo](https://www.youtube.com/watch?v=wthS8TPk2DE&feature=youtu.be)
 
+## [uv4l-server](https://www.linux-projects.org/documentation/uv4l-server/)
+To run the ‘raspicam’ driver with the streaming server enabled
+on port 9000 and a password for the admin user (in one line):
+
+{% highlight bash %}
+uv4l --auto-video_nr --driver raspicam --encoding mjpeg --server-option '--port=9000' --server-option '--admin-password=myp4ssw0rd!'
+{% endhighlight %
+
 ## [How to simultaneously stream 3 streams from a raspberry pi camera](https://community.octoprint.org/t/how-to-simultaneously-stream-3-streams-from-a-raspberry-pi-camera/11330)
