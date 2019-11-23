@@ -2,7 +2,6 @@
 published: true
 title: Video Streaming
 tags: video streaming raspberry
-excerpt_separator: ''
 ---
 # stream into H.264 format
 
@@ -10,6 +9,8 @@ excerpt_separator: ''
 > UV4L was originally conceived as a modular collection of Video4Linux2-compliant, cross-platform, user space drivers for real or virtual video input and output devices (with absolutely no external difference from kernel drivers).
 
 - [Installation for ARM (Raspberry Pi)](http://www.linux-projects.org/uv4l/installation/)
+	- [raspian buster not yet available](https://blog.domski.pl/uv4l-on-raspberry-pi-running-debian-buster/)
+    	- installed uv4l from stretch
 - [v4l2rtspserver](https://github.com/mpromonet/v4l2rtspserver)
 
 ### Raspidisp driver
