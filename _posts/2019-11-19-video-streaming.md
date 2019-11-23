@@ -9,9 +9,25 @@ tags: video streaming raspberry
 > UV4L was originally conceived as a modular collection of Video4Linux2-compliant, cross-platform, user space drivers for real or virtual video input and output devices (with absolutely no external difference from kernel drivers).
 
 - [Installation for ARM (Raspberry Pi)](http://www.linux-projects.org/uv4l/installation/)
+    - installed uv4l using stretch version => raspicam works
 	- [raspian buster not yet available](https://blog.domski.pl/uv4l-on-raspberry-pi-running-debian-buster/)
-    	- installed uv4l from stretch
 - [v4l2rtspserver](https://github.com/mpromonet/v4l2rtspserver)
+
+### [uv4l-core](https://www.linux-projects.org/documentation/uv4l-core/)
+
+### [uv4l-raspicam (driver)]()
+{% highlight bash %}
+/usr/bin/uv4l -f -k --sched-fifo --mem-lock --config-file=/etc/uv4l/uv4l-raspicam.conf --driver raspicam --driver-config-file=/etc/uv4l/uv4l-raspicam.conf
+{% endhighlight %
+
+### [uv4l-uvc (driver)](https://www.linux-projects.org/documentation/uv4l-uvc/)
+Userspace Video4Linux driver module for devices based on the USB VIdeo Class specifications
+
+{% highlight bash %}
+lsusb
+Bus 001 Device 004: ID 1908:2310 GEMBIRD 
+{% endhighlight %
+
 
 ### Raspidisp driver
 - turn a given Raspberry Pi HDMI output source into a virtual Video4Linux-compliant device (such as a camera) that can capture the images coming from that source
