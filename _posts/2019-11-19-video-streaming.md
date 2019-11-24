@@ -20,7 +20,7 @@ tags: video streaming raspberry
 
 {% highlight bash %}
 /usr/bin/uv4l -f -k --sched-fifo --mem-lock --config-file=/etc/uv4l/uv4l-raspicam.conf --driver raspicam --driver-config-file=/etc/uv4l/uv4l-raspicam.conf
-{% endhighlight %
+{% endhighlight %}
 
 ### [uv4l-uvc (driver)](https://www.linux-projects.org/documentation/uv4l-uvc/)
 Userspace Video4Linux driver module for devices based on the USB VIdeo Class specifications
@@ -28,7 +28,7 @@ Userspace Video4Linux driver module for devices based on the USB VIdeo Class spe
 {% highlight bash %}
 lsusb
 Bus 001 Device 004: ID 1908:2310 GEMBIRD 
-{% endhighlight %
+{% endhighlight %}
 
 
 ### Raspidisp driver
@@ -41,6 +41,6 @@ on port 9000 and a password for the admin user (in one line):
 
 {% highlight bash %}
 uv4l --auto-video_nr --driver raspicam --encoding mjpeg --server-option '--port=9000' --server-option '--admin-password=myp4ssw0rd!'
-{% endhighlight %
+{% endhighlight %}
 
 ## [How to simultaneously stream 3 streams from a raspberry pi camera](https://community.octoprint.org/t/how-to-simultaneously-stream-3-streams-from-a-raspberry-pi-camera/11330)
