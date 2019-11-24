@@ -15,7 +15,7 @@ tags: video streaming raspberry
 
 ### [uv4l-core](https://www.linux-projects.org/documentation/uv4l-core/)
 
-### [uv4l-raspicam (driver)]()
+### uv4l-raspicam (driver)
 **uv4l_raspicam.service**
 {% highlight bash %}
 /usr/bin/uv4l -f -k --sched-fifo --mem-lock --config-file=/etc/uv4l/uv4l-raspicam.conf --driver raspicam --driver-config-file=/etc/uv4l/uv4l-raspicam.conf
