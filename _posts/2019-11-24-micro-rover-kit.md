@@ -1,7 +1,7 @@
 ---
 published: true
 title: 'Micro:Rover Kit for BBC Micro:bit'
-tags: robots
+tags: robot kids edu
 ---
 ## [amazon.fr](https://www.amazon.fr/Freenove-Micro-Include-Tutorial-microbit/dp/B07QV5VS5W/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Micro%3ARover+Kit+for+BBC+Micro%3Abit&qid=1574708227&sr=8-1)
 
