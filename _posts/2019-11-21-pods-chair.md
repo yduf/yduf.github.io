@@ -7,3 +7,5 @@ tags: fun pods mechanical art robot
 
 - [thingiverse](https://www.thingiverse.com/search?q=strandbeest&dwh=105dd6eb745aeb4)
 	- [The Beest - A Strandbeest Walker](https://www.thingiverse.com/thing:2216204)
+
+![caption](https://web.archive.org/web/20170730105230if_/http://boim.com/Walkin8r/JansenCycle.gif)
