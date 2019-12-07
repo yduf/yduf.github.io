@@ -60,7 +60,7 @@ function BACKUP(v,∆)
 - [Monte-Carlo Tree Search](http://matthewdeakos.me/2018/03/10/monte-carlo-tree-search/)
 - [Introduction to Monte Carlo Tree Search](https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/)
 
-### Advanced
+### heavy rollout
 - [Integrating Monte Carlo Tree Search and Neural Networks](http://matthewdeakos.me/2018/07/03/integrating-monte-carlo-tree-search-and-neural-networks/)
 
 
