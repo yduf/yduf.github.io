@@ -62,7 +62,7 @@ function BACKUP(v,∆)
 
 ### heavy rollout
 - [Integrating Monte Carlo Tree Search and Neural Networks](http://matthewdeakos.me/2018/07/03/integrating-monte-carlo-tree-search-and-neural-networks/)
-
+- [Beyond Monte Carlo Tree Search: Playing Go withDeep Alternative Neural Network and Long-Term Evaluation](https://arxiv.org/pdf/1706.04052.pdf)
 
 see also [HN](https://news.ycombinator.com/item?id=10209677)
 
