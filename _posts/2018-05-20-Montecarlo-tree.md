@@ -54,7 +54,15 @@ function BACKUP(v,∆)
         v ← parent of v
 {% endhighlight %}
 
-## [Introduction to Monte Carlo Tree Search](https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/)
+## Introduction
+
+### Basics
+- [Monte-Carlo Tree Search](http://matthewdeakos.me/2018/03/10/monte-carlo-tree-search/)
+- [Introduction to Monte Carlo Tree Search](https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/)
+
+### Advanced
+- [Integrating Monte Carlo Tree Search and Neural Networks](http://matthewdeakos.me/2018/07/03/integrating-monte-carlo-tree-search-and-neural-networks/)
+
 
 see also [HN](https://news.ycombinator.com/item?id=10209677)
 
