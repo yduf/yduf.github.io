@@ -1,7 +1,7 @@
 ---
 published: true
-title: Eye Mechanism Controller
-tags: arduino make
+title: Eye Mechanism Controller (Nilheim Mechatronics)
+tags: arduino make robot
 ---
 ## [youtube](https://www.youtube.com/watch?v=qd465T2zMNw)
 
