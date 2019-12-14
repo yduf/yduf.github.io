@@ -25,8 +25,7 @@ Evalution function using UCT is balanced between:
 
 As each node is visited, the denominator of the exploration term increases, which decreases its contribution.  On  the  other  hand,  if  another  child  of  the  parent node  is  visited,  the  numerator  increases  and  hence  the exploration  values  of  unvisited  siblings  increase.  The exploration  term  ensures  that  each  child  has  a  non-zero  probability  of  selection,  which  is  essential  giventhe random nature of the playouts.
 
-## Pseudo Code
-[python code](https://github.com/int8/monte-carlo-tree-search)
+## Monte-Carlo Tree Search
 
 Monte-Carlo Tree search is made up of four distinct operations [1](http://matthewdeakos.me/2018/03/10/monte-carlo-tree-search/):
 - Selection
@@ -34,6 +33,8 @@ Monte-Carlo Tree search is made up of four distinct operations [1](http://matthe
 - Simulation
 - Backpropagation
 
+## Pseudo Code
+[python code](https://github.com/int8/monte-carlo-tree-search)
 
 code from Paper [A Survey of Monte Carlo Tree Search Methods](http://mcts.ai/pubs/mcts-survey-master.pdf).
 
