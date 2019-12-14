@@ -28,6 +28,13 @@ As each node is visited, the denominator of the exploration term increases, whic
 ## Pseudo Code
 [python code](https://github.com/int8/monte-carlo-tree-search)
 
+Monte-Carlo Tree search is made up of four distinct operations [1](http://matthewdeakos.me/2018/03/10/monte-carlo-tree-search/):
+- Selection
+- Expansion
+- Simulation
+- Backpropagation
+
+
 code from Paper [A Survey of Monte Carlo Tree Search Methods](http://mcts.ai/pubs/mcts-survey-master.pdf).
 
 {% highlight cpp %}
