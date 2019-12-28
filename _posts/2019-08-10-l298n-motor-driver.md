@@ -6,7 +6,8 @@ tags: arduino motor driver robot
 - **PWM** – For controlling speed
 - **H-Bridge** – For controlling rotation direction
 
-## [TB6612FNG H-Bridge Motor Controller](https://www.youtube.com/watch?v=JPPTRj0KWbg) - Better than L298N?
+## [TB6612FNG H-Bridge Motor Controller](https://dronebotworkshop.com/tb6612fng-h-bridge/)
+[video](https://www.youtube.com/watch?v=JPPTRj0KWbg) - Better than L298N?
 - use similar control signal
 - MOSFETs better performance
 	- better performance
