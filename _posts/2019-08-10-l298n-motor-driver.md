@@ -6,6 +6,12 @@ tags: arduino motor driver robot
 - **PWM** – For controlling speed
 - **H-Bridge** – For controlling rotation direction
 
+## [TB6612FNG H-Bridge Motor Controller](https://www.youtube.com/watch?v=JPPTRj0KWbg) - Better than L298N?
+- use similar control signal
+- MOSFETs better performance
+	- better performance
+    - lower voltage drop
+
 ## [Powering motors & logic](https://lastminuteengineers.com/l298n-dc-stepper-driver-arduino-tutorial/#power-supply)
 The module has an on-board 78M05 5V regulator from STMicroelectronics. It can be enabled or disabled through a jumper.
 
