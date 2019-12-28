@@ -1,7 +1,7 @@
 ---
 published: true
 title: Workbench
-tags: workbench
+tags: make workbench wood
 ---
 ## [The clever Workbench](https://www.youtube.com/watch?v=TPVq0zXKy3c)
 
