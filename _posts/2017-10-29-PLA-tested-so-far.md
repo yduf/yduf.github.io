@@ -5,6 +5,11 @@ tags: 3dprint pla
 ---
 PLA tested so far -- 1.75mm
 
+## ICE
+0.75kg
+
+- [white](https://www.amazon.fr/gp/product/B017HAIMZU/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)
+
 ## Verbatim 
 
 1kg version.
