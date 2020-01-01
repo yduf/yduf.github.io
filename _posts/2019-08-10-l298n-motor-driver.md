@@ -23,7 +23,9 @@ The module has an on-board 78M05 5V regulator from STMicroelectronics. It can be
 
 ## [How to Use L298N Motor Driver](https://www.teachmemicro.com/use-l298n-motor-driver/)
 
-- [Controlling DC Motors with the L298N H Bridge and Arduino (
+### [controle motor with a potentiometer](https://i0.wp.com/dronebotworkshop.com/wp-content/uploads/2017/02/L298-Motor-Control-Module-Arduino-Potentiometers-e1504972437694.jpg?w=768&ssl=1)
+
+### [Controlling DC Motors with the L298N H Bridge and Arduino (
 DroneBot WS)](https://dronebotworkshop.com/dc-motors-l298n-h-bridge/)
 [![caption](https://img.youtube.com/vi/dyjo_ggEtVU/0.jpg)](https://www.youtube.com/watch?v=dyjo_ggEtVU)
 
