@@ -8,4 +8,5 @@ _Hexagonal grids are used in some games but aren’t quite as straightforward or
 
 Thanks to [Codingame](https://www.codingame.com)!
 
-## [Hexagonal Tiling Explained!](https://www.youtube.com/watch?v=VmrIDyYiJBA)
+## Hexagonal Tiling Explained! - [ The Art of Code
+](https://www.youtube.com/watch?v=VmrIDyYiJBA)
