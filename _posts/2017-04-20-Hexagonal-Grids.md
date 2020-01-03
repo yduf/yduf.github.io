@@ -1,6 +1,6 @@
 ---
 published: true
-tags: hexagon grids codingame
+tags: hex grid games
 ---
 ## [from Red Blob Games](http://www.redblobgames.com/grids/hexagons/)
 
