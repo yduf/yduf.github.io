@@ -44,3 +44,9 @@ uv4l --auto-video_nr --driver raspicam --encoding mjpeg --server-option '--port=
 {% endhighlight %}
 
 ## [How to simultaneously stream 3 streams from a raspberry pi camera](https://community.octoprint.org/t/how-to-simultaneously-stream-3-streams-from-a-raspberry-pi-camera/11330)
+
+## [How to live stream to YouTube](https://linuxforever.info/2017/05/06/how-to-live-stream-to-youtube-from-linux-mint-ubuntu/)
+
+- require ffmpeg
+- [stream_to_youtube.sh](https://gist.github.com/olasd/9841772)
+- youtube config for getting the key.
