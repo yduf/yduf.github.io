@@ -16,12 +16,13 @@ tags: AI c++ NN
 
 {% highlight cpp %}
 using LeNet = loss_multiclass_log<
-                                fc<10,        
-                                relu<fc<84,   
-                                relu<fc<120,  
-                                max_pool<2,2,2,2,relu<con<16,5,5,1,1,
-                                max_pool<2,2,2,2,relu<con<6,5,5,1,1,
-                                input<matrix<unsigned char>>>>>>>>>>>>>>;
+                fc<10,relu<
+                fc<84,relu<
+                fc<120,max_pool<2,2,2,2,relu<
+                con<16,5,5,1,1,max_pool<2,2,2,2,relu<
+                con<6,5,5,1,1,
+                input<matrix<unsigned char>>
+  				>>>>>>>>>>>>;
 {% endhighlight %}
 
 - [dlib function approximation](https://stackoverflow.com/questions/48661106/dlib-how-do-i-use-the-loss-mean-squared-multioutput-training-label-type)
