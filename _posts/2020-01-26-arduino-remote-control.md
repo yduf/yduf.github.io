@@ -3,9 +3,8 @@ published: true
 title: Remote Control (Arduino)
 tags: bluetooth arduino remote control android
 ---
-# Bluetooth
 
-## Arduino
+# Bluetooth
 - [Arduino Bluetooth RC Car](https://www.instructables.com/id/Arduino-Bluetooth-RC-Car-Android-Controlled/)
 	- [Android apps](https://www.ardumotive.com/bluetooth-rc-car.html)
 
