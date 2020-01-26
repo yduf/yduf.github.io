@@ -2,7 +2,6 @@
 published: true
 title: Youtube-dl
 tags: video
-excerpt_separator: ''
 ---
 ## [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl/)
 - [Supported sites](https://ytdl-org.github.io/youtube-dl/supportedsites.html)
@@ -15,6 +14,12 @@ youtube-dl -F 'http://www.youtube.com/watch?v=P9pzm5b6FFY'
 
 # choose one
 youtube-dl -f 22 'http://www.youtube.com/watch?v=P9pzm5b6FFY'
+
+# merge two video+audio
+youtube-dl -f 22+136 'http://www.youtube.com/watch?v=P9pzm5b6FFY'
+
+# download many
+youtube-dl -f 22,136 'http://www.youtube.com/watch?v=P9pzm5b6FFY'
 {% endhighlight %}
 
 ## Downloading multiple videos from a list
