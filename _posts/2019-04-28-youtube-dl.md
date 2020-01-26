@@ -1,7 +1,7 @@
 ---
 published: true
 title: Youtube-dl
-tags: video
+tags: video youtube
 ---
 ## [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl/)
 - [Supported sites](https://ytdl-org.github.io/youtube-dl/supportedsites.html)
