@@ -18,7 +18,7 @@ youtube-dl -f 22 'http://www.youtube.com/watch?v=P9pzm5b6FFY'
 # merge two video+audio
 youtube-dl -f 22+136 'http://www.youtube.com/watch?v=P9pzm5b6FFY'
 
-# download many
+# download many format
 youtube-dl -f 22,136 'http://www.youtube.com/watch?v=P9pzm5b6FFY'
 {% endhighlight %}
 
