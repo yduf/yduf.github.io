@@ -2,7 +2,6 @@
 published: true
 title: ZFS (Ubuntu)
 tags: zfs linux ubuntu
-excerpt_separator: ''
 ---
 ## [ZFS -- baked directly into Ubuntu -- supported by Canonical.](http://blog.dustinkirkland.com/2016/02/zfs-is-fs-for-containers-in-ubuntu-1604.html)
 - What does "support" mean?
@@ -11,6 +10,16 @@ excerpt_separator: ''
     - The user space zfsutils-linux package will be included in Ubuntu Main, with security updates provided by Canonical.
     
 ## [ref](https://wiki.ubuntu.com/Kernel/Reference/ZFS) 
+
+# Maintenance
+##
+{% highlight bash %}
+sudo zpool status
+cd /storage_pool
+df -h .
+{% endhighlight %}
+
+## [Replacing a (silently) failing disk in a ZFS pool](https://imil.net/blog/2019/07/02/Replacing-a-silently-failing-disk-in-a-ZFS-pool/)
 
 # Configuration
 ## [Pool - RAID5 / Z1](https://www.maketecheasier.com/use-zfs-filesystem-ubuntu-linux/)
