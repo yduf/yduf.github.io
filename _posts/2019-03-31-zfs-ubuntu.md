@@ -12,8 +12,10 @@ tags: zfs linux ubuntu
 ## [ref](https://wiki.ubuntu.com/Kernel/Reference/ZFS) 
 
 # Maintenance
-##
+## [Check Data Integrity (scrub)](https://prefetch.net/blog/index.php/2011/10/15/using-the-zfs-scrub-feature-to-verify-the-integrity-of-your-storage/)
 {% highlight bash %}
+sudo zpool scrub rpool
+
 sudo zpool status
 cd /storage_pool
 df -h .
