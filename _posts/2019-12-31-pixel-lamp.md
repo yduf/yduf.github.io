@@ -1,7 +1,7 @@
 ---
 published: true
 title: Lampe Pixel
-tags: make fun 3dmodel
+tags: make fun 3dmodel led animation
 ---
 ## [heliox](https://www.youtube.com/watch?v=94nbqv7Jhlo)
 
@@ -21,3 +21,5 @@ tags: make fun 3dmodel
 ### LES MODÈLES 3D + SCRIPT
 - Modèles 3D : https://cults3d.com/fr/mod%C3%A8le-3d...
 - Le script Arduino : https://drive.google.com/open?id=1V1o...
+
+## [How to Easily create Animations for your LED Matrix](https://www.youtube.com/watch?v=o6_UYb6I4x4)
