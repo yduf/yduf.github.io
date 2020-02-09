@@ -23,3 +23,4 @@ tags: make fun 3dmodel led animation
 - Le script Arduino : https://drive.google.com/open?id=1V1o...
 
 ## [How to Easily create Animations for your LED Matrix](https://www.youtube.com/watch?v=o6_UYb6I4x4)
+- Tyler Jones (software)
