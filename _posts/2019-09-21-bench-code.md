@@ -23,6 +23,6 @@ g++  example.cc -lfollybenchmark -lfolly -lglog -lgflags -pthread -lm -lpthread 
 
 Adding unrelated function slow down/or accelerate code.
 
-[Performance Analysis & Tuning on Modern CPU - Denis Bakhvalov.](https://www.youtube.com/watch?v=Ho3bCIJcMcc&feature=youtu.be&t=351)
+- [Performance Analysis & Tuning on Modern CPU - Denis Bakhvalov.](https://www.youtube.com/watch?v=Ho3bCIJcMcc&feature=youtu.be&t=351)
 	- [Blog](https://easyperf.net/notes/)
     - [slides](https://github.com/dendibakh/dendibakh.github.io/blob/master/_posts/presentations/PerfAnalysisOnModernCPU.pdf)
