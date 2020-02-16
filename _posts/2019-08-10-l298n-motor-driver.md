@@ -13,6 +13,7 @@ tags: arduino motor driver robot
 	- better performance
     - lower voltage drop
     
+- [TB6612FNG Hookup Guide](https://learn.sparkfun.com/tutorials/tb6612fng-hookup-guide/all)
 ![caption](https://i1.wp.com/dronebotworkshop.com/wp-content/uploads/2019/12/TB6612FNG-Arduino-Hookup.jpeg?w=768&ssl=1)
 
 ## [Powering motors & logic](https://lastminuteengineers.com/l298n-dc-stepper-driver-arduino-tutorial/#power-supply)
