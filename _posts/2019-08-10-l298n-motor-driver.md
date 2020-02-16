@@ -12,6 +12,8 @@ tags: arduino motor driver robot
 - MOSFETs better performance
 	- better performance
     - lower voltage drop
+    
+![caption](https://i1.wp.com/dronebotworkshop.com/wp-content/uploads/2019/12/TB6612FNG-Arduino-Hookup.jpeg?w=768&ssl=1)
 
 ## [Powering motors & logic](https://lastminuteengineers.com/l298n-dc-stepper-driver-arduino-tutorial/#power-supply)
 The module has an on-board 78M05 5V regulator from STMicroelectronics. It can be enabled or disabled through a jumper.
@@ -25,8 +27,7 @@ The module has an on-board 78M05 5V regulator from STMicroelectronics. It can be
 
 ### [controle motor with a potentiometer](https://i0.wp.com/dronebotworkshop.com/wp-content/uploads/2017/02/L298-Motor-Control-Module-Arduino-Potentiometers-e1504972437694.jpg?w=768&ssl=1)
 
-### [Controlling DC Motors with the L298N H Bridge and Arduino (
-DroneBot WS)](https://dronebotworkshop.com/dc-motors-l298n-h-bridge/)
+### [Controlling DC Motors with the L298N H Bridge and Arduino (DroneBot WS)](https://dronebotworkshop.com/dc-motors-l298n-h-bridge/)
 [![caption](https://img.youtube.com/vi/dyjo_ggEtVU/0.jpg)](https://www.youtube.com/watch?v=dyjo_ggEtVU)
 
 ![caption](https://www.teachmemicro.com/wp-content/uploads/2018/03/L298N-H-Bridge-Motor-Controller-Annotated.jpg)
