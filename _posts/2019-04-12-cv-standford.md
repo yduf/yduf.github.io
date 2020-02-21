@@ -1,7 +1,7 @@
 ---
 published: true
 title: Convolutional Neural Networks for Visual Recognition
-tags: computer-vision CNN NN AI
+tags: computer-vision NN AI
 ---
 ## [cs231n.stanford.edu](http://cs231n.stanford.edu/)
 
@@ -34,3 +34,9 @@ In Lecture 5 we move from fully-connected neural networks to convolutional neura
 ## [Lecture 6 | Training Neural Networks I](https://www.youtube.com/watch?v=wEoyxE0GP2M)
 
 Lecture 7 continues our discussion of practical issues for training neural networks. We discuss different update rules commonly used to optimize neural networks during training, as well as different strategies for regularizing large neural networks including dropout. We also discuss transfer learning and finetuning.
+
+## ...
+
+## [Lecture 13 | Generative Models](https://www.youtube.com/watch?v=5WoItGTWV54)
+
+In Lecture 13 we move beyond supervised learning, and discuss generative modeling as a form of unsupervised learning. We cover the autoregressive PixelRNN and PixelCNN models, traditional and variational autoencoders (VAEs), and generative adversarial networks (GANs).
