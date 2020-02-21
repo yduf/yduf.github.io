@@ -1,6 +1,6 @@
 ---
 published: true
-title: Convolutional Neural Networks for Visual Recognition
+title: Convolutional Neural Networks for Visual Recognition (stanford.edu)
 tags: computer-vision NN AI
 ---
 ## [cs231n.stanford.edu](http://cs231n.stanford.edu/)
