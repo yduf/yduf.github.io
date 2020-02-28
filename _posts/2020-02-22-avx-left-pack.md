@@ -24,3 +24,7 @@ inline int compact(int *x, int *y, const int n) {
     return cnt;
 }
 {% endhighlight %}
+
+## SSE instruction
+- [_mm_shuffle_epi8](https://stackoverflow.com/questions/18708232/fast-compact-register-using-sse)
+
