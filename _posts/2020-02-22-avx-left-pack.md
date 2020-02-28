@@ -28,3 +28,6 @@ inline int compact(int *x, int *y, const int n) {
 ## SSE instruction
 - [_mm_shuffle_epi8](https://stackoverflow.com/questions/18708232/fast-compact-register-using-sse)
 
+- [Efficient sse shuffle mask generation for left-packing byte elements](https://stackoverflow.com/questions/45506309/efficient-sse-shuffle-mask-generation-for-left-packing-byte-elements)
+
+- [Fastest way to unpack 32 bits to a 32 byte SIMD vector](https://stackoverflow.com/questions/24225786/fastest-way-to-unpack-32-bits-to-a-32-byte-simd-vector?noredirect=1&lq=1)
