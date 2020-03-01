@@ -1,8 +1,16 @@
 ---
-title: Count the number of bits set 
+title: Count the number of bits set
 published: true
 tags: c++ bits
 ---
+Using the built-in functions of your compilers.
+
+For GCC:
+{% highlight cpp %}
+int __builtin_popcount (unsigned int x);
+int __builtin_popcountll (unsigned long long x)
+{% endhighlight %}
+
 ## [Hamming Weight](https://stackoverflow.com/questions/109023/how-to-count-the-number-of-set-bits-in-a-32-bit-integer/109025#109025)
 
 {% highlight cpp %}
