@@ -1,5 +1,5 @@
 ---
-title: Count the number of bits set
+title: Count the number of bits set (popcount)
 published: true
 tags: c++ bits
 ---
@@ -22,5 +22,3 @@ int popcount(uint32_t i)
      return (((i + (i >> 4)) & 0x0F0F0F0F) * 0x01010101) >> 24;
 }
 {% endhighlight %}
-
-see also popcount intrinsic/builtin.
