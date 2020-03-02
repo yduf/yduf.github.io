@@ -1,9 +1,13 @@
 ---
 published: true
 title: Unconditional code
-tags: bits
+tags: bits c++
 ---
-## Condition without branching
+## [Bit Twiddling Hacks](http://graphics.stanford.edu/~seander/bithacks.html#ParityMultiply)
 
 - [Conditionally set or clear bits without branching ](http://graphics.stanford.edu/~seander/bithacks.html#ConditionalSetOrClearBitsWithoutBranching)
 - [Conditionally negate a value without branching](http://graphics.stanford.edu/~seander/bithacks.html#ConditionalNegate)
+- [Detect if two integers have opposite signs](http://graphics.stanford.edu/~seander/bithacks.html#DetectOppositeSigns)
+- [Compute the integer absolute value (abs) without branching](http://graphics.stanford.edu/~seander/bithacks.html#IntegerAbs)
+- [Compute the minimum (min) or maximum (max) of two integers without branching](http://graphics.stanford.edu/~seander/bithacks.html#IntegerMinOrMax)
+- [Determining if an integer is a power of 2](http://graphics.stanford.edu/~seander/bithacks.html#DetermineIfPowerOf2)
