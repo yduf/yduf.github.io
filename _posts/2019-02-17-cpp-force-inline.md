@@ -7,6 +7,17 @@ tags: c++ fastware
 
 An interesting bechmark: [always_inline performance.](https://indico.cern.ch/event/386232/sessions/159923/attachments/771039/1057534/always_inline_performance.pdf) - [SO](https://stackoverflow.com/a/48212527/51386)
 
+[GCC 4.6.2 inlining behavior](https://stackoverflow.com/questions/23199385/gcc-4-6-2-inlining-behavior)
+
+[Options That Control Optimization](https://gcc.gnu.org/onlinedocs/gcc/Optimize-Options.html)
+{% highlight cpp %}
+// GCC
+#define ALWAYS_INLINE inline __attribute__((__always_inline__))
+#define NEVER_INLINE         __attribute__((__noinline__))
+//#define NEVER_INLINE
+{% endhighlight %}
+
+[Common Function Attributes (GCC)](https://gcc.gnu.org/onlinedocs/gcc/Common-Function-Attributes.html#Common-Function-Attributes)
 {% highlight cpp %}
 // GCC
 #define ALWAYS_INLINE inline __attribute__((__always_inline__))
