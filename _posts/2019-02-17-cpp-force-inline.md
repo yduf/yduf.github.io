@@ -18,6 +18,6 @@ An interesting bechmark: [always_inline performance.](https://indico.cern.ch/eve
 {% endhighlight %}
 
 [Common Function Attributes (GCC)](https://gcc.gnu.org/onlinedocs/gcc/Common-Function-Attributes.html#Common-Function-Attributes)
-- **cold** - The cold attribute on functions is used to inform the compiler that the function is unlikely to be executed.
-- **hot** - The hot attribute on a function is used to inform the compiler that the function is a hot spot of the compiled program.
+- **__cold__** - The cold attribute on functions is used to inform the compiler that the function is unlikely to be executed.
+- **__hot__** - The hot attribute on a function is used to inform the compiler that the function is a hot spot of the compiled program.
 
