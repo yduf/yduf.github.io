@@ -18,9 +18,6 @@ An interesting bechmark: [always_inline performance.](https://indico.cern.ch/eve
 {% endhighlight %}
 
 [Common Function Attributes (GCC)](https://gcc.gnu.org/onlinedocs/gcc/Common-Function-Attributes.html#Common-Function-Attributes)
-{% highlight cpp %}
-// GCC
-#define ALWAYS_INLINE inline __attribute__((__always_inline__))
-#define NEVER_INLINE         __attribute__((__noinline__))
-//#define NEVER_INLINE
-{% endhighlight %}
+- **cold** - The cold attribute on functions is used to inform the compiler that the function is unlikely to be executed.
+- **hot** - The hot attribute on a function is used to inform the compiler that the function is a hot spot of the compiled program.
+
