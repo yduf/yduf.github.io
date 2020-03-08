@@ -1,6 +1,8 @@
 ---
 published: true
 title: LEGO sorting machine
-tags: lego
+tags: lego sort AI
 ---
-## [youtube](https://www.youtube.com/watch?v=04JkdHEX3Yk)
+> Over two years in the making, this is the world's first Universal LEGO Sorting Machine, an AI-powered automated sorting machine that is capable of recognizing and sorting any LEGO part that has ever been produced. - [Daniel West](https://www.youtube.com/watch?v=04JkdHEX3Yk)
+
+[![caption](https://img.youtube.com/vi/04JkdHEX3Yk/0.jpg)](https://www.youtube.com/watch?v=04JkdHEX3Yk)
