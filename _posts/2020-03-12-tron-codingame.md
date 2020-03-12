@@ -12,3 +12,5 @@ tags: voronoi MCTS
 - [Tron Top 5%](https://vks.ai/2016-09-07-ai-challenge-in-78-lines)
 
 - [Monte-Carlo Tree SearchforMulti-Player Games](https://project.dke.maastrichtuniversity.nl/games/files/phd/Nijssen_thesis.pdf)
+- [Articulation Points (or Cut Vertices) in a Graph](https://www.geeksforgeeks.org/articulation-points-or-cut-vertices-in-a-graph/)
+	- [Graph Algorithms](https://www.eecs.wsu.edu/~holder/courses/CptS223/spr08/slides/graphapps.pdf)
