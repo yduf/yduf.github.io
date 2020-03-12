@@ -1,9 +1,13 @@
 ---
-title: Tic-Tac-Toe (Codingame)
+title: Ultimate Tic-Tac-Toe (Codingame)
 published: true
-tags: codingame MCTS
+tags: codingame MCTS AI NN
 ---
-## [Puzzle](https://www.codingame.com/multiplayer/bot-programming/tic-tac-toe)
+## [Codingame](https://www.codingame.com/multiplayer/bot-programming/tic-tac-toe)
+
+- [Tic-Tac-Toe with a Neural Network](https://nestedsoftware.com/2019/12/27/tic-tac-toe-with-a-neural-network-1fjn.206436.html)
+- [Playing Ultimate Tic-Tac-Toe using Reinforcement Learning](https://medium.com/@arnavparuthi/playing-ultimate-tic-tac-toe-using-reinforcement-learning-892f084f7def)
+	- [github](https://github.com/Arnav235/ultimate_tic-tac-toe_alphazero)
 
 ## [Agade Arena](https://github.com/Agade09/CG-UTTT-Arena)
 
