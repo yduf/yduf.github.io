@@ -14,3 +14,7 @@ tags: voronoi MCTS
 - [Monte-Carlo Tree SearchforMulti-Player Games](https://project.dke.maastrichtuniversity.nl/games/files/phd/Nijssen_thesis.pdf)
 - [Articulation Points (or Cut Vertices) in a Graph](https://www.geeksforgeeks.org/articulation-points-or-cut-vertices-in-a-graph/)
 	- [Graph Algorithms](https://www.eecs.wsu.edu/~holder/courses/CptS223/spr08/slides/graphapps.pdf)
+		- Depth-first search
+        - Biconnectivity
+        - Euler circuits
+        - Strongly-connected components
