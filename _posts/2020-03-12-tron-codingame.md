@@ -1,7 +1,7 @@
 ---
 published: true
 title: TRON Battle (Codingame
-tags: voronoi MCTS
+tags: voronoi MCTS codingame
 ---
 ## [Codingame](https://www.codingame.com/multiplayer/bot-programming/tron-battle)
 
