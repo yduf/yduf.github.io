@@ -2,10 +2,6 @@
 published: true
 tags: arduino linux
 ---
-## Arduino IDE on Linux
-
-There are many IDE available.
-
 I choosed to use [Platform.io](http://platformio.org/get-started).
 Which look more modern than others. Setup and installation was straightforward.
 
@@ -16,10 +12,10 @@ A lot of tutorials are available on [Adafruit](https://learn.adafruit.com/catego
 - [eyes](https://www.adafruit.com/product/3356)
 
 
-Tools:
+## Tools
 - [Resistor color code calculator](http://www.hobby-hour.com/electronics/resistorcalculator.php)
 
-Note:
+## Note
 
 Issue with the permissions for /dev/ttyACM0 can be permanantly solved by adding yourself to the dialout group: sudo usermod -a -G dialout <user>
 
