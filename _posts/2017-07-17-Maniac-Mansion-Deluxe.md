@@ -2,8 +2,7 @@
 published: true
 tags: games 8bit adventure
 ---
-## [lucasfan2004](http://www.adventuregamestudio.co.uk/site/games/game/401/)
-[Your goal](http://web.archive.org/web/20050629234845/www.lucasfangames.de/games_eng.htm) is to direct a team of three local college students (including Sandy's boyfriend Dave) through the mansion to rescue Sandy. As you explore, you'll meet all the strange inhabitants of the mansion, and you'll discover Dr. Fred's ambition to control the world - one teenage at a time.
+> [Your goal](http://web.archive.org/web/20050629234845/www.lucasfangames.de/games_eng.htm) is to direct a team of three local college students (including Sandy's boyfriend Dave) through the mansion to rescue Sandy. As you explore, you'll meet all the strange inhabitants of the mansion, and you'll discover Dr. Fred's ambition to control the world - one teenage at a time. - [lucasfan2004](http://www.adventuregamestudio.co.uk/site/games/game/401/)
 
 ![caption](https://www.old-games.com/screenshot/1446-9-maniac-mansion-deluxe.jpg)
 
