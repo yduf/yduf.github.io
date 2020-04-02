@@ -1,7 +1,6 @@
 ---
-title: Tu mourras moins bête (Marion Montaigne)
+title: Tu mourras moins bête
 published: true
-tags: blog fun
-excerpt_separator: ""
+tags: BD blog fun
 ---
-## [Home](http://tumourrasmoinsbete.blogspot.com/)
+> Mais tu mourras quand même! - [Marion Montaigne](http://tumourrasmoinsbete.blogspot.com/)
