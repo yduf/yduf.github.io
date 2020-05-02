@@ -19,6 +19,8 @@ title: MAKEHUMAN
 
 ![caption](http://www.makehumancommunity.org/sites/default/files/styles/large/public/field/image/splash.png?itok=TNQ_qqxK)
 
+![caption](https://3.bp.blogspot.com/-P6UXt5Ga0qY/Wf18PL0l6EI/AAAAAAAAGZI/EzAJzkM9tScDZN8lwjboplevZl_3KycugCLcBGAs/s1600/Introduction%2Bto%2BManuelbastioniLAB%2B1.6.0%2B00.png)
+
 ## older
 - [Make Human](http://www.makehuman.org/) - (moved)
 - [Manel Bastioni](http://www.manuelbastioni.com/) - (stopped)
