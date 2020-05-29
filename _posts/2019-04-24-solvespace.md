@@ -7,5 +7,6 @@ tags: cad linux application
 
 - [Tutorials](http://solvespace.com/tutorial.pl)
 - [A SolveSpace Learning Guide](http://www.farwire.net/SolveSpace-LearningGuide.htm)
+- [youtube](https://www.youtube.com/results?search_query=solvespace)
 
 ![caption](https://hackaday.com/wp-content/uploads/2016/06/front-page-pic_featured.png?w=800)
