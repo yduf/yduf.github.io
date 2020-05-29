@@ -5,7 +5,7 @@ tags: cad linux application
 ---
 ## [parametric 2d/3d CAD](http://solvespace.com/index.pl)
 
-- [Tutorials](http://solvespace.com/tutorial.pl)
+## [Tutorials](http://solvespace.com/tutorial.pl)
 - [A SolveSpace Learning Guide](http://www.farwire.net/SolveSpace-LearningGuide.htm)
 - [youtube](https://www.youtube.com/results?search_query=solvespace)
 	- [SolveSpace 3.0 Showcase - Modeling a Technical Piece](https://www.youtube.com/watch?v=1uZgUpjTg18)
