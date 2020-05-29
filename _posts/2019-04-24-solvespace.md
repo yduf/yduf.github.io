@@ -8,4 +8,4 @@ tags: cad linux application
 - [Tutorials](http://solvespace.com/tutorial.pl)
 - [A SolveSpace Learning Guide](http://www.farwire.net/SolveSpace-LearningGuide.htm)
 
-![caption](http://solvespace.com/pics/tut-finished-all-hidden.png)
+![caption](https://hackaday.com/wp-content/uploads/2016/06/front-page-pic_featured.png?w=800)
