@@ -4,7 +4,6 @@ title: Solvespace
 tags: cad linux application
 ---
 ## [parametric 2d/3d CAD](http://solvespace.com/index.pl)
-**Active** [Github](https://github.com/solvespace/solvespace)
 
 - [Tutorials](http://solvespace.com/tutorial.pl)
 - [A SolveSpace Learning Guide](http://www.farwire.net/SolveSpace-LearningGuide.htm)
@@ -15,3 +14,7 @@ tags: cad linux application
     - [Involute Gears](https://www.youtube.com/watch?v=i6tDWJsNsok)
 
 ![caption](https://hackaday.com/wp-content/uploads/2016/06/front-page-pic_featured.png?w=800)
+
+## Instalation
+**Active** [Github](https://github.com/solvespace/solvespace)
+ - latest available as [snap](https://snapcraft.io/solvespace)
