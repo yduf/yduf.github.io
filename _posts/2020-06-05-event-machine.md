@@ -7,3 +7,4 @@ tags: ruby
 
 - [Event-based Programming](https://www.bigfastblog.com/rubys-eventmachine-part-1-event-based-programming)
 - [Thin](https://www.bigfastblog.com/rubys-eventmachine-part-3-thin)
+- [EventMachine-LE](https://github.com/ibc/EventMachine-LE)
