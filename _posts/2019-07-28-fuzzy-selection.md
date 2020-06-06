@@ -10,8 +10,6 @@ tags: fuzzy text search cli grep repl
 echo '' | fzf --print-query --preview "cat *.json | jq {q}"
 {% endhighlight %}
 
-![video](https://sidneyliebrand.io/media/posts/fzf-ls-example-7ab6059c8.webm)
-
 {::nomarkdown}
 <div class="myvideo">
    <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
