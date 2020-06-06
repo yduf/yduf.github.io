@@ -1,7 +1,7 @@
 ---
 published: true
-title: Terminology (cad)
-tags: cad
+title: CAD Terminology
+tags: cad lexic
 ---
 - [Chamfer](https://cad.onshape.com/help/Content/chamfer.htm?tocpath=Part%20Studios%7CFeature%20Tools%7C_____8) Break sharp edges with a bevel. Define by the distance to break from the edge and by the angle made with the surface.
 	- [Freecad](https://wiki.freecadweb.org/PartDesign_Chamfer)
