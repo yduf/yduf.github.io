@@ -16,9 +16,7 @@ PLA tested so far -- 1.75mm
 
 ## Amazon
 
-1kg version.
-
-- [violet](https://www.amazon.fr/gp/product/B07D68S7C3/ref=ppx_yo_dt_b_asin_image_o05_s01?ie=UTF8&psc=1)
+- [violet (1kg)](https://www.amazon.fr/gp/product/B07D68S7C3/ref=ppx_yo_dt_b_asin_image_o05_s01?ie=UTF8&psc=1) - print at 220°, otherwise result is brittle, with loose adherence
 
 
 ## dagoma chromatic
