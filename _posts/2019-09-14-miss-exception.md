@@ -7,7 +7,7 @@ tags: artima error-handling lang java exception c++
 
 found on [apenwarr](https://apenwarr.ca/log/20070823)
 
-This apply particulariy to Java checked exception, and is amplified by lambda:
+This apply particulariy to Java checked exception, and is amplified when using lambda:
 - [The Trouble with Checked Exceptions](https://www.artima.com/intv/handcuffs.html)
 - [Exceptions in Java 8 Lambda Expressions](https://www.baeldung.com/java-lambda-exceptions)
 - [Sneakily Throwing Exceptions in Lambda Expressions in Java](https://4comprehension.com/sneakily-throwing-exceptions-in-lambda-expressions-in-java/)
