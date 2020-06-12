@@ -1,6 +1,6 @@
 ---
 published: true
-title: How To Resize Image Files On Linux
-tags: linux image
+title: Resize Image Files On Linux (How to)
+tags: linux image how-to
 ---
 using gThumb Editor
