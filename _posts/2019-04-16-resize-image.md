@@ -8,7 +8,7 @@ tags: linux image how-to
 - open with gThumb Editor
 
 ## Crop
-- pinta as __paint__ like interface, usefull for crop
+- pinta as __paint__ like interface, usefull for easy fast crop
 
 ## Multi image resize
 - TBD
