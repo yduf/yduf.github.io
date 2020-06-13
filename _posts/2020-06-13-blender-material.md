@@ -3,6 +3,4 @@ published: true
 title: Blender Material To Selected Faces
 tags: blender
 ---
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+- [Material To Selected Faces](https://www.youtube.com/watch?v=9323UapgvLk)
