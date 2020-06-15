@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'The Center of the Pixel is (0.5, 0.5)'
 publisehd: true
 tags: image opengl ray-tracing
