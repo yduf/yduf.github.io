@@ -1,7 +1,7 @@
 ---
 published: true
 title: Compute the following area
-tags: math exercise
+tags: math puzzle
 ---
 ## [MindyourDecision](https://www.youtube.com/watch?v=cPNdvdYn05c)
 
