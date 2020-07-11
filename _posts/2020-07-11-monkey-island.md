@@ -5,5 +5,6 @@ tags: games adventure
 ---
 ## The Secret of Monkey Island: Special Edition
 
-Install on Linux 
+Install on Linux (not working yet)
 - [Lutris](https://lutris.net/games/the-secret-of-monkey-island-special-edition/)
+- [scummvm?](https://forums.scummvm.org/viewtopic.php?t=7671)
