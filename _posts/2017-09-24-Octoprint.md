@@ -18,6 +18,9 @@ ssh pi@192.168.0.123
 - [DisplayLayerProgress](https://plugins.octoprint.org/plugins/DisplayLayerProgress/)
 - [OctoPrint-PrintTimeGenius](https://plugins.octoprint.org/plugins/PrintTimeGenius/)
 
+## [OctoDash](https://github.com/UnchartedBull/OctoDash)
+> OctoDash is a User Interface for OctoPrint, it utilizes the OctoPrint API but tries to use modern design principles in order to fully enable the power of your Raspberry Pi attached to your 3D Printer. OctoDash works best with a Touchscreen and will support almost all functions that OctoPrint offers just in a nicer format.
+
 ## [Webcam tab](https://plugins.octoprint.org/plugins/webcamtab/)
 
 ## OctoPrint Multi-cam Plugin - [Chris's Basement](https://www.youtube.com/watch?v=FzpBgEG_ksw)
@@ -44,4 +47,3 @@ Klipper g_code: BED_MESH_OUTPUT
 ## [Touch UI]()
 - [Setup: Boot to Browser](https://github.com/BillyBlaze/OctoPrint-TouchUI/wiki/Setup:-Boot-to-Browser)
 - [Guide d’installation d’octoprint avec écran local](http://doc.3dmodularsystems.com/guide-dinstallation-doctoprint-ecran-local/)
-
