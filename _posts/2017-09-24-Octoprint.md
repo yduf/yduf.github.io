@@ -23,6 +23,8 @@ Atlernative to TouchUI
 
 > OctoDash is a User Interface for OctoPrint, it utilizes the OctoPrint API but tries to use modern design principles in order to fully enable the power of your Raspberry Pi attached to your 3D Printer. OctoDash works best with a Touchscreen and will support almost all functions that OctoPrint offers just in a nicer format.
 
+- [enable Auto-login](https://raspberrypi.stackexchange.com/questions/40415/how-to-enable-auto-login/76275#76275)
+
 ## [Webcam tab](https://plugins.octoprint.org/plugins/webcamtab/)
 
 ## OctoPrint Multi-cam Plugin - [Chris's Basement](https://www.youtube.com/watch?v=FzpBgEG_ksw)
