@@ -19,6 +19,8 @@ ssh pi@192.168.0.123
 - [OctoPrint-PrintTimeGenius](https://plugins.octoprint.org/plugins/PrintTimeGenius/)
 
 ## [OctoDash](https://github.com/UnchartedBull/OctoDash)
+Atlernative to TouchUI
+
 > OctoDash is a User Interface for OctoPrint, it utilizes the OctoPrint API but tries to use modern design principles in order to fully enable the power of your Raspberry Pi attached to your 3D Printer. OctoDash works best with a Touchscreen and will support almost all functions that OctoPrint offers just in a nicer format.
 
 ## [Webcam tab](https://plugins.octoprint.org/plugins/webcamtab/)
@@ -44,7 +46,7 @@ Klipper g_code: BED_MESH_OUTPUT
 
 ## [Exclude Region](https://discourse.octoprint.org/t/exclude-region-plugin-is-one-of-the-best-ever/2742)
 
-## [Touch UI]()
+## Touch UI
 - [Setup: Boot to Browser](https://github.com/BillyBlaze/OctoPrint-TouchUI/wiki/Setup:-Boot-to-Browser)
 	- [uninstall](https://github.com/BillyBlaze/OctoPrint-TouchUI/issues/289)
 {% highlight bash %}
