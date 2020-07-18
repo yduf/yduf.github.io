@@ -1,6 +1,6 @@
 ---
 published: true
 title: Jupyter
-tags: repl python
+tags: repl python notebook
 ---
 > open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text - [Jupyter](https://jupyter.org/index.html)
