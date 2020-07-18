@@ -23,3 +23,18 @@ see also [AlphaGo Zero cheat sheet](https://medium.com/applied-data-science/how-
 - [DeepReinforcementLearning](https://github.com/yduf/DeepReinforcementLearning)
 	- [Jupyter]({% post_url 2020-07-18-python-jupyter %})
     - [Keras]({% post_url 2020-07-18-keras-python %})
+    
+
+{% highlight bash %}
+conda install jupyter
+conda install keras
+conda install matplotlib
+conda install pydot
+sudo apt-get install graphviz
+{% endhighlight %}
+
+{% highlight bash %}
+sudo pip3 install matplotlib
+sudo pip3 install pydot 
+sudo pip3 install graphviz
+{% endhighlight %}
