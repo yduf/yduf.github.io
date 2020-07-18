@@ -33,7 +33,10 @@ current_NN.model._layers = [layer for layer in current_NN.model._layers if not i
 plot_model(current_NN.model, to_file=run_folder + 'models/model.png', show_shapes = True)
 {% endhighlight %}
 
+- [The Conv2D op currently only supports the NHWC tensor format on the CPU](https://github.com/onnx/onnx-tensorflow/issues/535) - Solved by conda install
+
 ### Dependencies
+
 {% highlight bash %}
 conda install jupyter
 conda install keras
