@@ -23,7 +23,16 @@ see also [AlphaGo Zero cheat sheet](https://medium.com/applied-data-science/how-
 - [DeepReinforcementLearning](https://github.com/yduf/DeepReinforcementLearning)
 	- [Jupyter]({% post_url 2020-07-18-python-jupyter %})
     - [Keras]({% post_url 2020-07-18-keras-python %})
-    
+
+## Launch first 2 paragraph
+
+{% highlight bash %}
+ITERATION NUMBER 1
+BEST PLAYER VERSION 0
+SELF PLAYING 25 EPISODES...
+1 2 3 4 5 6 7 => to 25 # defined in config.py/EPISODES
+{% endhighlight %}
+
 ### Issues
 - [AttributeError: 'dict' object has no attribute 'name'](https://github.com/tensorflow/tensorflow/issues/38988) - tensorflow issue
 
