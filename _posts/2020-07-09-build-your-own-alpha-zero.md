@@ -26,7 +26,8 @@ see also [AlphaGo Zero cheat sheet](https://medium.com/applied-data-science/how-
     
 ### Issue
 - [AttributeError: 'dict' object has no attribute 'name'](https://github.com/tensorflow/tensorflow/issues/38988) - tensorflow issue
-{% highlight bash %}
+
+{% highlight python %}
 # workaround below
 current_NN.model._layers = [layer for layer in current_NN.model._layers if not isinstance(layer, dict)]
 plot_model(current_NN.model, to_file=run_folder + 'models/model.png', show_shapes = True)
