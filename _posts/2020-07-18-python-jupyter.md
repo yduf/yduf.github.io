@@ -8,3 +8,7 @@ tags: repl python notebook
 ## [Install][https://jupyter.org/install.html)
 
 - Jupyter Notebook
+{% highlight bash %}
+sudo pip3 install notebook
+jupyter notebook
+{% endhighlight %}
