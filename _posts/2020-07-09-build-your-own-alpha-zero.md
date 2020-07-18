@@ -22,7 +22,6 @@ see also [AlphaGo Zero cheat sheet](https://medium.com/applied-data-science/how-
 
 - [DeepReinforcementLearning](https://github.com/yduf/DeepReinforcementLearning)
 	- [Jupyter]({% post_url 2020-07-18-python-jupyter %})
-    - [Keras]({% post_url 2020-07-18-keras-python %})
 
 ## Launch first 2 paragraph
 
