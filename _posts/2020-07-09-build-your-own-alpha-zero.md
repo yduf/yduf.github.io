@@ -24,7 +24,7 @@ see also [AlphaGo Zero cheat sheet](https://medium.com/applied-data-science/how-
 	- [Jupyter]({% post_url 2020-07-18-python-jupyter %})
     - [Keras]({% post_url 2020-07-18-keras-python %})
     
-### Issue
+### Issues
 - [AttributeError: 'dict' object has no attribute 'name'](https://github.com/tensorflow/tensorflow/issues/38988) - tensorflow issue
 
 {% highlight python %}
