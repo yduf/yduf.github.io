@@ -91,6 +91,7 @@ $ sudo apt-get install r8168-dkms			# force support of that driver
 <reboot>
 $ lsmod | grep r8168						# check presence
 r8168                 524288  0
+  
 $sudo ethtool -i enp1s0	# check if ethernet card is using the right driver
 driver: r8168
 version: 8.045.08-NAPI
