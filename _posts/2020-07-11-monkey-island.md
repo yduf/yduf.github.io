@@ -3,7 +3,9 @@ published: true
 title: Monkey Island
 tags: games adventure
 ---
-## The Secret of Monkey Island: Special Edition
+## The Secret of Monkey Island: Special Edition 
+
+![caption](https://lutris.net/games/banner/the-secret-of-monkey-island-special-edition.jpg) <!-- .element height="50%" width="50% ustify-content="left" -->
 
 Install on Linux
 - [Lutris](https://lutris.net/games/the-secret-of-monkey-island-special-edition/)
@@ -11,4 +13,9 @@ Install on Linux
 - [scummvm?](https://forums.scummvm.org/viewtopic.php?t=7671)
 - [residualvm?](https://wiki.residualvm.org/index.php/Monkey_Island_series)
 
-![caption](https://lutris.net/media/cache/7c/3a/7c3a729670fc7bb8044dc5383eb1860a.jpg)
+## Monkey Island 2 Special Edition: LeChuck’s Revenge
+
+![caption](https://lutris.net/games/banner/monkey-island-2-special-edition.jpg) <!-- .element height="50%" width="50% ustify-content="left" -->
+
+Install on Linux
+- [Lutris](https://lutris.net/games/monkey-island-2-special-edition/)
