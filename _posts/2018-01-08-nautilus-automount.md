@@ -1,7 +1,7 @@
 ---
 title: Nautilus automount
 published: true
-tags: ubuntu nautilus
+tags: filesystem linux
 ---
 [Install Gigolo:](https://ubuntuforums.org/showthread.php?t=1670212)
 {% highlight bash %}
@@ -26,4 +26,4 @@ Then Bookmarks > Add bookmark
 
 When you first login to your machine Gigolo will attempt to connect to the remote machine. If it is not available at that time it will wait until it is and then connect automatically.
 
-When you logoff from your desktop the ssh mount is safely unmounted. 
+When you logoff from your desktop the ssh mount is safely unmounted.
