@@ -1,7 +1,7 @@
 ---
 published: true
 title: Remote linux (rdp)
-tags: linux remote vnc rdp
+tags: linux remote desktop rdp
 ---
 > using vinagre - [Best VNC Viewer Clients For Linux](https://www.poftut.com/best-vnc-viewer-clients-linux/)
 
