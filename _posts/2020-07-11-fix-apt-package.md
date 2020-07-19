@@ -9,6 +9,7 @@ excerpt_separator: ''
 
 ## “Packages can be updated”
 - [How to update Ubuntu in terminal](https://devanswers.co/how-to-update-ubuntu/)
+
 {% highlight bash %}
 sudo apt-get update		# downloads the package lists from the repositories and updates them to get information on the newest versions of packages and their dependencies.
 sudo apt-get upgrade	# upgrade installed packages to their latest available versions
