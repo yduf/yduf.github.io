@@ -80,15 +80,26 @@ nfs_exports:
 > To solve this problem you have to use the official Realtek **r8168** driver instead of the **r8169** driver, which is included in the Linux Kernel.
 
 {% highlight bash %}
-lsmod | grep r81						# check driver present: default install gives => r8169                  81920  0
+$ lsmod | grep r81						# check driver present: default install gives => r8169                  81920  0
 {% endhighlight %}
 
-Easy fix
+Easy fix (reboot to activate)
 {% highlight bash %}
-sudo apt-get install r8168-dkms			# force support of that driver
-
-lsmod | grep r8168						# check presence
-sudo ethtool -i [enp1s0/eth0 or other]	# check if ethernet card is using the right driver
+$ sudo apt-get install r8168-dkms			# force support of that driver
+<reboot>
+$ lsmod | grep r8168						# check presence
+r8168                 524288  0
+$sudo ethtool -i enp1s0	# check if ethernet card is using the right driver
+driver: r8168
+version: 8.045.08-NAPI
+firmware-version: 
+expansion-rom-version: 
+bus-info: 0000:01:00.0
+supports-statistics: yes
+supports-test: no
+supports-eeprom-access: no
+supports-register-dump: yes
+supports-priv-flags: no
 {% endhighlight %}
 
 
