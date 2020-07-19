@@ -22,6 +22,6 @@ Install on Linux
 - [Lutris](https://lutris.net/games/monkey-island-2-special-edition/)
 	- using multi 5 script, for playing needs to:
     	- disabling DXVk (looks into lutris setting)
-    	- use lutris-5.0-x86_64 (and not lutris-5.7.6-x86_64 which crash after bridge)
+    	- use lutris-5.0-x86_64 (and not lutris-5.7.6-x86_64 which seems to crash randomly
     
     	
