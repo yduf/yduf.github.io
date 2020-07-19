@@ -79,6 +79,8 @@ nfs_exports:
 
 > To solve this problem you have to use the official Realtek **r8168** driver instead of the **r8169** driver, which is included in the Linux Kernel.
 
+- [Potential data loss and security breach when used with nfs server](https://github.com/mtorromeo/r8168/issues/4)
+
 {% highlight bash %}
 $ lsmod | grep r81						# check driver present
 # default install gives =>
@@ -108,7 +110,9 @@ supports-priv-flags: no
 {% endhighlight %}
 
 #### Manual install
-> version 8.048.02 available on [github](https://github.com/mtorromeo/r8168/commit/99e62b75b4ab50f021ee2c5fc36849de61ae838c)
+> version 8.048.02 available on [https://github.com/mtorromeo/r8168/tree/master/src)
+  
+=> pb a l'install...
 
 ## Forum Discussion
 - [Gitter](https://gitter.im/Ansible-NAS/Chat)
