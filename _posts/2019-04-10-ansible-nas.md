@@ -108,7 +108,7 @@ supports-priv-flags: no
 {% endhighlight %}
 
 #### Manual install
-  
+> version 8.048.02 available on [github](https://github.com/mtorromeo/r8168/commit/99e62b75b4ab50f021ee2c5fc36849de61ae838c)
 
 ## Forum Discussion
 - [Gitter](https://gitter.im/Ansible-NAS/Chat)
