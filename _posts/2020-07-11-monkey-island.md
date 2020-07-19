@@ -9,7 +9,8 @@ tags: games adventure
 
 Install on Linux
 - [Lutris](https://lutris.net/games/the-secret-of-monkey-island-special-edition/)
-	- mint 20 - GOG install works fine after disabling DXVk (looks into lutris setting)
+	- mint 20 - GOG install works fine, for playing needs to:
+    	- disabling DXVk (looks into lutris setting)
 - [scummvm?](https://forums.scummvm.org/viewtopic.php?t=7671)
 - [residualvm?](https://wiki.residualvm.org/index.php/Monkey_Island_series)
 
@@ -19,3 +20,8 @@ Install on Linux
 
 Install on Linux
 - [Lutris](https://lutris.net/games/monkey-island-2-special-edition/)
+	- using multi 5 script, for playing needs to:
+    	- disabling DXVk (looks into lutris setting)
+    	- use lutris-5.0-x86_64 (and not lutris-5.7.6-x86_64 which crash after bridge)
+    
+    	
