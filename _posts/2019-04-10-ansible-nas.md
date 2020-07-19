@@ -39,6 +39,8 @@ tags: nas zfs ansible monitor
 - System
 	- [netdata instead of Grafana](https://github.com/davestephens/ansible-nas/issues/8) see [netdata/netdata](https://github.com/netdata/netdata)
     	- [Install Netdata with kickstart-static64.sh](https://github.com/netdata/netdata/blob/master/packaging/installer/methods/kickstart-64.md#install-netdata-with-kickstart-static64sh)
+        	- --disable-telemetry
+            - --no-updates
     
 - Docker
 	- [portainer.io](https://www.portainer.io/installation/)
