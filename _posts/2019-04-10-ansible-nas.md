@@ -86,6 +86,8 @@ r8169                  81920  0
 {% endhighlight %}
 
 Easy fix (reboot to activate)
+> ** Still crashing on heavy load with this driver **
+
 {% highlight bash %}
 $ sudo apt-get install r8168-dkms			# force support of that driver
 <reboot>
