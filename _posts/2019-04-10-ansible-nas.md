@@ -27,11 +27,13 @@ tags: nas zfs ansible
 
 ### System Setup
 - [Ubuntu Server 18.04.2 LTS](https://www.ubuntu.com/download/server)
+	- [upgraded kernel]({% post_url 2018-06-16-remove-kernel %})
 - [static ip]({% post_url 2017-07-16-network %})
 - [wake on lan]({% post_url 2019-04-27-wake-up %})
 - [zfs]({% post_url 2019-03-31-zfs-ubuntu %})
 - [ssh]({% post_url 2019-04-29-ssh %})
 - [auto shutdown]({% post_url 2019-04-27-wake-up %})
+- [spectre mitigation disabled]({% post_url 2019-10-14-linux-fast %})
 
 ### Monitoring
 - System
