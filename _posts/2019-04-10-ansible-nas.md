@@ -74,12 +74,22 @@ nfs_exports:
     
 - [ASRock J3455-ITX](https://www.ldlc.com/fiche/PB00217669.html) - Quad-Core Intel Celeron J3455 - Goldmont (2016) [> Nehalem (2008)](https://en.wikipedia.org/wiki/List_of_Intel_CPU_microarchitectures)
 	- [spec](https://www.asrock.com/mb/Intel/J3455-ITX/#Specification)
-    	- LAN [Realtek RTL8111GR](https://tuxbyte.com/how-to-get-your-realtek-rtl8111rtl8168-working-updated-guide/) issue when too much load
-        
+
+### LAN [Realtek RTL8111GR](https://tuxbyte.com/how-to-get-your-realtek-rtl8111rtl8168-working-updated-guide/) **issue** with default driver when too much load
+
+> To solve this problem you have to use the official Realtek **r8168** driver instead of the **r8169** driver, which is included in the Linux Kernel.
+
 {% highlight bash %}
-sudo apt-get install r8168-dkms
+lsmod | grep r81						# check driver present: default install gives => r8169                  81920  0
 {% endhighlight %}
-    
+
+Easy fix
+{% highlight bash %}
+sudo apt-get install r8168-dkms			# force support of that driver
+
+lsmod | grep r8168						# check presence
+sudo ethtool -i [enp1s0/eth0 or other]	# check if ethernet card is using the right driver
+{% endhighlight %}
 
 
 ## Forum Discussion
