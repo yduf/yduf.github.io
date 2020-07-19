@@ -80,7 +80,9 @@ nfs_exports:
 > To solve this problem you have to use the official Realtek **r8168** driver instead of the **r8169** driver, which is included in the Linux Kernel.
 
 {% highlight bash %}
-$ lsmod | grep r81						# check driver present: default install gives => r8169                  81920  0
+$ lsmod | grep r81						# check driver present
+# default install gives =>
+r8169                  81920  0
 {% endhighlight %}
 
 Easy fix (reboot to activate)
