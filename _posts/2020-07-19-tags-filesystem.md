@@ -11,4 +11,4 @@ tags: tags filesystem
 - install using x86_64 binary [release](https://github.com/oniony/TMSU/releases)
 	- [zsh](https://github.com/oniony/TMSU/blob/master/misc/zsh/_tmsu) completion script
 
-works in user space, use FUSE
+Works in user space, uses FUSE
