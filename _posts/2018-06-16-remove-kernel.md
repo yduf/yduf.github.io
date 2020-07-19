@@ -2,9 +2,8 @@
 title: Kernels management (linux)
 published: true
 tags: linux system
-excerpt_separator: ''
 ---
-## [Ubuntu]
+## Ubuntu
 - [Upgrade LTS Kernel (HWE)](https://itsfoss.com/ubuntu-hwe-kernel/)
 - [Remove old version](https://askubuntu.com/questions/2793/how-do-i-remove-old-kernel-versions-to-clean-up-the-boot-menu/100953#100953)
 
