@@ -74,6 +74,11 @@ nfs_exports:
     
 - [ASRock J3455-ITX](https://www.ldlc.com/fiche/PB00217669.html) - Quad-Core Intel Celeron J3455 - Goldmont (2016) [> Nehalem (2008)](https://en.wikipedia.org/wiki/List_of_Intel_CPU_microarchitectures)
 	- [spec](https://www.asrock.com/mb/Intel/J3455-ITX/#Specification)
+    	- LAN [Realtek RTL8111GR](https://tuxbyte.com/how-to-get-your-realtek-rtl8111rtl8168-working-updated-guide/) issue when too much load
+        
+{% highlight bash %}
+sudo apt-get install r8168-dkms
+{% endhighlight %}
     
 
 
