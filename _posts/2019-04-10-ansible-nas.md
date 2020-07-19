@@ -85,8 +85,8 @@ $ lsmod | grep r81						# check driver present
 r8169                  81920  0
 {% endhighlight %}
 
-Easy fix (reboot to activate)
-> ** Still crashing on heavy load with this driver **
+#### Easy fix (reboot to activate)
+> ** 8.045.08 - Still crashing on heavy load with this driver **
 
 {% highlight bash %}
 $ sudo apt-get install r8168-dkms			# force support of that driver
@@ -107,6 +107,8 @@ supports-register-dump: yes
 supports-priv-flags: no
 {% endhighlight %}
 
+#### Manual install
+  
 
 ## Forum Discussion
 - [Gitter](https://gitter.im/Ansible-NAS/Chat)
