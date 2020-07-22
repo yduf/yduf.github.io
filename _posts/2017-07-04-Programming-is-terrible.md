@@ -3,7 +3,9 @@ title: Programming is terrible
 published: true
 tags: software despair.com
 ---
-## [lessons learned from a life wasted](http://programmingisterrible.com/)
+> [lessons learned from a life wasted](http://programmingisterrible.com/)
+
+[![caption](https://img.youtube.com/vi/AUYPnxv0yss/0.jpg)](https://www.youtube.com/watch?v=AUYPnxv0yss)
 
 - [How do you cut a monolith in half?](http://programmingisterrible.com/post/162346490883/how-do-you-cut-a-monolith-in-half)
 - [Write code that is easy to delete, not easy to extend.](http://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
