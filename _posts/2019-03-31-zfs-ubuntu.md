@@ -47,7 +47,11 @@ zfs create -o mountpoint=/mnt/binaries storage_pool/binaries
 zfs list   # Test the datasets have been created with
 {% endhighlight %}
   
+## [ZFS Event Daemon (ZED)](https://zfsonlinux.org/manpages/0.8.4/man8/zed.8.html)
+  
+> What ZED does that is so great is that it provides a very simple way to take action when ZFS events happen. - [In praise of ZFS On Linux's ZED](https://utcc.utoronto.ca/~cks/space/blog/linux/ZFSZEDPraise)
 
+ 
 ## [ZFS RAIDZ expansion](https://www.reddit.com/r/homelab/comments/83wo88/any_news_on_zfs_raidz_expansion/)
 > With ZFS, you either have to buy all storage you expect to need upfront, or you will be wasting a few hard drives on redundancy you don't need. - [You can't add hard drives to a VDEV](https://louwrentius.com/the-hidden-cost-of-using-zfs-for-your-home-nas.html)
   
