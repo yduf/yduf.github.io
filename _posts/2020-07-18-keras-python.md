@@ -5,8 +5,8 @@ published: false
 
 ## Using GPU
 
-- [using AMD GPU](https://mc.ai/train-neural-networks-using-amd-gpus-and-keras/) - OpenCL
-	- [GPU Acceleration on AMD with PlaidML](https://xlog.x-hub.io/gpu-acceleration-on-amd-with-plaidml-for-training-and-using-keras-models/)
+- configure Rocm for [TensorFlow](https://rocmdocs.amd.com/en/latest/Deep_learning/Deep-learning.html#tensorflow) 
+	- [ROCm]({% post_url 2020-07-24-amd-gpu %})	
 
 
 ## Install
