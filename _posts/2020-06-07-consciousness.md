@@ -9,3 +9,4 @@ tags: AI mental-model
 	- [Intelligence](https://www.youtube.com/watch?v=P-2P3MSZrBM&t=1394s): being able to build model (recognize pattern for eg)
     - Sentience: being able to use existing model
     - [What is consciousness](https://www.youtube.com/watch?v=P-2P3MSZrBM&t=3389s) Physicall systems cannot be conscious, only simulation (the mind) can be conscious.
+    	- [Spirit]: operating system of autonomous robots
