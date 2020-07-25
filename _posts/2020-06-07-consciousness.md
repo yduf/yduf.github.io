@@ -8,4 +8,4 @@ tags: AI mental-model
 - [Joscha Bach: Artificial Consciousness and the Nature of Reality | AI Podcast #101 with Lex Fridman](https://www.youtube.com/watch?v=P-2P3MSZrBM)
 	- [Intelligence](https://www.youtube.com/watch?v=P-2P3MSZrBM&t=1394s): being able to build model (recognize pattern for eg)
     - Sentience: being able to use existing model
-    - [What is consciousness](https://www.youtube.com/watch?v=P-2P3MSZrBM&t=3389s)
+    - [What is consciousness](https://www.youtube.com/watch?v=P-2P3MSZrBM&t=3389s) Physicall systems cannot be conscious, only simulation (the mind) can be conscious.
