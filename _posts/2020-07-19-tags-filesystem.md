@@ -12,3 +12,7 @@ tags: tags filesystem
 	- [zsh](https://github.com/oniony/TMSU/blob/master/misc/zsh/_tmsu) completion script
 
 Works in user space, uses FUSE
+
+## Issue
+- [error: Transport endpoint is not connected](https://stackoverflow.com/a/19920009/51386)
+	
