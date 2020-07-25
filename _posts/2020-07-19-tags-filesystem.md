@@ -15,4 +15,5 @@ Works in user space, uses FUSE
 
 ## Issue
 - [error: Transport endpoint is not connected](https://stackoverflow.com/a/19920009/51386)
+	- fusermount -u YOUR_MNT_DIR
 	
