@@ -13,6 +13,12 @@ tags: tags filesystem
 
 Works in user space, uses FUSE
 
+## Tricks and Tips
+- [External Integration](https://github.com/oniony/TMSU/wiki/Tricks-and-Tips#external-integration)
+> The versatility of TMSU means it isn't very difficult to extract tags from text files (e.g. Markdown) and feed them into TMSU, for example the following could be used to extract #tags from markdown files in the current directory and assign tags to them.
+
+
+
 ## Issue
 - [error: Transport endpoint is not connected](https://stackoverflow.com/a/19920009/51386)
 	- fusermount -u YOUR_MNT_DIR
