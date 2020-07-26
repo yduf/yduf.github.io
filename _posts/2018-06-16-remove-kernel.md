@@ -10,3 +10,6 @@ tags: linux system
 ## Boot parameters
 - [About Kernel Boot Parameters](https://wiki.ubuntu.com/Kernel/KernelBootParameters)
 	- [disabling spectre mitigation]({% post_url 2019-10-14-linux-fast %})
+- [How to view Linux kernel parameters for currently booted system](https://www.cyberciti.biz/faq/display-view-linux-kernel-parameters-for-booted/)
+	- cat /proc/cmdline
+    - sysctl -a
