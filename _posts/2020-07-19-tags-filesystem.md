@@ -19,7 +19,7 @@ Works in user space, uses FUSE
 
 Injecting my blog tags into tmsu, usig ripgrep and [ruby one liner](2020-07-26-ruby-one-liner):
 {% highlight bash %}
-rg "tags:" | ruby -ne '$_ =~ /([^:]+):[^:]+:(.+)$/; puts "tmsu tag \'#{$1}\' --tags=\'#{$2}\'"' | bash
+rg "tags:" | ruby -ne 'puts "tmsu tag \'#{$1}\' --tags=\'#{$2}\'" if $_ =~ /([^:]+):[^:]+:(.+)$/ ' | bash
 {% endhighlight %}
 
 - [Tagging a Directory and its Contents](Tagging a Directory and its Contents)
