@@ -18,7 +18,7 @@ Works in user space, uses FUSE
 > The versatility of TMSU means it isn't very difficult to extract tags from text files (e.g. Markdown) and feed them into TMSU, for example the following could be used to extract #tags from markdown files in the current directory and assign tags to them.
 
 {% highlight bash %}
-rg "tags:" | \
+rg "tags:" | ruby -ne '$_ =~ /([^:]+):[^:]+:(.+)$/; puts "file:#{$1}, tags:#{$2}"'
 
 {% endhighlight %}
 
