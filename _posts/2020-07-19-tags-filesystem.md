@@ -17,9 +17,9 @@ Works in user space, uses FUSE
 - [External Integration](https://github.com/oniony/TMSU/wiki/Tricks-and-Tips#external-integration)
 > The versatility of TMSU means it isn't very difficult to extract tags from text files (e.g. Markdown) and feed them into TMSU, for example the following could be used to extract #tags from markdown files in the current directory and assign tags to them.
 
+Injecting my blog tags into tmsu, usig ripgrep and [ruby one liner](2020-07-26-ruby-one-liner):
 {% highlight bash %}
-rg "tags:" | ruby -ne '$_ =~ /([^:]+):[^:]+:(.+)$/; puts "file:#{$1}, tags:#{$2}"'
-
+rg "tags:" | ruby -ne '$_ =~ /([^:]+):[^:]+:(.+)$/; puts "tmsu tag \'#{$1}\' --tags=\'#{$2}\'"' | bash
 {% endhighlight %}
 
 - [Tagging a Directory and its Contents](Tagging a Directory and its Contents)
