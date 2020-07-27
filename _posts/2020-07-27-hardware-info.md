@@ -10,7 +10,7 @@ inxi -SMA
 {% endhighlight %}
 
 output
-{% highlight bash %}
+{% highlight yaml %}
 System:    Host: yves-laptop Kernel: 5.4.0-42-generic x86_64 bits: 64 Desktop: Cinnamon 4.6.6 
            Distro: Linux Mint 20 Ulyana 
 Machine:   Type: Laptop System: ASUSTeK product: UX305UA v: 1.0 
