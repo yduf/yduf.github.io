@@ -1,7 +1,7 @@
 ---
 published: true
 title: Hardware info
-tags: linux system hardware
+tags: linux system hardware audio
 ---
 > Using [inxi] to retrieve hardware info - [How To Fix No Sound](https://itsfoss.com/fix-sound-ubuntu-1304-quick-tip/)
 
