@@ -2,6 +2,7 @@
 title: Terrain rendering in less than 20 lines of code
 published: true
 tags: terrain rendering voxel
+excerpt_separator: ''
 ---
 
 ![caption](https://raw.githubusercontent.com/s-macke/VoxelSpace/master/images/comanche-1992.gif)
