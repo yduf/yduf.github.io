@@ -11,8 +11,8 @@ tags: arduino motor driver robot
 
 ## Better than L298N?
 - use similar control signal
-	- ordered [TB6612FNG Module](https://www.amazon.fr/gp/product/B07KVTXFWN/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
-    - got a [DRV8833Dual H-BridgeMotorDriver](https://www.ti.com/lit/ds/symlink/drv8833.pdf) - compatible, but board pin layout is different.
+	- ordered [TB6612FNG Module](https://www.amazon.fr/gp/product/B07KVTXFWN/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1) - [spec](https://www.sparkfun.com/datasheets/Robotics/TB6612FNG.pdf) - max input **15V**
+    - got a [DRV8833Dual H-BridgeMotorDriver](https://www.ti.com/lit/ds/symlink/drv8833.pdf) - compatible, but board pin layout is different. - max input **11.8V**
     
 - MOSFETs better performance
 	- better performance
