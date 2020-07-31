@@ -6,8 +6,10 @@ tags: arduino motor driver robot
 - **PWM** – For controlling speed
 - **H-Bridge** – For controlling rotation direction
 
-## [TB6612FNG H-Bridge Motor Controller](https://dronebotworkshop.com/tb6612fng-h-bridge/)
-[video](https://www.youtube.com/watch?v=JPPTRj0KWbg) - Better than L298N?
+# [TB6612FNG H-Bridge Motor Controller](https://dronebotworkshop.com/tb6612fng-h-bridge/)
+[video](https://www.youtube.com/watch?v=JPPTRj0KWbg) -
+
+## Better than L298N?
 - use similar control signal
 	- ordered [TB6612FNG Module](https://www.amazon.fr/gp/product/B07KVTXFWN/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
     - got a [DRV8833Dual H-BridgeMotorDriver](https://www.ti.com/lit/ds/symlink/drv8833.pdf) - compatible, but board pin layout is different.
@@ -19,7 +21,9 @@ tags: arduino motor driver robot
 - [TB6612FNG Hookup Guide](https://learn.sparkfun.com/tutorials/tb6612fng-hookup-guide/all)
 ![caption](https://i1.wp.com/dronebotworkshop.com/wp-content/uploads/2019/12/TB6612FNG-Arduino-Hookup.jpeg?w=768&ssl=1)
 
-## L298N Motor Driver [Powering motors & logic](https://lastminuteengineers.com/l298n-dc-stepper-driver-arduino-tutorial/#power-supply)
+# L298N Motor Driver
+
+## [Powering motors & logic](https://lastminuteengineers.com/l298n-dc-stepper-driver-arduino-tutorial/#power-supply)
 The module has an on-board 78M05 5V regulator from STMicroelectronics. It can be enabled or disabled through a jumper.
 
 **When this jumper is in place**, the 5V regulator is enabled, supplying logic power supply(Vss) from the motor power supply(Vs). **In this case, 5V input terminal acts as an output pin and delivers 5V 0.5A. You can use it to power up the Arduino** or other circuitry that requires 5V power supply.
