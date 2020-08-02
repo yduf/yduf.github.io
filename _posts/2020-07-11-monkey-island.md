@@ -23,3 +23,10 @@ Install on Linux
 	- using multi 5 script, for playing needs to:
     	- disabling DXVk (looks into lutris setting)
     	- use lutris-5.0-x86_64 (and not lutris-5.7.6-x86_64 which seems to crash randomly
+
+## The Curse of Monkey Island
+
+![caption](https://lutris.net/games/banner/the-curse-of-monkey-island.jpg) <!-- .element height="50%" width="50% ustify-content="left" -->
+
+Install on Linux
+- [Lutris](https://lutris.net/games/the-curse-of-monkey-island/)
