@@ -1,7 +1,7 @@
 ---
 published: true
 title: 9-segment mechanical counter
-tags: make 3dmodel
+tags: maker 3dmodel
 ---
 ## [fhuable](https://www.youtube.com/watch?v=pBoHq3AG8rw)
 
