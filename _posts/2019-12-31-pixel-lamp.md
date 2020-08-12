@@ -1,7 +1,7 @@
 ---
 published: true
 title: Lampe Pixel
-tags: make fun 3dmodel LED animation
+tags: maker fun 3dmodel LED animation
 ---
 ## [heliox](https://www.youtube.com/watch?v=94nbqv7Jhlo)
 
