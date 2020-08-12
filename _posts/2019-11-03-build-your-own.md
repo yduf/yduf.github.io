@@ -1,7 +1,7 @@
 ---
 published: true
 title: Build your own ...
-tags: make tutorial software
+tags: maker tutorial software
 ---
 > Many tutorials [github](https://github.com/danistefanovic/build-your-own-x) / [HN](https://news.ycombinator.com/item?id=21430321)
 
