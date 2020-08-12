@@ -1,6 +1,6 @@
 ---
 published: true
-tags: make human blender
+tags: human blender
 title: Make Human
 ---
 > Open source tool for making 3D characters - [MakeHuman](http://www.makehumancommunity.org/)
