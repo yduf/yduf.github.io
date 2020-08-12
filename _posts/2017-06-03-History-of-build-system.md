@@ -8,6 +8,7 @@ see also:
 - [whatsinabuildtool](http://www.lihaoyi.com/post/WhatsinaBuildTool.html)
 - [In qest for ultimate build tool](http://blog.ltgt.net/in-quest-of-the-ultimate-build-tool/)
 - [An overview of build systems (mostly for C++ projects)](https://medium.com/@julienjorge/an-overview-of-build-systems-mostly-for-c-projects-ac9931494444)
+- [Bazel is the Worst Build System, Except for All the Others](https://medium.com/windmill-engineering/bazel-is-the-worst-build-system-except-for-all-the-others-b369396a9e26)
 
 # Prehistoric Ages
 
