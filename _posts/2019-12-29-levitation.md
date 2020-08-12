@@ -1,7 +1,7 @@
 ---
 published: true
 title: Magnetic levitation vase
-tags: 3dmodel make
+tags: 3dmodel maker
 ---
 ## [thingiverse ](https://www.youtube.com/watch?v=PReFCGeL9M8)
 
