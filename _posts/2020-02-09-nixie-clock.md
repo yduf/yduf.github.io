@@ -1,7 +1,7 @@
 ---
 published: true
 title: Retro Nixie Clock
-tags: diy make retro clock
+tags: maker retro clock
 ---
 ## [GreatScott!](https://www.youtube.com/watch?v=ObgmVNV1Kfg)
 
