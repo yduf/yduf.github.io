@@ -4,9 +4,10 @@ tags: build make
 ---
 => have a pointer to diagram
 see also:
-[list of guild tool](https://en.wikipedia.org/wiki/List_of_build_automation_software)
-[whatsinabuildtool](http://www.lihaoyi.com/post/WhatsinaBuildTool.html)
-[In qest for ultimate build tool](http://blog.ltgt.net/in-quest-of-the-ultimate-build-tool/)
+- [list of guild tool](https://en.wikipedia.org/wiki/List_of_build_automation_software)
+- [whatsinabuildtool](http://www.lihaoyi.com/post/WhatsinaBuildTool.html)
+- [In qest for ultimate build tool](http://blog.ltgt.net/in-quest-of-the-ultimate-build-tool/)
+- [An overview of build systems (mostly for C++ projects)](https://medium.com/@julienjorge/an-overview-of-build-systems-mostly-for-c-projects-ac9931494444)
 
 # Prehistoric Ages
 
