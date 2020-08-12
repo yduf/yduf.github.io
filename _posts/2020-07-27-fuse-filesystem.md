@@ -1,7 +1,7 @@
 ---
 published: true
-title: FUSE filesystem
-tags: software Filesystem
+title: FUSE Filesystem
+tags: software filesystem
 ---
 > FUSE (Filesystem in Userspace) is an interface for userspace programs to export a filesystem to the Linux kernel. The FUSE project consists of two components: the fuse kernel module (maintained in the regular kernel repositories) and the libfuse userspace library (maintained in this repository). libfuse provides the reference implementation for communicating with the FUSE kernel module. - [libfuse](https://github.com/libfuse/libfuse)
 
