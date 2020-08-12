@@ -1,7 +1,7 @@
 ---
 published: true
 title: Perpetual Flip Calendar
-tags: make calendar
+tags: maker calendar
 ---
 ## [DIY](https://imgur.com/a/zr3cg)
 
