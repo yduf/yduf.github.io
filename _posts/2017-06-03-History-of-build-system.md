@@ -1,6 +1,6 @@
 ---
 published: false
-tags: make
+tags: build make
 ---
 => have a pointer to diagram
 see also:
