@@ -1,7 +1,7 @@
 ---
 published: true
 title: Automatic Screw Sorter
-tags: make sort screw
+tags: maker sort screw
 ---
 > You know you want one! If you have mountains of unsorted screws in your workshop, you probably spend lots of time looking for "just the right" screws for a job. - [instructable](https://www.instructables.com/id/Automatic-Screw-Sorter/)
 
