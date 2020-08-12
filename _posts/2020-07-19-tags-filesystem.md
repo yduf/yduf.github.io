@@ -12,6 +12,7 @@ tags: tags filesystem
 	- [zsh](https://github.com/oniony/TMSU/blob/master/misc/zsh/_tmsu) completion script
 
 Works in user space, uses FUSE
+- [fish autocompletion](https://github.com/0ion9/fish_tmsu) - [\[1\]](https://github.com/oniony/TMSU/issues/169)
 
 ## Tricks and Tips
 - [External Integration](https://github.com/oniony/TMSU/wiki/Tricks-and-Tips#external-integration)
