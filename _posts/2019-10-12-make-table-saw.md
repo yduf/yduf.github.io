@@ -1,7 +1,7 @@
 ---
 published: true
 title: Make a table saw
-tags: make wood
+tags: maker wood
 ---
 ## [Cosmas Bauer](https://www.youtube.com/watch?v=c9Aib3Yl8PM)
 
