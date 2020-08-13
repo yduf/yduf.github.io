@@ -5,6 +5,9 @@ tags: tags filesystem
 ---
 > TMSU was born out of frustration with the hierarchical nature of filesystems - [Home](https://tmsu.org/) / [Stackoverflow](https://stackoverflow.com/questions/3263036/file-system-that-uses-tags-rather-than-folders)
 
+# Principle
+- [Designing better file organization around tags, not hierarchies](https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies#contents)
+
 ## [tsmu](https://github.com/oniony/TMSU)
 - install using x86_64 binary [release](https://github.com/oniony/TMSU/releases)
 	- [fish autocompletion](https://github.com/0ion9/fish_tmsu) - [\[1\]](https://github.com/oniony/TMSU/issues/169)
