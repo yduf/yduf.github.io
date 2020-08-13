@@ -30,5 +30,5 @@ rg "tags:" | ruby -ne 'puts "tmsu tag \'#{$1}\' --tags=\'#{$2}\'" if $_ =~ /([^:
 - [Tagging a Directory and its Contents](Tagging a Directory and its Contents)
 
 ## Issue
-- [error: Transport endpoint is not connected](https://stackoverflow.com/a/19920009/51386)
+### FUSE [error: Transport endpoint is not connected](https://stackoverflow.com/a/19920009/51386)
 	- fusermount -u YOUR_MNT_DIR
