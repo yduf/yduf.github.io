@@ -9,13 +9,14 @@ see also:
 - [In qest for ultimate build tool](http://blog.ltgt.net/in-quest-of-the-ultimate-build-tool/)
 - [An overview of build systems (mostly for C++ projects)](https://medium.com/@julienjorge/an-overview-of-build-systems-mostly-for-c-projects-ac9931494444)
 - [Bazel is the Worst Build System, Except for All the Others](https://medium.com/windmill-engineering/bazel-is-the-worst-build-system-except-for-all-the-others-b369396a9e26)
+- [Evolution of Build Systems](https://karussell.wordpress.com/2009/09/29/evolution-of-build-systems/)
+
+![caption](https://karussell.files.wordpress.com/2009/09/build-system-evolution13.png) <!-- .element height="50%" width="50% ustify-content="left" -->
 
 # Prehistoric Ages
 
 People living naked and using ad-hoc command invocation (batched or manual).
 
-[Great pictures!](https://karussell.wordpress.com/2009/09/29/evolution-of-build-systems/)
-need to embed here
 
 # [Make (1976)](https://en.wikipedia.org/wiki/Make_(software))
 
