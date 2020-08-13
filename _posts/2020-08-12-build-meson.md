@@ -17,6 +17,7 @@ $ meson test
 {% endhighlight %}
 
 ### [meson.build](https://mesonbuild.com/Tutorial.html) file
+
 {% highlight ruby %}
 project('tutorial', 'c')
 gtkdep = dependency('gtk+-3.0')
