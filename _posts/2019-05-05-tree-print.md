@@ -2,7 +2,6 @@
 published: true
 title: How to print a tree structure?
 tags: tree algorithm c++
-excerpt_separator: ''
 ---
 ## [With Recursion](https://stackoverflow.com/questions/1649027/how-do-i-print-out-a-tree-structure/8567550#8567550)
 
