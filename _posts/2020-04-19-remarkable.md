@@ -17,6 +17,9 @@ tags: epaper hardware
 - [libremarkable](https://github.com/canselcik/libremarkable) - A Framework for Remarkable Tablet
 - [Developing for the reMarkable tablet](https://dragly.org/2017/12/01/developing-for-the-remarkable/)
 
+## Hack
+- [Binary patches for the rM](https://github.com/ddvk/remarkable-hacks)
+
 ## Resources
 - [HN](https://news.ycombinator.com/item?id=22604597)
 - [remarkable.engineering](https://remarkable.engineering/)
