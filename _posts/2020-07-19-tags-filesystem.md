@@ -18,7 +18,7 @@ Works in user space, uses FUSE
 ## [Tagging](https://github.com/oniony/TMSU/wiki/Tag-and-Value-Names)
 - support unicode tags (hopefully)
 {% highlight bash %}
-tmsu tag <file> --tags='★★★★☆'
+tmsu tag <file> --tags='score=★★★★☆'
 {% endhighlight %}
 
 ## Tricks and Tips
