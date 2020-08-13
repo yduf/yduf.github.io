@@ -32,7 +32,7 @@ rg "tags:" | ruby -ne 'puts "tmsu tag \'#{$1}\' --tags=\'#{$2}\'" if $_ =~ /([^:
 
 - [Tagging a Directory and its Contents](Tagging a Directory and its Contents)
 
-## DEv
+## DEV
 - [\[Proposal\] Non-Sequential IDs in SQLite3 Database](https://github.com/oniony/TMSU/pull/91)
   
 ## Issue
