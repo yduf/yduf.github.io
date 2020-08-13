@@ -32,6 +32,9 @@ rg "tags:" | ruby -ne 'puts "tmsu tag \'#{$1}\' --tags=\'#{$2}\'" if $_ =~ /([^:
 
 - [Tagging a Directory and its Contents](Tagging a Directory and its Contents)
 
+## DEv
+- [\[Proposal\] Non-Sequential IDs in SQLite3 Database](https://github.com/oniony/TMSU/pull/91)
+  
 ## Issue
 ### FUSE [error: Transport endpoint is not connected](https://stackoverflow.com/a/19920009/51386)
 - fusermount -u YOUR_MNT_DIR
