@@ -16,8 +16,11 @@ tags: filesystem
  in one directory. I got up to about 3.7 million files in one directory before I stopped. Listing the directory to get a count took about 5 minutes. Deleting all the files in that directory took 20 hours. But lookup and access to any file was instant. - [SO](https://serverfault.com/questions/95444/storing-a-million-images-in-the-filesystem/739017#739017)
 
 ### ext4
+
 > Trying to store millions of files in a Ubuntu server in ext4. Ended running my own benchmarks. Found out that flat directory performs way better while being way simpler to use - [SO](https://stackoverflow.com/a/53892874)
 > I found out after publishing this article, that ext4 limits is around 10,118,651 (or ~ 10,233,706) files per directory for md5 long filename. - [article](https://medium.com/@hartator/benchmark-deep-directory-structure-vs-flat-directory-structure-to-store-millions-of-files-on-ext4-cac1000ca28)
+
+![caption](https://miro.medium.com/max/875/1*4o4TfqUH5ObSObJAGaXqLg.png) <!-- .element height="50%" width="50% ustify-content="left" -->
 
 
 ## [Theorical limits](https://kernelnewbies.org/Ext4#Bigger_filesystem.2Ffile_sizes) / [SE](https://serverfault.com/questions/98235/how-many-files-in-a-directory-is-too-many-downloading-data-from-net) / [SO](https://stackoverflow.com/a/466596)
