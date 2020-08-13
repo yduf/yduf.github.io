@@ -17,7 +17,7 @@ tags: filesystem
 	- The maximum number of files is global, not per directory, and it's determined by the number of inodes allocated when the filesystem was created. [df -i](https://serverfault.com/questions/506465/is-there-a-hard-limit-to-the-number-of-files-a-directory-can-have/506471#506471)
     
 {% highlight bash %}
- $ df -i
+ $ df -i | grep -v /dev/loop
     Filesystem       Inodes  IUsed    IFree IUse% Mounted on
     /dev/sdb2       7864320 388119  7476201    5% /
 {% endhighlight %}
