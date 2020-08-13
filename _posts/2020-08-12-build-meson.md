@@ -16,6 +16,13 @@ $ meson compile
 $ meson test
 {% endhighlight %}
 
+### [meson.build](https://mesonbuild.com/Tutorial.html) file
+{% highlight ruby %}
+project('tutorial', 'c')
+gtkdep = dependency('gtk+-3.0')
+executable('demo', 'main.c', dependencies : gtkdep)
+{% endhighlight %}
+
 
 ## [Meson vs X](https://en.wikipedia.org/wiki/Meson_(software)#Language)
 
