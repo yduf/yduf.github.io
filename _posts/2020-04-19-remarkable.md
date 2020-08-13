@@ -8,6 +8,8 @@ tags: epaper hardware
 ## [Applications](https://github.com/reHackable/awesome-reMarkable#applications)
 - [reMarkable_syncthing](https://github.com/evidlo/remarkable_syncthing) - Syncthing on reMarkable
 - [reMarkable_mouse](https://github.com/evidlo/remarkable_mouse) - Use your reMarkable as a graphics tablet.
+- [Plato](https://github.com/darvin/plato) ebook reader
+- [fingerterm](https://github.com/dixonary/fingerterm-reMarkable) - touch terminal
 
 ## Hardware
 - [remarkable-keywriter](https://github.com/dps/remarkable-keywriter)
@@ -17,6 +19,7 @@ tags: epaper hardware
 - [libremarkable](https://github.com/canselcik/libremarkable) - A Framework for Remarkable Tablet
 	- [using with Qt](https://github.com/canselcik/libremarkable/issues/12)
 - [Developing for the reMarkable tablet](https://dragly.org/2017/12/01/developing-for-the-remarkable/)
+- [Awesome reMarkable](https://awesomeopensource.com/project/reHackable/awesome-reMarkable)
 
 ## Hack
 - [Binary patches for the rM](https://github.com/ddvk/remarkable-hacks)
