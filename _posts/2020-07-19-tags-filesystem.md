@@ -12,7 +12,7 @@ tags: tags filesystem
 
 Works in user space, uses FUSE
 
-## Tagging
+## [Tagging](https://github.com/oniony/TMSU/wiki/Tag-and-Value-Names)
 - support unicode tags (hopefully)
 {% highlight bash %}
 tmsu tag <file> --tags='★★★★☆'
