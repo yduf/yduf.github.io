@@ -6,11 +6,11 @@ tags: epaper hardware
 > The reMarkable is a paper tablet for those who prefer writing on paper, rather than keyboards. Its remarkably fast paper-white display, Linux based operating system and awesome community make it highly attractive amongst hackers and developers. - [Awesome reMarkable](https://github.com/reHackable/awesome-reMarkable)
 
 ## [Applications](https://github.com/reHackable/awesome-reMarkable#applications)
-- [reMarkable_syncthing](https://github.com/evidlo/remarkable_syncthing) - Syncthing on reMarkable
+- [syncthing](https://github.com/evidlo/remarkable_syncthing) - Syncthing on reMarkable
 - [reMarkable_mouse](https://github.com/evidlo/remarkable_mouse) - Use your reMarkable as a graphics tablet.
 - [Plato](https://github.com/darvin/plato) ebook reader
 - [fingerterm](https://github.com/dixonary/fingerterm-reMarkable) - touch terminal
-
+- [wikipedia](https://github.com/dps/remarkable-wikipedia) offline
 ## Hardware
 - [remarkable-keywriter](https://github.com/dps/remarkable-keywriter)
 	- [with a bluetooth keyboard](https://www.reddit.com/r/RemarkableTablet/comments/e8p22h/remarkablekeywriter_with_a_bluetooth_keyboard/)
