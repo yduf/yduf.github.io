@@ -8,7 +8,7 @@ tags: tags filesystem
 # Principle
 - [Designing better file organization around tags, not hierarchies](https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies#contents)
 
-## [tsmu](https://github.com/oniony/TMSU)
+# [Tsmu](https://github.com/oniony/TMSU)
 - install using x86_64 binary [release](https://github.com/oniony/TMSU/releases)
 	- [fish autocompletion](https://github.com/0ion9/fish_tmsu) - [\[1\]](https://github.com/oniony/TMSU/issues/169)
 	- [zsh](https://github.com/oniony/TMSU/blob/master/misc/zsh/_tmsu) completion script
