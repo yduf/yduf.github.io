@@ -15,6 +15,7 @@ tags: epaper hardware
 
 ## Dev
 - [libremarkable](https://github.com/canselcik/libremarkable) - A Framework for Remarkable Tablet
+- [Developing for the reMarkable tablet](https://dragly.org/2017/12/01/developing-for-the-remarkable/)
 
 ## Resources
 - [HN](https://news.ycombinator.com/item?id=22604597)
