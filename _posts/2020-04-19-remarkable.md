@@ -30,5 +30,5 @@ tags: epaper hardware
 - [remarkablewiki](https://remarkablewiki.com/start)
 	- [tips](https://remarkablewiki.com/tips/start)
 	- [tech](https://remarkablewiki.com/tech/start)
-- [reMarkable2 Teardown][https://fccid.io/2AMK2-RM110/Internal-Photos/Internal-photos-4523960)
+- [reMarkable2 Teardown](https://fccid.io/2AMK2-RM110/Internal-Photos/Internal-photos-4523960)
 - [reMarkable](https://duckpond.ch/nix/bash/2020/01/08/reMarkable.html)
