@@ -9,7 +9,8 @@ see [Process](https://crystal-lang.org/api/0.35.1/Process.html) / [SO](https://s
 {% highlight crystal %}
 command = "curl http://dist.crystal-lang.org/apt/setup.sh | bash"
 io = IO::Memory.new
-Process.run(command, shell: true, output: io)
+status = Process.run(command, shell: true, output: io)
+puts status.exit_code
 output = io.to_s
 {% endhighlight %}
 
