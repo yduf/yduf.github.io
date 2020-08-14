@@ -1,7 +1,7 @@
 ---
 published: true
 title: Printing miniatures
-tags: miniature figurine
+tags: 3dprint figurines
 ---
 ## [How to 3D print miniatures on a FDM printer](https://www.youtube.com/watch?v=AqEWl51s9Rw)
 - Do not print with too small layer (heat effect) - use 0.1 and no less
