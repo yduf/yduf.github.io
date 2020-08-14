@@ -12,8 +12,8 @@ Crystal allows you to bind to existing C libraries without writing a single line
 
 - [Bindgen](https://github.com/Papierkorb/bindgen) -  Standalone C, C++, and/or Qt binding and wrapper generator.
 
+- [bind your own c library](https://medium.com/@cfsamson/how-to-bind-your-own-c-library-to-crystal-fec9686598b7)
+	- [C binding](https://www.reddit.com/r/crystal_programming/comments/68ga9z/binding_to_c_libraries/)
 
 - [crystal lang discussion](https://github.com/crystal-lang/crystal/issues/3916)
 
-- [bind your own c library](https://medium.com/@cfsamson/how-to-bind-your-own-c-library-to-crystal-fec9686598b7)
-	- [C binding](https://www.reddit.com/r/crystal_programming/comments/68ga9z/binding_to_c_libraries/)
