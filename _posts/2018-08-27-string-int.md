@@ -5,12 +5,18 @@ tags: crystal ruby scala dlang string interpolation
 excerpt_separator: ''
 ---
 ### Crystal
-Work alike ruby with either [#{}](https://crystal-lang.org/reference/syntax_and_semantics/literals/string.html#Interpolation) or [%{}](https://crystal-lang.org/api/0.35.1/String.html#%25%28other%29-instance-method)
+Work alike ruby with either [#{}](https://crystal-lang.org/reference/syntax_and_semantics/literals/string.html#Interpolation)
 
-{% highlight ruby %}
+{% highlight crystal %}
 a = 1
 b = 2
 "sum: #{a} + #{b} = #{a + b}" # => "sum: 1 + 2 = 3"
+{% endhighlight %}
+
+ or [%{}](https://crystal-lang.org/api/0.35.1/String.html#%25%28other%29-instance-method)
+ 
+{% highlight crystal %}
+"sum: %{one} + %{two} = %{three}" % {one: 1, two: 2, three: 1 + 2} # => "sum: 1 + 2 = 3"
 {% endhighlight %}
 
 ### Ruby
