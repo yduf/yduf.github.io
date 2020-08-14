@@ -5,12 +5,13 @@ tags: ruby crystal filesystem file
 excerpt_separator: ''
 ---
 ### [Crystal](https://crystal-lang.org/api/0.35.1/Dir.html#each(&:String-%3E):Nil-instance-method)
-Like ruby [Dir](https://ruby-doc.org/core-2.7.1/Dir.html), but each_child vs foreach+next(.,..), **or** does not exist,  string uses double quote (").
+Similar to ruby [Dir](https://ruby-doc.org/core-2.7.1/Dir.html).
+
+Work with pattern scan, but currently **\*\*** not supported ⚠[recursive issue](https://github.com/crystal-lang/crystal/issues/1433)
 
 {% highlight crystal %}
-Dir.each_child("/path/to/dir") {|filename|
+Dir["/app/**"].each {|filename|
   puts filename
-  # Do work on the remaining files & directories
 }
 {% endhighlight %}
 
