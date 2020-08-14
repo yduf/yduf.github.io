@@ -1,7 +1,7 @@
 ---
 published: true
 title: Storing a million images in the filesystem
-tags: filesystem
+tags: filesystem file
 ---
 > Most of the newer systems I've worked with have pushed the file storage to the file system, and relied on databases for nothing more than indexing. File systems are designed to take that sort of abuse, they're much easier to expand, and you seldom lose the whole file system if one entry gets corrupted. - [SO](https://serverfault.com/a/95451)
 
