@@ -8,3 +8,6 @@ tags: hash crypto
 {% highlight bash %}
 cargo install b3sum
 {% endhighlight %}
+
+## Binding
+- [Crystal](https://github.com/didactic-drunk/blake3.cr)
