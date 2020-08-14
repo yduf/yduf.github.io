@@ -1,7 +1,7 @@
 ---
 title: String Interpolation
 published: true
-tags: ruby scala dlang string interpolation
+tags: crystal ruby scala dlang string interpolation
 excerpt_separator: ''
 ---
 ### Crystal
