@@ -1,7 +1,7 @@
 ---
 title: String Interpolation
 published: true
-tags: ruby scala string interpolation
+tags: ruby scala dlang string interpolation
 ---
 ### Ruby
 - [Within string literral](http://ruby-for-beginners.rubymonstas.org/bonus/string_interpolation.html)
