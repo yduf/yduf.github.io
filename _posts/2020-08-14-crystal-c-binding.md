@@ -7,7 +7,7 @@ excerpt_separator: ''
 Crystal allows you to bind to existing C libraries without writing a single line in C.
 
 ## [C bindings](https://crystal-lang.org/reference/syntax_and_semantics/c_bindings/)
-- [libgen](https://github.com/olbat/libgen) - Libgen is a small tool based on the crystal_lib project
+- [libgen](https://github.com/olbat/libgen) - Libgen is a small tool based on the crystal_lib project that allows to generate libs following rules specified in config files.
 	- [crystal_lib](https://github.com/crystal-lang/crystal_lib)
 
 - [Bindgen](https://github.com/Papierkorb/bindgen) -  Standalone C, C++, and/or Qt binding and wrapper generator.
