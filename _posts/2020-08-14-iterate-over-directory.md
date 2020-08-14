@@ -18,8 +18,7 @@ Dir["/app/**"].each {|filename|
 ### [Ruby](https://stackoverflow.com/a/2512505)
 
 {% highlight ruby %}
-Dir.foreach('/path/to/dir') do |filename|
-  next if filename == '.' or filename == '..'
-  # Do work on the remaining files & directories
+Dir["/app/**"].each do |filename|
+  puts filename
 end
 {% endhighlight %}
