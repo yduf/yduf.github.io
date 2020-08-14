@@ -5,7 +5,7 @@ tags: ruby crystal filesystem file
 excerpt_separator: ''
 ---
 ### [Crystal](https://crystal-lang.org/api/0.35.1/Dir.html#each(&:String-%3E):Nil-instance-method)
-Like ruby, but each_child vs foreach+next(.,..), or does not exist,  string uses double quote (").
+Like ruby, but each_child vs foreach+next(.,..), **or** does not exist,  string uses double quote (").
 
 {% highlight crystal %}
 Dir.each_child("/path/to/dir") {|filename|
