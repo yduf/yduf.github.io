@@ -2,7 +2,17 @@
 title: String Interpolation
 published: true
 tags: ruby scala dlang string interpolation
+excerpt_separator: ''
 ---
+### Crystal
+Work alike ruby with either [#{}](https://crystal-lang.org/reference/syntax_and_semantics/literals/string.html#Interpolation) or [%{}](https://crystal-lang.org/api/0.35.1/String.html#%25%28other%29-instance-method)
+
+{% highlight ruby %}
+a = 1
+b = 2
+"sum: #{a} + #{b} = #{a + b}" # => "sum: 1 + 2 = 3"
+{% endhighlight %}
+
 ### Ruby
 - [Within string literral](http://ruby-for-beginners.rubymonstas.org/bonus/string_interpolation.html)
 {% highlight ruby %}
