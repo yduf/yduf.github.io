@@ -4,12 +4,14 @@ published: true
 tags: binary text encoding ruby
 ---
 - [yEnc](https://en.wikipedia.org/wiki/YEnc): 2%
-- [Base64](https://en.wikipedia.org/wiki/Base64): 33%
 - [uuencode](https://en.wikipedia.org/wiki/Uuencode) (like base64)
+- [Base64](https://en.wikipedia.org/wiki/Base64): 33%
 - hex: 50%
 - [Base85 (Ascii85)](https://en.wikipedia.org/wiki/Ascii85)
 - [basE91](http://base91.sourceforge.net/)
 - [Base-122](https://github.com/kevinAlbs/Base122)
+- [Base2048]({% post_url 2020-08-13-unicode %})
+- [Base65536]({% post_url 2020-08-13-unicode %})
 
 ## [scheme and overhead](https://en.wikipedia.org/wiki/Binary-to-text_encoding) ([stackoverflow](https://stackoverflow.com/a/971501/51386))
 
