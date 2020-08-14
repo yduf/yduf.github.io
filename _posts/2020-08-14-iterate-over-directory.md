@@ -15,7 +15,7 @@ Dir["/app/**"].each {|filename|
 }
 {% endhighlight %}
 
-### [Ruby](https://stackoverflow.com/a/2512505)
+### [Ruby](https://stackoverflow.com/a/20527887/51386)
 
 {% highlight ruby %}
 Dir["/app/**"].each do |filename|
