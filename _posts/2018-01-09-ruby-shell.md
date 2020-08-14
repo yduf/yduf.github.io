@@ -1,7 +1,7 @@
 ---
 title: Running a child process in Ruby (properly)
 published: true
-tags: ruby shell
+tags: ruby shell process
 ---
 first part from [medium](https://medium.com/zendesk-engineering/running-a-child-process-in-ruby-properly-febd0a2b6ec8)
 
@@ -76,4 +76,3 @@ There’s one more gotcha when it comes to dealing with subprocesses: deadlocks.
 {% highlight ruby %}
 exec("something") if fork.nil?
 {% endhighlight %}
-
