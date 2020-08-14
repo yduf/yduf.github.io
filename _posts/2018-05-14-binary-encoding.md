@@ -3,7 +3,7 @@ title: Binary / Text encoding
 published: true
 tags: binary text encoding ruby
 ---
-- [yEnc](https://en.wikipedia.org/wiki/YEnc): 2% - **ASCII‑constrained**
+- [yEnc](https://en.wikipedia.org/wiki/YEnc) - **ASCII‑constrained**
 - [uuencode](https://en.wikipedia.org/wiki/Uuencode) (like base64)
 - [Base64](https://en.wikipedia.org/wiki/Base64): 75%
 - hex: 50%
