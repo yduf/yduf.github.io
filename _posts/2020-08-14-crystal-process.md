@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Running a child process in Crystal
 tags: crystal shell process
 excerpt_separator: ''
