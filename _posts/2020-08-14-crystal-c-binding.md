@@ -1,6 +1,6 @@
 ---
 published: true
-title: Crystal auto binding and wrapper generator for C/C++ libraries
+title: Crystal  wrapper generator for C/C++ libraries
 tags: crystal binding c++
 excerpt_separator: ''
 ---
