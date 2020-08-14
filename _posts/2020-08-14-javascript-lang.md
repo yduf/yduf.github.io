@@ -1,8 +1,7 @@
 ---
 published: true
 title: Javascript
-tags: js lang
-excerpt_separator: ''
+tags: js lang online
 ---
 
 [online](https://repl.it/)
