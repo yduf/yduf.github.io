@@ -5,6 +5,10 @@ tags: crystal binding c++
 ---
 Crystal allows you to bind to existing C libraries without writing a single line in C.
 
+{::nomarkdown}
+<link rel="shortcut icon" href="https://crystal-lang.org/favicon.ico" type="image/x-icon" />
+{:/}
+
 ## [C bindings](https://crystal-lang.org/reference/syntax_and_semantics/c_bindings/)
 - [libgen](https://github.com/olbat/libgen) - Libgen aims to ease the port of big C libraries and to provide a convinient way to define re-generable bindings, through [config files](https://github.com/olbat/libgen/blob/master/SPECS.md):
 	- Lib generation is parametrized using a YAML or JSON configuration file (how to generate).
