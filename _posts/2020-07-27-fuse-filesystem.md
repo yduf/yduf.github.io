@@ -41,6 +41,9 @@ using a previous version may lead to warning:
 fuse: warning: library too old, some operations may not not work
 {% endhighlight %}
 
+## Perf
+- [Performance and Resource Utilization of FUSE User-Space File Systems](https://dl.acm.org/doi/fullHtml/10.1145/3310148)
+
 ## Binding
 - [x] [Crystal](https://github.com/didactic-drunk/fuse) - use libgen
 	- [Papierkorb/fuse](https://github.com/aljelly/fuse)
