@@ -30,7 +30,8 @@ There are a couple features of FUSE that can make it difficult to debug: it norm
 
 see also Fuse [Changelog](https://github.com/libfuse/libfuse/blob/master/ChangeLog.rst)
 
-( latest version is 3
+Latest version is 3, bug fix + API clean up
+
 {% highlight cpp %}
 sudo apt-get install libfuse3-dev
 {% endhighlight %}
