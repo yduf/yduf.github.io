@@ -42,7 +42,8 @@ fuse: warning: library too old, some operations may not not work
 {% endhighlight %}
 
 ## Perf
-- [Performance and Resource Utilization of FUSE User-Space File Systems](https://dl.acm.org/doi/fullHtml/10.1145/3310148)
+ 
+> We start with a detailed explanation of FUSE's design and implementation - [Performance and Resource Utilization of FUSE User-Space File Systems](https://dl.acm.org/doi/fullHtml/10.1145/3310148)
 
 ## Binding
 - [x] [Crystal](https://github.com/didactic-drunk/fuse) - use libgen
