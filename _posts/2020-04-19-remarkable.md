@@ -11,6 +11,7 @@ tags: epaper hardware
 - [Plato](https://github.com/darvin/plato) ebook reader
 - [fingerterm](https://github.com/dixonary/fingerterm-reMarkable) - touch terminal
 - [wikipedia](https://github.com/dps/remarkable-wikipedia) offline
+
 ## Hardware
 - [remarkable-keywriter](https://github.com/dps/remarkable-keywriter)
 	- [with a bluetooth keyboard](https://www.reddit.com/r/RemarkableTablet/comments/e8p22h/remarkablekeywriter_with_a_bluetooth_keyboard/)
@@ -25,7 +26,8 @@ tags: epaper hardware
 - [Binary patches for the rM](https://github.com/ddvk/remarkable-hacks)
 
 ## Resources
-- [HN](https://news.ycombinator.com/item?id=22604597)
+- [HN](https://news.ycombinator.com/item?id=22604597) 
+	- [HN](https://news.ycombinator.com/item?id=21040343)
 - [remarkable.engineering](https://remarkable.engineering/)
 - [remarkablewiki](https://remarkablewiki.com/start)
 	- [tips](https://remarkablewiki.com/tips/start)
