@@ -28,6 +28,29 @@ class Subscription
 end
 {% endhighlight %}
 
+squiggly heredoc [remove indentation](https://www.rubyguides.com/2018/11/ruby-heredoc/) from the actual string.
+
+{% highlight ruby %}
+data = JSON.parse(<<-DATA, symbolize_names: true)
+page = <<-HTML
+  Heredocs are cool & useful
+HTML
+
+_> "  Heredocs are cool & useful\n"
+
+page = <<~HTML
+  Heredocs are cool & useful
+HTML
+
+-> "Heredocs are cool & useful\n"
+
+page = <<~HTML.strip
+  Heredocs are cool & useful
+HTML
+
+-> "Heredocs are cool & useful"
+{% endhighlight %}
+
 ## [Heredoc on next line](https://github.com/yuki24/object_mapper)
 {% highlight ruby %}
 data = JSON.parse(<<-DATA, symbolize_names: true)
@@ -42,6 +65,7 @@ data = JSON.parse(<<-DATA, symbolize_names: true)
 ]
 DATA
 {% endhighlight %}
+
 
 ## [Alternate Syntax](https://www.thoughtco.com/string-literals-2908302)
 As with most other literals, Ruby provides an alternate syntax for string literals. If you're using a lot of quote characters inside your literals, for example, you may want to use this syntax. When you use this syntax is a matter of style, they're usually not needed for strings.
