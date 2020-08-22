@@ -19,4 +19,4 @@ tags: cli
 - **vipe:** insert a text editor into a pipe
 - **zrun:** automatically uncompress arguments to command
 
-[moreutils](https://joeyh.name/code/moreutils/) / [HN](https://news.ycombinator.com/item?id=24241986)
+[home](https://joeyh.name/code/moreutils/) / [HN](https://news.ycombinator.com/item?id=24241986)
