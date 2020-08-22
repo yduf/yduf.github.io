@@ -7,4 +7,4 @@ tags: kvm raspberry video streaming
 
 ## Alternative
 - [pikvm](https://github.com/pikvm/pikvm)
-- [pilo](https://zach.bloomqu.ist/blog/2020/08/pilo-raspberry-pi-lights-out-management.html)
+- [pilo](https://zach.bloomqu.ist/blog/2020/08/pilo-raspberry-pi-lights-out-management.html) / [HN](https://news.ycombinator.com/item?id=24232066)
