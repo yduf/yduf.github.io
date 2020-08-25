@@ -53,6 +53,8 @@ zfs list   # Test the datasets have been created with
 
  
 ## [ZFS RAIDZ expansion](https://www.reddit.com/r/homelab/comments/83wo88/any_news_on_zfs_raidz_expansion/)
+### [Expanding a RAIDZ Pool](https://serverfault.com/questions/537047/expanding-a-freenas-raidz-pool)
+  
 > With ZFS, you either have to buy all storage you expect to need upfront, or you will be wasting a few hard drives on redundancy you don't need. - [You can't add hard drives to a VDEV](https://louwrentius.com/the-hidden-cost-of-using-zfs-for-your-home-nas.html)
   
 - [github WP](https://github.com/openzfs/zfs/pull/8853)
