@@ -1,7 +1,7 @@
 ---
 published: true
 title: Observable (Better way to code)
-tags: js online graphic
+tags: js online graphic notebook
 ---
 ## [Online playground](https://beta.observablehq.com/)
 
