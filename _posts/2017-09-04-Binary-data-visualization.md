@@ -1,6 +1,6 @@
 ---
 published: true
-tags: binary visualisation
+tags: binary visualizer
 ---
 - [Visualizing binaries with space-filling curves](https://corte.si/posts/visualisation/binvis/index.html) / [HN](https://news.ycombinator.com/item?id=14544191)
 - [Visualizing-elf-binaries](https://reverseengineering.stackexchange.com/questions/6003/visualizing-elf-binaries) / [HN](https://news.ycombinator.com/item?id=15164166)
