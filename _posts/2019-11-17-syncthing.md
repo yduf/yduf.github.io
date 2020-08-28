@@ -17,3 +17,5 @@ tags: rsync
 systemctl enable syncthing@myuser.service
 systemctl start syncthing@myuser.service
 {% endhighlight %}
+
+- [Syncthing Tray](https://github.com/Martchus/syncthingtray)
