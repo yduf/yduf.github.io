@@ -19,3 +19,6 @@ systemctl start syncthing@myuser.service
 {% endhighlight %}
 
 - [Syncthing Tray](https://github.com/Martchus/syncthingtray)
+
+## Android
+- [Syncthing Community](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid&hl=en_US)
