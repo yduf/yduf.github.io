@@ -25,6 +25,12 @@ tags: epaper hardware
 ## Hack
 - [Binary patches for the rM](https://github.com/ddvk/remarkable-hacks)
 
+## Alternative OS
+- [Parabola-rM](http://www.davisr.me/projects/parabola-rm/)
+
+## Review 
+- [Remarkable 2: Unboxing And First Impressions](https://www.youtube.com/watch?v=ihlhuDsc5-g)
+
 ## Resources
 - [HN](https://news.ycombinator.com/item?id=22604597) 
 	- [HN](https://news.ycombinator.com/item?id=21040343)
