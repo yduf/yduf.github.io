@@ -30,6 +30,8 @@ tags: epaper hardware
 
 ## Review 
 - [Remarkable 2: Unboxing And First Impressions](https://www.youtube.com/watch?v=ihlhuDsc5-g)
+	- [small storage (6.4Gb)](https://youtu.be/wpwbVwfWIKE?t=1439) / No bluetooth
+    - exact same system as hardware v1.0
 
 ## Resources
 - [HN](https://news.ycombinator.com/item?id=22604597) 
