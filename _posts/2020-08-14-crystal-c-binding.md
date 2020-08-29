@@ -9,7 +9,7 @@ Crystal allows you to bind to existing C libraries without writing a single line
 <link rel="shortcut icon" href="https://crystal-lang.org/favicon.ico" type="image/x-icon" />
 {:/}
 
-<span style="color:red">[**Warning**]</span> => struct bitfield ard not supported
+<span style="color:red">[**Warning**]</span> => struct bitfields ard not supported
 - [crystal-lang#3898](https://github.com/crystal-lang/crystal/issues/3898)
 - [crystal-lib#70](https://github.com/crystal-lang/crystal_lib/issues/70)
 
