@@ -9,9 +9,9 @@ Crystal allows you to bind to existing C libraries without writing a single line
 <link rel="shortcut icon" href="https://crystal-lang.org/favicon.ico" type="image/x-icon" />
 {:/}
 
-## [C bindings](https://crystal-lang.org/reference/syntax_and_semantics/c_bindings/)
+<span style="color:red">[**Warning**]</span> => struct bitfield ard not supported - [issue](https://github.com/crystal-lang/crystal/issues/3898)
 
-<span style="color:red">[**Warning**]</span> => struct bitfield ard not supported
+## [C bindings](https://crystal-lang.org/reference/syntax_and_semantics/c_bindings/)
 
 - [libgen](https://github.com/olbat/libgen) - Libgen aims to ease the port of big C libraries and to provide a convinient way to define re-generable bindings, through [config files](https://github.com/olbat/libgen/blob/master/SPECS.md):
 	- Lib generation is parametrized using a YAML or JSON configuration file (_how to generate_).
