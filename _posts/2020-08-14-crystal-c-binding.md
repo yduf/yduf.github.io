@@ -14,6 +14,12 @@ Crystal allows you to bind to existing C libraries without writing a single line
 - [crystal-lib#70](https://github.com/crystal-lang/crystal_lib/issues/70)
 
 ## [C bindings](https://crystal-lang.org/reference/syntax_and_semantics/c_bindings/)
+- [pointer casts](https://crystal-lang.org/reference/syntax_and_semantics/as.html)
+
+{% highlight crystal %}
+ptr = Pointer(Int32).malloc(1)
+ptr.as(Int8*) # :: Pointer(Int8)
+{% endhighlight %}
 
 - [libgen](https://github.com/olbat/libgen) - Libgen aims to ease the port of big C libraries and to provide a convinient way to define re-generable bindings, through [config files](https://github.com/olbat/libgen/blob/master/SPECS.md):
 	- Lib generation is parametrized using a YAML or JSON configuration file (_how to generate_).
