@@ -21,6 +21,12 @@ ptr = Pointer(Int32).malloc(1)
 ptr.as(Int8*) # :: Pointer(Int8)
 {% endhighlight %}
 
+- [Passing data to callback](https://crystal-lang.org/reference/syntax_and_semantics/c_bindings/callbacks.html)
+	- [Box](https://crystal-lang.org/api/0.35.1/Box.html) allows turning any object to a Void* and back.
+    
+> Note that a reference has to be kept on the object on crystal side. The reason is that if we don't do it, and our code doesn't reference it anymore, the GC will collect it. The C library will of course store the callback, but Crystal's GC has no way of knowing that.
+
+
 - [libgen](https://github.com/olbat/libgen) - Libgen aims to ease the port of big C libraries and to provide a convinient way to define re-generable bindings, through [config files](https://github.com/olbat/libgen/blob/master/SPECS.md):
 	- Lib generation is parametrized using a YAML or JSON configuration file (_how to generate_).
     - Bindings definitions are specified in YAML, JSON or Crystal files or in the generation config file directly (_what to generate_).
