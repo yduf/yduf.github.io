@@ -16,6 +16,7 @@ Crystal allows you to bind to existing C libraries without writing a single line
 <span style="color:red">[**Warning**]</span> => Thread are not supported (yet) ?
 - [MT Safe Array & Hash (open)](https://github.com/crystal-lang/crystal/issues/9548)
 - [Threading? #1967 (closed)](https://github.com/crystal-lang/crystal/issues/1967)
+=> this may be a challenge for using libfuse for eg (which is multithread by default)
 
 
 ## [C bindings](https://crystal-lang.org/reference/syntax_and_semantics/c_bindings/)
