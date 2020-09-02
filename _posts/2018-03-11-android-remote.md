@@ -14,5 +14,5 @@ scrcpy  --turn-screen-off --stay-awake
 - [AutoAdb](https://github.com/rom1v/autoadb) - This command-line tool allows to execute a command whenever a new device is connected to adb.
 
 {% highlight cpp %}
-scrcpy -s '{}' --turn-screen-off --stay-awake
+autoadb scrcpy -s '{}' --turn-screen-off --stay-awake
 {% endhighlight %}
