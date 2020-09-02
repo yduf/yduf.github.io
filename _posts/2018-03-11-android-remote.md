@@ -1,5 +1,5 @@
 ---
-title: Androd Remote control
+title: Android Remote control
 published: true
 tags: android remote
 ---
