@@ -9,7 +9,7 @@ tags: rsync
 - [have a backup](https://www.gkayaalp.com/blog/20190102_syncthing.html)
 - [set a version policy](https://docs.syncthing.net/users/versioning.html#simple-file-versioning)
 
-# [GUI](http://localhost:8384/)
+# [**local** GUI](http://localhost:8384/)
 
 - [Community Contributions](https://docs.syncthing.net/users/contrib.html#contributions)
 - [Starting Syncthing Automatically](https://docs.syncthing.net/users/autostart.html#linux)
