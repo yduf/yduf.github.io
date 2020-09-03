@@ -5,6 +5,8 @@ tags: software filesystem
 ---
 > FUSE (Filesystem in Userspace) is an interface for userspace programs to export a filesystem to the Linux kernel. The FUSE project consists of two components: the fuse kernel module (maintained in the regular kernel repositories) and the libfuse userspace library (maintained in this repository). libfuse provides the reference implementation for communicating with the FUSE kernel module. - [libfuse](https://github.com/libfuse/libfuse)
 
+## [Pros/cons](https://unix.stackexchange.com/a/4170/192991)
+
 ## [Building your own filesystem](https://github.com/libfuse/libfuse/#building-your-own-filesystem)
 
 libfuse offers two APIs: a "high-level", synchronous API, and a "low-level" asynchronous API. In both cases, incoming requests from the kernel are passed to the main program using callbacks. 
@@ -57,3 +59,4 @@ fuse: warning: library too old, some operations may not not work
 ## Binding
 - [x] [Crystal](https://github.com/didactic-drunk/fuse) - use libgen
 	- [Papierkorb/fuse](https://github.com/aljelly/fuse)
+- [Dlang](https://github.com/dlang-community/dfuse)
