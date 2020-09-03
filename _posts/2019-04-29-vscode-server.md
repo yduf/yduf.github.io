@@ -19,5 +19,5 @@ go/bin/sshcode kyle@dev.kwc.io ~/projects/sourcegraph
 ## Docker
 
 {% highlight bash %}
-docker run -it -p 127.0.0.1:8443:8443 -v "${PWD}:/home/coder/project" codercom/code-server --allow-http --no-auth
+docker run -it -p 8443:8080 -v "${PWD}:/home/coder/project"  -u "$(id -u):$(id -g)" codercom/code-server --auth=none --disable-telemetry
 {% endhighlight %}
