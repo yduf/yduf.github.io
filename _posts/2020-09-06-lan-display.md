@@ -24,6 +24,9 @@ ssh -X
 Xdmx :1 -display :0 -display :10.0 +xinerama
 {% endhighlight %}
 
+
+=> X11 forwarding working
+
 => Black screen on both computer
 
 {% highlight cpp %}
