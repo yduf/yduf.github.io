@@ -20,6 +20,8 @@ sudo apt-get install xdmx
 ### Issue
 
 GLX issue with cinammon ?
+- [Xdmx GL](https://bbs.archlinux.org/viewtopic.php?id=252376)
+	- [how to install xdmx on Arch](https://bbs.archlinux.org/viewtopic.php?id=251808)
 
 - [xdmx multimonitor setup](https://askubuntu.com/questions/530130/xdmx-multimonitor-setup)
 
