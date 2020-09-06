@@ -17,7 +17,7 @@ tags: lan display
 sudo apt-get install xdmx
 {% endhighlight %}
 
-### Issue
+### Issue
 
 GLX issue with cinammon ?
 
