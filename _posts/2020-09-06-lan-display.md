@@ -17,6 +17,11 @@ tags: lan display
 sudo apt-get install xdmx
 {% endhighlight %}
 
+{% highlight cpp %}
+ssh -X 
+Xdmx :1 -display :0 -display d0:10 +xinerama
+{% endhighlight %}
+
 ### Issue
 
 GLX issue with cinammon ?
