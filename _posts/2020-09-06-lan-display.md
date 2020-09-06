@@ -20,6 +20,8 @@ sudo apt-get install xdmx
 {% highlight cpp %}
 ssh -X 
 Xdmx :1 -display :0 -display d0:10 +xinerama
+
+Xdmx :1 -display :0 -display 192.168.0.20:10.0 +xinerama
 {% endhighlight %}
 
 ### Issue
