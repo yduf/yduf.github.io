@@ -24,6 +24,15 @@ ssh -X
 Xdmx :1 -display :0 -display :10.0 +xinerama
 {% endhighlight %}
 
+=> Black screen on both computer
+
+{% highlight cpp %}
+ssh -X 
+Xdmx :1 -display :0  +xinerama
+{% endhighlight %}
+
+=> Black screen on master computer
+
 ### Issue
 
 GLX issue with cinammon ?
