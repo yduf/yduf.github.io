@@ -21,11 +21,14 @@ sudo apt-get install xdmx
 
 {% highlight cpp %}
 ssh -X 
-Xdmx :1 -display :0 -display :10.0 +xinerama
 {% endhighlight %}
 
 
 => X11 forwarding working
+
+{% highlight cpp %}
+Xdmx :1 -display :0 -display :10.0 +xinerama
+{% endhighlight %}
 
 => Black screen on both computer
 
