@@ -17,6 +17,8 @@ tags: lan display
 sudo apt-get install xdmx
 {% endhighlight %}
 
+- [X11 fowarding](https://www.linuxquestions.org/questions/linux-networking-3/ssh-x-cannot-open-display-925852/)
+
 {% highlight cpp %}
 ssh -X 
 Xdmx :1 -display :0 -display :10.0 +xinerama
