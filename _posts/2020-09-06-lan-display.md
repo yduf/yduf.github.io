@@ -22,3 +22,7 @@ sudo apt-get install xdmx
 GLX issue with cinammon ?
 
 - [xdmx multimonitor setup](https://askubuntu.com/questions/530130/xdmx-multimonitor-setup)
+
+## Refs
+- [Distributed Multihead X design](http://dmx.sourceforge.net/dmx.html)
+	- [pdf](http://www.xfree86.org/current/dmx.pdf)
