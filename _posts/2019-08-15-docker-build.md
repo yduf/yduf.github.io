@@ -11,7 +11,7 @@ tags: docker build
 # download the image
 docker pull debian
 
-# interactive sesssion
+# interactive session
 docker run -it debian /bin/bash
 # Ctrl+p, Ctrl+q => exit from the Container session with keeping container's process
 {% endhighlight %}
