@@ -43,6 +43,8 @@ There are a couple features of FUSE that can make it difficult to debug: it norm
 
 ### [FUSE MODULES (STACKING)](http://manpages.ubuntu.com/manpages/precise/man8/mount.fuse.8.html#fuse%20modules%20(stacking))
 
+Modules are filesystem stacking support to high level API. Filesystem modules can be built into libfuse or loaded from shared object.
+
 ## Version
 see also Fuse [Changelog](https://github.com/libfuse/libfuse/blob/master/ChangeLog.rst)
 
