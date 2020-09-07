@@ -39,8 +39,11 @@ There are a couple features of FUSE that can make it difficult to debug: it norm
 - Use the -d or -f switch to keep your application in the foreground. This will make your printf lines work.
 - Use the -s switch to disable multithreading. Disabling multithreading will limit performance, but will also hide certain bugs (race conditions), simplify the use of gdb, and ensure printf output is readable (when multiple threads call printf at about the same time their output can get mixed up).
 
-## Version
+## [Options](http://manpages.ubuntu.com/manpages/precise/man8/mount.fuse.8.html#options)
 
+### [FUSE MODULES (STACKING)](http://manpages.ubuntu.com/manpages/precise/man8/mount.fuse.8.html#fuse%20modules%20(stacking))
+
+## Version
 see also Fuse [Changelog](https://github.com/libfuse/libfuse/blob/master/ChangeLog.rst)
 
 Latest version is 3, bug fix + API clean up
