@@ -67,7 +67,8 @@ puts output
 
 There’s one more gotcha when it comes to dealing with subprocesses: deadlocks. This can be an issue when you want to process both `stdout` and `stderr` of a child. If one of these pipes fill up their OS buffer with unconsumed output, the OS will block the process until somebody reads that buffered data. But if your parent process is busy waiting for the _other_ stream, you’ll get a deadlock. If you do decide to handle both streams yourself, you’ll need to use threads or `select` to read from whichever stream has data. But generally the best advice is to just to:
 
-> inherit `stderr` or redirect it to a file
+> inherit `stderr` or redirect it to a file,
+>
 > combine `stderr` and `stdout` via `Open3.popen2e` or something similar
 
 ## [How to fire and forget a subprocess? (stackoverflow)](https://stackoverflow.com/a/806289/51386)
