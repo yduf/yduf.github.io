@@ -3,12 +3,15 @@ published: true
 title: Tensorflow
 tags: AI NN tensorflow
 ---
-[Home](https://www.tensorflow.org/)
+> The fastest and more reliable method to get ROCm + Tensorflow backend to work is to use the docker image provided by AMD developers. - [Train neural networks using AMD GPU and Keras](https://towardsdatascience.com/train-neural-networks-using-amd-gpus-and-keras-37189c453878)
 
-## Installation
-### As docker container
+# [Tensorflow](https://www.tensorflow.org/)
+
+## Tensorflow Docker
+
 - [install docker]({% post_url 2019-08-16-docker %})
-- install [Tensorflow ROCm port](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
+- [Train neural networks using AMD GPU and Keras](https://towardsdatascience.com/train-neural-networks-using-amd-gpus-and-keras-37189c453878)
+	- install [Tensorflow ROCm port](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
 	- [tutorial](https://github.com/RadeonOpenCompute/ROCm-docker/blob/master/quick-start.md)
     
 {% highlight bash %}
