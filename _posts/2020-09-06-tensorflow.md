@@ -25,7 +25,7 @@ mkdir /home/$LOGNAME/tf_docker_share
 
 
 {% highlight bash %}
-alias drun='sudo docker run \
+alias drun='docker run \
       -it \
       --network=host \
       --device=/dev/kfd \
@@ -35,7 +35,8 @@ alias drun='sudo docker run \
       --group-add video \
       --cap-add=SYS_PTRACE \
       --security-opt seccomp=unconfined \
-      -v $HOME/dockerx:/dockerx'
+      --workdir=/tf_docker_share \
+      -v $HOME/tf_docker_share:/tf_docker_share'
 
-drun rocm/tensorflow:latest
+drun rocm/tensorflow:latest bash
 {% endhighlight %}
