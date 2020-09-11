@@ -53,7 +53,7 @@ Then click on link dispalyed in terminal (terminator) to open it in a browser ou
 print("Num GPUs Available: ", len(tf.config.experimental.list_physical_devices('GPU')))
 {% endhighlight %}
 
-## Tensorflow Benchmark
+## [Tensorflow Benchmark](https://github.com/tensorflow/benchmarks)
 
 - [Low performance on RX 580 with TF benchmarks](https://github.com/microsoft/DirectML/issues/21)
 
