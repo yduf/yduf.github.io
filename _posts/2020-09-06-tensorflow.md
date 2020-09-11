@@ -52,3 +52,18 @@ Then click on link dispalyed in terminal (terminator) to open it in a browser ou
 {% highlight bash %}
 print("Num GPUs Available: ", len(tf.config.experimental.list_physical_devices('GPU')))
 {% endhighlight %}
+
+## Tensorflow Benchmark
+
+- [Low performance on RX 580 with TF benchmarks](https://github.com/microsoft/DirectML/issues/21)
+
+{% highlight bash %}
+python3 tf_cnn_benchmarks.py --num_gpus=1 --batch_size=32 --model=resnet50
+...
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 81.8 +/- 0.0 (jitter = 0.0)	7.750
+10	images/sec: 82.3 +/- 0.1 (jitter = 0.2)	8.071
+20	images/sec: 82.3 +/- 0.1 (jitter = 0.1)	7.801
+30	images/sec: 82.3 +/- 0.0 (jitter = 0.3)	8.001
+{% endhighlight %}
