@@ -47,3 +47,8 @@ jupyter notebook --allow-root --port=8889
 
 Then click on link dispalyed in terminal (terminator) to open it in a browser outside of docker image.
 
+## Check Nb of GPU available
+
+{% highlight bash %}
+print("Num GPUs Available: ", len(tf.config.experimental.list_physical_devices('GPU')))
+{% endhighlight %}
