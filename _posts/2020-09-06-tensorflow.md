@@ -45,7 +45,7 @@ docker run \
 jupyter notebook --allow-root --port=8889
 {% endhighlight %}
 
-Then click on link dispalyed in terminal (terminator) to open it in a browser outside of docker image.
+Then click on link displayed in terminal (terminator) to open it in a browser outside of docker image.
 
 ## Check Nb of GPU available
 
