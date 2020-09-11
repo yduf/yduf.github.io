@@ -22,6 +22,13 @@ see also [AlphaGo Zero cheat sheet](https://medium.com/applied-data-science/how-
 
 - [Jupyter]({% post_url 2020-07-18-python-jupyter %}) notebook for [DeepReinforcementLearning (github)](https://github.com/yduf/DeepReinforcementLearning)
 
+## Requirement
+- Keras / matplotlib
+
+{% highlight bash %}
+pip3 install keras matplotlib
+{% endhighlight %}
+
 ## Launch first 2 paragraph
 
 {% highlight bash %}
