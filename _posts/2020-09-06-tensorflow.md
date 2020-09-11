@@ -25,7 +25,7 @@ mkdir /home/$LOGNAME/tf_docker_share
 
 
 {% highlight bash %}
-alias drun='docker run \
+docker run \
       -it \
       --network=host \
       --device=/dev/kfd \
@@ -36,7 +36,14 @@ alias drun='docker run \
       --cap-add=SYS_PTRACE \
       --security-opt seccomp=unconfined \
       --workdir=/tf_docker_share \
-      -v $HOME/tf_docker_share:/tf_docker_share'
-
-drun rocm/tensorflow:latest bash
+      -v $HOME/tf_docker_share:/tf_docker_share \
+      rocm/tensorflow:latest bash
 {% endhighlight %}
+
+## Running Jupyter from docker
+{% highlight bash %}
+jupyter notebook --allow-root --port=8889
+{% endhighlight %}
+
+Then click on link dispalyed in terminal (terminator) to open it in a browser outside of docker image.
+
