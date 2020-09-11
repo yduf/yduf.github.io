@@ -20,8 +20,7 @@ tags: AI
 ## Code
 see also [AlphaGo Zero cheat sheet](https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188)
 
-- [DeepReinforcementLearning](https://github.com/yduf/DeepReinforcementLearning)
-	- [Jupyter]({% post_url 2020-07-18-python-jupyter %})
+- [Jupyter]({% post_url 2020-07-18-python-jupyter %}) notebook for [DeepReinforcementLearning (github)](https://github.com/yduf/DeepReinforcementLearning)
 
 ## Launch first 2 paragraph
 
