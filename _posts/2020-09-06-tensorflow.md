@@ -55,6 +55,7 @@ print("Num GPUs Available: ", len(tf.config.experimental.list_physical_devices('
 
 ## [Tensorflow Benchmark](https://github.com/tensorflow/benchmarks)
 
+- [GPU Benchmark]({% post_url 2020-08-29-gpu %})
 - [Low performance on RX 580 with TF benchmarks](https://github.com/microsoft/DirectML/issues/21)
 
 {% highlight bash %}
