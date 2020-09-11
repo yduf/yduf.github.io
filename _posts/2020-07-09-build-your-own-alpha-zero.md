@@ -26,7 +26,9 @@ see also [AlphaGo Zero cheat sheet](https://medium.com/applied-data-science/how-
 - Keras / matplotlib
 
 {% highlight bash %}
-pip3 install keras matplotlib
+pip3 install keras matplotlib pydot
+apt-get update
+apt-get install graphviz
 {% endhighlight %}
 
 ## Launch first 2 paragraph
