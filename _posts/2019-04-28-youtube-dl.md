@@ -3,8 +3,11 @@ published: true
 title: Youtube-dl
 tags: video youtube
 ---
-## [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl/)
+> download videos from youtube.com or other video platforms - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl/)
+
 - [Supported sites](https://ytdl-org.github.io/youtube-dl/supportedsites.html)
+
+### forked by [blackjack4494/youtube-dlc ](https://github.com/blackjack4494/youtube-dlc) / [reddit](https://www.reddit.com/r/DataHoarder/comments/ir8ic6/youtubedlc_an_active_fork_of_youtubedl/) / [HN]() 
 
 ## [Select the video quality](https://askubuntu.com/questions/486297/how-to-select-video-quality-from-youtube-dl/486298#486298)
 
