@@ -1,6 +1,6 @@
 ---
 published: true
-title: Remote Control (Arduino)
+title: Remote control an Arduino
 tags: bluetooth arduino remote control android
 ---
 
