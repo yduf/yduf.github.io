@@ -1,7 +1,7 @@
 ---
 published: true
 title: How to build your own AlphaZero
-tags: AI
+tags: AI jupyter tensorflow
 ---
 > With this, AlphaZero was born — the general algorithm for getting good at something, quickly, without any prior knowledge of human expert strategy. - [Applied Data Science](https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188)
 
