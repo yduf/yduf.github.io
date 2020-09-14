@@ -68,8 +68,12 @@ conda install pydot
 sudo apt-get install graphviz
 {% endhighlight %}
 
+## Dependencies to add to docker images
+
 {% highlight bash %}
-sudo pip3 install matplotlib
-sudo pip3 install pydot 
-sudo pip3 install graphviz
+pip3 install matplotlib
+pip3 install pydot pydot-ng
+pip3 install graphviz
+
+apt-get update && apt-get install graphviz
 {% endhighlight %}
