@@ -5,7 +5,7 @@ tags: c++
 ---
 > A lambda can only be converted to a function pointer if it does not capture - [SO](https://stackoverflow.com/a/28747100/51386)
 
-Possible workaround with [`std::function`](https://en.cppreference.com/w/cpp/utility/functional/function) / [SO](https://stackoverflow.com/a/28747100/51386)
+Possible workaround using [`std::function`](https://en.cppreference.com/w/cpp/utility/functional/function) / [SO](https://stackoverflow.com/a/28747100/51386)
 
 {% highlight cpp %}
 #include <functional>
