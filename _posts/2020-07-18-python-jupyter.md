@@ -30,6 +30,16 @@ plt.show()
 ### Using Graphviz
 
 {% highlight python %}
-sudo pip3 install notebook
-jupyter notebook
+from graphviz import Digraph
+# Create Digraph object
+dot = Digraph()
+
+# Add nodes 1 and 2
+dot.node('1')
+dot.node('2')
+
+# Add edge between 1 and 2
+dot.edges(['12'])
+
+dot
 {% endhighlight %}
