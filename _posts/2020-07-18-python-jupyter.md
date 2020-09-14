@@ -13,7 +13,7 @@ sudo pip3 install notebook
 jupyter notebook
 {% endhighlight %}
 
-### Using Matplot
+### [Using Matplot](https://stackoverflow.com/questions/19410042/how-to-make-ipython-notebook-matplotlib-plot-inline)
 
 {% highlight python %}
 import matplotlib
@@ -27,7 +27,7 @@ plt.title('A simple chirp')
 plt.show()
 {% endhighlight %}
 
-### Using Graphviz
+### [Using Graphviz](https://h1ros.github.io/posts/introduction-to-graphviz-in-jupyter-notebook/)
 
 {% highlight python %}
 from graphviz import Digraph
