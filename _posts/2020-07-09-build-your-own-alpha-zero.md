@@ -7,6 +7,9 @@ tags: AI jupyter tensorflow
 
 ![caption](https://miro.medium.com/max/902/1*ROq9V2D5eR_dDFFFfjA5zw.png)
 
+## Ref
+- [AlphaGo Zero - How and Why it Works][http://tim.hibal.org/blog/alpha-zero-how-and-why-it-works/)
+
 ## Learning Algorithm summary
 
 - Mentally play through possible future scenarios, giving priority to promising paths, whilst also considering how others are most likely to react to your actions and continuing to explore the unknown.
