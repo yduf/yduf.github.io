@@ -27,41 +27,6 @@ see also [AlphaGo Zero cheat sheet](https://medium.com/applied-data-science/how-
 
 - [Jupyter]({% post_url 2020-07-18-python-jupyter %}) notebook for [DeepReinforcementLearning (github)](https://github.com/yduf/DeepReinforcementLearning)
 
-## Requirement
-- Keras / matplotlib
-
-{% highlight bash %}
-pip3 install keras matplotlib pydot
-apt-get update
-apt-get install graphviz
-{% endhighlight %}
-
-## Launch first 2 paragraph
-
-{% highlight bash %}
-ITERATION NUMBER 1
-BEST PLAYER VERSION 0
-SELF PLAYING 25 EPISODES...
-1 2 3 4 5 6 7 => to 25 # defined in config.py/EPISODES
-{% endhighlight %}
-
-{% highlight bash %}
-ITERATION NUMBER 1
-BEST PLAYER VERSION 0
-SELF PLAYING 25 EPISODES...
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 
-{% endhighlight %}
-
-### Issues
-- [AttributeError: 'dict' object has no attribute 'name'](https://github.com/tensorflow/tensorflow/issues/38988) - tensorflow issue
-
-{% highlight python %}
-# workaround below
-current_NN.model._layers = [layer for layer in current_NN.model._layers if not isinstance(layer, dict)]
-plot_model(current_NN.model, to_file=run_folder + 'models/model.png', show_shapes = True)
-{% endhighlight %}
-
-- [The Conv2D op currently only supports the NHWC tensor format on the CPU](https://github.com/onnx/onnx-tensorflow/issues/535) - Solved by conda install (tensofflow > 2.x)
 
 ## Dependencies to add to docker images
 
