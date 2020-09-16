@@ -63,16 +63,6 @@ plot_model(current_NN.model, to_file=run_folder + 'models/model.png', show_shape
 
 - [The Conv2D op currently only supports the NHWC tensor format on the CPU](https://github.com/onnx/onnx-tensorflow/issues/535) - Solved by conda install (tensofflow > 2.x)
 
-### Dependencies
-
-{% highlight bash %}
-conda install jupyter
-conda install keras
-conda install matplotlib
-conda install pydot
-sudo apt-get install graphviz
-{% endhighlight %}
-
 ## Dependencies to add to docker images
 
 {% highlight bash %}
