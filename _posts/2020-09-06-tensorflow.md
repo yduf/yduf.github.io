@@ -6,23 +6,18 @@ tags: AI NN tensorflow gpu
 > The fastest and more reliable method to get ROCm + Tensorflow backend to work is to use the docker image provided by AMD developers. - [Train neural networks using AMD GPU and Keras](https://towardsdatascience.com/train-neural-networks-using-amd-gpus-and-keras-37189c453878)
 
 # [Tensorflow](https://www.tensorflow.org/)
-
 ## Tensorflow Docker
-
 - [install docker]({% post_url 2019-08-16-docker %})
 - [Train neural networks using AMD GPU and Keras](https://towardsdatascience.com/train-neural-networks-using-amd-gpus-and-keras-37189c453878)
 	- install [Tensorflow ROCm port](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
 	- [tutorial](https://github.com/RadeonOpenCompute/ROCm-docker/blob/master/quick-start.md)
     
-    
 ### Create a persistent space
-
 It is useful to create a persistent space in the physical drive for storing files and Jupyter notebooks. 
 
 {% highlight bash %}
 mkdir /home/$LOGNAME/tf_docker_share
 {% endhighlight %}
-
 
 {% highlight bash %}
 docker run \
@@ -47,14 +42,16 @@ jupyter notebook --allow-root --port=8889
 
 Then click on link displayed in terminal (terminator) to open it in a browser outside of docker image.
 
+## Using GPU
+- configure Rocm for [TensorFlow](https://rocmdocs.amd.com/en/latest/Deep_learning/Deep-learning.html#tensorflow) 
+	- [ROCm]({% post_url 2020-07-24-amd-gpu %})	
+    
 ## Check Nb of GPU available
-
 {% highlight bash %}
 print("Num GPUs Available: ", len(tf.config.experimental.list_physical_devices('GPU')))
 {% endhighlight %}
 
 ## [Tensorflow Benchmark](https://github.com/tensorflow/benchmarks)
-
 - [GPU Benchmark]({% post_url 2020-08-29-gpu %})
 - [Low performance on RX 580 with TF benchmarks](https://github.com/microsoft/DirectML/issues/21)
 
