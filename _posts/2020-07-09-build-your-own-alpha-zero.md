@@ -10,6 +10,7 @@ tags: AI jupyter tensorflow
 ## Ref
 - [AlphaGo Zero - How and Why it Works][http://tim.hibal.org/blog/alpha-zero-how-and-why-it-works/)
 - [Mastering the game of Go without human knowledge](https://www.gwern.net/docs/rl/2017-silver.pdf)
+- [AlphaGO zero cheat sheet](https://adspassets.blob.core.windows.net/website/content/alpha_go_zero_cheat_sheet.png)
 
 ## Learning Algorithm summary
 
