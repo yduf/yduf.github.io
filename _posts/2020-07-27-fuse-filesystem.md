@@ -49,6 +49,7 @@ There are a couple features of FUSE that can make it difficult to debug: it norm
 - Use the -s switch to disable multithreading. Disabling multithreading will limit performance, but will also hide certain bugs (race conditions), simplify the use of gdb, and ensure printf output is readable (when multiple threads call printf at about the same time their output can get mixed up).
 
 ## [Options](http://manpages.ubuntu.com/manpages/precise/man8/mount.fuse.8.html#options)
+- [default options (fuse_parse_cmdline())](https://man.openbsd.org/fuse_parse_cmdline.3#fuse_parse_cmdline)
 
 ### [FUSE MODULES (STACKING)](http://manpages.ubuntu.com/manpages/precise/man8/mount.fuse.8.html#fuse%20modules%20(stacking))
 
