@@ -61,12 +61,12 @@ see also Fuse [Changelog](https://github.com/libfuse/libfuse/blob/master/ChangeL
 
 Latest version is 3, bug fix + API clean up
 
-{% highlight cpp %}
+{% highlight bash %}
 sudo apt-get install libfuse3-dev
 {% endhighlight %}
 
 using a previous version may lead to warning:
-{% highlight cpp %}
+{% highlight bash %}
 fuse: warning: library too old, some operations may not not work
 {% endhighlight %}
 
