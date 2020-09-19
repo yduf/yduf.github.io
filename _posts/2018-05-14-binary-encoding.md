@@ -1,19 +1,26 @@
 ---
 title: Binary / Text encoding
 published: true
-tags: binary text encoding ruby
+tags: binary text base64 encoding ruby c++
+excerpt_separator: <!--more-->
 ---
-- [yEnc](https://en.wikipedia.org/wiki/YEnc) - **ASCII‑constrained**
+**ASCII‑constrained**
+- [yEnc](https://en.wikipedia.org/wiki/YEnc)
 - [uuencode](https://en.wikipedia.org/wiki/Uuencode) (like base64)
 - [Base64](https://en.wikipedia.org/wiki/Base64): 75%
 - hex: 50%
 - [Base85 (Ascii85)](https://en.wikipedia.org/wiki/Ascii85) - †
 - [basE91](http://base91.sourceforge.net/)
 - [Base-122](https://github.com/kevinAlbs/Base122)
-- [Base2048]({% post_url 2020-08-13-unicode %})  56% - **BMP‑constrained**
-- [Base32768]({% post_url 2020-08-13-unicode %})  63%
-- [Base65536]({% post_url 2020-08-13-unicode %}) 56% - **Full Unicode**
 
+**BMP‑constrained**
+- [Base2048]({% post_url 2020-08-13-unicode %})  56%
+- [Base32768]({% post_url 2020-08-13-unicode %})  63%
+
+**Full Unicode**
+- [Base65536]({% post_url 2020-08-13-unicode %}) 56%
+
+<!--more-->
 † Base85 is listed for completeness but all variants use characters which are considered hazardous for general use in 
 
 ## [scheme and overhead](https://en.wikipedia.org/wiki/Binary-to-text_encoding) ([stackoverflow](https://stackoverflow.com/a/971501/51386))
@@ -31,7 +38,6 @@ uuencode myfile.zip <filename> > myfile.uue
 {% endhighlight %}
 
 ### Ruby uudecode = string.unpack('u')
-
 {% highlight ruby %}
 DATA.gets
 
@@ -43,3 +49,6 @@ File.open("out.cake", 'wb', 0777 ) do |out|
 	end
 end
 {% endhighlight %}
+
+### C++ 
+- [tomykaira/Base64.h](https://gist.github.com/tomykaira/f0fd86b6c73063283afe550bc5d77594) - single header base64 decode/encoder. 
