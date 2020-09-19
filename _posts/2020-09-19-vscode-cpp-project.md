@@ -8,6 +8,7 @@ tags: c++ vscode
 ## Setting up tasks.json
 we can map VSCode's build keyboard shortcut to task by making it of type `build`. The easiest way to set up tasks is to press `ctrl+shift+b`.
 
+### Build task
 {% highlight json %}
 {
     // See https://go.microsoft.com/fwlink/?LinkId=733558
@@ -21,10 +22,15 @@ we can map VSCode's build keyboard shortcut to task by making it of type `build`
             "group": {
                 "kind": "build",
                 "isDefault": true,
-                "problemMatcher": "$gcc"
-            }
+            },
+            
+            "problemMatcher": "$gcc"
         }
     ]
 }
 {% endhighlight %}
 
+### Debug Task
+{% highlight json %}
+"preLaunchTask": "build"
+{% endhighlight %}
