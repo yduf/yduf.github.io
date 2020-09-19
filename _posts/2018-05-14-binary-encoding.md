@@ -1,7 +1,7 @@
 ---
 title: Binary / Text encoding
 published: true
-tags: binary text base64 encoding ruby c++
+tags: binary text base64 encoding ruby c++ string
 excerpt_separator: <!--more-->
 ---
 **ASCII‑constrained**
