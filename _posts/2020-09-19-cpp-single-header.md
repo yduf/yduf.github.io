@@ -1,7 +1,7 @@
 ---
 published: true
 title: Single-file libraries with minimal dependencies
-tags: c++ zip math
+tags: c++ zip math single-header
 ---
 > Generally, the following is a list of small, easy-to-integrate, portable libraries which are usable from C and/or C++, and should be able to be compiled on both 32-bit and 64-bit platforms. - [nothings/single_file_libs](https://github.com/nothings/single_file_libs)
 
@@ -18,4 +18,3 @@ tags: c++ zip math
 - [lz4/lz4](https://github.com/lz4/lz4) - LZ4 is lossless compression algorithm, providing compression speed > 500 MB/s per core.
 
 - [catid/Zdepth](https://github.com/catid/Zdepth) - Lossless depth buffer compression designed and tested for Microsoft Azure Kinect DK. Based on the Facebook Zstd library.
-
