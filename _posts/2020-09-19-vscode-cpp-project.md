@@ -42,3 +42,4 @@ we can map VSCode's build keyboard shortcut to task by making it of type `build`
 
 
 - [gdb setup](https://github.com/Microsoft/vscode-cpptools/issues/106)
+- [gdb with input redirection](https://stackoverflow.com/questions/4758175/how-to-use-gdb-with-input-redirection)
