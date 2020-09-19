@@ -52,3 +52,5 @@ end
 
 ### C++ 
 - [tomykaira/Base64.h](https://gist.github.com/tomykaira/f0fd86b6c73063283afe550bc5d77594) - single header base64 decode/encoder. 
+- [boost/beast/core/detail/base64.hpp](https://www.boost.org/doc/libs/1_66_0/boost/beast/core/detail/base64.hpp)
+  - [Encoding and decoding base 64 with c++](https://renenyffenegger.ch/notes/development/Base64/Encoding-and-decoding-base-64-with-cpp/)
