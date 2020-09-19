@@ -1,7 +1,7 @@
 ---
 published: true
 title: Compact decompression library for embedded use
-tags: zip
+tags: zip single-header
 ---
 > [Looking for a super-simple decompressor](https://encode.su/threads/2157-Looking-for-a-super-simple-decompressor) / [SO](https://stackoverflow.com/questions/3767640/compact-decompression-library-for-embedded-use)
 
