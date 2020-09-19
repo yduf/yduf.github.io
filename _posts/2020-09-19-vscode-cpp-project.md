@@ -35,9 +35,10 @@ we can map VSCode's build keyboard shortcut to task by making it of type `build`
 - `Ctrl+F5` => Run
 - `F5` => Debug
 
-- [gdb setup](https://github.com/Microsoft/vscode-cpptools/issues/106)
-
 `launch.json`
 {% highlight json %}
 "preLaunchTask": "build"
 {% endhighlight %}
+
+
+- [gdb setup](https://github.com/Microsoft/vscode-cpptools/issues/106)
