@@ -1,7 +1,7 @@
 ---
 published: true
 title: Single-file libraries with minimal dependencies
-tags: c++
+tags: c++ zip math
 ---
 > Generally, the following is a list of small, easy-to-integrate, portable libraries which are usable from C and/or C++, and should be able to be compiled on both 32-bit and 64-bit platforms. - [nothings/single_file_libs](https://github.com/nothings/single_file_libs)
 
@@ -12,4 +12,10 @@ tags: c++
 - [NanoJPEG](https://keyj.emphy.de/nanojpeg/) - a compact JPEG decoder
 
 - [MicorPather](http://www.grinninglizard.com/MicroPather/) - a path finder and A* solver (astar or a-star) written in platform independent C++ that can be easily integrated into existing code. MicroPather focuses on being a path finding engine for video games but is a generic A* solver.
+
+- [richgel999/miniz](https://github.com/richgel999/miniz) - Miniz is a lossless, high performance data compression library in a single source file that implements the zlib (RFC 1950) and Deflate (RFC 1951) compressed data format specification standards.
+
+- [lz4/lz4](https://github.com/lz4/lz4) - LZ4 is lossless compression algorithm, providing compression speed > 500 MB/s per core.
+
+- [catid/Zdepth](https://github.com/catid/Zdepth) - Lossless depth buffer compression designed and tested for Microsoft Azure Kinect DK. Based on the Facebook Zstd library.
 
