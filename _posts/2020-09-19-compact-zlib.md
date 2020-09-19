@@ -7,6 +7,7 @@ tags: zip
 
 
 - [Single-file libraries]({% post_url 2020-09-19-cpp-single-header %})
-- [facebook/zstd](https://github.com/facebook/zstd) -  a fast lossless compression algorithm, targeting real-time compression scenarios at zlib-level and better compression ratios.
 - [FastLZ](https://ariya.github.io/FastLZ/) - Small & portable byte-aligned LZ77 compression
 - [atomicobject/heatshrink](https://github.com/atomicobject/heatshrink) - A data compression/decompression library for embedded/real-time systems.
+
+- [facebook/zstd](https://github.com/facebook/zstd) -  a fast lossless compression algorithm, targeting real-time compression scenarios at zlib-level and better compression ratios.
