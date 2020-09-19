@@ -8,7 +8,7 @@ tags: c++ vscode
 ## Setting up 
 we can map VSCode's build keyboard shortcut to task by making it of type `build`. The easiest way to set up tasks is to press `ctrl+shift+b`.
 
-### Build task
+### [Build task](https://code.visualstudio.com/Docs/editor/tasks)
 `tasks.json` 
 {% highlight json %}
 {
@@ -31,7 +31,11 @@ we can map VSCode's build keyboard shortcut to task by making it of type `build`
 }
 {% endhighlight %}
 
-### Debug Task
+### [Debug Task](https://code.visualstudio.com/docs/editor/debugging)
+- `Ctrl+F5` => Run
+- `F5` => Debug
+
+
 `launch.json`
 {% highlight json %}
 "preLaunchTask": "build"
