@@ -12,3 +12,4 @@ tags: puzzle algorithm
 - [solution](https://www.youtube.com/watch?v=KLlXCFG5TnA)
 
 ## [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) - Input array is sorted
+- [solution](https://www.youtube.com/watch?v=cQ1Oz4ckceM)
