@@ -1,7 +1,7 @@
 ---
 published: true
 title: Setup VSCode build/debug for Project
-tags: c++ vscode debug
+tags: c++ vscode debug gdb
 ---
 > show how to set up C++ Compiler with Visual Studio Code. - [Setup Visual Studio Code for Multi-File C++ Projects](https://dev.to/talhabalaj/setup-visual-studio-code-for-multi-file-c-projects-1jpi)
 
@@ -43,3 +43,4 @@ we can map VSCode's build keyboard shortcut to task by making it of type `build`
 
 - [gdb setup](https://github.com/Microsoft/vscode-cpptools/issues/106)
 - [gdb with input redirection](https://stackoverflow.com/questions/4758175/how-to-use-gdb-with-input-redirection)
+- [gdb - debugging with pipe](https://stackoverflow.com/questions/1456253/gdb-debugging-with-pipe)
