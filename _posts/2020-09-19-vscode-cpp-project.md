@@ -44,3 +44,5 @@ we can map VSCode's build keyboard shortcut to task by making it of type `build`
 - [gdb setup](https://github.com/Microsoft/vscode-cpptools/issues/106)
 - [gdb with input redirection](https://stackoverflow.com/questions/4758175/how-to-use-gdb-with-input-redirection)
 - [gdb - debugging with pipe](https://stackoverflow.com/questions/1456253/gdb-debugging-with-pipe)
+
+### [C/C++ configurations](https://code.visualstudio.com/docs/cpp/config-msvc#_cc-configurations)
