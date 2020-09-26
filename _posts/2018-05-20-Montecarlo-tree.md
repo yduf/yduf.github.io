@@ -2,6 +2,7 @@
 title: Monte-Carlo Tree Search (MCTS)
 published: true
 tags: AI MCTS search montecarlo
+use_math: true
 ---
 ## [Beginners guide](https://int8.io/monte-carlo-tree-search-beginners-guide/)
 
@@ -13,11 +14,7 @@ A **game tree** is a tree in which every node represents certain **state** of th
 
 ## Upper Confidence Bounds for Trees (UCT)
 
-$h_\theta(x) = \Large\frac{1}{1 + \mathcal{e}^{(-\theta^\top x)}}$ 
-
-{% highlight cpp %}
-uct = score/visit + c*sqrt(2*ln(V)/visit)
-{% endhighlight %}
+$uct = \Large\frac{score}{visit} + C \sqrt{ \Large\frac{2*ln(V)}{visit} }$
 
 Evalution function using UCT is balanced between:
 - **exploration**  (second term) - meaning exploring tree space to gain new knowledge
