@@ -4,7 +4,7 @@ title: MCTS search policy
 tags: AI mcts NN tic-tac-toe
 use_math: true
 ---
-> is neural net is an integral part of the MCTS, where it helps guide the tree search via its policy and value outputs - [From-scratch implementation of AlphaZero for Connect4](https://towardsdatascience.com/from-scratch-implementation-of-alphazero-for-connect4-f73d4554002a) / [github](https://github.com/plkmo/AlphaZero_Connect4)
+> Tis neural net is an integral part of the MCTS, where it helps guide the tree search via its policy and value outputs - [From-scratch implementation of AlphaZero for Connect4](https://towardsdatascience.com/from-scratch-implementation-of-alphazero-for-connect4-f73d4554002a) / [github](https://github.com/plkmo/AlphaZero_Connect4)
 
 $Q = C_uct P(s,a)\Large\frac{\sum_{b} N(s,a)}{1 + N(s,a)}$
 
