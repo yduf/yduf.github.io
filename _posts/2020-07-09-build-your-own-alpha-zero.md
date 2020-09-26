@@ -7,6 +7,9 @@ tags: AI jupyter tensorflow
 
 ![caption](https://miro.medium.com/max/902/1*ROq9V2D5eR_dDFFFfjA5zw.png)
 
+see also
+- [From-scratch implementation of AlphaZero for Connect4](https://towardsdatascience.com/from-scratch-implementation-of-alphazero-for-connect4-f73d4554002a)
+
 ## Ref
 - [AlphaGo Zero - How and Why it Works](http://tim.hibal.org/blog/alpha-zero-how-and-why-it-works/)
 - [Mastering the game of Go without human knowledge](https://www.gwern.net/docs/rl/2017-silver.pdf)
