@@ -13,3 +13,6 @@ Here, $Q$ is the mean action value (average reward), $C_uct$ is a constant deter
 ### Simulation
 
 After running simulations for that root node, we will then formulate the policy $p$ for the root node which is defined to be proportional to the number of visits of its direct child nodes. This policy p will then be used to select the next move to the next board state, and this board state will then be treated as the root node for next MCTS simulations and so on until the game terminates when someone wins or draw. The whole procedure in which one runs MCTS simulations for each root node as one moves through until the end of the game is termed as MCTS self-play.
+
+Ref
+- [Mastering the game of Go without human knowledge](https://www.gwern.net/docs/rl/2017-silver.pdf)
