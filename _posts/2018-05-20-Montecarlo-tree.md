@@ -16,7 +16,7 @@ A **game tree** is a tree in which every node represents certain **state** of th
 
 $uct = \Large\frac{score}{visit} + C \sqrt{ \Large\frac{2*ln(V)}{visit} }$
 
-Evalution function using UCT is balanced between:
+Evaluation function using UCT is balanced between:
 - **exploration**  (second term) - meaning exploring tree space to gain new knowledge
 - **exploitation** (first term - score) - meaning using aquired knowledge to focus on promising node.
 
