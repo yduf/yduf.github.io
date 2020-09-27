@@ -4,15 +4,12 @@ published: true
 tags: application graphic tools
 ---
 ## Vector
-- [Inkscape (vector)](https://inkscape.org/en/)
+- [Inkscape (vector)]({% post_url 2019-11-25-inkscape %})
 
 ## Bitmap
-- [Krita](https://krita.org/en/)
-[List of tablet supported](https://docs.krita.org/List_of_Tablets_Supported)
+- [Krita (Bitmap & vector)]({% post_url 2019-10-19-krita %})
+- [MyPaint]({% post_url 2020-09-27-mypaint %})
 
-## Pixel Art
-- [Piskel (online & offline)](https://www.piskelapp.com/)
-
+## [Pixel Art]({% post_url 2018-05-05-Pixel-art %})
 
 [source](http://www.linfo.org/software_artists.html)
-
