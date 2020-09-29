@@ -3,7 +3,7 @@ title: C++ and the -O3 compilation flag (Codingame)
 published: true
 tags: c++ codingame compiler tricks
 ---
-## [Update C++](https://forum.codingame.com/t/languages-update/1574/98?u=yduf)
+## [Update C++](https://forum.codingame.com/t/languages-update/1574/117)
 {% highlight bash %}
 compiler: g++ 8.3.0 mode C++17
 flags: -std=gnu++17 -Werror=return-type -g -pthread 
