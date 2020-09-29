@@ -3,6 +3,9 @@ title: C++ and the -O3 compilation flag (Codingame)
 published: true
 tags: c++ codingame compiler tricks
 ---
+## Limits
+- Memory limits is 768MB - [forum](https://forum.codingame.com/t/killed-on-c-memory-reservations/140640/77?u=yduf)
+
 ## [Update C++](https://forum.codingame.com/t/languages-update/1574/117)
 {% highlight bash %}
 compiler: g++ 9.2.1 mode C++17
