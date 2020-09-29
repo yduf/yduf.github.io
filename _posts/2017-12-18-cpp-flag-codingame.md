@@ -5,7 +5,7 @@ tags: c++ codingame compiler tricks
 ---
 ## [Update C++](https://forum.codingame.com/t/languages-update/1574/117)
 {% highlight bash %}
-compiler: g++ 8.3.0 mode C++17
+compiler: g++ 9.2.1 mode C++17
 flags: -std=gnu++17 -Werror=return-type -g -pthread 
 libraries: -lm -lpthread -ldl -lcrypt
 {% endhighlight %}
