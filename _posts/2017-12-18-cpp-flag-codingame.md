@@ -3,7 +3,7 @@ title: C++ and the -O3 compilation flag (Codingame)
 published: true
 tags: c++ codingame compiler tricks
 ---
-> Votre programme est compilé et exécuté dans un environnement Linux sur une architecture multi-coeurs 64bits. - [Environment](https://www.codingame.com/faq)
+> Votre programme est compilé et exécuté dans un environnement Linux sur une architecture multi-coeurs 64bits. - [Environment/lang](https://www.codingame.com/faq)
 
 ## Limits
 - Memory limits is 768MB - [forum](https://forum.codingame.com/t/killed-on-c-memory-reservations/140640/77?u=yduf)
