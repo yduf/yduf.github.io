@@ -9,6 +9,8 @@ tags: codingame MCTS AI NN
 - [Playing Ultimate Tic-Tac-Toe using Reinforcement Learning](https://medium.com/@arnavparuthi/playing-ultimate-tic-tac-toe-using-reinforcement-learning-892f084f7def)
 	- [github](https://github.com/Arnav235/ultimate_tic-tac-toe_alphazero)
 
-## [Agade Arena](https://github.com/Agade09/CG-UTTT-Arena)
+## Arena
 
-Arena program that plays games between two Ultimate Tic-Tac-Toe AIs
+- Agade [Arena](https://github.com/Agade09/CG-UTTT-Arena) program that plays games between two Ultimate Tic-Tac-Toe AIs
+- Magnus refere [dreignier/game-ultimate-tictactoe](https://github.com/dreignier/game-ultimate-tictactoe) working with [Cg-brutaltester](https://github.com/dreignier/cg-brutaltester)
+	- Official [refere](https://github.com/CodinGame/game-ultimate-tictactoe)
