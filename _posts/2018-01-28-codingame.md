@@ -6,7 +6,7 @@ tags: codingame AI puzzle
 ## Arena
 ### External
 - [Cg-brutaltester](https://www.codingame.com/forum/t/cg-brutaltester-because-you-love-to-be-brutal/2716) / [github](https://github.com/dreignier/cg-brutaltester)
-	- [latest adatper][https://github.com/Akarachudra/brutaltester-spring-challenge-2020/commit/762330b5f559fca3aca0e03998e4b8a3ea7e7edb)
+	- [latest adatper](https://github.com/Akarachudra/brutaltester-spring-challenge-2020/commit/762330b5f559fca3aca0e03998e4b8a3ea7e7edb)
     - older  / [Github](https://github.com/dreignier/cgstats)
     
 - [The Game Runner](https://www.codingame.com/playgrounds/25775/codingame-sdk-documentation/game-runner) - The Game Runner lets you run your game locally during developement. It comes with a handy HTML package to watch each game's replay. The parameters you set to the Game Runner will not affect the final contribution.
