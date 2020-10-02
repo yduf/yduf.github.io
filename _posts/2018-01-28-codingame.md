@@ -28,6 +28,9 @@ tags: codingame AI puzzle
 - [Magus](https://forum.codingame.com/t/public-api-for-statistics-or-other-useful-things/1247/6)
 - [API](https://www.codingame.com/forum/t/api-the-place-to-ask-for-improvements-in-cg-api/2514)
 
+# [CodinGame SDK](https://www.codingame.com/playgrounds/25775/codingame-sdk-documentation/introduction)
+The CodinGame SDK is a Java project that allows you to write programming games for CodinGame.
+
 # Maybe old
 [Rest API](http://forum.canardpc.com/threads/103495-Codingame-La-programmation-hant%C3%A9e-Concours-de-fant%C3%B4mes-dans-la-console-fin-Fevrier?s=d6a666218d62c51b4465647a91f8cdc5&p=10273198&viewfull=1#post10273198)
 
