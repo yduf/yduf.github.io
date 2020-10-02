@@ -15,4 +15,4 @@ tags: codingame MCTS AI NN
 - [Magnus refere](https://github.com/dreignier/game-ultimate-tictactoe) working with [Cg-brutaltester](https://github.com/dreignier/cg-brutaltester). 
 	- Official [refere](https://github.com/CodinGame/game-ultimate-tictactoe)
     
-Use [`-Dleague.level=2`](https://forum.codingame.com/t/cg-brutaltester-because-you-love-to-be-brutal/2716/18?u=yduf) to specify league
+Use [`-Dleague.level=2`](https://forum.codingame.com/t/cg-brutaltester-because-you-love-to-be-brutal/2716/18?u=yduf) to specify league.
