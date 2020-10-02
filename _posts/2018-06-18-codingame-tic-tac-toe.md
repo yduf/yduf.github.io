@@ -12,5 +12,5 @@ tags: codingame MCTS AI NN
 ## Arena
 
 - Agade [Arena](https://github.com/Agade09/CG-UTTT-Arena) program that plays games between two Ultimate Tic-Tac-Toe AIs
-- Magnus refere [dreignier/game-ultimate-tictactoe](https://github.com/dreignier/game-ultimate-tictactoe) working with [Cg-brutaltester](https://github.com/dreignier/cg-brutaltester)
+- [Magnus refere](https://github.com/dreignier/game-ultimate-tictactoe) working with [Cg-brutaltester](https://github.com/dreignier/cg-brutaltester)
 	- Official [refere](https://github.com/CodinGame/game-ultimate-tictactoe)
