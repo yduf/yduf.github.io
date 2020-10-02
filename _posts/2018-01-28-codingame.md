@@ -6,7 +6,7 @@ tags: codingame AI puzzle
 ## Arena
 ### External
 - [Cg-brutaltester](https://www.codingame.com/forum/t/cg-brutaltester-because-you-love-to-be-brutal/2716) / [github](https://github.com/dreignier/cg-brutaltester)
-    - older [CG stats](http://cgstats.magusgeek.com/app) / [Github](https://github.com/dreignier/cgstats)
+    - older  / [Github](https://github.com/dreignier/cgstats)
     
 ### using Codingame playground
 - [CG Benchmark](https://github.com/s-vivien/CGBenchmark#cg-benchmark) - A benchmark tool for CodinGame:
@@ -15,14 +15,15 @@ tags: codingame AI puzzle
 
 - [CG Spunk](https://www.codingame.com/forum/t/introducing-cg-spunk/1895) / [Github](https://github.com/danBhentschel/CGSpunk) 
 
+## Last Battle history
+- [CG stats](http://cgstats.magusgeek.com/app)
+- [Using match history](https://www.codingame.com/playgrounds/53705/contest-tools-and-workflow/introduction) - We will explore the CodinGame API to understand how to download replays. Then we will parse them to extract the data we are looking for. We will then feed it into our bot to debug a specific action.
+
 ## Codingame API
 - [Contest tools and workflow](https://www.codingame.com/playgrounds/53705/contest-tools-and-workflow)
 
 ## Chrome Extension
 - [sync](https://www.codingame.com/forum/t/codingame-sync-beta/614/58)
-
-## Tip & Tricks
-- [Using match history](https://www.codingame.com/playgrounds/53705/contest-tools-and-workflow/introduction) - We will explore the CodinGame API to understand how to download replays. Then we will parse them to extract the data we are looking for. We will then feed it into our bot to debug a specific action.
 
 ## Technical details
 - [Magus](https://forum.codingame.com/t/public-api-for-statistics-or-other-useful-things/1247/6)
