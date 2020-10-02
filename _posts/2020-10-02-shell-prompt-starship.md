@@ -1,8 +1,8 @@
 ---
 published: true
-title: Prompt (shell)
+title: Starship shell prompt
 tags: cli schell
 ---
-## A New Post
+> [starship](https://starship.rs/) cross-shell prompt. The minimal, blazing-fast, and infinitely customizable prompt for any shell!  - [starship](https://starship.rs/)
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
