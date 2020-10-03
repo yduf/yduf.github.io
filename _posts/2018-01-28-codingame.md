@@ -28,7 +28,8 @@ tags: codingame AI puzzle
 - [How to download the JSON files used to store replays on CG?](https://www.codingame.com/forum/t/how-to-download-the-json-files-used-to-store-replays-on-cg/2894)
 
 ## Firefox Extension
-- [CG Enhancer](https://www.codingame.com/forum/t/cg-enhancer/59441)
+- [CG Enhancer](https://www.codingame.com/forum/t/cg-enhancer/59441) / |github](https://github.com/Azkellas/cgenhancer) - enhance Codingame IDE
+
 - [CG Local](https://www.codingame.com/forum/t/cg-local/10359) -  basically a copy of CG Sync that works with both Chrome and Firefox, and instead of a Chrome App it uses a Java application to watch the selected file for changes. Besides that, it also makes it easier to work in different files for different puzzles and is completely open-source. / [github](https://github.com/jmerle/cg-local-app)
 	- [issues & workaround](https://forum.codingame.com/t/cg-local/10359/6?u=yduf)
     
