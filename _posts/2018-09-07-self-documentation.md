@@ -3,7 +3,9 @@ published: true
 title: “My Code is Self-Documenting”
 tags: software doc
 ---
-[Self-documenting code is one of the biggest documentation myths in the software industry.](http://ericholscher.com/blog/2017/jan/27/code-is-self-documenting/) This view generally conflates documentation with code comments. I’d like to make two arguments in this post:
+> Self-documenting code is one of the biggest documentation myths in the software industry. This view generally conflates documentation with code comments. - [post](http://ericholscher.com/blog/2017/jan/27/code-is-self-documenting/)
+
+I’d like to make two arguments in this post:
 - Code comments have value,
 - Documentation has more value than just explaining how software works.
 
