@@ -12,7 +12,6 @@ I’d like to make two arguments in this post:
 **Code comments document the why, not the how.** They are important to transfer knowledge to both people reading the code or developers working on the code.
 
 **Object names document the how, not the why.**
-
  
 ## Documentation is more than code comments
 The other fatal flaw of the “self-documenting code” mindset is that it is myopic. It takes a developer-only point of view, only seeing the value of documentation as allowing people to understand how code works. **Documentation is for every possible user.**
