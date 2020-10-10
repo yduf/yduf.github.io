@@ -20,6 +20,7 @@ tags: zfs linux system
 - [Configuring ZFS Cache for High Speed IO](https://linuxhint.com/configuring-zfs-cache/)
 	- [The ZFS ZIL and SLOG Demystified](https://www.ixsystems.com/blog/zfs-zil-and-slog-demystified/)
     - [sync mode](https://milek.blogspot.com/2010/05/zfs-synchronous-vs-asynchronous-io.html)
+    	- sync=disabled speed up a lot file transfer (see ZIL safety)
 
 # Maintenance
 ## [Check Data Integrity (scrub)](https://prefetch.net/blog/index.php/2011/10/15/using-the-zfs-scrub-feature-to-verify-the-integrity-of-your-storage/)
