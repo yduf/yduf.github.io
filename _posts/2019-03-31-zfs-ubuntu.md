@@ -12,7 +12,12 @@ tags: zfs linux system
 ## Ref
 - [ubuntu](https://wiki.ubuntu.com/Kernel/Reference/ZFS)
 - [ZFS Concepts and Tutorial](https://linuxhint.com/zfs-concepts-and-tutorial/)
-	- [Configuring ZFS Cache for High Speed IO](https://linuxhint.com/configuring-zfs-cache/)
+	- Never ever use hardware RAID-controller with ZFS.
+    - Error Correcting RAM (ECC) is recommended, but not mandatory
+    - Data deduplication feature consumes a lot memory, use compression instead.
+    - Data redundancy is not an alternative for backup. Have multiple backups, store those backups using ZFS!
+
+- [Configuring ZFS Cache for High Speed IO](https://linuxhint.com/configuring-zfs-cache/)
 
 # Maintenance
 ## [Check Data Integrity (scrub)](https://prefetch.net/blog/index.php/2011/10/15/using-the-zfs-scrub-feature-to-verify-the-integrity-of-your-storage/)
