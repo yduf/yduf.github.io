@@ -56,7 +56,7 @@ sudo systemctl status
 
 ### Remote Access
 - ssh
-- [Guacamole][https://guacamole.apache.org/doc/gug/users-guide.html)
+- [Guacamole](https://guacamole.apache.org/doc/gug/users-guide.html)
 	- [docker](https://guacamole.apache.org/doc/gug/guacamole-docker.html)
 - [VSCode server]({% post_url 2019-04-29-vscode-server %})
 
