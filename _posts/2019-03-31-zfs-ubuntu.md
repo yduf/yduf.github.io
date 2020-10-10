@@ -9,7 +9,10 @@ tags: zfs linux system
     - You'll see the module loaded automatically if you use it.
     - The user space zfsutils-linux package will be included in Ubuntu Main, with security updates provided by Canonical.
     
-## [ref](https://wiki.ubuntu.com/Kernel/Reference/ZFS) 
+## Ref
+- [ubuntu](https://wiki.ubuntu.com/Kernel/Reference/ZFS)
+- [ZFS Concepts and Tutorial](https://linuxhint.com/zfs-concepts-and-tutorial/)
+	- [Configuring ZFS Cache for High Speed IO](https://linuxhint.com/configuring-zfs-cache/)
 
 # Maintenance
 ## [Check Data Integrity (scrub)](https://prefetch.net/blog/index.php/2011/10/15/using-the-zfs-scrub-feature-to-verify-the-integrity-of-your-storage/)
