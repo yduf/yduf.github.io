@@ -1,7 +1,7 @@
 ---
 title: Nautilus automount
 published: true
-tags: filesystem linux
+tags: filesystem linux file-manager
 ---
 [Install Gigolo:](https://ubuntuforums.org/showthread.php?t=1670212)
 {% highlight bash %}
