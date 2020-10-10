@@ -16,12 +16,11 @@ tags: zfs linux system
     - Error Correcting RAM (ECC) is recommended, but not mandatory
     - Data deduplication feature consumes a lot memory, use compression instead.
     - Data redundancy is not an alternative for backup. Have multiple backups, store those backups using ZFS!
-
 - [Configuring ZFS Cache for High Speed IO](https://linuxhint.com/configuring-zfs-cache/)
 	- [The ZFS ZIL and SLOG Demystified](https://www.ixsystems.com/blog/zfs-zil-and-slog-demystified/)
     - [sync mode](https://milek.blogspot.com/2010/05/zfs-synchronous-vs-asynchronous-io.html)
     	- sync=disabled speed up a lot file transfer (see ZIL safety)
-        
+- [zfs compression][https://www.unixtutorial.org/zfs-basics-enable-or-disable-compression/)
 - [zfs properties](https://docs.oracle.com/cd/E19253-01/819-5461/gazuk/index.html)
 	- `zfs get all tank/home`
 
