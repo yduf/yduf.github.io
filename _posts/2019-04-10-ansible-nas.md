@@ -7,7 +7,8 @@ tags: nas zfs ansible monitor
 
 ## _TODO_
 - docker / zfs container volume
-- guacamole
+- [Guacamole](https://guacamole.apache.org/doc/gug/users-guide.html)
+	- [docker](https://guacamole.apache.org/doc/gug/guacamole-docker.html)
 - [rsync]({% post_url 2019-04-28-rsync %})
 - airsonic ?
 - [smart](https://help.ubuntu.com/community/Smartmontools)
@@ -56,8 +57,6 @@ sudo systemctl status
 
 ### Remote Access
 - ssh
-- [Guacamole](https://guacamole.apache.org/doc/gug/users-guide.html)
-	- [docker](https://guacamole.apache.org/doc/gug/guacamole-docker.html)
 - [VSCode server]({% post_url 2019-04-29-vscode-server %})
 
 ## Shared Folder
