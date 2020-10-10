@@ -21,6 +21,9 @@ tags: zfs linux system
 	- [The ZFS ZIL and SLOG Demystified](https://www.ixsystems.com/blog/zfs-zil-and-slog-demystified/)
     - [sync mode](https://milek.blogspot.com/2010/05/zfs-synchronous-vs-asynchronous-io.html)
     	- sync=disabled speed up a lot file transfer (see ZIL safety)
+        
+- [zfs properties](https://docs.oracle.com/cd/E19253-01/819-5461/gazuk/index.html)
+	- `zfs get all tank/home`
 
 # Maintenance
 ## [Check Data Integrity (scrub)](https://prefetch.net/blog/index.php/2011/10/15/using-the-zfs-scrub-feature-to-verify-the-integrity-of-your-storage/)
