@@ -13,8 +13,17 @@ tags: epaper hardware note-taking
 - [wikipedia](https://github.com/dps/remarkable-wikipedia) offline
 
 ## Hardware
+- [Spec](https://remarkable.com/#Specifications)
+	- 1.2 GHz dual core ARM
+    - 1 GB LPDDR3 SDRAM
+    - 8 GB internal storage
+    - 10.3” monochrome 1872 x 1404 resolution (226 DPI)
+    - Wi-Fi 2.4GHz and 5GHz
+    - USB-C
+    - Accessory port
 - [remarkable-keywriter](https://github.com/dps/remarkable-keywriter)
 	- [with a bluetooth keyboard](https://www.reddit.com/r/RemarkableTablet/comments/e8p22h/remarkablekeywriter_with_a_bluetooth_keyboard/)
+    
 
 ## Dev
 - [libremarkable](https://github.com/canselcik/libremarkable) - A Framework for Remarkable Tablet
@@ -24,6 +33,7 @@ tags: epaper hardware note-taking
 
 ## Hack
 - [Binary patches for the rM](https://github.com/ddvk/remarkable-hacks)
+- [custom template](https://www.reddit.com/r/RemarkableTablet/comments/j6rn9g/month_in_with_the_rm2_thoughts/)
 
 ## Alternative OS
 - [Parabola-rM](http://www.davisr.me/projects/parabola-rm/)
