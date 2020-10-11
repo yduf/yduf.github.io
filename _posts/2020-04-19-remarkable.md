@@ -53,3 +53,6 @@ tags: epaper hardware note-taking
 	- [tech](https://remarkablewiki.com/tech/start)
 - [reMarkable2 Teardown](https://fccid.io/2AMK2-RM110/Internal-Photos/Internal-photos-4523960)
 - [reMarkable](https://duckpond.ch/nix/bash/2020/01/08/reMarkable.html)
+
+## Alternatives
+- [Onyx Boox Max Lumi](https://www.youtube.com/watch?v=0SIRcxobTnA)
