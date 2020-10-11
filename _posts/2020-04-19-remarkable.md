@@ -55,4 +55,5 @@ tags: epaper hardware note-taking
 - [reMarkable](https://duckpond.ch/nix/bash/2020/01/08/reMarkable.html)
 
 ## Alternatives
-- [Onyx Boox Max Lumi](https://www.youtube.com/watch?v=0SIRcxobTnA)
+- [Onyx Boox Max Lumi](https://www.youtube.com/watch?v=0SIRcxobTnA) / [Home](https://www.boox.com/maxlumi/)
+	- [in depth review](https://www.youtube.com/watch?v=B8X7JPdgsh0)
