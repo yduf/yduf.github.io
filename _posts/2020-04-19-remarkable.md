@@ -23,7 +23,13 @@ tags: epaper hardware note-taking
     - Accessory port
 - [remarkable-keywriter](https://github.com/dps/remarkable-keywriter)
 	- [with a bluetooth keyboard](https://www.reddit.com/r/RemarkableTablet/comments/e8p22h/remarkablekeywriter_with_a_bluetooth_keyboard/)
-    
+
+## How to series
+- [Convert To Text Best Practices](https://www.youtube.com/watch?v=dPrEHADFG1E)
+- [Associate A Notebook With A Document](https://www.youtube.com/watch?v=exRHMNzXXIU)
+- [Organize And Manage Your Files](https://www.youtube.com/watch?v=jJobc3vBJ0c)
+- [Use Read On Remarkable Productively](https://www.youtube.com/watch?v=GR9QnbOaxcc) - chrome extension
+- [Share Your Screen Using Live View][https://www.youtube.com/watch?v=x2D3xXnTfGk) - using wifi + cloud + desktop app
 
 ## Dev
 - [libremarkable](https://github.com/canselcik/libremarkable) - A Framework for Remarkable Tablet
