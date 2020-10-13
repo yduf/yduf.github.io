@@ -1,7 +1,7 @@
 ---
 published: true
 title: Extend Desktop to Monitor over LAN
-tags: lan display
+tags: lan display kvm
 ---
 >  multi-head functionality for displays that might be located on different machines.
 
