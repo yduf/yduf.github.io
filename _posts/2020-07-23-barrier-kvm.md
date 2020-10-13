@@ -9,6 +9,6 @@ tags: kvm keyboard
 
 ## [Building on Linux](https://github.com/debauchee/barrier/wiki/Building-on-Linux)
 {% highlight bash %}
-sudo apt-get install libcurl4-openssl-dev
+sudo apt-get install libcurl4-openssl-dev libavahi-compat-libdnssd-dev
 {% endhighlight %}
 
