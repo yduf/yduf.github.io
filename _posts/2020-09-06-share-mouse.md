@@ -1,7 +1,7 @@
 ---
 published: true
 title: Sharing mouse & keyboard between PC
-tags: kvm display
+tags: kvm display keyboard
 ---
 > Share one mouse and keyboard between multiple computers  - [Barrier](https://github.com/debauchee/barrier#barrier) fork of [Synergy](https://symless.com/synergy)
 
