@@ -14,3 +14,5 @@ require
 sudo apt-get install libcurl4-openssl-dev libavahi-compat-libdnssd-dev
 {% endhighlight %}
 
+Works perfectly from source version
+
