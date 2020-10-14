@@ -17,7 +17,7 @@ sudo apt-get install libcurl4-openssl-dev libavahi-compat-libdnssd-dev
 Works perfectly from source version
 
 ## Feature
-- copy/paste between PC
+- clipboard sharing - enable copy/paste between PC
+- screensaver sync
 - [Immune keys](https://github.com/debauchee/barrier/wiki/Immune-Keys) - keys that Barrier will not forward to other PCs.
-- [as systemd service](https://github.com/debauchee/barrier/wiki/Command-Line#creating-a-systemd-service-linux)
-
+- start as [systemd service](https://github.com/debauchee/barrier/wiki/Command-Line#creating-a-systemd-service-linux)
