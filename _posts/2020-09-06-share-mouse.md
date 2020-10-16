@@ -27,7 +27,8 @@ systemctl enable barrier@myuser.service
 systemctl start barrier@myuser.service
 {% endhighlight %}
 
-Copy config below `/lib/systemd/system/barrier@.service`
+### [Barrier server as user service (per X11 session)](https://superuser.com/questions/759759/writing-a-service-that-depends-on-xorg/1128905#1128905)
+Copy config below `.config/systemd/user/barrier.service`
 
 {% highlight bash %}
 [Unit]
@@ -40,4 +41,3 @@ Restart=always
 [Install]
 WantedBy=multi-user.target
 {% endhighlight %}
-
