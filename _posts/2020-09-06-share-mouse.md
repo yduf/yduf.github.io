@@ -22,12 +22,19 @@ Works perfectly from source version
 - [Immune keys](https://github.com/debauchee/barrier/wiki/Immune-Keys) - keys that Barrier will not forward to other PCs.
 - start as [systemd service](https://github.com/debauchee/barrier/wiki/Command-Line#creating-a-systemd-service-linux)
 
+### [Barrier as startup application](https://www.howtogeek.com/103640/how-to-make-programs-start-automatically-in-linux-mint-12/)
+
+{% highlight bash %}
+/home/yves/app/barrier/barriers --enable-crypto --display :0 --debug NOTE --config ~/.config/barrier.conf
+{% endhighlight %}
+
+### [Barrier server as user service (per X11 session)](https://superuser.com/questions/759759/writing-a-service-that-depends-on-xorg/1128905#1128905) - ** NOT WORKING **
+
 {% highlight bash %}
 systemctl enable barrier@myuser.service
 systemctl start barrier@myuser.service
 {% endhighlight %}
 
-### [Barrier server as user service (per X11 session)](https://superuser.com/questions/759759/writing-a-service-that-depends-on-xorg/1128905#1128905)
 Copy config below `.config/systemd/user/barrier.service`
 
 {% highlight bash %}
