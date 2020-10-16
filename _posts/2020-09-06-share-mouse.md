@@ -21,3 +21,23 @@ Works perfectly from source version
 - screensaver sync
 - [Immune keys](https://github.com/debauchee/barrier/wiki/Immune-Keys) - keys that Barrier will not forward to other PCs.
 - start as [systemd service](https://github.com/debauchee/barrier/wiki/Command-Line#creating-a-systemd-service-linux)
+
+{% highlight bash %}
+systemctl enable barrier@myuser.service
+systemctl start barrier@myuser.service
+{% endhighlight %}
+
+Copy config below `/lib/systemd/system/barrier@.service`
+
+{% highlight bash %}
+[Unit]
+Description=Barrier Client daemon
+
+[Service]
+ExecStart=/home/yves/app/barrier/barriers --no-daemon --no-restart --enable-crypto --display :0 --debug NOTE --config ~/.config/barrier.conf
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
+{% endhighlight %}
+
