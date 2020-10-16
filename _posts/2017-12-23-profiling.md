@@ -1,5 +1,5 @@
 ---
-title: Profiling
+title: Valgrind (profiler)
 published: true
 tags: performance linux profiler c++
 ---
@@ -17,3 +17,4 @@ valgrind --tool=callgrind -v --dump-every-bb=10000000  ./a.out < data/game_1/01.
 
 - [Callgrind details](https://kcachegrind.github.io/html/Usage.html)
 - [Tips & Tricks](https://web.stanford.edu/class/archive/cs/cs107/cs107.1174/guide_callgrind.html)
+- [ Watching for software inefficiencies with Valgrind ](https://kristerw.blogspot.com/2020/02/watching-for-software-inefficiencies.html)
