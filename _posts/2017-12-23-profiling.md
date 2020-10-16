@@ -1,7 +1,7 @@
 ---
 title: Profiling
 published: true
-tags: profiling performance linux c++
+tags: performance linux profiler c++
 ---
 - [Valgrind](http://valgrind.org/) / [CacheGrind](http://valgrind.org/docs/manual/cl-manual.html) / [KCacheGrind](https://kcachegrind.github.io/html/Home.html)
 	- **x86/Linux**: up to and including SSSE3, but not higher -- no SSE4, AVX, AVX2. This target is in maintenance mode now..
