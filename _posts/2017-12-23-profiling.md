@@ -10,7 +10,7 @@ tags: performance linux profiler c++
     - **AMD64/Linux**: up to and including AVX2. This is the primary development target and tends to be well supported.
     - and some others...
     
-## Additional toos
+## Additional tools
 - [CacheGrind](http://valgrind.org/docs/manual/cl-manual.html) / [KCacheGrind](https://kcachegrind.github.io/html/Home.html)
 
 
