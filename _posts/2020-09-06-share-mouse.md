@@ -24,8 +24,9 @@ Works perfectly from source version
 
 ### [Barrier as startup application](https://www.howtogeek.com/103640/how-to-make-programs-start-automatically-in-linux-mint-12/)
 
+Launch directly the ui
 {% highlight bash %}
-/home/yves/app/barrier/barriers --enable-crypto --display :0 --debug NOTE --config ~/.config/barrier.conf
+/home/yves/app/barrier/barrier
 {% endhighlight %}
 
 ### [Barrier server as user service (per X11 session)](https://superuser.com/questions/759759/writing-a-service-that-depends-on-xorg/1128905#1128905) - ** NOT WORKING **
