@@ -1,6 +1,6 @@
 ---
 published: true
-title: Read Write File in C++
+title: Read/Write File C++
 tags: c++ file
 ---
 ### [input/output library](https://en.cppreference.com/w/cpp/io/basic_ofstream)
