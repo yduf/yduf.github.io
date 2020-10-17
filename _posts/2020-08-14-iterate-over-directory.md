@@ -2,7 +2,6 @@
 published: true
 title: Iterate over directory
 tags: ruby crystal filesystem file
-excerpt_separator: ''
 ---
 ### [Crystal](https://crystal-lang.org/api/0.35.1/Dir.html#each(&:String-%3E):Nil-instance-method)
 Similar to ruby [Dir](https://ruby-doc.org/core-2.7.1/Dir.html).
@@ -21,4 +20,16 @@ Dir["/app/**"].each {|filename|
 Dir["/app/**"].each do |filename|
   puts filename
 end
+{% endhighlight %}
+
+### [C++](https://en.cppreference.com/w/cpp/filesystem/directory_iterator)
+{% highlight cpp %}
+#include <filesystem>
+namespace fs = std::filesystem;
+ 
+int main()
+{
+    for(auto& p: fs::directory_iterator("sandbox"))
+        std::cout << p.path() << '\n';
+}
 {% endhighlight %}
