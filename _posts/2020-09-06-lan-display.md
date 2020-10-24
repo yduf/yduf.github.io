@@ -1,9 +1,13 @@
 ---
 published: true
 title: Extend Desktop to Monitor over LAN
-tags: lan display kvm
+tags: lan display kvm vnc
 ---
 >  multi-head functionality for displays that might be located on different machines.
+
+## Using VNC
+
+- [Old Laptops as Secondary Monitors](https://rgoswami.me/posts/laptop-as-second-screens/) / [HN](https://news.ycombinator.com/item?id=24875533)
 
 ## [Distributed Multihead X Project (DMX)](http://dmx.sourceforge.net/)
 
