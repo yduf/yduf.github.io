@@ -5,6 +5,7 @@ tags: video youtube
 ---
 > download videos from youtube.com or other video platforms - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl/)
 
+- [**DMCA takedown from RIAA**](https://news.ycombinator.com/item?id=24872911)
 - [Supported sites](https://ytdl-org.github.io/youtube-dl/supportedsites.html)
 
 ### forked by [blackjack4494/youtube-dlc ](https://github.com/blackjack4494/youtube-dlc) / [reddit](https://www.reddit.com/r/DataHoarder/comments/ir8ic6/youtubedlc_an_active_fork_of_youtubedl/) / [HN]() 
