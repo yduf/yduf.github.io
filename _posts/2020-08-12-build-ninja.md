@@ -3,7 +3,7 @@ published: true
 title: Ninja (build tool)
 tags: build make
 ---
-> Where other build systems are high-level languages, Ninja aims to be an assembler. - [The Ninja build system](https://ninja-build.org/manual.html)
+> Where other build systems are high-level languages, Ninja aims to be an assembler. - [The Ninja build system](https://ninja-build.org/manual.html) / [Comparison to Make](https://ninja-build.org/manual.html#_comparison_to_make)
 
 # [Ninja](https://github.com/ninja-build/ninja)
 Some explicit non-goals:
