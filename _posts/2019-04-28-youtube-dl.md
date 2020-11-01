@@ -3,7 +3,7 @@ published: true
 title: Youtube-dl
 tags: video youtube
 ---
-> download videos from youtube.com or other video platforms - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl/)
+> download videos from youtube.com or other video platforms - [youtube-dl.org](https://youtube-dl.org/)
 
 - [**DMCA takedown from RIAA**](https://news.ycombinator.com/item?id=24872911)
 - [Supported sites](https://ytdl-org.github.io/youtube-dl/supportedsites.html)
