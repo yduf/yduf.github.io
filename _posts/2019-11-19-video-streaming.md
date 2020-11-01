@@ -1,8 +1,12 @@
 ---
 published: true
 title: Video Streaming
-tags: video streaming raspberry
+tags: video streaming raspberry-pi
 ---
+# Stream  MJPG video 
+## [µStreamer]({% post_url 2020-07-23-ustreamer %})
+
+
 # stream into H.264 format
 
 ## [User space Video4Linux (UV4L)](http://www.linux-projects.org/uv4l/)
