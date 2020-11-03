@@ -29,6 +29,9 @@ youtube-dl -f 22+136 'http://www.youtube.com/watch?v=P9pzm5b6FFY'
 youtube-dl -f 22,136 'http://www.youtube.com/watch?v=P9pzm5b6FFY'
 {% endhighlight %}
 
+# download playlist
+youtube-dl -o '%(playlist_title)s/%(playlist_index)s_%(title)s.%(ext)s' "https;//url&list="
+
 ## Downloading multiple videos from a list
 - [Simple queue](https://stackoverflow.com/questions/3632919/simple-queue-for-youtube-dl-in-the-linux-shell/3632944#3632944)
 {% highlight cpp %}
