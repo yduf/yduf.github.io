@@ -29,7 +29,7 @@ youtube-dl -f 22+136 'http://www.youtube.com/watch?v=P9pzm5b6FFY'
 youtube-dl -f 22,136 'http://www.youtube.com/watch?v=P9pzm5b6FFY'
 {% endhighlight %}
 
-# download playlist
+# [download playlist](https://superuser.com/questions/993993/youtube-dl-download-playlist-in-respective-directory)
 youtube-dl -o '%(playlist_title)s/%(playlist_index)s_%(title)s.%(ext)s' "https;//url&list="
 
 ## Downloading multiple videos from a list
