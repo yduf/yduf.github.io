@@ -30,7 +30,7 @@ youtube-dl -f 22,136 'http://www.youtube.com/watch?v=P9pzm5b6FFY'
 {% endhighlight %}
 
 ## Downloading multiple videos from a list
-- [Simple queue][https://stackoverflow.com/questions/3632919/simple-queue-for-youtube-dl-in-the-linux-shell/3632944#3632944)
+- [Simple queue](https://stackoverflow.com/questions/3632919/simple-queue-for-youtube-dl-in-the-linux-shell/3632944#3632944)
 {% highlight cpp %}
 youtube-dl -a FILE   # --batch-file=FILE, '-' for stdin
 {% endhighlight %}
