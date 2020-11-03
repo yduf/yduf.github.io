@@ -3,7 +3,7 @@ published: true
 title: High Availability
 tags: system software architecture
 ---
-> Availability is the percentage of time an application is performing as expected (not to be confound with uptime). - Architecting for reliaibility on AWS (pluralsight)
+> Availability is the percentage of time an application is performing as expected (not to be confound with uptime). - Architecting for reliability on AWS (pluralsight)
 
 **To achieve high availability, use**
 - Redundancy
