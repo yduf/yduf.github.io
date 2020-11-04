@@ -1,6 +1,6 @@
 ---
 published: true
-title: Konboot
+title: Kon-boot
 tags: usb system boot security
 ---
 > Kon-Boot is an application which will silently bypass the authentication process of Windows based operating systems. Without overwriting your old password! In other words you can login to your Windows profile without knowing your password. - [kon-boot.com](https://kon-boot.com/)
