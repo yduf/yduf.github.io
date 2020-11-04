@@ -7,7 +7,7 @@ tags: system software architecture
 
 **To achieve high availability, use**
 - Redundancy
-- Loose coupling
+- Loose coupling (eg: using a queue)
 
 **To calculate the availibility of redundant components**
 - Multiply the failure rate of the components
