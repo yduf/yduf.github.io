@@ -12,7 +12,7 @@ tags: epaper hardware note-taking
 - [fingerterm](https://github.com/dixonary/fingerterm-reMarkable) - touch terminal
 - [wikipedia](https://github.com/dps/remarkable-wikipedia) offline
 
-## Hardware
+## Hardware (rM2)
 - [Spec](https://remarkable.com/#Specifications)
 	- 1.2 GHz dual core ARM
     - 1 GB LPDDR3 SDRAM
@@ -23,6 +23,8 @@ tags: epaper hardware note-taking
     - Accessory port
 - [remarkable-keywriter](https://github.com/dps/remarkable-keywriter)
 	- [with a bluetooth keyboard](https://www.reddit.com/r/RemarkableTablet/comments/e8p22h/remarkablekeywriter_with_a_bluetooth_keyboard/)
+
+- [reMarkable 2 sources are published](https://www.reddit.com/r/RemarkableTablet/comments/jp9gq9/remarkable_2_sources_are_published/)
 
 ## How to
 - [SSH Access](https://remarkablewiki.com/tech/ssh)
