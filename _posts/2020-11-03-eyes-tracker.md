@@ -1,7 +1,7 @@
 ---
 published: true
-title: Eyes Tracker
-tags: eye tracker
+title: Hand Free Coding
+tags: eye tracker voice
 ---
 
 - [Hands-Free Coding](https://joshwcomeau.com/accessibility/hands-free-coding/) / [HN](https://news.ycombinator.com/item?id=24846887)
@@ -16,3 +16,4 @@ Powerful hands-free input
 	- Python Scripts - customize everything
 
 - Demo [using a Tobii eye tracker for mouse movement and Talon's hiss+pop noise recognizers to click.](https://www.youtube.com/watch?v=i6_fdMtmv6c)
+- [overview of a software developer using Talon day to day](https://www.deconstructconf.com/2019/emily-shea-voice-driven-development) / [her Talon config](https://github.com/2shea/talon_configs)
