@@ -5,7 +5,6 @@ tags: epaper hardware
 ---
 > The reMarkable is a paper tablet for those who prefer writing on paper, rather than keyboards. Its remarkably fast paper-white display, Linux based operating system and awesome community make it highly attractive amongst hackers and developers. - [r/RemarkableTablet](https://www.reddit.com/r/RemarkableTablet/)
 
-
 ## Integration
 - [SSH Access](https://remarkablewiki.com/tech/ssh)
 - [Evidlo/remarkable_printer](https://github.com/Evidlo/remarkable_printer) - Print natively to your reMarkable wirelessly with no extensions or reMarkable cloud.
@@ -13,6 +12,7 @@ tags: epaper hardware
 
 ## Customization
 - [Neurone/reMarkable](https://github.com/Neurone/reMarkable) - Automatically change your poweroff and suspend screens every 5 minutes
+- [evidlo/remarkable_entware](https://github.com/evidlo/remarkable_entware) - a lightweight package manager and software repo for embedded devices. [list of available packages](http://bin.entware.net/armv7sf-k3.2/)
 
 ## [Applications](https://github.com/reHackable/awesome-reMarkable#applications)
 - [syncthing](https://github.com/evidlo/remarkable_syncthing) - Syncthing on reMarkable
