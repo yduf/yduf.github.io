@@ -49,3 +49,6 @@ Restart=always
 [Install]
 WantedBy=multi-user.target
 {% endhighlight %}
+
+## Alternative
+- [htrefil/rkvm](https://github.com/htrefil/rkvm) / [HN](https://news.ycombinator.com/item?id=24950817) - a tool for sharing keyboard and mouse across multiple Linux computers.
