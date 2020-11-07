@@ -3,7 +3,16 @@ published: true
 title: Remarkable 2. (epaper)
 tags: epaper hardware note-taking
 ---
-> The reMarkable is a paper tablet for those who prefer writing on paper, rather than keyboards. Its remarkably fast paper-white display, Linux based operating system and awesome community make it highly attractive amongst hackers and developers. - [Awesome reMarkable](https://github.com/reHackable/awesome-reMarkable)
+> The reMarkable is a paper tablet for those who prefer writing on paper, rather than keyboards. Its remarkably fast paper-white display, Linux based operating system and awesome community make it highly attractive amongst hackers and developers. - [r/RemarkableTablet](https://www.reddit.com/r/RemarkableTablet/)
+
+
+## Integration
+- [SSH Access](https://remarkablewiki.com/tech/ssh)
+- [Evidlo/remarkable_printer](https://github.com/Evidlo/remarkable_printer) - Print natively to your reMarkable wirelessly with no extensions or reMarkable cloud.
+- [nick8325/remarkable-fs](https://github.com/nick8325/remarkable-fs) - A FUSE filesystem driver for reMarkable
+
+## Customization
+- [Neurone/reMarkable](https://github.com/Neurone/reMarkable) - Automatically change your poweroff and suspend screens every 5 minutes
 
 ## [Applications](https://github.com/reHackable/awesome-reMarkable#applications)
 - [syncthing](https://github.com/evidlo/remarkable_syncthing) - Syncthing on reMarkable
@@ -28,7 +37,6 @@ tags: epaper hardware note-taking
 	- [rM2 3rd party apps progress](https://www.reddit.com/r/RemarkableTablet/comments/jp2h4s/rm2_3rd_party_apps_progress/)
 
 ## How to
-- [SSH Access](https://remarkablewiki.com/tech/ssh)
 - [Convert To Text Best Practices](https://www.youtube.com/watch?v=dPrEHADFG1E)
 - [Associate A Notebook With A Document](https://www.youtube.com/watch?v=exRHMNzXXIU)
 - [Organize And Manage Your Files](https://www.youtube.com/watch?v=jJobc3vBJ0c)
