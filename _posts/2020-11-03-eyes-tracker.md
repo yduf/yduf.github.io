@@ -14,9 +14,9 @@ tags: eye tracker voice
 ## [Talon](https://talonvoice.com/) / [wiki](https://talon.wiki/getting_started/)
 
 Powerful hands-free input
-	- Voice Control - talk to your computer
+	- Voice Control - talk to your computer (Dragon/Wav2Letter)
 	- Noise Control - click with a back-beat
-	- Eye Tracking - mouse where you look
+	- Eye Tracking - mouse where you look (Tobii)
 	- Python Scripts - customize everything
 
 - Demo [using a Tobii eye tracker for mouse movement and Talon's hiss+pop noise recognizers to click.](https://www.youtube.com/watch?v=i6_fdMtmv6c)
