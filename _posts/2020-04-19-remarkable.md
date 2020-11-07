@@ -7,8 +7,9 @@ tags: epaper hardware
 
 ## Integration
 - [SSH Access](https://remarkablewiki.com/tech/ssh) - [yduf/ssh]({% post_url 2019-04-29-ssh %})
+- [Evidlo/remarkable_printer](https://github.com/Evidlo/remarkable_printer) - Print natively to your reMarkable with no extensions or reMarkable cloud.
 - [nick8325/remarkable-fs](https://github.com/nick8325/remarkable-fs) - A FUSE filesystem driver for reMarkable => **not working**
-- [Evidlo/remarkable_printer](https://github.com/Evidlo/remarkable_printer) - Print natively to your reMarkable wirelessly with no extensions or reMarkable cloud.
+
 
 
 ![caption](https://preview.redd.it/sp0e1a4gaex51.jpg?width=640&crop=smart&auto=webp&s=de4e46cff9a739175965e561c5f561720660413c)
