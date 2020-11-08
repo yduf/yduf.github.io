@@ -11,3 +11,5 @@ tags: zip single-header
 - [atomicobject/heatshrink](https://github.com/atomicobject/heatshrink) - A data compression/decompression library for embedded/real-time systems.
 
 - [facebook/zstd](https://github.com/facebook/zstd) -  a fast lossless compression algorithm, targeting real-time compression scenarios at zlib-level and better compression ratios.
+
+- [HN](https://news.ycombinator.com/item?id=24936536)
