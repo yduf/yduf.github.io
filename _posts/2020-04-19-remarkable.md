@@ -14,7 +14,7 @@ tags: epaper hardware
 
 ## Customization
 - [Neurone/reMarkable](https://github.com/Neurone/reMarkable) - Automatically change your poweroff and suspend screens every 5 minutes / [Customizing the Splashscreens](https://remarkablewiki.com/tips/splashscreens)
-
+	- could be enhanced to use [suspend event](https://askubuntu.com/questions/226278/run-script-on-wakeup) rather than timer.
 
 - [ddvk/remarkable-hacks](https://github.com/ddvk/remarkable-hacks)
 - [reMarkable Connection Utility (RCU)](https://www.reddit.com/r/RemarkableTablet/comments/imwov3/remarkable_connection_utility_rcu_is_out_allinone/)
@@ -38,14 +38,14 @@ Early price:
 - 1x Marker Plus: €40
 - 1x reMarkable 2: €399
 
-- [Spec](https://remarkable.com/#Specifications)
-	- 1.2 GHz dual core ARM
-    - 1 GB LPDDR3 SDRAM
-    - 8 GB internal storage
-    - 10.3” monochrome 1872 x 1404 resolution (226 DPI)
-    - Wi-Fi 2.4GHz and 5GHz
-    - USB-C
-    - Accessory port
+[Spec](https://remarkable.com/#Specifications)
+- 1.2 GHz dual core ARM
+- 1 GB LPDDR3 SDRAM
+- 8 GB internal storage
+- 10.3” monochrome 1872 x 1404 resolution (226 DPI)
+- Wi-Fi 2.4GHz and 5GHz
+- USB-C
+- Accessory port
 
 
 - [remarkable-keywriter](https://github.com/dps/remarkable-keywriter)
