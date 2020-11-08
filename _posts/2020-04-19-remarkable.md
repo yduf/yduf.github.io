@@ -21,6 +21,7 @@ tags: epaper hardware
 
 - [reMarkable Connection Utility (RCU)](https://www.reddit.com/r/RemarkableTablet/comments/imwov3/remarkable_connection_utility_rcu_is_out_allinone/)
 	- [highlighting added PDF annotations](https://www.reddit.com/r/RemarkableTablet/comments/is4x80/wouldnt_it_be_nice_if_highlighting_added_pdf/)
+    - [export pdf with layer](https://www.reddit.com/r/RemarkableTablet/comments/jpqsus/export_picture_with_layers/)
 
 - [evidlo/remarkable_entware](https://github.com/evidlo/remarkable_entware) - a lightweight package manager and software repo for embedded devices. [list of available packages](http://bin.entware.net/armv7sf-k3.2/)
 
