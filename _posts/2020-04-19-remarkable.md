@@ -28,7 +28,12 @@ tags: epaper hardware
 - [fingerterm](https://github.com/dixonary/fingerterm-reMarkable) - touch terminal
 - [wikipedia](https://github.com/dps/remarkable-wikipedia) offline
 
-## Hardware (rM2)
+## [Hardware (rM2)](https://remarkable.com/store/remarkable-2) - Total 459€ (vs 597€)
+Early price:
+- 1x Book Folio – Polymer weave – Gray: €20
+- 1x Marker Plus: €40
+- 1x reMarkable 2: €399
+
 - [Spec](https://remarkable.com/#Specifications)
 	- 1.2 GHz dual core ARM
     - 1 GB LPDDR3 SDRAM
@@ -37,6 +42,8 @@ tags: epaper hardware
     - Wi-Fi 2.4GHz and 5GHz
     - USB-C
     - Accessory port
+
+
 - [remarkable-keywriter](https://github.com/dps/remarkable-keywriter)
 	- [with a bluetooth keyboard](https://www.reddit.com/r/RemarkableTablet/comments/e8p22h/remarkablekeywriter_with_a_bluetooth_keyboard/)
 
@@ -79,6 +86,9 @@ tags: epaper hardware
 	- [tech](https://remarkablewiki.com/tech/start)
 - [reMarkable2 Teardown](https://fccid.io/2AMK2-RM110/Internal-Photos/Internal-photos-4523960)
 - [reMarkable](https://duckpond.ch/nix/bash/2020/01/08/reMarkable.html)
+
+## Tools
+- [ddvk/remarkable2-recovery](https://github.com/ddvk/remarkable2-recovery) - reMarkable 2 Recovery / Unbricking. Tools for recovery (works only under Linux).
 
 ## Alternatives
 - [Onyx Boox Max Air](https://www.youtube.com/watch?v=EdQ5sXTJRMI)
