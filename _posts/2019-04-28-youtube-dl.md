@@ -11,6 +11,7 @@ tags: video youtube
 ### forked by [blackjack4494/youtube-dlc ](https://github.com/blackjack4494/youtube-dlc) / [reddit](https://www.reddit.com/r/DataHoarder/comments/ir8ic6/youtubedlc_an_active_fork_of_youtubedl/) / [HN]() 
 
 ### Others
+- [youtubedld.com](https://youtubedld.com/) - Download a YouTube video by adding ‘dld’ to the url after ‘youtube’, hit enter and pick a format.
 - [Reverse-Engineering YouTube](https://tyrrrz.me/blog/reverse-engineering-youtube)
 
 ## [Select the video quality](https://askubuntu.com/questions/486297/how-to-select-video-quality-from-youtube-dl/486298#486298)
