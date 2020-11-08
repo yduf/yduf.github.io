@@ -68,10 +68,6 @@ Early price:
 - [Developing for the reMarkable tablet](https://dragly.org/2017/12/01/developing-for-the-remarkable/)
 - [Awesome reMarkable](https://awesomeopensource.com/project/reHackable/awesome-reMarkable)
 
-## Hack
-- [Binary patches for the rM](https://github.com/ddvk/remarkable-hacks)
-- [custom template](https://www.reddit.com/r/RemarkableTablet/comments/j6rn9g/month_in_with_the_rm2_thoughts/)
-
 ## Alternative OS
 - [Parabola-rM](http://www.davisr.me/projects/parabola-rm/)
 
