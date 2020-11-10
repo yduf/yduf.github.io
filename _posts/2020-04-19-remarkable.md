@@ -31,6 +31,7 @@ tags: epaper hardware
 
 ## Template
 - [Customizing the Templates](https://remarkablewiki.com/tips/templates)
+	- [Tired of trying to find custom templates? Just added a new category in the JSON file!](https://www.reddit.com/r/RemarkableTablet/comments/jr9jn3/tired_of_trying_to_find_custom_templates_just/)
 - [Online Generator](https://templarian.github.io/remarkable/)
 
 ## [Applications](https://github.com/reHackable/awesome-reMarkable#applications)
@@ -69,6 +70,9 @@ Early price:
 - [Use Read On Remarkable Productively](https://www.youtube.com/watch?v=GR9QnbOaxcc) - chrome extension
 - [Send E-Mails](https://www.youtube.com/watch?v=IKSXs9GObDo) - you can't receive email, but you can send.
 - [Share Your Screen Using Live View](https://www.youtube.com/watch?v=x2D3xXnTfGk) - using wifi + cloud + desktop app
+
+## [Filesystem / Document format](https://remarkablewiki.com/tech/filesystem)
+> You will also notice that there are no human readable filenames and that each “document” has a number of associated files with it, depending on the document type. Human readable information is stored within the .metadata files (described further below). 
 
 ## Dev
 - [libremarkable](https://github.com/canselcik/libremarkable) - A Framework for Remarkable Tablet
