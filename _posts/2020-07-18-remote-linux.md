@@ -43,7 +43,7 @@ WantedBy=multi-user.target
 $ systemctl start vncserver@:1.service
 {% endhighlight %}
 
-**Connect with Remmina VNC client using cnc:1 as target**
+Connect with VNC client using **host:1** as target
 
 Once vncserver start verify socket:
 {% highlight bash %}
