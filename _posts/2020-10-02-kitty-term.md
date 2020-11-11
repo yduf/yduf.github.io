@@ -1,7 +1,7 @@
 ---
 published: true
 title: kitty
-tags: cli gpu term image viewer
+tags: cli gpu term image viewer quake
 ---
 > the fast, featureful, GPU based terminal emulator - [ktty](https://sw.kovidgoyal.net/kitty/#quickstart) / [HN](https://news.ycombinator.com/item?id=24643008)
 
