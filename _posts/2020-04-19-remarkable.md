@@ -74,6 +74,8 @@ Early price:
 ## [Filesystem / Document format](https://remarkablewiki.com/tech/filesystem)
 > You will also notice that there are no human readable filenames and that each “document” has a number of associated files with it, depending on the document type. Human readable information is stored within the .metadata files (described further below). 
 
+- [.lines format](https://plasma.ninja/blog/devices/remarkable/binary/format/2017/12/26/reMarkable-lines-file-format.html)
+
 ## Dev
 - [libremarkable](https://github.com/canselcik/libremarkable) - A Framework for Remarkable Tablet
 	- [using with Qt](https://github.com/canselcik/libremarkable/issues/12)
