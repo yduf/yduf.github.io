@@ -41,9 +41,9 @@ WantedBy=multi-user.target
 
 {% highlight bash %}
 $ systemctl start vncserver@:1.service
-
-# connect with VNC clilent using cnc:1 as target
 {% endhighlight %}
+
+**Connect with VNC clilent using cnc:1 as target**
 
 Once vncserver start verify socket:
 {% highlight bash %}
