@@ -10,3 +10,12 @@ tags: linux remote desktop rdp
 - [vinagre](https://wiki.gnome.org/Apps/Vinagre)
 
 Enable vino / desktop sharing on other side
+
+## [Xfce VNC remote desktop](https://serverok.in/install-xfce-vnc-remote-desktop-on-ubuntu)
+
+{% highlight bash %}
+$ sudo apt install -y vnc4server
+$ vncpasswd
+{% endhighlight %}
+
+vnc config + systemctl service
