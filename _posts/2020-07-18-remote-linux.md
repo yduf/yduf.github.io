@@ -18,4 +18,4 @@ $ sudo apt install -y vnc4server
 $ vncpasswd
 {% endhighlight %}
 
-vnc config + systemctl service
+vnc config + use this [systemctl service](https://forums.fedoraforum.org/showthread.php?311448-Issue-with-setting-up-VNC-Server-as-service-on-Fedora-24-or-above&p=1781244#post1781244)
