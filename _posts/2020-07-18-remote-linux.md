@@ -31,7 +31,7 @@ After=syslog.target network.target
 Type=forking
 User=yves
 # ExecStartPre=-/usr/bin/vncserver -kill :%i &> /dev/null
-ExecStart=/usr/bin/vncserver -localhost no -geometry 1000x1000 %i
+ExecStart=/usr/bin/vncserver -localhost no -geometry 1280x960 %i
 # PIDFile=/home/yves/.vnc/%H:%i.pid
 ExecStop=/usr/bin/vncserver -kill :%i
 
