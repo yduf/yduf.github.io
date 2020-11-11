@@ -20,6 +20,29 @@ $ vncpasswd
 
 vnc config + use this [systemctl service](https://forums.fedoraforum.org/showthread.php?311448-Issue-with-setting-up-VNC-Server-as-service-on-Fedora-24-or-above&p=1781244#post1781244)
 
+{% highlight bash %}
+# /etc/systemd/system/vncserver@.service
+# Authorize connection from outside / otherwise need ssh tunnel
+[Unit]
+Description=VNC server startup script
+After=syslog.target network.target
+
+[Service]
+Type=forking
+User=yves
+# ExecStartPre=-/usr/bin/vncserver -kill :%i &> /dev/null
+ExecStart=/usr/bin/vncserver -localhost no -geometry 1000x1000 %i
+# PIDFile=/home/yves/.vnc/%H:%i.pid
+ExecStop=/usr/bin/vncserver -kill :%i
+
+[Install]
+WantedBy=multi-user.target
+{% endhighlight %}
+
+{% highlight bash %}
+$ systemctl start vncserver@:1.service
+{% endhighlight %}
+
 Once vncserver start verify socket:
 {% highlight bash %}
 $ lsof -P -i
