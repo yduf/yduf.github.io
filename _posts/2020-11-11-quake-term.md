@@ -10,3 +10,5 @@ tags: cli quake term
 ## Alternatives
 - [lanoxx/tilda](https://github.com/lanoxx/tilda)
 - [linvinus/AltYo](https://github.com/linvinus/AltYo)
+- [Kitty]({% post_url 2020-10-02-kitty-term %})
+
