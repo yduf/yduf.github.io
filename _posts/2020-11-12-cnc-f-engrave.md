@@ -10,7 +10,7 @@ tags: cnc wood
 
 ![caption](http://www.scorchworks.com/Fengrave/kaitlyn.jpg)
 
-# Tutorial / [Doc](http://www.scorchworks.com/Fengrave/fengrave_doc.html)
+# [Tutorial](https://www.youtube.com/watch?v=1-QOwYEH1Dw) / [Doc](http://www.scorchworks.com/Fengrave/fengrave_doc.html)
 - [V-Carving Tutorial](http://www.scorchworks.com/Fengrave/F-engrave_tutorial.htm)
 - [How to Generate G-Code Using F-Engrave](https://www.youtube.com/watch?v=hbFEXYe7HGM)
 
