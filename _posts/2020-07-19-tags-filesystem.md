@@ -18,9 +18,13 @@ Works in user space, uses FUSE
 ## [Tagging](https://github.com/oniony/TMSU/wiki/Tag-and-Value-Names)
 - support unicode tags (hopefully)
 {% highlight bash %}
-tmsu tag <file> --tags='score=★★★★☆'
-{% endhighlight %}
-
+$ tmsu tag <file> --tags='score=★★★★☆'
+$ tmsu tag --tags="iron-giant sci-fi" ./Pictures/iron-giant/*
+  
+# Mounting FUSE filesystem
+tmsu mount mount-point
+{% endhighlight %} 
+  
 ## Tricks and Tips
 - [External Integration](https://github.com/oniony/TMSU/wiki/Tricks-and-Tips#external-integration)
 > The versatility of TMSU means it isn't very difficult to extract tags from text files (e.g. Markdown) and feed them into TMSU, for example the following could be used to extract #tags from markdown files in the current directory and assign tags to them.
