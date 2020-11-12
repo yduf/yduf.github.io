@@ -14,4 +14,8 @@ $ sudo apt-get install potrace
 ### TTF2CXF_STREAM
 {% highlight cpp %}
 $ sudo apt-get install libfreetype6-dev
+$ cd TTF2CXF_STREAM # in f-engrave directory
+$ sudo make install
+# test
+$ ttf2cxf_stream
 {% endhighlight %}
