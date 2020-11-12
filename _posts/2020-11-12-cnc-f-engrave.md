@@ -8,8 +8,7 @@ tags: cnc wood
 # [Install](https://gnipsel.com/fengrave/fengrave01.html)
 ** The last thing before trying to run fengrave on linux is to change the line endings from DOS to Unix.** 
 {% highlight cpp %}
-$ mv f-engrave-165.py fengrave
-$ sed -i.bak 's/\r$//' fengrave
+$ sed -i.bak 's/\r$//' f-engrave.py
 {% endhighlight %}
 
 ### [POTrace](https://gnipsel.com/fengrave/fengrave01.html#step9)
