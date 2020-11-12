@@ -12,6 +12,7 @@ tags: cnc wood
 
 # Tutorial / [Doc](http://www.scorchworks.com/Fengrave/fengrave_doc.html)
 - [V-Carving Tutorial](http://www.scorchworks.com/Fengrave/F-engrave_tutorial.htm)
+- [How to Generate G-Code Using F-Engrave](https://www.youtube.com/watch?v=hbFEXYe7HGM)
 
 # [Install](https://gnipsel.com/fengrave/fengrave01.html)
 ** The last thing before trying to run fengrave on linux is to change the line endings from DOS to Unix.** 
