@@ -5,6 +5,12 @@ tags: cnc wood
 ---
 > F-Engrave is a text or image to g-code program (for both engraving and v-carving). - [Home](https://www.scorchworks.com/Fengrave/fengrave.html)
 
+# Demo
+- [Prism Shaped Name Plate](http://www.scorchworks.com/Blog/prism-shaped-name-plate-for-kaitlyn/)
+
+![caption](http://www.scorchworks.com/Fengrave/kaitlyn.jpg)
+
+
 # [Install](https://gnipsel.com/fengrave/fengrave01.html)
 ** The last thing before trying to run fengrave on linux is to change the line endings from DOS to Unix.** 
 {% highlight cpp %}
