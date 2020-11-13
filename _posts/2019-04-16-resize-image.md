@@ -1,7 +1,7 @@
 ---
 published: true
 title: Resize/Crop Image (How to)
-tags: linux image how-to
+tags: linux image crop resize how-to
 ---
 
 ## Resize
