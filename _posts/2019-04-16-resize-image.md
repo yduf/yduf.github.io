@@ -1,6 +1,6 @@
 ---
 published: true
-title: Resize Image Files On Linux (How to)
+title: Resize/Crop Image (How to)
 tags: linux image how-to
 ---
 
@@ -8,7 +8,7 @@ tags: linux image how-to
 - open with gThumb Editor
 
 ## Crop
-- pinta as __paint__ like interface, usefull for easy fast crop
+- pinta as __paint__ like interface, usefull for fast easy crop
 
 ## Multi image resize
 - TBD
