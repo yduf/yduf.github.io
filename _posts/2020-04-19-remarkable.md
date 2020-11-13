@@ -64,6 +64,9 @@ Early price:
 	- [rM2 3rd party apps progress](https://www.reddit.com/r/RemarkableTablet/comments/jp2h4s/rm2_3rd_party_apps_progress/)
 
 ## How to
+- [How to move a page from one notebook to another](https://support.remarkable.com/hc/en-us/articles/360002672298-Move-files-and-pages)
+	1. Tap the Page overview button, under notebook options.
+    1. Select Move in the top right menu.
 - [Convert To Text Best Practices](https://www.youtube.com/watch?v=dPrEHADFG1E)
 - [Associate A Notebook With A Document](https://www.youtube.com/watch?v=exRHMNzXXIU)
 - [Organize And Manage Your Files](https://www.youtube.com/watch?v=jJobc3vBJ0c)
