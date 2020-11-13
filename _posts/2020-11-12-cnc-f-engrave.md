@@ -17,7 +17,7 @@ tags: cnc wood
 # [Install](https://gnipsel.com/fengrave/fengrave01.html)
 
 **The last thing before trying to run fengrave on linux is to change the line endings from DOS to Unix.** 
-{% highlight cpp %}
+{% highlight bash %}
 $ sed -i.bak 's/\r$//' f-engrave.py
 {% endhighlight %}
 
@@ -27,7 +27,7 @@ $ sudo apt-get install potrace
 {% endhighlight %}
 
 ### [TTF2CXF_STREAM](https://gnipsel.com/fengrave/fengrave01.html#step8)
-{% highlight cpp %}
+{% highlight bash %}
 $ sudo apt-get install libfreetype6-dev
 $ cd TTF2CXF_STREAM # in f-engrave directory
 $ sudo make install
@@ -38,6 +38,6 @@ $ ttf2cxf_stream
 ### [Fonts](https://gnipsel.com/fengrave/fengrave01.html#step10)
 First you want to create a font directory in the fengrave directory to keep your fonts in.
 
-{% highlight cpp %}
+{% highlight bash %}
 $ mkdir fonts
 {% endhighlight %}
