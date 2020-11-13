@@ -15,7 +15,8 @@ tags: cnc wood
 - [How to Generate G-Code Using F-Engrave](https://www.youtube.com/watch?v=hbFEXYe7HGM)
 
 # [Install](https://gnipsel.com/fengrave/fengrave01.html)
-** The last thing before trying to run fengrave on linux is to change the line endings from DOS to Unix.** 
+
+**The last thing before trying to run fengrave on linux is to change the line endings from DOS to Unix.** 
 {% highlight cpp %}
 $ sed -i.bak 's/\r$//' f-engrave.py
 {% endhighlight %}
