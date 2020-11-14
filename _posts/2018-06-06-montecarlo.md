@@ -1,5 +1,5 @@
 ---
-title: 	The Beginning of the Monte Carlo Method
+title: Monte Carlo Method
 published: true
 tags: math algorithm
 ---
