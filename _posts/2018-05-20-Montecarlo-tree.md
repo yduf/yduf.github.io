@@ -1,7 +1,7 @@
 ---
 title: Monte-Carlo Tree Search (MCTS)
 published: true
-tags: AI MCTS search montecarlo
+tags: AI MCTS search montecarlo algorithm
 use_math: true
 ---
 ## [Beginners guide](https://int8.io/monte-carlo-tree-search-beginners-guide/)
