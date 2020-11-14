@@ -1,6 +1,6 @@
 ---
 published: true
-title: Incomplete type (c++)
+title: Vector with Incomplete type (C++)
 tags: c++ tree
 ---
 {% highlight cpp %}
