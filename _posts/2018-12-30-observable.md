@@ -7,3 +7,6 @@ tags: js online graphic notebook
 
 ## Example
 - [farn](https://beta.observablehq.com/@timhau/farn)
+
+## Other
+- [Why We're Building Observable](https://news.ycombinator.com/item?id=25161409)
