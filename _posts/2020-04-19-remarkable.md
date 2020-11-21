@@ -16,6 +16,7 @@ tags: epaper hardware
 	- [nick8325/remarkable-fs](https://github.com/nick8325/remarkable-fs) - A FUSE filesystem driver for reMarkable => **not working**
 - [bordaigorl/remy](https://github.com/bordaigorl/remy) - a reMarkable tablet manager app
 	- can use [Mathpix OCR](https://mathpix.com/ocr) API
+- [remarkable_mouse](https://github.com/Evidlo/remarkable_mouse)
 
 - [reMarkable Connection Utility (RCU)](https://www.reddit.com/r/RemarkableTablet/comments/imwov3/remarkable_connection_utility_rcu_is_out_allinone/)
 	- [highlighting added PDF annotations](https://www.reddit.com/r/RemarkableTablet/comments/is4x80/wouldnt_it_be_nice_if_highlighting_added_pdf/)
