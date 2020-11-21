@@ -5,6 +5,10 @@ tags: epaper hardware
 ---
 > The reMarkable is a paper tablet for those who prefer writing on paper, rather than keyboards. Its remarkably fast paper-white display, Linux based operating system and awesome community make it highly attractive amongst hackers and developers. - [r/RemarkableTablet](https://www.reddit.com/r/RemarkableTablet/)
 
+## Tips
+- [Wifi icon](https://www.reddit.com/r/RemarkableTablet/comments/jxopfn/wifi_icon/) - Pressing the lower left corner opens the Settings. It's useful to quickly toggle Airplane mode, so you can turn on wifi only when you actually need to sync your documents.
+- [Writing through paper](https://www.reddit.com/r/RemarkableTablet/comments/jxc3a5/this_blew_my_mind_today_someone_please_explain/) - The stylus communicates wirelessly. The pressure sensitivity is in the stylus itself. The screen ALSO has touch sensitivity for buttons etc, but it's separate tech.
+
 ## Integration
 - [SSH Access](https://remarkablewiki.com/tech/ssh) - [yduf/ssh]({% post_url 2019-04-29-ssh %})
 - [Evidlo/remarkable_printer](https://github.com/Evidlo/remarkable_printer) - Print natively to your reMarkable with no extensions or reMarkable cloud.
