@@ -16,7 +16,9 @@ From a fresh Octopie (tested on )
 $ sudo apt install raspberrypi-ui-mods
 {% endhighlight %}
 
-At this point when pi-reboot Octodash should show up.
+At this point when pi-reboot Octodash should show up
+(The boot option must select autologin with CLI (see rasp-config boot/B2)).
+
 1. [Touchscreen does not work](https://medium.com/@tengfone/setting-up-raspberry-pi-4-3-5-touch-screen-xpt2046-349e484a7813)
 **Touchscreen may appear not working because axis are inverted.**
 
