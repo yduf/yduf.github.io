@@ -33,7 +33,7 @@ Section "InputClass"
 	Option	"MaxX"	"60363"
 	Option	"MinY"	"61381"
 	Option	"MaxY"	"2856"
-	Option	"SwapXY"	"0" # unless it was already set to 1
+	Option	"SwapXY"	"0"
 EndSection
 {% endhighlight %}
 
