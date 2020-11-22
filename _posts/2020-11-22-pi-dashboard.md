@@ -5,6 +5,8 @@ tags: 3dprinter lcd dashboard raspberry-pi
 ---
 > OctoDash is a simple, but beautiful dashboard for OctoPrint. - [UnchartedBull/OctoDash](https://github.com/UnchartedBull/OctoDash)
 
+see also [Octoprin Dashboard plugin]({% post_url 2017-09-24-Octoprint %})
+
 ![caption](https://raw.githubusercontent.com/TimonGaebelein/OctoprintDash/master/screenshots/file_loaded.png)
 
 ## Setup
