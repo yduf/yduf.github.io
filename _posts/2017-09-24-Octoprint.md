@@ -19,6 +19,7 @@ ssh pi@192.168.0.123
 - [OctoPrint-PrintTimeGenius](https://plugins.octoprint.org/plugins/PrintTimeGenius/)
 
 ## [OctoDash]({% post_url 2020-11-22-pi-dashboard %})
+onboard touchs-screen UI.
 
 ## [Webcam tab](https://plugins.octoprint.org/plugins/webcamtab/)
 
@@ -42,13 +43,3 @@ with DSLR camera
 Klipper g_code: BED_MESH_OUTPUT
 
 ## [Exclude Region](https://discourse.octoprint.org/t/exclude-region-plugin-is-one-of-the-best-ever/2742)
-
-## Touch UI
-- [Setup: Boot to Browser](https://github.com/BillyBlaze/OctoPrint-TouchUI/wiki/Setup:-Boot-to-Browser)
-	- [uninstall](https://github.com/BillyBlaze/OctoPrint-TouchUI/issues/289)
-{% highlight bash %}
-sudo ~/TouchUI-autostart/helpers/uninstall
-{% endhighlight %} 
-
-- [Guide d’installation d’octoprint avec écran local](http://doc.3dmodularsystems.com/guide-dinstallation-doctoprint-ecran-local/)
-- [Ecran tactile 3,5 pouces]({% post_url 2019-11-16-pi-lcd %})
