@@ -18,7 +18,7 @@ $ sudo apt install raspberrypi-ui-mods
 
 At this point when pi-reboot Octodash should show up.
 1. [Touchscreen does not work](https://medium.com/@tengfone/setting-up-raspberry-pi-4-3-5-touch-screen-xpt2046-349e484a7813)
-**Touchscreen may appear because axis are inverted.**
+**Touchscreen may appear not working because axis are inverted.**
 
 Once X11 is working (step above), from a ssh console do:
 {% highlight bash %}
