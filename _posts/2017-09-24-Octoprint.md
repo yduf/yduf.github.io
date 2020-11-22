@@ -9,10 +9,7 @@ tags: 3dprinter linux
 ssh pi@192.168.0.123
 {% endhighlight %}
 
-# Plugins
-
-[install](http://plugins.octoprint.org/help/installation/)
-- [Mark list](https://www.youtube.com/watch?v=Zq1sFBgxy8o)
+# [Plugins](http://plugins.octoprint.org/help/installation/) - [Mark list](https://www.youtube.com/watch?v=Zq1sFBgxy8o)
 
 ## [Dashboard](https://plugins.octoprint.org/plugins/dashboard/)
 - [DisplayLayerProgress](https://plugins.octoprint.org/plugins/DisplayLayerProgress/)
