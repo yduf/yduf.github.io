@@ -51,6 +51,14 @@ $ sudo reoboot
 
 ## Alternatives
 - [Z-Bolt/OctoScreen](https://github.com/Z-Bolt/OctoScreen)
-- [BillyBlaze/OctoPrint-TouchUI](https://github.com/BillyBlaze/OctoPrint-TouchUI)
 - [tapnair/OctoPiLCD](https://github.com/tapnair/OctoPiLCD)
 
+### [BillyBlaze/OctoPrint-TouchUI](https://github.com/BillyBlaze/OctoPrint-TouchUI)
+- [Setup: Boot to Browser](https://github.com/BillyBlaze/OctoPrint-TouchUI/wiki/Setup:-Boot-to-Browser)
+	- [uninstall](https://github.com/BillyBlaze/OctoPrint-TouchUI/issues/289)
+{% highlight bash %}
+sudo ~/TouchUI-autostart/helpers/uninstall
+{% endhighlight %} 
+
+- [Guide d’installation d’octoprint avec écran local](http://doc.3dmodularsystems.com/guide-dinstallation-doctoprint-ecran-local/)
+- [Ecran tactile 3,5 pouces]({% post_url 2019-11-16-pi-lcd %})
