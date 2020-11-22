@@ -33,11 +33,11 @@ Section "InputClass"
 	Option	"MaxX"	"60363"
 	Option	"MinY"	"61381"
 	Option	"MaxY"	"2856"
-	Option	"SwapXY"	"1" # unless it was already set to 1
+	Option	"SwapXY"	"0" # unless it was already set to 1
 EndSection
 {% endhighlight %}
 
-Then copy the snippet provided above into '/etc/X11/xorg.conf.d/99-calibration.conf'
+Then copy the snippet provided above into '/etc/X11/xorg.conf.d/99-calibration.conf', **Change the “SwapAxes” “1” into “SwapAxes” “0"** (done for you here)
 
 {% highlight bash %}
 $ sudo mkdir /etc/X11/xorg.conf.d
