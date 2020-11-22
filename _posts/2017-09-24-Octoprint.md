@@ -18,12 +18,7 @@ ssh pi@192.168.0.123
 - [DisplayLayerProgress](https://plugins.octoprint.org/plugins/DisplayLayerProgress/)
 - [OctoPrint-PrintTimeGenius](https://plugins.octoprint.org/plugins/PrintTimeGenius/)
 
-## [OctoDash](https://github.com/UnchartedBull/OctoDash)
-Atlernative to TouchUI
-
-> OctoDash is a User Interface for OctoPrint, it utilizes the OctoPrint API but tries to use modern design principles in order to fully enable the power of your Raspberry Pi attached to your 3D Printer. OctoDash works best with a Touchscreen and will support almost all functions that OctoPrint offers just in a nicer format.
-
-- [enable Auto-login](https://raspberrypi.stackexchange.com/questions/40415/how-to-enable-auto-login/76275#76275)
+## [OctoDash]({% post_url 2020-11-22-pi-dashboard %})
 
 ## [Webcam tab](https://plugins.octoprint.org/plugins/webcamtab/)
 
