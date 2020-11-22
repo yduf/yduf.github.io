@@ -29,15 +29,16 @@ $ DISPLAY=:0.0 xinput_calibrator
 Section "InputClass"
 	Identifier	"calibration"
 	MatchProduct	"ADS7846 Touchscreen"
-	Option	"MinX"	"1792"
-	Option	"MaxX"	"60363"
-	Option	"MinY"	"61381"
-	Option	"MaxY"	"2856"
-	Option	"SwapXY"	"0"
+	Option	"MinX"	"3550"
+	Option	"MaxX"	"62530"
+	Option	"MinY"	"62770"
+	Option	"MaxY"	"2969"
+	Option "TransformationMatrix" "0 1 0 -1 0 1 0 0 1"
 EndSection
+
 {% endhighlight %}
 
-Then copy the snippet provided above into '/etc/X11/xorg.conf.d/99-calibration.conf', **Change the “SwapAxes” “1” into “SwapAxes” “0"** (done for you here)
+Then add [option matrix](https://raspberrypi.stackexchange.com/questions/60872/inverted-gpio-touchscreen-using-99-calibration-conf)
 
 {% highlight bash %}
 $ sudo mkdir /etc/X11/xorg.conf.d
