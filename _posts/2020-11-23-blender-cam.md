@@ -8,3 +8,23 @@ tags: cam blender cnc
 ![caption](https://cloud.githubusercontent.com/assets/648108/12375710/7a24b868-bca6-11e5-99a8-8c8c02e89724.png)
 
 [![caption](https://img.youtube.com/vi/jR8jt6dJPfE/0.jpg)](https://www.youtube.com/watch?v=jR8jt6dJPfE)
+
+## Install
+### [Opencamlib](https://github.com/aewallin/opencamlib) / [SO](https://stackoverflow.com/questions/24174394/cmake-is-not-able-to-find-python-libraries)
+{% highlight bash %}
+$ git clone git://github.com/aewallin/opencamlib.git
+$ cd opencamlib
+$ mkdir build
+$ cd build
+$ sudo apt install cmake
+$ sudo apt install libboost-program-options-dev
+$ sudo apt install doxygen
+$ sudo apt install texlive-full
+# this one is misssing from doc and cmake won't work without it
+$ sudo apt-get install python-dev
+
+$ cmake -DBUILD_PY_LIB=ON -DBUILD_CXX_LIB=OFF -DUSE_PY_3=ON ..
+$ make -j4
+
+$ sudo make install
+{% endhighlight %}
