@@ -11,12 +11,15 @@ ssh pi@192.168.0.123
 
 # [Plugins](http://plugins.octoprint.org/help/installation/) - [Mark list](https://www.youtube.com/watch?v=Zq1sFBgxy8o)
 
-## [Dashboard](https://plugins.octoprint.org/plugins/dashboard/)
+### [Dashboard](https://plugins.octoprint.org/plugins/dashboard/)
 - [DisplayLayerProgress](https://plugins.octoprint.org/plugins/DisplayLayerProgress/)
 - [OctoPrint-PrintTimeGenius](https://plugins.octoprint.org/plugins/PrintTimeGenius/)
 
-## [OctoDash]({% post_url 2020-11-22-pi-dashboard %})
+### [OctoDash]({% post_url 2020-11-22-pi-dashboard %})
 onboard touchs-screen UI.
+
+### [Cura Thumbnails](https://plugins.octoprint.org/plugins/UltimakerFormatPackage/)
+This plugin adds support for Ultimaker Format Package (.ufp) files. Ultimaker Format Package files are based on Open Packaging Conventions (OPC) and contain compressed gcode and a preview thumbnail. This format will automatically be used by the OctoPrint Connection plugin in Cura (install via Marketplace) if this plugin is installed.
 
 ## [Webcam tab](https://plugins.octoprint.org/plugins/webcamtab/)
 
