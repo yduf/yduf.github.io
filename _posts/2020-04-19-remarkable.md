@@ -14,6 +14,7 @@ tags: epaper hardware
 - [Evidlo/remarkable_printer](https://github.com/Evidlo/remarkable_printer) - Print natively to your reMarkable with no extensions or reMarkable cloud.
 - Linux access through Nemo/ssh
 	- [nick8325/remarkable-fs](https://github.com/nick8325/remarkable-fs) - A FUSE filesystem driver for reMarkable => **not working**
+- [Rocketbook](https://www.reddit.com/r/RemarkableTablet/comments/k0tl0m/remarkablerocket_lol_i_mean_now_i_have/) - using a [Rocketbook template](https://getrocketbook.co.uk/pages/rocketbook-for-free)
 - [bordaigorl/remy](https://github.com/bordaigorl/remy) - a reMarkable tablet manager app
 	- can use [Mathpix OCR](https://mathpix.com/ocr) API
 - [remarkable_mouse](https://github.com/Evidlo/remarkable_mouse)
