@@ -48,7 +48,7 @@ The templates in the list show up in the order they are listed on the json, so i
 - [5 Year journal template](https://www.reddit.com/r/RemarkableTablet/comments/k1ztqr/5_year_journal_template/)
 
 ### Online Generator
-- [Incompetech.com](https://incompetech.com/graphpaper/) - [Export Tips](https://www.reddit.com/r/RemarkableTablet/comments/jee5jg/customizable_template_resource/): When exporting click the 8.5x11 page icon. It will allow custom sizes. For reMarkable templates choose 19.5 width and 26 height. Change the color to gray for a less imposing template.
+- [Incompetech.com](https://incompetech.com/graphpaper/) - [Export Tips](https://www.reddit.com/r/RemarkableTablet/comments/jee5jg/customizable_template_resource/): When exporting click the 8.5x11 page icon. It will allow custom sizes. For reMarkable templates choose 19.5 width and 26 height (incorrect size for rm2). Change the color to gray for a less imposing template.
 - [Online Generator](https://templarian.github.io/remarkable/)
 
 ## [Applications](https://github.com/reHackable/awesome-reMarkable#applications)
@@ -94,7 +94,7 @@ The templates in the list show up in the order they are listed on the json, so i
 ## [Filesystem / Document format](https://remarkablewiki.com/tech/filesystem)
 > You will also notice that there are no human readable filenames and that each “document” has a number of associated files with it, depending on the document type. Human readable information is stored within the .metadata files (described further below). 
 
-- [.lines format](https://plasma.ninja/blog/devices/remarkable/binary/format/2017/12/26/reMarkable-lines-file-format.html)
+- [reMarkable .lines File Format](https://plasma.ninja/blog/devices/remarkable/binary/format/2017/12/26/reMarkable-lines-file-format.html)
 
 ## Dev / [Awesome reMarkable](https://awesomeopensource.com/project/reHackable/awesome-reMarkable)
 - [libremarkable](https://github.com/canselcik/libremarkable) - A Framework for Remarkable Tablet
