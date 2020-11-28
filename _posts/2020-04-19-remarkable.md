@@ -47,6 +47,9 @@ tags: epaper hardware
 - [fingerterm](https://github.com/dixonary/fingerterm-reMarkable) - touch terminal
 - [wikipedia](https://github.com/dps/remarkable-wikipedia) offline
 
+## Hardware Extension
+- [Pogo connector](https://www.reddit.com/r/RemarkableTablet/comments/j9g1d5/rm2_with_an_external_keyboard_accessory_port_usage/) - dot on left side is in fact a [host usb connector](https://imgur.com/gallery/TRuN0jc).
+
 ## [Hardware (rM2)](https://remarkable.com/store/remarkable-2) - Total 459€ (vs 597€)
 Early price:
 - 1x Book Folio – Polymer weave – Gray: €20
