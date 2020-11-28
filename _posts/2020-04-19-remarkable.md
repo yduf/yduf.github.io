@@ -38,6 +38,9 @@ tags: epaper hardware
 ## Template
 - [Customizing the Templates](https://remarkablewiki.com/tips/templates)
 	- [Tired of trying to find custom templates? Just added a new category in the JSON file!](https://www.reddit.com/r/RemarkableTablet/comments/jr9jn3/tired_of_trying_to_find_custom_templates_just/)
+    
+### Online Generator
+- [Incompetech.com](https://incompetech.com/graphpaper/)
 - [Online Generator](https://templarian.github.io/remarkable/)
 
 ## [Applications](https://github.com/reHackable/awesome-reMarkable#applications)
