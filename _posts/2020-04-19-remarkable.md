@@ -95,6 +95,7 @@ The templates in the list show up in the order they are listed on the json, so i
 > You will also notice that there are no human readable filenames and that each “document” has a number of associated files with it, depending on the document type. Human readable information is stored within the .metadata files (described further below). 
 
 - [reMarkable .lines File Format](https://plasma.ninja/blog/devices/remarkable/binary/format/2017/12/26/reMarkable-lines-file-format.html)
+	- [Lines Are Beautiful](https://github.com/ax3l/lines-are-beautiful)
 
 ## Dev / [Awesome reMarkable](https://awesomeopensource.com/project/reHackable/awesome-reMarkable)
 - [libremarkable](https://github.com/canselcik/libremarkable) - A Framework for Remarkable Tablet
