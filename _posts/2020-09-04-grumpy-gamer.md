@@ -9,4 +9,4 @@ tags: games quote json blog
 
 - [JSON](https://grumpygamer.com/json)
 - [Linx laptop](https://grumpygamer.com/my_linux_laptop)
-- [Delores Source Code Released!](https://grumpygamer.com/delores_dev)
+- [Delores Source Code Released!](https://grumpygamer.com/delores_dev) / [github](https://github.com/grumpygamer/DeloresDev)
