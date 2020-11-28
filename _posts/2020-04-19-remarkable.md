@@ -47,15 +47,8 @@ tags: epaper hardware
 - [fingerterm](https://github.com/dixonary/fingerterm-reMarkable) - touch terminal
 - [wikipedia](https://github.com/dps/remarkable-wikipedia) offline
 
-## Hardware Extension
-- [Pogo connector](https://www.reddit.com/r/RemarkableTablet/comments/j9g1d5/rm2_with_an_external_keyboard_accessory_port_usage/) - dot on left side is in fact a [host usb connector](https://imgur.com/gallery/TRuN0jc).
 
-## [Hardware (rM2)](https://remarkable.com/store/remarkable-2) - Total 459€ (vs 597€)
-Early price:
-- 1x Book Folio – Polymer weave – Gray: €20
-- 1x Marker Plus: €40
-- 1x reMarkable 2: €399
-
+## [Hardware (rM2)](https://remarkable.com/store/remarkable-2) 
 [Spec](https://remarkable.com/#Specifications)
 - 1.2 GHz dual core ARM
 - 1 GB LPDDR3 SDRAM
@@ -63,8 +56,12 @@ Early price:
 - 10.3” monochrome 1872 x 1404 resolution (226 DPI)
 - Wi-Fi 2.4GHz and 5GHz
 - USB-C
-- Accessory port
+- Accessory port - [Pogo connector](https://www.reddit.com/r/RemarkableTablet/comments/j9g1d5/rm2_with_an_external_keyboard_accessory_port_usage/) - dot on left side is in fact a [host usb connector](https://imgur.com/gallery/TRuN0jc).
 
+Early price: Total 459€ (vs 597€)
+- 1x Book Folio – Polymer weave – Gray: €20
+- 1x Marker Plus: €40
+- 1x reMarkable 2: €399
 
 - [remarkable-keywriter](https://github.com/dps/remarkable-keywriter)
 	- [with a bluetooth keyboard](https://www.reddit.com/r/RemarkableTablet/comments/e8p22h/remarkablekeywriter_with_a_bluetooth_keyboard/)
@@ -88,11 +85,10 @@ Early price:
 
 - [.lines format](https://plasma.ninja/blog/devices/remarkable/binary/format/2017/12/26/reMarkable-lines-file-format.html)
 
-## Dev
+## Dev / [Awesome reMarkable](https://awesomeopensource.com/project/reHackable/awesome-reMarkable)
 - [libremarkable](https://github.com/canselcik/libremarkable) - A Framework for Remarkable Tablet
 	- [using with Qt](https://github.com/canselcik/libremarkable/issues/12)
 - [Developing for the reMarkable tablet](https://dragly.org/2017/12/01/developing-for-the-remarkable/)
-- [Awesome reMarkable](https://awesomeopensource.com/project/reHackable/awesome-reMarkable)
 
 ## Alternative OS
 - [Parabola-rM](http://www.davisr.me/projects/parabola-rm/)
