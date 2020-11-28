@@ -58,7 +58,7 @@ tags: epaper hardware
 - USB-C
 - Accessory port - [Pogo connector](https://www.reddit.com/r/RemarkableTablet/comments/j9g1d5/rm2_with_an_external_keyboard_accessory_port_usage/) - dot on left side is in fact a [host usb connector](https://imgur.com/gallery/TRuN0jc).
 
-Early price: Total 459€ (vs 597€)
+### Early price: Total 459€ (vs 597€)
 - 1x Book Folio – Polymer weave – Gray: €20
 - 1x Marker Plus: €40
 - 1x reMarkable 2: €399
