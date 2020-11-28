@@ -99,6 +99,7 @@ If developing a custom template, the .png file is the image shown when drawing o
 
 - [reMarkable .lines File Format](https://plasma.ninja/blog/devices/remarkable/binary/format/2017/12/26/reMarkable-lines-file-format.html)
 	- [Lines Are Beautiful](https://github.com/ax3l/lines-are-beautiful)
+    - [remarkable-layers](https://github.com/bsdz/remarkable-layers/) - Python module for reading and writing Remarkable Lines files (*.rm).
 
 ## Dev / [Awesome reMarkable](https://awesomeopensource.com/project/reHackable/awesome-reMarkable)
 - [libremarkable](https://github.com/canselcik/libremarkable) - A Framework for Remarkable Tablet
