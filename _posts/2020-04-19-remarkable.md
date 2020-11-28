@@ -48,7 +48,7 @@ The templates in the list show up in the order they are listed on the json, so i
 - [5 Year journal template](https://www.reddit.com/r/RemarkableTablet/comments/k1ztqr/5_year_journal_template/)
 
 ### Online Generator
-- [Incompetech.com](https://incompetech.com/graphpaper/)
+- [Incompetech.com](https://incompetech.com/graphpaper/) - [Export Tips](https://www.reddit.com/r/RemarkableTablet/comments/jee5jg/customizable_template_resource/): When exporting click the 8.5x11 page icon. It will allow custom sizes. For reMarkable templates choose 19.5 width and 26 height. Change the color to gray for a less imposing template.
 - [Online Generator](https://templarian.github.io/remarkable/)
 
 ## [Applications](https://github.com/reHackable/awesome-reMarkable#applications)
