@@ -36,9 +36,12 @@ tags: epaper hardware
 - [evidlo/remarkable_entware](https://github.com/evidlo/remarkable_entware) - a lightweight package manager and software repo for embedded devices. [list of available packages](http://bin.entware.net/armv7sf-k3.2/)
 
 ## [Template customization](https://remarkablewiki.com/tips/templates)
+
 The templates in the list show up in the order they are listed on the json, so if you want to change the order they show up, just change the order they are listed in. - [Tired of trying to find custom templates? Just added a new category in the JSON file!](https://www.reddit.com/r/RemarkableTablet/comments/jr9jn3/tired_of_trying_to_find_custom_templates_just/)
 
 - [How do I change the template for an existing notebook? (all pages at once)](https://www.reddit.com/r/RemarkableTablet/comments/i5gg4b/notebook_template/)
+
+If developing a custom template, the .png file is the image shown when drawing on the remarkable device. The .svg vector file will be used when exporting the template to .pdf via the USB web interface (Enabled under Storage Settings). Both templates must be in the exact resolution of 1404×1872 pixels regardless of whether the template is intended for portrait or landscape mode.
 
 ### Ressources
 - [Black template](https://www.reddit.com/r/RemarkableTablet/comments/fvubu4/black_template_for_remarkable/)
