@@ -1,7 +1,7 @@
 ---
 published: true
 title: Grumpy Gamer (Ron Gilbert blog)
-tags: games quote json blog
+tags: games adventure quote json blog
 ---
 > The Muse visits during the act of creation, not before. Don't wait for her. Start alone. - Roger Ebert
 
