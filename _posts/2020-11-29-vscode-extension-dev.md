@@ -21,6 +21,7 @@ $ sudo npm install -g yo generator-code
 - [Text decorators](https://code.visualstudio.com/api/references/vscode-api#DecorationRenderOptions) / [SO](https://stackoverflow.com/a/44965967/51386) - To display an image using decorators, try contentIconPath on ThemableDecorationAttachmentRenderOptions - see also [WallabyJS](https://stackoverflow.com/questions/64085323/vscode-extension-api-for-adding-line-markings)
 - [Code inset feature](https://github.com/microsoft/vscode/pull/66418) - How to use it ?
 	- [createWebviewTextEditorInset](https://github.com/microsoft/vscode/issues/75931) / present in [insider version](https://github.com/microsoft/vscode/blob/627ad0b4ee553d233b80336ebb241f911e4bff07/src/vs/vscode.proposed.d.ts)
+    - would be nice to develop something like [Memeful Comments](https://github.com/mariusbancila/memefulcomments)
 
 - [Extending Workbench](https://code.visualstudio.com/api/extension-capabilities/extending-workbench)
 - [Custom Editor API](https://code.visualstudio.com/api/extension-guides/custom-editors)
