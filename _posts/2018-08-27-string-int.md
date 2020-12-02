@@ -2,7 +2,6 @@
 title: String Interpolation
 published: true
 tags: crystal ruby scala dlang string interpolation
-excerpt_separator: ''
 ---
 ### Crystal
 Work alike ruby with either [#{}](https://crystal-lang.org/reference/syntax_and_semantics/literals/string.html#Interpolation)
@@ -19,6 +18,11 @@ b = 2
 "sum: %{one} + %{two} = %{three}" % {one: 1, two: 2, three: 1 + 2} # => "sum: 1 + 2 = 3"
 {% endhighlight %}
 
+
+
+### D 
+- [discussion](https://forum.dlang.org/thread/ncwpezwlgeajdrigegee@forum.dlang.org)
+
 ### Ruby
 - [Within string literral](http://ruby-for-beginners.rubymonstas.org/bonus/string_interpolation.html)
 {% highlight ruby %}
@@ -34,7 +38,6 @@ mystring = "Hello, %{name}"  // content of file, using %{} tags
 mystring % vars              // => Hello, James, == string.format
 {% endhighlight %}
 
-
 ### Scala
 
 - [à la Ruby (scala 2.10)](https://docs.scala-lang.org/overviews/core/string-interpolation.html)
@@ -43,5 +46,9 @@ val name = "James"
 println(s"Hello, $name")  // Hello, James
 {% endhighlight %}
 
-### D 
-- [discussion](https://forum.dlang.org/thread/ncwpezwlgeajdrigegee@forum.dlang.org)
+### Javascript/Typescript
+[Template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+{% highlight typescript %}
+let value = 100;
+console.log(`The size is ${ value }`);
+{% endhighlight %}
