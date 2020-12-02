@@ -32,3 +32,4 @@ $ sudo npm install -g yo generator-code
 - [Custom Editor API](https://code.visualstudio.com/api/extension-guides/custom-editors)
 - [Notebook API](https://code.visualstudio.com/api/extension-guides/notebook)
 - [FS API](https://stackoverflow.com/questions/53559240/how-should-i-access-the-file-system-of-the-vscodes-user)
+	- [Extension ressource access](https://stackoverflow.com/questions/49962461/accessing-resources-in-vscode-previewhtml-with-file-scheme)
