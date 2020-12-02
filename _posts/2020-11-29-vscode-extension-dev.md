@@ -17,7 +17,7 @@ $ sudo npm install -g yo generator-code
 ### Everything goes well, but extension does not show.
 [**Resolved**](https://www.reddit.com/r/vscode/comments/a6ox7w/writing_a_hello_world_extension_doesnt_appear_to/): It turned out that yo code was generating an extension with minimum version number too high for my vscode to run. Unfortunately it didn't throw an error telling me this was the case.
 
-## [VS Code API](https://code.visualstudio.com/api/references/vscode-api)
+## [VS Code API](https://code.visualstudio.com/api/references/vscode-api) / [Extension samples](https://github.com/Microsoft/vscode-extension-samples)
 - [webview](https://code.visualstudio.com/api/extension-guides/webview)
 	- [external html and css](https://stackoverflow.com/questions/56182144/vscode-extension-webview-external-html-and-css)
     - [vscode-page](https://dev.to/foxgem/simplifying-vs-code-webview-development-with-vscode-page-13c3)
@@ -31,5 +31,3 @@ $ sudo npm install -g yo generator-code
 - [Extending Workbench](https://code.visualstudio.com/api/extension-capabilities/extending-workbench)
 - [Custom Editor API](https://code.visualstudio.com/api/extension-guides/custom-editors)
 - [Notebook API](https://code.visualstudio.com/api/extension-guides/notebook) 
-
-### [Extension samples](https://github.com/Microsoft/vscode-extension-samples)
