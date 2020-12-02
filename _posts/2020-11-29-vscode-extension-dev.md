@@ -19,6 +19,10 @@ $ sudo npm install -g yo generator-code
 
 ## [VS Code API](https://code.visualstudio.com/api/references/vscode-api)
 - [webview](https://code.visualstudio.com/api/extension-guides/webview)
+	- [external html and css](https://stackoverflow.com/questions/56182144/vscode-extension-webview-external-html-and-css)
+    - [vscode-page](https://dev.to/foxgem/simplifying-vs-code-webview-development-with-vscode-page-13c3)
+	- [What I've learned so far while bringing VS Code's Webviews to the web](https://blog.mattbierner.com/vscode-webview-web-learnings/)
+    
 - [Text decorators](https://code.visualstudio.com/api/references/vscode-api#DecorationRenderOptions) / [SO](https://stackoverflow.com/a/44965967/51386) - To display an image using decorators, try contentIconPath on ThemableDecorationAttachmentRenderOptions - see also [WallabyJS](https://stackoverflow.com/questions/64085323/vscode-extension-api-for-adding-line-markings)
 - [Code inset feature](https://github.com/microsoft/vscode/pull/66418) - How to use it ?
 	- [createWebviewTextEditorInset](https://github.com/microsoft/vscode/issues/75931) / present in [insider version](https://github.com/microsoft/vscode/blob/627ad0b4ee553d233b80336ebb241f911e4bff07/src/vs/vscode.proposed.d.ts)
