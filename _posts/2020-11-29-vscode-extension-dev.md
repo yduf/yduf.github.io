@@ -30,4 +30,5 @@ $ sudo npm install -g yo generator-code
 
 - [Extending Workbench](https://code.visualstudio.com/api/extension-capabilities/extending-workbench)
 - [Custom Editor API](https://code.visualstudio.com/api/extension-guides/custom-editors)
-- [Notebook API](https://code.visualstudio.com/api/extension-guides/notebook) 
+- [Notebook API](https://code.visualstudio.com/api/extension-guides/notebook)
+- [FS API](https://stackoverflow.com/questions/53559240/how-should-i-access-the-file-system-of-the-vscodes-user)
