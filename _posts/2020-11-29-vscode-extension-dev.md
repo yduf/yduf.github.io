@@ -18,6 +18,9 @@ $ sudo npm install -g yo generator-code
 [**Resolved**](https://www.reddit.com/r/vscode/comments/a6ox7w/writing_a_hello_world_extension_doesnt_appear_to/): It turned out that yo code was generating an extension with minimum version number too high for my vscode to run. Unfortunately it didn't throw an error telling me this was the case.
 
 ## [VS Code API](https://code.visualstudio.com/api/references/vscode-api) / [Extension samples](https://github.com/Microsoft/vscode-extension-samples)
+- [Extending Workbench](https://code.visualstudio.com/api/extension-capabilities/extending-workbench)
+	- [Tree View](https://code.visualstudio.com/api/extension-guides/tree-view#view-container)
+
 - [webview](https://code.visualstudio.com/api/extension-guides/webview)
 	- [external html and css](https://stackoverflow.com/questions/56182144/vscode-extension-webview-external-html-and-css)
     - [vscode-page](https://dev.to/foxgem/simplifying-vs-code-webview-development-with-vscode-page-13c3)
@@ -28,8 +31,14 @@ $ sudo npm install -g yo generator-code
 	- [createWebviewTextEditorInset](https://github.com/microsoft/vscode/issues/75931) / present in [insider version](https://github.com/microsoft/vscode/blob/627ad0b4ee553d233b80336ebb241f911e4bff07/src/vs/vscode.proposed.d.ts)
     - would be nice to develop something like [Memeful Comments](https://github.com/mariusbancila/memefulcomments)
 
-- [Extending Workbench](https://code.visualstudio.com/api/extension-capabilities/extending-workbench)
+
 - [Custom Editor API](https://code.visualstudio.com/api/extension-guides/custom-editors)
 - [Notebook API](https://code.visualstudio.com/api/extension-guides/notebook)
 - [FS API](https://stackoverflow.com/questions/53559240/how-should-i-access-the-file-system-of-the-vscodes-user)
 	- [Extension ressource access](https://stackoverflow.com/questions/49962461/accessing-resources-in-vscode-previewhtml-with-file-scheme)
+
+## [VSCode layout](https://stackoverflow.com/questions/41874426/moving-panel-in-visual-studio-code-to-right-side)
+
+![caption](https://i.stack.imgur.com/QPSw4.png)
+
+![caption](https://code.visualstudio.com/assets/api/extension-capabilities/extending-workbench/workbench-contribution.png)
