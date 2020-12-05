@@ -20,6 +20,7 @@ $ sudo npm install -g yo generator-code
 ## [VS Code API](https://code.visualstudio.com/api/references/vscode-api) / [Extension samples](https://github.com/Microsoft/vscode-extension-samples)
 - [Extending Workbench](https://code.visualstudio.com/api/extension-capabilities/extending-workbench)
 	- [Tree View](https://code.visualstudio.com/api/extension-guides/tree-view#view-container)
+    	- [TreeDataProvider example](https://stackoverflow.com/questions/56534723/simple-example-to-implement-vs-code-treedataprovider-with-json-data)
 
 - [webview](https://code.visualstudio.com/api/extension-guides/webview)
 	- [external html and css](https://stackoverflow.com/questions/56182144/vscode-extension-webview-external-html-and-css)
