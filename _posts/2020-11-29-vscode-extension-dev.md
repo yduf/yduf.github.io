@@ -21,6 +21,8 @@ $ sudo npm install -g yo generator-code
 - [Extending Workbench](https://code.visualstudio.com/api/extension-capabilities/extending-workbench)
 	- [Tree View](https://code.visualstudio.com/api/extension-guides/tree-view#view-container)
     	- [TreeDataProvider example](https://stackoverflow.com/questions/56534723/simple-example-to-implement-vs-code-treedataprovider-with-json-data)
+        - [How to refresh treeview on underlying data change](https://stackoverflow.com/questions/52421724/how-to-refresh-treeview-on-underlying-data-change)
+        - [Fund watch from scratch](https://developpaper.com/implementation-of-vs-code-fund-plug-in-from-scratch/)
 
 - [webview](https://code.visualstudio.com/api/extension-guides/webview)
 	- [external html and css](https://stackoverflow.com/questions/56182144/vscode-extension-webview-external-html-and-css)
