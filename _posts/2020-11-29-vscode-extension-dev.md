@@ -19,10 +19,11 @@ $ sudo npm install -g yo generator-code
 
 ## [VS Code API](https://code.visualstudio.com/api/references/vscode-api) / [Extension samples](https://github.com/Microsoft/vscode-extension-samples)
 - [Extending Workbench](https://code.visualstudio.com/api/extension-capabilities/extending-workbench)
-	- [Tree View](https://code.visualstudio.com/api/extension-guides/tree-view#view-container)
+	- [Tree View](https://code.visualstudio.com/api/extension-guides/tree-view#view-container) / [TreeItem](https://code.visualstudio.com/api/references/vscode-api#TreeItem)
     	- [TreeDataProvider example](https://stackoverflow.com/questions/56534723/simple-example-to-implement-vs-code-treedataprovider-with-json-data)
         - [How to refresh treeview on underlying data change](https://stackoverflow.com/questions/52421724/how-to-refresh-treeview-on-underlying-data-change)
         - [Fund watch from scratch](https://developpaper.com/implementation-of-vs-code-fund-plug-in-from-scratch/)
+        - [VSCode extension TreeView set selected](https://stackoverflow.com/questions/47775269/vscode-extension-treeview-set-selected)
 
 - [webview](https://code.visualstudio.com/api/extension-guides/webview)
 	- [external html and css](https://stackoverflow.com/questions/56182144/vscode-extension-webview-external-html-and-css)
