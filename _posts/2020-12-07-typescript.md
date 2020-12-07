@@ -17,6 +17,6 @@ When a variable is declared using `let`, it uses what some call lexical-scoping 
 
 ### [Array](https://www.typescriptlang.org/docs/handbook/basic-types.html#array) / [Tuple](https://www.typescriptlang.org/docs/handbook/basic-types.html#tuple)
 
-### Hash (== []())
+### Hash (== [Indexed Access Types](https://www.typescriptlang.org/docs/handbook/2/indexed-access-types.html))
 
 ### [Any](https://www.typescriptlang.org/docs/handbook/basic-types.html#any) / [Void](https://www.typescriptlang.org/docs/handbook/basic-types.html#void) / [Null / Undefined](https://www.typescriptlang.org/docs/handbook/basic-types.html#null-and-undefined) / [Unknown](https://www.typescriptlang.org/docs/handbook/basic-types.html#unknown)  / [Never](https://www.typescriptlang.org/docs/handbook/basic-types.html#never)
