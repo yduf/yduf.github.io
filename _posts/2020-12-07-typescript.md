@@ -14,3 +14,9 @@ tags: typescript lang
 When a variable is declared using `let`, it uses what some call lexical-scoping or block-scoping. Unlike variables declared with `var` whose scopes leak out to their containing function, block-scoped variables are not visible outside of their nearest containing block or for-loop.
 
 `const` declarations are like `let` declarations but, as their name implies, their value cannot be changed once they are bound. 
+
+### [Array](https://www.typescriptlang.org/docs/handbook/basic-types.html#array) / [Tuple](https://www.typescriptlang.org/docs/handbook/basic-types.html#tuple)
+
+### Hash (== []())
+
+### [Any](https://www.typescriptlang.org/docs/handbook/basic-types.html#any) / [Void](https://www.typescriptlang.org/docs/handbook/basic-types.html#void) / [Null / Undefined](https://www.typescriptlang.org/docs/handbook/basic-types.html#null-and-undefined) / [Unknown](https://www.typescriptlang.org/docs/handbook/basic-types.html#unknown)  / [Never](https://www.typescriptlang.org/docs/handbook/basic-types.html#never)
