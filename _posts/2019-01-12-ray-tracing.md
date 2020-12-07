@@ -11,7 +11,7 @@ good for extending to a more extensive ray tracer if you get excited and want to
 
 ## Ressources / [\[HN\]](https://news.ycombinator.com/item?id=18840859)
 
-- PDF [latest version (1.55) full pdf](https://drive.google.com/drive/folders/14yayBb9XiL16lmuhbYhhvea8mKUUK77W)
+- Ray Tracing in One Weekend [PDF latest version (1.55) full pdf](https://drive.google.com/drive/folders/14yayBb9XiL16lmuhbYhhvea8mKUUK77W)
 
 - [Real-Time Rendering Resources](http://www.realtimerendering.com/#books-small-table)
 - [Ray tracing with OpenGL Compute Shaders](https://github.com/LWJGL/lwjgl3-wiki/wiki/2.6.1.-Ray-tracing-with-OpenGL-Compute-Shaders-%28Part-I%29)
