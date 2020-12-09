@@ -9,6 +9,3 @@ tags: java enterprise software despair.com quote
 
 - [Translation From VC-Backed PR Jargon to English](https://daringfireball.net/2020/05/abovitz_magic_leap_translation) - [HN](https://news.ycombinator.com/item?id=23346620)
 
-- [O RLY Parody Book Generator](https://dev.to/rly)
-
-![caption](https://zurlocker.typepad.com/.a/6a00d83452e46469e201630096c33c970d-800wi)
