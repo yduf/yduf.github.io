@@ -1,9 +1,9 @@
 ---
 published: true
 title: Typescript
-tags: typescript lang
+tags: typescript lang online
 ---
-> TypeScript is an open-source language which builds on JavaScript, one of the world’s most used tools, by adding static type definitions. - [Home](https://www.typescriptlang.org/)
+> TypeScript is an open-source language which builds on JavaScript, one of the world’s most used tools, by adding static type definitions. - [Home](https://www.typescriptlang.org/) / [online](https://www.typescriptlang.org/play)
 
 ## [Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
 
