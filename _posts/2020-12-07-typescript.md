@@ -17,11 +17,13 @@ When a variable is declared using `let`, it uses what some call lexical-scoping 
 
 ### [Array](https://www.typescriptlang.org/docs/handbook/basic-types.html#array) / [Tuple](https://www.typescriptlang.org/docs/handbook/basic-types.html#tuple)
 
-### Map
+### Map or Hash (== [Indexed Access Types](https://www.typescriptlang.org/docs/handbook/2/indexed-access-types.html)) / [SO](https://stackoverflow.com/questions/42211175/typescript-hashmap-dictionary-interface)
 - [TypeScript Map](https://howtodoinjava.com/typescript/maps/)
 - [Map class in TypeScript??](https://www.reddit.com/r/typescript/comments/39taz3/map_class_in_typescript/)
 - [TypeScript hashmap/dictionary interface](https://stackoverflow.com/questions/42211175/typescript-hashmap-dictionary-interface)
 
-### Hash (== [Indexed Access Types](https://www.typescriptlang.org/docs/handbook/2/indexed-access-types.html))
+{% highlight typescript %}
+code
+{% endhighlight %}
 
 ### [Any](https://www.typescriptlang.org/docs/handbook/basic-types.html#any) / [Void](https://www.typescriptlang.org/docs/handbook/basic-types.html#void) / [Null / Undefined](https://www.typescriptlang.org/docs/handbook/basic-types.html#null-and-undefined) / [Unknown](https://www.typescriptlang.org/docs/handbook/basic-types.html#unknown)  / [Never](https://www.typescriptlang.org/docs/handbook/basic-types.html#never)
