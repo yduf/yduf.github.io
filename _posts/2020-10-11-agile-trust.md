@@ -1,7 +1,7 @@
 ---
 published: true
 title: 'Little tasks, little trust'
-tags: agile software despair.com
+tags: agile work software despair.com
 ---
 > No backlog grooming meetings or burn-down charts either. Your manager simply looked at how your products were coming along. A little trust, some accountability, and a healthy portion of “give me some space to do my work.”
 >
