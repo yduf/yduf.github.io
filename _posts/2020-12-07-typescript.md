@@ -10,6 +10,15 @@ tags: typescript lang online
 ### [Classes](https://www.typescriptlang.org/docs/handbook/classes.html)
 - inheritance: ̀`extends`
 - interface: `implements` 
+- [Parameter properties](https://www.typescriptlang.org/docs/handbook/classes.html#parameter-properties) - let you create and initialize a member in one place.
+{% highlight typescript %}
+class Octopus {
+  constructor(readonly name: string) {}
+}
+let dad = new Octopus("Man with the 8 strong legs");
+dad.name;
+{% endhighlight %}
+
 
 ### [Union Types](https://www.typescriptlang.org/docs/handbook/unions-and-intersections.html) / [Intersection Types](https://www.typescriptlang.org/docs/handbook/unions-and-intersections.html#intersection-types)
 
