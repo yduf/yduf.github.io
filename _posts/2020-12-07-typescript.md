@@ -11,6 +11,8 @@ tags: typescript lang online
 - inheritance: ̀`extends`
 - interface: `implements` 
 
+### [Union Types](https://www.typescriptlang.org/docs/handbook/unions-and-intersections.html)
+
 ### [var](https://www.typescriptlang.org/docs/handbook/variable-declarations.html#var-declarations) vs [let](https://www.typescriptlang.org/docs/handbook/variable-declarations.html#let-declarations) vs [const](https://www.typescriptlang.org/docs/handbook/variable-declarations.html#const-declarations)
 
 `var` declarations are accessible anywhere within their containing function, module, namespace, or global scope - all which we’ll go over later on - regardless of the containing block. Some people call this var-scoping or function-scoping. Parameters are also function scoped.
