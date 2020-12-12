@@ -99,6 +99,8 @@ If developing a custom template, the .png file is the image shown when drawing o
 - [Send E-Mails](https://www.youtube.com/watch?v=IKSXs9GObDo) - you can't receive email, but you can send.
 - [Share Your Screen Using Live View](https://www.youtube.com/watch?v=x2D3xXnTfGk) - using wifi + cloud + desktop app
 
+- [TeXing your handwritten RM notes (with Math formula)](https://www.reddit.com/r/RemarkableTablet/comments/kb87v5/texing_your_handwritten_rm_notes_text/)
+
 ## [Filesystem / Document format](https://remarkablewiki.com/tech/filesystem)
 > You will also notice that there are no human readable filenames and that each “document” has a number of associated files with it, depending on the document type. Human readable information is stored within the .metadata files (described further below). 
 
@@ -134,7 +136,7 @@ If developing a custom template, the .png file is the image shown when drawing o
 - [ddvk/remarkable2-recovery](https://github.com/ddvk/remarkable2-recovery) - reMarkable 2 Recovery / Unbricking. Tools for recovery (works only under Linux).
 
 ## Alternatives
-- [Onyx Boox Max Air](https://www.youtube.com/watch?v=EdQ5sXTJRMI)
+- [Onyx Boox Max Air (closest)](https://www.youtube.com/watch?v=EdQ5sXTJRMI) / [r/Onyx_Boox](https://www.reddit.com/r/Onyx_Boox/)
 - [Onyx Boox Max Lumi](https://www.youtube.com/watch?v=0SIRcxobTnA) / [Home](https://www.boox.com/maxlumi/)
 	- [in depth review](https://www.youtube.com/watch?v=B8X7JPdgsh0)
 - [Onyx Boox Poke 2 **Color**](https://www.youtube.com/watch?v=aYjsjHHzhD0) / [Home](https://www.boox.com/poke2/)
