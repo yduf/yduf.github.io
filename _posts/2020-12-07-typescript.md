@@ -20,7 +20,10 @@ dad.name;
 {% endhighlight %}
 
 
-### [Union Types](https://www.typescriptlang.org/docs/handbook/unions-and-intersections.html) / [Intersection Types](https://www.typescriptlang.org/docs/handbook/unions-and-intersections.html#intersection-types) / [type-casting](https://www.typescripttutorial.net/typescript-tutorial/type-casting/)
+### [Union Types](https://www.typescriptlang.org/docs/handbook/unions-and-intersections.html) / [Intersection Types](https://www.typescriptlang.org/docs/handbook/unions-and-intersections.html#intersection-types) 
+
+### [type-casting](https://www.typescripttutorial.net/typescript-tutorial/type-casting/)
+- [narrowing type](https://2ality.com/2020/06/type-guards-assertion-functions-typescript.html)
 
 ### [var](https://www.typescriptlang.org/docs/handbook/variable-declarations.html#var-declarations) vs [let](https://www.typescriptlang.org/docs/handbook/variable-declarations.html#let-declarations) vs [const](https://www.typescriptlang.org/docs/handbook/variable-declarations.html#const-declarations)
 
