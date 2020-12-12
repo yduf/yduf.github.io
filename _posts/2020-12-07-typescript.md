@@ -11,7 +11,7 @@ tags: typescript lang online
 - inheritance: ̀`extends`
 - interface: `implements` 
 
-### [Union Types](https://www.typescriptlang.org/docs/handbook/unions-and-intersections.html)
+### [Union Types](https://www.typescriptlang.org/docs/handbook/unions-and-intersections.html) / [Intersection Types](https://www.typescriptlang.org/docs/handbook/unions-and-intersections.html#intersection-types)
 
 ### [var](https://www.typescriptlang.org/docs/handbook/variable-declarations.html#var-declarations) vs [let](https://www.typescriptlang.org/docs/handbook/variable-declarations.html#let-declarations) vs [const](https://www.typescriptlang.org/docs/handbook/variable-declarations.html#const-declarations)
 
