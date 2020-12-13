@@ -130,7 +130,7 @@ The stylus communicates wirelessly. The pressure sensitivity is in the stylus it
 ### Compatible pen
 - [Galaxy Note 9 phone](https://www.reddit.com/r/RemarkableTablet/comments/kc1a3p/fyi_alternate_shortterm_pen/)
 
-### [Software release](https://support.remarkable.com/hc/en-us/articles/360016279077-Software-release-2-5)
+### [Software release](https://support.remarkable.com/hc/en-us/sections/115001534689-Software-releases)
 
 ### Early price: Total 459€ (vs 597€)
 - 1x Book Folio – Polymer weave – Gray: €20
