@@ -25,7 +25,8 @@ tags: epaper hardware
     - [export pdf with layer](https://www.reddit.com/r/RemarkableTablet/comments/jpqsus/export_picture_with_layers/)
 - [quality export Drawing](https://www.reddit.com/r/RemarkableTablet/comments/jpuhdo/is_there_no_way_to_export_full_quality_drawings/gbh0ap2/) / [vecteezy](https://www.reddit.com/r/RemarkableTablet/comments/jpy6d5/after_noticing_how_harsh_the_pdf_exports_of_my/)
 
-
+- [ePUB to PDF conversion on Calibre](https://www.reddit.com/r/RemarkableTablet/comments/kbqxdt/my_setup_for_epub_to_pdf_conversion_on_calibre/)
+- [A4 portrait to A5 landscape script](https://www.reddit.com/r/RemarkableTablet/comments/kayu50/a4_portrait_to_a5_landscape_script_linux/)
 
 ![caption](https://preview.redd.it/sp0e1a4gaex51.jpg?width=640&crop=smart&auto=webp&s=de4e46cff9a739175965e561c5f561720660413c)
 
@@ -91,9 +92,6 @@ If developing a custom template, the .png file is the image shown when drawing o
 	- [using with Qt](https://github.com/canselcik/libremarkable/issues/12)
 - [Developing for the reMarkable tablet](https://dragly.org/2017/12/01/developing-for-the-remarkable/)
 
-## Alternative OS
-- [Parabola-rM](http://www.davisr.me/projects/parabola-rm/)
-
 ## Review 
 - [Remarkable 2: Unboxing And First Impressions](https://www.youtube.com/watch?v=ihlhuDsc5-g)
 	- [small storage (6.4Gb)](https://youtu.be/wpwbVwfWIKE?t=1439) / No bluetooth
@@ -110,9 +108,8 @@ If developing a custom template, the .png file is the image shown when drawing o
 - [reMarkable2 Teardown](https://fccid.io/2AMK2-RM110/Internal-Photos/Internal-photos-4523960)
 - [reMarkable](https://duckpond.ch/nix/bash/2020/01/08/reMarkable.html)
 
-## Tools
-- [ddvk/remarkable2-recovery](https://github.com/ddvk/remarkable2-recovery) - reMarkable 2 Recovery / Unbricking. Tools for recovery (works only under Linux).
-
+## Alternative OS
+- [Parabola-rM](http://www.davisr.me/projects/parabola-rm/)
 
 ## [Hardware (rM2)](https://remarkable.com/store/remarkable-2) 
 [Spec](https://remarkable.com/#Specifications)
@@ -147,6 +144,10 @@ The stylus communicates wirelessly. The pressure sensitivity is in the stylus it
 
 - [reMarkable 2 sources are published](https://www.reddit.com/r/RemarkableTablet/comments/jp9gq9/remarkable_2_sources_are_published/)
 	- [rM2 3rd party apps progress](https://www.reddit.com/r/RemarkableTablet/comments/jp2h4s/rm2_3rd_party_apps_progress/)
+
+### Tools
+- [ddvk/remarkable2-recovery](https://github.com/ddvk/remarkable2-recovery) - reMarkable 2 Recovery / Unbricking. Tools for recovery (works only under Linux).
+
 
 ## Alternatives
 - [Onyx Boox Max Air (closest)](https://www.youtube.com/watch?v=EdQ5sXTJRMI) / [r/Onyx_Boox](https://www.reddit.com/r/Onyx_Boox/)
