@@ -1,7 +1,7 @@
 ---
 published: true
 title: You should write code like I write it
-tags: software despair.com quote fun
+tags: software despair.com quote fun opinions
 ---
 ## [$stdout - Opinions](https://www.youtube.com/watch?v=yqTpG5obPV8)
 > I like Ruby, I like Go
