@@ -4,8 +4,8 @@ title: You should write code like I write it
 tags: software despair.com quote fun opinions
 ---
 ## [$stdout - Opinions](https://www.youtube.com/watch?v=yqTpG5obPV8)
-> I like Ruby, I like Go
-> But strong typing for the win
+>> I like Ruby, I like Go
+>> But strong typing for the win
 > Atom over VScode
 > And VScode over Vim
 > I like spaces over tabs
