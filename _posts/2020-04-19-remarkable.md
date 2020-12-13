@@ -66,34 +66,6 @@ If developing a custom template, the .png file is the image shown when drawing o
 - [fingerterm](https://github.com/dixonary/fingerterm-reMarkable) - touch terminal
 - [wikipedia](https://github.com/dps/remarkable-wikipedia) offline
 
-
-## [Hardware (rM2)](https://remarkable.com/store/remarkable-2) 
-[Spec](https://remarkable.com/#Specifications)
-- 1.2 GHz dual core ARM
-- 1 GB LPDDR3 SDRAM
-- 8 GB internal storage
-- 10.3” monochrome 1872 x 1404 resolution (226 DPI)
-- Wi-Fi 2.4GHz and 5GHz
-- USB-C
-- Accessory port - [Pogo connector](https://www.reddit.com/r/RemarkableTablet/comments/j9g1d5/rm2_with_an_external_keyboard_accessory_port_usage/) - dot on left side is in fact a [host usb connector](https://imgur.com/gallery/TRuN0jc).
-
-### Pen
-The stylus communicates wirelessly. The pressure sensitivity is in the stylus itself. The screen ALSO has touch sensitivity for buttons etc, but it's separate tech. see [Wacom EMR](https://www.wacom.com/en-us/for-business/technologies/emr).
-
-### Compatible pen
-- [Galaxy Note 9 phone](https://www.reddit.com/r/RemarkableTablet/comments/kc1a3p/fyi_alternate_shortterm_pen/)
-
-### Early price: Total 459€ (vs 597€)
-- 1x Book Folio – Polymer weave – Gray: €20
-- 1x Marker Plus: €40
-- 1x reMarkable 2: €399
-
-- [remarkable-keywriter](https://github.com/dps/remarkable-keywriter)
-	- [with a bluetooth keyboard](https://www.reddit.com/r/RemarkableTablet/comments/e8p22h/remarkablekeywriter_with_a_bluetooth_keyboard/)
-
-- [reMarkable 2 sources are published](https://www.reddit.com/r/RemarkableTablet/comments/jp9gq9/remarkable_2_sources_are_published/)
-	- [rM2 3rd party apps progress](https://www.reddit.com/r/RemarkableTablet/comments/jp2h4s/rm2_3rd_party_apps_progress/)
-
 ## How to
 - [How to move a page from one notebook to another](https://support.remarkable.com/hc/en-us/articles/360002672298-Move-files-and-pages)
 	1. Tap the Page overview button, under notebook options.
@@ -140,6 +112,36 @@ The stylus communicates wirelessly. The pressure sensitivity is in the stylus it
 
 ## Tools
 - [ddvk/remarkable2-recovery](https://github.com/ddvk/remarkable2-recovery) - reMarkable 2 Recovery / Unbricking. Tools for recovery (works only under Linux).
+
+
+## [Hardware (rM2)](https://remarkable.com/store/remarkable-2) 
+[Spec](https://remarkable.com/#Specifications)
+- 1.2 GHz dual core ARM
+- 1 GB LPDDR3 SDRAM
+- 8 GB internal storage
+- 10.3” monochrome 1872 x 1404 resolution (226 DPI)
+- Wi-Fi 2.4GHz and 5GHz
+- USB-C
+- Accessory port - [Pogo connector](https://www.reddit.com/r/RemarkableTablet/comments/j9g1d5/rm2_with_an_external_keyboard_accessory_port_usage/) - dot on left side is in fact a [host usb connector](https://imgur.com/gallery/TRuN0jc).
+
+### Pen
+The stylus communicates wirelessly. The pressure sensitivity is in the stylus itself. The screen ALSO has touch sensitivity for buttons etc, but it's separate tech. see [Wacom EMR](https://www.wacom.com/en-us/for-business/technologies/emr).
+
+### Compatible pen
+- [Galaxy Note 9 phone](https://www.reddit.com/r/RemarkableTablet/comments/kc1a3p/fyi_alternate_shortterm_pen/)
+
+### [Software release](https://support.remarkable.com/hc/en-us/articles/360016279077-Software-release-2-5)
+
+### Early price: Total 459€ (vs 597€)
+- 1x Book Folio – Polymer weave – Gray: €20
+- 1x Marker Plus: €40
+- 1x reMarkable 2: €399
+
+- [remarkable-keywriter](https://github.com/dps/remarkable-keywriter)
+	- [with a bluetooth keyboard](https://www.reddit.com/r/RemarkableTablet/comments/e8p22h/remarkablekeywriter_with_a_bluetooth_keyboard/)
+
+- [reMarkable 2 sources are published](https://www.reddit.com/r/RemarkableTablet/comments/jp9gq9/remarkable_2_sources_are_published/)
+	- [rM2 3rd party apps progress](https://www.reddit.com/r/RemarkableTablet/comments/jp2h4s/rm2_3rd_party_apps_progress/)
 
 ## Alternatives
 - [Onyx Boox Max Air (closest)](https://www.youtube.com/watch?v=EdQ5sXTJRMI) / [r/Onyx_Boox](https://www.reddit.com/r/Onyx_Boox/)
