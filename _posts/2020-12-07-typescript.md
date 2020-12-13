@@ -8,7 +8,7 @@ tags: typescript lang online
 ## [Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
 
 ### [Classes](https://www.typescriptlang.org/docs/handbook/classes.html)
-- inheritance: ̀`extends`
+- inheritance: `extends`
 - interface: `implements` 
 - [Parameter properties](https://www.typescriptlang.org/docs/handbook/classes.html#parameter-properties) - let you create and initialize a member in one place. (`public`, `protected`, `private`, `readonly`)
 {% highlight typescript %}
