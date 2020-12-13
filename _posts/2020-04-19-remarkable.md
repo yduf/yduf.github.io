@@ -7,7 +7,7 @@ tags: epaper hardware
 
 ## Tips
 - [Wifi icon](https://www.reddit.com/r/RemarkableTablet/comments/jxopfn/wifi_icon/) - Pressing the lower left corner opens the Settings. It's useful to quickly toggle Airplane mode, so you can turn on wifi only when you actually need to sync your documents.
-- [Writing through paper](https://www.reddit.com/r/RemarkableTablet/comments/jxc3a5/this_blew_my_mind_today_someone_please_explain/) - The stylus communicates wirelessly. The pressure sensitivity is in the stylus itself. The screen ALSO has touch sensitivity for buttons etc, but it's separate tech. see [Wacom EMR](https://www.wacom.com/en-us/for-business/technologies/emr).
+- [Writing through paper](https://www.reddit.com/r/RemarkableTablet/comments/jxc3a5/this_blew_my_mind_today_someone_please_explain/) 
 - [Funkey's Jagged Lines Fix](https://github.com/funkey/recept/) / [My Deep Guide](https://www.youtube.com/watch?v=P770-5E-IFs&feature=emb_logo)
 
 ## Integration
@@ -76,6 +76,12 @@ If developing a custom template, the .png file is the image shown when drawing o
 - Wi-Fi 2.4GHz and 5GHz
 - USB-C
 - Accessory port - [Pogo connector](https://www.reddit.com/r/RemarkableTablet/comments/j9g1d5/rm2_with_an_external_keyboard_accessory_port_usage/) - dot on left side is in fact a [host usb connector](https://imgur.com/gallery/TRuN0jc).
+
+### Pen
+The stylus communicates wirelessly. The pressure sensitivity is in the stylus itself. The screen ALSO has touch sensitivity for buttons etc, but it's separate tech. see [Wacom EMR](https://www.wacom.com/en-us/for-business/technologies/emr).
+
+### Compatible pen
+- [Galaxy Note 9 phone](https://www.reddit.com/r/RemarkableTablet/comments/kc1a3p/fyi_alternate_shortterm_pen/)
 
 ### Early price: Total 459€ (vs 597€)
 - 1x Book Folio – Polymer weave – Gray: €20
