@@ -131,6 +131,9 @@ The stylus communicates wirelessly. The pressure sensitivity is in the stylus it
 - [Galaxy Note 9 phone](https://www.reddit.com/r/RemarkableTablet/comments/kc1a3p/fyi_alternate_shortterm_pen/)
 
 ### [Software release](https://support.remarkable.com/hc/en-us/sections/115001534689-Software-releases)
+- 2.5.0.27 Changes to xochitl
+	- suspended.png graphic is loaded at power-up and is not re-loaded until the next powerup.
+    - Lamy pen has become inconsistent.
 
 ### Early price: Total 459€ (vs 597€)
 - 1x Book Folio – Polymer weave – Gray: €20
