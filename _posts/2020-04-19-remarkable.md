@@ -16,6 +16,11 @@ tags: epaper hardware
 - Linux access through Nemo/ssh
 	- [nick8325/remarkable-fs](https://github.com/nick8325/remarkable-fs) - A FUSE filesystem driver for reMarkable => **not working**
 - [Rocketbook](https://www.reddit.com/r/RemarkableTablet/comments/k0tl0m/remarkablerocket_lol_i_mean_now_i_have/) - using a [Rocketbook template](https://getrocketbook.co.uk/pages/rocketbook-for-free) => Google/Dropbox Integration
+
+- [Remarkable Uploader Android App](https://play.google.com/store/apps/details?id=org.remadroid) / [r/RemarkableTablet](https://www.reddit.com/r/RemarkableTablet/comments/kcfht6/remarkable_uploader_android_app/)
+
+### Untested
+
 - [bordaigorl/remy](https://github.com/bordaigorl/remy) - a reMarkable tablet manager app
 	- can use [Mathpix OCR](https://mathpix.com/ocr) API
 - [remarkable_mouse](https://github.com/Evidlo/remarkable_mouse)
