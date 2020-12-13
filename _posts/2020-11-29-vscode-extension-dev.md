@@ -32,6 +32,7 @@ $ sudo npm install -g yo generator-code
     - [vscode-page](https://dev.to/foxgem/simplifying-vs-code-webview-development-with-vscode-page-13c3)
 	- [What I've learned so far while bringing VS Code's Webviews to the web](https://blog.mattbierner.com/vscode-webview-web-learnings/)
     - [extending a VS Code extension with Webviews and React](https://ciaanh.github.io/2019/10/reactception/) / [github](https://github.com/Ciaanh/reactception)
+    	- [VSCode Webview React](https://github.com/leer0911/vscode-webview-react)
 
 - [Custom Editor](https://code.visualstudio.com/api/extension-guides/custom-editors)
 
