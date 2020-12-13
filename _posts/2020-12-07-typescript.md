@@ -10,7 +10,7 @@ tags: typescript lang online
 ### [Classes](https://www.typescriptlang.org/docs/handbook/classes.html)
 - inheritance: ̀`extends`
 - interface: `implements` 
-- [Parameter properties](https://www.typescriptlang.org/docs/handbook/classes.html#parameter-properties) - let you create and initialize a member in one place.
+- [Parameter properties](https://www.typescriptlang.org/docs/handbook/classes.html#parameter-properties) - let you create and initialize a member in one place. (`public`, `protected`, `private`, `readonly`)
 {% highlight typescript %}
 class Octopus {
   constructor(readonly name: string) {}
