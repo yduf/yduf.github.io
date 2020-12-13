@@ -134,6 +134,8 @@ The stylus communicates wirelessly. The pressure sensitivity is in the stylus it
 - 2.5.0.27 Changes to xochitl
 	- suspended.png graphic is loaded at power-up and is not re-loaded until the next powerup.
     - Lamy pen has become inconsistent.
+    
+### [Security/Confidentiality](https://www.reddit.com/r/RemarkableTablet/comments/kc1b8p/security_question_response/)
 
 ### Early price: Total 459€ (vs 597€)
 - 1x Book Folio – Polymer weave – Gray: €20
