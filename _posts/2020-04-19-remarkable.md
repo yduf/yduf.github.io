@@ -116,8 +116,8 @@ If developing a custom template, the .png file is the image shown when drawing o
 ## Alternative OS
 - [Parabola-rM](http://www.davisr.me/projects/parabola-rm/)
 
-## [Hardware (rM2)](https://remarkable.com/store/remarkable-2) 
-[Spec](https://remarkable.com/#Specifications)
+## [Hardware (rM2)](https://remarkable.com/store/remarkable-2) / [Photo](https://www.reddit.com/r/RemarkableTablet/comments/kcqzdy/broke_my_remarkable_2_it_was_knocked_off_the/)
+[Spec](https://remarkable.com/#Specifications) 
 - 1.2 GHz dual core ARM
 - 1 GB LPDDR3 SDRAM
 - 8 GB internal storage
