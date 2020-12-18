@@ -3,7 +3,7 @@ published: true
 title: Hardware info
 tags: linux system hardware audio usb
 ---
-> Using [inxi] to retrieve hardware info - [How To Fix No Sound](https://itsfoss.com/fix-sound-ubuntu-1304-quick-tip/)
+> Using [inxi] to retrieve hardware info - [](https://www.maketecheasier.com/check-hardware-information-linux/)
 
 ## Motherboard
 {% highlight bash %}
