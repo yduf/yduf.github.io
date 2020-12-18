@@ -3,7 +3,7 @@ published: true
 title: Hardware info
 tags: linux system hardware audio usb
 ---
-> Using [inxi] to retrieve hardware info - [](https://www.maketecheasier.com/check-hardware-information-linux/)
+> Using [inxi] to retrieve hardware info - [maketecheasier](https://www.maketecheasier.com/check-hardware-information-linux/)
 
 ## Motherboard
 {% highlight bash %}
