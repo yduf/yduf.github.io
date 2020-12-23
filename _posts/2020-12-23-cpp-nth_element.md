@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 - The element pointed at by nth is changed to whatever element would occur in that position if [first, last) were sorted. 
 - All of the elements before this new nth element are less than or equal to the elements after the new nth element. 
 
-On average, the implementations of C++ are based on introspective selection which has O(N) worst running time. 
+On average, the implementations of C++ are based on [introspective selection](https://en.wikipedia.org/wiki/Selection_algorithm) which has O(N) worst running time. 
 <!--more-->
 
 ## [Median](https://helloacm.com/c-coding-reference-partial-sorting-with-nth_element-from-algorithm-header/)
