@@ -6,7 +6,8 @@ tags: codingame
 - [A Post-Mortem by pb4 (1st)](https://github.com/pb4git/Fall-Challenge-2020)
 	- [strategy Guide](https://spicee.mattle.online/lobby/forum/topic/d52WjBx3WX3R27rzy/a-player-s-guide-to-spicee)
     - [spell analysis](https://forum.codingame.com/t/fall-challenge-2020-feedbacks-strategies/187846/104?u=yduf)
-- [Agade Fall 2020 Challenge Postmortem (2nd)](https://github.com/Agade09/Agade-Fall2020-Challenge-Postmortem)
+- [Agade Fall 2020 Challenge Postmortem (2nd)](https://github.com/Agade09/Agade-Fall2020-Challenge-Postmortem) - BFS pseudo code
+
 - [Fall Challenge 2020 - Feedbacks & Strategies](https://www.codingame.com/forum/t/fall-challenge-2020-feedbacks-strategies/187846) - Beam search pseudo code
     - [reCurse (3thd)](https://forum.codingame.com/t/fall-challenge-2020-feedbacks-strategies/187846/81?u=yduf)
     - [Magus](https://forum.codingame.com/t/fall-challenge-2020-feedbacks-strategies/187846/2?u=yduf) / [QA](https://forum.codingame.com/t/fall-challenge-2020-feedbacks-strategies/187846/10?u=yduf)
