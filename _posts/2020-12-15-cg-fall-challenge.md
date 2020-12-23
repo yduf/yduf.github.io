@@ -4,6 +4,9 @@ title: Fall Challenge 2020 (CG)
 tags: codingame
 excerpt_separator: ''
 ---
+
+![caption](https://static.codingame.com/servlet/fileservlet?id=54137529209898&format=puzzle_cover)
+
 - [A Post-Mortem by pb4 (1st)](https://github.com/pb4git/Fall-Challenge-2020)
 	- [strategy Guide](https://spicee.mattle.online/lobby/forum/topic/d52WjBx3WX3R27rzy/a-player-s-guide-to-spicee)
     - [spell analysis](https://forum.codingame.com/t/fall-challenge-2020-feedbacks-strategies/187846/104?u=yduf)
