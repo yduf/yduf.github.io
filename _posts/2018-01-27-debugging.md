@@ -9,6 +9,7 @@ Create an empty project in target folder, point it to existing binary and add so
 ### [Debugger advanced features](http://www.codeblocks.org/features):
 - set next statement
 - data breakpoint / conditions / counts
+- Breakpoints could not work if the path/folder you've placed your project contains spaces - [Path with spaces](http://wiki.codeblocks.org/index.php/Debugging_with_Code::Blocks#Path_with_spaces)
 
 ### Install
 {% highlight bash %}
