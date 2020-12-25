@@ -3,8 +3,6 @@ title: Linux Debugger
 published: true
 tags: debug linux c++
 ---
-
-# C++
 ## [CodeBlocks](http://www.codeblocks.org/) - [Require a project](https://stackoverflow.com/a/30779749/51386)
 Create an empty project in target folder, point it to existing binary and add sources using recursive options.
 
