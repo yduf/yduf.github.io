@@ -8,9 +8,9 @@ tags: debug linux c++
 ## [CodeBlocks](http://www.codeblocks.org/) - [Require a project](https://stackoverflow.com/a/30779749/51386)
 Create an empty project in target folder, point it to existing binary and add sources using recursive options.
 
-Debugger advanced features:
+### [Debugger advanced features](http://www.codeblocks.org/features):
 - set next statement
-- data breakpoint
+- data breakpoint / conditions / counts
 
 ### Install
 {% highlight bash %}
