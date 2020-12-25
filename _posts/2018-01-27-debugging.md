@@ -1,11 +1,24 @@
 ---
-title: Debugging
+title: Linux Debugger
 published: true
 tags: debug linux c++
 ---
 
 # C++
-[KDevelop]() full IDE + debug can work with makefile project.
+## [CodeBlocks](http://www.codeblocks.org/) - [Require a project](https://stackoverflow.com/a/30779749/51386)
+Create an empty project in target folder, point it to existing binary and add sources using recursive options.
+
+Debugger advanced features:
+- set next statement
+- data breakpoint
+
+### Install
+{% highlight bash %}
+$ sudo apt-get install codeblocks
+{% endhighlight %}
+
+## [KDevelop](https://www.kdevelop.org/) - Require a project 
+Full IDE + debug can work with makefile project.
 
 from menu Project / New from template
 then Category=Standard / Project type = terminal => C++ with Make
@@ -20,10 +33,11 @@ modify make to launch build
 - Debug Launch
 	add new Executable => give path to executable
 
+### Install
+- [appImage](https://www.kdevelop.org/download)
 
+## GNAT
 
+## [Nemiver](https://wiki.gnome.org/Apps/Nemiver/Features)
 
-
-[Nemiver](https://wiki.gnome.org/Apps/Nemiver/Features)
-
-[kdbg](https://github.com/j6t/kdbg)
+## [kdbg](https://github.com/j6t/kdbg)
