@@ -35,9 +35,12 @@ tags: epaper hardware
 
 ![caption](https://preview.redd.it/sp0e1a4gaex51.jpg?width=640&crop=smart&auto=webp&s=de4e46cff9a739175965e561c5f561720660413c)
 
+## <span style="color:red">**Factory Reset**</span>
+> If you start messing with the device and something doesnt work out, DONT do a FACTORY RESET - [(1)](https://www.reddit.com/r/RemarkableTablet/comments/kmae1e/if_you_start_messing_with_the_device_and/) / [Bricked](https://www.reddit.com/r/RemarkableTablet/comments/km1mgy/bricked_i_have_my_root_password_but_cant_log_in/)
+
 ## Customization
 - [ddvk/remarkable-hacks](https://github.com/ddvk/remarkable-hacks) - various UI/Gesture enhancement.
-- [Neurone/reMarkable](https://github.com/Neurone/reMarkable) - Automatically change your poweroff and suspend screens every 5 minutes / [Customizing the Splashscreens](https://remarkablewiki.com/tips/splashscreens) - doesn't work since 2.5.0.27 upgrade
+- [Neurone/reMarkable](https://github.com/Neurone/reMarkable) - Automatically change your poweroff and suspend screens every 5 minutes / [Customizing the Splashscreens](https://remarkablewiki.com/tips/splashscreens) - doesn't work since 2.5.0.27 upgrade [only on rm1](https://github.com/ddvk/remarkable-hacks/issues/157)
 	- could be enhanced to use [suspend event](https://askubuntu.com/questions/226278/run-script-on-wakeup) rather than timer.
 
 - [evidlo/remarkable_entware](https://github.com/evidlo/remarkable_entware) - a lightweight package manager and software repo for embedded devices. [list of available packages](http://bin.entware.net/armv7sf-k3.2/)
