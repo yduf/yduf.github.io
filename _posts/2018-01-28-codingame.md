@@ -36,6 +36,9 @@ tags: codingame AI puzzle
 ## Chrome Extension
 - [sync](https://www.codingame.com/forum/t/codingame-sync-beta/614/58)
 
+## Merger Tools
+- [Merge C++ files into a single source file](https://stackoverflow.com/questions/5995773/merge-c-files-into-a-single-source-file/46373134#46373134)
+
 ## Technical details
 - [Magus](https://forum.codingame.com/t/public-api-for-statistics-or-other-useful-things/1247/6)
 - [API](https://www.codingame.com/forum/t/api-the-place-to-ask-for-improvements-in-cg-api/2514)
