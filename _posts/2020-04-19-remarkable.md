@@ -36,9 +36,9 @@ tags: epaper hardware
 ![caption](https://preview.redd.it/sp0e1a4gaex51.jpg?width=640&crop=smart&auto=webp&s=de4e46cff9a739175965e561c5f561720660413c)
 
 ## Customization
-- [Neurone/reMarkable](https://github.com/Neurone/reMarkable) - Automatically change your poweroff and suspend screens every 5 minutes / [Customizing the Splashscreens](https://remarkablewiki.com/tips/splashscreens)
-	- could be enhanced to use [suspend event](https://askubuntu.com/questions/226278/run-script-on-wakeup) rather than timer.
 - [ddvk/remarkable-hacks](https://github.com/ddvk/remarkable-hacks) - various UI/Gesture enhancement.
+- [Neurone/reMarkable](https://github.com/Neurone/reMarkable) - Automatically change your poweroff and suspend screens every 5 minutes / [Customizing the Splashscreens](https://remarkablewiki.com/tips/splashscreens) - doesn't work since 2.5.0.27 upgrade
+	- could be enhanced to use [suspend event](https://askubuntu.com/questions/226278/run-script-on-wakeup) rather than timer.
 
 - [evidlo/remarkable_entware](https://github.com/evidlo/remarkable_entware) - a lightweight package manager and software repo for embedded devices. [list of available packages](http://bin.entware.net/armv7sf-k3.2/)
 
