@@ -5,7 +5,10 @@ tags: 3dprint pla
 ---
 PLA tested so far -- 1.75mm
 
-## ICE
+## [3DFil](https://www.3dfil.fr/commande)
+TBD
+
+## [ICE](https://distrinova.net/brand/ice-filaments/)
 - [white (0.75kg)](https://www.amazon.fr/gp/product/B017HAIMZU/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) - easy to print - thick - 205°
 - [Groovy Gold(0.75kg)](https://www.amazon.fr/gp/product/B017HAI4VM/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1) - easy to print, nice bronze/brass finish - 205°
 
@@ -17,6 +20,6 @@ PLA tested so far -- 1.75mm
 - [violet (1kg)](https://www.amazon.fr/gp/product/B07D68S7C3/ref=ppx_yo_dt_b_asin_image_o05_s01?ie=UTF8&psc=1) - print at 220°, otherwise result is brittle, with loose adherence
 
 
-## dagoma chromatic
+## dagoma chromatic / delivery service bad
 - [red (rouge pompier) (250g)](https://www.amazon.fr/gp/product/B074PDDPJ7/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)
 - [black (noir brillant) (250g](https://www.amazon.fr/gp/product/B074PD8GYY/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)
