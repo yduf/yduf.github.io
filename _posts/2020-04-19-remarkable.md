@@ -13,13 +13,13 @@ tags: epaper hardware
 ## Integration
 - [SSH Access](https://remarkablewiki.com/tech/ssh) - [yduf/ssh]({% post_url 2019-04-29-ssh %})
 - [Evidlo/remarkable_printer](https://github.com/Evidlo/remarkable_printer) - Print natively to your reMarkable with no extensions or reMarkable cloud.
-- Linux access through Nemo/ssh
-	- [nick8325/remarkable-fs](https://github.com/nick8325/remarkable-fs) - A FUSE filesystem driver for reMarkable => **not working**
 - [Rocketbook](https://www.reddit.com/r/RemarkableTablet/comments/k0tl0m/remarkablerocket_lol_i_mean_now_i_have/) - using a [Rocketbook template](https://getrocketbook.co.uk/pages/rocketbook-for-free) => Google/Dropbox Integration
-
 - [Remarkable Uploader Android App](https://play.google.com/store/apps/details?id=org.remadroid) / [r/RemarkableTablet](https://www.reddit.com/r/RemarkableTablet/comments/kcfht6/remarkable_uploader_android_app/)
+- [reStream](https://github.com/rien/reStream) - reMarkable screen sharing over SSH. - [now work on reMarkable 2](https://github.com/rien/reStream/issues/28) / [r/RemarkableTablet](https://www.reddit.com/r/RemarkableTablet/comments/kobr55/restream_now_supports_the_remarkable_2/)
 
 ### Untested
+- Linux access through Nemo/ssh
+	- [nick8325/remarkable-fs](https://github.com/nick8325/remarkable-fs) - A FUSE filesystem driver for reMarkable => **not working**
 
 - [bordaigorl/remy](https://github.com/bordaigorl/remy) - a reMarkable tablet manager app
 	- can use [Mathpix OCR](https://mathpix.com/ocr) API
