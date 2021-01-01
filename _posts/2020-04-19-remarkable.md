@@ -5,6 +5,10 @@ tags: epaper hardware
 ---
 > The reMarkable is a paper tablet for those who prefer writing on paper, rather than keyboards. Its remarkably fast paper-white display, Linux based operating system and awesome community make it highly attractive amongst hackers and developers. - [r/RemarkableTablet](https://www.reddit.com/r/RemarkableTablet/)
 
+
+## <span style="color:red">**Factory Reset**</span>
+> If you start messing with the device and something doesnt work out, DONT do a FACTORY RESET - [(1)](https://www.reddit.com/r/RemarkableTablet/comments/kmae1e/if_you_start_messing_with_the_device_and/) / [Bricked](https://www.reddit.com/r/RemarkableTablet/comments/km1mgy/bricked_i_have_my_root_password_but_cant_log_in/)
+
 ## Tips
 - [Wifi icon](https://www.reddit.com/r/RemarkableTablet/comments/jxopfn/wifi_icon/) - Pressing the lower left corner opens the Settings. It's useful to quickly toggle Airplane mode, so you can turn on wifi only when you actually need to sync your documents.
 - [Writing through paper](https://www.reddit.com/r/RemarkableTablet/comments/jxc3a5/this_blew_my_mind_today_someone_please_explain/) 
@@ -35,8 +39,6 @@ tags: epaper hardware
 
 ![caption](https://preview.redd.it/sp0e1a4gaex51.jpg?width=640&crop=smart&auto=webp&s=de4e46cff9a739175965e561c5f561720660413c)
 
-## <span style="color:red">**Factory Reset**</span>
-> If you start messing with the device and something doesnt work out, DONT do a FACTORY RESET - [(1)](https://www.reddit.com/r/RemarkableTablet/comments/kmae1e/if_you_start_messing_with_the_device_and/) / [Bricked](https://www.reddit.com/r/RemarkableTablet/comments/km1mgy/bricked_i_have_my_root_password_but_cant_log_in/)
 
 ## Customization
 - [ddvk/remarkable-hacks](https://github.com/ddvk/remarkable-hacks) - various UI/Gesture enhancement.
