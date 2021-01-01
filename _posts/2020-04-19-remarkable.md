@@ -34,8 +34,6 @@ tags: epaper hardware
 
 > The current workaround to get rm1 apps working on the rm2 is using the [remarkable2-framebuffer](https://github.com/ddvk/remarkable2-framebuffer) project.
 
-
-
 ### Untested
 - Linux access through Nemo/ssh
 	- [nick8325/remarkable-fs](https://github.com/nick8325/remarkable-fs) - A FUSE filesystem driver for reMarkable => **not working**
