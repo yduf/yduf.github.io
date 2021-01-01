@@ -34,6 +34,12 @@ tags: epaper hardware
 
 > The current workaround to get rm1 apps working on the rm2 is using the [remarkable2-framebuffer](https://github.com/ddvk/remarkable2-framebuffer) project.
 
+### [How to port apps from rM1](https://github.com/ddvk/remarkable2-framebuffer/issues/13)
+For an [rM1 app](https://github.com/ddvk/remarkable2-framebuffer/issues/14) to work on the rM2, they need to do the following:
+- install rm2fb server and client libraries
+- run rm2fb server (see README.md)
+- run the rm1 app with `LD_PRELOAD=/path/to/client.so <app>`
+
 ### Untested
 - Linux access through Nemo/ssh
 	- [nick8325/remarkable-fs](https://github.com/nick8325/remarkable-fs) - A FUSE filesystem driver for reMarkable => **not working**
