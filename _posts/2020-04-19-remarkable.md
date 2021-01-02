@@ -83,7 +83,7 @@ If developing a custom template, the .png file is the image shown when drawing o
 - [Online Generator](https://templarian.github.io/remarkable/)
 
 ## [Applications](https://github.com/reHackable/awesome-reMarkable#applications)
-> [Install toltec](https://eeems.website/toltec/) - Package manager
+> This script is used to install entware on the device, and get it set up with the toltec repository. - [Install toltec](https://eeems.website/toltec/)
 
 - [rmkit/remux](https://github.com/rmkit-dev/rmkit) - Launcher & more
 - [Chess2](https://github.com/ddvk/chess2) / [r/RemarkableTablet](https://www.reddit.com/r/RemarkableTablet/comments/bxsrij/got_a_chessboard_running_on_the_rm/)
