@@ -69,7 +69,7 @@ If developing a custom template, the .png file is the image shown when drawing o
 
 # [Applications](https://github.com/reHackable/awesome-reMarkable#applications)
 
-## [Toltec Package Manager](https://github.com/toltec-dev/toltec)
+## [Toltec](https://github.com/toltec-dev/toltec) - [Package Listing](https://toltec-dev.org/stable/)
 > This script is used to install entware on the device, and get it set up with the toltec repository. - [Install toltec](https://eeems.website/toltec/)
 
 {% highlight bash %}
