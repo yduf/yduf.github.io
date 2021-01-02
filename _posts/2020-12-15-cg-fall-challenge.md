@@ -2,9 +2,10 @@
 published: true
 title: Fall Challenge 2020 (CG)
 tags: codingame
-excerpt_separator: ''
 ---
-
+> Perhaps the only CG game where better search is worse?
+Thanks to the random recipe drawn after a brew which has the property to mess up any plans and transform a lead or a win straight into a loss. - [reCurse (3thd)](https://forum.codingame.com/t/fall-challenge-2020-feedbacks-strategies/187846/81)
+    
 ![caption](https://static.codingame.com/servlet/fileservlet?id=54137529209898&format=puzzle_cover)
 
 - [A Post-Mortem by pb4 (1st)](https://github.com/pb4git/Fall-Challenge-2020)
@@ -13,7 +14,9 @@ excerpt_separator: ''
 - [Agade Fall 2020 Challenge Postmortem (2nd)](https://github.com/Agade09/Agade-Fall2020-Challenge-Postmortem) - BFS pseudo code
 
 - [Fall Challenge 2020 - Feedbacks & Strategies](https://www.codingame.com/forum/t/fall-challenge-2020-feedbacks-strategies/187846) - Beam search pseudo code
-    - [reCurse (3thd)](https://forum.codingame.com/t/fall-challenge-2020-feedbacks-strategies/187846/81?u=yduf)
+    - [reCurse (3thd)](https://forum.codingame.com/t/fall-challenge-2020-feedbacks-strategies/187846/81)
+        - Had to artificially limit the search depth to 15, any further decreased playing performance.
+    	- Too much effort wasted on optimization as a result
     - [Magus](https://forum.codingame.com/t/fall-challenge-2020-feedbacks-strategies/187846/2?u=yduf) / [QA](https://forum.codingame.com/t/fall-challenge-2020-feedbacks-strategies/187846/10?u=yduf)
     	- [path of actions](https://forum.codingame.com/t/fall-challenge-2020-feedbacks-strategies/187846/118?u=yduf)
         - [iterative deepening](https://forum.codingame.com/t/fall-challenge-2020-feedbacks-strategies/187846/131?u=yduf) / [clarification](https://forum.codingame.com/t/fall-challenge-2020-feedbacks-strategies/187846/141?u=yduf)
