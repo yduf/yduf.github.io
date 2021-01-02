@@ -85,7 +85,7 @@ opkg remove <application>
   
 ## [reMarkable 2 Framebuffer](https://remarkablewiki.com/tech/rm2_framebuffer)
 > The rm2 does not use the embedded epdc of the imx7. Instead the e-Ink display is connected directly to the LCD controller. This means all stuff that the epdc would normally do is now done in software (SWTCON).
-
+> 
 > The current workaround to get rm1 apps working on the rm2 is using the [remarkable2-framebuffer](https://github.com/ddvk/remarkable2-framebuffer) project. rm2fb is available as a package in [toltec](https://github.com/toltec-dev/toltec) which sets up the server and client parts for you.
 
 ### [How to port apps from rM1](https://github.com/ddvk/remarkable2-framebuffer/issues/13)
