@@ -94,6 +94,7 @@ For an [rM1 app](https://github.com/ddvk/remarkable2-framebuffer/issues/14) to w
 - run rm2fb server (see README.md)
 - run the rm1 app with `LD_PRELOAD=/path/to/client.so <app>`
 
+### Apps
 - [rmkit/remux](https://github.com/rmkit-dev/rmkit) - Launcher & more
 - [Chess2](https://github.com/ddvk/chess2) / [r/RemarkableTablet](https://www.reddit.com/r/RemarkableTablet/comments/bxsrij/got_a_chessboard_running_on_the_rm/)
 - [syncthing](https://github.com/evidlo/remarkable_syncthing) - Syncthing on reMarkable
