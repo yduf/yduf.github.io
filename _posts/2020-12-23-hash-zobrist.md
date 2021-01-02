@@ -12,3 +12,4 @@ title: Zobrist Hash
 - [Transposition Table and Zobrist Hashing](https://www.adamberent.com/2019/03/02/transposition-table-and-zobrist-hashing/)
 - [Zobrist Hashing](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-5-zobrist-hashing/)
 - [Correctly Implementing Zobrist Hashing](https://stackoverflow.com/questions/10067514/correctly-implementing-zobrist-hashing)
+- [Zobrist Hashing](https://dev.to/larswaechter/zobrist-hashing-72n)
