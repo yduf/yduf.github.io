@@ -146,7 +146,8 @@ opkg remove <application>
 - [reMarkable](https://duckpond.ch/nix/bash/2020/01/08/reMarkable.html)
 
 ## Alternative OS
-- [Parabola-rM](http://www.davisr.me/projects/parabola-rm/)
+- [Parabola-rM](http://www.davisr.me/projects/parabola-rm/) can be run as chroot
+  	- [Desktop Linux on reMarkable: Xournal, Doom, and more (feat. fast display updates)](https://old.reddit.com/r/RemarkableTablet/comments/gkktxy/desktop_linux_on_remarkable_xournal_doom_and_more/)
 
 ## [Hardware (rM2)](https://remarkable.com/store/remarkable-2) / [Photo](https://www.reddit.com/r/RemarkableTablet/comments/kcqzdy/broke_my_remarkable_2_it_was_knocked_off_the/)
 [Spec](https://remarkable.com/#Specifications) 
