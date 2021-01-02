@@ -29,17 +29,6 @@ tags: epaper hardware
 	- [Neurone/reMarkable](https://github.com/Neurone/reMarkable) - Automatically change your poweroff and suspend screens every 5 minutes / [Customizing the Splashscreens](https://remarkablewiki.com/tips/splashscreens) - doesn't work since 2.5.0.27 upgrade [only on rm1](https://github.com/ddvk/remarkable-hacks/issues/157)
 		- could be enhanced to use [suspend event](https://askubuntu.com/questions/226278/run-script-on-wakeup) rather than timer.
 
-## [reMarkable 2 Framebuffer](https://remarkablewiki.com/tech/rm2_framebuffer)
-> The rm2 does not use the embedded epdc of the imx7. Instead the e-Ink display is connected directly to the LCD controller. This means all stuff that the epdc would normally do is now done in software (SWTCON).
-
-> The current workaround to get rm1 apps working on the rm2 is using the [remarkable2-framebuffer](https://github.com/ddvk/remarkable2-framebuffer) project.
-
-### [How to port apps from rM1](https://github.com/ddvk/remarkable2-framebuffer/issues/13)
-For an [rM1 app](https://github.com/ddvk/remarkable2-framebuffer/issues/14) to work on the rM2, they need to do the following:
-- install rm2fb server and client libraries
-- run rm2fb server (see README.md)
-- run the rm1 app with `LD_PRELOAD=/path/to/client.so <app>`
-
 ### Untested
 - Linux access through Nemo/ssh
 	- [nick8325/remarkable-fs](https://github.com/nick8325/remarkable-fs) - A FUSE filesystem driver for reMarkable => **not working**
@@ -84,6 +73,17 @@ If developing a custom template, the .png file is the image shown when drawing o
 
 # [Applications](https://github.com/reHackable/awesome-reMarkable#applications)
 
+## [reMarkable 2 Framebuffer](https://remarkablewiki.com/tech/rm2_framebuffer)
+> The rm2 does not use the embedded epdc of the imx7. Instead the e-Ink display is connected directly to the LCD controller. This means all stuff that the epdc would normally do is now done in software (SWTCON).
+
+> The current workaround to get rm1 apps working on the rm2 is using the [remarkable2-framebuffer](https://github.com/ddvk/remarkable2-framebuffer) project.
+
+### [How to port apps from rM1](https://github.com/ddvk/remarkable2-framebuffer/issues/13)
+For an [rM1 app](https://github.com/ddvk/remarkable2-framebuffer/issues/14) to work on the rM2, they need to do the following:
+- install rm2fb server and client libraries
+- run rm2fb server (see README.md)
+- run the rm1 app with `LD_PRELOAD=/path/to/client.so <app>`
+
 ## Toltec Package Manager
 > This script is used to install entware on the device, and get it set up with the toltec repository. - [Install toltec](https://eeems.website/toltec/)
 
@@ -95,7 +95,6 @@ INFO:  Use '/home/root/entware-reenable' to re-enable Toltec after a system upda
 opkg install <application>  
 opkg remove <application>
 {% endhighlight %}
-
 
 - [rmkit/remux](https://github.com/rmkit-dev/rmkit) - Launcher & more
 - [Chess2](https://github.com/ddvk/chess2) / [r/RemarkableTablet](https://www.reddit.com/r/RemarkableTablet/comments/bxsrij/got_a_chessboard_running_on_the_rm/)
