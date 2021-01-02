@@ -87,6 +87,10 @@ opkg remove <application>
 > The rm2 does not use the embedded epdc of the imx7. Instead the e-Ink display is connected directly to the LCD controller. This means all stuff that the epdc would normally do is now done in software (SWTCON).
 > 
 > The current workaround to get rm1 apps working on the rm2 is using the [remarkable2-framebuffer](https://github.com/ddvk/remarkable2-framebuffer) project. rm2fb is available as a package in [toltec](https://github.com/toltec-dev/toltec) which sets up the server and client parts for you.
+  
+{% highlight bash %}
+opkg install rm2fb
+{% endhighlight %}
 
 ### [How to port apps from rM1](https://github.com/ddvk/remarkable2-framebuffer/issues/13)
 For an [rM1 app](https://github.com/ddvk/remarkable2-framebuffer/issues/14) to work on the rM2, they need to do the following:
@@ -94,7 +98,7 @@ For an [rM1 app](https://github.com/ddvk/remarkable2-framebuffer/issues/14) to w
 - run rm2fb server (see README.md)
 - run the rm1 app with `LD_PRELOAD=/path/to/client.so <app>`
 
-### Apps
+### Apps
 - [rmkit/remux](https://github.com/rmkit-dev/rmkit) - Launcher & more
 - [Chess2](https://github.com/ddvk/chess2) / [r/RemarkableTablet](https://www.reddit.com/r/RemarkableTablet/comments/bxsrij/got_a_chessboard_running_on_the_rm/)
 - [syncthing](https://github.com/evidlo/remarkable_syncthing) - Syncthing on reMarkable
@@ -157,6 +161,8 @@ For an [rM1 app](https://github.com/ddvk/remarkable2-framebuffer/issues/14) to w
 - Wi-Fi 2.4GHz and 5GHz
 - USB-C
 - Accessory port - [Pogo connector](https://www.reddit.com/r/RemarkableTablet/comments/j9g1d5/rm2_with_an_external_keyboard_accessory_port_usage/) - dot on left side is in fact a [host usb connector](https://imgur.com/gallery/TRuN0jc).
+  
+- [reMarkable microSD](http://www.davisr.me/projects/remarkable-microsd/)
 
 ### Pen
 The stylus communicates wirelessly. The pressure sensitivity is in the stylus itself. The screen ALSO has touch sensitivity for buttons etc, but it's separate tech. see [Wacom EMR](https://www.wacom.com/en-us/for-business/technologies/emr).
