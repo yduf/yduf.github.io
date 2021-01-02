@@ -82,7 +82,9 @@ If developing a custom template, the .png file is the image shown when drawing o
 - [Incompetech.com](https://incompetech.com/graphpaper/) - [Export Tips](https://www.reddit.com/r/RemarkableTablet/comments/jee5jg/customizable_template_resource/): When exporting click the 8.5x11 page icon. It will allow custom sizes. For reMarkable templates choose 19.5 width and 26 height (incorrect size for rm2). Change the color to gray for a less imposing template.
 - [Online Generator](https://templarian.github.io/remarkable/)
 
-# Toltec
+# [Applications](https://github.com/reHackable/awesome-reMarkable#applications)
+
+## Toltec Package Manager
 > This script is used to install entware on the device, and get it set up with the toltec repository. - [Install toltec](https://eeems.website/toltec/)
 
 {% highlight bash %}
@@ -94,7 +96,6 @@ opkg install <application>
 opkg remove <application>
 {% endhighlight %}
 
-## [Applications](https://github.com/reHackable/awesome-reMarkable#applications)
 
 - [rmkit/remux](https://github.com/rmkit-dev/rmkit) - Launcher & more
 - [Chess2](https://github.com/ddvk/chess2) / [r/RemarkableTablet](https://www.reddit.com/r/RemarkableTablet/comments/bxsrij/got_a_chessboard_running_on_the_rm/)
