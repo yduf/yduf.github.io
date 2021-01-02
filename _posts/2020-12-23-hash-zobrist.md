@@ -11,3 +11,4 @@ title: Zobrist Hash
 - [An Efficient Work Distribution Method for ParallelBest-First Search](https://jinnaiyuu.github.io/pdf/papers/AAAI-16%20Jinnai-Fukunaga.pdf)
 - [Transposition Table and Zobrist Hashing](https://www.adamberent.com/2019/03/02/transposition-table-and-zobrist-hashing/)
 - [Zobrist Hashing](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-5-zobrist-hashing/)
+- [Correctly Implementing Zobrist Hashing](https://stackoverflow.com/questions/10067514/correctly-implementing-zobrist-hashing)
