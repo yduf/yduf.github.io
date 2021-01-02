@@ -69,7 +69,7 @@ If developing a custom template, the .png file is the image shown when drawing o
 
 # [Applications](https://github.com/reHackable/awesome-reMarkable#applications)
 
-## Toltec Package Manager
+## [Toltec Package Manager](https://github.com/toltec-dev/toltec)
 > This script is used to install entware on the device, and get it set up with the toltec repository. - [Install toltec](https://eeems.website/toltec/)
 
 {% highlight bash %}
@@ -86,7 +86,7 @@ opkg remove <application>
 ## [reMarkable 2 Framebuffer](https://remarkablewiki.com/tech/rm2_framebuffer)
 > The rm2 does not use the embedded epdc of the imx7. Instead the e-Ink display is connected directly to the LCD controller. This means all stuff that the epdc would normally do is now done in software (SWTCON).
 
-> The current workaround to get rm1 apps working on the rm2 is using the [remarkable2-framebuffer](https://github.com/ddvk/remarkable2-framebuffer) project.
+> The current workaround to get rm1 apps working on the rm2 is using the [remarkable2-framebuffer](https://github.com/ddvk/remarkable2-framebuffer) project. rm2fb is available as a package in [toltec](https://github.com/toltec-dev/toltec) which sets up the server and client parts for you.
 
 ### [How to port apps from rM1](https://github.com/ddvk/remarkable2-framebuffer/issues/13)
 For an [rM1 app](https://github.com/ddvk/remarkable2-framebuffer/issues/14) to work on the rM2, they need to do the following:
