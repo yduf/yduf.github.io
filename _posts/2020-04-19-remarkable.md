@@ -5,7 +5,6 @@ tags: epaper hardware
 ---
 > The reMarkable is a paper tablet for those who prefer writing on paper, rather than keyboards. Its remarkably fast paper-white display, Linux based operating system and awesome community make it highly attractive amongst hackers and developers. - [r/RemarkableTablet](https://www.reddit.com/r/RemarkableTablet/)
 
-
 ## <span style="color:red">**Factory Reset**</span>
 > If you start messing with the device and something doesnt work out, DONT do a FACTORY RESET - [(1)](https://www.reddit.com/r/RemarkableTablet/comments/kmae1e/if_you_start_messing_with_the_device_and/) / [Bricked](https://www.reddit.com/r/RemarkableTablet/comments/km1mgy/bricked_i_have_my_root_password_but_cant_log_in/)
 
@@ -45,9 +44,6 @@ tags: epaper hardware
 - [ePUB to PDF conversion on Calibre](https://www.reddit.com/r/RemarkableTablet/comments/kbqxdt/my_setup_for_epub_to_pdf_conversion_on_calibre/)
 - [A4 portrait to A5 landscape script](https://www.reddit.com/r/RemarkableTablet/comments/kayu50/a4_portrait_to_a5_landscape_script_linux/)
 
-
-- [evidlo/remarkable_entware](https://github.com/evidlo/remarkable_entware) - a lightweight package manager and software repo for embedded devices. [list of available packages](http://bin.entware.net/armv7sf-k3.2/)
-
 ## [Template customization](https://remarkablewiki.com/tips/templates)
 
 The templates in the list show up in the order they are listed on the json, so if you want to change the order they show up, just change the order they are listed in. - [Tired of trying to find custom templates? Just added a new category in the JSON file!](https://www.reddit.com/r/RemarkableTablet/comments/jr9jn3/tired_of_trying_to_find_custom_templates_just/)
@@ -63,7 +59,7 @@ If developing a custom template, the .png file is the image shown when drawing o
 - [Puzzle (Sudoku)](https://krazydad.com/)
 - [5 Year journal template](https://www.reddit.com/r/RemarkableTablet/comments/k1ztqr/5_year_journal_template/)
 
-### template syncrhonisation app
+### template synchronisation app
 - [reMarkable HyUtilities](https://github.com/moovida/remarkable-hyutilities)
 - [Template Helper](https://www.youtube.com/watch?v=Prdgib0hYFc&feature=youtu.be)
 
@@ -72,17 +68,6 @@ If developing a custom template, the .png file is the image shown when drawing o
 - [Online Generator](https://templarian.github.io/remarkable/)
 
 # [Applications](https://github.com/reHackable/awesome-reMarkable#applications)
-
-## [reMarkable 2 Framebuffer](https://remarkablewiki.com/tech/rm2_framebuffer)
-> The rm2 does not use the embedded epdc of the imx7. Instead the e-Ink display is connected directly to the LCD controller. This means all stuff that the epdc would normally do is now done in software (SWTCON).
-
-> The current workaround to get rm1 apps working on the rm2 is using the [remarkable2-framebuffer](https://github.com/ddvk/remarkable2-framebuffer) project.
-
-### [How to port apps from rM1](https://github.com/ddvk/remarkable2-framebuffer/issues/13)
-For an [rM1 app](https://github.com/ddvk/remarkable2-framebuffer/issues/14) to work on the rM2, they need to do the following:
-- install rm2fb server and client libraries
-- run rm2fb server (see README.md)
-- run the rm1 app with `LD_PRELOAD=/path/to/client.so <app>`
 
 ## Toltec Package Manager
 > This script is used to install entware on the device, and get it set up with the toltec repository. - [Install toltec](https://eeems.website/toltec/)
@@ -95,6 +80,19 @@ INFO:  Use '/home/root/entware-reenable' to re-enable Toltec after a system upda
 opkg install <application>  
 opkg remove <application>
 {% endhighlight %}
+
+- [evidlo/remarkable_entware](https://github.com/evidlo/remarkable_entware) - a lightweight package manager and software repo for embedded devices. [list of available packages](http://bin.entware.net/armv7sf-k3.2/)
+  
+## [reMarkable 2 Framebuffer](https://remarkablewiki.com/tech/rm2_framebuffer)
+> The rm2 does not use the embedded epdc of the imx7. Instead the e-Ink display is connected directly to the LCD controller. This means all stuff that the epdc would normally do is now done in software (SWTCON).
+
+> The current workaround to get rm1 apps working on the rm2 is using the [remarkable2-framebuffer](https://github.com/ddvk/remarkable2-framebuffer) project.
+
+### [How to port apps from rM1](https://github.com/ddvk/remarkable2-framebuffer/issues/13)
+For an [rM1 app](https://github.com/ddvk/remarkable2-framebuffer/issues/14) to work on the rM2, they need to do the following:
+- install rm2fb server and client libraries
+- run rm2fb server (see README.md)
+- run the rm1 app with `LD_PRELOAD=/path/to/client.so <app>`
 
 - [rmkit/remux](https://github.com/rmkit-dev/rmkit) - Launcher & more
 - [Chess2](https://github.com/ddvk/chess2) / [r/RemarkableTablet](https://www.reddit.com/r/RemarkableTablet/comments/bxsrij/got_a_chessboard_running_on_the_rm/)
