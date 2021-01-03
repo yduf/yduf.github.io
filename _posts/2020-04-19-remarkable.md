@@ -98,13 +98,13 @@ For an [rM1 app](https://github.com/ddvk/remarkable2-framebuffer/issues/14) to w
 - run rm2fb server (see README.md)
 - run the rm1 app with `LD_PRELOAD=/path/to/client.so <app>`
 
-### Apps
+### [Apps](https://toltec-dev.org/stable/)
 - [rmkit/remux](https://github.com/rmkit-dev/rmkit) - Launcher / swipe up on left or right side to activate.
 {% highlight bash %}
 opkg install remux
 {% endhighlight %}
 
-- [chessmarkable]()
+- [chessMarkable](https://github.com/LinusCDE/chessmarkable) - A chess game for the reMarkable tablet writting using the [pleco](https://crates.io/crates/pleco) chess library which is a port of Stockfish.
   
 - [plato]()
 
