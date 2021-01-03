@@ -8,6 +8,12 @@ title: Zobrist Hash
 
 [**wikipedia**](https://en.wikipedia.org/wiki/Zobrist_hashing): Zobrist hashing starts by randomly generating bitstrings for each possible element of a board game, i.e. for each combination of a piece and a position... Now any board configuration can be broken up into independent piece/position components, which are mapped to the random bitstrings generated earlier. The final Zobrist hash is computed by combining those bitstrings using bitwise [`XOR`](https://en.wikipedia.org/wiki/Exclusive_or).
 
+## Updating hash
+Because of XOR properties, the hash can be _delta_ updated:
+- by xoring (out) the bitstring of removed events,
+- by xoring (in) the bitstring of new events.
+Xoring in/out being the same `XOR` operation, it onlys express the intent.
+
 - [An Efficient Work Distribution Method for ParallelBest-First Search](https://jinnaiyuu.github.io/pdf/papers/AAAI-16%20Jinnai-Fukunaga.pdf)
 - [Transposition Table and Zobrist Hashing](https://www.adamberent.com/2019/03/02/transposition-table-and-zobrist-hashing/)
 - [Zobrist Hashing](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-5-zobrist-hashing/)
