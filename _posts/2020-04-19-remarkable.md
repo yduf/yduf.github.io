@@ -106,9 +106,10 @@ opkg install remux
 
 - [chessMarkable](https://github.com/LinusCDE/chessmarkable) - A chess game for the reMarkable tablet writting using the [pleco](https://crates.io/crates/pleco) chess library which is a port of Stockfish.
   
-- [plato]()
+- [Plato](https://github.com/darvin/plato) - reader for PDF, ePUB and CBZ
+	- adjustable contrast
 
-- [koreader]()
+- [koreader](https://github.com/koreader/koreader)
   
 ### Untested
 - [Chess2](https://github.com/ddvk/chess2) / [r/RemarkableTablet](https://www.reddit.com/r/RemarkableTablet/comments/bxsrij/got_a_chessboard_running_on_the_rm/)
