@@ -14,6 +14,7 @@ Because of XOR properties, the hash can be _delta_ updated:
 - by xoring (in) the bitstring of new events.
 Xoring in/out being the same `XOR` operation, it onlys express the intent.
 
+## References
 - [An Efficient Work Distribution Method for ParallelBest-First Search](https://jinnaiyuu.github.io/pdf/papers/AAAI-16%20Jinnai-Fukunaga.pdf)
 - [Transposition Table and Zobrist Hashing](https://www.adamberent.com/2019/03/02/transposition-table-and-zobrist-hashing/)
 - [Zobrist Hashing](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-5-zobrist-hashing/)
