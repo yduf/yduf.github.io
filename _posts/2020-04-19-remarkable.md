@@ -103,7 +103,14 @@ For an [rM1 app](https://github.com/ddvk/remarkable2-framebuffer/issues/14) to w
 {% highlight bash %}
 opkg install remux
 {% endhighlight %}
+
+- [chessmarkable]()
   
+- [plato]()
+
+- [koreader]()
+  
+### Untested
 - [Chess2](https://github.com/ddvk/chess2) / [r/RemarkableTablet](https://www.reddit.com/r/RemarkableTablet/comments/bxsrij/got_a_chessboard_running_on_the_rm/)
 - [syncthing](https://github.com/evidlo/remarkable_syncthing) - Syncthing on reMarkable
 - [reMarkable_mouse](https://github.com/evidlo/remarkable_mouse) - Use your reMarkable as a graphics tablet.
