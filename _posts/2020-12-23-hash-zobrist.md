@@ -14,6 +14,31 @@ Because of XOR properties, the hash can be _delta_ updated:
 - by xoring (in) the bitstring of new events.
 Xoring in/out being the same `XOR` operation, it onlys express the intent.
 
+## [Pseudo code](https://en.wikipedia.org/wiki/Zobrist_hashing)
+Example pseudocode for the game of chess
+{% highlight cpp %}
+constant indices
+    white_pawn := 1
+    white_rook := 2
+    # etc.
+    black_king := 12
+
+function init_zobrist():
+    # fill a table of random numbers/bitstrings
+    table := a 2-d array of size 64×12
+    for i from 1 to 64:  # loop over the board, represented as a linear array
+        for j from 1 to 12:      # loop over the pieces
+            table[i][j] := random_bitstring()
+
+function hash(board):
+    h := 0
+    for i from 1 to 64:      # loop over the board positions
+        if board[i] ≠ empty:
+            j := the piece at board[i], as listed in the constant indices, above
+            h := h XOR table[i][j]
+    return h
+{% endhighlight %}
+
 ## References
 - [An Efficient Work Distribution Method for ParallelBest-First Search](https://jinnaiyuu.github.io/pdf/papers/AAAI-16%20Jinnai-Fukunaga.pdf)
 - [Transposition Table and Zobrist Hashing](https://www.adamberent.com/2019/03/02/transposition-table-and-zobrist-hashing/)
