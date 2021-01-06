@@ -1,5 +1,5 @@
 ---
-title: iterating on std::tuple (C++)
+title: 'iterating on std::tuple (C++)'
 published: true
 tags: c++
 ---
@@ -10,8 +10,7 @@ for_each(std::make_tuple(1, '2', 3.3), [](auto x) {
 });
 {% endhighlight %}
 
-## Implementation
-
+## Implementation
 {% highlight cpp %}
 #include <cstddef>
 #include <tuple>
