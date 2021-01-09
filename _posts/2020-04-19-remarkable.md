@@ -110,7 +110,8 @@ opkg install remux
 - [Plato](https://github.com/darvin/plato) - reader for PDF, ePUB and CBZ
 	- adjustable contrast
 
-- [koreader](https://github.com/koreader/koreader)
+- [koreader](https://github.com/koreader/koreader) / [review](https://www.reddit.com/r/RemarkableTablet/comments/ks80ao/koreader_gamechanger_this_completes_the/)
+  	- [ddvk custom version](https://www.reddit.com/r/RemarkableTablet/comments/kruyme/koreader_working_or_rm2/) / [Home](https://github.com/ddvk/remarkable-autoinstall/tree/master/rm2) - Don't use it together with the rm2fb package from toltec
 
 ## How to
 - [How to move a page from one notebook to another](https://support.remarkable.com/hc/en-us/articles/360002672298-Move-files-and-pages)
