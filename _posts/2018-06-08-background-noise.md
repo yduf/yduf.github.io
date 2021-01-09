@@ -3,7 +3,11 @@ published: true
 title: Atmosphere (background noise)
 tags: sound music
 ---
-The idea behind [myNoise](https://mynoise.net/) is to use the noises you most enjoy to mask the noises you don’t want to hear: chatty colleagues, your tinnitus, or even your inner voice when you can't shut it down! 
+> The idea behind [myNoise](https://mynoise.net/) is to use the noises you most enjoy to mask the noises you don’t want to hear: chatty colleagues, your tinnitus, or even your inner voice when you can't shut it down! 
+
+## Youtube
+- [Rain Sounds & Crackling Fireplace](https://www.youtube.com/watch?v=x7ffBJrcLR0)
+- [Thunderstorm](https://www.youtube.com/watch?v=F-lPzGsUfM0)
 
 ### Natural Noises
 - [Distand Thunder](https://mynoise.net/NoiseMachines/thunderNoiseGenerator.php)
