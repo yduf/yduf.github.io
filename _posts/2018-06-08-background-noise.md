@@ -1,7 +1,7 @@
 ---
 published: true
 title: Atmosphere (background noise)
-tags: sound
+tags: sound music
 ---
 The idea behind [myNoise](https://mynoise.net/) is to use the noises you most enjoy to mask the noises you don’t want to hear: chatty colleagues, your tinnitus, or even your inner voice when you can't shut it down! 
 
