@@ -10,7 +10,7 @@ tags: epaper hardware
 
 ## Tips
 - [Wifi icon](https://www.reddit.com/r/RemarkableTablet/comments/jxopfn/wifi_icon/) - Pressing the lower left corner opens the Settings. It's useful to quickly toggle Airplane mode, so you can turn on wifi only when you actually need to sync your documents.
-- [Writing through paper](https://www.reddit.com/r/RemarkableTablet/comments/jxc3a5/this_blew_my_mind_today_someone_please_explain/) 
+- [Writing through paper](https://www.reddit.com/r/RemarkableTablet/comments/jxc3a5/this_blew_my_mind_today_someone_please_explain/) / [erasing with a coin](https://www.reddit.com/r/RemarkableTablet/comments/jsgry1/so_i_discovered_an_eraser_feature_out_of_the/)
 - [Funkey's Jagged Lines Fix](https://github.com/funkey/recept/) / [My Deep Guide](https://www.youtube.com/watch?v=P770-5E-IFs&feature=emb_logo)
 
 ## Integration
