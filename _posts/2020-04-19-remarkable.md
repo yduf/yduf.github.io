@@ -20,7 +20,9 @@ tags: epaper hardware
 - [Remarkable Uploader Android App](https://play.google.com/store/apps/details?id=org.remadroid) / [r/RemarkableTablet](https://www.reddit.com/r/RemarkableTablet/comments/kcfht6/remarkable_uploader_android_app/)
 - [reStream](https://github.com/rien/reStream) - reMarkable screen sharing over SSH. - [now work on reMarkable 2](https://github.com/rien/reStream/issues/28) / [r/RemarkableTablet](https://www.reddit.com/r/RemarkableTablet/comments/kobr55/restream_now_supports_the_remarkable_2/) - remarkable screen can be seen as a webcam.
 	- [rMview](https://github.com/bordaigorl/rmview) - is apparently faster (using vnc under the hood)
-
+- SVG Export
+	- [Fineliner and highlighter are single path strokes](https://www.reddit.com/r/RemarkableTablet/comments/kvdrbi/fineliner_and_highlighter_are_single_path_strokes/)
+    
 ![caption](https://preview.redd.it/sp0e1a4gaex51.jpg?width=640&crop=smart&auto=webp&s=de4e46cff9a739175965e561c5f561720660413c)
 
 ## Customization
