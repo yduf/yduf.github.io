@@ -7,3 +7,4 @@ tags: paint krita
 
 - [Colorize Mask](https://docs.krita.org/en/tutorials/common_workflows.html#colorize-mask)
 	- [Coloring with "Colorize-mask" in Krita](https://www.youtube.com/watch?v=HQdx6H9BIGs)
+    - [Tuto/Speedpaint](https://www.youtube.com/watch?v=X4NM1VyXf60&list=PLHEWVw93kqsUaTJkH_pR70ZR-w-HjLMN8&index=8)
