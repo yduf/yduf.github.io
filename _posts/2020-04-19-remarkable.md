@@ -102,7 +102,8 @@ For an [rM1 app](https://github.com/ddvk/remarkable2-framebuffer/issues/14) to w
 - run the rm1 app with `LD_PRELOAD=/path/to/client.so <app>`
 
 ### [Apps](https://toltec-dev.org/stable/)
-- [rmkit/remux](https://github.com/rmkit-dev/rmkit) - Launcher / swipe up on left or right side to activate.
+- [remux](https://github.com/rmkit-dev/rmkit) - Launcher / swipe up on left or right side to activate.
+  	- Issue [\[remux\] battery drain](https://github.com/rmkit-dev/rmkit/issues/43)
 {% highlight bash %}
 opkg install remux
 {% endhighlight %}
