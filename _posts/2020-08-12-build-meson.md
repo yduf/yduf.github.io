@@ -40,9 +40,6 @@ $ ninja test     (3)
 2. Each time you build it
 3. Each time you run tests
 
-
-
-
 ## Features
 - multiplatform support for Linux, macOS, Windows, GCC, Clang, Visual Studio and others
 - supported languages include C, C++, D, Fortran, Java, Rust
@@ -53,3 +50,4 @@ optimized for extremely fast full and incremental builds without sacrificing cor
 
 ## FAQ
 - Why is Meson's configuration language not Turing-complete? - [Against The Use Of Programming Languages in Configuration Files](https://taint.org/2011/02/18/001527a.html)
+- [Making build systems not suck!](https://lca2015.linux.org.au/slides/140/meson-lca2015.pdf)
