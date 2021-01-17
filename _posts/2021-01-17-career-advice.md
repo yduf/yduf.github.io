@@ -1,7 +1,7 @@
 ---
 published: true
 title: Career Advice
-tags: career job software
+tags: career job software simplicity
 ---
 > Something that I find interesting is that career advice coming from professionals having many years of experience focuses almost exclusively on the people aspects and not the technology: communication, trust, teamwork, documentation, clarity. The advice is clear, precise and honest.
 >
