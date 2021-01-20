@@ -171,6 +171,8 @@ opkg install remux
 - USB-C
 - Accessory port - [Pogo connector](https://www.reddit.com/r/RemarkableTablet/comments/j9g1d5/rm2_with_an_external_keyboard_accessory_port_usage/) - dot on left side is in fact a [host usb connector](https://imgur.com/gallery/TRuN0jc).
   
+- [reMarkable2 Teardown Guide](https://www.reddit.com/r/RemarkableTablet/comments/l0vq8f/remarkable2_teardown_guide/)
+  	- [reMarkable2 Button Stuck in Pressed Position Repair Guide](https://www.reddit.com/r/RemarkableTablet/comments/l0x9y6/remarkable2_button_stuck_in_pressed_position/)
 - [reMarkable microSD](http://www.davisr.me/projects/remarkable-microsd/)
 
 ### Pen
