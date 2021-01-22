@@ -1,7 +1,7 @@
 ---
 published: true
 title: I told you so
-tags: linux security
+tags: linux security jwz
 ---
 > If you are not running XScreenSaver on Linux, then it is safe to assume that your screen does not lock. - [jwz, 2021](https://www.jwz.org/blog/2021/01/i-told-you-so-2021-edition/) / [HN](https://news.ycombinator.com/item?id=25843874)
 
