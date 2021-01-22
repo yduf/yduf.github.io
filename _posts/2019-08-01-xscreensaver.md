@@ -1,7 +1,7 @@
 ---
 published: true
 title: XScreensaver (jwz)
-tags: image fun
+tags: image fun jwz
 ---
 ## [playlist](https://www.youtube.com/playlist?list=PLbe67PprBSpqM_-HU49fmIS8ncApw4i08)
 
