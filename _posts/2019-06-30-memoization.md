@@ -15,7 +15,7 @@ Using it reduce the complexity of $fib(n)$ from $O(2^n)$ to $O(n)$, keeping spac
 {% highlight ruby %}
 def fib( n)
    if (@f ||= []) && @f[n]      # memoize value exists
-   elsif( n <= 2)				# else compute it
+   elsif( n <= 2)               # else compute it
         @f[n] = 1
    else 
         @f[n] = fib( n-2) + fib( n -1)
