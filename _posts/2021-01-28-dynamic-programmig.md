@@ -7,4 +7,4 @@ tags: recursive optimize complexity Fibonacci
 
 - Learn to Solve Algorithmic Problems & Coding Challenges - [youtube](https://www.youtube.com/watch?v=oBt53YbR9Kk)
 	- [fib memoization](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=210s) - see [Memoisation]({% post_url 2019-06-30-memoization %})
-    - [gridTraveler memoization](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=2319s) - recursive decomposition then memoisation
+    - [gridTraveler memoization](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=2319s) - problem decomposition into recursive then memoisation
