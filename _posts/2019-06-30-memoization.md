@@ -2,6 +2,7 @@
 published: true
 title: Memoization
 tags: ruby recursive optimize complexity Fibonacci
+use_math: true
 ---
 > an optimization technique used primarily to speed up computer programs by storing the results of expensive function calls and returning the cached result when the same inputs occur again. - [wikipedia](https://fr.wikipedia.org/wiki/M%C3%A9mo%C3%AFsation)
 
