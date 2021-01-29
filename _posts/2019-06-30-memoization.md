@@ -7,8 +7,10 @@ tags: ruby recursive optimize Fibonacci
 
 ## [Fibonacci](https://fr.wikipedia.org/wiki/Suite_de_Fibonacci#Algorithme_r%C3%A9cursif_na%C3%AFf)
 
+Using it reduce the complexity of $\fib(n)$ from $O(2^n)$ to $O(n)$, keeping space $O(n)$.
+
 {% highlight ruby %}
-def fibo( n)
+def fib( n)
    if (@f ||= []) && @f[n]      # memoize value on the fly
    elsif( n <= 1)
         @f[n] = n
