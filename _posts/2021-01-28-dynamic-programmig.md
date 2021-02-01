@@ -9,3 +9,4 @@ use_math: true
 - Learn to Solve Algorithmic Problems & Coding Challenges - [youtube (5h)](https://www.youtube.com/watch?v=oBt53YbR9Kk)
 	- [fib memoization](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=210s) - see [Memoisation]({% post_url 2019-06-30-memoization %})
     - [gridTraveler memoization](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=2319s) - problem decomposition into recursive then memoisation - from $O(2^(n+m))$ to $O(n*m)$
+    - [canSum memoization](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=4196s) - can the combination of member of an array give the given sum.
