@@ -17,5 +17,6 @@ use_math: true
 		- [countConstruct](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=9516s) - count the number of solution
         - [allConstruct](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=10050s) - give all solutions
 
-- **Tabulation**
+- [**Tabulation**](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=12872s)
 	- [fib tabulation](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=11453s) - generative iteration vs recursion: tree structure encoded in an array. - $O(n)$
+    - [gridTraveler tabulation](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=12137s) - counting problem
