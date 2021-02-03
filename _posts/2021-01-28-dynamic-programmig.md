@@ -9,7 +9,7 @@ use_math: true
 ## Learn to Solve Algorithmic Problems & Coding Challenges - [youtube (5h)](https://www.youtube.com/watch?v=oBt53YbR9Kk)
 - [**Memoisation**]({% post_url 2019-06-30-memoization %})
 	- [fib memoization](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=210s) - from $O(2^n)$ to $O(n)$
-    - [gridTraveler memoization](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=2319s) - problem decomposition into recursive then memoisation - from $O(2^(n+m))$ to $O(n*m)$
+    - [gridTraveler memoization](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=2319s) - problem decomposition into recursive then memoisation - from $O(2^{n+m})$ to $O(n*m)$
 	- [canSum memoization](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=4196s) - can the combination of member of an array give the given sum. - from $O(n^m)$ to $O(n*m)$
 		- [howSum](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=5369s) - generate one solution - from $O(n^m * m)$ to $O(n*m^2)$ with $O(m^2)$ space
         - [bestSum](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=6726s) - return minimum array
