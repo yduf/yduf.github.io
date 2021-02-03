@@ -13,7 +13,7 @@ use_math: true
 	- [canSum memoization](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=4196s) - can the combination of member of an array give the given sum. - from $O(n^m)$ to $O(n*m)$
 		- [howSum](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=5369s) - generate one solution - from $O(n^m * m)$ to $O(n*m^2)$ with $O(m^2)$ space
         - [bestSum](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=6726s) - return minimum array
-	- [canConstruct memoization](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=7965s) - word construction by concatenationo from dictionnary (howSum with strings)
+	- [canConstruct memoization](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=7965s) - word construction by concatenation from dictionnary (howSum with strings)
 		- [countConstruct](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=9516s) - count the number of solution
         - [allConstruct](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=10050s) - give all solutions
 
