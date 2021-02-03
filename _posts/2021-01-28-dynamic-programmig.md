@@ -18,4 +18,4 @@ use_math: true
         - [allConstruct](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=10050s) - give all solutions
 
 - **Tabulation**
-	- [fib tabulation](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=11453s) - generative iteration vs recursion: tree structure encoded in an array.
+	- [fib tabulation](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=11453s) - generative iteration vs recursion: tree structure encoded in an array. - $O(n)$
