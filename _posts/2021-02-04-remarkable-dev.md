@@ -11,6 +11,8 @@ tags: dev remarkable
 - [reMarkable 2 sources are published](https://www.reddit.com/r/RemarkableTablet/comments/jp9gq9/remarkable_2_sources_are_published/)
 	- [rM2 3rd party apps progress](https://www.reddit.com/r/RemarkableTablet/comments/jp2h4s/rm2_3rd_party_apps_progress/)
 
+- [Setting up QT Creator](https://remarkablewiki.com/devel/qt_creator)
+
 ## [Hardware (rM2)](https://remarkable.com/store/remarkable-2) / [Photo](https://www.reddit.com/r/RemarkableTablet/comments/kcqzdy/broke_my_remarkable_2_it_was_knocked_off_the/)
 [Spec](https://remarkable.com/#Specifications) 
 - 1.2 GHz dual core ARM
