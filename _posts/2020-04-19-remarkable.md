@@ -1,7 +1,7 @@
 ---
 published: true
 title: reMarkable 2
-tags: epaper hardware
+tags: epaper hardware remarkable
 ---
 > The reMarkable is a paper tablet for those who prefer writing on paper, rather than keyboards. Its remarkably fast paper-white display, Linux based operating system and awesome community make it highly attractive amongst hackers and developers. - [r/RemarkableTablet](https://www.reddit.com/r/RemarkableTablet/)
 
@@ -129,51 +129,15 @@ opkg install remux
 
 - [TeXing your handwritten RM notes (with Math formula)](https://www.reddit.com/r/RemarkableTablet/comments/kb87v5/texing_your_handwritten_rm_notes_text/)
 
-## [Filesystem / Document format](https://remarkablewiki.com/tech/filesystem)
-> You will also notice that there are no human readable filenames and that each “document” has a number of associated files with it, depending on the document type. Human readable information is stored within the .metadata files (described further below). 
-
-- [reMarkable .lines File Format](https://plasma.ninja/blog/devices/remarkable/binary/format/2017/12/26/reMarkable-lines-file-format.html)
-	- [Lines Are Beautiful](https://github.com/ax3l/lines-are-beautiful)
-    - [remarkable-layers](https://github.com/bsdz/remarkable-layers/) - Python module for reading and writing Remarkable Lines files (*.rm).
-
-## Dev / [Awesome reMarkable](https://awesomeopensource.com/project/reHackable/awesome-reMarkable)
-- [libremarkable](https://github.com/canselcik/libremarkable) - A Framework for Remarkable Tablet
-	- [using with Qt](https://github.com/canselcik/libremarkable/issues/12)
-- [Developing for the reMarkable tablet](https://dragly.org/2017/12/01/developing-for-the-remarkable/)
-
 ## Review 
 - [Remarkable 2: Unboxing And First Impressions](https://www.youtube.com/watch?v=ihlhuDsc5-g)
 	- [small storage (6.4Gb)](https://youtu.be/wpwbVwfWIKE?t=1439) / No bluetooth
     - exact same system as hardware v1.0
     - [pdf reader not very good](https://www.youtube.com/watch?v=iD5wTA96wNg) as well as epub
 
-## Resources
-- [HN](https://news.ycombinator.com/item?id=22604597) 
-	- [HN](https://news.ycombinator.com/item?id=21040343)
-- [remarkable.engineering](https://remarkable.engineering/)
-- [remarkablewiki](https://remarkablewiki.com/start)
-	- [tips](https://remarkablewiki.com/tips/start)
-	- [tech](https://remarkablewiki.com/tech/start)
-- [reMarkable2 Teardown](https://fccid.io/2AMK2-RM110/Internal-Photos/Internal-photos-4523960)
-- [reMarkable](https://duckpond.ch/nix/bash/2020/01/08/reMarkable.html)
-
 ## Alternative OS
 - [Parabola-rM](http://www.davisr.me/projects/parabola-rm/) can be run as chroot
   	- [Desktop Linux on reMarkable: Xournal, Doom, and more (feat. fast display updates)](https://old.reddit.com/r/RemarkableTablet/comments/gkktxy/desktop_linux_on_remarkable_xournal_doom_and_more/)
-
-## [Hardware (rM2)](https://remarkable.com/store/remarkable-2) / [Photo](https://www.reddit.com/r/RemarkableTablet/comments/kcqzdy/broke_my_remarkable_2_it_was_knocked_off_the/)
-[Spec](https://remarkable.com/#Specifications) 
-- 1.2 GHz dual core ARM
-- 1 GB LPDDR3 SDRAM
-- 8 GB internal storage
-- 10.3” monochrome 1872 x 1404 resolution (226 DPI)
-- Wi-Fi 2.4GHz and 5GHz
-- USB-C
-- Accessory port - [Pogo connector](https://www.reddit.com/r/RemarkableTablet/comments/j9g1d5/rm2_with_an_external_keyboard_accessory_port_usage/) - dot on left side is in fact a [host usb connector](https://imgur.com/gallery/TRuN0jc).
-  
-- [reMarkable2 Teardown Guide](https://www.reddit.com/r/RemarkableTablet/comments/l0vq8f/remarkable2_teardown_guide/)
-  	- [reMarkable2 Button Stuck in Pressed Position Repair Guide](https://www.reddit.com/r/RemarkableTablet/comments/l0x9y6/remarkable2_button_stuck_in_pressed_position/)
-- [reMarkable microSD](http://www.davisr.me/projects/remarkable-microsd/)
 
 ### Pen
 The stylus communicates wirelessly. The pressure sensitivity is in the stylus itself. The screen ALSO has touch sensitivity for buttons etc, but it's separate tech. see [Wacom EMR](https://www.wacom.com/en-us/for-business/technologies/emr).
@@ -195,9 +159,6 @@ The stylus communicates wirelessly. The pressure sensitivity is in the stylus it
 
 - [remarkable-keywriter](https://github.com/dps/remarkable-keywriter)
 	- [with a bluetooth keyboard](https://www.reddit.com/r/RemarkableTablet/comments/e8p22h/remarkablekeywriter_with_a_bluetooth_keyboard/)
-
-- [reMarkable 2 sources are published](https://www.reddit.com/r/RemarkableTablet/comments/jp9gq9/remarkable_2_sources_are_published/)
-	- [rM2 3rd party apps progress](https://www.reddit.com/r/RemarkableTablet/comments/jp2h4s/rm2_3rd_party_apps_progress/)
 
 ### Tools
 - [ddvk/remarkable2-recovery](https://github.com/ddvk/remarkable2-recovery) - reMarkable 2 Recovery / Unbricking. Tools for recovery (works only under Linux).
