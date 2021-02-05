@@ -10,6 +10,13 @@ tags: dev remarkable
 - The official toolchain is no longer distributed by reMarkable.
 - [Toltec build toolchain](https://github.com/toltec-dev/toolchain/) - set of docker images used for cross-compiling binaries for the the reMarkable tablet.
 
+
+## Dev / [Awesome reMarkable](https://awesomeopensource.com/project/reHackable/awesome-reMarkable)
+- [libremarkable](https://github.com/canselcik/libremarkable) - A **low latency** Framework for Remarkable Tablet
+	- [using with Qt](https://github.com/canselcik/libremarkable/issues/12)
+- [Developing for the reMarkable tablet](https://dragly.org/2017/12/01/developing-for-the-remarkable/)
+
+
 ## reMarkable Developper note
 
 
@@ -21,11 +28,6 @@ tags: dev remarkable
 
 - [Setting up QT Creator](https://remarkablewiki.com/devel/qt_creator)
 - [reMarkable/linux](https://github.com/reMarkable/linux) - linux kernel source for reMarkable
-
-## Dev / [Awesome reMarkable](https://awesomeopensource.com/project/reHackable/awesome-reMarkable)
-- [libremarkable](https://github.com/canselcik/libremarkable) - A **low latency** Framework for Remarkable Tablet
-	- [using with Qt](https://github.com/canselcik/libremarkable/issues/12)
-- [Developing for the reMarkable tablet](https://dragly.org/2017/12/01/developing-for-the-remarkable/)
 
 ## [Filesystem / Document format](https://remarkablewiki.com/tech/filesystem)
 > You will also notice that there are no human readable filenames and that each “document” has a number of associated files with it, depending on the document type. Human readable information is stored within the .metadata files (described further below). 
