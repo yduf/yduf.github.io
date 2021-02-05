@@ -16,7 +16,7 @@ tags: dev remarkable
 }
 {% endhighlight %}
 
-	- [ex compiling tarnish](https://github.com/Eeems/oxide/issues/96)
+- [ex compiling tarnish](https://github.com/Eeems/oxide/issues/96)
 {% highlight bash %}
 docker container run -it --rm ghcr.io/toltec-dev/qt:v1.1
 {% endhighlight %}
