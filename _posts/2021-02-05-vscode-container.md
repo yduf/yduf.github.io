@@ -25,7 +25,7 @@ Then => *Remote-Containers: Reopen in Container*
 
 ### [Adding a non-root user to your dev container](https://code.visualstudio.com/docs/remote/containers-advanced#_adding-a-nonroot-user-to-your-dev-container)
 
-Dockerfile can be used to add user definition
+`.devcontainer/Dockerfile` can be used to add user definition
 {% highlight Dockerfile %}
 FROM ydu/remarkable-toolchain
 
