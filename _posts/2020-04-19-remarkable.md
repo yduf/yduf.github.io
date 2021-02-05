@@ -5,8 +5,9 @@ tags: epaper hardware remarkable
 ---
 > The reMarkable is a paper tablet for those who prefer writing on paper, rather than keyboards. Its remarkably fast paper-white display, Linux based operating system and awesome community make it highly attractive amongst hackers and developers. - [r/RemarkableTablet](https://www.reddit.com/r/RemarkableTablet/)
 
-see also [reMarkable Developper Notes]({% post_url 2021-02-04-remarkable-dev %})
-
+see also 
+- [reMarkable Developper Notes]({% post_url 2021-02-04-remarkable-dev %})
+- [reMarkable Hardware]({% post_url 2021-02-05-remarkable-hardware %})
 ## <span style="color:red">**Factory Reset**</span>
 > If you start messing with the device and something doesnt work out, DONT do a FACTORY RESET - [(1)](https://www.reddit.com/r/RemarkableTablet/comments/kmae1e/if_you_start_messing_with_the_device_and/) / [Bricked](https://www.reddit.com/r/RemarkableTablet/comments/km1mgy/bricked_i_have_my_root_password_but_cant_log_in/)
 
