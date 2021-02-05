@@ -12,7 +12,7 @@ tags: dev remarkable
     - [use VSCode remote container]({% post_url 2017-11-27-CG-meanmax %}) with .devcontainer.json *Remote-Containers: Reopen in Container*
 {% highlight json %}
 {
-    "image": "ydu/remarkable-toolchain"
+    "image": "ghcr.io/toltec-dev/qt:v1.1"
 }
 {% endhighlight %}
 
