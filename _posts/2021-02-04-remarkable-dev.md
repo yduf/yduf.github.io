@@ -1,6 +1,6 @@
 ---
 published: true
-title: Dev Apps on remarkable
+title: Dev on reMarkable
 tags: dev remarkable
 ---
 ## reMarkable Developper note
