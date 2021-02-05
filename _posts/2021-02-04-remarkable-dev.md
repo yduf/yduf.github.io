@@ -7,7 +7,7 @@ tags: dev remarkable
 
 # [Development](https://remarkablewiki.com/devel/start)
 ## [Setup toolchain](https://remarkablewiki.com/devel/toolchain)
-- [Toltec build toolchain](https://github.com/toltec-dev/toolchain/) / or Nix?
+- [Toltec build toolchain](https://github.com/toltec-dev/toolchain/) - set of docker images used for cross-compiling binaries for the the reMarkable tablet.
 
 ## reMarkable Developper note
 
