@@ -5,7 +5,7 @@ tags: dev remarkable
 ---
 # [Introduction](https://dragly.org/2017/12/01/developing-for-the-remarkable/)
 
-# [Development](https://remarkablewiki.com/devel/start)
+# [Development](https://remarkablewiki.com/devel/start)
 ## Setup toolchain
 
 ## reMarkable Developper note
