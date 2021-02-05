@@ -9,6 +9,7 @@ tags: dev remarkable
 ## [Setup toolchain](https://remarkablewiki.com/devel/toolchain)
 - The official toolchain is no longer distributed by reMarkable.
 - [Toltec build toolchain](https://github.com/toltec-dev/toolchain/) - set of docker images used for cross-compiling binaries for the the reMarkable tablet.
+	- [ex compiling tarnish](https://github.com/Eeems/oxide/issues/96)
 
 
 ## Dev / [Awesome reMarkable](https://awesomeopensource.com/project/reHackable/awesome-reMarkable)
