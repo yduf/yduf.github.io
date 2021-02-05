@@ -12,7 +12,7 @@ tags: dev remarkable
 	- [rM2 3rd party apps progress](https://www.reddit.com/r/RemarkableTablet/comments/jp2h4s/rm2_3rd_party_apps_progress/)
 
 - [Setting up QT Creator](https://remarkablewiki.com/devel/qt_creator)
-
+- [reMarkable/linux](https://github.com/reMarkable/linux) - linux kernel source for reMarkable
 
 ## Dev / [Awesome reMarkable](https://awesomeopensource.com/project/reHackable/awesome-reMarkable)
 - [libremarkable](https://github.com/canselcik/libremarkable) - A Framework for Remarkable Tablet
