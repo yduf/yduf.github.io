@@ -3,9 +3,14 @@ published: true
 title: Dev on reMarkable
 tags: dev remarkable
 ---
+# [Introduction](https://dragly.org/2017/12/01/developing-for-the-remarkable/)
+
+## Setup toolchain
+
 ## reMarkable Developper note
-- [duckpond.ch](https://duckpond.ch/nix/bash/2020/01/08/reMarkable.html)
-- [Developing for the reMarkable tablet](https://dragly.org/2017/12/01/developing-for-the-remarkable/)
+
+
+- [Developing for the reMarkable tablet]
 - [canselcik/libremarkable](https://github.com/canselcik/libremarkable)
 
 - [reMarkable 2 sources are published](https://www.reddit.com/r/RemarkableTablet/comments/jp9gq9/remarkable_2_sources_are_published/)
