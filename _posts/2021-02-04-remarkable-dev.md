@@ -9,9 +9,11 @@ tags: dev remarkable
 ## [Setup toolchain](https://remarkablewiki.com/devel/toolchain)
 - The official toolchain is no longer distributed by reMarkable.
 - [Toltec build toolchain](https://github.com/toltec-dev/toolchain/) - set of docker images used for cross-compiling binaries for the the reMarkable tablet.
-    - [use VSCode remote container]({% post_url 2017-11-27-CG-meanmax %}) with 
+    - [use VSCode remote container]({% post_url 2017-11-27-CG-meanmax %}) with .devcontainer.json *Remote-Containers: Reopen in Container*
 {% highlight json %}
-docker container run -it --rm ghcr.io/toltec-dev/qt:v1.1
+{
+    "image": "ydu/remarkable-toolchain"
+}
 {% endhighlight %}
 
 	- [ex compiling tarnish](https://github.com/Eeems/oxide/issues/96)
