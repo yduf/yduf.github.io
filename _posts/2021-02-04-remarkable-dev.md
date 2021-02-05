@@ -15,7 +15,7 @@ tags: dev remarkable
 - [reMarkable/linux](https://github.com/reMarkable/linux) - linux kernel source for reMarkable
 
 ## Dev / [Awesome reMarkable](https://awesomeopensource.com/project/reHackable/awesome-reMarkable)
-- [libremarkable](https://github.com/canselcik/libremarkable) - A Framework for Remarkable Tablet
+- [libremarkable](https://github.com/canselcik/libremarkable) - A **low latency** Framework for Remarkable Tablet
 	- [using with Qt](https://github.com/canselcik/libremarkable/issues/12)
 - [Developing for the reMarkable tablet](https://dragly.org/2017/12/01/developing-for-the-remarkable/)
 
