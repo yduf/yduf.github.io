@@ -9,7 +9,8 @@ tags: vscode docker
 {% highlight json %}
 {
     "image": "ydu/remarkable-toolchain"
-
-
 }
+
+Then => *Remote-Containers: Reopen in Container*
+
 {% endhighlight %}
