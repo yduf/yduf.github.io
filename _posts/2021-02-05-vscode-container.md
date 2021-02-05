@@ -23,6 +23,8 @@ or refering to Dockerfile
 
 Then => *Remote-Containers: Reopen in Container*
 
+### [Adding a non-root user to your dev container](https://code.visualstudio.com/docs/remote/containers-advanced#_adding-a-nonroot-user-to-your-dev-container)
+
 Dockerfile can be used to add user definition
 {% highlight Dockerfile %}
 FROM ydu/remarkable-toolchain
@@ -35,5 +37,3 @@ ARG USER_GID=$USER_UID
 RUN groupadd --gid $USER_GID $USERNAME \
     && useradd --uid $USER_UID --gid $USER_GID -m $USERNAME
 {% endhighlight %}
-
-### [Adding a non-root user to your dev container](https://code.visualstudio.com/docs/remote/containers-advanced#_adding-a-nonroot-user-to-your-dev-container)
