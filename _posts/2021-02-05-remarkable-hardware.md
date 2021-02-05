@@ -2,6 +2,7 @@
 published: true
 title: reMarkable Hardware
 tags: remarkable hardware
+excerpt_separator: ''
 ---
 ## [Hardware (rM2)](https://remarkable.com/store/remarkable-2) / [Photo](https://www.reddit.com/r/RemarkableTablet/comments/kcqzdy/broke_my_remarkable_2_it_was_knocked_off_the/)
 [Spec](https://remarkable.com/#Specifications) 
