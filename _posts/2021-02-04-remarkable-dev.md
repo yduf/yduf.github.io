@@ -7,6 +7,7 @@ tags: dev remarkable
 
 # [Development](https://remarkablewiki.com/devel/start)
 ## [Setup toolchain](https://remarkablewiki.com/devel/toolchain)
+- [Toltec build toolchain](https://github.com/toltec-dev/toolchain/) / or Nix?
 
 ## reMarkable Developper note
 
