@@ -12,7 +12,7 @@ tags: dev remarkable
     - [use VSCode remote container]({% post_url 2017-11-27-CG-meanmax %}) with .devcontainer.json *Remote-Containers: Reopen in Container*
 {% highlight json %}
 {
-    "image": "ghcr.io/toltec-dev/qt:v1.1"
+    "image": "ghcr.io/toltec-dev/qt:v1.3.2s"
 }
 {% endhighlight %}
 
@@ -22,10 +22,15 @@ docker container run -it --rm ghcr.io/toltec-dev/qt:v1.1
 {% endhighlight %}
 
 ## Dev / [Awesome reMarkable](https://awesomeopensource.com/project/reHackable/awesome-reMarkable)
-- [libremarkable](https://github.com/canselcik/libremarkable) - A **low latency** Framework for Remarkable Tablet
+
+### [libremarkable](https://github.com/canselcik/libremarkable) - A **low latency** Framework for Remarkable Tablet
 	- [using with Qt](https://github.com/canselcik/libremarkable/issues/12)
 - [Developing for the reMarkable tablet](https://dragly.org/2017/12/01/developing-for-the-remarkable/)
 
+### [rmkit](https://github.com/rmkit-dev/rmkit/blob/master/docs/BUILDING.md)
+Allows testing on linux x86
+
+- require [okp](https://pypi.org/project/okp/) - a python script that processes .cpy files and generates C++ code.
 
 ## reMarkable Developper note
 
