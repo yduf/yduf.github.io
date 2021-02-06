@@ -30,7 +30,9 @@ docker container run -it --rm ghcr.io/toltec-dev/qt:v1.1
 ### [rmkit](https://github.com/rmkit-dev/rmkit/blob/master/docs/BUILDING.md)
 Allows testing on linux x86
 
-- require [okp](https://pypi.org/project/okp/) - a python script that processes .cpy files and generates C++ code.
+Requires:
+- [okp](https://pypi.org/project/okp/) - a python script that processes .cpy files and generates C++ code.
+- [resim]() - for visualisation on PC
 
 ## reMarkable Developper note
 
