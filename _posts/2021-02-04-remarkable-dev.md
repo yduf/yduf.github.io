@@ -30,11 +30,17 @@ docker container run -it --rm ghcr.io/toltec-dev/qt:v1.1
 - [C CPP Build Instructions](https://github.com/canselcik/libremarkable/wiki/C-CPP-Build-Instructions)
 
 ### [rmkit](https://github.com/rmkit-dev/rmkit/blob/master/docs/BUILDING.md) / [Home](https://rmkit.dev/)
-Allows testing on linux x86
+Allows testing on linux x86 with frame buffer (go to console Ctrl+Alt+1)
 
 Requires:
 - [okp](https://pypi.org/project/okp/) - a python script that processes .cpy files and generates C++ code.
-- [resim](https://resim.readthedocs.io/en/latest/index.html) - for visualisation on PC without framebuffer.
+- [resim](https://resim.readthedocs.io/en/latest/index.html) - for visualisation on PC without framebuffer. - How to use it ?
+
+**Issue**
+- use strace to diagnore crash
+	- harmony tried to read `src/vendor/NotoSansMono-Regular.ttf` which is missing and crash
+
+- mouse not read ?
 
 ## reMarkable Developper note
 
