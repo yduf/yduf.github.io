@@ -39,8 +39,8 @@ Requires:
 **Issue**
 - use strace to diagnore crash
 	- harmony tried to read `src/vendor/NotoSansMono-Regular.ttf` which is missing and crash
-
 - mouse not read ?
+	- change `USE_RESIM := true` to `false` to use native mouse and keyboard
 
 ## reMarkable Developper note
 
