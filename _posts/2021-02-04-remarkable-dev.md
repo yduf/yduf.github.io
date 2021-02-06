@@ -30,16 +30,19 @@ docker container run -it --rm ghcr.io/toltec-dev/qt:v1.1
 - [C CPP Build Instructions](https://github.com/canselcik/libremarkable/wiki/C-CPP-Build-Instructions)
 
 ### [rmkit](https://github.com/rmkit-dev/rmkit/blob/master/docs/BUILDING.md) / [Home](https://rmkit.dev/)
-Allows testing on linux x86 with frame buffer (go to console Ctrl+Alt+1)
+
+Allows testing on linux x86 with simulator (resim)
 
 Requires:
 - [okp](https://pypi.org/project/okp/) - a python script that processes .cpy files and generates C++ code.
 - [resim](https://github.com/evidlo/remarkable_sim) - remarkable-simulator
 
+Allows testing on linux x86 with frame buffer (go to console Ctrl+Alt+1) => [this is going to disappear](https://github.com/rmkit-dev/rmkit/issues/84)
+
 **Issue**
 - use strace to diagnore crash
 	- harmony tried to read `src/vendor/NotoSansMono-Regular.ttf` which is missing and crash
-- mouse not read on native ? => [this is going to disappear](https://github.com/rmkit-dev/rmkit/issues/84)
+- mouse not read on native ? 
 	- change `USE_RESIM := true` to `false` to use native mouse and keyboard
 
 ## reMarkable Developper note
