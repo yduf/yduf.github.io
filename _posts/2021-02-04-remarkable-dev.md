@@ -42,7 +42,7 @@ Allows testing on linux x86 with frame buffer (go to console Ctrl+Alt+1) => [thi
 
 **Issue**
 - use strace to diagnore crash
-	- harmony tried to read `src/vendor/NotoSansMono-Regular.ttf` which is missing and crash
+	- harmony tried to read [`src/vendor/NotoSansMono-Regular.ttf`](https://www.ffonts.net/Noto-Sans-Mono-Regular.font.download) which is missing and crash
 - mouse not read on native ? 
 	- change `USE_RESIM := true` to `false` to use native mouse and keyboard
 
