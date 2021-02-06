@@ -34,12 +34,12 @@ Allows testing on linux x86 with frame buffer (go to console Ctrl+Alt+1)
 
 Requires:
 - [okp](https://pypi.org/project/okp/) - a python script that processes .cpy files and generates C++ code.
-- [resim](https://resim.readthedocs.io/en/latest/index.html) - for visualisation on PC without framebuffer. - How to use it ?
+- [resim](https://github.com/evidlo/remarkable_sim) - remarkable-simulator
 
 **Issue**
 - use strace to diagnore crash
 	- harmony tried to read `src/vendor/NotoSansMono-Regular.ttf` which is missing and crash
-- mouse not read ?
+- mouse not read on native ? => [this is going to disappear](https://github.com/rmkit-dev/rmkit/issues/84)
 	- change `USE_RESIM := true` to `false` to use native mouse and keyboard
 
 ## reMarkable Developper note
