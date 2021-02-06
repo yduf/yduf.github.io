@@ -34,7 +34,7 @@ Allows testing on linux x86
 
 Requires:
 - [okp](https://pypi.org/project/okp/) - a python script that processes .cpy files and generates C++ code.
-- [resim]() - for visualisation on PC
+- [resim](https://resim.readthedocs.io/en/latest/index.html) - for visualisation on PC without framebuffer.
 
 ## reMarkable Developper note
 
