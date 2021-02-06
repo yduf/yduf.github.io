@@ -24,10 +24,10 @@ docker container run -it --rm ghcr.io/toltec-dev/qt:v1.1
 ## Dev / [Awesome reMarkable](https://awesomeopensource.com/project/reHackable/awesome-reMarkable)
 
 ### [libremarkable](https://github.com/canselcik/libremarkable) - A **low latency** Framework for Remarkable Tablet
-	- [using with Qt](https://github.com/canselcik/libremarkable/issues/12)
+- [using with Qt](https://github.com/canselcik/libremarkable/issues/12)
 - [Developing for the reMarkable tablet](https://dragly.org/2017/12/01/developing-for-the-remarkable/)
 
-	- [C CPP Build Instructions](https://github.com/canselcik/libremarkable/wiki/C-CPP-Build-Instructions)
+- [C CPP Build Instructions](https://github.com/canselcik/libremarkable/wiki/C-CPP-Build-Instructions)
 
 ### [rmkit](https://github.com/rmkit-dev/rmkit/blob/master/docs/BUILDING.md) / [Home](https://rmkit.dev/)
 Allows testing on linux x86
