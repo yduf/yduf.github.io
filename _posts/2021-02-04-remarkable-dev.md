@@ -27,6 +27,8 @@ docker container run -it --rm ghcr.io/toltec-dev/qt:v1.1
 	- [using with Qt](https://github.com/canselcik/libremarkable/issues/12)
 - [Developing for the reMarkable tablet](https://dragly.org/2017/12/01/developing-for-the-remarkable/)
 
+	- [C CPP Build Instructions](https://github.com/canselcik/libremarkable/wiki/C-CPP-Build-Instructions)
+
 ### [rmkit](https://github.com/rmkit-dev/rmkit/blob/master/docs/BUILDING.md)
 Allows testing on linux x86
 
