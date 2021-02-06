@@ -25,8 +25,6 @@ docker container run -it --rm ghcr.io/toltec-dev/qt:v1.1
 
 ### [libremarkable](https://github.com/canselcik/libremarkable) - A **low latency** Framework for Remarkable Tablet
 - [using with Qt](https://github.com/canselcik/libremarkable/issues/12)
-- [Developing for the reMarkable tablet](https://dragly.org/2017/12/01/developing-for-the-remarkable/)
-
 - [C CPP Build Instructions](https://github.com/canselcik/libremarkable/wiki/C-CPP-Build-Instructions)
 
 ### [rmkit](https://github.com/rmkit-dev/rmkit/blob/master/docs/BUILDING.md) / [Home](https://rmkit.dev/)
@@ -46,9 +44,7 @@ Requires:
 	- change `USE_RESIM := true` to `false` to use native mouse and keyboard
 
 ## reMarkable Developper note
-
-
-- [Developing for the reMarkable tablet]
+- [Developing for the reMarkable tablet](https://dragly.org/2017/12/01/developing-for-the-remarkable/)
 - [canselcik/libremarkable](https://github.com/canselcik/libremarkable)
 
 - [reMarkable 2 sources are published](https://www.reddit.com/r/RemarkableTablet/comments/jp9gq9/remarkable_2_sources_are_published/)
