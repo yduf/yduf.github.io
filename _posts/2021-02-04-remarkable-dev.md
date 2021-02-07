@@ -48,7 +48,7 @@ resim ./src/build/harmony
 - Allows testing on linux x86 with frame buffer (go to console Ctrl+Alt+1) => [this is going to disappear](https://github.com/rmkit-dev/rmkit/issues/84)
 
 Requires:
-- [okp](https://pypi.org/project/okp/) - a python script that processes .cpy files and generates C++ code.
+- [okp](https://github.com/raisjn/okp) - a python script that processes .cpy files and generates C++ code.
 - [resim](https://github.com/evidlo/remarkable_sim) - remarkable-simulator
 	- it require tkinter `sudo apt-get install python3-tk`
 
