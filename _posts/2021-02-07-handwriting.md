@@ -12,3 +12,4 @@ tags: handwriting stylus ocr
 ## References
 - [How to easily do Handwriting Recognition using Deep Learning](https://nanonets.com/blog/handwritten-character-recognition/)
 - [Handwriting Recognition in 2021: In-depth Guide](https://research.aimultiple.com/handwriting-recognition/)
+- [myscript.com](https://www.myscript.com/)
