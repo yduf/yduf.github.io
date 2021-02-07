@@ -7,10 +7,12 @@ tags: dev remarkable
 
 [Frameworks in use around the rM1 community for building apps](https://github.com/ddvk/remarkable2-framebuffer/issues/14)
 
-| Item | Description | Price |
+| framework | lang | apps |
 | --- | --- | ---: |
-| item1 | item1 description | 1.00 |
-| item2 | item2 description | 100.00 |
+| libremarkable | rust | retris, chessmarkable, plato, whiteboard |
+| rmkit | cpp | harmony, mines, remux |
+| qtsgepaper | cpp+qt 	 | calculator, draft, oxide, wikipedia, keywriter, chess2 |
+| koreader base | cpp+lua 	 | koreader |
 
 
 
