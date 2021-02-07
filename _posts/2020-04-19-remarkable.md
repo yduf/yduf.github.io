@@ -1,7 +1,7 @@
 ---
 published: true
 title: reMarkable 2
-tags: epaper hardware remarkable
+tags: epaper hardware stylus remarkable
 ---
 > The reMarkable is a paper tablet for those who prefer writing on paper, rather than keyboards. Its remarkably fast paper-white display, Linux based operating system and awesome community make it highly attractive amongst hackers and developers. - [r/RemarkableTablet](https://www.reddit.com/r/RemarkableTablet/)
 
