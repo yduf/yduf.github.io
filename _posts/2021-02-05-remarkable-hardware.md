@@ -41,7 +41,7 @@ supports-register-dump: no
 supports-priv-flags: no
 {% endhighlight %}
 
-{% highlight cpp %}
+{% highlight bash %}
 $ lsmod | grep cdc
 cdc_ether              20480  0
 usbnet                 45056  2 cdc_ether,ax88179_178a
