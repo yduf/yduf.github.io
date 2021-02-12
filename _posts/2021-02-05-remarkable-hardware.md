@@ -16,6 +16,7 @@ tags: remarkable hardware
 ## USB Ethernet interface
 Remarkable rM2 device
 {% highlight bash %}
+Bus 001 Device 019: ID 04b3:4010 IBM Corp.
 Bus 003 Device 008: ID 04b3:4010 IBM Corp. 4-Port USB 2.0 Hub
 {% endhighlight %}
 
