@@ -14,6 +14,10 @@ tags: remarkable hardware
 - Accessory port - [Pogo connector](https://www.reddit.com/r/RemarkableTablet/comments/j9g1d5/rm2_with_an_external_keyboard_accessory_port_usage/) - dot on left side is in fact a [host usb connector](https://imgur.com/gallery/TRuN0jc).
 
 ## USB Ethernet interface
+Remarkable rM2 device
+{% highlight bash %}
+Bus 003 Device 008: ID 04b3:4010 IBM Corp. 4-Port USB 2.0 Hub
+{% endhighlight %}
 
 {% highlight bash %}
 $ ifconfig
@@ -45,6 +49,18 @@ supports-priv-flags: no
 $ lsmod | grep cdc
 cdc_ether              20480  0
 usbnet                 45056  2 cdc_ether,ax88179_178a
+{% endhighlight %}
+
+dmesg
+
+{% highlight bash %}
+[   82.766555] usb 3-2.2: new high-speed USB device number 8 using xhci_hcd
+[   82.869459] usb 3-2.2: New USB device found, idVendor=04b3, idProduct=4010, bcdDevice= 4.14
+[   82.869462] usb 3-2.2: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+[   82.869464] usb 3-2.2: Product: RNDIS/Ethernet Gadget
+[   82.869465] usb 3-2.2: Manufacturer: Linux 4.14.78 with 30b20000.usb
+[   82.917995] cdc_ether 3-2.2:1.0 usb0: register 'cdc_ether' at usb-0000:09:00.3-2.2, CDC Ethernet Device, a6:94:aa:fa:e4:b6
+[   82.930455] cdc_ether 3-2.2:1.0 enxa694aafae4b6: renamed from usb0
 {% endhighlight %}
 
 ## Resources
