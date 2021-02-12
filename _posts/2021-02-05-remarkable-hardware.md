@@ -2,7 +2,6 @@
 published: true
 title: reMarkable Hardware
 tags: remarkable hardware
-excerpt_separator: ''
 ---
 ## [Hardware (rM2)](https://remarkable.com/store/remarkable-2) / [Photo](https://www.reddit.com/r/RemarkableTablet/comments/kcqzdy/broke_my_remarkable_2_it_was_knocked_off_the/)
 [Spec](https://remarkable.com/#Specifications) 
@@ -13,7 +12,21 @@ excerpt_separator: ''
 - Wi-Fi 2.4GHz and 5GHz
 - USB-C
 - Accessory port - [Pogo connector](https://www.reddit.com/r/RemarkableTablet/comments/j9g1d5/rm2_with_an_external_keyboard_accessory_port_usage/) - dot on left side is in fact a [host usb connector](https://imgur.com/gallery/TRuN0jc).
-  
+
+## USB Ethernet interface
+
+{% highlight bash %}
+$ ifconfig
+enxa694aafae4b6: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.11.99.3  netmask 255.255.255.248  broadcast 10.11.99.7
+        inet6 fe80::3486:238c:64ee:51af  prefixlen 64  scopeid 0x20<link>
+        ether a6:94:aa:fa:e4:b6  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 404 (404.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 42  bytes 8772 (8.7 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+{% endhighlight %}
+
 ## Resources
 - [reMarkable2 Teardown Guide](https://www.reddit.com/r/RemarkableTablet/comments/l0vq8f/remarkable2_teardown_guide/)
   	- [reMarkable2 Button Stuck in Pressed Position Repair Guide](https://www.reddit.com/r/RemarkableTablet/comments/l0x9y6/remarkable2_button_stuck_in_pressed_position/)
