@@ -1,7 +1,7 @@
 ---
 title: Have I been pwned ?
 published: true
-tags: security
+tags: internet security
 ---
 ## [check here](https://haveibeenpwned.com/) / [passpwn](https://github.com/antonlindstrom/passpwn)
 
