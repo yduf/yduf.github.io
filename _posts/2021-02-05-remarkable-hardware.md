@@ -27,6 +27,26 @@ enxa694aafae4b6: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 {% endhighlight %}
 
+{% highlight cpp %}
+$ ethtool -i enxa694aafae4b6
+driver: cdc_ether
+version: 22-Aug-2005
+firmware-version: CDC Ethernet Device
+expansion-rom-version: 
+bus-info: usb-0000:00:14.0-3.2
+supports-statistics: no
+supports-test: no
+supports-eeprom-access: no
+supports-register-dump: no
+supports-priv-flags: no
+{% endhighlight %}
+
+{% highlight cpp %}
+$ lsmod | grep cdc
+cdc_ether              20480  0
+usbnet                 45056  2 cdc_ether,ax88179_178a
+{% endhighlight %}
+
 ## Resources
 - [reMarkable2 Teardown Guide](https://www.reddit.com/r/RemarkableTablet/comments/l0vq8f/remarkable2_teardown_guide/)
   	- [reMarkable2 Button Stuck in Pressed Position Repair Guide](https://www.reddit.com/r/RemarkableTablet/comments/l0x9y6/remarkable2_button_stuck_in_pressed_position/)
