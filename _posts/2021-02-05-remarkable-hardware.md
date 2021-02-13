@@ -64,6 +64,33 @@ dmesg
 [   82.930455] cdc_ether 3-2.2:1.0 enxa694aafae4b6: renamed from usb0
 {% endhighlight %}
 
+# Issue
+## 10.11.99.1 not reachable
+Usb is recognized but no ethernet interface associated
+
+`ifconfig` => nothing because interface is down
+vs `ifconfig -a`
+{% highlight bash %}
+enxa694aafae4b6: flags=4098<BROADCAST,MULTICAST>  mtu 1500
+        ether a6:94:aa:fa:e4:b6  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+{% endhighlight %}
+
+vs `ip address show`
+{% highlight bash %}
+5: enxa694aafae4b6: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000
+    link/ether a6:94:aa:fa:e4:b6 brd ff:ff:ff:ff:ff:ff
+{% endhighlight %}
+
+For wathever reason, the link is down and no ipv4 is setup. [Workaround to resolve this](https://www.tecmint.com/ifconfig-command-examples/)
+{% highlight bash %}
+sudo ifconfig enxa694aafae4b6 up
+sudo ifconfig enxa694aafae4b6 10.11.99.1
+{% endhighlight %}
+
 ## Resources
 - [reMarkable2 Teardown Guide](https://www.reddit.com/r/RemarkableTablet/comments/l0vq8f/remarkable2_teardown_guide/)
   	- [reMarkable2 Button Stuck in Pressed Position Repair Guide](https://www.reddit.com/r/RemarkableTablet/comments/l0x9y6/remarkable2_button_stuck_in_pressed_position/)
