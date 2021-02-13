@@ -50,5 +50,9 @@ Restart=always
 WantedBy=multi-user.target
 {% endhighlight %}
 
+## [Wayland ?]()
+- [barrier support](https://github.com/debauchee/barrier/issues/109)
+
 ## Alternative
 - [htrefil/rkvm](https://github.com/htrefil/rkvm) / [HN](https://news.ycombinator.com/item?id=24950817) - a tool for sharing keyboard and mouse across multiple Linux computers.
+- [Best Synergy Alternative](https://rigorousthemes.com/blog/best-synergy-alternative/)
