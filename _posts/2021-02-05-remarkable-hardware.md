@@ -77,6 +77,11 @@ sudo ifconfig enxa694aafae4b6 up
 sudo ifconfig enxa694aafae4b6 10.11.99.1
 {% endhighlight %}
 
+Followup/TODO => have a look at 
+- [1](https://unix.stackexchange.com/questions/386162/how-to-set-up-an-usb-ethernet-interface-in-linux)
+- [2](https://unix.stackexchange.com/questions/388300/udev-does-not-rename-usb-ethernet-device)
+- [3](https://www.kernel.org/doc/html/v5.8/usb/gadget_multi.html)
+
 ## Resources
 - [reMarkable2 Teardown Guide](https://www.reddit.com/r/RemarkableTablet/comments/l0vq8f/remarkable2_teardown_guide/)
   	- [reMarkable2 Button Stuck in Pressed Position Repair Guide](https://www.reddit.com/r/RemarkableTablet/comments/l0x9y6/remarkable2_button_stuck_in_pressed_position/)
