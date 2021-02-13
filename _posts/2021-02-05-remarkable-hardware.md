@@ -14,12 +14,13 @@ tags: remarkable hardware
 - Accessory port - [Pogo connector](https://www.reddit.com/r/RemarkableTablet/comments/j9g1d5/rm2_with_an_external_keyboard_accessory_port_usage/) - dot on left side is in fact a [host usb connector](https://imgur.com/gallery/TRuN0jc).
 
 ## USB Ethernet interface
-Remarkable rM2 device
+### Remarkable rM2 device
 {% highlight bash %}
 Bus 001 Device 019: ID 04b3:4010 IBM Corp.
 Bus 003 Device 008: ID 04b3:4010 IBM Corp. 4-Port USB 2.0 Hub
 {% endhighlight %}
 
+### ifconfig
 {% highlight bash %}
 $ ifconfig
 enxa694aafae4b6: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
@@ -46,14 +47,14 @@ supports-register-dump: no
 supports-priv-flags: no
 {% endhighlight %}
 
+Driver is cdc_ether
 {% highlight bash %}
 $ lsmod | grep cdc
 cdc_ether              20480  0
-usbnet                 45056  2 cdc_ether,ax88179_178a
+usbnet                 45056  1 cdc_ether
 {% endhighlight %}
 
-dmesg
-
+### dmesg
 {% highlight bash %}
 [   82.766555] usb 3-2.2: new high-speed USB device number 8 using xhci_hcd
 [   82.869459] usb 3-2.2: New USB device found, idVendor=04b3, idProduct=4010, bcdDevice= 4.14
@@ -66,7 +67,7 @@ dmesg
 
 # Issue
 ## 10.11.99.1 not reachable
-Usb is recognized but no ethernet interface associated
+Usb is recognized (dmesg similar to above) but no working ethernet interface associated.
 
 `ifconfig` => nothing because interface is down
 vs `ifconfig -a`
