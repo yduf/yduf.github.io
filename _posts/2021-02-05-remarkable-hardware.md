@@ -17,7 +17,6 @@ tags: remarkable hardware
 ### Remarkable rM2 device
 {% highlight bash %}
 Bus 001 Device 019: ID 04b3:4010 IBM Corp.
-Bus 003 Device 008: ID 04b3:4010 IBM Corp. 4-Port USB 2.0 Hub
 {% endhighlight %}
 
 ### ifconfig
@@ -33,27 +32,6 @@ enxa694aafae4b6: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 {% endhighlight %}
 
-{% highlight cpp %}
-$ ethtool -i enxa694aafae4b6
-driver: cdc_ether
-version: 22-Aug-2005
-firmware-version: CDC Ethernet Device
-expansion-rom-version: 
-bus-info: usb-0000:00:14.0-3.2
-supports-statistics: no
-supports-test: no
-supports-eeprom-access: no
-supports-register-dump: no
-supports-priv-flags: no
-{% endhighlight %}
-
-Driver is cdc_ether
-{% highlight bash %}
-$ lsmod | grep cdc
-cdc_ether              20480  0
-usbnet                 45056  1 cdc_ether
-{% endhighlight %}
-
 ### dmesg
 {% highlight bash %}
 [   82.766555] usb 3-2.2: new high-speed USB device number 8 using xhci_hcd
@@ -63,6 +41,13 @@ usbnet                 45056  1 cdc_ether
 [   82.869465] usb 3-2.2: Manufacturer: Linux 4.14.78 with 30b20000.usb
 [   82.917995] cdc_ether 3-2.2:1.0 usb0: register 'cdc_ether' at usb-0000:09:00.3-2.2, CDC Ethernet Device, a6:94:aa:fa:e4:b6
 [   82.930455] cdc_ether 3-2.2:1.0 enxa694aafae4b6: renamed from usb0
+{% endhighlight %}
+
+Driver is cdc_ether
+{% highlight bash %}
+$ lsmod | grep cdc
+cdc_ether              20480  0
+usbnet                 45056  1 cdc_ether
 {% endhighlight %}
 
 # Issue
