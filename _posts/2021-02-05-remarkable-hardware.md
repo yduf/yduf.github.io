@@ -82,6 +82,13 @@ Followup/TODO => have a look at
 - [2](https://unix.stackexchange.com/questions/388300/udev-does-not-rename-usb-ethernet-device)
 - [3](https://www.kernel.org/doc/html/v5.8/usb/gadget_multi.html)
 
+Additional issue only public key available for this pc ?
+
+{% highlight cpp %}
+ssh -v -v -v -o PreferredAuthentications=password -o PubkeyAuthentication=no root@10.11.99.1 
+{% endhighlight %}
+
+
 ## Resources
 - [reMarkable2 Teardown Guide](https://www.reddit.com/r/RemarkableTablet/comments/l0vq8f/remarkable2_teardown_guide/)
   	- [reMarkable2 Button Stuck in Pressed Position Repair Guide](https://www.reddit.com/r/RemarkableTablet/comments/l0x9y6/remarkable2_button_stuck_in_pressed_position/)
