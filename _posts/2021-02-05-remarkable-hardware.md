@@ -74,7 +74,7 @@ vs `ip address show`
 For wathever reason, the link is down and no ipv4 is setup. [Workaround to resolve this (not persistant)](https://www.tecmint.com/ifconfig-command-examples/)
 {% highlight bash %}
 sudo ifconfig enxa694aafae4b6 up
-sudo ifconfig enxa694aafae4b6 10.11.99.1
+sudo ifconfig enxa694aafae4b6 10.11.99.1 netmask 255.255.255.248 
 {% endhighlight %}
 
 Followup/TODO => have a look at 
