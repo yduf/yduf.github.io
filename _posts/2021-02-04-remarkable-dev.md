@@ -40,7 +40,10 @@ docker container run -it --rm ghcr.io/toltec-dev/qt:v1.1
 
 {% highlight bash %}
 make examples-docker
+make deploy-demo
 {% endhighlight %}
+
+`demo` can be launched on rM2, using remux if place d inside [`/home/root/apps`](https://github.com/rmkit-dev/rmkit/issues/94#issuecomment-778794274)
 
 ### [rmkit](https://github.com/rmkit-dev/rmkit/blob/master/docs/BUILDING.md) / [Home](https://rmkit.dev/)
 
