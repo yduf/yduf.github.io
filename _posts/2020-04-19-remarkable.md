@@ -108,6 +108,7 @@ For an [rM1 app](https://github.com/ddvk/remarkable2-framebuffer/issues/14) to w
 ### [Apps](https://toltec-dev.org/stable/)
 - [remux](https://github.com/rmkit-dev/rmkit) - Launcher / swipe up on left or right side to activate.
   	- Issue [\[remux\] battery drain](https://github.com/rmkit-dev/rmkit/issues/43)
+	- you can put a binary in [`/home/root/apps`](https://github.com/rmkit-dev/rmkit/issues/94#issuecomment-778794274) and remux should list it. make sure it is `chmod +x`
 {% highlight bash %}
 opkg install remux
 {% endhighlight %}
