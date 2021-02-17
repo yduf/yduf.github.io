@@ -143,6 +143,7 @@ opkg install remux
     - [pdf reader not very good](https://www.youtube.com/watch?v=iD5wTA96wNg) as well as epub
 
 ## Alternative OS
+- [custom kernel](https://github.com/reMarkable/linux/issues/8#issue-736541383)
 - [Parabola-rM](http://www.davisr.me/projects/parabola-rm/) can be run as chroot
   	- [Desktop Linux on reMarkable: Xournal, Doom, and more (feat. fast display updates)](https://old.reddit.com/r/RemarkableTablet/comments/gkktxy/desktop_linux_on_remarkable_xournal_doom_and_more/)
 
