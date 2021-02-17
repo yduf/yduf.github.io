@@ -1,19 +1,9 @@
 ---
 published: true
-tags: raspberry-pi pi
+tags: raspberry-pi network security
+title: OpenWRT
 ---
-## [Pi-3](https://lede-project.org/toh/views/toh_fwdownload?dataflt%5BBrand*%7E%5D=rasp)
-
-## [change default ip](https://forum.openwrt.org/viewtopic.php?id=41716)
-
-in order to avoid being on an inaccessible subnet
-
-```
-uci set network.lan.ipaddr=111.222.333.444
-uci commit network
-/etc/init.d/network restart
-```
-
+> [Raspberry-pi support](https://openwrt.org/toh/raspberry_pi_foundation/raspberry_pi)
 
 ## [Walktough](https://computers.tutsplus.com/articles/installing-openwrt-on-a-raspberry-pi-as-a-new-home-firewall--mac-55984)
 
