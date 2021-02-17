@@ -58,14 +58,28 @@ arm-linux-gnueabihf-g++ main.cpp
 
 ### [libremarkable](https://github.com/canselcik/libremarkable) - A **low latency** Framework for Remarkable Tablet
 - [using with Qt](https://github.com/canselcik/libremarkable/issues/12)
-- [C CPP Build Instructions](https://github.com/canselcik/libremarkable/wiki/C-CPP-Build-Instructions)
-
+Rust code
 {% highlight bash %}
 make examples-docker
 make deploy-demo
 {% endhighlight %}
 
 `demo` can be launched on rM2, using remux if place d inside [`/home/root/apps`](https://github.com/rmkit-dev/rmkit/issues/94#issuecomment-778794274)
+
+- [C CPP Build Instructions](https://github.com/canselcik/libremarkable/wiki/C-CPP-Build-Instructions)
+	- Install **debian cross compilation tools** cross compilation tool.
+	- change to HOST=arm-linux
+    
+{% highlight bash %}
+dpkg --add-architecture armhf
+sudo apt-get update
+sudo dpkg --add-architecture armhf
+
+git submodule init && git submodule update
+make freetype
+make libremarkable			# comment # include $(CONFIG)
+make poc
+{% endhighlight %}
 
 ### [rmkit](https://github.com/rmkit-dev/rmkit/blob/master/docs/BUILDING.md) / [Home](https://rmkit.dev/)
 
