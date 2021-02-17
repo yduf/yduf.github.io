@@ -1,7 +1,7 @@
 ---
 published: true
 title: Dev on reMarkable
-tags: dev remarkable
+tags: dev remarkable arm cross-compile
 ---
 see also 
 - [reMarkable Hardware]({% post_url 2021-02-05-remarkable-hardware %})
