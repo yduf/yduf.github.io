@@ -56,7 +56,7 @@ arm-linux-gnueabihf-g++ main.cpp
 
 ## Dev / [Awesome reMarkable](https://awesomeopensource.com/project/reHackable/awesome-reMarkable)
 
-### rM2 using rm2fb
+### rM2 using [rm2fb](https://remarkablewiki.com/devel/qt_creator#toolchain)
 {% highlight bash %}
 systemctl stop xochitl
 
