@@ -25,7 +25,7 @@ see also
 The official toolchain is no longer distributed by reMarkable.
 
 ### [Toltec build toolchain](https://github.com/toltec-dev/toolchain/) - set of [docker images](https://github.com/orgs/toltec-dev/packages) used for cross-compiling binaries for the the reMarkable tablet.
-    - [use VSCode remote container]({% post_url 2017-11-27-CG-meanmax %}) with .devcontainer.json *Remote-Containers: Reopen in Container*
+- [use VSCode remote container]({% post_url 2017-11-27-CG-meanmax %}) with .devcontainer.json *Remote-Containers: Reopen in Container*
 {% highlight json %}
 {
     "image": "ghcr.io/toltec-dev/qt:v1.3.2s"
