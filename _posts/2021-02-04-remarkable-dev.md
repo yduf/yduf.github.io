@@ -59,6 +59,7 @@ arm-linux-gnueabihf-g++ main.cpp
 ### rM2 using rm2fb
 {% highlight bash %}
 systemctl stop xochitl
+
 LD_PRELOAD=/opt/lib/librm2fb_client.so.1.0.0/librm2fb_client.so.1.0.0 <rmapp>
 # or
 /opt/bin/rm2fb-client <rmapp>
