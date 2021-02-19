@@ -56,6 +56,14 @@ arm-linux-gnueabihf-g++ main.cpp
 
 ## Dev / [Awesome reMarkable](https://awesomeopensource.com/project/reHackable/awesome-reMarkable)
 
+### rM2 using rm2fb
+{% highlight bash %}
+systemctl stop xochitl
+LD_PRELOAD=/opt/lib/librm2fb_client.so.1.0.0/librm2fb_client.so.1.0.0 <rmapp>
+# or
+/opt/bin/rm2fb-client <rmapp>
+{% endhighlight %}
+
 ### [libremarkable](https://github.com/canselcik/libremarkable) - A **low latency** Framework for Remarkable Tablet
 - [using with Qt](https://github.com/canselcik/libremarkable/issues/12)
 Rust code
