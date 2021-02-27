@@ -21,11 +21,7 @@ dpkg --print-foreign-architectures  # list foreign architecture
 This may conflict with `g++-multilib` that is needed by ([aptitude](https://askubuntu.com/questions/563178/the-following-packages-have-unmet-dependencies/1056378#1056378) resolution)
 {% highlight bash %}
 3)     libc6-dev-i386 recommends gcc-multilib      
-4)     libc6-dev-x32 recommends gcc-multilib       
-5)     llvm-amdgpu recommends gcc-multilib         
-6)     llvm-amdgpu recommends g++-multilib         
-7)     openmp-extras recommends gcc-multilib       
-8)     openmp-extras recommends g++-multilib 
+...
 {% endhighlight %} 
 
 {% highlight bash %}
