@@ -4,7 +4,8 @@ title: ARM Cross compiler
 tags: arm cross-compile
 ---
 ## [ARM architecture](https://monicagranbois.com/blog/raspberrypi/error-package-architecture-arm-does-not-match-system-armhf/)
-Do I need foreign architecture for cross-compiling? => I don't know
+Do I need to add foreign architecture for cross-compiling?
+**No**, it is possible to install g++-arm-linux-gnueabihf without adding armhf architecture.
 
 - **arm** is the original Debian ABI for the ARM architecture. It is now considered obsolete and newer ports such as armel and armhf have replaced it. 
 - **armel** is the default Debain port for the ARM architecture
@@ -28,14 +29,8 @@ This may conflict with `g++-multilib` that is needed by ([aptitude](https://asku
 {% endhighlight %} 
 
 {% highlight bash %}
-# add multi-arch for "armhf"
-# https://wiki.debian.org/Multiarch/HOWTO
-dpkg --add-architecture armhf
-apt-get update
-
 # install C/C++ compiler and standard libs
 apt-get install g++-arm-linux-gnueabihf gcc-arm-linux-gnueabihf
-apt-get install libstdc++6:armhf libelf-dev:armhf
 
 # compile something
 arm-linux-gnueabihf-g++ main.cpp
