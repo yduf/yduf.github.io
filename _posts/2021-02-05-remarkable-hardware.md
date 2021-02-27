@@ -57,7 +57,9 @@ Usb is recognized (dmesg similar to above) but no working ethernet interface ass
 network:
   ethernets:
     # remarkable
-    enxa29094bedecc:
+    usb:
+     match:
+       name: enxa*
      dhcp4: yes
 {% endhighlight %}
 
