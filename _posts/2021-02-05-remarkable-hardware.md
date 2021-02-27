@@ -58,7 +58,7 @@ usbnet                 45056  1 cdc_ether
 {% endhighlight %}
 
 # Issue
-## 10.11.99.1 not reachable
+## [10.11.99.1 not reachable](https://remarkablewiki.com/tech/ssh#fedora_33)
 Usb is recognized (dmesg similar to above) but no working ethernet interface associated.
 
 `ifconfig` => nothing because interface is down
@@ -80,8 +80,12 @@ vs `ip address show`
 
 For wathever reason, the link is down and no ipv4 is setup. [Workaround to resolve this (not persistant)](https://www.tecmint.com/ifconfig-command-examples/)
 {% highlight bash %}
-sudo ifconfig enxa694aafae4b6 up
-sudo ifconfig enxa694aafae4b6 10.11.99.1 netmask 255.255.255.248 
+# host must have a different ip (10.11.99.2)
+# than remarkable that must be the gateway (10.11.99.1) with routing different than default
+sudo ip addr add 10.11.99.2/8 dev enxa694aafae4b6
+sudo ip link set enxa694aafae4b6 up
+sudo ip route delete default via 10.11.99.2 dev enxa694aafae4b6
+sudo ip route add 10.11.99.1/8 dev enxa694aafae4b6 metric 100
 {% endhighlight %}
 
 Followup/TODO => have a look at 
