@@ -46,7 +46,7 @@ usbnet                 45056  1 cdc_ether
 
 # Issue
 ## [10.11.99.1 not reachable](https://remarkablewiki.com/tech/ssh#fedora_33)
-Usb is recognized (dmesg similar to above) but no working ethernet interface associated.
+Usb is recognized (dmesg similar to above) but no working ethernet interface associated or the link is down.
 
 => This is because of network change I made to define a static ip for thist host. see [network]({% post_url 2017-07-16-network %}). 
 
@@ -61,7 +61,7 @@ network:
      dhcp4: yes
 {% endhighlight %}
 
-For wathever reason, the link is down and no ipv4 is setup. [Workaround to resolve this (not persistant)](https://www.howtogeek.com/657911/how-to-use-the-ip-command-on-linux/).
+### Manual [Workaround to resolve this (not persistant)](https://www.howtogeek.com/657911/how-to-use-the-ip-command-on-linux/).
 
 **Host** must have a different ip (10.11.99.2) than remarkable which  must be the **gateway** (10.11.99.1) with routing different the **default**
 
