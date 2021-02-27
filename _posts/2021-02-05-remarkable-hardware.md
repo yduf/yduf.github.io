@@ -26,19 +26,6 @@ The current workaround to get rm1 apps working on the rm2 is using the [remarkab
 Bus 001 Device 019: ID 04b3:4010 IBM Corp.
 {% endhighlight %}
 
-### ifconfig
-{% highlight bash %}
-$ ifconfig
-enxa694aafae4b6: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
-        inet 10.11.99.3  netmask 255.255.255.248  broadcast 10.11.99.7
-        inet6 fe80::3486:238c:64ee:51af  prefixlen 64  scopeid 0x20<link>
-        ether a6:94:aa:fa:e4:b6  txqueuelen 1000  (Ethernet)
-        RX packets 2  bytes 404 (404.0 B)
-        RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 42  bytes 8772 (8.7 KB)
-        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
-{% endhighlight %}
-
 ### dmesg
 {% highlight bash %}
 [   82.766555] usb 3-2.2: new high-speed USB device number 8 using xhci_hcd
@@ -61,33 +48,28 @@ usbnet                 45056  1 cdc_ether
 ## [10.11.99.1 not reachable](https://remarkablewiki.com/tech/ssh#fedora_33)
 Usb is recognized (dmesg similar to above) but no working ethernet interface associated.
 
-=> This is probably because of network change I made to define a static ip for thist host. see [network]({% post_url 2017-07-16-network %})
+=> This is because of network change I made to define a static ip for thist host. see [network]({% post_url 2017-07-16-network %}). 
 
-`ifconfig` => nothing because interface is down
-vs `ifconfig -a`
+- when using networkd, an interface is created but down and not properly setup.
+- when using NetworkManager no interface is created unless explicitly authorized:
+
 {% highlight bash %}
-enxa694aafae4b6: flags=4098<BROADCAST,MULTICAST>  mtu 1500
-        ether a6:94:aa:fa:e4:b6  txqueuelen 1000  (Ethernet)
-        RX packets 0  bytes 0 (0.0 B)
-        RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 0  bytes 0 (0.0 B)
-        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+network:
+  ethernets:
+    # remarkable
+    enxa29094bedecc:
+     dhcp4: yes
 {% endhighlight %}
 
-vs `ip address show`
-{% highlight bash %}
-5: enxa694aafae4b6: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000
-    link/ether a6:94:aa:fa:e4:b6 brd ff:ff:ff:ff:ff:ff
-{% endhighlight %}
+For wathever reason, the link is down and no ipv4 is setup. [Workaround to resolve this (not persistant)](https://www.howtogeek.com/657911/how-to-use-the-ip-command-on-linux/).
 
-For wathever reason, the link is down and no ipv4 is setup. [Workaround to resolve this (not persistant)](https://www.howtogeek.com/657911/how-to-use-the-ip-command-on-linux/)
+**Host** must have a different ip (10.11.99.2) than remarkable which  must be the **gateway** (10.11.99.1) with routing different the **default**
+
 {% highlight bash %}
-# host must have a different ip (10.11.99.2)
-# than remarkable that must be the gateway (10.11.99.1) with routing different than default
-sudo ip addr add 10.11.99.2/8 dev enxa694aafae4b6
-sudo ip link set enxa694aafae4b6 up
-sudo ip route delete default via 10.11.99.2 dev enxa694aafae4b6
-sudo ip route add 10.11.99.1/8 dev enxa694aafae4b6 metric 100
+sudo ip addr add 10.11.99.2/8 dev enxa29094bedecc
+sudo ip link set enxa29094bedecc up
+sudo ip route delete default via 10.11.99.2 dev enxa29094bedecc
+sudo ip route add 10.11.99.1/8 dev enxa29094bedecc metric 100
 {% endhighlight %}
 
 Followup/TODO => have a look at 
