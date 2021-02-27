@@ -24,6 +24,8 @@ see also
 ## [Setup toolchain](https://remarkablewiki.com/devel/toolchain)
 The official toolchain is no longer distributed by reMarkable.
 
+### [Debian cross compilation tools]({% post_url 2021-02-27-arm-cross-compile %})
+
 ### [Toltec build toolchain](https://github.com/toltec-dev/toolchain/) - set of [docker images](https://github.com/orgs/toltec-dev/packages) used for cross-compiling binaries for the the reMarkable tablet.
 - [use VSCode remote container]({% post_url 2017-11-27-CG-meanmax %}) with .devcontainer.json *Remote-Containers: Reopen in Container*
 {% highlight json %}
@@ -37,22 +39,7 @@ The official toolchain is no longer distributed by reMarkable.
 docker container run -it --rm ghcr.io/toltec-dev/qt:v1.1
 {% endhighlight %}
 
-### [dockcross](https://github.com/dockcross/dockcross) / [Exploring the reMarkable via Shell](https://plasma.ninja/blog/devices/remarkable/2017/12/18/reMarkable-exporation.html)
-
-### [debian cross compilation tools](https://plasma.ninja/blog/devices/remarkable/2017/12/18/reMarkable-exporation.html)
-{% highlight bash %}
-# add multi-arch for "armhf"
-# https://wiki.debian.org/Multiarch/HOWTO
-dpkg --add-architecture armhf
-apt-get update
-
-# install C/C++ compiler and standard libs
-apt-get install g++-arm-linux-gnueabihf gcc-arm-linux-gnueabihf
-apt-get install libstdc++6:armhf libelf-dev:armhf
-
-# compile something
-arm-linux-gnueabihf-g++ main.cpp
-{% endhighlight %}
+### [Dockcross](https://github.com/dockcross/dockcross) / [Exploring the reMarkable via Shell](https://plasma.ninja/blog/devices/remarkable/2017/12/18/reMarkable-exporation.html)
 
 ## Dev / [Awesome reMarkable](https://awesomeopensource.com/project/reHackable/awesome-reMarkable)
 
