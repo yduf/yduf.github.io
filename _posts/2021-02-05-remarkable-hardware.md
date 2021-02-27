@@ -61,6 +61,8 @@ usbnet                 45056  1 cdc_ether
 ## [10.11.99.1 not reachable](https://remarkablewiki.com/tech/ssh#fedora_33)
 Usb is recognized (dmesg similar to above) but no working ethernet interface associated.
 
+=> This is probably because of network change I made to define a static ip for thist host. see [network]({% post_url 2017-07-16-network %})
+
 `ifconfig` => nothing because interface is down
 vs `ifconfig -a`
 {% highlight bash %}
