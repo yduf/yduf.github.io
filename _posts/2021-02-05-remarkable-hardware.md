@@ -95,7 +95,8 @@ Followup/TODO => have a look at
 - [2](https://unix.stackexchange.com/questions/388300/udev-does-not-rename-usb-ethernet-device)
 - [3](https://www.kernel.org/doc/html/v5.8/usb/gadget_multi.html)
 
-Additional issue only public key available for this pc ?
+### Additional issue only public key available for this pc ?
+I messed up the network config for the remarkable (host ip/gateway). so ssh root@10.11.99.1 bring me back to the host, not the remarkable, and the host has password disabled.
 
 {% highlight cpp %}
 ssh -v -v -v -o PreferredAuthentications=password -o PubkeyAuthentication=no root@10.11.99.1 
