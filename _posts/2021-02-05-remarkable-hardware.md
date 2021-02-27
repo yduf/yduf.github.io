@@ -72,11 +72,6 @@ sudo ip route delete default via 10.11.99.2 dev enxa29094bedecc
 sudo ip route add 10.11.99.1/8 dev enxa29094bedecc metric 100
 {% endhighlight %}
 
-Followup/TODO => have a look at 
-- [1](https://unix.stackexchange.com/questions/386162/how-to-set-up-an-usb-ethernet-interface-in-linux)
-- [2](https://unix.stackexchange.com/questions/388300/udev-does-not-rename-usb-ethernet-device)
-- [3](https://www.kernel.org/doc/html/v5.8/usb/gadget_multi.html)
-
 ### Additional issue only public key available for this pc ?
 I had messed up the network config for the remarkable (host ip vs gateway). so ssh root@10.11.99.1 brougth me back to the host - _not the remarkable_ -, and the host has password authentication disabled.
 
