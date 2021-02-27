@@ -78,7 +78,7 @@ vs `ip address show`
     link/ether a6:94:aa:fa:e4:b6 brd ff:ff:ff:ff:ff:ff
 {% endhighlight %}
 
-For wathever reason, the link is down and no ipv4 is setup. [Workaround to resolve this (not persistant)](https://www.tecmint.com/ifconfig-command-examples/)
+For wathever reason, the link is down and no ipv4 is setup. [Workaround to resolve this (not persistant)](https://www.howtogeek.com/657911/how-to-use-the-ip-command-on-linux/)
 {% highlight bash %}
 # host must have a different ip (10.11.99.2)
 # than remarkable that must be the gateway (10.11.99.1) with routing different than default
