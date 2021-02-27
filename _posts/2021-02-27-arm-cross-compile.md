@@ -16,6 +16,17 @@ dpkg --print-foreign-architectures  # list foreign architecture
 {% endhighlight %}
 
 ## [Debian cross compilation tools](https://plasma.ninja/blog/devices/remarkable/2017/12/18/reMarkable-exporation.html)
+
+This may conflict with `g++-multilib` that is needed by
+{% highlight bash %}
+3)     libc6-dev-i386 recommends gcc-multilib      
+4)     libc6-dev-x32 recommends gcc-multilib       
+5)     llvm-amdgpu recommends gcc-multilib         
+6)     llvm-amdgpu recommends g++-multilib         
+7)     openmp-extras recommends gcc-multilib       
+8)     openmp-extras recommends g++-multilib 
+{% endhighlight %} 
+
 {% highlight bash %}
 # add multi-arch for "armhf"
 # https://wiki.debian.org/Multiarch/HOWTO
