@@ -12,7 +12,7 @@ Do I need to add foreign architecture for cross-compiling?
 - **armhf** is a port that uses the “hard” Floating Point Unit. 
 
 {% highlight bash %}
-dpkg --print-architecture			# list native architecture
+dpkg --print-architecture           # list native architecture
 dpkg --print-foreign-architectures  # list foreign architecture
 {% endhighlight %}
 
