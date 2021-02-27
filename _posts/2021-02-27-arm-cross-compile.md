@@ -17,7 +17,7 @@ dpkg --print-foreign-architectures  # list foreign architecture
 
 ## [Debian cross compilation tools](https://plasma.ninja/blog/devices/remarkable/2017/12/18/reMarkable-exporation.html)
 
-This may conflict with `g++-multilib` that is needed by
+This may conflict with `g++-multilib` that is needed by ([aptitude](https://askubuntu.com/questions/563178/the-following-packages-have-unmet-dependencies/1056378#1056378) resolution)
 {% highlight bash %}
 3)     libc6-dev-i386 recommends gcc-multilib      
 4)     libc6-dev-x32 recommends gcc-multilib       
