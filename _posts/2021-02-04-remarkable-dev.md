@@ -44,9 +44,11 @@ docker container run -it --rm ghcr.io/toltec-dev/qt:v1.1
 ## Dev / [Awesome reMarkable](https://awesomeopensource.com/project/reHackable/awesome-reMarkable)
 
 ### rM2 using [rm2fb](https://remarkablewiki.com/devel/qt_creator#toolchain) / [doc](https://github.com/ddvk/remarkable2-framebuffer/issues/11)
-{% highlight bash %}
-systemctl stop xochitl
 
+<span style="color:red">[**Warning**]</span> to work it requires to use libc*.so (the dynamic version), so avoid using `-static` flags when compiling.
+
+{% highlight bash %}
+# systemctl stop xochitl # not sure still needed ?
 LD_PRELOAD=/opt/lib/librm2fb_client.so.1.0.0/librm2fb_client.so.1.0.0 <rmapp>
 # or
 /opt/bin/rm2fb-client <rmapp>
