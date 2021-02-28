@@ -45,7 +45,7 @@ docker container run -it --rm ghcr.io/toltec-dev/qt:v1.1
 
 ### rM2 using [rm2fb](https://remarkablewiki.com/devel/qt_creator#toolchain) / [doc](https://github.com/ddvk/remarkable2-framebuffer/issues/11)
 
-<span style="color:red">[**Warning**]</span> to work it requires to use libc*.so (the dynamic version), so avoid using `-static` flags when compiling.
+<span style="color:red">[**Warning**]</span> to work it requires to use libc*.so (the dynamic version), so avoid using [`-static` flags](https://stackoverflow.com/questions/49038088/does-gcc-links-to-libc-a-or-libc-so-by-default/49038236#49038236) when compiling.
 
 {% highlight bash %}
 # systemctl stop xochitl # not sure still needed ?
