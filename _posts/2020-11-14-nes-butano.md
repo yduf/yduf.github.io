@@ -1,7 +1,7 @@
 ---
 published: true
 title: Butano
-tags: 8bits
+tags: 8bit
 ---
 ## [Modern C++ high level GBA engine](https://github.com/GValiente/butano#butano)
 
