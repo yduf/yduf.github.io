@@ -1,7 +1,7 @@
 ---
 published: true
 tags: linux audio
-title: Jack (linux-audio)
+title: Jack (linux audio)
 ---
 ## Setup Jack Audio server
 
