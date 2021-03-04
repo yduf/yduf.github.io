@@ -1,7 +1,7 @@
 ---
 published: true
 title: Photos animation with NN (deep fake)
-tags: NN photos
+tags: NN photo
 ---
 > The image you see in your head is also a dream created by your brain's neural networks. - [HN](https://news.ycombinator.com/item?id=26279676) / [Deep Nostalgia](https://gizmodo.com/deep-nostalgia-can-turn-old-photos-of-your-relatives-1846363190)
 
