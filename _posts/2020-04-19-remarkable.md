@@ -22,7 +22,9 @@ see also
 - [Evidlo/remarkable_printer](https://github.com/Evidlo/remarkable_printer) - Print natively to your reMarkable with no extensions or reMarkable cloud.
 - [Rocketbook](https://www.reddit.com/r/RemarkableTablet/comments/k0tl0m/remarkablerocket_lol_i_mean_now_i_have/) - using a [Rocketbook template](https://getrocketbook.co.uk/pages/rocketbook-for-free) => Google/Dropbox Integration
 - [Remarkable Uploader Android App](https://play.google.com/store/apps/details?id=org.remadroid) / [r/RemarkableTablet](https://www.reddit.com/r/RemarkableTablet/comments/kcfht6/remarkable_uploader_android_app/)
-- [reStream](https://github.com/rien/reStream) - reMarkable screen sharing over SSH. - [now work on reMarkable 2](https://github.com/rien/reStream/issues/28) / [r/RemarkableTablet](https://www.reddit.com/r/RemarkableTablet/comments/kobr55/restream_now_supports_the_remarkable_2/) - remarkable screen can be seen as a webcam.
+- [project realtime annotations](https://www.reddit.com/r/RemarkableTablet/comments/lxluv7/is_there_any_way_to_project_realtime_annotations/)
+	- [rm2canvas](https://github.com/flomlo/rm2canvas) -  html canvas based screencasting server for the reMarkable.
+	- [reStream](https://github.com/rien/reStream) - reMarkable screen sharing over SSH. - [now work on reMarkable 2](https://github.com/rien/reStream/issues/28) / [r/RemarkableTablet](https://www.reddit.com/r/RemarkableTablet/comments/kobr55/restream_now_supports_the_remarkable_2/) - remarkable screen can be seen as a webcam.
 	- [rMview](https://github.com/bordaigorl/rmview) - is apparently faster (using vnc under the hood)
 - SVG Export
 	- [Fineliner and highlighter are single path strokes](https://www.reddit.com/r/RemarkableTablet/comments/kvdrbi/fineliner_and_highlighter_are_single_path_strokes/)
