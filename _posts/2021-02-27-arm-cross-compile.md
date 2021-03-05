@@ -33,7 +33,7 @@ arm-linux-gnueabihf-g++ main.cpp
 {% endhighlight %}
 
 ## [Meson arm cross compilation]({% post_url 2020-08-12-build-meson %})
-
+- [Meson cross compiling dependencies](https://stackoverflow.com/questions/48690290/meson-cross-compiling-dependencies#)
 
 ## [Running ARM programs under linux](https://gist.github.com/luk6xff/9f8d2520530a823944355e59343eadc1#running-arm-programs-under-linux-without-starting-qemu-vm)
 First, cross-compile user programs with GCC-ARM toolchain. Then install qemu-arm-static so that you can run ARM executables directly on linux
