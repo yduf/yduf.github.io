@@ -7,6 +7,6 @@ tags: screw
 
 - Phillips vs
 - Pozidrive
-- Robertson
-- Torx
-- Hexagonal
+- Robertson - square
+- Torx - star
+- Hexagonal 
