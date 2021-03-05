@@ -1,7 +1,7 @@
 ---
-title: C++ reference
+title: C++ Lang
 published: true
 tags: c++
-excerpt_separator: ""
 ---
-[link](http://en.cppreference.com/w/)
+- [c++ reference](http://en.cppreference.com/w/)
+- [r/cpp](https://www.reddit.com/r/cpp/)
