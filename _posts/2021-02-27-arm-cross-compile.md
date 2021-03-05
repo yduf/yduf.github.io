@@ -32,7 +32,7 @@ apt-get install g++-arm-linux-gnueabihf gcc-arm-linux-gnueabihf
 arm-linux-gnueabihf-g++ main.cpp
 {% endhighlight %}
 
-### [meson arm cross compilation]({% post_url 2020-08-12-build-meson %})
+## [Meson arm cross compilation]({% post_url 2020-08-12-build-meson %})
 
 
 ## [Running ARM programs under linux](https://gist.github.com/luk6xff/9f8d2520530a823944355e59343eadc1#running-arm-programs-under-linux-without-starting-qemu-vm)
