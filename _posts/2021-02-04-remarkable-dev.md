@@ -7,6 +7,8 @@ see also
 - [reMarkable Hardware]({% post_url 2021-02-05-remarkable-hardware %})
 - [rM discord](https://discord.com/channels/385916768696139794/386181213699702786)
 
+![caption](https://i.redd.it/imwxvv6c87l61.jpg)
+
 # [Introduction](https://dragly.org/2017/12/01/developing-for-the-remarkable/)
 
 [Frameworks in use around the rM1 community for building apps](https://github.com/ddvk/remarkable2-framebuffer/issues/14)
