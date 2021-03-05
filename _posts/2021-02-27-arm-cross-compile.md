@@ -32,6 +32,26 @@ apt-get install g++-arm-linux-gnueabihf gcc-arm-linux-gnueabihf
 arm-linux-gnueabihf-g++ main.cpp
 {% endhighlight %}
 
+### [meson arm cross compilation](https://sourceforge.net/p/meson/wiki/Cross%20compilation/)
+
+{% highlight bash %}
+name = 'linux'
+c = '/usr/bin/arm-linux-gnueabihf-gcc'
+cpp = '/usr/bin/arm-linux-gnueabihf-g++'
+ar = '/usr/arm-linux-gnueabihf/bin/ar'
+strip = '/usr/arm-linux-gnueabihf/bin/strip'
+
+sizeof_int = 4
+sizeof_wchar_t = 4
+sizeof_void* = 4
+
+alignment_char = 1
+alignment_void* = 4
+alignment_double = 4
+
+has_function_printf = true
+{% endhighlight %} 
+
 ## [Running ARM programs under linux](https://gist.github.com/luk6xff/9f8d2520530a823944355e59343eadc1#running-arm-programs-under-linux-without-starting-qemu-vm)
 First, cross-compile user programs with GCC-ARM toolchain. Then install qemu-arm-static so that you can run ARM executables directly on linux
 
