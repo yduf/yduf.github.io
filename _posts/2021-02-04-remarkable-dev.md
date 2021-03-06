@@ -120,8 +120,7 @@ $ ldd ./fb_test
         not a dynamic executable
 
 # For what it worth, trying to understand the script, I come to 
-# this, that do the job:
-  
+# this, that do the job:  
 $ LD_TRACE_LOADED_OBJECTS=1 /lib/ld-linux-armhf.so.3 ./fb_test 
         linux-vdso.so.1 (0x7eed6000)
         libstdc++.so.6 => /usr/lib/libstdc++.so.6 (0x76d8c000)
