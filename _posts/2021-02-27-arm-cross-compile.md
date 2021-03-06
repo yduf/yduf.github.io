@@ -37,7 +37,7 @@ arm-linux-gnueabihf-g++ main.cpp
 ## Setup cross library
 TBC
 ### [pkg-config](https://stackoverflow.com/questions/48690290/meson-cross-compiling-dependencies#)
-This tool searches, so called, package config files (`.pc`) using PKG_CONFIG_LIBDIR environment variable. 
+This tool searches, so called, package config files (`.pc`) using [PKG_CONFIG_LIBDIR](https://github.com/raspberrypi/tools/blob/master/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian/bin/arm-linux-gnueabihf-pkg-config) environment variable. 
 
 {% highlight bash %}
 $ sudo apt-get install -y pkg-config-arm-linux-gnueabi
