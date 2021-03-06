@@ -39,6 +39,10 @@ TBC
 ### [pkg-config](https://stackoverflow.com/questions/48690290/meson-cross-compiling-dependencies#)
 This tool searches, so called, package config files (`.pc`) using PKG_CONFIG_LIBDIR environment variable. 
 
+{% highlight bash %}
+$ sudo apt-get install -y pkg-config-arm-linux-gnueabi
+{% endhighlight %}
+
 - [Cross Compile a Beagleboard ARM OpenCV Application](https://carboncopycat.wordpress.com/2011/12/21/cross-compile-a-beagleboard-arm-opencv-application-2/)
 - [Cross compiling dlib for ARM on Ubuntu](https://www.jofre.de/?p=1494)
 
