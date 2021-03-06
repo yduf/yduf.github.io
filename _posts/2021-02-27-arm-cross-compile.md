@@ -3,6 +3,8 @@ published: true
 title: ARM Cross compiler
 tags: arm cross-compile
 ---
+> Why is cross-compiling so difficult? Because the libraries aren?t there! - [Cross Compile](https://carboncopycat.wordpress.com/2011/12/21/cross-compile-a-beagleboard-arm-opencv-application-2/)
+
 ## [ARM architecture](https://monicagranbois.com/blog/raspberrypi/error-package-architecture-arm-does-not-match-system-armhf/)
 Do I need to add foreign architecture for cross-compiling?
 **No**, it is possible to install g++-arm-linux-gnueabihf without adding armhf architecture.
@@ -31,6 +33,12 @@ apt-get install g++-arm-linux-gnueabihf gcc-arm-linux-gnueabihf
 # compile something
 arm-linux-gnueabihf-g++ main.cpp
 {% endhighlight %}
+
+## Setup cross library
+TBC
+- [Cross Compile a Beagleboard ARM OpenCV Application](https://carboncopycat.wordpress.com/2011/12/21/cross-compile-a-beagleboard-arm-opencv-application-2/)
+- [Cross compiling dlib for ARM on Ubuntu](https://www.jofre.de/?p=1494)
+
 
 ## [Meson arm cross compilation]({% post_url 2020-08-12-build-meson %})
 - [Meson cross compiling dependencies](https://stackoverflow.com/questions/48690290/meson-cross-compiling-dependencies#)
