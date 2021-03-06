@@ -33,7 +33,8 @@ Let's suppose you are on a 64 bit OSX machine and you are cross compiling a bina
 your `host_machine` is [ARM](https://mesonbuild.com/Reference-tables.html#cpu-families) Linux
 
 {% highlight ruby %}
-# ~/.local/share/meson/cross
+# ~/.local/share/meson/cross/remarkable
+# meson builddir/ --cross-file remarkable
 [host_machine]               
 system = 'linux'             
 cpu_family = 'arm'           
