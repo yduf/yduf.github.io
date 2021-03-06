@@ -30,7 +30,7 @@ Meson requires you to write a [cross build definition file](https://mesonbuild.c
 Let's suppose you are on a 64 bit OSX machine and you are cross compiling a binary that will run on a 32 bit ARM Linux board. In this case your build machine is 64 bit OSX, your host machine is 32 bit ARM Linux and your target machine is irrelevant (but defaults to the same value as the host machine).
 
 ### ARM Cross compilation
-your `host_machine` is ARM Linux
+your `host_machine` is [ARM](https://mesonbuild.com/Reference-tables.html#cpu-families) Linux
 
 {% highlight ruby %}
 [host_machine]               
