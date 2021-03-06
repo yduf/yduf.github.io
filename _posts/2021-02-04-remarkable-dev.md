@@ -27,6 +27,9 @@ see also
 The official toolchain is no longer distributed by reMarkable.
 
 ### [Debian cross compilation tools]({% post_url 2021-02-27-arm-cross-compile %})
+The GLIB version has to be fixed to 2.27 (How ?):
+- [Multiple glibc libraries on a single host](https://stackoverflow.com/questions/847179/multiple-glibc-libraries-on-a-single-host/52454603#52454603)
+- [Toltec crosstool-ng](https://github.com/toltec-dev/toolchain/tree/master/toolchain/crosstool-ng)
 
 ### [Toltec build toolchain](https://github.com/toltec-dev/toolchain/) - set of [docker images](https://github.com/orgs/toltec-dev/packages) used for cross-compiling binaries for the the reMarkable tablet.
 - [use VSCode remote container]({% post_url 2017-11-27-CG-meanmax %}) with .devcontainer.json *Remote-Containers: Reopen in Container*
