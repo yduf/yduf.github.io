@@ -25,7 +25,20 @@ executable('demo', 'main.c', dependencies : gtkdep)
 {% endhighlight %}
 
 ## [Cross compilation](https://mesonbuild.com/Cross-compilation.html)
-Meson requires you to write a cross build definition file. It defines various properties of the cross build environment. The cross file consists of different sections.
+Meson requires you to write a [cross build definition file](https://mesonbuild.com/Cross-compilation.html#cross-file-locations). It defines various properties of the cross build environment. The cross file consists of different sections.
+
+Let's suppose you are on a 64 bit OSX machine and you are cross compiling a binary that will run on a 32 bit ARM Linux board. In this case your build machine is 64 bit OSX, your host machine is 32 bit ARM Linux and your target machine is irrelevant (but defaults to the same value as the host machine).
+
+### ARM Cross compilation
+your `host_machine` is ARM Linux
+
+{% highlight ruby %}
+[host_machine]               
+system = 'linux'             
+cpu_family = 'arm'           
+cpu = 'armv7l'            
+endian = 'little'
+{% endhighlight %}
 
 ## [Meson vs X](https://en.wikipedia.org/wiki/Meson_(software)#Language)
 
