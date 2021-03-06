@@ -90,6 +90,8 @@ opkg install <application>
 opkg remove <application>
 {% endhighlight %}
 
+Opkg gives access to [entware package](http://pkg.entware.net/binaries/armv7/Packages.html) as well
+  
 - [evidlo/remarkable_entware](https://github.com/evidlo/remarkable_entware) - a lightweight package manager and software repo for embedded devices. [list of available packages](http://bin.entware.net/armv7sf-k3.2/)
   
 ## [reMarkable 2 Framebuffer](https://remarkablewiki.com/tech/rm2_framebuffer)
