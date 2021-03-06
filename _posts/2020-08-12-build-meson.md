@@ -24,6 +24,8 @@ gtkdep = dependency('gtk+-3.0')
 executable('demo', 'main.c', dependencies : gtkdep)
 {% endhighlight %}
 
+## [Cross compilation](https://mesonbuild.com/Cross-compilation.html)
+Meson requires you to write a cross build definition file. It defines various properties of the cross build environment. The cross file consists of different sections.
 
 ## [Meson vs X](https://en.wikipedia.org/wiki/Meson_(software)#Language)
 
