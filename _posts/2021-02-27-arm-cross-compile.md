@@ -14,8 +14,8 @@ Do I need to add foreign architecture for cross-compiling?
 - **armhf** is a port that uses the “hard” Floating Point Unit. 
 
 {% highlight bash %}
-dpkg --print-architecture           # list native architecture
-dpkg --print-foreign-architectures  # list foreign architecture
+$ dpkg --print-architecture           # list native architecture
+$ dpkg --print-foreign-architectures  # list foreign architecture
 {% endhighlight %}
 
 ## [Debian cross compilation tools](https://plasma.ninja/blog/devices/remarkable/2017/12/18/reMarkable-exporation.html)
@@ -28,10 +28,10 @@ This may conflict with `g++-multilib` that is needed by ([aptitude](https://asku
 
 {% highlight bash %}
 # install C/C++ compiler and standard libs
-apt-get install g++-arm-linux-gnueabihf gcc-arm-linux-gnueabihf
+$ apt-get install g++-arm-linux-gnueabihf gcc-arm-linux-gnueabihf
 
 # compile something
-arm-linux-gnueabihf-g++ main.cpp
+$ arm-linux-gnueabihf-g++ main.cpp
 {% endhighlight %}
 
 ## Setup cross library
@@ -54,22 +54,22 @@ First, cross-compile user programs with GCC-ARM toolchain. Then install qemu-arm
 
 {% highlight bash %}
 # armel packages also exist
-sudo apt-get install gcc-arm-linux-gnueabihf libc6-dev-armhf-cross qemu-user-static
+$ sudo apt-get install gcc-arm-linux-gnueabihf libc6-dev-armhf-cross qemu-user-static
 {% endhighlight %} 
 
 Usage
 {% highlight bash %}
-cat > hello.c << EOF
+$ cat > hello.c << EOF
 
 #include <stdio.h>
 int main(void) { return printf("Hello ARM!\n"); }
 EOF
 
-arm-linux-gnueabihf-gcc -static  -ohello hello.c
+$ arm-linux-gnueabihf-gcc -static  -ohello hello.c
 
-file hello
+$ file hello
 hello: ELF 32-bit LSB executable, ARM, version 1 (SYSV), statically linked,
 
-./hello
+$ ./hello
 Hello ARM!
 {% endhighlight %} 
