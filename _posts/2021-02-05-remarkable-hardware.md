@@ -5,7 +5,7 @@ tags: remarkable hardware arm
 ---
 ## [Hardware (rM2)](https://remarkable.com/store/remarkable-2) / [Photos](https://www.reddit.com/r/RemarkableTablet/comments/kcqzdy/broke_my_remarkable_2_it_was_knocked_off_the/)
 [Spec](https://remarkable.com/#Specifications) 
-- 1.2 GHz dual core [ARMv7 Processor rev 5 (armv7l)](https://remarkablewiki.com/tech/specs/rm2_specs)
+- 1.2 GHz dual core [ARMv7 Processor rev 5 (armv7l)](https://remarkablewiki.com/tech/specs/rm2_specs) - [32 bit](https://askubuntu.com/questions/928227/is-armv7l-32-or-64-bit/1042272#1042272)
 - Features: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm
 - 1 GB LPDDR3 SDRAM
 - 8 GB internal storage
