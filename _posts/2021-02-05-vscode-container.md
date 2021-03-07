@@ -1,9 +1,9 @@
 ---
 published: true
-title: 'VSCode: Developing inside a Container'
+title: Developing inside a Container (VSCode)
 tags: vscode docker
 ---
-## [Gettin started](https://code.visualstudio.com/docs/remote/containers)
+## [Getting started](https://code.visualstudio.com/docs/remote/containers)
 
 ### [create .devcontainer/devcontainer.json](https://code.visualstudio.com/docs/remote/create-dev-container)
 {% highlight json %}
@@ -23,7 +23,7 @@ or refering to Dockerfile
 
 Then => *Remote-Containers: Reopen in Container*
 
-### [Adding a non-root user to your dev container](https://code.visualstudio.com/docs/remote/containers-advanced#_adding-a-nonroot-user-to-your-dev-container)
+### [Adding a non-root user to your dev container](https://code.visualstudio.com/docs/remote/containers-advanced#_adding-a-nonroot-user-to-your-dev-container)
 
 `.devcontainer/Dockerfile` can be used to add user definition
 {% highlight Dockerfile %}
