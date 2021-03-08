@@ -3,7 +3,7 @@ published: true
 title: Product-led company ?
 tags: software job
 ---
-> All the companies I work at have always been sales-led with product/eng treated as feature factory - [How to know if you?re interviewing at a product-led company](https://andrewskotzko.com/how-to-know-if-youre-interviewing-at-a-product-led-company/)
+> All the companies I work at have always been sales-led with product/eng treated as feature factory - [How to know if you're interviewing at a product-led company](https://andrewskotzko.com/how-to-know-if-youre-interviewing-at-a-product-led-company/)
 
 1. [What were the last few things your team has built and shipped, and how did you decide to do those](https://andrewskotzko.com/how-to-know-if-youre-interviewing-at-a-product-led-company/#5-tell-me-about-the-last-coaching-session-you-had-with-your-manager-how-often-did-that-happen-last-month)
 
