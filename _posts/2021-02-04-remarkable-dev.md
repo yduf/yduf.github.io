@@ -59,6 +59,8 @@ LD_PRELOAD=/opt/lib/librm2fb_client.so.1.0.0/librm2fb_client.so.1.0.0 <rmapp>
 /opt/bin/rm2fb-client <rmapp>
 {% endhighlight %}
 
+see also - [reMarkable Framebuffer]({% post_url 2021-03-12-remarkable-fb %})
+  
 ### [libremarkable](https://github.com/canselcik/libremarkable) - A **low latency** Framework for Remarkable Tablet
 - [using with Qt](https://github.com/canselcik/libremarkable/issues/12)
 Rust code
