@@ -104,34 +104,18 @@ Requires:
 - mouse not read on native ? 
 	- change `USE_RESIM := true` to `false` to use native mouse and keyboard
 
-## LDD (tracking dependancies on remarkable
-I installed `ldd` using opkg install ldd  (I had toltec installed, not sure about entware) => it installed something
-which looking at it seems reasonable, but didn't work:
-$ ldd ./fb_test 
-        not a dynamic executable
+## LDD (tracking dependancies on remarkable)
+  
+I installed `ldd` using opkg install ldd  (it is found in [entware](http://pkg.entware.net/binaries/armv7/Packages.html)) 
 
-For what it worth, trying to understand the script, I come to this, that do the job:
-$ LD_TRACE_LOADED_OBJECTS=1 /lib/ld-linux-armhf.so.3 ./fb_test 
-        linux-vdso.so.1 (0x7eed6000)
-        libstdc++.so.6 => /usr/lib/libstdc++.so.6 (0x76d8c000)
-        libgcc_s.so.1 => /lib/libgcc_s.so.1 (0x76d5f000)
-        libc.so.6 => /lib/libc.so.6 (0x76c1f000)
-        /lib/ld-linux-armhf.so.3 (0x76ee7000)
-        libm.so.6 => /lib/libm.so.6 (0x76b9a000)
+but it didn't work:
 {% highlight bash %}
 $ ldd ./fb_test 
         not a dynamic executable
 
-# For what it worth, trying to understand the script, I come to 
-# this, that do the job:  
-$ LD_TRACE_LOADED_OBJECTS=1 /lib/ld-linux-armhf.so.3 ./fb_test 
-        linux-vdso.so.1 (0x7eed6000)
-        libstdc++.so.6 => /usr/lib/libstdc++.so.6 (0x76d8c000)
-        libgcc_s.so.1 => /lib/libgcc_s.so.1 (0x76d5f000)
-        libc.so.6 => /lib/libc.so.6 (0x76c1f000)
-        /lib/ld-linux-armhf.so.3 (0x76ee7000)
-        libm.so.6 => /lib/libm.so.6 (0x76b9a000)
-
+# because it is not thre right linker that is used
+# update LDLIST to the right linker makes it work
+LDLIST=/lib/ld-linux-armhf.so.3
 {% endhighlight %}
   
 ## reMarkable Developper note
