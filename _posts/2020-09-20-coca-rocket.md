@@ -1,7 +1,7 @@
 ---
 published: true
 title: Coca Rocket
-tags: rocket physic
+tags: rocket physics
 ---
 > If you add liquid gas to lighters and turn a bottle upside down, it will turn into a mega ROCKET!  - [Why does propane added to Coca-Cola take off like a rocket?](https://www.youtube.com/watch?v=VFENMe0wc28&has_verified=1)
 
