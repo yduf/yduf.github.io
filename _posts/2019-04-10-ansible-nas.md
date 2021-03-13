@@ -1,7 +1,7 @@
 ---
 published: true
 title: Ansible-NAS
-tags: nas zfs ansible monitor
+tags: nas zfs ansible monitoring
 ---
 >  Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook. - [davestephens/ansible-nas](https://github.com/davestephens/ansible-nas)
 
