@@ -9,6 +9,10 @@ tags: handwriting stylus ocr
 
 - [Calligraphr](https://www.calligraphr.com/en/) - Transform your handwriting or calligraphy into a font!
 
+## Data
+- [Competition on Recognition of Online Handwritten Mathematical Expressions (CHROME)](https://www.isical.ac.in/~crohme/CROHME_data.html)
+- [MathsHandwritting](https://github.com/WenHanGao/MathsHandwritting)
+
 ## References
 - [How to easily do Handwriting Recognition using Deep Learning](https://nanonets.com/blog/handwritten-character-recognition/)
 - [Handwriting Recognition in 2021: In-depth Guide](https://research.aimultiple.com/handwriting-recognition/)
