@@ -1,7 +1,7 @@
 ---
 published: true
 title: Left vs Right
-tags: quote
+tags: quote devil
 ---
 > Suppose that 80% of the population support something that me and my friends don't like. If we can divide this group into two, by finding things that they strongly disagree over, then we can guarantee that this 80% never gets to express its majority.
 >
