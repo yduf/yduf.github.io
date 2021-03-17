@@ -13,6 +13,9 @@ tags: handwriting stylus ocr
 - [Competition on Recognition of Online Handwritten Mathematical Expressions (CHROME)](https://www.isical.ac.in/~crohme/CROHME_data.html)
 - [MathsHandwritting](https://github.com/WenHanGao/MathsHandwritting)
 
+## Recognition
+- [gesture-recognition](https://github.com/justinmeiners/gesture-recognition) - Handwriting and gesture recognition with line integrals.
+
 ## References
 - [How to easily do Handwriting Recognition using Deep Learning](https://nanonets.com/blog/handwritten-character-recognition/)
 - [Handwriting Recognition in 2021: In-depth Guide](https://research.aimultiple.com/handwriting-recognition/)
