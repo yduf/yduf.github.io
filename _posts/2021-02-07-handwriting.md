@@ -1,7 +1,7 @@
 ---
 published: true
 title: Handwriting
-tags: handwriting stylus ocr
+tags: handwriting stylus ocr gesture
 ---
 
 - [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/) - a tool that converts text to an image that looks like handwriting
