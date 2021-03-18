@@ -21,6 +21,7 @@ tags: handwriting stylus ocr gesture
 - [Decoding Cursive Scripts (1993)](https://papers.nips.cc/paper/1993/file/795c7a7a5ec6b460ec00c5841019b9e9-Paper.pdf)
 
 - [Gesture Coder: A Tool for Programming Multi-Touch Gestures by Demonstration](https://www.google.com/search?hl=en&q=https%3A%2F%2Fstatic.googleusercontent.com%2Fmedia%2Fresearch.google.com%2Fen%2Fpubs%2Farchive%2F38088.pdf)
+- [Using Strokes as Command Shortcuts](file:///tmp/mozilla_yves0/Using_Strokes_as_Command_Shortcuts_Cognitive_Benef.pdf)
 
 ## References
 - [Handwriting Recognition in 2021: In-depth Guide](https://research.aimultiple.com/handwriting-recognition/)
