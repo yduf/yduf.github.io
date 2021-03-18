@@ -18,6 +18,8 @@ tags: handwriting stylus ocr
 - [Handwriting Recognition –“Offline” Approach](https://cs.stanford.edu/people/adityaj/HandwritingRecognition.pdf)
 - [Graffiti (Palm OS)](https://en.wikipedia.org/wiki/Graffiti_%28Palm_OS%29)
 
+- [Decoding Cursive Scripts (1993)](https://papers.nips.cc/paper/1993/file/795c7a7a5ec6b460ec00c5841019b9e9-Paper.pdf)
+
 ## References
 - [Handwriting Recognition in 2021: In-depth Guide](https://research.aimultiple.com/handwriting-recognition/)
 - [On-Line and Off-Line Handwriting Recognition:A Comprehensive Survey (2000)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.696.905&rep=rep1&type=pdf)
@@ -26,7 +28,7 @@ tags: handwriting stylus ocr
 - [How to easily do Handwriting Recognition using Deep Learning](https://nanonets.com/blog/handwritten-character-recognition/)
 
 - [myscript.com](https://www.myscript.com/)
-- [Preprocessing Techniques for Online Handwriting Recognition](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.59.4416&rep=rep1&type=pdf)
+- [Preprocessing Techniques for Online Handwriting Recognition (1999)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.59.4416&rep=rep1&type=pdf)
 - [PREPROCESSING TECHNIQUES FOR CURSIVE SCRIPT WORD RECOGNITION (1982)](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/25418/0000867.pdf;sequence=1)
 - [ON-LINE CURSIVE HANDWRITING RECOGNITION USING SPEECH RECOGNITION  METHODS](https://www.cc.gatech.edu/fac/Thad.Starner/p/032_10_face&handwriting/on-line-cursive-handwriting-recognition-ASSP94.pdf)
 
