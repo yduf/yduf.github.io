@@ -14,7 +14,7 @@ tags: handwriting stylus ocr
 - [MathsHandwritting](https://github.com/WenHanGao/MathsHandwritting)
 
 ## Recognition
-- [gesture-recognition](https://github.com/justinmeiners/gesture-recognition) - Handwriting and gesture recognition with line integrals.
+- [gesture-recognition (2020)](https://github.com/justinmeiners/gesture-recognition) - Handwriting and gesture recognition with line integrals. + [Demo](https://justinmeiners.github.io/gesture-recognition/)
 - [Handwriting Recognition –“Offline” Approach](https://cs.stanford.edu/people/adityaj/HandwritingRecognition.pdf)
 - [Graffiti (Palm OS)](https://en.wikipedia.org/wiki/Graffiti_%28Palm_OS%29)
 
