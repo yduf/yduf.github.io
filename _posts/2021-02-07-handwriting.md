@@ -14,6 +14,10 @@ tags: handwriting stylus ocr gesture
 - [MathsHandwritting](https://github.com/WenHanGao/MathsHandwritting)
 
 ## Recognition
+- [[P] Digitize Your Notes](https://www.reddit.com/r/MachineLearning/comments/kykhc1/p_digitize_your_notes/gjpvkiu/)
+	- [Improving CNN-RNN Hybrid Networks forHandwriting Recognition](http://cdn.iiit.ac.in/cdn/cvit.iiit.ac.in/images/ConferencePapers/2018/improving-cnn-rnn.pdf) / [IAM Handwriting Database](https://fki.tic.heia-fr.ch/databases/iam-handwriting-database)
+    - [A new normalization technique for cursive handwritten words (2000)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.31.8075&rep=rep1&type=pdf)
+    
 - [gesture-recognition (2020)](https://github.com/justinmeiners/gesture-recognition) - Handwriting and gesture recognition with line integrals. + [Demo](https://justinmeiners.github.io/gesture-recognition/)
 - [Handwriting Recognition –“Offline” Approach](https://cs.stanford.edu/people/adityaj/HandwritingRecognition.pdf)
 - [Graffiti (Palm OS)](https://en.wikipedia.org/wiki/Graffiti_%28Palm_OS%29)
