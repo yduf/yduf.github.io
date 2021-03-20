@@ -29,6 +29,7 @@ tags: handwriting stylus ocr gesture
 
 ## References
 - [[D] Handwriting OCR?](https://www.reddit.com/r/MachineLearning/comments/8tbdmh/d_handwriting_ocr/)
+	- [ICFHR 2018](http://icfhr2018.org/)
 - [Handwriting Recognition in 2021: In-depth Guide](https://research.aimultiple.com/handwriting-recognition/)
 - [On-Line and Off-Line Handwriting Recognition:A Comprehensive Survey (2000)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.696.905&rep=rep1&type=pdf)
 - [TheStateoftheArtinOn-LineHandwritingRecognition (1990)](http://www.csis.pace.edu/~ctappert/dps/pdf/pen-tappert.pdf)
