@@ -49,27 +49,4 @@ $ sudo apt-get install -y pkg-config-arm-linux-gnueabi
 
 ## [Meson arm cross compilation]({% post_url 2020-08-12-build-meson %})
 
-## [Running ARM programs under linux](https://gist.github.com/luk6xff/9f8d2520530a823944355e59343eadc1#running-arm-programs-under-linux-without-starting-qemu-vm)
-First, cross-compile user programs with GCC-ARM toolchain. Then install qemu-arm-static so that you can run ARM executables directly on linux
-
-{% highlight bash %}
-# armel packages also exist
-$ sudo apt-get install gcc-arm-linux-gnueabihf libc6-dev-armhf-cross qemu-user-static
-{% endhighlight %} 
-
-Usage
-{% highlight bash %}
-$ cat > hello.c << EOF
-
-#include <stdio.h>
-int main(void) { return printf("Hello ARM!\n"); }
-EOF
-
-$ arm-linux-gnueabihf-gcc -static  -ohello hello.c
-
-$ file hello
-hello: ELF 32-bit LSB executable, ARM, version 1 (SYSV), statically linked,
-
-$ ./hello
-Hello ARM!
-{% endhighlight %} 
+## [Running ARM programs under linux]({% post_url 2021-03-20-run-arm %})
