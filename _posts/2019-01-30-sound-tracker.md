@@ -16,3 +16,4 @@ SunVox is a small, fast and powerful modular synthesizer with pattern-based sequ
 ## Music
 - [Captain / Image - Space debris](https://www.youtube.com/watch?v=Hkw7l8IgM4g)
 - [supersquatting](https://dubmood.bandcamp.com/track/supersquatting)
+- [Crackscene music best of 2004​-​2007](https://dubmood.bandcamp.com/album/crackscene-music-best-of-2004-2007-data002)
