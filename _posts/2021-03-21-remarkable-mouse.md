@@ -1,12 +1,14 @@
 ---
 published: true
 title: Using remarkable as a Tablet
-tags: remarkable mouse
+tags: remarkable mouse kvm
 ---
 - [remarkable_mouse](https://github.com/Evidlo/remarkable_mouse)
 
 see also
+- 
 - [Weylus](https://github.com/H-M-H/Weylus#weylus-as-second-screen) - turns your tablet or smart phone into a graphic tablet/touch screen for your computer
+- [Share devices over network]({% post_url 2021-03-21-sharing-device-over-net %})
 
 ## Issue
 ### [** Huge CPU Spike with Krita **](https://github.com/Evidlo/remarkable_mouse/issues/47#issuecomment-803315971) 
