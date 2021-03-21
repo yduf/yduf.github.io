@@ -40,6 +40,8 @@ Change device to `/dev/input/event1` for [rM2](https://remarkablewiki.com/devel/
 python -m "remarkable_mouse.remarkable_mouse"     # for testing
 pip install .                                     # install change
 remouse                                           # use it
+#
+remouse --monitor 1 --mode fill --orientation left
 {% endhighlight %}
 
 ![caption](https://preview.redd.it/sp0e1a4gaex51.jpg?width=640&crop=smart&auto=webp&s=de4e46cff9a739175965e561c5f561720660413c)
