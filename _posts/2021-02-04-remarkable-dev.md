@@ -121,6 +121,11 @@ LDLIST=/lib/ld-linux-armhf.so.3
 {% endhighlight %}
   
 ## reMarkable Developper note
+- [curtisf overview](https://discord.com/channels/385916768696139794/771436565757952070/813914877717381170)
+  - [simple apps in C](https://github.com/CurtisFenner/remarkable-apps)
+  - [framebuffer.c](https://github.com/CurtisFenner/remarkable-apps/blob/master/engine/framebuffer.c) - you can write pixel data to /dev/fb0, and call ioctl to flush rectangles to the screen
+  - [input.c](https://discord.com/channels/385916768696139794/771436565757952070/813914877717381170) - You can read pen/touch input directly from /dev/input/event1
+  
 - [Developing for the reMarkable tablet](https://dragly.org/2017/12/01/developing-for-the-remarkable/)
 - [canselcik/libremarkable](https://github.com/canselcik/libremarkable)
 
