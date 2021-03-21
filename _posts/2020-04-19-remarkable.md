@@ -31,7 +31,14 @@ see also
     
 - SVG Export
 	- [Fineliner and highlighter are single path strokes](https://www.reddit.com/r/RemarkableTablet/comments/kvdrbi/fineliner_and_highlighter_are_single_path_strokes/)
-    
+
+- Use as a Tablet/Mouse
+   - [remarkable_mouse](https://github.com/Evidlo/remarkable_mouse) - change device to `/dev/input/event1` for [rM2](https://remarkablewiki.com/devel/handling_input)
+
+{% highlight python %}
+python -m "remarkable_mouse.remarkable_mouse"
+{% endhighlight %}
+
 ![caption](https://preview.redd.it/sp0e1a4gaex51.jpg?width=640&crop=smart&auto=webp&s=de4e46cff9a739175965e561c5f561720660413c)
 
 ## Customization
@@ -46,7 +53,6 @@ see also
 
 - [bordaigorl/remy](https://github.com/bordaigorl/remy) - a reMarkable tablet manager app
 	- can use [Mathpix OCR](https://mathpix.com/ocr) API
-- [remarkable_mouse](https://github.com/Evidlo/remarkable_mouse)
 
 - [reMarkable Connection Utility (RCU)](https://www.reddit.com/r/RemarkableTablet/comments/imwov3/remarkable_connection_utility_rcu_is_out_allinone/)
 	- [highlighting added PDF annotations](https://www.reddit.com/r/RemarkableTablet/comments/is4x80/wouldnt_it_be_nice_if_highlighting_added_pdf/)
