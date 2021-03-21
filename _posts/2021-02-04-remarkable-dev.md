@@ -144,7 +144,6 @@ LDLIST=/lib/ld-linux-armhf.so.3
 
 ## [Handling Input](https://remarkablewiki.com/devel/handling_input)
 
-Both reMarkable devices have 3 distinct devices, but not in same order.
 
 
 ## Resources
