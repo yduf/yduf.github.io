@@ -32,7 +32,7 @@ see also
 - SVG Export
 	- [Fineliner and highlighter are single path strokes](https://www.reddit.com/r/RemarkableTablet/comments/kvdrbi/fineliner_and_highlighter_are_single_path_strokes/)
 
-- [Use as a Tablet/Mouse]({% post_url 2021-03-21-remarkable-mouse %})
+- [Use as a Tablet/Mouse]({% post_url 2021-03-21-remarkable-mouse  %})
 
 ![caption](https://preview.redd.it/sp0e1a4gaex51.jpg?width=640&crop=smart&auto=webp&s=de4e46cff9a739175965e561c5f561720660413c)
 
