@@ -36,7 +36,8 @@ see also
    - [remarkable_mouse](https://github.com/Evidlo/remarkable_mouse) - change device to `/dev/input/event1` for [rM2](https://remarkablewiki.com/devel/handling_input)
 
 {% highlight python %}
-python -m "remarkable_mouse.remarkable_mouse"
+python -m "remarkable_mouse.remarkable_mouse"     # for testing
+pip install .                                     # work also
 {% endhighlight %}
 
 ![caption](https://preview.redd.it/sp0e1a4gaex51.jpg?width=640&crop=smart&auto=webp&s=de4e46cff9a739175965e561c5f561720660413c)
