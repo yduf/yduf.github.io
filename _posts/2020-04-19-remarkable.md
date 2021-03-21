@@ -32,8 +32,9 @@ see also
 - SVG Export
 	- [Fineliner and highlighter are single path strokes](https://www.reddit.com/r/RemarkableTablet/comments/kvdrbi/fineliner_and_highlighter_are_single_path_strokes/)
 
-- Use as a Tablet/Mouse
-   - [remarkable_mouse](https://github.com/Evidlo/remarkable_mouse) - change device to `/dev/input/event1` for [rM2](https://remarkablewiki.com/devel/handling_input)
+- Use as a Tablet/Mouse - [remarkable_mouse](https://github.com/Evidlo/remarkable_mouse)
+
+Change device to `/dev/input/event1` for [rM2](https://remarkablewiki.com/devel/handling_input)
 
 {% highlight python %}
 python -m "remarkable_mouse.remarkable_mouse"     # for testing
