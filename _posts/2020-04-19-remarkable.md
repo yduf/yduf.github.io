@@ -34,7 +34,7 @@ see also
 
 - Use as a Tablet/Mouse - [remarkable_mouse](https://github.com/Evidlo/remarkable_mouse)
 
-Change device to `/dev/input/event1` for [rM2](https://remarkablewiki.com/devel/handling_input)
+Change device to `/dev/input/event1` for [rM2](https://remarkablewiki.com/devel/handling_input) / There is a rM2 branch !
 
 {% highlight python %}
 python -m "remarkable_mouse.remarkable_mouse"     # for testing
