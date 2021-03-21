@@ -142,6 +142,10 @@ LDLIST=/lib/ld-linux-armhf.so.3
 	- [Lines Are Beautiful](https://github.com/ax3l/lines-are-beautiful)
     - [remarkable-layers](https://github.com/bsdz/remarkable-layers/) - Python module for reading and writing Remarkable Lines files (*.rm).
 
+## [Handling Input](https://remarkablewiki.com/devel/handling_input)
+
+Both reMarkable devices have 3 distinct devices, but not in same order.
+
 
 ## Resources
 - [HN](https://news.ycombinator.com/item?id=22604597) 
