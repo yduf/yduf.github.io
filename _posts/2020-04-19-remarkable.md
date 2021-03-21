@@ -37,7 +37,8 @@ see also
 
 {% highlight python %}
 python -m "remarkable_mouse.remarkable_mouse"     # for testing
-pip install .                                     # work also
+pip install .                                     # install change
+remouse                                           # use it
 {% endhighlight %}
 
 ![caption](https://preview.redd.it/sp0e1a4gaex51.jpg?width=640&crop=smart&auto=webp&s=de4e46cff9a739175965e561c5f561720660413c)
