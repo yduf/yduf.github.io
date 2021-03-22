@@ -12,6 +12,7 @@ see also
 ## Using device as Wacom tablet
 - [Wacom Tablet on Linux with dual/multi-screen setup](https://uni.hi.is/helmut/2021/02/03/wacom-tablet-on-linux/)
 - [Ubuntu Linux - Map Wacom to one screen when using multiple screens](https://feldspaten.org/2017/05/06/ubuntu-linux-map-wacom-to-one-screen-when-using-multiple-screens/)
+- [Graphics tablet on multi-monitors HOW TO](https://forums.linuxmint.com/viewtopic.php?t=112852)
 
 ## Issue
 ### [** Huge CPU Spike with Krita **](https://github.com/Evidlo/remarkable_mouse/issues/47#issuecomment-803315971) 
