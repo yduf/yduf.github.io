@@ -3,5 +3,5 @@ published: true
 title: How do mouse events work in linux?
 tags: linux mouse
 ---
-> Each 'mouse' device is assigned to a single mouse or digitizer, except the last one - 'mice'. This single character device is shared by all mice and digitizers, and even if none are connected, the device is present.  This is useful for hotplugging USB mice, so that programs can open the device even when no mice are present.
+> evdev is the generic input event interface. It passes the events generated in the kernel straight to the program, with timestamps...This should be the way for GPM and X to get keyboard and mouse events. It allows for multihead in X without any specific multihead kernel support. The event codes are the same on all architectures and are hardware independent.
  - [SE](https://unix.stackexchange.com/questions/25601/how-do-mouse-events-work-in-linux) / [input/input.txt](https://www.kernel.org/doc/Documentation/input/input.txt)
