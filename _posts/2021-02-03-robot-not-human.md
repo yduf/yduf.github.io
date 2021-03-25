@@ -7,3 +7,5 @@ tags: fun quote blog robot
 )](https://www.youtube.com/watch?v=NI9nopaieEc)
 
 ![caption](https://www.smbc-comics.com/comics/1535025762-20180823.png)
+
+[![caption](https://www.monkeyuser.com/assets/images/2020/191-reverse-turing-test.png)](https://www.monkeyuser.com/2020/reverse-turing-test/)
