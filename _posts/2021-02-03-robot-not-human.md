@@ -1,7 +1,7 @@
 ---
 published: true
 title: Prove you are not a Human
-tags: fun quote blog robot
+tags: fun quote blog robot comic
 ---
 > There are no more Humans - [smbc](https://www.smbc-comics.com/comic/captcha) / [Robots (Flight of the Conchords
 )](https://www.youtube.com/watch?v=NI9nopaieEc)
