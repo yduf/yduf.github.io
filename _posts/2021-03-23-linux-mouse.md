@@ -6,6 +6,7 @@ tags: linux mouse
 > _evdev_ is the generic input event interface. It passes the events generated in the kernel straight to the program, with timestamps...This should be the way for GPM and X to get keyboard and mouse events. It allows for multihead in X without any specific multihead kernel support. The event codes are the same on all architectures and are hardware independent. - [SE](https://unix.stackexchange.com/questions/25601/how-do-mouse-events-work-in-linux) / [input/input.txt](https://www.kernel.org/doc/Documentation/input/input.txt)
 
 > You can use blocking and nonblocking reads, and also select() on the /dev/input/eventX devices, and you’ll always get a whole number of input events on a read. - [Event interface](https://www.kernel.org/doc/html/v4.14/input/input.html#event-interface)
+- [linux/input-event-codes.h](https://github.com/torvalds/linux/blob/master/include/uapi/linux/input-event-codes.h)
 
 - [Writing Linux Mouse Drivers](https://www.linuxtoday.com/blog/writing-linux-mouse-drivers.html)
 
