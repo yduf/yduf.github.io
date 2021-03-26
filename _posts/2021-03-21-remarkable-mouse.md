@@ -4,6 +4,7 @@ title: Using remarkable as a Tablet
 tags: remarkable mouse kvm
 ---
 - [remarkable_mouse](https://github.com/Evidlo/remarkable_mouse)
+- [remouseable](https://github.com/kevinconway/remouseable)
 
 see also
 - [Share devices over network]({% post_url 2021-03-21-sharing-device-over-net %})
@@ -28,4 +29,3 @@ remouse                                           # use it
 #
 remouse --monitor 1 --mode fill --orientation left
 {% endhighlight %}
-
