@@ -3,7 +3,7 @@ published: true
 title: ARM Cross compiler
 tags: arm cross-compile
 ---
-> Why is cross-compiling so difficult? Because the libraries aren?t there! - [Cross Compile](https://carboncopycat.wordpress.com/2011/12/21/cross-compile-a-beagleboard-arm-opencv-application-2/)
+> Why is cross-compiling so difficult? Because the libraries aren't there! - [Cross Compile](https://carboncopycat.wordpress.com/2011/12/21/cross-compile-a-beagleboard-arm-opencv-application-2/)
 
 ## [ARM architecture](https://monicagranbois.com/blog/raspberrypi/error-package-architecture-arm-does-not-match-system-armhf/)
 Do I need to add foreign architecture for cross-compiling?
