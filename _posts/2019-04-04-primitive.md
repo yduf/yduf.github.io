@@ -1,7 +1,7 @@
 ---
 published: true
 title: Primitive Pictures
-tags: image
+tags: image algorithm
 ---
 > Reproducing images with geometric primitives. [github](https://github.com/fogleman/primitive) / [Primitive for macOS](https://primitive.lol/)
 
