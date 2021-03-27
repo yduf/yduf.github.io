@@ -8,6 +8,7 @@ tags: linux io file
 > What's `O_NONBLOCK` ? - [Blocking I/O, Nonblocking I/O, And Epoll](https://eklitzke.org/blocking-io-nonblocking-io-and-epoll)
 
 - [select / poll / epoll: practical difference for system architects](http://www.ulduzsoft.com/2014/01/select-poll-epoll-practical-difference-for-system-architects/)
+	- To use epoll, much more preparation is needed.
 - [Using select(2)](http://aivarsk.com/2017/04/06/select/) - Use libev, Boost.Asio or other libraries.
 	- [libev](http://software.schmorp.de/pkg/libev.html) - A full-featured and high-performance event loop that is loosely modelled after libevent.
 
