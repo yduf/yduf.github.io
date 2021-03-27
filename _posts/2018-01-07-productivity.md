@@ -1,12 +1,9 @@
 ---
 title: Productivity
 published: true
-tags: joel-on-software software
+tags: software job mental-model
 ---
-You do not have a time problem. You have an energy problem. We. Have an energy problem.
-
-from [HN discussion](https://news.ycombinator.com/item?id=16073745)
-see also [Fire And Motion](http://global.joelonsoftware.com/English/Articles/FireAndMotion.html)
+> You do not have a time problem. You have an energy problem. We. Have an energy problem. - [HN](https://news.ycombinator.com/item?id=16073745) / [Fire And Motion](http://global.joelonsoftware.com/English/Articles/FireAndMotion.html)
 
 The reason you only get three hours of stuff done on Saturday and then you ‘waste’ the rest of the day is because you had three hours of energy. The rest of the day you’re just filling time. Not because you’re bad, or lazy, or selfish. Because you’re spent.
 
