@@ -1,9 +1,9 @@
 ---
-title: Mastering Programming (Kent Beck)
+title: Mastering Programming
 published: true
-tags: software
+tags: software programming mental-model
 ---
-[From years of watching master programmers,](https://www.prod.facebook.com/notes/kent-beck/mastering-programming/1184427814923414) I have observed certain common patterns in their workflows. From years of coaching skilled journeyman programmers, I have observed the absence of those patterns. I have seen what a difference introducing the patterns can make.
+> From years of watching master programmers, I have observed certain common patterns in their workflows. From years of coaching skilled journeyman programmers, I have observed the absence of those patterns. I have seen what a difference introducing the patterns can make. - [Kent Beck](https://www.prod.facebook.com/notes/kent-beck/mastering-programming/1184427814923414)
 
 Here are ways effective programmers get the most out of their precious 3e9 seconds on the planet.
 
