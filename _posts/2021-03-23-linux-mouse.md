@@ -15,3 +15,4 @@ tags: linux mouse
 
 - [ plato/src/input/remarkable.rs ](https://github.com/darvin/plato/blob/master/src/input/remarkable.rs)
 
+- [Linux input device events, how to retrieve initial state](https://stackoverflow.com/questions/27063833/linux-input-device-events-how-to-retrieve-initial-state)
