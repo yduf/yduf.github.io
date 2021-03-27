@@ -33,4 +33,4 @@ int main() {
 }
 {% endhighlight %}
 
-for g++ version < 9.0 see [undefined reference when using experimental/filesystem](https://stackoverflow.com/questions/49249349/undefined-reference-when-using-experimental-filesystem)
+for g++ version < 9.0 link with `-lstdc++fs` see [undefined reference when using experimental/filesystem](https://stackoverflow.com/questions/49249349/undefined-reference-when-using-experimental-filesystem)
