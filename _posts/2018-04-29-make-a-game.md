@@ -1,7 +1,7 @@
 ---
 title: Let's make a game
 published: true
-tags: games indies sfml
+tags: games sfml
 ---
 ## [SFML]({% post_url 2018-08-06-sfml %})
 Simple and Fast Multimedia Library is a cross-platform software development library designed to provide a simple application programming interface to various multimedia components in computers.
