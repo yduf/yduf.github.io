@@ -1,15 +1,9 @@
 ---
-title: Things I have learnt as the software engineering lead of a multinational
+title: The productive organization
 published: true
-tags: despair.com
+tags: despair.com software job
 ---
-[Summary](https://minnenratta.wordpress.com/2017/01/25/things-i-have-learnt-as-the-software-engineering-lead-of-a-multinational/)
-
-[HN discussion](https://news.ycombinator.com/item?id=16028429)
-
-# The productive organization
-
-Teams don’t self-organize unless you organize them to do so.
+> Teams don’t self-organize unless you organize them to do so. - [Things I have learnt as the software engineering lead of a multinational](https://minnenratta.wordpress.com/2017/01/25/things-i-have-learnt-as-the-software-engineering-lead-of-a-multinational/) / [HN](https://news.ycombinator.com/item?id=16028429)
 
 People sitting side-by-side can communicate less than people sitting a continent away. Communication is a chemical reaction that requires catalysers, the thing you get by co-locating people is lowering the cost of the catalysers, but no setup creates automatic communication.
 
