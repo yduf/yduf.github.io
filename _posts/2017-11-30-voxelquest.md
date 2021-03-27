@@ -1,7 +1,7 @@
 ---
 title: Voxel Quest
 published: true
-tags: voxel games engine
+tags: voxel terrain games engine
 ---
 > Voxel Quest is ... an attempt to explore new areas in rendering, procedural generation, simulation, and AI. At this point, it is entirely free ... - [Home](http://www.voxelquest.com/) / [Github](https://github.com/simcop2387/voxelquest) / [youtube](https://www.youtube.com/watch?v=R0ul1674F1k)
 
