@@ -1,7 +1,7 @@
 ---
 title: Mastering Programming
 published: true
-tags: software programming mental-model
+tags: software programming mental-model architecture
 ---
 > From years of watching master programmers, I have observed certain common patterns in their workflows. From years of coaching skilled journeyman programmers, I have observed the absence of those patterns. I have seen what a difference introducing the patterns can make. - [Kent Beck](https://www.prod.facebook.com/notes/kent-beck/mastering-programming/1184427814923414)
 
