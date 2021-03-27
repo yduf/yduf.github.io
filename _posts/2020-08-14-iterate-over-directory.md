@@ -2,6 +2,7 @@
 published: true
 title: Iterate over directory
 tags: loop iterate filesystem file ruby crystal c++
+excerpt_separator: ''
 ---
 ### [Crystal](https://crystal-lang.org/api/0.35.1/Dir.html#each(&:String-%3E):Nil-instance-method)
 Similar to ruby [Dir](https://ruby-doc.org/core-2.7.1/Dir.html).
