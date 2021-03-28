@@ -3,6 +3,7 @@ published: true
 title: Tactical Pod Regult
 tags: toy fun
 ---
+> Battle Pods featured in the Super Dimension Fortress Macross television series. - [robotech-wiki](https://robotech.fandom.com/wiki/Tactical_Battlepod) / [maquette](https://www.hlj.com/1-72-scale-tactical-pod-regult-one-man-standard-type-ban966788)
 
 ## [macrossworld](http://www.macrossworld.com/mwf/topic/42628-172-moscato-regult-tactical-pod/)
 
