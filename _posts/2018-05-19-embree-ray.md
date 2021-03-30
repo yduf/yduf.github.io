@@ -7,8 +7,6 @@ tags: intel avx raytracing
 want to create compelling visual applications to deliver an outstanding user experience on 
 current and future computing architectures. Easy to integrate, Embree provides a blueprint 
 for scalable and efficient Ray Tracing capabilities that are demanded by media and 
-entertainment, product design, energy or scientific visualization applications. - [overview (Sigraph 2013)](https://embree.github.io/data/embree-siggraph-2013-final.pdf)
+entertainment, product design, energy or scientific visualization applications. - [home](http://embree.github.io/) / [overview (Sigraph 2013)](https://embree.github.io/data/embree-siggraph-2013-final.pdf) / [github](https://github.com/embree/embree)
 
-- [home](http://embree.github.io/)
-- [github](https://github.com/embree/embree)
 - [Sigraph 2016](https://embree.github.io/data/embree-siggraph-2016-final.pdf)
