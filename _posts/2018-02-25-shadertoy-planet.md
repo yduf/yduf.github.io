@@ -1,7 +1,7 @@
 ---
 title: Planet Shadertoy
 published: true
-tags: shader online
+tags: shadertoy shader online
 ---
 ## [teleport](https://www.shadertoy.com/view/4tjGRh)
 
