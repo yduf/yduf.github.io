@@ -1,13 +1,9 @@
 ---
 title: Retronator Magazine
 published: true
-tags: pixelart blog 8bit twitter
+tags: retro pixelart 8bit blog
 ---
-### [Pixel Art, Gaming & Saturated Colors](https://medium.com/retronator-magazine)
-Supercool retro art and (very) long articles... - [Archive](http://www.retronator.com/archive)
-
-- [twitter](https://twitter.com/Retronator)
-- [youtube](https://www.youtube.com/user/Retro3D)
+> Supercool retro art and (very) long articles... - [Pixel Art, Gaming & Saturated Colors](https://medium.com/retronator-magazine) / [Archive](http://www.retronator.com/archive) / [twitter](https://twitter.com/Retronator) / [youtube](https://www.youtube.com/user/Retro3D)
 
 ![caption](https://66.media.tumblr.com/51f205dfddf96412bd63f1191c762bae/tumblr_inline_pnt2su5pQN1qcsurn_500.gif)
 
@@ -17,5 +13,3 @@ Supercool retro art and (very) long articles... - [Archive](http://www.retronato
 - [Getting started](https://www.retronator.com/gettingstarted)
 
 ## [PixelJoint](https://medium.com/retronator-magazine/pixeljoint-part-1-the-past-d63ce877c8ba)
-
-
