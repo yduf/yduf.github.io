@@ -2,7 +2,7 @@
 published: true
 tags: game-engine godot
 ---
-## [Godot]({% post_url 2018-04-29-Godot %}) - Advanced, feature-packed, multi-platform 2D and 3D open source game engine
+> [Godot]({% post_url 2018-04-29-Godot %}) - Advanced, feature-packed, multi-platform 2D and 3D open source game engine
 
 This is a lot like an open source Unity. It is trying to be pretty comprehensive, and while a little thin in areas, they are doing a great job-- a lot of value for the "cost" (which is namely, learning the new platform.)
 
