@@ -1,6 +1,6 @@
 ---
 published: true
-tags: game-engine
+tags: game-engine godot
 ---
 ## [Godot]({% post_url 2018-04-29-Godot %}) - Advanced, feature-packed, multi-platform 2D and 3D open source game engine
 
