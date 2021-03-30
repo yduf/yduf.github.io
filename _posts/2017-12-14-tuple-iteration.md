@@ -1,16 +1,15 @@
 ---
 title: 'iterating on std::tuple (C++)'
 published: true
-tags: c++
+tags: c++ tuple
 ---
-[Cx14 solution](https://codereview.stackexchange.com/questions/51407/stdtuple-foreach-implementation/67394#67394?newreg=7edb5dfdff294d8cb78411576eefc9f1)
 {% highlight cpp %}
 for_each(std::make_tuple(1, '2', 3.3), [](auto x) {
     std::cout << x << std::endl;
 });
 {% endhighlight %}
 
-## Implementation
+## [Cx14 solution](https://codereview.stackexchange.com/questions/51407/stdtuple-foreach-implementation/67394#67394?newreg=7edb5dfdff294d8cb78411576eefc9f1)
 {% highlight cpp %}
 #include <cstddef>
 #include <tuple>
