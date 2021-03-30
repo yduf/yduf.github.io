@@ -3,5 +3,4 @@ title: Backfire effect
 published: true
 tags: psychology
 ---
-## [Challenging core belief](http://theoatmeal.com/comics/believe)
-
+> You're not going to believe what I'm about to tell you - [Challenging core belief](http://theoatmeal.com/comics/believe)
