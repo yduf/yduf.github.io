@@ -1,7 +1,7 @@
 ---
 title: Let's Make a Voxel Engine
 published: true
-tags: voxel game-engine
+tags: voxel terrain minecraft game-engine
 ---
 > The very first step that you should aim for when creating a voxel engine is to create the framework for block rendering. - [Tutorial](https://sites.google.com/site/letsmakeavoxelengine/home/basic-block-rendering)
 
