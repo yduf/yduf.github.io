@@ -1,5 +1,5 @@
 ---
-title: 'iterating on std::tuple (C++)'
+title: 'Iterate over std::tuple'
 published: true
 tags: c++ tuple
 ---
