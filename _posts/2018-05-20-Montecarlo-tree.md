@@ -4,9 +4,7 @@ published: true
 tags: AI MCTS search montecarlo algorithm
 use_math: true
 ---
-## [Beginners guide](https://int8.io/monte-carlo-tree-search-beginners-guide/)
-
-Monte Carlo Tree Search was introduced by [Rémi Coulom in 2006](https://hal.inria.fr/inria-00116992/document) as a building block of Crazy Stone – Go playing engine with an impressive performance.
+> Monte Carlo Tree Search was introduced by [Rémi Coulom in 2006](https://hal.inria.fr/inria-00116992/document) as a building block of Crazy Stone – Go playing engine with an impressive performance. - [Beginners guide](https://int8.io/monte-carlo-tree-search-beginners-guide/)
 
 Monte Carlo Tree Search has one main purpose: given a **game state** to choose **the most promising next move**. 
 
