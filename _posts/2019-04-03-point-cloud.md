@@ -11,4 +11,4 @@ tags: 3dscan kinect
 
 ## Kinect Point Cloud Normals Rendering
 - [part 1](https://threeconstants.wordpress.com/2014/11/21/kinect-point-cloud-normals-rendering-part-1/)
-- [part 2}(http://threeconstants.com/blog/?p=43)
+- [part 2](http://threeconstants.com/blog/?p=43)
