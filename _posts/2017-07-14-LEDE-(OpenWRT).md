@@ -1,6 +1,6 @@
 ---
 published: true
-tags: raspberry-pi network security
+tags: raspberry-pi network security wifi
 title: OpenWRT
 ---
 > [Raspberry-pi support](https://openwrt.org/toh/raspberry_pi_foundation/raspberry_pi)
