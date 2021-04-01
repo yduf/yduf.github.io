@@ -1,7 +1,7 @@
 ---
 published: true
 title: Flat Coloring
-tags: paint krita
+tags: color paint krita
 ---
 > So you’ve got a cool black on white drawing, and now you want to color it! The thing we’ll aim for in this tutorial is to get your line art colored in with flat colors. So no shading just yet. - [Flat Coloring](https://docs.krita.org/en/tutorials/flat-coloring.html)
 
