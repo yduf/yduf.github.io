@@ -3,6 +3,7 @@ published: true
 title: Management & false certainty
 flags: blog management quote
 excerpt_separator: <!--more-->
+tags: job manager
 ---
 > I learned long ago never to wrestle with a pig. You get dirty and besides the pig likes it. – G. B. Shaw (misattributed)
 
