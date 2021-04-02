@@ -5,8 +5,6 @@ tags: blog management
 ---
 > A mind that is disconnectable and reconnectable. A brain, for example, is fully physically connected all the time and doesn’t qualify. - [What is a group mind](https://abe-winter.github.io/2018/07/31/group-mind.html)
 
-
-
 It doesn’t need to be ‘as conscious’ as a whole as the individual pieces. But at minimum, to qualify as a combined entity rather than a bucket of individuals, a group mind should be able to:
 
 Enforce priorities (top down) that are relatively consistent over time.
