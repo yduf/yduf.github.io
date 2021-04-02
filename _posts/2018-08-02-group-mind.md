@@ -1,7 +1,7 @@
 ---
 published: true
 title: Group mind
-tags: blog management
+tags: blog manager
 ---
 > A mind that is disconnectable and reconnectable. A brain, for example, is fully physically connected all the time and doesn’t qualify. - [What is a group mind](https://abe-winter.github.io/2018/07/31/group-mind.html)
 
