@@ -3,7 +3,7 @@ published: true
 title: Smoothing a hand-drawn curve
 tags: math curve drawing
 ---
-> In spite of the importance of the curve-fitting problem and a literature going back more than thirty years, there has to date been no fully satisfactory solution. Existing approaches either fail to consistently produce the best result, are slow (unsuitable for interactive use), or both. - [Fitting cubic Bézier curves](https://raphlinus.github.io/curves/2021/03/11/bezier-fitting.html)
+> In spite of the importance of the curve-fitting problem and a literature going back more than thirty years, there has to date been no fully satisfactory solution. Existing approaches either fail to consistently produce the best result, are slow (unsuitable for interactive use), or both. - [Fitting cubic Bézier curves (2021)](https://raphlinus.github.io/curves/2021/03/11/bezier-fitting.html)
 
 - [Smoothing a hand-drawn curve](https://stackoverflow.com/questions/5525665/smoothing-a-hand-drawn-curve)
 	- [burningmime/curves](https://github.com/burningmime/curves) - implementation of Philip J. Schneider's least-squares method for fitting Bézier curves to a set of input data points / [2](https://codeanticode.wordpress.com/2009/02/21/live_animation_of_freehand-strokes/) / [3](https://github.com/volkerp/fitCurves)
