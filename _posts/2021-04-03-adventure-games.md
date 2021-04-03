@@ -5,7 +5,8 @@ tags: adventure retro games
 ---
 > List of graphic adventure games - [wikipedia](https://en.wikipedia.org/wiki/List_of_graphic_adventure_games)
 
-- [Countdown](https://en.wikipedia.org/wiki/Countdown_(video_game))
+- [Countdown](https://en.wikipedia.org/wiki/Countdown_(video_game)) / [myabandonware](https://www.myabandonware.com/game/countdown-v1) / [online](https://www.myabandonware.com/game/countdown-v1/play-v1)
+
 - [Ark of Time](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=1756&fic=liens)
 - [The Journeyman Project](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=1620)
 - [The Journeyman Project 3 : L'Héritage du temps](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=2215)
