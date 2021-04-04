@@ -3,7 +3,7 @@ title: Ultimate Tic-Tac-Toe (Codingame)
 published: true
 tags: codingame MCTS AI NN
 ---
-## [Codingame](https://www.codingame.com/multiplayer/bot-programming/tic-tac-toe)
+>  A much more strategic version of tic-tac-toe - [rules explained](https://www.thegamegal.com/2018/09/01/ultimate-tic-tac-toe/) / [Codingame](https://www.codingame.com/multiplayer/bot-programming/tic-tac-toe) / 
 
 - [Tic-Tac-Toe with a Neural Network](https://nestedsoftware.com/2019/12/27/tic-tac-toe-with-a-neural-network-1fjn.206436.html)
 - [Playing Ultimate Tic-Tac-Toe using Reinforcement Learning](https://medium.com/@arnavparuthi/playing-ultimate-tic-tac-toe-using-reinforcement-learning-892f084f7def)
