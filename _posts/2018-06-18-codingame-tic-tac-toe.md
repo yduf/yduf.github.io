@@ -8,6 +8,7 @@ tags: codingame MCTS AI NN
 - [Tic-Tac-Toe with a Neural Network](https://nestedsoftware.com/2019/12/27/tic-tac-toe-with-a-neural-network-1fjn.206436.html)
 - [Playing Ultimate Tic-Tac-Toe using Reinforcement Learning](https://medium.com/@arnavparuthi/playing-ultimate-tic-tac-toe-using-reinforcement-learning-892f084f7def)
 	- [github](https://github.com/Arnav235/ultimate_tic-tac-toe_alphazero)
+- [The Ultimate Tic Tac Toe Player Bot ](https://github.com/shayakbanerjee/ultimate-ttt-rl) - with Reinforcement Learning
 
 ## Arena
 
