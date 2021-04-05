@@ -1,23 +1,24 @@
 ---
-title: C++ and the -O3 compilation flag (Codingame)
+title: Codingame HW Limits & C++ flags
 published: true
-tags: c++ codingame compiler tricks
+tags: c++ codingame
 ---
 > Votre programme est compilé et exécuté dans un environnement Linux sur une architecture multi-coeurs 64bits. - [Environment/lang](https://www.codingame.com/faq)
 
 ## Limits
+- 1 cpu
 - Memory limits is 768MB - [forum](https://forum.codingame.com/t/killed-on-c-memory-reservations/140640/77?u=yduf)
 
-## [Update C++](https://forum.codingame.com/t/languages-update/1574/117)
+## Ruby 2.6.2
+
+## [C++](https://forum.codingame.com/t/languages-update/1574/117)
 {% highlight bash %}
 compiler: g++ 9.2.1 mode C++17
 flags: -std=gnu++17 -Werror=return-type -g -pthread 
 libraries: -lm -lpthread -ldl -lcrypt
 {% endhighlight %}
 
-### Ruby 2.6.2
-
-[c++ optimization trick](https://www.codingame.com/forum/t/c-and-the-o3-compilation-flag/1670/15)
+### [c++ optimization trick](https://www.codingame.com/forum/t/c-and-the-o3-compilation-flag/1670/15)
 
 {% highlight cpp %}
 // trigger optimisation from source file
