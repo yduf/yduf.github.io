@@ -32,5 +32,5 @@ using LeNet = loss_multiclass_log<
 - [keras2cpp](https://github.com/KongCang/keras2cpp)
 
 ## Codingame
-  - [CG Coder strike back](https://www.codingame.com/forum/t/neural-network-ressources/1667/12)
-		- [Agade](https://forum.codingame.com/t/neural-network-ressources/1667/18?u=yduf)
+- [CG Coder strike back](https://www.codingame.com/forum/t/neural-network-ressources/1667/12)
+	- [Agade](https://forum.codingame.com/t/neural-network-ressources/1667/18?u=yduf)
