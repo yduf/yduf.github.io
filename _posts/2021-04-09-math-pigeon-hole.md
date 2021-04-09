@@ -1,7 +1,7 @@
 ---
 published: true
 title: Pigeonhole Principle
-tags: math
+tags: math principle
 ---
 > if n items are put into m containers, with n > m, then at least one container must contain more than one item. - [Dirichlet's box principle](https://en.wikipedia.org/wiki/Pigeonhole_principle)
 
