@@ -81,6 +81,9 @@ I had messed up the network config for the remarkable (host ip vs gateway). so s
 ssh -v -v -v -o PreferredAuthentications=password -o PubkeyAuthentication=no root@10.11.99.1 
 {% endhighlight %}
 
+## POGO pin
+- [rm2-pogo-connector](https://discord.com/channels/385916768696139794/830092059578466322)
+	- [Micro USB to UART TTL adapter with Pogo pins](https://www.tindie.com/products/PhoenixCNC/micro-usb-to-uart-ttl-adapter-with-pogo-pins/)
 
 ## Resources
 - [reMarkable2 Teardown Guide](https://www.reddit.com/r/RemarkableTablet/comments/l0vq8f/remarkable2_teardown_guide/)
