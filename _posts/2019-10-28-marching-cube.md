@@ -8,3 +8,4 @@ tags: minecraft opengl voxel cube algorithm
 
 - [Fast Marching Methods in Path planning](https://jvgomez.github.io/pages/fast-marching-method-and-fast-marching-square.html)
 - [Metaballs and Marching Squares](http://jamie-wong.com/2014/08/19/metaballs-and-marching-squares/)
+- [The marching cubes algorithm](http://users.polytech.unice.fr/~lingrand/MarchingCubes/algo.html)
