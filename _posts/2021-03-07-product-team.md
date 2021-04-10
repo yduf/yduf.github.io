@@ -9,7 +9,7 @@ tags: software job
 
 > Success is not checking a box.
 > Success is having an impact.
-> If you complete all tasks and nothing ever gets better, that?s not success. - [Christina Wodtke](https://andrewskotzko.com/christina-wodtke-unleashing-potential-with-extraordinary-teams-3/)
+> If you complete all tasks and nothing ever gets better, that's not success. - [Christina Wodtke](https://andrewskotzko.com/christina-wodtke-unleashing-potential-with-extraordinary-teams-3/)
 
 2. [When's the last time you talked with your customers/users? How often have you done that in the last month](https://andrewskotzko.com/how-to-know-if-youre-interviewing-at-a-product-led-company/#2-whens-the-last-time-you-talked-with-your-customers-users-how-often-have-you-done-that-in-the-last-month)
 
