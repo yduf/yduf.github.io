@@ -8,5 +8,6 @@ tags: text search index
 - [Inverted index](https://en.wikipedia.org/wiki/Inverted_index) is a database index storing a mapping from content, such as words or numbers, to its locations in a table, or in a document.
 - [relevant search](https://livebook.manning.com/book/relevant-search/chapter-1/)
 
+- [SQLite FTS](https://www.sqlite.org/fts5.html)
 - ElasticSearch
 	- lucene index
