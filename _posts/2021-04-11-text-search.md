@@ -7,6 +7,7 @@ tags: text search index
 
 - [Inverted index](https://en.wikipedia.org/wiki/Inverted_index) is a database index storing a mapping from content, such as words or numbers, to its locations in a table, or in a document.
 - [relevant search](https://livebook.manning.com/book/relevant-search/chapter-1/)
+	- [How Google Code Search Worked](https://swtch.com/~rsc/regexp/regexp4.html) - Regular Expression Matching with a Trigram Index
 
 - [SQLite FTS](https://www.sqlite.org/fts5.html)
 - ElasticSearch
