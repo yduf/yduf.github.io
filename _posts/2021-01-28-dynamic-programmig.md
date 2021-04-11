@@ -20,3 +20,4 @@ use_math: true
 - [**Tabulation**](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=12872s)
 	- [fib tabulation](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=11453s) - generative iteration vs recursion: tree structure encoded in an array. - $O(n)$
     - [gridTraveler tabulation](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=12137s) - counting problem
+- [**Sliding Window**]({% post_url 2021-04-11-algo-sliding-window %}) - a subset of dynamic programming problems
