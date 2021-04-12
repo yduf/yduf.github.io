@@ -1,7 +1,7 @@
 ---
 title: Shortest code (Ruby)
 published: true
-tags: ruby codingame
+tags: ruby codingame string array
 ---
 ## Tips
 ### Read inputs
@@ -9,6 +9,7 @@ tags: ruby codingame
 a,b,c=gets.split.map(&:to_i)
 {% endhighlight %}
 
+## [String](https://ruby-doc.org/core-3.0.1/String.html)
 ### [Split string but keep multiple whitespace](https://stackoverflow.com/questions/46135748/ruby-split-string-but-keep-multiple-whitespace)
 {% highlight ruby %}
 msg = "Tiam his  message"
@@ -39,10 +40,16 @@ s.split.join(' ') #=> "Hello, my name is Michael."
 "string".bytes   # =>  "string".chars.map(&:ord)
 {% endhighlight %}
 
+## [Array](https://ruby-doc.org/core-3.0.1/Array.html)
 ### [Array from range](https://stackoverflow.com/questions/191329/correct-way-to-populate-an-array-with-a-range-in-ruby/6587096#6587096)
 {% highlight ruby %}
 *(1..10)         # => [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 [*1..3, *?a..?c] # => [1, 2, 3, "a", "b", "c"]
+{% endhighlight %}
+
+### [Filter nil](https://stackoverflow.com/a/13485482/51386)
+{% highlight ruby %}
+[1, nil, 3, nil, nil].compact => [1, 3] 
 {% endhighlight %}
 
 ### Apply method on each elment
