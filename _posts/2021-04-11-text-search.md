@@ -12,3 +12,7 @@ tags: text search index
 - [SQLite FTS](https://www.sqlite.org/fts5.html)
 - ElasticSearch
 	- lucene index
+
+- [How does Google search engine work?](https://krazytech.com/technical-papers/how-does-google-search-engine-work)
+	- [Introduction to Search Engines](https://krazytech.com/technical-papers/how-does-a-search-engine-work)
+    - [Google Architecture](http://highscalability.com/google-architecture)
