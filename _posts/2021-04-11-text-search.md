@@ -14,5 +14,5 @@ tags: text search index
 	- lucene index
 
 - [How does Google search engine work?](https://krazytech.com/technical-papers/how-does-google-search-engine-work)
-	- [Introduction to Search Engines](https://krazytech.com/technical-papers/how-does-a-search-engine-work)
+	- [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/~backrub/google.html)
     - [Google Architecture](http://highscalability.com/google-architecture)
