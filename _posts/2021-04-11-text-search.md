@@ -13,6 +13,9 @@ tags: text search index
 
 ## ElasticSearch / lucene index
 - [Stack Overflow: The Architecture - 2016 Edition](https://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/) - The main reason we’re on Elasticsearch instead of something like SQL full-text search is scalability and better allocation of money. 
+	- [A new search engine for Stack Exchange](https://meta.stackexchange.com/questions/160100/a-new-search-engine-for-stack-exchange) - After the performance problems we have run into with Lucene.NET we've decided to make a change, we're moving the network on to elasticsearch.
+    	- [Stack Overflow Migrate Architecture from .NET Framework to .NET Core ](https://www.infoq.com/news/2020/04/Stack-Overflow-New-Architecture/)
+    	- [Stack Overflow Architecture](http://highscalability.com/stack-overflow-architecture)
 
 SQL CPUs are comparatively very expensive, Elastic is cheap and has far more features these days. Why not [Solr](https://solr.apache.org/)? We want to search across the entire network (many indexes at once), and this wasn’t supported at decision time. The reason we’re not on 2.x yet is a [major change to “types”](https://github.com/elastic/elasticsearch/issues/8870) means we need to reindex everything to upgrade. I just don’t have enough time to make the needed changes and migration plan yet.
 
