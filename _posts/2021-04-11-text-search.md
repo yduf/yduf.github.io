@@ -10,9 +10,12 @@ tags: text search index
 	- [How Google Code Search Worked](https://swtch.com/~rsc/regexp/regexp4.html) - Regular Expression Matching with a Trigram Index
 
 - [SQLite FTS](https://www.sqlite.org/fts5.html)
-- ElasticSearch
-	- lucene index
 
-- [How does Google search engine work?](https://krazytech.com/technical-papers/how-does-google-search-engine-work)
-	- [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/~backrub/google.html)
-    - [Google Architecture](http://highscalability.com/google-architecture)
+## ElasticSearch / lucene index
+- [Stack Overflow: The Architecture - 2016 Edition](https://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/) - The main reason we’re on Elasticsearch instead of something like SQL full-text search is scalability and better allocation of money. 
+
+SQL CPUs are comparatively very expensive, Elastic is cheap and has far more features these days. Why not [Solr](https://solr.apache.org/)? We want to search across the entire network (many indexes at once), and this wasn’t supported at decision time. The reason we’re not on 2.x yet is a [major change to “types”](https://github.com/elastic/elasticsearch/issues/8870) means we need to reindex everything to upgrade. I just don’t have enough time to make the needed changes and migration plan yet.
+
+## [How does Google search engine work?](https://krazytech.com/technical-papers/how-does-google-search-engine-work)
+- [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/~backrub/google.html)
+- [Google Architecture](http://highscalability.com/google-architecture)
