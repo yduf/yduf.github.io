@@ -18,7 +18,7 @@ $ # sudo resize2fs /dev/sdc2 # unnecessary
 {% endhighlight %}
 
 - edit set ip in /etc/config/network
-- [ssh root@192.168.1.1](https://openwrt.org/docs/guide-quick-start/sshadministration) and [reconfigure ssh]({% post_url 2019-04-29-ssh %})
+- [ssh root@192.168.1.1](https://openwrt.org/docs/guide-quick-start/sshadministration) and [reconfigure ssh]({% post_url 2019-04-29-ssh %}) then [configure dropbear](https://openwrt.org/docs/guide-user/security/dropbear.public-key.auth#disabling_password_authentication)
 
 - [5 Gbps Ethernet on the Raspberry Pi Compute Module 4](https://www.jeffgeerling.com/blog/2020/5-gbps-ethernet-on-raspberry-pi-compute-module-4)
 - [Installing OpenWRT on a Raspberry Pi as a New Home Firewall (2013)](https://computers.tutsplus.com/articles/installing-openwrt-on-a-raspberry-pi-as-a-new-home-firewall--mac-55984)
