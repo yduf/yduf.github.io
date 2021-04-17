@@ -16,6 +16,8 @@ $ sudo e2fsck -f /dev/sdc2
 $ sudo cfdisk /dev/sdc2
 $ # sudo resize2fs /dev/sdc2 # unnecessary
 {% endhighlight %}
+
+- edit set ip in /etc/config/network
     
 - [Installing OpenWRT on a Raspberry Pi as a New Home Firewall (2013)](https://computers.tutsplus.com/articles/installing-openwrt-on-a-raspberry-pi-as-a-new-home-firewall--mac-55984)
 
