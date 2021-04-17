@@ -1,6 +1,6 @@
 ---
 published: true
-tags: raspberry-pi network security wifi
+tags: raspberry-pi network security wifi ssh
 title: OpenWRT
 ---
 > an open-source Linux distribution aimed at routers. - [openwrt.org](https://openwrt.org/about) 
