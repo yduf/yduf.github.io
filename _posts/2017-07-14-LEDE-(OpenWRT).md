@@ -26,12 +26,6 @@ $ ssh root@192.168.1.1
 root@MyOpenWrt:~# mv /root/.ssh/authorized_keys /etc/dropbear/
 {% endhighlight %}
 
-### [Webserver GUI](http://openwrt)
-{% highlight bash %}
-opkg update
-opkg install luci-ssl-nginx
-/etc/init.d/nginx enable
-{% endhighlight %}
 
 ### [Dropbear key-based authentication](https://openwrt.org/docs/guide-user/security/dropbear.public-key.auth#disabling_password_authentication)
 {% highlight bash %}
@@ -40,6 +34,15 @@ $ uci set dropbear.@dropbear[0].RootPasswordAuth="0"
 $ uci commit dropbear
 $ /etc/init.d/dropbear restart
 {% endhighlight %}
+
+### [Webserver GUI](http://openwrt)
+{% highlight bash %}
+opkg update
+opkg install luci-ssl-nginx
+/etc/init.d/nginx enable
+{% endhighlight %}
+
+### [Temperature Monitoring](https://forum.openwrt.org/t/temperature-monitoring-solved/17462)
 
 ## Network
 - [5 Gbps Ethernet on the Raspberry Pi Compute Module 4](https://www.jeffgeerling.com/blog/2020/5-gbps-ethernet-on-raspberry-pi-compute-module-4)
