@@ -25,7 +25,8 @@ $ ssh-copy-id -i .ssh/id_rsa.pub root@192.168.1.1
 $ ssh root@192.168.1.1
 root@MyOpenWrt:~# mv /root/.ssh/authorized_keys /etc/dropbear/
 {% endhighlight %}
-- [Disabling password authentication](https://openwrt.org/docs/guide-user/security/dropbear.public-key.auth#disabling_password_authentication)
+
+### [Dropbear key-based authentication](https://openwrt.org/docs/guide-user/security/dropbear.public-key.auth#disabling_password_authentication)
 {% highlight bash %}
 $ uci set dropbear.@dropbear[0].PasswordAuth="0"
 $ uci set dropbear.@dropbear[0].RootPasswordAuth="0"
