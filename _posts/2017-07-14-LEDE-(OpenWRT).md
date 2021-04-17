@@ -18,6 +18,7 @@ $ # sudo resize2fs /dev/sdc2 # unnecessary
 {% endhighlight %}
 
 - edit set ip in /etc/config/network
+- ssh root@192.168.1.1
 
 - [5 Gbps Ethernet on the Raspberry Pi Compute Module 4](https://www.jeffgeerling.com/blog/2020/5-gbps-ethernet-on-raspberry-pi-compute-module-4)
 - [Installing OpenWRT on a Raspberry Pi as a New Home Firewall (2013)](https://computers.tutsplus.com/articles/installing-openwrt-on-a-raspberry-pi-as-a-new-home-firewall--mac-55984)
