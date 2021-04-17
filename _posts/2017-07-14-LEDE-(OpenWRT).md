@@ -3,7 +3,7 @@ published: true
 tags: raspberry-pi network security wifi ssh
 title: OpenWRT
 ---
-> an open-source Linux distribution aimed at routers. - [openwrt.org](https://openwrt.org/about) 
+> an open-source Linux distribution aimed at routers. - [openwrt.org](https://openwrt.org/about) / [r/openwrt](https://www.reddit.com/r/openwrt/)
 
 ## [Raspberry-pi support](https://openwrt.org/toh/raspberry_pi_foundation/raspberry_pi)
 - [Raspberry Pi as a home router]({% post_url 2021-02-12-pi-router-firewall %}) / OpenWrt installation
@@ -47,6 +47,9 @@ install Luci statistics, collectd and especially collectd mod sensors and therma
 
 # Network
 - [5 Gbps Ethernet on the Raspberry Pi Compute Module 4](https://www.jeffgeerling.com/blog/2020/5-gbps-ethernet-on-raspberry-pi-compute-module-4)
+
+### Bandwidth policy
+- [SQM](https://www.reddit.com/r/openwrt/comments/91huem/recommended_packages_for_a_typical_home_router/) - 'opkg install luci-app-sqm'
 
 ### [Monitor home network traffic](https://balagetech.com/monitor-network-traffic-openwrt-syslog-ng/)
 
