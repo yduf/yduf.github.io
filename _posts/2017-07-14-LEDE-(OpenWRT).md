@@ -26,7 +26,7 @@ $ ssh root@192.168.1.1
 root@MyOpenWrt:~# mv /root/.ssh/authorized_keys /etc/dropbear/
 {% endhighlight %}
 
-### Webserver GUI
+### [Webserver GUI](http://openwrt)
 {% highlight bash %}
 opkg update
 opkg install luci-ssl-nginx
