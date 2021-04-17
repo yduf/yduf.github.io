@@ -22,7 +22,7 @@ Audio:     Device-1: Intel Sunrise Point-LP HD Audio driver: snd_hda_intel
            Sound Server: ALSA v: k5.4.0-42-generic 
 {% endhighlight %}
 
-## usb device
+## [usb device]({% post_url 2021-02-13-lsusb %})
 {% highlight bash %}
 hwinfo --usb
 {% endhighlight %}
