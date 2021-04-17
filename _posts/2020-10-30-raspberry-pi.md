@@ -1,7 +1,7 @@
 ---
 published: true
 title: Raspberry Pi
-tags: raspberry-pi
+tags: raspberry-pi hardware
 ---
 > The Raspberry Pi is a tiny and affordable computer that you can use to learn programming through fun, practical projects. - [raspberrypi.org](https://www.raspberrypi.org)
 
