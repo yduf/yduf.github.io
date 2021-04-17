@@ -6,7 +6,8 @@ title: OpenWRT
 > an open-source Linux distribution aimed at routers. - [openwrt.org](https://openwrt.org/about) 
 
 ## [Raspberry-pi support](https://openwrt.org/toh/raspberry_pi_foundation/raspberry_pi)
--[Installing OpenWRT on a Raspberry Pi as a New Home Firewall (2013)](https://computers.tutsplus.com/articles/installing-openwrt-on-a-raspberry-pi-as-a-new-home-firewall--mac-55984)
+- [Raspberry Pi as a home router]({% post_url https://www.zahradnik.io/raspberry-pi-as-a-home-router %})
+- [Installing OpenWRT on a Raspberry Pi as a New Home Firewall (2013)](https://computers.tutsplus.com/articles/installing-openwrt-on-a-raspberry-pi-as-a-new-home-firewall--mac-55984)
 
 
 ## [External Antenna](https://www.dorkbotpdx.org/blog/wramsdell/external_antenna_modifications_for_the_raspberry_pi_3)
