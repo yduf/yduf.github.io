@@ -26,6 +26,13 @@ $ ssh root@192.168.1.1
 root@MyOpenWrt:~# mv /root/.ssh/authorized_keys /etc/dropbear/
 {% endhighlight %}
 
+### Webserver GUI
+{% highlight bash %}
+opkg update
+opkg install luci-ssl-nginx
+/etc/init.d/nginx enable
+{% endhighlight %}
+
 ### [Dropbear key-based authentication](https://openwrt.org/docs/guide-user/security/dropbear.public-key.auth#disabling_password_authentication)
 {% highlight bash %}
 $ uci set dropbear.@dropbear[0].PasswordAuth="0"
