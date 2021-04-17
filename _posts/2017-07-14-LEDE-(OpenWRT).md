@@ -3,7 +3,7 @@ published: true
 tags: raspberry-pi network security wifi
 title: OpenWRT
 ---
-> [Raspberry-pi support](https://openwrt.org/toh/raspberry_pi_foundation/raspberry_pi)
+> OpenWrt is a highly extensible GNU/Linux distribution for embedded devices (typically wireless routers). Unlike many other distributions for these routers, OpenWrt is built from the ground up to be a full-featured, easily modifiable operating system for your router. - [openwrt.org]/(https://openwrt.org/about) /[Raspberry-pi support](https://openwrt.org/toh/raspberry_pi_foundation/raspberry_pi)
 
 ## [Walktough](https://computers.tutsplus.com/articles/installing-openwrt-on-a-raspberry-pi-as-a-new-home-firewall--mac-55984)
 
