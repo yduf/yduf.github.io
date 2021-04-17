@@ -19,6 +19,19 @@ $ # sudo resize2fs /dev/sdc2 # unnecessary
 
 - edit set ip in /etc/config/network
 - [ssh root@192.168.1.1](https://openwrt.org/docs/guide-quick-start/sshadministration) and [reconfigure ssh]({% post_url 2019-04-29-ssh %}) then [configure dropbear](https://openwrt.org/docs/guide-user/security/dropbear.public-key.auth#disabling_password_authentication)
+	- [Public SSH login keys for dropbear are stored in /etc/dropbear/authorized_keys](https://jasonschaefer.com/public-key-authentication-in-openwrt-using-dropbear-sshd/)
+{% highlight bash %}
+$ ssh-copy-id -i .ssh/id_rsa.pub root@192.168.1.1
+$ ssh root@192.168.1.1
+root@MyOpenWrt:~# mv /root/.ssh/authorized_keys /etc/dropbear/
+{% endhighlight %}
+- [Disabling password authentication](https://openwrt.org/docs/guide-user/security/dropbear.public-key.auth#disabling_password_authentication)
+{% highlight bash %}
+$ uci set dropbear.@dropbear[0].PasswordAuth="0"
+$ uci set dropbear.@dropbear[0].RootPasswordAuth="0"
+$ uci commit dropbear
+$ /etc/init.d/dropbear restart
+{% endhighlight %}
 
 - [5 Gbps Ethernet on the Raspberry Pi Compute Module 4](https://www.jeffgeerling.com/blog/2020/5-gbps-ethernet-on-raspberry-pi-compute-module-4)
 - [Installing OpenWRT on a Raspberry Pi as a New Home Firewall (2013)](https://computers.tutsplus.com/articles/installing-openwrt-on-a-raspberry-pi-as-a-new-home-firewall--mac-55984)
