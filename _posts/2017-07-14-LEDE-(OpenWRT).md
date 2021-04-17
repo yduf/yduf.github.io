@@ -45,10 +45,13 @@ opkg install luci-ssl-nginx
 ### [Temperature Monitoring](https://forum.openwrt.org/t/temperature-monitoring-solved/17462)
 install Luci statistics, collectd and especially collectd mod sensors and thermal
 
-## Network
+# Network
 - [5 Gbps Ethernet on the Raspberry Pi Compute Module 4](https://www.jeffgeerling.com/blog/2020/5-gbps-ethernet-on-raspberry-pi-compute-module-4)
 
+### [Monitor home network traffic](https://balagetech.com/monitor-network-traffic-openwrt-syslog-ng/)
+
 ### [Network Ad Blocking with Pi-hole and OpenWrt](https://maxpereira.net/network-ad-blocking-with-pihole-and-openwrt/)
+- [How To Setup Pi-hole with OpenWrt](https://bacnh.com/how-to-setup-pi-hole-with-openwrt/)
 
 ### Wifi
 - [How to setup a RTL881cu USB Wifi adapter with the Raspberry Pi 4](https://thepihut.com/blogs/raspberry-pi-tutorials/how-to-setup-a-rtl881cu-usb-wifi-adapter-with-the-raspberry-pi-4)
