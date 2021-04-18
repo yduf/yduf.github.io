@@ -5,6 +5,8 @@ title: OpenWRT
 ---
 > an open-source Linux distribution aimed at routers. - [openwrt.org](https://openwrt.org/about) / [r/openwrt](https://www.reddit.com/r/openwrt/)
 
+- [Van Tech Corner](https://www.youtube.com/c/VanTechCorner/videos)
+
 ## [Raspberry-pi support](https://openwrt.org/toh/raspberry_pi_foundation/raspberry_pi)
 - [Raspberry Pi as a home router]({% post_url 2021-02-12-pi-router-firewall %}) / OpenWrt installation
 	- [OpenWrt installation](https://openwrt.org/toh/raspberry_pi_foundation/raspberry_pi#installation) - for Raspberry Pi 4, you need to download the [latest development build](https://downloads.openwrt.org/snapshots/targets/bcm27xx/bcm2711/).
