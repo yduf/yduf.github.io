@@ -40,3 +40,10 @@ for i in 1..10
   ...
 end
 {% endhighlight %}
+
+### Iterate on string
+{% highlight ruby %}
+"input".each_char { |c| ... }
+"input".chars.map { |c| ... }
+"input".chars.each_with_index { |c,i| ... }
+{% endhighlight %}
