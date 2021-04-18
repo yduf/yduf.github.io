@@ -58,7 +58,7 @@ install Luci statistics, collectd and especially collectd mod sensors and therma
 ### [Network Ad Blocking with Pi-hole and OpenWrt](https://maxpereira.net/network-ad-blocking-with-pihole-and-openwrt/)
 - [How To Setup Pi-hole with OpenWrt](https://bacnh.com/how-to-setup-pi-hole-with-openwrt/)
 
-### Wifi
+### [Wifi](2021-04-18-wifi)
 - [How to setup a RTL881cu USB Wifi adapter with the Raspberry Pi 4](https://thepihut.com/blogs/raspberry-pi-tutorials/how-to-setup-a-rtl881cu-usb-wifi-adapter-with-the-raspberry-pi-4)
 - [External Antenna](https://antenabaru.blogspot.com/2020/06/external-antenna-raspberry-pi-4.html) / [1](https://www.dorkbotpdx.org/blog/wramsdell/external_antenna_modifications_for_the_raspberry_pi_3) / [2](https://hackaday.io/project/10091-raspberry-pi-3-external-antenna)
 
