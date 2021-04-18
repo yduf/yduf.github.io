@@ -27,6 +27,9 @@ s.split.join(' ') #=> "Hello, my name is Michael."
 {% highlight ruby %}
 "input".chars.map { |c| puts c }	# => "input".split('').map
 "input".each_char { |c| puts c }
+
+# not short but usefull
+str.each_char.with_index { |c,i| puts c,i }
 {% endhighlight %}
 
 ### [Character values to Strings](https://makandracards.com/makandra/40838-ruby-converting-utf-8-codepoints-to-characters) && [SO](https://stackoverflow.com/questions/143822/ruby-character-to-ascii-from-a-string)
