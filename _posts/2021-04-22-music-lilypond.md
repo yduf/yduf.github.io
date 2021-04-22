@@ -15,7 +15,7 @@ tags: music write guitar
 - [Guitar ref](http://lilypond.org/doc/v2.19/Documentation/notation/common-notation-for-fretted-strings.en.html)
 	- [tablatures](https://lilypond.org/doc/v2.19/Documentation/notation/common-notation-for-fretted-strings.en.html#default-tablatures)
     - [Fret](https://lilypond.org/doc/v2.19/Documentation/notation/common-notation-for-fretted-strings.en.html#fret-diagram-markups) / [predefined](https://lilypond.org/doc/v2.19/Documentation/notation/common-notation-for-fretted-strings.en.html#predefined-fret-diagrams) / [auto](https://lilypond.org/doc/v2.19/Documentation/notation/common-notation-for-fretted-strings.en.html#automatic-fret-diagrams)
-
+	- [fingers](https://lilypond.org/doc/v2.19/Documentation/notation/common-notation-for-fretted-strings.en.html#right_002dhand-fingerings)
 ## [Aternative](http://linuxmao.org/Le+coin+des+guitaristes)
 
 ![caption](http://lilypond.org/pictures/bwv861-lilypond.png)
