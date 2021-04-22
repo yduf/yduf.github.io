@@ -9,6 +9,9 @@ tags: music write guitar
 	- [Frescobaldi](https://www.frescobaldi.org/) - sheet music text editor.
     - [VSLilyPond](https://github.com/lhl2617/VSLilyPond) - [Music IDE: Lilypond in Visual Studio Code](https://blog.anonymous-function.net/2017/10/24/music-ide-lilypond-in-visual-studio-code/)
     - [online](https://www.hacklily.org/)
+    
+ - [TuxGuitar](http://tuxguitar.com.ar/) - easier edit for Tabs
+ 	- [Exporting tabs from TuxGuitar to Lilypond](https://music.stackexchange.com/questions/101453/exporting-tabs-from-tuxguitar-to-lilypond)
 
 ## Doc
 - [tutorial](http://lilypond.org/doc/v2.22/Documentation/learning/simple-notation)
