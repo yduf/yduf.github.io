@@ -1,7 +1,7 @@
 ---
 published: true
 title: Hacker News (HN)
-tags: observable
+tags: online
 ---
 ## [HN](https://news.ycombinator.com/newest)
 
