@@ -11,7 +11,7 @@ tags: music write guitar
     - [online](https://www.hacklily.org/)
     
  - [TuxGuitar](http://tuxguitar.com.ar/) - easier edit for Tabs
- 	- [Exporting tabs from TuxGuitar to Lilypond](https://music.stackexchange.com/questions/101453/exporting-tabs-from-tuxguitar-to-lilypond) - and fixing them with [convert-ly](https://piware.de/post/2018-09-16-gavis-song/)
+ 	- [Exporting tabs from TuxGuitar to Lilypond](https://music.stackexchange.com/questions/101453/exporting-tabs-from-tuxguitar-to-lilypond) - and [fixing them](https://piware.de/post/2018-09-16-gavis-song/) with [convert-ly](https://lilypond.org/doc/v2.18/Documentation/usage/updating-files-with-convert_002dly.en.html)
 
 ## Doc
 - [tutorial](http://lilypond.org/doc/v2.22/Documentation/learning/simple-notation)
