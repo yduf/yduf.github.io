@@ -14,6 +14,7 @@ tags: music write guitar
 - [tutorial](http://lilypond.org/doc/v2.22/Documentation/learning/simple-notation)
 - [Guitar ref](http://lilypond.org/doc/v2.19/Documentation/notation/common-notation-for-fretted-strings.en.html)
 	- [tablatures](https://lilypond.org/doc/v2.19/Documentation/notation/common-notation-for-fretted-strings.en.html#default-tablatures)
+    - [Fret](https://lilypond.org/doc/v2.19/Documentation/notation/common-notation-for-fretted-strings.en.html#fret-diagram-markups)
 
 ## [Aternative](http://linuxmao.org/Le+coin+des+guitaristes)
 
