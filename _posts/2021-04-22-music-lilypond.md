@@ -13,6 +13,7 @@ tags: music write guitar
 ## Doc
 - [tutorial](http://lilypond.org/doc/v2.22/Documentation/learning/simple-notation)
 - [Guitar ref](http://lilypond.org/doc/v2.19/Documentation/notation/common-notation-for-fretted-strings.en.html)
+	- [tablatures](https://lilypond.org/doc/v2.19/Documentation/notation/common-notation-for-fretted-strings.en.html#default-tablatures)
 
 ## [Aternative](http://linuxmao.org/Le+coin+des+guitaristes)
 
