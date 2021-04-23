@@ -11,6 +11,8 @@ tags: text search index
 
 - [SQLite FTS](https://www.sqlite.org/fts5.html)
 
+## [The Boyer-Moore Fast String Searching Algorithm](https://www.cs.utexas.edu/users/moore/best-ideas/string-searching/) / [HN](https://news.ycombinator.com/item?id=26910982)
+
 ## ElasticSearch / lucene index
 - [Stack Overflow: The Architecture - 2016 Edition](https://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/) - The main reason we’re on Elasticsearch instead of something like SQL full-text search is scalability and better allocation of money. 
 	- [A new search engine for Stack Exchange](https://meta.stackexchange.com/questions/160100/a-new-search-engine-for-stack-exchange) - After the performance problems we have run into with Lucene.NET we've decided to make a change, we're moving the network on to elasticsearch.
