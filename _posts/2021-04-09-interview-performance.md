@@ -10,7 +10,32 @@ tags: software job
 	- [How to Answer "Tell Me About Yourself"](https://www.indeed.com/career-advice/interviewing/interview-question-tell-me-about-yourself)
 	- [Top 35 Salesforce Interview Questions](https://theinterviewguys.com/salesforce-interview-questions/)
 		- [Full-Service Ownership: The Key to Unlocking Business and Customer Value](https://thenewstack.io/full-service-ownership-the-key-to-unlocking-business-and-customer-value/) - today’s digital services are powered by microservices that are constantly changing. Behind those rapidly changing microservices are distributed technical teams who are building, testing, rolling out and maintaining what’s there independently. Full-service ownership brings these experts closer to their customers and the business outcomes driven by their software.
-    
+
+## Manager
+- [quelles questions pour les managers ?](https://www.cadremploi.fr/editorial/conseils/conseils-candidature/entretien-embauche/detail/article/entretien-d-embauche-quelles-questions-pour-les-managers.html)
+	- Comment vous avez réalisé tel projet ?
+		- un bon moyen de voir si le candidat parle d’abord de sa propre réussite ou s’il parle de ses collaborateurs
+	- Quel est votre pire souvenir de manager ?
+		- Un manager qui dit n’avoir jamais rencontré de problème, ce n’est pas logique
+	- Quel est votre meilleur souvenir de manager ?
+		- Certains répondent que leur plus belle réussite est l’aboutissement d’un projet dans le temps imparti et en respectant le budget prévu initialement. Ce sont généralement des managers très centrés sur l’opérationnel et la conduite d’objectif.
+		- À l’inverse, d’autres candidats retiennent la manière dont ils ont su emmener leur équipe vers un statut d’expertise par exemple. Ce sont des managers plus centrés sur l’humain.
+	- Quelles sont les compétences clés d’un manager ?
+		-  c’est comme ça que l’on sonde ce qui est déterminant pour le candidat dans sa manière de manager, en prenant en compte l’ordre de ses réponses. » Celles-ci sont nombreuses : la capacité à arbitre, à fédérer une équipe, à la faire monter en compétences, à communiquer, à gérer une crise…
+	- Quelles sont vos capacités opérationnelles ?
+		-  les capacités opérationnelles du manager importent aussi, assure Laurent Charpentier : « Un bon manager ne doit pas être que dans le "faire faire" mais aussi dans le "faire", on doit être en mesure de vérifier le background opérationnel des candidats. »
+	- Comment gérez-vous les conflits au sein de votre équipe ? 
+		- L’un des rôles du manager est de garantir la cohésion d’équipe. Il aura donc à résoudre d’éventuels conflits internes.
+			- Comment vous apercevez-vous d’un conflit ? 
+            - À quel moment décidez-vous d’intervenir ? 
+            - Quelles solutions êtes-vous capable d’apporter ? 
+	- Quelles innovations avez-vous introduit dans votre management ? 
+		- Êtes-vous plutôt du genre à rester sur vos acquis ou à chercher en permanence de nouvelles pistes pour optimiser l’existant ?
+			-  actions de team building. 
+	- Quels sont vos axes d’amélioration ? 
+		- Assez proche de la traditionnelle question des 3 qualités et des 3 défauts
+		- Être capable de lister ses propres points faibles et les actions à mener pour progresser révèle un certain degré d’humilité, d’honnêteté et de volonté : des qualités souvent très appréciées au sein de l’entreprise, notamment de la part d’un manager. 
+        
 ## Questions to ask
 - [Top 14 Best Questions To Ask In An Interview](https://theinterviewguys.com/top-14-questions-to-ask-in-an-interview/)
 - [Product-led company ?]({% post_url 2021-03-07-product-team %})
