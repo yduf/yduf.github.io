@@ -1,7 +1,7 @@
 ---
 published: true
 title: Interviews
-tags: software job
+tags: software job management
 ---
 > Your interview performance says nothing about you - [I got rejected by Amazon](https://www.youtube.com/watch?v=gvAF9mboxFM)
 
@@ -35,7 +35,14 @@ tags: software job
 	- Quels sont vos axes d’amélioration ? 
 		- Assez proche de la traditionnelle question des 3 qualités et des 3 défauts
 		- Être capable de lister ses propres points faibles et les actions à mener pour progresser révèle un certain degré d’humilité, d’honnêteté et de volonté : des qualités souvent très appréciées au sein de l’entreprise, notamment de la part d’un manager. 
-        
+
+- [Les 5 qualités attendues d’un bon manager](https://www.cadremploi.fr/editorial/conseils/conseils-carriere/detail/article/cadres-reussissez-votre-passage-au-management.html)
+	- Savoir gérer son stress - Un stress et des émotions maîtrisés évitent d’être communiqués au reste de votre équipe. 
+	- Être disponible 
+	- Savoir gérer les conflits - Un bon leader doit être à l’écoute des membres de son équipe et ne doit pas laisser les situations s’envenimer. 
+	- Se mettre en position de service - Il est au service de son équipe et doit veiller à ce qu’elle ait tout ce dont elle a besoin (outils, objectifs clairs, chiffres clés…). Il doit aussi venir en support d’un collaborateur qui a besoin d’aide pour boucler un dossier à temps par exemple.
+	- Savoir motiver son équipe - Il est important d’encourager ses équipes en leur proposant des opportunités professionnelles, des formations mais aussi des augmentations de salaire. La motivation passe aussi par le feedback régulier du manager envers ses collaborateurs. 
+
 ## Questions to ask
 - [Top 14 Best Questions To Ask In An Interview](https://theinterviewguys.com/top-14-questions-to-ask-in-an-interview/)
 - [Product-led company ?]({% post_url 2021-03-07-product-team %})
