@@ -44,6 +44,12 @@ opkg install luci-ssl-nginx
 /etc/init.d/nginx enable
 {% endhighlight %}
 
+### Tools
+{% highlight bash %}
+
+opkg install usbutils	# lsusb
+{% endhighlight %}
+
 ### [Temperature Monitoring](https://forum.openwrt.org/t/temperature-monitoring-solved/17462)
 install Luci statistics, collectd and especially collectd mod sensors and thermal
 
