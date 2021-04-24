@@ -66,6 +66,11 @@ install Luci statistics, collectd and especially collectd mod sensors and therma
 - [How To Setup Pi-hole with OpenWrt](https://bacnh.com/how-to-setup-pi-hole-with-openwrt/)
 
 ### [Wifi]({% post_url 2021-04-18-wifi %})
+
+{% highlight bash %}
+wifi status
+{% endhighlight %}
+
 - [Setting up a Raspberry Pi as a WiFi access point](https://learn.adafruit.com/setting-up-a-raspberry-pi-as-a-wifi-access-point/overview?view=all)
 - [Create a routed Access Point with Raspberry Pi and OpenWrt](https://gremaudpi.emf-informatique.ch/create-a-routed-access-point-with-raspberry-pi-and-openwrt/)
 - [Secure and turn on Wi-Fi](https://openwrt.org/docs/guide-quick-start/walkthrough_wifi)
