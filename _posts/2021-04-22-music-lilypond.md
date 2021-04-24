@@ -21,7 +21,7 @@ tags: music write guitar
     - Special commands are entered with backslashes.
 - [tutorial](http://lilypond.org/doc/v2.22/Documentation/learning/simple-notation)
 - [Guitar ref](http://lilypond.org/doc/v2.19/Documentation/notation/common-notation-for-fretted-strings.en.html)
-	- [tablatures](https://lilypond.org/doc/v2.19/Documentation/notation/common-notation-for-fretted-strings.en.html#default-tablatures)
+	- [tablatures](https://lilypond.org/doc/v2.22/Documentation/notation/common-notation-for-fretted-strings#default-tablatures)
     - [Fret](https://lilypond.org/doc/v2.19/Documentation/notation/common-notation-for-fretted-strings.en.html#fret-diagram-markups) / [predefined](https://lilypond.org/doc/v2.19/Documentation/notation/common-notation-for-fretted-strings.en.html#predefined-fret-diagrams) / [auto](https://lilypond.org/doc/v2.19/Documentation/notation/common-notation-for-fretted-strings.en.html#automatic-fret-diagrams)
 		- [Fret diagram](https://lsr.di.unimi.it/LSR/Search?q=fret-diagram)
 	- [fingers](https://lilypond.org/doc/v2.19/Documentation/notation/common-notation-for-fretted-strings.en.html#right_002dhand-fingerings)
