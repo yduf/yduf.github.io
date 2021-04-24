@@ -14,6 +14,7 @@ tags: music write guitar
  	- [Exporting tabs from TuxGuitar to Lilypond](https://music.stackexchange.com/questions/101453/exporting-tabs-from-tuxguitar-to-lilypond) - and [fixing them](https://piware.de/post/2018-09-16-gavis-song/) with [convert-ly](https://lilypond.org/doc/v2.18/Documentation/usage/updating-files-with-convert_002dly.en.html)
 
 ## Doc
+- [intro](https://lilypond.org/website/text-input.html)
 - [tutorial](http://lilypond.org/doc/v2.22/Documentation/learning/simple-notation)
 - [Guitar ref](http://lilypond.org/doc/v2.19/Documentation/notation/common-notation-for-fretted-strings.en.html)
 	- [tablatures](https://lilypond.org/doc/v2.19/Documentation/notation/common-notation-for-fretted-strings.en.html#default-tablatures)
