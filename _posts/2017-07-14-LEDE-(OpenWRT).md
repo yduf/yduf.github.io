@@ -68,7 +68,11 @@ install Luci statistics, collectd and especially collectd mod sensors and therma
 ### [Wifi]({% post_url 2021-04-18-wifi %})
 
 {% highlight bash %}
-wifi status
+$ wifi
+'radio0' is disabled
+
+$ wifi status
+...
 {% endhighlight %}
 
 - [Setting up a Raspberry Pi as a WiFi access point](https://learn.adafruit.com/setting-up-a-raspberry-pi-as-a-wifi-access-point/overview?view=all)
