@@ -15,6 +15,10 @@ tags: music write guitar
 
 ## Doc
 - [intro](https://lilypond.org/website/text-input.html)
+	- Notes are encoded with letters and numbers. 
+    - Alterations are made with different names: add -`is` for sharp, and -`es` for flat.
+    - enclose pitches in `< >` for chords
+    - Special commands are entered with backslashes.
 - [tutorial](http://lilypond.org/doc/v2.22/Documentation/learning/simple-notation)
 - [Guitar ref](http://lilypond.org/doc/v2.19/Documentation/notation/common-notation-for-fretted-strings.en.html)
 	- [tablatures](https://lilypond.org/doc/v2.19/Documentation/notation/common-notation-for-fretted-strings.en.html#default-tablatures)
