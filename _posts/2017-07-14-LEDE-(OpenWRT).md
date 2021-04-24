@@ -68,7 +68,7 @@ install Luci statistics, collectd and especially collectd mod sensors and therma
 ### [Wifi]({% post_url 2021-04-18-wifi %})
 - [Setting up a Raspberry Pi as a WiFi access point](https://learn.adafruit.com/setting-up-a-raspberry-pi-as-a-wifi-access-point/overview?view=all)
 - [Create a routed Access Point with Raspberry Pi and OpenWrt](https://gremaudpi.emf-informatique.ch/create-a-routed-access-point-with-raspberry-pi-and-openwrt/)
-
+- [Secure and turn on Wi-Fi](https://openwrt.org/docs/guide-quick-start/walkthrough_wifi)
 - [OpenWRT and WLAN-USB-Sticks](https://technicalexperiments.wordpress.com/2016/02/09/openwrt-and-wlan-usb-sticks-work-in-progress/)
 - [How to setup a RTL881cu USB Wifi adapter with the Raspberry Pi 4](https://thepihut.com/blogs/raspberry-pi-tutorials/how-to-setup-a-rtl881cu-usb-wifi-adapter-with-the-raspberry-pi-4)
 - [External Antenna](https://antenabaru.blogspot.com/2020/06/external-antenna-raspberry-pi-4.html) / [1](https://www.dorkbotpdx.org/blog/wramsdell/external_antenna_modifications_for_the_raspberry_pi_3) / [2](https://hackaday.io/project/10091-raspberry-pi-3-external-antenna)
