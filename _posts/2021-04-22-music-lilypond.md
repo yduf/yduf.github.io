@@ -23,7 +23,7 @@ tags: music write guitar
 - [Guitar ref](http://lilypond.org/doc/v2.19/Documentation/notation/common-notation-for-fretted-strings.en.html)
 	- [tablatures](https://lilypond.org/doc/v2.22/Documentation/notation/common-notation-for-fretted-strings#default-tablatures)
     - [Fret](https://lilypond.org/doc/v2.22/Documentation/notation/common-notation-for-fretted-strings#custom-tablatures)
-		- [Fret diagram](https://lsr.di.unimi.it/LSR/Search?q=fret-diagram)
+		- [Fret diagram](https://lsr.di.unimi.it/LSR/Search?q=fret-diagram) / [\fret-diagram](https://lilypond.org/doc/v2.19/Documentation/notation/instrument-specific-markup.en.html)
 	- [fingers](https://lilypond.org/doc/v2.19/Documentation/notation/common-notation-for-fretted-strings.en.html#right_002dhand-fingerings)
 	- [chords](https://lilypond.org/doc/v2.22/Documentation/notation/chord-notation)
     
