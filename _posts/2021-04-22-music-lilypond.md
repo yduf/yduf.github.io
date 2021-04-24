@@ -25,6 +25,8 @@ tags: music write guitar
     - [Fret](https://lilypond.org/doc/v2.19/Documentation/notation/common-notation-for-fretted-strings.en.html#fret-diagram-markups) / [predefined](https://lilypond.org/doc/v2.19/Documentation/notation/common-notation-for-fretted-strings.en.html#predefined-fret-diagrams) / [auto](https://lilypond.org/doc/v2.19/Documentation/notation/common-notation-for-fretted-strings.en.html#automatic-fret-diagrams)
 		- [Fret diagram](https://lsr.di.unimi.it/LSR/Search?q=fret-diagram)
 	- [fingers](https://lilypond.org/doc/v2.19/Documentation/notation/common-notation-for-fretted-strings.en.html#right_002dhand-fingerings)
+	- [chords](https://lilypond.org/doc/v2.22/Documentation/notation/chord-notation)
+    
 - [advanced tutorial](http://www.artsulger.com/2007/03/lilypond-notation-program.html)
 
 ## [Aternative](http://linuxmao.org/Le+coin+des+guitaristes)
