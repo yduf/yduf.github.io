@@ -48,6 +48,7 @@ opkg install luci-ssl-nginx
 {% highlight bash %}
 
 opkg install usbutils	# lsusb
+opkg install usbutils	# lshw
 {% endhighlight %}
 
 ### [Temperature Monitoring](https://forum.openwrt.org/t/temperature-monitoring-solved/17462)
@@ -64,7 +65,7 @@ install Luci statistics, collectd and especially collectd mod sensors and therma
 ### [Network Ad Blocking with Pi-hole and OpenWrt](https://maxpereira.net/network-ad-blocking-with-pihole-and-openwrt/)
 - [How To Setup Pi-hole with OpenWrt](https://bacnh.com/how-to-setup-pi-hole-with-openwrt/)
 
-### [Wifi](2021-04-18-wifi)
+### [Wifi]({% post_url 2021-04-18-wifi %})
 - [Setting up a Raspberry Pi as a WiFi access point](https://learn.adafruit.com/setting-up-a-raspberry-pi-as-a-wifi-access-point/overview?view=all)
 
 - [OpenWRT and WLAN-USB-Sticks](https://technicalexperiments.wordpress.com/2016/02/09/openwrt-and-wlan-usb-sticks-work-in-progress/)
