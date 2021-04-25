@@ -8,8 +8,9 @@ use_math: true
 
 > Wilson was Secretary of Defense, and he actually had a pathological fear and hatred of the word "research" ... dynamic programming was a good name. It was something not even a Congressman could object to. So I used it as an umbrella for my activities. - [How Bellman came up with this name](https://en.wikipedia.org/wiki/Dynamic_programming#History)
 
-- [Dynamic Programming vs. Divide-and-Conquer (2018)](https://news.ycombinator.com/item?id=26930667)
+## [Dynamic Programming vs. Divide-and-Conquer (2018)](https://news.ycombinator.com/item?id=26930667)
 
+![caption](https://trekhleb.dev/static/5a8f370f01f0db44fff93ee8aeba3f6c/aa440/02-dp.png)
 
 ## Learn to Solve Algorithmic Problems & Coding Challenges - [youtube (5h)](https://www.youtube.com/watch?v=oBt53YbR9Kk)
 - [**Memoisation**]({% post_url 2019-06-30-memoization %}) / [summary](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=3892s)
