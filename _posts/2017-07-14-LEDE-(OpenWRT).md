@@ -21,15 +21,24 @@ $ # sudo resize2fs /dev/sdc2 # unnecessary
 
 - edit set ip in /etc/config/network
 {% highlight bash %}
-config interface 'wan'                
-        option ifname 'eth1' 
-        option proto 'static'   
-        option ipaddr '192.168.0.250'   
-        option netmask '255.255.255.0'
-        option gateway '192.168.0.254'  
-        option ipv6 'auto'         
-        option peerdns '0'            
-        option dns '212.27.40.240 212.27.40.241'
+config interface 'loopback'
+	option ifname 'lo'
+	option proto 'static'
+	option ipaddr '127.0.0.1'
+	option netmask '255.0.0.0'
+
+config globals 'globals'
+	option ula_prefix 'auto'
+
+config interface 'lan'
+	option type 'bridge'
+	option ifname 'eth0'
+	option proto 'static'
+	option ipaddr '192.168.0.250'
+	option netmask '255.255.255.0'
+	option ip6assign '60'
+	option gateway '192.168.0.254'             
+	option dns '212.27.40.240 212.27.40.241'
 {% endhighlight %}
 
 - [ssh root@192.168.1.1](https://openwrt.org/docs/guide-quick-start/sshadministration) and [reconfigure ssh]({% post_url 2019-04-29-ssh %}) then [configure dropbear](https://openwrt.org/docs/guide-user/security/dropbear.public-key.auth#disabling_password_authentication)
