@@ -20,6 +20,18 @@ $ # sudo resize2fs /dev/sdc2 # unnecessary
 {% endhighlight %}
 
 - edit set ip in /etc/config/network
+{% highlight bash %}
+config interface 'wan'                
+        option ifname 'eth1' 
+        option proto 'static'   
+        option ipaddr '192.168.0.250'   
+        option netmask '255.255.255.0'
+        option gateway '192.168.0.254'  
+        option ipv6 'auto'         
+        option peerdns '0'            
+        option dns '212.27.40.240 212.27.40.241'
+{% endhighlight %}
+
 - [ssh root@192.168.1.1](https://openwrt.org/docs/guide-quick-start/sshadministration) and [reconfigure ssh]({% post_url 2019-04-29-ssh %}) then [configure dropbear](https://openwrt.org/docs/guide-user/security/dropbear.public-key.auth#disabling_password_authentication)
 	- [Public SSH login keys for dropbear are stored in /etc/dropbear/authorized_keys](https://jasonschaefer.com/public-key-authentication-in-openwrt-using-dropbear-sshd/)
 {% highlight bash %}
