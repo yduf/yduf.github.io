@@ -12,7 +12,7 @@ title: OpenWRT
 	- [OpenWrt installation](https://openwrt.org/toh/raspberry_pi_foundation/raspberry_pi#installation) - for Raspberry Pi 4, you need to download the [latest development build](https://downloads.openwrt.org/snapshots/targets/bcm27xx/bcm2711/).
 		- get rpi-4-ext4-factory.img.gz, unzip it
         - copy image on sd card, `dd if=rpi-4-ext4-factory.img of=/dev/mmcblk0 bs=4096 ; sync`
-        - expand partition
+        - [expand partition](https://openwrt.org/docs/guide-user/additional-software/extroot_configuration)
 {% highlight bash %}
 $ sudo e2fsck -f /dev/sdc2
 $ sudo cfdisk /dev/sdc
