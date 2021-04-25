@@ -3,7 +3,7 @@ published: true
 title: Tail call optimisation (TCO)
 tags: optimize recurse algorithm ruby Fibonacci
 ---
-
+> avoid allocating a new stack frame for a function because the calling function will simply return the value that it gets from the called function. The most common use is tail-recursion, where a recursive function written to take advantage of tail-call optimization can use constant stack space. - [SO](https://stackoverflow.com/a/310980/51386)
 
 
 ## TCO transformation
