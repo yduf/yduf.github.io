@@ -6,6 +6,11 @@ use_math: true
 ---
 > it refers to simplifying a complicated problem by breaking it down into simpler sub-problems in a recursive manner.  While some decision problems cannot be taken apart this way, decisions that span several points in time do often break apart recursively. Likewise, in computer science, if a problem can be solved optimally by breaking it into sub-problems and then recursively finding the optimal solutions to the sub-problems, then it is said to have optimal substructure. - [Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming)
 
+> Wilson was Secretary of Defense, and he actually had a pathological fear and hatred of the word "research" ... dynamic programming was a good name. It was something not even a Congressman could object to. So I used it as an umbrella for my activities. - [How Bellman came up with this name](https://en.wikipedia.org/wiki/Dynamic_programming#History)
+
+- [Dynamic Programming vs. Divide-and-Conquer (2018)](https://news.ycombinator.com/item?id=26930667)
+
+
 ## Learn to Solve Algorithmic Problems & Coding Challenges - [youtube (5h)](https://www.youtube.com/watch?v=oBt53YbR9Kk)
 - [**Memoisation**]({% post_url 2019-06-30-memoization %}) / [summary](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=3892s)
 	- [fib memoization](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=210s) - from $O(2^n)$ to $O(n)$
