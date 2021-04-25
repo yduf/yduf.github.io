@@ -15,7 +15,7 @@ title: OpenWRT
         - expand partition
 {% highlight bash %}
 $ sudo e2fsck -f /dev/sdc2
-$ sudo cfdisk /dev/sdc2
+$ sudo cfdisk /dev/sdc
 $ # sudo resize2fs /dev/sdc2 # unnecessary
 {% endhighlight %}
 
