@@ -10,8 +10,8 @@ title: OpenWRT
 ## [Raspberry-pi support](https://openwrt.org/toh/raspberry_pi_foundation/raspberry_pi)
 - [Raspberry Pi as a home router]({% post_url 2021-02-12-pi-router-firewall %}) / OpenWrt installation
 	- [OpenWrt installation](https://openwrt.org/toh/raspberry_pi_foundation/raspberry_pi#installation) - for Raspberry Pi 4, you need to download the [latest development build](https://downloads.openwrt.org/snapshots/targets/bcm27xx/bcm2711/).
-		- get rpi-4-ext4-factory.img.gz
-        - copy image on sd card
+		- get rpi-4-ext4-factory.img.gz, unzip it
+        - copy image on sd card, `dd if=rpi-4-ext4-factory.img of=/dev/mmcblk0 bs=4096 ; sync`
         - expand partition
 {% highlight bash %}
 $ sudo e2fsck -f /dev/sdc2
