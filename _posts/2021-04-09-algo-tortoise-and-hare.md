@@ -10,4 +10,6 @@ tags: graph algorithm
 - find position of first repetition
 - find cycle length
 
+[Brent's algorithm](https://en.wikipedia.org/wiki/Cycle_detection#Brent's_algorithm) use a faster model with progressive speed.
+
 - [If Programming Was An Anime](https://www.youtube.com/watch?v=pKO9UjSeLew)
