@@ -1,6 +1,6 @@
 ---
 published: true
-tags: vinyle audio 
+tags: vinyle audio
 ---
 Tuto expliquant les bases pour bien [regler sa platine vinyle](https://www.son-video.com/guide/bien-regler-sa-platine-vinyle)
 
@@ -32,3 +32,5 @@ Remarque : contrairement à certaines idées reçues, une force d'appui trop fai
 # L'antiskating
 
 Il s'agit d'un procédé technique permettant d'exercer sur le bras une force chargée de compenser la traction du sillon sur la pointe de lecture. Elle est généralement adaptée en fonction de la force d'appui. Cela dépend bien sûr de la construction du bras. Les correcteurs d'antiskating habituels utilisent un ressort (Technics SL1200), un aimant (dont la force dépend de l'angle), un contrepoids fixé sur un câble et suspendu sur un bras de levier cranté ou un contrepoids fixe. Le réglage de l'antiskating doit être fait avec la platine parfaitement horizontale.
+
+## [Stereo disc recording](https://www.vinylrecorder.com/stereo.html)
