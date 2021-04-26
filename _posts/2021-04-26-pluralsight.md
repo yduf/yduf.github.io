@@ -14,3 +14,5 @@ tags: learn
 - [Effective Phone Skills](https://app.pluralsight.com/library/courses/effective-phone-skills/table-of-contents)
 
 - [Turning the Corporate Ladder into an Escalator](https://app.pluralsight.com/library/courses/turning-corporate-ladder-into-escalator/table-of-contents)
+
+- [Building Software That Lasts - A Guide to Maintainable Software](https://app.pluralsight.com/course-player?clipId=133e20c5-e325-463c-8a2e-fe88ab139f94)
