@@ -48,3 +48,5 @@ Assez proche de la traditionnelle question des 3 qualités et des 3 défauts
 - [11 Common Project Manager Interview Questions and Answers](https://www.indeed.com/career-advice/interviewing/project-manager-interview-questions)
 - [18 Project Manager Interview Questions & Answers [2021 Updated]](https://blog.masterofproject.com/18-project-manager-interview-questions/)
 - [The 23 Best Project Manager Interview Questions](https://www.projectmanager.com/blog/the-23-best-project-manager-interview-questions)
+- [Conflict Resolution Skills: Definition and Examples](https://www.indeed.com/career-advice/resumes-cover-letters/conflict-resolution-skills)
+- [Four Common Types of Team Conflict and How To Resolve Them](https://www.indeed.com/career-advice/career-development/types-of-team-conflict)
