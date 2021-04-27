@@ -4,7 +4,7 @@ title: Manager Interviews
 tags: job management
 ---
 ## Manager
-- [quelles questions pour les managers ?](https://www.cadremploi.fr/editorial/conseils/conseils-candidature/entretien-embauche/detail/article/entretien-d-embauche-quelles-questions-pour-les-managers.html)
+
 	- Comment vous avez réalisé tel projet ?
 		- un bon moyen de voir si le candidat parle d’abord de sa propre réussite ou s’il parle de ses collaborateurs
 	- Quel est votre pire souvenir de manager ?
@@ -34,3 +34,11 @@ tags: job management
 	- Savoir gérer les conflits - Un bon leader doit être à l’écoute des membres de son équipe et ne doit pas laisser les situations s’envenimer. 
 	- Se mettre en position de service - Il est au service de son équipe et doit veiller à ce qu’elle ait tout ce dont elle a besoin (outils, objectifs clairs, chiffres clés…). Il doit aussi venir en support d’un collaborateur qui a besoin d’aide pour boucler un dossier à temps par exemple.
 	- Savoir motiver son équipe - Il est important d’encourager ses équipes en leur proposant des opportunités professionnelles, des formations mais aussi des augmentations de salaire. La motivation passe aussi par le feedback régulier du manager envers ses collaborateurs. 
+
+## Resources
+-  [quelles questions pour les managers ?](https://www.cadremploi.fr/editorial/conseils/conseils-candidature/entretien-embauche/detail/article/entretien-d-embauche-quelles-questions-pour-les-managers.html)
+- [Project Manager Interview Questions ](https://www.thebalancecareers.com/project-manager-interview-questions-2061483)
+- [8 Project Manager Interview Questions and Answers ](https://www.indeed.com/recrutement/interview-questions/project-manager#question_2)
+- [11 Common Project Manager Interview Questions and Answers](https://www.indeed.com/career-advice/interviewing/project-manager-interview-questions)
+- [18 Project Manager Interview Questions & Answers [2021 Updated]](https://blog.masterofproject.com/18-project-manager-interview-questions/)
+- [The 23 Best Project Manager Interview Questions](https://www.projectmanager.com/blog/the-23-best-project-manager-interview-questions)
