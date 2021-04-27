@@ -3,7 +3,7 @@ published: true
 title: Manager Interviews
 tags: job management
 ---
-## Manager
+
 ### Comment vous avez réalisé tel projet ?	
  - un bon moyen de voir si le candidat parle d’abord de sa propre réussite ou s’il parle de ses collaborateurs
 
@@ -31,8 +31,8 @@ tags: job management
 	-  actions de team building. 
 
 ### Quels sont vos axes d’amélioration ? 
-		- Assez proche de la traditionnelle question des 3 qualités et des 3 défauts
-		- Être capable de lister ses propres points faibles et les actions à mener pour progresser révèle un certain degré d’humilité, d’honnêteté et de volonté : des qualités souvent très appréciées au sein de l’entreprise, notamment de la part d’un manager. 
+Assez proche de la traditionnelle question des 3 qualités et des 3 défauts
+- Être capable de lister ses propres points faibles et les actions à mener pour progresser révèle un certain degré d’humilité, d’honnêteté et de volonté : des qualités souvent très appréciées au sein de l’entreprise, notamment de la part d’un manager. 
 
 ## [Les 5 qualités attendues d’un bon manager](https://www.cadremploi.fr/editorial/conseils/conseils-carriere/detail/article/cadres-reussissez-votre-passage-au-management.html)
 - Savoir gérer son stress - Un stress et des émotions maîtrisés évitent d’être communiqués au reste de votre équipe. 
