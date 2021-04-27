@@ -42,7 +42,7 @@ tags: job management
 - Savoir motiver son équipe - Il est important d’encourager ses équipes en leur proposant des opportunités professionnelles, des formations mais aussi des augmentations de salaire. La motivation passe aussi par le feedback régulier du manager envers ses collaborateurs. 
 
 ## Resources
--  [quelles questions pour les managers ?](https://www.cadremploi.fr/editorial/conseils/conseils-candidature/entretien-embauche/detail/article/entretien-d-embauche-quelles-questions-pour-les-managers.html)
+-  [Quelles questions pour les managers ?](https://www.cadremploi.fr/editorial/conseils/conseils-candidature/entretien-embauche/detail/article/entretien-d-embauche-quelles-questions-pour-les-managers.html)
 - [Project Manager Interview Questions ](https://www.thebalancecareers.com/project-manager-interview-questions-2061483)
 - [8 Project Manager Interview Questions and Answers ](https://www.indeed.com/recrutement/interview-questions/project-manager#question_2)
 - [11 Common Project Manager Interview Questions and Answers](https://www.indeed.com/career-advice/interviewing/project-manager-interview-questions)
