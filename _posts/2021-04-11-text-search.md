@@ -22,6 +22,7 @@ tags: text search index
 SQL CPUs are comparatively very expensive, Elastic is cheap and has far more features these days. Why not [Solr](https://solr.apache.org/)? We want to search across the entire network (many indexes at once), and this wasn’t supported at decision time. The reason we’re not on 2.x yet is a [major change to “types”](https://github.com/elastic/elasticsearch/issues/8870) means we need to reindex everything to upgrade. I just don’t have enough time to make the needed changes and migration plan yet.
 
 ## [What is Apache SolrCloud?](https://intellipaat.com/blog/what-is-apache-solrcloud/)
+- [Apache Solr vs Elasticsearch](http://solr-vs-elasticsearch.com/)
 
 ## [How does Google search engine work?](https://krazytech.com/technical-papers/how-does-google-search-engine-work)
 - [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/~backrub/google.html)
