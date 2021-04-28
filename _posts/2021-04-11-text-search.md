@@ -24,6 +24,9 @@ SQL CPUs are comparatively very expensive, Elastic is cheap and has far more fea
 ## [What is Apache SolrCloud?](https://intellipaat.com/blog/what-is-apache-solrcloud/)
 - [Apache Solr vs Elasticsearch](http://solr-vs-elasticsearch.com/)
 
+## Lucene
+- [Text search with Lucene](https://www.youtube.com/watch?v=x37B_lCi_gc) / [2](https://www.youtube.com/watch?v=fCK9U3L7c8U)
+
 ## [How does Google search engine work?](https://krazytech.com/technical-papers/how-does-google-search-engine-work)
 - [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/~backrub/google.html)
 - [Google Architecture](http://highscalability.com/google-architecture)
