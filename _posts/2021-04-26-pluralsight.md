@@ -16,3 +16,5 @@ tags: learn
 - [Effective Phone Skills](https://app.pluralsight.com/library/courses/effective-phone-skills/table-of-contents)
 
 - [Turning the Corporate Ladder into an Escalator](https://app.pluralsight.com/library/courses/turning-corporate-ladder-into-escalator/table-of-contents)
+
+- [Spring Framework: Creating Your First Spring Boot Application](https://app.pluralsight.com/library/courses/creating-first-spring-boot-application/table-of-contents) - 4.5
