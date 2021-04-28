@@ -17,4 +17,4 @@ tags: learn
 
 - [Turning the Corporate Ladder into an Escalator](https://app.pluralsight.com/library/courses/turning-corporate-ladder-into-escalator/table-of-contents)
 
-- [Spring Framework: Creating Your First Spring Boot Application](https://app.pluralsight.com/library/courses/creating-first-spring-boot-application/table-of-contents) - 4.5
+- [Spring Framework: Creating Your First Spring Boot Application (by Dan Bunker)](https://app.pluralsight.com/library/courses/creating-first-spring-boot-application/table-of-contents) - 4.5
