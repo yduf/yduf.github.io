@@ -22,6 +22,10 @@ excerpt_separator: <!--more-->
 - [Base-122](https://github.com/kevinAlbs/Base122)
 - [yEnc](https://en.wikipedia.org/wiki/YEnc) - 8-bit encoding method, 252 of the 256 possible bytes are passed through unencoded as a single byte, whether that result is a printable ASCII character or not.
 
+<!--more-->
+† Base85 is listed for completeness but all variants use characters which are considered hazardous for general use in 
+
+
 **BMP‑constrained**
 - [Base2048]({% post_url 2020-08-13-unicode %})  56%
 - [Base32768]({% post_url 2020-08-13-unicode %})  63%
@@ -29,8 +33,6 @@ excerpt_separator: <!--more-->
 **Full Unicode**
 - [Base65536]({% post_url 2020-08-13-unicode %}) 56%
 
-<!--more-->
-† Base85 is listed for completeness but all variants use characters which are considered hazardous for general use in 
 
 ## [scheme and overhead](https://en.wikipedia.org/wiki/Binary-to-text_encoding) ([stackoverflow](https://stackoverflow.com/a/971501/51386))
 
