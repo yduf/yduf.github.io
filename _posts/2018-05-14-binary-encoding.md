@@ -5,7 +5,7 @@ tags: ascii binary text base64 encoding ruby c++ string single-header
 excerpt_separator: <!--more-->
 ---
 **[ASCII‑constrained](https://en.wikipedia.org/wiki/ASCII)**
-- [Base16](https://en.wikipedia.org/wiki/Hexadecimal),Hex -  [a9eb85ea214a6cfa6882f4be041d5cce7bee3e45](https://blog.thoughtram.io/git/2014/11/18/the-anatomy-of-a-git-commit.html)
+- [Base16](https://en.wikipedia.org/wiki/Hexadecimal),Hex - hash output [a9eb85ea214a6cfa6882f4be041d5cce7bee3e45](https://blog.thoughtram.io/git/2014/11/18/the-anatomy-of-a-git-commit.html)
 - [Base32](https://en.wikipedia.org/wiki/Base32) - standard 32-character set: twenty-six upper-case letters A–Z and the digits 2–7.
 - [Base36](https://en.wikipedia.org/wiki/Base36) - Arabic numerals 0–9 and the Latin letters A–Z
 - [Base58](https://en.wikipedia.org/wiki/Binary-to-text_encoding#Base58) - avoid both non-alphanumeric characters (+ and /) and letters which might look ambiguous when printed (0 - zero, I - capital i, O - capital o and l - lower case L).
