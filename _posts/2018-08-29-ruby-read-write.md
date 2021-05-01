@@ -30,3 +30,7 @@ File::open('yozloy.txt','w') do |f|
   f << 'Some contains'
 end
 {% endhighlight %}
+
+see also
+- [File](https://ruby-doc.org/core-3.0.1/File.html)
+- [FileUtils](https://rubyapi.org/3.0/o/fileutils)
