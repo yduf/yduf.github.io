@@ -27,6 +27,7 @@ excerpt_separator: <!--more-->
 † Base85 is listed for completeness but all variants use characters which are considered hazardous for general use in 
 
 ## [scheme and overhead](https://en.wikipedia.org/wiki/Binary-to-text_encoding) ([stackoverflow](https://stackoverflow.com/a/971501/51386))
+- [Efficiently encoding binary data in Unicode ](https://qntm.org/unicodings)
 
 ## [uuencode](https://en.wikipedia.org/wiki/Uuencode) (like base64)
 
