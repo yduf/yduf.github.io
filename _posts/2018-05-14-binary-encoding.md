@@ -1,17 +1,17 @@
 ---
 title: Binary / Text encoding
 published: true
-tags: binary text base64 encoding ruby c++ string single-header
+tags: ascii binary text base64 encoding ruby c++ string single-header
 excerpt_separator: <!--more-->
 ---
-**ASCII‑constrained**
-- [yEnc](https://en.wikipedia.org/wiki/YEnc)
+**[ASCII‑constrained](https://en.wikipedia.org/wiki/ASCII)**
 - [uuencode](https://en.wikipedia.org/wiki/Uuencode) (like base64)
 - [Base64](https://en.wikipedia.org/wiki/Base64): 75%
 - hex: 50%
 - [Base85 (Ascii85)](https://en.wikipedia.org/wiki/Ascii85) - †
 - [basE91](http://base91.sourceforge.net/)
 - [Base-122](https://github.com/kevinAlbs/Base122)
+- [yEnc](https://en.wikipedia.org/wiki/YEnc) - 8-bit encoding method, 252 of the 256 possible bytes are passed through unencoded as a single byte, whether that result is a printable ASCII character or not.
 
 **BMP‑constrained**
 - [Base2048]({% post_url 2020-08-13-unicode %})  56%
