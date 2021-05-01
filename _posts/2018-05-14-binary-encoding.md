@@ -28,8 +28,8 @@ excerpt_separator: <!--more-->
 **\***  The Base1 encoding is not as simple as taking the binary as a place-value base 256 number. This would give no way to distinguish buffers with leading null bytes from one another. We have to encode the length of the source buffer as well. We do this by sorting all possible buffers by length and then lexicographically, then simply returning the index of the buffer in the list.
 ## [Unicode]({% post_url 2020-08-13-unicode %})
 ### [BMP‑constrained](https://github.com/qntm/base65536)
-- [Base2048]({% post_url 2020-08-13-unicode %})  56%
-- [Base32768]({% post_url 2020-08-13-unicode %})  63%
+- Base2048  56%
+- Base32768  63%
 
 ### [Full Unicode]({% post_url 2020-08-13-unicode %})
 - [Base65536](https://github.com/qntm/base65536) 56%
