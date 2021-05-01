@@ -33,4 +33,4 @@ end
 
 see also
 - [File](https://ruby-doc.org/core-3.0.1/File.html)
-- [FileUtils](https://rubyapi.org/3.0/o/fileutils)
+- [FileUtils](https://ruby-doc.org/stdlib-2.4.1/libdoc/fileutils/rdoc/FileUtils.html#method-c-ln_sf)
