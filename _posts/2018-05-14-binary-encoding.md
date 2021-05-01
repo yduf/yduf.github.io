@@ -1,7 +1,7 @@
 ---
 title: Binary / Text encoding
 published: true
-tags: ascii binary text base64 encoding ruby c++ string single-header
+tags: ascii binary text base64 encoding ruby c++ string single-header hash
 excerpt_separator: <!--more-->
 ---
 > tl;dr: if you wish to efficiently encode binary data as Unicode text, - [Efficiently encoding binary data in Unicode ](https://qntm.org/unicodings)
