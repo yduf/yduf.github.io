@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 > -    in UTF-32, use Base65536
 
 ### [ASCII‑constrained](https://en.wikipedia.org/wiki/ASCII)
-- [Base1](https://github.com/qntm/base1)
+- [Base1](https://github.com/qntm/base1) \*
 - [Base16](https://en.wikipedia.org/wiki/Hexadecimal),Hex - hash output [a9eb85ea214a6cfa6882f4be041d5cce7bee3e45](https://blog.thoughtram.io/git/2014/11/18/the-anatomy-of-a-git-commit.html)
 - [Base32](https://en.wikipedia.org/wiki/Base32) - standard 32-character set: twenty-six upper-case letters A–Z and the digits 2–7.
 - [Base36](https://en.wikipedia.org/wiki/Base36) - Arabic numerals 0–9 and the Latin letters A–Z
@@ -25,7 +25,7 @@ excerpt_separator: <!--more-->
 <!--more-->
 **†** Base85 is listed for completeness but all variants use characters which are considered hazardous for general use in 
 
--  The Base1 encoding is not as simple as taking the binary as a place-value base 256 number. This would give no way to distinguish buffers with leading null bytes from one another. We have to encode the length of the source buffer as well. We do this by sorting all possible buffers by length and then lexicographically, then simply returning the index of the buffer in the list.
+**\***  The Base1 encoding is not as simple as taking the binary as a place-value base 256 number. This would give no way to distinguish buffers with leading null bytes from one another. We have to encode the length of the source buffer as well. We do this by sorting all possible buffers by length and then lexicographically, then simply returning the index of the buffer in the list.
 
 ### [BMP‑constrained](https://github.com/qntm/base65536)
 - [Base2048]({% post_url 2020-08-13-unicode %})  56%
