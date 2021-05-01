@@ -17,7 +17,7 @@ Dir["/app/**"].each {|filename|
 ### [Ruby](http://lofic.github.io/tips/ruby-recursive_globbing.html) / [SO](https://stackoverflow.com/a/20527887/51386)
 
 {% highlight ruby %}
-Dir["/**/*"].each do |filename|
+Dir["**/*"].each do |filename|
   puts filename
 end
 {% endhighlight %}
