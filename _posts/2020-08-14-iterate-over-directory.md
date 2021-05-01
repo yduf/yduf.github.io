@@ -2,7 +2,6 @@
 published: true
 title: Iterate over directory
 tags: loop iterate filesystem file ruby crystal c++
-excerpt_separator: ''
 ---
 ### [Crystal](https://crystal-lang.org/api/0.35.1/Dir.html#each(&:String-%3E):Nil-instance-method)
 Similar to ruby [Dir](https://ruby-doc.org/core-2.7.1/Dir.html).
@@ -15,10 +14,10 @@ Dir["/app/**"].each {|filename|
 }
 {% endhighlight %}
 
-### [Ruby](https://stackoverflow.com/a/20527887/51386)
+### [Ruby](http://lofic.github.io/tips/ruby-recursive_globbing.html) / [SO](https://stackoverflow.com/a/20527887/51386)
 
 {% highlight ruby %}
-Dir["/app/**"].each do |filename|
+Dir["/**/*"].each do |filename|
   puts filename
 end
 {% endhighlight %}
