@@ -31,7 +31,7 @@ excerpt_separator: <!--more-->
 - [Base2048]({% post_url 2020-08-13-unicode %})  56%
 - [Base32768]({% post_url 2020-08-13-unicode %})  63%
 
-### Full Unicode
+### [Full Unicode]({% post_url 2020-08-13-unicode %})
 - [Base65536](https://github.com/qntm/base65536) 56%
 
 ## [Scheme and overhead](https://en.wikipedia.org/wiki/Binary-to-text_encoding)
