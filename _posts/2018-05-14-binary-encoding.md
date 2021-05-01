@@ -5,10 +5,10 @@ tags: ascii binary text base64 encoding ruby c++ string single-header
 excerpt_separator: <!--more-->
 ---
 **[ASCII‑constrained](https://en.wikipedia.org/wiki/ASCII)**
-- [uuencode](https://en.wikipedia.org/wiki/Uuencode) (like base64)
-- [Base64](https://en.wikipedia.org/wiki/Base64): 75%
+- [Base32](https://en.wikipedia.org/wiki/Base32) - standard 32-character set: twenty-six upper-case letters A–Z and the digits 2–7.
+- [Base64](https://en.wikipedia.org/wiki/Base64) / [uuencode](https://en.wikipedia.org/wiki/Uuencode):  75%
 - hex: 50%
-- [Base85 (Ascii85)](https://en.wikipedia.org/wiki/Ascii85) - †
+- [Base85,Ascii85](https://en.wikipedia.org/wiki/Ascii85) - more efficient than uuencode or Base64, may contain escape characters such as backslash and quote †
 - [basE91](http://base91.sourceforge.net/)
 - [Base-122](https://github.com/kevinAlbs/Base122)
 - [yEnc](https://en.wikipedia.org/wiki/YEnc) - 8-bit encoding method, 252 of the 256 possible bytes are passed through unencoded as a single byte, whether that result is a printable ASCII character or not.
