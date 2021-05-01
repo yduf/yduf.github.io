@@ -4,6 +4,12 @@ published: true
 tags: ascii binary text base64 encoding ruby c++ string single-header
 excerpt_separator: <!--more-->
 ---
+> tl;dr: if you wish to efficiently encode binary data as Unicode text, - [Efficiently encoding binary data in Unicode ](https://qntm.org/unicodings)
+> -    in UTF-8, use Base64 or Base85
+> -    in UTF-16, use Base32768
+> -    in UTF-32, use Base65536
+
+
 **[ASCII‑constrained](https://en.wikipedia.org/wiki/ASCII)**
 - [Base16](https://en.wikipedia.org/wiki/Hexadecimal),Hex - hash output [a9eb85ea214a6cfa6882f4be041d5cce7bee3e45](https://blog.thoughtram.io/git/2014/11/18/the-anatomy-of-a-git-commit.html)
 - [Base32](https://en.wikipedia.org/wiki/Base32) - standard 32-character set: twenty-six upper-case letters A–Z and the digits 2–7.
@@ -27,7 +33,7 @@ excerpt_separator: <!--more-->
 † Base85 is listed for completeness but all variants use characters which are considered hazardous for general use in 
 
 ## [scheme and overhead](https://en.wikipedia.org/wiki/Binary-to-text_encoding) ([stackoverflow](https://stackoverflow.com/a/971501/51386))
-- [Efficiently encoding binary data in Unicode ](https://qntm.org/unicodings)
+
 
 ## [uuencode](https://en.wikipedia.org/wiki/Uuencode) (like base64)
 
