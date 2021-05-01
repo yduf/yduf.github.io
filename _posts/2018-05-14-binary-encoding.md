@@ -34,7 +34,7 @@ excerpt_separator: <!--more-->
 ### Full Unicode
 - [Base65536]({% post_url 2020-08-13-unicode %}) 56%
 
-## [scheme and overhead](https://en.wikipedia.org/wiki/Binary-to-text_encoding) ([stackoverflow](https://stackoverflow.com/a/971501/51386))
+## [Scheme and overhead](https://en.wikipedia.org/wiki/Binary-to-text_encoding) ([stackoverflow](https://stackoverflow.com/a/971501/51386))
 
 
 ## [uuencode](https://en.wikipedia.org/wiki/Uuencode) (like base64)
