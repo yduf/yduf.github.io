@@ -37,8 +37,7 @@ excerpt_separator: <!--more-->
 ## [cheme and overhead](https://en.wikipedia.org/wiki/Binary-to-text_encoding) ([stackoverflow](https://stackoverflow.com/a/971501/51386))
 
 
-## [uuencode](https://en.wikipedia.org/wiki/Uuencode) (like base64)
-
+## [UUencode](https://en.wikipedia.org/wiki/Uuencode)
 ### [install](https://askubuntu.com/questions/232440/how-do-i-install-uudecode#232444)
 {% highlight bash %}
 sudo apt-get install sharutils
