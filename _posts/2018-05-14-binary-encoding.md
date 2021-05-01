@@ -26,7 +26,7 @@ excerpt_separator: <!--more-->
 † Base85 is listed for completeness but all variants use characters which are considered hazardous for general use in 
 
 
-**BMP‑constrained**
+**[BMP‑constrained](https://github.com/qntm/base65536)**
 - [Base2048]({% post_url 2020-08-13-unicode %})  56%
 - [Base32768]({% post_url 2020-08-13-unicode %})  63%
 
