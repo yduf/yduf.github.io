@@ -19,7 +19,7 @@ excerpt_separator: <!--more-->
 - [Base85,Ascii85](https://en.wikipedia.org/wiki/Ascii85) - **80%** UTF8 Efficiency - more efficient than uuencode or Base64, may contain escape characters such as backslash and quote †
 - [basE91](http://base91.sourceforge.net/)
 - [Base-122](https://github.com/kevinAlbs/Base122)
-- [yEnc](https://en.wikipedia.org/wiki/YEnc) - 8-bit encoding method, 252 of the 256 possible bytes are passed through unencoded as a single byte, whether that result is a printable ASCII character or not.
+- [yEnc](https://en.wikipedia.org/wiki/YEnc) - 8-bit encoding method, 252 of the 256 possible bytes are passed through unencoded as a single byte, whether that result is a printable ASCII character or not. Only NUL, LF, CR, and = are escaped.
 
 <!--more-->
 **†** Base85 is listed for completeness but all variants use characters which are considered hazardous for general use in 
