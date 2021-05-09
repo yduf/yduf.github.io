@@ -12,6 +12,9 @@ tags: music write guitar
     
  - [TuxGuitar](http://tuxguitar.com.ar/) - easier edit for Tabs
  	- [Exporting tabs from TuxGuitar to Lilypond](https://music.stackexchange.com/questions/101453/exporting-tabs-from-tuxguitar-to-lilypond) - and [fixing them](https://piware.de/post/2018-09-16-gavis-song/) with [convert-ly](https://lilypond.org/doc/v2.18/Documentation/usage/updating-files-with-convert_002dly.en.html)
+{% highlight bash %}
+convert-ly tuxguitar_export.ly > converted.ly
+{% endhighlight %}
 
 ## Doc
 - [intro](https://lilypond.org/website/text-input.html)
