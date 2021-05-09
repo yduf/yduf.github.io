@@ -31,6 +31,7 @@ convert-ly tuxguitar_export.ly > converted.ly
 	- [chords](https://lilypond.org/doc/v2.22/Documentation/notation/chord-notation)
     - [tuplet](https://lilypond.org/doc/v2.19/Documentation/notation/writing-rhythms.en.html#tuplets)
     - [4/4 vs C](https://www.mymusictheory.com/learn-music-theory/reference/347-time-signatures-4-4-or-c)
+    - [key signature](https://lilypond.org/doc/v2.18/Documentation/learning/accidentals-and-key-signatures.en.html)
     
 - [advanced tutorial](http://www.artsulger.com/2007/03/lilypond-notation-program.html)
 
