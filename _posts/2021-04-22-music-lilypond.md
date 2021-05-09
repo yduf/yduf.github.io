@@ -1,7 +1,7 @@
 ---
 published: true
 title: LilyPond
-tags: music write guitar
+tags: music write guitar tab
 ---
 > LilyPond is a music engraving program, devoted to producing the highest-quality sheet music possible - [lilypond.org](http://lilypond.org/)
 
@@ -29,6 +29,8 @@ convert-ly tuxguitar_export.ly > converted.ly
 		- [Fret diagram](https://lsr.di.unimi.it/LSR/Search?q=fret-diagram) / [\fret-diagram](https://lilypond.org/doc/v2.19/Documentation/notation/instrument-specific-markup.en.html)
 	- [fingers](https://lilypond.org/doc/v2.19/Documentation/notation/common-notation-for-fretted-strings.en.html#right_002dhand-fingerings)
 	- [chords](https://lilypond.org/doc/v2.22/Documentation/notation/chord-notation)
+    - [tuplet](https://lilypond.org/doc/v2.19/Documentation/notation/writing-rhythms.en.html#tuplets)
+    - [4/4 vs C](https://www.mymusictheory.com/learn-music-theory/reference/347-time-signatures-4-4-or-c)
     
 - [advanced tutorial](http://www.artsulger.com/2007/03/lilypond-notation-program.html)
 
