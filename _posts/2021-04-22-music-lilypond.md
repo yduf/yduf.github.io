@@ -28,6 +28,7 @@ convert-ly tuxguitar_export.ly > converted.ly
     - [Fret](https://lilypond.org/doc/v2.22/Documentation/notation/common-notation-for-fretted-strings#custom-tablatures)
 		- [Fret diagram](https://lsr.di.unimi.it/LSR/Search?q=fret-diagram) / [\fret-diagram](https://lilypond.org/doc/v2.19/Documentation/notation/instrument-specific-markup.en.html)
 	- [fingers](https://lilypond.org/doc/v2.19/Documentation/notation/common-notation-for-fretted-strings.en.html#right_002dhand-fingerings)
+    - [String Specific Notation](https://lilypondcookbook.com/post/83531286313/fretted-strings-3-string-specific-notation) - hammer - pulloff - bend
 	- [chords](https://lilypond.org/doc/v2.22/Documentation/notation/chord-notation)
     - [tuplet](https://lilypond.org/doc/v2.19/Documentation/notation/writing-rhythms.en.html#tuplets)
     - [4/4 vs C](https://www.mymusictheory.com/learn-music-theory/reference/347-time-signatures-4-4-or-c)
