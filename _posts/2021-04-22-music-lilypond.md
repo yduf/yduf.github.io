@@ -30,7 +30,7 @@ convert-ly tuxguitar_export.ly > converted.ly
 	- [fingers](https://lilypond.org/doc/v2.19/Documentation/notation/common-notation-for-fretted-strings.en.html#right_002dhand-fingerings)
     - [String Specific Notation](https://lilypondcookbook.com/post/83531286313/fretted-strings-3-string-specific-notation) - hammer - pulloff - bend
 	- [chords](https://lilypond.org/doc/v2.22/Documentation/notation/chord-notation)
-    	- [chord with different note lengths (half and quarter)](https://music.stackexchange.com/questions/92313/music-engraving-chord-with-different-note-lengths-half-and-quarter)
+    	- [chord with different note lengths (half and quarter)](https://music.stackexchange.com/questions/92313/music-engraving-chord-with-different-note-lengths-half-and-quarterlil)
     - [tuplet](https://lilypond.org/doc/v2.19/Documentation/notation/writing-rhythms.en.html#tuplets)
     - [4/4 vs C](https://www.mymusictheory.com/learn-music-theory/reference/347-time-signatures-4-4-or-c)
     - [key signature](https://lilypond.org/doc/v2.18/Documentation/learning/accidentals-and-key-signatures.en.html)
