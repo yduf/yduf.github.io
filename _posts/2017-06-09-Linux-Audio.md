@@ -14,14 +14,13 @@ sudo apt-get install qjackctl
 ## [Support](https://dragly.org/2014/01/12/focusrite-scarlett-2i2-flawlessly-working-on-ubuntu-with-jack/) for [focusrite 2i2](https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2)
 
 - [linux issue](https://feaneron.com/2021/04/20/focusrite-is-hostile-to-linux-avoid-if-possible/)
-- [latenct issue](https://askubuntu.com/questions/1261052/how-to-setup-my-scarlett-2i2)
-
-![caption](https://focusrite.com/sites/focusrite/files/styles/slideshow/public/scarlett2i2-bullets-front.png?itok=oMHQG9Lf)
-
-other:
+- [latency issue](https://askubuntu.com/questions/1261052/how-to-setup-my-scarlett-2i2)
 - [1](http://linuxmao.org/Focusrite+Scarlett+2i2)
 - [2](https://tuxicoman.jesuislibre.net/2016/09/focusrite-2i2-2eme-generation-sous-linux.html)
 - [linux hardware support](https://wiki.linuxaudio.org/wiki/hardware_support)
+
+## Alternative
+- [Behringer U-PHORIA UMC202HD vs UMC204HD](https://www.youtube.com/watch?v=g3xgw1U8sIg)
 
 ## Killing Pulse Audio
 
