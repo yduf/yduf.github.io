@@ -13,6 +13,7 @@ sudo apt-get install qjackctl
 
 ## [Support](https://dragly.org/2014/01/12/focusrite-scarlett-2i2-flawlessly-working-on-ubuntu-with-jack/) for [focusrite 2i2](https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2)
 
+- [linux issue](https://feaneron.com/2021/04/20/focusrite-is-hostile-to-linux-avoid-if-possible/)
 - [latenct issue](https://askubuntu.com/questions/1261052/how-to-setup-my-scarlett-2i2)
 
 ![caption](https://focusrite.com/sites/focusrite/files/styles/slideshow/public/scarlett2i2-bullets-front.png?itok=oMHQG9Lf)
