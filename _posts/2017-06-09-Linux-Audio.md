@@ -1,20 +1,15 @@
 ---
 published: true
-tags: linux audio
+tags: linux audio guitar
 title: Jack (linux audio)
 ---
+> JACK Audio Connection Kit - [Jack application](http://jackaudio.org/applications/)
+
 ## Setup Jack Audio server
-
 add bridge support for pulse-audio / jack (see also below)
-
 sudo apt-get install pulseaudio-module-jack
-
 add UI control 
-
 sudo apt-get install qjackctl
-
-
-[Jack application](http://jackaudio.org/applications/)
 
 ## [Support for focusrite 2i2](https://dragly.org/2014/01/12/focusrite-scarlett-2i2-flawlessly-working-on-ubuntu-with-jack/)
 
