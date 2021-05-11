@@ -11,7 +11,9 @@ sudo apt-get install pulseaudio-module-jack
 add UI control 
 sudo apt-get install qjackctl
 
-## [Support for focusrite 2i2](https://dragly.org/2014/01/12/focusrite-scarlett-2i2-flawlessly-working-on-ubuntu-with-jack/)
+## [Support](https://dragly.org/2014/01/12/focusrite-scarlett-2i2-flawlessly-working-on-ubuntu-with-jack/) for [focusrite 2i2](https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2)
+
+![caption](https://focusrite.com/sites/focusrite/files/styles/slideshow/public/scarlett2i2-bullets-front.png?itok=oMHQG9Lf)
 
 other:
 - [1](http://linuxmao.org/Focusrite+Scarlett+2i2)
