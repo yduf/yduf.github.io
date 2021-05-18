@@ -48,10 +48,11 @@ cpu = 'armv7l'
 endian = 'little'
 {% endhighlight %}
 
-## [Meson vs X](https://en.wikipedia.org/wiki/Meson_(software)#Language)
+## [Meson vs X](https://en.wikipedia.org/wiki/Meson_(software)#Language) / [SO](https://stackoverflow.com/questions/5837764/autotools-vs-cmake-for-both-windows-and-linux-compilation/24953691#24953691)
 
 > Why I'd choose Meson+Doctest tech stack to create a new C++ project with a reusable and easy-to-run example - [Choosing a Modern C++ stack](https://carlosvin.github.io/posts/choosing-modern-cpp-stack/en/)
 
+- [Getting started with Meson build system and C++](https://medium.com/@germandiagogomez/getting-started-with-meson-build-system-and-c-83270f444bee)
 - [Do not use Meson](https://www.rojtberg.net/1481/do-not-use-meson/)
 
 ## Tipical build
