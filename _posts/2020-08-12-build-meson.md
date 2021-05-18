@@ -68,3 +68,6 @@ optimized for extremely fast full and incremental builds without sacrificing cor
 ## FAQ
 - Why is Meson's configuration language not Turing-complete? - [Against The Use Of Programming Languages in Configuration Files](https://taint.org/2011/02/18/001527a.html)
 - [Making build systems not suck!](https://lca2015.linux.org.au/slides/140/meson-lca2015.pdf)
+
+## Ref
+- [Do not use Meson](https://www.rojtberg.net/1481/do-not-use-meson/)
