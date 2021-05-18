@@ -24,6 +24,12 @@ gtkdep = dependency('gtk+-3.0')
 executable('demo', 'main.c', dependencies : gtkdep)
 {% endhighlight %}
 
+## [Subprojects](https://mesonbuild.com/Subprojects.html)
+
+Meson allows you to take any other Meson project and make it a part of your build without (in the best case) any changes to its Meson setup. It becomes a transparent part of the project.
+
+[CMake based subprojects](https://mesonbuild.com/CMake-module.html#cmake-subprojects) are also supported but not guaranteed to work.
+
 ## [Cross compilation](https://mesonbuild.com/Cross-compilation.html)
 Meson requires you to write a [cross build definition file](https://mesonbuild.com/Cross-compilation.html#cross-file-locations). It defines various properties of the cross build environment. The cross file consists of different sections.
 
