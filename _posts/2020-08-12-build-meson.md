@@ -46,6 +46,9 @@ endian = 'little'
 
 > Why I'd choose Meson+Doctest tech stack to create a new C++ project with a reusable and easy-to-run example - [Choosing a Modern C++ stack](https://carlosvin.github.io/posts/choosing-modern-cpp-stack/en/)
 
+- [Do not use Meson](https://www.rojtberg.net/1481/do-not-use-meson/)
+
+## Tipical build
 {% highlight bash %}
 $ meson build .  (1)
 $ cd build
@@ -69,5 +72,3 @@ optimized for extremely fast full and incremental builds without sacrificing cor
 - Why is Meson's configuration language not Turing-complete? - [Against The Use Of Programming Languages in Configuration Files](https://taint.org/2011/02/18/001527a.html)
 - [Making build systems not suck!](https://lca2015.linux.org.au/slides/140/meson-lca2015.pdf)
 
-## Ref
-- [Do not use Meson](https://www.rojtberg.net/1481/do-not-use-meson/)
