@@ -25,7 +25,9 @@ executable('demo', 'main.c', dependencies : gtkdep)
 
 ## [Subprojects](https://mesonbuild.com/Subprojects.html)
 
-Meson allows you to take any other Meson project and make it a part of your build without (in the best case) any changes to its Meson setup. It becomes a transparent part of the project.
+Meson allows you to take any other Meson project and make it a part of your build without (in the best case) any changes to its Meson setup. It becomes a transparent part of the project. 
+
+see also [Subproject limitations](https://github.com/mesonbuild/meson/issues/422)
 
 [CMake based subprojects](https://mesonbuild.com/CMake-module.html#cmake-subprojects) are also supported but not guaranteed to work.
 
