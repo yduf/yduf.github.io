@@ -7,6 +7,7 @@ use_math: true
 > This neural net is an integral part of the MCTS, where it helps guide the tree search via its policy and value outputs - [From-scratch implementation of AlphaZero for Connect4](https://towardsdatascience.com/from-scratch-implementation-of-alphazero-for-connect4-f73d4554002a) / github  [plkmo/AlphaZero_Connect4](https://github.com/plkmo/AlphaZero_Connect4)
 
 - [Lessons From Implementing AlphaZero](https://medium.com/oracledevs/lessons-from-implementing-alphazero-7e36e9054191)
+	- [AlphaGo cheat sheet](https://adspassets.blob.core.windows.net/website/content/alpha_go_zero_cheat_sheet.png)
 
 $UCB = Q + C_{uct} P(s,a)\Large\frac{\sqrt{ \sum_{b} N(s,b)} }{1 + N(s,a)}$
 
