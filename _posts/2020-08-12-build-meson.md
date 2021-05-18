@@ -9,14 +9,13 @@ tags: build make dlang c++
 
 The only thing to note is that you need to create a separate build directory. Meson will not allow you to build source code inside your source tree. All build artifacts are stored in the build directory.
 
+### [meson.build](https://mesonbuild.com/Tutorial.html) file
 {% highlight bash %}
-$ cd /path/to/source/root
-$ meson builddir && cd builddir
+$ mkdir test && cd test && meson init
+$ meson build && cd build
 $ meson compile
 $ meson test
 {% endhighlight %}
-
-### [meson.build](https://mesonbuild.com/Tutorial.html) file
 
 {% highlight ruby %}
 project('tutorial', 'c')
