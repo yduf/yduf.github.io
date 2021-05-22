@@ -18,6 +18,9 @@ Containers are isolated from the host in several ways. They have their own PID n
 
 Also, depending on your Wi-Fi drivers, this might not work at all. Some drivers support setting the network namespace while others will return an error.
 
+Docker provides a --network=host option, where your container runs in the same network namespace as the rest of the system’s processes. But if you only want a single interface to be controlled directly by the container, you need to do some command-line voodoo.
+
+
 
 ## [Raspberry-pi support](https://openwrt.org/toh/raspberry_pi_foundation/raspberry_pi)
 - [Raspberry Pi as a home router]({% post_url 2021-02-12-pi-router-firewall %}) / OpenWrt installation
