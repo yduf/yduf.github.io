@@ -1,7 +1,7 @@
 ---
 published: true
 title: Containing OpenWRT
-tags: network
+tags: network docker
 ---
 > By providing the kernel to the docker container we may provide better driver support than those avalaible in OpenWRT (ex 88x2bu wifi usb device) -  [OpenWrt in Docker](https://github.com/oofnikj/docker-openwrt) / [contain your router](https://badgateway.qc.to/contain-your-router/)
 
