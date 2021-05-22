@@ -96,6 +96,10 @@ $ wifi status
 ...
 {% endhighlight %}
 
+- [Compile drivers for ...](https://forum.openwrt.org/t/compile-drivers-for-rtl8821cu-wireless-adapter/90577/2)
+	- It's not an easy thing to do since OpenWrt is not set up to let you compile things inside the device, you can only use the build system to cross-compile.
+    - OpenWrt does not support dkms system for building and using out-of-tree Linux drivers so you cannot use that source but you would need to get a straight kernel patch and adapt it to the kernel used in OpenWrt, that's all sorts of painful.
+    
 - [Setting up a Raspberry Pi as a WiFi access point](https://learn.adafruit.com/setting-up-a-raspberry-pi-as-a-wifi-access-point/overview?view=all)
 - [Create a routed Access Point with Raspberry Pi and OpenWrt](https://gremaudpi.emf-informatique.ch/create-a-routed-access-point-with-raspberry-pi-and-openwrt/)
 - [Secure and turn on Wi-Fi](https://openwrt.org/docs/guide-quick-start/walkthrough_wifi)
