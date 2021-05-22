@@ -18,7 +18,6 @@ Containers are isolated from the host in several ways. They have their own PID n
 
 Docker provides a --network=host option, where your container runs in the same network namespace as the rest of the system’s processes. But if you only want a single interface to be controlled directly by the container, you need to do some command-line voodoo.
 
-
 Also, depending on your Wi-Fi drivers, this might not work at all. Some drivers support setting the network namespace while others will return an error.
 
 ## [Raspberry-pi support](https://openwrt.org/toh/raspberry_pi_foundation/raspberry_pi)
