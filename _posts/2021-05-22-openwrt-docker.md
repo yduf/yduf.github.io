@@ -17,3 +17,6 @@ Docker provides a --network=host option, where your container runs in the same n
 Also, depending on your Wi-Fi drivers, this might not work at all. Some drivers support setting the network namespace while others will return an error.
 
 ### [Grafana Monitoring](https://github.com/oofnikj/docker-openwrt/blob/master/monitoring/README.md)
+
+## Ressources
+- [openwrtorg/rootfs](https://hub.docker.com/r/openwrtorg/rootfs)
