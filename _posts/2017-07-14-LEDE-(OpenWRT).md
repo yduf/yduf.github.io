@@ -7,6 +7,10 @@ title: OpenWRT
 
 - [Van Tech Corner](https://www.youtube.com/c/VanTechCorner/videos)
 
+## [OpenWrt in Docker](https://github.com/oofnikj/docker-openwrt) / [contain your router](https://badgateway.qc.to/contain-your-router/)
+
+This [should work on raspberry](https://forum.openwrt.org/t/running-openwrt-in-a-docker-container/56049), and allows to use module compiled for the linkux kernel (which are harder to include for OpenWrt).
+
 ## [Raspberry-pi support](https://openwrt.org/toh/raspberry_pi_foundation/raspberry_pi)
 - [Raspberry Pi as a home router]({% post_url 2021-02-12-pi-router-firewall %}) / OpenWrt installation
 	- [OpenWrt installation](https://openwrt.org/toh/raspberry_pi_foundation/raspberry_pi#installation) - for Raspberry Pi 4, you need to download the [latest development build](https://downloads.openwrt.org/snapshots/targets/bcm27xx/bcm2711/).
