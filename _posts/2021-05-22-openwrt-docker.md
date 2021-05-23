@@ -7,9 +7,9 @@ tags: network docker raspberry-pi
 
 # [On Raspberry Pi](https://github.com/oofnikj/docker-openwrt/blob/master/docs/rpi.md)
 
-### [Setup Raspian]({% post_url 2019-08-16-raspbian-x86 %}) + Docker
+## [Setup Raspian]({% post_url 2019-08-16-raspbian-x86 %}) + Docker
 
-### [Setup wifi driver]({% post_url 2021-04-18-wifi %})
+## [Setup wifi driver]({% post_url 2021-04-18-wifi %})
 
 - It [should work on raspberry](https://forum.openwrt.org/t/running-openwrt-in-a-docker-container/56049), and allows to use module compiled for the linux kernel (which are harder to include for OpenWrt).
 - [pi4 issue (solved)](https://github.com/oofnikj/docker-openwrt/issues/7)
