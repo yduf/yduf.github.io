@@ -5,9 +5,14 @@ tags: network docker raspberry-pi
 ---
 > By providing the kernel to the docker container we may provide better driver support than those avalaible in OpenWRT (ex 88x2bu wifi usb device) -  [OpenWrt in Docker](https://github.com/oofnikj/docker-openwrt) / [contain your router](https://badgateway.qc.to/contain-your-router/)
 
-## [Raspberry Pi](https://github.com/oofnikj/docker-openwrt/blob/master/docs/rpi.md)
-This [should work on raspberry](https://forum.openwrt.org/t/running-openwrt-in-a-docker-container/56049), and allows to use module compiled for the linux kernel (which are harder to include for OpenWrt).
+## [On Raspberry Pi](https://github.com/oofnikj/docker-openwrt/blob/master/docs/rpi.md)
 
+### [Setup Raspian]({% post_url 2019-08-16-raspbian-x86 %}) + Docker
+
+
+
+
+- It [should work on raspberry](https://forum.openwrt.org/t/running-openwrt-in-a-docker-container/56049), and allows to use module compiled for the linux kernel (which are harder to include for OpenWrt).
 - [pi4 issue (solved)](https://github.com/oofnikj/docker-openwrt/issues/7)
 
 ### [Teleport the Wi-Fi](https://badgateway.qc.to/contain-your-router/)
