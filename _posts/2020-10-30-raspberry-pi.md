@@ -18,3 +18,6 @@ tags: raspberry-pi hardware
     - [My take on the pi quick kit](https://www.reddit.com/r/cyberDeck/comments/jihgz1/my_take_on_the_pi_quick_kit/)
     - [H.U.E.V.01.](https://www.reddit.com/r/cyberDeck/comments/je103e/based_off_back7co_design_i_present_huev01/)
     - [The Division](https://www.reddit.com/r/cyberDeck/comments/ivsw32/the_division_shd_cyberdeck_part_3_component/)
+
+## [Wifi]({% post_url 2021-04-18-wifi %})
+- [Disable WiFi (wlan0) on Pi](https://raspberrypi.stackexchange.com/questions/43720/disable-wifi-wlan0-on-pi-3)
