@@ -8,7 +8,6 @@ title: Jack (linux audio)
 ## Setup Jack Audio server
 add bridge support for pulse-audio / jack (see also below)
 - sudo apt-get install pulseaudio-module-jack
-- sudo apt-get install pulseaudio-module-jack
 
 add UI control 
 - sudo apt-get install qjackctl
