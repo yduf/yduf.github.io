@@ -5,6 +5,8 @@ title: Jack (linux audio)
 ---
 > JACK Audio Connection Kit - [Jack application](http://jackaudio.org/applications/)
 
+![caption](https://linuxaudio.github.io/libremusicproduction/html/sites/default/files/articles/Jacklogo.png)
+
 - [A Beginners Guide to Getting Started with JACK](https://linuxaudio.github.io/libremusicproduction/html/articles/demystifying-jack-%e2%80%93-beginners-guide-getting-started-jack.html)
 
 ## Setup Jack Audio server
