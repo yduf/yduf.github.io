@@ -11,6 +11,8 @@ title: Jack (linux audio)
 ![caption](https://linuxaudio.github.io/libremusicproduction/html/sites/default/files/articles/Jacklogo.png)
 
 
+Prefer pipewire
+
 ## Setup Jack Audio server
 add bridge support for pulse-audio / jack (see also below)
 - sudo apt-get install pulseaudio-module-jack
