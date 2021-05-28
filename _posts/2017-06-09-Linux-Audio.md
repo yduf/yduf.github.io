@@ -5,6 +5,8 @@ title: Jack (linux audio)
 ---
 > JACK Audio Connection Kit - [Jack application](http://jackaudio.org/applications/)
 
+- [A Beginners Guide to Getting Started with JACK](https://linuxaudio.github.io/libremusicproduction/html/articles/demystifying-jack-%e2%80%93-beginners-guide-getting-started-jack.html)
+
 ## Setup Jack Audio server
 add bridge support for pulse-audio / jack (see also below)
 - sudo apt-get install pulseaudio-module-jack
