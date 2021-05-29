@@ -10,3 +10,6 @@ tags: audio drums
 ## Alternatives
 - [drumbit](https://drumbit.app/) - online
 
+Generic MIDI
+- [Muse](https://github.com/muse-sequencer/muse)
+
