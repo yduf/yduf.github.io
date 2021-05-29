@@ -11,5 +11,7 @@ tags: audio drums
 - [drumbit](https://drumbit.app/) - online
 
 Generic MIDI
+- [LMMS](https://sourceforge.net/projects/lmms/)
 - [Muse](https://github.com/muse-sequencer/muse)
+
 
