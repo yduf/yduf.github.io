@@ -10,7 +10,7 @@ tags: audio midi drums
 ## Alternatives
 - [drumbit](https://drumbit.app/) - online
 
-Generic MIDI
+Generic MIDI Sequencer
 - [LMMS](https://sourceforge.net/projects/lmms/)
 	- need a soundfont (eg titanic)
 - [Muse](https://github.com/muse-sequencer/muse)
