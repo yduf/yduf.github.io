@@ -7,6 +7,8 @@ tags: audio midi drums
 
 - [An Introduction to Hydrogen](https://www.linuxjournal.com/article/7846)
 
+- [How To Program Drum Grooves](https://www.youtube.com/watch?v=23qiThX93bE)
+
 ## Alternatives
 - [drumbit](https://drumbit.app/) - online
 
@@ -15,5 +17,3 @@ Generic MIDI Sequencer
 	- need a soundfont (eg titanic)
 - [Muse](https://github.com/muse-sequencer/muse)
 - [QTractor](https://qtractor.org/)
-
-
