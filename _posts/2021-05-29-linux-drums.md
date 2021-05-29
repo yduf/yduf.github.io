@@ -1,7 +1,7 @@
 ---
 published: true
 title: Drum Machine
-tags: audio drums
+tags: audio midi drums
 ---
 > A software drum machine for Linux - [Home](http://hydrogen-music.org/screenshots/)
 
@@ -14,5 +14,6 @@ Generic MIDI
 - [LMMS](https://sourceforge.net/projects/lmms/)
 	- need a soundfont (eg titanic)
 - [Muse](https://github.com/muse-sequencer/muse)
+- [QTractor](https://qtractor.org/)
 
 
