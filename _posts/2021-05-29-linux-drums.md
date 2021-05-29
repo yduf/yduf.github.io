@@ -12,6 +12,7 @@ tags: audio drums
 
 Generic MIDI
 - [LMMS](https://sourceforge.net/projects/lmms/)
+	- need a soundfont (eg titanic)
 - [Muse](https://github.com/muse-sequencer/muse)
 
 
