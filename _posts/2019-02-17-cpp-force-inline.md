@@ -5,6 +5,8 @@ tags: c++ fastware
 ---
 ## [Optimization Tips - Mo' Hustle Mo' Problems - CppCon 2014](https://www.youtube.com/watch?v=Qq_WaiwzOtI)
 
+- Smarter C/C++ inlining with [`__attribute__((flatten))`](https://awesomekling.github.io/Smarter-C++-inlining-with-attribute-flatten/)
+
 {% highlight cpp %}
 // GCC
 #define ALWAYS_INLINE inline __attribute__((__always_inline__))
