@@ -1,7 +1,7 @@
 ---
 published: true
 title: (un)-force-inline helper - (Fastware 2014 - Andrei)
-tags: c++ fastware
+tags: c++ fastware inline
 ---
 ## [Optimization Tips - Mo' Hustle Mo' Problems - CppCon 2014](https://www.youtube.com/watch?v=Qq_WaiwzOtI)
 
