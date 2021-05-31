@@ -25,6 +25,7 @@ add UI control
 ## Patchbay - managing audio connection
 - [Catia](https://kx.studio/Applications:Catia) / [KXStudio](https://kx.studio/Applications)
 - [Jack Session](https://wiki.linuxaudio.org/wiki/session_management) - restore application and connection
+	- [ladish](https://wiki.linuxaudio.org/apps/all/ladish) / Claudia
 
 ## virtual midi keyboard
 
