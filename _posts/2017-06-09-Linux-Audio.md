@@ -5,11 +5,9 @@ title: Jack (linux audio)
 ---
 > JACK Audio Connection Kit - [Jack application](http://jackaudio.org/applications/)
 
-
 - [A Beginners Guide to Getting Started with JACK](https://linuxaudio.github.io/libremusicproduction/html/articles/demystifying-jack-%e2%80%93-beginners-guide-getting-started-jack.html)
 
 ![caption](https://linuxaudio.github.io/libremusicproduction/html/sites/default/files/articles/Jacklogo.png)
-
 
 ## Installation
 
@@ -22,35 +20,24 @@ add bridge support for pulse-audio / jack (see also below)
 add UI control 
 - sudo apt-get install qjackctl
 
+# App
 
+## Patchbay - managing audio connection
+- [Catia](https://kx.studio/Applications:Catia) / [KXStudio](https://kx.studio/Applications)
 
-
-## Killing Pulse Audio
-
-sudo killall pulseaudio
-
-This is necessary to redirect pulse audio through Jack
-(otherwise video player will freee for example)
-
-[see also](http://jackaudio.org/faq/pulseaudio_and_jack.html)
-
-
-# Audio app
-
-# virtual midi keyboard
+## virtual midi keyboard
 
 [vmpk](http://vmpk.sourceforge.net/)
 
-# Synthetize
+## Synthetize
 
 [Qsynth + FluidSynth + soundfont](https://askubuntu.com/questions/34391/virtual-midi-piano-keyboard-setup)
 
-# Guitar Effect
+## Guitar Effect
 
-[guitar app](http://linuxmao.org/Le+coin+des+guitaristes)
+- [guitar app](http://linuxmao.org/Le+coin+des+guitaristes)
+- [A Guitar Amp/Effect Solution For Linux](https://soosck.wordpress.com/2011/01/12/guitar-amplifier-effect-solution-linux/)
 
-[A Guitar Amp/Effect Solution For Linux](https://soosck.wordpress.com/2011/01/12/guitar-amplifier-effect-solution-linux/)
+## Drum machine
 
-# Drum machine
-
-[Hydrogen](http://hydrogen-music.org/hcms/)
+- [Hydrogen](http://hydrogen-music.org/hcms/)
