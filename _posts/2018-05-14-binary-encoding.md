@@ -39,7 +39,9 @@ excerpt_separator: <!--more-->
 - [stackoverflow](https://stackoverflow.com/a/971501/51386)
 
 
-## [UUencode](https://en.wikipedia.org/wiki/Uuencode)
+## [Base64/UUencode](https://en.wikipedia.org/wiki/Uuencode)
+- [Base64 encoding and decoding at almost the speed of a memory copy](https://news.ycombinator.com/item?id=21459839)
+
 ### [install](https://askubuntu.com/questions/232440/how-do-i-install-uudecode#232444)
 {% highlight bash %}
 sudo apt-get install sharutils
