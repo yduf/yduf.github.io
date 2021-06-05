@@ -10,5 +10,8 @@ tags: blog knowledge mental-model search
 - [Foam](https://foambubble.github.io/foam/) / [HN](https://news.ycombinator.com/item?id=25760066)
 - [Trilium](https://github.com/zadam/trilium) a hierarchical note taking application with focus on building large personal knowledge bases.
 
+- [karlicoss/HPI](https://github.com/karlicoss/HPI) 
+
 ## With Content
 - [digital Garden](https://github.com/elsenm/digital-garden)
+- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge/blob/master/SUMMARY.md)
