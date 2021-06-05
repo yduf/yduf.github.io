@@ -6,6 +6,7 @@ title: Jack (linux audio)
 > JACK Audio Connection Kit - [Jack application](http://jackaudio.org/applications/)
 
 - [A Beginners Guide to Getting Started with JACK](https://linuxaudio.github.io/libremusicproduction/html/articles/demystifying-jack-%e2%80%93-beginners-guide-getting-started-jack.html)
+	- [JACK Latency tests](https://wiki.linuxaudio.org/wiki/jack_latency_tests)
 
 ![caption](https://linuxaudio.github.io/libremusicproduction/html/sites/default/files/articles/Jacklogo.png)
 
