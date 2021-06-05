@@ -9,7 +9,7 @@ tags: career job software simplicity
 
 - [68 Bits of Unsolicited Advice](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/)
 - [39 pieces of unsolicited advice for Software Engineering Managers](https://camunda.com/blog/2020/08/39-pieces-of-unsolicited-advice-for-software-engineering-managers/)
-
+- [Drunk Post: Things I've learned as a Sr Engineer](https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/)
 
 ## Focus on the Fundamentals
 
