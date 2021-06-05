@@ -14,4 +14,4 @@ tags: blog knowledge mental-model search
 
 ## With Content
 - [digital Garden](https://github.com/elsenm/digital-garden)
-- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge/blob/master/SUMMARY.md)
+- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge/blob/master/SUMMARY.md) / [HN](https://news.ycombinator.com/item?id=21332957)
