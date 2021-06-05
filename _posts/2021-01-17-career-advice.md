@@ -7,6 +7,10 @@ tags: career job software simplicity
 >
 > This is the opposite of what you get from new hires/juniors: they tend to focus on which stacks matter, what to learn, how to develop, deploy and maintain. Not much real advice on the behavioral side, to the point that people often take trainings for behavioral interviews and memorize “leadership principles” and other nonsense. - [HN](https://news.ycombinator.com/item?id=25658216) / [What I’ve Learned in 45 Years in the Software Industry](https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry/)
 
+- [68 Bits of Unsolicited Advice](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/)
+- [39 pieces of unsolicited advice for Software Engineering Managers](https://camunda.com/blog/2020/08/39-pieces-of-unsolicited-advice-for-software-engineering-managers/)
+
+
 ## Focus on the Fundamentals
 
 Technology constantly changes, but some fundamental approaches to software development transcend these trends. Here are six fundamentals that will continue to be relevant for a long time.
