@@ -8,6 +8,9 @@ tags: video youtube
 - [**DMCA takedown from RIAA**](https://news.ycombinator.com/item?id=24872911)
 - [Supported sites](https://ytdl-org.github.io/youtube-dl/supportedsites.html)
 
+## Youtube Alternatives
+- [Invidious](https://github.com/iv-org/invidious) is an alternative front-end to YouTube.
+
 ### forked by [blackjack4494/youtube-dlc ](https://github.com/blackjack4494/youtube-dlc) / [reddit](https://www.reddit.com/r/DataHoarder/comments/ir8ic6/youtubedlc_an_active_fork_of_youtubedl/) / [HN]() 
 
 ### Others
