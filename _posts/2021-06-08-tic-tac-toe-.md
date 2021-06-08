@@ -17,5 +17,9 @@ There is at [19,683 ($9^3$)](https://en.wikipedia.org/wiki/Tic-tac-toe) differen
 - 44 distinct positions are won by (O)
 - 3 distinct positions are drawn
 
+## [Strategy](https://en.wikipedia.org/wiki/Tic-tac-toe#Strategy)
+
+Player X can win or force a draw from any of these starting marks; however, playing the corner gives the opponent the smallest choice of squares which must be played to avoid losing. This might suggest that the corner is the best opening move for X, however another study shows that if the players are not perfect, an opening move in the center is best for X.
+
 
 
