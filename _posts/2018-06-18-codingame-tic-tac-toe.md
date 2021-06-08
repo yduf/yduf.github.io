@@ -1,7 +1,7 @@
 ---
 title: Ultimate Tic-Tac-Toe
 published: true
-tags: codingame MCTS AI NN
+tags: codingame tic-tac-toe MCTS AI NN
 ---
 >  A much more strategic version of tic-tac-toe - [rules explained](https://www.thegamegal.com/2018/09/01/ultimate-tic-tac-toe/) / [Codingame](https://www.codingame.com/multiplayer/bot-programming/tic-tac-toe)
 
