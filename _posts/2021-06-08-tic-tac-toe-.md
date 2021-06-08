@@ -5,9 +5,17 @@ tags: tic-tac-toe
 ---
 > Games played on three-in-a-row boards can be traced back to ancient Egypt - [wikipedia](https://en.wikipedia.org/wiki/Tic-tac-toe)
 
-## [list of all unique Tic Tac Toe boards](https://stackoverflow.com/questions/7466429/generate-a-list-of-all-unique-tic-tac-toe-boards)
+![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Tic-tac-toe-game-1.svg/958px-Tic-tac-toe-game-1.svg.png)
+
+## [Combinatorics of all unique Tic Tac Toe boards](https://stackoverflow.com/questions/7466429/generate-a-list-of-all-unique-tic-tac-toe-boards)
 
 There is at [19,683 ($9^3$)](https://en.wikipedia.org/wiki/Tic-tac-toe) different boards (but only 5477 are valid game positions). The number of possible move sequences is 362,880 ($9!$), this correspond to the size of the game tree graph.
 
-![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Tic-tac-toe-game-1.svg/958px-Tic-tac-toe-game-1.svg.png)
+Considering symmetries:
+- there are only 138 terminal board positions. 
+- 91 distinct positions are won by first player (X)
+- 44 distinct positions are won by (O)
+- 3 distinct positions are drawn
+
+
 
