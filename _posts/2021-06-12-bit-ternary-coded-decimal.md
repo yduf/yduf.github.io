@@ -33,6 +33,8 @@ int main() {
 }
 {% endhighlight %}
 
+Notes: it still require 2*9=18bits to represent Tic-tac-toe state in Binary-Coded Ternary (contrary to the sample code above which use 16bits integer).
+
 ## Resources
 - [Binary Coded Ternary and Its Inverse](http://homepage.divms.uiowa.edu/~jones/ternary/bct.shtml)
 - [Ternary numeral system](https://en.wikipedia.org/wiki/Ternary_numeral_system#Binary-coded_ternary)
