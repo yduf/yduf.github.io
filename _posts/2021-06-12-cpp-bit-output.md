@@ -2,7 +2,6 @@
 published: true
 title: Binary format & literals in C++
 tags: c++ bits literals
-excerpt_separator: ''
 ---
 > 0b1000’0000’0000’0000 & cout << std::bitset<32>(v) - [Binary solo](https://www.youtube.com/watch?v=NI9nopaieEc)
 
