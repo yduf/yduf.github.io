@@ -14,7 +14,7 @@ tags: remarkable hardware arm
 - USB-C
 - Accessory port - [Pogo connector](https://www.reddit.com/r/RemarkableTablet/comments/j9g1d5/rm2_with_an_external_keyboard_accessory_port_usage/) - dot on left side is in fact a [host usb connector](https://imgur.com/gallery/TRuN0jc).
 
-## [Display](https://remarkablewiki.com/tech/rm2_framebuffer)
+## [Display](https://remarkablewiki.com/tech/rm2_framebuffer) - [VB3300-KCA](https://www.eink.com/product.html?type=productdetail&id=7)
 The rm2 does not use the embedded epdc (Electronic Paper Display Controller) of the imx7. Instead the e-Ink display is connected directly to the LCD controller. This means all stuff that the epdc would normally do is now done in software... The software that implements the epdc in software is called SWTCON by the reMarkable team. It's closed sources.
 
 The current workaround to get rm1 apps working on the rm2 is using the [remarkable2-framebuffer](https://github.com/ddvk/remarkable2-framebuffer) project.
