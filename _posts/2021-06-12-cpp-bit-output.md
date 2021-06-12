@@ -1,6 +1,6 @@
 ---
 published: true
-title: Binary format in C++
+title: Binary format & literals in C++
 tags: c++ bits literals
 excerpt_separator: ''
 ---
