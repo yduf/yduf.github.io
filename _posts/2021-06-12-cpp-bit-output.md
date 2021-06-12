@@ -3,7 +3,7 @@ published: true
 title: Binary format & literals in C++
 tags: c++ bits literals
 ---
-> 0b1000’0000’0000’0000 & cout << std::bitset<32>(v) - [Binary solo](https://www.youtube.com/watch?v=NI9nopaieEc)
+>  cout << std::bitset<32>( 0b1000’0000’0000’0000 ) - [Binary solo](https://www.youtube.com/watch?v=NI9nopaieEc)
 
 ## [C++14 binary literals and digit separator](http://candcplusplus.com/c14-binary-literals-and-digit-separator)
 {% highlight cpp %}
@@ -30,4 +30,3 @@ The easiest way is probably to create an std::bitset representing the value, the
 int v = 0x12345678;
 std::cout << std::bitset<32>(v);
 {% endhighlight %}
-
