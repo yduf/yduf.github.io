@@ -3,10 +3,14 @@ published: true
 title: Ternary-coded decimal
 tags: bits math c++ tic-tac-toe
 ---
+> Representing [Tic-tac-toe]({% post_url 2021-06-08-tic-tac-toe- %}) in ternary form, and efficiently generating all possible boards. - yduf
 
-## Increment
+Rather than doing binary to ternary number conversion [(implying divide and mod)](https://stackoverflow.com/a/7466840/51386), we can directly count in binary-coded ternary form.
 
-This increment from 1 to N in ternary representation
+## Ternary Increment
+My own code to increment from 1 to N in binary-coded ternary representation. Trick is to use the binary + for handling carry over, by first allowing propagation when it will be needed and then masking spurious bits.
+
+TODO: would it allow general ternary addition operation ?
 
 {% highlight cpp %}
 #include <cstdint>
