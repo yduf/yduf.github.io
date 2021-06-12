@@ -4,6 +4,8 @@ title: Binary format & literals in C++
 tags: c++ bits literals
 excerpt_separator: ''
 ---
+> 0b1000’0000’0000’0000 & cout << std::bitset<32>(v) - [Prove you are not a Human]({% post_url 2021-02-03-robot-not-human %})
+
 ## [C++14 binary literals and digit separator](http://candcplusplus.com/c14-binary-literals-and-digit-separator)
 {% highlight cpp %}
 auto binary=0b10001000 ; //binary digit
