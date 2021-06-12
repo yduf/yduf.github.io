@@ -1,7 +1,7 @@
 ---
 published: true
 title: Ubuntu
-tags: linux system
+tags: linux-system
 ---
 > `lsb_release -a` / `cat /etc/lsb-release` - [check your version](https://askubuntu.com/questions/686239/how-do-i-check-the-version-of-ubuntu-i-am-running/686249#686249)
 
