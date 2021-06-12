@@ -37,3 +37,4 @@ int main() {
 - [Binary Coded Ternary and Its Inverse](http://homepage.divms.uiowa.edu/~jones/ternary/bct.shtml)
 - [Ternary numeral system](https://en.wikipedia.org/wiki/Ternary_numeral_system#Binary-coded_ternary)
 - [Binary-coded decimal](https://en.wikipedia.org/wiki/Binary-coded_decimal)
+- [How can 3-state bit packed together?](https://stackoverflow.com/questions/50943386/how-can-3-state-bit-packed-together)
