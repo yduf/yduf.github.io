@@ -1,7 +1,7 @@
 ---
 published: true
 title: Linux Mint Desktop
-tags: linux system desktop application
+tags: linux-system desktop application
 ---
 ## Cinnamon Panel
 ### Add shortcut to panel
