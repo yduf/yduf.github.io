@@ -6,6 +6,7 @@ tags: c++ array
 > since it's a POD, everything works just like it did in C. - [SO](https://stackoverflow.com/a/19970507/51386)
 
 - [Multiple return values (structured bindings) with unmovable types and guaranteed RVO in C++17](https://stackoverflow.com/questions/38385451/multiple-return-values-structured-bindings-with-unmovable-types-and-guaranteed)
+- [Array-to-pointer decay](https://stackoverflow.com/a/4810668/51386) - The only "connection" between T[n] and T[m] is that both types can implicitly be converted to T*, and the result of this conversion is a pointer to the first element of the array.
 
 {% highlight cpp %}
 struct var
