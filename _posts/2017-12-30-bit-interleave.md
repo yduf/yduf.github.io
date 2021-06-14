@@ -10,7 +10,7 @@ Provides an ordering along a space-filling curve while preserving data locality.
 
 - [How to use Morton Order(z order curve) in range search?](https://stackoverflow.com/questions/30170783/how-to-use-morton-orderz-order-curve-in-range-search)
 - [Morton-code](https://www.highperformancegraphics.org/wp-content/uploads/2017/Papers-Session3/HPG207_ExtendedMortonCodes.pdf)
-
+- [How to compute a 3D Morton number (interleave the bits of 3 ints)](https://stackoverflow.com/questions/1024754/how-to-compute-a-3d-morton-number-interleave-the-bits-of-3-ints)
 
 ## Interleaving bits
 - [Bit Twiddling Hacks](http://graphics.stanford.edu/~seander/bithacks.html) / [HN](https://news.ycombinator.com/item?id=25300310)
