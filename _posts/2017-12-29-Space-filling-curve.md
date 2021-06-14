@@ -16,3 +16,5 @@ Paper [multidimensional range search](http://www.vision-tools.com/h-tropf/multid
 More detailed explaination on narrowing range search:
 - [How to use Morton Order(z order curve) in range search?](https://stackoverflow.com/questions/30170783/how-to-use-morton-orderz-order-curve-in-range-search)
 - [LitMax and BigMin computation](http://docs.raima.com/rdme/9_1/Content/GS/POIexample.htm#zdivide)
+
+![caption](https://i.stack.imgur.com/Lqa16.png)
