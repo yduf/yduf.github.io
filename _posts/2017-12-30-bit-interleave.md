@@ -10,10 +10,10 @@ Provides an ordering along a space-filling curve while preserving data locality.
 
 - [Morton-code](https://www.highperformancegraphics.org/wp-content/uploads/2017/Papers-Session3/HPG207_ExtendedMortonCodes.pdf)
 
-## Interleaving
+## Interleaving bits
 - [Bit Twiddling Hacks](http://graphics.stanford.edu/~seander/bithacks.html) / [HN](https://news.ycombinator.com/item?id=25300310)
 - [Software way](http://graphics.stanford.edu/~seander/bithacks.html#InterleaveBMN)
 - [BMI2 instruction (x86)](https://stackoverflow.com/a/32235584/51386)
 
-# De-interleaving
+# De-interleaving bits
 - [How fast can you bit-interleave 32-bit integers?](https://lemire.me/blog/2018/01/09/how-fast-can-you-bit-interleave-32-bit-integers-simd-edition/)
