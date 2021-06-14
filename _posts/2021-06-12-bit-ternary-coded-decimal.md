@@ -40,3 +40,4 @@ Notes: it still requires 2*9=18bits to represent Tic-tac-toe state in Binary-Cod
 - [Ternary numeral system](https://en.wikipedia.org/wiki/Ternary_numeral_system#Binary-coded_ternary)
 - [Binary-coded decimal](https://en.wikipedia.org/wiki/Binary-coded_decimal)
 - [How can 3-state bit packed together?](https://stackoverflow.com/questions/50943386/how-can-3-state-bit-packed-together)
+- [Power of three](https://en.wikipedia.org/wiki/Power_of_three)
