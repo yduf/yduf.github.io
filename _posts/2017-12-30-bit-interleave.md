@@ -3,7 +3,11 @@ title: De / Interleave bits
 published: true
 tags: c++ bits morton-code
 ---
-> Interleaving the binary coordinate values yields binary z-values. Connecting the z-values in their numerical order produces the recursively [Z-shaped curve]({% post_url 2017-12-29-Space-filling-curve %}). - [Morton-code](https://www.highperformancegraphics.org/wp-content/uploads/2017/Papers-Session3/HPG207_ExtendedMortonCodes.pdf)
+> Interleaving the binary coordinate values yields binary z-values. Connecting the z-values in their numerical order produces the recursively [Z-shaped curve]({% post_url 2017-12-29-Space-filling-curve %}). 
+
+## Morton Code
+- [Morton Codes](http://asgerhoedt.dk/?p=276) - provides an ordering along a space-filling curve while preserving data locality. - Constructing Acceleration Datastructures (raytracing).
+- [Morton-code](https://www.highperformancegraphics.org/wp-content/uploads/2017/Papers-Session3/HPG207_ExtendedMortonCodes.pdf)
 
 ## Interleaving
 - [Bit Twiddling Hacks](http://graphics.stanford.edu/~seander/bithacks.html) / [HN](https://news.ycombinator.com/item?id=25300310)
