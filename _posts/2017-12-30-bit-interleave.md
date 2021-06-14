@@ -8,7 +8,9 @@ tags: c++ bits morton-code raytracing
 ## [Morton Codes](http://asgerhoedt.dk/?p=276)
 Provides an ordering along a space-filling curve while preserving data locality. - Constructing Acceleration Datastructures (raytracing).
 
+- [How to use Morton Order(z order curve) in range search?](https://stackoverflow.com/questions/30170783/how-to-use-morton-orderz-order-curve-in-range-search)
 - [Morton-code](https://www.highperformancegraphics.org/wp-content/uploads/2017/Papers-Session3/HPG207_ExtendedMortonCodes.pdf)
+
 
 ## Interleaving bits
 - [Bit Twiddling Hacks](http://graphics.stanford.edu/~seander/bithacks.html) / [HN](https://news.ycombinator.com/item?id=25300310)
@@ -16,4 +18,7 @@ Provides an ordering along a space-filling curve while preserving data locality.
 - [BMI2 instruction (x86)](https://stackoverflow.com/a/32235584/51386)
 
 # De-interleaving bits
+- [Decoding Morton Codes](https://fgiesen.wordpress.com/2009/12/13/decoding-morton-codes/)
 - [How fast can you bit-interleave 32-bit integers?](https://lemire.me/blog/2018/01/09/how-fast-can-you-bit-interleave-32-bit-integers-simd-edition/)
+
+
