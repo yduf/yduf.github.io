@@ -1,11 +1,11 @@
 ---
 published: true
-title: Ternary-coded decimal
+title: Binary-coded Ternary
 tags: bits math c++ tic-tac-toe
 ---
 > Representing [Tic-tac-toe]({% post_url 2021-06-08-tic-tac-toe %}) in ternary form, and efficiently generating all possible boards. - yduf
 
-Rather than doing binary to ternary number conversion [(implying divide and mod)](https://stackoverflow.com/a/7466840/51386), we can directly count in binary-coded ternary form.
+Rather than doing binary to ternary number conversion [(implying divide and mod by 3)](https://stackoverflow.com/a/7466840/51386), we can directly count in binary-coded ternary form.
 
 ## Ternary Increment
 My own code to increment from 1 to N in binary-coded ternary representation. Trick is to use the binary + for handling carry over, by first allowing propagation when it will be needed and then masking spurious bits.
@@ -29,6 +29,15 @@ int main() {
         auto mask = comb >> 1;
         auto inc = ( ( b | mask) +1 ) & ~mask;
         b = inc;
+  
+  		// ternary decrement
+  		auto int3 = b;
+  		--int3;
+        comb = int3 & 0b10101010'10101010;
+        mask = comb >> 1;
+        int3 = int3 & ~mask;
+  		
+  		// int3 == b before increment 
     }
 }
 {% endhighlight %}
