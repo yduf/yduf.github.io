@@ -22,7 +22,9 @@ int main() {
     uint16_t b = 0;
 
     for( int i = 0; i < 10; ++i) {
-        std::cout << std::bitset<16>( b) << " = " << i << std::endl;
+        std::cout << std::bitset<16>( b) 
+                  << " = " << i 
+                  << std::endl;
 
         // ternary increment
         auto comb = b & 0b10101010'10101010;
