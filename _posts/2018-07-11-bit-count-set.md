@@ -1,5 +1,5 @@
 ---
-title: Count the number of bits set (popcount)
+title: Popcount number of bits set
 published: true
 tags: c++ bits lookup
 ---
@@ -7,8 +7,14 @@ tags: c++ bits lookup
 
 - [Bit Hacks](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec3.pdf) 
 
-## Using the built-in functions of your compilers.
+## [std::popcount](https://en.cppreference.com/w/cpp/numeric/popcount)
 
+{% highlight cpp %}
+#include <bit>
+std::popcount(i)
+{% endhighlight %}
+
+## Using the built-in functions of your compilers.
 For GCC:
 {% highlight cpp %}
 int __builtin_popcount (unsigned int x);
