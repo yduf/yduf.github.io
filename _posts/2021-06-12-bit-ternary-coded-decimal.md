@@ -30,14 +30,14 @@ int main() {
         auto inc = ( ( b | mask) +1 ) & ~mask;
         b = inc;
   
-  		// ternary decrement
-  		auto int3 = b;
-  		--int3;
+        // ternary decrement
+        auto int3 = b;
+        --int3;
         comb = int3 & 0b10101010'10101010;
         mask = comb >> 1;
         int3 = int3 & ~mask;
   		
-  		// int3 == b before increment 
+        // int3 == b before increment 
     }
 }
 {% endhighlight %}
