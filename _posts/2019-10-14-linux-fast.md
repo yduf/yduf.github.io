@@ -16,8 +16,10 @@ grep -H '' /sys/devices/system/cpu/vulnerabilities/*
 ## [How to disable mitigations](https://sleeplessbeastie.eu/2020/03/27/how-to-disable-mitigations-for-cpu-vulnerabilities/)
 
 Edit `/etc/default/grub` 
-
 {% highlight bash %}
 GRUB_CMDLINE_LINUX_DEFAULT="quiet splash mitigations=off"
 {% endhighlight %}
 
+{% highlight bash %}
+$ sudo update-grub
+{% endhighlight %}
