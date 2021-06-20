@@ -33,6 +33,12 @@ see also [Subproject limitations](https://github.com/mesonbuild/meson/issues/422
 
 [Wrap file](https://mesonbuild.com/Wrap-dependency-system-manual.html) tells Meson how to download it for you. If you then use this subproject in your build, Meson will automatically download and extract it during build. This makes subproject embedding extremely easy. see also [Wrap DB](https://wrapdb.mesonbuild.com/)
 
+[.gitignore Meson subprojects](https://www.scivision.dev/git-ignore-meson-subproject/) - For Meson subprojects, using the negate .gitignore syntax Git will ignore subdirectories but track the subprojects/*.wrap files, by including in the project top-level .gitignore:
+{% highlight cpp %}
+/subprojects/*
+!/subprojects/*.wrap
+{% endhighlight %}
+
 ## [Cross compilation](https://mesonbuild.com/Cross-compilation.html)
 Meson requires you to write a [cross build definition file](https://mesonbuild.com/Cross-compilation.html#cross-file-locations). It defines various properties of the cross build environment. The cross file consists of different sections.
 
