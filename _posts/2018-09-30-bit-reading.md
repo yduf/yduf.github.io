@@ -7,7 +7,6 @@ tags: bits c++ blog
 
 - [Why is x86 little endian?](https://stackoverflow.com/questions/5185551/why-is-x86-little-endian)
 
-int a = x01234567
 {% highlight cpp %}
 int32_t a = 0x01234567
 {% endhighlight %}
