@@ -20,7 +20,9 @@ see also
 | qtsgepaper | cpp+qt 	 | calculator, draft, oxide, wikipedia, keywriter, chess2 |
 | koreader base | cpp+lua 	 | koreader |
 
-
+## [Handling Input](https://remarkablewiki.com/devel/handling_input)
+- [ReCept: Remarkable Intercept](https://github.com/funkey/recept)
+- [turns the Lamy Pen into an eraser](https://www.reddit.com/r/RemarkableTablet/comments/o36zpp/i_created_a_tool_that_turns_the_lamy_pen_into_an/) / [github](https://github.com/isaacwisdom/RemarkableLamyEraser)
 
 # [Development](https://remarkablewiki.com/devel/start)
 ## [Setup toolchain](https://remarkablewiki.com/devel/toolchain)
