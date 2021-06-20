@@ -1,7 +1,7 @@
 ---
 published: true
 title: The Meson build system
-tags: build make dlang c++
+tags: build-system dlang c++
 ---
 > The main design point of Meson is that every moment a developer spends writing or debugging build definitions is a second wasted. So is every second spent waiting for the build system to actually start compiling code. - [Meson](https://mesonbuild.com/index.html)
 
@@ -81,4 +81,3 @@ optimized for extremely fast full and incremental builds without sacrificing cor
 ## FAQ
 - Why is Meson's configuration language not Turing-complete? - [Against The Use Of Programming Languages in Configuration Files](https://taint.org/2011/02/18/001527a.html)
 - [Making build systems not suck!](https://lca2015.linux.org.au/slides/140/meson-lca2015.pdf)
-
