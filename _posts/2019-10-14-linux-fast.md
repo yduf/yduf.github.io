@@ -8,7 +8,7 @@ tags: linux-system kernel security
 - [Disable Spectre and Meltdown mitigations](https://unix.stackexchange.com/a/554922/192991)
 - [Spectre mitigations murder userspace performance](https://news.ycombinator.com/item?id=27559795)
 
-## Checking vulnerability
+## [Checking vulnerability](https://linuxreviews.org/HOWTO_make_Linux_run_blazing_fast_(again)_on_Intel_CPUs)
 {% highlight bash %}
-grep -H '' /sys/devices/system/cpu/vulnerabilities/*"
+grep -H '' /sys/devices/system/cpu/vulnerabilities/*
 {% endhighlight %}
