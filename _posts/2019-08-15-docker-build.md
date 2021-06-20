@@ -1,7 +1,7 @@
 ---
 published: true
 title: Build Image (docker)
-tags: docker build
+tags: docker build-system
 ---
 ## Using [Debian Buster](https://www.server-world.info/en/note?os=Debian_10&p=docker&f=1)
 
