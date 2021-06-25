@@ -26,8 +26,8 @@ LD_PRELOAD=/opt/lib/librm2fb_client.so.1.0.0/librm2fb_client.so.1.0.0 <rmapp>
 see also - [reMarkable Framebuffer]({% post_url 2021-03-12-remarkable-fb %})
 
 ## reMarkable version supported
-- display - 
-- rm2fb - 1.x
+- display - 2.8
+- rm2fb - 1.x - 1.5
   
 ## [reMarkable 2 Framebuffer](https://remarkablewiki.com/tech/rm2_framebuffer)
 > The rm2 does not use the embedded epdc of the imx7. Instead the e-Ink display is connected directly to the LCD controller. This means all stuff that the epdc would normally do is now done in software (SWTCON).
