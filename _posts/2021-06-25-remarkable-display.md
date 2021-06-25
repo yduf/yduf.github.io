@@ -7,6 +7,14 @@ tags: epaper remarkable display
 
 <span style="color:red">[**Warning**]</span> to work it requires to use libc*.so (the dynamic version), so avoid using [`-static` flags](https://stackoverflow.com/questions/49038088/does-gcc-links-to-libc-a-or-libc-so-by-default/49038236#49038236) when compiling.
 
+## Display
+display contains the server part of remarkable2-framebuffer, rm2fb-client contains the shim library that can be loaded into apps developed for the rM1 to make them work with the remarkable2-framebuffer server.
+
+{% highlight bash %}
+opkg install rm2fb
+{% endhighlight %}
+
+
 {% highlight bash %}
 # systemctl stop xochitl # not sure still needed ?
 LD_PRELOAD=/opt/lib/librm2fb_client.so.1.0.0/librm2fb_client.so.1.0.0 <rmapp>
