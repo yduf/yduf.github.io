@@ -135,7 +135,7 @@ LDLIST=/lib/ld-linux-armhf.so.3
 
 ## [Handling Input](https://remarkablewiki.com/devel/handling_input)
 
-## [using Display]({% post_url 2021-06-25-remarkable-display %})
+## [Using Display]({% post_url 2021-06-25-remarkable-display %})
 
 ## Resources
 - [HN](https://news.ycombinator.com/item?id=22604597) 
