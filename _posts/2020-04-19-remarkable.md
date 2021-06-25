@@ -83,8 +83,7 @@ If developing a custom template, the .png file is the image shown when drawing o
 # [Applications](https://github.com/reHackable/awesome-reMarkable#applications)
 
 ## [Toltec package]({% post_url 2021-06-25-remarkable-toltec %})
-  
-## [rm2 specific app compatibility Display]({% post_url 2021-06-25-remarkable-display %})
+To use graphical app on reMarkable 2 see [Display]({% post_url 2021-06-25-remarkable-display %})
 
 ### [Apps](https://toltec-dev.org/stable/)
 - [remux](https://github.com/rmkit-dev/rmkit) - Launcher / swipe up on left or right side to activate.
