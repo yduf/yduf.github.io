@@ -15,6 +15,8 @@ arch rm2 250 and src/gz toltec-rm2 https://toltec-dev.org/testing/rm2
 src/gz toltec-rmall https://toltec-dev.org/testing/rmall
 {% endhighlight %}
 
+and `opkg update && opkg upgrade`
+
 ##  [Package Listing](https://toltec-dev.org/stable/)
 > This script is used to install entware on the device, and get it set up with the toltec repository. - [Install toltec](https://eeems.website/toltec/)
 
