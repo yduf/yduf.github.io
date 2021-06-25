@@ -82,21 +82,7 @@ If developing a custom template, the .png file is the image shown when drawing o
 
 # [Applications](https://github.com/reHackable/awesome-reMarkable#applications)
 
-## [Toltec](https://github.com/toltec-dev/toltec) - [Package Listing](https://toltec-dev.org/stable/)
-> This script is used to install entware on the device, and get it set up with the toltec repository. - [Install toltec](https://eeems.website/toltec/)
-
-{% highlight bash %}
-INFO:  Adding /opt/bin and /opt/sbin to your PATH
-INFO:  Please run '. $HOME/.bashrc' to use Toltec
-INFO:  Use '/home/root/entware-reenable' to re-enable Toltec after a system update
-
-opkg install <application>  
-opkg remove <application>
-{% endhighlight %}
-
-Opkg gives access to [entware package](http://pkg.entware.net/binaries/armv7/Packages.html) as well
-  
-- [evidlo/remarkable_entware](https://github.com/evidlo/remarkable_entware) - a lightweight package manager and software repo for embedded devices. [list of available packages](http://bin.entware.net/armv7sf-k3.2/)
+## [Toltec package]({% post_url 2021-06-25-remarkable-toltec %})
   
 ## [reMarkable 2 Framebuffer](https://remarkablewiki.com/tech/rm2_framebuffer)
 > The rm2 does not use the embedded epdc of the imx7. Instead the e-Ink display is connected directly to the LCD controller. This means all stuff that the epdc would normally do is now done in software (SWTCON).
