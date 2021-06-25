@@ -9,7 +9,7 @@ Toltec works on top of the [Opkg](https://code.google.com/archive/p/opkg/) packa
 
 ## [Install](https://github.com/toltec-dev/toltec#install-it)
 
-##  - [Package Listing](https://toltec-dev.org/stable/)
+##  [Package Listing](https://toltec-dev.org/stable/)
 > This script is used to install entware on the device, and get it set up with the toltec repository. - [Install toltec](https://eeems.website/toltec/)
 
 {% highlight bash %}
