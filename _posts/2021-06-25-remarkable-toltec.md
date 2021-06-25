@@ -9,6 +9,12 @@ Toltec works on top of the [Opkg](https://code.google.com/archive/p/opkg/) packa
 
 ## [Install](https://github.com/toltec-dev/toltec#install-it)
 
+[rm2](https://discord.com/channels/385916768696139794/386181213699702786/857677724863954954) /opt/etc/opkg.conf
+{% highlight cpp %}
+arch rm2 250 and src/gz toltec-rm2 https://toltec-dev.org/testing/rm2
+src/gz toltec-rmall https://toltec-dev.org/testing/rmall
+{% endhighlight %}
+
 ##  [Package Listing](https://toltec-dev.org/stable/)
 > This script is used to install entware on the device, and get it set up with the toltec repository. - [Install toltec](https://eeems.website/toltec/)
 
