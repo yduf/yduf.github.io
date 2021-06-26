@@ -11,9 +11,7 @@ tags: vscode test c++
 Just add the list of test executables, to `.vscode/settings.json` (or globally in `~/.config/Code/User/settings.json`):
 {% highlight json %}
 {
-    "testMate.cpp.test.advancedExecutables": [
-        "MCTS4/build/Test"
-        ],
+    "testMate.cpp.test.executables": "**/Test*"
 }
 {% endhighlight %}
 
