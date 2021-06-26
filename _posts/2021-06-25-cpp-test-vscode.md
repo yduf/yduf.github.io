@@ -7,7 +7,7 @@ tags: vscode test c++
 
 - [Test Explorer Status Bar extension](https://marketplace.visualstudio.com/items?itemName=connorshea.vscode-test-explorer-status-bar)
 
-Just add the list of test executables, to `.vscode/settings.json`:
+Just add the list of test executables, to `.vscode/settings.json` (or globally in `~/.config/Code/User/settings.json`):
 {% highlight json %}
 {
     "testMate.cpp.test.advancedExecutables": [
