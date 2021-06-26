@@ -7,6 +7,7 @@ tags: vscode test c++
 
 - [Test Explorer Status Bar extension](https://marketplace.visualstudio.com/items?itemName=connorshea.vscode-test-explorer-status-bar)
 
+## [Configuration](https://github.com/matepek/vscode-catch2-test-adapter#configuration)
 Just add the list of test executables, to `.vscode/settings.json` (or globally in `~/.config/Code/User/settings.json`):
 {% highlight json %}
 {
