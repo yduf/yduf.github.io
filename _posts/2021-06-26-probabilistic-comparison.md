@@ -3,7 +3,7 @@ published: true
 title: Probabilistic Comparison
 tags: algorithm hash
 ---
-> Your can probabilistically compare two unsorted vectors (u,v) in O(n) - [SO](https://stackoverflow.com/a/17394863/51386)
+> You can probabilistically compare two unsorted vectors (u,v) in O(n) - [SO](https://stackoverflow.com/a/17394863/51386)
 
 {% highlight cpp %}
 U= xor(h(u[0]), h(u[1]), ..., h(u[n-1]))
