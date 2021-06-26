@@ -8,3 +8,5 @@ tags: c++ buffer
 Best is to use Array + two unmasked indices - [ Andrew Morton ](http://lkml.iu.edu/hypermail/linux/kernel/0409.1/2709.html)
 
 - [cbuffer](https://github.com/willemt/cbuffer) - mmap magic trick to make the caller's life easier.
+
+- [you don't actually need a spinlock if you're using a ringbuffer](https://news.ycombinator.com/item?id=27638168)
