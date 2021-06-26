@@ -11,4 +11,4 @@ V= xor(h(v[0]), h(v[1]), ..., h(v[n-1]))
 {% endhighlight %}
 
 If U==V then the vectors are probably equal.
-h(x) is any [non-cryptographic hash function](https://en.wikipedia.org/wiki/List_of_hash_functions#Non-cryptographic_hash_functions) - such as [MurmurHash](https://en.wikipedia.org/wiki/MurmurHash).
+h(x) is any [non-cryptographic hash function](https://en.wikipedia.org/wiki/List_of_hash_functions#Non-cryptographic_hash_functions).
