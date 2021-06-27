@@ -1,7 +1,7 @@
 ---
 title: Fast I/O for Competitive Programming
 published: true
-tags: c++ file-io
+tags: c++ file io-stream
 ---
 > Basically cin/cout can outperform printf/scanf provided, that some optimisation are turned on. Otherwise major slow down can be expected. - [Yet again on C++ input/output](http://codeforces.com/blog/entry/5217)
 
@@ -11,7 +11,7 @@ Enabled by placing this line in the beginning of the program, before any input/o
 
 This command turns off iostreams and stdio synchronization (description). It is on by default, which means that calls to iostreams and stdio functions can be freely interleaved even for the same underlying stream. When synchronization is turned off, mixing calls is no longer allowed, but iostreams can potentially operate faster.
 
-## [`cin.tie(NULL)`](https://en.cppreference.com/w/cpp/io/basic_ios/tie)
+## [`cin.tie(nullptr)`](https://en.cppreference.com/w/cpp/io/basic_ios/tie)
 
 By default, cin is tied to cout, which means that cout is flushed before any operation on cin. Turning this feature off allows iostreams, again, to operate faster. One should be careful with this optimization in interactive problems: it should either not be used, or an explicit flush should be issued each time.
 
