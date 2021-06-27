@@ -1,10 +1,9 @@
 ---
 title: Mean Max (Codingame)
 published: true
-tags: codingame contest genectic
+tags: codingame genetic
 ---
-Objectif: Gold!
-## [Fury Road](https://www.codingame.com/leaderboards/challenge/mean-max/global)
+> Objectif: Gold! - [Fury Road](https://www.codingame.com/leaderboards/challenge/mean-max/global)
 
 score : 85/2512 [(private report)](https://www.codingame.com/challengereport/9291788353f1021036f0685639e3e117d3388e9)
 
