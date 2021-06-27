@@ -37,3 +37,7 @@ from [Decoding Morton Codes](https://fgiesen.wordpress.com/2009/12/13/decoding-m
   x = (x ^ (x >>  4)) & 0x00ff00ff; // x = ---- ---- fedc ba98 ---- ---- 7654 3210
   x = (x ^ (x >>  8)) & 0x0000ffff; // x = ---- ---- ---- ---- fedc ba98 7654 3210
 {% endhighlight %}
+
+## [Parallel bit deposit and extract](https://en.wikipedia.org/wiki/X86_Bit_manipulation_instruction_set#Parallel_bit_deposit_and_extract)
+
+The PDEP and PEXT instructions are new generalized bit-level compress and expand instructions.
