@@ -1,7 +1,7 @@
 ---
 title: Fast I/O for Competitive Programming
 published: true
-tags: c++ file io-stream
+tags: c++ file io-stream codingame
 ---
 > Basically cin/cout can outperform printf/scanf provided, that some optimisation are turned on. Otherwise major slow down can be expected. - [Yet again on C++ input/output](http://codeforces.com/blog/entry/5217)
 
