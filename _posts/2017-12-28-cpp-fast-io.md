@@ -29,6 +29,7 @@ On some system cerr may be tie to cout.
 
 ### [`std::unitbuf`](https://en.cppreference.com/w/cpp/io/manip/unitbuf)
 
+if `=cerr has unitbuf set, so it will be flushed at the end of every << operator.
 
 
 ### see also
