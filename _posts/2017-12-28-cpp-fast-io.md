@@ -29,6 +29,6 @@ Streams pretty well know to be very slow. It is not a big surprise though - they
 - [The Standard Librarian: IOStreams and Stdio](http://www.drdobbs.com/the-standard-librarian-iostreams-and-std/184401305)
 - [Using scanf() in C++ programs is faster than using cin?](https://stackoverflow.com/questions/1042110/using-scanf-in-c-programs-is-faster-than-using-cin)
 - [Fast I/O for Competitive Programming](https://www.geeksforgeeks.org/fast-io-for-competitive-programming/)
-- [All efficient input taking and fast I/O techniques in C++ || A complete input/output C++ guide for competitive programming.](https://medium.com/analytics-vidhya/all-efficient-input-taking-and-fast-i-o-techniques-in-c-a-complete-input-output-c-guide-for-3d2e40640e49)
+- [All efficient input taking and fast I/O techniques in C++](https://medium.com/analytics-vidhya/all-efficient-input-taking-and-fast-i-o-techniques-in-c-a-complete-input-output-c-guide-for-3d2e40640e49)
 
 ![caption](https://www.cplusplus.com/img/iostream.gif)
