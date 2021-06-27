@@ -15,7 +15,7 @@ This command turns off iostreams and stdio synchronization (description). It is 
 
 By default, cin is tied to cout, which means that cout is flushed before any operation on cin. Turning this feature off allows iostreams, again, to operate faster. One should be careful with this optimization in interactive problems: it should either not be used, or an explicit flush should be issued each time.
 
-### [`endl`](https://en.cppreference.com/w/cpp/io/manip/endl)  vs "\n"
+### [`endl`](https://en.cppreference.com/w/cpp/io/manip/endl)  vs "\n" vs [`std::flush`](https://en.cppreference.com/w/cpp/io/manip/flush)
 
 Frequent use of endl also negatively affects iostreams performance, because `endl` not only outputs a newline character, but also flushes the stream's buffer. You can simply output `'\n'` or `"\n"` instead of `endl`.
 
