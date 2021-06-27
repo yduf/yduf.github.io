@@ -17,7 +17,7 @@ By default, cin is tied to cout, which means that cout is flushed before any ope
 
 ### [`endl` vs "\n"](https://en.cppreference.com/w/cpp/io/manip/endl)
 
-Frequent use of endl also negatively affects iostreams performance, because endl not only outputs a newline character, but also flushes the stream's buffer. You can simply output '\n' or "\n" instead of endl.
+Frequent use of endl also negatively affects iostreams performance, because `endl` not only outputs a newline character, but also flushes the stream's buffer. You can simply output `'\n'` or `"\n"` instead of `endl`.
 
 ### [`std::getline`](https://stackoverflow.com/a/15036951/51386)
 
@@ -29,7 +29,7 @@ On some system cerr may be tie to cout.
 
 ### [`std::unitbuf`](https://en.cppreference.com/w/cpp/io/manip/unitbuf)
 
-`cerr` has unitbuf set by [default](https://en.cppreference.com/w/cpp/io/manip/unitbuf), so it will be flushed at the end of every << operator.
+`cerr` has unitbuf set by [default](https://en.cppreference.com/w/cpp/io/manip/unitbuf), so it will be flushed at the end of every `<<` operator.
 
 ### see also
 - [Which is the fastest method of input in C++](https://stackoverflow.com/a/9747716/51386)
