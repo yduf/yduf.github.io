@@ -19,9 +19,9 @@ By default, cin is tied to cout, which means that cout is flushed before any ope
 
 Frequent use of endl also negatively affects iostreams performance, because `endl` not only outputs a newline character, but also flushes the stream's buffer. You can simply output `'\n'` or `"\n"` instead of `endl`.
 
-### [`std::getline()`](https://stackoverflow.com/a/15036951/51386) && [`cin.ignore()`](https://stackoverflow.com/a/25476169/51386)
+### [`std::getline()`](https://en.cppreference.com/w/cpp/string/basic_string/getline) && [`cin.ignore()`](https://stackoverflow.com/a/25476169/51386)
 
-Streams pretty well know to be very slow. It is not a big surprise though - they need to handle localizations, conditions etc. One possible solution would be to read file line by line by std::getline( std:::cin, str ) and convert string to numbers yourself.
+Streams pretty well know to be very slow. It is not a big surprise though - they need to handle localizations, conditions etc. One possible solution would be to read file line by line by [`std::getline( std:::cin, str )`](https://stackoverflow.com/a/15036951/51386) and convert string to numbers yourself.
 
 ### [`cout.tie(nullptr)`](https://en.cppreference.com/w/cpp/io/basic_ios/tie) / [SO](https://stackoverflow.com/questions/6027034/why-cerr-flushes-the-buffer-of-cout)
 
