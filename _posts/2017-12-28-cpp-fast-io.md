@@ -31,7 +31,6 @@ On some system cerr may be tie to cout.
 
 `cerr` has unitbuf set by [default](https://en.cppreference.com/w/cpp/io/manip/unitbuf), so it will be flushed at the end of every << operator.
 
-
 ### see also
 - [Which is the fastest method of input in C++](https://stackoverflow.com/a/9747716/51386)
 - [C++ fastest cin for reading stdin?](https://stackoverflow.com/questions/15036878/c-fastest-cin-for-reading-stdin/15036951#15036951)
@@ -39,5 +38,6 @@ On some system cerr may be tie to cout.
 - [Using scanf() in C++ programs is faster than using cin?](https://stackoverflow.com/questions/1042110/using-scanf-in-c-programs-is-faster-than-using-cin)
 - [Fast I/O for Competitive Programming](https://www.geeksforgeeks.org/fast-io-for-competitive-programming/)
 - [All efficient input taking and fast I/O techniques in C++](https://medium.com/analytics-vidhya/all-efficient-input-taking-and-fast-i-o-techniques-in-c-a-complete-input-output-c-guide-for-3d2e40640e49)
+- [Why You Shouldn't Use std::endl](https://chris-sharpe.blogspot.com/2016/02/why-you-shouldnt-use-stdendl.html)
 
 ![caption](https://www.cplusplus.com/img/iostream.gif)
