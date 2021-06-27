@@ -1,7 +1,7 @@
 ---
 title: Mean Max (Codingame)
 published: true
-tags: codingame contest
+tags: codingame contest genectic
 ---
 Objectif: Gold!
 ## [Fury Road](https://www.codingame.com/leaderboards/challenge/mean-max/global)
