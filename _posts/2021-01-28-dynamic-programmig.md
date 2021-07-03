@@ -28,3 +28,6 @@ use_math: true
     - [gridTraveler tabulation](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=12137s) - counting problem
 
 - [**Sliding Window**]({% post_url 2021-04-11-algo-sliding-window %}) - a subset of dynamic programming problems
+
+## See also
+- [Breaking Down Dynamic Programming](http://nmamano.com/blog/dynamic/dynamic.html)
