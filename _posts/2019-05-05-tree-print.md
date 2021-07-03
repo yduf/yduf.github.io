@@ -5,6 +5,8 @@ tags: tree algorithm c++
 ---
 > With Recursion - [SO](https://stackoverflow.com/questions/1649027/how-do-i-print-out-a-tree-structure/8567550#8567550) / [How to print binary tree diagram?](https://stackoverflow.com/questions/4965335/how-to-print-binary-tree-diagram)
 
+- [Iterative Tree Traversals: A Practical Guide](http://nmamano.com/blog/iterativetreetraversal/iterativetreetraversal.html)
+
 {% highlight cpp %}
 template<class Node>
 void printTree(const Node& tree, const string& indent = "", bool last = true)
