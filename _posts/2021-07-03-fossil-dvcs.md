@@ -5,6 +5,8 @@ tags: sqlite git vcs
 ---
 > Fossil is a distributed version control system (DVCS) written beginning in 2007 by the architect of SQLite for the purpose of managing the SQLite project. - [The History And Purpose Of Fossil](https://www.fossil-scm.org/home/doc/trunk/www/history.md) / [HN](https://news.ycombinator.com/item?id=27719947)
 
+A Fossil repository is a SQLite database storing the entire history of a project. It is not normally stored inside the working tree. A Fossil working tree — also called a check-out — is a directory that contains a snapshot of your project that you are currently working on, extracted for you from the repository database file by the fossil program.
+
 - immutable
 - built in first-class ticketing system
 Happens to use SQLite as its storage engine too (SQLInception?), which brings at least a couple (off the top of my head) features:
