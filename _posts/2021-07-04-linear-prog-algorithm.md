@@ -7,3 +7,5 @@ tags: algorithm math
 
 ## See also
 - [Simplex algorithm](https://en.wikipedia.org/wiki/Simplex_algorithm)  a popular algorithm for linear programming. In geometry, a [simplex](https://en.wikipedia.org/wiki/Simplex) is a generalization of the notion of a triangle or tetrahedron to arbitrary dimensions.
+
+[![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Linear_Programming_Feasible_Region.svg/250px-Linear_Programming_Feasible_Region.svg.png)](https://en.wikipedia.org/wiki/Linear_programming#Simplex_algorithm_of_Dantzig)
