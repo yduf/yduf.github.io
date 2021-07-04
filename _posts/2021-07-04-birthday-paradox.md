@@ -2,6 +2,7 @@
 published: true
 title: Birthday paradox
 tags: hash math paradox
+use_math: true
 ---
 > The birthday problem or birthday paradox concerns the probability that, in a set of n randomly chosen people, some pair of them will have the same birthday. - [wikipedia](https://en.wikipedia.org/wiki/Birthday_problem)
 
