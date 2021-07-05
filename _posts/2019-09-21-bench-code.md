@@ -3,7 +3,7 @@ published: true
 title: Benchmarking C++
 tags: c++ fastware benchmarking lib quote
 ---
-> Have a good baseline! - [The Art of Benchmarking (Fastware 2015 - Andrei)]({% post_url 2019-09-21-fastware-2015 %})
+> Measuring gives you a leg up on experts who don't need to measure  - [Have a good baseline!]({% post_url 2019-09-21-fastware-2015 %})
 
 ## Framework
 - [facebook/folly]({% post_url 2021-06-20-lib-folly %})    
