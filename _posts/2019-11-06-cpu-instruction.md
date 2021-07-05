@@ -5,6 +5,8 @@ tags: computer cpu hardware electronic tutorial blog
 ---
 > It just sits here succesfully doing nothing forever - [Ben Eater](https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA)
 
+## [build another 8-bit computer from scratch](https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU)
+
 - [“Hello, world” from scratch on a 6502](https://www.youtube.com/watch?v=LnzuMJLZRdU)
     - bus monitoring with arduino
 - [How do CPUs read machine code? — 6502 part 2](https://www.youtube.com/watch?v=yl8vPW5hydQ)
