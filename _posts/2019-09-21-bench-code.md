@@ -1,7 +1,7 @@
 ---
 published: true
 title: Benchmarking C++
-tags: c++ fastware benchmarking lib
+tags: c++ fastware benchmarking lib quote
 ---
 > Have a good baseline! - [The Art of Benchmarking (Fastware 2015 - Andrei)]({% post_url 2019-09-21-fastware-2015 %})
 
