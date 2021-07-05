@@ -13,4 +13,4 @@ tags: computer cpu hardware electronic tutorial blog
 	- ram read
     
 - [Why build an entire computer on breadboards?](https://www.youtube.com/watch?v=fCbAafKLqC8)
-	- monitoring clock signals
+	- clock signals
