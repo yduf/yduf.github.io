@@ -16,3 +16,5 @@ tags: computer hardware electronic blog
     
 - [Why build an entire computer on breadboards?](https://www.youtube.com/watch?v=fCbAafKLqC8)
 	- clock signals
+    
+[![caption](https://yt3.ggpht.com/S29wEjoodDYZ7RTVEtF30KrFOKABSlqphjNwGzC8RCslsketGsynfUKr8aSpXWMBFAZH9AAP=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)](https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA)
