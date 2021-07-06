@@ -7,6 +7,8 @@ tags: sqlite git vcs
 
 ## [Fossil vs Git](https://fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki)
 
+One way to describe Fossil is that it is "GitHub-in-a-box." 
+
 A Fossil repository is a SQLite database storing the entire history of a project. It is not normally stored inside the working tree. A Fossil working tree — also called a check-out — is a directory that contains a snapshot of your project that you are currently working on, extracted for you from the repository database file by the fossil program.
 
 - immutable
