@@ -13,4 +13,4 @@ a problem is NP-complete when:
 2. the problem can be used to simulate any other problem with similar solvability.
 
 ### [Solving NP-complete problems](https://en.wikipedia.org/wiki/NP-completeness#NP-complete_problems)
-
+- [Boolean satisfiability problem (SAT)](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem) - le premier problème NP-complet découvert
