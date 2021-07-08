@@ -12,5 +12,5 @@ a problem is NP-complete when:
 1. a brute-force search algorithm can solve it, and the correctness of each solution can be verified quickly
 2. the problem can be used to simulate any other problem with similar solvability.
 
-- [Solving NP-complete problems](https://en.wikipedia.org/wiki/NP-completeness#NP-complete_problems)
+### [Solving NP-complete problems](https://en.wikipedia.org/wiki/NP-completeness#NP-complete_problems)
 
