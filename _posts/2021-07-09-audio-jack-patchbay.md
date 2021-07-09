@@ -13,6 +13,8 @@ It's supposed to be as simple as possible so it can work nicely on non-Linux pla
 ## [Catia Install](https://kx.studio/Applications:Catia)
 Follow instruction to install kxstudio-repos [there](https://kx.studio/Repositories), then
 
+Canva can be zoomed using Ctrl+wheel
+
 {% highlight bash %}
 $ sudo apt-get update
 $ sudo apt-get install catia
