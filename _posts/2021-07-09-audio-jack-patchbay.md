@@ -10,7 +10,7 @@ It's supposed to be as simple as possible so it can work nicely on non-Linux pla
 - [Jack Session](https://wiki.linuxaudio.org/wiki/session_management) - restore application and connection
 	- [ladish](https://wiki.linuxaudio.org/apps/all/ladish) / Claudia
 
-## [Catia Install]
+## [Catia Install](https://kx.studio/Applications:Catia)
 Follow instruction to install kxstudio-repos [there](https://kx.studio/Repositories), then
 
 {% highlight bash %}
