@@ -8,7 +8,7 @@ tags: audio DAW
 - [Jack Session](https://wiki.linuxaudio.org/wiki/session_management) - restore application and connection
 	- [ladish](https://wiki.linuxaudio.org/apps/all/ladish) / Claudia
 
-# [Catia](https://kx.studio/Applications:Catia)
+## [Catia](https://kx.studio/Applications:Catia)
 > Simplest JACK Patchbay.
 
 ### [Install](https://kx.studio/Applications:Catia)
