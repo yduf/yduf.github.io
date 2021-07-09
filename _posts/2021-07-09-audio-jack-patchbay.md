@@ -23,3 +23,7 @@ $ sudo apt-get install catia
 {% endhighlight %}
 
 ## [Carla](https://kx.studio/Applications:Carla)
+
+> Carla le rack universel Linux ,synthés, équa ou ampli virtuel en vsti, lv2, vst serie.
+
+- [Home Studio](https://www.youtube.com/watch?v=xD2h8TJzLWU)
