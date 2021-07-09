@@ -1,7 +1,7 @@
 ---
 published: true
 title: Comma Code
-tags: algorithm io-stream
+tags: algorithm io-stream mental-model
 ---
 > A comma code is a type of prefix-free code in which a **comma**, a particular symbol or sequence of symbols, occurs at the end of a code word and never occurs otherwise. - [wikipedia](https://en.wikipedia.org/wiki/Comma_code) / [HN](https://news.ycombinator.com/item?id=27727214)
 
