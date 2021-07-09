@@ -29,3 +29,6 @@ $ sudo apt-get install catia
 - [Home Studio](https://www.youtube.com/watch?v=xD2h8TJzLWU)	- [carla search](https://www.youtube.com/results?search_query=carla+kxstudio)
 - [Creating a live loop-based music performance with Giada, Carla, Geonkick and Surge](https://www.youtube.com/watch?v=7dR_Zo4Y5fA)
 - [Ardour & Vsti ,Vst vst2 Vst3 sans conversion avec le rack carla](https://www.youtube.com/watch?v=MN3lSs4Fblw)
+
+### Midi
+- [Carla "Midi Learn" to control Graphic EQ plugin frequencies using Midi Controller hardware sliders](https://www.youtube.com/watch?v=7Kp-2NtBEVk)
