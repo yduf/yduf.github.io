@@ -1,6 +1,6 @@
 ---
 published: true
-tags: linux audio guitar DAW
+tags: audio guitar DAW
 title: Jack (linux audio)
 ---
 > JACK Audio Connection Kit - [Jack application](http://jackaudio.org/applications/)
