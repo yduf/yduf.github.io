@@ -10,18 +10,10 @@ It's supposed to be as simple as possible so it can work nicely on non-Linux pla
 - [Jack Session](https://wiki.linuxaudio.org/wiki/session_management) - restore application and connection
 	- [ladish](https://wiki.linuxaudio.org/apps/all/ladish) / Claudia
 
-## [Catia Install](https://kx.studio/Repositories)
+## [Catia Install]
+Follow instruction to install kxstudio-repos [there](https://kx.studio/Repositories), then
+
 {% highlight bash %}
-# Install required dependencies if needed
-sudo apt-get install apt-transport-https gpgv
-
-# Remove legacy repos
-sudo dpkg --purge kxstudio-repos-gcc5
-
-# Download package file
-wget https://launchpad.net/~kxstudio-debian/+archive/kxstudio/+files/kxstudio-repos_10.0.3_all.deb
-
-# Install it
-sudo dpkg -i kxstudio-repos_10.0.3_all.deb
+$ sudo apt-get update
+$ sudo apt-get install catia
 {% endhighlight %}
-
