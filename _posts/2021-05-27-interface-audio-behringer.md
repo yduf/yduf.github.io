@@ -1,7 +1,7 @@
 ---
 published: true
 title: Behringer UMC204HD
-tags: guitar audio
+tags: guitar audio DAW
 ---
 > Interface audio numérique USB - [Thomann](https://www.thomann.de/fr/behringer_u_phoria_umc204hd.htm?ref=intl&shp=eyJjb3VudHJ5IjoiZnIiLCJjdXJyZW5jeSI6MiwibGFuZ3VhZ2UiOiJmciJ9)
 
