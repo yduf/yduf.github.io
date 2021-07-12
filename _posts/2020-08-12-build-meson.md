@@ -61,6 +61,7 @@ endian = 'little'
 
 > Why I'd choose Meson+Doctest tech stack to create a new C++ project with a reusable and easy-to-run example - [Choosing a Modern C++ stack](https://carlosvin.github.io/posts/choosing-modern-cpp-stack/en/)
 
+- [Why we chose Meson as our build system](https://rizin.re/posts/why-meson/)
 - [Getting started with Meson build system and C++](https://medium.com/@germandiagogomez/getting-started-with-meson-build-system-and-c-83270f444bee) / [2](https://medium.com/@germandiagogomez/getting-started-with-meson-in-c-part-2-58150354ff17) / [3](https://medium.com/@germandiagogomez/getting-started-with-meson-in-c-part-3-70b9bc419957) / [4](https://medium.com/@germandiagogomez/getting-started-with-meson-part-4-8bceec6149e1)
 - [Do not use Meson](https://www.rojtberg.net/1481/do-not-use-meson/)
 
