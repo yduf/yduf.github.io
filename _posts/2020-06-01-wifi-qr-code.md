@@ -1,7 +1,7 @@
 ---
 published: true
 title: WiFi Card
-tags: wifi qr-code
+tags: wifi qr-code network
 ---
 > Print a Wifi Login Card - [wificard.io](https://wificard.io/) - [HN](https://news.ycombinator.com/item?id=27803146)
 
