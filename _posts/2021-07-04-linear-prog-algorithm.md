@@ -5,10 +5,9 @@ tags: algorithm math
 ---
 > (also called linear optimization) is a method to achieve the best outcome (such as maximum profit or lowest cost) in a mathematical model whose requirements are represented by linear relationships. - [wikipedia](https://en.wikipedia.org/wiki/Linear_programming)
 
+## See also
 - [Recherche Opérationnelle](https://www.youtube.com/channel/UCJKch__Y9WpEKXIpvYxzLRg/videos)
 	- [Explication du Branch&Bound](https://www.youtube.com/watch?v=2zKCQ03JzOY)
-
-## See also
 - [Simplex algorithm](https://en.wikipedia.org/wiki/Simplex_algorithm)  a popular algorithm for linear programming. In geometry, a [simplex](https://en.wikipedia.org/wiki/Simplex) is a generalization of the notion of a triangle or tetrahedron to arbitrary dimensions.
 	- [La Méthode de Simplexe](https://www.cours-et-exercices.com/2016/03/la-methode-de-simplexe-cours-de-la.html)
     - [Recherche opérationnelle et applications](http://homepages.ulb.ac.be/~bfortz/ro.pdf)
