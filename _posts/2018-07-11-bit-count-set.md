@@ -30,10 +30,13 @@ Depending on architecture i5 (Westmere) vector can be slower or much faster  Cor
 
 ## [Hamming Weight](https://stackoverflow.com/questions/109023/how-to-count-the-number-of-set-bits-in-a-32-bit-integer/109025#109025)
 
+GCC and clang 10.0 can recognize this pattern / idiom and [compile it to a hardware popcnt](https://godbolt.org/z/qGdh1dvKK) or equivalent instruction when available, giving you the best of both worlds. 
+  
 {% highlight cpp %}
 int popcount(uint32_t i) {
-     i = i - ((i >> 1) & 0x55555555);
-     i = (i & 0x33333333) + ((i >> 2) & 0x33333333);
-     return (((i + (i >> 4)) & 0x0F0F0F0F) * 0x01010101) >> 24;
+     i = i - ((i >> 1) & 0x55555555);        // add pairs of bits
+     i = (i & 0x33333333) + ((i >> 2) & 0x33333333);  // quads
+     i = (i + (i >> 4)) & 0x0F0F0F0F;        // groups of 8
+     return (i * 0x01010101) >> 24;          // horizontal sum of bytes
 }
 {% endhighlight %}
