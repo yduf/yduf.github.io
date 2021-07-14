@@ -8,6 +8,7 @@ tags: video youtube
 - [**DMCA takedown from RIAA**](https://news.ycombinator.com/item?id=24872911)
 - [Supported sites](https://ytdl-org.github.io/youtube-dl/supportedsites.html)
 - [can no longer download age-restricted videos ](https://news.ycombinator.com/item?id=27353917)
+	- [get cookies](https://news.ycombinator.com/item?id=27359561)
 
 
 ## Youtube Alternatives
