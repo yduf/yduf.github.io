@@ -27,3 +27,8 @@ Then don't forget to add yourself to that group.
 next install [Pipewiare & Jack]({% post_url 2021-03-04-audio-pipewire %})
 
 ## [MIDI](http://www.tedfelix.com/linux/linux-midi.html#audio-group)
+
+list MIDI controller
+{% highlight bash %}
+$ aconnect -i
+{% endhighlight %}
