@@ -34,3 +34,4 @@ $ aconnect -i
 {% endhighlight %}
 
 ## [VST Plugins](https://musicproductionnerds.com/what-are-vst-plugins)
+- [LMMS VST Plugins](https://theretiredengineer.wordpress.com/2018/09/30/lmms-vst-plugins/)
