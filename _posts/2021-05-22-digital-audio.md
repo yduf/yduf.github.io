@@ -1,7 +1,7 @@
 ---
 published: true
 title: Digital Audio Workstation (DAW)
-tags: DAW audio
+tags: DAW audio system
 ---
 > Non is fast enough to run on low-end processors--while other DAWs require huge investments in hardware...  take full advantage of the power and flexibility of [JACK]({% post_url 2017-06-09-Linux-Audio %}). - [NON](https://non.tuxfamily.org/wiki/About)
 
@@ -14,3 +14,5 @@ tags: DAW audio
 $ apt-cache search --names-only linux-lowlatency
 $ sudo apt-get install linux-lowlatency-hwe-20.04 # from output above
 {% endhighlight %}
+
+## [audio group](http://www.tedfelix.com/linux/linux-midi.html#audio-group)
