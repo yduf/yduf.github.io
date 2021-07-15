@@ -32,3 +32,5 @@ list MIDI controller
 {% highlight bash %}
 $ aconnect -i
 {% endhighlight %}
+
+## [VST Plugins](https://musicproductionnerds.com/what-are-vst-plugins)
