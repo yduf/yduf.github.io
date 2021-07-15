@@ -8,7 +8,7 @@ tags: DAW audio
 - [Free and open-source software I use for music production](https://www.youtube.com/watch?v=qistxioVgMw)
 	- [Ardour](https://ardour.org/)
     
- ## [Low latelency Kernel](http://www.tedfelix.com/linux/linux-midi.html#installing-a-low-latency-kernel)
+## [Low latency Kernel](http://www.tedfelix.com/linux/linux-midi.html#installing-a-low-latency-kernel)
 
 {% highlight bash %}
 $ apt-cache search --names-only linux-lowlatency
