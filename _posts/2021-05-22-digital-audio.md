@@ -23,6 +23,6 @@ Create an audio group (so that user can benefits from the low latency kernel). C
 $ sudo apt-get install jackd2
 {% endhighlight %}
 
-Then don't forget to add user to that group.
+Then don't forget to add yourself to that group.
 
 ## [MIDI](http://www.tedfelix.com/linux/linux-midi.html#audio-group)
