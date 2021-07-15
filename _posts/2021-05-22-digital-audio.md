@@ -7,3 +7,10 @@ tags: DAW audio
 
 - [Free and open-source software I use for music production](https://www.youtube.com/watch?v=qistxioVgMw)
 	- [Ardour](https://ardour.org/)
+    
+ ## [Low latelency Kernel](http://www.tedfelix.com/linux/linux-midi.html#installing-a-low-latency-kernel)
+
+{% highlight bash %}
+$ apt-cache search --names-only linux-lowlatency
+$ sudo apt-get install linux-lowlatency-hwe-20.04 # from output above
+{% endhighlight %}
