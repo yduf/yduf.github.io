@@ -17,8 +17,12 @@ $ sudo apt-get install linux-lowlatency-hwe-20.04 # from output above
 
 ## [audio group](http://www.tedfelix.com/linux/linux-midi.html#audio-group)
 
+Create an audio group (so that user can benefits from the low latency kernel). Create audio group.
+
 {% highlight bash %}
 $ sudo apt-get install jackd2
 {% endhighlight %}
+
+Then don't forget to add user to that group.
 
 ## [MIDI](http://www.tedfelix.com/linux/linux-midi.html#audio-group)
