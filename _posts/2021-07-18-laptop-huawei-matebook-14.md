@@ -7,7 +7,7 @@ tags: hardware laptop
 
 - i7-10510U, 4 cores / 8 threads
 - 16Go
-- NVIDIA MX350
+- NVIDIA MX350 / 3:2 display
 - 1.5kg
 
 ## Linux support
