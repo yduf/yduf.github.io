@@ -10,3 +10,7 @@ excerpt_separator: ''
 - 16Go
 - NVIDIA MX350
 - 1.5kg
+
+## Linux support
+- [Nvidia GeForce MX350 driver N/A although installed](https://forums.linuxmint.com/viewtopic.php?t=353047&p=2039798)
+- [ivzave/matebook-linux](https://github.com/ivzave/matebook-linux)
