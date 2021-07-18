@@ -8,6 +8,7 @@ excerpt_separator: ''
 
 ## Linux support
 - [ASUS Zenbook UX305](https://wiki.archlinux.org/title/ASUS_Zenbook_UX305)
+- [DebuggingTouchpadDetection](https://wiki.ubuntu.com/DebuggingTouchpadDetection) / [touchpad](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1535085)
 
 ## [Spec](https://www.ultrabookreview.com/10058-asus-zenbook-ux305ua-review/)
 - Core i7-6500U (2 cores / 4 threads) 
