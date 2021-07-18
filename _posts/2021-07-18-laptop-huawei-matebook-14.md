@@ -8,4 +8,5 @@ excerpt_separator: ''
 
 - i7-10510U, 4 cores / 8 threads
 - 16Go
+- NVIDIA MX350
 - 1.5kg
