@@ -2,6 +2,7 @@
 title: Explosion Combinatoire
 published: true
 tags: math algorithm complexity
+use_math: true
 ---
 > [Analyse de la complexité des algorithmes](https://fr.wikipedia.org/wiki/Analyse_de_la_complexit%C3%A9_des_algorithmes)
 
