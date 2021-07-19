@@ -23,7 +23,7 @@ $ln(n)=ln(2^k)$
 $ln(n)=k ln(2)$
 $log_2(n) = k$
 
-So $log n$ complexity, means here that the number of steps involved in sorting/splitting $n$ element is of the order of the tree depth, with is $k$ (computed by the log).
+So $log(n)$ complexity, means here that the number of steps involved in sorting/splitting $n$ element is of the order of the tree depth, with is $k$ (computed by the log).
 
 
 
