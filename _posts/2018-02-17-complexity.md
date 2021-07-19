@@ -23,6 +23,8 @@ $ln(n)=ln(2^k)$
 $ln(n)=k ln(2)$
 $log_2(n) = k$
 
+So a full binary tree of height $k=log_2(n)$ as $n^2$ node and vice-versa. Which means that if the complexity of an algorithm is dependant of k (the height of the tree) 
+
 So $log(n)$ complexity, means here that the number of steps involved in sorting/splitting $n$ element is of the order of the tree depth, which is $k$ (computed by the log).
 
 
