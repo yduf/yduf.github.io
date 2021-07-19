@@ -10,24 +10,24 @@ use_math: true
 
 ## [log](https://en.wikipedia.org/wiki/Natural_logarithm)
 - $\exp^{\ln x} = x$ / $\ln e^{x} = x$
-- $ln xy = ln x + ln y$
-- $ln(N^2)=2*ln(N)$
+- $\ln xy = \ln x + \ln y$
+- $\ln(N^2)=2 \ln(N)$
 
 ### [O(log n)](https://hackernoon.com/what-does-the-time-complexity-o-log-n-actually-mean-45f94bb5bfbf)
 - Binary search / dichotomy split thing in 2 until there is only one left.
-so assuming the initial set is fully dividable by 2 at the beginning... the number of initial element for k-steps (the number of node in a binary tree) is $n*\frac{1}{2^k}=1$
+so assuming the initial set is fully dividable by 2 at the beginning... the number of initial element for k-steps (the number of node in a binary tree) is $n \frac{1}{2^k}=1$
 So $n=2^k$.
 
 Which according to logarithm formula gives:
-$ln(n)=ln(2^k)$
-$ln(n)=k*ln(2)$
-$log_2(n) = k$
+$\ln(n)=\ln(2^k)$
+$\ln(n)=k \ln(2)$
+$\log_2(n) = k$
 
-So a full binary tree of height $k=log_2(n)$ as $n^2$ node and vice-versa. Which means that if the complexity of an algorithm is dependant of k (the height of the tree), it's complexity in term of number of element is $O(log(n))$
+So a full binary tree of height $k=\log_2(n)$ as $n^2$ node and vice-versa. Which means that if the complexity of an algorithm is dependant of k (the height of the tree), it's complexity in term of number of element is $O(\log(n))$
 
-So $log(n)$ complexity, means here that the number of steps involved in sorting/splitting $n^2$ elements is of the order of the tree depth, which is $k$ (computed by the log).
+So $\log(n)$ complexity, means here that the number of steps involved in sorting/splitting $n^2$ elements is of the order of the tree depth, which is $k$ (computed by the log).
 
-Fun fact: sorting $n^2$ or $n$ elements both have $O(log(n))$ complexity (because $ln(n^2)=2*log(n)$
+Fun fact: sorting $n^2$ or $n$ elements both have $O(\log(n))$ complexity (because $\ln(n^2)=2\ln(n)$
 
 ## [NP-completeness](https://en.wikipedia.org/wiki/NP-completeness#NP-complete_problems)
 a problem is NP-complete when: 
