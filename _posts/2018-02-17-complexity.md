@@ -19,9 +19,9 @@ so assuming the initial set is fully dividable by 2 at the beginning... the numb
 So $n=2^k$.
 
 Which according to logarithm formula gives:
-$\ln(n)=\ln(2^k)$
-$\ln(n)=k \ln(2)$
-$\log_2(n) = k$
+- $\ln(n)=\ln(2^k)$
+- $\ln(n)=k \ln(2)$
+- $\log_2(n) = k$
 
 So a full binary tree of height $k=\log_2(n)$ as $n^2$ node and vice-versa. Which means that if the complexity of an algorithm is dependant of k (the height of the tree), it's complexity in term of number of element is $O(\log(n))$
 
