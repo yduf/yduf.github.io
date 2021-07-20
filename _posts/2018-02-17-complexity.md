@@ -4,7 +4,7 @@ published: true
 tags: math algorithm complexity
 use_math: true
 ---
-> O(1) ~ O(log(n)) << O(sqrt(n)) << O(n) ~ O(n log(n)) << O(n²) << O(n³) <<<< O(n!)- [Analyse de la complexité des algorithmes](https://fr.wikipedia.org/wiki/Analyse_de_la_complexit%C3%A9_des_algorithmes)
+> O(1) ~ O(log(n)) << O(sqrt(n)) << O(n) ~ O(n log(n)) << O(n²) << O(n³) <<<< O(n!) - [Analyse de la complexité des algorithmes](https://fr.wikipedia.org/wiki/Analyse_de_la_complexit%C3%A9_des_algorithmes)
 
 - [P vs NP et le zoo de complexité informatique](https://www.youtube.com/watch?v=YX40hbAHx3s)
 
