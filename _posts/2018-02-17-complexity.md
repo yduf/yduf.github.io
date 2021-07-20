@@ -27,7 +27,7 @@ So a full binary tree of height $k=\log_2(n)$ as $n^2$ node and vice-versa. Whic
 
 So $\log(n)$ complexity, means here that the number of steps involved in a dychotomy of $n^2$ elements is of the order of the tree depth, which is $k$ (computed by the log).
 
-Fun fact: a dychotomy on $n^2$ or $n$ elements both have $O(\log(n))$ complexity (because $\ln(n^2)=2\ln(n)$
+Fun fact: a dychotomy on $n^2$ or $n$ elements both have $O(\log(n))$ complexity (because $\ln(n^2)=2\ln(n)$. For sorting it's a different matter since sorting $n^2$ is $O( n² \log(n))$, whereas sorting $n$ is $O(n \log(n))$.
 
 ## [NP-completeness](https://en.wikipedia.org/wiki/NP-completeness#NP-complete_problems)
 a problem is NP-complete when: 
