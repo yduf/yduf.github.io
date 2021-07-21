@@ -21,9 +21,9 @@ tags: hardware laptop
 $ parted -l
 Number  Size    File system  Name                          Flags
  1      273MB   fat32        EFI system partition          boot, esp
- 2      16,8MB               Microsoft reserved partition  msftres
- 3      49,3GB  ntfs         Basic data partition          msftdata      OS
- 5      47,8GB  ext4         linux
+ 2       17MB                Microsoft reserved partition  msftres
+ 3       50GB   ntfs         Basic data partition          msftdata      OS
+ 5       48GB   ext4         linux
  7      107GB   ext4         archive
  4      523MB   ntfs         Basic data partition          hidden, diag  RECOVERY
  6      307GB   ext4         home
