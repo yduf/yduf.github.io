@@ -36,3 +36,9 @@ Using disk management tool
 - shrink OS (C:) partition to 50Go (leave 10Go free)
 
 For the moment leave Onekey partition (14Go occupied)
+
+### Linux install
+Internet connection is recommanded for install (for thirdparty software).
+
+Partition / (100Go), /home (300Go)
+
