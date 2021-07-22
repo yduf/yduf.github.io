@@ -20,8 +20,8 @@ tags: hardware laptop
 - [F12](https://consumer.huawei.com/en/support/content/en-us00693076/) - boot select
 
 ## [Factory partition](https://www.reddit.com/r/MatebookXPro/comments/9xnhe1/partitioning_on_a_new_device/)
-- System (X)
-- Data   (Y)
+- System (120Go) - Windows 10 (C:)
+- Data   (341Go) - D:
 - WINPE  (.5GB) - WinPE is a preinstallation environment that lets you install Windows from a wim file... probably from the 14gb key partition.
 - WinRE  (1GB) - WinRE is a recovery environment for restoring Windows in the event it fails to boot. 
 - [OneKey](https://www.reddit.com/r/MatebookXPro/comments/fdr566/matebook_d_is_huaweis_system_restore_partition/) (14GB) -  Huawei laptops have two system restore modes, one that is built in to Windows 10 and one made [by Huawei](https://consumer.huawei.com/en/support/content/en-us00692605/)
