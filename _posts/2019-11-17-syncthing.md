@@ -5,6 +5,8 @@ tags: rsync
 ---
 > Syncthing est un logiciel open source. Il permet de synchroniser les répertoires de plusieurs machines à travers Internet au moyen d'une connexion P2P sécurisée. Ils fonctionnent sur diverses plateformes en plus de Linux, dont Windows, OS-X, Android… Ce qui permet de créer son propre cloud sans passer par des serveurs hébergés par des tiers ! - [ubuntu](https://doc.ubuntu-fr.org/syncthing) / [**Home**](https://syncthing.net/)
 
+- [Syncthing: Syncing All the Things](https://news.ycombinator.com/item?id=27929194)
+
 # <span style="color:red">[**Warning**]</span> => it's quite easy to delete content - [(syncthing deleted my files again)](https://forum.syncthing.net/t/syncthing-deleted-my-files-again/15384/5)
 - [have a backup](https://www.gkayaalp.com/blog/20190102_syncthing.html)
 - [set a version policy](https://docs.syncthing.net/users/versioning.html#simple-file-versioning)
