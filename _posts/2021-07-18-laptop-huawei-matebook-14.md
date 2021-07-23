@@ -2,7 +2,6 @@
 published: true
 title: HUAWEI MateBook 14 2020
 tags: hardware laptop
-excerpt_separator: ''
 ---
 ## [amazon](https://www.amazon.fr/gp/product/B08P9186JF/ref=ox_sc_act_title_2?smid=A1X6FK5RDHNB96&psc=1) - 2021 - 800€ 
 
@@ -10,6 +9,8 @@ excerpt_separator: ''
 - 16Go
 - NVIDIA MX350 / 3:2 display
 - 1.5kg
+
+## BIOS - Rev 5.0
 
 ## Linux support
 - [Nvidia GeForce MX350 driver N/A although installed](https://forums.linuxmint.com/viewtopic.php?t=353047&p=2039798)
@@ -42,4 +43,3 @@ For the moment leave Onekey partition (14Go occupied)
 Internet connection is recommanded for install (for thirdparty software).
 
 Partition / (100Go), /home (300Go)
-
