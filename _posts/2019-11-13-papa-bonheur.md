@@ -1,7 +1,7 @@
 ---
 published: true
 title: Papa bonheur (Message à caractère informatif)
-tags: fdespair.com fun cogip
+tags: despair.com fun cogip
 ---
 > Avec les gosses faut être psychologue...
 
