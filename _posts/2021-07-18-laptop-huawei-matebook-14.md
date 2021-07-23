@@ -10,7 +10,7 @@ tags: hardware laptop
 - NVIDIA MX350 / 3:2 display
 - 1.5kg
 
-## BIOS - Rev 5.0
+## [BIOS](https://consumer.huawei.com/en/support/laptops/matebook-14-2020/) - Rev 5.0
 
 ## Linux support
 - [Nvidia GeForce MX350 driver N/A although installed](https://forums.linuxmint.com/viewtopic.php?t=353047&p=2039798)
