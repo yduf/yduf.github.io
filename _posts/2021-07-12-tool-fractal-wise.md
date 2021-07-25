@@ -9,10 +9,3 @@ tags: fractal tool
 - [3D printed fractal vise](https://www.youtube.com/watch?v=eCfw9fd0mHg)
 
 [![caption](https://img.youtube.com/vi/QBeOgGt_oWU/0.jpg)](https://www.youtube.com/watch?v=QBeOgGt_oWU)
-
-
-
-
-
-
-
