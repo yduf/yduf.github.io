@@ -18,6 +18,7 @@ tags: hardware laptop
 	- [ivzave/matebook-linux](https://github.com/ivzave/matebook-linux) - patching [acpi table]({% post_url 2021-07-25-acpi %})
     	- Enable S3 sleep state
 	-  [Fn button](https://github.com/nekr0z/linux-on-huawei-matebook-13-2019)
+    - [Disabled STAPM and Increased the Power Limit](https://www.reddit.com/r/Amd/comments/a2vs55/i_successfully_disabled_stapm_and_increased_the/)
 - [enable fingerprint scanner](https://www.addictivetips.com/ubuntu-linux-tips/enable-fingerprint-scanner-support-on-linux/)
 
 
