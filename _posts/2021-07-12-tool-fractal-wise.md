@@ -1,7 +1,7 @@
 ---
 published: true
 title: Fractal Wise
-tags: fractal tool
+tags: fractal tools
 ---
 >  Made for [engraving](www.airgraver.com) - [Rare Antique Fractal Vise](https://www.youtube.com/watch?v=QBeOgGt_oWU)
 
