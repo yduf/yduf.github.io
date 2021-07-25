@@ -11,6 +11,8 @@ tags: fish cli fuzzy text search grep repl
 echo '' | fzf --print-query --preview "cat *.json | jq {q}"
 {% endhighlight %}
 
+- [fish]({% post_url 2018-08-11-fish %}) integration
+
 {::nomarkdown}
 <div class="myvideo">
    <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
