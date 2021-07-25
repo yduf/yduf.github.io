@@ -10,3 +10,4 @@ tags: DAW
 	- [Registration, Software Download](https://www.youtube.com/watch?v=FqU2F31dJiw)
     
 ## [MPC Beats Tutorial](https://www.youtube.com/watch?v=Muwqi1W_FBw)
+- [basic beat loop](https://youtu.be/Muwqi1W_FBw?t=385)
