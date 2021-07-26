@@ -2,7 +2,6 @@
 published: true
 title: HUAWEI MateBook 14 2020
 tags: hardware laptop
-excerpt_separator: ''
 ---
 ## [amazon](https://www.amazon.fr/gp/product/B08P9186JF/ref=ox_sc_act_title_2?smid=A1X6FK5RDHNB96&psc=1) - 2021 - 800€ 
 
@@ -17,8 +16,9 @@ excerpt_separator: ''
 - [Nvidia GeForce MX350 driver N/A although installed](https://forums.linuxmint.com/viewtopic.php?t=353047&p=2039798)
 - [power button issue](https://bbs.archlinux.org/viewtopic.php?id=225752)
 	- [ivzave/matebook-linux](https://github.com/ivzave/matebook-linux) - patching [acpi table]({% post_url 2021-07-25-acpi %})
-    	- Enable S3 sleep state
+    	- S3 sleep state: OK on Linux 5.4.0-80-generic
 	-  [Fn button](https://github.com/nekr0z/linux-on-huawei-matebook-13-2019)
+    	- Power button: OK, but has to be pressed for at least 1 second to generate event
     - [Disabled STAPM and Increased the Power Limit](https://www.reddit.com/r/Amd/comments/a2vs55/i_successfully_disabled_stapm_and_increased_the/)
 - [enable fingerprint scanner](https://www.addictivetips.com/ubuntu-linux-tips/enable-fingerprint-scanner-support-on-linux/)
 
