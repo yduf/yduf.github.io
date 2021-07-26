@@ -50,7 +50,7 @@ Native files (--native-file) are the counterpart to cross files (--cross-file), 
 # ~/.local/share/meson/cross/codingame
 # meson builddir/ --native-file codingame
 [binaries]               
-cpp = '-g++'
+cpp = 'g++-9'
 {% endhighlight %}
 
 ## [Cross compilation](https://mesonbuild.com/Cross-compilation.html)
