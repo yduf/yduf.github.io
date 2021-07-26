@@ -5,7 +5,7 @@ tags: build-system dlang c++
 ---
 > The main design point of Meson is that every moment a developer spends writing or debugging build definitions is a second wasted. So is every second spent waiting for the build system to actually start compiling code. - [Meson](https://mesonbuild.com/index.html)
 
-** Prefer latest version >= 0.59 rather than prepackaged distrib version **
+**Prefer latest version >= 0.59 rather than prepackaged distrib version**
 
 ## [Compiling a Meson project](https://mesonbuild.com/Quick-guide.html#compiling-a-meson-project)
 
