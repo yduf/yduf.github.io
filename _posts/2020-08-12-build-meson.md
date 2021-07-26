@@ -39,6 +39,11 @@ see also [Subproject limitations](https://github.com/mesonbuild/meson/issues/422
 !/subprojects/*.wrap
 {% endhighlight %}
 
+
+## [Native config files](https://mesonbuild.com/Release-notes-for-0-49-0.html#native-config-files)
+Meson has separation between project build descriptions in meson.build, and compilation environment / toolchain descriptions in native/cross files.
+- [How do I choose which compiler Meson will use](https://github.com/mesonbuild/meson/issues/1752)
+
 ## [Cross compilation](https://mesonbuild.com/Cross-compilation.html)
 Meson requires you to write a [cross build definition file](https://mesonbuild.com/Cross-compilation.html#cross-file-locations). It defines various properties of the cross build environment. The cross file consists of different sections.
 
@@ -57,9 +62,6 @@ cpu = 'armv7l'
 endian = 'little'
 {% endhighlight %}
 
-## [Native config files](https://mesonbuild.com/Release-notes-for-0-49-0.html#native-config-files)
-Meson has separation between project build descriptions in meson.build, and compilation environment / toolchain descriptions in native/cross files.
-- [How do I choose which compiler Meson will use](https://github.com/mesonbuild/meson/issues/1752)
 
 ## [Meson vs X](https://en.wikipedia.org/wiki/Meson_(software)#Language) / [SO](https://stackoverflow.com/questions/5837764/autotools-vs-cmake-for-both-windows-and-linux-compilation/24953691#24953691)
 
