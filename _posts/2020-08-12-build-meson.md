@@ -57,6 +57,10 @@ cpu = 'armv7l'
 endian = 'little'
 {% endhighlight %}
 
+## [Native config files](https://mesonbuild.com/Release-notes-for-0-49-0.html#native-config-files)
+Meson has separation between project build descriptions in meson.build, and compilation environment / toolchain descriptions in native/cross files.
+- [How do I choose which compiler Meson will use](https://github.com/mesonbuild/meson/issues/1752)
+
 ## [Meson vs X](https://en.wikipedia.org/wiki/Meson_(software)#Language) / [SO](https://stackoverflow.com/questions/5837764/autotools-vs-cmake-for-both-windows-and-linux-compilation/24953691#24953691)
 
 > Why I'd choose Meson+Doctest tech stack to create a new C++ project with a reusable and easy-to-run example - [Choosing a Modern C++ stack](https://carlosvin.github.io/posts/choosing-modern-cpp-stack/en/)
