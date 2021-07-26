@@ -44,6 +44,15 @@ see also [Subproject limitations](https://github.com/mesonbuild/meson/issues/422
 Meson has separation between project build descriptions in meson.build, and compilation environment / toolchain descriptions in native/cross files.
 - [How do I choose which compiler Meson will use](https://github.com/mesonbuild/meson/issues/1752)
 
+Native files (--native-file) are the counterpart to cross files (--cross-file), and allow specifying information about the build machine, [both when cross compiling and when not](https://mesonbuild.com/Machine-files.html).
+
+{% highlight ruby %}
+# ~/.local/share/meson/cross/codingame
+# meson builddir/ --native-file codingame
+[binaries]               
+cpp = '-g++'
+{% endhighlight %}
+
 ## [Cross compilation](https://mesonbuild.com/Cross-compilation.html)
 Meson requires you to write a [cross build definition file](https://mesonbuild.com/Cross-compilation.html#cross-file-locations). It defines various properties of the cross build environment. The cross file consists of different sections.
 
