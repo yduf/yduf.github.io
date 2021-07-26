@@ -5,6 +5,8 @@ tags: build-system dlang c++
 ---
 > The main design point of Meson is that every moment a developer spends writing or debugging build definitions is a second wasted. So is every second spent waiting for the build system to actually start compiling code. - [Meson](https://mesonbuild.com/index.html)
 
+** Prefer latest version >= 0.59 rather than prepackaged distrib version **
+
 ## [Compiling a Meson project](https://mesonbuild.com/Quick-guide.html#compiling-a-meson-project)
 
 The only thing to note is that you need to create a separate build directory. Meson will not allow you to build source code inside your source tree. All build artifacts are stored in the build directory.
