@@ -11,5 +11,9 @@ tags: c++ dlang x86 asm compiler online
 - [Matt Godbolt: Why C++ Isn't Dead](https://www.youtube.com/watch?v=1uLTspBEtRE)
 - [Disassembly Explorer (VSCode)](https://marketplace.visualstudio.com/items?itemName=dseight.disasexpl) / [github ](https://github.com/dseight/vscode-disasexpl)
 
-## [Install](https://github.com/compiler-explorer/compiler-explorer)
+## [Install](https://github.com/compiler-explorer/compiler-explorer) - [http://localhost:10240/](http://localhost:10240/)
 - install [nodejs]({% post_url 2020-11-29-node-js %})
+
+{% highlight bash %}
+make EXTRA_ARGS='--language c++'
+{% endhighlight %}
