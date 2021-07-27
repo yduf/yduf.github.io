@@ -14,6 +14,7 @@ tags: c++ dlang x86 asm compiler online
 ## [Install](https://github.com/compiler-explorer/compiler-explorer) - [http://localhost:10240/](http://localhost:10240/)
 - install [nodejs]({% post_url 2020-11-29-node-js %})
 
+Compile and start
 {% highlight bash %}
 make EXTRA_ARGS='--language c++'
 {% endhighlight %}
