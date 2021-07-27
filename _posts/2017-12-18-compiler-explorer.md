@@ -12,3 +12,4 @@ tags: c++ dlang x86 asm compiler online
 - [Disassembly Explorer (VSCode)](https://marketplace.visualstudio.com/items?itemName=dseight.disasexpl) / [github ](https://github.com/dseight/vscode-disasexpl)
 
 ## [Install](https://github.com/compiler-explorer/compiler-explorer)
+- install [nodejs]({% post_url 2020-11-29-node-js %})
