@@ -11,7 +11,7 @@ tags: vscode remote linux editor ssh
 - on WSL (windows)
 
 ## [code-server](https://github.com/cdr/code-server)
-- run inside chrome and work over ssh.
+Run inside chrome and work over ssh.
 
 If you have Chrome installed, it opens the browser in app mode. That means there's no keybind conflicts, address bar, or indication that you're coding within a browser. It feels just like native VS Code.
 
