@@ -3,7 +3,15 @@ published: true
 title: VSCode Server
 tags: vscode remote linux editor ssh
 ---
->  [Run VS Code on any server over SSH](https://github.com/cdr/code-server). A precursor of [VS Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview)
+>  [CodeServer](https://github.com/cdr/code-server) Run VS Code on any server over SSH. A precursor of [VS Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview)
+
+## [VS Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview)
+- work over ssh
+- on container
+- on WSL (windows)
+
+## [code-server](https://github.com/cdr/code-server)
+- run inside chrome and work over ssh.
 
 If you have Chrome installed, it opens the browser in app mode. That means there's no keybind conflicts, address bar, or indication that you're coding within a browser. It feels just like native VS Code.
 
