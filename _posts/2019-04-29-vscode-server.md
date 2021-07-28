@@ -24,7 +24,7 @@ By default, sshcode will rsync your local VS Code settings and extensions to the
 go/bin/sshcode kyle@dev.kwc.io ~/projects/sourcegraph
 {% endhighlight %}
 
-## Docker
+## Docker server
 
 {% highlight bash %}
 docker run -it -p 8443:8080 -v "${PWD}:/home/coder/project"  -u "$(id -u):$(id -g)" codercom/code-server --auth=none --disable-telemetry
