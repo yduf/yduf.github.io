@@ -20,3 +20,7 @@ Happens to use SQLite as its storage engine too (SQLInception?), which brings at
 - one can checkout multiple working copies into various directories. Or, in other words, I can have three discrete, independent workflows happening simultaneously, but only one copy of the repository backing them all.
 
 It’s also got a built-in server that you can use locally or publish for remote people to access via their web browser that’s essentially GitHub-in-a-box.
+
+## Tutorials
+- [Why I Prefer Fossil over Git](https://www.youtube.com/watch?v=WKVX7xq58kA)
+	- crnl-glob => * - what is it ?
