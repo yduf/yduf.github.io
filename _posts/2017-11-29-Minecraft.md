@@ -1,7 +1,7 @@
 ---
 title: Minecraft
 published: true
-tags: minecraft server
+tags: minecraft server games microsoft
 ---
 > In 2014, Mojang and the Minecraft intellectual property were purchased by Microsoft for US$2.5 billion. - [minecraft.net](https://www.minecraft.net)
 
