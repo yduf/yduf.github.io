@@ -17,6 +17,6 @@ tags: despair.com science
 
 - [sophisme](https://fr.wikipedia.org/wiki/Sophisme) - une argumentation, à la logique fallacieuse. C'est un raisonnement qui porte en lui l'apparence de la rigueur, voire de l'évidence, mais qui n'est en réalité pas valide au sens de la logique, quand bien même sa conclusion serait pourtant «vraie».
 
-- [On sait que c'est fake. On s'en balek](https://www.youtube.com/watch?v=W18vrY0SaT8)
+- [On sait que c'est fake. On s'en balek](https://www.youtube.com/watch?v=W18vrY0SaT8) - Cette façon dont les faits s'effacent et le vrai s'affaisse quand, sous la surface, le faux se professe.
 
 [ ![caption](https://upload.wikimedia.org/wikipedia/commons/c/ca/The_Isolator_%28cropped%29.jpg)](https://laughingsquid.com/the-isolator-bizarre-helmet-1925/)
