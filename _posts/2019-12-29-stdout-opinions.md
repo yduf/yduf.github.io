@@ -3,10 +3,10 @@ published: true
 title: You should write code like I write it
 tags: software despair.com quote fun opinions
 ---
-You should like it if I like it  
-Trust my choice and tag along  
-I am right and you are wrong 
-- [$stdout - Opinions](https://www.youtube.com/watch?v=yqTpG5obPV8)  
+> You should like it if I like it  
+> Trust my choice and tag along  
+> I am right and you are wrong 
+> - [$stdout - Opinions](https://www.youtube.com/watch?v=yqTpG5obPV8)  
 
 I like Ruby, I like Go  
 But strong typing for the win  
