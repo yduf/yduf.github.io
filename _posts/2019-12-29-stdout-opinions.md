@@ -3,7 +3,6 @@ published: true
 title: You should write code like I write it
 tags: software despair.com quote fun opinions
 ---
-You should write code like I write it  
 You should like it if I like it  
 Trust my choice and tag along  
 I am right and you are wrong 
