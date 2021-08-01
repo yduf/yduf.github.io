@@ -1,10 +1,9 @@
 ---
 published: true
-title: Samsung Notebook NP530U3C
+title: Samsung Notebook NP530U3C (2012)
 tags: laptop
 excerpt_separator: ''
 ---
-## 2012 ?
 
 - [spec](https://www.samsung.com/us/business/support/owners/product/series-5-notebook-np530u3c/)
 
