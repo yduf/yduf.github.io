@@ -7,6 +7,7 @@ use_math: true
 > O(1) ~ O(log(n)) << O(sqrt(n)) << O(n) ~ O(n log(n)) << O(n²) << O(n³) <<<< O(n!) - [Analyse de la complexité des algorithmes](https://fr.wikipedia.org/wiki/Analyse_de_la_complexit%C3%A9_des_algorithmes)
 
 - [P vs NP et le zoo de complexité informatique](https://www.youtube.com/watch?v=YX40hbAHx3s)
+- [When Big O Fools Ya](https://jackmott.github.io/programming/2016/08/20/when-bigo-foolsya.html)
 
 ## [log](https://en.wikipedia.org/wiki/Natural_logarithm)
 - $\exp^{\ln x} = x$ / $\ln e^{x} = x$
