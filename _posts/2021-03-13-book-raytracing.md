@@ -7,4 +7,4 @@ tags: graphic book raytracing physics
 - [Physically Based Rendering](http://www.pbr-book.org/)
 - [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch/) / [HN](https://news.ycombinator.com/item?id=26017086)
 - [Real-Time Rendering Resources](http://www.realtimerendering.com/#books-small-table) / [Eric Haines pages](http://erich.realtimerendering.com/)
-- [Ray Tracing Gems II](https://link.springer.com/book/10.1007/978-1-4842-7185-8)
+- [Ray Tracing Gems II](https://link.springer.com/book/10.1007/978-1-4842-7185-8) / [HN](https://news.ycombinator.com/item?id=28064615)
