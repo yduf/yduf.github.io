@@ -7,6 +7,7 @@ tags: parallelism
 
 - [Sem](https://www.gnu.org/software/parallel/sem.html) - semaphore for executing shell command lines in parallel
 
+## [Parallel vs X](https://www.gnu.org/software/parallel/parallel_alternatives.html#)
 - [parallel vs xargs](https://unix.stackexchange.com/questions/104778/gnu-parallel-vs-i-mean-background-vs-xargs-p/104798#104798)
 	- xargs deals badly with special characters (such as space, ' and ").
     - xargs can run a given number of jobs in parallel, but has no support for running number-of-cpu-cores jobs in parallel.
