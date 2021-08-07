@@ -11,7 +11,7 @@ tags: cli
 - **isutf8:** check if a file or standard input is utf-8
 - **lckdo:** execute a program with a lock held
 - **mispipe:** pipe two commands, returning the exit status of the first
-- **parallel:** run multiple jobs at once
+- [**parallel**]({% post_url 2021-08-07-cli-parallel %}) - run multiple jobs at once
 - **pee:** tee standard input to pipes
 - **sponge:** soak up standard input and write to a file
 - **ts:** timestamp standard input
