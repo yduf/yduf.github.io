@@ -76,8 +76,8 @@ There’s one more gotcha when it comes to dealing with subprocesses: deadlocks.
 ::pipeline_w starts a list of commands as a pipeline with a pipe which connects to stdin of the first command.
   
 {% highlight ruby %}
-Open3.pipeline_w(cmd1, cmd2, ... [, opts]) {|first_stdin, wait_threads|
-  ...
+Open3.pipeline_w("bzip2 -c", :out=>"/tmp/hello.bz2") {|i, ts|
+  i.puts "hello"
 }
 {% endhighlight %}
 
