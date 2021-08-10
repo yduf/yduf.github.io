@@ -15,6 +15,8 @@ File.write('/path/to/file', 'Some glorious content')
 
 ## [Why is “slurping” a file not a good practice?](https://stackoverflow.com/questions/25189262/why-is-slurping-a-file-not-a-good-practice)
 
+Slurping an input file makes the program practically useless for [pipelines](https://stackoverflow.com/a/52174037).
+
 {% highlight ruby %}
 IO.foreach("testfile") {|x| print "GOT ", x }
 {% endhighlight %}
