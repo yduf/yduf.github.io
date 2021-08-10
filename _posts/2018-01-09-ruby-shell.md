@@ -71,6 +71,17 @@ There’s one more gotcha when it comes to dealing with subprocesses: deadlocks.
 >
 > combine `stderr` and `stdout` via `Open3.popen2e` or something similar
 
+## [Starts a list of commands as a pipeline](https://ruby-doc.org/stdlib-2.4.1/libdoc/open3/rdoc/Open3.html#method-c-pipeline_w)
+
+::pipeline_w starts a list of commands as a pipeline with a pipe which connects to stdin of the first command.
+  
+{% highlight ruby %}
+Open3.pipeline_w(cmd1, cmd2, ... [, opts]) {|first_stdin, wait_threads|
+  ...
+}
+{% endhighlight %}
+
+  
 ## [How to fire and forget a subprocess? (stackoverflow)](https://stackoverflow.com/a/806289/51386)
 
 {% highlight ruby %}
