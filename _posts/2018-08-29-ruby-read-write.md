@@ -14,8 +14,9 @@ File.write('/path/to/file', 'Some glorious content')
 {% endhighlight %}
 
 ## [Why is “slurping” a file not a good practice?](https://stackoverflow.com/questions/25189262/why-is-slurping-a-file-not-a-good-practice)
+Slurping may be acceptable for configuration files,
+but slurping an input file makes the program practically useless for [pipelines](https://stackoverflow.com/a/52174037).
 
-Slurping an input file makes the program practically useless for [pipelines](https://stackoverflow.com/a/52174037).
 
 {% highlight ruby %}
 IO.foreach("testfile") {|x| print "GOT ", x }
