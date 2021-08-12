@@ -7,6 +7,12 @@ tags: parallelism
 
 - [Sem](https://www.gnu.org/software/parallel/sem.html) - semaphore for executing shell command lines in parallel
 
+**Parallel convert STDOUT args to ARGV**
+
+{% highlight bash %}
+$ ls -1 | parallel echo
+{% endhighlight %}
+
 ## [Parallel vs X](https://www.gnu.org/software/parallel/parallel_alternatives.html#)
 - [parallel vs xargs](https://unix.stackexchange.com/questions/104778/gnu-parallel-vs-i-mean-background-vs-xargs-p/104798#104798)
 	- xargs deals badly with special characters (such as space, ' and ").
