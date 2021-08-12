@@ -28,3 +28,14 @@ $ command_A | parallel --pipe command_B | command_C
     - xargs has no support for keeping the order of the output, therefore if running jobs in parallel using xargs the output of the second job cannot be postponed till the first job is done.
     - xargs has no support for running jobs on remote computers.
     - xargs has no support for context replace, so you will have to create the arguments.
+
+## [Install](https://stackoverflow.com/questions/39757941/how-to-install-or-switch-to-older-version-of-gnu-parallel)
+
+replace [20160922](http://mirror.ibcp.fr/pub/gnu/parallel/) with the version you want:
+
+{% highlight bash %}
+wget http://ftpmirror.gnu.org/parallel/parallel-20160922.tar.bz2
+bzip2 -dc parallel-20160922.tar.bz2 | tar xvf -
+cd parallel-20160922
+./configure && make && sudo make install
+{% endhighlight %}
