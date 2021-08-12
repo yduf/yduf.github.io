@@ -7,7 +7,7 @@ tags: parallelism
 
 - [Sem](https://www.gnu.org/software/parallel/sem.html) - semaphore for executing shell command lines in parallel
 
-## Passing argument
+## Passing arguments
 **By Default parallel convert STDOUT args to ARGV**
 
 {% highlight bash %}
