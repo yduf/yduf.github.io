@@ -7,10 +7,17 @@ tags: parallelism
 
 - [Sem](https://www.gnu.org/software/parallel/sem.html) - semaphore for executing shell command lines in parallel
 
-**Parallel convert STDOUT args to ARGV**
+## Passing argument
+**By Default parallel convert STDOUT args to ARGV**
 
 {% highlight bash %}
 $ ls -1 | parallel echo
+{% endhighlight %}
+
+Using [`--pipe`](http://www.gnu.org/software/parallel/parallel_tutorial.html#pipe) Instead of treating the data on stdin (standard input) as arguments for a command to run, the data will be sent to stdin (standard input) of the command.
+
+{% highlight bash %}
+$ command_A | parallel --pipe command_B | command_C
 {% endhighlight %}
 
 ## [Parallel vs X](https://www.gnu.org/software/parallel/parallel_alternatives.html#)
