@@ -14,7 +14,7 @@ tags: parallelism
 $ ls -1 | parallel echo
 {% endhighlight %}
 
-Using [`--pipe`](http://www.gnu.org/software/parallel/parallel_tutorial.html#pipe) Instead of treating the data on stdin (standard input) as arguments for a command to run, the data will be sent to stdin (standard input) of the command.
+Using [`--pipe`](http://www.gnu.org/software/parallel/parallel_tutorial.html#pipe) Instead of treating the data on stdin (standard input) as arguments for a command to run, the data will be sent to stdin (standard input) of the command. - [Spreading block of data](http://www.gnu.org/software/parallel/parallel.html#spreading-blocks-of-data)
 
 {% highlight bash %}
 $ command_A | parallel --pipe command_B | command_C
