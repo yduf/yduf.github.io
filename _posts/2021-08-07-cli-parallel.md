@@ -35,7 +35,7 @@ replace [20160922](http://mirror.ibcp.fr/pub/gnu/parallel/) with the version you
 
 {% highlight bash %}
 wget http://ftpmirror.gnu.org/parallel/parallel-20160922.tar.bz2
-bzip2 -dc parallel-20160922.tar.bz2 | tar xvf -
-cd parallel-20160922
+bzip2 -dc parallel-*.tar.bz2 | tar xvf -
+cd parallel-*
 ./configure && make && sudo make install
 {% endhighlight %}
