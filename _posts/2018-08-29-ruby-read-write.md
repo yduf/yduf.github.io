@@ -3,7 +3,7 @@ published: true
 title: Read/Write File in Ruby
 tags: file ruby
 ---
-Simplest form of [Read](https://stackoverflow.com/a/5545293/51386) / [Write](https://stackoverflow.com/a/19337403/51386) for a file in Ruby:
+Simplest form of **full** [Read](https://stackoverflow.com/a/5545293/51386) / [Write](https://stackoverflow.com/a/19337403/51386) for a file in Ruby:
 
 {% highlight ruby %}
 puts File.read(file_name)
@@ -13,16 +13,13 @@ puts File.read(file_name)
 File.write('/path/to/file', 'Some glorious content')
 {% endhighlight %}
 
-## [Why is “slurping” a file not a good practice?](https://stackoverflow.com/questions/25189262/why-is-slurping-a-file-not-a-good-practice)
+## Line by Line Read 
+- [Why is “slurping” a file not a good practice?](https://stackoverflow.com/questions/25189262/why-is-slurping-a-file-not-a-good-practice)
 Slurping may be acceptable for configuration files,
 but slurping an input file makes the program practically useless for [pipelines](https://stackoverflow.com/a/52174037).
 
-
 {% highlight ruby %}
 IO.foreach("testfile") {|x| print "GOT ", x }
-{% endhighlight %}
-
-{% highlight ruby %}
 File.foreach('testfile') {|x| print "GOT", x }
 {% endhighlight %}
 
