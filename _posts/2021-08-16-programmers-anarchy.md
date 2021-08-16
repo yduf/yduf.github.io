@@ -1,7 +1,7 @@
 ---
 published: true
 title: Programmers Anarchy
-tags: software
+tags: quote software enterprise
 ---
 > the best management technique for successfully developing a software system in the 1970s and 1980s (and perhaps in the following decades), is based on being lucky enough to have a few very capable people, and then providing them with what is needed to get the job done while maintaining the fiction to upper management that the agreed bureaucratic plan is being followed.  
 >
