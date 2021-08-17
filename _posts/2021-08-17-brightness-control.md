@@ -3,15 +3,12 @@ published: true
 title: Brightness Control
 tags: screen display brightness
 ---
-> supports an arbitrary number of displays!  - [Brightness Controller](https://github.com/lordamit/Brightness)
+> supports an arbitrary number of displays!
 
-
-**Brightness Controller** changes [gamma]({% post_url 2020-06-29-redshift %}) and not hardware setting and as such is equivalent to `xrandr`.
+[**Brightness Controller**](https://github.com/lordamit/Brightness) changes [gamma]({% post_url 2020-06-29-redshift %}) and not hardware setting and as such is equivalent to `xrandr`.
 
 ## [Display Data Channel](https://en.wikipedia.org/wiki/Display_Data_Channel)
 Enable the display to communicate its supported display modes to the adapter and that enable the computer host to adjust monitor parameters, such as brightness and contrast.
-
-### [Tools](https://en.wikipedia.org/wiki/Display_Data_Channel#External_links)
 
 **Need to be member of i2c group to be usefull (or sudo)**
 
