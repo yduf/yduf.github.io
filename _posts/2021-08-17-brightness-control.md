@@ -12,12 +12,12 @@ Enable the display to communicate its supported display modes to the adapter and
 
 **Need to be member of i2c group to be usefull (or sudo)**
 
-[**ddcutil**](https://github.com/rockowitz/ddcutil/tree/1.2.0-rc1) / [Doc](https://www.ddcutil.com/tech_support/)- a Linux program for querying and changing monitor settings, such as brightness and color levels.
+[**ddcutil**](https://github.com/rockowitz/ddcutil/tree/1.2.0-rc1) / [Doc](https://www.ddcutil.com/tech_support/) - a Linux program for querying and changing monitor settings, such as brightness and color levels.
 	- [Display Brightness Slider for Gnome Shell](https://github.com/daitj/gnome-display-brightness-ddcutil) - Brightness slider for all the monitors detected by ddcutil
 
 [**DDCcontrol**](http://ddccontrol.sourceforge.net/)
 
-[**DC/CI kernel module**](https://unix.stackexchange.com/questions/189675/is-there-a-way-to-adjusts-the-brightness-of-the-monitor/546329#546329) allows any tool which can use the kernel’s backlight system  (`/sys/class/backlight`) to drive the backlight on a DDC/CI monitor
+[**DC/CI kernel module**](https://unix.stackexchange.com/questions/189675/is-there-a-way-to-adjusts-the-brightness-of-the-monitor/546329#546329) allows any tool which can use the kernel’s backlight system  (`/sys/class/backlight`) to drive the backlight on a DDC/CI monitor.
 	- [xbacklight](https://askubuntu.com/questions/715306/xbacklight-no-outputs-have-backlight-property-no-sys-class-backlight-folder)
 
 see also
