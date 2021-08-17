@@ -12,10 +12,13 @@ tags: screen display brightness
 Enable the display to communicate its supported display modes to the adapter and that enable the computer host to adjust monitor parameters, such as brightness and contrast.
 
 ### [Tools](https://en.wikipedia.org/wiki/Display_Data_Channel#External_links)
-- [ddcutil](https://github.com/rockowitz/ddcutil/tree/1.2.0-rc1) / [Doc](https://www.ddcutil.com/tech_support/)- a Linux program for querying and changing monitor settings, such as brightness and color levels.
-- [DDCcontrol](http://ddccontrol.sourceforge.net/)
 
 **Need to be member of i2c group to be usefull (or sudo)**
+
+[**ddcutil**](https://github.com/rockowitz/ddcutil/tree/1.2.0-rc1) / [Doc](https://www.ddcutil.com/tech_support/)- a Linux program for querying and changing monitor settings, such as brightness and color levels.
+
+[**DDCcontrol**](http://ddccontrol.sourceforge.net/)
+
 
 see also
 - [ACPI]({% post_url 2021-07-25-acpi %})
