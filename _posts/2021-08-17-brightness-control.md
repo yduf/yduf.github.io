@@ -18,6 +18,7 @@ Enable the display to communicate its supported display modes to the adapter and
 [**DDCcontrol**](http://ddccontrol.sourceforge.net/)
 
 [**DC/CI kernel module**](https://unix.stackexchange.com/questions/189675/is-there-a-way-to-adjusts-the-brightness-of-the-monitor/546329#546329) allows any tool which can use the kernel’s backlight system  (`/sys/class/backlight`) to drive the backlight on a DDC/CI monitor
+	- [xbacklight](https://askubuntu.com/questions/715306/xbacklight-no-outputs-have-backlight-property-no-sys-class-backlight-folder)
 
 see also
 - [ACPI]({% post_url 2021-07-25-acpi %})
