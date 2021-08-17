@@ -1,7 +1,7 @@
 ---
 published: true
 title: Using program as library
-tags: null
+tags: lib
 ---
 > Can we use a program as a library ?
 
