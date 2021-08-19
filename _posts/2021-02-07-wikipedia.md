@@ -8,3 +8,4 @@ tags: doc remarkable offline
 ## [Offline wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Database_download)
 - [remarkable-wikipedia](https://github.com/dps/remarkable-wikipedia)
 - [Read-Only Wikipedia on IPFS](https://github.com/ipfs/distributed-wikipedia-mirror#goal-1-read-only-wikipedia-on-ipfs)
+- [Data-Mining Wikipedia for Fun and Profit (billpg.com)](https://news.ycombinator.com/item?id=28234122)
