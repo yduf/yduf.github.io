@@ -12,5 +12,4 @@ unsigned long ulWord = word.to_ulong();    // ulWord == 0x1028
 unsigned int bitcnt = word.count();
 unsigned int randomSetBitIndex = 63-selectBit(ulWord, random() % bitcnt + 1);
 unsigned long randomSetBit = 1 << randomSetBitIndex;
-
 {% endhighlight %}
