@@ -7,3 +7,5 @@ tags: 8bit games
 
 - [Don’t starve, Diablo – Parallax 7 (2016)](https://news.ycombinator.com/item?id=28260194)
 - [Lou's Pseudo 3d Page](http://www.extentofthejam.com/pseudo/)
+
+![caption](https://data.simonschreibt.de/gat047/mode7_demo.gif) 
