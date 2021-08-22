@@ -3,7 +3,7 @@ published: true
 title: Random select bit set
 tags: bits rand
 ---
->  You can use [“Select the bit position“](https://graphics.stanford.edu/~seander/bithacks.html) function from the [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html#SelectPosFromMSBRank) page to select random set bit efficiently. - [SO](https://stackoverflow.com/a/54304770/51386)
+>  You can use [“Select the bit position“](https://graphics.stanford.edu/~seander/bithacks.html#SelectPosFromMSBRank) function from the [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html) page to select random set bit efficiently. - [SO](https://stackoverflow.com/a/54304770/51386)
 
 {% highlight cpp %}
 std::bitset<32> word(0x1028);
@@ -19,7 +19,6 @@ unsigned long randomSetBit = 1 << randomSetBitIndex;
 The following 64-bit code selects the position of the rth 1 bit when counting from the left. In other words if we start at the most significant bit and proceed to the right, counting the number of bits set to 1 until we reach the desired rank, r, then the position where we stop is returned. If the rank requested exceeds the count of bits set, then 64 is returned. The code may be modified for 32-bit or counting from the right.
 
 {% highlight cpp %}
-
   uint64_t v;          // Input value to find position with rank r.
   unsigned int r;      // Input: bit's desired rank [1-64].
   unsigned int s;      // Output: Resulting position of bit with rank r [1-64]
