@@ -1,5 +1,5 @@
 ---
-title: Popcount number of bits set
+title: 'Popcount / Hamming weight (# bit set)'
 published: true
 tags: c++ bits lookup
 ---
