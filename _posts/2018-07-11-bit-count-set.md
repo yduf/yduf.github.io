@@ -1,7 +1,7 @@
 ---
 title: 'Popcount / Hamming weight (# bit set)'
 published: true
-tags: c++ bits lookup
+tags: c++ bits lookup hammming
 ---
 > Population count is a procedure of counting number of ones in a bit string. - [The NSA Instruction](https://vaibhavsagar.com/blog/2019/09/08/popcount/) / [HN](https://news.ycombinator.com/item?id=20914479)
 
