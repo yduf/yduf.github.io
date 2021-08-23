@@ -31,6 +31,8 @@ Depending on architecture i5 (Westmere) vector can be slower or much faster  Cor
 ## [Hamming Weight](https://stackoverflow.com/questions/109023/how-to-count-the-number-of-set-bits-in-a-32-bit-integer/109025#109025)
 
 GCC and clang 10.0 can recognize this pattern / idiom and [compile it to a hardware popcnt](https://godbolt.org/z/qGdh1dvKK) or equivalent instruction when available, giving you the best of both worlds. 
+
+The best method for counting bits in a 32-bit integer v [is the following](https://graphics.stanford.edu/~seander/bithacks.html#CountBitsSetParallel): 
   
 {% highlight cpp %}
 int popcount(uint32_t i) {
