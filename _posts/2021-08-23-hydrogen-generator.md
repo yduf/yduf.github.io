@@ -7,4 +7,7 @@ tags: physics
 
 **make sure not to use table salt NaCl. Unless you want to make chlorine gas.... ** 
 
+**using low quality stainless steel electrodes will contaminate the electrolyte solution with poisonous hexavalent chromium which is not safe to handle or dispose of**
+
+- [FR DIY Hydrogen/Oxygen Generators](https://prose.io/#yduf/yduf.github.io/edit/master/_posts/2021-08-23-hydrogen-generator.md)
 
