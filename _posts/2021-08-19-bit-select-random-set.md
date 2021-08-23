@@ -1,7 +1,7 @@
 ---
 published: true
 title: Random select bit set
-tags: bits rand
+tags: bits random
 ---
 >  You can use [“Select the bit position“](https://graphics.stanford.edu/~seander/bithacks.html#SelectPosFromMSBRank) function from the [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html) page to select random set bit efficiently. - [SO](https://stackoverflow.com/a/54304770/51386)
 
