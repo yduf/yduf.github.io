@@ -42,3 +42,5 @@ int popcount(uint32_t i) {
      return (i * 0x01010101) >> 24;          // horizontal sum of bytes
 }
 {% endhighlight %}
+  
+see also [sideways addition](https://groups.google.com/g/comp.graphics.algorithms/c/ZKSegl2sr4c/m/QYTwoPSx30MJ?hl=en)
