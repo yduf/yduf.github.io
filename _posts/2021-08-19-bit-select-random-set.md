@@ -3,7 +3,7 @@ published: true
 title: Random select bit set
 tags: bits random
 ---
->  You can use [“Select the bit position“](https://graphics.stanford.edu/~seander/bithacks.html#SelectPosFromMSBRank) function from the [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html) page to select random set bit efficiently. - [SO](https://stackoverflow.com/a/54304770/51386)
+>  You can use [“Select the bit position“](https://graphics.stanford.edu/~seander/bithacks.html#CountBitsSetParallel) function from the [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html) page to select random set bit efficiently. - [SO](https://stackoverflow.com/a/54304770/51386)
 
 {% highlight cpp %}
 std::bitset<32> word(0x1028);
