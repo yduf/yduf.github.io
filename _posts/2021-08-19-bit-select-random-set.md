@@ -59,3 +59,18 @@ The following 64-bit code selects the position of the rth 1 bit when counting fr
 {% endhighlight %}
 
 If branching is fast on your target CPU, consider uncommenting the if-statements and commenting the lines that follow them.
+
+### Notes
+
+{% highlight cpp %}
+~0UL/3     == 0x5555555555555555
+~0UL/5     == 0x3333333333333333
+~0UL/0x11  == 0x0f0f0f0f0f0f0f0f
+~0UL/0x101 == 0x00ff00ff00ff00ff
+
+0x55555555 = 01010101 01010101 01010101 01010101
+0x33333333 = 00110011 00110011 00110011 00110011
+0x0F0F0F0F = 00001111 00001111 00001111 00001111
+0x00FF00FF = 00000000 11111111 00000000 11111111
+0x0000FFFF = 00000000 00000000 11111111 11111111
+{% endhighlight %}
