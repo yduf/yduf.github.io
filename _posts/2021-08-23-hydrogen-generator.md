@@ -9,5 +9,5 @@ tags: physics
 
 **using low quality stainless steel electrodes will contaminate the electrolyte solution with poisonous hexavalent chromium which is not safe to handle or dispose of**
 
-- [FR DIY Hydrogen/Oxygen Generators](https://prose.io/#yduf/yduf.github.io/edit/master/_posts/2021-08-23-hydrogen-generator.md)
+- [DIY Hydrogen/Oxygen Generators](https://prose.io/#yduf/yduf.github.io/edit/master/_posts/2021-08-23-hydrogen-generator.md)
 
