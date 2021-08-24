@@ -43,4 +43,46 @@ int popcount(uint32_t i) {
 }
 {% endhighlight %}
   
-see also [sideways addition](https://groups.google.com/g/comp.graphics.algorithms/c/ZKSegl2sr4c/m/QYTwoPSx30MJ?hl=en)
+on [Intel® Core™ i7:](https://bits.stephan-brumme.com/countBits.html) 16 cycles per number, constant time, data independent  
+  
+see also
+- [sideways addition](https://groups.google.com/g/comp.graphics.algorithms/c/ZKSegl2sr4c/m/QYTwoPSx30MJ?hl=en)
+
+## [Notes](https://bits.stephan-brumme.com/countBits.html)
+
+{% highlight cpp %}
+0x55555555 = 01010101 01010101 01010101 01010101
+0x33333333 = 00110011 00110011 00110011 00110011
+0x0F0F0F0F = 00001111 00001111 00001111 00001111
+0x00FF00FF = 00000000 11111111 00000000 11111111
+0x0000FFFF = 00000000 00000000 11111111 11111111
+{% endhighlight %}
+
+ 
+The whole algorithm modifies the input in order to generate the output, that means it works in-place.  
+**First**, the code counts the bits of two adjacent bits:
+
+` a =  v - ((v >> 1) & 0x5555...)`  
+0b and 0b → 00b  
+0b and 1b → 01b  
+1b and 0b → 01b  
+1b and 1b → 10b  
+
+Whenever the higher bit of each 2-bit group is set, subtracting 01b gives the desired outcome.
+Looks like branching ... but as it turns out, the subtraction can be done always: just subtract the higher bit !
+If it is 0, the result remains unchanged, if it is 1, then we get the right numbers, too.
+
+Now the 2-bit count is done. As you can see, there are just three possible decimal results: 0, 1 or 2.
+  
+**Then**, two adjacent 2-bit groups are joined to 4-bit groups:
+
+`b = (a & 0x3333..) + ((a >> 2) & 0x3333..)`
+00b and 00b → 0000b  
+00b and 01b → 0001b  
+00b and 10b → 0010b  
+01b and 00b → 0001b  
+01b and 01b → 0010b  
+01b and 10b → 0011b  
+10b and 00b → 0010b  
+10b and 01b → 0011b  
+10b and 10b → 0100b  
