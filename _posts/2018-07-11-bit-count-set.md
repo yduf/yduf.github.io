@@ -54,6 +54,9 @@ int popCount(U64 x) {
     return (int) x;
 }
 {% endhighlight %}
+
+**Advantage:** no branches, no memory lookups, constant runtime - independent from population   
+**Drawback:** dependency chain, not much parallel speedup 
   
 see also
 - [Population Count](https://www.chessprogramming.org/Population_Count)
