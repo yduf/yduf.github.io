@@ -29,14 +29,10 @@ The following 64-bit code selects the position of the rth 1 bit when counting fr
 Do a normal [parallel bit count]({% post_url 2018-07-11-bit-count-set %}) for a 64-bit integer, but store all intermediate steps.
 
 {% highlight cpp %}
-  // a = (v & 0x5555...) + ((v >> 1) & 0x5555...);
-  a =  v - ((v >> 1) & ~0UL/3);
-  // b = (a & 0x3333...) + ((a >> 2) & 0x3333...);
-  b = (a & ~0UL/5) + ((a >> 2) & ~0UL/5);
-  // c = (b & 0x0f0f...) + ((b >> 4) & 0x0f0f...);
-  c = (b + (b >> 4)) & ~0UL/0x11;
-  // d = (c & 0x00ff...) + ((c >> 8) & 0x00ff...);
-  d = (c + (c >> 8)) & ~0UL/0x101;
+  a =  v - ((v >> 1) & ~0UL/3);            // a = (v & 0x5555...) + ((v >> 1) & 0x5555...);
+  b = (a & ~0UL/5) + ((a >> 2) & ~0UL/5);  // b = (a & 0x3333...) + ((a >> 2) & 0x3333...);
+  c = (b + (b >> 4)) & ~0UL/0x11;          // c = (b & 0x0f0f...) + ((b >> 4) & 0x0f0f...);
+  d = (c + (c >> 8)) & ~0UL/0x101;         // d = (c & 0x00ff...) + ((c >> 8) & 0x00ff...);
   t = (d >> 32) + (d >> 48);
 {% endhighlight %}
 
