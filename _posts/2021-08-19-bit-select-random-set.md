@@ -24,9 +24,11 @@ The following 64-bit code selects the position of the rth 1 bit when counting fr
   unsigned int s;      // Output: Resulting position of bit with rank r [1-64]
   uint64_t a, b, c, d; // Intermediate temporaries for bit count.
   unsigned int t;      // Bit count temporary.
+{% endhighlight %}
 
-  // Do a normal parallel bit count for a 64-bit integer,                     
-  // but store all intermediate steps.                                        
+{% highlight cpp %}
+  // Do a normal parallel bit count for a 64-bit integer,
+  // but store all intermediate steps.
   // a = (v & 0x5555...) + ((v >> 1) & 0x5555...);
   a =  v - ((v >> 1) & ~0UL/3);
   // b = (a & 0x3333...) + ((a >> 2) & 0x3333...);
@@ -36,8 +38,9 @@ The following 64-bit code selects the position of the rth 1 bit when counting fr
   // d = (c & 0x00ff...) + ((c >> 8) & 0x00ff...);
   d = (c + (c >> 8)) & ~0UL/0x101;
   t = (d >> 32) + (d >> 48);
-  
-  
+{% endhighlight %}
+
+{% highlight cpp %}  
   // Now do branchless select!       
   s  = 64;
   // if (r > t) {s -= 32; r -= t;}
