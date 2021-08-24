@@ -15,3 +15,4 @@ tags: physics
 ### [Pulse electrolysis](https://en.wikipedia.org/wiki/Pulse_electrolysis)
 
 - [Water splitting with the pulse electrolysis](https://cdn.intechopen.com/pdfs/40142/InTechWater_electrolysis_with_inductive_voltage_pulses.pdf)
+- [How does High Frequency water electrolysis work?](https://chemistry.stackexchange.com/questions/8642/how-does-high-frequency-water-electrolysis-work)
