@@ -26,9 +26,9 @@ The following 64-bit code selects the position of the rth 1 bit when counting fr
   unsigned int t;      // Bit count temporary.
 {% endhighlight %}
 
+Do a normal [parallel bit count]({% post_url 2018-07-11-bit-count-set %}) for a 64-bit integer, but store all intermediate steps.
+
 {% highlight cpp %}
-  // Do a normal parallel bit count for a 64-bit integer,
-  // but store all intermediate steps.
   // a = (v & 0x5555...) + ((v >> 1) & 0x5555...);
   a =  v - ((v >> 1) & ~0UL/3);
   // b = (a & 0x3333...) + ((a >> 2) & 0x3333...);
