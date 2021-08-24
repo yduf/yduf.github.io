@@ -14,7 +14,7 @@ unsigned int randomSetBitIndex = 63-selectBit(ulWord, random() % bitcnt + 1);
 unsigned long randomSetBit = 1 << randomSetBitIndex;
 {% endhighlight %}
 
-## Select the bit position (from the most-significant bit) with the given count (rank)
+### Select the bit position (from the most-significant bit) with the given count (rank)
 
 The following 64-bit code selects the position of the rth 1 bit when counting from the left. In other words if we start at the most significant bit and proceed to the right, counting the number of bits set to 1 until we reach the desired rank, r, then the position where we stop is returned. If the rank requested exceeds the count of bits set, then 64 is returned. The code may be modified for 32-bit or counting from the right.
 
