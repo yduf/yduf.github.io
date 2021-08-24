@@ -57,7 +57,6 @@ see also
 0x00FF00FF = 00000000 11111111 00000000 11111111
 0x0000FFFF = 00000000 00000000 11111111 11111111
 {% endhighlight %}
-
  
 The whole algorithm modifies the input in order to generate the output, that means it works in-place.
 
