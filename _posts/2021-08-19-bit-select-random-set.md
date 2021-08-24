@@ -40,8 +40,9 @@ Do a normal [parallel bit count]({% post_url 2018-07-11-bit-count-set %}) for a 
   t = (d >> 32) + (d >> 48);
 {% endhighlight %}
 
+Now do branchless select!       
+
 {% highlight cpp %}  
-  // Now do branchless select!       
   s  = 64;
   // if (r > t) {s -= 32; r -= t;}
   s -= ((t - r) & 256) >> 3; r -= (t & ((t - r) >> 8));
