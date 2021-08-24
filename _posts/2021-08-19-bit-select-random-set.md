@@ -62,7 +62,8 @@ If branching is fast on your target CPU, consider uncommenting the if-statements
 
 ### Notes
 
-see [popcount]({% post_url 2018-07-11-bit-count-set %})
+see [popcount]({% post_url 2018-07-11-bit-count-set %}) for explanation of bit count algorithm.
+
 {% highlight cpp %}
 ~0UL/3     == 0x5555555555555555
 ~0UL/5     == 0x3333333333333333
