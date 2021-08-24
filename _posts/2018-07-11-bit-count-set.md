@@ -76,6 +76,7 @@ Now the 2-bit count is done. As you can see, there are just three possible decim
   
 **Then**, two adjacent 2-bit groups are joined to 4-bit groups:
 
+the 2-bit groups are masked and shifted to match and then simply added. No overflow is possible.
 `b = (a & 0x3333..) + ((a >> 2) & 0x3333..)`
 00b and 00b → 0000b  
 00b and 01b → 0001b  
@@ -86,3 +87,10 @@ Now the 2-bit count is done. As you can see, there are just three possible decim
 10b and 00b → 0010b  
 10b and 01b → 0011b  
 10b and 10b → 0100b  
+
+**Again** The same procedure is done for all 4-bit groups yielding the bit counts for each of the four bytes in their lower four bits.  
+  
+`c = (b + (b >> 4)) & 0x0f0f...`
+
+That means, each byte contains its bit count, however, the upper four bits may contain junk and are masked out.  
+
