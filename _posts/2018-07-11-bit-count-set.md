@@ -58,7 +58,6 @@ int popCount(U64 x) {
 ### see also
 - [Population Count](https://www.chessprogramming.org/Population_Count)
 - [sideways addition](https://groups.google.com/g/comp.graphics.algorithms/c/ZKSegl2sr4c/m/QYTwoPSx30MJ?hl=en)
-- [SSSE3: fast popcount](http://0x80.pl/articles/sse-popcount.html)
 - [Generating Binary Permutations in Popcount Order](https://alexbowe.com/popcount-permutations/)
 - [Bit Hacks](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec3.pdf) 
 
