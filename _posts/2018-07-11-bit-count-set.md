@@ -89,8 +89,9 @@ the 2-bit groups are masked and shifted to match and then simply added. No overf
 10b and 10b → 0100b  
 
 **Again** The same procedure is done for all 4-bit groups yielding the bit counts for each of the four bytes in their lower four bits.  
-  
+That means, each byte contains its bit count, however, the upper four bits may contain junk and are masked out.
+
 `c = (b + (b >> 4)) & 0x0f0f...`
 
-That means, each byte contains its bit count, however, the upper four bits may contain junk and are masked out.  
+
 
