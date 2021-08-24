@@ -59,7 +59,8 @@ see also
 {% endhighlight %}
 
  
-The whole algorithm modifies the input in order to generate the output, that means it works in-place.  
+The whole algorithm modifies the input in order to generate the output, that means it works in-place.
+
 **First**, the code counts the bits of two adjacent bits:
 
 ` a =  v - ((v >> 1) & 0x5555...)`  
