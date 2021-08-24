@@ -93,5 +93,10 @@ That means, each byte contains its bit count, however, the upper four bits may c
 
 `c = (b + (b >> 4)) & 0x0f0f...`
 
+**Last**, sum all bytes.
+  
+Multiplying by 0x01010101 has an interesting property if we name the four bytes A, B, C, D:
 
+A, B, C, D → A+B+C+D, B+C+D, C+D, D
 
+Obviously the highest byte is what we are looking for. The right shift (line 12) returns just it.
