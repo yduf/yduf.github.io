@@ -56,6 +56,7 @@ int popCount(U64 x) {
 {% endhighlight %}
   
 see also
+- [Population Count](https://www.chessprogramming.org/Population_Count)
 - [sideways addition](https://groups.google.com/g/comp.graphics.algorithms/c/ZKSegl2sr4c/m/QYTwoPSx30MJ?hl=en)
 
 ## [Notes](https://bits.stephan-brumme.com/countBits.html)
