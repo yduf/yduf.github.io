@@ -89,7 +89,8 @@ Now the 2-bit count is done. As you can see, there are just three possible decim
   
 **Then**, two adjacent 2-bit groups are joined to 4-bit groups:
 
-the 2-bit groups are masked and shifted to match and then simply added. No overflow is possible.  
+the 2-bit groups are masked and shifted to match and then simply added. No overflow is possible.
+
 `b = (a & 0x3333..) + ((a >> 2) & 0x3333..)`  
 00b and 00b → 0000b  
 00b and 01b → 0001b  
