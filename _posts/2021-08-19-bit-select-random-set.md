@@ -36,7 +36,9 @@ The following 64-bit code selects the position of the rth 1 bit when counting fr
   // d = (c & 0x00ff...) + ((c >> 8) & 0x00ff...);
   d = (c + (c >> 8)) & ~0UL/0x101;
   t = (d >> 32) + (d >> 48);
-  // Now do branchless select!                                                
+  
+  
+  // Now do branchless select!       
   s  = 64;
   // if (r > t) {s -= 32; r -= t;}
   s -= ((t - r) & 256) >> 3; r -= (t & ((t - r) >> 8));
