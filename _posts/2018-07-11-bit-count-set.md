@@ -5,9 +5,6 @@ tags: c++ bits lookup hamming
 ---
 > Population count is a procedure of counting number of ones in a bit string. - [The NSA Instruction](https://vaibhavsagar.com/blog/2019/09/08/popcount/) / [HN](https://news.ycombinator.com/item?id=20914479)
 
-- [Generating Binary Permutations in Popcount Order](https://alexbowe.com/popcount-permutations/)
-- [Bit Hacks](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec3.pdf) 
-
 ## [std::popcount](https://en.cppreference.com/w/cpp/numeric/popcount)
 
 {% highlight cpp %}
@@ -59,6 +56,8 @@ int popCount(U64 x) {
 **Drawback:** dependency chain, not much parallel speedup 
   
 ### see also
+- [Generating Binary Permutations in Popcount Order](https://alexbowe.com/popcount-permutations/)
+- [Bit Hacks](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec3.pdf) 
 - [Population Count](https://www.chessprogramming.org/Population_Count)
 - [sideways addition](https://groups.google.com/g/comp.graphics.algorithms/c/ZKSegl2sr4c/m/QYTwoPSx30MJ?hl=en)
 
