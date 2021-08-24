@@ -5,7 +5,7 @@ tags: c++ bits lookup hamming
 ---
 > Population count is a procedure of counting number of ones in a bit string. - [The NSA Instruction](https://vaibhavsagar.com/blog/2019/09/08/popcount/) / [HN](https://news.ycombinator.com/item?id=20914479)
 
-## [std::popcount](https://en.cppreference.com/w/cpp/numeric/popcount)
+## [std::popcount (C++20)](https://en.cppreference.com/w/cpp/numeric/popcount)
 
 {% highlight cpp %}
 #include <bit>
