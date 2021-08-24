@@ -12,3 +12,6 @@ tags: physics
 - [Hydrogen and Oxygen gas reaction](https://www.youtube.com/watch?v=RudCaJB_Xx4)
 - [Water Electrolysis Kit(hydrogen and oxygen separated)](https://www.youtube.com/watch?v=gZJEDe_HUcw)
 
+### [Pulse electrolysis](https://en.wikipedia.org/wiki/Pulse_electrolysis)
+
+- [Water splitting with the pulse electrolysis](https://cdn.intechopen.com/pdfs/40142/InTechWater_electrolysis_with_inductive_voltage_pulses.pdf)
