@@ -62,7 +62,7 @@ The whole algorithm modifies the input in order to generate the output, that mea
 
 **First**, the code counts the bits of two adjacent bits:
 
-` a =  v - ((v >> 1) & 0x5555...)`  
+`a =  v - ((v >> 1) & 0x5555...)`  
 0b and 0b → 00b  
 0b and 1b → 01b  
 1b and 0b → 01b  
