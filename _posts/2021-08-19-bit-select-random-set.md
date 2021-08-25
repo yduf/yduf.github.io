@@ -18,6 +18,8 @@ unsigned long randomSetBit = 1 << randomSetBitIndex;
 
 The following 64-bit code selects the position of the rth 1 bit when counting from the left. In other words if we start at the most significant bit and proceed to the right, counting the number of bits set to 1 until we reach the desired rank, r, then the position where we stop is returned. If the rank requested exceeds the count of bits set, then 64 is returned. The code may be modified for 32-bit or counting from the right.
 
+[![caption](http://bitmagic.io/images/rank.png)](http://bitmagic.io/rank-select.html)
+
 {% highlight cpp %}
   uint64_t v;          // Input value to find position with rank r.
   unsigned int r;      // Input: bit's desired rank [1-64].
