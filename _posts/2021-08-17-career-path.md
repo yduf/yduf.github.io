@@ -7,5 +7,6 @@ tags: career job
 
 - [The Skills Map of Senior Tech Career Progression](https://codecapsule.com/2021/07/15/the-skills-map-of-senior-tech-career-progression/)
 - [Becoming a Manager of Managers](https://codecapsule.com/2021/06/24/becoming-a-manager-of-managers/)
+- [	Ask HN: Managing career progression for those with no interest in progressing?](https://news.ycombinator.com/item?id=28287617)
 
 ![caption](https://i1.wp.com/codecapsule.com/wp-content/uploads/2021/07/skills-map-senior-dev-career-progression-lowres-codecapsule.com_.jpeg?w=960&ssl=1)
