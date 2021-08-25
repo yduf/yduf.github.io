@@ -1,8 +1,8 @@
 ---
 published: true
-title: Make your own Filament
+title: How to Make filament for 3D printer
 tags: 3dprinter
 ---
-> - []()
+> making filament using drinking bottles for 3D printers - [mr3dprint](https://www.youtube.com/watch?v=Eecbdb0bQWQ)
 
-[![caption](https://img.youtube.com/vi/XXXvideo_idXXX/0.jpg)](https://www.youtube.com/watch?v=XXXvideo_idXXX)
+[![caption](https://img.youtube.com/vi/Eecbdb0bQWQ/0.jpg)](https://www.youtube.com/watch?v=Eecbdb0bQWQ)
