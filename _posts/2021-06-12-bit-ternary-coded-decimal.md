@@ -53,3 +53,4 @@ Notes: it still requires 2*9=18bits to represent Tic-tac-toe state in Binary-Cod
 - [How can 3-state bit packed together?](https://stackoverflow.com/questions/50943386/how-can-3-state-bit-packed-together)
 - [Power of three](https://en.wikipedia.org/wiki/Power_of_three)
 - [Bitboard to titboard (ternary bitboard) conversion](https://stackoverflow.com/questions/53708165/bitboard-to-titboard-ternary-bitboard-conversion)
+- [Titboards](https://www.chessprogramming.org/Titboards)
