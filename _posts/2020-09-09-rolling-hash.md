@@ -7,4 +7,5 @@ tags: hash
 
 The simplest approach to calculate the dynamic chunks is to calculate the rolling hash and if it matches a pattern (like the lower N bits are all zeroes) then it’s a chunk boundary. This approach will ensure that any change in the file will only affect its current and possibly the next chunk, but nothing else.
 
+see also
 - [How would you fingerprint a piece of data?](https://yurichev.com/news/20210205_rolling_hash/)
