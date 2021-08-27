@@ -2,7 +2,6 @@
 published: true
 title: HUAWEI MateBook 14 2020
 tags: hardware laptop
-excerpt_separator: ''
 ---
 ## [amazon](https://www.amazon.fr/gp/product/B08P9186JF/ref=ox_sc_act_title_2?smid=A1X6FK5RDHNB96&psc=1) - 2021 - 800€ 
 
@@ -10,6 +9,10 @@ excerpt_separator: ''
 - 16Go
 - NVIDIA MX350 / 3:2 display
 - 1.5kg
+
+### Disabling Touchscreen
+- [xinput way](https://unix.stackexchange.com/questions/127443/how-do-i-disable-the-touch-screen-on-my-laptop/129603#129603) - `xinput disable <id=13>`
+- [driver way](https://www.blackmoreops.com/2016/10/26/disable-touchscreen-linux/)
 
 ## [BIOS](https://consumer.huawei.com/en/support/laptops/matebook-14-2020/) - 1.19 Rev 5.0
 
