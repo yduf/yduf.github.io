@@ -43,3 +43,6 @@ with DSLR camera
 Klipper g_code: BED_MESH_OUTPUT
 
 ## [Exclude Region](https://discourse.octoprint.org/t/exclude-region-plugin-is-one-of-the-best-ever/2742)
+
+## Alternatives
+- [Fluidd](https://docs.fluidd.xyz/) / [fluidd vs octoprint](https://duckduckgo.com/?q=fluidd+vs+octoprint&t=lm&ia=web)
