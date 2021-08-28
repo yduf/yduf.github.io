@@ -1,7 +1,7 @@
 ---
 title: Octoprint
 published: true
-tags: 3dprinter linux
+tags: 3dprinter
 ---
 ## [server](http://192.168.0.123/)
 
