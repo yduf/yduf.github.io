@@ -24,3 +24,5 @@ tags: raspberry-pi hardware
 
 ### [Boot](({% post_url 2020-09-20-uast-drive %}))
 
+Checking Model version `cat /proc/device-tree/model` 
+or `pinout` in new raspbian version
