@@ -7,3 +7,5 @@ tags: raspberry-pi system disk usb ethernet boot network
 
 - [Network boot your Raspberry Pi](https://www.raspberrypi.org/documentation/hardware/raspberrypi/bootmodes/net_tutorial.md)
 - [Modify OTP to allow USB/Ethernet boot](https://www.raspberrypi.org/forums/viewtopic.php?f=29&t=159691)
+
+- [Boot Your Pi 3 B+ From USB](https://pysselilivet.blogspot.com/2020/10/raspberry-pi-1-2-3-4-usb-ssd-boot.html) - no longer any need to use an SD card
