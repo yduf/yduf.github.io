@@ -25,6 +25,6 @@ tags: raspberry-pi hardware
 ### [Boot](({% post_url 2020-09-20-uast-drive %}))
 
 ## Fleet
-Checking Model version `cat /proc/device-tree/model` 
+[Checking Model version](https://www.raspberrypi-spy.co.uk/2012/09/checking-your-raspberry-pi-board-version/) `cat /proc/device-tree/model` 
 or `pinout` in new raspbian version
 - Raspberry Pi 3 Model B Rev 1.2 (octopi)
