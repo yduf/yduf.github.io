@@ -21,3 +21,6 @@ tags: raspberry-pi hardware
 
 ## [Wifi]({% post_url 2021-04-18-wifi %})
 - [Disable WiFi (wlan0) on Pi](https://raspberrypi.stackexchange.com/questions/43720/disable-wifi-wlan0-on-pi-3)
+
+## Boot
+- [Boot Your Pi 3 B+ From USB](https://www.magzter.com/stories/Computer-Mobile/Raspberry-Pi/Boot-Your-Pi-3-B-From-USB) - no longer any need to use an SD card
