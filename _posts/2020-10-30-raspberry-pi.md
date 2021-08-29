@@ -26,3 +26,4 @@ tags: raspberry-pi hardware
 
 Checking Model version `cat /proc/device-tree/model` 
 or `pinout` in new raspbian version
+- Raspberry Pi 3 Model B Rev 1.2
