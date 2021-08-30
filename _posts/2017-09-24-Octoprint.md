@@ -3,11 +3,9 @@ title: Octoprint
 published: true
 tags: 3dprinter
 ---
-## [server](http://192.168.0.123/)
+> [server](http://192.168.0.123/)
 
-{% highlight bash %}
-ssh pi@192.168.0.123
-{% endhighlight %}
+## Run [as docker Image](https://github.com/OctoPrint/octoprint-docker)
 
 # [Plugins](http://plugins.octoprint.org/help/installation/) - [Mark list](https://www.youtube.com/watch?v=Zq1sFBgxy8o)
 
