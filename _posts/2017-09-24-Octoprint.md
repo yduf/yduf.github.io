@@ -7,6 +7,9 @@ tags: 3dprinter
 
 [Run as docker Image](https://github.com/OctoPrint/octoprint-docker)
 - [ octoprint-docker/docker-compose.yml ](https://github.com/OctoPrint/octoprint-docker/blob/master/docker-compose.yml)
+- Finding Serial ports
+	- `lsusb` -> USB-Serial adapter
+    - `dmesg | grep -i serial` -> 3f201000.serial: ttyAMA0
 
 ## [Plugins](http://plugins.octoprint.org/help/installation/) - [Mark list](https://www.youtube.com/watch?v=Zq1sFBgxy8o)
 
