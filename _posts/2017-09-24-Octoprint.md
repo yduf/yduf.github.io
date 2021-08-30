@@ -3,9 +3,7 @@ title: Octoprint
 published: true
 tags: 3dprinter
 ---
-> [server](http://192.168.0.123/)
-
-## [Run as docker Image](https://github.com/OctoPrint/octoprint-docker)
+> [Run as docker Image](https://github.com/OctoPrint/octoprint-docker) - [server](http://192.168.0.123/)
 
 - [ octoprint-docker/docker-compose.yml ](https://github.com/OctoPrint/octoprint-docker/blob/master/docker-compose.yml)
 
