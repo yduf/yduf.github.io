@@ -1,6 +1,6 @@
 ---
 published: true
-title: VSCode Server (run in browser)
+title: VSCode remote
 tags: vscode remote linux editor ssh
 ---
 >  [CodeServer](https://github.com/cdr/code-server) Run VS Code on any server over SSH. A precursor of [VS Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview)
