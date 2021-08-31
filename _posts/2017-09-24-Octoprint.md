@@ -17,7 +17,7 @@ tags: 3dprinter
 ### [Dashboard](https://plugins.octoprint.org/plugins/dashboard/)
 - [DisplayLayerProgress](https://plugins.octoprint.org/plugins/DisplayLayerProgress/)
 - [PrintTimeGenius](https://plugins.octoprint.org/plugins/PrintTimeGenius/)
-	- [PlotlyTempGraph](https://plugins.octoprint.org/plugins/plotlytempgraph/) - Display temperature data in a plotly js graph. 
+- [PlotlyTempGraph](https://plugins.octoprint.org/plugins/plotlytempgraph/) - Display temperature data in a plotly js graph. 
 
 - [BLTouch](https://plugins.octoprint.org/plugins/BLTouch/) - add BLTouch controls to the Control tab
 
