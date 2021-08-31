@@ -12,7 +12,8 @@ tags: 3dprinter
 	- `lsusb` -> USB-Serial adapter
     - `dmesg | grep -i serial` -> 3f201000.serial: ttyAMA0
 
-## [Plugins](http://plugins.octoprint.org/help/installation/) - [Mark list](https://www.youtube.com/watch?v=Zq1sFBgxy8o)
+## [Plugins](http://plugins.octoprint.org/help/installation/) 
+- [Mark list](https://www.youtube.com/watch?v=Zq1sFBgxy8o)
 
 ### [Dashboard](https://plugins.octoprint.org/plugins/dashboard/)
 - [DisplayLayerProgress](https://plugins.octoprint.org/plugins/DisplayLayerProgress/)
