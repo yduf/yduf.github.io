@@ -14,6 +14,8 @@ tags: 3dprinter
 
 ## [Plugins](http://plugins.octoprint.org/help/installation/) 
 - [Mark list](https://www.youtube.com/watch?v=Zq1sFBgxy8o)
+	- Extra distance buttons
+    - Fan speed control
 
 ### [Dashboard](https://plugins.octoprint.org/plugins/dashboard/)
 - [DisplayLayerProgress](https://plugins.octoprint.org/plugins/DisplayLayerProgress/)
