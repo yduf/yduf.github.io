@@ -27,11 +27,11 @@ onboard touchs-screen UI.
 ### [Cura Thumbnails](https://plugins.octoprint.org/plugins/UltimakerFormatPackage/)
 This plugin adds support for Ultimaker Format Package (.ufp) files. Ultimaker Format Package files are based on Open Packaging Conventions (OPC) and contain compressed gcode and a preview thumbnail. This format will automatically be used by the OctoPrint Connection plugin in Cura (install via Marketplace) if this plugin is installed.
 
-## [Webcam tab](https://plugins.octoprint.org/plugins/webcamtab/)
+### [Webcam tab](https://plugins.octoprint.org/plugins/webcamtab/)
 
-## OctoPrint Multi-cam Plugin - [Chris's Basement](https://www.youtube.com/watch?v=FzpBgEG_ksw)
+- [Multi-cam Plugin](https://plugins.octoprint.org/plugins/multicam/) - [Chris's Basement](https://www.youtube.com/watch?v=FzpBgEG_ksw)
 
-## [Octolapse (timelapse)](https://formerlurker.github.io/Octolapse/)
+### [Octolapse (timelapse)](https://formerlurker.github.io/Octolapse/)
 Multiple cam / satbilisation:
 - [plugin](https://plugins.octoprint.org/plugins/octolapse/)
 - [Mark Guide](https://www.youtube.com/watch?v=CjOIxKxb3h8)
@@ -44,7 +44,7 @@ Cam tuning
 with DSLR camera
 - [Timelapse Effect](https://www.youtube.com/watch?v=Is10iN43UjI)
 
-## [Bed Vizualizer](https://plugins.octoprint.org/plugins/bedlevelvisualizer/)
+### [Bed Vizualizer](https://plugins.octoprint.org/plugins/bedlevelvisualizer/)
 
 Klipper g_code: BED_MESH_OUTPUT
 
