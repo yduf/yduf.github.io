@@ -7,6 +7,7 @@ tags: 3dprinter
 
 [Run as docker Image](https://github.com/OctoPrint/octoprint-docker)
 - [ octoprint-docker/docker-compose.yml ](https://github.com/OctoPrint/octoprint-docker/blob/master/docker-compose.yml)
+	- [Dealing with dynamically created devices](https://docs.docker.com/engine/reference/commandline/create/#dealing-with-dynamically-created-devices---device-cgroup-rule)
 - Finding Serial ports
 	- `lsusb` -> USB-Serial adapter
     - `dmesg | grep -i serial` -> 3f201000.serial: ttyAMA0
