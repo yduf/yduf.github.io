@@ -16,7 +16,8 @@ tags: 3dprinter
 
 ### [Dashboard](https://plugins.octoprint.org/plugins/dashboard/)
 - [DisplayLayerProgress](https://plugins.octoprint.org/plugins/DisplayLayerProgress/)
-- [OctoPrint-PrintTimeGenius](https://plugins.octoprint.org/plugins/PrintTimeGenius/)
+- [PrintTimeGenius](https://plugins.octoprint.org/plugins/PrintTimeGenius/)
+	- [PlotlyTempGraph](https://plugins.octoprint.org/plugins/plotlytempgraph/) - Display temperature data in a plotly js graph. 
 
 ### [OctoDash]({% post_url 2020-11-22-pi-dashboard %})
 onboard touchs-screen UI.
