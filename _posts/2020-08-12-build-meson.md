@@ -76,7 +76,7 @@ endian = 'little'
 
 ## [Meson vs X](https://en.wikipedia.org/wiki/Meson_(software)#Language) / [SO](https://stackoverflow.com/questions/5837764/autotools-vs-cmake-for-both-windows-and-linux-compilation/24953691#24953691)
 
-> Why I'd choose Meson+Doctest tech stack to create a new C++ project with a reusable and easy-to-run example - [Choosing a Modern C++ stack](https://carlosvin.github.io/posts/choosing-modern-cpp-stack/en/)
+> Why I'd choose Meson+Doctest tech stack to create a new C++ project with a reusable and easy-to-run example - [Choosing a Modern C++ stack](https://carlosvin.github.io/posts/choosing-modern-cpp-stack/en/) / [The Rise of Meson](https://news.ycombinator.com/item?id=28372545)
 
 - [Why we chose Meson as our build system](https://rizin.re/posts/why-meson/)
 - [Getting started with Meson build system and C++](https://medium.com/@germandiagogomez/getting-started-with-meson-build-system-and-c-83270f444bee) / [2](https://medium.com/@germandiagogomez/getting-started-with-meson-in-c-part-2-58150354ff17) / [3](https://medium.com/@germandiagogomez/getting-started-with-meson-in-c-part-3-70b9bc419957) / [4](https://medium.com/@germandiagogomez/getting-started-with-meson-part-4-8bceec6149e1)
