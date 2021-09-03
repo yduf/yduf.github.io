@@ -17,6 +17,7 @@ Recommanded: 0.08, 0.12, 0.16, 0.20, 0.24, 0.28, 0.32
 ## Speed up print
 - Use greater step
 - [double infill](https://www.youtube.com/watch?v=gSySGU-52Lo)
+- [#speedboatrace](https://www.youtube.com/watch?v=6kRjdprTjFc)
 
 ## Seam removal
 - [vase mode](https://www.youtube.com/watch?v=iJXIqdJpkuI)
