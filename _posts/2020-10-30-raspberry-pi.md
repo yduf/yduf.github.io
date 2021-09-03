@@ -5,6 +5,10 @@ tags: raspberry-pi hardware
 ---
 > The Raspberry Pi is a tiny and affordable computer that you can use to learn programming through fun, practical projects. - [raspberrypi.org](https://www.raspberrypi.org)
 
+{::nomarkdown}
+<link rel="shortcut icon" href="https://www.raspberrypi.org/favicon.svg" type="image/x-icon" />
+{:/}
+
 ## [Finding Serial ports](https://www.klipper3d.org/FAQ.html#wheres-my-serial-port)
 - `ls /dev/serial/by-id/*` -> **this is stable**
 - `lsusb` -> USB-Serial adapter
