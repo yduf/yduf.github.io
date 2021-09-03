@@ -1,7 +1,7 @@
 ---
 published: true
 title: Raspberry Pi
-tags: raspberry-pi hardware
+tags: raspberry-pi hardware arm
 ---
 > The Raspberry Pi is a tiny and affordable computer that you can use to learn programming through fun, practical projects. - [raspberrypi.org](https://www.raspberrypi.org)
 
@@ -17,10 +17,7 @@ tags: raspberry-pi hardware
 	- **ttyAMA0** is the device for the first serial port on ARM architecture. ttyAMA0 can be the Tx, Rx pins for the Raspberry. But for the [*Raspberry Pi 3b*](ttyAMA0 can be the Tx, Rx pins for the Raspberry. But for the Raspberry Pi 3b it was used for the Bluetooth.) it was used for the **Bluetooth**.
     - **ttyUSB0** is the device for the first USB serial convertor.
 
-
-
-### [Temperature Monitoring
-0](https://www.raspberrypi-spy.co.uk/2020/11/raspberry-pi-temperature-monitoring/) - `vcgencmd measure_temp`
+### [Temperature Monitoring](https://www.raspberrypi-spy.co.uk/2020/11/raspberry-pi-temperature-monitoring/) - `vcgencmd measure_temp`
 
 ## [r/raspberry_pi](https://www.reddit.com/r/raspberry_pi/)
 - [Act as a usb device for another computer.](https://www.reddit.com/r/raspberry_pi/comments/jir0u8/i_just_realized_the_raspberry_pi_4_can_do/)
