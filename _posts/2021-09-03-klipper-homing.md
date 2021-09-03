@@ -45,3 +45,5 @@ z_offset: 2.345
 ## [Bed level support](https://www.klipper3d.org/Config_Reference.html#bed-level-support)
 
 - [ender3 example.cfg](https://www.reddit.com/r/BIGTREETECH/comments/dtl8id/skr_mini_e3_12_klipper_configguide_including/)
+
+### [BABY STEPPING ](https://3dp.tumbleweedlabs.com/firmware/klipper-firmware/klipper-calibration-guide/how-to-perfect-your-first-layer-height-with-klipper)
