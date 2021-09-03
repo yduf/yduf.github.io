@@ -10,7 +10,7 @@ tags: raspberry-pi hardware
 - `lsusb` -> USB-Serial adapter
 - `dmesg | grep -i serial` -> 3f201000.serial: ttyAMA0
 - [What is the difference between ttys0, ttyUSB0 and ttyAMA0?](https://unix.stackexchange.com/questions/307390/what-is-the-difference-between-ttys0-ttyusb0-and-ttyama0-in-linux)
-	- **ttyAMA0** is the device for the first serial port on ARM architecture.
+	- **ttyAMA0** is the device for the first serial port on ARM architecture. ttyAMA0 can be the Tx, Rx pins for the Raspberry. But for the *Raspberry Pi 3b* it was used for the **Bluetooth**.
     - **ttyUSB0** is the device for the first USB serial convertor.
 
 
