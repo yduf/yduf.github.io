@@ -5,13 +5,13 @@ tags: 3dprinter
 ---
 >  Web interface for your 3D printer - [server](http://192.168.0.123/) / [Home](https://octoprint.org/)
 
+{::nomarkdown}
+<link rel="shortcut icon" href="https://octoprint.org/assets/img/tentacle-20x20.png" type="image/x-icon" />
+{:/}
+
 Run as [docker Image](https://github.com/OctoPrint/octoprint-docker)
 - [ octoprint-docker/docker-compose.yml ](https://github.com/OctoPrint/octoprint-docker/blob/master/docker-compose.yml)
 	- [Dealing with dynamically created devices](https://docs.docker.com/engine/reference/commandline/create/#dealing-with-dynamically-created-devices---device-cgroup-rule) / [SO](https://stackoverflow.com/questions/24225647/docker-a-way-to-give-access-to-a-host-usb-or-serial-device) / [device allow](https://forums.docker.com/t/add-devices-to-existing-docker-container/38685/3)
-- [Finding Serial ports](https://www.klipper3d.org/FAQ.html#wheres-my-serial-port)
-	- `ls /dev/serial/by-id/*` -> **this is stable**
-	- `lsusb` -> USB-Serial adapter
-    - `dmesg | grep -i serial` -> 3f201000.serial: ttyAMA0
 
 ## [Plugins](http://plugins.octoprint.org/help/installation/) 
 - [Mark list](https://www.youtube.com/watch?v=Zq1sFBgxy8o)
