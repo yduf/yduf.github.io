@@ -30,6 +30,7 @@ z_offset: 2.345
 - [Z offset](https://www.klipper3d.org/BLTouch.html#calibrating-the-bl-touch-offsets) 
 	- `PROBE_CALIBRATE` at room temperature
     - then `TESTZ Z=-.1` to adjust until head reach bed (as [in paper test](https://www.klipper3d.org/Bed_Level.html#the-paper-test))
+    - finally  `SAVE_CONFIG` to integrate the value in config files
 - X, Y: align on target with PROBE
 
 ## [Bed level support](https://www.klipper3d.org/Config_Reference.html#bed-level-support)
