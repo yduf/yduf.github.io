@@ -1,6 +1,8 @@
 ---
-published: false
+published: true
+title: BLTouch
+tags: klipper 3dprinter calibration
 ---
-## A New Post
+> [BL-Touch](https://github.com/KevinOConnor/klipper/blob/master/docs/BLTouch.md)
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
