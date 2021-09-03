@@ -12,7 +12,7 @@ tags: 3dprinter
 Run as [docker Image](https://github.com/OctoPrint/octoprint-docker)
 - [ octoprint-docker/docker-compose.yml ](https://github.com/OctoPrint/octoprint-docker/blob/master/docker-compose.yml)
 	- [Finding Serial port]({% post_url 2020-10-30-raspberry-pi %}#finding-serial-ports)
-    - [Dealing with dynamically created devices](https://docs.docker.com/engine/reference/commandline/create/#dealing-with-dynamically-created-devices---device-cgroup-rule) / [SO](https://stackoverflow.com/questions/24225647/docker-a-way-to-give-access-to-a-host-usb-or-serial-device) / [device allow](https://forums.docker.com/t/add-devices-to-existing-docker-container/38685/3)
+
 
 ## [Plugins](http://plugins.octoprint.org/help/installation/) 
 - [Mark list](https://www.youtube.com/watch?v=Zq1sFBgxy8o)
