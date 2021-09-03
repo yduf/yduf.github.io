@@ -5,6 +5,16 @@ tags: raspberry-pi hardware
 ---
 > The Raspberry Pi is a tiny and affordable computer that you can use to learn programming through fun, practical projects. - [raspberrypi.org](https://www.raspberrypi.org)
 
+## [Finding Serial ports](https://www.klipper3d.org/FAQ.html#wheres-my-serial-port)
+- `ls /dev/serial/by-id/*` -> **this is stable**
+- `lsusb` -> USB-Serial adapter
+- `dmesg | grep -i serial` -> 3f201000.serial: ttyAMA0
+- [What is the difference between ttys0, ttyUSB0 and ttyAMA0?](https://unix.stackexchange.com/questions/307390/what-is-the-difference-between-ttys0-ttyusb0-and-ttyama0-in-linux)
+	- **ttyAMA0** is the device for the first serial port on ARM architecture.
+    - **ttyUSB0** is the device for the first USB serial convertor.
+
+
+
 - [Temperature Monitoring
 0](https://www.raspberrypi-spy.co.uk/2020/11/raspberry-pi-temperature-monitoring/) - `vcgencmd measure_temp`
 
