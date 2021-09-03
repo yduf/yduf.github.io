@@ -33,6 +33,11 @@ z_offset: 2.345
     - finally  `SAVE_CONFIG` to integrate the value in config files
 - X, Y: align on target with PROBE
 
+[Usefull GCODE](https://github.com/KevinOConnor/klipper/blob/master/docs/G-Codes.md)
+- `get_position (~ M114)`
+- absolute (G90) / relative (G91) coordinate
+- move G1 X<x> Y<y> Z<z>
+
 ## [Bed level support](https://www.klipper3d.org/Config_Reference.html#bed-level-support)
 
 - [ender3 example.cfg](https://www.reddit.com/r/BIGTREETECH/comments/dtl8id/skr_mini_e3_12_klipper_configguide_including/)
