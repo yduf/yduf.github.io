@@ -12,7 +12,18 @@ home_xy_position: 0, 0
 z_hop: 10
 {% endhighlight %}
 
-## [BL-Touch](https://github.com/KevinOConnor/klipper/blob/master/docs/BLTouch.md) / [Probe calibration](https://github.com/KevinOConnor/klipper/blob/master/docs/Probe_Calibrate.md)
+## [Probe calibration](https://github.com/KevinOConnor/klipper/blob/master/docs/Probe_Calibrate.md)
 
+### [BL-Touch](https://github.com/KevinOConnor/klipper/blob/master/docs/BLTouch.md)
+It is mandatory to define pinout and z_offset. 
 
+{% highlight cpp %}
+[bltouch]
+sensor_pin: ^PC14
+control_pin: PA1
+z_offset: 2.345
+{% endhighlight %}
 
+## [Bed level support](https://www.klipper3d.org/Config_Reference.html#bed-level-support)
+
+- [example.cfg](https://www.reddit.com/r/BIGTREETECH/comments/dtl8id/skr_mini_e3_12_klipper_configguide_including/)
