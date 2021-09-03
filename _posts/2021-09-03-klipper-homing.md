@@ -6,6 +6,8 @@ tags: klipper 3dprinter calibration
 
 ## [Homing](https://www.klipper3d.org/Config_Reference.html#customized-homing) 
 
+- [Why is the Z position_endstop set to 0.5 in the default configs?](https://www.klipper3d.org/FAQ.html#why-is-the-z-position_endstop-set-to-05-in-the-default-configs) - Z position_endstop specifies how far the nozzle is from the bed when the endstop triggers. 
+
 {% highlight cpp %}
 [safe_z_home]
 home_xy_position: 0, 0
@@ -32,6 +34,8 @@ z_offset: 2.345
     - then `TESTZ Z=-.1` to adjust until head reach bed (as [in paper test](https://www.klipper3d.org/Bed_Level.html#the-paper-test))
     - finally  `SAVE_CONFIG` to integrate the value in config files
 - X, Y: align on target with PROBE
+
+- [Repeatability check](https://www.klipper3d.org/Probe_Calibrate.html#repeatability-check)  -  it is a good idea to verify that the probe provides repeatable results. `PROBE_ACCURACY`
 
 [Usefull GCODE](https://github.com/KevinOConnor/klipper/blob/master/docs/G-Codes.md)
 - `get_position (~ M114)`
