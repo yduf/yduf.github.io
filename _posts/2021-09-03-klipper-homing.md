@@ -24,7 +24,7 @@ control_pin: PA1
 z_offset: 2.345
 {% endhighlight %}
 
-Tips: issuing `PROBE` will trigger the use of BLTouch at current position to probe Z-level, and stop when BlTouch trigger.
+[Tips](https://www.klipper3d.org/Probe_Calibrate.html#calibrating-probe-x-and-y-offsets): issuing `PROBE` will trigger the use of BLTouch at current position to probe Z-level, and stop when BlTouch trigger.
 
 ## [Bed level support](https://www.klipper3d.org/Config_Reference.html#bed-level-support)
 
