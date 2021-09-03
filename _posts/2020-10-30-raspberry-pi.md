@@ -19,7 +19,7 @@ tags: raspberry-pi hardware
 
 
 
-- [Temperature Monitoring
+### [Temperature Monitoring
 0](https://www.raspberrypi-spy.co.uk/2020/11/raspberry-pi-temperature-monitoring/) - `vcgencmd measure_temp`
 
 ## [r/raspberry_pi](https://www.reddit.com/r/raspberry_pi/)
