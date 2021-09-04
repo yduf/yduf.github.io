@@ -45,5 +45,9 @@ z_offset: 2.345
 ## [Bed level support](https://www.klipper3d.org/Bed_Mesh.html)
 
 - [ender3 example.cfg](https://www.reddit.com/r/BIGTREETECH/comments/dtl8id/skr_mini_e3_12_klipper_configguide_including/)
+  
+- [`BED_MESH_CALIBRATE`](https://www.klipper3d.org/Bed_Mesh.html#calibration)
+- [save profile](https://www.klipper3d.org/Bed_Mesh.html#profiles): `BED_MESH_PROFILE SAVE=default`
+- default profile is automatically loaded when Klipper starts. 
 
 ### [BABY STEPPING ](https://3dp.tumbleweedlabs.com/firmware/klipper-firmware/klipper-calibration-guide/how-to-perfect-your-first-layer-height-with-klipper)
