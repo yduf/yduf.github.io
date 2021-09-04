@@ -42,7 +42,7 @@ z_offset: 2.345
 - absolute (G90) / relative (G91) coordinate
 - move G1 X<x> Y<y> Z<z>
 
-## [Bed level support](https://www.klipper3d.org/Config_Reference.html#bed-level-support)
+## [Bed level support](https://www.klipper3d.org/Bed_Mesh.html)
 
 - [ender3 example.cfg](https://www.reddit.com/r/BIGTREETECH/comments/dtl8id/skr_mini_e3_12_klipper_configguide_including/)
 
