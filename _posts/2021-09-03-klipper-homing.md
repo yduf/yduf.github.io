@@ -51,3 +51,5 @@ z_offset: 2.345
 - default profile is automatically loaded when Klipper starts. 
 
 ### [BABY STEPPING ](https://3dp.tumbleweedlabs.com/firmware/klipper-firmware/klipper-calibration-guide/how-to-perfect-your-first-layer-height-with-klipper)
+
+### [Manual leveling](https://www.klipper3d.org/Manual_Level.html)
