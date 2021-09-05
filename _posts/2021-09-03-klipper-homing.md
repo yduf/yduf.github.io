@@ -50,7 +50,6 @@ z_offset: 2.345
 - [save profile](https://www.klipper3d.org/Bed_Mesh.html#profiles): `BED_MESH_PROFILE SAVE=default`
 - default profile is automatically loaded when Klipper starts. 
 
-### [BABY STEPPING ](https://3dp.tumbleweedlabs.com/firmware/klipper-firmware/klipper-calibration-guide/how-to-perfect-your-first-layer-height-with-klipper)
 
 ### [Manual leveling](https://www.klipper3d.org/Manual_Level.html)
   
@@ -63,4 +62,6 @@ The secret to getting good bed leveling with bed leveling screws is to utilize t
 - abort => exit tool
   
   
-### 
+## [First layer]({% post_url 2018-09-15-first-layer %})
+
+### [BABY STEPPING ](https://3dp.tumbleweedlabs.com/firmware/klipper-firmware/klipper-calibration-guide/how-to-perfect-your-first-layer-height-with-klipper)
