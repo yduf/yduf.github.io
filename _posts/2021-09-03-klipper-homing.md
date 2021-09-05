@@ -5,7 +5,7 @@ tags: klipper 3dprinter calibration
 ---
 
 ## [Homing](https://www.klipper3d.org/Config_Reference.html#customized-homing) 
-
+- [Endstops](https://marlinfw.org/docs/hardware/endstops.html)
 - [Why is the Z position_endstop set to 0.5 in the default configs?](https://www.klipper3d.org/FAQ.html#why-is-the-z-position_endstop-set-to-05-in-the-default-configs) - Z position_endstop specifies how far the nozzle is from the bed when the endstop triggers. 
 
 {% highlight cpp %}
