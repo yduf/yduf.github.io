@@ -44,7 +44,6 @@ z_offset: 2.345
 
 ## [Bed level support](https://www.klipper3d.org/Bed_Mesh.html)
 
-- [ender3 example.cfg](https://www.reddit.com/r/BIGTREETECH/comments/dtl8id/skr_mini_e3_12_klipper_configguide_including/)
   
 - [`BED_MESH_CALIBRATE`](https://www.klipper3d.org/Bed_Mesh.html#calibration) - Initiates the probing procedure for Bed Mesh Calibration.
 - [save profile](https://www.klipper3d.org/Bed_Mesh.html#profiles): `BED_MESH_PROFILE SAVE=default`
@@ -54,7 +53,8 @@ z_offset: 2.345
 ### [Manual leveling](https://www.klipper3d.org/Manual_Level.html)
   
 The secret to getting good bed leveling with bed leveling screws is to utilize the printer's high precision motion system during the bed leveling process itself.
-  
+
+**Custom Prepare menu** - [ender3 example.cfg](https://www.reddit.com/r/BIGTREETECH/comments/dtl8id/skr_mini_e3_12_klipper_configguide_including/):
 - BED_SCREWS_ADJUST - start the tool
 - paper test on each selected _screw points_
 - accept => screw is ok (no adjustement necessary)
