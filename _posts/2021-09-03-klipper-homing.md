@@ -53,3 +53,11 @@ z_offset: 2.345
 ### [BABY STEPPING ](https://3dp.tumbleweedlabs.com/firmware/klipper-firmware/klipper-calibration-guide/how-to-perfect-your-first-layer-height-with-klipper)
 
 ### [Manual leveling](https://www.klipper3d.org/Manual_Level.html)
+  
+The secret to getting good bed leveling with bed leveling screws is to utilize the printer's high precision motion system during the bed leveling process itself.
+  
+- BED_SCREWS_ADJUST - start the tool
+- paper test on each selected _screw points_
+- accept => screw is ok (no adjustement necessary)
+- adjusted => screw was adjusted (and may have impact others)
+- abort => exit tool
