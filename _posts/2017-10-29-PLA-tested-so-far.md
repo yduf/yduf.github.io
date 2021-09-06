@@ -5,7 +5,7 @@ tags: 3dprint pla
 ---
 PLA tested so far -- 1.75mm
 
-## Provider/Vendor
+## [Provider/Vendor](https://forum.prusaprinters.org/forum/original-prusa-i3-mk3-discussion-generale-annonces-et-nouveautes/filaments-avis-et-conseils/)
 - [3djake](https://www.3djake.fr) - TBD
 - [3DFil](https://www.3dfil.fr/commande) - TBD
 
