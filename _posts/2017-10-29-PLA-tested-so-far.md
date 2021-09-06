@@ -5,8 +5,9 @@ tags: 3dprint pla
 ---
 PLA tested so far -- 1.75mm
 
-## [3DFil](https://www.3dfil.fr/commande)
-TBD
+## Provider/Vendor
+- [3djake](https://www.3djake.fr) - TBD
+- [3DFil](https://www.3dfil.fr/commande) - TBD
 
 ## [ICE](https://distrinova.net/brand/ice-filaments/)
 - [white (0.75kg)](https://www.amazon.fr/gp/product/B017HAIMZU/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) - easy to print - thick - 205°
