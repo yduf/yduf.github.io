@@ -21,7 +21,7 @@ tags: hardware laptop
 - [power button issue](https://bbs.archlinux.org/viewtopic.php?id=225752)
 	- [ivzave/matebook-linux](https://github.com/ivzave/matebook-linux) - patching [acpi table]({% post_url 2021-07-25-acpi %})
     	- S3 sleep state: OK on Linux 5.4.0-80-generic
-        - [Fn-Lock](https://github.com/nekr0z/linux-on-huawei-matebook-13-2019/blob/master/README.md#keyboard)
+        - [Fn-Lock](https://github.com/nekr0z/linux-on-huawei-matebook-13-2019/blob/master/README.md#keyboard) - pressing Fn key lock/unlock the functionnality
     	- Power button: OK, but has to be pressed for at least 1 second to generate event
         - Fingerpring reader : [KO](https://github.com/nekr0z/linux-on-huawei-matebook-13-2019/blob/master/README.md#fingerprint-reader)
 
