@@ -8,4 +8,4 @@ tags: term cli ascii video image
 
 [demo](https://www.youtube.com/watch?v=dcjkezf1ARY)
 
-![caption](https://raw.githubusercontent.com/dankamongmen/notcurses/gh-pages/notcurses-info.png) 
+[ ![caption](https://raw.githubusercontent.com/dankamongmen/notcurses/gh-pages/notcurses-info.png)  ](https://www.youtube.com/watch?v=dcjkezf1ARY)
