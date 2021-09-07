@@ -37,6 +37,8 @@ z_offset: 2.345
 
 - [Repeatability check](https://www.klipper3d.org/Probe_Calibrate.html#repeatability-check)  -  it is a good idea to verify that the probe provides repeatable results. see `PROBE_ACCURACY`. If the difference between the minimum reported z_offset and the maximum reported z_offset is greater than 25 microns (.025mm) then the probe is not suitable for typical bed leveling procedures.
 
+- [endstop_phase](https://www.klipper3d.org/Endstop_Phase.html#calibrating-endstop-phases) - The stepper phase adjusted endstop mechanism can use the precision of the stepper motors to improve the precision of the endstop switches.
+
 
 [Usefull GCODE](https://github.com/KevinOConnor/klipper/blob/master/docs/G-Codes.md)
 - `get_position (~ M114)`
