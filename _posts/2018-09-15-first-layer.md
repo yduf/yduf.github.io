@@ -10,7 +10,7 @@ tags: 3dprinter calibration
 [cult](https://cults3d.com/fr/blog/articles/6-facteurs-premi%C3%A8re-couche-impression3d-parfaite)
 [![caption](https://files.cults3d.com/uploads/blog/image/image/1704/prusa.jpg)](https://cults3d.com/fr/blog/articles/6-facteurs-premi%C3%A8re-couche-impression3d-parfaite)
 
-[first layer test model](https://www.yeggi.com/q/first+layer+test/)x
+[first layer test model](https://www.yeggi.com/q/first+layer+test/)
 - [circle](https://www.thingiverse.com/thing:3333025/files)
 
 ### Leveling the bed
