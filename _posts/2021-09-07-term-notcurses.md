@@ -4,6 +4,6 @@ title: Notcurses
 pbulished: true
 tags: term cli
 ---
-> a library facilitating complex TUIs on modern terminal emulators, supporting vivid colors, multimedia, threads, and Unicode to the maximum degree possible. - [dankamongmen](https://github.com/dankamongmen/notcurses)
+> a library facilitating complex TUIs on modern terminal emulators, supporting vivid colors, multimedia, threads, and Unicode to the maximum degree possible. - [dankamongmen](https://github.com/dankamongmen/notcurses) / [HN](https://news.ycombinator.com/item?id=28437173)
 
 ![caption](https://raw.githubusercontent.com/dankamongmen/notcurses/gh-pages/notcurses-info.png) 
