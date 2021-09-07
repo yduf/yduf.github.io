@@ -5,7 +5,12 @@ tags: 3dprinter calibration
 ---
 > Getting that first layer right is an indicator of a lot things. Such as, a correctly leveled bed, right filament temperature, correct extrusion amount, etc. In short, getting that first layer right is a good signal* that your print won’t fail. You can save yourself a lot of time catching errors in the first layer(s). Its better to reprint with different settings after only 5 minutes of printing, rather than 5 hours. Also, if your print isn’t sticking, without a desperate application of ducktape, there’s no way the print will succeed. - [Perfecting the First Layer](https://www.3dhubs.com/talk/t/perfecting-the-first-layer-tips-and-tricks/1075)
 
-- [first layer test](https://www.yeggi.com/q/first+layer+test/)
+### [How does a successfull first layer look like](https://ultimaker.com/en/resources/21330-what-does-a-successful-first-layer-look-like)
+
+[cult](https://cults3d.com/fr/blog/articles/6-facteurs-premi%C3%A8re-couche-impression3d-parfaite)
+[![caption](https://files.cults3d.com/uploads/blog/image/image/1704/prusa.jpg)](https://cults3d.com/fr/blog/articles/6-facteurs-premi%C3%A8re-couche-impression3d-parfaite)
+
+- [first layer test](https://www.yeggi.com/q/first+layer+test/)x
 
 ### Leveling the bed
 
@@ -30,7 +35,4 @@ You can use a lower layer height or larger extrusion width if you wish, it will 
 
 ### [Build plate adhesion](https://ultimaker.com/en/resources/257-build-plate-adhesion-how-to-get-your-print-to-stick-to-the-build-plate)
 
-### [success?](https://ultimaker.com/en/resources/21330-what-does-a-successful-first-layer-look-like)
 
-- [cult](https://cults3d.com/fr/blog/articles/6-facteurs-premi%C3%A8re-couche-impression3d-parfaite)
-![caption](https://files.cults3d.com/uploads/blog/image/image/1704/prusa.jpg)
