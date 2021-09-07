@@ -2,7 +2,7 @@
 published: false
 title: Notcurses
 pbulished: true
-tags: term cli
+tags: term cli ascii video image
 ---
 > a library facilitating complex TUIs on modern terminal emulators, supporting vivid colors, multimedia, threads, and Unicode to the maximum degree possible. - [dankamongmen](https://github.com/dankamongmen/notcurses) / [HN](https://news.ycombinator.com/item?id=28437173)
 
