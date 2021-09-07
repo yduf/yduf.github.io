@@ -45,7 +45,7 @@ z_offset: 2.345
 
 ## [Bed level support](https://www.klipper3d.org/Bed_Mesh.html)
 
-### Auto leveling
+### [Auto Bed Mesh leveling](https://www.klipper3d.org/Bed_Mesh.html)
 
 - `BED_MESH_CALIBRATE` - [Initiates the probing procedure for Bed Mesh Calibration.](https://www.klipper3d.org/Bed_Mesh.html#calibration)
 - `BED_MESH_PROFILE SAVE=default` - [save profile](https://www.klipper3d.org/Bed_Mesh.html#profiles):
