@@ -66,6 +66,6 @@ The secret to getting good bed leveling with bed leveling screws is to utilize t
   
 ## [First layer]({% post_url 2018-09-15-first-layer %})
 
-### [BABY STEPPING ](https://3dp.tumbleweedlabs.com/firmware/klipper-firmware/klipper-calibration-guide/how-to-perfect-your-first-layer-height-with-klipper#baby-stepping)
+This involves running a print, observing the first layer going down, and adjusting your Z offset (["baby stepping"](https://3dp.tumbleweedlabs.com/firmware/klipper-firmware/klipper-calibration-guide/how-to-perfect-your-first-layer-height-with-klipper#baby-stepping)) up and down until you have the perfect level of squish. This is easier with an LCD but can also be done without. 
 
-This involves running a print, observing the first layer going down, and adjusting your Z offset ("baby stepping") up and down until you have the perfect level of squish. This is easier with an LCD but can also be done without. 
+  
