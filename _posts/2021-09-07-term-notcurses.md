@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Notcurses
 pbulished: true
 tags: term cli ascii video image
