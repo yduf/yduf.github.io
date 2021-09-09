@@ -15,7 +15,7 @@ Recommanded: 0.08, 0.12, 0.16, 0.20, 0.24, 0.28, 0.32
 
 
 ## [Speed up print](https://hevort.com/)
-- Use greater step
+- Use greater step, eg: 0.28
 - [double infill](https://www.youtube.com/watch?v=gSySGU-52Lo)
 - [#speedboatrace](https://www.youtube.com/watch?v=6kRjdprTjFc)
 	- [cnc kitchen](https://www.youtube.com/watch?v=hSWjlf5aNIU)
