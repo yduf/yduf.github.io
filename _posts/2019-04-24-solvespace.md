@@ -3,7 +3,9 @@ published: true
 title: Solvespace
 tags: cad
 ---
-## [parametric 2d/3d CAD](http://solvespace.com/index.pl)
+> SOLVESPACE is a free (GPLv3) parametric 3d CAD tool -  [Home](http://solvespace.com/index.pl)
+
+![caption](https://hackaday.com/wp-content/uploads/2016/06/front-page-pic_featured.png?w=800)
 
 ## [Tutorials](http://solvespace.com/tutorial.pl)
 - [A SolveSpace Learning Guide](http://www.farwire.net/SolveSpace-LearningGuide.htm)
@@ -15,8 +17,7 @@ tags: cad
 	- [Image Request and old drawing](https://www.youtube.com/watch?v=1TX8saIFE-Q&list=PL3HsUj-1-gw5ClXSpli6hqM34A4Vn3AI9)
     - [Involute Gears](https://www.youtube.com/watch?v=i6tDWJsNsok)
 
-![caption](https://hackaday.com/wp-content/uploads/2016/06/front-page-pic_featured.png?w=800)
 
-## Instalation
+## Installation
 **Active** [Github](https://github.com/solvespace/solvespace)
  - latest available as [snap](https://snapcraft.io/solvespace)
