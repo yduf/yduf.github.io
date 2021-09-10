@@ -26,7 +26,7 @@ Recommanded: 0.08, 0.12, 0.16, 0.20, 0.24, 0.28, 0.32 (for 0.4 nozzle)
 
 ## [Speed up print](https://hevort.com/)
 - Use greater step for layer height, eg: 0.28 vs 0.2 vs 0.1
-- use a larger nozzle 0.6 > 0.4
+- [use a larger nozzle](https://www.youtube.com/watch?v=jyhLQUQTc9E) 0.6 > 0.4
 
 - [double infill](https://www.youtube.com/watch?v=gSySGU-52Lo)
 - [#speedboatrace](https://www.youtube.com/watch?v=6kRjdprTjFc)
