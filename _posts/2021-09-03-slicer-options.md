@@ -30,4 +30,6 @@ Recommanded: 0.08, 0.12, 0.16, 0.20, 0.24, 0.28, 0.32 (for 0.4 nozzle)
 - [#speedboatrace](https://www.youtube.com/watch?v=6kRjdprTjFc)
 	- [cnc kitchen](https://www.youtube.com/watch?v=hSWjlf5aNIU)
 
+- [Cura Acceleration setting](https://www.youtube.com/watch?v=CKMTD0EAcwg)
+
 
