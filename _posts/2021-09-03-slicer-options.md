@@ -31,11 +31,22 @@ Recommanded:
 - and [use a larger nozzle](https://www.youtube.com/watch?v=jyhLQUQTc9E) 0.8 > 0.6 > 0.4
 
 - [double infill](https://www.youtube.com/watch?v=gSySGU-52Lo)
-- [#speedboatrace](https://www.youtube.com/watch?v=6kRjdprTjFc)
-	- [cnc kitchen](https://www.youtube.com/watch?v=hSWjlf5aNIU)
 
 - [Cura Acceleration setting](https://www.youtube.com/watch?v=CKMTD0EAcwg)
 	- temperature
-    - speed
+    - speed (feed rate)
     - accelleration
     - jerk
+    
+    
+### [#speedboatrace](https://www.youtube.com/watch?v=6kRjdprTjFc)
+
+[cnc kitchen](https://www.youtube.com/watch?v=hSWjlf5aNIU)
+
+Teaching Tech benchy
+For a constant feedrate of 200mm/sec
+-  500 mm/sec² => 1:06:00	=> this is the default ender3 seting
+- 2000 mm/sec² =>   33:47
+- 5000 mm/sec² =>   23:53
+-10000 mm/sec² =>   19:29
+
