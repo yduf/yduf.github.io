@@ -38,9 +38,9 @@ Recommanded:
     - nomber of slower layers - the number of layers from the bottom layer it takes to reach the print speed.
     - equalize filament flow - print small wall at higher speed than normal.
     
-    - enable accelleration control - reduce the speed set in the firmware
+    - enable accelleration control - reduce the speed set in the firmware (Klipper)
     
-    - jerk
+    - enable jerk control - reduce the speed set  in the firmware (Klipper)
     
     
     
