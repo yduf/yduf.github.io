@@ -35,8 +35,14 @@ Recommanded:
 - [Cura Acceleration setting](https://www.youtube.com/watch?v=CKMTD0EAcwg)
 	- temperature
     - speed (feed rate)
-    - accelleration
+    - nomber of slower layers - the number of layers from the bottom layer it takes to reach the print speed.
+    - equalize filament flow - print small wall at higher speed than normal.
+    
+    - enable accelleration control - reduce the speed set in the firmware
+    
     - jerk
+    
+    
     
     
 ### [#speedboatrace](https://www.youtube.com/watch?v=6kRjdprTjFc)
