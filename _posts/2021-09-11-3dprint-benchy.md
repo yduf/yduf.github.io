@@ -12,3 +12,5 @@ tags: 3dprint
 ## Cura / Printer Setting
 
 0.28 / 50 mm/s / 1h06 - Klipper - very good results
+
+### [#speedboatrace](https://www.youtube.com/watch?v=6kRjdprTjFc)
