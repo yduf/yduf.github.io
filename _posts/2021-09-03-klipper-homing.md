@@ -3,6 +3,9 @@ published: true
 title: Homing (Klipper)
 tags: klipper 3dprinter calibration
 ---
+> Mid pleasures and palaces though we may roam   
+> Be it ever so humble, there's no place like home  
+> [Home! Sweet Home!](https://en.wikipedia.org/wiki/Home!_Sweet_Home!)
 
 ## [Homing](https://www.klipper3d.org/Config_Reference.html#customized-homing) 
 - [Endstops](https://marlinfw.org/docs/hardware/endstops.html)
