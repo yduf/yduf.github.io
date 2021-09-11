@@ -15,11 +15,17 @@ Run as [docker Image](https://github.com/OctoPrint/octoprint-docker)
     	- [Cannot access mounted pts device inside container
 #77](https://github.com/docker/for-linux/issues/77#issuecomment-456665543) - workaround is to expose them as volume (eg for Klipper )
 
+## [OctoDash]({% post_url 2020-11-22-pi-dashboard %})
+onboard touchs-screen UI.
 
 ## [Plugins](http://plugins.octoprint.org/help/installation/) 
 - [Mark list](https://www.youtube.com/watch?v=Zq1sFBgxy8o)
 	- Extra distance buttons
     - Fan speed control
+
+### [Bed Vizualizer](https://plugins.octoprint.org/plugins/bedlevelvisualizer/)
+
+Klipper g_code: BED_MESH_OUTPUT
 
 ### [Dashboard](https://plugins.octoprint.org/plugins/dashboard/)
 - [DisplayLayerProgress](https://plugins.octoprint.org/plugins/DisplayLayerProgress/)
@@ -28,8 +34,7 @@ Run as [docker Image](https://github.com/OctoPrint/octoprint-docker)
 
 - [BLTouch](https://plugins.octoprint.org/plugins/BLTouch/) - add BLTouch controls to the Control tab
 
-### [OctoDash]({% post_url 2020-11-22-pi-dashboard %})
-onboard touchs-screen UI.
+
 
 ### [Cura Thumbnails](https://plugins.octoprint.org/plugins/UltimakerFormatPackage/)
 This plugin adds support for Ultimaker Format Package (.ufp) files. Ultimaker Format Package files are based on Open Packaging Conventions (OPC) and contain compressed gcode and a preview thumbnail. This format will automatically be used by the OctoPrint Connection plugin in Cura (install via Marketplace) if this plugin is installed.
@@ -51,9 +56,6 @@ Cam tuning
 with DSLR camera
 - [Timelapse Effect](https://www.youtube.com/watch?v=Is10iN43UjI)
 
-### [Bed Vizualizer](https://plugins.octoprint.org/plugins/bedlevelvisualizer/)
-
-Klipper g_code: BED_MESH_OUTPUT
 
 ### [Exclude Region](https://discourse.octoprint.org/t/exclude-region-plugin-is-one-of-the-best-ever/2742)
 
