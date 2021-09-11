@@ -43,8 +43,19 @@ Recommanded:
     
     - enable jerk control - reduce the speed set  in the firmware (Klipper)
     
+### Acceleration Setting
+
+Your slicer doesn’t actually have much to do with acceleration, in so far **as emitting G-code to say where the print head should go and at what speed**. It’s the **firmware which sets limits to speed and deciding how fast to accelerate** to a given speed.
+
+- [Cura Acceleration setting](https://www.youtube.com/watch?v=CKMTD0EAcwg)
+    - speed (feed rate)
+    - nomber of slower layers - the number of layers from the bottom layer it takes to reach the print speed.
+    - equalize filament flow - print small wall at higher speed than normal.
     
+    - enable accelleration control - reduce the speed set in the firmware (Klipper)
+    	- accelleration is also used to estimate the print time.
     
+    - enable jerk control - reduce the speed set  in the firmware (Klipper)
     
 ### [#speedboatrace](https://www.youtube.com/watch?v=6kRjdprTjFc)
 
