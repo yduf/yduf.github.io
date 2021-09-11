@@ -11,4 +11,4 @@ tags: 3dprint
 
 ## Cura / Printer Setting
 
-0.28 / 50 mm/s / 1h06 - very good results
+0.28 / 50 mm/s / 1h06 - Klipper - very good results
