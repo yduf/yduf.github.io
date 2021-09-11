@@ -11,9 +11,9 @@ tags: 3dprint
 
 ## Cura / Printer Setting
 
-0.28 / print  50 mm/s / travel 150 mm/s  / 215°C / Klipper max_accel: 3000
+0.28 / print  50 mm/s / travel 150 mm/s  / 215°C / Klipper max_accel: 3000 mm/sec²
  / 1h06 (1h15 est) - very good results
-0.28 / print 200 mm/s / travel 150 mm/s  / 215°C / Klipper max_accel: 3000
+0.28 / print 200 mm/s / travel 150 mm/s  / 215°C / Klipper max_accel: 3000 mm/sec^2
  / ? (0h59 est) - ?
 
 
