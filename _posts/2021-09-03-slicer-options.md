@@ -47,6 +47,13 @@ Recommanded:
 
 Your slicer doesn’t actually have much to do with acceleration, in so far **as emitting G-code to say where the print head should go and at what speed**. It’s the **firmware which sets limits to speed and deciding how fast to accelerate** to a given speed.
 
+[**Jerk**](https://3dprinterly.com/how-to-get-the-perfect-jerk-acceleration-setting/#What_is_the_Jerk_Setting) - an approximation value that specifies the minimum speed change that requires acceleration.
+
+having a Jerk value of 10 gave the same printing time at 60mm/s speed as a Jerk value of 40. Only when he increased the printing speed past 60mm/s to around 90mm/s did the jerk value give real differences in printing times.
+
+High values for Jerk settings basically mean the change of speed in each direction is too fast, which usually results in extra vibrations.
+
+
 - [Cura Acceleration setting](https://www.youtube.com/watch?v=CKMTD0EAcwg)
     - speed (feed rate)
     - nomber of slower layers - the number of layers from the bottom layer it takes to reach the print speed.
