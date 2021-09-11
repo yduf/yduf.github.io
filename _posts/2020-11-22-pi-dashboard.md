@@ -11,7 +11,7 @@ see also [Octoprin Dashboard plugin]({% post_url 2017-09-24-Octoprint %})
 
 ## Setup
 From a fresh Octopie (tested on )
-1. Install LCD35-Show (from alternative repos) [Ecran tactile 3,5 pouces (Pi)]({% post_url 2019-11-16-pi-lcd %})
+1. [Install LCD35-Show (from alternative repos)]({% post_url 2019-11-16-pi-lcd %})
 1. use octodash install script
 1. Display is not found by X11 and it need [even more packages](https://github.com/UnchartedBull/OctoDash/wiki/Troubleshooting#cannot-open-display-xinit-failing-)
 {% highlight bash %}
