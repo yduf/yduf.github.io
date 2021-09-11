@@ -43,7 +43,7 @@ Recommanded:
     
     - enable jerk control - reduce the speed set  in the firmware (Klipper)
     
-### Acceleration Setting
+### [Acceleration Setting](https://3dprinterly.com/how-to-get-the-perfect-jerk-acceleration-setting/)
 
 Your slicer doesn’t actually have much to do with acceleration, in so far **as emitting G-code to say where the print head should go and at what speed**. It’s the **firmware which sets limits to speed and deciding how fast to accelerate** to a given speed.
 
