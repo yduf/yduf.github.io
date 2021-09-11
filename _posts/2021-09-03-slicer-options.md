@@ -15,8 +15,8 @@ Recommanded:
 
 ### [How to tune your slicing settings featuring Ender 3](https://www.youtube.com/watch?v=3yIebnVjADM)
 
-## [Quality](https://www.youtube.com/watch?v=6Z02BowhQwU)
-- print one part at a time
+## Quality
+- [print one part at a time](https://www.youtube.com/watch?v=6Z02BowhQwU)
 	- [turn on combing mode](https://www.youtube.com/watch?v=FdnV71HYIEw) - force ravel inside parts
     	- it may reduce print time as well
 - multi part
@@ -24,6 +24,8 @@ Recommanded:
     - orient part to side way to have unseen side oppose to each other
 
 ### Seam removal
+- [move seam to corner](https://youtu.be/NU1kYEE3qrQ?t=114)
+	- wall / Z seam alignment
 - [vase mode](https://www.youtube.com/watch?v=iJXIqdJpkuI)
 
 ## [Speed up print](https://hevort.com/)
