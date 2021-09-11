@@ -10,4 +10,4 @@ tags: quote
 > ses enfants aussi  
 > il travaille comme un nègre  
 > et le nègre travaille comme lui  
-> - [Jacques Prévert](https://lyricstranslate.com/en/l%E2%80%99effort-humain-human-effort.html)
+> [Jacques Prévert](https://lyricstranslate.com/en/l%E2%80%99effort-humain-human-effort.html)
