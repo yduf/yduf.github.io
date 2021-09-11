@@ -50,6 +50,7 @@ Recommanded:
 Your slicer doesn’t actually have much to do with acceleration, in so far **as emitting G-code to say where the print head should go and at what speed**. It’s the **firmware which sets limits to speed and deciding how fast to accelerate** to a given speed.
 - [RepRap Centrals Acceleration Calculator](https://3dprinting.stackexchange.com/a/225/5801)
 
+This render the estimated time pretty inaccurate when setting speed above the default.
 
 [**Jerk**](https://3dprinterly.com/how-to-get-the-perfect-jerk-acceleration-setting/#What_is_the_Jerk_Setting) - an approximation value that specifies the minimum speed change that requires acceleration.
 
