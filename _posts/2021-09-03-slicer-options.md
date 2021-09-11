@@ -39,6 +39,7 @@ Recommanded:
     - equalize filament flow - print small wall at higher speed than normal.
     
     - enable accelleration control - reduce the speed set in the firmware (Klipper)
+    	- accelleration is also used to estimate the print time.
     
     - enable jerk control - reduce the speed set  in the firmware (Klipper)
     
@@ -55,4 +56,20 @@ For a constant feedrate of 200mm/sec
 - 2000 mm/sec² =>   33:47
 - 5000 mm/sec² =>   23:53
 -10000 mm/sec² =>   19:29
+
+Cura printer definition setting have to be overidden to allow that.
+=> for the Appimage, it is done by defining the file into [`~/.local/share/cura/<version>/definition/creality_base.def.json`](https://github.com/Ultimaker/Cura/issues/847) (model can be taken from [github](https://github.com/Ultimaker/Cura/tree/master/resources/definitions))
+
+Klipper limits are in the `[printer]` section
+{% highlight cpp %}
+[printer]
+kinematics: cartesian
+max_velocity: 300
+max_accel: 3000
+max_z_velocity: 5
+max_z_accel: 100
+{% endhighlight %}
+
+
+[independant jerk cannot be set in cura](https://community.ultimaker.com/topic/26775-jerk-motion-control/) => jerk control has to be [disabled](https://www.reddit.com/r/CR10/comments/pguizl/cura_question_acceleration_and_jerk_control/) to let the printer (Klipper) control jerk.
 
