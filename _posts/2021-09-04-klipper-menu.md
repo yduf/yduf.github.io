@@ -17,6 +17,8 @@ tags: 3dprinter klipper
 - Setup
 
 
+## [Macro & template](https://www.klipper3d.org/Command_Templates.html)
+
 ## Octoprint integration
 
 Octopklippper can defined accessible macro in Octoprint
