@@ -16,3 +16,13 @@ tags: 3dprinter klipper
 - Filament
 - Setup
 
+
+## Octoprint integration
+
+Octopklippper can defined accessible macro in Octoprint
+
+## Klipper M600 filament change
+
+Octoprint and firmware do not always talk well together and they can interrupt each other. So, just use the Klipper command buttons that can be added in the OctoKlipper plugin. **Do not use the OctoPrint pause button**.
+
+
