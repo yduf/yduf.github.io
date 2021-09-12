@@ -16,12 +16,15 @@ Recommanded:
 ### [How to tune your slicing settings featuring Ender 3](https://www.youtube.com/watch?v=3yIebnVjADM)
 
 ## Quality
+see also [dprint troubleshooting]({% post_url 2018-09-25-3dprint %})
+
 - [print one part at a time](https://www.youtube.com/watch?v=6Z02BowhQwU)
 	- [turn on combing mode](https://www.youtube.com/watch?v=FdnV71HYIEw) - force ravel inside parts
     	- it may reduce print time as well
 - multi part
 	- special mode (one part at time)
     - orient part to side way to have unseen side oppose to each other
+
 
 ### Seam removal
 - [move seam to corner](https://youtu.be/NU1kYEE3qrQ?t=114)
@@ -95,4 +98,3 @@ max_z_accel: 100
 
 
 [independant jerk cannot be set in cura](https://community.ultimaker.com/topic/26775-jerk-motion-control/) => jerk control has to be [disabled](https://www.reddit.com/r/CR10/comments/pguizl/cura_question_acceleration_and_jerk_control/) to let the printer (Klipper) control jerk.
-
