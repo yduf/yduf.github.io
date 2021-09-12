@@ -18,6 +18,7 @@ tags: 3dprinter klipper
 
 
 ## [Macro & template](https://www.klipper3d.org/Command_Templates.html)
+- [Desuuuu/klipper-macros](https://github.com/Desuuuu/klipper-macros/tree/master/macros)
 
 ## Octoprint integration
 
@@ -27,7 +28,6 @@ Octopklippper can defined accessible macro in Octoprint
 
 Octoprint and firmware do not always talk well together and they can interrupt each other. So, just use the Klipper command buttons that can be added in the OctoKlipper plugin. **Do not use the OctoPrint pause button**.
 
-- [Desuuuu/klipper-macros](https://github.com/Desuuuu/klipper-macros/tree/master/macros)
 
 {% highlight cpp %}
 Below Macro with credit to Hywel Martin #https://github.com/KevinOConnor/klipper/issues/1354
