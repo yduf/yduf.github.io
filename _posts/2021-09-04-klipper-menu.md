@@ -26,6 +26,7 @@ When creating a G-Code macro it is a good idea to always explicitly set the G-Co
 	- [Hywel Martin](https://github.com/KevinOConnor/klipper/issues/1354) / [reddit](https://www.reddit.com/r/ender5plus/comments/kb5oe9/klipper_m600_filament_change/)
 - [Desuuuu/klipper-macros](https://github.com/Desuuuu/klipper-macros/tree/master/macros)
 
+see also [gcode]({% post_url 2018-09-08-gcode %})
 
 
 ## Octoprint integration
