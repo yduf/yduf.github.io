@@ -22,8 +22,10 @@ tags: 3dprinter klipper
 When creating a G-Code macro it is a good idea to always explicitly set the G-Code parsing state (relative or global), and to save and restore state before and after. That the purpose of the `SAVE_GCODE_STATE` macro.
 
 - [ boardthatpowder/macro](https://github.com/boardthatpowder/klipper-firmware/blob/master/printer.cfg)
+- [KevinOConnor](https://github.com/KevinOConnor/klipper/blob/master/config/sample-macros.cfg)
+	- [Hywel Martin](https://github.com/KevinOConnor/klipper/issues/1354) / [reddit](https://www.reddit.com/r/ender5plus/comments/kb5oe9/klipper_m600_filament_change/)
 - [Desuuuu/klipper-macros](https://github.com/Desuuuu/klipper-macros/tree/master/macros)
-- [Hywel Martin](https://github.com/KevinOConnor/klipper/issues/1354) / [reddit](https://www.reddit.com/r/ender5plus/comments/kb5oe9/klipper_m600_filament_change/)
+
 
 
 ## Octoprint integration
