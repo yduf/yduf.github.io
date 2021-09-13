@@ -20,6 +20,7 @@ tags: 3dprinter klipper
 ## [Macro & template](https://www.klipper3d.org/Command_Templates.html)
 - [ boardthatpowder/macro](https://github.com/boardthatpowder/klipper-firmware/blob/master/printer.cfg)
 - [Desuuuu/klipper-macros](https://github.com/Desuuuu/klipper-macros/tree/master/macros)
+- [Hywel Martin](https://github.com/KevinOConnor/klipper/issues/1354)
 
 
 ## Octoprint integration
