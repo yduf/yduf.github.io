@@ -18,6 +18,9 @@ tags: 3dprinter klipper
 
 
 ## [Macro & template](https://www.klipper3d.org/Command_Templates.html)
+
+When creating a G-Code macro it is a good idea to always explicitly set the G-Code parsing state (relative or global), and to save and restore state before and after. That the purpose of the `SAVE_GCODE_STATE` macro.
+
 - [ boardthatpowder/macro](https://github.com/boardthatpowder/klipper-firmware/blob/master/printer.cfg)
 - [Desuuuu/klipper-macros](https://github.com/Desuuuu/klipper-macros/tree/master/macros)
 - [Hywel Martin](https://github.com/KevinOConnor/klipper/issues/1354) / [reddit](https://www.reddit.com/r/ender5plus/comments/kb5oe9/klipper_m600_filament_change/)
@@ -30,4 +33,3 @@ Octopklippper can defined accessible macro in Octoprint
 ## [Klipper M600 filament change](https://www.reddit.com/r/ender5plus/comments/kb5oe9/klipper_m600_filament_change/)
 
 Octoprint and firmware do not always talk well together and they can interrupt each other. So, just use the Klipper command buttons that can be added in the OctoKlipper plugin. **Do not use the OctoPrint pause button**.
-
