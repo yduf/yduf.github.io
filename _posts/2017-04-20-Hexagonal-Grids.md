@@ -6,4 +6,5 @@ tags: hex grid games map
 
 Thanks to [Codingame](https://www.codingame.com)!
 
-## Hexagonal Tiling Explained! - [The Art of Code](https://www.youtube.com/watch?v=VmrIDyYiJBA)
+-  Hexagonal Tiling Explained! - [The Art of Code](https://www.youtube.com/watch?v=VmrIDyYiJBA)
+- [For hexagons, all neighbors are equidistant.](https://h3geo.org/docs/highlights/aggregation)
