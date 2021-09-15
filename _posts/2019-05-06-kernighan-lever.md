@@ -1,7 +1,7 @@
 ---
 published: true
 title: Kernighan's lever
-tags: software quote
+tags: software debug quote
 ---
 > Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it? — The Elements of Programming Style, 2nd edition, chapter 2
 
