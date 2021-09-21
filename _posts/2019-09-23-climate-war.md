@@ -8,8 +8,17 @@ tags: despair.com climate science
 - [Jancovici calme Pascal Praud](https://www.youtube.com/watch?v=6Zg1mSPbVBg)
 - [ PIB=energie=CO²](https://www.youtube.com/watch?v=LCZQZMpfAWE)
 	- consomation des ressource non renouvelables et renouvables.
-	- capital: partie de la production passée que l'on peut conserver pour le mettre au profit de la production future
-	- pollution: degradation des actifs restants (via dss substances indésirables)
-    - prix: empillement de salaire de rente
+	- capital: partie de la production passée que l'on peut conserver pour le mettre au profit de la production future.
+	- pollution: degradation des actifs restants (via dss substances indésirables).
+    - prix: empillement de salaires de rentes lié a une activité de transformation.
+    	- quelqu'un qui croit que la croissance universelle est possible est soit fou soit economiste.
+    - l'énergie: c'est la bibine d'ironman. 
+    	- un humain 100W pour les jambes, 10W pour les bras dans la journée (1kWh).
+        - un mixeur a soupe x4 en consomation (=4 domestique)
+        - un aspirateur x10 (=10 cycliste)
+        - un tracteur  x600
+        - un tractopelle x10000
+        - un laminoir x10 000 000 (une enorme partie de la population)
+	- sans camion Paris meurt de fin
 
 [![caption](https://img.youtube.com/vi/FhBnW7bZHEE/0.jpg)](https://www.youtube.com/watch?v=FhBnW7bZHEE)
