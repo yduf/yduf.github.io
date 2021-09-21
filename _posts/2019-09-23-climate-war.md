@@ -23,6 +23,9 @@ tags: despair.com climate science
     	- la taille de l'économie lié a la taille du parc de machine en service
         - la consomation d'energie est directement lié au nombre de machines
         - le (colume ) de petrole est un facteur limitant de l'economie mondiale
+        - les energies n'ont jamais été substitué, mais au contraire ajoutées les unes aux autres.
+        	- on consomme plus de charbon aujourd'hui que jamais.
+            - habité en ville conduit a consomer plus et produire plus de CO²
         
 	- sans camion Paris meurt de fin
 
