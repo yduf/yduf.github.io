@@ -47,5 +47,8 @@ tags: despair.com climate science
     	- si on voulait remplacer les carburants routier par de l'H il faudrait doubler le reseau electrique existant.
         - pourrait etre interessant seulement pour les laminoirs (reduction des minerais de fer)
         - la generation d'engrais azoté.
+	- l'innovation des challengers
+    - politique: augmenter le pouvoir d'achat et reduire l'empreinte environmental sont en contradiction
+    - les tensions vont augmenter: besoin de force armées
 
 [![caption](https://img.youtube.com/vi/FhBnW7bZHEE/0.jpg)](https://www.youtube.com/watch?v=FhBnW7bZHEE)
