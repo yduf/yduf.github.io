@@ -19,6 +19,10 @@ tags: despair.com climate science
         - un tracteur  x600
         - un tractopelle x10000
         - un laminoir x10 000 000 (une enorme partie de la population)
+    - la capacité de transformation est en moyenne de x200 à x600 comparé a la population humaine.
+    	- la taille de l'économie lié a la taille du parc de machine en service
+        - la consomation d'energie est directement lié au nombre de machines
+        
 	- sans camion Paris meurt de fin
 
 [![caption](https://img.youtube.com/vi/FhBnW7bZHEE/0.jpg)](https://www.youtube.com/watch?v=FhBnW7bZHEE)
