@@ -22,7 +22,7 @@ tags: despair.com climate science
     - la capacité de transformation est en moyenne de x200 à x600 comparé a la population humaine.
     	- la taille de l'économie lié a la taille du parc de machine en service
         - la consomation d'energie est directement lié au nombre de machines
-        - le petrole est un facteur limitant de l'economie mondiale
+        - le (colume ) de petrole est un facteur limitant de l'economie mondiale
         
 	- sans camion Paris meurt de fin
 
