@@ -52,5 +52,10 @@ tags: despair.com climate science
     - les tensions vont augmenter: besoin de force armées
     - quel est la durée d'une esperance de vie descente
     - le point de convergence se fera en dessous de notre pouvoir d'achat / de vie actuel.
+    - climatosceptique : le deni pour se rassurer vis a vis des fait observés
+    	- ultra religieux: la marche du monde est dictée par dieux, l'homme ne peut pas y jouer un role
+        - contrarié dans leur activité: petrolié, ultra-liberale
+        - polytechnicien retraité: impossible d'avoir loupé un pb aussi gros durant votre vis active
+        
 
 [![caption](https://img.youtube.com/vi/FhBnW7bZHEE/0.jpg)](https://www.youtube.com/watch?v=FhBnW7bZHEE)
