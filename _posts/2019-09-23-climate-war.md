@@ -7,5 +7,9 @@ tags: despair.com climate science
 
 - [Jancovici calme Pascal Praud](https://www.youtube.com/watch?v=6Zg1mSPbVBg)
 - [ PIB=energie=CO²](https://www.youtube.com/watch?v=LCZQZMpfAWE)
+	- consomation des ressource non renouvelables et renouvables.
+	- capital: partie de la production passée que l'on peut conserver pour le mettre au profit de la production future
+	- pollution: degradation des actifs restants (via dss substances indésirables)
+    - prix: empillement de salaire de rente
 
 [![caption](https://img.youtube.com/vi/FhBnW7bZHEE/0.jpg)](https://www.youtube.com/watch?v=FhBnW7bZHEE)
