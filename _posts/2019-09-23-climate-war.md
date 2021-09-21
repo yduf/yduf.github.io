@@ -26,6 +26,11 @@ tags: despair.com climate science
         - les energies n'ont jamais été substitué, mais au contraire ajoutées les unes aux autres.
         	- on consomme plus de charbon aujourd'hui que jamais.
             - habité en ville conduit a consomer plus et produire plus de CO²
+            - 60% de la production mondial d'electricité est faite a partir d'énergie fossile (pas de baisse de la quantité de CO²)
+		- le monde sans croissance finira par arriver de toute facon
+			- agriculture manuelle
+            - pas de ville (la plus grande était Rome)
+            - l'energie a transformé les métier et totalement structurer le monde qui nous entoure
         
 	- sans camion Paris meurt de fin
 
