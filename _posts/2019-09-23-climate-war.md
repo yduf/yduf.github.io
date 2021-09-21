@@ -33,5 +33,13 @@ tags: despair.com climate science
             - l'energie a transformé les métier et totalement structurer le monde qui nous entoure
         
 	- sans camion Paris meurt de fin
+    - l'effet sert est connue depuis 2 siecle (et que le CO² en font partie).
+    	- le CO² est inalterable tant qu'il est dans l'air (car c'est un oxyde)
+        	- 2 processus de degradation : mélange dans l'eau, photosynthese
+            - l'inertie du CO²: il faut 1 siecle pour reduire de moitié le taux de CO²
+            - on ne peut plus l'arrêter, on ne peut que limiter ses dérives.
+            - le climat ne sera plus jamais stable, l'energie en jeux est x100 des energies mobilisable au niveau humain.
+            - les 30 prochaines années sont déjà cellées.
+            
 
 [![caption](https://img.youtube.com/vi/FhBnW7bZHEE/0.jpg)](https://www.youtube.com/watch?v=FhBnW7bZHEE)
