@@ -50,5 +50,7 @@ tags: despair.com climate science
 	- l'innovation des challengers
     - politique: augmenter le pouvoir d'achat et reduire l'empreinte environmental sont en contradiction
     - les tensions vont augmenter: besoin de force armées
+    - quel est la durée d'une esperance de vie descente
+    - le point de convergence se fera en dessous de notre pouvoir d'achat / de vie actuel.
 
 [![caption](https://img.youtube.com/vi/FhBnW7bZHEE/0.jpg)](https://www.youtube.com/watch?v=FhBnW7bZHEE)
