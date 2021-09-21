@@ -42,6 +42,10 @@ tags: despair.com climate science
             - les 30 prochaines années sont déjà cellées.
 	- nous vivons dans du pétrole
     	- heureusement les gisements s'épuisent: la quasi totatlié des pays ont passé leur pic
-        
+        - le transport aerien de masse est né avec le petrole et mourra avec le pétrole
+    - l'hydrogene n'est pas une energie mais un vecteur (il faut séparer l'H²O) => donc n'est pas sans emission de CO² (10t de CO² pout 1t de H).
+    	- si on voulait remplacer les carburants routier par de l'H il faudrait doubler le reseau electrique existant.
+        - pourrait etre interessant seulement pour les laminoirs (reduction des minerais de fer)
+        - la generation d'engrais azoté.
 
 [![caption](https://img.youtube.com/vi/FhBnW7bZHEE/0.jpg)](https://www.youtube.com/watch?v=FhBnW7bZHEE)
