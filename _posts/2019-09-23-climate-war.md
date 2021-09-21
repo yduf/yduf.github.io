@@ -40,6 +40,8 @@ tags: despair.com climate science
             - on ne peut plus l'arrêter, on ne peut que limiter ses dérives.
             - le climat ne sera plus jamais stable, l'energie en jeux est x100 des energies mobilisable au niveau humain.
             - les 30 prochaines années sont déjà cellées.
-            
+	- nous vivons dans du pétrole
+    	- heureusement les gisements s'épuisent: la quasi totatlié des pays ont passé leur pic
+        
 
 [![caption](https://img.youtube.com/vi/FhBnW7bZHEE/0.jpg)](https://www.youtube.com/watch?v=FhBnW7bZHEE)
