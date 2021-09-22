@@ -9,5 +9,6 @@ tags: art 3dprint
 - [Déesse chatte Bastet ](https://ateliersartmuseesnationaux.fr/fr/sculptures/RE000037?guid=614a58682d82c)
 - [ARTS-REPRODUCTIONS.COM](http://www.arts-reproductions.com/posts/34-copies-et-reproductions-de-sculptures-statues-bustes-et-statuettes-sur-mesure)
 - [Comment se fabrique une sculpture en bronze](https://www.royaldecorations.fr/comment-se-fabrique-une-sculpture-en-bronze) - La "cire perdue"
+- [réalisation d'une statue en marbre](https://www.youtube.com/watch?v=H5a7oln81hI)
 
 ![caption](https://miro.medium.com/max/1400/1*W_A3tqlt1IfzxvKWvDQJ0w.jpeg)
