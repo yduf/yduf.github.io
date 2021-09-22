@@ -12,4 +12,6 @@ tags: art 3dprint
 - [Comment se fabrique une sculpture en bronze](https://www.royaldecorations.fr/comment-se-fabrique-une-sculpture-en-bronze) - La "cire perdue"
 - [réalisation d'une statue en marbre](https://www.youtube.com/watch?v=H5a7oln81hI)
 
+- [poudre de marbre](https://www.rolandcoster.com/marbre/comment-utiliser-de-la-poudre-de-marbre.html) / [marchant](http://www.lamarchandecouleurs.com/Les-poudres-et-granules-de-marbre-10-1-59.html)
+
 ![caption](https://miro.medium.com/max/1400/1*W_A3tqlt1IfzxvKWvDQJ0w.jpeg)
