@@ -8,6 +8,9 @@ tags: doc remarkable offline graph
 - [six degree of wikipedia](https://www.sixdegreesofwikipedia.com/?source=yves&target=memento) / [HN](https://news.ycombinator.com/item?id=28595821)
 
 ## [Offline wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Database_download)
+
+Using [Kiwix](https://www.kiwix.org/en/) to [offline wikipedia](https://wastalinux.org/tutorials/kiwix/)
+
 - [remarkable-wikipedia](https://github.com/dps/remarkable-wikipedia)
 - [Read-Only Wikipedia on IPFS](https://github.com/ipfs/distributed-wikipedia-mirror#goal-1-read-only-wikipedia-on-ipfs)
 - [Data-Mining Wikipedia for Fun and Profit (billpg.com)](https://news.ycombinator.com/item?id=28234122)
