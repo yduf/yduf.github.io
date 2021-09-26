@@ -32,12 +32,12 @@ z_offset: 2.345
 [Tips](https://www.klipper3d.org/Probe_Calibrate.html#calibrating-probe-x-and-y-offsets): issuing `PROBE` will trigger the use of BLTouch at current position to probe Z-level, and stop when BlTouch trigger.
 
 ### [Setting the probe offset](https://www.youtube.com/watch?v=fN_ndWvXGBQ)
+- X, Y: align on target with PROBE or info from probe support
 - [Z offset](https://www.klipper3d.org/BLTouch.html#calibrating-the-bl-touch-offsets) 
 	- [`PROBE_CALIBRATE`](https://www.klipper3d.org/Probe_Calibrate.html?h=probe_calib#calibrating-probe-z-offset) at room temperature
     - then use [`TESTZ Z=-.1`](https://www.klipper3d.org/Bed_Level.html#the-paper-test) to adjust until head reach bed (as [in paper test](https://www.klipper3d.org/Bed_Level.html#the-paper-test))
     - when complete `ACCEPT`
     - and finally  `SAVE_CONFIG` to integrate the value in config files
-- X, Y: align on target with PROBE
 
 - [Repeatability check](https://www.klipper3d.org/Probe_Calibrate.html#repeatability-check)  -  it is a good idea to verify that the probe provides repeatable results. see `PROBE_ACCURACY`. If the difference between the minimum reported z_offset and the maximum reported z_offset is greater than 25 microns (.025mm) then the probe is not suitable for typical bed leveling procedures.
 
