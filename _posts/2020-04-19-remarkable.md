@@ -9,7 +9,7 @@ see also
 - [reMarkable Developper Notes]({% post_url 2021-02-04-remarkable-dev %})
 - [reMarkable Hardware]({% post_url 2021-02-05-remarkable-hardware %})
 ## <span style="color:red">**DONT do a FACTORY RESET**</span>
-> If you start messing with the device and something doesnt work out, DONT do a FACTORY RESET - [(1)](https://www.reddit.com/r/RemarkableTablet/comments/kmae1e/if_you_start_messing_with_the_device_and/) / [Bricked](https://www.reddit.com/r/RemarkableTablet/comments/km1mgy/bricked_i_have_my_root_password_but_cant_log_in/)
+> If you start messing with the device and something doesnt work out, <span style="color:red">**DONT do a FACTORY RESET**</span> - [(1)](https://www.reddit.com/r/RemarkableTablet/comments/kmae1e/if_you_start_messing_with_the_device_and/) / [Bricked](https://www.reddit.com/r/RemarkableTablet/comments/km1mgy/bricked_i_have_my_root_password_but_cant_log_in/)
 - [How I bricked then recovered my reMarkable 2](https://operand.ca/2021/09/27/how_i_bricked_then_recovered_my_remarkable_2.html) / [HN](https://news.ycombinator.com/item?id=28671743)
 
 ## Tips
