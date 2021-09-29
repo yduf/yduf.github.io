@@ -3,7 +3,7 @@ published: true
 title: Video Streaming
 tags: video streaming raspberry-pi
 ---
-## [ Stream  MJPG video (µStreamer)]({% post_url 2020-07-23-ustreamer %})
+see also [ Stream  MJPG video (µStreamer)]({% post_url 2020-07-23-ustreamer %})
 
 # stream into H.264 format
 
