@@ -10,6 +10,7 @@ tags: raspberry-pi network security wifi
 ![caption](https://www.zahradnik.io/static/49a5b7f7d5b78bfbfd1c6b4e2224c900/4a492/rpi_final_router_build.webp)
 
 ## [PI4 Firewall](https://www.instructables.com/Raspberry-Pi4-Firewall/)
+- [Raspberry Pi as a Router Using a Single Network Interface](https://louwrentius.com/raspberry-pi-as-a-router-using-a-single-network-interface.html) / [HN](https://news.ycombinator.com/item?id=28696845)
 - [How to use Raspberry Pi as a Wireless Router with Firewall?](https://raspberrytips.com/raspberry-pi-firewall/)
 - [Using the UFW Firewall on the Raspberry Pi](https://pimylifeup.com/raspberry-pi-ufw/) -  uncomplicated firewall
 - [Raspberry Pi Firewall and Intrusion Detection System](https://www.instructables.com/Raspberry-Pi-Firewall-and-Intrusion-Detection-Syst/)
