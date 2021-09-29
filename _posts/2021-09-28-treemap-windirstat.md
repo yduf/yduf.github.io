@@ -7,7 +7,7 @@ tags: disk treemap
 
 - [ ariccio/altWinDirStat](https://github.com/ariccio/altWinDirStat) - An unofficial modification of WinDirStat. Tremendous performance improvements.
 
-It uses treemap to represents each file as a colored rectangle, the area of which is proportional to the file's size.
+It uses [treemap](https://www.data-to-viz.com/graph/treemap.html) to represents each file as a colored rectangle, the area of which is proportional to the file's size.
 
 - [Cushion Treemaps: Visualization of Hierarchical Information](https://www.win.tue.nl/~wstahw/publications/papers/ctm.pdf)
 
