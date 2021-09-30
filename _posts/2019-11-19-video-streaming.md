@@ -7,6 +7,8 @@ see also [ Stream  MJPG video (µStreamer)]({% post_url 2020-07-23-ustreamer %})
 
 # stream into H.264 format
 
+- [Raspberry Pi Hardware Accelerated RTSP Camera](https://codecalamity.com/raspberry-pi-hardware-accelerated-h264-webcam-security-camera/) - use hardware accelerated ffmpeg library h264_omx to encode the webcam stream.
+
 ## [User space Video4Linux (UV4L)](http://www.linux-projects.org/uv4l/)
 > UV4L was originally conceived as a modular collection of Video4Linux2-compliant, cross-platform, user space drivers for real or virtual video input and output devices (with absolutely no external difference from kernel drivers).
 
