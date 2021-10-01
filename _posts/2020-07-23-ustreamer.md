@@ -10,5 +10,5 @@ tags: video streaming raspberry-pi
 If you're going to live-stream from your backyard webcam and need to control it, use mjpg-streamer. If you need a high-quality image with high FPS - µStreamer for the win.
 
 see also:
-- use octopring [Multi-cam Plugin](https://plugins.octoprint.org/plugins/multicam/) to connect µStreamer 
+- use octoprint [Multi-cam Plugin](https://plugins.octoprint.org/plugins/multicam/) to connect µStreamer 
 - [Raspberry Pi Hardware Accelerated RTSP Camera](https://codecalamity.com/raspberry-pi-hardware-accelerated-h264-webcam-security-camera/) - use hardware accelerated ffmpeg library h264_omx to encode the webcam stream.
