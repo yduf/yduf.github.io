@@ -1,7 +1,7 @@
 ---
 published: true
 title: Slicer Options
-tags: 3dprint
+tags: 3dprint cura
 ---
 
 
