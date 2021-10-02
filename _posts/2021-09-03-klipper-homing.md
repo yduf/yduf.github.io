@@ -56,6 +56,7 @@ z_offset: 2.345
 - `BED_MESH_CALIBRATE` - [Initiates the probing procedure for Bed Mesh Calibration.](https://www.klipper3d.org/Bed_Mesh.html#calibration)
 - `BED_MESH_PROFILE SAVE=default` - [save profile](https://www.klipper3d.org/Bed_Mesh.html#profiles):
 - default profile is automatically loaded when Klipper starts. 
+- [BED_MESH_CLEAR](https://www.klipper3d.org/Bed_Mesh.html#clear-mesh-state) - Clear Mesh State
 
 output can be vizualised with [OctoPrint-BedLevelVisualizer](https://github.com/jneilliii/OctoPrint-BedLevelVisualizer/) and `BED_MESH_OUTPUT` gcode.
 
