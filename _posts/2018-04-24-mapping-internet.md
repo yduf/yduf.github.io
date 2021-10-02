@@ -1,8 +1,7 @@
 ---
-title: Scanning the internet 
+title: Scanning the internet
 published: true
 tags: internet space curve scan math
-excerpt_separator: ""
 ---
 # [article](https://blog.benjojo.co.uk/post/scan-ping-the-internet-hilbert-curve)
 
@@ -10,4 +9,5 @@ excerpt_separator: ""
 
 You can scan the whole internet in about an hour. I had luck using AWS and [zmap](https://github.com/zmap/zmap).
 
-[xkcd](https://www.xkcd.com/195/)
+- [xkcd](https://www.xkcd.com/195/)
+- [submarine cable](https://globe.gl/example/submarine-cables/)
