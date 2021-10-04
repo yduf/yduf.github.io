@@ -1,7 +1,7 @@
 ---
 published: true
 title: How to Draw Faces
-tags: drawing
+tags: drawing face
 ---
 - [How to Draw Faces for Beginners](https://www.youtube.com/watch?v=bgI8pqezB-c&list=LLEHh-ETl6AiChwRjCmF-joA&index=24)
 - [Comment dessiner un visage Manga](https://www.youtube.com/watch?v=GZUBEpNuTLM)
