@@ -9,6 +9,9 @@ tags: computer-vision
     - Detecting a face using Dlib
     - MTCNN
     - Facenet
+    - [OpenFace](https://cmusatyalab.github.io/openface/)
+
+- [Face Landmark Detection ](https://www.youtube.com/watch?v=V9bzew8A1tc)
 
 - [insightface](https://github.com/deepinsight/insightface)
 	- [RetinaFace-tf2](https://github.com/StanislasBertrand/RetinaFace-tf2)
