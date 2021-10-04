@@ -11,7 +11,7 @@ tags: computer-vision
     - Facenet
     - [OpenFace](https://cmusatyalab.github.io/openface/)
 
-- [Face Landmark Detection ](https://www.youtube.com/watch?v=V9bzew8A1tc)
+- [Face Landmark Detection ](https://www.youtube.com/watch?v=V9bzew8A1tc) / [Murtaza's Workshop](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/videos)
 
 - [insightface](https://github.com/deepinsight/insightface)
 	- [RetinaFace-tf2](https://github.com/StanislasBertrand/RetinaFace-tf2)
