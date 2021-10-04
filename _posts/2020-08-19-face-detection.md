@@ -13,6 +13,8 @@ tags: computer-vision
 
 - [Face Landmark Detection ](https://www.youtube.com/watch?v=V9bzew8A1tc) / [Murtaza's Workshop](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/videos)
 
+- [Face Body and Hand Pose Detection with Python and Mediapipe](https://www.youtube.com/watch?v=pG4sUNDOZFg)
+
 - [insightface](https://github.com/deepinsight/insightface)
 	- [RetinaFace-tf2](https://github.com/StanislasBertrand/RetinaFace-tf2)
 
