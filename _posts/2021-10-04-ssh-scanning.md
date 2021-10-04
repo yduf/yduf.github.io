@@ -7,7 +7,7 @@ tags: ssh security internet
 
 
 - Implement a firewall on your instances.
-- Implement [port knocking](https://en.wikipedia.org/wiki/Port_knocking) for sshd. -  similar to a secret handshake
+- Implement [port knocking](https://en.wikipedia.org/wiki/Port_knocking) for [sshd](https://www.atlantic.net/vps-hosting/how-to-secure-ssh-service-with-port-knocking/). -  similar to a secret handshake
 - Move sshd to a non standard port to avoid the nmap/bot noise.
 - Only log successful logins.
 - Any combination of the above.
