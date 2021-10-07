@@ -5,14 +5,14 @@ tags: computer-vision
 ---
 - [Face detection algorithms comparison](http://datahacker.rs/017-face-detection-algorithms-comparison/)
 	- OpenCV Haarcascade
-    	- Haar-like features (edge, line, four rectangle features)
-		- Integral Image - compute sum once, then 4 point give the integral inside the given rectangle
     - OpenCV DNN
     - Detecting a face using Dlib
     - MTCNN
     - Facenet
     - [OpenFace](https://cmusatyalab.github.io/openface/)
     - The Viola-Jones Algorithm (2001)
+    	- Haar-like features (edge, line, four rectangle features)
+		- Integral Image - compute sum once, then 4 point give the integral inside the given rectangle
     
 
 - [Face Landmark Detection ](https://www.youtube.com/watch?v=V9bzew8A1tc) / [Murtaza's Workshop](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/videos)
