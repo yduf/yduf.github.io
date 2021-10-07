@@ -5,7 +5,7 @@ tags: computer-vision
 ---
 - [Face detection algorithms comparison](http://datahacker.rs/017-face-detection-algorithms-comparison/)
 	- OpenCV Haarcascade
-    	- Haar-like features
+    	- Haar-like features (edge, line, four rectangle features)
     - OpenCV DNN
     - Detecting a face using Dlib
     - MTCNN
