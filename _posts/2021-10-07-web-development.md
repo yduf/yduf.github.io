@@ -14,9 +14,10 @@ tags: web
 <!DOCTYPE html>
 <html>
 	<head>
-      <title></title>
+      <title>website</title>
   </head>
   <body>
+    Hello World
   </body>
 </html>
 {% endhighlight %}
