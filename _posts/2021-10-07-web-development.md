@@ -24,11 +24,13 @@ tags: web
 
 tag and element are the same
 
-- `<h1>` .. `h6` 
+- `<h1>` .. `h6` header
 - `<p>` paragraph
 - `<b>` (bold) and `<i>` (italic) - outdated and remplaced by `<strong>` and `<em>` (emphasize)
 - `<ul> start a list, can be nested
 	- `<li>` list element
+    
+- `<a href="url>text</a>"` - anchor tag = link
     
     
 Self closing tags
