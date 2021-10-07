@@ -5,6 +5,10 @@ tags: vscode docker
 ---
 > use a Docker container as a full-featured development environment. It allows you to open any folder inside (or mounted into) a container and take advantage of Visual Studio Code's full feature set. - [Getting started](https://code.visualstudio.com/docs/remote/containers)
 
+
+- Remote-Containers: Open Folder in Container
+- Reopen Folder localy (exit)
+
 ### [create .devcontainer/devcontainer.json](https://code.visualstudio.com/docs/remote/create-dev-container)
 {% highlight json %}
 {
