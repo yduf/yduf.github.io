@@ -10,7 +10,7 @@ tags: web
 
 ## [HTML](https://www.w3schools.com/tags/default.asp)
 
-tag / element are the same
+tag and element are the same
 
 {% highlight html %}
 <!DOCTYPE html>
