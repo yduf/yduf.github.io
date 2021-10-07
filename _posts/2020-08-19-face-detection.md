@@ -13,6 +13,7 @@ tags: computer-vision
     - The Viola-Jones Algorithm (2001)
     	- Haar-like features (edge, line, four rectangle features)
 		- Integral Image - compute sum once, then 4 point give the integral inside the given rectangle
+        - Adaboost - build a strong classifier from weaker one, complementing each previous one
     
 
 - [Face Landmark Detection ](https://www.youtube.com/watch?v=V9bzew8A1tc) / [Murtaza's Workshop](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/videos)
