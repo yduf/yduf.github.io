@@ -33,4 +33,4 @@ tag and element are the same
     
 Self closing tags
 - `<br>`
-- `<img src="url" >`
+- `<img src="url" alt="text to read" width="11" height="12">`
