@@ -3,7 +3,7 @@ published: true
 title: System from scratch
 tags: system quote
 ---
-> Once you pass college, excessive theory is worse than no theory because it makes things seem more difficult than they really are. - [How to create an OS from scratch](https://news.ycombinator.com/item?id=18036538)
+> Excessive theory is worse than no theory because it makes things seem more difficult than they really are. - [How to create an OS from scratch](https://news.ycombinator.com/item?id=18036538)
 
 - [Writing a “bare metal” operating system for Raspberry Pi 4](https://news.ycombinator.com/item?id=28774022)
 
