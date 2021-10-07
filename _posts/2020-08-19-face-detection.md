@@ -10,6 +10,7 @@ tags: computer-vision
     - MTCNN
     - Facenet
     - [OpenFace](https://cmusatyalab.github.io/openface/)
+    - The Viola-Jones Algorithm (2001)
 
 - [Face Landmark Detection ](https://www.youtube.com/watch?v=V9bzew8A1tc) / [Murtaza's Workshop](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/videos)
 
