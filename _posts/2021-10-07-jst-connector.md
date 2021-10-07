@@ -11,4 +11,7 @@ tags: electronic hardware
 - [JST GH](https://www.jst-mfg.com/product/detail_e.php?series=105) - 1.25 mm
 - [JST SH](https://www.jst-mfg.com/product/detail_e.php?series=231) - 1.0 mm
 
-![caption](https://static.rcgroups.net/forums/attachments/6/9/1/2/6/a4299116-115-4%20JST%20%20Plugs.jpg)
+
+- ["JST" connector confusion - the real story](https://www.rcgroups.com/forums/showthread.php?1493712-JST-connector-confusion-the-real-story)
+
+[![caption](https://static.rcgroups.net/forums/attachments/6/9/1/2/6/a4299116-115-4%20JST%20%20Plugs.jpg)](https://www.rcgroups.com/forums/showthread.php?1493712-JST-connector-confusion-the-real-story)
