@@ -8,7 +8,7 @@ tags: web
 - JQuery - outdated - library used as compatibility layer between browser
 - LAMP stack - somewhat outdated as well - **L**inux **A**pache **M**ySQL **P**HP
 
-## HTML
+## [HTML](https://www.w3schools.com/tags/default.asp)
 
 {% highlight html %}
 <!DOCTYPE html>
