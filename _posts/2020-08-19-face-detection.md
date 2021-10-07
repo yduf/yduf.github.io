@@ -12,6 +12,8 @@ tags: computer-vision
     - Facenet
     - [OpenFace](https://cmusatyalab.github.io/openface/)
     - The Viola-Jones Algorithm (2001)
+    
+- Integral Image - compute sum once, then 4 point give the integral inside the given rectangle
 
 - [Face Landmark Detection ](https://www.youtube.com/watch?v=V9bzew8A1tc) / [Murtaza's Workshop](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/videos)
 
