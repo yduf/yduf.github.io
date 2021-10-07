@@ -10,3 +10,5 @@ tags: electronic hardware
 - [JST ZH](https://www.jst-mfg.com/product/detail_e.php?series=287) - 1.5 mm
 - [JST GH](https://www.jst-mfg.com/product/detail_e.php?series=105) - 1.25 mm
 - [JST SH](https://www.jst-mfg.com/product/detail_e.php?series=231) - 1.0 mm
+
+![caption](https://static.rcgroups.net/forums/attachments/6/9/1/2/6/a4299116-115-4%20JST%20%20Plugs.jpg)
