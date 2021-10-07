@@ -3,4 +3,5 @@ published: true
 title: Dunning-Kruger Effect
 tags: psychology effect
 ---
-> the bias results from an internal illusion in people of low ability and from an external misperception in people of high ability; that is, "the miscalibration of the incompetent stems from an error about the self, whereas the miscalibration of the highly competent stems from an error about others". - [youtube](https://www.youtube.com/watch?v=YY0mRL1xmws) / [wikipedia](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
+> This is typically understood as incompetent people are too incompetent to determine that they are incompetent, but its lesser-known corollary is that competent people assume everyone else is competent too, and thus they don’t have to explain themselves.   
+> Once you understand this, the reason for poor communication becomes clear. - [youtube](https://www.youtube.com/watch?v=YY0mRL1xmws) / [wikipedia](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) / [HN](https://news.ycombinator.com/item?id=28778581)
