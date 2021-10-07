@@ -10,8 +10,6 @@ tags: web
 
 ## [HTML](https://www.w3schools.com/tags/default.asp)
 
-tag and element are the same
-
 {% highlight html %}
 <!DOCTYPE html>
 <html>
@@ -23,3 +21,16 @@ tag and element are the same
   </body>
 </html>
 {% endhighlight %}
+
+tag and element are the same
+
+- `<h1>` .. `h6` 
+- `<p>` paragraph
+- `<b>` (bold) and `<i>` (italic) - outdated and remplaced by `<strong>` and `<em>` (emphasize)
+- `<ul> start a list, can be nested
+	- `<li>` list element
+    
+    
+Self closing tags
+- `<br>`
+- `<img src="url" >`
