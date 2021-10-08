@@ -31,6 +31,7 @@ or refering to Dockerfile
 Then => *Remote-Containers: Reopen in Container*
 
 Docker-compose can be use [as well](https://code.visualstudio.com/docs/remote/create-dev-container#_use-docker-compose).
+- [Seamless Multi-Container Live Debugging in VSCode](https://medium.com/microsoftazure/seamless-multi-container-multi-root-workspaces-debugging-in-vscode-devcontainers-on-steroid-54d7cff4ff77)
 
 ### [Adding a non-root user to your dev container](https://code.visualstudio.com/docs/remote/containers-advanced#_adding-a-nonroot-user-to-your-dev-container)
 
