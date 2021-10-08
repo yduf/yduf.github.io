@@ -18,6 +18,7 @@ services:
       - .:/code
     environment:
       FLASK_ENV: development
+
   redis:
     image: "redis:alpine"
 {% endhighlight %}
