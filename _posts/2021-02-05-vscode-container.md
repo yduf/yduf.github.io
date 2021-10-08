@@ -21,7 +21,10 @@ or refering to Dockerfile
 {% highlight json %}
 {
     "dockerFile": "Dockerfile",
-    "remoteUser": "yves"
+    "remoteUser": "yves",
+    "mounts": [
+        "source=/home/yves/DEV/reMarkable/cairo,target=/home/yves/DEV/reMarkable/cairo,type=bind,consistency=cached"
+      ]
 }
 {% endhighlight %}
 
