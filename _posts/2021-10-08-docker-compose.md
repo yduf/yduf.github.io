@@ -5,6 +5,29 @@ tags: docker
 ---
 > a tool for defining parameters to running multi-container Docker application. - [Docker Compose](https://docs.docker.com/compose/)
 
+## [`docker-compose.yml`](https://docs.docker.com/compose/gettingstarted/#step-3-define-services-in-a-compose-file)
+
+{% highlight yaml %}
+version: "3.9"
+services:
+  web:
+    build: .
+    ports:
+      - "5000:5000"
+    volumes:
+      - .:/code
+    environment:
+      FLASK_ENV: development
+  redis:
+    image: "redis:alpine"
+{% endhighlight %}
+
+{% highlight bash %}
+docker-compose up .
+{% endhighlight %}
+
+
+
 ## [Install](https://dev.to/elalemanyo/how-to-install-docker-and-docker-compose-on-raspberry-pi-1mo)
 Docker-Compose usually gets installed using pip3
 
