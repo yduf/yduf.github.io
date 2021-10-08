@@ -12,13 +12,13 @@ version: "3.9"
 services:
   web:
     build: .
+    environment:
+      FLASK_ENV: development
     ports:
       - "5000:5000"
     volumes:
       - .:/code
-    environment:
-      FLASK_ENV: development
-   devices:
+    devices:
    	  - /dev/video0:/dev/video0
 
   redis:
