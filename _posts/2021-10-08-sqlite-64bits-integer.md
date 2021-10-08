@@ -18,3 +18,10 @@ Signed 64bits:
 Unsigned 64bits:
 [ 0, 18446744073709551615 (2^64-1)]
 
+### Note
+you can query the underlying type use for storage
+
+{% highlight sql %}
+INSERT INTO file VALUES (18446744073709551615, 9223372036854775807, -9223372036854775808, 9223372036854775808);
+SELECT typeof(h1), typeof(h2), typeof(h3) FROM file;
+{% endhighlight %}
