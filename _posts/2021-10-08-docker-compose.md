@@ -23,6 +23,8 @@ services:
 
   redis:
     image: "redis:alpine"
+    command: /bin/sh -c "while sleep 1000; do :; done"
+
 {% endhighlight %}
 
 {% highlight bash %}
