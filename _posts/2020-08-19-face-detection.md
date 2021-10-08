@@ -25,6 +25,9 @@ tags: computer-vision
 - [insightface](https://github.com/deepinsight/insightface)
 	- [RetinaFace-tf2](https://github.com/StanislasBertrand/RetinaFace-tf2)
 
+## [dlib](https://www.pyimagesearch.com/2021/04/19/face-detection-with-dlib-hog-and-cnn/)
+- HOG + Linear SVM: dlib.get_frontal_face_detector() - use less cpu but less reliable
+- MMOD CNN: dlib.cnn_face_detection_model_v1(modelPath) - would take advangate of gpu, more reliable
 
 ### Profile Face
 
