@@ -8,6 +8,24 @@ tags: 3dprint
 
 ![caption](http://www.3dbenchy.com/wp-content/uploads/2015/04/3DBenchy_frontpage_slider_sea_v041-1910x500.jpg)
 
+## Print Analysis
+- [first layer (bottom)](https://youtu.be/t_7EMnQ6Rlc?t=220)
+- [intermedaite](https://youtu.be/t_7EMnQ6Rlc?t=264)
+	- overhang
+    - gradient heat coming from the bed
+- [narrow section](https://youtu.be/t_7EMnQ6Rlc?t=281)
+	- too hot (need fan cooling) / too much speed
+    
+Surface quality
+- Zebra stripe
+
+Extrusion / Retraction
+- stringing inside the cabin
+
+[Bridging & Overhang](https://youtu.be/t_7EMnQ6Rlc?t=430)
+- roof
+
+[Fine detail](https://youtu.be/t_7EMnQ6Rlc?t=487)
 
 ## Cura / Printer Setting
 
