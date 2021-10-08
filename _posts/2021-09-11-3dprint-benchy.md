@@ -26,6 +26,7 @@ Extrusion / Retraction
 - roof
 
 [Fine detail](https://youtu.be/t_7EMnQ6Rlc?t=487)
+- hole & text at the back
 
 ## Cura / Printer Setting
 
