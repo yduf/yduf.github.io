@@ -39,3 +39,5 @@ tags: computer-vision
 - [How to detect individual body parts in an image](https://answers.opencv.org/question/35912/how-to-detect-individual-body-parts-in-an-image/)
 - [OpenCV - detection of human body](https://forum.allaboutcircuits.com/threads/opencv-detection-of-human-body.177529/#post-1615311)
 - [Yolo  Human_Detection](https://github.com/mike98465/Human_Detection)
+- [Person Detection using YOLO and OpenCV](https://www.data-stats.com/person-detection-using-yolo-and-opencv/)
+	- [Yolo v3](https://www.youtube.com/watch?v=MPU2HistivI)
