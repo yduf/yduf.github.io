@@ -13,7 +13,7 @@ services:
   web:
     build: .
     environment:
-      FLASK_ENV: development
+      - FLASK_ENV: development
     ports:
       - "5000:5000"
     volumes:
