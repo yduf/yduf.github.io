@@ -30,6 +30,8 @@ or refering to Dockerfile
 
 Then => *Remote-Containers: Reopen in Container*
 
+Docker-compose can be use [as well](https://code.visualstudio.com/docs/remote/create-dev-container#_use-docker-compose).
+
 ### [Adding a non-root user to your dev container](https://code.visualstudio.com/docs/remote/containers-advanced#_adding-a-nonroot-user-to-your-dev-container)
 
 `.devcontainer/Dockerfile` can be used to add user definition
