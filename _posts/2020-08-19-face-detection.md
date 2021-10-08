@@ -33,3 +33,8 @@ tags: computer-vision
 	- [Feature detection in profile face images](https://stackoverflow.com/questions/22145565/feature-detection-in-profile-face-images)
 
 ![caption](https://raw.githubusercontent.com/deepinsight/insightface/master/resources/facerecognitionfromvideo.PNG) <!-- .element height="50%" width="50% ustify-content="left" -->
+
+
+### Body detection
+- [How to detect individual body parts in an image](https://answers.opencv.org/question/35912/how-to-detect-individual-body-parts-in-an-image/)
+- [OpenCV - detection of human body](https://forum.allaboutcircuits.com/threads/opencv-detection-of-human-body.177529/#post-1615311)
