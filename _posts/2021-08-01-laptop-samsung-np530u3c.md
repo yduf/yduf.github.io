@@ -12,5 +12,5 @@ tags: laptop
 
 - [demontage](https://www.youtube.com/watch?v=Awg1ONCVLZk)
 - [Samsung NP540U3C Service Manual](https://www.manualslib.com/manual/884572/Samsung-Np540u3c.html)
-- [replace LCD screen ](https://www.youtube.com/watch?v=CONvDXT2_6o)
+- [replace LCD screen ](https://www.youtube.com/watch?v=CONvDXT2_6o) / [demontage](https://www.youtube.com/watch?v=X-N1EvbsMYg)
 	- [connector removal](https://youtu.be/NwB59K_iwJ8?t=216) / [connection](https://www.youtube.com/watch?v=BDm1zMIIywA)
