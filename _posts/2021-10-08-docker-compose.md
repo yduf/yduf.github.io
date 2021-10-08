@@ -27,6 +27,8 @@ services:
 
 {% endhighlight %}
 
+Launching services
+
 {% highlight bash %}
 docker-compose up .
 {% endhighlight %}
