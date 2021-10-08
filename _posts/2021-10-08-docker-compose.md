@@ -18,6 +18,8 @@ services:
       - .:/code
     environment:
       FLASK_ENV: development
+   devices:
+   	  - /dev/video0:/dev/video0
 
   redis:
     image: "redis:alpine"
