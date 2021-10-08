@@ -23,4 +23,11 @@ tags: computer-vision
 - [insightface](https://github.com/deepinsight/insightface)
 	- [RetinaFace-tf2](https://github.com/StanislasBertrand/RetinaFace-tf2)
 
+
+### Profile Face
+
+- [why it cannot detect some profile face?](https://answers.opencv.org/question/204685/why-it-cannot-detect-some-profile-face/)
+- [Face Detection with OpenCV for non frontal images](https://stackoverflow.com/questions/8798670/face-detection-with-opencv-for-non-frontal-images)
+	- [Feature detection in profile face images](https://stackoverflow.com/questions/22145565/feature-detection-in-profile-face-images)
+
 ![caption](https://raw.githubusercontent.com/deepinsight/insightface/master/resources/facerecognitionfromvideo.PNG) <!-- .element height="50%" width="50% ustify-content="left" -->
