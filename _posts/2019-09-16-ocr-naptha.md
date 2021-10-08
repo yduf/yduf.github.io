@@ -11,6 +11,6 @@ Project Naptha](https://projectnaptha.com/)
 - [image-translate](https://www.imagetranslate.com/)
 
 see also
-- [Text Detection on Nokia N900 Using Stroke Width Transform ](https://sites.google.com/site/roboticssaurav/strokewidthnokia)
+- [Text Detection on Nokia N900 Using Stroke Width Transform ](https://sites.google.com/site/roboticssaurav/strokewidthnokia) / [DetectText](https://github.com/aperrault/DetectText)
 
 ![caption](https://projectnaptha.com/img/fast-translate.gif)
