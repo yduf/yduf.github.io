@@ -17,6 +17,7 @@ tags: computer-vision
     
 
 - [Face Landmark Detection ](https://www.youtube.com/watch?v=V9bzew8A1tc) / [Murtaza's Workshop](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/videos)
+	- [Latest Pose Estimation Realtime ](https://www.youtube.com/watch?v=brwgBf6VB0I)
 
 - [Face Body and Hand Pose Detection with Python and Mediapipe](https://www.youtube.com/watch?v=pG4sUNDOZFg)
 
