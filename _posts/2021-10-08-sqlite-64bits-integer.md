@@ -12,6 +12,7 @@ SQLite is pretty straight-forward about this. From the [datatype reference](http
 That is, you can only store values from -2^63 to 2^63-1.
 What does SQLite do for a value outside of this range? As we saw earlier, it switches over into floating point.
 
+### [64-Bit Integer Types](https://sqlite.org/c3ref/int64.html)
 Signed 64bits:  
 [ -9223372036854775808 (-2^63), 9223372036854775807 (2^63-1)]
 
