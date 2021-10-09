@@ -3,6 +3,7 @@ published: true
 title: Array (Ruby)
 tags: ruby array
 ---
+> [Array](https://ruby-doc.org/core-3.0.1/Array.html)
 
 ### [Splitting an array into equal parts in ruby](https://exceptionshub.com/splitting-an-array-into-equal-parts-in-ruby.html)
 
