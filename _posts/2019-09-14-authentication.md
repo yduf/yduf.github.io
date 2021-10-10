@@ -3,7 +3,7 @@ published: true
 title: Identity?
 tags: security password pam mental-model
 ---
-> The traditional definition of multi-factor authentication (although I couldn't find a reference to where  it originated) is that you should have two or more of:
+> The traditional definition of multi-factor authentication (although I couldn't find a reference to where  it originated) is that you should have two or more of:   
 > Something you know (eg. a password)   
 > Something you have (eg. a card)   
 > Something you are (eg. a fingerprint or retinal scan).   
