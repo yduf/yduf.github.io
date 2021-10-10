@@ -16,3 +16,8 @@ This require to add the launcher app to panel (default panel, allows only unpin,
         - [STL Thumbnailer](https://github.com/Spiritdude/Nautilus_Thumbnailer_STL)
         - [openscad/stl](https://github.com/yorikvanhavre/openscad-thumbnailers)
 - [disabling thumbnail cache](https://forums.linuxmint.com/viewtopic.php?t=203366)
+
+## Updating
+- [How to upgrade to Linux Mint 20](https://linuxmint-user-guide.readthedocs.io/en/latest/upgrade-to-mint-20.html)
+- [How to upgrade to Linux Mint 19](https://community.linuxmint.com/tutorial/view/2416)
+    - `sudo touch /etc/timeshift.json`
