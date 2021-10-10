@@ -35,6 +35,7 @@ Caused by
 - Z-wobble
 - pooli on motors X/Y/extruder
 - speed (if not enough extrusion) => test pattern
+- wobble on extruder gear
 
 
 ## Cura / Printer Setting
