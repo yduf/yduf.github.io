@@ -28,6 +28,15 @@ Extrusion / Retraction
 [Fine detail](https://youtu.be/t_7EMnQ6Rlc?t=487)
 - hole & text at the back
 
+## [Ugly layers](https://www.youtube.com/watch?v=a3oQy6v3MrA)
+Caused by
+- inconsistent layer height
+- inconsistent extrusion
+- Z-wobble
+- pooli on motors X/Y/extruder
+- speed (if not enough extrusion) => test pattern
+
+
 ## Cura / Printer Setting
 
 0.28 / print  **50** mm/s / travel _150_ mm/s  / 215°C / Klipper max_accel: 3000 mm/sec²
