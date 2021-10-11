@@ -20,3 +20,10 @@ Browser Javascript console can be used as interactive environment
 
 ### === / !== comparison
 
+### Variables
+
+can start with _ or $
+
+{% highlight javascript %}
+var hello="world";
+{% endhighlight %}
