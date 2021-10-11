@@ -182,6 +182,12 @@ h2 + p { /* all p elements exactly after h2 */
 - padding
 - margin
 - width / height
+  
+Dimension
+- px - size in pixel
+- 80%
+- 3em - 3x the current element size
+- 3rem - 3x the root element size
 
 
 ## see also:
