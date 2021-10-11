@@ -28,8 +28,14 @@ can start with \_ or \$
 {% highlight javascript %}
 var hello="world";
 var age=Number( prompt("enter your age"));
+{% endhighlight %}
+
+### Array
+
+{% highlight javascript %}
 var list = ["tiger","cat"];		// array indexed from 0
 {% endhighlight %}
+
 
 ### Functions
 Helpers
