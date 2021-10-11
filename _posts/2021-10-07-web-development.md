@@ -108,13 +108,14 @@ Can also be specified inline
 
 ### Properties - [CSS Tricks](https://css-tricks.com/almanac)
 - `color: red;`
-- `text-align: center;`
 - `border : 5px solid purple;`
 - `background-image: url(backgroundimage.jpg)`;
 	- `background-size: cover;`
 - `cursor: pointer;`
 - `display: inline-block;`
 
+Text
+- `text-align: center;`
 - `text-decoration:`
 - `text-transform:`
 - `line-height: 20px;`
@@ -123,6 +124,10 @@ Can also be specified inline
 - `font-size: 80%;`
 - `font-family: "Times new Roman", Georgia;`
 	- custom font can be specifieds, see also google.font - **make websiste slower**
+
+Image
+- `float: left;` - force image on left and allow text to fill on the right.
+- `clear: both`  - remove float propertie for selected selector
 
 ### Selectors
 
