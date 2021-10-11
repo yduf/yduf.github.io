@@ -18,6 +18,7 @@ Browser Javascript console can be used as interactive environment, with history 
 - 10 - "3"  => 7
 - "hello" - "bie" => NaN
 - Undefined - variable not assigned
+- nullObj / null
 
 ### === / !== comparison
 
