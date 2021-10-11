@@ -201,6 +201,10 @@ Dimension
   flex-wrap: wrap;
 }
 {% endhighlight %}
+  
+### Bootstrap
+  
+Reuse somebody else CSS
 
 ## see also:
 - [CSS specificity calculator](https://specificity.keegan.st)
