@@ -125,7 +125,7 @@ Element can also uniquely identified by `id`
 {% endhighlight %}
 
 {% highlight css %}
-* { /* default style */
+* { /* apply to all elements */
 }
 
 h2, p { /* combined style for h2 and p*/
