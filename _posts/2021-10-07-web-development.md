@@ -209,6 +209,7 @@ Dimension
 - 3rem - 3x the root element size
   
 ### [FlexBox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+Mainly one dimenssional Grid
 
 - [flexbox froggy](https://flexboxfroggy.com/) - a game to learn flexbox
   
@@ -218,6 +219,13 @@ Dimension
   flex-wrap: wrap;
 }
 {% endhighlight %}
+  
+### CSS Grid
+  
+complement Flexbox
+2 Dimensional Grid
+
+Both should be able to replace Bootstrap container.
   
 ## [Bootstrap](https://getbootstrap.com/)
   
