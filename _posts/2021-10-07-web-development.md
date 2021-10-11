@@ -221,7 +221,7 @@ Dimension
   
 ## [Bootstrap](https://getbootstrap.com/)
   
-Reuse somebody else CSS + **Javascript** for component
+Reuse somebody else's CSS + **Javascript** for component
 
 ## see also:
 - [CSS specificity calculator](https://specificity.keegan.st)
