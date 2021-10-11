@@ -41,6 +41,9 @@ var list = ["tiger","cat"];		// array indexed from 0
 var user = {
 	name: "john",
     age: 34,
+    shout: function() {
+    	console.log("Ah!");
+    }
 }
 {% endhighlight %}
 
