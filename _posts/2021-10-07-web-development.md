@@ -39,7 +39,7 @@ Self closing tags
 
 Form
 - `<form>` start a form
-	- `<input type="text">` self closing input text
+	- `<input type="text" name="tag1">` self closing input text + tag to identify input
 	- `<input type="email" required> required input + email validation
 	- `<input type="password" min="5> password field, with minimum size
 	- `<input type="date">` date input (calendar ui)
