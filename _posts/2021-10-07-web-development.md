@@ -93,7 +93,7 @@ As to be incorporated into html doc
 Can also be specified inline
 {% highlight html %}
 ...
-<header style>
+<header style="color: red">
 </header>
 ... or
 <header>
