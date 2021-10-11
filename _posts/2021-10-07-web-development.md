@@ -34,5 +34,11 @@ tag and element are the same
     
     
 Self closing tags
-- `<br>`
+- `<br>` breakdown ("\n")
 - `<img src="url" alt="text for reader" width="11" height="12">`
+
+Form
+- `<form>` start a form
+	- `<input type="text">` self closing input text
+    - `<input type="submit" value="ok">` submit button
+    - `<input type="reset">` reset form
