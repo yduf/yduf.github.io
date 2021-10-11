@@ -121,18 +121,26 @@ Element can also uniquely identified by `id`
 
 {% highlight html %}
 <p class="webtext active">
-<p id="">
+<p id="p1">
 {% endhighlight %}
 
 {% highlight css %}
 * { /* default style */
 }
 
-h2, p { /* combined */
+h2, p { /* combined style for h2 and p*/
 	Property: value;
 }
   
 h2 p { /* only p inside h2 */
+	Property: value;
+}
+  
+h2 > p { /* all p that are parents of h2 */
+	Property: value;
+}
+  
+h2 + p { /* all p elements exactly after h2 */
 	Property: value;
 }
   
@@ -144,7 +152,9 @@ h2 p { /* only p inside h2 */
   color: ...
 }
 
-#id 
+#p1 {
+  color: ...
+}
 
 {% endhighlight %}
 
