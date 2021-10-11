@@ -202,9 +202,9 @@ Dimension
 }
 {% endhighlight %}
   
-### Bootstrap
+## Bootstrap
   
-Reuse somebody else CSS
+Reuse somebody else CSS + Javascript
 
 ## see also:
 - [CSS specificity calculator](https://specificity.keegan.st)
