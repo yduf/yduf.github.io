@@ -131,8 +131,8 @@ Image
 
 ### Selectors
 
-Multiple `class` attribute can be added to html tags.
-Element can also uniquely identified by `id`
+Multiple `class` attribute can be added to html tags. They are referenced by `.class` in CCS file.
+Element can also uniquely identified by `id` (`#id` in css)
 
 {% highlight html %}
 <p class="webtext active">
