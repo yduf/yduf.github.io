@@ -46,4 +46,10 @@ var sayBye = function() {
 }
 
 sayBye();
+
+var mul = function multiply(a,b) {
+	return a*b;
+}
+
+mul( 5,10);
 {% endhighlight %}
