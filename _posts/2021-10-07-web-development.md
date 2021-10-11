@@ -115,6 +115,15 @@ Can also be specified inline
 - `cursor: pointer;`
 - `display: inline-block;`
 
+- `text-decoration:`
+- `text-transform:`
+- `line-height: 20px;`
+- `font-style: italic;`
+- `font-weight: bold;`
+- `font-size: 80%;`
+- `font-family: "Times new Roman", Georgia;`
+	- custom font can be specifieds, see also google.font - make websiste slower
+
 ### Selectors
 
 Multiple `class` attribute can be added to html tags.
