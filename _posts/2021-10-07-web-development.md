@@ -116,11 +116,39 @@ Can also be specified inline
 
 ### Selectors
 
+Multiple `class` attribute can be added to html tags.
+Element can also uniquely identified by `id`
+
+{% highlight html %}
+<p class="webtext active">
+<p id="">
+{% endhighlight %}
+
 {% highlight css %}
-Selector {
+* { /* default style */
+}
+
+h2, p { /* combined */
 	Property: value;
 }
+  
+h2 p { /* only p inside h2 */
+	Property: value;
+}
+  
+.webtext {
+  border: ...
+}
+  
+.active {
+  color: ...
+}
+
+#id 
+
 {% endhighlight %}
+
+
 
 
 ## see also:
