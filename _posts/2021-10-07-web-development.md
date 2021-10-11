@@ -61,6 +61,8 @@ Self closing tags
     
 ## CSS - **C**ascading **S**tyle **S**heet
 
+CSS 3 - introduced transition / animation
+
 {% highlight css %}
 /* comment 
 Selector {
