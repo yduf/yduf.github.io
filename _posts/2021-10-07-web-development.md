@@ -25,7 +25,7 @@ HTML5 introduce semantic element : need ref
 {% endhighlight %}
 
 - `<head>` - is required to be loaded before displaying page
-- `<body>` - can trigger javascript load while rendering
+- `<body>` - can trigger javascript load while rendering (non blocking display)
 
 
 tag and element are the same
