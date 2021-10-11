@@ -83,7 +83,8 @@ body
 
 */
 html {
-	background: url(header.jpg) no-repeat center center fixed;	
+	background: url(header.jpg) no-repeat center center fixed;
+    background-size: cover;
 }
 
 h2 {
