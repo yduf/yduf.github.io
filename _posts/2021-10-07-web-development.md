@@ -122,7 +122,7 @@ Can also be specified inline
 - `font-weight: bold;`
 - `font-size: 80%;`
 - `font-family: "Times new Roman", Georgia;`
-	- custom font can be specifieds, see also google.font - make websiste slower
+	- custom font can be specifieds, see also google.font - **make websiste slower**
 
 ### Selectors
 
