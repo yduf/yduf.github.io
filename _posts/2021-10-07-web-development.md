@@ -37,8 +37,8 @@ Self closing tags
 - `<br>` breakdown ("\n")
 - `<img src="url" alt="text for reader" width="11" height="12">`
 
-Form
-- `<form>` start a form
+### Form
+- `<form>` start a form with default method="GET" , data are passed on url send to server (query string)
 	- `<input type="text" name="tag1">` self closing input text + tag to identify input
 	- `<input type="email" required> required input + email validation
 	- `<input type="password" min="5> password field, with minimum size
