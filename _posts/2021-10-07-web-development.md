@@ -185,5 +185,5 @@ h2 + p { /* all p elements exactly after h2 */
 
 ## see also:
 - [CSS specificity calculator](https://specificity.keegan.st)
-- [paletton.com]() - pick colors & complement - hex `#AA1334` / `rgb(1,2,3)` / `rgba(1,2,3,0)`
-- [unsplash.com]() - images
+- [paletton.com](https://paletton.com) - pick colors & complement - hex `#AA1334` / `rgb(1,2,3)` / `rgba(1,2,3,0)`
+- [unsplash.com](https://unsplash.com/) - images
