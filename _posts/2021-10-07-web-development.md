@@ -176,6 +176,11 @@ h2 + p { /* all p elements exactly after h2 */
 - `Selector :firstchild` 
 - `Selector :lastchild`
 
+### Box Model
+- border
+- display
+- padding
+- margin
 
 
 ## see also:
