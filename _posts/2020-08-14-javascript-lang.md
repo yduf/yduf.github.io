@@ -36,6 +36,13 @@ var age=Number( prompt("enter your age"));
 var list = ["tiger","cat"];		// array indexed from 0
 {% endhighlight %}
 
+### Object
+{% highlight javascript %}
+var user = {
+	name: "john",
+    age: 34,
+}
+{% endhighlight %}
 
 ### Functions
 Helpers
