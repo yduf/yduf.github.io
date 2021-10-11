@@ -10,7 +10,7 @@ tags: web
 
 ## [HTML](https://www.w3schools.com/tags/default.asp)
 
-HTML5 introduce semantic element
+HTML5 introduce semantic element : need ref
 
 {% highlight html %}
 <!DOCTYPE html>
