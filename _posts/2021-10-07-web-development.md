@@ -46,6 +46,11 @@ Self closing tags
 - `<img src="url" alt="text for reader" width="11" height="12">`
 - `<!-- comment -->`
 
+Head tags
+- `<link>`
+- `<meta>`
+	
+
 ### Form
 - `<form>` start a form with default method="GET" , data are passed on url send to server (query string), **password are in clear text** => `?firname=joe&lastname=biz&password=123`
 	- `<input type="text" name="tag1">` self closing input text + tag to identify input
