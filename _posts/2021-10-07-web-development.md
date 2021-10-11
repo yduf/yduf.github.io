@@ -208,7 +208,7 @@ Dimension
   
 ## Bootstrap
   
-Reuse somebody else CSS + **Javascript**
+Reuse somebody else CSS + **Javascript** for component
 
 ## see also:
 - [CSS specificity calculator](https://specificity.keegan.st)
