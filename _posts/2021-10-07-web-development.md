@@ -85,7 +85,22 @@ As to be incorporated into html doc
 {% highlight html %}
 ...
 <head>
-  <link >
+  <link rel="stylesheet" type="text/css" href="url to css file">
 </head>
 ...
+{% endhighlight %}
+
+Can also be specified inline
+{% highlight html %}
+...
+<header style>
+</header>
+... or
+<header>
+  <style>
+    h2 {
+		color: red;
+    }
+  </style>
+</header>
 {% endhighlight %}
