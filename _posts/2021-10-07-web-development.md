@@ -62,12 +62,12 @@ Self closing tags
 ## CSS - **C**ascading **S**tyle **S**heet
 
 {% highlight css %}
-/* comment */
+/* comment 
 Selector {
 	Property: value;
 }
 
-/* ex */
+ex: */
 h2 {
 	color: red;
 }
@@ -104,3 +104,16 @@ Can also be specified inline
   </style>
 </header>
 {% endhighlight %}
+
+### Properties - [CSS Tricks](https://css-tricks.com/almanac)
+- `color: red;`
+- `text-align: center;`
+- `border : 5px solid purple;`
+- `background-image: url(backgroundimage.jpg)`;
+	- `background-size: cover;`
+- `cursor: pointer;`
+- `display: inline-block;`
+
+see also:
+- [paletton.com]() - pick colors - hex `#AA1334` / `rgb(1,2,3)`
+- [unsplash.com]() - images
