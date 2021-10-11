@@ -24,6 +24,10 @@ HTML5 introduce semantic element : need ref
 </html>
 {% endhighlight %}
 
+- `<head>` - is required to be loaded before displaying page
+- `<body>` - can trigger javascript load while rendering
+
+
 tag and element are the same
 
 - `<h1>` .. `<h6>` header
