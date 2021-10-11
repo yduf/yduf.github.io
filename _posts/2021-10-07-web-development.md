@@ -189,7 +189,7 @@ Dimension
 - 3em - 3x the current element size
 - 3rem - 3x the root element size
   
-### FlexBox
+### [FlexBox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 {% highlight css %}
 .container { 
