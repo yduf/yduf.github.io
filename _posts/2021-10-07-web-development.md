@@ -36,6 +36,7 @@ tag and element are the same
 Self closing tags
 - `<br>` breakdown ("\n")
 - `<img src="url" alt="text for reader" width="11" height="12">`
+- `<!-- comment -->`
 
 ### Form
 - `<form>` start a form with default method="GET" , data are passed on url send to server (query string), **password are in clear text** => `?firname=joe&lastname=biz&password=123`
