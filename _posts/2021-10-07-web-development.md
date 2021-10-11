@@ -152,7 +152,7 @@ h2 + p { /* all p elements exactly after h2 */
   color: ...
 }
 
-#p1 {
+#p1 { /* using id */
   color: ...
 }
 
