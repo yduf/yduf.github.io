@@ -9,7 +9,7 @@ tags: js lang online
 
 [ ![caption](https://i0.wp.com/codecapsule.com/wp-content/uploads/2021/01/techupskill_frontend-SPA.png?resize=1536%2C864&ssl=1) ](https://codecapsule.com/2021/01/26/complete-overview-frontend-development-2021/)
 
-## Javascript (ECMA)
+## Javascript (ECMAScript)
 
 Browser Javascript console can be used as interactive environment, with history (up arrow).
 
@@ -17,6 +17,7 @@ Browser Javascript console can be used as interactive environment, with history 
 - 10 + "34" => "1034"
 - 10 - "3"  => 7
 - "hello" - "bie" => NaN
+- Undefined - variable not assigned
 
 ### === / !== comparison
 
