@@ -188,9 +188,11 @@ Dimension
 - 80%
 - 3em - 3x the current element size
 - 3rem - 3x the root element size
+  
+### FlexBox
 
 
 ## see also:
 - [CSS specificity calculator](https://specificity.keegan.st)
 - [paletton.com](https://paletton.com) - pick colors & complement - hex `#AA1334` / `rgb(1,2,3)` / `rgba(1,2,3,0)`
-- [unsplash.com](https://unsplash.com/) - images
+- [unsplash.com](https://unsplash.com/) - freely usable images
