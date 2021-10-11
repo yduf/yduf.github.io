@@ -30,7 +30,7 @@ var hello="world";
 var age=Number( prompt("enter your age"));
 {% endhighlight %}
 
-### Array
+### [Array](https://www.w3schools.com/js/js_number_methods.asp)
 
 {% highlight javascript %}
 var list = ["tiger","cat"];		// array indexed from 0
