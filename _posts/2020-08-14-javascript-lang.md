@@ -26,5 +26,5 @@ can start with \_ or \$
 
 {% highlight javascript %}
 var hello="world";
-var first=prompt("enter your name")
+var first=prompt("enter your name");
 {% endhighlight %}
