@@ -191,9 +191,12 @@ Dimension
   
 ### [FlexBox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
+- [flexbox froggy](https://flexboxfroggy.com/) - a game to learn flexbox
+  
 {% highlight css %}
 .container { 
   display: flex;
+  flex-wrap: wrap;
 }
 {% endhighlight %}
 
