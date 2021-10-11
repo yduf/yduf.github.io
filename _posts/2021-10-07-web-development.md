@@ -153,11 +153,13 @@ h2 + p { /* all p elements exactly after h2 */
 }
 
 #p1 { /* using id */
-  color: ...
+  color: ... !important; /* !important overide cascading and force value*/
 }
-
 {% endhighlight %}
 
+- `Selector :hover` - changed style on over
+- `Selector :firstchild` 
+- `Selector :lastchild`
 
 
 
