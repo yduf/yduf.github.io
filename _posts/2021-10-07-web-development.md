@@ -85,7 +85,8 @@ As to be incorporated into html doc
 {% highlight html %}
 ...
 <head>
-  <link rel="stylesheet" type="text/css" href="url to css file">
+  <link rel="stylesheet" type="text/css" href="url://style.css">
+  <link rel="stylesheet" type="text/css" href="style2.css"> <!-- can be mutliple-->
 </head>
 ...
 {% endhighlight %}
@@ -164,5 +165,6 @@ h2 + p { /* all p elements exactly after h2 */
 
 
 ## see also:
+- [CSS specificity calculator](https://specificity.keegan.st)
 - [paletton.com]() - pick colors & complement - hex `#AA1334` / `rgb(1,2,3)` / `rgba(1,2,3,0)`
 - [unsplash.com]() - images
