@@ -54,4 +54,6 @@ var mul = function multiply(a,b) {
 mul( 5,10);
 {% endhighlight %}
 
+## Note
+Parameters(a,b) vs Arguments(4,5)
 
