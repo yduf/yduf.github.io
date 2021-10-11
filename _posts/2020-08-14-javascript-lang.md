@@ -17,3 +17,5 @@ Browser Javascript console can be used as interactive environment
 - 10 + "34" => "1034"
 - 10 - "3"  => 7
 - "hello" - "bie" => NaN
+
+### === / !== comparison
