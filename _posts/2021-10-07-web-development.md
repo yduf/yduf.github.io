@@ -41,6 +41,7 @@ Form
 - `<form>` start a form
 	- `<input type="text">` self closing input text
 	- `<input type="email" required> required input + email validation
+	- `<input type="password" min="5> password field, with minimum size
 	- `<input type="date">` date input (calendar ui)
 	- `<input type="radio" name="group1">`	- 2 radio button grouped together with group1
 	- `<input type="radio" name="group1">
