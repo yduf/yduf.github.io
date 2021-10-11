@@ -30,8 +30,20 @@ var hello="world";
 var age=Number( prompt("enter your age"));
 {% endhighlight %}
 
-### Helper functions
+### Functions
+Helpers
 - `value = prompt("input")`
 - `alert(value)`
 - `console.log("info")`
 
+{% highlight javascript %}
+function sayHello() {
+ console.log("Hello");
+}
+
+var sayBye = function() {
+ console.log("Bye");
+}
+
+sayBye();
+{% endhighlight %}
