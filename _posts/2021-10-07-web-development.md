@@ -31,6 +31,7 @@ tag and element are the same
 	- `<li>` list element
     
 - `<a href="url>text</a>"` - anchor tag = link
+
 - `<div>` divide content allowing to add style with CSS
 - `<span>` span, same as div, but to inline style inside a div element
     
