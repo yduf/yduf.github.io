@@ -228,4 +228,4 @@ Reuse somebody else CSS + **Javascript** for component
 - [Can I use \<feature\> ?](https://caniuse.com/#) - provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 - [paletton.com](https://paletton.com) - pick colors & complement - hex `#AA1334` / `rgb(1,2,3)` / `rgba(1,2,3,0)`
 - [unsplash.com](https://unsplash.com/) - freely usable images
-- [mailchimp.com](https://mailchimp.com) - retrieve contact mail address / mailing service 
+- [mailchimp.com](https://mailchimp.com) - retrieve contact mail address / mailing service (\< 2000 concact is free) 
