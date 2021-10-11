@@ -59,9 +59,7 @@ Self closing tags
     - `<input type="submit" value="ok">` submit button
     - `<input type="reset">` reset form
     
-## CSS - `style.css`
-
-Cascading Style Sheet
+## CSS - Cascading Style Sheet
 
 {% highlight css %}
 /* comment */
