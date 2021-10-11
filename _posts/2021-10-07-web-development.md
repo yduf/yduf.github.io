@@ -45,11 +45,11 @@ Self closing tags
 ### Form
 - `<form>` start a form with default method="GET" , data are passed on url send to server (query string), **password are in clear text** => `?firname=joe&lastname=biz&password=123`
 	- `<input type="text" name="tag1">` self closing input text + tag to identify input
-	- `<input type="email" required> required input + email validation
-	- `<input type="password" min="5> password field, with minimum size
+	- `<input type="email" required>` required input + email validation
+	- `<input type="password" min="5>` password field, with minimum size
 	- `<input type="date">` date input (calendar ui)
 	- `<input type="radio" name="group1" value="bt1">`	- 2 radio button grouped together with group1
-	- `<input type="radio" name="group1" value="bt2">
+	- `<input type="radio" name="group1" value="bt2">`
     - `<input type="checkbox">` mutliple checkbox
 	- `<select>` dropdown options
   		- `<option value="A">`
