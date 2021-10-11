@@ -40,5 +40,15 @@ Self closing tags
 Form
 - `<form>` start a form
 	- `<input type="text">` self closing input text
+	- `<input type="email" required> required input + email validation
+	- `<input type="date">` date input (calendar ui)
+	- `<input type="radio" name="group1">`	- 2 radio button grouped together with group1
+	- `<input type="radio" name="group1">
+    - `<input type="checkbox">` mutliple checkbox
+	- `<select>` dropdown options
+  		- `<option value="A">`
+  		- `<option value="B">`
+	- `<select multiple>` dropdown options with multi selection
+    
     - `<input type="submit" value="ok">` submit button
     - `<input type="reset">` reset form
