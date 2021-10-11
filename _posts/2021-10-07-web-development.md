@@ -181,6 +181,7 @@ h2 + p { /* all p elements exactly after h2 */
 - display
 - padding
 - margin
+- width / height
 
 
 ## see also:
