@@ -86,7 +86,7 @@ As to be incorporated into html doc
 ...
 <head>
   <link rel="stylesheet" type="text/css" href="url://style.css">
-  <link rel="stylesheet" type="text/css" href="style2.css"> <!-- can be mutliple-->
+  <link rel="stylesheet" type="text/css" href="style2.css"> <!-- css style be combined-->
 </head>
 ...
 {% endhighlight %}
