@@ -11,7 +11,7 @@ tags: js lang online
 
 ## Javascript (ECMA)
 
-Browser Javascript console can be used as interactive environment
+Browser Javascript console can be used as interactive environment, with history (up arrow).
 
 - String can use double quote ("") or single quote ('') and nest them with the other. 
 - 10 + "34" => "1034"
@@ -28,3 +28,4 @@ can start with \_ or \$
 var hello="world";
 var age=Number( prompt("enter your age"));
 {% endhighlight %}
+
