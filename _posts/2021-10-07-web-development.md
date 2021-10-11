@@ -114,6 +114,15 @@ Can also be specified inline
 - `cursor: pointer;`
 - `display: inline-block;`
 
-see also:
+### Selectors
+
+{% highlight css %}
+Selector {
+	Property: value;
+}
+{% endhighlight %}
+
+
+## see also:
 - [paletton.com]() - pick colors & complement - hex `#AA1334` / `rgb(1,2,3)` / `rgba(1,2,3,0)`
 - [unsplash.com]() - images
