@@ -36,7 +36,14 @@ var age=Number( prompt("enter your age"));
 {% highlight javascript %}
 var list = ["tiger","cat"];		// array indexed from 0
 
+function logTodos( elm, i) {
+  console.log(elm, i);
+}
+
 list.forEach( function(i) { console.log(i); } );
+list.forEach( function(elm, i) { console.log(elm, i); } );
+list.forEach( logTodos );
+
 {% endhighlight %}
 
 ### Object
