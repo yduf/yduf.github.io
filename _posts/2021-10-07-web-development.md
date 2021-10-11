@@ -24,7 +24,7 @@ HTML5 introduce semantic element : need ref
 </html>
 {% endhighlight %}
 
-- `<head>` - is required to be loaded before displaying page
+- `<head>` - is required to be **loaded before** displaying page
 - `<body>` - can trigger javascript load while rendering (non blocking display)
 
 
@@ -41,6 +41,9 @@ tag and element are the same
 - `<div>` divide content allowing to add style with CSS
 - `<span>` span, same as div, but to inline style inside a div element
     
+- `<script type="text/javascript">` inline scripting
+- `<script type="text/javascript" src="url">` external script, to put at the end of the body to avoid delaying display
+
 Self closing tags
 - `<br>` breakdown ("\n")
 - `<img src="url" alt="text for reader" width="11" height="12">`
