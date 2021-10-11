@@ -78,7 +78,14 @@ Selector {
 	Property: value;
 }
 
-ex: */
+ex: 
+body
+
+*/
+html {
+	background: url(header.jpg) no-repeat center center fixed;	
+}
+
 h2 {
 	color: red;
 }
