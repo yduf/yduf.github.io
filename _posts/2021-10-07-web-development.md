@@ -191,6 +191,11 @@ Dimension
   
 ### FlexBox
 
+{% highlight css %}
+.container { 
+  display: flex;
+}
+{% endhighlight %}
 
 ## see also:
 - [CSS specificity calculator](https://specificity.keegan.st)
