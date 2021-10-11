@@ -15,7 +15,7 @@ HTML5 introduce semantic element : need ref
 {% highlight html %}
 <!DOCTYPE html>
 <html>
-	<head>
+  <head>
       <title>website</title>
   </head>
   <body>
@@ -59,4 +59,35 @@ Self closing tags
     - `<input type="submit" value="ok">` submit button
     - `<input type="reset">` reset form
     
-## CSS
+## CSS - `style.css`
+
+Cascading Style Sheet
+
+{% highlight css %}
+/* comment */
+Selector {
+	Property: value;
+}
+
+/* ex */
+h2 {
+	color: red;
+}
+
+p { /* first p */
+	color: pink;
+}
+
+p { /* second p */
+	color: green;
+}
+{% endhighlight %}
+
+As to be incorporated into html doc
+{% highlight html %}
+...
+<head>
+  <link >
+</head>
+...
+{% endhighlight %}
