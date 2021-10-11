@@ -115,5 +115,5 @@ Can also be specified inline
 - `display: inline-block;`
 
 see also:
-- [paletton.com]() - pick colors - hex `#AA1334` / `rgb(1,2,3)`
+- [paletton.com]() - pick colors & complement - hex `#AA1334` / `rgb(1,2,3)`
 - [unsplash.com]() - images
