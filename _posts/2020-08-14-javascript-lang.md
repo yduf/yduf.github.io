@@ -231,6 +231,7 @@ Parameters(a,b) vs Arguments(4,5)
     - Timeout
 - Event Loop
 - Callback Queue
+	- onClick, onLoad, onDone
 - Callstack ?
 
 ## see also
