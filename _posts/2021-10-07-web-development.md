@@ -63,6 +63,8 @@ Head tags
 	- `<input type="radio" name="group1" value="bt1">`	- 2 radio button grouped together with group1
 	- `<input type="radio" name="group1" value="bt2">`
     - `<input type="checkbox">` mutliple checkbox
+    - `<input type="color">` color picker
+    
 	- `<select>` dropdown options
   		- `<option value="A">`
   		- `<option value="B">`
@@ -150,6 +152,9 @@ Text
 Image
 - `float: left;` - force image on left and allow text to fill on the right.
 - `clear: both`  - remove float propertie for selected selector
+
+Color
+- `background: linear-gradiant`
 
 ### Selectors
 
