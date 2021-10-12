@@ -217,6 +217,10 @@ let sym2 = Symbol();
 sym1 === sym2 // => false
 {% endhighlight %}
 
+### try/catch
+
+appears with ES10
+
 ## Note
 Parameters(a,b) vs Arguments(4,5)
 
