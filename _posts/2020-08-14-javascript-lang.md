@@ -115,6 +115,11 @@ Helpers
 - `alert(value)`
 - `console.log("info")`
 
+Functions definition support closures.
+So it can be used to implement:
+- currying: `const curriedMultiply = (a) => (b) =>  a + b;`
+- compose:  `const compose = (f, g) => (a) => f(g(a));`
+
 {% highlight javascript %}
 // ES6
 const add = (a,b) => a + b;
