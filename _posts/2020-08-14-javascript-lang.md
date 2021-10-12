@@ -23,6 +23,11 @@ tags: web js lang online
 	- `html` 
     	- `head`
         - `body`
+        
+It is important to CACHE selectors in variables
+{% highlight javascript %}
+var h1 = document.querySelector("h1")
+{% endhighlight %}
 
 ## Javascript (ECMAScript)
 
