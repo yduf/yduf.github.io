@@ -102,10 +102,7 @@ function logTodos( elm, i) {
 list.forEach( logTodos );
 {% endhighlight %}
 
-### Object / Class (ES6)
-
-Object are reference type (non primitive type) meaning it reference some _box_ storage location.
-
+### Class (ES6)
 {% highlight javascript %}
 class User = {
 	constructor( name, type) {
@@ -127,7 +124,10 @@ class Wizard extends Player {
 const wizard1 = new Wizard('Shelly', 'Healer');
 {% endhighlight %}
 
-Legacy object syntax
+
+### Object (Legacy)
+
+Object are reference type (non primitive type) meaning it reference some _box_ storage location.
 
 {% highlight javascript %}
 var user = {
