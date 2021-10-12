@@ -55,7 +55,7 @@ Browser Javascript console can be used as interactive environment, with history 
 
 ### [=== / !== comparison](https://dorey.github.io/JavaScript-Equality-Table/)
 
-`==`  does type coercion when comparing
+`==`  does type coercion when comparing - avoid
 `===` does not do type coercion 
 
 ### Variables
