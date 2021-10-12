@@ -145,6 +145,13 @@ let clone = Object.assign({}, user);		// shallow clone
 let clone2 = {...user}
 
 let deepClone = JSON.parse(JSON.stringify(user); // deep copy through serialisation
+
+Object.keys(user).forEach(...
+
+// ES8
+Object.values
+Object.entries
+
 {% endhighlight %}
 
 ### Functions
