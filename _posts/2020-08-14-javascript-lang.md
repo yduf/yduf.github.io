@@ -60,13 +60,28 @@ Browser Javascript console can be used as interactive environment, with history 
 can start with \_ or \$
 
 {% highlight javascript %}
-const player = "bobby'			// ES6
+// ES6
+const player = "bobby'			// forbid reassignment
 let experience = 100;			// scope inside any {}
+
+// Destructuring
+const { player, experience } = obj;
+let  { player} = obj;
+
+const name = "john";
+const obj { name
+};
 
 // legacy code
 var hello="world";				// does not scope inside if, only inside function
 var age=Number( prompt("enter your age"));
 {% endhighlight %}
+
+### Template string
+{% highlight javascript %}
+const greegingBest = `Hello ${name}`;
+{% endhighlight %}
+
 
 ### [Array](https://www.w3schools.com/js/js_arrays.asp)
 
