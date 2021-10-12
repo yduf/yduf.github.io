@@ -232,7 +232,7 @@ Parameters(a,b) vs Arguments(4,5)
 - Event Loop
 - Callback Queue
 	- onClick, onLoad, onDone
-- Callstack ?
+- Callstack / Memory Heap
 
 ## see also
 - [babeljs](https://babeljs.io) - translate new version of javascript syntax to legacy version
