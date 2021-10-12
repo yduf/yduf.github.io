@@ -85,6 +85,8 @@ const greegingBest = `Hello ${name}`;
 
 ### [Array](https://www.w3schools.com/js/js_arrays.asp)
 
+support map, filter, reduce
+
 {% highlight javascript %}
 var list = ["tiger","cat"];		// array indexed from 0
 
