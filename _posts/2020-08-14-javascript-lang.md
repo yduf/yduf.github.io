@@ -18,6 +18,12 @@ tags: web js lang online
 - react to all existing HTML events in the page
 - create new HTML events in the page
 
+`window` - main object
+- `document` - object accessible in javascript console (displayed as html content by the browser)
+	- `html` 
+    	- `head`
+        - `body`
+
 ## Javascript (ECMAScript)
 
 Browser Javascript console can be used as interactive environment, with history (up arrow).
