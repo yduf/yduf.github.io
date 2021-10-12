@@ -55,6 +55,8 @@ Browser Javascript console can be used as interactive environment, with history 
 
 ### === / !== comparison
 
+
+
 ### Variables
 
 can start with \_ or \$
@@ -100,7 +102,33 @@ function logTodos( elm, i) {
 list.forEach( logTodos );
 {% endhighlight %}
 
-### Object
+### Object / Class (ES6)
+
+Object are reference type (non primitive type) meaning it reference some _box_ storage location.
+
+{% highlight javascript %}
+class User = {
+	constructor( name, type) {
+    	this.name = name;
+       	this.type = type;
+    }
+    
+    hello_method() {
+    	console.log("hello");
+    }
+}
+
+class Wizard extends Player {
+	constructor( name, type) {
+    	super( name, type);
+    }
+}
+
+const wizard1 = new Wizard('Shelly', 'Healer');
+{% endhighlight %}
+
+Legacy object syntax
+
 {% highlight javascript %}
 var user = {
 	name: "john",
@@ -150,6 +178,15 @@ var mul = function multiply(a,b) {
 
 mul( 5,10);
 
+{% endhighlight %}
+
+### Context vs Scope
+
+Scope = visibility of variables.
+Context = depth of object tree we are in.
+
+{% highlight javascript %}
+console.log(this);
 {% endhighlight %}
 
 ### Symbol
