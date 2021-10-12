@@ -116,6 +116,14 @@ Helpers
 - `console.log("info")`
 
 {% highlight javascript %}
+// ES6
+const add = (a,b) => a + b;
+
+function greet( name='', age=30, pet='cat') {
+	return `Hello ${age}`
+}
+
+// legacy
 function sayHello() {
  console.log("Hello");
 }
@@ -132,9 +140,6 @@ var mul = function multiply(a,b) {
 
 mul( 5,10);
 
-function greet( name='', age=30, pet='cat') {
-	return `Hello ${age}`
-}
 {% endhighlight %}
 
 ### Symbol
