@@ -29,6 +29,15 @@ It is important to CACHE selectors in variables
 var h1 = document.querySelector("h1")
 {% endhighlight %}
 
+### [Events](https://developer.mozilla.org/en-US/docs/Web/Events)
+{% highlight javascript %}
+var button = document.getElementsByTagName("button")[0];
+button.addEventListener("click", function() { 
+	console.log("CLICK"); }
+})
+{% endhighlight %}
+
+
 ## Javascript (ECMAScript)
 
 Browser Javascript console can be used as interactive environment, with history (up arrow).
