@@ -30,6 +30,7 @@ var h1 = document.querySelector("h1")
 {% endhighlight %}
 
 Minimize repainting the DOM - can be seen by paint-flashing (chrome)
+see React
 
 ### [Events](https://developer.mozilla.org/en-US/docs/Web/Events)
 
