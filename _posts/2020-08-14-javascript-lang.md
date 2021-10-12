@@ -53,9 +53,10 @@ Browser Javascript console can be used as interactive environment, with history 
 - Undefined - variable not assigned
 - null
 
-### === / !== comparison
+### [=== / !== comparison](https://dorey.github.io/JavaScript-Equality-Table/)
 
-
+`==`  does type coercion when comparing
+`===` does not do type coercion 
 
 ### Variables
 
