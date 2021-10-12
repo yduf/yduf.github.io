@@ -9,6 +9,15 @@ tags: web js lang online
 
 [ ![caption](https://i0.wp.com/codecapsule.com/wp-content/uploads/2021/01/techupskill_frontend-SPA.png?resize=1536%2C864&ssl=1) ](https://codecapsule.com/2021/01/26/complete-overview-frontend-development-2021/)
 
+## Modifying DOM
+- change all the HTML elements in the page
+- change all the HTML attributes in the page
+- change all the CSS styles in the page
+- remove existing HTML elements and attributes
+- add new HTML elements and attributes
+- react to all existing HTML events in the page
+- create new HTML events in the page
+
 ## Javascript (ECMAScript)
 
 Browser Javascript console can be used as interactive environment, with history (up arrow).
