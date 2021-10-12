@@ -56,7 +56,7 @@ Head tags
 
 ### Form
 - `<form>` start a form with default method="GET" , data are passed on url send to server (query string), **password are in clear text** => `?firname=joe&lastname=biz&password=123`
-	- `<input type="text" name="tag1">` self closing input text + tag to identify input
+	- `<input type="text" name="tag1" placeholder="enter input">` self closing input text + tag to identify input
 	- `<input type="email" required>` required input + email validation
 	- `<input type="password" min="5>` password field, with minimum size
 	- `<input type="date">` date input (calendar ui)
