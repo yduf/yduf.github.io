@@ -224,6 +224,15 @@ appears with ES10
 ## Note
 Parameters(a,b) vs Arguments(4,5)
 
+## Java script Environment
+- Web API
+	- DOM
+    - AJAX
+    - Timeout
+- Event Loop
+- Callback Queue
+- Callstack ?
+
 ## see also
 - [babeljs](https://babeljs.io) - translate new version of javascript syntax to legacy version
 - [codepen.io](https://codepen.io)
