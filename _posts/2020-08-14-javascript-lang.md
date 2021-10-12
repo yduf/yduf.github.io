@@ -127,7 +127,9 @@ const wizard1 = new Wizard('Shelly', 'Healer');
 
 ### Object (Legacy)
 
-Object are reference type (non primitive type) meaning it reference some _box_ storage location.
+Object are reference types (non primitive type) meaning they are passed by reference (and are refeference themselves).
+
+Primitive types are passed by value.
 
 {% highlight javascript %}
 var user = {
