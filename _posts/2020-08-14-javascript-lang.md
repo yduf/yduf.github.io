@@ -77,7 +77,7 @@ var hello="world";				// does not scope inside if, only inside function
 var age=Number( prompt("enter your age"));
 {% endhighlight %}
 
-### Template string
+### Template string / Template litterals
 {% highlight javascript %}
 const greegingBest = `Hello ${name}`;
 {% endhighlight %}
@@ -131,8 +131,19 @@ var mul = function multiply(a,b) {
 }
 
 mul( 5,10);
+
+function greet( name='', age=30, pet='cat') {
+	return `Hello ${age}`
+}
 {% endhighlight %}
 
+### Symbol
+{% highlight javascript %}
+let sym1 = Symbol();
+let sym2 = Symbol();
+
+sym1 === sym2 // => false
+{% endhighlight %}
 
 ## Note
 Parameters(a,b) vs Arguments(4,5)
