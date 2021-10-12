@@ -118,6 +118,9 @@ Helpers
 {% highlight javascript %}
 // ES6
 const add = (a,b) => a + b;
+const add = (a,b) => {
+ return a + b;
+}
 
 function greet( name='', age=30, pet='cat') {
 	return `Hello ${age}`
