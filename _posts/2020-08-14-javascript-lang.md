@@ -88,7 +88,10 @@ const greegingBest = `Hello ${name}`;
 
 ### [Array](https://www.w3schools.com/js/js_arrays.asp)
 
-support map, filter, reduce
+support map, filter, reduce,
+
+// ES10
+.flat 
 
 {% highlight javascript %}
 var list = ["tiger","cat"];		// array indexed from 0
@@ -152,6 +155,8 @@ Object.keys(user).forEach(...
 Object.values
 Object.entries
 
+// ES10
+Object.fromEntries( Object.entries(user))
 {% endhighlight %}
 
 ### Functions
