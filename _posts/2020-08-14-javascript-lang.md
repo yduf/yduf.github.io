@@ -60,7 +60,11 @@ Browser Javascript console can be used as interactive environment, with history 
 can start with \_ or \$
 
 {% highlight javascript %}
-var hello="world";
+const player = "bobby'			// ES6
+let experience = 100;			// scope inside any {}
+
+// legacy code
+var hello="world";				// does not scope inside if, only inside function
 var age=Number( prompt("enter your age"));
 {% endhighlight %}
 
@@ -119,4 +123,5 @@ mul( 5,10);
 Parameters(a,b) vs Arguments(4,5)
 
 ## see also
+- [babeljs](https://babeljs.io) - translate new version of javascript syntax to legacy version
 - [codepen.io](https://codepen.io)
