@@ -153,8 +153,7 @@ Image
 - `float: left;` - force image on left and allow text to fill on the right.
 - `clear: both`  - remove float propertie for selected selector
 
-Color
-- `background: linear-gradiant`
+- `background: linear-gradient( to right, red, yellow);`
 
 ### Selectors
 
