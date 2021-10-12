@@ -139,6 +139,11 @@ var user = {
     	console.log("Ah!");
     }
 }
+
+let clone = Object.assign({}, user);		// shallow clone
+let clone2 = {...user}
+
+let deepClone = JSON.parse(JSON.stringify(user); // deep copy through serialisation
 {% endhighlight %}
 
 ### Functions
