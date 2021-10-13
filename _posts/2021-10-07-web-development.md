@@ -239,7 +239,7 @@ Both should be able to replace Bootstrap container.
 Reuse somebody else's CSS + **Javascript** for component
 
 ## Note
-- responsive application - jargon that tell that the page resize itself properly whatever the size of the display is.
+- _Responsive UI_ - web jargon that tell that the page resize itself properly whatever the size of the display is.
   
 ## see also:
 - [CSS specificity calculator](https://specificity.keegan.st)
