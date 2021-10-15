@@ -8,7 +8,17 @@ tags: zfs linux system
 	- You'll find zfs.ko automatically built and installed on your Ubuntu systems.  No more DKMS-built modules!
     - You'll see the module loaded automatically if you use it.
     - The user space zfsutils-linux package will be included in Ubuntu Main, with security updates provided by Canonical.
-    
+
+# Basics
+
+ZFS _pool_ and thus your _file system_ is based on one or more **VDEVs**. And those VDEVs contain the actual hard drives.
+
+Fault-tolerance or redundancy is addressed within a _VDEV_. A VDEV is either a RAID-1 (mirror), RAID-5 (RAIDZ) or RAID-6 (RAIDZ2). It can even use tripple parity (RAID-Z3).
+
+So it's important to understand that **a ZFS pool itself is not fault-tolerant**. If you lose a single VDEV within a pool, you lose the whole pool. **You lose the pool, all data is lost**.
+
+[ ![caption](https://louwrentius.com/static/images/zfs-overview.png) ](https://louwrentius.com/the-hidden-cost-of-using-zfs-for-your-home-nas.html)
+
 ## Ref
 - [ubuntu](https://wiki.ubuntu.com/Kernel/Reference/ZFS)
 - [ZFS Concepts and Tutorial](https://linuxhint.com/zfs-concepts-and-tutorial/)
@@ -73,8 +83,4 @@ zfs list   # Test the datasets have been created with
 - [github WP](https://github.com/openzfs/zfs/pull/8853)
 When available **ZFS RAIDZ expansion** would let adding a new disk to existing vdev with rebalancing. [video](https://www.youtube.com/watch?v=ZF8V7Tc9G28)
 
-The main takeaway of this picture is that your ZFS pool and thus your file system is based on one or more VDEVs. And those VDEVs contain the actual hard drives.
 
-Fault-tolerance or redundancy is addressed within a VDEV. A VDEV is either a RAID-1 (mirror), RAID-5 (RAIDZ) or RAID-6 (RAIDZ2).
-
-![caption](https://louwrentius.com/static/images/zfs-overview.png)
