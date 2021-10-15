@@ -19,6 +19,12 @@ So it's important to understand that **a ZFS pool itself is not fault-tolerant**
 
 [ ![caption](https://louwrentius.com/static/images/zfs-overview.png) ](https://louwrentius.com/the-hidden-cost-of-using-zfs-for-your-home-nas.html)
 
+Now it's very important to understand that you cannot add hard drives to a VDEV. (not yet see below).
+
+- **Plan your ZFS Build with the VDEV limitation in mind**
+
+Many home NAS builders use [RAID-6]({% post_url 2019-03-26-raid6 %}) (RAID-Z2) for their builds, because of the extra redundancy. This makes sense because a double drive failure is not something unheard of, especially during rebuilds where all drives are being taxed quite heavily for many hours.
+
 ## Ref
 - [ubuntu](https://wiki.ubuntu.com/Kernel/Reference/ZFS)
 - [ZFS Concepts and Tutorial](https://linuxhint.com/zfs-concepts-and-tutorial/)
