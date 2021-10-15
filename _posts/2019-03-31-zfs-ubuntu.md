@@ -19,7 +19,7 @@ So it's important to understand that **a ZFS pool itself is not fault-tolerant**
 
 [ ![caption](https://louwrentius.com/static/images/zfs-overview.png) ](https://louwrentius.com/the-hidden-cost-of-using-zfs-for-your-home-nas.html)
 
-Now it's very important to understand that you cannot add hard drives to a VDEV. (not yet see below).
+Now it's very important to understand that you cannot add hard drives to a VDEV. (not yet see [RAIDz expansion will be a thing very soon](https://arstechnica.com/gadgets/2021/06/raidz-expansion-code-lands-in-openzfs-master/)).
 
 - **Plan your ZFS Build with the VDEV limitation in mind**
 
