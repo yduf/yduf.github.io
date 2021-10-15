@@ -3,6 +3,8 @@ published: true
 title: ZFS (Ubuntu)
 tags: zfs linux system
 ---
+> ZFS unlike most other storage systems, it unifies both of these roles and acts as both the volume manager and the file system. Therefore, it has complete knowledge of both the physical disks and volumes - [wikipedia](https://en.wikipedia.org/wiki/ZFS)
+
 ## [ZFS -- baked directly into Ubuntu -- supported by Canonical.](http://blog.dustinkirkland.com/2016/02/zfs-is-fs-for-containers-in-ubuntu-1604.html)
 - What does "support" mean?
 	- You'll find zfs.ko automatically built and installed on your Ubuntu systems.  No more DKMS-built modules!
