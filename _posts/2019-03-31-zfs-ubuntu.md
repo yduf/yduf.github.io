@@ -13,7 +13,7 @@ tags: zfs linux system
 
 # Basics
 
-ZFS _pool_ and thus your _file system_ is based on one or more **VDEVs**. And those VDEVs contain the actual hard drives.
+_ZFS pool_ and thus your _file system_ is based on one or more **VDEVs**. And those VDEVs contain the actual hard drives.
 
 Fault-tolerance or redundancy is addressed within a _VDEV_. A VDEV is either a RAID-1 (mirror), RAID-5 (RAIDZ) or RAID-6 (RAIDZ2). It can even use tripple parity (RAID-Z3).
 
