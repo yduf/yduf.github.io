@@ -1,6 +1,6 @@
 ---
 published: true
-title: Online translator
+title: Translate text
 tags: online lang translator google-alt
 ---
-## [DeepL](https://www.deepl.com)
+> [DeepL](https://www.deepl.com) an alternative to google-translate
