@@ -19,7 +19,8 @@ PLA tested so far -- 1.75mm
 ### [ICE](https://distrinova.net/brand/ice-filaments/)
 - [white (0.75kg)](https://www.amazon.fr/gp/product/B017HAIMZU/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) - easy to print - thick - 205°
 - [Groovy Gold (0.75kg)](https://www.amazon.fr/gp/product/B017HAI4VM/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1) - easy to print, nice bronze/brass finish - 205°
-- [Obstinate Orange (0.75kg)](https://www.amazon.fr/gp/product/B017HAIB1A/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) - nice color - does not stick well to glass - 210° / bed 60°
+- [Obstinate Orange (0.75kg)](https://www.amazon.fr/gp/product/B017HAIB1A/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) - nice color - does not stick well to glass 
+	- 205..210° / bed 60° => WAIT FOR BED TEMP
 
 ### Verbatim 
 - [Silver (1kg)](https://www.amazon.fr/VERBATIM-FILLAMENT-3D-PRINT-55275/dp/B00WRBI67O/ref=sr_1_10?ie=UTF8&qid=1509281707&sr=8-10&keywords=PLA+verbatim) - very thin/precise print - 205°
