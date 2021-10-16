@@ -22,9 +22,11 @@ tags: nas zfs ansible monitoring
 - gitea ? vs github ?
 - nextcloud ?
 
-## [Hardware]({% post_url 2019-01-21-home-nas %})
  
 ## [Setup](https://github.com/davestephens/ansible-nas)
+
+- [Hardware]({% post_url 2019-01-21-home-nas %})
+
 
 ### [Ansible]({% post_url 2019-04-13-ansible %})
 - group_vars/all.yml and follow the instructions there for configuring your Ansible NAS.
