@@ -9,6 +9,9 @@ tags: nas zfs ansible monitoring
 - [**Netdata**](http://192.168.0.125:19999) dashboard
 
 ## _TODO_
+- docker registry
+- samba 
+
 - docker / zfs container volume
 - [Guacamole](https://guacamole.apache.org/doc/gug/users-guide.html)
 	- [docker](https://guacamole.apache.org/doc/gug/guacamole-docker.html)
@@ -17,7 +20,6 @@ tags: nas zfs ansible monitoring
 - [smart](https://help.ubuntu.com/community/Smartmontools)
 	- [request](https://github.com/davestephens/ansible-nas/issues/2)
 - gitea ? vs github ?
-- samba ?
 - nextcloud ?
 
 ## [Hardware]({% post_url 2019-01-21-home-nas %})
