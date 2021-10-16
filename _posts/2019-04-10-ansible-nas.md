@@ -39,7 +39,7 @@ tags: nas zfs ansible monitoring
 - [spectre mitigation disabled]({% post_url 2019-10-14-linux-fast %})
 
 ### Monitoring
-- [**Netdata**](http://192.168.0.125:19999)
+- [**Netdata**](http://192.168.0.125:19999) dashboard
 	- [netdata instead of Grafana](https://github.com/davestephens/ansible-nas/issues/8) see [netdata/netdata](https://github.com/netdata/netdata)
     	- [Install Netdata with kickstart-static64.sh](https://github.com/netdata/netdata/blob/master/packaging/installer/methods/kickstart-64.md#install-netdata-with-kickstart-static64sh)
             - `sudo touch /opt/netdata/etc/netdata/.opt-out-from-anonymous-statistics`
