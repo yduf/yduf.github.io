@@ -10,6 +10,7 @@ PLA tested so far -- 1.75mm
 	- [PLA Economy Light Gray](https://www.3djake.fr/colorfabb/pla-economy-light-gray) - TBD
     - [PolyTerra PLA Arctic Teal ](https://www.3djake.fr/polymaker/polyterra-pla-arctic-teal) - imprime bien mais [TVOC](https://learn.kaiterra.com/en/air-academy/understanding-tvoc-volatile-organic-compounds) important 1.2 mg/m³  a l'ouverture (yellow air state) - to recheck 
     	- excellent printing 200°C 80 mm/s / Bed at 50°C
+        	- very bad stickyness => 215°C + 60°C Bed + lack + height tuning
     - [PolyTerra PLA Charcoal Black  ](https://www.3djake.fr/polymaker/polyterra-pla-charcoal-black) - TBD
     - [PolyTerra PLA Fossil Grey  ](https://www.3djake.fr/polymaker/polyterra-pla-fossil-grey) - good printing 200°C 120 mm/s
     
