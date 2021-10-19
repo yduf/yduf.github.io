@@ -27,21 +27,6 @@ Now it's very important to understand that you cannot add hard drives to a VDEV.
 
 Many home NAS builders use [RAID-6]({% post_url 2019-03-26-raid6 %}) (RAID-Z2) for their builds, because of the extra redundancy. This makes sense because a double drive failure is not something unheard of, especially during rebuilds where all drives are being taxed quite heavily for many hours.
 
-## Ref
-- [ubuntu](https://wiki.ubuntu.com/Kernel/Reference/ZFS)
-- [ZFS Concepts and Tutorial](https://linuxhint.com/zfs-concepts-and-tutorial/)
-	- Never ever use hardware RAID-controller with ZFS.
-    - Error Correcting RAM (ECC) is recommended, but not mandatory
-    - Data deduplication feature consumes a lot memory, use compression instead.
-    - Data redundancy is not an alternative for backup. Have multiple backups, store those backups using ZFS!
-- [Configuring ZFS Cache for High Speed IO](https://linuxhint.com/configuring-zfs-cache/)
-	- [The ZFS ZIL and SLOG Demystified](https://www.ixsystems.com/blog/zfs-zil-and-slog-demystified/)
-    - [sync mode](https://milek.blogspot.com/2010/05/zfs-synchronous-vs-asynchronous-io.html)
-    	- sync=disabled speed up a lot file transfer (see ZIL safety)
-- [zfs compression](https://www.servethehome.com/the-case-for-using-zfs-compression/)
-- [zfs properties](https://docs.oracle.com/cd/E19253-01/819-5461/gazuk/index.html)
-	- `zfs get all tank/home`
-
 # Maintenance
 ## [Check Data Integrity (scrub)](https://prefetch.net/blog/index.php/2011/10/15/using-the-zfs-scrub-feature-to-verify-the-integrity-of-your-storage/)
 {% highlight bash %}
@@ -91,4 +76,18 @@ zfs list   # Test the datasets have been created with
 - [github WP](https://github.com/openzfs/zfs/pull/8853)
 When available **ZFS RAIDZ expansion** would let adding a new disk to existing vdev with rebalancing. [video](https://www.youtube.com/watch?v=ZF8V7Tc9G28)
 
+## Ref
+- [ubuntu](https://wiki.ubuntu.com/Kernel/Reference/ZFS)
+- [ZFS Concepts and Tutorial](https://linuxhint.com/zfs-concepts-and-tutorial/)
+	- Never ever use hardware RAID-controller with ZFS.
+    - Error Correcting RAM (ECC) is recommended, but not mandatory
+    - Data deduplication feature consumes a lot memory, use compression instead.
+    - Data redundancy is not an alternative for backup. Have multiple backups, store those backups using ZFS!
+- [Configuring ZFS Cache for High Speed IO](https://linuxhint.com/configuring-zfs-cache/)
+	- [The ZFS ZIL and SLOG Demystified](https://www.ixsystems.com/blog/zfs-zil-and-slog-demystified/)
+    - [sync mode](https://milek.blogspot.com/2010/05/zfs-synchronous-vs-asynchronous-io.html)
+    	- sync=disabled speed up a lot file transfer (see ZIL safety)
+- [zfs compression](https://www.servethehome.com/the-case-for-using-zfs-compression/)
+- [zfs properties](https://docs.oracle.com/cd/E19253-01/819-5461/gazuk/index.html)
+	- `zfs get all tank/home`
 
