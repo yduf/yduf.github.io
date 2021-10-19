@@ -44,7 +44,7 @@ df -h .
 ## [Pool - RAID5 / Z1](https://www.maketecheasier.com/use-zfs-filesystem-ubuntu-linux/)
     
 {% highlight bash %}
-sudo zpool create storage_pool raidz1 /dev/sda /dev/sdb /dev/sdc
+zpool create storage_pool raidz1 /dev/sda /dev/sdb /dev/sdc
 zpool status
 cd /storage_pool
 df -h .
