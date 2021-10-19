@@ -45,7 +45,7 @@ df -h .
     
 {% highlight bash %}
 sudo zpool create storage_pool raidz1 /dev/sda /dev/sdb /dev/sdc
-sudo zpool status
+zpool status
 cd /storage_pool
 df -h .
 {% endhighlight %}
