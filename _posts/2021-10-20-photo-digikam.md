@@ -7,6 +7,8 @@ tags: image photo google-alt
 
 **The biggest CON for digiKam is the delete function. If you delete a file from the app it is deleted from the drive.**
 
+- digiKam [features](https://www.digikam.org/about/features/)
+	- [tags & face tags](https://userbase.kde.org/Digikam/Tutorials/Tagging_and_Face_Tags)
 - complement [DarkTable]({% post_url 2021-07-03-photo-app %})
 - an alternative to Picasa
 
