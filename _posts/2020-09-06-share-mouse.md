@@ -29,7 +29,11 @@ Launch directly the ui
 /home/yves/app/barrier/barrier
 {% endhighlight %}
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/lkaVwkL"  ><a href="//imgur.com/a/lkaVwkL">Barrier config</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+For client config:
+- give server ip
+- unselect auto-config
+- display name can be overriden and shared by several computer
+![caption](https://i.imgur.com/WBUTSaV.png)
 
 ### [Barrier server as user service (per X11 session)](https://superuser.com/questions/759759/writing-a-service-that-depends-on-xorg/1128905#1128905) - ** NOT WORKING **
 
