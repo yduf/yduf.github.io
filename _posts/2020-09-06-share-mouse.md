@@ -33,6 +33,7 @@ For client config:
 - give server ip
 - unselect auto-config
 - display name can be overriden and shared by several computer
+
 ![caption](https://i.imgur.com/WBUTSaV.png)
 
 ### [Barrier server as user service (per X11 session)](https://superuser.com/questions/759759/writing-a-service-that-depends-on-xorg/1128905#1128905) - ** NOT WORKING **
