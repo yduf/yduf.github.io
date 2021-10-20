@@ -11,4 +11,4 @@ tags: image photo google-alt
 - an alternative to Picasa
 
 - [How to use multiple photo libraries with DigiKam](https://unix.cafe/wp/en/2020/08/how-to-use-multiple-photo-libraries-with-digikam/)
-- [Digital Asset Management (DAM) with digiKam]()
+- [Digital Asset Management (DAM) with digiKam](https://docs.kde.org/trunk5/en/digikam-doc/digikam/using-dam.html)
