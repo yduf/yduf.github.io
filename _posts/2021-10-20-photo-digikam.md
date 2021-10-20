@@ -9,3 +9,6 @@ tags: image photo google-alt
 
 - complement [DarkTable]({% post_url 2021-07-03-photo-app %})
 - an alternative to Picasa
+
+- [How to use multiple photo libraries with DigiKam](https://unix.cafe/wp/en/2020/08/how-to-use-multiple-photo-libraries-with-digikam/)
+- [Digital Asset Management (DAM) with digiKam]()
