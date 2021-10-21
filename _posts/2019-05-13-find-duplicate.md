@@ -9,6 +9,8 @@ rdfind /mnt/Photo 		# look for duplicate and store the one found in results.txt
 
 ## [rdfind](https://rdfind.pauldreik.se/) / [github](https://github.com/pauldreik/rdfind)
 
+[**Avoid manipulating the directories while rdfind is reading.**](https://rdfind.pauldreik.se/rdfind.1.html)
+
 It does not follow symlink by default. 
 It generate absolute path for symlink => see [symlink]({% post_url 2021-10-18-symlink %}) to transform them
 
