@@ -3,10 +3,11 @@ published: true
 title: Find duplicate
 tags: find duplicate file photo image
 ---
-## [rdfind](https://rdfind.pauldreik.se/) / [github](https://github.com/pauldreik/rdfind)
 {% highlight bash %}
 rdfind /mnt/Photo 		# look for duplicate and store the one found in results.txt
 {% endhighlight %}
+
+## [rdfind](https://rdfind.pauldreik.se/) / [github](https://github.com/pauldreik/rdfind)
 
 It does not follow link symlink by default. 
 It generate absolute path for symlink => see [symlink]({% post_url 2021-10-18-symlink %}) to transform them
