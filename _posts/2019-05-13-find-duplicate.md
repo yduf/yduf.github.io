@@ -14,10 +14,13 @@ rdfind /mnt/Photo 		# look for duplicate and store the one found in results.txt
 It does not follow symlink by default. 
 It generate absolute path for symlink => see [symlink]({% post_url 2021-10-18-symlink %}) to transform them
 
-- If flag ”-makeresultsfile true”, then print results file (default).
-- If flag ”-deleteduplicates true”, then delete (unlink) duplicate files. Exit.
-- If flag ”-makesymlinks true”, then replace duplicates with a symbolic link to the original. Exit.
-- If flag ”-makehardlinks true”, then replace duplicates with a hard link to the original. Exit.
+**-makesymlinks true** replace duplicates with a symbolic link to the original. Exit.
+{% highlight bash %}
+rdfind -makesymlinks true /mnt/Photo
+{% endhighlight %}
+
+**-makehardlinks true** replace duplicates with a hard link to the original. Exit.
+**-deleteduplicates true** delete (unlink) duplicate files. Exit.
 
 
 ## [fdupes](https://github.com/adrianlopezroche/fdupes)
