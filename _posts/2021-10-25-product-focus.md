@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+title: Product Focus
+tags: work
 ---
 > Higher quantity of ideas == More engineers.   
 > Higher quality of ideas == Fewer engineers.
