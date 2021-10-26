@@ -1,7 +1,7 @@
 ---
 published: true
 title: "\tSlow Down, Finish Faster"
-tags: work
+tags: work speed
 ---
 > Higher quantity of ideas == More engineers.   
 > Higher quality of ideas == Fewer engineers.
