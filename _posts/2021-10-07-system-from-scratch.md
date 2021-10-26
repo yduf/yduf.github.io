@@ -9,5 +9,6 @@ tags: system quote
 
 - [	SerenityOS](https://news.ycombinator.com/item?id=19986126) / [ Andreas Kling ](https://www.youtube.com/channel/UC3ts8coMP645hZw9JSD3pqQ) - a graphical Unix-like OS for x86, with 90s aesthetics
 
+- [	I wrote a display server, a desktop environment, and a debugging/reversing tool ](https://news.ycombinator.com/item?id=11785479)
 
 ![caption](https://raw.githubusercontent.com/SerenityOS/serenity/master/Meta/screenshot-b36968c.png)
