@@ -1,6 +1,6 @@
 ---
 published: true
-title: digiKam
+title: digiKam (DAM)
 tags: image photo google-alt
 ---
 > Professional Photo Management with the Power of Open Source - [Home](https://www.digikam.org/) / [HN](https://news.ycombinator.com/item?id=23947398)
@@ -14,3 +14,6 @@ tags: image photo google-alt
 
 - [How to use multiple photo libraries with DigiKam](https://unix.cafe/wp/en/2020/08/how-to-use-multiple-photo-libraries-with-digikam/)
 - [Digital Asset Management (DAM) with digiKam](https://docs.kde.org/trunk5/en/digikam-doc/digikam/using-dam.html)
+
+## Internal
+- [digiKam API reference page](https://www.digikam.org/api/index.html)
