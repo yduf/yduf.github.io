@@ -12,9 +12,9 @@ tags: ruby
 
 simple as defining your own === method
 {% highlight  ruby %}
-class Empty
+class Success
   def self.===(item)
-    item.response_size == 0
+    item.status >= 200 && item.status < 300
   end
 end
 {% endhighlight %}
