@@ -1,6 +1,6 @@
 ---
 published: true
-title: Ruby's case statement
+title: swith/case statement
 tags: ruby
 ---
 > `case x` - [Advanced techniques](https://www.honeybadger.io/blog/rubys-case-statement-advanced-techniques/)
