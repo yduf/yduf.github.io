@@ -14,6 +14,7 @@ tags: laser vector games
 
 [Schematics](https://oshwlab.com/chris_9044/laser-show-driver-breadboard) / [easyeda](https://easyeda.com/editor#id=129a292fc01a4e27935e7416db2ddd6e)
         
+- [TTGO-T8-ESP32](https://github.com/LilyGO/TTGO-T8-ESP32)
 
 ## Others
 
