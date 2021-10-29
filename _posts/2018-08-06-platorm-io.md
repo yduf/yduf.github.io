@@ -1,7 +1,7 @@
 ---
 title: Platorm.io (IDE)
 published: true
-tags: arduino vscode ide serial
+tags: arduino esp32 vscode ide serial
 ---
 > Professional collaborative platform for embedded development - [platformio.org/](https://platformio.org/)
 
