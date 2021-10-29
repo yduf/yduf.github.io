@@ -9,6 +9,7 @@ tags: laser vector games
 - [ESP32 Asteroids](https://github.com/atomic14/esp-asteroids), [it use git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules), after clone run:
     - `git submodule init` 
     - `git submodule update`
+    - compile with [Platform.io]({% post_url 2018-08-06-platorm-io %})
     - issue with [x509_crt_bundle](https://github.com/espressif/esp-idf/issues/7621#issuecomment-931273887) - workaround is to disable them 
         
 
