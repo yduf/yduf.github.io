@@ -6,7 +6,7 @@ tags: 3dprint pla
 PLA tested so far -- 1.75mm
 
 ## [Provider/Vendor](https://forum.prusaprinters.org/forum/original-prusa-i3-mk3-discussion-generale-annonces-et-nouveautes/filaments-avis-et-conseils/)
-- [3djake](https://www.3djake.fr) - TBD
+- [3djake.fr](https://www.3djake.fr) - TBD
 	- [PLA Economy Light Gray](https://www.3djake.fr/colorfabb/pla-economy-light-gray) - TBD
     - [PolyTerra PLA Arctic Teal ](https://www.3djake.fr/polymaker/polyterra-pla-arctic-teal) - imprime bien mais [TVOC](https://learn.kaiterra.com/en/air-academy/understanding-tvoc-volatile-organic-compounds) important 1.2 mg/m³  a l'ouverture (yellow air state) - to recheck 
     	- excellent printing 200°C 80 mm/s / Bed at 50°C
