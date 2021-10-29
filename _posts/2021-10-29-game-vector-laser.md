@@ -11,6 +11,8 @@ tags: laser vector games
     - `git submodule update`
     - compile with [Platform.io]({% post_url 2018-08-06-platorm-io %})
     - issue with [x509_crt_bundle](https://github.com/espressif/esp-idf/issues/7621#issuecomment-931273887) - workaround is to disable them 
+
+[Schematics](https://oshwlab.com/chris_9044/laser-show-driver-breadboard)
         
 
 ## Others
