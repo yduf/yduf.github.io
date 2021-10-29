@@ -6,10 +6,9 @@ tags: laser vector games
 > running TEMPEST, SEGA STARTREK, my game Word War vi, and some demos on a home made RGB laser projector driven by openlase modified to support color. - [youtube](https://www.youtube.com/watch?v=eA6pvAZ3nq4) 
 
 ## [Laser Projected Asteroids](https://www.youtube.com/watch?v=LXDwGygCokU&t=0s)
-- [ESP32 Asteroids](https://github.com/atomic14/esp-asteroids), dependencies:
-	- [Box2D](https://box2d.org/documentation/box2d_8h_source.html) -> after clone run
-    	- `git submodule init` 
-    	- `git submodule init`
+- [ESP32 Asteroids](https://github.com/atomic14/esp-asteroids), [it use git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules), after clone run:
+    - `git submodule init` 
+    - `git submodule update`
     - issue with [x509_crt_bundle](https://github.com/espressif/esp-idf/issues/7621#issuecomment-931273887) - workaround is to disable them 
         
 
