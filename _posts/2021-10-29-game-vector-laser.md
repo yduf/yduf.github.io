@@ -9,7 +9,8 @@ tags: laser vector games
 - [ESP32 Asteroids](https://github.com/atomic14/esp-asteroids), dependencies:
 	- [Box2D](https://box2d.org/documentation/box2d_8h_source.html) -> after clone run
     	- `git submodule init` 
-    	- `git submodule init` 
+    	- `git submodule init`
+    - issue with [x509_crt_bundle](https://github.com/espressif/esp-idf/issues/7621#issuecomment-931273887) - workaround is to disable them 
         
 
 ## Others
