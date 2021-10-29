@@ -24,3 +24,5 @@ tags: laser vector games
 	- [openlase-mame](https://github.com/jv4779/openlase-mame) - A very crude first attempt at interfacing MAME vector games to openlase for laser projector display. 
 
 - [Vector display overview](https://trmm.net/Category:Vector_display/)
+
+![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.OR253GzfK5vbkHussIfwOAHaEK%26pid%3DApi&f=1) 
