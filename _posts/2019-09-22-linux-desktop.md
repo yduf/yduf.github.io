@@ -7,7 +7,7 @@ tags: linux-system desktop application
 ### Add shortcut to panel
 This require to add the launcher app to panel (default panel, allows only unpin, not add)
 
-### [Privacy](https://askubuntu.com/questions/540661/how-do-i-disable-the-recent-files-feature-in-the-cinnamon-desktop-environment) - pull up the menu, type 'privacy' 
+### [Recent files](https://askubuntu.com/questions/540661/how-do-i-disable-the-recent-files-feature-in-the-cinnamon-desktop-environment) - pull up the menu, type 'privacy' 
 
 ## File Explorer [Nemo](https://doc.ubuntu-fr.org/nemo)
 - [ThumbnailFactory](https://unix.stackexchange.com/questions/249182/nemo-how-can-i-fix-a-problem-has-been-detected-with-your-thumbnail-cache/249211#249211)
