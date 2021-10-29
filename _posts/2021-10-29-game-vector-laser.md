@@ -7,7 +7,10 @@ tags: laser vector games
 
 ## [Laser Projected Asteroids](https://www.youtube.com/watch?v=LXDwGygCokU&t=0s)
 - [ESP32 Asteroids](https://github.com/atomic14/esp-asteroids), dependencies:
-	- [Box2D](https://box2d.org/documentation/box2d_8h_source.html) 
+	- [Box2D](https://box2d.org/documentation/box2d_8h_source.html) -> after clone run
+    	- `git submodule init` 
+    	- `git submodule init` 
+        
 
 ## Others
 
