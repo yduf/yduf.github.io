@@ -12,7 +12,7 @@ tags: laser vector games
     - compile with [Platform.io]({% post_url 2018-08-06-platorm-io %})
     - issue with [x509_crt_bundle](https://github.com/espressif/esp-idf/issues/7621#issuecomment-931273887) - workaround is to disable them 
 
-[Schematics](https://oshwlab.com/chris_9044/laser-show-driver-breadboard)
+[Schematics](https://oshwlab.com/chris_9044/laser-show-driver-breadboard) / [easyeda](https://easyeda.com/editor#id=129a292fc01a4e27935e7416db2ddd6e)
         
 
 ## Others
