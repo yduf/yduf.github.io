@@ -6,7 +6,8 @@ tags: laser vector games
 > running TEMPEST, SEGA STARTREK, my game Word War vi, and some demos on a home made RGB laser projector driven by openlase modified to support color. - [youtube](https://www.youtube.com/watch?v=eA6pvAZ3nq4) 
 
 ## [Laser Projected Asteroids](https://www.youtube.com/watch?v=LXDwGygCokU&t=0s)
-- [ESP32 Asteroids](https://github.com/atomic14/esp-asteroids)
+- [ESP32 Asteroids](https://github.com/atomic14/esp-asteroids), dependencies:
+	- [Box2D](https://box2d.org/documentation/box2d_8h_source.html) 
 
 ## Others
 
