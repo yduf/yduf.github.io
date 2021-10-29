@@ -7,6 +7,8 @@ tags: linux-system desktop application
 ### Add shortcut to panel
 This require to add the launcher app to panel (default panel, allows only unpin, not add)
 
+### [Privacy](https://askubuntu.com/questions/540661/how-do-i-disable-the-recent-files-feature-in-the-cinnamon-desktop-environment) - pull up the menu, type 'privacy' 
+
 ## File Explorer [Nemo](https://doc.ubuntu-fr.org/nemo)
 - [ThumbnailFactory](https://unix.stackexchange.com/questions/249182/nemo-how-can-i-fix-a-problem-has-been-detected-with-your-thumbnail-cache/249211#249211)
 - One can add custom thumbnail generators by adding configuration files in share/thumbnailers. Typically: /usr/share/thumbnailers/ or ~/.local/share/thumbnailers
@@ -16,7 +18,7 @@ This require to add the launcher app to panel (default panel, allows only unpin,
         - [STL Thumbnailer](https://github.com/Spiritdude/Nautilus_Thumbnailer_STL)
         - [openscad/stl](https://github.com/yorikvanhavre/openscad-thumbnailers)
 - [disabling thumbnail cache](https://forums.linuxmint.com/viewtopic.php?t=203366)
-- [Privacy](https://askubuntu.com/questions/540661/how-do-i-disable-the-recent-files-feature-in-the-cinnamon-desktop-environment) - pull up the menu, type 'privacy' 
+
 
 ## Updating
 - [How to upgrade to Linux Mint 20](https://linuxmint-user-guide.readthedocs.io/en/latest/upgrade-to-mint-20.html)
