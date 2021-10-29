@@ -3,8 +3,7 @@ published: true
 title: Linux Mint Desktop
 tags: linux-system desktop application
 ---
-## Cinnamon Panel
-### Add shortcut to panel
+### Cinnamon Add shortcut to panel
 This require to add the launcher app to panel (default panel, allows only unpin, not add)
 
 ### [Recent files](https://askubuntu.com/questions/540661/how-do-i-disable-the-recent-files-feature-in-the-cinnamon-desktop-environment) - pull up the menu, type 'privacy' 
