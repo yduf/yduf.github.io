@@ -30,7 +30,11 @@ sed -i "s,Database Name Thumbnails=.*,Database Name Thumbnails=,g" "${HOME}/Pict
 
 ### Usage
 {% highlight bash %}
-digikamctl ls	# List your available libraries
+digikamctl ls         # List your available libraries
+digikamctl new Work   # Create new library
+digikamctl use Work   # Activate library
+digikamctl open Personal # digikamctl open Personal in digikam
+digikamctl rm Work    # Remove library 
 {% endhighlight %}
 
 
