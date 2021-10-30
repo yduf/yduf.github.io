@@ -12,8 +12,11 @@ tags: image photo google-alt hash
 - complement [DarkTable]({% post_url 2021-07-03-photo-app %})
 - an alternative to Picasa
 
-- [How to use multiple photo libraries with DigiKam](https://unix.cafe/wp/en/2020/08/how-to-use-multiple-photo-libraries-with-digikam/)
 - [Digital Asset Management (DAM) with digiKam](https://docs.kde.org/trunk5/en/digikam-doc/digikam/using-dam.html)
+
+## [How to use multiple photo libraries with DigiKam](https://unix.cafe/wp/en/2020/08/how-to-use-multiple-photo-libraries-with-digikam/) / [github](https://github.com/DeaDSouL/unix.cafe_digikam-multiple-libraries)
+
+
 
 ## Internal
 - [digiKam API reference page](https://www.digikam.org/api/index.html)
