@@ -7,3 +7,5 @@ tags: electronic
 
 - [Make Surface-Mount Electronics at Home for Smaller, Cheaper DIY Gadgets ](https://mad-science.wonderhowto.com/how-to/make-surface-mount-electronics-home-for-smaller-cheaper-diy-gadgets-0135537/)
 - [Surface-mount electronics for hobbyists: easier than you think](https://medium.com/@rxseger/surface-mount-electronics-for-hobbyists-easier-than-you-think-fdd2dd60952b)
+
+- [Homemade Surface Mount Vacuum Pick-Up Tool ](https://www.grant-trebbin.com/2013/04/homemade-surface-mount-vacuum-pick-up.html)
