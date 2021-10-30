@@ -18,6 +18,26 @@ tags: image photo google-alt hash
 
 The `digikamctl` script create & switch .config/digikamrc file, associating db automatically
 
+### initialize repo
+
+{% highlight bash %}
+cp -v ~/.config/digikamrc ~/Pictures/DigiKams/digikamrc.template
+sed -i "s,Database Name=.*,Database Name=,g" "${HOME}/Pictures/DigiKams/digikamrc.template"
+sed -i "s,Database Name Face=.*,Database Name Face=,g" "${HOME}/Pictures/DigiKams/digikamrc.template"
+sed -i "s,Database Name Similarity=.*,Database Name Similarity=,g" "${HOME}/Pictures/DigiKams/digikamrc.template"
+sed -i "s,Database Name Thumbnails=.*,Database Name Thumbnails=,g" "${HOME}/Pictures/DigiKams/digikamrc.template"
+{% endhighlight %}
+
+### Usage
+{% highlight bash %}
+cp -v ~/.config/digikamrc ~/Pictures/DigiKams/digikamrc.template
+sed -i "s,Database Name=.*,Database Name=,g" "${HOME}/Pictures/DigiKams/digikamrc.template"
+sed -i "s,Database Name Face=.*,Database Name Face=,g" "${HOME}/Pictures/DigiKams/digikamrc.template"
+sed -i "s,Database Name Similarity=.*,Database Name Similarity=,g" "${HOME}/Pictures/DigiKams/digikamrc.template"
+sed -i "s,Database Name Thumbnails=.*,Database Name Thumbnails=,g" "${HOME}/Pictures/DigiKams/digikamrc.template"
+{% endhighlight %}
+
+
 ## Internal
 - [digiKam API reference page](https://www.digikam.org/api/index.html)
 - internally use [FNV-1a](https://github.com/KDE/digikam/blob/33d0457e20adda97c003f3dee652a1749406ff9f/core/dplugins/generic/tools/mediaserver/upnpsdk/Neptune/Source/Core/NptHash.cpp) / [Fowler–Noll–Vo hash function](https://en.wikipedia.org/wiki/Fowler%E2%80%93Noll%E2%80%93Vo_hash_function)
