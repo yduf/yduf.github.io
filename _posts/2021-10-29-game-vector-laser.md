@@ -1,7 +1,7 @@
 ---
 published: true
 title: Vector games on laser beam
-tags: laser vector games
+tags: laser vector games esp32 electronic
 ---
 > running TEMPEST, SEGA STARTREK, my game Word War vi, and some demos on a home made RGB laser projector driven by openlase modified to support color. - [youtube](https://www.youtube.com/watch?v=eA6pvAZ3nq4) 
 
@@ -13,9 +13,9 @@ tags: laser vector games
 Compile with [Platform.io]({% post_url 2018-08-06-platorm-io %})
 - issue with [x509_crt_bundle](https://github.com/espressif/esp-idf/issues/7621#issuecomment-931273887) - workaround is to disable them 
 
-[Schematics](https://oshwlab.com/chris_9044/laser-show-driver-breadboard) / [easyeda](https://easyeda.com/editor#id=129a292fc01a4e27935e7416db2ddd6e)
-        
+- [Schematics](https://oshwlab.com/chris_9044/laser-show-driver-breadboard) / [easyeda](https://easyeda.com/editor#id=129a292fc01a4e27935e7416db2ddd6e)      
 - [TTGO-T8-ESP32](https://github.com/LilyGO/TTGO-T8-ESP32)
+- [galvanometre](https://fr.aliexpress.com/item/4000739365447.html?spm=a2g0o.productlist.0.0.32c761efTn3lVy&algo_pvid=b6469537-23db-4eb9-a8d0-c2826d20d782&algo_exp_id=b6469537-23db-4eb9-a8d0-c2826d20d782-10&pdp_ext_f=%7B%22sku_id%22%3A%2210000006790138317%22%7D)
 
 ## Others
 
