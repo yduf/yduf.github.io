@@ -30,11 +30,7 @@ sed -i "s,Database Name Thumbnails=.*,Database Name Thumbnails=,g" "${HOME}/Pict
 
 ### Usage
 {% highlight bash %}
-cp -v ~/.config/digikamrc ~/Pictures/DigiKams/digikamrc.template
-sed -i "s,Database Name=.*,Database Name=,g" "${HOME}/Pictures/DigiKams/digikamrc.template"
-sed -i "s,Database Name Face=.*,Database Name Face=,g" "${HOME}/Pictures/DigiKams/digikamrc.template"
-sed -i "s,Database Name Similarity=.*,Database Name Similarity=,g" "${HOME}/Pictures/DigiKams/digikamrc.template"
-sed -i "s,Database Name Thumbnails=.*,Database Name Thumbnails=,g" "${HOME}/Pictures/DigiKams/digikamrc.template"
+digikamctl ls	# List your available libraries
 {% endhighlight %}
 
 
