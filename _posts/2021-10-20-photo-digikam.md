@@ -28,6 +28,19 @@ sed -i "s,Database Name Similarity=.*,Database Name Similarity=,g" "${HOME}/Pict
 sed -i "s,Database Name Thumbnails=.*,Database Name Thumbnails=,g" "${HOME}/Pictures/DigiKams/digikamrc.template"
 {% endhighlight %}
 
+### init DB
+it's necessary to force db creation when creating a new library
+{% highlight bash %}
+digikamctl new Work   # Create new library
+digikamctl use Work   # setup new library as .digikamrc
+
+# force recreation of database (open digikam setup process)
+digikam --database-directory Pictures/DigiKams/Work/Database/ --config Pictures/DigiKams/Work/digikamrc
+
+
+{% endhighlight %}
+
+
 ### Usage
 {% highlight bash %}
 digikamctl ls         # List your available libraries
