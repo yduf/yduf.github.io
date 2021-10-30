@@ -18,6 +18,8 @@ Compile with [Platform.io]({% post_url 2018-08-06-platorm-io %})
 - [galvanometre](https://fr.aliexpress.com/item/4000739365447.html?spm=a2g0o.productlist.0.0.32c761efTn3lVy&algo_pvid=b6469537-23db-4eb9-a8d0-c2826d20d782&algo_exp_id=b6469537-23db-4eb9-a8d0-c2826d20d782-10&pdp_ext_f=%7B%22sku_id%22%3A%2210000006790138317%22%7D)
 	- [ILDA](https://fr.aliexpress.com/item/32335326943.html?spm=a2g0o.productlist.0.0.32c761efTn3lVy&algo_pvid=b6469537-23db-4eb9-a8d0-c2826d20d782&algo_exp_id=b6469537-23db-4eb9-a8d0-c2826d20d782-21&pdp_ext_f=%7B%22sku_id%22%3A%2260302493105%22%7D)
 
+## [A Complete Guide to Laser Shows  ](http://www.laserist.org/guide-to-laser-shows.htm)
+
 ## Others
 
 - [Playing MAME Games On A RGB Laser Projector](https://hackaday.com/2013/03/12/playing-mame-games-on-a-rgb-laser-projector/)
