@@ -10,6 +10,7 @@ If you delete a picture, it first goes to digikam's trash `.dtrash` in same fold
 
 - digiKam [features](https://www.digikam.org/about/features/)
 	- [tags & face tags](https://userbase.kde.org/Digikam/Tutorials/Tagging_and_Face_Tags)
+    - [quality sorter](https://photo.stackexchange.com/questions/70858/how-does-the-digikam-quality-sorter-work?r=SearchResults)
 - complement [DarkTable]({% post_url 2021-07-03-photo-app %})
 - an alternative to Picasa
 
