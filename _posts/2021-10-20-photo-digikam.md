@@ -6,7 +6,7 @@ tags: image photo google-alt hash
 > Professional Photo Management with the Power of Open Source - [v7.3.0](https://www.digikam.org/) / [HN](https://news.ycombinator.com/item?id=23947398)
 
 **The biggest CON for digiKam is the delete function. If you delete a file from the app it is deleted from the drive.**   
-If you delete a picture, it first goes to digikam's trash `.dtrash` - [r/homelab](https://www.reddit.com/r/homelab/comments/kktqqw/digikam_pros_cons_alternatives_for_photo/)
+If you delete a picture, it first goes to digikam's trash `.dtrash` in same folder as where the photo was - [r/homelab](https://www.reddit.com/r/homelab/comments/kktqqw/digikam_pros_cons_alternatives_for_photo/)
 
 - digiKam [features](https://www.digikam.org/about/features/)
 	- [tags & face tags](https://userbase.kde.org/Digikam/Tutorials/Tagging_and_Face_Tags)
