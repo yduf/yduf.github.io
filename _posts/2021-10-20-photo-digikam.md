@@ -36,7 +36,9 @@ digikamctl new Work   # Create new library
 digikamctl use Work   # setup new library as .digikamrc
 
 # force recreation of database for new library (open digikam setup process)
+# it seems to work because the path to digikamrc is local / not found ?
 digikam --database-directory Pictures/DigiKams/Work/Database/ --config Pictures/DigiKams/Work/digikamrc
+
 {% endhighlight %}
 
 
@@ -45,7 +47,7 @@ digikam --database-directory Pictures/DigiKams/Work/Database/ --config Pictures/
 digikamctl ls         # List your available libraries
 digikamctl new Work   # Create new library
 digikamctl use Work   # Activate library
-digikamctl open Personal # digikamctl open Personal in digikam
+digikamctl open Personal # digikamctl open Personal in digikam (modified to NOT setup as default)
 digikamctl rm Work    # Remove library 
 {% endhighlight %}
 
