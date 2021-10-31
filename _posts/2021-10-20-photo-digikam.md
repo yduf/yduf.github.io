@@ -14,6 +14,7 @@ If you delete a picture, it first goes to digikam's trash `.dtrash` in same fold
 - an alternative to Picasa
 
 - [Digital Asset Management (DAM) with digiKam](https://docs.kde.org/trunk5/en/digikam-doc/digikam/using-dam.html)
+- [digiKam <-> Darktable workflow?](https://www.reddit.com/r/FOSSPhotography/comments/jgviqd/digikam_darktable_workflow/)
 
 ## [How to use multiple photo libraries with DigiKam](https://unix.cafe/wp/en/2020/08/how-to-use-multiple-photo-libraries-with-digikam/) / [github](https://github.com/DeaDSouL/unix.cafe_digikam-multiple-libraries)
 
