@@ -57,7 +57,7 @@ digikamctl rm Work    # Remove library
 
 
 ## Issue
-- does not recognize image file with missing extension
+- does not recognize image filename with missing extension
 
 ## [Internal](https://www.digikam.org/documentation/)
 - [digiKam API reference page](https://www.digikam.org/api/index.html)
