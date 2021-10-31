@@ -48,6 +48,7 @@ digikamctl ls         # List your available libraries
 digikamctl new Work   # Create new library
 digikamctl use Work   # Activate library
 digikamctl open Personal # digikamctl open Personal in digikam (modified to NOT setup as default)
+                      # need to remove check in script to enable opening several lib concurrently
 digikamctl rm Work    # Remove library 
 {% endhighlight %}
 
