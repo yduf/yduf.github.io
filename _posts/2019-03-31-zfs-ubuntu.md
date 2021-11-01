@@ -65,7 +65,7 @@ zfs create -o mountpoint=/mnt/binaries storage_pool/binaries
 zfs list   # Test the datasets have been created with
 {% endhighlight %}
   
-### Renaming a ZFS File System
+### [Renaming a ZFS File System](https://docs.oracle.com/cd/E19253-01/819-5461/gamnq/index.html#Renaming a ZFS File System)
   
 {% highlight bash %}
 zfs create -o mountpoint=[MOUNT POINT] [ZPOOL NAME]/[DATASET NAME]
