@@ -1,7 +1,7 @@
 ---
 published: true
 title: Build a Laser scanner Microscope
-tags: make laser dvd
+tags: make laser dvd microscope
 ---
 > a special light microscope which uses a focused laser beam to scans the sample. - [DVD Laser Scanner Microscope](https://www.gaudi.ch/GaudiLabs/?page_id=652) / [HN](https://news.ycombinator.com/item?id=26012652)
 

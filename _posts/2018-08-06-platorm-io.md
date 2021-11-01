@@ -1,8 +1,12 @@
 ---
 title: Platorm.io (IDE)
 published: true
-tags: arduino vscode ide serial
+tags: arduino esp32 vscode ide serial
 ---
+> Professional collaborative platform for embedded development - [platformio.org/](https://platformio.org/)
+
+## Install
+Install as VSCode extension
 
 ## Troubleshooting
 - [How to set default baud rate of serial monitor](https://stackoverflow.com/questions/47240396/how-to-change-default-baud-rate-of-serial-monitor-in-vscode-with-platformio/48047676#48047676)
