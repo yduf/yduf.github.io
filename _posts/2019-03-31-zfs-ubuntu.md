@@ -50,12 +50,23 @@ cd /storage_pool
 df -h .
 {% endhighlight %}
 
-## [Create ZFS dataset/Filesystem](https://www.jamescoyle.net/how-to/478-create-a-zfs-volume-on-ubuntu)
+## [Create ZFS Filesystem (or dataset)](https://www.jamescoyle.net/how-to/478-create-a-zfs-volume-on-ubuntu)
 
 > At this point, we now have a zpool spanning three disks. One of these is used for parity, giving us the chance to recover in the event of a single disk failure. The next step is to make the volume usable and add features such as compression, encryption or de-duplication.
 
-Multiple [Dataset](https://www.unixarena.com/2013/07/zfs-datasets-administration-and.html/) can be created on a single pool, the storage of the zpool with be available to any dataset as it requires it.
+Multiple [ZFS file systems/dataset](https://www.unixarena.com/2013/07/zfs-datasets-administration-and.html/) can be created on a single pool, the storage of the zpool with be available to any dataset as it requires it.
 
+[ZFS file systems](https://docs.oracle.com/cd/E19253-01/819-5461/gamnq/index.html) can be created and destroyed by using the `zfs create` and `zfs destroy` commands. ZFS file systems can be renamed by using the `zfs rename` command.
+  
+{% highlight bash %}
+zfs create -o mountpoint=[MOUNT POINT] [ZPOOL NAME]/[DATASET NAME]
+
+zfs create -o mountpoint=/mnt/binaries storage_pool/binaries
+zfs list   # Test the datasets have been created with
+{% endhighlight %}
+  
+
+  
 {% highlight bash %}
 zfs create -o mountpoint=[MOUNT POINT] [ZPOOL NAME]/[DATASET NAME]
 
@@ -90,4 +101,3 @@ When available **ZFS RAIDZ expansion** would let adding a new disk to existing v
 - [zfs compression](https://www.servethehome.com/the-case-for-using-zfs-compression/)
 - [zfs properties](https://docs.oracle.com/cd/E19253-01/819-5461/gazuk/index.html)
 	- `zfs get all tank/home`
-
