@@ -67,11 +67,24 @@ zfs list   # Test the datasets have been created with
   
 ### [Renaming a ZFS File System](https://docs.oracle.com/cd/E19253-01/819-5461/gamnq/index.html)
   
+With the `rename` subcommand, you can perform the following operations:
+- Change the name of a file system.
+- and/or Relocate the file system within the ZFS hierarchy
+  
 {% highlight bash %}
-zfs create -o mountpoint=[MOUNT POINT] [ZPOOL NAME]/[DATASET NAME]
-
-zfs create -o mountpoint=/mnt/binaries storage_pool/binaries
-zfs list   # Test the datasets have been created with
+zfs rename tank/home/kustarz tank/home/kustarz_old     # rename
+zfs rename tank/home/maybee tank/ws/maybee             # relocate (mv)
+{% endhighlight %}
+  
+When you relocate a file system through rename, the new location must be within the same pool and it must have enough disk space to hold this new file system. If the new location does not have enough disk space, possibly because it has reached its quota, rename operation fails.
+  
+### [Changing FS Mount Point](https://www.tech-recipes.com/rx/1412/zfs-set-or-change-the-mount-point-of-a-filesystem/)
+  
+To change the mount point of the filesystem techrx/logs to /var/logs, you must first create the mount point (just mkdir a directory) if it does not exist, and then change it
+ 
+{% highlight bash %}
+mkdir /var/logs zfs 
+set mountpoint=/var/logs techrx/logs
 {% endhighlight %}
   
 ## [ZFS Event Daemon (ZED)](https://zfsonlinux.org/manpages/0.8.4/man8/zed.8.html)
