@@ -83,8 +83,8 @@ When you relocate a file system through rename, the new location must be within 
 To change the mount point of the filesystem techrx/logs to /var/logs, you must first create the mount point (just mkdir a directory) if it does not exist, and then change it
  
 {% highlight bash %}
-mkdir /var/logs zfs 
-set mountpoint=/var/logs techrx/logs
+mkdir /var/logs 
+zfs set mountpoint=/var/logs techrx/logs
 {% endhighlight %}
   
 ## [ZFS Event Daemon (ZED)](https://zfsonlinux.org/manpages/0.8.4/man8/zed.8.html)
