@@ -9,3 +9,4 @@ La plupart des cellules d'un corps humain ont moins de 10 ans. Les plus «vieill
 de corps tous les quinze ans ?](https://www.lefigaro.fr/sciences/2008/05/14/01008-20080514ARTFIG00005-pourquoi-change-t-on-de-corps-tous-les-quinze-ans.php)
 
 For almost 100 years, it had been a mantra of biology that brain cells or neurons do not regenerate. It was thought that all your significant brain development happened from conception to age 3. Contrary to that widely held popular belief, scientists now know that neurogenesis continuously occurs in specific regions in the adult brain. - [Regeneration of Brain Cells ](https://www.thoughtco.com/regeneration-of-brain-cells-373181)
+- [How do neurons regenerate without losing memory?](https://www.sciencedaily.com/releases/2014/05/140521133514.htm)
