@@ -1,9 +1,9 @@
 ---
 published: true
 title: Le bateau de Thésé
-tags: identity paradox
+tags: identity paradox biology
 ---
-> Au cours de ses voyages, le bois se brisait ou pourrissait et devait être remplacé. Lorsque Thésée rentra chez lui, le navire qui accosta au port n’avait pas un seul morceau du navire qui en était parti. Malgré tout, l’équipage ne doutait pas que c’était le même bateau. - [wikipedia](https://fr.wikipedia.org/wiki/Bateau_de_Th%C3%A9s%C3%A9e) / []()
+> Au cours de ses voyages, le bois se brisait ou pourrissait et devait être remplacé. Lorsque Thésée rentra chez lui, le navire qui accosta au port n’avait pas un seul morceau du navire qui en était parti. Malgré tout, l’équipage ne doutait pas que c’était le même bateau. -  [L'identité et le bateau de Thésée](https://nospensees.fr/lidentite-et-le-bateau-de-thesee/) / [wikipedia](https://fr.wikipedia.org/wiki/Bateau_de_Th%C3%A9s%C3%A9e)
 
 La plupart des cellules d'un corps humain ont moins de 10 ans. Les plus «vieilles», dans la catégorie de celles qui se renouvellent, sont les cellules des parois de l'intestin et celles des muscles des côtes qui atteignent 15 ans. Ce sont donc celles qui se renouvellent le plus lentement. Ces études ont également confirmé que les neurones ont bien l'âge de celui qui les possède. Ou que l'on a bien l'âge de ses neurones. - [Pourquoi change-t-on
 de corps tous les quinze ans ?](https://www.lefigaro.fr/sciences/2008/05/14/01008-20080514ARTFIG00005-pourquoi-change-t-on-de-corps-tous-les-quinze-ans.php)
