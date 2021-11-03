@@ -1,7 +1,7 @@
 ---
 published: true
 title: Le bateau de Thésé
-tags: identity paradox biology
+tags: identity paradox biology mental-model
 ---
 > Au cours de ses voyages, le bois se brisait ou pourrissait et devait être remplacé. Lorsque Thésée rentra chez lui, le navire qui accosta au port n’avait pas un seul morceau du navire qui en était parti. Malgré tout, l’équipage ne doutait pas que c’était le même bateau. -  [L'identité et le bateau de Thésée](https://nospensees.fr/lidentite-et-le-bateau-de-thesee/) / [wikipedia](https://fr.wikipedia.org/wiki/Bateau_de_Th%C3%A9s%C3%A9e)
 
