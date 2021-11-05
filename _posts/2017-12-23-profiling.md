@@ -5,6 +5,10 @@ tags: performance linux profiler c++
 ---
 > Valgrind is an instrumentation framework for building dynamic analysis tools. - [Valgrind](http://valgrind.org/) / [git](https://sourceware.org/git/?p=valgrind.git;a=summary)
 
+## Alternatives
+- [Tracy](https://github.com/wolfpld/tracy)
+- [Optik](https://news.ycombinator.com/item?id=29092136)
+
 ## Supported platform
 	- **x86/Linux**: up to and including SSSE3, but not higher -- no SSE4, AVX, AVX2. This target is in maintenance mode now..
     - **AMD64/Linux**: up to and including AVX2. This is the primary development target and tends to be well supported.
@@ -12,7 +16,6 @@ tags: performance linux profiler c++
     
 ## Additional tools
 - [CacheGrind](http://valgrind.org/docs/manual/cl-manual.html) / [KCacheGrind](https://kcachegrind.github.io/html/Home.html)
-
 
 Notes: valgrind-3.13.0
 
