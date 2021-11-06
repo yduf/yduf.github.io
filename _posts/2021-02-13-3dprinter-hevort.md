@@ -10,6 +10,5 @@ tags: 3dprinter
 
 ## Similar Model
 - [Voron](https://www.vorondesign.com/) - a true home micro-manufacturing machine without a hefty price tag. 
+	- [The VORON 0](https://www.youtube.com/watch?v=4VSu_gG-nlk) - Mini, Fast & Open-Source Core XY
 - [Rat Rig V-core](https://www.ratrig.com/3d-printing-cnc/3d-printer-kits/complete-kits/v-core3configurable.html)
-
-	
