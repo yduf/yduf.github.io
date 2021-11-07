@@ -7,3 +7,4 @@ tags: math parabola
 
 ex of application: [Find Equation of Parabola Passing Through three Points](https://www.analyzemath.com/stepbystep_mathworksheets/parabola/parabola_3_points.html)
 
+[graphic equation](https://www.desmos.com/calculator/lac2i0bgum)
