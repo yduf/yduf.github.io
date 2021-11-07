@@ -4,3 +4,6 @@ title: Libre Office
 tags: ruby application
 ---
 > a freely-available, full-featured office suite. - [doc](https://books.libreoffice.org/en/index.html)
+
+## Tools
+- [odf-report](https://github.com/sandrods/odf-report) - Gem for generating .odt files by making strings, images, tables and sections replacements in a previously created .odt file.
