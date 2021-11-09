@@ -4,7 +4,9 @@ title: nth_element (C++)
 tags: c++ sort algorithm complexity median
 excerpt_separator: <!--more-->
 ---
-[nth_element](https://en.cppreference.com/w/cpp/algorithm/nth_element) is a partial sorting algorithm that rearranges elements in \[first, last) such that: 
+> a partial sorting algorithm that rearranges elements in \[first, last) with O(N) worst running time. - [nth_element](https://en.cppreference.com/w/cpp/algorithm/nth_element)
+
+
 - The element pointed at by nth is changed to whatever element would occur in that position if [first, last) were sorted. 
 - All of the elements before this new nth element are less than or equal to the elements after the new nth element. 
 
