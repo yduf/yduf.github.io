@@ -154,6 +154,8 @@ The stylus communicates wirelessly. The pressure sensitivity is in the stylus it
 
 
 ## Alternatives
+- [PineNote](https://www.pine64.org/pinenote/) - **new**
+
 - [Onyx Boox Max Air (closest)](https://www.youtube.com/watch?v=EdQ5sXTJRMI) / [r/Onyx_Boox](https://www.reddit.com/r/Onyx_Boox/)
 - [Onyx Boox Max Lumi](https://www.youtube.com/watch?v=0SIRcxobTnA) / [Home](https://www.boox.com/maxlumi/)
 	- [in depth review](https://www.youtube.com/watch?v=B8X7JPdgsh0)
