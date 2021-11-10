@@ -8,3 +8,4 @@ tags: algorithm
 - [Chess Programming Wiki (list)](https://www.chessprogramming.org/Algorithms)
 - [Summary of fast conversion algorithms](https://johnnylee-sde.github.io/Summary-of-fast-conversion-algorithms/)
 - [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
+- [	Arcane Algorithm Archive](https://news.ycombinator.com/item?id=29138991)
