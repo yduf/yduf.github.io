@@ -18,3 +18,4 @@ tags: rubik opencv robot
 - [PyRubikCube](https://sourceforge.net/p/pyrubikcube/code/HEAD/tree/cubesolver/) 
 - [Build your own Rubik’s Cube-solving robot](https://deviceguru.com/build-your-own-rubiks-cube-solving-robot/)
 - [FAC system Rubik's Cube solver](https://blog.zok.pw/hacking/2015/08/18/fac-rubik-solver/)
+- [Lego Mindstorms Rubiks Cube Solving Robot](https://www.youtube.com/watch?v=uWkZ51yxvis)
