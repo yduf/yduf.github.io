@@ -1,7 +1,7 @@
 ---
 published: true
 title: Key-Value Store / Hashmap dictionary
-tags: db hash filesystem dictionnary c++
+tags: db hash filesystem dictionary c++
 ---
 > Key-value stores are one of the simplest forms of database. - [Implementing a Key-Value Store](https://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
 
