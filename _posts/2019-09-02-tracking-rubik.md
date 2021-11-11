@@ -22,3 +22,5 @@ tags: rubik opencv robot lego
 - [Lego Mindstorms Rubiks Cube Solving Robot](https://www.youtube.com/watch?v=uWkZ51yxvis)
 - [The first NXT LEGO Rubik’s cube solver](https://robotics.benedettelli.com/lego-rubik-cube-solver/)
 - [MindCuber](http://mindcuber.com/) / [github](https://github.com/dlech/MindCuberNXT)
+
+- [ARM Powered Android LEGO MultiCuber 777](https://www.youtube.com/watch?v=b5b9BIBuOd4)
