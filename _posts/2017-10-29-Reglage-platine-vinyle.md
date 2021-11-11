@@ -1,8 +1,9 @@
 ---
 published: true
 tags: vinyle audio
+title: null
 ---
-Tuto expliquant les bases pour bien [regler sa platine vinyle](https://www.son-video.com/guide/bien-regler-sa-platine-vinyle)
+> le premier de tous consiste à placer la platine vinyle parfaitement à l'horizontale à l'aide d'un niveau à bulle. - [Bien regler sa platine vinyle](https://www.son-video.com/guide/bien-regler-sa-platine-vinyle)
 
 ![caption](/images/platine-skull.jpg)
 
