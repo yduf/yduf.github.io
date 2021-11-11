@@ -1,7 +1,7 @@
 ---
 published: true
 title: Recognising Rubik's Cubes
-tags: rubik opencv
+tags: rubik opencv robots
 ---
 ## [backup](https://github.com/yduf/ruby-kube)
 
@@ -13,3 +13,7 @@ tags: rubik opencv
 - [How to represent a Rubik's Cube in a data structure](https://softwareengineering.stackexchange.com/questions/142760/how-to-represent-a-rubiks-cube-in-a-data-structure)
 - [How to represent a Rubik's cube](https://stackoverflow.com/questions/9762162/how-to-represent-a-rubiks-cube)
 - [Implementing Rubik's Cube](http://www.chilton.com/~jimw/rubik.html)
+
+## Cube Solver
+- [PyRubikCube](https://sourceforge.net/p/pyrubikcube/code/HEAD/tree/cubesolver/) 
+- [Build your own Rubik’s Cube-solving robot](https://deviceguru.com/build-your-own-rubiks-cube-solving-robot/)
