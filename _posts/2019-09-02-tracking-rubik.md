@@ -1,7 +1,7 @@
 ---
 published: true
 title: Recognising Rubik's Cubes
-tags: rubik opencv robots
+tags: rubik opencv robot
 ---
 ## [backup](https://github.com/yduf/ruby-kube)
 
@@ -17,3 +17,4 @@ tags: rubik opencv robots
 ## Cube Solver
 - [PyRubikCube](https://sourceforge.net/p/pyrubikcube/code/HEAD/tree/cubesolver/) 
 - [Build your own Rubik’s Cube-solving robot](https://deviceguru.com/build-your-own-rubiks-cube-solving-robot/)
+- [FAC system Rubik's Cube solver](https://blog.zok.pw/hacking/2015/08/18/fac-rubik-solver/)
