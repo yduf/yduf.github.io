@@ -24,9 +24,11 @@ La force d'appui doit être suffisamment importante pour assurer un bon suivi du
 
 Le réglage de la force d'appui s'effectue en trois étapes :
 
-    - La première étape consiste à trouver le point d'équilibre du bras de lecture, cellule montée. Il faut pour cela placer le bras en position de lecture et le maintenir d'une main de telle sorte qu'il soit parallèle à la surface du disque. De l'autre main, on tourne alors le contrepoids dans un sens ou dans l'autre de manière à trouver le point d'équilibre du bras : le bras doit "flotter" tout seul en équilibre sur son point de pivot, parallèlement à la surface du disque.
-    - Une fois le point d'équilibre du bras trouvé (c'est le point "zéro"), on cale l'anneau gradué du contrepoids de manière à ce que le zéro soit en face du repère (placé généralement à "midi"). Attention lors de cette étape à ne pas modifier la position du contrepoids ! Le contrepoids est maintenant calé sur sa position zéro. On peut alors vérifier que le point d'équilibre est toujours bon (le bras doit toujours être parallèle à la surface du disque, sinon, il faut reprendre à la première étape).
-    - Il ne reste plus alors qu'à tourner le contrepoids dans le sens des aiguilles d'une montre (l'échelle graduée pivote en même temps) jusqu'à faire correspondre le repère fixe avec la graduation correspondant à la force d'appui recommandée par le fabricant.
+- La première étape consiste à trouver le point d'équilibre du bras de lecture, cellule montée. Il faut pour cela placer le bras en position de lecture et le maintenir d'une main de telle sorte qu'il soit parallèle à la surface du disque. De l'autre main, on tourne alors le contrepoids dans un sens ou dans l'autre de manière à trouver le point d'équilibre du bras : le bras doit "flotter" tout seul en équilibre sur son point de pivot, parallèlement à la surface du disque.
+
+- Une fois le point d'équilibre du bras trouvé (c'est le point "zéro"), on cale l'anneau gradué du contrepoids de manière à ce que le zéro soit en face du repère (placé généralement à "midi"). Attention lors de cette étape à ne pas modifier la position du contrepoids ! Le contrepoids est maintenant calé sur sa position zéro. On peut alors vérifier que le point d'équilibre est toujours bon (le bras doit toujours être parallèle à la surface du disque, sinon, il faut reprendre à la première étape).
+
+- Il ne reste plus alors qu'à tourner le contrepoids dans le sens des aiguilles d'une montre (l'échelle graduée pivote en même temps) jusqu'à faire correspondre le repère fixe avec la graduation correspondant à la force d'appui recommandée par le fabricant.
 
 Remarque : contrairement à certaines idées reçues, une force d'appui trop faible est plus dommageable pour le disque qu'une force d'appui trop élevée. Pourquoi ? Tout simplement parce qu'avec une force d'appui trop faible, la pointe de lecture est amenée à sautiller dans le sillon, occasionnant des dégâts irrémédiables à chaque rebond.
 
