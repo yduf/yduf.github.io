@@ -10,3 +10,4 @@ tags: rubik opencv
 ## [Reading colors of a rubik's cube](https://stackoverflow.com/questions/25563751/reading-colors-of-a-rubiks-cube-using-opencv)
 
 - [How would you represent a Rubik's Cube in code?](https://stackoverflow.com/questions/500221/how-would-you-represent-a-rubiks-cube-in-code?rq=1)
+- [Implementing Rubik's Cube](http://www.chilton.com/~jimw/rubik.html)
