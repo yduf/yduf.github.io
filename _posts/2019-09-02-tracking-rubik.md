@@ -20,3 +20,4 @@ tags: rubik opencv robot lego
 - [FAC system Rubik's Cube solver](https://blog.zok.pw/hacking/2015/08/18/fac-rubik-solver/)
 - [Lego Mindstorms Rubiks Cube Solving Robot](https://www.youtube.com/watch?v=uWkZ51yxvis)
 - [The first NXT LEGO Rubik’s cube solver](https://robotics.benedettelli.com/lego-rubik-cube-solver/)
+- [MindCuber](http://mindcuber.com/) / [github](https://github.com/dlech/MindCuberNXT)
