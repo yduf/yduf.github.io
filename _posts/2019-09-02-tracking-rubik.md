@@ -1,7 +1,7 @@
 ---
 published: true
 title: Recognising Rubik's Cubes
-tags: rubik opencv robot
+tags: rubik opencv robot lego
 ---
 ## [backup](https://github.com/yduf/ruby-kube)
 
@@ -19,3 +19,4 @@ tags: rubik opencv robot
 - [Build your own Rubik’s Cube-solving robot](https://deviceguru.com/build-your-own-rubiks-cube-solving-robot/)
 - [FAC system Rubik's Cube solver](https://blog.zok.pw/hacking/2015/08/18/fac-rubik-solver/)
 - [Lego Mindstorms Rubiks Cube Solving Robot](https://www.youtube.com/watch?v=uWkZ51yxvis)
+- [The first NXT LEGO Rubik’s cube solver](https://robotics.benedettelli.com/lego-rubik-cube-solver/)
