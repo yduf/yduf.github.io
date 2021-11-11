@@ -43,3 +43,8 @@ from [Decoding Morton Codes](https://fgiesen.wordpress.com/2009/12/13/decoding-m
 The PDEP and PEXT instructions are new generalized bit-level compress and expand instructions.
 
 This can be used to extract any bitfield of the input, and even do a lot of bit-level shuffling that previously would have been expensive. While what these instructions do is similar to bit level [gather-scatter](https://en.wikipedia.org/wiki/Gather-scatter_(vector_addressing)) SIMD instructions, PDEP and PEXT instructions operate on general-purpose registers.
+
+| Instruction |	Selector mask |	Source |	Destination |
+| PEXT | 	0xff00fff0 | 	0x12345678 | 	0x00012567 |
+| PDEP | 	0xff00fff0 |	0x00012567 |	0x12005670 |
+
