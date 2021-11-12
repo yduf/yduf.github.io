@@ -8,6 +8,10 @@ tags: c++ lib fastware benchmark
 - [Tuning C++: Benchmarks, and CPUs](https://youtu.be/nXaxk27zwlk?t=686)
 - [Microbenchmarking is hard](https://stackoverflow.com/a/50934895/51386)
 
+Note
+use `-fno-omit-frame-pointer` to conserve callstack with optimized code
+`perf report -g 'graph,0.5,caller'
+
 define
 - UNLIKELY - `__builtin_expected((bool)(x), 0)`
 
