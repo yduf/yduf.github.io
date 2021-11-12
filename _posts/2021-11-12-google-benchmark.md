@@ -16,6 +16,14 @@ and `perf report -g 'graph,0.5,caller' to invert graph reported
 define
 - UNLIKELY - `__builtin_expected((bool)(x), 0)`
 
+## [Disabling CPU Frequency Scaling](https://github.com/google/benchmark/blob/main/docs/user_guide.md#preventing-optimization)
+
+{% highlight bash %}
+sudo cpupower frequency-set --governor performance
+./mybench
+sudo cpupower frequency-set --governor powersave
+{% endhighlight %}
+
 ## [Preventing Optimization](https://github.com/google/benchmark/blob/main/docs/user_guide.md#preventing-optimization)
 - escape - tell compiler that referenced object is modified (create/reserve test)  
 equivalent of `doNotOptimizeAway` from folly.
