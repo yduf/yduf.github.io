@@ -16,14 +16,14 @@ and `perf report -g 'graph,0.5,caller' to invert graph reported
 define
 - UNLIKELY - `__builtin_expected((bool)(x), 0)`
 
-- escape - tell compiler that referenced object is modified
+- escape - tell compiler that referenced object is modified (create/reserve test)
 {% highlight cpp %}
 static void escape(void *p) {
   asm volatile("" : : "g"(p) : "memory");
 }
 {% endhighlight %}
 
-- clobber - tell the compiler that whole memory is modified
+- clobber - tell the compiler that whole memory is modified (push_back test).
 {% highlight cpp %}
 static void escape(void *p) {
   asm volatile("" : :  : "memory");
