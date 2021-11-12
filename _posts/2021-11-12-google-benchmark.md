@@ -16,7 +16,8 @@ and `perf report -g 'graph,0.5,caller' to invert graph reported
 define
 - UNLIKELY - `__builtin_expected((bool)(x), 0)`
 
-- escape - tell compiler that referenced object is modified (create/reserve test)
+- escape - tell compiler that referenced object is modified (create/reserve test)  
+equivalent of `doNotOptimizeAway` from folly.
 {% highlight cpp %}
 static void escape(void *p) {
   asm volatile("" : : "g"(p) : "memory");
