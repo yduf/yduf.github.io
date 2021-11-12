@@ -30,3 +30,29 @@ static void clober() {
   asm volatile("" : :  : "memory");
 }
 {% endhighlight %}
+
+## [`BENCHMARK`](https://github.com/google/benchmark)
+
+{% highlight cpp %}
+#include <benchmark/benchmark.h>
+
+static void BM_SomeFunction(benchmark::State& state) {
+  // Perform setup here
+  for (auto _ : state) {
+    // This code gets timed
+    SomeFunction();
+  }
+}
+// Register the function as a benchmark
+BENCHMARK(BM_SomeFunction);
+// Run the benchmark
+BENCHMARK_MAIN();
+{% endhighlight %}
+
+[`BENCHMARK`](https://github.com/google/benchmark/blob/main/docs/user_guide.md#passing-arguments) loop can be customized.
+
+
+## Install
+
+work with Meson
+
