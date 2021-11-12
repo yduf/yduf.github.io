@@ -10,7 +10,8 @@ tags: c++ lib fastware benchmark
 
 Note
 use `-fno-omit-frame-pointer` to conserve callstack with optimized code
-`perf report -g 'graph,0.5,caller'
+show perf
+and `perf report -g 'graph,0.5,caller' to invert graph reported
 
 define
 - UNLIKELY - `__builtin_expected((bool)(x), 0)`
