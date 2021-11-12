@@ -16,6 +16,7 @@ and `perf report -g 'graph,0.5,caller' to invert graph reported
 define
 - UNLIKELY - `__builtin_expected((bool)(x), 0)`
 
+## [Preventing Optimization](https://github.com/google/benchmark/blob/main/docs/user_guide.md#preventing-optimization)
 - escape - tell compiler that referenced object is modified (create/reserve test)  
 equivalent of `doNotOptimizeAway` from folly.
 {% highlight cpp %}
@@ -26,7 +27,7 @@ static void escape(void *p) {
 
 - clobber - tell the compiler that whole memory is modified (push_back test).
 {% highlight cpp %}
-static void clober() {
+static void clobber() {
   asm volatile("" : :  : "memory");
 }
 {% endhighlight %}
