@@ -1,7 +1,7 @@
 ---
 published: true
 title: Google Benchmark
-tags: c++ lib fastware benchmark
+tags: c++ lib fastware benchmarking
 ---
 > A library to benchmark code snippets, similar to unit tests. - [ google/benchmark ](https://github.com/google/benchmark)
 
