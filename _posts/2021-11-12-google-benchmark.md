@@ -25,7 +25,7 @@ static void escape(void *p) {
 
 - clobber - tell the compiler that whole memory is modified (push_back test).
 {% highlight cpp %}
-static void escape(void *p) {
+static void clober() {
   asm volatile("" : :  : "memory");
 }
 {% endhighlight %}
