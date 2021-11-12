@@ -51,6 +51,15 @@ BENCHMARK_MAIN();
 
 [`BENCHMARK`](https://github.com/google/benchmark/blob/main/docs/user_guide.md#passing-arguments) loop can be customized.
 
+Single Range
+{% highlight cpp %}
+BENCHMARK(BM_memcpy)->Arg(8)->Arg(64)->Arg(512)->Arg(1<<10)->Arg(8<<10);
+BENCHMARK(BM_memcpy)->Range(8, 8<<10);
+BENCHMARK(BM_memcpy)->RangeMultiplier(2)->Range(8, 8<<10);
+BENCHMARK(BM_DenseRange)->DenseRange(0, 1024, 128);
+{% endhighlight %}
+
+Dual Range
 
 ## Install
 
