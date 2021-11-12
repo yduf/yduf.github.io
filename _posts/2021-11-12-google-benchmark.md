@@ -55,4 +55,23 @@ BENCHMARK_MAIN();
 ## Install
 
 work with Meson
+{% highlight bash %}
+## google benchmark
+opt_var = cmake.subproject_options()
+opt_var.add_cmake_defines({'BENCHMARK_ENABLE_GTEST_TESTS': 'OFF'})
+libgooglebench = cmake.subproject('libgoogle_benchmark', options: opt_var)
 
+executable('bench_pickmove',
+           [ 'bench/bench_pickmove.cc'],
+           cpp_args : ['-g', '-save-temps'],
+           install : true,
+           dependencies: [ libgooglebench.dependency('benchmark')]
+          )
+{% endhighlight %}
+
+**subprojects/libgoogle_benchmark.wrap**
+{% highlight bash %}
+[wrap-git]
+url = https://github.com/google/benchmark.git
+revision = v1.6.0
+{% endhighlight %}
