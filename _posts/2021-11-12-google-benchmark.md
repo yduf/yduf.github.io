@@ -10,9 +10,6 @@ More complete than folly benchmark. Simpler to setup.
 - [Tuning C++: Benchmarks, and CPUs](https://youtu.be/nXaxk27zwlk?t=686)
 - [Microbenchmarking is hard](https://stackoverflow.com/a/50934895/51386)
 
-see also
-- [nanobench comparison](https://nanobench.ankerl.com/comparison.html)
-
 Note
 use `-fno-omit-frame-pointer` to conserve callstack with optimized code
 show perf
