@@ -10,8 +10,8 @@ tags: performance linux profiler c++
 - [Optik](https://news.ycombinator.com/item?id=29092136)
 
 ## [Supported platform](https://valgrind.org/info/platforms.html)
-- **x86/Linux**: up to and including SSSE3, but not higher -- no SSE4, AVX, AVX2. This target is in maintenance mode now..
 - **AMD64/Linux**: up to and including AVX2. This is the primary development target and tends to be well supported.
+- **x86/Linux**: up to and including SSSE3, but not higher -- no SSE4, AVX, AVX2. This target is in maintenance mode now..
 - and some others...
     
 ## Additional tools
