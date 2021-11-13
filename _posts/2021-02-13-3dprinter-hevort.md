@@ -14,3 +14,7 @@ tags: 3dprinter
 	- [The VORON 0](https://www.youtube.com/watch?v=4VSu_gG-nlk) - Mini, Fast & Open-Source Core XY
     	- [NERO 3D](https://www.youtube.com/watch?v=l29_BFwTEbI) - Voron V0.1 Build Marathon Livestream
 - [Rat Rig V-core](https://www.ratrig.com/3d-printing-cnc/3d-printer-kits/complete-kits/v-core3configurable.html)
+
+## Kit
+- [BLV MGN Cube](https://forum.duet3d.com/topic/17691/my-blv-mgn-cube-build-upgrade-saga-ongoing) / [2](https://www.blvprojects.com/blv-mgn-cube-3d-printer) / [3](https://www.blvprojects.com/post/unboxing-fysetc-blv-mgn-cube-full-kit)
+- [Blind Joint Basics](https://www.youtube.com/watch?v=2dvbn0rWA60)
