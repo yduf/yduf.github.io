@@ -18,4 +18,5 @@ tags: 3dprinter
 ## Kit
 - [BLV MGN Cube](https://forum.duet3d.com/topic/17691/my-blv-mgn-cube-build-upgrade-saga-ongoing) / [2](https://www.blvprojects.com/blv-mgn-cube-3d-printer) / [3](https://www.blvprojects.com/post/unboxing-fysetc-blv-mgn-cube-full-kit)
 	- fytsec kit blv
+    - [V-Slot 2020](https://www.ratrig.com/aluminium-profiles/v-slot-2020-637.html)
 - [Blind Joint Basics](https://www.youtube.com/watch?v=2dvbn0rWA60)
