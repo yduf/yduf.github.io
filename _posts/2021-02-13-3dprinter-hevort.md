@@ -7,6 +7,7 @@ tags: 3dprinter
 
 - [Fixing Z Wobble from 20$ Ball Screws with that simple device](https://www.youtube.com/watch?v=mqSQhwqSzvg&list=LL&index=1&t=920s)
 
+- [Voron 2.4 VS RatRig V3 VS HevORT VS VzBot](https://www.reddit.com/r/3Dprinting/comments/qacy2j/voron_24_vs_ratrig_v3_vs_hevort_vs_vzbot/)
 
 ## Similar Model
 - [Voron](https://www.vorondesign.com/) - a true home micro-manufacturing machine without a hefty price tag. 
