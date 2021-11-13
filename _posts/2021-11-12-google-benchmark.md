@@ -27,6 +27,10 @@ sudo cpupower frequency-set --governor powersave
 {% endhighlight %}
 
 ## [Preventing Optimization](https://github.com/google/benchmark/blob/main/docs/user_guide.md#preventing-optimization)
+- DoNotOptimize(<expr>)
+- ClobberMemory()
+  
+Some implementation  
 - escape - tell compiler that referenced object is modified (create/reserve test)  
 equivalent of `doNotOptimizeAway` from folly.
 {% highlight cpp %}
