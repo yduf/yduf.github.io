@@ -3,11 +3,9 @@ title: Discoeasy 200 (3d printer)
 published: true
 tags: 3dprinter
 ---
-## [discoeasy 200](https://dagoma.fr/tutoriels/tutoriels-discovery200.html)
-A cool 3D printer
-kit is ok, but configuration has some undocumented issue (but forums has answer).
+> First printer in 2017. Kit is ok, but configuration has some undocumented issue (but forums has answer). - [discoeasy 200](https://dagoma.fr/tutoriels/tutoriels-discovery200.html)
 
-[3d printer tips from hackaday](https://hackaday.com/2016/07/06/build-a-3d-printer-workhorse/)
+- [3d printer tips from hackaday](https://hackaday.com/2016/07/06/build-a-3d-printer-workhorse/)
 
 ### Ecran Rep rap
 
