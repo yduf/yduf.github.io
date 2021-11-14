@@ -5,16 +5,19 @@ tags: 3dprinter
 ---
 > HevORT is a DIY 3D printer that is meant to push the boundaries of FDM printing in terms of Speed, repeatability and maintainability. Quality will be the same as any well calibrated FDM only the HevORT prints to that quality level faster... much faster! - [github](https://github.com/MirageC79/HevORT) / [Home](https://hevort.com/)
 
-- [HevORT lite doc](https://github.com/ChipCE/HevORT-lite) - Lower cost, trim down version of [MirageC79's HevORT corexy design](https://github.com/MirageC79/HevORT).
+
 - [Fixing Z Wobble from 20$ Ball Screws with that simple device](https://www.youtube.com/watch?v=mqSQhwqSzvg&list=LL&index=1&t=920s)
 
 - [Voron 2.4 VS RatRig V3 VS HevORT VS VzBot](https://www.reddit.com/r/3Dprinting/comments/qacy2j/voron_24_vs_ratrig_v3_vs_hevort_vs_vzbot/) / [2](https://www.reddit.com/r/3Dprinting/comments/n1qahl/which_corexy_to_go_for_voron_hevort_vez3d_ratrig/)
 
 ## Similar Model
+- [HevORT lite doc](https://github.com/ChipCE/HevORT-lite) - Lower cost, trim down version of [MirageC79's HevORT corexy design](https://github.com/MirageC79/HevORT).
+	- [SnakeOil XY](https://github.com/ChipCE/SnakeOil-XY)
 - [Voron](https://www.vorondesign.com/) - a true home micro-manufacturing machine without a hefty price tag. 
 	- [The VORON 0](https://www.youtube.com/watch?v=4VSu_gG-nlk) - Mini, Fast & Open-Source Core XY
     	- [NERO 3D](https://www.youtube.com/watch?v=l29_BFwTEbI) - Voron V0.1 Build Marathon Livestream
 - [Rat Rig V-core](https://www.ratrig.com/3d-printing-cnc/3d-printer-kits/complete-kits/v-core3configurable.html)
+
 
 ## Kit
 - [VORON 2.4](https://fr.aliexpress.com/item/1005002884673471.html?spm=a2g0o.detail.1000014.57.4e2c5e30nXUFKP&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.177756.0&scm_id=1007.13338.177756.0&scm-url=1007.13338.177756.0&pvid=6b947754-7f54-4bcc-bd5a-87364fc2501c&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.13338.177756.0,pvid:6b947754-7f54-4bcc-bd5a-87364fc2501c,tpp_buckets:668%232846%238107%231934&pdp_ext_f=%7B%22sku_id%22:%2212000022612142288%22,%22sceneId%22:%2223416%22%7D)
