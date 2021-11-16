@@ -5,6 +5,8 @@ tags: gcode 3dprint
 ---
 > Can I send my model from Inkscape directly to my 3D printer? - [2D printing on a 3D printer](https://www.youtube.com/watch?v=CuWZWAfBsm8)
 
+- [How to Convert SVG to G-Code: Best Options](https://all3dp.com/2/svg-to-gcode-convert-files/)
+
 ## [JSCut](http://jscut.org/jscut.html#)
 
 [To avoid having to use inkscape’s useless g code generator extension you can use JSCut.](https://cncphilosophy.com/svg-to-g-code/)
