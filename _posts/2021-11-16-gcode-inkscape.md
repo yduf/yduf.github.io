@@ -5,6 +5,7 @@ tags: gcode 3dprint
 ---
 > Can I send my model from Inkscape directly to my 3D printer? - [2D printing on a 3D printer](https://www.youtube.com/watch?v=CuWZWAfBsm8)
 
+- [GCode tools](https://www.norwegiancreations.com/2015/08/an-intro-to-g-code-and-how-to-generate-it-using-inkscape/)
 - [KM-Laser gcode plugin](https://github.com/KnoxMakers/KM-Laser)
     - used only for hatching
 - [Jtech plugin for generating gcode](https://jtechphotonics.com/?page_id=1980)
