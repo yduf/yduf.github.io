@@ -6,3 +6,4 @@ tags: green thread c++ ruby
 
 - [uThreads](http://samanbarghi.com/uThreads/v0.3.0/) - user-level threads(fibers) implemented in C++
 - [Threads (in Ruby): Enough Already](https://yehudakatz.com/2010/08/14/threads-in-ruby-enough-already/)
+- [Java Virtual Threads Preview](https://news.ycombinator.com/item?id=29236375)
