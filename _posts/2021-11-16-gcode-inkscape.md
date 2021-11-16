@@ -1,7 +1,7 @@
 ---
 published: true
 title: Generating GCode from SVG
-tags: gcode 3dprint
+tags: svg gcode 3dprint
 ---
 > Can I send my model from Inkscape directly to my 3D printer? - [2D printing on a 3D printer](https://www.youtube.com/watch?v=CuWZWAfBsm8)
 
