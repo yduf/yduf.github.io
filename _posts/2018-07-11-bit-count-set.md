@@ -10,6 +10,7 @@ see also
 - [sideways addition](https://groups.google.com/g/comp.graphics.algorithms/c/ZKSegl2sr4c/m/QYTwoPSx30MJ?hl=en)
 - [Generating Binary Permutations in Popcount Order](https://alexbowe.com/popcount-permutations/)
 - [Bit Hacks](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec3.pdf) 
+- [Revisiting POPCOUNT Operations in CPUs/GPUs](http://sc16.supercomputing.org/sc-archive/src_poster/poster_files/spost106s2-file2.pdf)
 
 ## [std::popcount (C++20)](https://en.cppreference.com/w/cpp/numeric/popcount)
 
