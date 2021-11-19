@@ -54,5 +54,8 @@ This can be used to extract any bitfield of the input, and even do a lot of bit-
 They are accessible in [c++](https://cpp.hotexamples.com/examples/-/-/_pext_u64/cpp-_pext_u64-function-examples.html)
 {% highlight cpp %}
 _pext_u64(__X, __Y);
-
+_pdep_u64(__X, __Y);
 {% endhighlight %}
+
+see also:
+- [Left Pack]({% post_url 2020-02-22-avx-left-pack %})
