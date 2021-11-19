@@ -38,7 +38,7 @@ from [Decoding Morton Codes](https://fgiesen.wordpress.com/2009/12/13/decoding-m
   x = (x ^ (x >>  8)) & 0x0000ffff; // x = ---- ---- ---- ---- fedc ba98 7654 3210
 {% endhighlight %}
 
-## [Parallel bit deposit and extract](https://en.wikipedia.org/wiki/X86_Bit_manipulation_instruction_set#Parallel_bit_deposit_and_extract)
+## [Parallel bit _deposit_ and _extract_](https://en.wikipedia.org/wiki/X86_Bit_manipulation_instruction_set#Parallel_bit_deposit_and_extract)
 
 The PDEP and PEXT instructions are new generalized bit-level compress and expand instructions.
 
@@ -48,3 +48,11 @@ This can be used to extract any bitfield of the input, and even do a lot of bit-
 | PEXT | 	0xff00fff0 | 	0x12345678 | 	0x00012567 |
 | PDEP | 	0xff00fff0 |	0x00012567 |	0x12005670 |
 
+[![caption](https://i.stack.imgur.com/75CQL.png)](https://stackoverflow.com/questions/21144237/standard-c11-code-equivalent-to-the-pext-haswell-instruction-and-likely-to-be)
+
+
+They are accessible in [c++](https://cpp.hotexamples.com/examples/-/-/_pext_u64/cpp-_pext_u64-function-examples.html)
+{% highlight cpp %}
+_pext_u64(__X, __Y);
+
+{% endhighlight %}
