@@ -5,7 +5,7 @@ tags: avx compact bits c++
 ---
 > If you have an input array, and an output array, but you only want to write those elements which pass a certain condition, what would be the most efficient way to do this in AVX2? - [SO](https://stackoverflow.com/questions/36932240/avx2-what-is-the-most-efficient-way-to-pack-left-based-on-a-mask)
 
-![caption](https://i.stack.imgur.com/YAkXa.png)
+[![caption](https://i.stack.imgur.com/YAkXa.png)](https://stackoverflow.com/questions/36932240/avx2-what-is-the-most-efficient-way-to-pack-left-based-on-a-mask)
 
 - [Compact AVX2 register so selected integers are contiguous according to mask](https://stackoverflow.com/questions/25074197/compact-avx2-register-so-selected-integers-are-contiguous-according-to-mask?noredirect=1)
 - [What is the most efficient way to pack left based on a mask?](https://stackoverflow.com/questions/36932240/avx2-what-is-the-most-efficient-way-to-pack-left-based-on-a-mask)
