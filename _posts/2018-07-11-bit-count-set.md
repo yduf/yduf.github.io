@@ -5,6 +5,12 @@ tags: c++ bits lookup hamming algorithm
 ---
 > Population count is a procedure of counting number of ones in a bit string. - [The NSA Instruction](https://vaibhavsagar.com/blog/2019/09/08/popcount/) / [HN](https://news.ycombinator.com/item?id=20914479)
 
+see also
+- [Population Count](https://www.chessprogramming.org/Population_Count)
+- [sideways addition](https://groups.google.com/g/comp.graphics.algorithms/c/ZKSegl2sr4c/m/QYTwoPSx30MJ?hl=en)
+- [Generating Binary Permutations in Popcount Order](https://alexbowe.com/popcount-permutations/)
+- [Bit Hacks](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec3.pdf) 
+
 ## [std::popcount (C++20)](https://en.cppreference.com/w/cpp/numeric/popcount)
 
 {% highlight cpp %}
@@ -55,11 +61,7 @@ int popCount(U64 x) {
 **Advantage:** no branches, no memory lookups, constant runtime - independent from population   
 **Drawback:** dependency chain, not much parallel speedup 
   
-### see also
-- [Population Count](https://www.chessprogramming.org/Population_Count)
-- [sideways addition](https://groups.google.com/g/comp.graphics.algorithms/c/ZKSegl2sr4c/m/QYTwoPSx30MJ?hl=en)
-- [Generating Binary Permutations in Popcount Order](https://alexbowe.com/popcount-permutations/)
-- [Bit Hacks](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec3.pdf) 
+
 
 ## [Notes](https://bits.stephan-brumme.com/countBits.html)
 
