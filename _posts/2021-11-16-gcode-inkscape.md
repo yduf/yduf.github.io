@@ -13,7 +13,7 @@ tags: svg gcode 3dprint
 
 ## [Using Openscad](https://3dprinting.stackexchange.com/questions/15130/openscad-linear-extrude-from-multiple-path-svg-import/15147)
 
-It's possible to import svg in openscad and then export as stl.
+It's possible to [import svg](https://en.m.wikibooks.org/wiki/OpenSCAD_User_Manual/SVG_Import) in openscad and then export as stl.
 
 ## From Inkscape
 - [GCode tools](https://www.norwegiancreations.com/2015/08/an-intro-to-g-code-and-how-to-generate-it-using-inkscape/)
