@@ -13,7 +13,7 @@ tags: svg gcode 3dprint
 
 ## [Using Openscad](https://3dprinting.stackexchange.com/questions/15130/openscad-linear-extrude-from-multiple-path-svg-import/15147)
 
-It's possible to [import svg](https://en.m.wikibooks.org/wiki/OpenSCAD_User_Manual/SVG_Import) in openscad and then export as stl.
+It's possible to [import svg](https://en.m.wikibooks.org/wiki/OpenSCAD_User_Manual/SVG_Import) in openscad and then export as stl once transformed with [linear extrude](https://3dprinting.stackexchange.com/questions/15939/vary-line-with-z-axis-for-imported-svg-file)
 
 There is also a [plugin to export directly to openscad](https://www.instructables.com/Convert-any-2D-image-to-a-3D-object-using-OpenSCAD/) / [thingiverse](https://www.thingiverse.com/thing:24808)
 
