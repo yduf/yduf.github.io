@@ -11,6 +11,10 @@ tags: svg gcode 3dprint
 
 [To avoid having to use inkscape’s useless g code generator extension you can use JSCut.](https://cncphilosophy.com/svg-to-g-code/)
 
+## [Using Openscad](https://3dprinting.stackexchange.com/questions/15130/openscad-linear-extrude-from-multiple-path-svg-import/15147)
+
+It's possible to import svg in openscad and then export as stl.
+
 ## From Inkscape
 - [GCode tools](https://www.norwegiancreations.com/2015/08/an-intro-to-g-code-and-how-to-generate-it-using-inkscape/)
 - [KM-Laser gcode plugin](https://github.com/KnoxMakers/KM-Laser)
@@ -67,4 +71,3 @@ M18
     - import inside cura
 
 ## [3D Printer CNC](https://www.youtube.com/watch?v=xoji-oqLSCY)
-
