@@ -19,7 +19,7 @@ see also:
 - [Raspberry Pi Hardware Accelerated RTSP Camera](https://codecalamity.com/raspberry-pi-hardware-accelerated-h264-webcam-security-camera/) - use hardware accelerated ffmpeg library h264_omx to encode the webcam stream.
 
 ### [SystemD service]({% post_url 2019-05-30-systemd %}#service)
-{% highlight bash %}
+{% highlight ini %}
 [Unit]
 Description=ustreamer video (running in port 8080)
  
