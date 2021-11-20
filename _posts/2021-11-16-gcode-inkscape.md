@@ -15,6 +15,8 @@ tags: svg gcode 3dprint
 
 It's possible to [import svg](https://en.m.wikibooks.org/wiki/OpenSCAD_User_Manual/SVG_Import) in openscad and then export as stl.
 
+There is also a [plugin to export directly to openscad](https://www.instructables.com/Convert-any-2D-image-to-a-3D-object-using-OpenSCAD/) / [thingiverse](https://www.thingiverse.com/thing:24808)
+
 ## From Inkscape
 - [GCode tools](https://www.norwegiancreations.com/2015/08/an-intro-to-g-code-and-how-to-generate-it-using-inkscape/)
 - [KM-Laser gcode plugin](https://github.com/KnoxMakers/KM-Laser)
