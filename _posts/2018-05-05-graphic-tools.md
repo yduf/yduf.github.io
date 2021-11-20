@@ -1,7 +1,7 @@
 ---
 title: Graphic Tools (linux)
 published: true
-tags: application graphic tools
+tags: application graphic tools inkscape
 ---
 ## Vector
 - [Inkscape (vector)]({% post_url 2019-11-25-inkscape %})
