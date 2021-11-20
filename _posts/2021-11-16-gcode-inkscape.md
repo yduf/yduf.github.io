@@ -17,6 +17,8 @@ It's possible to [import svg](https://en.m.wikibooks.org/wiki/OpenSCAD_User_Manu
 
 There is also a [plugin to export directly to openscad](https://www.instructables.com/Convert-any-2D-image-to-a-3D-object-using-OpenSCAD/) / [thingiverse](https://www.thingiverse.com/thing:24808)
 
+[![caption](https://i.stack.imgur.com/pGUnC.png) ](https://3dprinting.stackexchange.com/questions/15130/openscad-linear-extrude-from-multiple-path-svg-import/15147)
+
 ## From Inkscape
 - [GCode tools](https://www.norwegiancreations.com/2015/08/an-intro-to-g-code-and-how-to-generate-it-using-inkscape/)
 - [KM-Laser gcode plugin](https://github.com/KnoxMakers/KM-Laser)
