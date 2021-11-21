@@ -13,11 +13,12 @@ use_math: true
 There is at [19,683 ($9^3$)](https://en.wikipedia.org/wiki/Tic-tac-toe) different boards (but only 5477 are valid game positions). The number of possible move sequences is 362,880 ($9!$), this corresponds to the size of the game tree graph.
 
 [Considering symmetries](https://en.wikipedia.org/wiki/Tic-tac-toe#Combinatorics):
-- there are only 138 terminal board positions. 
-- 91 distinct positions are won by first player (X)
-- 44 distinct positions are won by (O)
-- 3 distinct positions are drawn
-- [626](https://stackoverflow.com/a/32019787/51386) are midgames
+there is only [765](https://stackoverflow.com/a/32019787/51386) boards:
+- 138 are terminal board positions:
+	- 91 distinct positions are won by first player (X)
+	- 44 distinct positions are won by (O)
+	- 3 distinct positions are drawn
+- 626 are midgames
 
 ## [Strategy](https://en.wikipedia.org/wiki/Tic-tac-toe#Strategy)
 
