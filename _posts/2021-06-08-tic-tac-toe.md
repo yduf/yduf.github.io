@@ -17,6 +17,7 @@ There is at [19,683 ($9^3$)](https://en.wikipedia.org/wiki/Tic-tac-toe) differen
 - 91 distinct positions are won by first player (X)
 - 44 distinct positions are won by (O)
 - 3 distinct positions are drawn
+- [626](https://stackoverflow.com/a/32019787/51386) are midgames
 
 ## [Strategy](https://en.wikipedia.org/wiki/Tic-tac-toe#Strategy)
 
