@@ -1,7 +1,7 @@
 ---
 published: true
 title: Binary-coded Ternary
-tags: bits math c++ tic-tac-toe
+tags: ternary bits math c++ tic-tac-toe
 ---
 > Representing [Tic-tac-toe]({% post_url 2021-06-08-tic-tac-toe %}) in ternary form, and efficiently generating all possible boards. - yduf
 
