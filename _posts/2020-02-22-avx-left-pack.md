@@ -1,7 +1,7 @@
 ---
 published: true
 title: Left Pack (AVX)
-tags: avx compact bits c++
+tags: bits pack avx c++
 ---
 > If you have an input array, and an output array, but you only want to write those elements which pass a certain condition, what would be the most efficient way to do this in AVX2? - [SO](https://stackoverflow.com/questions/36932240/avx2-what-is-the-most-efficient-way-to-pack-left-based-on-a-mask)
 
