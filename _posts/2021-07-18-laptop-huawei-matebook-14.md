@@ -1,6 +1,6 @@
 ---
 published: true
-title: HUAWEI MateBook 14 2020
+title: HUAWEI MateBook 14 (2020)
 tags: hardware laptop
 excerpt_separator: <!--more-->
 ---
