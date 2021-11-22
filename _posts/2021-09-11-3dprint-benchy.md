@@ -22,6 +22,8 @@ Surface quality
 Extrusion / Retraction
 - stringing inside the cabin
 
+- [warping](https://www.thingiverse.com/thing:5143079) - can bet caused by a too hot bed
+
 [Bridging & Overhang](https://youtu.be/t_7EMnQ6Rlc?t=430)
 - roof
 
