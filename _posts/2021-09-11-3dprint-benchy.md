@@ -37,6 +37,7 @@ Caused by
 - speed (if not enough extrusion) => test pattern
 - wobble on extruder gear
 
+- [extrusion performance](https://youtu.be/RWDErj-pE1c?t=794) - CHT - 50mm³/s max
 
 ## Cura / Printer Setting
 
