@@ -7,3 +7,4 @@ tags: 3dprinter
 
 see also
 - [Prusa XL](https://www.prusa3d.com/product/original-prusa-xl-2/)
+- [E3D Motion System and ToolChanger](https://e3d-online.com/pages/toolchanger?aff=9)
