@@ -42,6 +42,7 @@ Caused by
 
 ## Warping
 [can bet caused by a too hot bed temperature](https://www.thingiverse.com/thing:5143079)
+- 35°C may be enough ?
 
 
 ## Cura / Printer Setting
