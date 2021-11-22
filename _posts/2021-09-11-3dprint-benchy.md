@@ -22,8 +22,6 @@ Surface quality
 Extrusion / Retraction
 - stringing inside the cabin
 
-Warping
-- [can bet caused by a too hot bed temperature](https://www.thingiverse.com/thing:5143079)
 
 [Bridging & Overhang](https://youtu.be/t_7EMnQ6Rlc?t=430)
 - roof
@@ -41,6 +39,10 @@ Caused by
 - wobble on extruder gear
 
 - [extrusion performance](https://youtu.be/RWDErj-pE1c?t=794) - CHT - 50mm³/s max
+
+## Warping
+[can bet caused by a too hot bed temperature](https://www.thingiverse.com/thing:5143079)
+
 
 ## Cura / Printer Setting
 
