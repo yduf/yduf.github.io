@@ -21,7 +21,7 @@ PLA tested so far -- 1.75mm
 ### [ICE](https://distrinova.net/brand/ice-filaments/)
 - [white (0.75kg)](https://www.amazon.fr/gp/product/B017HAIMZU/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) - easy to print - thick 
 	- 205°
-- [Groovy Gold (0.75kg)](https://www.amazon.fr/gp/product/B017HAI4VM/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1) - easy to print, nice bronze/brass finish 
+- [Groovy Gold (0.75kg)](https://www.amazon.fr/gp/product/B017HAI4VM/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1) - easy to print, nice [bronze/brass finish](https://www.reddit.com/r/3Dprinting/comments/anh3qg/guan_bas_relief_printed_vertically_012_layer/)
 	- 205°C/55°C - clean glass - work perfectly
 - [Obstinate Orange (0.75kg)](https://www.amazon.fr/gp/product/B017HAIB1A/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) - nice color  
 	- 200..215° / bed 60° => WAIT FOR BED TEMP + lack ortherwise does not stick well to glass
