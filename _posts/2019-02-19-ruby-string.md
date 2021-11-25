@@ -1,7 +1,7 @@
 ---
 published: true
 title: String litterals (Ruby)
-tags: ruby string
+tags: ruby string c++ python dlang
 ---
 > [Heredocs](https://en.wikipedia.org/wiki/Here_document) are cool & useful - [C++,D,Ruby,Python](https://en.wikipedia.org/wiki/Here_document)
 
