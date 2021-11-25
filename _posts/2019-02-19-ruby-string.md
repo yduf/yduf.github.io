@@ -3,7 +3,7 @@ published: true
 title: String litterals (Ruby)
 tags: ruby string
 ---
-> [Heredocs](https://en.wikipedia.org/wiki/Here_document) are cool & useful
+> [Heredocs](https://en.wikipedia.org/wiki/Here_document) are cool & useful - [C++,D,Ruby,Python](https://en.wikipedia.org/wiki/Here_document)
 
 ## [String literal without need to escape backslash](https://stackoverflow.com/questions/29124058/string-literal-without-need-to-escape-backslash/29124475#29124475)
 
