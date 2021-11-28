@@ -17,3 +17,5 @@ tags: blog knowledge mental-model search
 ## With Content
 - [digital Garden](https://github.com/elsenm/digital-garden)
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge/blob/master/SUMMARY.md) / [HN](https://news.ycombinator.com/item?id=21332957)
+
+- [Your Personal Archiving Project: Where Do You Start?](https://blogs.loc.gov/thesignal/2016/05/how-to-begin-a-personal-archiving-project/)
