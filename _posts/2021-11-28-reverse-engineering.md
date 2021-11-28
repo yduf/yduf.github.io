@@ -1,7 +1,7 @@
 ---
 published: true
 title: Reverse Engineering
-tags: reverse
+tags: reverse debug
 ---
 > [SO Newest Question](https://reverseengineering.stackexchange.com/questions)
 
@@ -21,3 +21,6 @@ tags: reverse
 
 ## Reverse
 - [Dangers of the Decompiler](https://blog.ret2.io/2017/11/16/dangers-of-the-decompiler/) / [HN](https://news.ycombinator.com/item?id=15714989) - A Sampling of Anti-Decompilation Techniques 
+
+## Other
+- [Paul's Security Weekly](https://securityweekly.com/category-shows/paul-security-weekly/)
