@@ -12,3 +12,6 @@ tags: reverse
 
 - [How to Read and Write Other Process Memory](https://nullprogram.com/blog/2016/09/03/)
 - [Unravelling Code Injection in Binaries](https://suchakra.wordpress.com/2016/07/03/unravelling-code-injection-in-binaries/)
+
+## Firmware
+- [Practical Reverse Engineering Part 5 - Digging Through the Firmware](http://jcjc-dev.com/2016/12/14/reversing-huawei-5-reversing-firmware/)
