@@ -15,3 +15,9 @@ tags: reverse
 
 ## Firmware
 - [Practical Reverse Engineering Part 5 - Digging Through the Firmware](http://jcjc-dev.com/2016/12/14/reversing-huawei-5-reversing-firmware/)
+
+## Debug
+- [Write a toy strace and gdb ](https://news.ycombinator.com/item?id=13148541)
+
+## Reverse
+- [Dangers of the Decompiler](https://blog.ret2.io/2017/11/16/dangers-of-the-decompiler/) / [HN](https://news.ycombinator.com/item?id=15714989) - A Sampling of Anti-Decompilation Techniques 
