@@ -14,4 +14,4 @@ Instead of Exponent, think of a Window between two consecutive power of two inte
 [![caption](https://fabiensanglard.net/floating_point_visually_explained/floating_point_intuitive.svg)](https://fabiensanglard.net/floating_point_visually_explained/)
 
 
-[![caption](https://fabiensanglard.net/floating_point_visually_explained/floating_point_window.svg](https://fabiensanglard.net/floating_point_visually_explained/)
+[![caption](https://fabiensanglard.net/floating_point_visually_explained/floating_point_window.svg)](https://fabiensanglard.net/floating_point_visually_explained/)
