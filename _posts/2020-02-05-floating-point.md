@@ -12,3 +12,6 @@ tags: math float history
 Instead of Exponent, think of a Window between two consecutive power of two integers. Instead of a Mantissa, think of an Offset within that window.
 
 [![caption](https://fabiensanglard.net/floating_point_visually_explained/floating_point_intuitive.svg)](https://fabiensanglard.net/floating_point_visually_explained/)
+
+
+[![caption](https://fabiensanglard.net/floating_point_visually_explained/floating_point_window.svg](https://fabiensanglard.net/floating_point_visually_explained/)
