@@ -1,7 +1,7 @@
 ---
 published: true
 title: How to do distributed locking
-tags: lock algorithm blog
+tags: db lock algorithm blog
 ---
 >  It’s important to remember that a lock in a distributed system is not like a mutex in a multi-threaded application. It’s a more complicated beast, due to the problem that different nodes and the network can all fail independently in various ways. - [What are you using that lock for?](http://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html) / 
 [\[HN\]](https://news.ycombinator.com/item?id=11059738)
