@@ -14,7 +14,7 @@ Ruby 3.0 implements a ["fiber scheduler"](https://noteflakes.com/articles/2021-1
 > I regret adding threads. —Matz
 
 see also
-- [thread]({% post_url 2017-11-27-CG-meanmax %})
+- [thread]({% post_url 2018-11-23-thread %})
 
 
 
