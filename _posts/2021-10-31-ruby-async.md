@@ -11,8 +11,13 @@ Ruby 3.0 implements a ["fiber scheduler"](https://noteflakes.com/articles/2021-1
 
 - Async is more scalable, can handle millions concurrent tasks (like HTTP connections). There can only be a couple thousand threads at the same time.
 
+> I regret adding threads. —Matz
 
-Quote About Thread
-> The strongest evidence of a golden hammer is a lot of red thumbs. - [HN](https://news.ycombinator.com/item?id=29051700)
+see also
+- [thread]({% post_url 2017-11-27-CG-meanmax %})
 
-> I regret adding threads. —Matz 
+
+
+
+
+
