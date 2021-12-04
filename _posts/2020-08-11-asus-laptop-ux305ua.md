@@ -32,4 +32,4 @@ Number  Size    File system  Name                          Flags
 {% endhighlight %}
 
 See also
-[Suspend issue]({% post_url 2017-12-23-Asus-suspend%})
+- [Suspend issue]({% post_url 2017-12-23-Asus-suspend%})
