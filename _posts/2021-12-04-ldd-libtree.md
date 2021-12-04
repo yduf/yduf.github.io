@@ -9,3 +9,5 @@ tags: debug compiler linker tree linux-system elf windows
 - [lddtree.py ](https://github.com/gentoo/pax-utils/blob/master/lddtree.py)
 
 - [Dependencies](https://github.com/lucasg/Dependencies) - An open-source modern Dependency Walker (windows)
+
+![caption](https://github.com/haampie/libtree/raw/master/doc/screenshot.png)
