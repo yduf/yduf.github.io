@@ -10,4 +10,4 @@ tags: debug compiler linker tree linux-system elf windows
 
 - [Dependencies](https://github.com/lucasg/Dependencies) - An open-source modern Dependency Walker (windows)
 
-![caption](https://github.com/haampie/libtree/raw/master/doc/screenshot.png)
+[![caption](https://github.com/haampie/libtree/raw/master/doc/screenshot.png)](https://github.com/haampie/libtree)
