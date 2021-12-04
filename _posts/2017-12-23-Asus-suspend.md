@@ -1,7 +1,7 @@
 ---
-title: Linux Suspend
+title: Asus Linux Suspend
 published: true
-tags: linux
+tags: linux-system laptop
 ---
 Solving Asus issue (going out of suspend restart computer):
 
@@ -19,4 +19,3 @@ If it works:
 8. - wait suspend
 9. - open lid
 10. - should wake up
-
