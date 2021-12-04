@@ -1,7 +1,7 @@
 ---
 title: Kernels management (linux)
 published: true
-tags: linux system
+tags: linux-system
 ---
 ## Ubuntu
 - [Upgrade LTS Kernel (HWE)](https://itsfoss.com/ubuntu-hwe-kernel/)
