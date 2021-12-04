@@ -3,6 +3,8 @@ title: Foldable print
 published: true
 tags: 3dmodel foldable robot
 ---
+- [Rendre du filament PLA complétement flexible !](https://www.youtube.com/watch?v=IX39qDHQYI8&list=LL&index=5) - charniere facon laser cut
+
 ## [Fab 365 Robots](https://fab365.net/categories/Robot)
 
 - [Folding Robot-A](https://fab365.net/items/107)
@@ -29,4 +31,3 @@ tags: 3dmodel foldable robot
 - [Shark](https://fab365.net/items/146)
 
 ![caption](https://fab-img.s3.amazonaws.com/item-img/165/85F6CC15D91D1244D5F73A13C9938626.jpg)
-
