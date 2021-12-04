@@ -1,7 +1,7 @@
 ---
 published: true
 title: Dynamic lib Dependency tree (ldd tree)
-tags: debug compiler linker tree linux-system elf
+tags: debug compiler linker tree linux-system elf windows
 ---
 > Turns ldd into a tree; explains why shared libraries are found or not - [HN](https://news.ycombinator.com/item?id=29413753) 
 
