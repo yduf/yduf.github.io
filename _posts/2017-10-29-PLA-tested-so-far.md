@@ -26,6 +26,9 @@ PLA tested so far -- 1.75mm
 - [Obstinate Orange (0.75kg)](https://www.amazon.fr/gp/product/B017HAIB1A/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) - nice color  
 	- 200..215° / bed 60° => WAIT FOR BED TEMP + lack ortherwise does not stick well to glass
 
+### [Heliox recommand](https://www.youtube.com/c/HelioxLab/videos)
+- [Noulei Filament](https://www.amazon.fr/Noulei-Filament-imprimante-Printing-Bobine/dp/B07PZRSYC6?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=rouge%2Bsoie%2Bpla&qid=1637248764&sr=8-5&linkCode=sl1&tag=w3bhx-21&linkId=9acbd4af19ec944a0ac4a1476b4868d7&language=fr_FR&ref_=as_li_ss_tl&th=1)
+
 ### Verbatim 
 - [Silver (1kg)](https://www.amazon.fr/VERBATIM-FILLAMENT-3D-PRINT-55275/dp/B00WRBI67O/ref=sr_1_10?ie=UTF8&qid=1509281707&sr=8-10&keywords=PLA+verbatim) - very thin/precise print - 205°
 - [White (1kg)](https://www.amazon.fr/Verbatim-Printer-Filament-PLA-blanc/dp/B00WRBI59S/ref=sr_1_1?ie=UTF8&qid=1509281347&sr=8-1&keywords=verbatim+pla) - easy to print - thick - 205°
