@@ -30,3 +30,6 @@ Number  Size    File system  Name                          Flags
  4      523MB   ntfs         Basic data partition          hidden, diag  RECOVERY
  6      307GB   ext4         home
 {% endhighlight %}
+
+See also
+[Suspend issue]({% post_url 2017-12-23-Asus-suspend%})
