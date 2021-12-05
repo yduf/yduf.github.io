@@ -15,9 +15,4 @@ Ruby 3.0 implements a ["fiber scheduler"](https://noteflakes.com/articles/2021-1
 
 see also
 - [thread]({% post_url 2018-11-23-thread %})
-
-
-
-
-
-
+- [Concurrent Ruby](https://github.com/ruby-concurrency/concurrent-ruby)
