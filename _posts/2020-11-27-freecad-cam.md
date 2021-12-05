@@ -1,7 +1,7 @@
 ---
 published: true
 title: Freecad CAM
-tags: cam cnc
+tags: cam cnc freecad
 ---
 ## Tutorials
 
