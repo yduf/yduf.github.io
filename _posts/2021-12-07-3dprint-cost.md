@@ -5,4 +5,6 @@ tags: 3dprint online
 ---
 > Our 3D printing costs calculator allows you to easily work out how much to charge a customer for a print. - [3DprintingPro ](https://www.3dprintingpro.info/3d-printing-cost-calculator/)
 
+- [How to calculate 3D printing costs?](https://blog.prusaprinters.org/how-to-calculate-printing-costs_38650/) / [Prusa Price Calculator](https://blog.prusaprinters.org/3d-printing-price-calculator_38905/)
+- [How to Accurately Price for Stereolithography (SLA) 3D Printing Projects](https://3dprintingindustry.com/news/how-to-accurately-price-for-stereolithography-sla-3d-printing-projects-171977/)
 
