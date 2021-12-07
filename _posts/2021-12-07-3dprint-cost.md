@@ -8,3 +8,6 @@ tags: 3dprint online
 - [How to calculate 3D printing costs?](https://blog.prusaprinters.org/how-to-calculate-printing-costs_38650/) / [Prusa Price Calculator](https://blog.prusaprinters.org/3d-printing-price-calculator_38905/)
 - [How to Accurately Price for Stereolithography (SLA) 3D Printing Projects](https://3dprintingindustry.com/news/how-to-accurately-price-for-stereolithography-sla-3d-printing-projects-171977/)
 
+See also
+- [i.materialise.com](https://i.materialise.com/fr) - service d’impression 3D en ligne
+- [hubs](https://www.hubs.com/fr/impression-3d/) - Impression 3D en ligne
