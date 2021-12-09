@@ -17,6 +17,8 @@ tags: 3dprint calibration
 
 ### Over / Under Extrusion
 
+see [Feeding rate](http://www.tridimake.com/2012/10/review-settings-for-cura-3d-printing.html)
+
 ### [First Layer Settings](https://3dprinterwiki.info/tips/first-layer-settings/)
 
 You need the nozzle to be lower so the extruded plastic is compressed against the bed to increase the surface contact area.
@@ -35,5 +37,3 @@ For a 0.05mm layer height, use 0.05 (yes, this is possible on the Di3!)
 You can use a lower layer height or larger extrusion width if you wish, it will work fine. The slicing software automatically calculates the appropriate volume to extrude based on the settings you choose.
 
 ### [Build plate adhesion](https://ultimaker.com/en/resources/257-build-plate-adhesion-how-to-get-your-print-to-stick-to-the-build-plate)
-
-
