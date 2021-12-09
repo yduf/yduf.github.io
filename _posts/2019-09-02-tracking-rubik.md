@@ -24,3 +24,6 @@ tags: rubik opencv robot lego
 - [MindCuber](http://mindcuber.com/) / [github](https://github.com/dlech/MindCuberNXT)
 
 - [ARM Powered Android LEGO MultiCuber 777](https://www.youtube.com/watch?v=b5b9BIBuOd4)
+
+### LEGO
+- [Tilted Twister 2.0](https://tiltedtwister.com/tiltedtwister2.html) / [parts](https://tiltedtwister.com/tt2partslist.html) / [download](https://tiltedtwister.com/tt2download.html)
