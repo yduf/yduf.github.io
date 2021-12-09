@@ -15,6 +15,8 @@ tags: rubik opencv robot lego
 - [Implementing Rubik's Cube](http://www.chilton.com/~jimw/rubik.html)
 
 ## Cube Solver
+- [Robots](https://ruwix.com/the-rubiks-cube/lego-rubiks-cube-robots-rubot2/)
+
 - [Cube Solver Robot With Arduino](https://www.instructables.com/Cool-Cube-Solver-Robot-With-Arduino/)
 - [PyRubikCube](https://sourceforge.net/p/pyrubikcube/code/HEAD/tree/cubesolver/) 
 - [Build your own Rubik’s Cube-solving robot](https://deviceguru.com/build-your-own-rubiks-cube-solving-robot/)
