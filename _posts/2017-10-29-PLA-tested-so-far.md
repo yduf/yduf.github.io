@@ -26,6 +26,9 @@ PLA tested so far -- 1.75mm
 - [Obstinate Orange (0.75kg)](https://www.amazon.fr/gp/product/B017HAIB1A/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) - nice color  
 	- 200..215° / bed 60° => WAIT FOR BED TEMP + lack ortherwise does not stick well to glass
 
+### Sunlu
+- [PLA+ White ](https://www.amazon.fr/gp/product/B07XFL3XB9/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) - 210° / 60°
+
 ### [Heliox used](https://www.youtube.com/c/HelioxLab/videos)
 - [Noulei Filament](https://www.amazon.fr/Noulei-Filament-imprimante-Printing-Bobine/dp/B07PZRSYC6?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=rouge%2Bsoie%2Bpla&qid=1637248764&sr=8-5&linkCode=sl1&tag=w3bhx-21&linkId=9acbd4af19ec944a0ac4a1476b4868d7&language=fr_FR&ref_=as_li_ss_tl&th=1)
 - [cuivre](https://francofil.fr/product/filament-pla-cuivre-2/)
