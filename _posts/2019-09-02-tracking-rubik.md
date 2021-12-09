@@ -1,6 +1,6 @@
 ---
 published: true
-title: Recognising Rubik's Cubes
+title: Recognising Rubik's Cubes (Robot)
 tags: rubik opencv robot lego
 ---
 ## [backup](https://github.com/yduf/ruby-kube)
