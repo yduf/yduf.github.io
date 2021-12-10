@@ -11,6 +11,8 @@ tags: 3dprint online
 See also
 - [3D Print on Demand for Profit (Without 3DHubs!)](https://www.youtube.com/watch?v=PceI1AtgFvo)
 - [Extruding PLA Filament at Home](https://www.youtube.com/watch?v=iRGTwhGRP1Y)
+	- PLA / MFI
+    - Masterbench
 - [Best 3D Hubs Alternatives](https://all3dp.com/2/best-3d-hubs-alternatives/)
 	- [i.materialise.com](https://i.materialise.com/fr) - service d’impression 3D en ligne
 	- [hubs](https://www.hubs.com/fr/impression-3d/) - Impression 3D en ligne
