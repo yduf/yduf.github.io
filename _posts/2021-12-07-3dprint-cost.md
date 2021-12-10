@@ -13,6 +13,7 @@ See also
 - [Extruding PLA Filament at Home](https://www.youtube.com/watch?v=iRGTwhGRP1Y)
 	- PLA / MFI
     - Masterbench
+- [How to make flexible Dragon with plastic bottles and free filament & make money from it](https://www.youtube.com/watch?v=WF3x1MZTVLo)
 - [Best 3D Hubs Alternatives](https://all3dp.com/2/best-3d-hubs-alternatives/)
 	- [i.materialise.com](https://i.materialise.com/fr) - service d’impression 3D en ligne
 	- [hubs](https://www.hubs.com/fr/impression-3d/) - Impression 3D en ligne
