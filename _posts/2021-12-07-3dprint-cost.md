@@ -10,6 +10,7 @@ tags: 3dprint online
 
 See also
 - [3D Print on Demand for Profit (Without 3DHubs!)](https://www.youtube.com/watch?v=PceI1AtgFvo)
+	- [Make Money 3D Printing in 2021](https://www.youtube.com/watch?v=gKDDoSryluo)
 - [Extruding PLA Filament at Home](https://www.youtube.com/watch?v=iRGTwhGRP1Y)
 	- PLA / MFI
     - Masterbench
