@@ -5,6 +5,8 @@ tags: blog knowledge mental-model search archive
 ---
 > Information is not so useful if you can't access and search it quickly. Instant search changes the way you think. - [Building personal search infrastructure for your knowledge and code](https://beepb00p.xyz/pkm-search.html) / [HN](https://news.ycombinator.com/item?id=22160572)
 
+> Knowledge is ephemeral. Even recording knowledge doesn't imply or guarantee that it will be passed down the generations entire. In fact, throughout history there are times when humankind 'forgot' how to do certain things. - [Jonathan Blow – Preventing the Collapse of Civilization](https://news.ycombinator.com/item?id=25788317)
+
 ## [How to organize personal knowledge?](https://news.ycombinator.com/item?id=17892731)
 
 - [dendron](https://www.dendron.so/) a local-first, markdown based, hierarchical note-taking application built on top of VSCode and friends. / [HN](https://news.ycombinator.com/item?id=26491764)
