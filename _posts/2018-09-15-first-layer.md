@@ -15,14 +15,13 @@ tags: 3dprint calibration
 
 ### [Leveling the bed](https://www.youtube.com/watch?v=YPAXeBuq9qU&t=66s)
 
-- too close gives elephant foot
-
 ### Over / Under Extrusion
 
 see [Feeding rate](http://www.tridimake.com/2012/10/review-settings-for-cura-3d-printing.html)
 
 ### [First Layer Settings](https://3dprinterwiki.info/tips/first-layer-settings/)
 
+- too close gives elephant foot
 
 You need the nozzle to be lower so the extruded plastic is compressed against the bed to increase the surface contact area.
 
