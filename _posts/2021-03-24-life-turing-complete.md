@@ -1,7 +1,7 @@
 ---
 published: true
 title: Life is Turing Complete
-tags: life turing-complete
+tags: AVX gpu life turing-complete
 ---
 > You can simulate Life within Life itself - [Let’s BUILD a COMPUTER in CONWAY's GAME of LIFE - ⠠⠵](https://www.youtube.com/watch?v=Kk2MH9O4pXY) / [wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
