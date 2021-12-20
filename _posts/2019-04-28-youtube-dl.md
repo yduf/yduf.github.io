@@ -14,7 +14,9 @@ tags: video youtube
 ## Youtube Alternatives
 - [Invidious](https://github.com/iv-org/invidious) is an alternative front-end to YouTube.
 
-### forked by [blackjack4494/youtube-dlc ](https://github.com/blackjack4494/youtube-dlc) / [reddit](https://www.reddit.com/r/DataHoarder/comments/ir8ic6/youtubedlc_an_active_fork_of_youtubedl/) / [HN]() 
+### fork
+- [yt-dlp](https://news.ycombinator.com/item?id=29592707) - remove  50kb/s limits
+- [blackjack4494/youtube-dlc ](https://github.com/blackjack4494/youtube-dlc) / [reddit](https://www.reddit.com/r/DataHoarder/comments/ir8ic6/youtubedlc_an_active_fork_of_youtubedl/) / [HN]() 
 
 ### Others
 - [youtubedld.com](https://youtubedld.com/) - Download a YouTube video by adding ‘dld’ to the url after ‘youtube’, hit enter and pick a format.
