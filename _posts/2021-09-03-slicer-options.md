@@ -25,6 +25,7 @@ see also [dprint troubleshooting]({% post_url 2018-09-25-3dprint %})
 	- special mode (one part at time)
     - orient part to side way to have unseen side oppose to each other
 - [smoother surface](https://www.youtube.com/watch?v=jkAqTWmVRVA)
+- [blob artefacts ](https://www.youtube.com/watch?v=Hvw3DrVAeTA)
 
 ### Seam removal
 - [move seam to corner](https://youtu.be/NU1kYEE3qrQ?t=114)
