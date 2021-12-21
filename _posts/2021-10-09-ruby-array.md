@@ -10,9 +10,10 @@ tags: ruby array
 turn an Array into an argument list
 
 {% highlight ruby %}
-a = [0, 1, 2, 3, 4] # => [0, 1, 2, 3, 4]
-b = [2, 3] # => [2, 3]
-a.slice(*b) # => [2, 3, 4]
+arguments = [2, 3]
+my_method(1, *arguments)
+# equivalent to 
+my_method(1, 2, 3)
 {% endhighlight %}
 
 
