@@ -16,6 +16,13 @@ my_method(1, *arguments)
 my_method(1, 2, 3)
 {% endhighlight %}
 
+the inverse is to gather arguments as if they were in an array using `** operator`
+
+{% highlight ruby %}
+def my_method(*a, **kw)
+  p arguments: a, keywords: kw
+end
+{% endhighlight %}
 
 ### [Splitting an array into equal parts in ruby](https://exceptionshub.com/splitting-an-array-into-equal-parts-in-ruby.html)
 
