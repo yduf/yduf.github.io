@@ -16,7 +16,7 @@ my_method(1, *arguments)
 my_method(1, 2, 3)
 {% endhighlight %}
 
-the inverse is to gather arguments as if they were in an array using `** operator`
+the inverse is to gather arguments as if they were in an array
 
 {% highlight ruby %}
 def my_method(*a, **kw)
