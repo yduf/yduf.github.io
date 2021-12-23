@@ -7,6 +7,8 @@ tags: screw 3dmodel 3dprint openscad
 
 ## [Hex Nut Capture Socket sizing for 3D Printing](https://airtripper.com/1594/hex-nut-capture-socket-sizing-for-3d-printing/)
 
+- [Embedding Nuts in 3D Printed Parts for Hidden Fastener Strength ](https://markforged.com/resources/blog/embedding-nuts-3d-printing/)
+
 ## Freecad
 
 Freecad knows ISO screws size - see Fasterner Workbench
