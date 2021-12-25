@@ -83,7 +83,8 @@ High values for Jerk settings basically mean the change of speed in each directi
     
 ### [#speedboatrace](https://www.youtube.com/watch?v=6kRjdprTjFc)
 
-[cnc kitchen](https://www.youtube.com/watch?v=hSWjlf5aNIU)
+- [cnc kitchen](https://www.youtube.com/watch?v=hSWjlf5aNIU)
+	- [The FASTEST 3DBenchy at QUALITY ?](https://www.youtube.com/watch?v=vso6lgTRSo0)
 
 Teaching Tech benchy
 For a constant feedrate of 200mm/sec
