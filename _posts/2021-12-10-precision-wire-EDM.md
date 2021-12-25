@@ -7,5 +7,6 @@ tags: cnc
 
 see also
 - [Zero Tolerance Machining' with the Wire EDM, Making a Puzzle Cube](https://www.youtube.com/watch?v=feGrx29XR4Q&list=LL&index=13)
+- [Drill through anything (conductive) with Electrical Discharge Machining](https://www.youtube.com/watch?v=rpHYBz7ToII)
 
 [![caption](https://img.youtube.com/vi/feGrx29XR4Q/0.jpg)](https://www.youtube.com/watch?v=feGrx29XR4Q)
