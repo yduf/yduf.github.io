@@ -12,7 +12,7 @@ PLA tested so far -- 1.75mm
     	- excellent printing 210°C 80 mm/s / Bed at 40°C
         - very bad stickyness => + lack + height tuning
     - [PolyTerra PLA Charcoal Black  ](https://www.3djake.fr/polymaker/polyterra-pla-charcoal-black) - TBD
-    - [PolyTerra PLA Fossil Grey  ](https://www.3djake.fr/polymaker/polyterra-pla-fossil-grey) - good printing 205°C/40°C (warp on higher bed temp) - clean glass (alcohol whipe) - 120 mm/s
+    - [PolyTerra PLA Fossil Grey  ](https://www.3djake.fr/polymaker/polyterra-pla-fossil-grey?sai=10324) - good printing 205°C/40°C (warp on higher bed temp) - clean glass (alcohol whipe) - 120 mm/s
     	- issue with default ender 3 extruder (underextrusion issue)
     
     - [PLA Extrafill Vertigo Galaxy](https://www.3djake.fr/fillamentum/pla-extrafill-vertigo-galaxy) - TBD
