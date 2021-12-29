@@ -10,3 +10,5 @@ tags: analog computer
     	- analog additionner
         - analog integrator
         - differential analysis
+        
+- Analog come back ?
