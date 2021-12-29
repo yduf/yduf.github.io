@@ -1,7 +1,7 @@
 ---
 published: true
 title: Face detection
-tags: computer-vision
+tags: computer-vision face
 ---
 - [Face detection algorithms comparison](http://datahacker.rs/017-face-detection-algorithms-comparison/)
 	- OpenCV Haarcascade
