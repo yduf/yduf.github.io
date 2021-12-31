@@ -35,10 +35,13 @@ stealthchop_threshold: 0
 ## [Retraction config](https://www.thingiverse.com/thing:1815784)
 
 There is two parameter to configure : (length, speed)
+- **too low** : Oozing/Stringing
+- **too high ** : Bad quality of towers and printed numbers
 
 [ ![caption](https://cdn.thingiverse.com/renders/9a/c6/9d/c4/01/cb7b8132e6f320798e8b3e0a1eab3ab7_preview_featured.JPG)](https://www.thingiverse.com/make:614605)
 
 [Klipper vs Cura setup](https://www.reddit.com/r/klippers/comments/nds8q9/confused_about_retraction_in_slicer_or_in_firmware/)
+- to enable G10 / G11 look for `Firmware retraction` in Cura
 
 {% highlight ini %}
 [firmware_retraction]
