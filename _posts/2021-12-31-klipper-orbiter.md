@@ -57,4 +57,4 @@ unretract_speed: 10
 {% endhighlight %}
 
 - [Retraction: Just say "No" to oozing](https://www.matterhackers.com/articles/retraction-just-say-no-to-oozing)
-- [Top Ten Prints to Calibrate your 3D Printer](https://www.matterhackers.com/articles/top-ten-prints-to-calibrate-your-3d-printer)
+- [Top Ten Prints to Calibrate your 3D Printer](https://www.matterhackers.com/articles/top-ten-prints-to-calibrate-your-3d-printer) / [thingiverse](https://www.thingiverse.com/thing:2755063/files)
