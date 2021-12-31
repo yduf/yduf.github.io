@@ -55,3 +55,6 @@ unretract_speed: 10
 #   The speed of unretraction, in mm/s. The default is 10 mm/s.
 
 {% endhighlight %}
+
+- [Retraction: Just say "No" to oozing](https://www.matterhackers.com/articles/retraction-just-say-no-to-oozing)
+- [Top Ten Prints to Calibrate your 3D Printer](https://www.matterhackers.com/articles/top-ten-prints-to-calibrate-your-3d-printer)
