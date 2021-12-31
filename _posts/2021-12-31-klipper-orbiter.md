@@ -38,7 +38,7 @@ There is two parameter to configure : (length, speed)
 
 [ ![caption](https://cdn.thingiverse.com/renders/9a/c6/9d/c4/01/cb7b8132e6f320798e8b3e0a1eab3ab7_preview_featured.JPG)](https://www.thingiverse.com/make:614605)
 
-Klipper vs Cura setup
+[Klipper vs Cura setup](https://www.reddit.com/r/klippers/comments/nds8q9/confused_about_retraction_in_slicer_or_in_firmware/)
 
 {% highlight ini %}
 [firmware_retraction]
