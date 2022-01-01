@@ -1,7 +1,7 @@
 ---
 title: Material Flow / Extrusion ratio (Calibration)
 published: true
-tags: 3dprinter calibration
+tags: 3dprinter calibration cura
 ---
 > [There is 2 parts](https://mattshub.com/blogs/blog/extruder-calibration):  
 > - tuning your extruder steps/mm value - this mechanical part can use recommanded value  
