@@ -38,7 +38,7 @@ see also [dprint troubleshooting]({% post_url 2018-09-25-3dprint %})
 - [vase mode](https://www.youtube.com/watch?v=iJXIqdJpkuI)
 
 ### Precision
-- [horizontal expansion](https://www.youtube.com/watch?v=-jsBI3OeUJQ)
+- [horizontal expansion](https://www.youtube.com/watch?v=-jsBI3OeUJQ) / [calibration tool](https://www.thingiverse.com/thing:4766295/zip)
 
 ## [Speed up print](https://hevort.com/)
 - Use [greater step](https://www.reddit.com/r/klippers/comments/gh5r72/those_of_you_using_klipper_and_printing_at_crazy/fq6py5n?utm_source=share&utm_medium=web2x&context=3) for layer height, eg: 0.28 vs 0.2 vs 0.1
