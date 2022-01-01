@@ -11,4 +11,9 @@ tags: linux image crop resize how-to
 - [pinta](https://www.pinta-project.com/) as __paint__ like interface, usefull for fast easy crop
 
 ## Multi image resize
-- TBD
+
+[Batch Resize of Images Using gThumb](https://www.maketecheasier.com/batch-resize-images-gthumb/)
+
+- Select images, open them with gthumb
+- Tools menu / Resize Images option
+- Execute
