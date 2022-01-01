@@ -1,9 +1,9 @@
 ---
-title: Extrusion ratio (Calibration)
+title: Material Flow / Extrusion ratio (Calibration)
 published: true
 tags: 3dprinter calibration
 ---
-A very [simple and fast print test](https://www.thingiverse.com/thing:1622868) for configuring a 3d printer extrusion ratio.
+> A very [simple and fast print test](https://www.thingiverse.com/thing:1622868) for configuring a 3d printer extrusion ratio. - [Extruder Calibration](https://mattshub.com/blogs/blog/extruder-calibration)
 
 see also [the calculator](https://docs.google.com/spreadsheets/d/11wnlCU2EVHg3Nl7GxisAegoGicogK_QTkMjRavwx0ME/edit#gid=0)
 
