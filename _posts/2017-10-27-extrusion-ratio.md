@@ -3,7 +3,11 @@ title: Material Flow / Extrusion ratio (Calibration)
 published: true
 tags: 3dprinter calibration
 ---
-> A very [simple and fast print test](https://www.thingiverse.com/thing:1622868) for configuring a 3d printer extrusion ratio. - [Extruder Calibration](https://mattshub.com/blogs/blog/extruder-calibration)
+> [There is 2 parts](https://mattshub.com/blogs/blog/extruder-calibration):  
+> - tuning your extruder steps/mm value - this mechanical part can use recommanded value  
+> - tuning your extrusion multiplier - this is specific to each filament  
+
+ A very [simple and fast print test](https://www.thingiverse.com/thing:1622868) for configuring a 3d printer extrusion ratio. 
 
 see also [the calculator](https://docs.google.com/spreadsheets/d/11wnlCU2EVHg3Nl7GxisAegoGicogK_QTkMjRavwx0ME/edit#gid=0)
 
