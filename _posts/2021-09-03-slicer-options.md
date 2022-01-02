@@ -39,6 +39,10 @@ see also [dprint troubleshooting]({% post_url 2018-09-25-3dprint %})
 
 ### Printer Precision / Holes
 - [Dimensional Accuracy](https://www.simplify3d.com/support/print-quality-troubleshooting/dimensional-accuracy/)
+	- First Layer Impact - verify that your measurements are not being affected by the first layer position.
+    - **Under or Over-Extrusion** - If the extrusion multiplier is too low, you may start to see gaps between perimeters, holes in your top surfaces, and parts that are smaller than their intended size. If your extrusion multiplier is too high, you may notice top layers that tend to bulge upwards and parts that are larger than intended.
+    - **Constant Dimensional Error** - => horizontal expansion
+    - **Increasing Dimensional Error** -  then it is likely the problem may be due to thermal contraction.
 - [horizontal expansion](https://www.youtube.com/watch?v=-jsBI3OeUJQ) 
 	- [calibration tool](https://www.thingiverse.com/thing:4766295)
     	- [Fast test](https://www.thingiverse.com/thing:3535060/zip)
