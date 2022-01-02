@@ -39,7 +39,8 @@ see also [dprint troubleshooting]({% post_url 2018-09-25-3dprint %})
 
 ### Precision
 - [horizontal expansion](https://www.youtube.com/watch?v=-jsBI3OeUJQ) 
-	- [calibration tool](https://www.thingiverse.com/thing:4766295/zip)
+	- [calibration tool](https://www.thingiverse.com/thing:4766295)
+    	- [Fast test](https://www.thingiverse.com/thing:3535060/zip)
     - [What Is Horizontal Expansion in Cura? (How to Use It?)](https://www.3dprintbeast.com/cura-horizontal-expansion/)
 
 ## [Speed up print](https://hevort.com/)
