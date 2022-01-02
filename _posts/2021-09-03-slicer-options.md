@@ -45,7 +45,7 @@ see also [dprint troubleshooting]({% post_url 2018-09-25-3dprint %})
     - **Increasing Dimensional Error** -  then it is likely the problem may be due to thermal contraction.
 - [horizontal expansion](https://www.youtube.com/watch?v=-jsBI3OeUJQ) 
 	- [calibration tool](https://www.thingiverse.com/thing:4766295)
-    	- [Fast test](https://www.thingiverse.com/thing:3535060/zip)
+    	- [Fast test](https://www.thingiverse.com/thing:3535060)
     - [What Is Horizontal Expansion in Cura? (How to Use It?)](https://www.3dprintbeast.com/cura-horizontal-expansion/)
      - [<strike>Are you printing undersized holes ?</strike>](http://www.deltarap.org/printing-undersized-holes)
 
