@@ -38,6 +38,7 @@ see also [dprint troubleshooting]({% post_url 2018-09-25-3dprint %})
 - [vase mode](https://www.youtube.com/watch?v=iJXIqdJpkuI)
 
 ### Printer Precision / Holes
+- [Dimensional Accuracy](https://www.simplify3d.com/support/print-quality-troubleshooting/dimensional-accuracy/)
 - [horizontal expansion](https://www.youtube.com/watch?v=-jsBI3OeUJQ) 
 	- [calibration tool](https://www.thingiverse.com/thing:4766295)
     	- [Fast test](https://www.thingiverse.com/thing:3535060/zip)
