@@ -22,6 +22,9 @@ Label de Gros Gogo
 
 Allégation Nutrinionnelle
 - ex: contient du Magnesium
+	- sans sucre ajouté
+- a verifier avec [la composition du produit](https://youtu.be/BnP9AbA_kBU?t=2642)
+
 Allégation de Santé
 - ex: le magnésium reduit la fatique
 - s'applique-elle au produit concerné
