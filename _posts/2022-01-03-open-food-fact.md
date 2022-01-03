@@ -19,3 +19,9 @@ Label de Gros Gogo
 - Recette originale
 - Produit de l'année
 - Cuisiné en France
+
+Allégation Nutrinionnelle
+- ex: contient du Magnesium
+Allégation de Santé
+- ex: le magnésium reduit la fatique
+- s'applique-elle au produit concerné
