@@ -14,7 +14,7 @@ Label qu'il est bien beau (avec cahier des charges)
 - production de viande Francaise (scandale Spanghero)
 	- non tracabilité [Sodebo / Willam Saurin](https://youtu.be/BnP9AbA_kBU?t=2325)
 
-Nutri-score
+Nutri-score (non obligatoire / par seuil)
 - compare les produit entre eux / et si un produit est équilibré ou non
 
 Appli yuka
