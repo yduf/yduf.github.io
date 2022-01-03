@@ -14,6 +14,14 @@ Label qu'il est bien beau (avec cahier des charges)
 - production de viande Francaise (scandale Spanghero)
 	- non tracabilité [Sodebo / Willam Saurin](https://youtu.be/BnP9AbA_kBU?t=2325)
 
+Nutri-score
+- compare les produit entre eux / et si un produit est équilibré ou non
+
+Appli yuka
+- 60% basé sur le Nutri-Score
+- 10% sur le logo bio
+- 30% sur les additifs
+
 Label de Gros Gogo
 - Agriculture Biologique - logo abandonné
 - Recette originale
