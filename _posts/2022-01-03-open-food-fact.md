@@ -11,6 +11,8 @@ Label qu'il est bien beau (avec cahier des charges)
 - Produit de Montagne
 - Production Biologique - nouveau logo
 - Label rouge - disparate - Poulet/Boeuf ok / Porc bof
+- production de viande Francaise (scandale Spanghero)
+	- non tracabilité [Sodebo / Willam Saurin](https://youtu.be/BnP9AbA_kBU?t=2325)
 
 Label de Gros Gogo
 - Agriculture Biologique - logo abandonné
