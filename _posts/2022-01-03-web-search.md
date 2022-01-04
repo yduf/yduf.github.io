@@ -7,6 +7,6 @@ tags: web search google-alt
 
 Alternatives
 - [Yandex](Yandex.com)
-- [notrash](notrashsearch.github.io) - STEM
+- [notrash](notrashsearch.github.io) - STEM (whitelist search using google programmable search)
 
 
