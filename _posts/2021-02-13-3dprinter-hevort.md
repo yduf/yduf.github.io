@@ -9,6 +9,8 @@ tags: 3dprinter
 - [Fixing Z Wobble from 20$ Ball Screws with that simple device](https://www.youtube.com/watch?v=mqSQhwqSzvg&list=LL&index=1&t=920s)
 
 - [Voron 2.4 VS RatRig V3 VS HevORT VS VzBot](https://www.reddit.com/r/3Dprinting/comments/qacy2j/voron_24_vs_ratrig_v3_vs_hevort_vs_vzbot/) / [2](https://www.reddit.com/r/3Dprinting/comments/n1qahl/which_corexy_to_go_for_voron_hevort_vez3d_ratrig/)
+    - [Voron 2.4 Vs V-Core 3: Everything Tested](https://www.youtube.com/watch?v=QnEb8VnWDcA)
+
 
 ## Similar Model
 ### [HevORT lite doc](https://github.com/ChipCE/HevORT-lite) - Lower cost, trim down version of [MirageC79's HevORT corexy design](https://github.com/MirageC79/HevORT).
@@ -19,7 +21,6 @@ tags: 3dprinter
     	- [NERO 3D](https://www.youtube.com/watch?v=l29_BFwTEbI) - Voron V0.1 Build Marathon Livestream
 ### [Rat Rig V-core](https://www.ratrig.com/3d-printing-cnc/3d-printer-kits/complete-kits/v-core3configurable.html) / [github](https://github.com/Rat-Rig/V-core-3)
 	- [Rat Rig V-core 3 part 1 - Premium coreXY 3D printer community build](https://www.youtube.com/watch?v=XoTxFs3BGuk&list=PLGqRUdq5ULsO0oLRZ1wiYvvpbhj4EV-Nf)
-    - [Voron 2.4 Vs V-Core 3: Everything Tested](https://www.youtube.com/watch?v=QnEb8VnWDcA)
 
 ## [Kit](https://www.drdflo.com/pages/Guides/Best-DIY-FFF-3D-Printers.html)
 - [VORON 2.4](https://fr.aliexpress.com/item/1005002884673471.html?spm=a2g0o.detail.1000014.57.4e2c5e30nXUFKP&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.177756.0&scm_id=1007.13338.177756.0&scm-url=1007.13338.177756.0&pvid=6b947754-7f54-4bcc-bd5a-87364fc2501c&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.13338.177756.0,pvid:6b947754-7f54-4bcc-bd5a-87364fc2501c,tpp_buckets:668%232846%238107%231934&pdp_ext_f=%7B%22sku_id%22:%2212000022612142288%22,%22sceneId%22:%2223416%22%7D)
