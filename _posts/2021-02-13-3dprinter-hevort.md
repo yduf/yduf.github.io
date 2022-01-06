@@ -23,6 +23,12 @@ tags: 3dprinter
 ### [Rat Rig V-core](https://www.ratrig.com/3d-printing-cnc/3d-printer-kits/complete-kits/v-core3configurable.html) / [github](https://github.com/Rat-Rig/V-core-3)
 - [Rat Rig V-core 3 part 1 - Premium coreXY 3D printer community build](https://www.youtube.com/watch?v=XoTxFs3BGuk&list=PLGqRUdq5ULsO0oLRZ1wiYvvpbhj4EV-Nf) / [2](https://www.youtube.com/watch?v=mZcQZ-efMKM&list=PLGqRUdq5ULsO0oLRZ1wiYvvpbhj4EV-Nf&index=2) / [3](https://www.youtube.com/watch?v=8B12D_D1i0s&list=PLGqRUdq5ULsO0oLRZ1wiYvvpbhj4EV-Nf&index=3)
 
+### Converted Ender 5
+The cheapest ?
+
+- [DIY CoreXY Linear Rails upgrades for Ender 5 Pro, almost turn it into an Ender 7 for $100](https://www.youtube.com/watch?v=JEYs4wS5M0Y&list=LL&index=4)
+- [Ender 5 MK3 Conversion](https://www.youtube.com/watch?v=fhZTwQc_9Uo&list=LL&index=5)
+
 ## [Kit](https://www.drdflo.com/pages/Guides/Best-DIY-FFF-3D-Printers.html)
 - [VORON 2.4](https://fr.aliexpress.com/item/1005002884673471.html?spm=a2g0o.detail.1000014.57.4e2c5e30nXUFKP&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.177756.0&scm_id=1007.13338.177756.0&scm-url=1007.13338.177756.0&pvid=6b947754-7f54-4bcc-bd5a-87364fc2501c&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.13338.177756.0,pvid:6b947754-7f54-4bcc-bd5a-87364fc2501c,tpp_buckets:668%232846%238107%231934&pdp_ext_f=%7B%22sku_id%22:%2212000022612142288%22,%22sceneId%22:%2223416%22%7D)
 
