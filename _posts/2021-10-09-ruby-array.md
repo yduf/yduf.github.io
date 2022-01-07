@@ -5,6 +5,11 @@ tags: ruby array
 ---
 > [ruby-doc](https://ruby-doc.org/core-3.0.1/Array.html)
 
+### [First and Rest in Ruby](https://avdi.codes/first-and-rest-in-ruby/)
+{% highlight ruby %}
+first, rest = many.first, many[1..-1]
+{% endhighlight %}
+
 ### [splat operator](https://ruby-doc.org/core-2.0.0/doc/syntax/calling_methods_rdoc.html#label-Array+to+Arguments+Conversion)
 
 turn an Array into an argument list
