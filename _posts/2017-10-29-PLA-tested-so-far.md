@@ -5,6 +5,8 @@ tags: 3dprint pla
 ---
 PLA tested so far -- 1.75mm
 
+- [Faites votre propre Dual PLA](https://www.youtube.com/watch?v=Bjo_4RYRaOo)
+
 ## [Provider/Vendor](https://forum.prusaprinters.org/forum/original-prusa-i3-mk3-discussion-generale-annonces-et-nouveautes/filaments-avis-et-conseils/)
 - [3djake.fr](https://www.3djake.fr) - TBD
 	- [PLA Economy Light Gray](https://www.3djake.fr/colorfabb/pla-economy-light-gray) - TBD
