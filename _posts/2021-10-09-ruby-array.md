@@ -7,6 +7,7 @@ tags: ruby array
 
 ### [First and Rest in Ruby](https://avdi.codes/first-and-rest-in-ruby/)
 {% highlight ruby %}
+many = [0,1,2,3,4]
 first, rest = many.first, many[1..-1]
 {% endhighlight %}
 
