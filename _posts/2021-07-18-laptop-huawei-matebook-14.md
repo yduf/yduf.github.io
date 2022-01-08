@@ -60,3 +60,38 @@ For the moment leave Onekey partition (14Go occupied)
 Internet connection is recommanded for install (for thirdparty software).
 
 Partition / (100Go), /home (300Go)
+
+### Hardware info
+
+{% highlight bash %}
+$ inxi -Fxxxrnz
+inxi -Fxxxrnz
+Machine:   Type: Laptop System: HUAWEI product: KLVC-WXX9 v: M1060 serial: <filter> 
+           Mobo: HUAWEI model: KLVC-WXX9-PCB v: M1060 serial: <filter> UEFI: HUAWEI v: 1.19 date: 08/01/2020 
+Battery:   ID-1: BAT0 charge: 53.6 Wh condition: 54.6/54.9 Wh (99%) volts: 8.5/7.6 model: DYNAPACK HB4593R1ECW-22T0 
+           type: Li-ion serial: <filter> status: Discharging cycles: 42 
+CPU:       Topology: Quad Core model: Intel Core i7-10510U bits: 64 type: MT MCP arch: Kaby Lake rev: C L2 cache: 8192 KiB 
+           flags: avx avx2 lm nx pae sse sse2 sse3 sse4_1 sse4_2 ssse3 vmx bogomips: 36799 
+           Speed: 600 MHz min/max: 400/4900 MHz Core speeds (MHz): 1: 600 2: 1959 3: 797 4: 644 5: 600 6: 600 7: 604 8: 603 
+Graphics:  Device-1: Intel UHD Graphics driver: i915 v: kernel bus ID: 00:02.0 chip ID: 8086:9b41 
+           Device-2: NVIDIA GP107M [GeForce MX350] driver: nouveau v: kernel bus ID: 01:00.0 chip ID: 10de:1c94 
+           Display: x11 server: X.Org 1.20.13 driver: modesetting unloaded: fbdev,vesa resolution: 2160x1440~60Hz 
+           OpenGL: renderer: Mesa Intel UHD Graphics (CML GT2) v: 4.6 Mesa 21.0.3 direct render: Yes 
+Audio:     Device-1: Intel driver: snd_hda_intel v: kernel bus ID: 00:1f.3 chip ID: 8086:02c8 
+           Device-2: Plantronics Plantronics BT600 type: USB driver: plantronics,snd-usb-audio,usbhid bus ID: 1-1:2 
+           chip ID: 047f:02fb serial: <filter> 
+           Sound Server: ALSA v: k5.13.0-23-generic 
+Network:   Device-1: Intel Wireless-AC 9462 driver: N/A port: 4000 bus ID: 00:14.3 chip ID: 8086:02f0 
+           Device-2: Realtek USB3.0 802.11ac 1200M Adapter type: USB driver: rtl88x2bu bus ID: 1-2:18 chip ID: 0bda:b812 
+           serial: <filter> 
+           IF: wlx1cbfce03f4ea state: up mac: <filter> 
+           IF-ID-1: br-2fff95979612 state: down mac: <filter> 
+           IF-ID-2: docker0 state: down mac: <filter> 
+Drives:    Local Storage: total: 476.94 GiB used: 138.26 GiB (29.0%) 
+           ID-1: /dev/nvme0n1 vendor: Western Digital model: PC SN730 SDBPNTY-512G size: 476.94 GiB speed: 31.6 Gb/s lanes: 4 
+           serial: <filter> rev: 11120000 scheme: GPT 
+Partition: ID-1: / size: 91.17 GiB used: 27.78 GiB (30.5%) fs: ext4 dev: /dev/nvme0n1p7 
+           ID-2: /home size: 308.37 GiB used: 110.44 GiB (35.8%) fs: ext4 dev: /dev/nvme0n1p8 
+Sensors:   System Temperatures: cpu: 35.0 C mobo: N/A gpu: nouveau temp: 34 C 
+           Fan Speeds (RPM): N/A 
+{% endhighlight %}
