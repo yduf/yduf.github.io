@@ -65,6 +65,7 @@ Partition / (100Go), /home (300Go)
 
 - [wifi card is a Intel Wireless-AC 9560](https://www.notebookcheck.net/Huawei-MateBook-14-2020-laptop-review-3-2-clamshell-convinces-both-with-Intel-and-AMD-CPUs.508467.0.htmlwifi)
 	- [wifi issue]({% post_url 2022-01-08-wifi-9560 %})
+    	- [Update to wifi 6](https://www.reddit.com/r/AMDLaptops/comments/j0rzwx/update_to_wifi_6_huawei_matebook_14_2020_amd/)
 
 {% highlight bash %}
 $ inxi -Fxxxrnz
