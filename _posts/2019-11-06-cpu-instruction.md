@@ -20,3 +20,6 @@ tags: computer hardware electronic blog tutorial
     
 - [Why build an entire computer on breadboards?](https://www.youtube.com/watch?v=fCbAafKLqC8)
 	- clock signals
+    
+    
+- [How do hardware timers work?](https://www.youtube.com/watch?v=g_koa00MBLg)
