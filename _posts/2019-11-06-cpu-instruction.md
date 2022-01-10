@@ -23,3 +23,4 @@ tags: computer hardware electronic blog tutorial
     
     
 - [How do hardware timers work?](https://www.youtube.com/watch?v=g_koa00MBLg)
+	- interrupt
