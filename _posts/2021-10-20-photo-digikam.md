@@ -63,6 +63,7 @@ digikamctl rm Work    # Remove library
 - [digiKam API reference page](https://www.digikam.org/api/index.html) - digiKam is split into a number of components, each ones located to a dedicated directory.
 - internally use [FNV-1a](https://github.com/KDE/digikam/blob/33d0457e20adda97c003f3dee652a1749406ff9f/core/dplugins/generic/tools/mediaserver/upnpsdk/Neptune/Source/Core/NptHash.cpp) / [Fowler–Noll–Vo hash function](https://en.wikipedia.org/wiki/Fowler%E2%80%93Noll%E2%80%93Vo_hash_function)
 
+- [Compile and install Digikam on Ubuntu 20.04 Focal (21.10 too)](https://www.blackrosetech.com/gessel/2021/03/26/compile-and-install-digikam-on-ubuntu-20-04-focal)
 
 ## Atlernative
 - [How I found my best Digital Asset Management (DAM) system](https://www.bkwinephotography.com/technology/found-best-digital-asset-management-dam-system/)- [Digikam alternative Reddit](https://pedirostoba.com/index--nk6080-jon.php/2015/07/04/free-software-alternatives-to-photoshop-and-lightroom-gimp-and-digikam/)
