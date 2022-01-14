@@ -1,7 +1,7 @@
 ---
 published: true
 title: libVIPS
-tags: image lib
+tags: image lib ruby
 ---
 > a demand-driven, [horizontally threaded](https://github.com/libvips/libvips/wiki/Why-is-libvips-quick) image processing library. Compared to similar libraries, libvips runs quickly and uses little memory. - [**libVIPS**](https://www.libvips.org/) / [blog](http://libvips.blogspot.com/)
 
