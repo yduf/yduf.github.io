@@ -14,7 +14,7 @@ export LD_LIBRARY_PATH="$LD_LIBRARY_PATH:/usr/local/lib"
 
 - update the configuration file of the runtime linker
 {% highlight bash %}
-# add to /etc/ld.so.conf
+# add to /etc/ld.so.conf.d/usr_local_lib.conf
 /usr/local/lib
 
 # and then run
