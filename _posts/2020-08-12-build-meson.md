@@ -7,6 +7,13 @@ tags: build-system dlang c++
 
 **Prefer latest version >= 0.59 rather than prepackaged distrib version**
 
+## [New project](https://mesonbuild.com/Running-Meson.html#configuring-the-build-directory)
+
+{% highlight bash %}
+cd /path/to/source/root
+meson setup builddir
+{% endhighlight %}
+
 ## [Compiling a Meson project](https://mesonbuild.com/Quick-guide.html#compiling-a-meson-project)
 
 The only thing to note is that you need to create a separate build directory. Meson will not allow you to build source code inside your source tree. All build artifacts are stored in the build directory.
