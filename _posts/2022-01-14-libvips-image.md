@@ -1,0 +1,14 @@
+---
+published: true
+title: libVIPS
+tags: image lib
+---
+> a demand-driven, [horizontally threaded](https://github.com/libvips/libvips/wiki/Why-is-libvips-quick) image processing library. Compared to similar libraries, libvips runs quickly and uses little memory. - [**libVIPS**](https://www.libvips.org/) / [blog](http://libvips.blogspot.com/)
+
+- Full bindings are available for [Ruby](https://github.com/libvips/ruby-vips)
+- [Fancy transforms](http://libvips.blogspot.com/2015/11/fancy-transforms.html)
+- [trim (auto crop) with ruby-vips](http://libvips.blogspot.com/2014/02/trim-auto-crop-with-ruby-vips.html?view=sidebar)
+
+- [filters like sepia, black-white](https://github.com/libvips/php-vips/issues/104)
+- [Different resize issues](https://github.com/libvips/pyvips/issues/148)
+- [Some newbie questions on how to do things with libvips](https://github.com/libvips/libvips/issues/1449)
