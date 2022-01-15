@@ -9,6 +9,7 @@ tags: image lib ruby c++
 a user interface for libvips
 
 ## Doc
+- [Hello World](https://github.com/libvips/libvips/wiki/Hello-World)
 - Full bindings are available for [Ruby](https://github.com/libvips/ruby-vips)
 - [Fancy transforms](http://libvips.blogspot.com/2015/11/fancy-transforms.html)
 - [trim (auto crop) with ruby-vips](http://libvips.blogspot.com/2014/02/trim-auto-crop-with-ruby-vips.html?view=sidebar)
