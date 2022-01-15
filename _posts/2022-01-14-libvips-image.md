@@ -14,10 +14,11 @@ A user interface for libvips.
 	- [Beginning_to_work_with_Nip2](https://github.com/libvips/libvips/wiki/Beginning_to_work_with_Nip2)
 	- [ Assembling Marble Earth](http://libvips.blogspot.com/2011/08/assembling-marble-earth.html)
     - [Animated clustering](http://libvips.blogspot.com/2011/08/animated-clustering.html)
-
+	- [Remove color cast](https://stackoverflow.com/questions/59666277/remove-color-cast-using-libvips/59682169#59682169)
 - [nip2 as a GUI for ImageMagick](http://libvips.blogspot.com/2011/04/nip2-as-gui-for-imagemagick.html)
 - [A/B viewing in nip2](http://libvips.blogspot.com/2013/07/task-of-day-toggle-between-two-images.html)
 - [an example of adding a nips2 tool](http://libvips.blogspot.com/2016/09/nip2-for-nerds-example-of-adding-nips2.html)
+
 
 ## [Doc](https://www.libvips.org/API/current/) / [c++](https://www.libvips.org/API/8.11/cpp/) / [SO](https://stackoverflow.com/questions/tagged/vips)
 - [Hello World](https://github.com/libvips/libvips/wiki/Hello-World)
