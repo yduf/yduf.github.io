@@ -21,7 +21,8 @@ A user interface for libvips.
     - [Sequential mode read](http://libvips.blogspot.com/2012/02/sequential-mode-read.html) - Not all operations need random access to their source pixels. For example, thumbnailing, the process of shrinking images for display, can work strictly top-to-bottom.
 		- [vipsthumbnail](http://www.manpagez.com/man/1/vipsthumbnail/)
 	- [ watermarking with ruby-vips](http://libvips.blogspot.com/2013/07/watermarking-with-ruby-vips.html)
-    
+	- [ruby-vips example](https://github.com/libvips/ruby-vips/wiki/Examples) / [code](https://github.com/libvips/ruby-vips/tree/master/example)
+
 - [Fancy transforms](http://libvips.blogspot.com/2015/11/fancy-transforms.html)
 - [trim (auto crop) with ruby-vips](http://libvips.blogspot.com/2014/02/trim-auto-crop-with-ruby-vips.html?view=sidebar)
 
@@ -32,6 +33,6 @@ A user interface for libvips.
 	- [Different resize issues](https://github.com/libvips/pyvips/issues/148)
 - [Some newbie questions on how to do things with libvips](https://github.com/libvips/libvips/issues/1449)
 
-- [ruby-vips example](https://github.com/libvips/ruby-vips/wiki/Examples) / [code](https://github.com/libvips/ruby-vips/tree/master/example)
 
 
+- [Making DeepZoom, Zoomify and Google Maps image pyramids with vips](http://libvips.blogspot.com/2013/03/making-deepzoom-zoomify-and-google-maps.html)
