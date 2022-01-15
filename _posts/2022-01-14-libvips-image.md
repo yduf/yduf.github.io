@@ -12,3 +12,5 @@ tags: image lib ruby c++
 - [filters like sepia, black-white](https://github.com/libvips/php-vips/issues/104)
 - [Different resize issues](https://github.com/libvips/pyvips/issues/148)
 - [Some newbie questions on how to do things with libvips](https://github.com/libvips/libvips/issues/1449)
+
+- [ruby-vips example](https://github.com/libvips/ruby-vips/wiki/Examples) / [code](https://github.com/libvips/ruby-vips/tree/master/example)
