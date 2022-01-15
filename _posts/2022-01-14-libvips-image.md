@@ -15,7 +15,7 @@ A user interface for libvips.
     - [Animated clustering](http://libvips.blogspot.com/2011/08/animated-clustering.html)
 - [nip2 as a GUI for ImageMagick](http://libvips.blogspot.com/2011/04/nip2-as-gui-for-imagemagick.html)
 - [A/B viewing in nip2](http://libvips.blogspot.com/2013/07/task-of-day-toggle-between-two-images.html)
-
+- [an example of adding a nips2 tool](http://libvips.blogspot.com/2016/09/nip2-for-nerds-example-of-adding-nips2.html)
 ## Doc
 - [Hello World](https://github.com/libvips/libvips/wiki/Hello-World)
 - Full bindings are available for [Ruby](https://github.com/libvips/ruby-vips)
