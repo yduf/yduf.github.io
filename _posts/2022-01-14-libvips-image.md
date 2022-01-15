@@ -17,6 +17,7 @@ A user interface for libvips.
 - [Hello World](https://github.com/libvips/libvips/wiki/Hello-World)
 - Full bindings are available for [Ruby](https://github.com/libvips/ruby-vips)
 	- [New API takes shape](http://libvips.blogspot.com/2011/03/new-api-takes-shape.html)
+    - [Sequential mode read](http://libvips.blogspot.com/2012/02/sequential-mode-read.html) - Not all operations need random access to their source pixels. For example, thumbnailing, the process of shrinking images for display, can work strictly top-to-bottom.
 - [Fancy transforms](http://libvips.blogspot.com/2015/11/fancy-transforms.html)
 - [trim (auto crop) with ruby-vips](http://libvips.blogspot.com/2014/02/trim-auto-crop-with-ruby-vips.html?view=sidebar)
 
