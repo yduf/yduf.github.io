@@ -5,6 +5,10 @@ tags: image lib ruby c++
 ---
 > a demand-driven, [horizontally threaded](https://github.com/libvips/libvips/wiki/Why-is-libvips-quick) image processing library. Compared to similar libraries, libvips runs quickly and uses little memory. - [**libVIPS**](https://www.libvips.org/) / [blog](http://libvips.blogspot.com/)
 
+## [nip2](https://github.com/libvips/nip2)
+a user interface for libvips
+
+## Doc
 - Full bindings are available for [Ruby](https://github.com/libvips/ruby-vips)
 - [Fancy transforms](http://libvips.blogspot.com/2015/11/fancy-transforms.html)
 - [trim (auto crop) with ruby-vips](http://libvips.blogspot.com/2014/02/trim-auto-crop-with-ruby-vips.html?view=sidebar)
@@ -16,5 +20,4 @@ tags: image lib ruby c++
 
 - [ruby-vips example](https://github.com/libvips/ruby-vips/wiki/Examples) / [code](https://github.com/libvips/ruby-vips/tree/master/example)
 
-## [nip2](https://github.com/libvips/nip2)
-a user interface for libvips
+
