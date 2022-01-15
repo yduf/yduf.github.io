@@ -39,7 +39,7 @@ A user interface for libvips.
 	- [autodetect CMYK and convert to sRGB JPEG](http://libvips.blogspot.com/2011/12/task-of-day-autodetect-cmyk-and-convert.html)
     
 - [HOWTO Image shrinking](https://github.com/libvips/libvips/wiki/HOWTO----Image-shrinking)
-	- [thumbnail](https://libvips.github.io/pyvips/vimage.html#pyvips.Image.thumbnail)
+	- [thumbnail](https://www.libvips.org/API/current/libvips-resample.html#vips-thumbnail)
 		- [vipsthumbnail](http://www.manpagez.com/man/1/vipsthumbnail/)
 	- [Different resize issues](https://github.com/libvips/pyvips/issues/148)
 
