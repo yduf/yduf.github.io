@@ -5,6 +5,8 @@ tags: image lib ruby c++
 ---
 > a demand-driven, [horizontally threaded](https://github.com/libvips/libvips/wiki/Why-is-libvips-quick) image processing library. Compared to similar libraries, libvips runs quickly and uses little memory. - [**libVIPS**](https://www.libvips.org/) / [blog](http://libvips.blogspot.com/)
 
+- [Automatic computation reordering](http://libvips.blogspot.com/2017/01/automatic-computation-reordering.html)
+
 ## [nip2](https://github.com/libvips/nip2)
 A user interface for libvips.
 
@@ -32,7 +34,5 @@ A user interface for libvips.
 - [HOWTO Image shrinking](https://github.com/libvips/libvips/wiki/HOWTO----Image-shrinking)
 	- [Different resize issues](https://github.com/libvips/pyvips/issues/148)
 - [Some newbie questions on how to do things with libvips](https://github.com/libvips/libvips/issues/1449)
-
-
 
 - [Making DeepZoom, Zoomify and Google Maps image pyramids with vips](http://libvips.blogspot.com/2013/03/making-deepzoom-zoomify-and-google-maps.html)
