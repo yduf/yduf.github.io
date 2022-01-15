@@ -51,3 +51,5 @@ A user interface for libvips.
 ### [VIPS images](https://www.libvips.org/API/current/VipsImage.html) / [c++](https://www.libvips.org/API/8.11/cpp/classVImage.html)
 
 VIPS images are three-dimensional arrays, the dimensions being width, height and bands
+
+- [crop](https://www.libvips.org/API/8.11/cpp/classVImage.html#a0cd5e66c9394d4dc5e3dabbef97553fc) - Extract an area from an image.
