@@ -19,7 +19,7 @@ A user interface for libvips.
 - [A/B viewing in nip2](http://libvips.blogspot.com/2013/07/task-of-day-toggle-between-two-images.html)
 - [an example of adding a nips2 tool](http://libvips.blogspot.com/2016/09/nip2-for-nerds-example-of-adding-nips2.html)
 
-## Doc
+## [Doc](https://www.libvips.org/API/current/)
 - [Hello World](https://github.com/libvips/libvips/wiki/Hello-World)
 - [How libvips opens a file](http://libvips.blogspot.com/2012/06/how-libvips-opens-file.html)
 	- [Sequential mode read](http://libvips.blogspot.com/2012/02/sequential-mode-read.html) - Not all operations need random access to their source pixels. For example, thumbnailing, the process of shrinking images for display, can work strictly top-to-bottom.
