@@ -54,3 +54,4 @@ VIPS images are three-dimensional arrays, the dimensions being width, height and
 
 - [crop](https://www.libvips.org/API/8.11/cpp/classVImage.html#a0cd5e66c9394d4dc5e3dabbef97553fc) / [extract_area](https://www.libvips.org/API/8.11/cpp/classVImage.html#acae0a58b8b3590725b5b2d11694f3dde) - Extract an area from an image.
 - [data](https://www.libvips.org/API/8.11/cpp/classVImage.html#acff02c37a612a932bb1838b352fd0a7e) - Arrange for the underlying object to be entirely in memory, then return a pointer to the first pixel.
+- []()
