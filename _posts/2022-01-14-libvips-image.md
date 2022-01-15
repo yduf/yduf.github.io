@@ -10,6 +10,7 @@ A user interface for libvips.
 
 - [getting started](https://www.youtube.com/watch?v=laS5SZzdnAE)
 	- [ Assembling Marble Earth](http://libvips.blogspot.com/2011/08/assembling-marble-earth.html)
+    - [Animated clustering](http://libvips.blogspot.com/2011/08/animated-clustering.html)
 - [nip2 as a GUI for ImageMagick](http://libvips.blogspot.com/2011/04/nip2-as-gui-for-imagemagick.html)
 
 ## Doc
