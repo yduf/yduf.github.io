@@ -15,3 +15,6 @@ tags: image lib ruby c++
 - [Some newbie questions on how to do things with libvips](https://github.com/libvips/libvips/issues/1449)
 
 - [ruby-vips example](https://github.com/libvips/ruby-vips/wiki/Examples) / [code](https://github.com/libvips/ruby-vips/tree/master/example)
+
+## [nip2](https://github.com/libvips/nip2)
+a user interface for libvips
