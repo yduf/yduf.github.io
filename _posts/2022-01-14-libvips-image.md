@@ -23,7 +23,6 @@ A user interface for libvips.
 - [Hello World](https://github.com/libvips/libvips/wiki/Hello-World)
 - [How libvips opens a file](http://libvips.blogspot.com/2012/06/how-libvips-opens-file.html)
 	- [Sequential mode read](http://libvips.blogspot.com/2012/02/sequential-mode-read.html) - Not all operations need random access to their source pixels. For example, thumbnailing, the process of shrinking images for display, can work strictly top-to-bottom.
-		- [vipsthumbnail](http://www.manpagez.com/man/1/vipsthumbnail/)
 
 - Full bindings are available for [Ruby](https://github.com/libvips/ruby-vips)
 	- [New API takes shape](http://libvips.blogspot.com/2011/03/new-api-takes-shape.html)
@@ -37,8 +36,12 @@ A user interface for libvips.
 - [filters like sepia, black-white](https://github.com/libvips/php-vips/issues/104)
 	- [New colour package](http://libvips.blogspot.com/2012/11/new-colour-package.html)
 	- [autodetect CMYK and convert to sRGB JPEG](http://libvips.blogspot.com/2011/12/task-of-day-autodetect-cmyk-and-convert.html)
+    
 - [HOWTO Image shrinking](https://github.com/libvips/libvips/wiki/HOWTO----Image-shrinking)
+	- [thumbnail](https://libvips.github.io/pyvips/vimage.html#pyvips.Image.thumbnail)
+		- [vipsthumbnail](http://www.manpagez.com/man/1/vipsthumbnail/)
 	- [Different resize issues](https://github.com/libvips/pyvips/issues/148)
+
 - [Some newbie questions on how to do things with libvips](https://github.com/libvips/libvips/issues/1449)
 
 - [Making DeepZoom, Zoomify and Google Maps image pyramids with vips](http://libvips.blogspot.com/2013/03/making-deepzoom-zoomify-and-google-maps.html)
