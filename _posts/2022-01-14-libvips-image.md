@@ -6,7 +6,7 @@ tags: image lib ruby c++
 > a demand-driven, [horizontally threaded](https://github.com/libvips/libvips/wiki/Why-is-libvips-quick) image processing library. Compared to similar libraries, libvips runs quickly and uses little memory. - [**libVIPS**](https://www.libvips.org/) / [blog](http://libvips.blogspot.com/)
 
 ## [nip2](https://github.com/libvips/nip2)
-A user interface for libvips
+A user interface for libvips.
 
 - [getting started](https://www.youtube.com/watch?v=laS5SZzdnAE)
 
