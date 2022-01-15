@@ -46,3 +46,8 @@ A user interface for libvips.
 - [Some newbie questions on how to do things with libvips](https://github.com/libvips/libvips/issues/1449)
 
 - [Making DeepZoom, Zoomify and Google Maps image pyramids with vips](http://libvips.blogspot.com/2013/03/making-deepzoom-zoomify-and-google-maps.html)
+
+
+### [VIPS images](https://www.libvips.org/API/current/VipsImage.html)
+
+VIPS images are three-dimensional arrays, the dimensions being width, height and bands
