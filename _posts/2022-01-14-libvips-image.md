@@ -9,10 +9,12 @@ tags: image lib ruby c++
 A user interface for libvips.
 
 - [getting started](https://www.youtube.com/watch?v=laS5SZzdnAE)
+- [nip2 as a GUI for ImageMagick](http://libvips.blogspot.com/2011/04/nip2-as-gui-for-imagemagick.html)
 
 ## Doc
 - [Hello World](https://github.com/libvips/libvips/wiki/Hello-World)
 - Full bindings are available for [Ruby](https://github.com/libvips/ruby-vips)
+	- [New API takes shape](http://libvips.blogspot.com/2011/03/new-api-takes-shape.html)
 - [Fancy transforms](http://libvips.blogspot.com/2015/11/fancy-transforms.html)
 - [trim (auto crop) with ruby-vips](http://libvips.blogspot.com/2014/02/trim-auto-crop-with-ruby-vips.html?view=sidebar)
 
