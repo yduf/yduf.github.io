@@ -23,7 +23,7 @@ A user interface for libvips.
 ## [Doc](https://www.libvips.org/API/current/) / [c++](https://www.libvips.org/API/8.11/cpp/) / [SO](https://stackoverflow.com/questions/tagged/vips)
 - [Hello World](https://github.com/libvips/libvips/wiki/Hello-World)
 - [How libvips opens a file](http://libvips.blogspot.com/2012/06/how-libvips-opens-file.html)
-	- [Sequential mode read](http://libvips.blogspot.com/2012/02/sequential-mode-read.html) - Not all operations need random access to their source pixels. For example, thumbnailing, the process of shrinking images for display, can work strictly top-to-bottom. / [has some constraint](https://github.com/libvips/libvips/issues/91#issuecomment-31195517)
+	- [Sequential mode read](http://libvips.blogspot.com/2012/02/sequential-mode-read.html) - Not all operations need random access to their source pixels. For example, thumbnailing, the process of shrinking images for display, can work strictly top-to-bottom. / [has rereading constraint](https://github.com/libvips/libvips/issues/91#issuecomment-31195517)
 
 - Full bindings are available for [Ruby](https://github.com/libvips/ruby-vips)
 	- [New API takes shape](http://libvips.blogspot.com/2011/03/new-api-takes-shape.html)
