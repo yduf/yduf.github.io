@@ -1,11 +1,11 @@
 ---
 published: true
-tags: arduino linux
+tags: arduino linux vscode
 ---
 > I choosed to use [Platform.io](http://platformio.org/get-started).
 Which look more modern than others. Setup and installation was straightforward. work on VSCode.
 
-- [Teleplot sous VSCode](https://www.youtube.com/watch?v=WXnf0qHZEUs)
+- [Teleplot sous VSCode](https://www.youtube.com/watch?v=WXnf0qHZEUs) - trace des courbes a partir des données provenant de la console série arduino
 
 A lot of tutorials are available on [Adafruit](https://learn.adafruit.com/category/learn-arduino) and [www.arduino.cc](https://www.arduino.cc/en/Tutorial/HomePage). For eg:
 - [reading analog input](https://www.arduino.cc/en/Tutorial/AnalogInput),
