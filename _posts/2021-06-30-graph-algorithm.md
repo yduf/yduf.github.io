@@ -16,3 +16,4 @@ tags: graph algorithm c++
 ## See also:
 - [The Boost Graph Library (BGL)](https://www.boost.org/doc/libs/1_76_0/libs/graph/doc/index.html)
     - [Parallel Boost Graph Library](https://www.boost.org/doc/libs/1_76_0/libs/graph_parallel/doc/html/index.html)
+- [	Handbook of Graph Drawing and Visualization](https://news.ycombinator.com/item?id=29734063)
