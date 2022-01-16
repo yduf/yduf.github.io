@@ -11,3 +11,8 @@ tags: cam cnc freecad
     - operations / simulation
 - [CAM Setup and Cutting](https://www.youtube.com/watch?v=Aif-bTEMuWY&list=LL&index=49)
 	- dress tags
+
+- [CNC with FreeCAD: CAD + CAM workflow](https://www.youtube.com/watch?v=V5ZTPModuMI)
+	- How to use the alias macro
+    - The Paths feeds and speeds addon
+    - Generic feeds and speeds from Sorotec (in German)
