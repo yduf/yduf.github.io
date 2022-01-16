@@ -69,6 +69,7 @@ You can't really iterate over pixels in libvips, since images don't really exist
 
 For eg:
 {% highlight cpp %}
+uint64_t dhash( VImage hash ) {
     auto w = hash.width();
     auto h = hash.height();
     cout << "w: " << w << " h: " << h << "band: " << hash.bands() << "\n";
@@ -84,6 +85,7 @@ For eg:
         }
     }
     return hash_value;
+}
 {% endhighlight %}
 
 Note: it is much faster to do that than accessing pixels through vips_getpoint()
