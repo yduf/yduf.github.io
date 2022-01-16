@@ -10,5 +10,6 @@ see also
 - [Drill through anything (conductive) with Electrical Discharge Machining](https://www.youtube.com/watch?v=rpHYBz7ToII)
 
 - [DIY Wire EDM Machine](https://www.youtube.com/watch?v=2ewSbI52ICc)
+- [Introduction to Electrical Discharge Machining](https://www.youtube.com/watch?v=j1wM6i-goEg)
 
 [![caption](https://img.youtube.com/vi/feGrx29XR4Q/0.jpg)](https://www.youtube.com/watch?v=feGrx29XR4Q)
