@@ -69,7 +69,7 @@ You can't really iterate over pixels in libvips, since images don't really exist
 
 For eg:
 
-From 8.4
+From [version 8.4](https://github.com/libvips/libvips/issues/494#issuecomment-235858208)
 
 {% highlight cpp %}
 uint64_t dhash( VImage hash ) {
