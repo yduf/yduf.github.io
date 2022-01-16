@@ -68,6 +68,31 @@ VIPS images are three-dimensional arrays, the dimensions being width, height and
 You can't really iterate over pixels in libvips, since images don't really exist. Everything is a delayed computation and pixels only exist on demand. You can either implement a new vips operation, or render the whole image to an area of memory and then treat it like any other array. Have a look at [vips_image_write_to_memory()](https://www.libvips.org/API/current/VipsImage.html#vips-image-write-to-memory).
 
 For eg:
+
+From 8.4
+
+{% highlight cpp %}
+uint64_t dhash( VImage hash ) {
+    VImage cache = VImage::new_memory();
+    hash[0].write( cache);
+    auto* p = (uint8_t*) cache.data();
+
+	uint64_t hash_value = 0;
+
+    for (int j = 0; j < h; j++) {
+        for (int i = 0; i < w; i++) {
+            hash_value <<= 1;
+            hash_value |= *p++ > 0 ? 1 : 0; 
+        }
+    }
+
+    return hash_value;
+}
+
+{% endhighlight %}
+
+before
+
 {% highlight cpp %}
 uint64_t dhash( VImage hash ) {
     auto w = hash.width();
