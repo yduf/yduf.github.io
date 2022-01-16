@@ -49,6 +49,12 @@ A user interface for libvips.
 
 ## [Internals](https://www.libvips.org/API/current/How-it-works.md.html)
 
+### [C++](https://github.com/libvips/libvips/tree/master/cplusplus)
+
+- The API overloads () to be [vips_getpoint()](https://www.libvips.org/API/current/libvips-arithmetic.html#vips-getpoint)
+
+- The API overloads [] to be vips_extract_band()
+
 ### [VIPS images](https://www.libvips.org/API/current/VipsImage.html) / [c++](https://www.libvips.org/API/8.11/cpp/classVImage.html)
 
 VIPS images are three-dimensional arrays, the dimensions being width, height and bands
@@ -56,6 +62,10 @@ VIPS images are three-dimensional arrays, the dimensions being width, height and
 - [crop](https://www.libvips.org/API/8.11/cpp/classVImage.html#a0cd5e66c9394d4dc5e3dabbef97553fc) synonym for [extract_area](https://www.libvips.org/API/8.11/cpp/classVImage.html#acae0a58b8b3590725b5b2d11694f3dde) - Extract an area from an image.
 - [data](https://www.libvips.org/API/8.11/cpp/classVImage.html#acff02c37a612a932bb1838b352fd0a7e) - Arrange for the underlying object to be entirely in memory, then return a pointer to the first pixel.
 
+
+### [Iterate over pixel](https://github.com/libvips/libvips/issues/2260)
+
+You can't really iterate over pixels in libvips, since images don't really exist. Everything is a delayed computation and pixels only exist on demand. You can either implement a new vips operation, or render the whole image to an area of memory and then treat it like any other array. Have a look at [vips_image_write_to_memory()](https://www.libvips.org/API/current/VipsImage.html#vips-image-write-to-memory).
 
 ### [VIPS History](https://github.com/libvips/libvips/wiki/VIPS-History)
 
