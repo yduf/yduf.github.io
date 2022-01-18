@@ -17,6 +17,12 @@ What I would expect is more something in the line of [this](https://stackoverflo
 > if you want the closest entry, you need to check both the returned entry and the one before and compare the differences.
 
 which should translate more or less to this:
+for [10,13,17]
+- when asking for 13, ok got [13,13[
+- when asking for 14, then got [13,17[
+- when asking for 18, then got [17,end[
+- when asking for 9, then got [10,10[ - which is less than ideal, but work in my specific case
+
 {% highlight cpp %}
 template<class T>
 auto bound( int pos, map<int,T>& m) {
