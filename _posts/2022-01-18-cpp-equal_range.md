@@ -16,7 +16,7 @@ auto [first, last] = std::equal_range(std::cbegin(v), std::cend(v), 4);
 What I would expect is more something in the line of [this](https://stackoverflow.com/a/28405093/51386):
 > if you want the closest entry, you need to check both the returned entry and the one before and compare the differences.
 
-which should translate to this:
+which should translate more or less to this:
 {% highlight cpp %}
 template<class T>
 auto bound( int pos, map<int,T>& m) {
