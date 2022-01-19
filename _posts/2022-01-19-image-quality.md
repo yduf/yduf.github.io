@@ -3,7 +3,7 @@ published: true
 title: Compare Image Quality
 tags: image jpeg algorithm
 ---
-> you have 2 equal images in files, you don't have a reference highest quality image and you want to keep the better one of the two. - [SE](https://photo.stackexchange.com/questions/75995/how-do-i-compare-two-similar-images-sharpness/117823#117823)
+> You have 2 equal images in files, you don't have a reference highest quality image and you want to keep the better one of the two? - [SE](https://photo.stackexchange.com/questions/75995/how-do-i-compare-two-similar-images-sharpness/117823#117823)
 
 
 - Resize to the bigger size & re-compress both images with exactly same quality preset, grayscale conversion, using JPEG or better algorithm.
