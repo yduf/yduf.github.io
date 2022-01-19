@@ -17,3 +17,6 @@ Often the image compression preset is different for the different files so the i
 ### When this will fail
 
 if one of the images is with applied noise filter - some photographers add noise when retoutching their photos to increase their "ART" value. The noise is hardly compressible and is perceived by the JPEG codec/compressor as higher level of detail, so will yield a bigger file.
+
+- [Noise Estimation / Noise Measurement in Image](https://stackoverflow.com/questions/35640108/is-there-a-way-to-evaluate-how-much-noise-it-is-on-a-image-in-opencv)
+	- [Noise Estimation / Noise Measurement in Image](https://stackoverflow.com/questions/2440504/noise-estimation-noise-measurement-in-image)
