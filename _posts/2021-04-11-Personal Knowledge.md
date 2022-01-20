@@ -9,6 +9,7 @@ tags: blog knowledge mental-model search archive
 
 ## [How to organize personal knowledge?](https://news.ycombinator.com/item?id=17892731)
 
+- [	Logseq ](https://news.ycombinator.com/item?id=25090176) – privacy-first, open-source knowledge sharing and management platform
 - [dendron](https://www.dendron.so/) a local-first, markdown based, hierarchical note-taking application built on top of VSCode and friends. / [HN](https://news.ycombinator.com/item?id=26491764) / [2](https://news.ycombinator.com/item?id=29998680)
 	- alternative to [Obsidian](https://obsidian.md/)
 - [Foam](https://foambubble.github.io/foam/) / [HN](https://news.ycombinator.com/item?id=25760066)
