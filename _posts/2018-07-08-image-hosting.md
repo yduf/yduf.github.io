@@ -11,7 +11,7 @@ pros:
 - [	Deploy a website on imgur.com](https://news.ycombinator.com/item?id=28431716) - using web2img to bundle the site
 
 cons:
-- their explicitly say _don't use Imgur to host image libraries you link to from elsewhere_
+- their explicitly say: _don't use Imgur to host image libraries you link to from elsewhere_
 
 ### [github]({% post_url 2020-10-16-github %})
 - see [hosting image]({% post_url 2020-10-16-github %}#hosting-image)
