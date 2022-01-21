@@ -1,7 +1,7 @@
 ---
 title: Online image store
 published: true
-tags: image online
+tags: image online web
 ---
 > Five Best Image Hosting Web Sites - [contender](https://lifehacker.com/5808625/five-best-web-sites-for-image-hosting-and-photo-sharing/)
 
@@ -12,6 +12,8 @@ pros:
 
 cons:
 - their explicitly say _don't use Imgur to host image libraries you link to from elsewhere_
+
+### [github]({% post_url 2020-10-16-github %})
 
 ### tumblr (Oath = Yahoo + AOL + Verizon)
  keep copyright on content.
