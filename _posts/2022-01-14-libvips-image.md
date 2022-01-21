@@ -39,9 +39,9 @@ A user interface for libvips.
 	- [autodetect CMYK and convert to sRGB JPEG](http://libvips.blogspot.com/2011/12/task-of-day-autodetect-cmyk-and-convert.html)
     
 - [HOWTO Image shrinking](https://github.com/libvips/libvips/wiki/HOWTO----Image-shrinking)
-	- [thumbnail](https://www.libvips.org/API/current/libvips-resample.html#vips-thumbnail)
-		- [vipsthumbnail](http://www.manpagez.com/man/1/vipsthumbnail/)
+	- [vips_thumbnail ()](https://www.libvips.org/API/current/libvips-resample.html#vips-thumbnail)
         - [Don't use thumbnail_image](https://github.com/libvips/pyvips/issues/168#issuecomment-609689396). - Because the image has already been opened, it can't do any of the shrink-on-load tricks that help make thumbnail fast.
+		- [vipsthumbnail](http://www.manpagez.com/man/1/vipsthumbnail/)
 	- [Different resize issues](https://github.com/libvips/pyvips/issues/148)
 
 - [Some newbie questions on how to do things with libvips](https://github.com/libvips/libvips/issues/1449)
