@@ -8,8 +8,7 @@ tags: image online
 ### imgur
 pros:
 - easy to share screenchots using [Flameshot]({% post_url 2021-02-13-screenshot-flameshot %})
-- can be abused? see [	Deploy a website on imgur.com](https://news.ycombinator.com/item?id=28431716)
-
+- [	Deploy a website on imgur.com](https://news.ycombinator.com/item?id=28431716)
 
 cons:
 - their explicitly say _don't use Imgur to host image libraries you link to from elsewhere_
