@@ -41,6 +41,7 @@ A user interface for libvips.
 - [HOWTO Image shrinking](https://github.com/libvips/libvips/wiki/HOWTO----Image-shrinking)
 	- [thumbnail](https://www.libvips.org/API/current/libvips-resample.html#vips-thumbnail)
 		- [vipsthumbnail](http://www.manpagez.com/man/1/vipsthumbnail/)
+        - [Don't use thumbnail_image. Because the image has already been opened, it can't do any of the shrink-on-load tricks that help make thumbnail fast.](https://github.com/libvips/pyvips/issues/168#issuecomment-609689396)
 	- [Different resize issues](https://github.com/libvips/pyvips/issues/148)
 
 - [Some newbie questions on how to do things with libvips](https://github.com/libvips/libvips/issues/1449)
