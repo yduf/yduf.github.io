@@ -14,6 +14,7 @@ cons:
 - their explicitly say _don't use Imgur to host image libraries you link to from elsewhere_
 
 ### [github]({% post_url 2020-10-16-github %})
+- see [hosting image]({% post_url 2020-10-16-github %}#hosting-image)
 
 ### tumblr (Oath = Yahoo + AOL + Verizon)
  keep copyright on content.
