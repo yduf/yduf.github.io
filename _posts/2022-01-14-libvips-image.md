@@ -46,6 +46,7 @@ A user interface for libvips.
 ## [Internals](https://www.libvips.org/API/current/How-it-works.md.html)
 
 ### [Ruby](https://github.com/libvips/ruby-vips)
+
 Full bindings are available for 
 - [New API takes shape](http://libvips.blogspot.com/2011/03/new-api-takes-shape.html)
 - [ watermarking with ruby-vips](http://libvips.blogspot.com/2013/07/watermarking-with-ruby-vips.html)
