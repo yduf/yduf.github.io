@@ -25,11 +25,6 @@ A user interface for libvips.
 - [How libvips opens a file](http://libvips.blogspot.com/2012/06/how-libvips-opens-file.html)
 	- [Sequential mode read](http://libvips.blogspot.com/2012/02/sequential-mode-read.html) - Not all operations need random access to their source pixels. For example, thumbnailing, the process of shrinking images for display, can work strictly top-to-bottom. [**But this has re-reading constraint**](https://github.com/libvips/libvips/issues/91#issuecomment-31195517)
 
-- Full bindings are available for [Ruby](https://github.com/libvips/ruby-vips)
-	- [New API takes shape](http://libvips.blogspot.com/2011/03/new-api-takes-shape.html)
-	- [ watermarking with ruby-vips](http://libvips.blogspot.com/2013/07/watermarking-with-ruby-vips.html)
-	- [ruby-vips example](https://github.com/libvips/ruby-vips/wiki/Examples) / [code](https://github.com/libvips/ruby-vips/tree/master/example)
-
 - [Contrast-Limited Adaptive Histogram Equalisation](http://libvips.blogspot.com/2017/03/whats-new-in-85.html?view=timeslide)
 - [Fancy transforms](http://libvips.blogspot.com/2015/11/fancy-transforms.html)
 - [trim (auto crop) with ruby-vips](http://libvips.blogspot.com/2014/02/trim-auto-crop-with-ruby-vips.html?view=sidebar)
@@ -49,6 +44,12 @@ A user interface for libvips.
 - [Making DeepZoom, Zoomify and Google Maps image pyramids with vips](http://libvips.blogspot.com/2013/03/making-deepzoom-zoomify-and-google-maps.html)
 
 ## [Internals](https://www.libvips.org/API/current/How-it-works.md.html)
+
+### [Ruby](https://github.com/libvips/ruby-vips)
+Full bindings are available for 
+- [New API takes shape](http://libvips.blogspot.com/2011/03/new-api-takes-shape.html)
+- [ watermarking with ruby-vips](http://libvips.blogspot.com/2013/07/watermarking-with-ruby-vips.html)
+- [ruby-vips example](https://github.com/libvips/ruby-vips/wiki/Examples) / [code](https://github.com/libvips/ruby-vips/tree/master/example)
 
 ### [C++](https://github.com/libvips/libvips/tree/master/cplusplus)
 
