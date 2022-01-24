@@ -1,6 +1,6 @@
 ---
 published: true
-title: Iterate over Hash (C++)
+title: Iterate over Dictionnary (C++)
 tags: c++ loop iterate tuple hash
 ---
 {% highlight cpp %}
