@@ -53,13 +53,39 @@ Perform an arithmetic operation, such as addition, on every pixel in an image or
 
 - [new_matrix()](https://www.libvips.org/API/8.11/cpp/classVImage.html#ac4166259736c14dbd799b7ca98c5a72d)
 
+{% highlight cpp %}
+int akernel[] = { -1, -1, -1,
+                -1, 16, -1,
+                -1, -1, -1 };
+
+VImage kernel = VImage::new_from_memory( akernel, sizeof(akernel), 
+                                        3, 3, 1, VIPS_FORMAT_INT);
+
+VImage conv = in.colourspace(VIPS_INTERPRETATION_sRGB, 
+                                VImage::option()
+                                ->set ("source_space", VIPS_INTERPRETATION_B_W)
+                                )
+                    .conv( kernel );
+{% endhighlight %}
 
 
 ## [Internals](https://www.libvips.org/API/current/How-it-works.md.html)
 
 ### [pyvips](https://github.com/libvips/pyvips)
 
+{% highlight python %}
+import pyvips
 
+image = pyvips.Image.new_from_file('some-image.jpg', access='sequential')
+image *= [1, 2, 1]
+mask = pyvips.Image.new_from_array([[-1, -1, -1],
+                                    [-1, 16, -1],
+                                    [-1, -1, -1]
+                                   ], scale=8)
+image = image.conv(mask, precision='integer')
+image.write_to_file('x.jpg')
+
+{% endhighlight %}
 
 
 ### [Ruby](https://github.com/libvips/ruby-vips)
