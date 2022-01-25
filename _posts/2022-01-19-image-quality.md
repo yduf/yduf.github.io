@@ -20,3 +20,4 @@ if one of the images is with applied noise filter - some photographers add noise
 
 - [Noise Estimation / Noise Measurement in Image](https://stackoverflow.com/questions/35640108/is-there-a-way-to-evaluate-how-much-noise-it-is-on-a-image-in-opencv)
 	- [Noise Estimation / Noise Measurement in Image](https://stackoverflow.com/questions/2440504/noise-estimation-noise-measurement-in-image)
+    	- [A Fast Method For Image Noise Estimation Using Laplacian Operator and Adaptive Edge Detection](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.173.1644&rep=rep1&type=pdf)
