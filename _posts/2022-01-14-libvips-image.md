@@ -50,7 +50,6 @@ Perform an arithmetic operation, such as addition, on every pixel in an image or
 ### Defining Matrix
 
 {% highlight cpp %}
-
    int akernel[] = { -1, -1, -1,
                     -1, 16, -1,
                     -1, -1, -1 };
