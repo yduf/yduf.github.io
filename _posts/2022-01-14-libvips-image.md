@@ -43,7 +43,28 @@ A user interface for libvips.
 
 - [Making DeepZoom, Zoomify and Google Maps image pyramids with vips](http://libvips.blogspot.com/2013/03/making-deepzoom-zoomify-and-google-maps.html)
 
+### [Image arithmetic](https://www.libvips.org/API/current/libvips-arithmetic.html)
+
+Perform an arithmetic operation, such as addition, on every pixel in an image or a pair of images. 
+
 ## [Internals](https://www.libvips.org/API/current/How-it-works.md.html)
+
+### [ pyvips](https://github.com/libvips/pyvips)
+
+{% highlight python %}
+import pyvips
+
+image = pyvips.Image.new_from_file('some-image.jpg', access='sequential')
+image *= [1, 2, 1]
+mask = pyvips.Image.new_from_array([[-1, -1, -1],
+                                    [-1, 16, -1],
+                                    [-1, -1, -1]
+                                   ], scale=8)
+image = image.conv(mask, precision='integer')
+image.write_to_file('x.jpg')
+
+{% endhighlight %}
+
 
 ### [Ruby](https://github.com/libvips/ruby-vips)
 
