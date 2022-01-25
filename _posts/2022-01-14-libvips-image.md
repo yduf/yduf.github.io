@@ -47,6 +47,8 @@ A user interface for libvips.
 
 Perform an arithmetic operation, such as addition, on every pixel in an image or a pair of images. 
 
+- [vips_project](https://www.libvips.org/API/current/libvips-arithmetic.html#vips-project) - the sum of every row of pixels, and the sum of every column of pixels.
+
 ### Defining Matrix
 
 {% highlight cpp %}
