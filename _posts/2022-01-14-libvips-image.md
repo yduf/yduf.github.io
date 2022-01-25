@@ -47,6 +47,19 @@ A user interface for libvips.
 
 Perform an arithmetic operation, such as addition, on every pixel in an image or a pair of images. 
 
+### Defining Matrix
+
+{% highlight cpp %}
+
+   int akernel[] = { -1, -1, -1,
+                    -1, 16, -1,
+                    -1, -1, -1 };
+
+   VImage kernel = VImage::new_from_memory( akernel, sizeof(akernel), 
+                                            3, 3, 1, VIPS_FORMAT_INT);
+{% endhighlight %}
+
+
 ## [Internals](https://www.libvips.org/API/current/How-it-works.md.html)
 
 ### [ pyvips](https://github.com/libvips/pyvips)
