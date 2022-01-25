@@ -56,6 +56,12 @@ Perform an arithmetic operation, such as addition, on every pixel in an image or
 
    VImage kernel = VImage::new_from_memory( akernel, sizeof(akernel), 
                                             3, 3, 1, VIPS_FORMAT_INT);
+                                            
+   VImage conv = in.colourspace(VIPS_INTERPRETATION_sRGB, 
+                                 VImage::option()
+                                    ->set ("source_space", VIPS_INTERPRETATION_B_W)
+                                  )
+                      .conv( kernel );
 {% endhighlight %}
 
 
