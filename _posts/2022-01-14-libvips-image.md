@@ -90,6 +90,7 @@ Full bindings are available for
 - [New API takes shape](http://libvips.blogspot.com/2011/03/new-api-takes-shape.html)
 - [ watermarking with ruby-vips](http://libvips.blogspot.com/2013/07/watermarking-with-ruby-vips.html)
 - [ruby-vips example](https://github.com/libvips/ruby-vips/wiki/Examples) / [code](https://github.com/libvips/ruby-vips/tree/master/example)
+	- [Are there any good examples of usage?](https://stackoverflow.com/questions/10709995/ruby-vips-image-processing-library-are-there-any-good-examples-of-usage/10710337#10710337)
 
 ### [C++](https://github.com/libvips/libvips/tree/master/cplusplus)
 
