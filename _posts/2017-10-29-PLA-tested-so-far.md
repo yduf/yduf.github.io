@@ -29,7 +29,7 @@ PLA tested so far -- 1.75mm
 - [Obstinate Orange (0.75kg)](https://www.amazon.fr/gp/product/B017HAIB1A/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) - nice color  
 	- 200..215° / bed 60° => WAIT FOR BED TEMP + lack ortherwise does not stick well to glass
 
-### [Sunlu](https://www.serial-testeur.com/en/sunlu-pla-filament-test-of-the-complete-collection-or-almost/)
+### [Sunlu](https://www.serial-testeur.com/en/sunlu-pla-filament-test-of-the-complete-collection-or-almost/) / [thingiverse](https://www.thingiverse.com/thing:5210727/comments)
 - [PLA+ White ](https://www.amazon.fr/gp/product/B07XFL3XB9/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) - [210° / 60°](https://www.thingiverse.com/groups/creality-cr-10/forums/general/topic:41698)
 
 ### [Heliox used](https://www.youtube.com/c/HelioxLab/videos)
