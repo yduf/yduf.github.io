@@ -14,6 +14,7 @@ Run as [docker Image](https://github.com/OctoPrint/octoprint-docker)
 	- [Finding Serial port]({% post_url 2020-10-30-raspberry-pi %}#finding-serial-ports)
     	- [Cannot access mounted pts device inside container
 #77](https://github.com/docker/for-linux/issues/77#issuecomment-456665543) - workaround is to expose them as volume (eg for Klipper )
+	- [Docker on embedded systems, why not?](https://stackoverflow.com/questions/34010832/docker-on-embedded-systems-why-not)
 
 ## [OctoDash]({% post_url 2020-11-22-pi-dashboard %})
 onboard touchs-screen UI.
