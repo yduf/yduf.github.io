@@ -26,3 +26,7 @@ v4l2-ctl --device=/dev/video0 --all
 v4l2-ctl --list-formats
 v4l2-ctl --list-formats-ext
 {% endhighlight %}
+
+see also
+- [Pi Cam]({% post_url 2021-10-03-pi-cam %})
+- [Stream MJPG Video]({% post_url 2020-07-23-ustreamer %})
