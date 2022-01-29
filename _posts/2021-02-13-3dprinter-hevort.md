@@ -34,6 +34,8 @@ the lower, the better; ex:
 - [DIY CoreXY Linear Rails upgrades for Ender 5 Pro, almost turn it into an Ender 7 for $100](https://www.youtube.com/watch?v=JEYs4wS5M0Y&list=LL&index=4)
 - [Ender 5 MK3 Conversion](https://www.youtube.com/watch?v=fhZTwQc_9Uo&list=LL&index=5) / [thingiverse](https://www.thingiverse.com/thing:5157811)
 
+- [Ender 6](https://www.amazon.fr/Imprimante-Creality-dimpression-silencieuse-Nouvellement/dp/B08MQ2NBXS/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3CN8NCG8ZFNMA&keywords=ender%2B6&qid=1643478583&sprefix=ender%2B6%2Caps%2C182&sr=8-1&th=1) / [darty](https://www.darty.com/nav/achat/informatique/imprimante_scanner/imprimante/creality_imprimante_3d_creality_a_structure_cubique_amelioree_ender_6_250_250_400mm_grande_taille_d_imprimante_ecran_tactile_couleur_hd_4_3_pouces__MK765783144.html)
+
 ## [Kit](https://www.drdflo.com/pages/Guides/Best-DIY-FFF-3D-Printers.html)
 - [VORON 2.4](https://fr.aliexpress.com/item/1005002884673471.html?spm=a2g0o.detail.1000014.57.4e2c5e30nXUFKP&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.177756.0&scm_id=1007.13338.177756.0&scm-url=1007.13338.177756.0&pvid=6b947754-7f54-4bcc-bd5a-87364fc2501c&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.13338.177756.0,pvid:6b947754-7f54-4bcc-bd5a-87364fc2501c,tpp_buckets:668%232846%238107%231934&pdp_ext_f=%7B%22sku_id%22:%2212000022612142288%22,%22sceneId%22:%2223416%22%7D)
 
