@@ -27,6 +27,13 @@ v4l2-ctl --list-formats
 v4l2-ctl --list-formats-ext
 {% endhighlight %}
 
+## Config
+- [usb webcam with V4L](http://www.pobot.org/Vision-par-webcam-avec-une.html?lang=fr)
+- [MJPG streamer config](https://github.com/foosel/OctoPrint/wiki/Webcams-known-to-work)
+
+Camera without MPG support mais work with "-r VGA -y" parameters
+see /root/bin/webcamd and [configurations](https://github.com/foosel/OctoPrint/wiki/MJPG-Streamer-configuration)
+
 see also
 - [Pi Cam]({% post_url 2021-10-03-pi-cam %})
 - [Stream MJPG Video]({% post_url 2020-07-23-ustreamer %})
