@@ -26,6 +26,11 @@ tags: 3dprinter
 ### Converted [Ender 5](https://www.youtube.com/watch?v=fxFLkqD6QTU)
 The cheapest ?
 
+Formula for comparison is : price$ / (build volume mm) * 10 000 
+the lower, the better; ex:
+- ender 5: 175 / (220*220*300) * 10 000 = 1.2
+- ender 3: 175 / (220*220*250) * 10 000 = 1.4
+
 - [DIY CoreXY Linear Rails upgrades for Ender 5 Pro, almost turn it into an Ender 7 for $100](https://www.youtube.com/watch?v=JEYs4wS5M0Y&list=LL&index=4)
 - [Ender 5 MK3 Conversion](https://www.youtube.com/watch?v=fhZTwQc_9Uo&list=LL&index=5) / [thingiverse](https://www.thingiverse.com/thing:5157811)
 
