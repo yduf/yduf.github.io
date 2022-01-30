@@ -32,8 +32,8 @@ The cheapest ?
 
 Formula for comparison is : price$ / (build volume mm) * 10 000 
 the lower, the better; ex:
-- ender 5: 175 / (220*220*300) * 10k = 1.2
-- ender 3: 175 / (220*220*250) * 10k = 1.4
+- ender 5: 175 / (220*220*300) * 10k = 1.2 - old card
+- ender 3: 175 / (220*220*250) * 10k = 1.4 - old card
 - [ender 6](https://www.creality.com/goods-detail/ender-6-3d-printer): 414 / (250*250*400) * 10k = 1.6
 
 - [DIY CoreXY Linear Rails upgrades for Ender 5 Pro, almost turn it into an Ender 7 for $100](https://www.youtube.com/watch?v=JEYs4wS5M0Y&list=LL&index=4)
