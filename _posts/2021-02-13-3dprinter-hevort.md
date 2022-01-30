@@ -46,6 +46,8 @@ the lower, the better; ex:
 - [Ender 6 Complete Linear Rails Mod](https://www.thingiverse.com/thing:4757747/remixes)
 - [Ender 6 upgrade](https://3dprintbeginner.com/creality-ender-6-upgrades-paid-and-free/)
 
+- [Belt Tensioning and Replacement Belt Source](https://www.reddit.com/r/ender6/comments/prxn5o/belt_tensioning_and_replacement_belt_source/)
+
 ## [Kit](https://www.drdflo.com/pages/Guides/Best-DIY-FFF-3D-Printers.html)
 - [VORON 2.4](https://fr.aliexpress.com/item/1005002884673471.html?spm=a2g0o.detail.1000014.57.4e2c5e30nXUFKP&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.177756.0&scm_id=1007.13338.177756.0&scm-url=1007.13338.177756.0&pvid=6b947754-7f54-4bcc-bd5a-87364fc2501c&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.13338.177756.0,pvid:6b947754-7f54-4bcc-bd5a-87364fc2501c,tpp_buckets:668%232846%238107%231934&pdp_ext_f=%7B%22sku_id%22:%2212000022612142288%22,%22sceneId%22:%2223416%22%7D)
 
