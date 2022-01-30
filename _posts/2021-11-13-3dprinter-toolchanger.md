@@ -8,4 +8,4 @@ tags: 3dprinter
 see also
 - [Prusa XL](https://www.prusa3d.com/product/original-prusa-xl-2/)
 - [E3D Motion System and ToolChanger](https://e3d-online.com/pages/toolchanger?aff=9)
-- [XChange V1.0 - Quick-Change Tool System](https://printermods.com/products/xchange-v1-0-3d-printer-quick-tool-changer-system?variant=41988467032300)
+- [XChange V1.0 - Quick-Change Tool System](https://printermods.com/products/xchange-v1-0-3d-printer-quick-tool-changer-system?variant=41988467032300) / [video](https://www.youtube.com/watch?v=EVjchMw8L7Q)
