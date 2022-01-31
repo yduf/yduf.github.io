@@ -20,5 +20,4 @@ tags: arduino stepper motor robot
 
 ### [Thingiverse](https://www.thingiverse.com/search?q=28BYJ-48&dwh=385e0cfd20abe81)
 - [Linear mechanism](https://www.thingiverse.com/thing:2707156)
-
-- [direct drive][https://www.thingiverse.com/thing:3432494)
+- [direct drive](https://www.thingiverse.com/thing:3432494)
