@@ -41,7 +41,7 @@ the lower, the better; ex:
 
 [review](https://3dprintbeginner.com/creality-ender-6-review/) / [assembly](https://forums.creality3dofficial.com/my-ender-6-assembly-process/)
 - [Ender 6 upgrade](https://3dprintbeginner.com/creality-ender-6-upgrades-paid-and-free/)
-
+- [Ender 6 Extruder Relocation](https://marksmakerspace.com/3dprinting/ender6-extruder-move.html)
 - [Ender 6 Klipper + BL-Touch ](https://www.smith3d.com/ender-6-klipper-bl-touch/) / [2](https://3dprintbeginner.com/how-to-install-klipper-on-creality-ender-6/)
 - [Ender 6 linear rail (Y)](https://www.thingiverse.com/thing:4757747)
 - [Ender 6 Complete Linear Rails Mod](https://www.thingiverse.com/thing:4757747/remixes)
