@@ -9,13 +9,18 @@ tags: raspberry-pi hardware arm
 <link rel="shortcut icon" href="https://www.raspberrypi.org/app/themes/mind-control/images/favicon.png" type="image/png" />
 {:/}
 
-## [Finding Serial ports](https://www.klipper3d.org/FAQ.html#wheres-my-serial-port)
+## USB
+### [Finding Serial ports](https://www.klipper3d.org/FAQ.html#wheres-my-serial-port)
 - `ls /dev/serial/by-id/*` -> **this is stable**
 - `lsusb` -> USB-Serial adapter
 - `dmesg | grep -i serial` -> 3f201000.serial: ttyAMA0
 - [What is the difference between ttys0, ttyUSB0 and ttyAMA0?](https://unix.stackexchange.com/questions/307390/what-is-the-difference-between-ttys0-ttyusb0-and-ttyama0-in-linux)
 	- **ttyAMA0** is the device for the first serial port on ARM architecture. ttyAMA0 can be the Tx, Rx pins for the Raspberry. But for the [*Raspberry Pi 3b*](ttyAMA0 can be the Tx, Rx pins for the Raspberry. But for the Raspberry Pi 3b it was used for the Bluetooth.) it was used for the **Bluetooth**.
     - **ttyUSB0** is the device for the first USB serial convertor.
+
+### [turn off power to it’s USB ports](https://forums.raspberrypi.com/viewtopic.php?p=813383#p813383)
+
+`hub-ctrl.c/hub-ctrl -h 0 -P 2 -p 0 ` turn off the power to the all the usb ports
 
 ### [Temperature Monitoring](https://www.raspberrypi-spy.co.uk/2020/11/raspberry-pi-temperature-monitoring/) - `vcgencmd measure_temp`
 
