@@ -5,7 +5,7 @@ tags: 3dprinter
 ---
 > [Tool changer V2 3 XYZ calibration Cube test](https://www.youtube.com/watch?v=ijRjTuI_AzM) / [2](https://www.youtube.com/watch?v=QW5Lyx8fMO0)
 
-Klipper would allow us to use two motherboards, connected to a single computer to coordinate. - [Tim's Blog](https://tbnk.nl/posts/klipper-upgrade/)
+Klipper would allow us to use two motherboards, connected to a single computer to coordinate. - [Tim's Blog](https://tbnk.nl/posts/klipper-upgrade/) / [tool changer](https://tbnk.nl/posts/3d-printer-tool-changer/)
 
 ![caption](https://tbnk.nl/img/klipper/new-setup.png)
 
