@@ -9,7 +9,7 @@ Klipper would allow us to use two motherboards, connected to a single computer t
 
 ![caption](https://tbnk.nl/img/klipper/new-setup.png)
 
-### Kinematic Coupling
+### [Kinematic Coupling](https://en.wikipedia.org/wiki/Kinematic_coupling)
 
 - [3D Printed Kinematic Coupling Proof of Concept](https://www.youtube.com/watch?v=cfSHss5j5KU)
 
