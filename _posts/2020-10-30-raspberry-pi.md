@@ -18,7 +18,7 @@ tags: raspberry-pi hardware arm
 	- **ttyAMA0** is the device for the first serial port on ARM architecture. ttyAMA0 can be the Tx, Rx pins for the Raspberry. But for the [*Raspberry Pi 3b*](ttyAMA0 can be the Tx, Rx pins for the Raspberry. But for the Raspberry Pi 3b it was used for the Bluetooth.) it was used for the **Bluetooth**.
     - **ttyUSB0** is the device for the first USB serial convertor.
 
-### [turn off power to it’s USB ports](https://forums.raspberrypi.com/viewtopic.php?p=813383#p813383)
+### [turn off USB ports power](https://forums.raspberrypi.com/viewtopic.php?p=813383#p813383)
 
 `hub-ctrl.c/hub-ctrl -h 0 -P 2 -p 0 ` turn off the power to the all the usb ports
 
