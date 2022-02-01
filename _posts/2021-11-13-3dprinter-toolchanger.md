@@ -5,6 +5,10 @@ tags: 3dprinter
 ---
 > [Tool changer V2 3 XYZ calibration Cube test](https://www.youtube.com/watch?v=ijRjTuI_AzM) / [2](https://www.youtube.com/watch?v=QW5Lyx8fMO0)
 
+Klipper would allow us to use two motherboards, connected to a single computer to coordinate. - [Tim's Blog](https://tbnk.nl/posts/klipper-upgrade/)
+
+![caption](https://tbnk.nl/img/klipper/new-setup.png)
+
 see also
 - [Prusa XL](https://www.prusa3d.com/product/original-prusa-xl-2/)
 - [E3D Motion System and ToolChanger](https://e3d-online.com/pages/toolchanger?aff=9)
