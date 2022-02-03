@@ -14,7 +14,7 @@ Klipper would allow us to use two motherboards, connected to a single computer t
 - [3D Printed Kinematic Coupling Proof of Concept](https://www.youtube.com/watch?v=cfSHss5j5KU)
 - [E3D Tool Changer - Assembled](https://www.thingiverse.com/thing:3880296) / [E3D Tool Changer Assy](https://www.thingiverse.com/thing:3714961)
 
-- [Robotic Tool Changer](https://youtu.be/kDP-oofDn4w?t=111)
+- [Robotic Tool Changer](https://youtu.be/kDP-oofDn4w?t=111) lock mechanism
 
 see also
 - [Prusa XL](https://www.prusa3d.com/product/original-prusa-xl-2/)
