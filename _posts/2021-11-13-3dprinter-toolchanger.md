@@ -20,8 +20,12 @@ Klipper would allow us to use two motherboards, connected to a single computer t
 
 - [E3D Tool Changer CAD Files](https://3ddistributed.com/corexy-3d-printer/e3d-tool-changer-cad-files/) / [github](https://github.com/e3donline/ToolChanger)
 
+compatible setup:
+- [Jubilee CAD File Release and Toolchanging Update](https://www.youtube.com/watch?v=7jGilt5ijQo) / [wiki](https://jubilee3d.com/index.php?title=Main_Page) / [github](https://github.com/machineagency/jubilee) 
+	- older version [v2](https://www.thingiverse.com/thing:3805144) / [v1](https://www.thingiverse.com/thing:3365456)
+
 see also
 - [Prusa XL](https://www.prusa3d.com/product/original-prusa-xl-2/)
 - [XChange V1.0 - Quick-Change Tool System](https://printermods.com/products/xchange-v1-0-3d-printer-quick-tool-changer-system?variant=41988467032300) / [video](https://www.youtube.com/watch?v=EVjchMw8L7Q)
-- [Jubilee CAD File Release and Toolchanging Update](https://www.youtube.com/watch?v=7jGilt5ijQo) / [wiki](https://jubilee3d.com/index.php?title=Main_Page)
+
 - [tool changer v2.2](https://www.youtube.com/watch?v=7SQQW1U3O4E)
