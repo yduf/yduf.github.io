@@ -18,6 +18,8 @@ For tapped screww hole, when creating holes in part-design workbench
 - select _Size_ (ex M3)
 - select  _Threaded_ => this will give a hole diameter for tap drill (ex for [M3 screw, it's 2.5mm](https://www.thingiverse.com/groups/sunhokey-3d-printer-owners/forums/general/topic:5484#comment-838622))
 
+[![caption](https://img.youtube.com/vi/BT0uG0NzERk/0.jpg)](https://www.youtube.com/watch?v=BT0uG0NzERk)
+
 ## Openscad
 ### [undersized holes](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/The_OpenSCAD_Language#cylinder)
 
