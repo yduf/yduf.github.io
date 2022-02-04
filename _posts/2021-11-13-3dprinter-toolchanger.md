@@ -16,9 +16,12 @@ Klipper would allow us to use two motherboards, connected to a single computer t
 
 - [Robotic Tool Changer](https://youtu.be/kDP-oofDn4w?t=111) lock mechanism
 
+### [E3D Motion System and ToolChanger](https://e3d-online.com/pages/toolchanger?aff=9)
+
+- [E3D Tool Changer CAD Files](https://3ddistributed.com/corexy-3d-printer/e3d-tool-changer-cad-files/) / [github](https://github.com/e3donline/ToolChanger)
+
 see also
 - [Prusa XL](https://www.prusa3d.com/product/original-prusa-xl-2/)
-- [E3D Motion System and ToolChanger](https://e3d-online.com/pages/toolchanger?aff=9)
 - [XChange V1.0 - Quick-Change Tool System](https://printermods.com/products/xchange-v1-0-3d-printer-quick-tool-changer-system?variant=41988467032300) / [video](https://www.youtube.com/watch?v=EVjchMw8L7Q)
 - [Jubilee CAD File Release and Toolchanging Update](https://www.youtube.com/watch?v=7jGilt5ijQo) / [wiki](https://jubilee3d.com/index.php?title=Main_Page)
 - [tool changer v2.2](https://www.youtube.com/watch?v=7SQQW1U3O4E)
