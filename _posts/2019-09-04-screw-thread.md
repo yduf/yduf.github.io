@@ -18,7 +18,8 @@ For tapped screww hole, when creating holes in part-design workbench
 - select _Size_ (ex M3)
 - select  _Threaded_ => this will give a hole diameter for tap drill (ex for [M3 screw, it's 2.5mm](https://www.thingiverse.com/groups/sunhokey-3d-printer-owners/forums/general/topic:5484#comment-838622))
 
-- [Taraudage in Freecad 0.20](https://www.youtube.com/watch?v=C-o0pLB-fmY&t=0s)
+- [Taraudage in Freecad 0.20](https://www.youtube.com/watch?v=C-o0pLB-fmY&t=0s) - avec custom clearance
+- [Thread for Screw Tutorial](https://wiki.freecadweb.org/Thread%20for%20Screw%20Tutorial)
 
 [![caption](https://img.youtube.com/vi/BT0uG0NzERk/0.jpg)](https://www.youtube.com/watch?v=BT0uG0NzERk)
 
