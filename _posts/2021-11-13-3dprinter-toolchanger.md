@@ -23,6 +23,7 @@ Klipper would allow us to use two motherboards, connected to a single computer t
 compatible setup:
 - [Jubilee CAD File Release and Toolchanging Update](https://www.youtube.com/watch?v=7jGilt5ijQo) / [wiki](https://jubilee3d.com/index.php?title=Main_Page) / [github](https://github.com/machineagency/jubilee) 
 	- older version [v2](https://www.thingiverse.com/thing:3805144) / [v1](https://www.thingiverse.com/thing:3365456)
+    - twist lock can be bought from [alixepress](https://fr.aliexpress.com/item/1005003036895316.html?gatewayAdapt=glo2fra)
 
 see also
 - [Prusa XL](https://www.prusa3d.com/product/original-prusa-xl-2/)
