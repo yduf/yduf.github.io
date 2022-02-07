@@ -9,17 +9,22 @@ tags: screw 3dmodel 3dprint openscad freecad cnc
 
 - [Embedding Nuts in 3D Printed Parts for Hidden Fastener Strength ](https://markforged.com/resources/blog/embedding-nuts-3d-printing/)
 
-## Freecad
+## [Freecad]({% post_url 2020-05-29-freecad %})
 
-Freecad knows ISO screws size - see Fasterner Workbench
+Freecad knows ISO screws size - see [Fasterner Workbench](https://wiki.freecadweb.org/Fasteners_Workbench)
 
-For tapped screww hole, when creating holes in part-design workbench
+### For tapped screw hole,
+
+when creating holes in part-design workbench
 - select _ISO metric regular profile_
 - select _Size_ (ex M3)
 - select  _Threaded_ => this will give a hole diameter for tap drill (ex for [M3 screw, it's 2.5mm](https://www.thingiverse.com/groups/sunhokey-3d-printer-owners/forums/general/topic:5484#comment-838622))
 
 - [Taraudage in Freecad 0.20](https://www.youtube.com/watch?v=C-o0pLB-fmY&t=0s) - avec custom clearance
 - [Thread for Screw Tutorial](https://wiki.freecadweb.org/Thread%20for%20Screw%20Tutorial)
+
+<span style="color:red">[**Notes**]</span>
+- [3dprint screws](https://forum.freecadweb.org/viewtopic.php?f=3&t=53074) - set scale settings to 3dprinting in the Fasteners Preferences
 
 [![caption](https://img.youtube.com/vi/BT0uG0NzERk/0.jpg)](https://www.youtube.com/watch?v=BT0uG0NzERk)
 
