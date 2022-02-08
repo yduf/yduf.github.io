@@ -31,6 +31,7 @@ see also [dprint troubleshooting]({% post_url 2018-09-25-3dprint %})
         - maximum traveil resolution = 0.7
         - maximum deviation 0.05 (or 0.075)
 
+- [Elephant Foot](https://www.youtube.com/watch?v=zlgR3rHg4p8)
 
 ### Seam removal
 - [move seam to corner](https://youtu.be/NU1kYEE3qrQ?t=114)
