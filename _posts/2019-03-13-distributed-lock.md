@@ -17,3 +17,6 @@ The purpose of a lock is to ensure that among several nodes that might try to do
 you need to include a fencing token with every write request to the storage service. In this context, a fencing token is simply a number that increases (e.g. incremented by the lock service) every time a client acquires the lock. 
 
 ![caption](https://martin.kleppmann.com/2016/02/fencing-tokens.png)
+
+see also
+- [Vector Clock](https://en.wikipedia.org/wiki/Vector_clock)
