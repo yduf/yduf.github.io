@@ -11,7 +11,7 @@ tags: rsync
 - [have a backup](https://www.gkayaalp.com/blog/20190102_syncthing.html)
 - [set a version policy](https://docs.syncthing.net/users/versioning.html#simple-file-versioning)
 
-# [**local** GUI](http://localhost:8384/)
+# [**local** GUI](http://localhost:8384/) / [**Resilio**](http://localhost:8888/gui/)
 
 - [Community Contributions](https://docs.syncthing.net/users/contrib.html#contributions)
 - [Starting Syncthing Automatically](https://docs.syncthing.net/users/autostart.html#linux)
