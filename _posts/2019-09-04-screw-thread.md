@@ -26,6 +26,8 @@ when creating holes in part-design workbench
 <span style="color:red">[**Notes**]</span>
 - [3dprint screws](https://forum.freecadweb.org/viewtopic.php?f=3&t=53074) - set scale settings to 3dprinting in the Fasteners Preferences
 
+- [model a screw in freecad](https://www.youtube.com/watch?v=BobzR7ciTRw)
+
 [![caption](https://img.youtube.com/vi/BT0uG0NzERk/0.jpg)](https://www.youtube.com/watch?v=BT0uG0NzERk)
 
 ## Openscad
