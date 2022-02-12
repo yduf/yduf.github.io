@@ -22,6 +22,7 @@ when creating holes in part-design workbench
 
 - [Taraudage in Freecad 0.20](https://www.youtube.com/watch?v=C-o0pLB-fmY&t=0s) - avec custom clearance
 - [Thread for Screw Tutorial](https://wiki.freecadweb.org/Thread%20for%20Screw%20Tutorial)
+- [Designing a 3D printed filament spool holder](https://youtu.be/T4A17KOzd_8?t=433)
 
 <span style="color:red">[**Notes**]</span>
 - [3dprint screws](https://forum.freecadweb.org/viewtopic.php?f=3&t=53074) - set scale settings to 3dprinting in the Fasteners Preferences
