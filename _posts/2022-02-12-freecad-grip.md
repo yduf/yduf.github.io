@@ -7,3 +7,5 @@ tags: freecad cad
 
 - [FreeCAD - Circular Textures/Patterns](https://www.youtube.com/watch?v=NjEWcvLH9Uc)
 - [Knurling in FreeCAD ](https://www.youtube.com/watch?v=d6rzyhQysvc)
+- [Sketch on Curved Surface / Faces in Curves workbench. Celtic Ring](https://www.youtube.com/watch?v=93LIxgRXeew)
+	- [Mapping text to a curve surface](https://www.youtube.com/watch?v=yV26cig0p4I)
