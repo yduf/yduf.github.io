@@ -1,7 +1,7 @@
 ---
 published: true
 title: Probabilistic Comparison
-tags: algorithm hash
+tags: algorithm hash math probability
 ---
 > You can probabilistically compare two unsorted vectors (u,v) in O(n) - [SO](https://stackoverflow.com/a/17394863/51386)
 
