@@ -1,7 +1,7 @@
 ---
 published: true
 title: Minesweeper AI
-tags: games codingame
+tags: games codingame probability
 ---
 > Find all mines without detonating any of them.  - [Codingame](https://www.codingame.com/ide/puzzle/minesweeper-1)
 
