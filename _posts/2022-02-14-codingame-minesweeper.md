@@ -7,7 +7,7 @@ tags: games codingame
 
 There is one single testcase that's randomly generated after your first action. Your first action will always reveal multiple cells at once.
 
-- [A Minesweeper Probability Calculator](https://www.youtube.com/watch?v=D7Cwbk9xphY)
+- [A Minesweeper Probability Calculator](https://www.youtube.com/watch?v=D7Cwbk9xphY) / [github](https://github.com/EmZeeAech/Minesweeper-Probability-Calculator)
 - [PERFECT minesweeper AI](https://www.youtube.com/watch?v=cGUHehFGqBc&t=146s)
 - [Minesweeper Strategy](https://minesweepergame.com/strategy.php)
 - [Algorithmic Approaches to Playing Minesweeper](https://dash.harvard.edu/bitstream/handle/1/14398552/BECERRA-SENIORTHESIS-2015.pdf?sequence=1)
