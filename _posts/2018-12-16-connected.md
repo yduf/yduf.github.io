@@ -5,7 +5,7 @@ tags: algorithm graph topology
 ---
 
 ## [Bitmap](https://en.wikipedia.org/wiki/Connected-component_labeling)
-- [Hoshen–Kopelman algorithm](https://en.wikipedia.org/wiki/Connected-component_labeling#Two-pass) - The algorithm makes two passes over the image: the first pass to assign temporary labels and record equivalences, and the second pass to replace each temporary label by the smallest label of its equivalence class. 
+- [Hoshen–Kopelman algorithm](https://en.wikipedia.org/wiki/Hoshen%E2%80%93Kopelman_algorithm) / [2](https://en.wikipedia.org/wiki/Connected-component_labeling#Two-pass) - The algorithm makes two passes over the image: the first pass to assign temporary labels and record equivalences, and the second pass to replace each temporary label by the smallest label of its equivalence class. 
 - [Image processing learning ressource](https://homepages.inf.ed.ac.uk/rbf/HIPR2/label.htm)
 
 ![caption](https://homepages.inf.ed.ac.uk/rbf/HIPR2/thumbs/art8lab2.GIF)
