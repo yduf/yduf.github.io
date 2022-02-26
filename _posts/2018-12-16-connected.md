@@ -1,7 +1,7 @@
 ---
 published: true
 title: Connected component labeling
-tags: algorithm graph
+tags: algorithm graph topology
 ---
 
 ## [Bitmap](https://en.wikipedia.org/wiki/Connected-component_labeling)
