@@ -1,6 +1,6 @@
 ---
 published: true
-title: Connected-component labeling
+title: Connected component labeling
 tags: algorithm graph
 ---
 
