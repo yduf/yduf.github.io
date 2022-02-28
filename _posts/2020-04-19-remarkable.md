@@ -154,7 +154,9 @@ The stylus communicates wirelessly. The pressure sensitivity is in the stylus it
 
 
 ## Alternatives
-- [PineNote](https://www.pine64.org/pinenote/) - **new**
+- [Ratta Supernote A5 X](https://youtu.be/ObU8-lxORPg?t=195) / [Best E-Ink Note Taking Reader Devices Of 2021](https://youtu.be/jvPvp5_P0o8?t=710)
+
+- [PineNote](https://www.pine64.org/pinenote/) - **new** but **raw dev**
 
 - [Onyx Boox Max Air (closest)](https://www.youtube.com/watch?v=EdQ5sXTJRMI) / [r/Onyx_Boox](https://www.reddit.com/r/Onyx_Boox/)
 - [Onyx Boox Max Lumi](https://www.youtube.com/watch?v=0SIRcxobTnA) / [Home](https://www.boox.com/maxlumi/)
