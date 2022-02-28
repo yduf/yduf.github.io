@@ -45,6 +45,7 @@ the lower, the better; ex:
 - [Ender 6 Klipper + BL-Touch ](https://www.smith3d.com/ender-6-klipper-bl-touch/) / [2](https://3dprintbeginner.com/how-to-install-klipper-on-creality-ender-6/)
 - [Ender 6 linear rail (Y)](https://www.thingiverse.com/thing:4757747)
 - [Ender 6 Complete Linear Rails Mod](https://www.thingiverse.com/thing:4757747/remixes)
+- [Ender6 + SKR Mini V3.0](https://www.reddit.com/r/ender6/comments/sii1jf/ender6_skr_mini_v30/)
 
 - [Belt Tensioning and Replacement Belt Source](https://www.reddit.com/r/ender6/comments/prxn5o/belt_tensioning_and_replacement_belt_source/)
 
