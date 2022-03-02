@@ -3,8 +3,7 @@ published: true
 title: Bill Cipher
 tags: tv anime
 ---
->  a triangular inter-dimensional demon, formerly existent only in the mindscape before succeeding in gaining access to the real world. - [ Gravity Falls Wiki
-Gravity Falls](https://gravityfalls.fandom.com/wiki/Bill_Cipher)
+>  a triangular inter-dimensional demon, formerly existent only in the mindscape before succeeding in gaining access to the real world. - [ Gravity Falls](https://gravityfalls.fandom.com/wiki/Bill_Cipher)
 
 - [Bill Cipher Wallpapers](https://wallpapercave.com/bill-cipher-wallpapers)
 
