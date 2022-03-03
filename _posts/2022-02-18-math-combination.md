@@ -13,4 +13,4 @@ tags: math probability hash
 
 The combinatorial number system of degree k (for some positive integer k), also referred to as combinadics, or the Macaulay representation of an integer, is a correspondence between natural numbers (taken to include 0) N and k-combinations, represented as strictly decreasing sequences ck > ... > c2 > c1 ≥ 0. Since the latter are strings of numbers, one can view this as a kind of numeral system for representing N, although the main utility is representing a k-combination by N rather than the other way around. Distinct numbers correspond to distinct k-combinations, and produce them in lexicographic order
 
-This can be seen as a kind of perfect hash for certain situation
+This can be seen as a kind of perfect hash for certain situation.
