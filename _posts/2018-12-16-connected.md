@@ -6,6 +6,7 @@ tags: algorithm graph topology
 
 ## [Bitmap](https://en.wikipedia.org/wiki/Connected-component_labeling)
 - [Hoshen–Kopelman algorithm](https://en.wikipedia.org/wiki/Hoshen%E2%80%93Kopelman_algorithm) / [2](https://en.wikipedia.org/wiki/Connected-component_labeling#Two-pass) - The algorithm makes two passes over the image: the first pass to assign temporary labels and record equivalences, and the second pass to replace each temporary label by the smallest label of its equivalence class. 
+	- [the HK-algorithm](https://www.ocf.berkeley.edu/~fricke/projects/hoshenkopelman/hoshenkopelman.html)  is really just a special application of  [the Union-Find algorithm](https://courses.cs.duke.edu/cps100e/fall09/notes/UnionFind.pdf)
 - [Image processing learning ressource](https://homepages.inf.ed.ac.uk/rbf/HIPR2/label.htm)
 
 ![caption](https://homepages.inf.ed.ac.uk/rbf/HIPR2/thumbs/art8lab2.GIF)
