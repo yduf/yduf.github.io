@@ -3,7 +3,7 @@ published: true
 title: Algorithms for Modern Hardware
 tags: book algorithm fastware
 ---
-> more practical ways to speed up a program than by going from O(nlog⁡n)O(n \log n)O(nlogn) to O(nlog⁡log⁡n)O(n \log \log n)O(nloglogn). - [Algorithmica](https://en.algorithmica.org/hpc/) / [HN](https://news.ycombinator.com/item?id=30583808)
+> More practical ways to speed up a program than by going from O(nlog n) to O(nlog log n). - [Algorithmica](https://en.algorithmica.org/hpc/) / [HN](https://news.ycombinator.com/item?id=30583808)
 
 Among the cool things that we will speed up:
 - 2x faster GCD (compared to std::gcd)
