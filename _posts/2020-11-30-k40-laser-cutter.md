@@ -19,6 +19,7 @@ tags: cnc laser
 
 - [K40 12x24 Bed Build - Laser tear down and putting the parts together](https://www.youtube.com/watch?v=j20ZhxNnL-Q)
 
+- [Acrylic condensation](https://www.youtube.com/watch?v=n54uNRs8Ydk)
 
 ### Source
 
