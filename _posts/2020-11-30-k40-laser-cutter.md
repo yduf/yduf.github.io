@@ -13,3 +13,8 @@ tags: cnc laser
 
 - [amazon](https://www.amazon.fr/Samger-Graveur-Gravure-Sculpture-Machine/dp/B07P5C662T/ref=sr_1_10?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=d%C3%A9coupeuse+K40&qid=1606726082&sr=8-10)
 	- VEVOR deconseillé commme vendeur
+    
+    
+- [K40/Chinese CO2 laser cutter/engraver buyer’s guide](https://www.youtube.com/watch?v=Gc_1jDVRKEQ)
+
+- [K40 12x24 Bed Build - Laser tear down and putting the parts together](https://www.youtube.com/watch?v=j20ZhxNnL-Q)
