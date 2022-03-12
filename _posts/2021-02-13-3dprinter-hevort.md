@@ -37,17 +37,7 @@ the lower, the better; ex:
 - [DIY CoreXY Linear Rails upgrades for Ender 5 Pro, almost turn it into an Ender 7 for $100](https://www.youtube.com/watch?v=JEYs4wS5M0Y&list=LL&index=4)
 - [Ender 5 MK3 Conversion](https://www.youtube.com/watch?v=fhZTwQc_9Uo&list=LL&index=5) / [thingiverse](https://www.thingiverse.com/thing:5157811)
 
-### [Ender 6](https://www.amazon.fr/Imprimante-Creality-dimpression-silencieuse-Nouvellement/dp/B08MQ2NBXS/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3CN8NCG8ZFNMA&keywords=ender%2B6&qid=1643478583&sprefix=ender%2B6%2Caps%2C182&sr=8-1&th=1) / [darty](https://www.darty.com/nav/achat/informatique/imprimante_scanner/imprimante/creality_imprimante_3d_creality_a_structure_cubique_amelioree_ender_6_250_250_400mm_grande_taille_d_imprimante_ecran_tactile_couleur_hd_4_3_pouces__MK765783144.html) / [r/ender6/](https://www.reddit.com/r/ender6/)
-
-[review](https://3dprintbeginner.com/creality-ender-6-review/) / [assembly](https://forums.creality3dofficial.com/my-ender-6-assembly-process/)
-- [Ender 6 upgrade](https://3dprintbeginner.com/creality-ender-6-upgrades-paid-and-free/)
-- [Ender 6 Extruder Relocation](https://marksmakerspace.com/3dprinting/ender6-extruder-move.html)
-- [Ender 6 Klipper + BL-Touch ](https://www.smith3d.com/ender-6-klipper-bl-touch/) / [2](https://3dprintbeginner.com/how-to-install-klipper-on-creality-ender-6/)
-- [Ender 6 linear rail (Y)](https://www.thingiverse.com/thing:4757747)
-- [Ender 6 Complete Linear Rails Mod](https://www.thingiverse.com/thing:4757747/remixes)
-- [Ender6 + SKR Mini V3.0](https://www.reddit.com/r/ender6/comments/sii1jf/ender6_skr_mini_v30/)
-
-- [Belt Tensioning and Replacement Belt Source](https://www.reddit.com/r/ender6/comments/prxn5o/belt_tensioning_and_replacement_belt_source/)
+### [Ender 6]({% post_url 2022-03-12-3dprinter-ender6 %})
 
 ## [Kit](https://www.drdflo.com/pages/Guides/Best-DIY-FFF-3D-Printers.html)
 - [VORON 2.4](https://fr.aliexpress.com/item/1005002884673471.html?spm=a2g0o.detail.1000014.57.4e2c5e30nXUFKP&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.177756.0&scm_id=1007.13338.177756.0&scm-url=1007.13338.177756.0&pvid=6b947754-7f54-4bcc-bd5a-87364fc2501c&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.13338.177756.0,pvid:6b947754-7f54-4bcc-bd5a-87364fc2501c,tpp_buckets:668%232846%238107%231934&pdp_ext_f=%7B%22sku_id%22:%2212000022612142288%22,%22sceneId%22:%2223416%22%7D)
