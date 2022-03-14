@@ -18,3 +18,9 @@ tags: 3dprinter
 - [Ender6 + SKR Mini V3.0](https://www.reddit.com/r/ender6/comments/sii1jf/ender6_skr_mini_v30/)
 
 - [Belt Tensioning and Replacement Belt Source](https://www.reddit.com/r/ender6/comments/prxn5o/belt_tensioning_and_replacement_belt_source/)
+
+## Direct Drive
+
+- [BIQU H2 Extruder V2.0 ](https://www.3djake.com/biqu/h2-extruder-v20)
+
+![caption](https://cdn.shopify.com/s/files/1/1619/4791/products/9_601abe7a-ee33-40d1-9a38-8df2813b36f8_800x.jpg?v=1634899553) 
