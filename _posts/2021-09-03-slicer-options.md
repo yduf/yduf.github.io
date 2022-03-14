@@ -53,7 +53,7 @@ see also [dprint troubleshooting]({% post_url 2018-09-25-3dprint %})
     - [What Is Horizontal Expansion in Cura? (How to Use It?)](https://www.3dprintbeast.com/cura-horizontal-expansion/)
      - [<strike>Are you printing undersized holes ?</strike>](http://www.deltarap.org/printing-undersized-holes)
      
-- [slicing tolerance](https://www.youtube.com/watch?v=X6nCKQToOUg) 
+- [slicing tolerance](https://www.youtube.com/watch?v=X6nCKQToOUg) / [doc](https://support.ultimaker.com/hc/en-us/articles/360012614559-Experimental-settings)
 	- inclusive - for part that you plan to sand
     - middle - for others for best accuracy
     - exclusive - for part that needs to fit together
