@@ -52,6 +52,11 @@ see also [dprint troubleshooting]({% post_url 2018-09-25-3dprint %})
     	- [Fast test](https://www.thingiverse.com/thing:3535060)
     - [What Is Horizontal Expansion in Cura? (How to Use It?)](https://www.3dprintbeast.com/cura-horizontal-expansion/)
      - [<strike>Are you printing undersized holes ?</strike>](http://www.deltarap.org/printing-undersized-holes)
+     
+- [slicing tolerance](https://www.youtube.com/watch?v=X6nCKQToOUg) 
+	- inclusive - for part that you plan to sand
+    - middle - for others for best accuracy
+    - exclusive - for part that needs to fit together
 
 ## [Speed up print](https://hevort.com/)
 - Use [greater step](https://www.reddit.com/r/klippers/comments/gh5r72/those_of_you_using_klipper_and_printing_at_crazy/fq6py5n?utm_source=share&utm_medium=web2x&context=3) for layer height, eg: 0.28 vs 0.2 vs 0.1
