@@ -1,7 +1,7 @@
 ---
 published: true
 title: Create a GUI (vs lib)
-tags: gui software
+tags: gui software lib c++
 ---
 > There isn't a known optimum, but I've tried making GUI from scratch many times and am gradually getting better at it. This is a good opportunity for me to let out my thoughts all at once  - [r/gamedev](https://www.reddit.com/r/gamedev/comments/6kk306/sfml_ui_libs/)
 
