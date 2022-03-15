@@ -1,9 +1,12 @@
 ---
 published: true
-title: Create GUI
+title: Create a GUI (vs lib)
 tags: gui software
 ---
 > There isn't a known optimum, but I've tried making GUI from scratch many times and am gradually getting better at it. This is a good opportunity for me to let out my thoughts all at once  - [r/gamedev](https://www.reddit.com/r/gamedev/comments/6kk306/sfml_ui_libs/)
+
+see also:
+- [C++ UI Libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/)
 
 Anyway, if I were doing a new game GUI again, I would start with a "debug" gui like Dear IMGUi that perhaps doesn't have skinning but has easy placeholders. Good layouts take a few iterations, and trying to skin early is wasteful.
 
