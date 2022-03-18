@@ -23,4 +23,8 @@ tags: 3dprinter
 
 - [BIQU H2 Extruder V2.0 ](https://www.3djake.com/biqu/h2-extruder-v20)
 
-![caption](https://cdn.shopify.com/s/files/1/1619/4791/products/9_601abe7a-ee33-40d1-9a38-8df2813b36f8_800x.jpg?v=1634899553) 
+![caption](https://cdn.shopify.com/s/files/1/1619/4791/products/9_601abe7a-ee33-40d1-9a38-8df2813b36f8_800x.jpg?v=1634899553)
+
+## Motherboard
+
+- [BTT Octopus](https://3dwork.io/en/btt-octopus/)
