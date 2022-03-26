@@ -13,7 +13,7 @@ Some explicit non-goals:
 - build-time decision-making ability such as conditionals or search paths. Making decisions is slow.
 
 Ninja files are usually automatically generated, for eg:
-- [Meson]({% post_url 2020-08-12-build-meson.md %}) generate ninja.build file to compile c++ project.
+- [Meson]({% post_url 2020-08-12-build-meson %}) generate ninja.build file to compile c++ project.
 
 ## [Tutorial](https://jvns.ca/blog/2020/10/26/ninja--a-simple-way-to-do-builds/) / [Doc](https://ninja-build.org/manual.html)
 
