@@ -12,8 +12,7 @@ Some explicit non-goals:
 - build-time customization of the build. Options belong in the program that generates the ninja files.
 - build-time decision-making ability such as conditionals or search paths. Making decisions is slow.
 
-## Tutorials / [Doc](https://ninja-build.org/manual.html)
-### [ninja: a simple way to do builds](https://jvns.ca/blog/2020/10/26/ninja--a-simple-way-to-do-builds/)
+## [Tutorial](https://jvns.ca/blog/2020/10/26/ninja--a-simple-way-to-do-builds/) / [Doc](https://ninja-build.org/manual.html)
 
 how to create a `rule` and a `build`:
 
