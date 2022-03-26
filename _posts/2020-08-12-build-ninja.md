@@ -12,6 +12,9 @@ Some explicit non-goals:
 - build-time customization of the build. Options belong in the program that generates the ninja files.
 - build-time decision-making ability such as conditionals or search paths. Making decisions is slow.
 
+Ninja files are usually automatically generated, for eg:
+- [Meson]({% post_url 2020-08-12-build-meson.md %}) generate ninja.build file to compile c++ project.
+
 ## [Tutorial](https://jvns.ca/blog/2020/10/26/ninja--a-simple-way-to-do-builds/) / [Doc](https://ninja-build.org/manual.html)
 
 [Conceptually](https://ninja-build.org/manual.html#_writing_your_own_ninja_files), _build_ statements describe the dependency graph of your project, while _rule_ statements describe how to generate the files along a given edge of the graph. They appears in a **_build.ninja_** file.
