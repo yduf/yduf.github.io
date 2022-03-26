@@ -14,7 +14,7 @@ Some explicit non-goals:
 
 ## [Tutorial](https://jvns.ca/blog/2020/10/26/ninja--a-simple-way-to-do-builds/) / [Doc](https://ninja-build.org/manual.html)
 
-[Conceptually](https://ninja-build.org/manual.html#_writing_your_own_ninja_files), _build_ statements describe the dependency graph of your project, while _rule_ statements describe how to generate the files along a given edge of the graph.
+[Conceptually](https://ninja-build.org/manual.html#_writing_your_own_ninja_files), _build_ statements describe the dependency graph of your project, while _rule_ statements describe how to generate the files along a given edge of the graph. They appears in a **_build.ninja_** file.
 
 **A _rule_** has a _command_ and _description_ (the description is just for humans to read so you can tell what it’s doing when it’s building your code)
 
