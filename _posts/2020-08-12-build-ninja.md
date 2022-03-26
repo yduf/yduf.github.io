@@ -39,7 +39,7 @@ inkscape variables.svg --export-text-to-path --export-pdf=pdfs/variables.pdf
 
 And then if you run it again, it won’t run anything (because it can tell that you’ve already built `pdfs/variables.pdf` and you’re up to date).
 
-## History
+## [History](http://neugierig.org/software/chromium/notes/2011/02/ninja.html)
 
 > When we first started porting Chrome away from just Windows, we intended to use Scons to build Chrome on all our platforms. But early on in development I discovered that Scons, despite its admirable goals of correctness and ease of use, was quite slow — it could take 40 seconds from starting Scons before it decided to build some source...  
 >  
