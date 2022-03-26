@@ -17,7 +17,7 @@ Some explicit non-goals:
 
 how to create a `rule` and a `build`:
 
-a `rule` has a command and description (the description is just for humans to read so you can tell what it’s doing when it’s building your code)
+**A _rule_** has a _command_ and _description_ (the description is just for humans to read so you can tell what it’s doing when it’s building your code)
 
 {% highlight cpp %}
 rule svg2pdf
@@ -25,10 +25,12 @@ rule svg2pdf
   description = svg2pdf $in $out
 {% endhighlight %}
 
-the syntax for `build` is `build output_file: rule_name input_files`. Here’s one using the `svg2pdf` rule. The output goes in `$out` in the rule and the input goes in `$in`.
+**Syntax for _build_** is `build output_file: rule_name input_files`. 
+
+The _output_ goes in `$out` in the rule and the _input_ goes in `$in`.  
+Here’s one using the `svg2pdf` rule. 
 
 {% highlight cpp %}
-rule svg2pdf
 build pdfs/variables.pdf: svg2pdf variables.svg
 {% endhighlight %}
 
