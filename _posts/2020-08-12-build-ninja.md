@@ -24,6 +24,8 @@ rule svg2pdf
   description = svg2pdf $in $out
 {% endhighlight %}
 
+**_command_** is required within a rule and passed to [`sh -c `](https://ninja-build.org/manual.html#ref_rule_command) on unix. You can use all the normal shell operators, like && to chain multiple commands,
+
 **Syntax for _build_** is `build output_file: rule_name input_files`. 
 
 The _output_ goes in `$out` in the rule and the _input_ goes in `$in`.  
