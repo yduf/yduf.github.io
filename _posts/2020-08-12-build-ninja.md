@@ -19,7 +19,7 @@ how to create a `rule` and a `build`:
 
 **A _rule_** has a _command_ and _description_ (the description is just for humans to read so you can tell what it’s doing when it’s building your code)
 
-{% highlight cpp %}
+{% highlight ninja %}
 rule svg2pdf
   command = inkscape $in --export-text-to-path --export-pdf=$out
   description = svg2pdf $in $out
@@ -30,12 +30,12 @@ rule svg2pdf
 The _output_ goes in `$out` in the rule and the _input_ goes in `$in`.  
 Here’s one using the `svg2pdf` rule. 
 
-{% highlight cpp %}
+{% highlight ninja %}
 build pdfs/variables.pdf: svg2pdf variables.svg
 {% endhighlight %}
 
 That’s it! If you put those two things in a file called `build.ninja` and then run `ninja`, ninja will run:
-{% highlight cpp %}
+{% highlight ninja %}
 inkscape variables.svg --export-text-to-path --export-pdf=pdfs/variables.pdf
 {% endhighlight %}
 
