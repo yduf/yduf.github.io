@@ -1,7 +1,7 @@
 ---
 published: true
 title: Abstraction
-tags: software
+tags: software mental-model
 ---
 > What do abstractions actually look like in code?
 >  
