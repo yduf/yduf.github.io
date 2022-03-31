@@ -3,7 +3,7 @@ published: true
 title: Stereograms
 tags: computer-vision fun
 ---
-> They were popular in the ‘90s under the brand “Magic Eye.” - [Adventures in Stereograms](https://ironicsans.substack.com/p/24-adventures-in-stereograms?s=r) / [r/MagicEye](https://www.reddit.com/r/MagicEye/)
+> They were popular in the ‘90s under the brand “Magic Eye.” - [Adventures in Stereograms](https://ironicsans.substack.com/p/24-adventures-in-stereograms?s=r) / [r/MagicEye](https://www.reddit.com/r/MagicEye/) / [HN](https://news.ycombinator.com/item?id=30850659)
 
 There are still artists playing with stereograms, like 3Dimka, who uses techniques that emphasize the edges of the 3D object, making the most crisp and clear stereogram images I’ve ever seen:
 
