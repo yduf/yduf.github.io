@@ -19,7 +19,7 @@ Instead of previous model, consider that we collide at time $t$. With $\vec{v_A}
 
 $A + t \vec{v_A}= B + t \vec{v_B} = C$ the point of collision.
 
-Everything is known, except $t$ and $\vec{v_A}$ for which we know only the norm, but not the optimal direction.
+Everything is known, except $t$ and $\vec{v_A}$ for which we know only the norm (= the speed), but not the optimal direction.
 
 
 
