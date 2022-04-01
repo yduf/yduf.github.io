@@ -15,11 +15,11 @@ It is straightforward that, since we are looking for the fastest catch, Alice’
 > I had to solve the same problem at some point, and worked out [this quadratic equation that solved it](
 http://ideone.com/AIr3hg)
 
-Instead of previous model, consider that we collide at time $t$. With $v_A$ and $v_B$ being respective vector speed of $A$ and $B$ we got:
+Instead of previous model, consider that we collide at time $t$. With $\vec{v_A}$ and $\vec{v_B}$ being respective vector speed of $A$ and $B$ we got:
 
-$A + t v_A = B + t v_B = C$ the point of collision.
+$A + t \vec{v_A}= B + t \vec{v_B} = C$ the point of collision.
 
-Everything is known, except $t$ and $v_A$ for which we know only the norm, but not the optimal direction.
+Everything is known, except $t$ and $\vec{v_A}$ for which we know only the norm, but not the optimal direction.
 
 
 
