@@ -37,12 +37,16 @@ Taking the [dot product](https://en.wikipedia.org/wiki/Law_of_cosines#Using_vect
 
 ${BC(t)}^2 = {AB}² + {AC(t)}² + 2 \vec{BA}.\vec{AC(t)}$ where now everything is knwow except $t$.
 
+which by replacing known quantities, become:
 
-This with pythagore theorem, gives
+${t s_B}² = {AB}² + {t s_A}² + 2 t \vec{BA}.\vec{v_A}$
 
-$(2) (x_c - x_a)² + (y_c - y_a)² = ( t s)² $
+or
 
-We can then express t 
+$ ({s_A}² - {s_B}²) t² + 2 \vec{BA}.\vec{v_A} t + {AB}² = 0 $ a quadratic equation in $t$ that we can solve.
+
+
+
 
 
 
