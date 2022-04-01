@@ -20,7 +20,7 @@ Klipper would allow us to use two motherboards, connected to a single computer t
 
 - [E3D Tool Changer CAD Files](https://3ddistributed.com/corexy-3d-printer/e3d-tool-changer-cad-files/) / [github](https://github.com/e3donline/ToolChanger)
 
-- [RatRig VCore 3 Tool Changer ](https://www.prusaprinters.org/prints/137147-ratrig-vcore-3-tool-changer)
+- [RatRig VCore 3 Tool Changer ](https://www.prusaprinters.org/prints/137147-ratrig-vcore-3-tool-changerw)
 
 compatible setup:
 - [Jubilee CAD File Release and Toolchanging Update](https://www.youtube.com/watch?v=7jGilt5ijQo) / [wiki](https://jubilee3d.com/index.php?title=Main_Page) / [github](https://github.com/machineagency/jubilee) 
