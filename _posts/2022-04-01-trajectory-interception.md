@@ -27,7 +27,7 @@ The distance (the value) to the point of collision is equal to $t \| \vec{v_A} \
 What we have is a general triangle ABC, for which:
 - $\vec{AB}$ is known
 - $\vec{AC(t)} = t \vec{v_A} $  is dependant of $t$ 
-- $BC(t) = t \| \vec{v_B} \| = t * s_B$ is a distance dependant of $t$
+- $BC(t) = t \| \vec{v_B} \| = t . s_B$ is a distance dependant of $t$
 
 We can use the [vector version of Law of cosinus](https://en.wikipedia.org/wiki/Law_of_cosines#Using_vectors). Starting from the vector relation:
 
