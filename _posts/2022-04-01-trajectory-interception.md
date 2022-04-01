@@ -39,7 +39,7 @@ ${BC(t)}^2 = {BA}² + {AC(t)}² + 2 \vec{BA}.\vec{AC(t)}$ where now everything i
 
 which by replacing known quantities, become:
 
-${\boldsymbol t s_B}² = {BA}² + {\boldsymbol t s_A}² + 2 \boldsymbol t \vec{BA}.\vec{v_A}$
+${(\boldsymbol t s_B)}² = {BA}² + {(\boldsymbol t s_A)}² + 2 \boldsymbol t \vec{BA}.\vec{v_A}$
 
 or
 
