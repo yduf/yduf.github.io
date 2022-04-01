@@ -35,7 +35,7 @@ $\vec{BC}=\vec{BA} + \vec{AC}$
 
 Taking the [dot product](https://en.wikipedia.org/wiki/Law_of_cosines#Using_vectors) of each side with itself, we got:
 
-${BC(t)}^2 = {BA}² + {AC(t)}² + 2 \vec{BA}.\vec{AC(t)}$ where now everything is knwow except $t$.
+${BC(\bm{t})}^2 = {BA}² + {AC(\bm{t})}² + 2 \vec{BA}.\vec{AC(\bm{t})}$ where now everything is knwow except $\bm{t}$.
 
 which by replacing known quantities, become:
 
