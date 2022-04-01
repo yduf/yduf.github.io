@@ -26,24 +26,24 @@ The distance (the value) to the point of collision is equal to $t \| \vec{v_A} \
 
 What we have is a general triangle ABC, for which:
 - $\vec{AB}$ is known by definition,
-- $\vec{AC(t)} = t \vec{v_A} $  is dependant of $t$,
-- $BC(t) = t \| \vec{v_B} \| = t . s_B$ is a distance dependant of $t$.
+- $\vec{BC(t)} = t \vec{v_B} $  is dependant of $t$,
+- $AC(t) = t \| \vec{v_A} \| = t . s_A$ is a distance dependant of $t$.
 
 We can use the [vector version of Law of cosinus](https://en.wikipedia.org/wiki/Law_of_cosines#Using_vectors). Starting from the vector relation:
 
-$\vec{BC}=\vec{BA} + \vec{AC}$
+$\vec{AC}=\vec{AB} + \vec{BC}$
 
 Taking the [dot product](https://en.wikipedia.org/wiki/Law_of_cosines#Using_vectors) of each side with itself, we got:
 
-${BC(t)}^2 = {BA}² + {AC(t)}² + 2 \vec{BA}.\vec{AC(t)}$ where now everything is knwow except $t$.
+${AC(t)}^2 = {AB}² + {BC(t)}² + 2 \vec{AB}.\vec{BC(t)}$ where now everything is knwow except $t$.
 
 which by replacing known quantities, become:
 
-${(\boldsymbol t s_B)}² = {BA}² + {(\boldsymbol t s_A)}² + 2 \boldsymbol t \vec{BA}.\vec{v_A}$
+${(\boldsymbol t s_A)}² = {AB}² + {(\boldsymbol t s_B)}² + 2 \boldsymbol t \vec{AB}.\vec{v_B}$
 
 or
 
-$ ({s_A}² - {s_B}²) \boldsymbol t² + ( 2 \vec{BA}.\vec{v_A}) \boldsymbol t + {BA}² = 0 $, a quadratic equation in $\boldsymbol t$ that we can now solve.
+$ ({s_B}² - {s_A}²) \boldsymbol t² + ( 2 \vec{AB}.\vec{v_B}) \boldsymbol t + {AB}² = 0 $, a quadratic equation in $\boldsymbol t$ that we can now solve.
 
 Then if a solution exist, it can be injected in (1) to compute $C$.
 
