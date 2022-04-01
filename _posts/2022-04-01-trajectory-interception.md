@@ -35,15 +35,15 @@ $\vec{BC}=\vec{BA} + \vec{AC}$
 
 Taking the [dot product](https://en.wikipedia.org/wiki/Law_of_cosines#Using_vectors) of each side with itself, we got:
 
-${BC(t)}^2 = {AB}² + {AC(t)}² + 2 \vec{BA}.\vec{AC(t)}$ where now everything is knwow except $t$.
+${BC(t)}^2 = {BA}² + {AC(t)}² + 2 \vec{BA}.\vec{AC(t)}$ where now everything is knwow except $t$.
 
 which by replacing known quantities, become:
 
-${t s_B}² = {AB}² + {t s_A}² + 2 t \vec{BA}.\vec{v_A}$
+${t s_B}² = {BA}² + {t s_A}² + 2 t \vec{BA}.\vec{v_A}$
 
 or
 
-$ ({s_A}² - {s_B}²) t² + 2 \vec{BA}.\vec{v_A} t + {AB}² = 0 $ a quadratic equation in $t$ that we can solve.
+$ ({s_A}² - {s_B}²) \bm{t}² + 2 \vec{BA}.\vec{v_A} \bm{t} + {BA}² = 0 $ a quadratic equation in $t$ that we can solve.
 
 Then if a solution exist, it can be injected in (1).
 
