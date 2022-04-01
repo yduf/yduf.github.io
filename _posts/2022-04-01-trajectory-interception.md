@@ -35,11 +35,11 @@ $\vec{BC}=\vec{BA} + \vec{AC}$
 
 Taking the [dot product](https://en.wikipedia.org/wiki/Law_of_cosines#Using_vectors) of each side with itself, we got:
 
-${BC(\bm{t})}^2 = {BA}² + {AC(\bm{t})}² + 2 \vec{BA}.\vec{AC(\bm{t})}$ where now everything is knwow except $\bm{t}$.
+${BC(t)}^2 = {BA}² + {AC(t)}² + 2 \vec{BA}.\vec{AC(t)}$ where now everything is knwow except $t$.
 
 which by replacing known quantities, become:
 
-${t s_B}² = {BA}² + {t s_A}² + 2 t \vec{BA}.\vec{v_A}$
+${\boldsymbol t s_B}² = {BA}² + {\boldsymbol t s_A}² + 2 \boldsymbol t \vec{BA}.\vec{v_A}$
 
 or
 
