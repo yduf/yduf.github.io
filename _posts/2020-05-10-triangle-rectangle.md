@@ -1,7 +1,7 @@
 ---
 published: true
 title: Triangle Rectangle
-tags: math
+tags: math triangle
 ---
 > En géométrie non euclidienne, un triangle rectangle sphérique peut posséder deux ou trois angles droits. - [wikipedia](https://fr.wikipedia.org/wiki/Triangle_rectangle)
 
