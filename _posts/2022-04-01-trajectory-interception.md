@@ -19,6 +19,9 @@ Instead of previous model, consider that we collide at time $t$. With $v_A$ and 
 
 $A + t v_A = B + t v_B = C$ the point of collision.
 
+Everything is known, except $t$ and $v_A$ for which we know only the norm, but not the optimal direction.
+
+
 
 
 
