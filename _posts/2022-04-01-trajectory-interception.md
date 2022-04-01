@@ -43,7 +43,7 @@ ${t s_B}² = {BA}² + {t s_A}² + 2 t \vec{BA}.\vec{v_A}$
 
 or
 
-$ ({s_A}² - {s_B}²) \bm{t}² + 2 \vec{BA}.\vec{v_A} \bm{t} + {BA}² = 0 $, a quadratic equation in $\bm{t}$ that we can solve.
+$ ({s_A}² - {s_B}²) \bm{t}² + 2 \vec{BA}.\vec{v_A} \bm{t} + {BA}² = 0 $, a quadratic equation in $\bm{t}$ that we can now solve.
 
 Then if a solution exist, it can be injected in (1).
 
