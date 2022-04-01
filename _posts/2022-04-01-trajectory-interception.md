@@ -17,10 +17,18 @@ http://ideone.com/AIr3hg)
 
 Instead of previous model, consider that we collide at time $t$. With $\vec{v_A}$ and $\vec{v_B}$ being respective vector speed of $A$ and $B$ we got:
 
-$A + t \vec{v_A}= B + t \vec{v_B} = C$ the point of collision.
+$(1) A + t \vec{v_A}= B + t \vec{v_B} = C$ the point of collision.
 
 Everything is known, except $t$ and $\vec{v_A}$ for which we know only the norm (= the speed), but not the optimal direction.
 
+Now lets call $d=AC$ the distance from A to the collision point. 
+This distance (the value) is equal to $t \| \vec{v_A} \|$ that is time mulplied by linear speed.
+
+This with pythagore theorem, gives
+
+$(2) (x_c - x_a)² + (y_c - y_a)² = ( t s)² $
+
+We can then express t 
 
 
 
