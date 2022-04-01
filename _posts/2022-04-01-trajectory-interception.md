@@ -17,7 +17,7 @@ http://ideone.com/AIr3hg)
 
 Instead of previous model, consider that we collide at time $t$. With $\vec{v_A}$ and $\vec{v_B}$ being respective vector speed of $A$ and $B$ we got:
 
-$(1) A + t \vec{v_A}= B + t \vec{v_B} = C$ the point of collision.
+$A + t \vec{v_A}= B + t \vec{v_B} = C$ the point of collision (1).
 
 Everything is known, except $t$ and $\vec{v_A}$ for which we know only the norm (= the speed), but not the optimal direction.
 
@@ -45,6 +45,7 @@ or
 
 $ ({s_A}² - {s_B}²) t² + 2 \vec{BA}.\vec{v_A} t + {AB}² = 0 $ a quadratic equation in $t$ that we can solve.
 
+Then if a solution exist, it can be injected in (1).
 
 
 
