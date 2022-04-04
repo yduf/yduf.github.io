@@ -15,7 +15,8 @@ It is straightforward that, since we are looking for the fastest catch, Alice’
 > I had to solve the same problem at some point, and worked out [this quadratic equation that solved it](
 http://ideone.com/AIr3hg)
 
-## My interpretation*
+## My interpretation
+
 Instead of previous model, consider that we collide at a time $t$. With $\vec{v_A}$ and $\vec{v_B}$ being respective vector speed of $A$ and $B$ we got:
 
 $A + t \vec{v_A}= B + t \vec{v_B} = C$ the point of collision (1).
