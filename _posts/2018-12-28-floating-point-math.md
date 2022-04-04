@@ -1,6 +1,6 @@
 ---
 published: true
-title: "[Floating-point] math is hard"
+title: '[Floating-point] math is hard'
 tags: math float collision
 ---
 > This one gives solid advice and some surprising observations about the tricky subject of comparing floating-point numbers. - [Comparing Floating Point Numbers, 2012 Edition](https://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/) / [HN](https://news.ycombinator.com/item?id=24735824)
