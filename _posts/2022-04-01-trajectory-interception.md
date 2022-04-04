@@ -10,11 +10,12 @@ It is straightforward that, since we are looking for the fastest catch, Alice’
 
 ![caption](http://zulko.github.io/images/alice/alice_schema.jpeg) 
 
-## [stackoverflow](https://stackoverflow.com/questions/17204513/how-to-find-the-interception-coordinates-of-a-moving-target-in-3d-space)
+## [Stackoverflow](https://stackoverflow.com/questions/17204513/how-to-find-the-interception-coordinates-of-a-moving-target-in-3d-space)
 
 > I had to solve the same problem at some point, and worked out [this quadratic equation that solved it](
 http://ideone.com/AIr3hg)
 
+## My interpretation*
 Instead of previous model, consider that we collide at a time $t$. With $\vec{v_A}$ and $\vec{v_B}$ being respective vector speed of $A$ and $B$ we got:
 
 $A + t \vec{v_A}= B + t \vec{v_B} = C$ the point of collision (1).
