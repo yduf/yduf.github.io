@@ -10,8 +10,6 @@ It is straightforward that, since we are looking for the fastest catch, Alice’
 
 ![caption](http://zulko.github.io/images/alice/alice_schema.jpeg) 
 
-## [Stackoverflow](https://stackoverflow.com/questions/17204513/how-to-find-the-interception-coordinates-of-a-moving-target-in-3d-space)
-
 > I had to solve the same problem at some point, and worked out [this quadratic equation that solved it](
 http://ideone.com/AIr3hg)
 
@@ -50,6 +48,8 @@ $ ({s_B}² - {s_A}²) \boldsymbol t² + ( 2 \vec{AB}.\vec{v_B}) \boldsymbol t + 
 Then if a solution exist, it can be injected in (1) to compute $C$.
 
 
+see also:
+- [Stackoverflow](https://stackoverflow.com/questions/17204513/how-to-find-the-interception-coordinates-of-a-moving-target-in-3d-space)
 
 
 
