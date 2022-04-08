@@ -19,4 +19,6 @@ tags: despair.com science
 
 - [On sait que c'est fake. On s'en balek](https://www.youtube.com/watch?v=W18vrY0SaT8) - Cette façon dont les faits s'effacent et le vrai s'affaisse quand, sous la surface, le faux se professe.
 
+- [Microplastics found in live human lung tissue](Microplastics found in live human lung tissue) - Note however that US academic institutions basically cut all research into these subjects due to political and industrial pressure. It started with Republican attacks on USGS funding for environmental pollution research in the early 1990s, and continued with NIH cutting funding for environmental carcinogen research in favor of inheritied genetic explanations for cancer. Hence, 'little firm evidence'. 
+
 [ ![caption](https://upload.wikimedia.org/wikipedia/commons/c/ca/The_Isolator_%28cropped%29.jpg)](https://laughingsquid.com/the-isolator-bizarre-helmet-1925/)
