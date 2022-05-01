@@ -25,3 +25,6 @@ there is only [765](https://stackoverflow.com/a/32019787/51386) boards:
 Player X can win or force a draw from any of these starting marks; however, playing the corner gives the opponent the smallest choice of squares which must be played to avoid losing. This might suggest that the corner is the best opening move for X, however another study shows that if the players are not perfect, an opening move in the center is best for X.
 
 - [Map of optimal tic-tac-toe moves (xkcd)](https://xkcd.com/832/)
+
+## Divers
+- [Ce que vous ne savez pas sur le morpion - Aline Parreau](https://www.youtube.com/watch?v=Ya69dn_vZYw) - sur une grille infinie, si on etend les regles, le deuxieme joueur quand meme systematiquement empecher le premier d'aligner 4 pions. Pavage du plan avec des H.
