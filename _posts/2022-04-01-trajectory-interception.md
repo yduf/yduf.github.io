@@ -50,7 +50,3 @@ Then if a solution exist, it can be injected in (1) to compute $C$.
 
 see also:
 - [Stackoverflow](https://stackoverflow.com/questions/17204513/how-to-find-the-interception-coordinates-of-a-moving-target-in-3d-space)
-
-
-
-
