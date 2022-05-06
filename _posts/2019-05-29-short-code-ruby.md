@@ -7,6 +7,8 @@ tags: ruby codingame string array
 ### Read inputs
 {% highlight ruby %}
 a,b,c=gets.split.map(&:to_i)
+
+STDIN.read.split("\n") #read until EOF rather than iterate
 {% endhighlight %}
 
 ## [String](https://ruby-doc.org/core-3.0.1/String.html)
@@ -73,6 +75,11 @@ array.reduce(:+)		# or inject (alias)
 ### [repeating text](https://stackoverflow.com/a/2297020/51386)
 {% highlight ruby %}
 "0" * 99
+{% endhighlight %}
+
+### [Word count](https://stackoverflow.com/a/56673994/51386)
+{% highlight ruby %}
+["a", "b", "c", "b"].tally #=> {"a"=>1, "b"=>2, "c"=>1}
 {% endhighlight %}
 
 ### p (puts)
