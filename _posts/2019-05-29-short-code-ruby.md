@@ -34,6 +34,11 @@ s.split.join(' ') #=> "Hello, my name is Michael."
 str.each_char.with_index { |c,i| puts c,i }
 {% endhighlight %}
 
+### [Formatting](https://www.rubyguides.com/2012/01/ruby-string-formatting/)
+{% highlight ruby %}
+puts "%0.1f %s" % [a,b]
+{% endhighlight %}
+
 ### [Character values to Strings](https://makandracards.com/makandra/40838-ruby-converting-utf-8-codepoints-to-characters) && [SO](https://stackoverflow.com/questions/143822/ruby-character-to-ascii-from-a-string)
 {% highlight ruby %}
 116.chr          # => "t"
