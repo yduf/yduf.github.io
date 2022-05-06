@@ -57,6 +57,14 @@ str.each_char.with_index { |c,i| puts c,i }
 [1, nil, 3, nil, nil].compact => [1, 3] 
 {% endhighlight %}
 
+### [Reverse Sort](https://stackoverflow.com/a/13222883/51386)
+{% highlight ruby %}
+a = ["test", "test2", "s"]
+a.sort_by!{|str| str.length}.reverse!
+
+a.sort_by! { |s| -s.length } # shorter
+{% endhighlight %}
+
 ### Apply method on each elment
 {% highlight ruby %}
 array.map!(&:to_i)
