@@ -34,7 +34,7 @@ s.split.join(' ') #=> "Hello, my name is Michael."
 str.each_char.with_index { |c,i| puts c,i }
 {% endhighlight %}
 
-### [Formatting](https://www.rubyguides.com/2012/01/ruby-string-formatting/)
+### [Formatting](https://www.rubyguides.com/2012/01/ruby-string-formatting/) using [String.format]({% post_url 2018-08-27-string-int %}#ruby)
 {% highlight ruby %}
 puts "%0.1f %s" % [a,b]
 {% endhighlight %}
