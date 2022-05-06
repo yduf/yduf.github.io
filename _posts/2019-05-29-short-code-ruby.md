@@ -90,7 +90,7 @@ array.reduce(:+)		# or inject (alias)
 "0" * 99
 {% endhighlight %}
 
-### [Word count](https://stackoverflow.com/a/56673994/51386)
+### [Word count](https://stackoverflow.com/a/56673994/51386) with [Enumerable.tally](https://ruby-doc.org/core-3.1.2/Enumerable.html#method-i-tally)
 {% highlight ruby %}
 ["a", "b", "c", "b"].tally #=> {"a"=>1, "b"=>2, "c"=>1}
 {% endhighlight %}
