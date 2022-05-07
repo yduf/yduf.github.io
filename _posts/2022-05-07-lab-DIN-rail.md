@@ -3,6 +3,8 @@ published: true
 title: DIN rail
 tags: lab tools
 ---
+> a metal rail of a standard type widely used for mounting circuit breakers and industrial control equipment inside equipment racks. - [wikipedia](https://en.wikipedia.org/wiki/DIN_rail)
+
 - [DIN rails to support electronic project](https://www.youtube.com/watch?v=x_K3h05tQXc) / hat rails 
 
 vs 
