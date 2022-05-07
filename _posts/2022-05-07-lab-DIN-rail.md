@@ -1,6 +1,6 @@
 ---
 published: true
-title: DIN rail
+title: DIN rail vs French CLEAT
 tags: lab tools
 ---
 > a metal rail of a standard type widely used for mounting circuit breakers and industrial control equipment inside equipment racks. - [wikipedia](https://en.wikipedia.org/wiki/DIN_rail)
