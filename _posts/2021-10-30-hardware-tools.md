@@ -4,9 +4,9 @@ title: Tools
 tags: lab hardware tools
 ---
 ### [Perceuse à colonne Bosch PBD 40](https://www.bricolage-facile.net/test-avis-perceuse-a-colonne-pbd-40-bosch/) / [mano mano 270€](https://www.manomano.fr/p/perceuse-a-colonne-pbd40-bosch-51376)
-	- [review](https://www.woodworkforums.com/f171/bosch-pbd-40-bench-drill-218092) / [2](https://www.woodworkforums.com/f155/bosch-710w-corded-bench-drill-211213)
-    - [Handle](https://www.thingiverse.com/thing:4190421) / [DRILL HANDLE V2](https://www.thingiverse.com/thing:3732317)
-    - [Dust collector ](https://www.thingiverse.com/thing:4063290)
+- [review](https://www.woodworkforums.com/f171/bosch-pbd-40-bench-drill-218092) / [2](https://www.woodworkforums.com/f155/bosch-710w-corded-bench-drill-211213)
+- [Handle](https://www.thingiverse.com/thing:4190421) / [DRILL HANDLE V2](https://www.thingiverse.com/thing:3732317)
+- [Dust collector ](https://www.thingiverse.com/thing:4063290)
 
 vs [Scheppach DP60](https://www.youtube.com/watch?v=BTVz-uoeb8M) / [Parkside](https://www.youtube.com/watch?v=C--KbdsqSUA)
 
