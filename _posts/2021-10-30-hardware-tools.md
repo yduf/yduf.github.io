@@ -18,5 +18,6 @@ vs [Scheppach DP60](https://www.youtube.com/watch?v=BTVz-uoeb8M) / [Parkside](ht
 - [Einhell Scie à onglet radiale TC-SM 2131/1 Dual](https://www.amazon.fr/Einhell-TC-SM-2131-glissi%C3%A8re-dispositif-tungst%C3%A8ne/dp/B0816WP4JW/ref=sr_1_5?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1O6PMV4XM6I2O&keywords=scie+onglet&qid=1651934990&sprefix=scie+onglet%2Caps%2C175&sr=8-5) / [test]()
 
 - [coupe acier](https://www.youtube.com/watch?v=kJbt9unnjOo) / [2](https://www.youtube.com/watch?v=TkvU6Dg6ivg)
+- [couper a la scie radiale](https://www.youtube.com/watch?v=QLYCeIpjXWw)
 
 ### [Band saw Vs Chop saw - Scheppach MBS1100 Metal Cutting Band Saw 127mm - Review and modifications](https://www.youtube.com/watch?v=X5_m1PGU_Js&list=LL&index=8)
