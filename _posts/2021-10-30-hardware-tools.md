@@ -20,6 +20,7 @@ vs [Scheppach DP60](https://www.youtube.com/watch?v=BTVz-uoeb8M) / [Parkside](ht
 
 - [couper a la scie radiale](https://www.youtube.com/watch?v=QLYCeIpjXWw)
 
+- [coupe aluminium](https://askinglot.com/can-i-put-a-metal-cutting-blade-on-my-mitre-saw)
 - [coupe acier](https://www.youtube.com/watch?v=kJbt9unnjOo) / [2](https://www.youtube.com/watch?v=TkvU6Dg6ivg)
 	- [Can You Cut Metal With a Miter Saw Without Damaging It?](https://thetoolscout.com/can-you-cut-metal-with-a-miter-saw/) / [2](https://handyman.guide/cutting-metal-with-miter-saw-how/)
     
