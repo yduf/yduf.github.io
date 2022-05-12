@@ -25,3 +25,11 @@ vs [Scheppach DP60](https://www.youtube.com/watch?v=BTVz-uoeb8M) / [Parkside](ht
 	- [Can You Cut Metal With a Miter Saw Without Damaging It?](https://thetoolscout.com/can-you-cut-metal-with-a-miter-saw/) / [2](https://handyman.guide/cutting-metal-with-miter-saw-how/)
     
 ### [Band saw Vs Chop saw - Scheppach MBS1100 Metal Cutting Band Saw 127mm - Review and modifications](https://www.youtube.com/watch?v=X5_m1PGU_Js&list=LL&index=8)
+
+### [Aspirateur Chantier](https://www.youtube.com/watch?v=f_aXEV_BllU)
+
+- Kpa: > 20
+- l/mm > 4000 / 65 l/s
+- db: le minium 60db
+
+- [Einhell Aspirateur eaux et poussières TE-VC 2230](https://www.manomano.fr/p/aspirateur-eaux-et-poussiere-te-vc-2230-sa-1524010)
