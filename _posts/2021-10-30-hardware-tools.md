@@ -37,3 +37,6 @@ vs [Scheppach DP60](https://www.youtube.com/watch?v=BTVz-uoeb8M) / [Parkside](ht
 - [Tuto : Démarrage automatique pour aspirateur à copeaux](https://www.youtube.com/watch?v=wGa-r4M88k0)
 
 ### [Cyclone d'atelier](https://www.youtube.com/watch?v=ZUT4XFnr1cc)
+
+
+### [scie sou table](https://www.youtube.com/watch?v=_kX8xAWHdsY
