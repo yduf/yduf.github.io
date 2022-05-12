@@ -30,6 +30,8 @@ vs [Scheppach DP60](https://www.youtube.com/watch?v=BTVz-uoeb8M) / [Parkside](ht
 
 - Kpa: > 20
 - l/mm > 4000 / 65 l/s
-- db: le minium 60db
+- db: le minimum 60db
 
 - [Einhell Aspirateur eaux et poussières TE-VC 2230](https://www.manomano.fr/p/aspirateur-eaux-et-poussiere-te-vc-2230-sa-1524010)
+
+### [Cyclone d'atelier](https://www.youtube.com/watch?v=ZUT4XFnr1cc)
