@@ -34,4 +34,6 @@ vs [Scheppach DP60](https://www.youtube.com/watch?v=BTVz-uoeb8M) / [Parkside](ht
 
 - [Einhell Aspirateur eaux et poussières TE-VC 2230](https://www.manomano.fr/p/aspirateur-eaux-et-poussiere-te-vc-2230-sa-1524010)
 
+- [Tuto : Démarrage automatique pour aspirateur à copeaux](https://www.youtube.com/watch?v=wGa-r4M88k0)
+
 ### [Cyclone d'atelier](https://www.youtube.com/watch?v=ZUT4XFnr1cc)
