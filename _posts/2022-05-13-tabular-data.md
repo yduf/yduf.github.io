@@ -7,6 +7,8 @@ tags: file db array
 
 **csv** -- Simple for simple use cases, text-based, however many edge cases, feature lacking etc
 
+**ndjson** -- [every line is a json object](https://news.ycombinator.com/item?id=31256664)
+
 **xlsx** -- Works in excel, ubiquitous format with a standard, however complicated and missing scientific features
 
 **sqlite** -- Designed for relational data, somewhat ubiquitous, types defined but not enforced
