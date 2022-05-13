@@ -5,8 +5,11 @@ tags: linux-system desktop application
 ---
 > one of the best alternatives to Microsoft Windows and Apple MacOS. - [Linux Mint](https://linuxmint.com/about.php)
 
+- [Wayland?](https://forums.linuxmint.com/viewtopic.php?t=361316)
+
 ### Cinnamon Add shortcut to panel
 This require to add the launcher app to panel (default panel, allows only unpin, not add)
+
 
 ### [Recent files](https://askubuntu.com/questions/540661/how-do-i-disable-the-recent-files-feature-in-the-cinnamon-desktop-environment) - pull up the menu, type 'privacy' 
 
