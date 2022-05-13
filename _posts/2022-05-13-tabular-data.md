@@ -14,6 +14,7 @@ tags: file db array
 **sqlite** -- Designed for relational data, somewhat ubiquitous, types defined but not enforced
 
 **parquet** / **hdf5** / **apache feather** / etc -- Designed for scientific use cases, robust, efficient, less ubiquitous
+	- [DuckDB](https://news.ycombinator.com/item?id=31220841) is a lightweight and super fast library/CLI for working with Parquet. It’s SQLite for column formats
 
 **capn proto**, **prototype buffers**, **avro**, **thrift** -- Has specific features for data communication between systems
 
