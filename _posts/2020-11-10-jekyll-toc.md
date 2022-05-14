@@ -8,3 +8,5 @@ tags: jekyll
 - [ Automatic Table of Contents ](https://css-tricks.com/automatic-table-of-contents/)
 - [Markdown All in One, TOC generation on edit](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one#table-of-contents)
 - [Simple Table of Contents (ToC) Using Pure HTML and CSS Code](https://www.tipsandtricks-hq.com/simple-table-of-contents-toc-using-pure-html-and-css-code-9217)
+
+- [ Side Navigation (JS)](https://www.w3schools.com/howto/howto_js_sidenav.asp)
