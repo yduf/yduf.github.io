@@ -18,7 +18,7 @@ vs [Scheppach DP60](https://www.youtube.com/watch?v=BTVz-uoeb8M) / [Parkside](ht
 - [MAKITA LS1018LN](https://www.amazon.fr/Makita-LS1018LN-Scie-Onglet-Bleu/dp/B07RFM5YKM/ref=sr_1_33?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1O6PMV4XM6I2O&keywords=scie+onglet&qid=1651934990&sprefix=scie+onglet%2Caps%2C175&sr=8-33) / [test](https://www.youtube.com/watch?v=V0QGDsxQ1KI)
 - [Einhell TE-SM 254 Dual](https://www.amazon.fr/Einhell-puissance-fonction-%C2%AB-Spindle-Lock-%C2%BB-tungst%C3%A8ne/dp/B082MN9TVD/ref=sr_1_9?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1O6PMV4XM6I2O&keywords=scie%2Bonglet&qid=1651934990&sprefix=scie%2Bonglet%2Caps%2C175&sr=8-9&th=1)
 - [Einhell Scie à onglet radiale TC-SM 2131/1 Dual](https://www.amazon.fr/Einhell-TC-SM-2131-glissi%C3%A8re-dispositif-tungst%C3%A8ne/dp/B0816WP4JW/ref=sr_1_5?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1O6PMV4XM6I2O&keywords=scie+onglet&qid=1651934990&sprefix=scie+onglet%2Caps%2C175&sr=8-5) / [test]()
-- [ENERGYSAW-254SB PEUGEOT](https://www.bricozor.com/scie-onglets-radiale-double-inclinaison-energysaw-254sb-peugeot.html)
+- [ENERGYSAW-254SB PEUGEOT](https://www.bricozor.com/scie-onglets-radiale-double-inclinaison-energysaw-254sb-peugeot.html) / [manual](https://manuall.co.uk/peugeot-energysaw-254sb-mitre-saw/)
 
 - [couper a la scie radiale](https://www.youtube.com/watch?v=QLYCeIpjXWw)
 
