@@ -39,6 +39,15 @@ str.each_char.with_index { |c,i| puts c,i }
 puts "%0.1f %s" % [a,b]
 {% endhighlight %}
 
+### Hex/Binary conversion
+{% highlight ruby %}
+puts "%x" % 10 # a
+puts "%X" % 10 # A
+puts "%#x" % 10 # 0ba , probleme 0 => gives 0 and not 0x0
+puts 10.hex
+
+{% endhighlight %}
+
 ### [Character values to Strings](https://makandracards.com/makandra/40838-ruby-converting-utf-8-codepoints-to-characters) && [SO](https://stackoverflow.com/questions/143822/ruby-character-to-ascii-from-a-string)
 {% highlight ruby %}
 116.chr          # => "t"
