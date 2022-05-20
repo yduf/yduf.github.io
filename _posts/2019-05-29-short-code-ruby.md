@@ -105,4 +105,4 @@ array.reduce(:+)		# or inject (alias)
 ["a", "b", "c", "b"].tally #=> {"a"=>1, "b"=>2, "c"=>1}
 {% endhighlight %}
 
-### p (puts)
+### [p vs puts](https://www.rubyguides.com/2018/10/puts-vs-print/)
