@@ -39,12 +39,13 @@ str.each_char.with_index { |c,i| puts c,i }
 puts "%0.1f %s" % [a,b]
 {% endhighlight %}
 
-### Hex/Binary conversion
+### [Hex/Binary conversion](https://docs.ruby-lang.org/en/3.0/String.html#method-i-hex)
 {% highlight ruby %}
 puts "%x" % 10 # a
 puts "%X" % 10 # A
 puts "%#x" % 10 # 0ba , probleme 0 => gives 0 and not 0x0
-puts 10.hex
+
+"0x0a".hex  # => 10
 
 {% endhighlight %}
 
