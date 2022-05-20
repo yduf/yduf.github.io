@@ -34,7 +34,7 @@ s.split.join(' ') #=> "Hello, my name is Michael."
 str.each_char.with_index { |c,i| puts c,i }
 {% endhighlight %}
 
-### [Formatting](https://www.rubyguides.com/2012/01/ruby-string-formatting/) using [String.format]({% post_url 2018-08-27-string-int %}#ruby)
+### [Formatting](https://www.rubyguides.com/2012/01/ruby-string-formatting/) using [String.format]({% post_url 2018-08-27-string-int %}#ruby) / [sprintf](https://ruby-doc.org/core-2.0.0/Kernel.html#method-i-sprintf)
 {% highlight ruby %}
 puts "%0.1f %s" % [a,b]
 {% endhighlight %}
@@ -70,7 +70,7 @@ a.sort_by!{|str| str.length}.reverse!
 a.sort_by! { |s| -s.length } # shorter
 {% endhighlight %}
 
-### Apply method on each elment
+### Apply method on each element
 {% highlight ruby %}
 array.map!(&:to_i)
 {% endhighlight %}
