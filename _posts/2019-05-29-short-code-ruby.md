@@ -60,7 +60,7 @@ puts "%#x" % 10 # 0ba , probleme 0 => gives 0 and not 0x0
 "string".bytes   # =>  "string".chars.map(&:ord)
 {% endhighlight %}
 
-## [Array](https://ruby-doc.org/core-3.0.1/Array.html) / [Hash](https://ruby-doc.org/core-3.1.2/Hash.html)
+## [Array](2021-10-09-ruby-array) / [Ruby-doc](https://ruby-doc.org/core-3.0.1/Array.html) / [Hash](https://ruby-doc.org/core-3.1.2/Hash.html)
 ### [Array from range](https://stackoverflow.com/questions/191329/correct-way-to-populate-an-array-with-a-range-in-ruby/6587096#6587096)
 {% highlight ruby %}
 *(1..10)         # => [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
