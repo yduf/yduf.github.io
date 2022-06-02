@@ -9,3 +9,5 @@ tags: lab tools
 
 - [foldable bench](https://www.youtube.com/watch?v=3QszufFTN58&list=LL&index=4)
 - [chariot de soudage](https://www.youtube.com/watch?v=4QVkGkJT_kE)
+
+- clamp / serre-joint [Clamping Tips & Tricks](https://www.youtube.com/watch?v=zIxPDbEcqcA)
