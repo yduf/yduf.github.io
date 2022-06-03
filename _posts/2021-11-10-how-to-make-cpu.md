@@ -7,6 +7,7 @@ tags: cpu
 
 Not hypothetical anymore
 - ["Z2" - Upgraded Homemade Silicon Chips](https://www.youtube.com/watch?v=IS5ycm7VfXg&list=LL&index=70)
+	- [Home Chip Lab (Sam Zeloof)](http://sam.zeloof.xyz/category/semiconductor/)
 
 see also
 - [How are microchips made?](https://www.youtube.com/watch?v=g8Qav3vIv9s)
