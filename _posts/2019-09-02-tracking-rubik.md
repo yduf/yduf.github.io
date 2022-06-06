@@ -1,9 +1,9 @@
 ---
 published: true
-title: Recognising Rubik's Cubes (Robot)
+title: Cube solver
 tags: rubik opencv robot lego
 ---
-## [backup](https://github.com/yduf/ruby-kube)
+> Recognising Rubik Cube - [backup](https://github.com/yduf/ruby-kube)
 
 [![caption](https://img.youtube.com/vi/VaW1dmqRE0o/0.jpg)](https://www.youtube.com/watch?v=VaW1dmqRE0o)
 
@@ -29,3 +29,7 @@ tags: rubik opencv robot lego
 
 ### LEGO
 - [Tilted Twister 2.0](https://tiltedtwister.com/tiltedtwister2.html) / [parts](https://tiltedtwister.com/tt2partslist.html) / [download](https://tiltedtwister.com/tt2download.html)
+
+
+### 3Dprinted
+- [CUBOTino](https://www.instructables.com/CUBOTino-Autonomous-Small-3D-Printed-Rubiks-Cube-R/?utm_source=newsletter&utm_medium=email)
