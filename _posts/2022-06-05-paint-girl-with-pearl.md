@@ -1,7 +1,7 @@
 ---
 published: true
 title: Girl with Pearl
-tags: paint
+tags: paint art
 ---
 > [ Johannes Vermeer, 1665](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
 
