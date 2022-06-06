@@ -7,4 +7,4 @@ tags: math avx intel matrix algebra
 - [HN](https://news.ycombinator.com/item?id=17164737)
 
 see also
-- [Matrix Multiplication](http://matrixmultiplication.xyz/) - animated computation
+- [Matrix Multiplication](http://matrixmultiplication.xyz/) - animated computation / [HN](https://news.ycombinator.com/item?id=13036386)
