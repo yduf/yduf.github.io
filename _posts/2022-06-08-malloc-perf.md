@@ -1,7 +1,7 @@
 ---
 published: true
 title: Malloc perf
-tags: malloc memory allocator c++ fastware
+tags: malloc memory allocator c++ fastware latency
 ---
 > What is the worst-case performance for malloc on a modern machine in practice? - [Benchmarking Malloc with Doom 3 - ForrestTheWoods](https://www.forrestthewoods.com/blog/benchmarking-malloc-with-doom3/)
 
@@ -26,3 +26,6 @@ How much latency is too much? A Reddit discussion contained a rule of thumb I li
 2000ms - works for streaming   
 
 ![caption](https://www.forrestthewoods.com/blog/benchmarking-malloc-with-doom3/assets/img/header.png) 
+
+see also
+- [Memory Bandwidth Napkin Math](https://www.forrestthewoods.com/blog/memory-bandwidth-napkin-math/)
