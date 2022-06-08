@@ -3,7 +3,7 @@ published: true
 title: Malloc perf
 tags: malloc memory allocator c++ fastware
 ---
-> [Benchmarking Malloc with Doom 3 - ForrestTheWoods](https://www.forrestthewoods.com/blog/benchmarking-malloc-with-doom3/)
+> What is the worst-case performance for malloc on a modern machine in practice? - [Benchmarking Malloc with Doom 3 - ForrestTheWoods](https://www.forrestthewoods.com/blog/benchmarking-malloc-with-doom3/)
 
 ### some observations
 CRT is quite bad  
