@@ -33,3 +33,7 @@ tags: rubik opencv robot lego
 
 ### 3Dprinted
 - [CUBOTino](https://www.instructables.com/CUBOTino-Autonomous-Small-3D-Printed-Rubiks-Cube-R/?utm_source=newsletter&utm_medium=email)
+
+### Commercial
+
+- [GAN](https://www.youtube.com/watch?v=ymOTs6P7Pzg) / [amazon](https://www.amazon.fr/product-reviews/B081CWHMNL/ref=acr_dp_hist_1?ie=UTF8&filterByStar=one_star&reviewerType=all_reviews#reviews-filter-bar)
