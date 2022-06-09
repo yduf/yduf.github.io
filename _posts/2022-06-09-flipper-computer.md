@@ -1,7 +1,7 @@
 ---
 published: true
 title: Pinball computer
-tags: pinball computer hardware
+tags: pinball computer arcade hardware
 ---
 > Electrocute yourself debugging in a pre commputer era - [Working On Gottlieb's 1974 BIG SHOT Pinball Machine](https://www.youtube.com/watch?v=-Ws-0IrZNqo) / [2](https://www.youtube.com/watch?v=6JSWAcdkcjc) / [3](https://www.youtube.com/watch?v=rhPQk2onadg)
 
