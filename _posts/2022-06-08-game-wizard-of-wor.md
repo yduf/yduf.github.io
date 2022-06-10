@@ -1,6 +1,6 @@
 ---
 published: true
-title: Wiard of Wor
+title: Wizard of Wor
 tags: games arcade
 ---
 > Same voice chip as QBert - [wikipedia](https://en.wikipedia.org/wiki/Wizard_of_Wor) / [youtube](https://www.youtube.com/watch?v=3dc9q1ZxPiI)
