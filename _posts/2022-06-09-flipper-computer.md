@@ -8,4 +8,8 @@ tags: pinball computer arcade hardware
 - [flipjuke.fr](https://flipjuke.fr/viewforum.php?f=5) - Les petites annonces (flipper, machine à sous, juke et jeux video)
 - [The Internet Pinball Database](https://www.ipdb.org/machine.cgi?id=997)
 
+### [Count-Down (Gotlieb)](https://www.ipdb.org/machine.cgi?id=573)
+-  EM version of this game is [Gottlieb's 1979 'Space Walk'](https://www.ipdb.org/machine.cgi?id=2263)
+
+
 ![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.redd.it%2F8gbtqo1rgrzz.jpg&f=1&nofb=1)
