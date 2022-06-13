@@ -23,6 +23,7 @@ Joe's Classic Video Games](https://www.youtube.com/watch?v=3KA71VGiyTg)  - 2500â
 ### [Bucket Roger](https://www.youtube.com/embed/23ZBLgNgwnA) - [2600â‚¬](https://www.lyon-flipper.com/flippers/gottlieb/buck-rogers)
 
 ## vente
+- [Lyon Flippers](https://www.lyon-flipper.com/flippers)
 - [Flippers](http://www.equipjeux.fr/nos-jeux/flippers/98-flipper-tales-of-the-arabian-night.html)
 - [Vegas flipper](https://www.flipper-paris.com/fr,1,7702.html)
 - [le coin du pro](https://www.lecoindupro.com/Search.aspx?c=3367)
