@@ -12,12 +12,14 @@ tags: pinball computer arcade hardware
 Joe's Classic Video Games](https://www.youtube.com/watch?v=3KA71VGiyTg)  - 2500€
 -  EM version of this game is [Gottlieb's 1979 'Space Walk'](https://www.ipdb.org/machine.cgi?id=2263)
 
-### [Tales Of The Arabian Nights](https://www.ipdb.org/search.pl?any=arabian&sortby=name&search=Search+Database&searchtype=quick#3824) / [youtube play](https://www.youtube.com/watch?v=OWwYNpowchE) / [2](https://www.youtube.com/watch?v=BVvyOblAGw0) / [3](https://www.youtube.com/watch?v=nWPQHDjG88U) / [4](https://www.youtube.com/watch?v=gdJq-T-kz9g) / [Flippers](http://www.equipjeux.fr/nos-jeux/flippers/98-flipper-tales-of-the-arabian-night.html) - [4100€](https://www.catawiki.com/fr/a/th/939-ventes-de-flippers)
+### [Tales Of The Arabian Nights](https://www.ipdb.org/search.pl?any=arabian&sortby=name&search=Search+Database&searchtype=quick#3824) / [youtube play](https://www.youtube.com/watch?v=OWwYNpowchE) / [2](https://www.youtube.com/watch?v=BVvyOblAGw0) / [3](https://www.youtube.com/watch?v=nWPQHDjG88U) / [4](https://www.youtube.com/watch?v=gdJq-T-kz9g)  - [4100€](https://www.catawiki.com/fr/a/th/939-ventes-de-flippers)
 - [quels détails regarder ?](https://www.flipperfrance.com/threads/flipper-tales-of-the-arabian-nights-quels-d%C3%A9tails-regarder.690/)
 - [resto de mon Tales Of Arabian Nights](https://flipperfrance.com/threads/voici-le-d%C3%A9roulement-de-la-resto-de-mon-tales-of-arabian-nights.18064/)
 
 ## vente
+- [Flippers](http://www.equipjeux.fr/nos-jeux/flippers/98-flipper-tales-of-the-arabian-night.html)
 - [Vegas flipper](https://www.flipper-paris.com/fr,1,7702.html)
 - [le coin du pro](https://www.lecoindupro.com/Search.aspx?c=3367)
+- [passetonannonce](https://www.passetonannonce.com/jeux-video-annonces-flippers-1.html)
 
 ![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.redd.it%2F8gbtqo1rgrzz.jpg&f=1&nofb=1)
