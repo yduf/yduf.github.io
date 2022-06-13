@@ -16,4 +16,6 @@ Joe's Classic Video Games](https://www.youtube.com/watch?v=3KA71VGiyTg)  - 2500‚
 - [quels d√©tails regarder ?](https://www.flipperfrance.com/threads/flipper-tales-of-the-arabian-nights-quels-d%C3%A9tails-regarder.690/)
 - [resto de mon Tales Of Arabian Nights](https://flipperfrance.com/threads/voici-le-d%C3%A9roulement-de-la-resto-de-mon-tales-of-arabian-nights.18064/)
 
+- [le coin du pro](https://www.lecoindupro.com/Search.aspx?c=3367)
+
 ![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.redd.it%2F8gbtqo1rgrzz.jpg&f=1&nofb=1)
