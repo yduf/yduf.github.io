@@ -16,6 +16,8 @@ Joe's Classic Video Games](https://www.youtube.com/watch?v=3KA71VGiyTg)  - 2500�
 - [quels détails regarder ?](https://www.flipperfrance.com/threads/flipper-tales-of-the-arabian-nights-quels-d%C3%A9tails-regarder.690/)
 - [resto de mon Tales Of Arabian Nights](https://flipperfrance.com/threads/voici-le-d%C3%A9roulement-de-la-resto-de-mon-tales-of-arabian-nights.18064/)
 
+### [Medieval Madness](https://www.lyon-flipper.com/flippers/williams/medieval-madness) - 5600€
+
 ## vente
 - [Flippers](http://www.equipjeux.fr/nos-jeux/flippers/98-flipper-tales-of-the-arabian-night.html)
 - [Vegas flipper](https://www.flipper-paris.com/fr,1,7702.html)
