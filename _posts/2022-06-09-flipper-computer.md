@@ -9,8 +9,9 @@ tags: pinball computer arcade hardware
 - [The Internet Pinball Database](https://www.ipdb.org/machine.cgi?id=997)
 
 ### [Count-Down (Gotlieb)](https://www.ipdb.org/machine.cgi?id=573) / [Flippers](http://www.equipjeux.fr/nos-jeux/flippers/70-flipper-count-down.html) / [
-Joe's Classic Video Games](https://www.youtube.com/watch?v=3KA71VGiyTg)
+Joe's Classic Video Games](https://www.youtube.com/watch?v=3KA71VGiyTg) / 
 -  EM version of this game is [Gottlieb's 1979 'Space Walk'](https://www.ipdb.org/machine.cgi?id=2263)
 
+### []() / [youtube play](https://www.youtube.com/watch?v=OWwYNpowchE) / [2](https://www.youtube.com/watch?v=BVvyOblAGw0) / [3](https://www.youtube.com/watch?v=nWPQHDjG88U) / [4](https://www.youtube.com/watch?v=gdJq-T-kz9g) / [Flippers](http://www.equipjeux.fr/nos-jeux/flippers/98-flipper-tales-of-the-arabian-night.html)
 
 ![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.redd.it%2F8gbtqo1rgrzz.jpg&f=1&nofb=1)
