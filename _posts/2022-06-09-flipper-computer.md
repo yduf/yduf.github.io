@@ -18,6 +18,8 @@ Joe's Classic Video Games](https://www.youtube.com/watch?v=3KA71VGiyTg)  - 2500�
 
 ### [Medieval Madness](https://www.lyon-flipper.com/flippers/williams/medieval-madness) / [youtube](https://www.youtube.com/watch?v=gnvrXUMi0VM) - 5600€
 
+### [Attack From Mars](https://www.lyon-flipper.com/flippers/bally/attack-from-mars) / [youtube](https://www.youtube.com/embed/N7YMC1PULsk) - 4600€
+
 ## vente
 - [Flippers](http://www.equipjeux.fr/nos-jeux/flippers/98-flipper-tales-of-the-arabian-night.html)
 - [Vegas flipper](https://www.flipper-paris.com/fr,1,7702.html)
