@@ -22,7 +22,8 @@ tags: 3dprinter
 ## Direct Drive
 
 - [BIQU H2 Extruder V2.0 ](https://www.3djake.com/biqu/h2-extruder-v20)
-	- [BIQU H2 V2 swap](https://www.reddit.com/r/ender6/comments/rxcarq/finally_biqu_h2_v2_swap_ender_6/) - _everything else is stock _ - The H2 V2 has a full rectangular hot end, which means a bunch of thingiverse mounts were outdated
+	- [BIQU H2 V2 swap](https://www.reddit.com/r/ender6/comments/rxcarq/finally_biqu_h2_v2_swap_ender_6/) - _everything else is stock_ - The H2 V2 has a full rectangular hot end, which means a bunch of thingiverse mounts were outdated
+	- [Did the biqu h2 upgrade](https://www.reddit.com/r/ender6/comments/rvtlx8/did_the_biqu_h2_upgrade_everything_working_well/) - cable chain
 
 ![caption](https://cdn.shopify.com/s/files/1/1619/4791/products/9_601abe7a-ee33-40d1-9a38-8df2813b36f8_800x.jpg?v=1634899553)
 
