@@ -10,3 +10,4 @@ tags: cli gpu term image viewer quake
 see also:
 - [alacritty ](https://github.com/alacritty/alacritty) - the fastest terminal emulator in existence.
 - [Terminal image viewer]({% post_url 2017-11-16-TerminalImageViewer %})
+- [Casey Muratori’s refterm]({% post_url 2021-11-02-term-anatomy %})
