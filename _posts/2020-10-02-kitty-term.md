@@ -1,9 +1,12 @@
 ---
 published: true
-title: GPU optimized term
+title: GPU optimized term - Kitty
 tags: cli gpu term image viewer quake
 ---
 > the fast, featureful, GPU based terminal emulator - [kitty](https://sw.kovidgoyal.net/kitty/#quickstart) / [HN](https://news.ycombinator.com/item?id=24643008)
+
+### [Integration with other tools](https://sw.kovidgoyal.net/kitty/integrations/)
+kitty provides extremely powerful interfaces such as Control kitty from scripts and Custom kittens and icat that allow it to be integrated with other tools seamlessly. 
 
 - [Kitti3](https://github.com/LandingEllipse/kitti3) turns Kitty into a drop-down, Quake-style floating terminal.
 
