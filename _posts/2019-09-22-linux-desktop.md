@@ -3,7 +3,7 @@ published: true
 title: Linux Mint Desktop
 tags: linux-system desktop application
 ---
-> one of the best alternatives to Microsoft Windows and Apple MacOS. - [Linux Mint](https://linuxmint.com/about.php)
+> one of the best alternatives to Microsoft Windows and Apple MacOS. - [Linux Mint](https://linuxmint.com/about.php) /  [Cool desktops don’t change](https://news.ycombinator.com/item?id=31769604) 
 
 - [Wayland?](https://forums.linuxmint.com/viewtopic.php?t=361316)
 
