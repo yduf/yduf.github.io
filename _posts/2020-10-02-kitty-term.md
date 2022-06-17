@@ -8,5 +8,5 @@ tags: cli gpu term image viewer quake
 - [Kitti3](https://github.com/LandingEllipse/kitti3) turns Kitty into a drop-down, Quake-style floating terminal.
 
 see also:
-- [alacritty/alacritty ](https://github.com/alacritty/alacritty) - the fastest terminal emulator in existence.
+- [alacritty ](https://github.com/alacritty/alacritty) - the fastest terminal emulator in existence.
 - [Terminal image viewer]({% post_url 2017-11-16-TerminalImageViewer %})
