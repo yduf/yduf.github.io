@@ -7,4 +7,4 @@ tags: term
 
 see also
 - [Casey Muratori's](https://caseymuratori.com/) refterm [video series](https://news.ycombinator.com/item?id=29080561)
-	- [ Extremely slow performance when processing virtual terminal sequences #10362 ](https://github.com/microsoft/terminal/issues/10362) / [twitter](https://twitter.com/cmuratori/status/1522468481135902725)
+	- [ Extremely slow performance when processing virtual terminal sequences #10362 ](https://github.com/microsoft/terminal/issues/10362) / [twitter](https://twitter.com/cmuratori/status/1522468481135902725) / [2](https://twitter.com/cmuratori/status/1405356794495442945)
