@@ -7,8 +7,10 @@ tags: photo image freecad
 
 - [FreeCAD 0.20 : Création d'un roulement imprimable qui fonctionne](https://youtu.be/PMUxmlnYv1M?t=219)
 	- superposition de 2 images dans des plans orthogonaux pour simplifier la modélisation
-    	1. use Image workbench to import image. -> button create image plane
+		1. use Image workbench to import image. -> button create image plane
 		2. set scale -> button scale image plane
+        3. verify correctness by measuring with tool
+        4. image appearance -> select transparency
         
  Some bugs in current version => besoin de clicker en aveugle, mais ca marche
 
