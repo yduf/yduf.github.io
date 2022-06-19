@@ -11,12 +11,15 @@ tags: photo image freecad
 		2. set scale -> button scale image plane
         3. verify correctness by measuring with tool
         4. image appearance -> select transparency
+        5. view -> toggle axis 
+        6. then in draft workbench in auto mode use cross to move object to wanted location
+        7. angle can also be set see [align and sketch over the image](https://youtu.be/xQcDoAhmoa8?t=676)
         
  Some bugs in current version => besoin de clicker en aveugle, mais ca marche
 
 - [Image Scaling](https://wiki.freecadweb.org/Image_Scaling) - allow to [scale image](https://www.youtube.com/watch?v=xQcDoAhmoa8) between to points 
 	- [use a scale in image for better results](https://youtu.be/xQcDoAhmoa8?t=553)
-    - [align and sketch over the image](https://youtu.be/xQcDoAhmoa8?t=676)
+
 
 Some bugs in current version => besoin de clicker en aveugle, mais ca marche
 
