@@ -8,4 +8,7 @@ tags: term cli ascii video image
 
 [demo](https://www.youtube.com/watch?v=dcjkezf1ARY)
 
+see also
+- [Turbo Vision](https://github.com/magiblot/tvision) - the classical framework for text-based user interfaces. Now cross-platform and with Unicode support.
+
 [ ![caption](https://raw.githubusercontent.com/dankamongmen/notcurses/gh-pages/notcurses-info.png)  ](https://www.youtube.com/watch?v=dcjkezf1ARY)
