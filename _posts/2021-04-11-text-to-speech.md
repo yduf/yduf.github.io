@@ -3,7 +3,7 @@ published: true
 title: Text to Speech (TTS)
 tags: text speech
 ---
-> Silero V3: fast high-quality text-to-speech in 20 languages with 173 voices - [](https://github.com/snakers4/silero-models) / [HN](https://news.ycombinator.com/item?id=31807201)
+> fast high-quality text-to-speech in 20 languages with 173 voices - [Silero V3](https://github.com/snakers4/silero-models) / [HN](https://news.ycombinator.com/item?id=31807201)
 
 > TTS is a library for advanced Text-to-Speech generation. It's built on the latest research, was designed to achieve the best trade-off among ease-of-training, speed and quality. TTS comes with pretrained models, tools for measuring dataset quality and already used in 20+ languages for products and research projects. - [mozilla/TTS](https://github.com/mozilla/TTS) / [HN](https://news.ycombinator.com/item?id=26790951)
 
