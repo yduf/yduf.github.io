@@ -19,6 +19,11 @@ tags: 3dprinter
 
 - [Belt Tensioning and Replacement Belt Source](https://www.reddit.com/r/ender6/comments/prxn5o/belt_tensioning_and_replacement_belt_source/)
 
+## First layer
+- [Bed adhesion](https://www.reddit.com/r/3Dprinting/comments/9g7hmp/ender_3_creality_glass_bed_not_sticking/)
+	- for the 1st layer, bed temp 70
+	- for the 2nd layer, bed 60
+
 ## Direct Drive
 
 - [BIQU H2 Extruder V2.0 ](https://www.3djake.com/biqu/h2-extruder-v20)
