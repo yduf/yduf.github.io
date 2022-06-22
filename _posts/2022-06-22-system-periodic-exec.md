@@ -12,6 +12,8 @@ The modern option is to use a systemd timer unit. This requires creating a syste
 
 ### Running job as regular user
 
+- [systemd/Timers](https://wiki.archlinux.org/title/Systemd/Timers)
+
 in `$HOME/.config/systemd/user`
 
 **my-job.service**
