@@ -49,3 +49,5 @@ PLA tested so far -- 1.75mm
 ### dagoma chromatic / delivery service bad
 - [red (rouge pompier) (250g)](https://www.amazon.fr/gp/product/B074PDDPJ7/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)
 - [black (noir brillant) (250g](https://www.amazon.fr/gp/product/B074PD8GYY/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)
+
+## [TPU?](https://www.youtube.com/watch?v=rPgr2VkYESw)
