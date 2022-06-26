@@ -35,7 +35,11 @@ see also
 
 - [Use as a Tablet/Mouse]({% post_url 2021-03-21-remarkable-mouse  %})
 
-![caption](https://preview.redd.it/sp0e1a4gaex51.jpg?width=640&crop=smart&auto=webp&s=de4e46cff9a739175965e561c5f561720660413c)
+![caption](https://preview.redd.it/sp0e1a4gaex51.jpg?width=640&
+crop=smart&auto=webp&s=de4e46cff9a739175965e561c5f561720660413c)
+
+### Calendar
+- [ReCalendar](https://recalendar.me/) / [r/RemarkableTablet](https://www.reddit.com/r/RemarkableTablet/comments/odpl07/recalendar_opensource_highly_customizable/?utm_source=share&utm_medium=web2x&context=3) -   open-source, highly customizable calendar for ReMarkable tablets. Everything is done in your browser.
 
 ## Customization
 - [ddvk/remarkable-hacks](https://github.com/ddvk/remarkable-hacks) - various UI/Gesture enhancement.
