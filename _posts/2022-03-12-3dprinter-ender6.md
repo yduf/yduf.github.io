@@ -24,6 +24,9 @@ tags: 3dprinter
 	- for the 1st layer, bed temp 70
 	- for the 2nd layer, bed 60
 
+# Customisation
+- [My Ender 6 Journey to reliable, satisfying printing](https://www.reddit.com/r/ender6/comments/vf7qbt/my_ender_6_journey_to_reliable_satisfying_printing/)
+
 ## Direct Drive
 
 - [BIQU H2 Extruder V2.0 ](https://www.3djake.com/biqu/h2-extruder-v20)
