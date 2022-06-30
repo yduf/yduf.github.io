@@ -24,6 +24,8 @@ tags: 3dprinter
 	- for the 1st layer, bed temp 70
 	- for the 2nd layer, bed 60
 
+[![caption](https://preview.redd.it/jp6mdnn97s361.jpg?width=640&crop=smart&auto=webp&s=68a346a3bfce06b129417b18ed712afeccf10100) ](https://www.reddit.com/r/ender6/comments/k8id45/why_is_the_ender_6_not_getting_as_much_attention/)
+
 # Customisation
 - [My Ender 6 Journey to reliable, satisfying printing](https://www.reddit.com/r/ender6/comments/vf7qbt/my_ender_6_journey_to_reliable_satisfying_printing/)
 	- [cable chain](https://www.thingiverse.com/thing:4731935)
