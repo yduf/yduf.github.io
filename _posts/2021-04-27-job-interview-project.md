@@ -3,6 +3,8 @@ published: true
 title: Project Manager Interview
 tags: job management
 ---
+> Months of development can save days of planning. - [HN](https://news.ycombinator.com/item?id=31964616)
+
 ### What general metrics do you use to determine if a project is progressing on track?
 
 ### How do you help the team prioritize competing or simultaneously urgent tasks?
@@ -30,4 +32,3 @@ tags: job management
 ### What project management methods do you use?
 
 ### How do you deal with "scope creep"?
-
