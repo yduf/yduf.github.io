@@ -1,7 +1,7 @@
 ---
 published: true
 title: Project Manager Interview
-tags: job management
+tags: job management quote
 ---
 > Months of development can save days of planning. - [HN](https://news.ycombinator.com/item?id=31964616)
 
