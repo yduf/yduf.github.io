@@ -33,7 +33,7 @@ tags: 3dprinter
 - [V ref](https://www.reddit.com/r/ender6/comments/u7zmxc/ender_6_wbiqu_h2_vref_value_issues_mixed_drivers/)
 
 ## Direct Drive
-- [BIQU H2 Extruder V2.0 ](https://www.3djake.com/biqu/h2-extruder-v20)
+- [BIQU H2 Extruder V2.0 ](https://www.3djake.com/biqu/h2-extruder-v20) / [review](https://3dwork.io/en/biqu-h2-extruder-review/)
 	- [(Another) Biqu H2 direct drive extruder upgrade](https://www.reddit.com/r/ender6/comments/shn39o/another_biqu_h2_direct_drive_extruder_upgrade/)
 	- [BIQU H2 V2 swap](https://www.reddit.com/r/ender6/comments/rxcarq/finally_biqu_h2_v2_swap_ender_6/) - _everything else is stock_ - The H2 V2 has a full rectangular hot end, which means a bunch of thingiverse mounts were outdated
 		- [configuring steps from the new extruder ](https://www.reddit.com/r/ender6/comments/rxcarq/finally_biqu_h2_v2_swap_ender_6/hu6fd46/) - don't change firmware for that. You use printer face or your octoprint to edit the EEPROM CONFIG code.
