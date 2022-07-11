@@ -44,7 +44,7 @@ tags: 3dprinter
 ## Spool inside
 
 Once using a direct drive (or having moving the extruder).
-
+- [ reverse bowden guide ](https://www.thingiverse.com/thing:4658388)
 
 ## Motherboard
 - [Creality board](https://www.reddit.com/r/ender6/comments/rggqp3/comment/homyl8i/) - mainboard fraud
