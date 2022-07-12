@@ -41,7 +41,7 @@ tags: 3dprinter
 
 ![caption](https://cdn.shopify.com/s/files/1/1619/4791/products/9_601abe7a-ee33-40d1-9a38-8df2813b36f8_800x.jpg?v=1634899553)
 
-## Spool inside
+## [Spool inside](https://www.thingiverse.com/thing:5181697)
 
 Once using a direct drive (or having moving the extruder).
 - [ reverse bowden guide ](https://www.thingiverse.com/thing:4658388)
