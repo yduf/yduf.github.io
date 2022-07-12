@@ -36,6 +36,8 @@ tags: 3dprinter
 - [BIQU H2 Extruder V2.0 ](https://www.3djake.com/biqu/h2-extruder-v20) / [review](https://3dwork.io/en/biqu-h2-extruder-review/)
 	- [(Another) Biqu H2 direct drive extruder upgrade](https://www.reddit.com/r/ender6/comments/shn39o/another_biqu_h2_direct_drive_extruder_upgrade/)
 	- [BIQU H2 V2 swap](https://www.reddit.com/r/ender6/comments/rxcarq/finally_biqu_h2_v2_swap_ender_6/) - _everything else is stock_ - The H2 V2 has a full rectangular hot end, which means a bunch of thingiverse mounts were outdated
+		- [mount plate](https://www.thingiverse.com/thing:4893522)
+        - [Fan Duct](https://www.thingiverse.com/thing:5202213/zip)
 		- [configuring steps from the new extruder ](https://www.reddit.com/r/ender6/comments/rxcarq/finally_biqu_h2_v2_swap_ender_6/hu6fd46/) - don't change firmware for that. You use printer face or your octoprint to edit the EEPROM CONFIG code.
 	- [Did the biqu h2 upgrade](https://www.reddit.com/r/ender6/comments/rvtlx8/did_the_biqu_h2_upgrade_everything_working_well/) - / [cable chain](https://www.thingiverse.com/thing:4731935)
 
