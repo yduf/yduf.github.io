@@ -46,6 +46,9 @@ tags: 3dprinter
 
 ![caption](https://cdn.shopify.com/s/files/1/1619/4791/products/9_601abe7a-ee33-40d1-9a38-8df2813b36f8_800x.jpg?v=1634899553)
 
+## Z sensor
+- [Does 3d touch work on ender 6](https://www.reddit.com/r/ender6/comments/pslddo/does_3d_touch_work_on_ender_6/) / [What Version of BLTouch works with Ender-6](https://forums.creality3dofficial.com/community/ender-6/what-version-of-bltouch-works-with-ender-6/)
+
 ## [Spool inside](https://www.thingiverse.com/thing:5181697)
 
 Once using a direct drive (or having moving the extruder).
