@@ -48,7 +48,7 @@ tags: 3dprinter
 
 ## Z sensor
 
-### [3DTouch Auto Leveling Sensor](https://www.geeetech.com/wiki/index.php/3DTouch_Auto_Leveling_Sensor)
+### [3DTouch Auto Leveling Sensor](https://www.geeetech.com/wiki/index.php/3DTouch_Auto_Leveling_Sensor) / [BL-Touch](http://www.klipper3d.org/BLTouch.html)
 - [Does 3d touch work on ender 6](https://www.reddit.com/r/ender6/comments/pslddo/does_3d_touch_work_on_ender_6/) / [What Version of BLTouch works with Ender-6](https://forums.creality3dofficial.com/community/ender-6/what-version-of-bltouch-works-with-ender-6/)
 - [Ender 6 CR Touch](https://www.reddit.com/r/ender6/comments/qngdd8/ender_6_cr_touch/) - rewire
 
