@@ -10,6 +10,7 @@ tags: text speech
 - [Use Google Cloud Text-to-Speech](https://bart.degoe.de/use-google-cloud-text-to-speech-to-create-an-audio-version-of-your-blog-posts/) - Google Cloud Text-to-Speech API is priced by character, and the first 1 million characters are free
 
 older (to review)
+- [Excellent quality Text-To-Speech with Linux (French / Français)](https://sweethack.wordpress.com/2014/04/14/excellent-quality-text-to-speech-with-linux-french-francais/)
 - [Natural Sounding Text to Speech?](https://askubuntu.com/questions/53896/natural-sounding-text-to-speech)
 - [High quality text to speech](https://ubuntuforums.org/showthread.php?t=2111436)
 - [simple-google-tts](https://github.com/Glutanimate/simple-google-tts)
