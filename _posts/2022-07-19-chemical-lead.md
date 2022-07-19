@@ -1,6 +1,14 @@
 ---
 published: true
 title: Lead
-tags: chemical
+tags: chemical history
 ---
-> You will observe with concern how long a useful truth may be known and exist before it is generally received and praticed on. - [Benjamin Franklin (1786)](https://historyofinformation.com/detail.php?id=4759) / [lead gazoline](https://youtu.be/IV3dnLzthDA?t=718)
+> You will observe with concern how long a useful truth may be known and exist before it is generally received and praticed on. - [Benjamin Franklin (1786)](https://historyofinformation.com/detail.php?id=4759) / [history of leaded gazoline](https://youtu.be/IV3dnLzthDA?t=718)
+
+Also a way to measure the age of [earth](https://www.youtube.com/watch?v=IV3dnLzthDA&t=800s) - 4.55 billion years old.
+
+[There is no safe level of lead](https://youtu.be/IV3dnLzthDA?t=616)
+- 2000th americans had 1000x more lead in there body than their ancestors.
+- the world is less intelligent today because of leaded gazoline
+
+
