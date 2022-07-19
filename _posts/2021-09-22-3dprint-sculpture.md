@@ -5,6 +5,8 @@ tags: art 3dprint statue
 ---
 > All of these larger prints were made by printing the objects in smaller pieces on consumer-grade desktop machines, then assembling the pieces. - [Cosmo Wenman](https://cosmowenman.com/) / [medium](https://medium.com/@CosmoWenman/3d-printing-3d-capture-and-opportunities-for-design-custodians-7985097d2ac4) / [thingiverse](https://www.thingiverse.com/thing:196037)
 
+![caption](https://miro.medium.com/max/1400/1*W_A3tqlt1IfzxvKWvDQJ0w.jpeg)
+
 ###  [Scan the World](https://www.myminifactory.com/scantheworld/)
 - [Venus Reclining on a Sea Monster with Cupid and a Putto](https://www.thingiverse.com/thing:24263)
 - [Déesse chatte Bastet ](https://ateliersartmuseesnationaux.fr/fr/sculptures/RE000037?guid=614a58682d82c)
@@ -25,7 +27,7 @@ tags: art 3dprint statue
     - [iron man ](https://www.reddit.com/r/3Dprinting/comments/vyk6tc/rub_n_buff_on_a_iron_man_statue_way_better/)
     - [Thinker Statue](https://www.reddit.com/r/3Dprinting/comments/p02c3c/thinker_statue_really_happy_with_the_result/)
     - [dynosaur](https://www.reddit.com/r/3Dprinting/comments/w2iyfk/pelvis_and_hips_well_under_way_waiting_for/)
-![caption](https://miro.medium.com/max/1400/1*W_A3tqlt1IfzxvKWvDQJ0w.jpeg)
+
 
 ### Resin
 - [Build The Mandalorian's new ship](https://www.youtube.com/watch?v=WiBaR0eL5z4)
