@@ -26,3 +26,6 @@ tags: art 3dprint statue
     - [Thinker Statue](https://www.reddit.com/r/3Dprinting/comments/p02c3c/thinker_statue_really_happy_with_the_result/)
     - [dynosaur](https://www.reddit.com/r/3Dprinting/comments/w2iyfk/pelvis_and_hips_well_under_way_waiting_for/)
 ![caption](https://miro.medium.com/max/1400/1*W_A3tqlt1IfzxvKWvDQJ0w.jpeg)
+
+### Resin
+- [Build The Mandalorian's new ship](https://www.youtube.com/watch?v=WiBaR0eL5z4)
