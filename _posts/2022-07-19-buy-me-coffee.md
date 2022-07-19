@@ -11,5 +11,5 @@ tags: money
 - [ Ko-fi](https://ko-fi.com/) - 0% commission, but to PayPal or Stripe account.
 
 ## Payment processing platforms.
-[PayPal Vs. Stripe (2022 Comparison)](https://www.forbes.com/advisor/business/software/paypal-vs-stripe/)
+[PayPal Vs. Stripe (2022 Comparison)](https://www.forbes.com/advisor/business/software/paypal-vs-stripe/) / [HN](https://news.ycombinator.com/item?id=9738717)
 - [stripe](https://stripe.com/en-fr) - Payments infrastructure for the internet
