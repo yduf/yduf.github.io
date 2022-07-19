@@ -28,4 +28,5 @@ tags: art 3dprint statue
 ![caption](https://miro.medium.com/max/1400/1*W_A3tqlt1IfzxvKWvDQJ0w.jpeg)
 
 ### Resin
-- [Build The Mandalorian's new ship](https://www.youtube.com/watch?v=WiBaR0eL5z4) - clear canopee
+- [Build The Mandalorian's new ship](https://www.youtube.com/watch?v=WiBaR0eL5z4)
+	- [clear canopee](https://www.reddit.com/r/3Dprinting/)
