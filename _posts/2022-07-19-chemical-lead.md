@@ -12,3 +12,4 @@ Also a way to measure the age of [earth](https://www.youtube.com/watch?v=IV3dnLz
 - the world is less intelligent today because of leaded gazoline
 - Native lead is rare in nature. Currently lead is usually found in ore with zinc, silver and copper and it is extracted together with these metals. - [Chemical properties of lead](https://www.lenntech.com/periodic/elements/pb.htm)
 
+The latin word for lead - chemical symbol Pb - is _plumbum_ which means liquid silver, resembling when melted, quicksilver otherwise known as mercury, when lead is in the molten state. These words came into being long before the scientific concept of elements was understood.
