@@ -5,16 +5,23 @@ tags: screw 3dmodel 3dprint openscad freecad cnc
 ---
 > This article is a guide to using screws in 3D printed SLA parts. There are many other ways [to attach multiple 3D printed parts](https://formlabs.com/blog/how-to-create-models-larger-than-your-3d-printers-build-volume/)  together, but if you need to repeatedly attach and detach components and want robust mechanical fastening, there's no real replacement for genuine metal threads. -  [Adding Screw Threads to 3D Printed Parts](https://formlabs.com/blog/adding-screw-threads-3d-printed-parts/)
 
-- [3D Printed FreeCAD Threads - FreeCAD 0.20 Holes ](https://www.youtube.com/watch?v=WuKoGOiuHTk) - juste use a holes + a clearance of at least 0.30mm
-
-## [Hex Nut Capture Socket sizing for 3D Printing](https://airtripper.com/1594/hex-nut-capture-socket-sizing-for-3d-printing/)
-
-- [Embedding Nuts in 3D Printed Parts for Hidden Fastener Strength ](https://markforged.com/resources/blog/embedding-nuts-3d-printing/)
-- [3D Printing Threads and Screws – Simple Guide](https://all3dp.com/2/3d-printing-threads-and-screws-all-you-need-to-know/)
-
 ## [Freecad]({% post_url 2020-05-29-freecad %})
 
 Freecad knows ISO screws size - see [Fasterner Workbench](https://wiki.freecadweb.org/Fasteners_Workbench)
+
+And 0.20 can make hole with thread.
+- [3D Printed FreeCAD Threads - FreeCAD 0.20 Holes ](https://www.youtube.com/watch?v=WuKoGOiuHTk) - juste use a holes + a clearance of at least 0.30mm
+
+### [Creating thread](https://forum.freecadweb.org/viewtopic.php?t=41892)
+
+Cutting a thread with bolt gives you a "negative" bolt thread which is mechanically incorrect.
+To make a "real" threaded hole, there is a special arbitrary length "tap" rod that you then cut from your object: 
+
+![caption](https://forum.freecadweb.org/download/file.php?id=99206)
+
+ If it is made for 3D printing, there is a section in the settings that lets you tweak tolerances such that printed parts will match each other.
+
+
 
 ### For tapped screw hole,
 
@@ -33,6 +40,12 @@ when creating holes in part-design workbench
 - [model a screw in freecad](https://www.youtube.com/watch?v=BobzR7ciTRw)
 
 [![caption](https://img.youtube.com/vi/BT0uG0NzERk/0.jpg)](https://www.youtube.com/watch?v=BT0uG0NzERk)
+
+## [Hex Nut Capture Socket sizing for 3D Printing](https://airtripper.com/1594/hex-nut-capture-socket-sizing-for-3d-printing/)
+
+- [Embedding Nuts in 3D Printed Parts for Hidden Fastener Strength ](https://markforged.com/resources/blog/embedding-nuts-3d-printing/)
+- [3D Printing Threads and Screws – Simple Guide](https://all3dp.com/2/3d-printing-threads-and-screws-all-you-need-to-know/)
+
 
 ## Openscad
 ### [undersized holes](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/The_OpenSCAD_Language#cylinder)
