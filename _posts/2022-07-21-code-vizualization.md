@@ -3,14 +3,18 @@ published: true
 title: Code Vizualisation
 tags: code vizualizer
 ---
-> Inside every large graph is a small graph dying to get out. - [HN](https://news.ycombinator.com/item?id=30891230)
+> So here you are – sitting alone in the darkness, surrounded by the walls with mysterious texts, – and using the code editor to shine a beam of light onto this wall to read a small part of it.  - [IDE vs Fire Torch](https://divan.dev/posts/visual_programming_go/) / 
+[HN](https://news.ycombinator.com/item?id=30891230)
+
+[![caption](https://1.bp.blogspot.com/-k5brI6NLyaY/WK0d_ZR0WNI/AAAAAAAAA_E/m5ZnXWI2pE4Ud8aVHUgGIo_Q1ac-0f8dQCLcB/s320/cppmap3.0%2B%2528screen%2B8bit%2B96dpi%2529.png) ](https://fearlesscoder.blogspot.com/2017/02/the-c17-lands.html)
 
 ## [Tools for visualizing a codebase](https://lmy.medium.com/7-tools-for-visualizing-a-codebase-41b7cddb1a14)
 
 - [repo-visualizer](https://github.com/githubocto/repo-visualizer-demo) -  plots files as bubbles, indicating their extension names and sizes with colors and sizes, respectively. ( DirTreestat could be use to do the same)
+	- see also [Repography](https://repography.com/app/0/neovim/neovim/trunk/poster-surface) and [Mountain](https://workartwork.org/design/mountain) for poster, as well as [The C++17 Land](https://fearlesscoder.blogspot.com/2017/02/the-c17-lands.html)
 
 - [docker-compoze-viz](https://github.com/pmsipilot/docker-compose-viz) - it’s also plotting extra information like open ports and mounted volumes.
 
 - Visualize call graphs
 	- [Code2flow](https://github.com/scottrogowski/code2flow) supports a couple of dynamic languages, including Python, JavaScript, Ruby, and PHP.
-	- []() / []() for python
+	
