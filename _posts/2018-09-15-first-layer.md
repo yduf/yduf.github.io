@@ -13,6 +13,8 @@ tags: 3dprint calibration
 [first layer test model](https://www.yeggi.com/q/first+layer+test/)
 - [circle](https://www.thingiverse.com/thing:3333025/files)
 
+### [How to Fix PLA Warping on Heat Bed](https://3dprinterpal.com/how-to-fix-pla-warping-on-heat-bed-guide/)
+
 ### [Leveling the bed](https://www.youtube.com/watch?v=YPAXeBuq9qU&t=66s)
 
 ### Over / Under Extrusion
