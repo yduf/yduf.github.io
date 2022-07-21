@@ -1,10 +1,13 @@
 ---
 published: true
 title: Code Vizualisation
-tags: code vizualizer
+tags: code vizualizer mental-model
 ---
 > So here you are – sitting alone in the darkness, surrounded by the walls with mysterious texts, – and using the code editor to shine a beam of light onto this wall to read a small part of it.  - [IDE vs Fire Torch](https://divan.dev/posts/visual_programming_go/) / 
 [HN](https://news.ycombinator.com/item?id=30891230)
+
+- [Mapper vs Packer](https://divan.dev/posts/visual_programming_go/#mapper_vs_packers) - 
+There is a physical knowledge graph in your head that represents your beliefs about reality. By physical, I mean precisely that – those are actual physical connections in the real world, like on molecular level. That’s why it’s so much easier to learn things right from scratch, instead of relearning them. You can’t just remove already grown connections. You have to grow a new one, stronger than previous.
 
 [![caption](https://1.bp.blogspot.com/-k5brI6NLyaY/WK0d_ZR0WNI/AAAAAAAAA_E/m5ZnXWI2pE4Ud8aVHUgGIo_Q1ac-0f8dQCLcB/s320/cppmap3.0%2B%2528screen%2B8bit%2B96dpi%2529.png) ](https://fearlesscoder.blogspot.com/2017/02/the-c17-lands.html)
 
