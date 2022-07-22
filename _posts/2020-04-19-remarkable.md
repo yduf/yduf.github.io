@@ -48,6 +48,8 @@ crop=smart&auto=webp&s=de4e46cff9a739175965e561c5f561720660413c)
 	- [Neurone/reMarkable](https://github.com/Neurone/reMarkable) - Automatically change your poweroff and suspend screens every 5 minutes / [Customizing the Splashscreens](https://remarkablewiki.com/tips/splashscreens) - doesn't work since 2.5.0.27 upgrade [only on rm1](https://github.com/ddvk/remarkable-hacks/issues/157)
 		- could be enhanced to use [suspend event](https://askubuntu.com/questions/226278/run-script-on-wakeup) rather than timer.
 
+- [RSYNC and the Remarkable 2](https://www.reddit.com/r/RemarkableTablet/comments/w4pfa3/rsync_and_the_remarkable_2/)
+
 ### Untested
 - Linux access through Nemo/ssh
 	- [nick8325/remarkable-fs](https://github.com/nick8325/remarkable-fs) - A FUSE filesystem driver for reMarkable => **not working**
