@@ -12,5 +12,6 @@ tags: despair.com climate-war science co2
 	- la video en ligne c'est 80% du traffic de donnés sur le reseau mondial
     
 - la demarietalisation (digitale) est en fait plus consomateur d'energie que la version papier. L'irruption du digitale prend a revers une grande partie des gens considéré d'entrée des choses décarbonnées.
+- l'aviation dans le monde c'est 8% du petrole consommé.
 
 - se mettre en coherence - on ne peut pas expliquer qu'il faut arreter de fumer en fumant soit même.
