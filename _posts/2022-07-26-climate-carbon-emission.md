@@ -3,7 +3,8 @@ published: true
 title: Carbon Emission
 tags: despair.com climate-war science co2
 ---
-> Si on ne s'occupe pas du problème, le problème s'occupera de nous - [Jancovici : Concevoir pour rester en dessous de 2°C](https://www.youtube.com/watch?v=I3CsL15U-sM)
+> Si on ne s'occupe pas du problème, le problème s'occupera de nous - [Jancovici : Concevoir pour rester en dessous de 2°C](https://www.youtube.com/watch?v=I3CsL15U-sM)  
+> On est jeune tant qu'on se croit eternel et invicible.
 
 - l'alimentation/agriculture c'est 1/3 des emissions planétaire (corrélé a la taille de la population).
 - le digitale c'est 4% des emissions totales (construction ordinateur + fonctionnement)
