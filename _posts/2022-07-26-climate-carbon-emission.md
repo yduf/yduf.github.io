@@ -10,3 +10,5 @@ tags: climate-war
 	- on a interet a renouveller le plus souvent possible les serveurs (pour reduire les emissions de fonctionnements),
     - mais c'est le contraire pour les terminaux, pour reduire les couts de production,
 	- la video en ligne c'est 80% du traffic de donnés sur le reseau mondial
+    
+- la demarietalisation (digitale) est en fait plus consomateur d'energie que la version papier. L'irruption du digitale prend a revers une grande partie des gens considéré d'entrée des choses décarbonnées.
