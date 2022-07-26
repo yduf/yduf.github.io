@@ -13,4 +13,4 @@ tags: despair.com climate-war science co2
     
 - la demarietalisation (digitale) est en fait plus consomateur d'energie que la version papier. L'irruption du digitale prend a revers une grande partie des gens considéré d'entrée des choses décarbonnées.
 
-- se mettre en coherence - on ne peut pas expliquer qu'il faut arreter de fumer en fumant soit meme.
+- se mettre en coherence - on ne peut pas expliquer qu'il faut arreter de fumer en fumant soit même.
