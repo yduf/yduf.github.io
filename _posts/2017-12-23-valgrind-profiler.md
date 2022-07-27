@@ -5,6 +5,8 @@ tags: performance linux profiler c++
 ---
 > Valgrind is an instrumentation framework for building dynamic analysis tools. - [Valgrind](http://valgrind.org/) / [git](https://sourceware.org/git/?p=valgrind.git;a=summary)
 
+- [	Twenty years of Valgrind ](https://news.ycombinator.com/item?id=32245136)
+
 ## Alternatives
 - [Tracy](https://github.com/wolfpld/tracy)
 - [Optik](https://news.ycombinator.com/item?id=29092136)
