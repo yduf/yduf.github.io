@@ -55,3 +55,4 @@ Wed 2016-11-02 14:07:00 EAT  19s left Wed 2016-11-02 14:06:37 EAT  3s ago my-job
 {% endhighlight %}
 
 `journalctl -xe` should show log entries of the job being run.
+`systemctl --user status disk-usage.service` can help diagnose issue as well
