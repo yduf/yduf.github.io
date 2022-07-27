@@ -1,7 +1,7 @@
 ---
 published: true
 title: You computer isn't yours
-tags: security
+tags: security freedom
 ---
 > It’s here. It happened. Did you notice? - [Jeffrey Paul](https://sneak.berlin/20201112/your-computer-isnt-yours/) / [HN](https://news.ycombinator.com/item?id=25078034)
 
