@@ -1,7 +1,7 @@
 ---
 title: Search Everything
 published: true
-tags: search application
+tags: search text
 ---
 
 ### Application
