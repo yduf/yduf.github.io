@@ -11,7 +11,7 @@ tags: 3dprinter
 
 [review](https://3dprintbeginner.com/creality-ender-6-review/) / [assembly](https://forums.creality3dofficial.com/my-ender-6-assembly-process/)
 - [Ender 6 upgrade](https://3dprintbeginner.com/creality-ender-6-upgrades-paid-and-free/)
-- [Ender 6 Extruder Relocation](https://marksmakerspace.com/3dprinting/ender6-extruder-move.html)
+
 - [Ender 6 Klipper + BL-Touch ](https://www.smith3d.com/ender-6-klipper-bl-touch/) / [2](https://3dprintbeginner.com/how-to-install-klipper-on-creality-ender-6/)
 - [Ender 6 linear rail (Y)](https://www.thingiverse.com/thing:4757747)
 - [Ender 6 Complete Linear Rails Mod](https://www.thingiverse.com/thing:4757747/remixes)
@@ -36,6 +36,8 @@ tags: 3dprinter
 	- [cable chain](https://www.thingiverse.com/thing:4731935) - is it good? - [no!](https://linustechtips.com/topic/1383007-3d-printer-drag-chain-an-opinion-piece-on-printed-energy-chains/) / [Safe 3D Printer Wiring Guide Using Drag Chains](https://www.youtube.com/watch?v=_HiuY015rOY&t=90s)
     - [stock screen with klipper](https://www.reddit.com/r/ender6/comments/rggqp3/comment/homyl8i/) / [2](https://www.youtube.com/watch?v=t1FgE3OgUA8)
 - [V ref](https://www.reddit.com/r/ender6/comments/u7zmxc/ender_6_wbiqu_h2_vref_value_issues_mixed_drivers/)
+
+## [Ender 6 Extruder Relocation](https://marksmakerspace.com/3dprinting/ender6-extruder-move.html)
 
 ## Direct Drive
 - [BIQU H2 Extruder V2.0 ](https://3dprintbeginner.com/ender-6-direct-drive-conversion-h2-extruder/) / [3djake](https://www.3djake.com/biqu/h2-extruder-v20) / [review](https://3dwork.io/en/biqu-h2-extruder-review/)
