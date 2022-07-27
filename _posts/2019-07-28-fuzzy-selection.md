@@ -16,6 +16,6 @@ echo '' | fzf --print-query --preview "cat *.json | jq {q}"
     - **Ctrl+R** (R for reverse-i-search) - Fish's command history
     - **Ctrl+V** (V for variable) - all the variable names of the environment currently in scope
  	- Git
-	    - **Ctrl+Alt+S** (S for status) - the current repository's git status
+		- **Ctrl+Alt+S** (S for status) - the current repository's git status
     
 ![caption](https://github.com/PatrickF1/fzf.fish/raw/assets/directory.gif) 
