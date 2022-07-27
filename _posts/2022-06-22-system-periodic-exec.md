@@ -14,6 +14,7 @@ The modern option is to use a systemd timer unit. This requires creating a syste
 
 {% highlight bash %}
 $ systemctl --user status "*timer"  # list timers
+$ systemctl --user list-timers      # summary of next programmed execution
 {% endhighlight %}
 
 
