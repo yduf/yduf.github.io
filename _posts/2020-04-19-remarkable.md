@@ -163,6 +163,7 @@ The stylus communicates wirelessly. The pressure sensitivity is in the stylus it
 
 ## Alternatives
 - [**Ratta Supernote A5 X**](https://youtu.be/ObU8-lxORPg?t=195) / [2022](Which Is The Best 10.3" E Ink Notetaking Tablet After A Year And A Half?) / [Best E-Ink Note Taking Reader Devices Of 2021](https://youtu.be/jvPvp5_P0o8?t=710)
+	- [Where To Purchase?](https://www.reddit.com/r/Supernote/comments/pzjc91/where_to_purchase/) => [supernote.com](https://supernote.com/)
 
 - [PineNote](https://www.pine64.org/pinenote/) - **new** but **raw dev**
 
