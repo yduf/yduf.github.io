@@ -10,8 +10,14 @@ tags: linux-system service
 
 The modern option is to use a systemd timer unit. This requires creating a systemd unit which defines the job you want to periodically run, and a systemd.timer unit defining the schedule for the job. - [SO](https://askubuntu.com/questions/844533/how-to-execute-a-script-periodically-without-using-crontab/844618#844618)
 
-### Running job as regular user
+## Running job as regular user
 
+{% highlight bash %}
+$ systemctl --user status "*timer"  # list timers
+{% endhighlight %}
+
+
+### [Create timer](https://opensource.com/article/20/7/systemd-timers)
 - [systemd/Timers](https://wiki.archlinux.org/title/Systemd/Timers)
 
 in `$HOME/.config/systemd/user`
@@ -26,7 +32,7 @@ ExecStart=/path/to/your/script
 {% endhighlight %}
 
 **my-job.timer**
-{% highlight cpp %}
+{% highlight init %}
 [Unit]
 Description=Timer that periodically triggers my-job.service
 
