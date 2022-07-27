@@ -10,4 +10,5 @@ tags: search application
 
 ### CLI
 see
-- [FZF]({% post_url 2019-07-28-fuzzy-selection %})
+- [fzf]({% post_url 2019-07-28-fuzzy-selection %})
+- [locate]({% post_url 2021-10-10-locate %})
