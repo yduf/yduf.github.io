@@ -31,6 +31,7 @@ tags: 3dprinter
 - [Ender 6 Y endstop relocation](https://www.thingiverse.com/thing:5222477) - easy to get more space
 
 - [My Ender 6 Journey to reliable, satisfying printing](https://www.reddit.com/r/ender6/comments/vf7qbt/my_ender_6_journey_to_reliable_satisfying_printing/)
+	- alternative to cable chain - [Câble Gaine de Protection Réglable](https://www.amazon.fr/gp/product/B08YN56FYG/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 	- [cable chain](https://www.thingiverse.com/thing:4731935) - is it good? - [no!](https://linustechtips.com/topic/1383007-3d-printer-drag-chain-an-opinion-piece-on-printed-energy-chains/) / [Safe 3D Printer Wiring Guide Using Drag Chains](https://www.youtube.com/watch?v=_HiuY015rOY&t=90s)
     - [stock screen with klipper](https://www.reddit.com/r/ender6/comments/rggqp3/comment/homyl8i/) / [2](https://www.youtube.com/watch?v=t1FgE3OgUA8)
 - [V ref](https://www.reddit.com/r/ender6/comments/u7zmxc/ender_6_wbiqu_h2_vref_value_issues_mixed_drivers/)
