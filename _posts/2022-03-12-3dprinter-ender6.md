@@ -82,4 +82,4 @@ Once using a direct drive (or having moving the extruder).
 - [BTT Octopus](https://3dwork.io/en/btt-octopus/)
 
 ## Speed
-- [reality Ender 6 w/ BIQU H2 - 200mm/s@6k acceleration](https://www.youtube.com/watch?v=82gAH7u3tMM)
+- [reality Ender 6 w/ BIQU H2 - 200mm/s@6k acceleration](https://www.youtube.com/watch?v=82gAH7u3tMM) / [100mm/s and 4000 acc](https://www.youtube.com/watch?v=EqPe5yzP3zo)
