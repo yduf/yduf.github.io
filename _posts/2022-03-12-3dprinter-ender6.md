@@ -35,7 +35,7 @@ tags: 3dprinter
 ## Misc
 - [Ender 6 Y endstop relocation](https://www.thingiverse.com/thing:5222477) - easy to get more space
 - Open Woven Sleeves / alternative to cable chain - [Câble Gaine de Protection Réglable](https://www.amazon.fr/gp/product/B08YN56FYG/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
-- [BLTouch](https://www.youtube.com/watch?v=Sqs6rGUX9yw) - ender6 as a JSP connector for BLTouch. one can use the cable extension and join dupont together to connect both jsp end. - firmware needs flashing.
+- [BLTouch](https://www.youtube.com/watch?v=Sqs6rGUX9yw) / [2](https://www.youtube.com/watch?v=FH0KHYU3_S8) - ender6 as a JSP connector for BLTouch. one can use the cable extension and join dupont together to connect both jsp end. - firmware needs flashing.
 
 - [My Ender 6 Journey to reliable, satisfying printing](https://www.reddit.com/r/ender6/comments/vf7qbt/my_ender_6_journey_to_reliable_satisfying_printing/)
 	
