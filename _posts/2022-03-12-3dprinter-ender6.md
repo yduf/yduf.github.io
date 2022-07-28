@@ -27,6 +27,9 @@ tags: 3dprinter
 [![caption](https://preview.redd.it/jp6mdnn97s361.jpg?width=640&crop=smart&auto=webp&s=68a346a3bfce06b129417b18ed712afeccf10100) ](https://www.reddit.com/r/ender6/comments/k8id45/why_is_the_ender_6_not_getting_as_much_attention/)
 
 # [Customisation](https://www.thingiverse.com/yd007/collections/ender6)
+
+- [Creality Ender 6 notes Barry Carter](https://github.com/ginge/Ender6)
+
 ## Misc
 - [Ender 6 Y endstop relocation](https://www.thingiverse.com/thing:5222477) - easy to get more space
 - Open Woven Sleeves / alternative to cable chain - [Câble Gaine de Protection Réglable](https://www.amazon.fr/gp/product/B08YN56FYG/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
