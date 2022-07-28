@@ -21,6 +21,13 @@ tags: 3dprinter
 
 - [Belt Tensioning and Replacement Belt Source](https://www.reddit.com/r/ender6/comments/prxn5o/belt_tensioning_and_replacement_belt_source/)
 
+## [Firmware](https://www.creality.com/pages/download-ender-6?spm=..page_1934481.products_display_1.1) (1.0.4.9 20/04/2022)
+
+unzip
+- .bin file is for flashing printer board
+- DWIN_SET.zip is for flashing screen board (was not neccesary for bltouch)
+
+
 ## First layer
 - [Bed adhesion](https://www.reddit.com/r/3Dprinting/comments/9g7hmp/ender_3_creality_glass_bed_not_sticking/)
 	- for the 1st layer, bed temp 70
