@@ -80,3 +80,6 @@ Once using a direct drive (or having moving the extruder).
 ## Motherboard
 - [Creality board](https://www.reddit.com/r/ender6/comments/rggqp3/comment/homyl8i/) - mainboard fraud
 - [BTT Octopus](https://3dwork.io/en/btt-octopus/)
+
+## Speed
+- [reality Ender 6 w/ BIQU H2 - 200mm/s@6k acceleration](https://www.youtube.com/watch?v=82gAH7u3tMM)
