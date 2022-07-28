@@ -26,7 +26,7 @@ tags: 3dprinter
 unzip
 - .bin file is for flashing printer board
 - DWIN_SET.zip is for flashing screen board (was not neccesary for bltouch)
-	- need to unmount screen to access sdcard
+	- need to unmount screen to access sdcard slot
 
 
 ## First layer
