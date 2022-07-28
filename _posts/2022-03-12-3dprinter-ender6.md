@@ -53,6 +53,7 @@ unzip
 
 ## Direct Drive
 - [BIQU H2 Extruder V2.0 ](https://3dprintbeginner.com/ender-6-direct-drive-conversion-h2-extruder/) / [3djake](https://www.3djake.com/biqu/h2-extruder-v20) / [review](https://3dwork.io/en/biqu-h2-extruder-review/)
+	- [Wiring](https://www.reddit.com/r/BIGTREETECH/comments/mihwg1/ender_3_v2_biqu_h2_stepper_wiring/)
 	- [(Another) Biqu H2 direct drive extruder upgrade](https://www.reddit.com/r/ender6/comments/shn39o/another_biqu_h2_direct_drive_extruder_upgrade/)
 	- [BIQU H2 V2 swap](https://www.reddit.com/r/ender6/comments/rxcarq/finally_biqu_h2_v2_swap_ender_6/) - _everything else is stock_ - The H2 V2 has a full rectangular hot end, which means a bunch of thingiverse mounts were outdated
 		- [mount plate](https://www.thingiverse.com/thing:4893522)
