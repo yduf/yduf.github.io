@@ -29,7 +29,7 @@ tags: 3dprinter
 # [Customisation](https://www.thingiverse.com/yd007/collections/ender6)
 ## Misc
 - [Ender 6 Y endstop relocation](https://www.thingiverse.com/thing:5222477) - easy to get more space
-- alternative to cable chain - [Câble Gaine de Protection Réglable](https://www.amazon.fr/gp/product/B08YN56FYG/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+- Open Woven Sleeves / alternative to cable chain - [Câble Gaine de Protection Réglable](https://www.amazon.fr/gp/product/B08YN56FYG/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 
 - [My Ender 6 Journey to reliable, satisfying printing](https://www.reddit.com/r/ender6/comments/vf7qbt/my_ender_6_journey_to_reliable_satisfying_printing/)
 	
