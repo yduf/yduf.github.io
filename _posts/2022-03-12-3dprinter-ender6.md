@@ -63,6 +63,7 @@ unzip
 	- Stepper config: 
     	- Number of pulses: 932steps/mm for stepper motor drive at 16 subdivisions  (micro-steps) (further correction is required)
         - Recommended motor current: 800mA
+        - Extrusion capacity (based on existing): 600mm³/min(depending on filaments)
 
 Alternative
 - [Ender 6 Extruder Relocation](https://marksmakerspace.com/3dprinting/ender6-extruder-move.html)
