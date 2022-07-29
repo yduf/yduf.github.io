@@ -4,7 +4,8 @@ published: true
 tags: math algorithm complexity
 use_math: true
 ---
-> O(1) ~ O(log(n)) << O(sqrt(n)) << O(n) ~ O(n log(n)) << O(n²) << O(n³) <<<< O(n!) - [Analyse de la complexité des algorithmes](https://fr.wikipedia.org/wiki/Analyse_de_la_complexit%C3%A9_des_algorithmes)
+> O(1) ~ O(log(n)) << O(sqrt(n)) << O(n) ~ O(n log(n)) << O(n²) << O(n³) <<<< O(n!) - [Analyse de la complexité des algorithmes](https://fr.wikipedia.org/wiki/Analyse_de_la_complexit%C3%A9_des_algorithmes)  
+> O(n^2) is the sweet spot of badly scaling algorithms: fast enough to make it into production, but slow enough to make things fall down once it gets there. - Dawson’s First Law of Computing
 
 - [P vs NP et le zoo de complexité informatique](https://www.youtube.com/watch?v=YX40hbAHx3s)
 - [When Big O Fools Ya](https://jackmott.github.io/programming/2016/08/20/when-bigo-foolsya.html)
