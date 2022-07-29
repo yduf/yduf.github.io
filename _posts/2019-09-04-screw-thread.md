@@ -10,7 +10,8 @@ tags: screw 3dmodel 3dprint openscad freecad cnc
 Freecad knows ISO screws size - see [Fasterner Workbench](https://wiki.freecadweb.org/Fasteners_Workbench)
 
 And 0.20 can make hole with thread.
-- [3D Printed FreeCAD Threads - FreeCAD 0.20 Holes ](https://www.youtube.com/watch?v=WuKoGOiuHTk) - juste use a holes + a clearance of at least 0.30mm / [FreeCAD 0.20 : Taraudages et filetages pour impression 3D](https://www.youtube.com/watch?v=Thgy5RQ5oGs)
+- [3D Printed FreeCAD Threads - FreeCAD 0.20 Holes ](https://www.youtube.com/watch?v=WuKoGOiuHTk) - juste use a holes + a clearance of at least 0.30mm
+	- [FreeCAD 0.20 : Taraudages et filetages pour impression 3D](https://www.youtube.com/watch?v=Thgy5RQ5oGs)
 
 ### [Creating thread](https://forum.freecadweb.org/viewtopic.php?t=41892)
 
