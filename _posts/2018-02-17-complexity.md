@@ -1,7 +1,7 @@
 ---
 title: Explosion Combinatoire
 published: true
-tags: math algorithm complexity
+tags: math algorithm complexity quote
 use_math: true
 ---
 > O(1) ~ O(log(n)) << O(sqrt(n)) << O(n) ~ O(n log(n)) << O(n²) << O(n³) <<<< O(n!) - [Analyse de la complexité des algorithmes](https://fr.wikipedia.org/wiki/Analyse_de_la_complexit%C3%A9_des_algorithmes)  
