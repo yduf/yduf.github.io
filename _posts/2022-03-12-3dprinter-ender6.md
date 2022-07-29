@@ -23,7 +23,7 @@ tags: 3dprinter
 
 
 - [ mother board wiring](https://user-images.githubusercontent.com/46035129/101119293-caad8480-35c9-11eb-960d-3d9c698b4ba0.png)
-- [Creality board](https://www.reddit.com/r/ender6/comments/rggqp3/comment/homyl8i/) - mainboard fraud
+- [Creality board](https://www.reddit.com/r/ender6/comments/rggqp3/comment/homyl8i/) - [mainboard fraud](https://youtu.be/DAfIEkHHoQc?t=79)
 
 
 
