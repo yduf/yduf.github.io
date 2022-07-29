@@ -9,7 +9,7 @@ tags: 3dprinter
 <link rel="shortcut icon" href="https://octoprint.org/assets/img/tentacle-20x20.png" type="image/x-icon" />
 {:/}
 
-Run as [docker Image](https://github.com/OctoPrint/octoprint-docker)
+## Run as [docker Image](https://github.com/OctoPrint/octoprint-docker)
 - [ octoprint-docker/docker-compose.yml ](https://github.com/OctoPrint/octoprint-docker/blob/master/docker-compose.yml)
 	- [Finding Serial port]({% post_url 2020-10-30-raspberry-pi %}#finding-serial-ports)
     	- [Cannot access mounted pts device inside container
