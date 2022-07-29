@@ -90,3 +90,5 @@ Once using a direct drive (or having moving the extruder).
 
 ## Speed
 - [reality Ender 6 w/ BIQU H2 - 200mm/s@6k acceleration](https://www.youtube.com/watch?v=82gAH7u3tMM) / [100mm/s and 4000 acc](https://www.youtube.com/watch?v=EqPe5yzP3zo)
+
+- [My regular speed is 150ms 3.5k accel](https://www.reddit.com/r/ender6/comments/k8id45/why_is_the_ender_6_not_getting_as_much_attention/)
