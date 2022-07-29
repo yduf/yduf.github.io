@@ -10,6 +10,11 @@ tags: 3dprinter
 {:/}
 
 ## Run as [docker Image](https://github.com/OctoPrint/octoprint-docker)
+
+{% highlight bash %}
+$ docker run -p 80:80 octoprint/octoprint
+{% endhighlight %}
+
 - [ octoprint-docker/docker-compose.yml ](https://github.com/OctoPrint/octoprint-docker/blob/master/docker-compose.yml)
 	- [Finding Serial port]({% post_url 2020-10-30-raspberry-pi %}#finding-serial-ports)
     	- [Cannot access mounted pts device inside container
