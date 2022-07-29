@@ -65,7 +65,7 @@ unzip
 	- [BIQU H2 V2 swap](https://www.reddit.com/r/ender6/comments/rxcarq/finally_biqu_h2_v2_swap_ender_6/) - _everything else is stock_ - The H2 V2 has a full rectangular hot end, which means a bunch of thingiverse mounts were outdated
 		- [mount plate](https://www.thingiverse.com/thing:4893522)
         - [Fan Duct](https://www.thingiverse.com/thing:5202213)
-		- [configuring steps from the new extruder ](https://www.reddit.com/r/ender6/comments/rxcarq/finally_biqu_h2_v2_swap_ender_6/hu6fd46/) - don't change firmware for [that](https://www.reddit.com/r/ender6/comments/rvtlx8/comment/hrcky6w/?utm_source=reddit&utm_medium=web2x&context=3). You use printer face or [your octoprint]({% post_url 2017-09-24-Octoprint %}) to edit the EEPROM CONFIG code. => **you need to connect to usb port**
+		- [configuring steps from the new extruder ](https://www.reddit.com/r/ender6/comments/rxcarq/finally_biqu_h2_v2_swap_ender_6/hu6fd46/) - don't change firmware for [that](https://www.reddit.com/r/ender6/comments/rvtlx8/comment/hrcky6w/?utm_source=reddit&utm_medium=web2x&context=3). You use printer face or [your octoprint]({% post_url 2017-09-24-Octoprint %}) to edit the [EEPROM CONFIG code](https://plugins.octoprint.org/plugins/eeprom_marlin/). => **you need to connect to usb port** and follow [instruction](https://www.reddit.com/r/ender6/comments/rvtlx8/comment/hrcky6w/?utm_source=reddit&utm_medium=web2x&context=3)
 	- [Did the biqu h2 upgrade](https://www.reddit.com/r/ender6/comments/rvtlx8/did_the_biqu_h2_upgrade_everything_working_well/) - / [cable chain](https://www.thingiverse.com/thing:4731935)
 	- Stepper config: 
     	- Number of pulses: 932steps/mm for stepper motor drive at 16 subdivisions  (micro-steps) (further correction is required)
