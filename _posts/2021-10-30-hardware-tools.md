@@ -34,7 +34,7 @@ vs [Scheppach DP60](https://www.youtube.com/watch?v=BTVz-uoeb8M) / [Parkside](ht
 - l/mm > 4000 / 65 l/s
 - db: le minimum 60db
 
-- [Einhell Aspirateur eaux et poussières TE-VC 2230](https://www.manomano.fr/p/aspirateur-eaux-et-poussiere-te-vc-2230-sa-1524010)
+- [Einhell Aspirateur eaux et poussières TE-VC 2230](https://www.manomano.fr/p/aspirateur-eaux-et-poussiere-te-vc-2230-sa-1524010) / [amazon](https://www.amazon.fr/Einhell-Aspirateur-poussi%C3%A8res-Nettoyage-asservie/dp/B09B9HMRJP/ref=cm_cr_arp_d_product_top?ie=UTF8)
 
 - [Tuto : Démarrage automatique pour aspirateur à copeaux](https://www.youtube.com/watch?v=wGa-r4M88k0)
 
