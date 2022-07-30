@@ -35,6 +35,9 @@ unzip
 - DWIN_SET.zip is for flashing screen board (was not neccesary for bltouch)
 	- need to unmount screen to access sdcard slot
 
+**Issue with Octoprint**
+see 
+- [OctoPrint doesn't show a temperature graph for my Creality printer with stock firmware ](https://community.octoprint.org/t/octoprint-doesnt-show-a-temperature-graph-for-my-creality-printer-with-stock-firmware/23901#double)
 
 ## First layer
 - [Bed adhesion](https://www.reddit.com/r/3Dprinting/comments/9g7hmp/ender_3_creality_glass_bed_not_sticking/)
