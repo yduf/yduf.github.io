@@ -21,11 +21,9 @@ tags: 3dprinter
 
 ## Motherboard
 
-
 - [ mother board wiring](https://user-images.githubusercontent.com/46035129/101119293-caad8480-35c9-11eb-960d-3d9c698b4ba0.png)
 - [Creality board](https://www.reddit.com/r/ender6/comments/rggqp3/comment/homyl8i/) - [mainboard fraud](https://youtu.be/DAfIEkHHoQc?t=79)
 	- got an A/E board 
-
 
 
 ## [Firmware](https://www.creality.com/pages/download-ender-6?spm=..page_1934481.products_display_1.1) (1.0.4.9 20/04/2022)
@@ -43,6 +41,8 @@ see
 - [Bed adhesion](https://www.reddit.com/r/3Dprinting/comments/9g7hmp/ender_3_creality_glass_bed_not_sticking/)
 	- for the 1st layer, bed temp 70
 	- for the 2nd layer, bed 60
+
+- spring are sensible to heat variation (especially when room temp is close to 30°C)
 
 [![caption](https://preview.redd.it/jp6mdnn97s361.jpg?width=640&crop=smart&auto=webp&s=68a346a3bfce06b129417b18ed712afeccf10100) ](https://www.reddit.com/r/ender6/comments/k8id45/why_is_the_ender_6_not_getting_as_much_attention/)
 
@@ -62,13 +62,15 @@ see
 - [V ref](https://www.reddit.com/r/ender6/comments/u7zmxc/ender_6_wbiqu_h2_vref_value_issues_mixed_drivers/)
 
 ## Direct Drive
-- [BIQU H2 Extruder V2.0 ](https://3dprintbeginner.com/ender-6-direct-drive-conversion-h2-extruder/) / [3djake](https://www.3djake.com/biqu/h2-extruder-v20) / [review](https://3dwork.io/en/biqu-h2-extruder-review/)
-	- [Wiring](https://www.reddit.com/r/BIGTREETECH/comments/mihwg1/ender_3_v2_biqu_h2_stepper_wiring/) / [convention](https://caggius.wordpress.com/stepper-motor-wiring-conventions/)
-	- [(Another) Biqu H2 direct drive extruder upgrade](https://www.reddit.com/r/ender6/comments/shn39o/another_biqu_h2_direct_drive_extruder_upgrade/)
-	- [BIQU H2 V2 swap](https://www.reddit.com/r/ender6/comments/rxcarq/finally_biqu_h2_v2_swap_ender_6/) - _everything else is stock_ - The H2 V2 has a full rectangular hot end, which means a bunch of thingiverse mounts were outdated
-		- [mount plate](https://www.thingiverse.com/thing:4893522)
-        - [Fan Duct](https://www.thingiverse.com/thing:5202213)
-		- [configuring steps from the new extruder ](https://www.reddit.com/r/ender6/comments/rxcarq/finally_biqu_h2_v2_swap_ender_6/hu6fd46/) - don't change firmware for [that](https://www.reddit.com/r/ender6/comments/rvtlx8/comment/hrcky6w/?utm_source=reddit&utm_medium=web2x&context=3). You use printer face or [your octoprint]({% post_url 2017-09-24-Octoprint %}) to edit the [EEPROM CONFIG code](https://plugins.octoprint.org/plugins/eeprom_marlin/). => **you need to connect to usb port** and follow [instruction](https://www.reddit.com/r/ender6/comments/rvtlx8/comment/hrcky6w/?utm_source=reddit&utm_medium=web2x&context=3)
+
+### [BIQU H2 Extruder V2.0 ](https://3dprintbeginner.com/ender-6-direct-drive-conversion-h2-extruder/) / [3djake](https://www.3djake.com/biqu/h2-extruder-v20) / [review](https://3dwork.io/en/biqu-h2-extruder-review/)
+
+[**Wiring**](https://www.reddit.com/r/BIGTREETECH/comments/mihwg1/ender_3_v2_biqu_h2_stepper_wiring/) / [convention](https://caggius.wordpress.com/stepper-motor-wiring-conventions/)
+- [(Another) Biqu H2 direct drive extruder upgrade](https://www.reddit.com/r/ender6/comments/shn39o/another_biqu_h2_direct_drive_extruder_upgrade/)
+- [BIQU H2 V2 swap](https://www.reddit.com/r/ender6/comments/rxcarq/finally_biqu_h2_v2_swap_ender_6/) - _everything else is stock_ - The H2 V2 has a full rectangular hot end, which means a bunch of thingiverse mounts were outdated
+	- [mount plate](https://www.thingiverse.com/thing:4893522)
+	- [Fan Duct](https://www.thingiverse.com/thing:5202213)
+	- [configuring steps from the new extruder ](https://www.reddit.com/r/ender6/comments/rxcarq/finally_biqu_h2_v2_swap_ender_6/hu6fd46/) - don't change firmware for [that](https://www.reddit.com/r/ender6/comments/rvtlx8/comment/hrcky6w/?utm_source=reddit&utm_medium=web2x&context=3). You use printer face or [your octoprint]({% post_url 2017-09-24-Octoprint %}) to edit the [EEPROM CONFIG code](https://plugins.octoprint.org/plugins/eeprom_marlin/). => **you need to connect to usb port** and follow [instruction](https://www.reddit.com/r/ender6/comments/rvtlx8/comment/hrcky6w/?utm_source=reddit&utm_medium=web2x&context=3)
 	- [Did the biqu h2 upgrade](https://www.reddit.com/r/ender6/comments/rvtlx8/did_the_biqu_h2_upgrade_everything_working_well/) - / [cable chain](https://www.thingiverse.com/thing:4731935)
 	- Stepper config: 
     	- Number of pulses: 932steps/mm for stepper motor drive at 16 subdivisions  (micro-steps) (further correction is required)
@@ -79,7 +81,6 @@ Alternative
 - [Ender 6 Extruder Relocation](https://marksmakerspace.com/3dprinting/ender6-extruder-move.html)
 
 ![caption](https://cdn.shopify.com/s/files/1/1619/4791/products/9_601abe7a-ee33-40d1-9a38-8df2813b36f8_800x.jpg?v=1634899553)
-
 
 ## Z sensor
 
