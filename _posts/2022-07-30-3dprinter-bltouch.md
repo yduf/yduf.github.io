@@ -9,3 +9,7 @@ tags: 3dprinter
 - [**setting the probe offset**]({% post_url 2021-09-03-klipper-homing %}#bl-touch)
 
 - [BLTouch adjustment screw](https://www.3dprintbeast.com/bltouch-adjustment-screw/)
+
+## 3DTouch
+
+Compatibility issue with ender6 firmware / motherboard ?
