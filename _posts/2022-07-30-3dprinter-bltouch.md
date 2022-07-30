@@ -7,3 +7,5 @@ tags: 3dprinter
 
 - [**Mounting**](https://youtu.be/eF060dBEnfs?t=182) - adjust with a 3mm allen key.
 - [**setting the probe offset**]({% post_url 2021-09-03-klipper-homing %}#bl-touch)
+
+- [BLTouch adjustment screw](https://www.3dprintbeast.com/bltouch-adjustment-screw/)
