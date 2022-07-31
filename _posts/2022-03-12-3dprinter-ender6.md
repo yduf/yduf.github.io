@@ -86,6 +86,8 @@ Alternative
 
 ### [3DTouch Auto Leveling Sensor](https://www.geeetech.com/wiki/index.php/3DTouch_Auto_Leveling_Sensor) / [BL-Touch](http://www.klipper3d.org/BLTouch.html)
 
+creality firmware 1.0.4.9 20/04/2022 doesn't work with [3DTouch v3.2](https://www.amazon.fr/gp/product/B08P51G69Z/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+
 ### [BLTouch installation]({% post_url 2022-07-30-3dprinter-bltouch %})
 
 - [BLTouch](https://www.youtube.com/watch?v=Sqs6rGUX9yw) / [2](https://www.youtube.com/watch?v=FH0KHYU3_S8) - ender6 as a JSP connector for BLTouch. one can use the cable extension and join dupont together (matching colors)  to connect both jsp end. - [creality firmware needs flashing.](https://www.creality.com/pages/download-ender-6?spm=..page_1934481.products_display_1.1)
