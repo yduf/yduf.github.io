@@ -94,7 +94,7 @@ creality firmware 1.0.4.9 20/04/2022 doesn't work with [3DTouch v3.2](https://ww
 - [Does 3d touch work on ender 6](https://www.reddit.com/r/ender6/comments/pslddo/does_3d_touch_work_on_ender_6/) / [What Version of BLTouch works with Ender-6](https://forums.creality3dofficial.com/community/ender-6/what-version-of-bltouch-works-with-ender-6/)
 - [Ender 6 CR Touch](https://www.reddit.com/r/ender6/comments/qngdd8/ender_6_cr_touch/) - rewire
 
-## Klipper
+## [Klipper](https://3dprintbeginner.com/klipper-firmware/)
 - [Ender 6 Klipper + BL-Touch ](https://www.smith3d.com/ender-6-klipper-bl-touch/) / [2](https://3dprintbeginner.com/how-to-install-klipper-on-creality-ender-6/)
 
 
