@@ -10,6 +10,6 @@ tags: 3dprinter
 
 - [BLTouch adjustment screw](https://www.3dprintbeast.com/bltouch-adjustment-screw/)
 
-## [3DTouch](https://www.geeetech.com/wiki/index.php/3DTouch_Auto_Leveling_Sensor)
+## [3DTouch](https://www.geeetech.com/wiki/index.php/3DTouch_Auto_Leveling_Sensor) - [23€ - 2021](https://www.amazon.fr/gp/product/B08PZ5FCP6/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 
 Compatibility issue with ender6 firmware / motherboard ?
