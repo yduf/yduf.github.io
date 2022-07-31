@@ -12,7 +12,7 @@ tags: 3dprinter
 [review](https://3dprintbeginner.com/creality-ender-6-review/) / [assembly](https://forums.creality3dofficial.com/my-ender-6-assembly-process/)
 - [Ender 6 upgrade](https://3dprintbeginner.com/creality-ender-6-upgrades-paid-and-free/)
 
-- [Ender 6 Klipper + BL-Touch ](https://www.smith3d.com/ender-6-klipper-bl-touch/) / [2](https://3dprintbeginner.com/how-to-install-klipper-on-creality-ender-6/)
+
 - [Ender 6 linear rail (Y)](https://www.thingiverse.com/thing:4757747)
 - [Ender 6 Complete Linear Rails Mod](https://www.thingiverse.com/thing:4757747/remixes)
 - [Ender6 + SKR Mini V3.0](https://www.reddit.com/r/ender6/comments/sii1jf/ender6_skr_mini_v30/)
@@ -93,6 +93,9 @@ creality firmware 1.0.4.9 20/04/2022 doesn't work with [3DTouch v3.2](https://ww
 - [BLTouch](https://www.youtube.com/watch?v=Sqs6rGUX9yw) / [2](https://www.youtube.com/watch?v=FH0KHYU3_S8) - ender6 as a JSP connector for BLTouch. one can use the cable extension and join dupont together (matching colors)  to connect both jsp end. - [creality firmware needs flashing.](https://www.creality.com/pages/download-ender-6?spm=..page_1934481.products_display_1.1)
 - [Does 3d touch work on ender 6](https://www.reddit.com/r/ender6/comments/pslddo/does_3d_touch_work_on_ender_6/) / [What Version of BLTouch works with Ender-6](https://forums.creality3dofficial.com/community/ender-6/what-version-of-bltouch-works-with-ender-6/)
 - [Ender 6 CR Touch](https://www.reddit.com/r/ender6/comments/qngdd8/ender_6_cr_touch/) - rewire
+
+## Klipper
+- [Ender 6 Klipper + BL-Touch ](https://www.smith3d.com/ender-6-klipper-bl-touch/) / [2](https://3dprintbeginner.com/how-to-install-klipper-on-creality-ender-6/)
 
 
 ## [Spool inside](https://www.thingiverse.com/thing:5181697)
