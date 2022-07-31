@@ -97,7 +97,11 @@ creality firmware 1.0.4.9 20/04/2022 doesn't work with [3DTouch v3.2](https://ww
 ## [Klipper](https://3dprintbeginner.com/how-to-install-klipper-on-creality-ender-6/)
 - [Ender 6 Klipper + BL-Touch ](https://www.smith3d.com/ender-6-klipper-bl-touch/) / [2](https://3dprintbeginner.com/how-to-install-klipper-on-creality-ender-6/)
 
-**You need to use [the Desuuuu klipper build](https://github.com/Desuuuu/klipper) if you want the screen to work.** - see [Stock Screen? after installing Klipper](https://www.reddit.com/r/ender6/comments/w9rwvk/stock_screen_after_installing_klipper/)
+**You need to use [the Desuuuu klipper build](https://github.com/Desuuuu/klipper) if you want the screen to work.** - see [Stock Screen? after installing Klipper](https://www.reddit.com/r/ender6c/comments/w9rwvk/stock_screen_after_installing_klipper/)
+Concerned Topics: 
+- [Feature request: extend protocol with UART commands ](https://klipper.discourse.group/t/feature-request-extend-protocol-with-uart-commands/2414)
+- [DMT48270C043_03W](http://www.ampdisplay.com/documents/pdf/DMT48270C043_03WN.pdf) / [2012 Instruction Manual Beijing DWIN Technology](https://manualzz.com/doc/11786048/2012-instruction-manual-beijing-dwin-technology-co.--ltd)
+
 
 ## [Spool inside](https://www.thingiverse.com/thing:5181697)
 
