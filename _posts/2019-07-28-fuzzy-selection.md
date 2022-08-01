@@ -12,7 +12,7 @@ echo '' | fzf --print-query --preview "cat *.json | jq {q}"
 {% endhighlight %}
 
 - [fish integration](https://github.com/PatrickF1/fzf.fish) - see [fish key binding](https://fishshell.com/docs/current/cmds/bind.html) 
-	- **Ctrl+Alt+F**  (F for file) - recursive listing of current directory's non-hidden files
+	- **Ctrl+Alt+F**  (F for file) - recursive listing of current directory's non-hidden files - **clipit** is overidding this as well
     - **Ctrl+R** (R for reverse-i-search) - Fish's command history
     - **Ctrl+V** (V for variable) - all the variable names of the environment currently in scope
 	- Git
