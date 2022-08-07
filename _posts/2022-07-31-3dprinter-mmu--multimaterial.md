@@ -9,7 +9,7 @@ tags: 3dprinter
 
 ### [iczfirz](https://www.youtube.com/c/iczfirz/videos)
 - [My klipper with MMU finally a print without any manual intervention](https://www.reddit.com/r/klippers/comments/w8hrcl/my_klipper_with_mmu_finally_a_print_without_any/)
-	- [Pi cam with opencv for color check. Running on klipper with MMU.](https://www.reddit.com/r/3Dprinting/comments/uba40q/pi_cam_with_opencv_for_color_check_running_on/)
+	- [Pi cam with opencv for color check. Running on klipper with MMU.](https://www.reddit.com/r/3Dprinting/comments/uba40q/pi_cam_with_opencv_for_color_check_running_on/) / [more info](https://www.reddit.com/r/3dpTimelapse/comments/uhd17p/multimaterial_purge_and_cv_gears_added_to_my/)
 - [Multimaterial purge and CV gears added to my timelapse farm](https://www.reddit.com/r/3dpTimelapse/comments/uhd17p/multimaterial_purge_and_cv_gears_added_to_my/)
 
 - [prusa mmu](https://www.youtube.com/results?search_query=prusa+mmu)
