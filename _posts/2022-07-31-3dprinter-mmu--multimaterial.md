@@ -16,6 +16,21 @@ I'm using Sony Nex and Nikon One.
 
 If you own a prusa printer then go for mmu2s. If not then better go for ERCF. But both need buffer system. 
 
+### Hardware
+Machine : DMSCreate DPX (direct extruder mod).
+Slicer: Prusaslicer, Cura
+MaterialMaterial : MMU2S
+Klipper CPU: Pi 4 4G
+Klipper MCU:
+- XYZE / Bigtreetech-skr-pro1.1
+- MMU / Bigtreetech-skr-v1.3
+- CameraRailx3 & Purge Mechanism / ATMega2560+CNC Shield v3
+
+Computer Vision :
+- Pi 4 4G
+- Pi Camera Module
+-  OpenCV
+
 - [Model remixed in Blender](https://www.youtube.com/watch?v=0M-ffuzG0dc)
 
 - [My klipper with MMU finally a print without any manual intervention](https://www.reddit.com/r/klippers/comments/w8hrcl/my_klipper_with_mmu_finally_a_print_without_any/)
