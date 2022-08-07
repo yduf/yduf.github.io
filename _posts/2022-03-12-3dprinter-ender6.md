@@ -95,8 +95,8 @@ creality firmware 1.0.4.9 20/04/2022 doesn't work with [3DTouch v3.2](https://ww
 - [Ender 6 CR Touch](https://www.reddit.com/r/ender6/comments/qngdd8/ender_6_cr_touch/) - rewire
 
 ## [Klipper]({% post_url 2017-12-28-Klipper %})
-- [Klipper](https://3dprintbeginner.com/how-to-install-klipper-on-creality-ender-6/)
-- [Ender 6 Klipper + BL-Touch ](https://www.smith3d.com/ender-6-klipper-bl-touch/) / [2](https://3dprintbeginner.com/how-to-install-klipper-on-creality-ender-6/)
+- [Klipper](https://3dprintbeginner.com/how-to-install-klipper-on-creality-ender-6/) - install on ender 6
+	- [Ender 6 Klipper + BL-Touch ](https://www.smith3d.com/ender-6-klipper-bl-touch/) / [2](https://3dprintbeginner.com/how-to-install-klipper-on-creality-ender-6/)
 
 **You need to use [the Desuuuu klipper build](https://github.com/Desuuuu/klipper) if you want the screen to work.** - see [Stock Screen? after installing Klipper](https://www.reddit.com/r/ender6c/comments/w9rwvk/stock_screen_after_installing_klipper/)
 Concerned Topics: 
