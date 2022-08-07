@@ -5,6 +5,7 @@ tags: 3dprinter
 ---
 > The Enraged Rabbit Carrot Feed - [The open source customizable MMU](https://www.youtube.com/watch?v=ccwiylrg7KM) / [ERCF EASY BRD](https://github.com/Tircown/ERCF-easy-brd) 
 
+### [r/3Dprinting MMU](https://www.reddit.com/r/3Dprinting/search/?q=mmu&restrict_sr=1&sr_nsfw=)
 - [EnragedRabbitProject ](https://github.com/EtteGit/EnragedRabbitProject) - klipper support
 - [MMU2 upgrade on any printer](https://www.youtube.com/watch?v=eDtLXVz1QEo) / [github](https://github.com/PierreMasselot1/Material-Switching-Unit)
 
