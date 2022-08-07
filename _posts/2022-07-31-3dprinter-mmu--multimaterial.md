@@ -10,6 +10,14 @@ tags: 3dprinter
 - [MMU2 upgrade on any printer](https://www.youtube.com/watch?v=eDtLXVz1QEo) / [github](https://github.com/PierreMasselot1/Material-Switching-Unit)
 
 ### [iczfirz](https://www.youtube.com/c/iczfirz/videos)
+A long list of mods everywhere from mmu hardware, klipper cfg, purge mechanism and CV added.
+I'm using octoprint to stream the gcode only. No plugin and no octolapse at all.
+I'm using Sony Nex and Nikon One.
+
+If you own a prusa printer then go for mmu2s. If not then better go for ERCF. But both need buffer system. 
+
+- [Model remixed in Blender](https://www.youtube.com/watch?v=0M-ffuzG0dc)
+
 - [My klipper with MMU finally a print without any manual intervention](https://www.reddit.com/r/klippers/comments/w8hrcl/my_klipper_with_mmu_finally_a_print_without_any/)
 	- [Pi cam with opencv for color check. Running on klipper with MMU.](https://www.reddit.com/r/3Dprinting/comments/uba40q/pi_cam_with_opencv_for_color_check_running_on/) / [more info](https://www.reddit.com/r/3dpTimelapse/comments/uhd17p/multimaterial_purge_and_cv_gears_added_to_my/)
 - [Multimaterial purge and CV gears added to my timelapse farm](https://www.reddit.com/r/3dpTimelapse/comments/uhd17p/multimaterial_purge_and_cv_gears_added_to_my/)
