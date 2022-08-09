@@ -1,7 +1,7 @@
 ---
 title: De / Interleave bits
 published: true
-tags: c++ bits morton-code raytracing avx pack
+tags: c++ bits morton-code avx pack
 ---
 > Interleaving the binary coordinate values yields binary z-values. Connecting the z-values in their numerical order produces the recursively [Z-shaped curve]({% post_url 2017-12-29-Space-filling-curve %}). - [Morton Codes](http://asgerhoedt.dk/?p=276)
 
@@ -63,5 +63,3 @@ They are accessible in [c++](https://cpp.hotexamples.com/examples/-/-/_pext_u64/
 _pext_u64(__X, __Y);
 _pdep_u64(__X, __Y);
 {% endhighlight %}
-
-
