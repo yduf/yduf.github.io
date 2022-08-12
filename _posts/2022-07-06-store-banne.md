@@ -15,6 +15,7 @@ Ref Moteur
     - Isolation électrique : Classe 1 - necessite d'etre raccordé a la terre
     - Intensité : 1.1 A
     
+- [Video](https://www.youtube.com/channel/UCnFrayvEt0COB3OCo40wqTQ/videos)
 
 - [Moteur Nice Radio Free-Max 15/17 Av FdC Electro & Fréquence 433,92MHz Rolling Code M 50, Remplacé par EFITM1517](http://www.moteurdevolet.com/122243-moteur-nice-radio-free-max-15-17-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds-remplace-par-efitm1517.html)
 	- [Moteur Nice Era E M 15/17 Filair](https://www.centpourcent-volet-roulant.fr/moteur-nice/moteur-nice-era-e-m-1517-filaire-1962)
