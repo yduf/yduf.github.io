@@ -7,6 +7,15 @@ tags: home
 
 - [Comment régler les bras d’un store banne ?](https://www.storespergolas.com/blog/comment-regler-les-bras-dun-store-banne/)
 
+Ref Moteur
+- [Moteur Nice Radio Free-Max 50/12 XM9300002](http://www.moteurdevolet.com/122246-moteur-nice-radio-free-max-50-12-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds-remplace-par-efitm5012.html) - remplacé par [Era FIT M 50/12](https://www.piecevolet.com/qc/accueil/122240-moteur-nice-radio-era-fit-m-50-12-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds.html)
+	- Couple : 50 Nm 
+    - Vitesse de rotation : 12 Tours/mn
+    - Commande radio : Nice 433,92 MHz Rolling Code
+    - Isolation électrique : Classe 1
+    - Intensité : 1.1 A
+    
+
 - [Moteur Nice Radio Free-Max 15/17 Av FdC Electro & Fréquence 433,92MHz Rolling Code M 50, Remplacé par EFITM1517](http://www.moteurdevolet.com/122243-moteur-nice-radio-free-max-15-17-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds-remplace-par-efitm1517.html)
 	- [Moteur Nice Era E M 15/17 Filair](https://www.centpourcent-volet-roulant.fr/moteur-nice/moteur-nice-era-e-m-1517-filaire-1962)
 
