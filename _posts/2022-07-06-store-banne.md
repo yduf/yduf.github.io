@@ -15,7 +15,7 @@ Ref Moteur
     - Isolation électrique : Classe 1 - necessite d'etre raccordé a la terre
     - Intensité : 1.1 A
     - Compatible ?
-    	- [Moteur volet roulant NIEM5012](https://www.servistores.com/html/produits/moteur-volet-roulant-Nice-E_M_5012-NIEM5012.html)
+    	- [Moteur volet roulant NIEM5012 - 95€](https://www.servistores.com/html/produits/moteur-volet-roulant-Nice-E_M_5012-NIEM5012.html)
     
 - [Video](https://www.youtube.com/channel/UCnFrayvEt0COB3OCo40wqTQ/videos)
 
