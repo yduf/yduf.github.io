@@ -8,7 +8,7 @@ tags: home
 - [Comment régler les bras d’un store banne ?](https://www.storespergolas.com/blog/comment-regler-les-bras-dun-store-banne/)
 
 Ref Moteur
-- [Moteur Nice Radio Free-Max 50/12 XM9300002](http://www.moteurdevolet.com/122246-moteur-nice-radio-free-max-50-12-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds-remplace-par-efitm5012.html) - remplacé par [Era FIT M 50/12](https://www.piecevolet.com/qc/accueil/122240-moteur-nice-radio-era-fit-m-50-12-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds.html)
+- [Moteur Nice Radio Free-Max 50/12 XM9300002](http://www.moteurdevolet.com/122246-moteur-nice-radio-free-max-50-12-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds-remplace-par-efitm5012.html) - remplacé par [Era FIT M 50/12](https://www.piecevolet.com/qc/accueil/122240-moteur-nice-radio-era-fit-m-50-12-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds.html) / [2](http://www.moteurdevolet.com/122240-moteur-nice-radio-era-fit-m-50-12-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds.html?search_query=efitM50%2F12&results=2)
 	- Couple : 50 Nm 
     - Vitesse de rotation : 12 Tours/mn
     - Commande radio : Nice 433,92 MHz Rolling Code
