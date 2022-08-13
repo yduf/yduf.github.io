@@ -120,6 +120,7 @@ $ git commit -am "resolve"
 $ cd ~/klipper/
 # retrieve dependancy
 $ ./scripts/install-debian.sh # or other OS as apropriate
+$ export LC_ALL=C # maybe necessary to resolve locale.Error: unsupported locale setting
 $ make menuconfig
 {% endhighlight %}
 
