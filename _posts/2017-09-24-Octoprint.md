@@ -12,7 +12,9 @@ tags: 3dprinter docker klipper
 ## Run as [docker Image](https://github.com/OctoPrint/octoprint-docker)
 
 {% highlight bash %}
-$ docker run  -d -v octoprint:/octoprint --device /dev/ttyACM0:/dev/ttyACM0 -p 80:80 --name octoprint octoprint/octoprint
+$ docker run  -d -v octoprint:/octoprint \
+--device /dev/ttyACM0:/dev/ttyACM0 \
+-p 80:80 --name octoprint octoprint/octoprint
 {% endhighlight %}
 
 - [ octoprint-docker/docker-compose.yml ](https://github.com/OctoPrint/octoprint-docker/blob/master/docker-compose.yml)
