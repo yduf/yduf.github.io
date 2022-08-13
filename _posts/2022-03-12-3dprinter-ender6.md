@@ -205,6 +205,7 @@ Screen has to be flashed separately to be functional.
 	- Plug the printer's power cable back (and only the power cable) and turn the printer on.
     - After a few second, the screen's background will turn blue and the flashing procedure will begin.
     - When the procedure ends, you will be back on the page with a blue background. There will be an END message at the top and you'll be presented with a summary of what was flashed.
+    	- if all presented with `Download .xxx Files:000 ` **No flashing has been done**
 - At this point, you can turn your printer back off, remove the micro SD card from the touchscreen and reassemble your printer if you had to disassemble it previously.
     
 
