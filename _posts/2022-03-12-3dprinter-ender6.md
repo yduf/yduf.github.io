@@ -76,8 +76,12 @@ see
     	- Number of pulses: 932steps/mm for stepper motor drive at 16 subdivisions  (micro-steps) (further correction is required)
         - Recommended motor current: 800mA
         - Extrusion capacity (based on existing): 600mm³/min(depending on filaments)
+        
+[**Klipper BIQU H2 v2 Config**](BIQU H2 Klipper Config)
 
-Alternative
+
+
+**Alternative**
 - [Ender 6 Extruder Relocation](https://marksmakerspace.com/3dprinting/ender6-extruder-move.html)
 
 ![caption](https://cdn.shopify.com/s/files/1/1619/4791/products/9_601abe7a-ee33-40d1-9a38-8df2813b36f8_800x.jpg?v=1634899553)
