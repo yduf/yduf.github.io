@@ -135,7 +135,7 @@ Choose option for Ender6/Desuu screen
     - screen serial UART3
 - 250k serial ports
     
-![cpation](https://3dprintbeginner.com/wp-content/uploads/2022/01/image-3.png) 
+![caption](https://3dprintbeginner.com/wp-content/uploads/2022/01/image-3.png) 
 
 Build et flash
 {% highlight bash %}
