@@ -126,6 +126,15 @@ $ make menuconfig
 Choose option for Ender6/Desuu scree
 ![Enable extra low level/enable Degus screen/250k serial ports](https://3dprintbeginner.com/wp-content/uploads/2022/01/image-3.png) 
 
+Build et flash
+{% highlight bash %}
+$ make
+# then retrieve /klipper/out/klipper.bin file on an SD card.
+{% endhighlight %}
+
+This will flash the ender6 firmware.
+Screen has to be flashed separately to be functional.
+
 ## [Spool inside](https://www.thingiverse.com/thing:5181697)
 
 Once using a direct drive (or having moving the extruder).
