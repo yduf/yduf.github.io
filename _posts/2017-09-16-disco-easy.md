@@ -1,7 +1,7 @@
 ---
 title: Discoeasy 200 (3d printer)
 published: true
-tags: 3dprinter
+tags: 3dprinter klipper
 ---
 > First printer in 2017. Kit is ok, but configuration has some undocumented issue (but forums has answer). - [discoeasy 200](https://dagoma.fr/tutoriels/tutoriels-discovery200.html)
 
