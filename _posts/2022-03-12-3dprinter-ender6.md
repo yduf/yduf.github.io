@@ -110,6 +110,8 @@ $ git clone https://github.com/Klipper3d/klipper
 $ cd klipper
 $ git remote add -f desuu https://github.com/Desuuuu/klipper
 $ git merge desuu/dgus-reloaded
+# resolve conflict on README only
+
 {% endhighlight %}
 
 
