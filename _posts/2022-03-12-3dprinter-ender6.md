@@ -102,6 +102,7 @@ pressure_advance: 0.05
 
 {% endhighlight %}
 
+**To check BEFORE USE**
 {% highlight ini %}
 [tmc2209 extruder]
 #uart_pin: PC11 # not creality board
