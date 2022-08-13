@@ -195,7 +195,6 @@ Screen has to be flashed separately to be functional.
 - unbox the screen, 
 - get access to the mini SD Card port
 - format SD Card to FAT32 and 4096 bytes sector (mandatory)
-	- `sudo mkfs.fat -S 4096 /dev/sdxn`
 - copy DWIN_SET from latest [release](https://github.com/Desuuuu/DGUS-reloaded-Klipper/releases)
 - add T5UID1.CFG from [here](https://github.com/Desuuuu/DGUS-reloaded-Klipper/blob/master/extras/flash_reset)
 
