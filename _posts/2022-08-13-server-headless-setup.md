@@ -10,6 +10,7 @@ tags: hardware server headless raspberry-pi
 [**ssh**]({% post_url 2019-04-29-ssh %})  
 [**micro**]({% post_url2021-06-12-term-editor %}) - term editor
 **git**  
+**htop**
 
 h
 ### TODO's
