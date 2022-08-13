@@ -123,6 +123,8 @@ $ ./scripts/install-debian.sh # or other OS as apropriate
 $ make menuconfig
 {% endhighlight %}
 
+Choose option for Ender6/Desuu scree
+![Enable extra low level/enable Degus screen/250k serial ports](https://3dprintbeginner.com/wp-content/uploads/2022/01/image-3.png) 
 
 ## [Spool inside](https://www.thingiverse.com/thing:5181697)
 
