@@ -198,6 +198,16 @@ Screen has to be flashed separately to be functional.
 - copy DWIN_SET from latest [release](https://github.com/Desuuuu/DGUS-reloaded-Klipper/releases)
 - add T5UID1.CFG from [here](https://github.com/Desuuuu/DGUS-reloaded-Klipper/blob/master/extras/flash_reset)
 
+**Flashing**
+- Turn off and unplug your printer (both power and USB).
+- Insert the micro SD card into the slot.
+- **Do not cut power to the printer while the flashing procedure is running!**
+	- Plug the printer's power cable back (and only the power cable) and turn the printer on.
+    - After a few second, the screen's background will turn blue and the flashing procedure will begin.
+    - When the procedure ends, you will be back on the page with a blue background. There will be an END message at the top and you'll be presented with a summary of what was flashed.
+- At this point, you can turn your printer back off, remove the micro SD card from the touchscreen and reassemble your printer if you had to disassemble it previously.
+    
+
 ## [Spool inside](https://www.thingiverse.com/thing:5181697)
 
 Once using a direct drive (or having moving the extruder).
