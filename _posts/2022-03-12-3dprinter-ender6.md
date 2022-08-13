@@ -199,6 +199,8 @@ Screen has to be flashed separately to be functional.
     - or with a correct sized partition (16go) on linux, use 
     	- `lsblk`, then
         - `sudo mkfs.fat -S 4096 /dev/sdxn`
+	- [alternative](https://askubuntu.com/questions/493262/fat32-formatting) - untested
+    	- sudo mkdosfs /dev/DISKANDPARTITION -s 16 -F 32
 - copy DWIN_SET from latest [release](https://github.com/Desuuuu/DGUS-reloaded-Klipper/releases)
 - add T5UID1.CFG from [here](https://github.com/Desuuuu/DGUS-reloaded-Klipper/blob/master/extras/flash_reset)
 
