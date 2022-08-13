@@ -77,7 +77,40 @@ see
         - Recommended motor current: 800mA
         - Extrusion capacity (based on existing): 600mm³/min(depending on filaments)
         
-[**Klipper BIQU H2 v2 Config**](BIQU H2 Klipper Config)
+[**Klipper BIQU H2 v2 Config**](https://3dprintbeginner.com/ender-6-direct-drive-conversion-h2-extruder/) / [config](https://3dprintbeginner.com/wp-content/uploads/2021/05/Ender6_BIQU-H2.zip)
+
+{% highlight ini %}
+[extruder]
+max_extrude_only_distance: 1000.0
+step_pin: PB4
+dir_pin: !PB3
+enable_pin: !PC3
+microsteps: 16
+rotation_distance: 3.4334
+nozzle_diameter: 0.400
+filament_diameter: 1.750
+heater_pin: PA1
+sensor_type: EPCOS 100K B57560G104F
+sensor_pin: PC5
+control: pid
+pid_Kp: 16.948
+pid_Ki: 0.706
+pid_Kd: 101.690
+min_temp: 0
+max_temp: 260
+pressure_advance: 0.05
+
+{% endhighlight %}
+
+{% highlight ini %}
+[tmc2209 extruder]
+#uart_pin: PC11 # not creality board
+#tx_pin: PC10
+#uart_address: 3
+run_current: 0.750
+hold_current: 0.500
+{% endhighlight %}
+
 
 
 
