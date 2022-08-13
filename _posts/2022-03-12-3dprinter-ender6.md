@@ -118,6 +118,7 @@ $ git commit -am "resolve"
 [Compilation]()
 {% highlight bash %}
 $ cd ~/klipper/
+# retrieve dependancy
 $ ./scripts/install-debian.sh # or other OS as apropriate
 $ make menuconfig
 {% endhighlight %}
