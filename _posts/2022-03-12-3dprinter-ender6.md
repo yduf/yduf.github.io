@@ -146,6 +146,12 @@ $ make
 This will flash the ender6 firmware.
 Screen has to be flashed separately to be functional.
 
+> Next, plug the SD card in your printer and turn it on. The installation process takes about 15 seconds. I recommend you wait for a minute, then remove the SD card and restart your printer.
+
+> When you are flashing the board firmware, there won’t be any information displayed on the touchscreen. It might look like the screen is stuck, and the progress bar does not move, but this is ok. Just continue to the next step.
+
+> It’s also worth noting that if you want to re-flash the board, always change the filename. The Creality board doesn’t start the flash process again, if you use the same firmware name, as in your previous flash. 
+
 ## [Spool inside](https://www.thingiverse.com/thing:5181697)
 
 Once using a direct drive (or having moving the extruder).
