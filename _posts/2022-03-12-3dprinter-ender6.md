@@ -190,7 +190,13 @@ Screen has to be flashed separately to be functional.
 
 > It’s also worth noting that if you want to re-flash the board, always change the filename. The Creality board doesn’t start the flash process again, if you use the same firmware name, as in your previous flash. 
 
-### Flashing screen
+### [Flashing screen](https://github.com/Desuuuu/DGUS-reloaded-Klipper/wiki/Flashing-the-firmware)
+
+- unbox the screen, 
+- get access to the mini SD Card port
+- format SD Card to FAT32 and 4096 bytes sector (mandatory)
+- copy DWIN_SET from latest [release](https://github.com/Desuuuu/DGUS-reloaded-Klipper/releases)
+- add T5UID1.CFG from [here](https://github.com/Desuuuu/DGUS-reloaded-Klipper/blob/master/extras/flash_reset)
 
 ## [Spool inside](https://www.thingiverse.com/thing:5181697)
 
