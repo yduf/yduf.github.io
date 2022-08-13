@@ -195,7 +195,7 @@ Screen has to be flashed separately to be functional.
 - unbox the screen, 
 - get access to the mini SD Card port
 - format SD Card to FAT32 and 4096 bytes sector (mandatory)
-	- see [guiformat.exe](http://www.ridgecrop.co.uk/index.htm?fat32format.htm) 
+	- partition disk if greater thatn 16Go, to be able to specify 4096 boot sector (standard partition tools will allows that)
 - copy DWIN_SET from latest [release](https://github.com/Desuuuu/DGUS-reloaded-Klipper/releases)
 - add T5UID1.CFG from [here](https://github.com/Desuuuu/DGUS-reloaded-Klipper/blob/master/extras/flash_reset)
 
