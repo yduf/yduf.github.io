@@ -124,8 +124,18 @@ $ export LC_ALL=C # maybe necessary to resolve locale.Error: unsupported locale 
 $ make menuconfig
 {% endhighlight %}
 
-Choose option for Ender6/Desuu scree
-![Enable extra low level/enable Degus screen/screen serail UART3/250k serial ports](https://3dprintbeginner.com/wp-content/uploads/2022/01/image-3.png) 
+Choose option for Ender6/Desuu screen
+- Enable extra low level
+	- Micro-controller Architecture STM32
+    - processor model STM32F103
+    - bootloader offset 28Kib
+    - clock 8Mhz
+    - USART1 on PA10/PA9
+- Enable Degus screen
+    - screen serial UART3
+- 250k serial ports
+    
+![cpation](https://3dprintbeginner.com/wp-content/uploads/2022/01/image-3.png) 
 
 Build et flash
 {% highlight bash %}
