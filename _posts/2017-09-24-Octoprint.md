@@ -1,7 +1,7 @@
 ---
 title: Octoprint
 published: true
-tags: 3dprinter
+tags: 3dprinter docker klipper
 ---
 >  Web interface for your 3D printer - [server](http://192.168.0.123/) / [Home](https://octoprint.org/)
 
