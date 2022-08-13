@@ -17,3 +17,4 @@ h
 {% highlight bash %}
 $ ssh-keygen -t rsa -b 4096 -C `hostname`
 {% endhighlight %}
+- add keys to github
