@@ -9,3 +9,5 @@ tags: hardware server headless raspberry-pi
 [**ssh**]({% post_url 2019-04-29-ssh %})  
 [**micro**]({% post_url2021-06-12-term-editor %}) - term editor
 **git**  
+
+### [Generate Identity]({% post_url 2019-04-29-ssh %}#generating_a_new_ssh_key) 
