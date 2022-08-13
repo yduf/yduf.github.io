@@ -31,6 +31,9 @@ z_offset: 2.345
 
 [Tips](https://www.klipper3d.org/Probe_Calibrate.html#calibrating-probe-x-and-y-offsets): issuing `PROBE` will trigger the use of BLTouch at current position to probe Z-level, and stop when BlTouch trigger.
 
+[![caption](https://img.youtube.com/vi/fN_ndWvXGBQ/0.jpg)](https://www.youtube.com/watch?v=fN_ndWvXGBQ)
+
+
 ### [Setting the probe offset](https://www.youtube.com/watch?v=fN_ndWvXGBQ)
 - X, Y: align on target with PROBE or info from probe support
 - [Z offset](https://www.klipper3d.org/BLTouch.html#calibrating-the-bl-touch-offsets) 
