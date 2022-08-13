@@ -103,6 +103,15 @@ Concerned Topics:
 - [Feature request: extend protocol with UART commands ](https://klipper.discourse.group/t/feature-request-extend-protocol-with-uart-commands/2414)
 - [DMT48270C043_03W](http://www.ampdisplay.com/documents/pdf/DMT48270C043_03WN.pdf) / [2012 Instruction Manual Beijing DWIN Technology](https://manualzz.com/doc/11786048/2012-instruction-manual-beijing-dwin-technology-co.--ltd)
 
+### Klipper compilation/merge
+
+{% highlight bash %}
+$ git clone https://github.com/Klipper3d/klipper
+$ cd klipper
+$ git remote add -f desuu https://github.com/Desuuuu/klipper
+$ git merge desuu/dgus-reloaded
+{% endhighlight %}
+
 
 ## [Spool inside](https://www.thingiverse.com/thing:5181697)
 
