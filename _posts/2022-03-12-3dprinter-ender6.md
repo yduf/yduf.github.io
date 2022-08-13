@@ -115,7 +115,7 @@ $ git merge desuu/dgus-reloaded
 $ git commit -am "resolve"
 {% endhighlight %}
 
-[Compilation]()
+[Compilation](https://3dprintbeginner.com/install-klipper-on-sidewinder-x1/)
 {% highlight bash %}
 $ cd ~/klipper/
 # retrieve dependancy
