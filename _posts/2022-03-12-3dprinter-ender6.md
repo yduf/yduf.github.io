@@ -125,7 +125,7 @@ $ make menuconfig
 {% endhighlight %}
 
 Choose option for Ender6/Desuu scree
-![Enable extra low level/enable Degus screen/250k serial ports](https://3dprintbeginner.com/wp-content/uploads/2022/01/image-3.png) 
+![Enable extra low level/enable Degus screen/screen serail UART3/250k serial ports](https://3dprintbeginner.com/wp-content/uploads/2022/01/image-3.png) 
 
 Build et flash
 {% highlight bash %}
