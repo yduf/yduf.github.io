@@ -221,6 +221,10 @@ Screen has to be flashed separately to be functional.
 [![caption](https://3dprintbeginner.com/wp-content/uploads/2021/03/Firmware-flash-end-on-Ender-6-Touchscreen-768x512.jpg)](https://3dprintbeginner.com/how-to-install-klipper-on-creality-ender-6/)
 
 
+*** Desuu menu config option***
+
+see [sample-t5uid1.cfg](https://github.com/Desuuuu/klipper/blob/dgus-reloaded/config/sample-t5uid1.cfg)
+
 ## [Spool inside](https://www.thingiverse.com/thing:5181697)
 
 Once using a direct drive (or having moving the extruder).
