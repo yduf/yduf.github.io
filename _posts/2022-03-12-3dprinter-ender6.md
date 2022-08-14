@@ -3,7 +3,7 @@ published: true
 title: Ender 6
 tags: 3dprinter klipper
 ---
-> cheap CoreXY -  [r/ender6/](https://www.reddit.com/r/ender6/) / [klipper config](https://github.com/yduf/klipper-ender6-config)
+> cheap CoreXY -  [r/ender6/](https://www.reddit.com/r/ender6/) / [klipper config](https://github.com/yduf/klipper-ender6-config) / [server](http://ender6)
 
 ![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.J-kyutn5uYHtPmCA_dqoVgAAAA%26pid%3DApi&f=1) 
 
