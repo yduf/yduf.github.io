@@ -25,6 +25,10 @@ tags: 3dprinter klipper
 - [Creality board](https://www.reddit.com/r/ender6/comments/rggqp3/comment/homyl8i/) - [mainboard fraud](https://youtu.be/DAfIEkHHoQc?t=79)
 	- got an A/E board 
 
+### Screen
+- [DMT48270C043_03W](http://www.ampdisplay.com/documents/pdf/DMT48270C043_03WN.pdf) / [2012 Instruction Manual Beijing DWIN Technology](https://manualzz.com/doc/11786048/2012-instruction-manual-beijing-dwin-technology-co.--ltd)
+- [DWIN DGUS USER MANUAL v2.0](http://www.ampdisplay.com/documents/pdf/DGUS%20v2.0%20(08-09-12.pdf)
+
 
 ## [Firmware](https://www.creality.com/pages/download-ender-6?spm=..page_1934481.products_display_1.1) (1.0.4.9 20/04/2022)
 
@@ -143,7 +147,7 @@ hold_current: 0.500
 **You need to use [the Desuuuu klipper build](https://github.com/Desuuuu/klipper) if you want the screen to work.** - see [Stock Screen? after installing Klipper](https://www.reddit.com/r/ender6/comments/w9rwvk/stock_screen_after_installing_klipper/?utm_source=share&utm_medium=web2x&context=3)
 Concerned Topics: 
 - [Feature request: extend protocol with UART commands ](https://klipper.discourse.group/t/feature-request-extend-protocol-with-uart-commands/2414)
-- [DMT48270C043_03W](http://www.ampdisplay.com/documents/pdf/DMT48270C043_03WN.pdf) / [2012 Instruction Manual Beijing DWIN Technology](https://manualzz.com/doc/11786048/2012-instruction-manual-beijing-dwin-technology-co.--ltd)
+
 
 ### Klipper compilation
 
