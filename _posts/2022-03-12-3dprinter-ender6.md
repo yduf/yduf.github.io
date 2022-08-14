@@ -126,7 +126,9 @@ hold_current: 0.500
 
 ### [3DTouch Auto Leveling Sensor](https://www.geeetech.com/wiki/index.php/3DTouch_Auto_Leveling_Sensor) / [BL-Touch](http://www.klipper3d.org/BLTouch.html)
 
-creality firmware 1.0.4.9 20/04/2022 doesn't work with [3DTouch v3.2](https://www.amazon.fr/gp/product/B08P51G69Z/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+<span style="color:red">[**creality firmware 1.0.4.9 20/04/2022 doesn't work with [3DTouch v3.2](https://www.amazon.fr/gp/product/B08P51G69Z/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)**]</span>
+	- **it Works with Klipper using same board**
+
 
 ### [BLTouch installation]({% post_url 2022-07-30-3dprinter-bltouch %})
 
