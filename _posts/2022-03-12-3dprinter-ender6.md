@@ -194,7 +194,7 @@ Screen has to be flashed separately to be functional.
 
 - unbox the screen, 
 - get access to the mini SD Card port
-- format SD Card to FAT32 and 4096 bytes sector (mandatory)
+- format SD Card to **FAT32 and 4096 bytes sector (mandatory)**
 	- partition disk if greater thatn 16Go, to be able to specify 4096 boot sector (system windows partition tools will allows that)
     - or with a correct sized partition (16go) on linux, use 
     	- `lsblk`, then
@@ -211,9 +211,11 @@ Screen has to be flashed separately to be functional.
 	- Plug the printer's power cable back (and only the power cable) and turn the printer on.
     - After a few second, the screen's background will turn blue and the flashing procedure will begin.
     - When the procedure ends, you will be back on the page with a blue background. There will be an END message at the top and you'll be presented with a summary of what was flashed.
-    	- if all presented with `Download .xxx Files:000 ` **No flashing has been done**
+    	- if all presented with `Download .xxx Files:000  then` **No flashing has been done** probably because SD Card does not respect 4096 sector size.
 - At this point, you can turn your printer back off, remove the micro SD card from the touchscreen and reassemble your printer if you had to disassemble it previously.
-    
+
+![caption](https://3dprintbeginner.com/wp-content/uploads/2021/03/Firmware-flash-end-on-Ender-6-Touchscreen-768x512.jpg)
+
 
 ## [Spool inside](https://www.thingiverse.com/thing:5181697)
 
