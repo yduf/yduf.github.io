@@ -63,6 +63,8 @@ see
 
 ## Direct Drive
 
+![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F411UyzCrlbL._SL160_.jpg&f=1&nofb=1)
+
 ### [BIQU H2 Extruder V2.0 ](https://3dprintbeginner.com/ender-6-direct-drive-conversion-h2-extruder/) / [3djake](https://www.3djake.com/biqu/h2-extruder-v20) / [review](https://3dwork.io/en/biqu-h2-extruder-review/)
 
 [**Wiring**](https://www.reddit.com/r/BIGTREETECH/comments/mihwg1/ender_3_v2_biqu_h2_stepper_wiring/) / [convention](https://caggius.wordpress.com/stepper-motor-wiring-conventions/)
@@ -118,7 +120,7 @@ hold_current: 0.500
 **Alternative**
 - [Ender 6 Extruder Relocation](https://marksmakerspace.com/3dprinting/ender6-extruder-move.html)
 
-![caption](https://cdn.shopify.com/s/files/1/1619/4791/products/9_601abe7a-ee33-40d1-9a38-8df2813b36f8_800x.jpg?v=1634899553)
+
 
 ## Z sensor
 
