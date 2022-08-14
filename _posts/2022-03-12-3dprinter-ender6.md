@@ -215,7 +215,7 @@ Screen has to be flashed separately to be functional.
 	- Plug the printer's power cable back (and only the power cable) and turn the printer on.
     - After a few second, the screen's background will turn blue and the flashing procedure will begin.
     - When the procedure ends, you will be back on the page with a blue background. There will be an END message at the top and you'll be presented with a summary of what was flashed.
-    	- if all presented with `Download .xxx Files:000  then` **No flashing has been done** probably because SD Card does not respect 4096 sector size.
+    	- <span style="color:red">if all presented with `Download .xxx Files:000  then` **No flashing has been done**]</span> probably because SD Card does not respect 4096 sector size.
 - At this point, you can turn your printer back off, remove the micro SD card from the touchscreen and reassemble your printer if you had to disassemble it previously.
 
 [![caption](https://3dprintbeginner.com/wp-content/uploads/2021/03/Firmware-flash-end-on-Ender-6-Touchscreen-768x512.jpg)](https://3dprintbeginner.com/how-to-install-klipper-on-creality-ender-6/)
