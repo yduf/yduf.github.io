@@ -1,7 +1,7 @@
 ---
 title: Quadratic Equations
 published: true
-tags: math
+tags: math algorithm avx
 use_math: true
 ---
 > Numerically stable algorithm for solving the quadratic equation when a
@@ -30,7 +30,7 @@ $x_1 x_2 = \frac{c}{a}$ and $x_1 + x_2$ = \frac{−b}{a}$
 
 In numerical analysis, [catastrophic cancellation](https://en.wikipedia.org/wiki/Catastrophic_cancellation) is the phenomenon that subtracting good approximations to two nearby numbers may yield a very bad approximation to the difference of the original numbers.
 
-This can happens here, if the term, $4ac$, is small compared to $b²$, in which case $b$ has about the same magnitude as $\sqrt{b² − 4ac}, and if using the formula where the radical has the same sign has $b$, then catastropic cancellation occurs.
+This can happens here, if the term, $4ac$, is small compared to $b²$, in which case $b$ has about the same magnitude as $\sqrt{b² − 4ac}$, and if using the formula where the radical has the same sign has $b$, then catastropic cancellation occurs.
 
 Fortunately, the two quadratic formulas have opposite signs on the radical term for the same roots, thus it is possible to avoid catastrophic cancellation by selecting the stable form, ie:  
 $x_1=\frac{−b−\sign(b) \sqrt{b²−4ac}}{2a}     x_2 =\frac{c}{a x_1}$
@@ -92,7 +92,7 @@ void solve_quadratic (double a, double b, double c, double *x0, double *x1)
 
 ## [Case Illustration](https://en.wikipedia.org/wiki/Loss_of_significance#Instability_of_the_quadratic_equation)
 
-Castrophic cancellation
+For castrophic cancellation
 
 ### $x^{2}+200x-0.000015=0.$
 
@@ -115,6 +115,9 @@ $ x_{1}=1.786737589984535$ and $ x_{2}=1.149782767465722\times 10^{-8} $
 
 ## see also
 - [Numerically Stable Method for Solving Quadratic Equations](https://people.csail.mit.edu/bkph/articles/Quadratics.pdf)
+- [Numerically stable algorithm for solving the quadratic equation when a
+is very small or 0](https://math.stackexchange.com/questions/866331/numerically-stable-algorithm-for-solving-the-quadratic-equation-when-a-is-very?newreg=70e12aede30e4337bbadac3882aa8108)
 - [Numerically stable method for solving quadratic equations](https://stackoverflow.com/questions/48979861/numerically-stable-method-for-solving-quadratic-equations)
 - [Loss of significance](https://en.wikipedia.org/wiki/Loss_of_significance#Instability_of_the_quadratic_equation) - has a detail explanation for a stable algorithm
 - [Kahan summation algorithm](https://en.wikipedia.org/wiki/Kahan_summation_algorithm) - also known as compensated summation,[1] significantly reduces the numerical error in the total obtained by adding a sequence of finite-precision floating-point numbers, compared to the obvious approach.
+- The [Herbie](http://herbie.uwplse.org/) tool for automatically rearranging floating point expressions to reduce rounding error 
