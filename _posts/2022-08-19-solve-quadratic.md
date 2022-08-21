@@ -1,7 +1,7 @@
 ---
 title: Quadratic Equations
 published: true
-tags: math algorithm avx
+tags: math algorithm avx float
 use_math: true
 ---
 > Numerically stable algorithm for solving the quadratic equation when a
@@ -24,7 +24,7 @@ one find the [_Citardauq_ formula _("quadratic", reversed)_](https://math.stacke
 $x = \frac{2c}{−b ∓ \sqrt{b² − 4ac}}$  where $∓=−(±)$
 
 And finally combining this two formula, we can see that:
-$x_1 x_2 = \frac{c}{a}$ and $x_1 + x_2$ = \frac{−b}{a}$ 
+$x_1 x_2 = \frac{c}{a}$ and $x_1 + x_2 = \frac{−b}{a}$ 
 
 ### [Numerical Issue](https://math.stackexchange.com/a/2007723/1087524)
 
@@ -39,7 +39,9 @@ $x_1=\frac{−b−\sign(b) \sqrt{b²−4ac}}{2a}     x_2 =\frac{c}{a x_1}$
 
 An additional issue to be considered is the accurate computation of the term $b²-4ac$. It is examined in detail by [William Kahan (2004)](https://people.eecs.berkeley.edu/~wkahan/Qdrtcs.pdf).
 
-[Recent follow-up work](https://hal.inria.fr/ensl-00649347/en) to Kahan's note looked at the more general issue of computing the difference of two products $ab-cd$.
+The discriminant $ b^{2}-4ac$ needs to be computed in arithmetic of twice the precision of the result (e.g. quad precision if the final result is to be accurate to full double precision).
+
+[Recent follow-up work (2013)](https://hal.inria.fr/ensl-00649347/en) to Kahan's note looked at the more general issue of computing the difference of two products $ab-cd$.
 
 This makes use of the fused multiply-add operation, or _FMA_ ... FMA computes $a*b+c$ using the full product (neither rounded nor truncated in any way) and applies a single rounding at the end. 
 
@@ -64,8 +66,6 @@ double diff_of_products (double a, double b, double c, double d)
 {% endhighlight %}
 
 
-Otherwise the discriminant $ b^{2}-4ac$ needs to be computed in arithmetic of twice the precision of the result to avoid this (e.g. quad precision if the final result is to be accurate to full double precision).
-
 [To illustrate this](https://en.wikipedia.org/wiki/Loss_of_significance#A_better_algorithm), consider the following quadratic equation, adapted from Kahan (2004):
 
 $ 94906265.625 x 2 − 189812534 x + 94906268.375 = 0$
@@ -73,6 +73,8 @@ $ 94906265.625 x 2 − 189812534 x + 94906268.375 = 0$
 This equation has Δ = 7.5625 and roots:
 $x_1 = 1.000000028975958$,  
 $x_2 = 1.000000000000000$
+
+When computed with appropriate resolution.
 
 ### [Code](https://stackoverflow.com/a/50065711/51386)
 
