@@ -1,7 +1,7 @@
 ---
 title: Quadratic Equations
 published: true
-tags: math algorithm avx float
+tags: math algorithm avx float c++
 use_math: true
 ---
 > Numerically stable algorithm for solving the quadratic equation when a
@@ -45,7 +45,7 @@ The discriminant $ b^{2}-4ac$ needs to be computed in arithmetic of twice the pr
 
 This makes use of the fused multiply-add operation, or _FMA_ ... FMA computes $a*b+c$ using the full product (neither rounded nor truncated in any way) and applies a single rounding at the end. 
 
-This allows the accurate computation of the product of two native-precision floating-point numbers as the unevaluated sum of two native-precision floating-point numbers, without resorting to the use of extended-precision arithmetic in intermediate computation: $h = a * b$ and $l = fma (a, b,- h)$ where $h+l$ represents the product $a*b$ exactly. This provides for the efficient computation of $ab-cd$ as follows:
+This allows the accurate computation of the product of two native-precision floating-point numbers as the unevaluated sum of two native-precision floating-point numbers, without resorting to the use of extended-precision arithmetic in intermediate computation: $h = a * b$ and $l = \fma(a, b,- h)$ where $h+l$ represents the product $a*b$ exactly. This provides for the efficient computation of $ab-cd$ as follows:
 
 {% highlight cpp %}
 /*
