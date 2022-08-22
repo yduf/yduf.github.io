@@ -13,6 +13,7 @@ tags: video youtube
 
 ## Youtube Alternatives
 - [Invidious](https://github.com/iv-org/invidious) is an alternative front-end to YouTube.
+- [What's the best way to own video?](https://news.ycombinator.com/item?id=32457210)
 
 ### fork
 - [yt-dlp](https://news.ycombinator.com/item?id=29592707) - remove  50kb/s limits
