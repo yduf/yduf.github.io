@@ -33,7 +33,8 @@ In numerical analysis, [catastrophic cancellation](https://en.wikipedia.org/wiki
 This can happens here, if the term, $4ac$, is small compared to $b²$, in which case $b$ has about the same magnitude as $\sqrt{b² − 4ac}$, and if using the formula where the radical has the same sign has $b$, then catastropic cancellation occurs.
 
 Fortunately, the two quadratic formulas have opposite signs on the radical term for the same roots, thus it is possible to avoid catastrophic cancellation by selecting the stable form, ie:  
-$x_1=\frac{−b−\sign(b) \sqrt{b²−4ac}}{2a}     x_2 =\frac{c}{a x_1}$
+$x_1=\frac{−b−\sign(b) \sqrt{b²−4ac}}{2a} $ 
+and $ x_2 =\frac{c}{a x_1}$
 
 ### [$b²-4ac$](https://stackoverflow.com/a/50065711/51386)
 
