@@ -22,3 +22,4 @@ see also
     	- a fact or a concept : concept are more important than facts
         - facts illustrate concept
 	- sleep enough
+    - try to find acronym
