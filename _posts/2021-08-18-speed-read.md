@@ -15,3 +15,6 @@ see also
     - Make mental links
 	- Apply what you’ve learned
 	- Make your notes searchable
+- [ Study Less Study Smart](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
+	- have a quiet place
+    - have a 5 min break when bored (even every 25min if needed)
