@@ -19,4 +19,5 @@ see also
 	- have a quiet place
     - have a 5 min break when bored (even every 25min if needed)
     - what I am learning ?
-    	- a fact or a concept ?
+    	- a fact or a concept : concept are more important than facts
+        - facts illustrate concept
