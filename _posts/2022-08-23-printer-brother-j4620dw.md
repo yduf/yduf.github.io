@@ -7,4 +7,4 @@ tags: hardware printer
 
 - [How to Remove and Install Scanner Support Arm ](https://www.youtube.com/watch?v=tKy26kc9Yok&list=PLKBTzxCdZKlww8MPmVerFh8MvwKsN3VVt&index=5) - beware to put it back in the right way.
 
-- [ "Paper Jam" Error with No Paper Jammed](https://www.youtube.com/watch?v=SqWNFVIR6JA)
+- [ "Paper Jam" Error with No Paper Jammed](https://www.youtube.com/watch?v=SqWNFVIR6JA) - clean transparent band with a "lint-free" tissue
