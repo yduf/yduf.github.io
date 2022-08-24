@@ -10,7 +10,7 @@ tags: home
 - [Comment Reconnaître son Tube de Store Toile](https://youtu.be/n353RshB0PE?t=61) => Ø 78
 
 ### Ref Moteur
-- [Moteur Nice Radio Free-Max 50/12 **XM9300002**](http://www.moteurdevolet.com/122246-moteur-nice-radio-free-max-50-12-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds-remplace-par-efitm5012.html) /  Ø diametre du tube du store: 9cm
+- [Moteur Nice Radio Free-Max 50/12 **XM9300002**](http://www.moteurdevolet.com/122246-moteur-nice-radio-free-max-50-12-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds-remplace-par-efitm5012.html) /  Ø diametre du tube du store: 7.8 cm
 	- remplacé par:
 		- [Era FIT M 50/12](http://www.moteurdevolet.com/122240-moteur-nice-radio-era-fit-m-50-12-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds.html?search_query=EFITM5012&results=2) - 206,76 € TTC
 		- [2](https://www.piecevolet.com/qc/accueil/122240-moteur-nice-radio-era-fit-m-50-12-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds.html) -  188,08 € TTC
@@ -36,7 +36,7 @@ tags: home
 		- [4](http://www.moteurdevolet.com/121704-moteur-nice-filaire-one-max-50-12-av-fdc-manuels-m-50-sans-mds-remplace-par-em5012.html?search_query=Era+M+50%2F12&results=13)
 		- [Era Mat MA 50/12 (radio)](http://www.moteurdevolet.com/121361-moteur-nice-radio-era-mat-ma-50-12-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds.html?search_query=Era+M+50%2F12&results=13)
 
-	- Capacité de la Cage de FdC: 27 Tours (Ø 9cm×3,14×27=7,6m)
+	- Capacité de la Cage de FdC: 27 Tours (Ø 7.8cm×3,14×27=7,6m)
 	- Nombre de connecteurs: 4
 
 - [Video](https://www.youtube.com/channel/UCnFrayvEt0COB3OCo40wqTQ/videos)
