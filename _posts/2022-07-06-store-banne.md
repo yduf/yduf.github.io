@@ -36,7 +36,7 @@ tags: home
 		- [4](http://www.moteurdevolet.com/121704-moteur-nice-filaire-one-max-50-12-av-fdc-manuels-m-50-sans-mds-remplace-par-em5012.html?search_query=Era+M+50%2F12&results=13)
 		- [Era Mat MA 50/12 (radio)](http://www.moteurdevolet.com/121361-moteur-nice-radio-era-mat-ma-50-12-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds.html?search_query=Era+M+50%2F12&results=13)
 
-	- Capacité de la Cage de FdC: 27 Tours (Ø 7.8cm×3,14×27=7,6m)
+	- Capacité de la Cage de FdC: 27 Tours (Ø 7.8cm×3,14×27=6,6m)
 	- Nombre de connecteurs: 4
 
 - [Video](https://www.youtube.com/channel/UCnFrayvEt0COB3OCo40wqTQ/videos)
