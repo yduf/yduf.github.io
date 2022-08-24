@@ -8,7 +8,7 @@ tags: home
 - [Comment régler les bras d’un store banne ?](https://www.storespergolas.com/blog/comment-regler-les-bras-dun-store-banne/)
 
 ### Ref Moteur
-- [Moteur Nice Radio Free-Max 50/12 **XM9300002**](http://www.moteurdevolet.com/122246-moteur-nice-radio-free-max-50-12-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds-remplace-par-efitm5012.html)
+- [Moteur Nice Radio Free-Max 50/12 **XM9300002**](http://www.moteurdevolet.com/122246-moteur-nice-radio-free-max-50-12-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds-remplace-par-efitm5012.html) / diametre du tube du store Ø 9cm
 	- remplacé par [Era FIT M 50/12](http://www.moteurdevolet.com/122240-moteur-nice-radio-era-fit-m-50-12-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds.html?search_query=EFITM5012&results=2) ou:
 		- [2](https://www.piecevolet.com/qc/accueil/122240-moteur-nice-radio-era-fit-m-50-12-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds.html) / [2](http://www.moteurdevolet.com/122240-moteur-nice-radio-era-fit-m-50-12-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds.html?search_query=efitM50%2F12&results=2)
 	- Couple : 50 Nm 
@@ -21,6 +21,7 @@ tags: home
 Alternative:
 - [Era M 50/12 (filaire)](http://www.moteurdevolet.com/121372-moteur-nice-filaire-era-m-50-12-av-fdc-manuels-m-50-sans-mds.html?search_query=Era+M+50%2F12&results=13) / [2](http://www.moteurdevolet.com/122538-moteur-nice-filaire-era-star-ma-50-12-av-fdc-electroniques-reglables-de-l-inverseur-m-50-sans-mds.html?search_query=Era+M+50%2F12&results=13) / [3](http://www.moteurdevolet.com/123677-moteur-nice-filaire-era-quick-m-50-12-avec-fdc-manuels-instantanes-serie-m-medium-o45mm-sans-mds.html?search_query=Era+M+50%2F12&results=13) / [4](http://www.moteurdevolet.com/121704-moteur-nice-filaire-one-max-50-12-av-fdc-manuels-m-50-sans-mds-remplace-par-em5012.html?search_query=Era+M+50%2F12&results=13)  / [Era Mat MA 50/12 (radio)](http://www.moteurdevolet.com/121361-moteur-nice-radio-era-mat-ma-50-12-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds.html?search_query=Era+M+50%2F12&results=13)
     	- [Moteur volet roulant NIEM5012 - 95€](https://www.servistores.com/html/produits/moteur-volet-roulant-Nice-E_M_5012-NIEM5012.html)
+        - Capacité de la Cage de FdC: 27 Tours (Ø 9cm×3,14×27=7,6m)
     
 - [Video](https://www.youtube.com/channel/UCnFrayvEt0COB3OCo40wqTQ/videos)
 
