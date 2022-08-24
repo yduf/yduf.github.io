@@ -21,6 +21,8 @@ tags: home
     - Intensité : 1.1 A
     - Capacité de la Cage de FdC > 100 Tours
     - Nombre de connecteurs: 3
+    	- [Résumé des Câblages à ne pas faire.pdf](file:///home/yves/Downloads/R%C3%A9sum%C3%A9%20des%20C%C3%A2blages%20%C3%A0%20ne%20pas%20faire.pdf)
+        - [Notice de Branchement](file:///home/yves/Downloads/Notice%20de%20Branchement%20Moteur%20Nice%20Era%20et%20Era%20Z%C3%A9ro%20(En%20It%20Fr%20Es%20De%20Pl%20Nl).pdf)
     
 ### Alternative:
 - [Era M 50/12 (filaire)](http://www.moteurdevolet.com/121372-moteur-nice-filaire-era-m-50-12-av-fdc-manuels-m-50-sans-mds.html?search_query=Era+M+50%2F12&results=13) - 122,05 € TTC
