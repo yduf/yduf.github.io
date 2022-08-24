@@ -8,6 +8,7 @@ tags: home
 - [Comment régler les bras d’un store banne ?](https://www.storespergolas.com/blog/comment-regler-les-bras-dun-store-banne/)
 
 - [Comment Reconnaître son Tube de Store Toile](https://youtu.be/n353RshB0PE?t=61) => Ø 78
+	- [autres Video](https://www.youtube.com/channel/UCnFrayvEt0COB3OCo40wqTQ/videos)
 
 ### Ref Moteur
 - [Moteur Nice Radio Free-Max 50/12 **XM9300002**](http://www.moteurdevolet.com/122246-moteur-nice-radio-free-max-50-12-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds-remplace-par-efitm5012.html) /  Ø diametre du tube du store: 7.8 cm
@@ -39,7 +40,6 @@ tags: home
 	- Capacité de la Cage de FdC: 27 Tours (Ø 7.8cm×3,14×27=6,6m)
 	- Nombre de connecteurs: 4
 
-- [Video](https://www.youtube.com/channel/UCnFrayvEt0COB3OCo40wqTQ/videos)
 
 - [Moteur Nice Radio Free-Max 15/17 Av FdC Electro & Fréquence 433,92MHz Rolling Code M 50, Remplacé par EFITM1517](http://www.moteurdevolet.com/122243-moteur-nice-radio-free-max-15-17-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds-remplace-par-efitm1517.html)
 	- [Moteur Nice Era E M 15/17 Filair](https://www.centpourcent-volet-roulant.fr/moteur-nice/moteur-nice-era-e-m-1517-filaire-1962)
