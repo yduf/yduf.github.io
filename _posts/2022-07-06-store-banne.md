@@ -47,7 +47,7 @@ tags: home
 - [Moteur Nice Radio Free-Max 15/17 Av FdC Electro & Fréquence 433,92MHz Rolling Code M 50, Remplacé par EFITM1517](http://www.moteurdevolet.com/122243-moteur-nice-radio-free-max-15-17-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds-remplace-par-efitm1517.html)
 	- [Moteur Nice Era E M 15/17 Filair](https://www.centpourcent-volet-roulant.fr/moteur-nice/moteur-nice-era-e-m-1517-filaire-1962)
     
-### dedié volait roulants  / non conforme store
+### dedié volet roulants  / non conforme store
 - [Era Mat MA 50/12 (radio)](http://www.moteurdevolet.com/121361-moteur-nice-radio-era-mat-ma-50-12-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds.html?search_query=Era+M+50%2F12&results=13) - [ESTARMA5012 Filaire - XM930001A ](http://www.moteurdevolet.com/122538-moteur-nice-filaire-era-star-ma-50-12-av-fdc-electroniques-reglables-de-l-inverseur-m-50-sans-mds.html?search_query=Era+M+50%2F12&results=13)  - Réglage des Fins de Courses à l'aide de l'inverseur de commande - 150,71 € TTC - volet roulant
     
 ### Accessoires
