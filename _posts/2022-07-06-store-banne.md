@@ -17,6 +17,7 @@ tags: home
     - Isolation électrique : Classe 1 - necessite d'etre raccordé a la terre
     - Intensité : 1.1 A
     - Capacité de la Cage de FdC > 100 Tours
+    - Nombre de connecteurs: 3
     
 ### Alternative:
 - [Era M 50/12 (filaire)](http://www.moteurdevolet.com/121372-moteur-nice-filaire-era-m-50-12-av-fdc-manuels-m-50-sans-mds.html?search_query=Era+M+50%2F12&results=13) / [2](http://www.moteurdevolet.com/122538-moteur-nice-filaire-era-star-ma-50-12-av-fdc-electroniques-reglables-de-l-inverseur-m-50-sans-mds.html?search_query=Era+M+50%2F12&results=13) / [3](http://www.moteurdevolet.com/123677-moteur-nice-filaire-era-quick-m-50-12-avec-fdc-manuels-instantanes-serie-m-medium-o45mm-sans-mds.html?search_query=Era+M+50%2F12&results=13) / [4](http://www.moteurdevolet.com/121704-moteur-nice-filaire-one-max-50-12-av-fdc-manuels-m-50-sans-mds-remplace-par-em5012.html?search_query=Era+M+50%2F12&results=13)  / [Era Mat MA 50/12 (radio)](http://www.moteurdevolet.com/121361-moteur-nice-radio-era-mat-ma-50-12-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds.html?search_query=Era+M+50%2F12&results=13)
@@ -27,6 +28,7 @@ tags: home
 
 - [Moteur Nice Radio Free-Max 15/17 Av FdC Electro & Fréquence 433,92MHz Rolling Code M 50, Remplacé par EFITM1517](http://www.moteurdevolet.com/122243-moteur-nice-radio-free-max-15-17-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds-remplace-par-efitm1517.html)
 	- [Moteur Nice Era E M 15/17 Filair](https://www.centpourcent-volet-roulant.fr/moteur-nice/moteur-nice-era-e-m-1517-filaire-1962)
+    - Nombre de connecteurs: 4
 
 - [Kit Led pour Store Banne - 2 Bras](https://www.ledworld.fr/p/2145-kit-led-store-banne-1-bras-sur-mesure.html#/2019_store_couleur_temperature_de_l_eclairage-blanc_chaud_3000k/2019_store_gestion_de_l_eclairage-non/2019_store_couleur_lineaire-alu/2019_store_longueur_lineaire_a-2_lineaires_de_60_cm_a/2019_store_2_bras_longueur_lineaire_b-2_lineaires_de_60_cm_b)
 
