@@ -13,9 +13,9 @@ tags: home
 ### Ref Moteur
 - [Moteur Nice Radio Free-Max 50/12 **XM9300002**](http://www.moteurdevolet.com/122246-moteur-nice-radio-free-max-50-12-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds-remplace-par-efitm5012.html) /  Ø diametre du tube du store: 7.8 cm
 	- remplacé par:
-		- [Era FIT M 50/12](http://www.moteurdevolet.com/122240-moteur-nice-radio-era-fit-m-50-12-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds.html?search_query=EFITM5012&results=2) - 206,76 € TTC
+		- [Era FIT M 50/12](http://www.moteurdevolet.com/122240-moteur-nice-radio-era-fit-m-50-12-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds.html?search_query=EFITM5012&results=2) / - [alt](http://www.moteurdevolet.com/122240-moteur-nice-radio-era-fit-m-50-12-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds.html?search_query=efitM50%2F12&results=2) - 206,76 € TTC
 		- [2](https://www.piecevolet.com/qc/accueil/122240-moteur-nice-radio-era-fit-m-50-12-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds.html) -  188,08 € TTC
-		- [3?](http://www.moteurdevolet.com/122240-moteur-nice-radio-era-fit-m-50-12-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds.html?search_query=efitM50%2F12&results=2)
+		
         - [3](https://www.servistores.com/html/produits/moteur-volet-roulant-Nice-ERM50000002R02-NIEFITMBD5012.html) - 194.15€ TTC
 	- Couple : 50 Nm 
     - Vitesse de rotation : 12 Tours/mn
