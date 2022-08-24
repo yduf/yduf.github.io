@@ -8,7 +8,7 @@ tags: home
 - [Comment régler les bras d’un store banne ?](https://www.storespergolas.com/blog/comment-regler-les-bras-dun-store-banne/)
 
 ### Ref Moteur
-- [Moteur Nice Radio Free-Max 50/12 **XM9300002**](http://www.moteurdevolet.com/122246-moteur-nice-radio-free-max-50-12-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds-remplace-par-efitm5012.html) / diametre du tube du store Ø 9cm
+- [Moteur Nice Radio Free-Max 50/12 **XM9300002**](http://www.moteurdevolet.com/122246-moteur-nice-radio-free-max-50-12-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds-remplace-par-efitm5012.html) /  Ø diametre du tube du store: 9cm
 	- remplacé par [Era FIT M 50/12](http://www.moteurdevolet.com/122240-moteur-nice-radio-era-fit-m-50-12-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds.html?search_query=EFITM5012&results=2) ou:
 		- [2](https://www.piecevolet.com/qc/accueil/122240-moteur-nice-radio-era-fit-m-50-12-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds.html) / [2](http://www.moteurdevolet.com/122240-moteur-nice-radio-era-fit-m-50-12-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds.html?search_query=efitM50%2F12&results=2)
 	- Couple : 50 Nm 
