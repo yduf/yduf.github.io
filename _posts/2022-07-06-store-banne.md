@@ -7,7 +7,7 @@ tags: home
 
 - [Comment régler les bras d’un store banne ?](https://www.storespergolas.com/blog/comment-regler-les-bras-dun-store-banne/)
 
-- [Comment Reconnaître son Tube de Store Toile](https://youtu.be/n353RshB0PE?t=61)
+- [Comment Reconnaître son Tube de Store Toile](https://youtu.be/n353RshB0PE?t=61) => Ø 78
 
 ### Ref Moteur
 - [Moteur Nice Radio Free-Max 50/12 **XM9300002**](http://www.moteurdevolet.com/122246-moteur-nice-radio-free-max-50-12-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds-remplace-par-efitm5012.html) /  Ø diametre du tube du store: 9cm
