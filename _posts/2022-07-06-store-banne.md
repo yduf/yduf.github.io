@@ -32,7 +32,7 @@ tags: home
 	- ou 
 		- [1 ](https://www.piecevolet.com/qc/accueil/121372-moteur-era-m-50-12-av-fdc-manuels-moteur-filaire-m-50-sans-mds.html) - 110,84 € TTC
 		- [Moteur volet roulant NIEM5012 - 95€](https://www.servistores.com/html/produits/moteur-volet-roulant-Nice-E_M_5012-NIEM5012.html)
-		- [2](http://www.moteurdevolet.com/122538-moteur-nice-filaire-era-star-ma-50-12-av-fdc-electroniques-reglables-de-l-inverseur-m-50-sans-mds.html?search_query=Era+M+50%2F12&results=13)
+		- [ESTARMA5012 Filaire - XM930001A ](http://www.moteurdevolet.com/122538-moteur-nice-filaire-era-star-ma-50-12-av-fdc-electroniques-reglables-de-l-inverseur-m-50-sans-mds.html?search_query=Era+M+50%2F12&results=13)  - Réglage des Fins de Courses à l'aide de l'inverseur de commande - 150,71 € TTC - volet roulant
 		- [3](http://www.moteurdevolet.com/123677-moteur-nice-filaire-era-quick-m-50-12-avec-fdc-manuels-instantanes-serie-m-medium-o45mm-sans-mds.html?search_query=Era+M+50%2F12&results=13)
 		- [4](http://www.moteurdevolet.com/121704-moteur-nice-filaire-one-max-50-12-av-fdc-manuels-m-50-sans-mds-remplace-par-em5012.html?search_query=Era+M+50%2F12&results=13)
 		- [Era Mat MA 50/12 (radio)](http://www.moteurdevolet.com/121361-moteur-nice-radio-era-mat-ma-50-12-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds.html?search_query=Era+M+50%2F12&results=13)
