@@ -11,4 +11,4 @@ tags: hardware printer
 
 - [ "Paper Jam" Error with No Paper Jammed](https://www.youtube.com/watch?v=SqWNFVIR6JA) - clean transparent band with a "lint-free" tissue
 
-![caption](https://support.brother.com/g/b/img/product/mfcj4620dw_us_eu_as.jpg)
+![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.pJkACbsmiXWVbwHMnPl8bwHaFj%26pid%3DApi&f=1)
