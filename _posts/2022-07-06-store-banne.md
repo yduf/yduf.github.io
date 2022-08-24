@@ -28,15 +28,20 @@ tags: home
 - [Era M 50/12 (  XM9300000 filaire)](http://www.moteurdevolet.com/121372-moteur-nice-filaire-era-m-50-12-av-fdc-manuels-m-50-sans-mds.html?search_query=Era+M+50%2F12&results=13) - 122,05 € TTC
 	- [Résumé des Câblages à ne pas faire.pdf](http://www.moteurdevolet.com/index.php?controller=attachment&id_attachment=184)
 	- [Notice de Branchement](http://www.moteurdevolet.com/index.php?controller=attachment&id_attachment=374)
+	- Capacité de la Cage de FdC: **27 Tours** (Ø 7.8cm×3,14×27=6,6m)
+	- Nombre de connecteurs: 4
+
 	- ou 
 		- [1 ](https://www.piecevolet.com/qc/accueil/121372-moteur-era-m-50-12-av-fdc-manuels-moteur-filaire-m-50-sans-mds.html) - 110,84 € TTC
 		- [Moteur volet roulant NIEM5012 - 95€](https://www.servistores.com/html/produits/moteur-volet-roulant-Nice-E_M_5012-NIEM5012.html)
 
-		- [ Era Quick M 50/12 Avec FdC Manuels Filaire](http://www.moteurdevolet.com/123677-moteur-nice-filaire-era-quick-m-50-12-avec-fdc-manuels-instantanes-serie-m-medium-o45mm-sans-mds.html?search_query=Era+M+50%2F12&results=13) - Capacité de la Cage de FdC: 92 Tours - [doc](https://www.servistores.com/repository/documents/plans/notice_era_quick_m.pdf)
-
-
-	- Capacité de la Cage de FdC: 27 Tours (Ø 7.8cm×3,14×27=6,6m)
+- [ Era Quick M 50/12 Avec FdC Manuels Filaire](http://www.moteurdevolet.com/123677-moteur-nice-filaire-era-quick-m-50-12-avec-fdc-manuels-instantanes-serie-m-medium-o45mm-sans-mds.html?search_query=Era+M+50%2F12&results=13) - 102,74 € TTC
+	- Capacité de la Cage de FdC: **92 Tours**
 	- Nombre de connecteurs: 4
+
+	- [doc](https://www.servistores.com/repository/documents/plans/notice_era_quick_m.pdf)
+		- [NIEQUICKM5012](https://www.servistores.com/html/produits/moteur-volet-roulant-Nice-E_QUICK_M_5012-NIEQUICKM5012.html) - 115.86€ TTC
+
 
 
 - [Moteur Nice Radio Free-Max 15/17 Av FdC Electro & Fréquence 433,92MHz Rolling Code M 50, Remplacé par EFITM1517](http://www.moteurdevolet.com/122243-moteur-nice-radio-free-max-15-17-av-fdc-electro-et-frequence-433-92mhz-rolling-code-m-50-sans-mds-remplace-par-efitm1517.html)
