@@ -11,7 +11,7 @@ tags: hardware printer
 
 - [ "Paper Jam" Error with No Paper Jammed](https://www.youtube.com/watch?v=SqWNFVIR6JA) - clean transparent band with a "lint-free" tissue
 
-### [Recommended replacement model 2022](https://www.brother-usa.com/-/media/ask-the-pm/printer-scanner-fax-replacement-model-guide.pdf)
+### [Recommended replacement model (2022)](https://www.brother-usa.com/-/media/ask-the-pm/printer-scanner-fax-replacement-model-guide.pdf)
 
 - [MFC-J5340dw](https://www.brother-usa.com/products/mfcj5340dw) 
 - [MFC-J4535dw](https://www.brother-usa.com/products/mfcj4535dw)
