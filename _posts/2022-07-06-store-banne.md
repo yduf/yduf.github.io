@@ -23,7 +23,7 @@ tags: home
     - Nombre de connecteurs: 3
     
 ### Alternative:
-- [Era M 50/12 (filaire)](http://www.moteurdevolet.com/121372-moteur-nice-filaire-era-m-50-12-av-fdc-manuels-m-50-sans-mds.html?search_query=Era+M+50%2F12&results=13)
+- [Era M 50/12 (filaire)](http://www.moteurdevolet.com/121372-moteur-nice-filaire-era-m-50-12-av-fdc-manuels-m-50-sans-mds.html?search_query=Era+M+50%2F12&results=13) - 122,05 € TTC
 	- ou 
 		- [2](http://www.moteurdevolet.com/122538-moteur-nice-filaire-era-star-ma-50-12-av-fdc-electroniques-reglables-de-l-inverseur-m-50-sans-mds.html?search_query=Era+M+50%2F12&results=13)
 		- [3](http://www.moteurdevolet.com/123677-moteur-nice-filaire-era-quick-m-50-12-avec-fdc-manuels-instantanes-serie-m-medium-o45mm-sans-mds.html?search_query=Era+M+50%2F12&results=13)
