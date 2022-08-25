@@ -1,7 +1,7 @@
 ---
 published: true
 title: Execute Task periodically
-tags: linux-system service timer
+tags: linux-system systemd automation service timer
 ---
 > Cron, however, fails if your system happens to not be running when the appropriate execution time occurs.  
 > Anacron insures that the task will be executed when your system is again active. However, the anacron frequency of execution can be no less than daily.
