@@ -10,3 +10,4 @@ tags: math parallax life telemetry
 see also
 - [parallax](https://en.wikipedia.org/wiki/Parallax)
 - [thales theorem](https://en.wikipedia.org/wiki/Thales_of_Miletus#Thales'_theorems)
+- [On Sizes and Distances (Hipparchus)](https://en.wikipedia.org/wiki/On_Sizes_and_Distances_(Hipparchus))
