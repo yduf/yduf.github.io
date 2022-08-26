@@ -81,3 +81,6 @@ The secret to getting good bed leveling with bed leveling screws is to utilize t
 This involves running a print, observing the first layer going down, and adjusting your Z offset (["baby stepping"](https://3dp.tumbleweedlabs.com/firmware/klipper-firmware/klipper-calibration-guide/how-to-perfect-your-first-layer-height-with-klipper#baby-stepping)) up and down until you have the perfect level of squish. This is easier with an LCD but can also be done without. 
 
 see _tune_ menu in [klipper]({% post_url 2021-09-04-klipper-menu %}) which call [`SET_GCODE_OFFSET`](https://www.klipper3d.org/G-Codes.html#extended-g-code-commands)
+
+### see also
+- [Klipper Tuning Guide](https://advanced3dprinting.com/wp-content/uploads/2021/11/Advanced-3D-Printing-Klipper-Kit-Tuning-Guide-v1.0.pdf)
