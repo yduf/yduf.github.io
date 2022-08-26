@@ -7,7 +7,7 @@ tags: 3dprint cura
 ### [Full bed print](https://3dprinterly.com/how-to-print-use-maximum-build-volume-in-cura/)
 - check printer settings
 - Remove Build Plate Adhesion (Skirt, Brim, Raft)
-- Edit the Cura Definitions Within the File ?
+- Edit the Cura Definitions Within the File ? to suppress machine_disallowed_area
 
 ### Layer height
 Recommanded:  
