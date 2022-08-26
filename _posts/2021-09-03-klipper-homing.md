@@ -19,6 +19,12 @@ z_hop: 10
 
 ## [Probe calibration](https://github.com/KevinOConnor/klipper/blob/master/docs/Probe_Calibrate.md)
 
+> Please note that Z Offest calibration is performed at room temperature, with heatbed and hotend
+heaters off (set to 0). Ensure that there is no filament on the nozzle before calibrating Z Offset. You
+may want to heat the hotend, clear the nozzle and/or unload the filament and let it cool down
+before proceeding.
+
+
 ### [BL-Touch](https://github.com/KevinOConnor/klipper/blob/master/docs/BLTouch.md)
 It is mandatory to define pinout and z_offset. 
 
