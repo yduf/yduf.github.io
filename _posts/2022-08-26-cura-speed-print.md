@@ -5,6 +5,9 @@ tags: 3dprinter cura
 ---
 > [#speedboatrace](https://www.youtube.com/watch?v=6kRjdprTjFc)
 
+- [cnc kitchen](https://www.youtube.com/watch?v=hSWjlf5aNIU)
+	- [The FASTEST 3DBenchy at QUALITY ?](https://www.youtube.com/watch?v=vso6lgTRSo0)
+
 ## [Speed up print](https://hevort.com/)
 - Use [greater step](https://www.reddit.com/r/klippers/comments/gh5r72/those_of_you_using_klipper_and_printing_at_crazy/fq6py5n?utm_source=share&utm_medium=web2x&context=3) for layer height, eg: 0.28 vs 0.2 vs 0.1
 - and [use a larger nozzle](https://www.youtube.com/watch?v=jyhLQUQTc9E) 0.8 > 0.6 > 0.4
@@ -45,11 +48,7 @@ High values for Jerk settings basically mean the change of speed in each directi
     	- accelleration is also used to estimate the print time.
     
     - enable jerk control - reduce the speed set  in the firmware (Klipper)
-    
-### [#speedboatrace](https://www.youtube.com/watch?v=6kRjdprTjFc)
 
-- [cnc kitchen](https://www.youtube.com/watch?v=hSWjlf5aNIU)
-	- [The FASTEST 3DBenchy at QUALITY ?](https://www.youtube.com/watch?v=vso6lgTRSo0)
 
 Teaching Tech benchy
 For a constant feedrate of 200mm/sec
