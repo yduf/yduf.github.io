@@ -54,10 +54,20 @@ see
 
 - [Creality Ender 6 notes Barry Carter](https://github.com/ginge/Ender6)
 
-## Misc
-- [Ender 6 Y endstop relocation](https://www.thingiverse.com/thing:5222477) - easy to get more space
 - Open Woven Sleeves / alternative to cable chain - [Câble Gaine de Protection Réglable](https://www.amazon.fr/gp/product/B08YN56FYG/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 - **USB access** : usb slot on motherboard, need to unscrew plate, there is a hole in the frame to pass a cable (need to remove the power supply to pass the cable inside the frame)
+- [Ender 6 Extruder Relocation](https://marksmakerspace.com/3dprinting/ender6-extruder-move.html)
+
+
+## Misc
+
+### [Ender 6 Y endstop relocation](https://www.thingiverse.com/thing:5222477) - easy to get more space
+
+### [Spool inside](https://www.thingiverse.com/thing:5181697)
+
+Once using a direct drive (or having moving the extruder).
+- [ reverse bowden guide ](https://www.thingiverse.com/thing:4658388)
+- [Ender6 Filament Relocation](https://www.thingiverse.com/thing:4812210)
 
 - [My Ender 6 Journey to reliable, satisfying printing](https://www.reddit.com/r/ender6/comments/vf7qbt/my_ender_6_journey_to_reliable_satisfying_printing/)
 	
@@ -230,10 +240,6 @@ Screen has to be flashed separately to be functional.
 
 see [sample-t5uid1.cfg](https://github.com/Desuuuu/klipper/blob/dgus-reloaded/config/sample-t5uid1.cfg)
 
-## [Spool inside](https://www.thingiverse.com/thing:5181697)
-
-Once using a direct drive (or having moving the extruder).
-- [ reverse bowden guide ](https://www.thingiverse.com/thing:4658388)
 
 ## Motherboard
 
