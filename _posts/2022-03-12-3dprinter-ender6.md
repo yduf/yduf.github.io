@@ -62,6 +62,7 @@ see
 ## Misc
 
 ### [Ender 6 Y endstop relocation](https://www.thingiverse.com/thing:5222477) - easy to get more space
+- [smoothed version of the spacer](https://www.thingiverse.com/thing:4809986)
 
 ### [Spool inside](https://www.thingiverse.com/thing:5181697)
 
