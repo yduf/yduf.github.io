@@ -56,13 +56,20 @@ see
 
 - Open Woven Sleeves / alternative to cable chain - [Câble Gaine de Protection Réglable](https://www.amazon.fr/gp/product/B08YN56FYG/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 - **USB access** : usb slot on motherboard, need to unscrew plate, there is a hole in the frame to pass a cable (need to remove the power supply to pass the cable inside the frame)
-- [Ender 6 Extruder Relocation](https://marksmakerspace.com/3dprinting/ender6-extruder-move.html)
 
 
 ## Misc
 
 ### [Ender 6 Y endstop relocation](https://www.thingiverse.com/thing:5222477) - easy to get more space
+
+### [Ender 6 Extruder Relocation](https://marksmakerspace.com/3dprinting/ender6-extruder-move.html)
+
 - [smoothed version of the spacer](https://www.thingiverse.com/thing:4809986)
+- [filament guide](https://www.thingiverse.com/thing:5031418) and filler plate
+	- or from [ Filament Guide / Extruder Filler ](https://www.thingiverse.com/thing:4893522)
+
+[![caption](https://marksmakerspace.com/3dprinting/images/ender6-extruder-move/IMG_4008.jpeg) ](https://marksmakerspace.com/3dprinting/ender6-extruder-move.html)
+
 
 ### [Spool inside](https://www.thingiverse.com/thing:5181697)
 
