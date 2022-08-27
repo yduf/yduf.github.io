@@ -30,7 +30,7 @@ tags: 3dprinter klipper
 - [DWIN DGUS USER MANUAL v2.0](http://www.ampdisplay.com/documents/pdf/DGUS%20v2.0%20(08-09-12.pdf)
 
 
-## [Firmware](https://www.creality.com/pages/download-ender-6?spm=..page_1934481.products_display_1.1) (1.0.4.9 20/04/2022)
+## [Firmware](https://www.creality.com/pages/download-ender-6?spm=..page_1934481.products_display_1.1) (Creality 1.0.4.9 20/04/2022)
 
 unzip
 - .bin file is for flashing printer board
