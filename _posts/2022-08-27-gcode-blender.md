@@ -3,9 +3,9 @@ published: true
 title: Rendering GCode in Blender
 tags: blender gcode 3dprint
 ---
-> furniture for our kids’ dollhouses. Here’s our 2nd giveaway model - [animated](https://www.reddit.com/r/3Dprinting/comments/v9vtww/my_brother_and_i_design_and_print_furniture_for/)
+> furniture for our kids’ dollhouses. Here’s our 2nd giveaway model - [animated](https://www.reddit.com/r/3Dprinting/comments/v9vtww/my_brother_and_i_design_and_print_furniture_for/) / [PapaPrints](https://papa-prints.com/)
 
-[They use C4D](https://www.reddit.com/r/3Dprinting/comments/uve8xr/my_brother_and_i_design_and_print_furniture_for/i9m1drf/?context=5)
+- [They use C4D](https://www.reddit.com/r/3Dprinting/comments/uve8xr/my_brother_and_i_design_and_print_furniture_for/i9m1drf/?context=5)
 
 - [comment](https://www.reddit.com/r/3Dprinting/comments/v9vtww/comment/ic2tu5d/?utm_source=share&utm_medium=web2x&context=3)
 If you have the 3d model because you made it it doesn't make sense to animate it with a gcode scripts when a slice plane is a fraction of the resources.
