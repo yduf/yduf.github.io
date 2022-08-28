@@ -125,7 +125,13 @@ pid_Kd: 101.690
 min_temp: 0
 max_temp: 260
 pressure_advance: 0.05
+{% endhighlight %}
 
+Firmware retraction for [BIQU H2](https://www.reddit.com/r/BIGTREETECH/comments/swvcz0/comment/hxpj5ze/?utm_source=share&utm_medium=web2x&context=3)
+{% highlight ini %}
+[firmware_retraction]
+retract_length: 0.5
+retract_speed: 4
 {% endhighlight %}
 
 **To check BEFORE USE**
