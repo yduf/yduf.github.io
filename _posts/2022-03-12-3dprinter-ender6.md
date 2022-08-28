@@ -62,6 +62,8 @@ see
 
 ### [Ender 6 Y endstop relocation](https://www.thingiverse.com/thing:5222477) - easy to get more space
 
+[![caption](https://i.ibb.co/6R1TGmp/f0c16166-b64d-4921-beea-b25086b35c0e.jpg) ](https://www.thingiverse.com/thing:5222477)
+
 ### [Ender 6 Extruder Relocation](https://marksmakerspace.com/3dprinting/ender6-extruder-move.html)
 
 - [smoothed version of the spacer](https://www.thingiverse.com/thing:4809986)
