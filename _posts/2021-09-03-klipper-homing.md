@@ -88,5 +88,13 @@ This involves running a print, observing the first layer going down, and adjusti
 
 see _tune_ menu in [klipper]({% post_url 2021-09-04-klipper-menu %}) which call [`SET_GCODE_OFFSET`](https://www.klipper3d.org/G-Codes.html#extended-g-code-commands)
 
+### [SET_GCODE_OFFSET](https://www.klipper3d.org/G-Codes.html#set_gcode_offset)
+  
+This is commonly used to virtually change the Z bed offset or to set nozzle XY offsets when switching extruders. For example, if "SET_GCODE_OFFSET Z=0.2" is sent, then future G-Code moves will have 0.2mm added to their Z height. If the X_ADJUST style parameters are used, then the adjustment will be added to any existing offset (eg, "SET_GCODE_OFFSET Z=-0.2" followed by "SET_GCODE_OFFSET Z_ADJUST=0.3" would result in a total Z offset of 0.1).
+  
+{% highlight cpp %}
+SET_GCODE_OFFSET Z_ADJUST=0.1
+{% endhighlight %}
+  
 ### see also
 - [Klipper Tuning Guide](https://advanced3dprinting.com/wp-content/uploads/2021/11/Advanced-3D-Printing-Klipper-Kit-Tuning-Guide-v1.0.pdf)
