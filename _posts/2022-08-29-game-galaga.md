@@ -1,7 +1,7 @@
 ---
 published: true
 title: Galaga
-tags: games
+tags: games retro arcade
 ---
 > [Galaga Strategy Tips from Pro Player Jordan Dorrington](https://www.youtube.com/watch?v=_EwqGlElSWw)
 
