@@ -1,7 +1,7 @@
 ---
 published: true
 title: Galaga
-tags: games retro arcade
+tags: retro 8bit arcade games
 ---
 > [Galaga Strategy Tips from Pro Player Jordan Dorrington](https://www.youtube.com/watch?v=_EwqGlElSWw)
 
