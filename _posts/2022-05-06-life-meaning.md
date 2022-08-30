@@ -1,7 +1,7 @@
 ---
 published: true
 title: Meaning of Life
-tags: life quote
+tags: life quote identity
 ---
 > Si le monde n'a pas de sens, c'est pour une bonne raison...  
 > C'est pour que tu lui en donne un! - [Et tout le monde s'en fout #80 - Toi - Épisode Final](https://www.youtube.com/watch?v=rdsm5XqPt7g)
