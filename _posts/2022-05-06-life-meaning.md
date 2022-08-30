@@ -11,4 +11,4 @@ tags: life quote
 
 
 see also
-- [Quel est le sens de la vie ?](https://www.youtube.com/watch?v=uWRONHKcbu8) - "je suis un phénomène transitoire qui traverse l'univers comme une vague" (en deplacant de la matiere).
+- [Quel est le sens de la vie ?](https://www.youtube.com/watch?v=uWRONHKcbu8) - "je suis un phénomène transitoire qui traverse l'univers comme une vague" (en deplacant de la matiere). Je suis un morceau d'univers qui sait que l'univers existe.
