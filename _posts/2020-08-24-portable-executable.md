@@ -9,4 +9,5 @@ tags: binary exec ascii web
 > 
 > Then a clever version of a DOS .COM file was posted which implemented uudecode, but it only used x86 instructions that were also ASCII characters. You could copy/paste between the --cut here-- lines into a file, save it as uudecode.com, and then get your other binaries like pkzip. - [HN](https://news.ycombinator.com/item?id=24257421)
 
-- [redbean](https://justine.lol/redbean/index.html) / [HN](https://news.ycombinator.com/item?id=26271117) - single-file distributable web server
+see also 
+- [redbean](https://justine.lol/redbean2/) / [HN](https://news.ycombinator.com/item?id=31764521) - a webserver in a zip executable that runs on six operating systems. 
