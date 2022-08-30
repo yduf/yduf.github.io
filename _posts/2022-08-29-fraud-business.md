@@ -9,4 +9,4 @@ tags: security evil despair.com
 So, to answer our question: What’s the deal with the weird wrong-number texts? These texts are usually the lead-in to romance scams that usually end with fake crypto deposits, written so as to imply wealth and success on the part of the scammer, who is often an abused and captive worker operating multiple phones and attempting to con several people from a compound operated by shady gambling rings somewhere in Southeast Asia.
 
 see also
-- [The Fraud Supply Chain ](https://news.ycombinator.com/item?id=29437712)
+- [The Fraud Supply Chain ](https://bam.kalzumeus.com/archive/the-fraud-supply-chain/) / [HN]/(https://news.ycombinator.com/item?id=29437712)
