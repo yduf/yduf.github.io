@@ -11,4 +11,4 @@ tags: life quote
 
 
 see also
-- [Quel est le sens de la vie ?](https://www.youtube.com/watch?v=uWRONHKcbu8)
+- [Quel est le sens de la vie ?](https://www.youtube.com/watch?v=uWRONHKcbu8) - je suis un phénomène transitoire (comme une vague)
