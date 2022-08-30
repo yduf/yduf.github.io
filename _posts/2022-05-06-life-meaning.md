@@ -3,6 +3,8 @@ published: true
 title: Meaning of Life
 tags: life quote identity
 ---
+> Etre mort c'est comme être con, on ne s'en rend pas compte. Ce sont les autres autours qui sont tristes.
+
 > Si le monde n'a pas de sens, c'est pour une bonne raison...  
 > C'est pour que tu lui en donne un! - [Et tout le monde s'en fout #80 - Toi - Épisode Final](https://www.youtube.com/watch?v=rdsm5XqPt7g)
 
@@ -13,4 +15,3 @@ tags: life quote identity
 see also
 - [Quel est le sens de la vie ?](https://www.youtube.com/watch?v=uWRONHKcbu8) - "je suis un phénomène transitoire qui traverse l'univers comme une vague" (en deplacant de la matiere). Je suis un morceau d'univers qui sait que l'univers existe.
 
-> Etre mort c'est comme être con, on ne s'en rend pas compte. Ce sont les autres autours qui sont tristes.
