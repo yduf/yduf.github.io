@@ -14,3 +14,5 @@ tags: life quote identity
 
 > je suis un phénomène transitoire qui traverse l'univers comme une vague (en deplacant de la matiere)... Je suis un morceau d'univers qui sait que l'univers existe. - [Quel est le sens de la vie ?](https://www.youtube.com/watch?v=uWRONHKcbu8) - "
 
+> Etre mort c'est comme n'avoir jamais été en vie.
+
