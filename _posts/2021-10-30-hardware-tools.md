@@ -40,5 +40,6 @@ vs [Scheppach DP60](https://www.youtube.com/watch?v=BTVz-uoeb8M) / [Parkside](ht
 
 ### [Cyclone d'atelier](https://www.youtube.com/watch?v=ZUT4XFnr1cc)
 
+### [panel saw](https://www.youtube.com/watch?v=sa2I0vUCXsE)
 
 ### [scie sou table](https://www.youtube.com/watch?v=_kX8xAWHdsY)
