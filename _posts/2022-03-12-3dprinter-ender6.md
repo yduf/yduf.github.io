@@ -5,7 +5,7 @@ tags: 3dprinter klipper
 ---
 > cheap CoreXY -  [r/ender6/](https://www.reddit.com/r/ender6/) / [klipper config](https://github.com/yduf/klipper-ender6-config) / [server](http://ender6/) / [Moonraker](http://ender6:7125/)
 
-![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.J-kyutn5uYHtPmCA_dqoVgAAAA%26pid%3DApi&f=1) 
+[![caption](https://preview.redd.it/jp6mdnn97s361.jpg?width=640&crop=smart&auto=webp&s=68a346a3bfce06b129417b18ed712afeccf10100) ](https://www.reddit.com/r/ender6/comments/k8id45/why_is_the_ender_6_not_getting_as_much_attention/)
 
 ##  [Hardware](https://www.amazon.fr/Imprimante-Creality-dimpression-silencieuse-Nouvellement/dp/B08MQ2NBXS/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3CN8NCG8ZFNMA&keywords=ender%2B6&qid=1643478583&sprefix=ender%2B6%2Caps%2C182&sr=8-1&th=1) / [darty](https://www.darty.com/nav/achat/informatique/imprimante_scanner/imprimante/creality_imprimante_3d_creality_a_structure_cubique_amelioree_ender_6_250_250_400mm_grande_taille_d_imprimante_ecran_tactile_couleur_hd_4_3_pouces__MK765783144.html) - 2022 - 295€
 
@@ -30,7 +30,7 @@ tags: 3dprinter klipper
 - [DWIN DGUS USER MANUAL v2.0](http://www.ampdisplay.com/documents/pdf/DGUS%20v2.0%20(08-09-12.pdf)
 
 
-## [Firmware](https://www.creality.com/pages/download-ender-6?spm=..page_1934481.products_display_1.1) (1.0.4.9 20/04/2022)
+## [Firmware](https://www.creality.com/pages/download-ender-6?spm=..page_1934481.products_display_1.1) (Creality 1.0.4.9 20/04/2022)
 
 unzip
 - .bin file is for flashing printer board
@@ -48,16 +48,36 @@ see
 
 - spring are sensible to heat variation (especially when room temp is close to 30°C)
 
-[![caption](https://preview.redd.it/jp6mdnn97s361.jpg?width=640&crop=smart&auto=webp&s=68a346a3bfce06b129417b18ed712afeccf10100) ](https://www.reddit.com/r/ender6/comments/k8id45/why_is_the_ender_6_not_getting_as_much_attention/)
+
 
 # [Customisation](https://www.thingiverse.com/yd007/collections/ender6)
 
 - [Creality Ender 6 notes Barry Carter](https://github.com/ginge/Ender6)
 
-## Misc
-- [Ender 6 Y endstop relocation](https://www.thingiverse.com/thing:5222477) - easy to get more space
 - Open Woven Sleeves / alternative to cable chain - [Câble Gaine de Protection Réglable](https://www.amazon.fr/gp/product/B08YN56FYG/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 - **USB access** : usb slot on motherboard, need to unscrew plate, there is a hole in the frame to pass a cable (need to remove the power supply to pass the cable inside the frame)
+
+
+## Misc
+
+### [Ender 6 Y endstop relocation](https://www.thingiverse.com/thing:5222477) - easy to get more space
+
+[![caption](https://i.ibb.co/BzHLHVm/fc453edc-01d1-4cd2-9794-60737011d736.jpg)
+
+### [Ender 6 Extruder Relocation](https://marksmakerspace.com/3dprinting/ender6-extruder-move.html)
+
+- [smoothed version of the spacer](https://www.thingiverse.com/thing:4809986)
+- [filament guide](https://www.thingiverse.com/thing:5031418) and filler plate
+	- or from [ Filament Guide / Extruder Filler ](https://www.thingiverse.com/thing:4893522)
+
+[![caption](https://marksmakerspace.com/3dprinting/images/ender6-extruder-move/IMG_4008.jpeg) ](https://marksmakerspace.com/3dprinting/ender6-extruder-move.html)
+
+
+### [Spool inside](https://www.thingiverse.com/thing:5181697)
+
+Once using a direct drive (or having moving the extruder).
+- [ reverse bowden guide ](https://www.thingiverse.com/thing:4658388)
+- [Ender6 Filament Relocation](https://www.thingiverse.com/thing:4812210)
 
 - [My Ender 6 Journey to reliable, satisfying printing](https://www.reddit.com/r/ender6/comments/vf7qbt/my_ender_6_journey_to_reliable_satisfying_printing/)
 	
@@ -105,7 +125,13 @@ pid_Kd: 101.690
 min_temp: 0
 max_temp: 260
 pressure_advance: 0.05
+{% endhighlight %}
 
+Firmware retraction for [BIQU H2](https://www.reddit.com/r/BIGTREETECH/comments/swvcz0/comment/hxpj5ze/?utm_source=share&utm_medium=web2x&context=3)
+{% highlight ini %}
+[firmware_retraction]
+retract_length: 0.5
+retract_speed: 4
 {% endhighlight %}
 
 **To check BEFORE USE**
@@ -130,13 +156,14 @@ hold_current: 0.500
 
 ### [3DTouch Auto Leveling Sensor](https://www.geeetech.com/wiki/index.php/3DTouch_Auto_Leveling_Sensor) / [BL-Touch](http://www.klipper3d.org/BLTouch.html)
 
-<span style="color:red">[**creality firmware 1.0.4.9 20/04/2022 doesn't work with [3DTouch v3.2](https://www.amazon.fr/gp/product/B08P51G69Z/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)**]</span>
+<span style="color:red">[**creality firmware 1.0.4.9 20/04/2022 doesn't work with [**3DTouch v3.2**](https://www.amazon.fr/gp/product/B08P51G69Z/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)**]</span>
 	- **it Works with Klipper using same board**
-
+    
 
 ### [BLTouch installation]({% post_url 2022-07-30-3dprinter-bltouch %})
 
-- [BLTouch](https://www.youtube.com/watch?v=Sqs6rGUX9yw) / [2](https://www.youtube.com/watch?v=FH0KHYU3_S8) - ender6 as a JSP connector for BLTouch. one can use the cable extension and join dupont together (matching colors)  to connect both jsp end. - [creality firmware needs flashing.](https://www.creality.com/pages/download-ender-6?spm=..page_1934481.products_display_1.1)
+- [Wiring BLTouch](https://www.youtube.com/watch?v=Sqs6rGUX9yw) / [2](https://www.youtube.com/watch?v=FH0KHYU3_S8) - ender6 as a JSP connector for BLTouch. one can use the cable extension and join dupont together (matching colors)  to connect both jsp end. - [creality firmware needs flashing.](https://www.creality.com/pages/download-ender-6?spm=..page_1934481.products_display_1.1)
+	- [info on default motherboard wiring](https://www.reddit.com/r/ender6/comments/wv9e54/2_different_bltouch_not_working_fast_red_blink/?utm_source=share&utm_medium=web2x&context=3) - default is working fine with klipper
 - [Does 3d touch work on ender 6](https://www.reddit.com/r/ender6/comments/pslddo/does_3d_touch_work_on_ender_6/) / [What Version of BLTouch works with Ender-6](https://forums.creality3dofficial.com/community/ender-6/what-version-of-bltouch-works-with-ender-6/)
 - [Ender 6 CR Touch](https://www.reddit.com/r/ender6/comments/qngdd8/ender_6_cr_touch/) - rewire
 
@@ -229,10 +256,6 @@ Screen has to be flashed separately to be functional.
 
 see [sample-t5uid1.cfg](https://github.com/Desuuuu/klipper/blob/dgus-reloaded/config/sample-t5uid1.cfg)
 
-## [Spool inside](https://www.thingiverse.com/thing:5181697)
-
-Once using a direct drive (or having moving the extruder).
-- [ reverse bowden guide ](https://www.thingiverse.com/thing:4658388)
 
 ## Motherboard
 

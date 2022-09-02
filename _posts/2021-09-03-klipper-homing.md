@@ -19,6 +19,12 @@ z_hop: 10
 
 ## [Probe calibration](https://github.com/KevinOConnor/klipper/blob/master/docs/Probe_Calibrate.md)
 
+> Please note that Z Offest calibration is performed at room temperature, with heatbed and hotend
+heaters off (set to 0). Ensure that there is no filament on the nozzle before calibrating Z Offset. You
+may want to heat the hotend, clear the nozzle and/or unload the filament and let it cool down
+before proceeding.
+
+
 ### [BL-Touch](https://github.com/KevinOConnor/klipper/blob/master/docs/BLTouch.md)
 It is mandatory to define pinout and z_offset. 
 
@@ -81,3 +87,16 @@ The secret to getting good bed leveling with bed leveling screws is to utilize t
 This involves running a print, observing the first layer going down, and adjusting your Z offset (["baby stepping"](https://3dp.tumbleweedlabs.com/firmware/klipper-firmware/klipper-calibration-guide/how-to-perfect-your-first-layer-height-with-klipper#baby-stepping)) up and down until you have the perfect level of squish. This is easier with an LCD but can also be done without. 
 
 see _tune_ menu in [klipper]({% post_url 2021-09-04-klipper-menu %}) which call [`SET_GCODE_OFFSET`](https://www.klipper3d.org/G-Codes.html#extended-g-code-commands)
+
+### [SET_GCODE_OFFSET](https://www.klipper3d.org/G-Codes.html#set_gcode_offset)
+  
+This is commonly used to virtually change the Z bed offset or to set nozzle XY offsets when switching extruders. For example, if "SET_GCODE_OFFSET Z=0.2" is sent, then future G-Code moves will have 0.2mm added to their Z height. If the X_ADJUST style parameters are used, then the adjustment will be added to any existing offset (eg, "SET_GCODE_OFFSET Z=-0.2" followed by "SET_GCODE_OFFSET Z_ADJUST=0.3" would result in a total Z offset of 0.1).
+  
+{% highlight cpp %}
+SET_GCODE_OFFSET Z_ADJUST=0.1
+{% endhighlight %}
+  
+Final setup can be save with [`Z_OFFSET_APPLY_PROBE`](https://www.klipper3d.org/G-Codes.html#z_offset_apply_probe). Requires a SAVE_CONFIG to take effect.
+  
+### see also
+- [Klipper Tuning Guide](https://advanced3dprinting.com/wp-content/uploads/2021/11/Advanced-3D-Printing-Klipper-Kit-Tuning-Guide-v1.0.pdf)
