@@ -1,7 +1,7 @@
 ---
 published: true
 title: Blender CAM
-tags: cam blender cnc
+tags: CAM blender cnc
 ---
 > Blender CAM is an open source solution for artistic CAM - Computer aided machining - a g-code generation tool. Blender CAM is an extension for the free open-source Blender 3d package. - [BlenderCam - CNC path addon](https://github.com/vilemduha/blendercam)
 

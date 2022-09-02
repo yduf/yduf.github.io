@@ -1,7 +1,7 @@
 ---
 published: true
 title: Freecad CAM
-tags: cam cnc freecad-cam
+tags: CAM cnc freecad-cam
 ---
 ## Tutorials
 - [PathWorkbench and 3d contour milling.](https://www.youtube.com/watch?v=t0UUHAVWc90)
