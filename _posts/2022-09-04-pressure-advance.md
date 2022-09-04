@@ -7,6 +7,8 @@ tags: 3dprinter klipper
 
 - [Pressure Advance - How To - Chris's Basement](https://www.youtube.com/watch?v=LhYJruVdpxk)
 
+- [Pressure Advance is Too High / Too low](https://github.com/AndrewEllis93/Print-Tuning-Guide/blob/main/articles/pressure_advance.md#fine-tuning-and-what-to-look-for)
+
 ### [Pressure Advance Tool – Klipper](https://www.advanced3dprinting.com/linear-advance-tool-klipper/)
 
 [**Line Method**](https://github.com/AndrewEllis93/Print-Tuning-Guide/blob/main/articles/pressure_advance.md#lines-method)
