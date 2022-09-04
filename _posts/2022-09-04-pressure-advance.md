@@ -5,6 +5,8 @@ tags: 3dprinter klipper
 ---
 > [Klipper Tuning Guide](https://www.advanced3dprinting.com/tuning-guide-part-1/)
 
+- [Pressure Advance - How To - Chris's Basement](https://www.youtube.com/watch?v=LhYJruVdpxk)
+
 ### [Pressure Advance Tool – Klipper](https://www.advanced3dprinting.com/linear-advance-tool-klipper/)
 
 Pick up the line, which is has most consistency, especially when transitioning from slow to fast and fast to slow.
