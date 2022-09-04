@@ -9,7 +9,7 @@ tags: 3dprinter klipper
 
 ** use z-offset=0.05 and layer-height=0.3 to prevend grinding your plate**
 
-Direct extrusion
+Direct extrusion with BIQU H2
 {% highlight cpp %}
 ; Printer: Ender6
 ; Filament: PLA
