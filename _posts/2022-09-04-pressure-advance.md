@@ -40,5 +40,6 @@ Direct extrusion with BIQU H2
 ; Z-axis Offset = 0.05 mm
 {% endhighlight %}
 
+In the below example, I would choose about 0.055.
 
 ![caption](https://github.com/AndrewEllis93/Print-Tuning-Guide/raw/main/images/KFactor-Print.jpg)
