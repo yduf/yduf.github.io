@@ -3,7 +3,7 @@ published: true
 title: Pressure Advance
 tags: 3dprinter klipper
 ---
-> 
+> [Klipper Tuning Guide](https://www.advanced3dprinting.com/tuning-guide-part-1/)
 
 ### [Pressure Advance Tool – Klipper](https://www.advanced3dprinting.com/linear-advance-tool-klipper/)
 
