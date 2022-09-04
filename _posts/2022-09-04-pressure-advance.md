@@ -9,6 +9,8 @@ tags: 3dprinter klipper
 
 ### [Pressure Advance Tool – Klipper](https://www.advanced3dprinting.com/linear-advance-tool-klipper/)
 
+[**Line Method**](https://github.com/AndrewEllis93/Print-Tuning-Guide/blob/main/articles/pressure_advance.md#lines-method)
+
 Pick up the line, which is has most consistency, especially when transitioning from slow to fast and fast to slow.
 The number on the right represents optimal Pressure Advance value (also called K factor) for the given filament.
 
