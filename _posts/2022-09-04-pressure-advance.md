@@ -39,3 +39,6 @@ Direct extrusion with BIQU H2
 ; Fan Speed = 0 %
 ; Z-axis Offset = 0.05 mm
 {% endhighlight %}
+
+
+![caption](https://github.com/AndrewEllis93/Print-Tuning-Guide/raw/main/images/KFactor-Print.jpg)
