@@ -7,7 +7,7 @@ tags: 3dprinter klipper
 
 ### [Pressure Advance Tool – Klipper](https://www.advanced3dprinting.com/linear-advance-tool-klipper/)
 
-** use z-offset=0.05 and layer-height=0.3 to prevend griding your plate**
+** use z-offset=0.05 and layer-height=0.3 to prevend grinding your plate**
 
 Direct extrusion
 {% highlight cpp %}
