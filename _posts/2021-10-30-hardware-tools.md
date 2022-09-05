@@ -13,7 +13,7 @@ tags: lab hardware tools
 vs [Scheppach DP60](https://www.youtube.com/watch?v=BTVz-uoeb8M) / [Parkside](https://www.youtube.com/watch?v=C--KbdsqSUA)
 
 vs [Homemade](https://www.youtube.com/watch?v=a2kIJDhhZrg)
-- serach for _drill spindle assembly_
+- search for _drill spindle assembly_
 
 ### [Scie à Onglets Radiale GCM 12 GDL ](https://www.amazon.fr/Bosch-Professional-0601B23600-radiale-onglet/dp/B005ZMLKFW/ref=sr_1_5?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=scie%2Bradiale%2Bbosch&qid=1638552965&sr=8-5&th=1) 
 - [Bosch GCM 8 SDE](https://www.amazon.fr/Bosch-Professional-Radiale-Onglet-0601B19200/dp/B013WAV8W8/ref=sr_1_13?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1O6PMV4XM6I2O&keywords=scie+onglet&qid=1651934990&sprefix=scie+onglet%2Caps%2C175&sr=8-13) / [test](https://www.youtube.com/watch?v=PZWsIqAiGcQ) / [GCM 8 SJL](https://www.youtube.com/watch?v=jE92OBuF-3s) / [ SDE vs SJL vs 350-254  ](https://www.bosch-professional.com/gb/en/community/category/can-t-decide-between-gcm-8-sde-and-gcm-8-sjl-mitre-saws/14916744-t#main)
