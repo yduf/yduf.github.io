@@ -43,6 +43,8 @@ vs [Homemade](https://www.youtube.com/watch?v=a2kIJDhhZrg)
 
 ### [Cyclone d'atelier](https://www.youtube.com/watch?v=ZUT4XFnr1cc)
 
+- [Simple Cyclone Dust Collector](https://www.youtube.com/watch?v=1WnitgYFnE0)
+
 ### [panel saw](https://www.youtube.com/watch?v=sa2I0vUCXsE)
 
 ### [scie sou table](https://www.youtube.com/watch?v=_kX8xAWHdsY)
