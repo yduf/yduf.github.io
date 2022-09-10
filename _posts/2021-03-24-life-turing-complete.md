@@ -8,6 +8,9 @@ tags: avx gpu life turing-complete
 - [ALiEn](https://alien-project.org/) / [HN](https://news.ycombinator.com/item?id=27472224) – a GPU-accelerated artificial life simulation program
 - [Conway's Game of Life on GPU using CUDA](http://www.marekfiser.com/Projects/Conways-Game-of-Life-on-GPU-using-CUDA/4-Advanced-lookup-table-implementation)
 
+see also
+- [Artificial Life (Simulation & Code)](https://www.youtube.com/watch?v=0Kx4Y9TVMGg) - 4 particle with different interaction forces / [github](https://github.com/hunar4321/particle-life) / [live](https://hunar4321.github.io/particle-life/particle_life.html#91651088029)
+
 ![caption](https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif)
 
 [![caption](https://img.youtube.com/vi/Kk2MH9O4pXY/0.jpg)](https://www.youtube.com/watch?v=Kk2MH9O4pXY)
