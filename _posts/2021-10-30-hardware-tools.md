@@ -48,3 +48,5 @@ vs [Homemade](https://www.youtube.com/watch?v=a2kIJDhhZrg)
 ### [panel saw](https://www.youtube.com/watch?v=sa2I0vUCXsE)
 
 ### [scie sou table](https://www.youtube.com/watch?v=_kX8xAWHdsY)
+
+### [oscilating saw](https://www.youtube.com/watch?v=SgCam8t3670)
