@@ -7,4 +7,4 @@ tags: freecad math simulation montecarlo
 
 see also
 - [Montecarlo vs FEM](https://youtu.be/bZbuKOxH71o?t=243) - mesh granularity is a big issue of FEM
-	- walk on sphere apply to a limited set of differential equation
+	- walk on sphere apply to a limited set of partial differential equation
