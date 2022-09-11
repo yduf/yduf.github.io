@@ -12,4 +12,4 @@ tags: math algorithm
 
 see also
 - [Can you solve my favorite interview question?](https://www.youtube.com/watch?v=pvimAM_SLic)
-- [Monte Carlo Geometry Processing](https://www.youtube.com/watch?v=bZbuKOxH71o)
+- [Monte Carlo Geometry Processing](https://www.youtube.com/watch?v=bZbuKOxH71o) / [HN](https://news.ycombinator.com/item?id=32788197)
