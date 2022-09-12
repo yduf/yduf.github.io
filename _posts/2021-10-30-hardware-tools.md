@@ -29,6 +29,8 @@ vs [Homemade](https://www.youtube.com/watch?v=a2kIJDhhZrg)
 - [coupe acier](https://www.youtube.com/watch?v=kJbt9unnjOo) / [2](https://www.youtube.com/watch?v=TkvU6Dg6ivg)
 	- [Can You Cut Metal With a Miter Saw Without Damaging It?](https://thetoolscout.com/can-you-cut-metal-with-a-miter-saw/) / [2](https://handyman.guide/cutting-metal-with-miter-saw-how/)
     
+- [If The Blade Sees Its Shadow, It’s Another 64th Of Accuracy](https://hackaday.com/2022/09/11/if-the-blade-sees-its-shadow-its-another-64th-of-accuracy/)
+    
 ### [Band saw Vs Chop saw - Scheppach MBS1100 Metal Cutting Band Saw 127mm - Review and modifications](https://www.youtube.com/watch?v=X5_m1PGU_Js&list=LL&index=8)
 
 ### [Aspirateur Chantier](https://www.youtube.com/watch?v=f_aXEV_BllU)
