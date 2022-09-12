@@ -21,6 +21,16 @@ see also
 ## Integration
 - [SSH Access](https://remarkablewiki.com/tech/ssh) - [yduf/ssh]({% post_url 2019-04-29-ssh %})
 	- The reMarkable uses [dropbear](https://matt.ucc.asn.au/dropbear/dropbear.html) (via busybox) for its ssh server. / [github](https://github.com/mkj/dropbear)
+    - [ReMarkable2 and modern ssh](https://www.reddit.com/r/RemarkableTablet/comments/vlnxkm/remarkable2_and_modern_ssh/) - Remarkable2 tablets still use ssh-rsa with sha1 hash functions which is deprecated by default in newer releases of ssh
+
+{% highlight ini %}
+Host remarkable
+    User root
+    HostName 10.11.99.1
+    HostKeyAlgorithms +ssh-rsa
+    PubkeyAcceptedKeyTypes +ssh-rsa
+{% endhighlight %}
+
 - [Evidlo/remarkable_printer](https://github.com/Evidlo/remarkable_printer) - Print natively to your reMarkable with no extensions or reMarkable cloud.
 - [Rocketbook](https://www.reddit.com/r/RemarkableTablet/comments/k0tl0m/remarkablerocket_lol_i_mean_now_i_have/) - using a [Rocketbook template](https://getrocketbook.co.uk/pages/rocketbook-for-free) => Google/Dropbox Integration
 - [Remarkable Uploader Android App](https://play.google.com/store/apps/details?id=org.remadroid) / [r/RemarkableTablet](https://www.reddit.com/r/RemarkableTablet/comments/kcfht6/remarkable_uploader_android_app/)
