@@ -1,7 +1,7 @@
 ---
 published: true
 title: Toxic Productivity
-tags: life job
+tags: life job work
 ---
 > **Untangle your self-worth and your work**
 > 
