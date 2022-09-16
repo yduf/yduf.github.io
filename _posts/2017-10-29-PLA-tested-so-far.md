@@ -50,4 +50,7 @@ PLA tested so far -- 1.75mm
 - [red (rouge pompier) (250g)](https://www.amazon.fr/gp/product/B074PDDPJ7/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)
 - [black (noir brillant) (250g](https://www.amazon.fr/gp/product/B074PD8GYY/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)
 
+## PETG
+- [ERYONE trans blue](https://www.amazon.fr/gp/product/B07YJDB2C2/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1)
+	- head=250/bed=80..85/fan=40%/ini layer=0.1 speed 30mm/s * 80%
 ## [TPU?](https://www.youtube.com/watch?v=rPgr2VkYESw)
