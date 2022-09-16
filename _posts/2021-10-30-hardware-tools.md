@@ -49,6 +49,8 @@ vs [Homemade](https://www.youtube.com/watch?v=a2kIJDhhZrg)
 
 ### [panel saw](https://www.youtube.com/watch?v=sa2I0vUCXsE)
 
+### [Amazing 2D adjustment Router jig](https://www.youtube.com/watch?v=GXhKcPUyc8c)
+
 ### [scie sou table](https://www.youtube.com/watch?v=_kX8xAWHdsY)
 
 ### [oscilating saw](https://www.youtube.com/watch?v=SgCam8t3670)
