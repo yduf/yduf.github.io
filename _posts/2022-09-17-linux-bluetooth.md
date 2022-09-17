@@ -9,6 +9,8 @@ tags: bluetooth
 
 {% highlight bash %}
 $ dmesg | grep -i blue
+
+$  hciconfig -a
 {% endhighlight %}
 
 {% highlight bash %}
