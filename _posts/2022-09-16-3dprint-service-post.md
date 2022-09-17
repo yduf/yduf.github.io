@@ -1,9 +1,9 @@
 ---
 published: true
-title: 3dprinting Service
+title: 3dprinting Service / Impression3D entre particulier
 tags: 3dprinter
 ---
-> [my own start ?](https://yduf.github.io/3dprint-service/)
+> [Impression3D entre particulier](https://yduf.github.io/3dprint-service/) / [partage3d.fr/](https://www.partage3d.fr/)
 
 see also
 - [3D Printing Business - My First $5,000 ](https://www.youtube.com/watch?v=PVGLlToAO28&list=LL&index=33)
