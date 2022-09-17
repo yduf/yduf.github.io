@@ -50,7 +50,7 @@ vs [Homemade](https://www.youtube.com/watch?v=a2kIJDhhZrg)
 ### [panel saw](https://www.youtube.com/watch?v=sa2I0vUCXsE)
 
 ### [Defonceuse](https://www.youtube.com/watch?v=flZ-Px6bhTE&list=PLg8aH9tX2qI_ld44t1rS3qaXNN2OkvzfX&index=1)
-- ne pas prendre de coffret de fraise. => elles sont de mauvaises qualités comparées a une bonne individuelle et sont dangereuses.
+**Ne pas prendre de coffret de fraise. => elles sont de mauvaises qualités comparées a une bonne individuelle et sont dangereuses.**
 
 - [Bosh GIF12 CE](https://www.amazon.fr/Bosch-Professional-0601626000-D%C3%A9fonceuse-10000-24000/dp/B00IZ8RS5Y?th=1) / [LCE](https://www.amazon.fr/Bosch-Professional-Oberfr%C3%A4se-GOF-1250/dp/B00IZ8VODQ/ref=psdc_1716189031_t1_B00IZ8RS5Y)
 - [Amazing 2D adjustment Router jig](https://www.youtube.com/watch?v=GXhKcPUyc8c)
