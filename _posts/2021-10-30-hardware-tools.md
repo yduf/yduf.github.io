@@ -49,7 +49,7 @@ vs [Homemade](https://www.youtube.com/watch?v=a2kIJDhhZrg)
 
 ### [panel saw](https://www.youtube.com/watch?v=sa2I0vUCXsE)
 
-### [Defonceuse](https://www.youtube.com/watch?v=flZ-Px6bhTE&list=PLg8aH9tX2qI_ld44t1rS3qaXNN2OkvzfX&index=1) / [comparaison](https://www.youtube.com/watch?v=WCjzFpG2Anw)
+### [Defonceuse](https://www.youtube.com/watch?v=flZ-Px6bhTE&list=PLg8aH9tX2qI_ld44t1rS3qaXNN2OkvzfX&index=1) / [comparaison](https://www.youtube.com/watch?v=WCjzFpG2Anw) / [choix](https://tout-en-bois.com/10-conseils-pour-bien-choisir-une-defonceuse/)
 
 **Ne pas prendre de coffret de fraise. => elles sont de mauvaises qualités comparées a une bonne individuelle et sont dangereuses.**
 - CMT (bonne qualité)
