@@ -13,3 +13,6 @@ MediaPipe framework doesn’t require CUDA for GPU compute and rendering. Howeve
 ### [MediaPipe in C++ ](https://google.github.io/mediapipe/getting_started/cpp.html#mediapipe-in-c)
 
 ## [MediaPipe Face Mesh ](https://google.github.io/mediapipe/solutions/face_mesh#mediapipe-face-mesh)
+
+## Installation
+### [using Docker ](https://google.github.io/mediapipe/getting_started/install.html#installing-using-docker)
