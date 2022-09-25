@@ -11,3 +11,5 @@ MediaPipe supports OpenGL ES up to version 3.2.
 MediaPipe framework doesn’t require CUDA for GPU compute and rendering. However, MediaPipe can work with TensorFlow to perform GPU inference on video cards that support CUDA.
 
 ### [MediaPipe in C++ ](https://google.github.io/mediapipe/getting_started/cpp.html#mediapipe-in-c)
+
+## [MediaPipe Face Mesh ](https://google.github.io/mediapipe/solutions/face_mesh#mediapipe-face-mesh)
