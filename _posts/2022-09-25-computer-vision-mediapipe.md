@@ -7,4 +7,5 @@ tags: computer-vision face
 
 ### [GPU Support ](tgetting_started/gpu_support.html#opengl-es-setup-on-linux-desktop)
 
-MediaPipe supports OpenGL ES up to version 3.2.
+MediaPipe supports OpenGL ES up to version 3.2.  
+MediaPipe framework doesn’t require CUDA for GPU compute and rendering. However, MediaPipe can work with TensorFlow to perform GPU inference on video cards that support CUDA.
