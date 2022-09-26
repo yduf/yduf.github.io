@@ -1,5 +1,5 @@
 ---
-title: Codingame HW Limits & C++ flags
+title: C++ flags &  HW Limits (Codingame)
 published: true
 tags: c++ codingame
 ---
@@ -11,9 +11,9 @@ tags: c++ codingame
 
 ## Ruby 2.6.2
 
-## [C++](https://forum.codingame.com/t/languages-update/1574/117)
+## [C++](https://forum.codingame.com/t/languages-update/1574/264) as of 21/04
 {% highlight bash %}
-compiler: g++ 9.2.1 mode C++17
+compiler: g++ 11.2.0 mode C++17
 flags: -std=gnu++17 -Werror=return-type -g -pthread 
 libraries: -lm -lpthread -ldl -lcrypt
 {% endhighlight %}
