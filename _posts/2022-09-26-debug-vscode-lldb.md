@@ -1,7 +1,7 @@
 ---
 published: true
 title: lldb
-tags: debug-c++
+tags: debug-c++ vscode
 ---
 > [CodeLLDB](https://github.com/vadimcn/vscode-lldb)
 
