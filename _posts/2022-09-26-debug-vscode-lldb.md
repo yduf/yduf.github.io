@@ -15,3 +15,5 @@ tags: debug-c++ vscode
 ## [LLDB launch config](https://github.com/yduf/lldb-vscode-debug/blob/master/.vscode/launch.json)
 
 - [Debug a C++ project in VS Code](https://www.youtube.com/watch?v=G9gnSGKYIg4) - launch syntax is different for each plugin.
+
+[[caption](https://github.com/vadimcn/vscode-lldb/raw/master/images/plotting.png)](https://github.com/vadimcn/vscode-lldb)
