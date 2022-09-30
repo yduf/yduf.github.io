@@ -7,3 +7,4 @@ tags: c++ string single-header
 
 - [{fmt}](https://github.com/fmtlib/fmt) an open-source formatting library providing a fast and safe alternative to C stdio and C++ iostreams. 
 	- see [Motivations](https://github.com/fmtlib/fmt#motivation)
+    - [header-only mode](https://stackoverflow.com/questions/66944554/how-to-use-fmt-library-in-the-header-only-mode)
