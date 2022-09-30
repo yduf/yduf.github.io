@@ -64,3 +64,5 @@ see also [dprint troubleshooting]({% post_url 2018-09-25-3dprint %})
 
 
 ## [Speed up print]({% post_url 2022-08-26-cura-speed-print %})
+
+- [Make your own FAST profiles in Cura 5.0+](https://www.youtube.com/watch?v=rWxl3ApL-Ks)
