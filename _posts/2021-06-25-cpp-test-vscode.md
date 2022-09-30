@@ -16,4 +16,4 @@ Just add the list of test executables, to `.vscode/settings.json` (or globally i
 }
 {% endhighlight %}
 
-![caption](https://raw.githubusercontent.com/matepek/vscode-catch2-test-adapter/master/resources/Screenshot_2019-05-29.png)
+![caption](https://github.com/matepek/vscode-catch2-test-adapter/raw/master/resources/ScreenShot_2021-11-20.png)
