@@ -15,6 +15,6 @@ There are 6 commands in total. Two of them require a microcontroller to generate
 Negative half wave: Mode hors gel  
 Positive half wave: Turns off the heater  
 
-- [Utilisation des diodes](http://www.radiateur-electrique.org/forum/thermostat-programmable-sur-radiateur-electrique-deja-equipe-t2280.html)
+- [Utilisation des diodes ](http://www.radiateur-electrique.org/forum/thermostat-programmable-sur-radiateur-electrique-deja-equipe-t2280.html) - [diodes  IN4007 ](https://www.amazon.fr/s?k=diode+1n4007&__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=17GHELOMBFY3L&sprefix=diode+1n4007%2Caps%2C383&ref=nb_sb_noss_1)
 
 ![caption](http://www.radiateur-electrique.org/forum/img/thermostat/thermostat-ambiance-pilote.gif)
