@@ -16,4 +16,4 @@ tags: debug-c++ vscode
 
 - [Debug a C++ project in VS Code](https://www.youtube.com/watch?v=G9gnSGKYIg4) - launch syntax is different for each plugin.
 
-[[caption](https://github.com/vadimcn/vscode-lldb/raw/master/images/plotting.png)](https://github.com/vadimcn/vscode-lldb)
+[![caption](https://github.com/vadimcn/vscode-lldb/raw/master/images/plotting.png)](https://github.com/vadimcn/vscode-lldb)
