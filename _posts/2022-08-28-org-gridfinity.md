@@ -16,4 +16,4 @@ see also
 - [Building The Ultimate assortment Cabinet! - 3D Printed assortment boxes!](https://www.youtube.com/watch?v=CHFK5sY8ToE)
 - [DDD Printable Wall Control System](https://github.com/aderusha/DDD-Printable-Wall-Control-System)
 
-![caption](XXX_url_XXX)
+![caption](https://media.printables.com/media/prints/244443/images/2203303_1ca6ad93-98c0-4339-a87a-3c500c75ca09/thumbs/cover/1280x960/jpeg/img_3238.webp)
