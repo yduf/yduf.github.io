@@ -19,6 +19,24 @@ Instead of previous model, consider that we collide at a time $t$. With $\vec{v_
 
 $A + t \vec{v_A}= B + t \vec{v_B} = C$ the point of collision (1).
 
+[//]: # ( https://jsfiddle.net/y_duf/6cz94d5e/26/ )
+{::nomarkdown}
+<svg width="400" height=300>
+
+<defs>
+<g id="box">
+<rect x="0" y="0" width="150" height="150"
+  style="stroke:pink;stroke-width:5;fill-opacity:0.1;stroke-opacity:0.9" />
+	<circle id="handle" cx="0" cy="0" r="10" ></circle>
+  </g>
+  </defs>
+  
+  <use id="box1" xlink:href="#box" x="10" y="10" fill="blue"/>
+  <use xlink:href="#box" x="50" y="50" fill="red"/>
+     
+</svg> 
+{:/}
+
 Everything is known, except $t$ and $\vec{v_A}$ for which we know only the norm (= the speed), but not the direction.
 
 The distance (the value) to the point of collision is equal to $t \| \vec{v_A} \|$ from $A$ and  $t \| \vec{v_B} \|$ from B. That is time mulplied by the relative linear speed of the object.
