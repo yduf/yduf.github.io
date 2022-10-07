@@ -7,6 +7,4 @@ tags: random montecarlo math
 
 As noted in OP, this can lead to O(1/n) convergence of averages to underlying target values, rather than the expected O(1/sqrt(n)) convergence ("n" is the number of probes of the underlying system). This is shown, strikingly, in Fig. 2 of the OP.
 
-There is a conference, [tutorial papers]( http://mcqmc2018.inria.fr)
-
 [ ![caption](https://secureservercdn.net/50.62.88.172/cnc.a6a.myftpupload.com/wp-content/uploads/2018/04/Animated_Comparison_Color.gif) ](http://extremelearning.com.au/unreasonable-effectiveness-of-quasirandom-sequences/)
