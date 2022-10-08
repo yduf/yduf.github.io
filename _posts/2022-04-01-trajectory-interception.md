@@ -1,6 +1,6 @@
 ---
 published: true
-title: Interception
+title: Catching the rabbit (interception)
 tags: math codingame triangle collision
 use_math: true
 ---
