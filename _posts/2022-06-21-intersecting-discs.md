@@ -1,7 +1,7 @@
 ---
 published: true
 title: Number of intersecting discs
-tags: math algorithm
+tags: math algorithm collision
 ---
 > Given N discs in a 2D plane, find intersecting discs.
 
