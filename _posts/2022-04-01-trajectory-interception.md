@@ -65,7 +65,7 @@ ${(\boldsymbol t s_A + d)}² = {AB}² + {(\boldsymbol t s_B)}² + 2 \boldsymbol 
 
 or
 
-$ ({s_B}² - {s_A}²) \boldsymbol t² + 2 ( \vec{AB}.\vec{v_B} -  s_A . d ) \boldsymbol t + ({AB}² - d²) = 0 $, a quadratic equation in $\boldsymbol t$ that we can now solve.
+$ ({s_B}² - {s_A}²) \boldsymbol t² + 2 ( \vec{AB}.\vec{v_B} -  s_A . d ) \boldsymbol t + ({AB}² - d²) = 0 $
 
 
 
