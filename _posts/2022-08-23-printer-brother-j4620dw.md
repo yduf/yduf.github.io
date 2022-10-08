@@ -10,6 +10,8 @@ tags: hardware printer
 
 - [ "Paper Jam" Error with No Paper Jammed](https://www.youtube.com/watch?v=SqWNFVIR6JA) - clean transparent band with a "lint-free" tissue
 
+- [Brother printer won't print black](https://www.inkhub.com.au/ink/brother-printer-wont-print-black)
+
 ### Doc
 
 - [spec](https://support.brother.com/g/b/spec.aspx?c=fr&lang=fr&prod=mfcj4620dw_us_eu_as)
