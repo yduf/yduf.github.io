@@ -13,6 +13,8 @@ tags: hardware printer
 - [Brother printer won't print black](https://www.inkhub.com.au/ink/brother-printer-wont-print-black)
 - [Brother Printer Cannot Detect Ink](https://www.inkhub.com.au/ink/brother-printer-cannot-detect-ink)
 	- simply remove ALL cartridges and one by one install them again.
+    - [Bypass Brother printers’ colour cartridge requirement for black and white printing](https://www.theblog.ca/brother-printer-colour-requirement)
+- [Print using only the black ink cartridge when the Color cartridges have run out.](https://support.brother.com/g/b/faqend.aspx?c=as_ot&lang=en&prod=dcpj315w_eu_as&faqid=faq00002461_001)
 
 ### Doc
 
