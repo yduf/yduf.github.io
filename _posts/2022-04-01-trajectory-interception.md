@@ -21,29 +21,6 @@ $A + t \vec{v_A}= B + t \vec{v_B} = C$ the point of collision (1).
 
 [//]: # ( https://jsfiddle.net/y_duf/6cz94d5e/26/ )
 {::nomarkdown}
-<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg" viewBox="0 40 400 200">
-
-    <marker id="triangle"
-      viewBox="0 0 10 10" refX="0" refY="5" 
-      markerUnits="strokeWidth"
-      markerWidth="4" markerHeight="3"
-      orient="auto">
-      <path d="M 0 0 L 10 5 L 0 10 z" />
-    </marker>
-    
-<defs>
-
-<g id="unit">
-  <line x1="0" y1="0" x2="300" y2="80.5" marker-end="url(#triangle)" stroke="black" stroke-width="10"/>
-	<circle id="handle" cx="0" cy="0" r="10" ></circle>
-</g>
-
-</defs>
-
-  <use id="unitA" xlink:href="#unit" x="10" y="10" fill="blue"/>
-
-
-</svg>
 {:/}
 
 Everything is known, except $t$ and $\vec{v_A}$ for which we know only the norm (= the speed), but not the direction.
