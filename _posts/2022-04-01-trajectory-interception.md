@@ -55,6 +55,21 @@ Then if a solution exist, it can be injected in (1) to compute $C$.
 
 Let's assume now that Alice doesn't have to go over the rabbit to catch it, and that she just have to be close enough, in a range $d$ of the rabbit. What is the new formula ?
 
+Let's consider that the approach is the same (we try to prove that latter), in this case we can revisit the triangle definition:
+- $\vec{AB}$ is known by definition,
+- $\vec{BC(t)} = t \vec{v_B} $  is dependant of $t$,
+- $AC(t) = t \| \vec{v_A} \| + d = t . s_A  + d $ is a distance dependant of $t$.
+
+And precedant formula becomes:  
+${(\boldsymbol t s_A + d)}² = {AB}² + {(\boldsymbol t s_B)}² + 2 \boldsymbol t \vec{AB}.\vec{v_B}$
+
+or
+
+$ ({s_B}² - {s_A}²) \boldsymbol t² + 2 ( \vec{AB}.\vec{v_B} -  s_A . d ) \boldsymbol t + {AB}² = 0 $, a quadratic equation in $\boldsymbol t$ that we can now solve.
+
+
+
+
 see also:
 - [Stackoverflow](https://stackoverflow.com/questions/17204513/how-to-find-the-interception-coordinates-of-a-moving-target-in-3d-space)
 - [Calculating an intercept course to a target with constant direction and velocity (in a 2-dimensional plane)](http://jaran.de/goodbits/2011/07/17/calculating-an-intercept-course-to-a-target-with-constant-direction-and-velocity-in-a-2-dimensional-plane/)
