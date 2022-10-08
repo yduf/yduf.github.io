@@ -51,6 +51,9 @@ $ ({s_B}² - {s_A}²) \boldsymbol t² + ( 2 \vec{AB}.\vec{v_B}) \boldsymbol t + 
 
 Then if a solution exist, it can be injected in (1) to compute $C$.
 
+### Interception within a range
+
+Let's assume now that Alice doesn't have to go over the rabbit to catch it, and that she just have to be close enough, in a range $d$ of the rabbit. What is the new formula ?
 
 see also:
 - [Stackoverflow](https://stackoverflow.com/questions/17204513/how-to-find-the-interception-coordinates-of-a-moving-target-in-3d-space)
