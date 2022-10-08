@@ -55,7 +55,7 @@ Then if a solution exist, it can be injected in (1) to compute $C$.
 
 Let's assume now that Alice doesn't have to go over the rabbit to catch it, and that she just have to be close enough, in a range $d$ of the rabbit. What is the new formula ?
 
-Let's consider that the approach is the same (we try to prove that this true latter), in this case we can revisit the triangle definition:
+Let's consider that the approach is the same (we will try to prove that this is true latter), in this case we can revisit the triangle definition:
 - $\vec{AB}$ is known by definition,
 - $\vec{BC(t)} = t \vec{v_B} $  is dependant of $t$,
 - $AC(t) = t \| \vec{v_A} \| + d = t . s_A  + d $ is a distance dependant of $t$.
