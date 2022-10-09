@@ -67,6 +67,7 @@ or
 
 $ ({s_B}² - {s_A}²) \boldsymbol t² + 2 ( \vec{AB}.\vec{v_B} -  s_A . d ) \boldsymbol t + ({AB}² - d²) = 0 $
 
+Once solved it can be used to derived $C$, which still is the position that reached by the rabbit at $t$. From that position we obtain $\vec{AC}$ the direction in which $A$ should move to reach the point at given  range.
 
 
 
