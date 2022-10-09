@@ -71,6 +71,8 @@ Once solved it can be used to derived $C$, which still is the position that reac
 
 
 
+
+
 ### see also:
 - [Stackoverflow](https://stackoverflow.com/questions/17204513/how-to-find-the-interception-coordinates-of-a-moving-target-in-3d-space)
 - [Calculating an intercept course to a target with constant direction and velocity (in a 2-dimensional plane)](http://jaran.de/goodbits/2011/07/17/calculating-an-intercept-course-to-a-target-with-constant-direction-and-velocity-in-a-2-dimensional-plane/)
