@@ -14,6 +14,7 @@ And 0.20 can make hole with thread.
 	- [FreeCAD 0.20 : Taraudages et filetages pour impression 3D](https://www.youtube.com/watch?v=Thgy5RQ5oGs)
     
 - [Filetage semi-rond pour impression 3D](https://www.youtube.com/watch?v=F_R2UZ9KwHE)
+	- spirale + scale*1.05 + cut
 
 ### [Creating thread](https://forum.freecadweb.org/viewtopic.php?t=41892)
 
