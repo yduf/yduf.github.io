@@ -33,3 +33,4 @@ std::cout << std::bitset<32>(v);
 
 ### see also
 - [std::bitset](https://en.cppreference.com/w/cpp/utility/bitset)
+- [What is the performance of std::bitset?](https://stackoverflow.com/a/51211844/51386)
