@@ -1,7 +1,7 @@
 ---
 published: true
 title: Benchmarking C++
-tags: c++ fastware benchmarking lib quote
+tags: c++ fastware benchmarking lib quote online
 ---
 > Measuring gives you a leg up on experts who don't need to measure - [Have a good baseline!]({% post_url 2019-09-21-fastware-2015 %})
 
