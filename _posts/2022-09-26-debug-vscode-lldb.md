@@ -8,6 +8,7 @@ tags: debug-c++ vscode
 - [CodeLLDB User's Manual](https://github.com/vadimcn/vscode-lldb/blob/v1.7.4/MANUAL.md) - how to use this extension.
 	- [Attaching to a Running Process](https://github.com/vadimcn/vscode-lldb/blob/v1.7.4/MANUAL.md#attaching-to-a-running-process)
     - [Debugging Externally Launched Code](https://github.com/vadimcn/vscode-lldb/blob/v1.7.4/MANUAL.md#attaching-to-a-running-process)
+    - [Stdio Redirection](https://github.com/vadimcn/vscode-lldb/blob/v1.7.4/MANUAL.md#stdio-redirection)
 	- [Data visualization](https://github.com/vadimcn/vscode-lldb/wiki/Data-visualization)
     - [Time travel debugging](https://github.com/vadimcn/vscode-lldb/blob/v1.7.4/MANUAL.md#reverse-debugging)
 - [Debugging in VS Code](https://code.visualstudio.com/docs/editor/debugging) - if you are new to VSCode debugging.
