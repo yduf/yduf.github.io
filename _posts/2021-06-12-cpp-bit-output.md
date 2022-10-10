@@ -30,3 +30,6 @@ The easiest way is probably to create an std::bitset representing the value, the
 int v = 0x12345678;
 std::cout << std::bitset<32>(v);
 {% endhighlight %}
+
+### see also
+- [std::bitset](https://en.cppreference.com/w/cpp/utility/bitset)
