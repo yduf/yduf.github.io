@@ -70,9 +70,6 @@ $ ({s_B}² - {s_A}²) \boldsymbol t² + 2 ( \vec{AB}.\vec{v_B} -  s_A . d ) \bol
 Once solved it can be used to derived $C(t)}$ (from $\vec{BC(t)}$), which is still the position that reached by the rabbit at $t$. From that position we obtain $\vec{AC}$ the direction in which $A$ should move to reach the point at given  range.
 
 
-
-
-
 ### see also:
 - [How to find the interception coordinates of a moving target in 3D space? (SO)](https://stackoverflow.com/questions/17204513/how-to-find-the-interception-coordinates-of-a-moving-target-in-3d-space)
 - [Calculating an intercept course to a target with constant direction and velocity (in a 2-dimensional plane)](http://jaran.de/goodbits/2011/07/17/calculating-an-intercept-course-to-a-target-with-constant-direction-and-velocity-in-a-2-dimensional-plane/)
