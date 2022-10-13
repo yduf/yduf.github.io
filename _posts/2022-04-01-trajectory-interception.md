@@ -15,7 +15,7 @@ http://ideone.com/AIr3hg)
 
 ## My interpretation
 
-Instead of previous model, consider that we collide at a time $t$. With $\vec{v_A}$ and $\vec{v_B}$ being respective vector speed of $A$ and $B$ we got:
+Instead of previous model, consider that we collide at a time $t$. With $\vec{v_A}$ and $\vec{v_B}$ being respective speed vectors of $A$ and $B$, we got:
 
 $A + t \vec{v_A}= B + t \vec{v_B} = C$ the point of collision (1).
 
@@ -25,7 +25,7 @@ $A + t \vec{v_A}= B + t \vec{v_B} = C$ the point of collision (1).
 
 Everything is known, except $t$ and $\vec{v_A}$ for which we know only the norm (= the speed), but not the direction.
 
-The distance (the value) to the point of collision is equal to $t \| \vec{v_A} \|$ from $A$ and  $t \| \vec{v_B} \|$ from B. That is time mulplied by the relative linear speed of the object.
+The distance (the value) to the point of collision is equal to $t \| \vec{v_A} \|$ from $A$ and  $t \| \vec{v_B} \|$ from B. That is time multiplied by the relative linear speed of the object.
 
 
 What we have is a general triangle ABC, for which:
@@ -39,11 +39,11 @@ $\vec{AC}=\vec{AB} + \vec{BC}$
 
 Taking the [dot product](https://en.wikipedia.org/wiki/Law_of_cosines#Using_vectors) of each side with itself, we got:
 
-${AC(t)}^2 = {AB}² + {BC(t)}² + 2 \vec{AB}.\vec{BC(t)}$ where now everything is knwow except $t$.
+${AC(t)}^2 = {AB}² + {BC(t)}² + 2 \vec{AB}.\vec{BC(t)}$ where now everything is known except $t$.
 
 which by replacing known quantities, become:
 
-${(\boldsymbol t s_A)}² = {AB}² + {(\boldsymbol t s_B)}² + 2 \boldsymbol t \vec{AB}.\vec{v_B}$
+${(\boldsymbol t . s_A)}² = {AB}² + {(\boldsymbol t . s_B)}² + 2 \boldsymbol t . \vec{AB}.\vec{v_B}$
 
 or
 
@@ -61,7 +61,7 @@ Let's consider that the approach is the same (we will try to prove that this is 
 - $AC(t) = t \| \vec{v_A} \| + d = t . s_A  + d $ is a distance dependant of $t$.
 
 And precedant formula becomes:  
-${(\boldsymbol t s_A + d)}² = {AB}² + {(\boldsymbol t s_B)}² + 2 \boldsymbol t \vec{AB}.\vec{v_B}$
+${(\boldsymbol t . s_A + d)}² = {AB}² + {(\boldsymbol t . s_B)}² + 2 \boldsymbol t . \vec{AB}.\vec{v_B}$
 
 or
 
