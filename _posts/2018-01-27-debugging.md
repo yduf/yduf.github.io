@@ -3,7 +3,7 @@ title: Linux Debugger
 published: true
 tags: debug linux debug-c++
 ---
-## [VSCode]({% post_url 2022-09-26-debug-vscode-lldb %})
+> prefered  [VSCode with LLDB]({% post_url 2022-09-26-debug-vscode-lldb %})
 
 ## [CodeBlocks](http://www.codeblocks.org/) - [Require a project](https://stackoverflow.com/a/30779749/51386)
 Create an empty project in target folder, point it to existing binary and add sources using recursive options.
