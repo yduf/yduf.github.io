@@ -3,7 +3,7 @@ published: true
 title: lldb
 tags: debug-c++ vscode
 ---
-> [CodeLLDB](https://github.com/vadimcn/vscode-lldb)
+> integrated in VSCode - [CodeLLDB](https://github.com/vadimcn/vscode-lldb)
 
 - [CodeLLDB User's Manual](https://github.com/vadimcn/vscode-lldb/blob/v1.7.4/MANUAL.md) - how to use this extension.
 	- [Attaching to a Running Process](https://github.com/vadimcn/vscode-lldb/blob/v1.7.4/MANUAL.md#attaching-to-a-running-process)
