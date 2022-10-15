@@ -5,7 +5,15 @@ tags: benchmarking profiler c++
 ---
 > Valgrind is an instrumentation framework for building dynamic analysis tools. - [Valgrind](http://valgrind.org/) / [git](https://sourceware.org/git/?p=valgrind.git;a=summary)
 
+- [How to use Valgrind c++](https://linuxhint.com/valgrind-c/)
 - [	Twenty years of Valgrind ](https://news.ycombinator.com/item?id=32245136)
+
+### Memcheck
+{% highlight bash %}
+$ valgrind --tool=memcheck –leak-check=full ./file, –leak-check=full
+{% endhighlight %}
+
+see [valgrind: –-tool=memcheck: command not found](https://stackoverflow.com/questions/55233310/valgrind-tool-memcheck-command-not-found)
 
 ## Alternatives
 - [Tracy](https://github.com/wolfpld/tracy)
