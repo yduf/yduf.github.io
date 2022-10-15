@@ -10,7 +10,8 @@ tags: benchmarking profiler c++
 
 ### Memcheck
 {% highlight bash %}
-$ valgrind --tool=memcheck --leak-check=full ./file, --leak-check=full
+valgrind --tool=memcheck --leak-check=full ./build/cg < test_21.txt , --l
+eak-check=full
 {% endhighlight %}
 
 see [valgrind: –-tool=memcheck: command not found](https://stackoverflow.com/questions/55233310/valgrind-tool-memcheck-command-not-found)
