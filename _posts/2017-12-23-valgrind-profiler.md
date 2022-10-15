@@ -1,7 +1,7 @@
 ---
 title: Valgrind (profiler)
 published: true
-tags: performance linux profiler c++
+tags: benchmarking linux profiler c++
 ---
 > Valgrind is an instrumentation framework for building dynamic analysis tools. - [Valgrind](http://valgrind.org/) / [git](https://sourceware.org/git/?p=valgrind.git;a=summary)
 
