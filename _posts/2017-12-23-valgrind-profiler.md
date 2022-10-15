@@ -8,7 +8,7 @@ tags: benchmarking profiler c++
 - [How to use Valgrind c++](https://linuxhint.com/valgrind-c/)
 - [	Twenty years of Valgrind ](https://news.ycombinator.com/item?id=32245136)
 
-### Memcheck
+### [Memcheck](https://linuxhint.com/valgrind-c/)
 {% highlight bash %}
 valgrind --tool=memcheck --leak-check=full ./build/cg < test_21.txt , --l
 eak-check=full
