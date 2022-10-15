@@ -1,7 +1,7 @@
 ---
 published: true
 title: Mechanical Clock Display
-tags: clock 3dprint
+tags: clock 3dmodel
 ---
 > nice looking clock
 
