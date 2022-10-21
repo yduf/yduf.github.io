@@ -43,4 +43,4 @@ valgrind --tool=callgrind -v --dump-every-bb=10000000  ./a.out < data/game_1/01.
 - [ Watching for software inefficiencies with Valgrind ](https://kristerw.blogspot.com/2020/02/watching-for-software-inefficiencies.html)
 
 
-![caption](https://kcachegrind.github.io/images/KcgShot3Small.gif)
+![caption](https://kcachegrind.github.io/images/KcgShot3.gif)
