@@ -14,15 +14,36 @@ Online demos using Compiler Explorer:
 
 To vectorize a loop, "strip-mining" transforms it into an outer loop and inner loop with number of iterations matching the preferred vector width.
 
-There are several way to do it
+There are several way to do it:
 
-**Ensure all inputs/outputs are padded. Then the loop is simply**
+**Ensure all inputs/outputs are padded. Then the loop is simply**  
 {% highlight cpp %}
 N = Lanes(d);	// number of lane for give vector type ( d = ScalableTag<T>)
 for (size_t i = 0; i < count; i += N) {
 ...
 }
 {% endhighlight %}
+                             
+**Process whole vectors as above, followed by a scalar loop**  
+{% highlight cpp %}
+size_t i = 0;
+for (; i + N <= count; i += N) LoopBody<false>(d, i, 0);
+for (; i < count; ++i) LoopBody<false>(CappedTag<T, 1>(), i, 0);
+{% endhighlight %}
+
+                             
+                             
+**Process whole vectors as above, followed by a single call to a modified LoopBody with masking:**  
+{% highlight cpp %}
+size_t i = 0;
+for (; i + N <= count; i += N) {
+  LoopBody<false>(d, i, 0);
+}
+if (i < count) {
+  LoopBody<true>(d, i, count - i);
+}
+{% endhighlight %}
+                             
 
 ### [API synopsis / quick reference](https://github.com/google/highway/blob/master/g3doc/quick_reference.md)
 
