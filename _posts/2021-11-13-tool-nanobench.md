@@ -40,3 +40,6 @@ Recommendations
 |--------------------:|--------------------:|--------:|----------:|:----------
 |               18.97 |       52,724,029.52 |    1.2% |      0.01 | `compare_exchange_strong`
 {% endhighlight %}
+  
+### see also
+- [Micro-benchmarks](https://vorbrodt.blog/2019/03/18/micro-benchmarks/) - compare Google Benchmark / Catch2 / Hayai / Celero / Nonius
