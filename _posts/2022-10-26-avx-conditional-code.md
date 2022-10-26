@@ -6,6 +6,13 @@ tags: avx
 > If a vector component is already finished, freeze it to avoid doing any further calculations on it. This is done by masking the finished components on any value assignment. The unfinished vector components will keep being updated, but finished ones won't. - [Controlling the Data Flow](https://www.codingame.com/playgrounds/283/sse-avx-vectorization/controlling-the-data-flow)
 
 {% highlight cpp %}
+inline v8f slowFunction(int i){
+	usleep(2000); //Emulating an slow function
+	v8f slow(-2.0f,+3.0f,-4.0f,+5.0f,-6.0f,+7.0f,-8.0f,+9.0f);
+	slow += ((float)i)/40.0f;
+	return slow;
+}
+
 v8f result(0.0f);
 //Main loop to optimize	
 for (int i=0;i<2000;++i) {
