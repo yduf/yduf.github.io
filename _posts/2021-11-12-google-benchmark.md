@@ -7,8 +7,7 @@ tags: c++ lib fastware benchmarking
 
 Prefer [Nanobench]({% post_url 2021-11-13-tool-nanobench %}) 
 
-More complete than folly benchmark. Simpler to setup.
-
+More complete than folly benchmark. Simpler to setup.  
 - [Tuning C++: Benchmarks, and CPUs](https://youtu.be/nXaxk27zwlk?t=686)
 - [Microbenchmarking is hard](https://stackoverflow.com/a/50934895/51386)
 - [microbenchmark vs. production](https://groups.google.com/g/hashtable-benchmarks/c/2-cbY4cJfIc)
