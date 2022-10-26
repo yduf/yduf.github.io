@@ -21,3 +21,19 @@ int main() {
     });
 }
 {% endhighlight %}
+
+  
+Output
+{% highlight cpp %}
+Warning, results might be unstable:
+* CPU frequency scaling enabled: CPU 0 between 400.0 and 4,900.0 MHz
+* CPU governor is 'powersave' but should be 'performance'
+* Turbo is enabled, CPU frequency will fluctuate
+
+Recommendations
+* Use 'pyperf system tune' before benchmarking. See https://github.com/psf/pyperf
+
+|               ns/op |                op/s |    err% |     total | benchmark
+|--------------------:|--------------------:|--------:|----------:|:----------
+|               18.97 |       52,724,029.52 |    1.2% |      0.01 | `compare_exchange_strong`
+{% endhighlight %}
