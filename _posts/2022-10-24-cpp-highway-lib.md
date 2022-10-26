@@ -14,6 +14,16 @@ Online demos using Compiler Explorer:
 
 To vectorize a loop, "strip-mining" transforms it into an outer loop and inner loop with number of iterations matching the preferred vector width.
 
+There are several way to do it
+
+**Ensure all inputs/outputs are padded. Then the loop is simply**
+{% highlight cpp %}
+N = Lanes(d);	// number of lane for give vector type ( d = ScalableTag<T>)
+for (size_t i = 0; i < count; i += N) {
+...
+}
+{% endhighlight %}
+
 ### [API synopsis / quick reference](https://github.com/google/highway/blob/master/g3doc/quick_reference.md)
 
 ### [FAQ](https://github.com/google/highway/blob/master/g3doc/faq.md)
@@ -21,4 +31,4 @@ To vectorize a loop, "strip-mining" transforms it into an outer loop and inner l
 ## see also
 - [Entrywise addition of two double arrays using AVX](https://stackoverflow.com/a/27204877/51386) - code comparison of AVX 512 / AVX / SSE2 loop
 - [How to use if condition in intrinsics](https://stackoverflow.com/questions/38006616/how-to-use-if-condition-in-intrinsics)
-- [Controlling the Data Flow (codingame)](https://www.codingame.com/playgrounds/283/sse-avx-vectorization/controlling-the-data-flow) / [some other reference](https://www.codingame.com/playgrounds/283/sse-avx-vectorization/final-words)
+- [Controlling the Data Flow (codingame)](https://www.codingame.com/playgrounds/283/sse-avx-vectorization/controlling-the-data-flow) / [some other reference](https://www.codingame.com/playgrounds/283/sse-avx-vectorization/final-words) - v8f - AVX x8 float. 32-bit x 8=256bits
