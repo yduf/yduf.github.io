@@ -5,7 +5,7 @@ tags: benchmarking c++ single-header
 ---
 > a platform independent microbenchmarking library for C++11/14/17/20. - [nanobench comparison](https://nanobench.ankerl.com/comparison.html) / [r/cpp](https://www.reddit.com/r/cpp/comments/dgy9yc/ankerlnanobench_simple_fast_accurate_singleheader/) / [2](https://www.reddit.com/r/cpp/comments/nwjmct/suggestions_for_c_microbenchmarking_libraries/)
 
-Single header code, easier to integrate and faster than google benchmark.
+Single header code, easier to integrate and faster than [google benchmark]({% post_url 2021-11-12-google-benchmark %}).
 
 
 - [pyperf](https://pyperf.readthedocs.io/en/latest/system.html) - Tune the system for benchmarks
