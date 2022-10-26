@@ -21,3 +21,4 @@ To vectorize a loop, "strip-mining" transforms it into an outer loop and inner l
 ## see also
 - [Entrywise addition of two double arrays using AVX](https://stackoverflow.com/a/27204877/51386) - code comparison of AVX 512 / AVX / SSE2 loop
 - [How to use if condition in intrinsics](https://stackoverflow.com/questions/38006616/how-to-use-if-condition-in-intrinsics)
+- [Controlling the Data Flow](https://www.codingame.com/playgrounds/283/sse-avx-vectorization/controlling-the-data-flow)
