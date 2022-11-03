@@ -3,7 +3,9 @@ published: true
 title: iMac
 tags: linux-system hardware
 ---
-> 
+> [iMac 12 2](https://support.apple.com/kb/SP667?locale=en_US)
+
+![caption](https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP667/sp667_imac_27inch_late2012_display.jpg)
 
 ## [Mac startup key combinations](https://support.apple.com/en-us/HT201255)
 
