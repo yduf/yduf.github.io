@@ -33,3 +33,6 @@ Key combinations for an Intel-based Mac
 **Command-V**: Start up in verbose mode. 
 
 **Eject (⏏) or F12 or mouse button or trackpad button**: Eject removable media, such as an optical disc.
+
+
+## [Install Linux](https://apple.stackexchange.com/questions/53512/how-do-i-install-linux-on-an-intel-imac-with-no-os-nor-cd-drive/53514#53514)
