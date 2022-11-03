@@ -9,6 +9,9 @@ tags: linux-system hardware
 
 Key combinations for an Intel-based Mac
 
+[When using a Windows keyboard on a Mac](https://edu.gcfglobal.org/en/macosbasics/using-a-windows-keyboard-with-a-mac/1/), the Windows key is used instead of the Command key, and the Alt key is used in place of the Option key.
+
+
 **Command (⌘)-R**: Start up from the built-in macOS Recovery system. Or use Option-Command-R or Shift-Option-Command-R to start up from macOS Recovery over the internet. macOS Recovery installs different versions of macOS, depending on the key combination you use. 
 
 **Option (⌥) or Alt**: Start up to Startup Manager, which allows you to choose other available startup disks or volumes. 
