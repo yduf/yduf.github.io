@@ -3,7 +3,7 @@ published: true
 title: iMac
 tags: linux-system hardware
 ---
-> [iMac 12 2](https://support.apple.com/kb/SP667?locale=en_US)
+> quad-core Intel Core i5 processor - [iMac 12 2](https://support.apple.com/kb/SP667?locale=en_US)
 
 ![caption](https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP667/sp667_imac_27inch_late2012_display.jpg)
 
