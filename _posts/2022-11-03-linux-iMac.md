@@ -36,3 +36,9 @@ Key combinations for an Intel-based Mac
 
 
 ## [Install Linux](https://apple.stackexchange.com/questions/53512/how-do-i-install-linux-on-an-intel-imac-with-no-os-nor-cd-drive/53514#53514)
+
+- [Guide to Installing Linux on a Mac](https://linuxhint.com/install_linux_on_mac/)
+
+## Hardware modification
+
+- [accessing hard drive](https://player.vimeo.com/video/139363128)
