@@ -39,6 +39,10 @@ Key combinations for an Intel-based Mac
 
 - [Guide to Installing Linux on a Mac](https://linuxhint.com/install_linux_on_mac/)
 
+## Mac specific
+
+### [mbpfan](https://github.com/linux-on-mac/mbpfan) - A simple daemon to control fan speed
+
 ## Hardware modification
 
 - [accessing hard drive](https://player.vimeo.com/video/139363128)
