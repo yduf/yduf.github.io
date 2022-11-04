@@ -43,6 +43,21 @@ Key combinations for an Intel-based Mac
 
 ### [mbpfan](https://github.com/linux-on-mac/mbpfan) - A simple daemon to control fan speed
 
+### [Brightness](https://iridakos.com/programming/2018/06/24/debian-imac-backlight-keyboard)
+
+Some twiking is needed from the default setup.
+
+{% highlight bash %}
+# edit /etc/default/grub
+# add acpi_backlight=vendor to GRUB_CMDLINE_LINUX_DEFAULT
+GRUB_CMDLINE_LINUX_DEFAULT="quiet acpi_backlight=vendor"
+{% endhighlight %}
+
+{% highlight bash %}
+$ sudo update-grub	# and then reboot
+{% endhighlight %}
+
+
 ## Hardware modification
 
 - [accessing hard drive](https://player.vimeo.com/video/139363128)
