@@ -45,7 +45,7 @@ Key combinations for an Intel-based Mac
 
 ### [Brightness](https://iridakos.com/programming/2018/06/24/debian-imac-backlight-keyboard)
 
-Some twiking is needed from the default setup.
+Some twiking is needed from the default setup to make it work on that particular model.
 
 {% highlight bash %}
 # edit /etc/default/grub
