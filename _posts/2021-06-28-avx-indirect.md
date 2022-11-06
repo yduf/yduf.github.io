@@ -17,3 +17,7 @@ tags: avx array lookup
 - [Gathering half-float values using AVX](https://stackoverflow.com/questions/62416595/gathering-half-float-values-using-avx)
 
 ###  [_mm256_i32gather_ps](https://www.intel.com/content/www/us/en/develop/documentation/cpp-compiler-developer-guide-and-reference/top/compiler-reference/intrinsics/intrinsics-for-avx2/intrinsics-for-gather-operations/mm-i32gather-ps-mm256-i32gather-ps.html)
+
+{% highlight cpp %}
+extern __m256 _mm256_mask_i32gather_ps(float const * base, __m256i vindex, const int scale);
+{% endhighlight %}
