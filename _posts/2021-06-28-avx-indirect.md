@@ -13,3 +13,5 @@ tags: avx array lookup
 - [How are the gather instructions in AVX2 implemented?](https://stackoverflow.com/questions/21774454/how-are-the-gather-instructions-in-avx2-implemented) - From the table it's clear that in all cases gather loads are faster than scalar loads
 
 - [Packing and de-interleaving two __m256 registers](https://stackoverflow.com/questions/42497985/packing-and-de-interleaving-two-m256-registers)
+
+- [Gathering half-float values using AVX](https://stackoverflow.com/questions/62416595/gathering-half-float-values-using-avx)
