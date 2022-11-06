@@ -21,3 +21,10 @@ tags: avx array lookup
 {% highlight cpp %}
 extern __m256 _mm256_mask_i32gather_ps(float const * base, __m256i vindex, const int scale);
 {% endhighlight %}
+
+## [investigating the AVX2 memory gather instruction](https://johnysswlab.com/when-vectorization-hits-the-memory-wall-investigating-the-avx2-memory-gather-instruction/)
+
+For very small array sizes the vector version is a bit faster, but not significantly. After about the size of 512K, the scalar version becomes faster, and this difference in speed is maintained most of the time.
+
+
+
