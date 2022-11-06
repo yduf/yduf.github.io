@@ -15,3 +15,5 @@ tags: avx array lookup
 - [Packing and de-interleaving two __m256 registers](https://stackoverflow.com/questions/42497985/packing-and-de-interleaving-two-m256-registers)
 
 - [Gathering half-float values using AVX](https://stackoverflow.com/questions/62416595/gathering-half-float-values-using-avx)
+
+###  [_mm256_i32gather_ps](https://www.intel.com/content/www/us/en/develop/documentation/cpp-compiler-developer-guide-and-reference/top/compiler-reference/intrinsics/intrinsics-for-avx2/intrinsics-for-gather-operations/mm-i32gather-ps-mm256-i32gather-ps.html)
