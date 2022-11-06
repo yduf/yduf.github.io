@@ -5,6 +5,7 @@ tags: org lab ikea
 ---
 > [Your Ultimate Modular Workshop](https://www.youtube.com/watch?v=ra_9zU-mnl8) / [r/gridfinity/](https://www.reddit.com/r/gridfinity/)
 
+- [gridfinity-rebuilt-openscad](https://github.com/kennetek/gridfinity-rebuilt-openscad) - openscad customized way of defining box
 - [gridfinity-catalog](https://github.com/jeffbarr/gridfinity-catalog)
 - [Basic Gridfinity Baseplates ](https://www.printables.com/model/170956-basic-gridfinity-baseplates-cadquery-customizable)
 - [Organising my Workshop using 3D Printing](https://www.youtube.com/watch?v=OsLc76k4KeM)
