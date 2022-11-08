@@ -20,6 +20,11 @@ tags: avx array lookup
 
 For very small array sizes the vector version is a bit faster, but not significantly. After about the size of 512K, the scalar version becomes faster, and this difference in speed is maintained most of the time.
 
+### [Load address calculation when using AVX2 gather instructions](https://stackoverflow.com/questions/16193434/load-address-calculation-when-using-avx2-gather-instructions?noredirect=1&lq=1)
+
+**Gather instructions use byte addressing and do not have any alignment requirements.**
+
+
 ### [_mm256_i32gather_ps](https://www.intel.com/content/www/us/en/develop/documentation/cpp-compiler-developer-guide-and-reference/top/compiler-reference/intrinsics/intrinsics-for-avx2/intrinsics-for-gather-operations/mm-i32gather-ps-mm256-i32gather-ps.html)
 
 {% highlight cpp %}
