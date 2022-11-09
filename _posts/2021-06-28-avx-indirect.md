@@ -24,6 +24,12 @@ For very small array sizes the vector version is a bit faster, but not significa
 
 **Gather instructions use byte addressing and do not have any alignment requirements.**
 
+{% highlight cpp %}
+load_addr = (char *)base + index[i] * scale;       // byte addressing
+{% endhighlight %}
+
+
+
 
 ### [_mm256_i32gather_ps](https://www.intel.com/content/www/us/en/develop/documentation/cpp-compiler-developer-guide-and-reference/top/compiler-reference/intrinsics/intrinsics-for-avx2/intrinsics-for-gather-operations/mm-i32gather-ps-mm256-i32gather-ps.html)
 
