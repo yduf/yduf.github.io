@@ -74,6 +74,9 @@ Head tags
     - `<input type="reset">` reset form
     
 ## CSS - **C**ascading **S**tyle **S**heet
+- [Is There Too Much CSS Now? ](https://css-tricks.com/is-there-too-much-css-now/) / [HN](https://news.ycombinator.com/item?id=33507817)
+- [A Complete Guide to Grid ](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
 
 CSS 3 - introduced transition / animation
 
