@@ -15,6 +15,9 @@ published: false
 
 - [Making Flower Pots and Planters using 3D Printing](https://www.youtube.com/watch?v=q8P_RM9veSE)
 
+## Produit
+- [Plâtre Jesmonite ](https://www.prodemmia.fr/catalogue/platre-jesmonite)
+
 - [Pack Jesmonite AC100 - 1 kg de liquide + 2,5 kg de poudre](https://la-petite-epicerie.fr/fr/matiere-premiere/28214-pack-jesmonite-ac100-35-kg-2563655890924.html)
 
 [![caption](https://img.youtube.com/vi/GGpN61XvLtU/0.jpg)](https://www.youtube.com/watch?v=GGpN61XvLtU)
