@@ -7,3 +7,5 @@ published: false
 - [Macetas de terrazo, tutorial completo paso a paso](https://www.youtube.com/watch?v=eD8TXtzpAys)
 	- [Qué es el terrazo](https://www.youtube.com/watch?v=454kI5uO1UA)
 	- [Making a Terrazo Dish using Acrylic Resin (Jesmonite Alternative)](https://www.youtube.com/watch?v=grQ8vcLFbb4) 
+
+[![caption](https://img.youtube.com/vi/GGpN61XvLtU/0.jpg)](https://www.youtube.com/watch?v=GGpN61XvLtU)
