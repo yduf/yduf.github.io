@@ -6,6 +6,7 @@ tags: linux-system desktop application quote
 > one of the best alternatives to Microsoft Windows and Apple MacOS. - [Linux Mint](https://linuxmint.com/about.php) /  [Cool desktops don’t change](https://news.ycombinator.com/item?id=31769604) 
 
 - [Linux Mint Releases](https://www.linuxmint.com/download_all.php) - and ubuntu correspondance
+	- mint 21 <-> ubuntu Jammy 22.04 LTS
 - [Wayland?](https://forums.linuxmint.com/viewtopic.php?t=361316)
 
 ### Cinnamon Add shortcut to panel
