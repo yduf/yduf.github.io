@@ -11,7 +11,8 @@ There is a physical [knowledge graph in your head](https://gallantlab.org/huth20
 
 [![caption](https://1.bp.blogspot.com/-k5brI6NLyaY/WK0d_ZR0WNI/AAAAAAAAA_E/m5ZnXWI2pE4Ud8aVHUgGIo_Q1ac-0f8dQCLcB/s320/cppmap3.0%2B%2528screen%2B8bit%2B96dpi%2529.png) ](https://fearlesscoder.blogspot.com/2017/02/the-c17-lands.html)
 
-> the biggest challenge is visualizing the big picture. - [HN](https://news.ycombinator.com/item?id=33708722)
+> the biggest challenge is visualizing the big picture.   
+> Auto-generated documents focus on the file/class/line level details, but they don't tell you the overall architecture, how components work with each other, the lifetime of components. - [HN](https://news.ycombinator.com/item?id=33708722)
 
 ## [Tools for visualizing a codebase](https://lmy.medium.com/7-tools-for-visualizing-a-codebase-41b7cddb1a14)
 
