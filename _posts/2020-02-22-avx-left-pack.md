@@ -31,7 +31,3 @@ inline int compact(int *x, int *y, const int n) {
 - [Efficient sse shuffle mask generation for left-packing byte elements](https://stackoverflow.com/questions/45506309/efficient-sse-shuffle-mask-generation-for-left-packing-byte-elements)
 
 - [Fastest way to unpack 32 bits to a 32 byte SIMD vector](https://stackoverflow.com/questions/24225786/fastest-way-to-unpack-32-bits-to-a-32-byte-simd-vector?noredirect=1&lq=1)
-
-
-## see also
-- [How to create a byte out of 8 bool values (and vice versa)?](https://stackoverflow.com/questions/8461126/how-to-create-a-byte-out-of-8-bool-values-and-vice-versa/51750902#51750902)
