@@ -10,3 +10,5 @@ tags: c++ avx
 {% highlight cpp %}
 __m256i _mm256_cvtepu8_epi16 (__m128i a)   // vpmovzxbw ymm, xmm (avx2)
 {% endhighlight %}
+
+- [What are the best instruction sequences to generate vector constants on the fly?](https://stackoverflow.com/questions/35085059/what-are-the-best-instruction-sequences-to-generate-vector-constants-on-the-fly)
