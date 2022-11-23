@@ -10,7 +10,7 @@ see also:
 - [Fastest way to unpack 32 bits to a 32 byte vector](https://stackoverflow.com/questions/24225786/fastest-way-to-unpack-32-bits-to-a-32-byte-simd-vector?noredirect=1&lq=1)
 - [Optimal uint8_t bitmap into a 8 x 32bit SIMD “bool” vector](https://stackoverflow.com/questions/28683926/optimal-uint8-t-bitmap-into-a-8-x-32bit-simd-bool-vector?noredirect=1&lq=1)
 - [Unpacking a bitfield (Inverse of movmskb)](https://stackoverflow.com/questions/35589189/unpacking-a-bitfield-inverse-of-movmskb?noredirect=1&lq=1)
-
+- [How to create a byte out of 8 bool values (and vice versa)?](https://stackoverflow.com/questions/8461126/how-to-create-a-byte-out-of-8-bool-values-and-vice-versa/51750902#51750902)
 
 ## [Morton Codes](http://asgerhoedt.dk/?p=276)
 Provides an ordering along a space-filling curve while preserving data locality. - Constructing Acceleration Datastructures (raytracing).
