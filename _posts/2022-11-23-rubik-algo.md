@@ -17,3 +17,4 @@ R U2 R2 U' R2 U' R2 U2 R
 
 l' U' R D' R' U R D
 
+### [fastests U perm](https://www.youtube.com/watch?v=1u8BptRSXaw&list=PLh9akXp2EH2D1MBpl8gb0w2WM0eiailpB&index=4)
