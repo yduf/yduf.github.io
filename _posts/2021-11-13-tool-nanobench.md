@@ -8,7 +8,15 @@ tags: benchmarking c++ single-header
 Single header code, easier to integrate and faster than [google benchmark]({% post_url 2021-11-12-google-benchmark %}).
 
 
-- [pyperf](https://pyperf.readthedocs.io/en/latest/system.html) - Tune the system for benchmarks
+### [pyperf](https://pyperf.readthedocs.io/en/latest/system.html)
+
+Tune the system for benchmarks
+
+{% highlight bash %}
+python3 -m pip install pyperf
+{% endhighlight %}
+
+### nanobench
 
 {% highlight cpp %}
 #define ANKERL_NANOBENCH_IMPLEMENT
