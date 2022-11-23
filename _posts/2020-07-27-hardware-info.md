@@ -23,6 +23,9 @@ Audio:     Device-1: Intel Sunrise Point-LP HD Audio driver: snd_hda_intel
 {% endhighlight %}
 
 ## [usb device]({% post_url 2021-02-13-lsusb %})
+
+- [USB Cheat Sheet](https://fabiensanglard.net/usbcheat/index.html)
+
 {% highlight bash %}
 hwinfo --usb
 {% endhighlight %}
