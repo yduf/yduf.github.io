@@ -15,3 +15,5 @@ R U2 R' U' R U' R'
 R U2 R' U' R U R' U' R U' R'  
 R U2 R2 U' R2 U' R2 U2 R
 
+l' U' R D' R' U R D
+
