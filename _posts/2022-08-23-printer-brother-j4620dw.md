@@ -16,6 +16,8 @@ tags: hardware printer
     - [Bypass Brother printers’ colour cartridge requirement for black and white printing](https://www.theblog.ca/brother-printer-colour-requirement)
 - [Print using only the black ink cartridge when the Color cartridges have run out.](https://support.brother.com/g/b/faqend.aspx?c=as_ot&lang=en&prod=dcpj315w_eu_as&faqid=faq00002461_001)
 
+- [How to clean Brother DCP and MFC print head nozzles](https://www.youtube.com/watch?v=gQZ3ex0bwwc)
+
 ### Doc
 
 - [spec](https://support.brother.com/g/b/spec.aspx?c=fr&lang=fr&prod=mfcj4620dw_us_eu_as)
