@@ -1,7 +1,7 @@
 ---
 title: Cool Retro Terminal
 published: true
-tags: retro term
+tags: retro term crt
 ---
 > A terminal emulator which mimics the look and feel of the old cathode tube screens. It has been designed to be eye-candy, customizable, and reasonably lightweight. - [Cool-retro-term](https://github.com/Swordfish90/cool-retro-term)
 
