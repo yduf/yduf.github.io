@@ -9,13 +9,13 @@ tags: rubik
 
 ### [Les OLL](https://www.youtube.com/watch?v=mqvxojuUFy4&list=PLh9akXp2EH2D1MBpl8gb0w2WM0eiailpB&index=8)
 
-R U R' U R U2 R'  
+[R U R' U R U2 R'](https://youtu.be/mqvxojuUFy4?t=121)  
 R U2 R' U' R U' R'
 
-R U2 R' U' R U R' U' R U' R'  
+[R U2 R' U' R U R' U' R U' R'](https://youtu.be/mqvxojuUFy4?t=181)  
 R U2 R2 U' R2 U' R2 U2 R
 
-l' U' R D' R' U R D
+[l' U' R D' R' U R D](https://youtu.be/mqvxojuUFy4?t=265)
 
 ### [fastests U perm](https://www.youtube.com/watch?v=1u8BptRSXaw&list=PLh9akXp2EH2D1MBpl8gb0w2WM0eiailpB&index=4)
 
