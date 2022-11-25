@@ -9,7 +9,8 @@ tags: rubik
 
 # [Method Fridrich](https://www.youtube.com/watch?v=keuarQZmDAA) - review
 
-> Prioriser les PLL (21) sur les OLL (57)
+> Prioriser l'apprentisage des  PLL (21) sur les OLL (57).  
+> Commens par les OLL 2 look (construction de la croix jaune)
 
 ## [La croix](https://www.youtube.com/watch?v=IraFkPozVM0)
 
@@ -29,6 +30,8 @@ Obtenir la croix jaune
 - [F R U R' U' F'](https://youtu.be/FZJq-VK5Ngo?t=165) - trait ou point
 - [F U R U' R' F'](https://youtu.be/FZJq-VK5Ngo?t=193) - virgule
 	- R' U' F' U F R
+    
+Completer avec les OLL adaptés
 
 ## [Les OLL](https://www.youtube.com/watch?v=mqvxojuUFy4&list=PLh9akXp2EH2D1MBpl8gb0w2WM0eiailpB&index=8) - #57
 
