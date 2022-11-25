@@ -23,4 +23,6 @@ R U2 R2 U' R2 U' R2 U2 R
 
 R2 U' S' U2 S U' R2 - [fastests U perm](https://www.youtube.com/watch?v=1u8BptRSXaw&list=PLh9akXp2EH2D1MBpl8gb0w2WM0eiailpB&index=4)  
 
+[R U R' F' R U R' U' R' F R2 U' R' U' ](https://youtu.be/w7WCC615cEs?t=547) - PLL J & J'
+R' U L' U2 R U' R' U2 L R U'
 
