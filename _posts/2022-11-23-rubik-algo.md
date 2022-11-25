@@ -7,7 +7,13 @@ tags: rubik
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">あの伝説のルービックキューブをさらにわかりやすくしました <a href="https://t.co/5RkvwPOkGN">pic.twitter.com/5RkvwPOkGN</a></p>&mdash; じゃがりきん (@jagarikin) <a href="https://twitter.com/jagarikin/status/1593771091738374144?ref_src=twsrc%5Etfw">November 19, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+# Fridrich
+
+## [La croix](https://www.youtube.com/watch?v=IraFkPozVM0)
+
 ## [Les F2L](https://www.youtube.com/watch?v=QnWZeEDAtVM&t=0s)
+
+### [Les F2L intuitifs](https://www.youtube.com/watch?v=FKLyQvc4QrM)
 
 ## [Les OLL](https://www.youtube.com/watch?v=mqvxojuUFy4&list=PLh9akXp2EH2D1MBpl8gb0w2WM0eiailpB&index=8) - #52
 
