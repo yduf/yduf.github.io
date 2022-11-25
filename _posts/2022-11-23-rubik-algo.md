@@ -23,6 +23,11 @@ tags: rubik
 - [r U' R' U R U r'](https://www.youtube.com/watch?v=6lef76z55F4&list=PLh9akXp2EH2D1MBpl8gb0w2WM0eiailpB&index=5)
 
 
+## [les OLL et PLL 2 look !](https://www.youtube.com/watch?v=FZJq-VK5Ngo)
+
+Obtenir la croix jaune
+- [F R U R' U' F'](https://youtu.be/FZJq-VK5Ngo?t=165) - trait ou point
+- [F U R U' R' U'](https://youtu.be/FZJq-VK5Ngo?t=193) - virgule
 
 ## [Les OLL](https://www.youtube.com/watch?v=mqvxojuUFy4&list=PLh9akXp2EH2D1MBpl8gb0w2WM0eiailpB&index=8) - #57
 
