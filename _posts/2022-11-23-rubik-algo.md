@@ -7,7 +7,7 @@ tags: rubik
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">あの伝説のルービックキューブをさらにわかりやすくしました <a href="https://t.co/5RkvwPOkGN">pic.twitter.com/5RkvwPOkGN</a></p>&mdash; じゃがりきん (@jagarikin) <a href="https://twitter.com/jagarikin/status/1593771091738374144?ref_src=twsrc%5Etfw">November 19, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-# [Fridrich](https://www.youtube.com/watch?v=keuarQZmDAA)
+# [Method Fridrich](https://www.youtube.com/watch?v=keuarQZmDAA) - review
 
 > Prioriser les PLL (21) sur les OLL (57)
 
@@ -44,4 +44,11 @@ R2 U' S' U2 S U' R2 - [fastests U perm](https://www.youtube.com/watch?v=1u8BptRS
 
 [R U R' F' R U R' U' R' F R2 U' R' U' ](https://youtu.be/w7WCC615cEs?t=547) - PLL J & J'
 R' U L' U2 R U' R' U2 L R U'
+
+# Advanced (sub 10s)
+## [Les COLL](https://youtu.be/keuarQZmDAA?t=1022) 
+- XCROSS
+- WINTER VARIATION 
+- ZBLL (493)
+- 1LLL (3000)
 
