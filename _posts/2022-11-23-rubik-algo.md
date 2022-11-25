@@ -12,6 +12,7 @@ tags: rubik
 ## [La croix](https://www.youtube.com/watch?v=IraFkPozVM0)
 
 ## [Les F2L](https://www.youtube.com/watch?v=QnWZeEDAtVM&t=0s)
+- U' [ R U R' ](https://youtu.be/QnWZeEDAtVM?t=215)  
 
 - [r U' R' U R U r'](https://www.youtube.com/watch?v=6lef76z55F4&list=PLh9akXp2EH2D1MBpl8gb0w2WM0eiailpB&index=5)
 
