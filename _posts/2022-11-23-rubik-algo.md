@@ -32,6 +32,8 @@ R U2 R2 U' R2 U' R2 U2 R
 
 [l' U' R D' R' U R D](https://youtu.be/mqvxojuUFy4?t=265)
 
+[R2 D R' U2 R D' R' U2 R'](https://youtu.be/FZJq-VK5Ngo?t=610)
+
 ## [Les PLL](https://www.youtube.com/watch?v=w7WCC615cEs) - #21
 
 [M2 U' M2 U2 M2 U' M2](https://youtu.be/w7WCC615cEs?t=116) - PLL H
