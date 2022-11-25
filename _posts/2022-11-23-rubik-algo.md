@@ -13,6 +13,8 @@ tags: rubik
 
 ## [Les F2L](https://www.youtube.com/watch?v=QnWZeEDAtVM&t=0s)
 
+- [r U' R' U R U r'](https://www.youtube.com/watch?v=6lef76z55F4&list=PLh9akXp2EH2D1MBpl8gb0w2WM0eiailpB&index=5)
+
 ### [Les F2L intuitifs](https://www.youtube.com/watch?v=FKLyQvc4QrM)
 - [3 cas](https://youtu.be/FKLyQvc4QrM?t=322)
 
