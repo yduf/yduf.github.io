@@ -29,6 +29,8 @@ tags: hardware printer
 - [Firmware History](https://support.brother.com/g/b/downloadend.aspx?c=fr&lang=fr&prod=mfcj4620dw_us_eu_as&os=10013&dlid=dlf004715_000&flang=11&type3=375)	
 	- [brother MFC printer, use compatible ink, bypass insert starter pack ink, downgrade firmware, change language](https://www.reddit.com/r/printers/comments/pp1314/brother_mfc_printer_use_compatible_ink_bypass/)
 
+- 15/09/2016 Main: R
+
 ### [Recommended replacement model (2022)](https://www.brother-usa.com/-/media/ask-the-pm/printer-scanner-fax-replacement-model-guide.pdf)
 
 - [MFC-J5340dw](https://www.brother-usa.com/products/mfcj5340dw) 
