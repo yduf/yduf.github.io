@@ -27,7 +27,8 @@ tags: rubik
 
 Obtenir la croix jaune
 - [F R U R' U' F'](https://youtu.be/FZJq-VK5Ngo?t=165) - trait ou point
-- [F U R U' R' U'](https://youtu.be/FZJq-VK5Ngo?t=193) - virgule
+- [F U R U' R' F'](https://youtu.be/FZJq-VK5Ngo?t=193) - virgule
+	- R' U' F' U F R
 
 ## [Les OLL](https://www.youtube.com/watch?v=mqvxojuUFy4&list=PLh9akXp2EH2D1MBpl8gb0w2WM0eiailpB&index=8) - #57
 
