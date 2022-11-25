@@ -25,7 +25,7 @@ tags: hardware printer
 ### Doc
 
 - [spec](https://support.brother.com/g/b/spec.aspx?c=fr&lang=fr&prod=mfcj4620dw_us_eu_as)
-
+- [Firmware History](https://support.brother.com/g/b/downloadend.aspx?c=fr&lang=fr&prod=mfcj4620dw_us_eu_as&os=10013&dlid=dlf004715_000&flang=11&type3=375)
 
 ### [Recommended replacement model (2022)](https://www.brother-usa.com/-/media/ask-the-pm/printer-scanner-fax-replacement-model-guide.pdf)
 
