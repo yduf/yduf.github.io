@@ -9,6 +9,8 @@ tags: rubik
 
 # Fridrich
 
+> Prioriser les PLL (21) sur les OLL (57)
+
 ## [La croix](https://www.youtube.com/watch?v=IraFkPozVM0)
 
 
@@ -22,7 +24,7 @@ tags: rubik
 
 
 
-## [Les OLL](https://www.youtube.com/watch?v=mqvxojuUFy4&list=PLh9akXp2EH2D1MBpl8gb0w2WM0eiailpB&index=8) - #52
+## [Les OLL](https://www.youtube.com/watch?v=mqvxojuUFy4&list=PLh9akXp2EH2D1MBpl8gb0w2WM0eiailpB&index=8) - #57
 
 [R U R' U R U2 R'](https://youtu.be/mqvxojuUFy4?t=121)  
 R U2 R' U' R U' R'
@@ -30,9 +32,9 @@ R U2 R' U' R U' R'
 [R U2 R' U' R U R' U' R U' R'](https://youtu.be/mqvxojuUFy4?t=181)  
 R U2 R2 U' R2 U' R2 U2 R
 
+[R2 D R' U2 R D' R' U2 R'](https://youtu.be/FZJq-VK5Ngo?t=610)
 [l' U' R D' R' U R D](https://youtu.be/mqvxojuUFy4?t=265)
 
-[R2 D R' U2 R D' R' U2 R'](https://youtu.be/FZJq-VK5Ngo?t=610)
 
 ## [Les PLL](https://www.youtube.com/watch?v=w7WCC615cEs) - #21
 
