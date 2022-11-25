@@ -16,6 +16,7 @@ tags: hardware printer
 
 - [Brother printer won't print black](https://www.inkhub.com.au/ink/brother-printer-wont-print-black)
 	- [How to clean Brother DCP and MFC print head nozzles](https://www.youtube.com/watch?v=gQZ3ex0bwwc)
+    	- [moving head](https://www.youtube.com/watch?v=V-YwGVcEqTc)
 	- [How to manually clean ink nozzles on a Brother Printer - Fix blank or faint pages](https://www.youtube.com/watch?v=OJPhSb2mrqg&list=PLKBTzxCdZKlww8MPmVerFh8MvwKsN3VVt&index=13)
 
 - [Brother Printer Cannot Detect Ink](https://www.inkhub.com.au/ink/brother-printer-cannot-detect-ink)
