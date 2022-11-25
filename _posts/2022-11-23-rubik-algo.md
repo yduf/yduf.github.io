@@ -14,6 +14,8 @@ tags: rubik
 ## [Les F2L](https://www.youtube.com/watch?v=QnWZeEDAtVM&t=0s)
 
 ### [Les F2L intuitifs](https://www.youtube.com/watch?v=FKLyQvc4QrM)
+- [3 cas](https://youtu.be/FKLyQvc4QrM?t=322)
+
 
 ## [Les OLL](https://www.youtube.com/watch?v=mqvxojuUFy4&list=PLh9akXp2EH2D1MBpl8gb0w2WM0eiailpB&index=8) - #52
 
