@@ -18,6 +18,7 @@ tags: hardware printer
 - [Brother Printer Cannot Detect Ink](https://www.inkhub.com.au/ink/brother-printer-cannot-detect-ink)
 	- simply remove ALL cartridges and one by one install them again.
     - [Bypass Brother printers’ colour cartridge requirement for black and white printing](https://www.theblog.ca/brother-printer-colour-requirement)
+    	- [enter maintenance mode *2864 > 63 > mono start > 3 > 99](https://www.reddit.com/r/printers/comments/pp1314/brother_mfc_printer_use_compatible_ink_bypass/)
 - [Print using only the black ink cartridge when the Color cartridges have run out.](https://support.brother.com/g/b/faqend.aspx?c=as_ot&lang=en&prod=dcpj315w_eu_as&faqid=faq00002461_001)
 
 - [How to clean Brother DCP and MFC print head nozzles](https://www.youtube.com/watch?v=gQZ3ex0bwwc)
