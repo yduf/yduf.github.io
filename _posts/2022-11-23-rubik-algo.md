@@ -41,7 +41,7 @@ R U2 R' U' R U' R'
 [R U2 R' U' R U R' U' R U' R'](https://youtu.be/mqvxojuUFy4?t=181)  
 R U2 R2 U' R2 U' R2 U2 R
 
-[R2 D R' U2 R D' R' U2 R'](https://youtu.be/FZJq-VK5Ngo?t=610)  
+[R2 D R' U2 R D' R' U2 R'](https://youtu.be/FZJq-VK5Ngo?t=610) - 2 up
 [l' U' R D' R' U R D](https://youtu.be/mqvxojuUFy4?t=265)
 
 
