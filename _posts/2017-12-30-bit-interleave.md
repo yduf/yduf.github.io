@@ -63,3 +63,7 @@ They are accessible in [c++](https://cpp.hotexamples.com/examples/-/-/_pext_u64/
 _pext_u64(__X, __Y);
 _pdep_u64(__X, __Y);
 {% endhighlight %}
+
+see also:
+- [Convert 16 bits mask to 16 bytes mask](https://stackoverflow.com/questions/67201469/convert-16-bits-mask-to-16-bytes-mask)
+- [Fastest way to unpack 32 bits to a 32 byte SIMD vector](https://stackoverflow.com/questions/24225786/fastest-way-to-unpack-32-bits-to-a-32-byte-simd-vector?noredirect=1&lq=1)
