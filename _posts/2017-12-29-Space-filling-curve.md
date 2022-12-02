@@ -18,3 +18,6 @@ More detailed explaination on narrowing range search:
 - [LitMax and BigMin computation](http://docs.raima.com/rdme/9_1/Content/GS/POIexample.htm#zdivide)
 
 ![caption](https://i.stack.imgur.com/Lqa16.png)
+
+see also:
+- [	Experiment with Penrose Tilings and other patterns](https://news.ycombinator.com/item?id=33818693)
