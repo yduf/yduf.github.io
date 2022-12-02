@@ -47,9 +47,9 @@ from [Decoding Morton Codes](https://fgiesen.wordpress.com/2009/12/13/decoding-m
 
 ## [Parallel bit _deposit_ and _extract_](https://en.wikipedia.org/wiki/X86_Bit_manipulation_instruction_set#Parallel_bit_deposit_and_extract)
 
-The PDEP and PEXT instructions are new generalized bit-level compress and expand instructions.
+The _PDEP_ and _PEXT_ instructions are new generalized bit-level compress and expand instructions.
 
-This can be used to extract any bitfield of the input, and even do a lot of bit-level shuffling that previously would have been expensive. While what these instructions do is similar to bit level [gather-scatter](https://en.wikipedia.org/wiki/Gather-scatter_(vector_addressing)) SIMD instructions, PDEP and PEXT instructions operate on general-purpose registers.
+This can be used to extract any bitfield of the input, and even do a lot of bit-level shuffling that previously would have been expensive. While what these instructions do is similar to bit level [gather-scatter](https://en.wikipedia.org/wiki/Gather-scatter_(vector_addressing)) SIMD instructions, _PDEP_ and _PEXT_ instructions operate on general-purpose registers.
 
 | Instruction |	Selector mask |	Source |	Destination |
 | PEXT | 	0xff00fff0 | 	0x12345678 | 	0x00012567 |
