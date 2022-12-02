@@ -20,4 +20,4 @@ More detailed explaination on narrowing range search:
 ![caption](https://i.stack.imgur.com/Lqa16.png)
 
 see also:
-- [	Experiment with Penrose Tilings and other patterns](https://news.ycombinator.com/item?id=33818693)
+- [	Experiment with Penrose Tilings and other patterns](https://news.ycombinator.com/item?id=33818693) / [Pattern Collider](https://github.com/aatishb/patterncollider#readme)
