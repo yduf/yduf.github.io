@@ -11,3 +11,4 @@ tags: wii emulator
 
 see also
 - [yuzu-emu.org/](https://yuzu-emu.org/)
+- [3 Best Nintendo Wii Emulators Of 2022](https://retrododo.com/best-nintendo-wii-emulators/)
