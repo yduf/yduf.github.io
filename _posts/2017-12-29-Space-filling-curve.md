@@ -3,7 +3,7 @@ title: Space filling curve
 published: true
 tags: math  3blue1brown range search space curve morton-code penrose
 ---
-[Peano curve (1890)](https://en.wikipedia.org/wiki/Peano_curve) the first example of a space-filling curve to be discovered.
+> [Peano curve (1890)](https://en.wikipedia.org/wiki/Peano_curve) the first example of a space-filling curve to be discovered.
 
 [Hilbert curve (1891)](https://en.wikipedia.org/wiki/Hilbert_curve) gives a mapping between 1D and 2D space that fairly well preserves locality.[3] If (x,y) are the coordinates of a point within the unit square, and d is the distance along the curve when it reaches that point, then points that have nearby d values will also have nearby (x,y) values. The converse can't always be true. There will sometimes be points where the (x,y) coordinates are close but their d values are far apart.
 
