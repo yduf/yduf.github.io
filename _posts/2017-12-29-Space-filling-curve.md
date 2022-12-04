@@ -20,5 +20,5 @@ More detailed explaination on narrowing range search:
 ![caption](https://i.stack.imgur.com/Lqa16.png)
 
 see also:
-- [Hilbert's Curve: Is infinite math useful?](https://www.youtube.com/watch?v=3s7h2MHQtxc)
+- [Hilbert's Curve: Is infinite math useful? (3blue1Brown)](https://www.youtube.com/watch?v=3s7h2MHQtxc)
 - [	Experiment with Penrose Tilings and other patterns](https://news.ycombinator.com/item?id=33818693) / [Pattern Collider](https://github.com/aatishb/patterncollider#readme)
