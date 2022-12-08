@@ -118,3 +118,6 @@ Multiplying by 0x01010101 has an interesting property if we name the four bytes 
 A, B, C, D → A+B+C+D, B+C+D, C+D, D
 
 Obviously the highest byte is what we are looking for. The right shift returns just it.
+  
+see also
+- [Generating Binary Permutations in Popcount Order](https://www.alexbowe.com/popcount-permutations/)
