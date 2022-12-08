@@ -5,6 +5,22 @@ tags: music hardware
 ---
 > V-Drums Module - [TD9](https://www.roland.com/global/products/td-9/)
 
+## [Version](https://www.sweetwater.com/sweetcare/articles/roland-td-9-viewing-current-version/)
+
+
+Use the following steps to view the current software version in the TD-9:
+
+1. Press SETUP.
+
+2. Press F3(UTIL).
+
+3. Press F1 (UTIL).
+
+4. Press F1 (INFO).
+
+The “APLI” version listed is the current version.
+
+
 - [TD-9 Version 2.0 Update Information ](https://rolandus.zendesk.com/hc/en-us/articles/201958339-TD-9-TD-9-Version-2-0-Update-Information) 
 	- [youtube w link](https://www.youtube.com/watch?v=jiWt3ZdmOe8) 
     	1. FAT32 usb / unrar / 
