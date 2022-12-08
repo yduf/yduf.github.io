@@ -8,3 +8,6 @@ tags: bits math chess
 - [Chess programming wiki](https://www.chessprogramming.org/Nibble)
 
 Can be usefull for LUT as well.
+
+see also
+- [AVX2 nibble decoding (SIMD horizontal scan)](https://encode.su/threads/3542-AVX2-nibble-decoding-(SIMD-horizontal-scan))
