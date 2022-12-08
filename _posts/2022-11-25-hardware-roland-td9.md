@@ -21,7 +21,7 @@ Use the following steps to view the current software version in the TD-9:
 The “APLI” version listed is the current version.
 
 
-- [TD-9 Version 2.0 Update Information ](https://rolandus.zendesk.com/hc/en-us/articles/201958339-TD-9-TD-9-Version-2-0-Update-Information) 
+### [TD-9 Version 2.0 Update Information ](https://rolandus.zendesk.com/hc/en-us/articles/201958339-TD-9-TD-9-Version-2-0-Update-Information) 
 	- [youtube w link](https://www.youtube.com/watch?v=jiWt3ZdmOe8) 
     	1. FAT32 usb / unrar / 
         2. (reboot) HOLD Setup + Mute + Power (last) 
