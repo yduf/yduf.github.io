@@ -5,6 +5,7 @@ tags: hardware printer
 ---
 > [Brother MFC-J4620DW troubleshooting](https://www.youtube.com/watch?v=tKy26kc9Yok&list=PLKBTzxCdZKlww8MPmVerFh8MvwKsN3VVt&index=5) - [brother](https://support.brother.com/g/b/producttop.aspx?c=fr&lang=fr&prod=mfcj4620dw_us_eu_as)
 
+### [Test Page](https://www.printatestpage.com/)
 
 ### Maintenance
 
