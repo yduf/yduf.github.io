@@ -5,7 +5,15 @@ tags: hardware printer
 ---
 > [Brother MFC-J4620DW troubleshooting](https://www.youtube.com/watch?v=tKy26kc9Yok&list=PLKBTzxCdZKlww8MPmVerFh8MvwKsN3VVt&index=5) - [brother](https://support.brother.com/g/b/producttop.aspx?c=fr&lang=fr&prod=mfcj4620dw_us_eu_as)
 
-### [Test Page](https://www.printatestpage.com/)
+## [Test Page](https://www.printatestpage.com/)
+
+### Hollow print
+
+When printing in color, colr is used to draw edge of drawing (in brown). If for
+whatever reason, there is no black or faint black, it would appears as software error, rendering only the contours of black shape.
+
+To clarify, from the pc driver, choose _Monochrome_ print, then only black will be used.
+And should not see anymore brown contours, but pale shape.
 
 ### Maintenance
 
