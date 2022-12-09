@@ -12,7 +12,7 @@ tags: hardware printer
 When printing in color, colr is used to draw edge of drawing (in brown). If for
 whatever reason, there is no black or faint black, it would appears as software error, rendering only the contours of black shape.
 
-To clarify, from the pc driver, choose _Monochrome_ print, then only black will be used.
+To clarify, from the pc driver, [choose _Monochrome_ print](https://support.brother.com/g/b/faqend.aspx?c=us&lang=en&prod=mfcl3750cdw_us_eu_as&faqid=faq00002617_001), then only black will be used.
 And should not see anymore brown contours, but pale shape.
 
 ### Maintenance
