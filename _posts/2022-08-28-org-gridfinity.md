@@ -3,7 +3,7 @@ published: true
 title: Gridfinity
 tags: org lab ikea
 ---
-> [Your Ultimate Modular Workshop](https://www.youtube.com/watch?v=ra_9zU-mnl8) / [r/gridfinity/](https://www.reddit.com/r/gridfinity/)
+> [Your Ultimate Modular Workshop](https://www.youtube.com/watch?v=ra_9zU-mnl8) / [r/gridfinity/](https://www.reddit.com/r/gridfinity/) / [wiki](https://gridfinity.xyz/)
 
 - [gridfinity-rebuilt-openscad](https://github.com/kennetek/gridfinity-rebuilt-openscad) - openscad customized way of defining box
 - [gridfinity-catalog](https://github.com/jeffbarr/gridfinity-catalog)
