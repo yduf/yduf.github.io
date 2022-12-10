@@ -1,6 +1,6 @@
 ---
 published: true
-title: StrackTrace
+title: StackTrace
 tags: c++ stacktrace
 ---
 > Base your stack tracing / "symbolization" on Boost stack_trace - [#146](https://github.com/doctest/doctest/issues/146)
