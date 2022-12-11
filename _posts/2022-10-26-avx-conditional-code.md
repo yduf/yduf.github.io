@@ -23,5 +23,6 @@ for (int i=0;i<2000;++i) {
 {% endhighlight %}
 
 ## see also
+- [ comparison for <=](https://stackoverflow.com/questions/37448544/avx2-integer-comparison-for-smaller-equal) - need to combine operation, since composition is not available 
 - [How to use if condition in intrinsics](https://stackoverflow.com/questions/38006616/how-to-use-if-condition-in-intrinsics)
 - [Conditional execution using masks](https://gain-performance.com/2017/05/14/umesimd-tutorial-8-conditional-execution-using-masks/)
