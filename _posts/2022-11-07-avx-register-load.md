@@ -11,6 +11,8 @@ tags: c++ avx
 __m256i _mm256_cvtepu8_epi16 (__m128i a)   // vpmovzxbw ymm, xmm (avx2)
 {% endhighlight %}
 
+- [Load 16 bit integers in AVX2 vector?](https://stackoverflow.com/questions/39413328/load-16-bit-integers-in-avx2-vector)
+
 - [What are the best instruction sequences to generate vector constants on the fly?](https://stackoverflow.com/questions/35085059/what-are-the-best-instruction-sequences-to-generate-vector-constants-on-the-fly)
 
 - [Load address calculation when using AVX2 gather instructions](https://stackoverflow.com/questions/16193434/load-address-calculation-when-using-avx2-gather-instructions?noredirect=1&lq=1)
