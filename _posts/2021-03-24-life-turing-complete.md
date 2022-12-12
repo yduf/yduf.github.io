@@ -10,6 +10,7 @@ tags: avx gpu life turing-complete
 
 see also
 - [Artificial Life (Simulation & Code)](https://www.youtube.com/watch?v=0Kx4Y9TVMGg) - 4 particle with different interaction forces / [github](https://github.com/hunar4321/particle-life) / [live](https://hunar4321.github.io/particle-life/particle_life.html#91651088029)
+- [How does the _mm256_shuffle_epi8 make sense in this Game of Life implementation?](https://stackoverflow.com/questions/54551462/how-does-the-mm256-shuffle-epi8-make-sense-in-this-game-of-life-implementation)
 
 ![caption](https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif)
 
