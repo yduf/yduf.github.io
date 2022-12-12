@@ -67,3 +67,4 @@ _pdep_u64(__X, __Y);
 see also:
 - [Convert 16 bits mask to 16 bytes mask](https://stackoverflow.com/questions/67201469/convert-16-bits-mask-to-16-bytes-mask)
 - [Fastest way to unpack 32 bits to a 32 byte SIMD vector](https://stackoverflow.com/questions/24225786/fastest-way-to-unpack-32-bits-to-a-32-byte-simd-vector?noredirect=1&lq=1)
+- [Packing and de-interleaving two \_\_m256 registers](https://stackoverflow.com/questions/42497985/packing-and-de-interleaving-two-m256-registers)
