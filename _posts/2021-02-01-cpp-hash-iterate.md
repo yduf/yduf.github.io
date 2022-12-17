@@ -1,8 +1,10 @@
 ---
 published: true
-title: Iterate over Dictionary (C++)
+title: Iterate over Dictionary (C++ unordered_map)
 tags: c++ loop iterate dictionary tuple hash
 ---
+
+## [C++17](https://en.cppreference.com/w/cpp/container/unordered_map)
 {% highlight cpp %}
 unordered_map<int,string> hash;
 for( auto& [k,v]: hash) {         // C++17
