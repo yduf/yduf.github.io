@@ -1,7 +1,7 @@
 ---
 published: true
-title: Iterate over Dictionnary (C++)
-tags: c++ loop iterate tuple hash
+title: Iterate over Dictionary (C++)
+tags: c++ loop iterate dictionary tuple hash
 ---
 {% highlight cpp %}
 unordered_map<int,string> hash;
@@ -18,4 +18,3 @@ for( auto& [k,v]: hash | std::views::reverse) {         // C++20
 ...
 }
 {% endhighlight %}
-
