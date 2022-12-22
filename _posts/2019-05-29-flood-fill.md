@@ -14,3 +14,5 @@ tags: algorithm flood-fill diffusion map codingame
     
 - [pather(https://github.com/glouw/pather ) - Collaborative diffusion path finding.
 - [Pathfinding Using Collaborative Diffusion ](http://ramblingsofagamedevstudent.blogspot.com/2013/11/for-my-honours-project-this-year-at.html)
+
+- [Dijkstra Maps](http://www.roguebasin.com/index.php/Dijkstra_Maps_Visualized)
