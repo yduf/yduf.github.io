@@ -1,7 +1,7 @@
 ---
 published: true
 title: Pacman
-tags: games codingame maze pacman
+tags: games codingame maze pacman diffusion
 ---
 - [Pac-Man/Tips](https://strategywiki.org/wiki/Pac-Man/Tips)
 
