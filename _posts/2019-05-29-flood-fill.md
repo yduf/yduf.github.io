@@ -4,8 +4,8 @@ title: Flood-fill (Diffusion Map)
 tags: algorithm flood-fill diffusion map codingame
 ---
 ## [Dijkstra Maps](http://www.roguebasin.com/index.php/Dijkstra_Maps_Visualized)
-	- [The Incredible Power of Dijkstra Maps](http://www.roguebasin.com/index.php/The_Incredible_Power_of_Dijkstra_Maps)
-		- [How flood-fill algorithm works](https://github.com/azsdaja/FloodSpill-CSharp/wiki)
+- [The Incredible Power of Dijkstra Maps](http://www.roguebasin.com/index.php/The_Incredible_Power_of_Dijkstra_Maps)
+	- [How flood-fill algorithm works](https://github.com/azsdaja/FloodSpill-CSharp/wiki)
 
 ## Ressource
 
