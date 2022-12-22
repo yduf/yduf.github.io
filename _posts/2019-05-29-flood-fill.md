@@ -16,3 +16,4 @@ tags: algorithm flood-fill diffusion map codingame
 - [Pathfinding Using Collaborative Diffusion ](http://ramblingsofagamedevstudent.blogspot.com/2013/11/for-my-honours-project-this-year-at.html)
 
 - [Dijkstra Maps](http://www.roguebasin.com/index.php/Dijkstra_Maps_Visualized)
+	- [The Incredible Power of Dijkstra Maps](http://www.roguebasin.com/index.php/The_Incredible_Power_of_Dijkstra_Maps)
