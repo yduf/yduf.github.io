@@ -9,3 +9,4 @@ tags: games codingame maze pacman diffusion
 
 - [Pac-Man](https://github.com/RobbertC5/pacman) - A historical tribute and accurate remake of the original Pac-Man arcade game
 	- [use collaborative-diffusion](https://wiki.computationalthinkingfoundation.org/wiki/Collaborative_Diffusion)
+    - [Collaborative Diffusion on the GPU for Path-finding in Games](file:///home/yves/Downloads/mcmillan.pdf)
