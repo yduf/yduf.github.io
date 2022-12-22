@@ -9,6 +9,8 @@ tags: algorithm flood-fill diffusion map codingame
 
 ## Ressource
 
+- [BoxBlur.h](https://github.com/komrad36/BoxBlur/blob/master/BoxBlur.h) - Fastest CPU (AVX/SSE) implementation of a 128-pixel Box Blur.
+
 - [algorithm](https://en.wikipedia.org/wiki/Flood_fill)
 	- [scanline fill](https://en.wikipedia.org/wiki/Flood_fill#Scanline_fill)
 		- [Collaborative Diffusion: Programming Antiobjects](https://home.cs.colorado.edu/~ralex/papers/PDF/OOPSLA06antiobjects.pdf)
