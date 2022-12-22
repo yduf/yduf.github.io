@@ -10,3 +10,7 @@ tags: algorithm flood-fill diffusion map codingame
 		- [Collaborative Diffusion: Programming Antiobjects](https://home.cs.colorado.edu/~ralex/papers/PDF/OOPSLA06antiobjects.pdf)
 
 - [Gamasutra](https://www.gamasutra.com/blogs/TylerGlaiel/20121007/178966/Some_experiments_in_pathfinding__AI.php)
+
+    
+- [pather(https://github.com/glouw/pather ) - Collaborative diffusion path finding.
+- [Pathfinding Using Collaborative Diffusion ](http://ramblingsofagamedevstudent.blogspot.com/2013/11/for-my-honours-project-this-year-at.html)
