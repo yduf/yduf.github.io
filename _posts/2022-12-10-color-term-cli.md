@@ -10,7 +10,7 @@ tags: c++ ruby color term cli
 ### [Ruby](https://stackoverflow.com/questions/1489183/how-can-i-use-ruby-to-colorize-the-text-output-to-a-terminal/16363159#16363159)
 
 {% highlight ruby %}
-## 24 grey level
+## 24 greyscale
 (232..255).each { |l| 
     print "\033[48;5;#{l}m  "
 }
