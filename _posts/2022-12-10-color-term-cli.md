@@ -3,7 +3,7 @@ published: true
 title: Simple Colored output (term)
 tags: c++ ruby color term cli
 ---
-> Using terminal color code
+> Berlin and Kay found that, in languages with fewer than the maximum eleven color categories, the colors followed a specific evolutionary pattern. - Using terminal color code
 
 ## [List of ANSI color escape sequences](https://stackoverflow.com/questions/4842424/list-of-ansi-color-escape-sequences)
 
