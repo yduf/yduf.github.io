@@ -27,7 +27,7 @@ ctrl - alt - P
 
 - [JPAC Interactive Programming and Test Mode](https://www.arcadeworlduk.com/pages/IPAC-and-JPAC-Interactive-Programming-and-Test-Mode.html)
 
-- [X-Box Control Adaptor](file:///nfs/tronaut/mnt/Backup/Console%20&%20Games/Borne%20Arcade/Borne%20Arcade%20-%20input/Welcome%20to%20Ultimarc,%20the%20Ultimate%20in%20Arcade%20Controls..html)
+- [X-Box Control Adaptor](file:///nfs/tronaut/mnt/Backup/Console%20&%20Games/Borne%20Arcade/Borne%20Arcade%20-%20input/Welcome%20to%20Ultimarc,%20the%20Ultimate%20in%20Arcade%20Controls..html) - use to convert X-Box USB to PS/2 input for J-PAC + power
 
 
 - [Default Key code table](https://www.arcadeworlduk.com/pages/JPAC-Information.html)
