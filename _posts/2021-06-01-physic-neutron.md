@@ -1,7 +1,7 @@
 ---
 published: true
 title: Atom Isotope
-tags: physics
+tags: physics chemical
 ---
 > Atoms are made up of a nucleus containing protons and neutrons, surrounded by electrons. But how many of each?
 > 
