@@ -12,10 +12,10 @@ tags: retro 8bit arcade
 
 see also not on tronaut for reconfiguration:
 
-> on peut regarder la config du j-pack and branchant un clavier layout **US** sur le 2 port PS/2
-et un pc sur le port utilisé en sortie (ce port assure l'alimentation de la carte)
-Le J-pack se comporte comme un clavier virtuel pour le PC et peut revonyer des inputs.
-Pour un PC moderne il faut brancher un convertisseur PS/2->USB destiné a brancher un clavier PS/2 sur un port USB
+> on peut regarder la config du j-pack and branchant un clavier layout **US** sur le 2eme port PS/2 et un pc sur le port utilisé en i/o (ce port assure l'alimentation de la carte)
+Le J-pack se comporte comme un clavier virtuel pour le PC et peut simuler des inputs pour afficher un menu.
+- Pour un PC moderne il faut brancher un convertisseur PS/2->USB normalement utiliser pour brancher un clavier PS/2 sur un port USB. Ceci permet de raccorder la sortie I/O au pc sur un port USB.
+- Il faut par contre un vrai clavier PS/2 pour le port keyboard.
 
 Ouvrir un editeur de text plutot qu'une console pour eviter d'avoir les retours
 qui lancent des commandes sur le host
