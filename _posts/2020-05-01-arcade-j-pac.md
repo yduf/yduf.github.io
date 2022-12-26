@@ -1,13 +1,12 @@
 ---
 published: true
-title: J-Pac (Arcade)
+title: J-Pac / X-Box (Arcade)
 tags: retro 8bit arcade
 ---
 > Monter un PC dans une borne en utilisant le couple J-PAC – ArcadeVGA d’Ultimarc - [gameover](https://web.archive.org/web/20210718160107/https://www.gamoover.net/tuto/ultimarc-utiliser-la-solution-j-pac-arcadevga)
 
+
 ## [JPAC Information](https://www.ultimarc.com/control-interfaces/j-pac-en/j-pac-jamma-interface/)
-
-
 
 ### Reconfiguration de la borne
 
@@ -27,6 +26,8 @@ ctrl - alt - P
 
 
 - [JPAC Interactive Programming and Test Mode](https://www.arcadeworlduk.com/pages/IPAC-and-JPAC-Interactive-Programming-and-Test-Mode.html)
+
+- [X-Box Control Adaptor](file:///nfs/tronaut/mnt/Backup/Console%20&%20Games/Borne%20Arcade/Borne%20Arcade%20-%20input/Welcome%20to%20Ultimarc,%20the%20Ultimate%20in%20Arcade%20Controls..html)
 
 
 - [Default Key code table](https://www.arcadeworlduk.com/pages/JPAC-Information.html)
