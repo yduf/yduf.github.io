@@ -21,8 +21,7 @@ Ouvrir un editeur de text plutot qu'une console pour eviter d'avoir les retours
 qui lancent des commandes sur le host
 
 activer l'interface de configuration
-ctrl - alt - P
-
+`ctrl - alt - P`
 
 
 - [JPAC Interactive Programming and Test Mode](https://www.arcadeworlduk.com/pages/IPAC-and-JPAC-Interactive-Programming-and-Test-Mode.html)
