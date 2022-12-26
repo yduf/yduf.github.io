@@ -10,7 +10,7 @@ tags: retro 8bit arcade
 
 ### Reconfiguration de la borne
 
-see also not on tronaut for reconfiguration:
+see also notes on tronaut for reconfiguration:
 
 > on peut regarder la config du j-pack and branchant un clavier layout **US** sur le 2eme port PS/2 et un pc sur le port utilisé en i/o (ce port assure l'alimentation de la carte)
 Le J-pack se comporte comme un clavier virtuel pour le PC et peut simuler des inputs pour afficher un menu.
