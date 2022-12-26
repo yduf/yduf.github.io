@@ -5,7 +5,9 @@ tags: retro 8bit arcade
 ---
 > Monter un PC dans une borne en utilisant le couple J-PAC – ArcadeVGA d’Ultimarc - [gameover](https://web.archive.org/web/20210718160107/https://www.gamoover.net/tuto/ultimarc-utiliser-la-solution-j-pac-arcadevga)
 
-## [JPAC Information](https://www.arcadexpress.com/en/ultimarc/427-j-pac-interfaz-jamma-usb-para-pc.html)
+## [JPAC Information](https://www.ultimarc.com/control-interfaces/j-pac-en/j-pac-jamma-interface/)
+
+
 
 ### Reconfiguration de la borne
 
@@ -29,5 +31,6 @@ ctrl - alt - P
 
 - [Default Key code table](https://www.arcadeworlduk.com/pages/JPAC-Information.html)
 - [A Linux library and command line tool for configuring Ultimarc boards.](https://katiesnow.webs.com/)
+- [USB Version](https://www.arcadexpress.com/en/ultimarc/427-j-pac-interfaz-jamma-usb-para-pc.html)
 
 ![caption](https://web.archive.org/web/20210718160107im_/https://www.gamoover.net/files/image/Tutos/Ultimarc/jpac.jpg)
