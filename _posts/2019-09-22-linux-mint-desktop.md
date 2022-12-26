@@ -9,6 +9,9 @@ tags: linux-system desktop application quote
 	- mint 21 <-> ubuntu Jammy 22.04 LTS
 - [Wayland?](https://forums.linuxmint.com/viewtopic.php?t=361316)
 
+### Linux Mint 21
+- display manager is lightdm
+
 ### Cinnamon Add shortcut to panel
 This require to add the launcher app to panel (default panel, allows only unpin, not add)
 
