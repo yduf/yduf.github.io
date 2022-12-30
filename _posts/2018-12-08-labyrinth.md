@@ -1,7 +1,7 @@
 ---
 published: true
 title: Lost in Maze
-tags: maze algorithm online blog
+tags: maze algorithm online blog pathfinding algorithm codingame
 ---
 ## [Labyrinth Algorithms](http://bryukh.com/labyrinth-algorithms/) with code
 - [A* Search (Amit)](https://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html)
