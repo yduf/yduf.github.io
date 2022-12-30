@@ -1,6 +1,6 @@
 ---
 published: true
-title: Flood-fill (Diffusion Map)
+title: Flood-fill & Diffusion Map
 tags: algorithm flood-fill diffusion map codingame
 ---
 ## [Dijkstra Maps](http://www.roguebasin.com/index.php/Dijkstra_Maps_Visualized)
@@ -22,4 +22,3 @@ tags: algorithm flood-fill diffusion map codingame
 - [Pathfinding Using Collaborative Diffusion ](http://ramblingsofagamedevstudent.blogspot.com/2013/11/for-my-honours-project-this-year-at.html)
 
 [![caption](http://www.roguebasin.com/images/8/8c/Dijk_range.png)](http://www.roguebasin.com/index.php/Dijkstra_Maps_Visualized)
-
