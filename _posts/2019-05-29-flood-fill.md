@@ -1,7 +1,7 @@
 ---
 published: true
 title: Flood-fill & Diffusion Map
-tags: algorithm flood-fill diffusion map codingame
+tags: algorithm flood-fill diffusion map codingame pathfinding
 ---
 ## [Dijkstra Maps](http://www.roguebasin.com/index.php/Dijkstra_Maps_Visualized)
 - [The Incredible Power of Dijkstra Maps](http://www.roguebasin.com/index.php/The_Incredible_Power_of_Dijkstra_Maps)
