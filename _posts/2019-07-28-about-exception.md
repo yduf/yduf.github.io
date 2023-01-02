@@ -3,6 +3,12 @@ published: false
 title: Exception
 tags: software article
 ---
+> Well it seems you don't understand exceptions. They eliminate erroneous states entirely, since the objects just don't get created if an error occurs.
+> 
+The alternative ... was making all of your state be a union with some kind of error, and making sure all accesses handle the fact the variable might be in a erroneous state. That is a huge explosion of possible states in your program, and essentially making every invariant weak everywhere.
+> 
+Then FFI, ... interfacing with C. Problems that arise when interfacing with other programming languages are orthogonal to a language's ability to be used for system programming. Obviously you wouldn't let an exception propagate through some C code, that's forbidden. - [HN](https://news.ycombinator.com/item?id=34216678)
+
 ## Raison d'être
 
 {% highlight cpp %}
