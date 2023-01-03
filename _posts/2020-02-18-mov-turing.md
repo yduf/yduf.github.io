@@ -9,3 +9,6 @@ tags: software turing-complete mov
 - [Movfuscator: Compile C into only mov instructions](https://github.com/Battelle/movfuscator) / [HN](https://news.ycombinator.com/item?id=27202801)
 
 ![caption](https://raw.githubusercontent.com/Battelle/movfuscator/master/overview/demo_nibbles.gif)
+
+see also
+- [x86 is Turing-complete with no registers](https://news.ycombinator.com/item?id=34233488)
