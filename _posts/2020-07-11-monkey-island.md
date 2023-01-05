@@ -41,6 +41,7 @@ Install on Linux
 
 work native under linux.
 - [Return to Monkey Island: How to Unlock Every Ending](https://gamerant.com/return-to-monkey-island-how-to-get-all-endings-explained/)
+- [Return to Monkey Island – 100% Full Achievement Guide](https://gameplay.tips/guides/return-to-monkey-island-achievement-guide.html)
 
 ![caption](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/09/return-to-monkey-island-endings-no-secret.jpg?q=50&fit=crop&w=1500&dpr=1.5)
 
