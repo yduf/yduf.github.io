@@ -37,6 +37,13 @@ Install on Linux
 
 ## Escape from Monkey Island
 
+## Return to Monkey Island
+
+work directly undre linux.
+- [Return to Monkey Island: How to Unlock Every Ending](https://gamerant.com/return-to-monkey-island-how-to-get-all-endings-explained/)
+
+![caption](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/09/return-to-monkey-island-endings-no-secret.jpg?q=50&fit=crop&w=1500&dpr=1.5)
+
 see also
 - [Thimbleweed Park]({% post_url 2019-03-02-Thimbleweed-Park %})
 - [Delores: A Thimbleweed Park mini-adventure]({% post_url 2020-11-29-delores %})
