@@ -39,7 +39,7 @@ Install on Linux
 
 ## Return to Monkey Island
 
-work directly undre linux.
+work native under linux.
 - [Return to Monkey Island: How to Unlock Every Ending](https://gamerant.com/return-to-monkey-island-how-to-get-all-endings-explained/)
 
 ![caption](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/09/return-to-monkey-island-endings-no-secret.jpg?q=50&fit=crop&w=1500&dpr=1.5)
