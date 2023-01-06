@@ -10,6 +10,8 @@ tags: video youtube
 - [can no longer download age-restricted videos ](https://news.ycombinator.com/item?id=27353917)
 	- [get cookies](https://news.ycombinator.com/item?id=27359561)
 
+see also
+- [Yark](https://github.com/Owez/yark) - YouTube archiving made simple.
 
 ## Youtube Alternatives
 - [Invidious](https://github.com/iv-org/invidious) is an alternative front-end to YouTube.
