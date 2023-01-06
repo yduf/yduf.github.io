@@ -11,7 +11,7 @@ tags: video youtube
 	- [get cookies](https://news.ycombinator.com/item?id=27359561)
 
 see also
-- [Yark](https://github.com/Owez/yark) - YouTube archiving made simple.
+- [Yark](https://github.com/Owez/yark) / [HN](https://news.ycombinator.com/item?id=34264487)- YouTube archiving made simple.
 
 ## Youtube Alternatives
 - [Invidious](https://github.com/iv-org/invidious) is an alternative front-end to YouTube.
