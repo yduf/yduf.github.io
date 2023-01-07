@@ -8,6 +8,9 @@ tags: repl python notebook jupyter vscode
 ## [Install](https://jupyter.org/install.html)
 
 ### [Jupyter Notebook or Lab or VS Code?](https://towardsdatascience.com/jupyter-notebook-or-lab-or-vs-code-b772f8388911)
+
+> So most people like to use a combination of a dedicated IDE as well as JupyterLab. If you don't you probably should... But it's a bit annoying when we need both. Some people try to use the built-in jupyter notebook support from VSCode. But it sucks. - [Remote Machines: JupyterLab + VSCode](https://jejjohnson.github.io/research_journal/tutorials/remote_computing/vscode_jlab/)
+
 There are 3 possibilities
 - [vscode](https://towardsdatascience.com/jupyter-is-taking-a-big-overhaul-in-visual-studio-code-d9dc621e5f11) - Visual Studio Code supports working with Jupyter Notebooks natively
 - [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) - the next-generation web-based user interface for Project Jupyter
