@@ -14,9 +14,12 @@ tags: repl python notebook jupyter vscode
 There are 3 possibilities
 - [vscode](https://towardsdatascience.com/jupyter-is-taking-a-big-overhaul-in-visual-studio-code-d9dc621e5f11) - Visual Studio Code supports working with Jupyter Notebooks natively
 
-- [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) - the next-generation web-based user interface for Project Jupyter - [What is the difference between Jupyter Notebook and JupyterLab?](https://stackoverflow.com/questions/50982686/what-is-the-difference-between-jupyter-notebook-and-jupyterlab)
+- [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) - the next-generation web-based user interface for Project Jupyter 
+	- [What is the difference between Jupyter Notebook and JupyterLab?](https://stackoverflow.com/questions/50982686/what-is-the-difference-between-jupyter-notebook-and-jupyterlab)
 
 - Jupyter Notebook
+	- [Jupyter Docker Stacks](https://jupyter-docker-stacks.readthedocs.io/en/latest/index.html)
+    
 {% highlight bash %}
 sudo pip3 install notebook
 jupyter notebook
