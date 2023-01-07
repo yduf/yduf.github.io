@@ -15,7 +15,7 @@ For more videos, Welch Labs also has some great series on machine learning: (
 
 For those of you looking to go *even* deeper, check out the text "Deep Learning" by Goodfellow, Bengio, and Courville. Also, the publication [Distill](https://distill.pub/) is just utterly beautiful.
 
-## Deep learning
+### Deep learning
 
 - [Gradient descent, how neural networks learn](https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=2)
 - [What is backpropagation really doing?](https://www.youtube.com/watch?v=Ilg3gGewQ5U&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=3)
