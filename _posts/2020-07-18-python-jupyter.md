@@ -9,8 +9,9 @@ tags: repl python notebook jupyter vscode
 
 ## [Install](https://jupyter.org/install.html)
 
-- [inside vscode](https://towardsdatascience.com/jupyter-is-taking-a-big-overhaul-in-visual-studio-code-d9dc621e5f11)
-
+There are 3 possibilities
+- [vscode](https://towardsdatascience.com/jupyter-is-taking-a-big-overhaul-in-visual-studio-code-d9dc621e5f11)
+- [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/)
 - Jupyter Notebook
 {% highlight bash %}
 sudo pip3 install notebook
