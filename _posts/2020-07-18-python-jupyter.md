@@ -1,11 +1,15 @@
 ---
 published: true
 title: Jupyter
-tags: repl python notebook jupyter
+tags: repl python notebook jupyter vscode
 ---
 > Open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text - [Jupyter](https://jupyter.org/index.html)
 
+
+
 ## [Install](https://jupyter.org/install.html)
+
+- [inside vscode](https://towardsdatascience.com/jupyter-is-taking-a-big-overhaul-in-visual-studio-code-d9dc621e5f11)
 
 - Jupyter Notebook
 {% highlight bash %}
