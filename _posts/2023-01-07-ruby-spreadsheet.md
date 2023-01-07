@@ -1,7 +1,7 @@
 ---
 published: true
 title: Manipulating Spreadsheet
-tags: ruby
+tags: ruby office
 ---
 > Manipulating spreadsheets with Ruby - [rspreadsheet](https://github.com/gorn/rspreadsheet)
 
