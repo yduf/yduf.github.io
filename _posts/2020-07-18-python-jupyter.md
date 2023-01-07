@@ -8,8 +8,8 @@ tags: repl python notebook jupyter vscode
 ## [Install](https://jupyter.org/install.html)
 
 There are 3 possibilities
-- [vscode](https://towardsdatascience.com/jupyter-is-taking-a-big-overhaul-in-visual-studio-code-d9dc621e5f11)
-- [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/)
+- [vscode](https://towardsdatascience.com/jupyter-is-taking-a-big-overhaul-in-visual-studio-code-d9dc621e5f11) - Visual Studio Code supports working with Jupyter Notebooks natively
+- [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) - the next-generation web-based user interface for Project Jupyter
 - Jupyter Notebook
 {% highlight bash %}
 sudo pip3 install notebook
