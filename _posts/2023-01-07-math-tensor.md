@@ -9,4 +9,10 @@ But this description misses the most important property of a tensor!
 
 Any rank-2 tensor can be represented as a matrix, but not every matrix is really a rank-2 tensor. The numerical values of a tensor’s matrix representation depend on what transformation rules have been applied to the entire system.
 
+[The bottom line of this is:](https://math.stackexchange.com/questions/412423/what-are-the-differences-between-a-matrix-and-a-tensor)
+- The components of a rank-2 tensor can be written in a matrix.
+- The tensor is not that matrix, because different types of tensors can correspond to the same matrix.
+- The differences between those tensor types are uncovered by the basis transformations (hence the physicist's definition: "A tensor is what transforms like a tensor").
+
+
 [![caption](https://i.stack.imgur.com/ltiol.png)](https://math.stackexchange.com/questions/2943123/what-is-a-tensor)
