@@ -7,4 +7,6 @@ tags: math NN
 
 But this description misses the most important property of a tensor!
 
+Any rank-2 tensor can be represented as a matrix, but not every matrix is really a rank-2 tensor. The numerical values of a tensor’s matrix representation depend on what transformation rules have been applied to the entire system.
+
 [![caption](https://i.stack.imgur.com/ltiol.png)](https://math.stackexchange.com/questions/2943123/what-is-a-tensor)
