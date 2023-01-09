@@ -9,6 +9,7 @@ see also
 ## Arena
 ### Referee
 - [codinGame](https://github.com/SpiritusSancti5/codinGame/tree/master/Referees) - These are the actual codingame referees, written by CG staff.
+
 ### External
 - [Cg-brutaltester](https://www.codingame.com/forum/t/cg-brutaltester-because-you-love-to-be-brutal/2716) / [github](https://github.com/dreignier/cg-brutaltester)
 	- [latest adatper](https://github.com/Akarachudra/brutaltester-spring-challenge-2020/commit/762330b5f559fca3aca0e03998e4b8a3ea7e7edb)
