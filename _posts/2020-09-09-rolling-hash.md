@@ -11,3 +11,4 @@ see also
 - [How would you fingerprint a piece of data?](https://yurichev.com/news/20210205_rolling_hash/)
 - [Foundation - Introducing Content Defined Chunking (CDC)](https://restic.net/blog/2015-09-12/restic-foundation1-cdc/)
 - [FastCDC: A Fast and Efficient Content-Defined Chunking Approach for Data Deduplication ](https://www.usenix.org/conference/atc16/technical-sessions/presentation/xia)
+	- [Content Defined Chunking](https://fistfulofbytes.com/cdc/)
