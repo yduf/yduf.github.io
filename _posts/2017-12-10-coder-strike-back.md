@@ -1,7 +1,7 @@
 ---
 title: Coder Strike Back (Codingame)
 published: true
-tags: codingame contest
+tags: codingame contest NN
 ---
 > I did not had the opportunity to participate to this one.
 
