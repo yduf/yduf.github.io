@@ -35,7 +35,8 @@ excerpt_separator: <!--more-->
 
 ## [Scheme and overhead](https://en.wikipedia.org/wiki/Binary-to-text_encoding)
 - [Efficiently encoding binary data in Unicode ](https://qntm.org/unicodings)
-- [qntm/base65536](https://github.com/qntm/base65536)
+- [ qntm/ base2048 ](https://github.com/qntm/base2048) - a binary encoding optimised for transmitting data through Twitter, up to 385 octets can fit in a single Tweet. Compare with Base65536, which manages only 280 octets.
+	- [qntm/ base65536](https://github.com/qntm/base65536) 
 - [stackoverflow](https://stackoverflow.com/a/971501/51386)
 
 
