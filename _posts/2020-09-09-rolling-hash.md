@@ -12,3 +12,4 @@ see also
 - [Foundation - Introducing Content Defined Chunking (CDC)](https://restic.net/blog/2015-09-12/restic-foundation1-cdc/)
 - [FastCDC: A Fast and Efficient Content-Defined Chunking Approach for Data Deduplication ](https://www.usenix.org/conference/atc16/technical-sessions/presentation/xia)
 	- [Content Defined Chunking](https://fistfulofbytes.com/cdc/)
+    - [CDC File Transfer](https://github.com/google/cdc-file-transfer) -  tools for synching and streaming files from Windows to Linux. They are based on Content Defined Chunking (CDC), in particular FastCDC, to split up files into chunks.
