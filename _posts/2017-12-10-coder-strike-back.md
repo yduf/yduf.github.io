@@ -19,3 +19,4 @@ But there is a great [read from Magus](http://files.magusgeek.com/csb/csb_en.htm
 ### [NN Bots](https://www.codingame.com/forum/t/neural-network-ressources/1667/32)
 
 - [Mastering a Pod Racing AI Competition with Nash-DQN](https://github.com/pb4git/Nash-DQN-CSB-Article)
+- [CSB_NN_slides.pdf ](https://www.docdroid.net/NgvoYFR/csb-nn-slides-pdf)
