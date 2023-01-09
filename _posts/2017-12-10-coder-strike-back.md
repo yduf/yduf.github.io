@@ -12,5 +12,10 @@ But there is a great [read from Magus](http://files.magusgeek.com/csb/csb_en.htm
 
 ### Refere
 - [codinGame/Referees/Coders Strike Back](https://github.com/SpiritusSancti5/codinGame/tree/master/Referees/Coders%20Strike%20Back)
+
 ### Tools
 - [CSB-Runner-Arena (Agade)](https://github.com/Agade09/CSB-Runner-Arena)
+
+### [NN Bots](https://www.codingame.com/forum/t/neural-network-ressources/1667/32)
+
+- [Mastering a Pod Racing AI Competition with Nash-DQN](https://github.com/pb4git/Nash-DQN-CSB-Article)
