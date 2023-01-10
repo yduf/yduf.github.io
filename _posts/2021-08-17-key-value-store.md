@@ -6,6 +6,8 @@ tags: db hash filesystem dictionary c++ fastware
 > Key-value stores are one of the simplest forms of database. - [Implementing a Key-Value Store](https://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
 
 ### Benchmark
-- [hashmap benchmarks](https://github.com/martinus/map_benchmark) / [r/cpp](https://www.reddit.com/r/cpp/comments/auwbmg/hashmap_benchmarks_what_should_i_add/) - 2020
+- [Finding the Fastest, Memory Efficient Hashmap](https://martin.ankerl.com/2019/04/01/hashmap-benchmarks-01-overview/)  - 2020 - results
+	- [hashmap benchmarks](https://github.com/martinus/map_benchmark) / [r/cpp](https://www.reddit.com/r/cpp/comments/auwbmg/hashmap_benchmarks_what_should_i_add/) - benchmark code
+
 - [Benchmark of major hash maps implementation](https://tessil.github.io/2016/08/29/benchmark-hopscotch-map.html) - 2017
-- [Finding the Fastest, Memory Efficient Hashmap](https://martin.ankerl.com/2019/04/01/hashmap-benchmarks-01-overview/)
+
