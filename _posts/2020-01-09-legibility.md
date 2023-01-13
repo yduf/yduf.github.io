@@ -13,3 +13,6 @@ Here is the recipe:
 - Argue that the relative simplicity and platonic orderliness of the vision represents rationality
 - Use authoritarian power to impose that vision, by demolishing the old reality if necessary
 - Watch your rational Utopia fail horribly
+
+see also
+- [Corporate Legibility for Software Engineers](https://matt.blwt.io/post/corporate-legibility-for-engineers/) - the art of making tasks, and their outcomes, easier to understand for those not directly involved.
