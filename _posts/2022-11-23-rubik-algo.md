@@ -1,6 +1,6 @@
 ---
 published: true
-title: Rubik's algo
+title: Rubik's algo 3x3
 tags: rubik
 ---
 > [HN](https://news.ycombinator.com/item?id=33716796) / [Ruwix](https://ruwix.com/the-rubiks-cube/algorithm/) / [Quelle méthode pour votre niveau ?](https://www.youtube.com/watch?v=keuarQZmDAA)
