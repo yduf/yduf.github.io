@@ -54,7 +54,16 @@ R2 U' S' U2 S U' R2 - [fastests U perm](https://www.youtube.com/watch?v=1u8BptRS
 [R U R' F' R U R' U' R' F R2 U' R' U' ](https://youtu.be/w7WCC615cEs?t=547) - PLL J & J'  
 R' U L' U2 R U' R' U2 L R U'
 
+
 # Advanced (sub 10s)
+
+
+### Algorithm
+- [R2 U' S' U2 U' R2](https://www.youtube.com/watch?v=1u8BptRSXaw&list=PLh9akXp2EH2D1MBpl8gb0w2WM0eiailpB&index=3) - The New Fastest U Perm (0.5 Execution)
+- [r U'R'U R U r'](https://youtu.be/6lef76z55F4) - join med + corner at corner
+- [U'R U2 M' B r'](https://youtu.be/yEGp7kbHR3M) - join med + corner at corner
+- [R' U R' F R F' R](https://www.youtube.com/watch?v=gABZSNHCMR0) - invert slice
+
 ## [Les COLL](https://youtu.be/keuarQZmDAA?t=1022) 
 - XCROSS
 - WINTER VARIATION 
