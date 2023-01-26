@@ -7,6 +7,9 @@ tags: rubik
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">あの伝説のルービックキューブをさらにわかりやすくしました <a href="https://t.co/5RkvwPOkGN">pic.twitter.com/5RkvwPOkGN</a></p>&mdash; じゃがりきん (@jagarikin) <a href="https://twitter.com/jagarikin/status/1593771091738374144?ref_src=twsrc%5Etfw">November 19, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+## [Methode debutante](https://www.youtube.com/watch?v=E29pksDLVRQ) / [2](https://www.youtube.com/watch?v=BBCGVhUORNQ)
+- [Le belge simplifié !](https://www.youtube.com/watch?v=HSDXq6Ed4Hw)
+
 # [Method Fridrich](https://www.youtube.com/watch?v=keuarQZmDAA) - review
 
 > Prioriser l'apprentisage des  PLL (21) sur les OLL (57).  
