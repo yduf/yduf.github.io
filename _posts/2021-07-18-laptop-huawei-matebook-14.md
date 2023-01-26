@@ -1,7 +1,7 @@
 ---
 published: true
 title: HUAWEI MateBook 14 (2020)
-tags: hardware laptop
+tags: hardware gpu laptop
 excerpt_separator: <!--more-->
 ---
 
