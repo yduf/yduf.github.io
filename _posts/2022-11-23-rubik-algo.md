@@ -12,6 +12,10 @@ tags: rubik
 > Prioriser l'apprentisage des  PLL (21) sur les OLL (57).  
 > Commens par les OLL 2 look (construction de la croix jaune)
 
+### [badmephisto pdf](/images/badmephisto-speedcubing-method.pdf)
+ / [mirror](https://defhacks.github.io/badmephisto-mirror/pll.html)
+- [FAQ](http://badmephisto.com/)
+
 ## [La croix](https://www.youtube.com/watch?v=IraFkPozVM0)
 
 
