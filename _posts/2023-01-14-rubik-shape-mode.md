@@ -7,6 +7,8 @@ tags: rubik
 
 ### [Ghost Cube](https://ruwix.com/twisty-puzzles/3x3x3-rubiks-cube-shape-mods-variations/ghost-cube/)
 
+- [2x2](https://www.youtube.com/watch?v=jpH1QQXbhDc)
+
  an iconic and very difficlult shape shifter.
 **In the solved state you have to first misalign the layers to make it fully functional.**
 
