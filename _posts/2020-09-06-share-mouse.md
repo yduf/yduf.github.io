@@ -81,3 +81,12 @@ $ ./clean_build.sh
 $ cd build
 $ sudo make install # install to /usr/local/
 {% endhighlight %}
+
+## [Packaging as an AppImage](https://appimage-builder.readthedocs.io/en/latest/intro/tutorial.html)
+
+{% highlight bash %}
+# build as above, 
+# then install into 'AppDir'
+$ cd build
+$ make install DESTDIR=../AppDir
+{% endhighlight %}
