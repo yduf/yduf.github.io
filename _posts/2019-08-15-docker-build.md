@@ -3,6 +3,8 @@ published: true
 title: Build Image (docker)
 tags: docker build-system
 ---
+> [Introduction to heredocs in Dockerfiles](https://www.docker.com/blog/introduction-to-heredocs-in-dockerfiles/) / [HN](https://news.ycombinator.com/item?id=34534216)
+
 ## Using [Debian Buster](https://www.server-world.info/en/note?os=Debian_10&p=docker&f=1)
 
 ### [Install](https://www.server-world.info/en/note?os=Debian_10&p=docker&f=1)
