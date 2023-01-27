@@ -94,5 +94,5 @@ $ make install DESTDIR=../AppDir
 $ appimage-builder --generate
 # this generate a AppImageBuilder.yml recipe in parent folder
 # then build the AppImage
-$ appimage-builder
+$ appimage-builder --skip-tests
 {% endhighlight %}
