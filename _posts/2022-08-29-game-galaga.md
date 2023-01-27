@@ -6,6 +6,7 @@ tags: retro 8bit arcade games esp32
 > [Galaga Strategy Tips from Pro Player Jordan Dorrington](https://www.youtube.com/watch?v=_EwqGlElSWw)
 
 see also
+- [The Galaga no fire cheat mystery ](https://jasoneckert.github.io/myblog/the-galaga-no-fire-cheat-mystery/) / [HN](https://news.ycombinator.com/item?id=34542064)
 - [	Galaga, Pac-Man, Donkey Kong Emulator for ESP32](https://news.ycombinator.com/item?id=34539811)
 
 ![caption](https://github.com/harbaum/galagino/raw/main/images/galagino.gif)
