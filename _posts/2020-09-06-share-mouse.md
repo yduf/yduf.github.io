@@ -89,4 +89,7 @@ $ sudo make install # install to /usr/local/
 # then install into 'AppDir'
 $ cd build
 $ make install DESTDIR=../AppDir
+# test that the application still work from AppDir/xx/bin/yy
+# run recipe generation assistant in parent folder containing AppDir
+$ appimage-builder --generate
 {% endhighlight %}
