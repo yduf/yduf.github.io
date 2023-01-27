@@ -7,14 +7,6 @@ tags: kvm display keyboard
 
 - [Using Barrier to Control Multiple PCs with One Keyboard and Mouse](https://www.rauchland.com/articles/using-barrier-to-control-multiple-pcs-with-one-keyboard-and-mouse/)
 
-## [Building on Linux](https://github.com/debauchee/barrier/wiki/Building-on-Linux)
-
-require
-{% highlight bash %}
-sudo apt-get install libcurl4-openssl-dev libavahi-compat-libdnssd-dev
-{% endhighlight %}
-
-Works perfectly from source version
 
 ## Feature
 - clipboard sharing - enable copy/paste between PC
@@ -63,3 +55,25 @@ WantedBy=multi-user.target
 ## Alternative
 - [htrefil/rkvm](https://github.com/htrefil/rkvm) / [HN](https://news.ycombinator.com/item?id=24950817) - a tool for sharing keyboard and mouse across multiple Linux computers.
 - [Best Synergy Alternative](https://rigorousthemes.com/blog/best-synergy-alternative/)
+
+
+## [Building on Linux](https://github.com/debauchee/barrier/wiki/Building-on-Linux)
+
+require
+{% highlight bash %}
+$ sudo apt-get install libcurl4-openssl-dev libavahi-compat-libdnssd-dev
+{% endhighlight %}
+
+Works perfectly from source version
+
+{% highlight bash %}
+$ git clone https://github.com/debauchee/barrier.git
+# this builds from master,
+# you can get release tarballs instead
+# if you want to build from a specific tag/release
+$ cd barrier
+$ git submodule update --init --recursive
+$ ./clean_build.sh
+$ cd build
+$ sudo make install # install to /usr/local/
+{% endhighlight %}
