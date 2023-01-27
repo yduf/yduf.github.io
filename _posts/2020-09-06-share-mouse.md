@@ -92,4 +92,7 @@ $ make install DESTDIR=../AppDir
 # test that the application still work from AppDir/xx/bin/yy
 # run recipe generation assistant in parent folder containing AppDir
 $ appimage-builder --generate
+# this generate a AppImageBuilder.yml recipe in parent folder
+# then build the AppImage
+$ appimage-builder
 {% endhighlight %}
