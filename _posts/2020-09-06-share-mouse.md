@@ -61,7 +61,11 @@ WantedBy=multi-user.target
 
 require
 {% highlight bash %}
-$ sudo apt-get install libcurl4-openssl-dev libavahi-compat-libdnssd-dev
+$ sudo apt update && sudo apt upgrade
+$ sudo apt install git cmake make xorg-dev g++ libcurl4-openssl-dev \
+                 libavahi-compat-libdnssd-dev libssl-dev libx11-dev \
+                 libqt4-dev qtbase5-dev
+$ sudo apt install libxtst-dev
 {% endhighlight %}
 
 Works perfectly from source version
