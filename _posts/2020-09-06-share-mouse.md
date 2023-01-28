@@ -82,7 +82,7 @@ $ cd build
 $ sudo make install # install to /usr/local/
 {% endhighlight %}
 
-## [Packaging as an AppImage](https://appimage-builder.readthedocs.io/en/latest/intro/tutorial.html)
+## [Packaging as an AppImage](https://appimage-builder.readthedocs.io/en/latest/intro/tutorial.html)  - ** NOT COMPLETE **
 
 {% highlight bash %}
 # build as above, 
