@@ -35,3 +35,6 @@ int main(int argc, char* argv[])
 {% endhighlight %}
 
 [![caption](https://media.geeksforgeeks.org/wp-content/uploads/20190415125809/Screenshot-from-2019-04-15-00-26-57.png)](https://www.geeksforgeeks.org/openmp-introduction-with-installation-guide/)
+
+see also
+- [Agade arena][https://github.com/Agade09/CG-UTTT-Arena/blob/master/Arena.cpp)
