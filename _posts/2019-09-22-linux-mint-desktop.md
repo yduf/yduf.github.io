@@ -15,7 +15,6 @@ tags: linux-system desktop application quote
 ### Cinnamon Add shortcut to panel
 This require to add the launcher app to panel (default panel, allows only unpin, not add)
 
-
 ### [Recent files](https://askubuntu.com/questions/540661/how-do-i-disable-the-recent-files-feature-in-the-cinnamon-desktop-environment) - pull up the menu, type 'privacy' 
 
 ## File Explorer [Nemo](https://doc.ubuntu-fr.org/nemo)
@@ -28,6 +27,8 @@ This require to add the launcher app to panel (default panel, allows only unpin,
         - [openscad/stl](https://github.com/yorikvanhavre/openscad-thumbnailers)
 - [disabling thumbnail cache](https://forums.linuxmint.com/viewtopic.php?t=203366)
 
+## Post install fix
+- [Failed to start casper-md5check Verify Live ISO checksums](https://askubuntu.com/questions/1421093/ubuntu-boot-systemd1-failed-to-start-casper-md5check-verify-live-iso-checksum)
 
 ## Updating
 - [How to upgrade to Linux Mint 20](https://linuxmint-user-guide.readthedocs.io/en/latest/upgrade-to-mint-20.html)
