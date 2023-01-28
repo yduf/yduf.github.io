@@ -49,6 +49,17 @@ Restart=always
 WantedBy=multi-user.target
 {% endhighlight %}
 
+### Troubleshoot
+
+if launching twice the application/server you will got this kind of message (which may be confusing), due to port being already used:
+{% highlight bash %}
+Qt: Session management error: Could not open network socket
+*** WARNING *** The program 'barrier' called 'DNSServiceRegister()' which is not supported (or only supported partially) in the Apple Bonjour compatibility layer of Avahi.
+*** WARNING *** Please fix your application to use the native API of Avahi!
+*** WARNING *** For more information see <http://0pointer.de/blog/projects/avahi-compat.html>
+{% endhighlight %}
+
+
 ## [Wayland ?]()
 - [barrier support](https://github.com/debauchee/barrier/issues/109)
 
