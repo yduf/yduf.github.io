@@ -1,7 +1,7 @@
 ---
 published: true
 title: '#screenshotsaturday'
-tags: games twitter
+tags: codingame twitter
 ---
 > World Games in progress - [twitter](https://twitter.com/search?q=%23screenshotsaturday&src=tyah)
 
