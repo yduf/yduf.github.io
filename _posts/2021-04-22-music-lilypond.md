@@ -1,7 +1,7 @@
 ---
 published: true
 title: LilyPond (Music sheet)
-tags: music write guitar tab
+tags: music write guitar tab drums
 ---
 > LilyPond is a music engraving program, devoted to producing the highest-quality sheet music possible - [lilypond.org](http://lilypond.org/)
 
