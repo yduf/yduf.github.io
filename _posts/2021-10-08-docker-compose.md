@@ -16,8 +16,6 @@ Another reasonably lightweight alternative would be Hashicorp Nomad, because it'
 
 Lastly, there is Kubernetes. It's complicated, even more so when you get into solutions like Istio, typically eats up lots of resources, can be difficult to manage and debug, but does pretty much anything that you might need, as long as you have either enough people to administer it.
 
-
-
 ## [`docker-compose.yml`](https://docs.docker.com/compose/gettingstarted/#step-3-define-services-in-a-compose-file)
 
 {% highlight yaml %}
