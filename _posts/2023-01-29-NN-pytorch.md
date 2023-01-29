@@ -33,10 +33,14 @@ print(x)
 Additionally, to check if your GPU driver and CUDA/ROCm is enabled and accessible by PyTorch, run the following commands to return whether or not the GPU driver is enabled (the ROCm build of PyTorch uses the same semantics at the python API level)
 
 {% highlight python %}
-torch.cuda.is_available()
+torch.cuda.is_available()		# Does PyTorch see any GPUs?
 torch.cuda.device_count()
 torch.cuda.current_device()
 torch.cuda.get_device_name(0)
+#
+torch.rand(10).device			# Are tensors stored on GPU by default?
+torch.set_default_tensor_type(torch.cuda.FloatTensor) # Set default tensor type to CUDA
+
 {% endhighlight %}
 
 => should be True / 1 / 0 / 'AMD Radeon RX 580 Series'
