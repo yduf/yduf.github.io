@@ -1,7 +1,7 @@
 ---
 published: true
 title: Open Multi-processing (OpenMP)
-tags: c++ concurrency
+tags: c++ concurrency thread
 ---
 > an extension to C/C++/Fortran languages by adding the parallelizing features to them. - [Introduction](https://www.geeksforgeeks.org/openmp-introduction-with-installation-guide/)
 
