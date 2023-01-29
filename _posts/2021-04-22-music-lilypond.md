@@ -1,10 +1,13 @@
 ---
 published: true
-title: LilyPond
+title: LilyPond (Music sheet)
 tags: music write guitar tab
 ---
 > LilyPond is a music engraving program, devoted to producing the highest-quality sheet music possible - [lilypond.org](http://lilypond.org/)
 
+## [Drums](https://lilypond.org/doc/v2.21/Documentation/notation/common-notation-for-percussion)
+
+## Guitar
 - [Front-end Applications](http://lilypond.org/easier-editing.html)
 	- [Frescobaldi](https://www.frescobaldi.org/) - sheet music text editor.
     - [VSLilyPond](https://github.com/lhl2617/VSLilyPond) - [Music IDE: Lilypond in Visual Studio Code](https://blog.anonymous-function.net/2017/10/24/music-ide-lilypond-in-visual-studio-code/)
@@ -19,7 +22,7 @@ convert-ly tuxguitar_export.ly > converted.ly
 
 - [MuseScore](https://musescore.org/en)
 
-## Doc
+### Doc
 - [intro](https://lilypond.org/website/text-input.html)
 	- Notes are encoded with letters and numbers. 
     - Alterations are made with different names: add -`is` for sharp, and -`es` for flat.
