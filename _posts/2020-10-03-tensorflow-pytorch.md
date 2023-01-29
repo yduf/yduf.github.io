@@ -1,11 +1,25 @@
 ---
 published: true
-title: Pytorch vs Tensorflow in 2020
+title: Pytorch vs Tensorflow
 tags: tensorflow security
 ---
-> Tensorflow is from Google and was released in 2015, and PyTorch was released by Facebook in 2017 - [How the two popular frameworks have converged](https://towardsdatascience.com/pytorch-vs-tensorflow-in-2020-fe237862fae1)
+> [PyTorch vs TensorFlow: What is Best for Deep Learning in 2023?](https://www.turing.com/kb/pytorch-vs-tensorflow)
 
->  PyTorch == old-style Lego kits where they gave pretty generic blocks that you could combine to create whatever you want. TensorFlow == new-style Lego kits with a bunch of custom curved smooth blocks, that you can combine to create the exact picture on the box; but is awkward to build anything else. - [[D] Why is tensorflow so hated on and pytorch is the cool kids framework?](https://www.reddit.com/r/MachineLearning/comments/m3boyo/d_why_is_tensorflow_so_hated_on_and_pytorch_is/)
+**What is TensorFlow?** - Google open-source library based on Python.
+
+**What is PyTorch?** - Facebook open-source and free framework based on the Torch library.
+
+## Difference between PyTorch and TensorFlow
+
+
+    Key 1- Deployment & scalability If your project has a large scope and needs large-scale deployment then your choice should be TensorFlow. On the other hand, if it is just prototyping for a research project at a smaller scale or anything alike then PyTorch should be the option.
+
+    Key 2- Hobbyist vs expert If you’re a beginner to deep learning, doing a project as a hobbyist, college project, or anything alike then PyTorch should be your obvious choice. However, if the game is serious, and involves cross platforms then TensorFlow comes in very handy.
+
+    Key 3- Resource optimization & utilization If you’re looking for better utilization and optimization of resources like GPU then nothing can beat PyTorch. However, when it comes to TensorFlow it uses all of the GPU’s capacity available at that moment. Thus, slightly sluggish in functioning.
+
+    Key 4- Personal interest This is the most crucial key that can be a game changer. Look into your project needs and tech stack and choose what best suits your requirements by keeping in mind all the scenarios we explained above.
+
 
 Be warned
 - [Compromised PyTorch-nightly dependency chain between](https://news.ycombinator.com/item?id=34202662)
