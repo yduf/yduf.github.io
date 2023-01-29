@@ -7,18 +7,18 @@ tags: tensorflow security
 
 **What is TensorFlow?** - Google open-source library based on Python.
 
-**What is PyTorch?** - Facebook open-source and free framework based on the Torch library.
+[**What is PyTorch?**]({% post_url 2017-11-27-CG-meanmax %}) - Facebook open-source and free framework based on the Torch library.
 
 ## Difference between PyTorch and TensorFlow
 
 
-    Key 1- Deployment & scalability If your project has a large scope and needs large-scale deployment then your choice should be TensorFlow. On the other hand, if it is just prototyping for a research project at a smaller scale or anything alike then PyTorch should be the option.
+**Deployment & scalability** If your project has a large scope and needs large-scale deployment then your choice should be TensorFlow. On the other hand, if it is just prototyping for a research project at a smaller scale or anything alike then PyTorch should be the option.
 
-    Key 2- Hobbyist vs expert If you’re a beginner to deep learning, doing a project as a hobbyist, college project, or anything alike then PyTorch should be your obvious choice. However, if the game is serious, and involves cross platforms then TensorFlow comes in very handy.
+**Hobbyist vs expert** If you’re a beginner to deep learning, doing a project as a hobbyist, college project, or anything alike then PyTorch should be your obvious choice. However, if the game is serious, and involves cross platforms then TensorFlow comes in very handy.
 
-    Key 3- Resource optimization & utilization If you’re looking for better utilization and optimization of resources like GPU then nothing can beat PyTorch. However, when it comes to TensorFlow it uses all of the GPU’s capacity available at that moment. Thus, slightly sluggish in functioning.
+**Resource optimization & utilization** If you’re looking for better utilization and optimization of resources like GPU then nothing can beat PyTorch. However, when it comes to TensorFlow it uses all of the GPU’s capacity available at that moment. Thus, slightly sluggish in functioning.
 
-    Key 4- Personal interest This is the most crucial key that can be a game changer. Look into your project needs and tech stack and choose what best suits your requirements by keeping in mind all the scenarios we explained above.
+**Personal interest** This is the most crucial key that can be a game changer. Look into your project needs and tech stack and choose what best suits your requirements by keeping in mind all the scenarios we explained above.
 
 
 Be warned
