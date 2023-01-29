@@ -56,13 +56,9 @@ import torch
 from torchvision.models import efficientnet_b0
 from pytorch_benchmark import benchmark
 
-torch.set_default_tensor_type(torch.cuda.FloatTensor) # enable GPU
+torch.set_default_tensor_type(torch.cuda.FloatTensor) # enable GPU **this crash the GPU**
 
 model = efficientnet_b0()
 sample = torch.randn(8, 3, 224, 224)  # (B, C, H, W)
 results = benchmark(model, sample, num_runs=100)
 {% endhighlight %}
-
-
-
-
