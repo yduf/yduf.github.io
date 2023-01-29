@@ -51,5 +51,18 @@ If crashing with "hipErrorNoBinaryForGpu: Unable to find code object for all cur
 
 Monitoring on one console with `watch -n 1 rocm-smi` and `htop` in an other
 
+{% highlight python %}
+import torch
+from torchvision.models import efficientnet_b0
+from pytorch_benchmark import benchmark
+
+torch.set_default_tensor_type(torch.cuda.FloatTensor) # enable GPU
+
+model = efficientnet_b0()
+sample = torch.randn(8, 3, 224, 224)  # (B, C, H, W)
+results = benchmark(model, sample, num_runs=100)
+{% endhighlight %}
+
+
 
 
