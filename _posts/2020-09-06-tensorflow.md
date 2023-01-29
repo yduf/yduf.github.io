@@ -1,7 +1,7 @@
 ---
 published: true
 title: Tensorflow
-tags: AI NN tensorflow gpu
+tags: AI NN tensorflow amd gpu
 ---
 > The fastest and more reliable method to get ROCm + Tensorflow backend to work is to use the docker image provided by AMD developers. - [Train neural networks using AMD GPU and Keras](https://towardsdatascience.com/train-neural-networks-using-amd-gpus-and-keras-37189c453878)
 
