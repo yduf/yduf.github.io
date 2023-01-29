@@ -3,7 +3,7 @@ published: true
 title: Docker-compose / swarm
 tags: docker
 ---
-> a tool for defining parameters to running multi-container Docker application. - [Docker Compose](https://docs.docker.com/compose/)
+> A tool for defining parameters to running multi-container Docker application. - [Docker Compose](https://docs.docker.com/compose/)
 
 [In short](https://news.ycombinator.com/item?id=34566379):
 - if you need to deploy containers on a single node ad-hoc, then you want _Docker_ or a similar runtime (e.g. _Podman_)
