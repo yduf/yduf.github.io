@@ -8,6 +8,7 @@ tags: music write guitar tab
 ## [Drums](https://lilypond.org/doc/v2.21/Documentation/notation/common-notation-for-percussion)
 
 - [Drum Music 1 - Getting Started](https://lilypondcookbook.com/post/74312396803/drum-music-1-getting-started)
+- [Noting a buzz roll](https://lilypondcookbook.com/)
 
 ## Guitar
 - [Front-end Applications](http://lilypond.org/easier-editing.html)
