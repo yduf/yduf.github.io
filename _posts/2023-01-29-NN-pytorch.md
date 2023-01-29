@@ -5,6 +5,9 @@ tags: NN amd
 ---
 >  Facebook open-source and free framework based on the Torch library. - [Home](https://pytorch.org/)
 
+see also
+- [PyTorch 2.0](https://pytorch.org/get-started/pytorch-2.0/) - Get Started
+
 ## Install
 
 with [ROCm]({% post_url 2020-07-24-amd-gpu %}) as prerequesite.
