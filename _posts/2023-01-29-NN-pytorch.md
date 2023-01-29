@@ -28,6 +28,8 @@ print(x)
 
 => should output a tensor
 
+- [How do I check if PyTorch is using the GPU?](https://stackoverflow.com/questions/48152674/how-do-i-check-if-pytorch-is-using-the-gpu)
+
 Additionally, to check if your GPU driver and CUDA/ROCm is enabled and accessible by PyTorch, run the following commands to return whether or not the GPU driver is enabled (the ROCm build of PyTorch uses the same semantics at the python API level)
 
 {% highlight python %}
