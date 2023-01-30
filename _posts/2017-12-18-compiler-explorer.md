@@ -18,3 +18,6 @@ Compile and start
 {% highlight bash %}
 make EXTRA_ARGS='--language c++'
 {% endhighlight %}
+
+see also
+- [Happy 10th Birthday Compiler Explorer!](https://xania.org/202206/happy-birthday-ce)
