@@ -10,3 +10,6 @@ tags: audio DAW midi
 
 ### Theme / Customisation
 - [Larger Font](https://lmms.io/forum/viewtopic.php?t=1305&start=10#p73477) / [large Font CSS](https://github.com/musikBear/lmms/blob/master/mB_largeFontCSS.zip)
+
+see also
+- [Ardour](https://ardour.org/)
