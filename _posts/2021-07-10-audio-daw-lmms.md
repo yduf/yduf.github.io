@@ -12,4 +12,4 @@ tags: audio DAW midi
 - [Larger Font](https://lmms.io/forum/viewtopic.php?t=1305&start=10#p73477) / [large Font CSS](https://github.com/musikBear/lmms/blob/master/mB_largeFontCSS.zip)
 
 see also
-- [Ardour](https://ardour.org/)
+- [Ardour](https://ardour.org/) / [Ardour 6 Quickstart](https://www.youtube.com/watch?v=bfTAKv4htDE)
