@@ -5,18 +5,23 @@ title: Jack (linux audio)
 ---
 > JACK Audio Connection Kit - [Jack application](http://jackaudio.org/applications/)
 
-
 ![caption](https://linuxaudio.github.io/libremusicproduction/html/sites/default/files/articles/Jacklogo.png)
-
-- [A Beginners Guide to Getting Started with JACK](https://linuxaudio.github.io/libremusicproduction/html/articles/demystifying-jack-%e2%80%93-beginners-guide-getting-started-jack.html)
-	- [JACK Latency tests](https://wiki.linuxaudio.org/wiki/jack_latency_tests)
-    - [Get rid of 0.5s latency when playing audio over Bluetooth](https://askubuntu.com/questions/145935/get-rid-of-0-5s-latency-when-playing-audio-over-bluetooth-with-a2dp) - `sudo apt install pavucontrol` changing profile can improve latency
 
 
 ## Installation
 
 => [Install Pipewire]({% post_url 2021-03-04-audio-pipewire %})
 
+- [Linux Audio Users Guide](http://linux-audio.com/)
+[ ![caption](http://linux-audio.com/images/linux-audio-stack.png)](http://linux-audio.com/)
+
+
+
+
+- [A Beginners Guide to Getting Started with JACK](https://linuxaudio.github.io/libremusicproduction/html/articles/demystifying-jack-%e2%80%93-beginners-guide-getting-started-jack.html)
+	- [JACK Latency tests](https://wiki.linuxaudio.org/wiki/jack_latency_tests)
+    - [Get rid of 0.5s latency when playing audio over Bluetooth](https://askubuntu.com/questions/145935/get-rid-of-0-5s-latency-when-playing-audio-over-bluetooth-with-a2dp) - `sudo apt install pavucontrol` changing profile can improve latency
+    
 ## Setup Jack Audio server
 add bridge support for pulse-audio / jack (see also below)
 - sudo apt-get install pulseaudio-module-jack
