@@ -40,7 +40,7 @@ bluetoothctl is communicating with bluetoothd through DBUS.
 
 You can observe HCI communication using `sudo btmon`
 
-see [DebuggingDBus](https://wiki.ubuntu.com/DebuggingDBus) - `sudo dbus-monitor --system`
+see also [DebuggingDBus](https://wiki.ubuntu.com/DebuggingDBus) - `sudo dbus-monitor --system`
 
 ## [linux Bluetooth **BlueZ**](https://github.com/bluez/bluez)
 
