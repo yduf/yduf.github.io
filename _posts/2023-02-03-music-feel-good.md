@@ -4,3 +4,5 @@ title: Feel Good Inc.
 tags: music
 ---
 > [Gorillaz - Drum Cover](https://www.youtube.com/watch?v=RqXEx3BJjPY)
+
+- [Gorillaz - Feel Good Inc - Drum cover (with scrolling Drum sheet)](https://www.youtube.com/watch?v=VxPoPhdOM3s)
