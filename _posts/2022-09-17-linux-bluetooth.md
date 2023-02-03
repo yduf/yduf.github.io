@@ -37,6 +37,15 @@ $ bluetoothctl     # interactive mode
 [bluetooth]# scan on
 {% endhighlight %}
 
+### [DebuggingBluetooth](https://wiki.ubuntu.com/DebuggingBluetooth)
+
+**bluetoothd** - This is the Bluetooth daemon (i.e. the stack). It provides the core operations (search for devices, pair, etc.) and Bluetooth profiles such as A2DP (music streaming), HID (human interface devices), etc. and exposes a DBus API for the applications to talk to it.
+
+bluetoothctl is only communicating with bluetoothd through DBUS.
+
+vs
+
+other tools that want to uses BlueZ directly
 
 ## [linux Bluetooth **BlueZ**](https://github.com/bluez/bluez)
 
