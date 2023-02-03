@@ -1,7 +1,7 @@
 ---
 title: Binary / Text encoding
 published: true
-tags: ascii binary text utf8 base64 encoding ruby c++ string single-header hash
+tags: ascii binary text utf8 base64 encoding string single-header ruby c++
 excerpt_separator: <!--more-->
 ---
 > if you wish to efficiently encode binary data as Unicode text, - [Efficiently encoding binary data in Unicode ](https://qntm.org/unicodings)
@@ -39,10 +39,12 @@ excerpt_separator: <!--more-->
 	- [qntm/ base65536](https://github.com/qntm/base65536) 
 - [stackoverflow](https://stackoverflow.com/a/971501/51386)
 
+{% highlight text %}
+Original:  64 bytes, 128 bytes in hex.  
 Base2048: ЗཟǷњϳݫЬߦՏԈ௰ڿƫ௪தͶޡഺཀވࡌੳٿ༲৩ত༥၄ঙџڸࠑحϷгଘƩƴߢய߅ϚƐγ๓ۑఞ (47 characters, 113 bytes)  
 Base64:   MJ7MSJwS1utMxA9QyQLytNDtd+5RGnx6m808qG1M2G+YndNbxf9JlnDaNCVbRbDP2DDoH2Bdz33FVC6TrpzXbw== (88 bytes)  
 Base58:   yP4cqy7jmaRDzC2bmcGNZkuQb3VdftMk6YH7ynQ2Qw4zktKsyA9fk52xghNQNAdkpF9iFmFkKh2bNVG4kDWhsok (87 bytes)  
-Original:  64 bytes, 128 bytes in hex.  
+{% endhighlight %}
 
 
 ## [Base64/UUencode](https://en.wikipedia.org/wiki/Uuencode)
