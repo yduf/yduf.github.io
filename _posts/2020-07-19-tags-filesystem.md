@@ -5,6 +5,9 @@ tags: tags filesystem
 ---
 > TMSU was born out of frustration with the hierarchical nature of filesystems - [Home](https://tmsu.org/) / [Stackoverflow](https://stackoverflow.com/questions/3263036/file-system-that-uses-tags-rather-than-folders)
 
+see also
+- [I am endlessly fascinated with content tagging systems](https://news.ycombinator.com/item?id=33248391)
+
 # Principle
 - [Designing better file organization around tags, not hierarchies](https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies#contents)
 
