@@ -31,7 +31,7 @@ we can map VSCode's build keyboard shortcut to task by making it of type `build`
 }
 {% endhighlight %}
 
-### [Debug Task](https://code.visualstudio.com/docs/editor/debugging) / [LLDB]({% post_url 2017-11-27-CG-meanmax %}) / [GDB]({% post_url 2023-02-03-debug-gdb %})
+### [Debug Task](https://code.visualstudio.com/docs/editor/debugging) / [LLDB]({% post_url 2022-09-26-debug-vscode-lldb %}) / [GDB]({% post_url 2023-02-03-debug-gdb %})
 - `Ctrl+F5` => Run
 - `F5` => Debug
 
