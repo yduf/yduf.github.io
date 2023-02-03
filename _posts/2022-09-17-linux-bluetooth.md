@@ -9,7 +9,7 @@ tags: bluetooth
 
 {% highlight bash %}
 $ dmesg | grep -i blue     # check module
-$  hciconfig -a            # hardware details
+$ hciconfig -a            # hardware details
 {% endhighlight %}
 
 {% highlight bash %}
