@@ -20,7 +20,7 @@ $ hciconfig -a            # hardware details
 {% endhighlight %}
 
 {% highlight bash %}
-$ bluetoothctl
+$ bluetoothctl     # interactive mode
 [bluetooth]# menu scan
 [bluetooth]# clear
 [bluetooth]# transport le
