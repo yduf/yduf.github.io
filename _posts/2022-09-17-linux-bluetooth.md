@@ -43,9 +43,7 @@ $ bluetoothctl     # interactive mode
 
 bluetoothctl is only communicating with bluetoothd through DBUS.
 
-vs
-
-other tools that want to uses BlueZ directly
+see [DebuggingDBus](https://wiki.ubuntu.com/DebuggingDBus) - `sudo dbus-monitor --system`
 
 ## [linux Bluetooth **BlueZ**](https://github.com/bluez/bluez)
 
