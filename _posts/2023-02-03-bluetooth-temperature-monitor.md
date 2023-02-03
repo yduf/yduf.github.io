@@ -18,7 +18,7 @@ tags: display temperature monitoring bluetooth hardware
 
 ### [Set scan parameters failed: Operation not permitted](https://unix.stackexchange.com/questions/96106/bluetooth-le-scan-as-non-root)
 
-**LE Scan is working with bluetoothctl** - `bluetoothctl scan le`
+**LE Scan is working with bluetoothctl non root** - `bluetoothctl scan le`
 But not with `sudo hcitool lescan`
 
 You can observe HCI communication using `sudo btmon`
