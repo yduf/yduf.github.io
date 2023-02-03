@@ -9,4 +9,4 @@ tags: music drums
 
 - [Gorillaz - On Melancholy Hill (Drum Cover)](https://www.youtube.com/watch?v=if-xeKkqvTY)
 
-- [https://drive.google.com/file/d/19mNTtA2vG8Rw7Rejlv3--0qWCHZ0_Csh/view](https://drive.google.com/file/d/19mNTtA2vG8Rw7Rejlv3--0qWCHZ0_Csh/view)
+- [pdf](https://drive.google.com/file/d/19mNTtA2vG8Rw7Rejlv3--0qWCHZ0_Csh/view)
