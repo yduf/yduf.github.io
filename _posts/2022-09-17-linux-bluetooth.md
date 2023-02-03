@@ -7,7 +7,7 @@ tags: bluetooth
 
 ## [bluetoothctl](https://www.makeuseof.com/manage-bluetooth-linux-with-bluetoothctl/)
 
-[bluetoothctl is a command line tool](https://unix.stackexchange.com/questions/631146/where-does-bluetoothctl-store-command-history)  which is shipped with BlueZ – Bluetooth protocol stack for Linux.
+[bluetoothctl is a command line tool](https://unix.stackexchange.com/questions/631146/where-does-bluetoothctl-store-command-history)  which is [shipped with BlueZ](https://github.com/bluez/bluez/search?q=bluetoothctl) – Bluetooth protocol stack for Linux.
 
 **Scanning for Nearby Devices**
 {% highlight bash %}
