@@ -24,6 +24,7 @@ $ bluetoothctl
 
 ## [linux Bluetooth **BlueZ**](https://github.com/pauloborges/bluez/blob/master/lib/hci_lib.h)
 
+- [Bluetooth programming in C with BlueZ](http://people.csail.mit.edu/albert/bluez-intro/c404.html)
 {% highlight bash %}
 sudo apt-get install bluetooth bluez libbluetooth-dev
 {% endhighlight %}
