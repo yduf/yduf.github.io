@@ -31,7 +31,7 @@ we can map VSCode's build keyboard shortcut to task by making it of type `build`
 }
 {% endhighlight %}
 
-### [Debug Task](https://code.visualstudio.com/docs/editor/debugging)
+### [Debug Task](https://code.visualstudio.com/docs/editor/debugging) / [LLDB]({% post_url 2017-11-27-CG-meanmax %}) / [GDB]({% post_url 2023-02-03-debug-gdb %})
 - `Ctrl+F5` => Run
 - `F5` => Debug
 
@@ -40,11 +40,6 @@ we can map VSCode's build keyboard shortcut to task by making it of type `build`
 "preLaunchTask": "build"
 {% endhighlight %}
 
-- [codeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb)
-
-- [gdb setup](https://github.com/Microsoft/vscode-cpptools/issues/106)
-- [gdb with input redirection](https://stackoverflow.com/questions/4758175/how-to-use-gdb-with-input-redirection)
-- [gdb - debugging with pipe](https://stackoverflow.com/questions/1456253/gdb-debugging-with-pipe)
 
 ### [C/C++ configurations](https://code.visualstudio.com/docs/cpp/config-msvc#_cc-configurations)
 - [c_cpp_properties.json reference](https://code.visualstudio.com/docs/cpp/c-cpp-properties-schema-reference)
