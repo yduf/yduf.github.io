@@ -61,8 +61,7 @@ However, Base65536 remains the state of the art for sending binary data through 
 Base65536 encodes data in a similar fashion to base64, but its alphabet, instead of being 64 characters long, is 65536 characters long. This means, one can map 16 bits of data into a single unicode codepoint.
 It is of course terribly inefficient, if you were to count the outputted bytes (especially when UTF-8 encoded), but if you count just the number of unicode characters, as for example Twitter does for it’s length limit, you can fit double the data per character.
    
-### [### [stackoverflow](https://stackoverflow.com/a/971501/51386)
-](https://stackoverflow.com/a/971501/51386)
+### [What is the most efficient binary to text encoding?](https://stackoverflow.com/a/971501/51386)
 
 {% highlight text %}
 Original:  64 bytes, 128 bytes in hex.  
