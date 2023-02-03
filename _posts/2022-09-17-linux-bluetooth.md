@@ -47,7 +47,6 @@ $ bluetoothctl     # interactive mode
 sudo apt-get install bluetooth bluez libbluetooth-dev
 {% endhighlight %}
 
-### [Set scan parameters failed: Input/output error](https://stackoverflow.com/questions/60668497/hcitool-lescan-set-scan-parameters-failed-input-output-error?noredirect=1)
 
 see also
 - [BlueZ](http://www.bluez.org/) - Official Linux Bluetooth protocol stack
