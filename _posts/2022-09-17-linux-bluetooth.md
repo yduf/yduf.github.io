@@ -26,7 +26,7 @@ $ bluetoothctl     # interactive mode
 [bluetooth]# menu scan
 [bluetooth]# clear
 [bluetooth]# transport le
-[bluetooth]# duplicate-data on
+[bluetooth]# duplicate-data on    # enable duplicate advert filter; you will only see one advert
 [bluetooth]# back
 [bluetooth]# scan on
 {% endhighlight %}
