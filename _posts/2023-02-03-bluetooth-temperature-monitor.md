@@ -23,6 +23,11 @@ But not with `sudo hcitool lescan`
 
 You can observe HCI communication using `sudo btmon`
 
+hcitool is not supported anymore, and behave like GoveeBTTempLogger.
+It seems that the code must be change to send reset cmd to fix the command disallowed, see:
+- [CYBT-413034-02: "LE Set Scan Parameters Command" returns "COMMAND DISALLOWED (0x0C)"](https://community.infineon.com/t5/Smart-Bluetooth/CYBT-413034-02-quot-LE-Set-Scan-Parameters-Command-quot-returns-quot-COMMAND/td-p/236681) -  You have to send HCI reset command first and see if you are getting a success response.
+- [LE connection failure with "Error: Command Disallowed" #864 ](https://github.com/noble/noble/issues/864) - resetting the device before connect (and a fraction of sleep as reset command doesn't have return event), solves this issue. 
+
 ### hcitool lescan
 {% highlight text %}
 @ RAW Open: hcitool (privileged) version 2.22                                              {0x0002} [hci0] 8.979713
