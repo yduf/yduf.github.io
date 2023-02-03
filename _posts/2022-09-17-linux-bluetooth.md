@@ -22,11 +22,10 @@ $ bluetoothctl
 [bluetooth]# scan on
 {% endhighlight %}
 
-## linux Bluetooth **BlueZ**
+## [linux Bluetooth **BlueZ**](https://github.com/pauloborges/bluez/blob/master/lib/hci_lib.h)
 
 {% highlight bash %}
 sudo apt-get install bluetooth bluez libbluetooth-dev
-sudo apt-get install  libbluetooth3-dbg # Library to use the BlueZ Linux Bluetooth stack with debugging symbols
 {% endhighlight %}
 
 ### [Set scan parameters failed: Input/output error](https://stackoverflow.com/questions/60668497/hcitool-lescan-set-scan-parameters-failed-input-output-error?noredirect=1)
