@@ -52,9 +52,7 @@ However, Base65536 remains the state of the art for sending binary data through 
 	- [qntm/ base65536](https://github.com/qntm/base65536) 
 	- [online](https://repl.it/@YvesDufournaud/HauntingGrandExecutable#index.js) example
     
-- [Base32768](https://github.com/qntm/base32768)
-
-Base32768 is a binary encoding optimised for UTF-16-encoded text.
+- [Base32768](https://github.com/qntm/base32768) - a binary encoding optimised for UTF-16-encoded text.
 
 - [Base65536](https://github.com/qntm/base65536) / [HN](https://news.ycombinator.com/item?id=14468818) - Base65536 is a binary encoding optimised for UTF-32-encoded text.
 	- in [Ruby](https://github.com/coderobe/base65536-ruby)
