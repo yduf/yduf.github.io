@@ -8,9 +8,8 @@ tags: bluetooth
 ## Troubleshooting
 
 {% highlight bash %}
-$ dmesg | grep -i blue
-
-$  hciconfig -a
+$ dmesg | grep -i blue     # check module
+$  hciconfig -a            # hardware details
 {% endhighlight %}
 
 {% highlight bash %}
@@ -24,4 +23,3 @@ $ bluetoothctl
 {% endhighlight %}
 
 ### [Set scan parameters failed: Input/output error](https://stackoverflow.com/questions/60668497/hcitool-lescan-set-scan-parameters-failed-input-output-error?noredirect=1)
-
