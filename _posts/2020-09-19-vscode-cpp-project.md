@@ -34,8 +34,7 @@ VSCode's build in keyboard shortcut to task by making it of type `build`. The ea
 {% endhighlight %}
 
 ### [Debug Task](https://code.visualstudio.com/docs/editor/debugging) / [LLDB]({% post_url 2022-09-26-debug-vscode-lldb %}) / [GDB]({% post_url 2023-02-03-debug-gdb %})
-- `Ctrl+F5` => Run
-- `F5` => Debug
+`Ctrl+F5` => Run / `F5` => Debug
 
 `launch.json`
 {% highlight json %}
