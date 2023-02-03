@@ -25,18 +25,44 @@ excerpt_separator: <!--more-->
 **†** Base85 is listed for completeness but all variants use characters which are considered hazardous for general use in 
 
 **\***  The Base1 encoding is not as simple as taking the binary as a place-value base 256 number. This would give no way to distinguish buffers with leading null bytes from one another. We have to encode the length of the source buffer as well. We do this by sorting all possible buffers by length and then lexicographically, then simply returning the index of the buffer in the list.
+
 ## [Unicode]({% post_url 2020-08-13-unicode %})
-### [BMP‑constrained](https://github.com/qntm/base65536)
+
+> To encode one additional bit per code point, we need to double the number of code points we use from 65,536 to 131,072. This would be a new encoding, Base131072, and its UTF-32 encoding efficiency would be 53% vs. 50% for Base65536. (Note that in UTF-16, Base32768 significantly outperforms either choice, and **in UTF-8, Base64 remains the preferred choice.**) - [Base efficiency](https://github.com/qntm/base65536)
+
 - Base2048  56%
 - Base32768  63%
+
+Base2048 sadly renders Base65536 obsolete for its original intended purpose of sending binary data through Twitter. Using Base2048, up to 385 octets can fit in a single Tweet. Compare with Base65536, which manages only 280 octets.
+
+However, Base65536 remains the state of the art for sending binary data through text-based systems which naively counts Unicode code points, particularly those using the fixed-width UTF-32 encoding.
+
+### [BMP‑constrained](https://github.com/qntm/base65536)
+
 
 ### [Full Unicode]({% post_url 2020-08-13-unicode %})
 - [Base65536](https://github.com/qntm/base65536) 56%
 
 ## [Scheme and overhead](https://en.wikipedia.org/wiki/Binary-to-text_encoding)
+
+
 - [Efficiently encoding binary data in Unicode ](https://qntm.org/unicodings)
+
 - [base2048 ](https://github.com/qntm/base2048) / [HN](https://news.ycombinator.com/item?id=31281305) - a binary encoding optimised for transmitting data through Twitter, up to 385 octets can fit in a single Tweet. Compare with Base65536, which manages only 280 octets.
 	- [qntm/ base65536](https://github.com/qntm/base65536) 
+	- [online](https://repl.it/@YvesDufournaud/HauntingGrandExecutable#index.js) example
+    
+- [Base32768](https://github.com/qntm/base32768)
+
+Base32768 is a binary encoding optimised for UTF-16-encoded text.
+
+- [Base65536](https://github.com/qntm/base65536) / [HN](https://news.ycombinator.com/item?id=14468818) - Base65536 is a binary encoding optimised for UTF-32-encoded text.
+	- in [Ruby](https://github.com/coderobe/base65536-ruby)
+    - [Base65536: The (not very serious) Successor of Base64](https://www.isticktoit.net/?p=1504)
+
+Base65536 encodes data in a similar fashion to base64, but its alphabet, instead of being 64 characters long, is 65536 characters long. This means, one can map 16 bits of data into a single unicode codepoint.
+It is of course terribly inefficient, if you were to count the outputted bytes (especially when UTF-8 encoded), but if you count just the number of unicode characters, as for example Twitter does for it’s length limit, you can fit double the data per character.
+   
 - [stackoverflow](https://stackoverflow.com/a/971501/51386)
 
 {% highlight text %}
