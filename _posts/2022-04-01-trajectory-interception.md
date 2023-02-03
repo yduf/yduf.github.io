@@ -74,3 +74,7 @@ Once solved it can be used to derived $C(t)}$ (from $\vec{BC(t)}$), which is sti
 - [How to find the interception coordinates of a moving target in 3D space? (SO)](https://stackoverflow.com/questions/17204513/how-to-find-the-interception-coordinates-of-a-moving-target-in-3d-space)
 - [Calculating an intercept course to a target with constant direction and velocity (in a 2-dimensional plane)](http://jaran.de/goodbits/2011/07/17/calculating-an-intercept-course-to-a-target-with-constant-direction-and-velocity-in-a-2-dimensional-plane/)
 - [Radiodrome](https://en.wikipedia.org/wiki/Radiodrome) - the pursuit curve followed by a point that is pursuing another linearly-moving point, known as the "dog curve".
+
+
+### relevant
+- [Math Breakdown: Anime Homing Missiles](https://blog.littlepolygon.com/posts/missile/) / [HN](https://news.ycombinator.com/item?id=34630730)
