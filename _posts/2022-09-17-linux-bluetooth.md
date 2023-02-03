@@ -25,8 +25,8 @@ Function implemented by Bluez can be tested through the interactive client `blue
 $ bluetoothctl     # interactive mode
 [bluetooth]# menu scan
 [bluetooth]# clear
-[bluetooth]# transport le
-[bluetooth]# duplicate-data on    # enable duplicate advert filter; you will only see one advert
+[bluetooth]# transport le         # enable low energy mode
+[bluetooth]# duplicate-data on    # enable duplicate advert filter: you will only see one advert
 [bluetooth]# back
 [bluetooth]# scan on
 {% endhighlight %}
