@@ -14,3 +14,9 @@ tags: display temperature monitoring bluetooth hardware
 [NEW] Device A4:C1:38:12:7D:CD GVH5075_7DCD
 [NEW] Device A4:C1:38:E8:44:16 GVH5075_4416
 {% endhighlight %}
+
+
+### Error using GoveeBTTempLogger
+
+see [Set scan parameters failed: Input/output error](https://stackoverflow.com/questions/60668497/hcitool-lescan-set-scan-parameters-failed-input-output-error?noredirect=1) - but no answer
+Scan is working with bluetoothctl
