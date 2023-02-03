@@ -5,10 +5,17 @@ tags: bluetooth
 ---
 > 
 
+## [bluetoothctl](https://www.makeuseof.com/manage-bluetooth-linux-with-bluetoothctl/)
+**Scanning for Nearby Devices**
+{% highlight bash %}
+$ bluetoothctl scan on
+{% endhighlight %}
+
 ## Troubleshooting
 
 {% highlight bash %}
-$ dmesg | grep -i blue     # check module
+$ sudo systemctl status bluetooth # check service
+$ dmesg | grep -i blue    # check module
 $ hciconfig -a            # hardware details
 {% endhighlight %}
 
@@ -21,6 +28,7 @@ $ bluetoothctl
 [bluetooth]# back
 [bluetooth]# scan on
 {% endhighlight %}
+
 
 ## [linux Bluetooth **BlueZ**](https://github.com/pauloborges/bluez/blob/master/lib/hci_lib.h)
 
