@@ -30,7 +30,7 @@ $ bluetoothctl     # interactive mode
 {% endhighlight %}
 
 
-## [linux Bluetooth **BlueZ**](https://github.com/pauloborges/bluez/blob/master/lib/hci_lib.h)
+## [linux Bluetooth **BlueZ**](https://github.com/bluez/bluez)
 
 - [Bluetooth programming in C with BlueZ](http://people.csail.mit.edu/albert/bluez-intro/c404.html)
 
