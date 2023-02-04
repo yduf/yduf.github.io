@@ -3,11 +3,8 @@ published: true
 title: null
 tags: c++ memory video blog
 ---
-Historically stl::allocator were though to overcome issue with near and far pointer on intel archictecture and share a lot of issue from this time.
-
-Andreid revisit how they should have been implemented.
-
-[![caption](https://img.youtube.com/vi/LIb3L4vKZ7U/0.jpg)](https://www.youtube.com/watch?v=LIb3L4vKZ7U)
+> Historically `stl::allocator` were though to overcome issue with near and far pointer on intel archictecture and share a lot of issue from this time.  
+> Andreid revisit how they should have been implemented. - [CppCon](https://www.youtube.com/watch?v=LIb3L4vKZ7U)
 
 which gives interface:
 - allocate
