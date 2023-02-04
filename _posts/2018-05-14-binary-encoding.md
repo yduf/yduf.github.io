@@ -8,6 +8,7 @@ excerpt_separator: <!--more-->
 > -    in UTF-8, use Base64 or Base85
 > -    in UTF-16, use Base32768
 > -    in UTF-32, use Base65536
+<!--more-->
 
 ## [ASCII‑constrained](https://en.wikipedia.org/wiki/ASCII)
 - [Base1](https://github.com/qntm/base1) \*
@@ -21,7 +22,6 @@ excerpt_separator: <!--more-->
 - [Base-122](https://github.com/kevinAlbs/Base122)
 - [yEnc](https://en.wikipedia.org/wiki/YEnc) - 8-bit encoding method, 252 of the 256 possible bytes are passed through unencoded as a single byte, whether that result is a printable ASCII character or not. Only NUL, LF, CR, and = are escaped.
 
-<!--more-->
 **†** Base85 is listed for completeness but all variants use characters which are considered hazardous for general use in 
 
 **\***  The Base1 encoding is not as simple as taking the binary as a place-value base 256 number. This would give no way to distinguish buffers with leading null bytes from one another. We have to encode the length of the source buffer as well. We do this by sorting all possible buffers by length and then lexicographically, then simply returning the index of the buffer in the list.
