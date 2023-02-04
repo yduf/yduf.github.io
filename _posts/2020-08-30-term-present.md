@@ -1,7 +1,7 @@
 ---
 published: true
 title: Presentation in terminal
-tags: term cli
+tags: term cli markdown
 ---
 > A terminal-based presentation tool with colors and effects. - [present](https://github.com/vinayak-mehta/present)
 
