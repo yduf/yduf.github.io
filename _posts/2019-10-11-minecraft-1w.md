@@ -1,7 +1,7 @@
 ---
 published: true
 title: Coding Minecraft in One Week
-tags: games c++ opengl software programming dev minecraft mesh
+tags: game-engine c++ opengl minecraft mesh
 ---
 ## [Hopson](https://www.youtube.com/watch?v=Xq3isov6mZ8)
 
