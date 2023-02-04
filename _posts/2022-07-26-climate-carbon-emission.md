@@ -7,6 +7,11 @@ tags: despair.com climate-war science co2 quote
 > 
 > On est jeune tant qu'on se croit eternel et invicible.
 
+see also
+- [Earth's CO2 Home Page](https://www.co2.earth/) - 2022/11 417.51ppm
+	- 2022 July Global Temperatures +1.15°C 3rd warmest July since 1880
+	- 2021 Global Temperatures +1.12°C 6th warmest year since 1880
+
 - l'alimentation/agriculture c'est 1/3 des emissions planétaire (corrélé a la taille de la population).
 - le digitale c'est 4% des emissions totales (construction ordinateur + fonctionnement)
 	- on a interet a renouveller le plus souvent possible les serveurs (pour reduire les emissions de fonctionnements),
