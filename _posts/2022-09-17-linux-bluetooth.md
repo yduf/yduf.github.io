@@ -38,7 +38,7 @@ $ bluetoothctl     # interactive mode
 
 bluetoothctl is communicating with bluetoothd through DBUS.
 
-You can observe HCI communication using `sudo btmon`
+You can observe HCI communication using [`sudo btmon`](https://wiki.ubuntu.com/DebuggingBluetooth#How_to_use_btmon_to_capture_an_HCI_trace)
 
 see also [DebuggingDBus](https://wiki.ubuntu.com/DebuggingDBus) - `sudo dbus-monitor --system`
 
