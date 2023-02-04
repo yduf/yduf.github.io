@@ -3,7 +3,7 @@ published: true
 title: Coding Minecraft in One Week
 tags: game-engine c++ opengl minecraft mesh
 ---
-## [Hopson](https://www.youtube.com/watch?v=Xq3isov6mZ8)
+> [Hopson](https://www.youtube.com/watch?v=Xq3isov6mZ8)
 
 - [Github](https://github.com/Hopson97/MineCraft-One-Week-Challenge)
 - [What Is It Like Today?](https://www.youtube.com/watch?v=G81obcacVGM)
