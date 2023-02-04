@@ -1,7 +1,7 @@
 ---
 published: true
 title: Chauffage electrique
-tags: home-automation
+tags: home-automation temperature monitoring
 ---
 > You’re thinking of a relay cutting power to the radiator as a whole. That is indeed not a good idea and may damage it long term. - [Fil pilote](https://community.home-assistant.io/t/fil-pilote-easy-interface/106286/16) / [adomotique](https://www.adomotique.com/content/32-commande-distance-chauffage-fil-pilote)
 
