@@ -5,6 +5,11 @@ tags: home-automation
 ---
 > You’re thinking of a relay cutting power to the radiator as a whole. That is indeed not a good idea and may damage it long term. - [Fil pilote](https://community.home-assistant.io/t/fil-pilote-easy-interface/106286/16) / [adomotique](https://www.adomotique.com/content/32-commande-distance-chauffage-fil-pilote)
 
+see also
+- [Automating Heating with Home Assistant](https://seanblanchfield.com/2022/02/automating-heating-with-home-assistant)
+
+## Controls Fil pilote
+
 There are 6 commands in total. Two of them require a microcontroller to generate, as they use precise signal timing. The other 4 can be generated using relays and diodes. Two basic commands can be generated without a diode.
 
 **Without diode, only a relay needed:**  
