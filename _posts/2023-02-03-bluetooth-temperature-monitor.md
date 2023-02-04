@@ -101,5 +101,7 @@ hci_le_set_scan_parameters -> hci_send_req -> hci_send_cmd -> writev
 ...
 {% endhighlight %}
 
+also kernel change
+- [Invalid Params issue when doing hciconfig hci0 reset](https://stackoverflow.com/questions/61935284/invalid-params-issue-when-doing-hciconfig-hci0-reset)
 
 see [Set scan parameters failed: Input/output error](https://stackoverflow.com/questions/60668497/hcitool-lescan-set-scan-parameters-failed-input-output-error?noredirect=1) - but no answer
