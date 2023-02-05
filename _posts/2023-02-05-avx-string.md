@@ -1,7 +1,7 @@
 ---
 published: true
 title: string & array ops with SIMD
-tags: string array vector avx
+tags: string vector avx
 ---
 - [Removing characters from strings faster with AVX-512](https://lemire.me/blog/2022/04/28/removing-characters-from-strings-faster-with-avx-512/)
 - [Multiply packed 8 bit integers by vectors of floats using intel intrinsics](https://stackoverflow.com/questions/62678875/multiply-packed-8-bit-integers-by-vectors-of-floats-using-intel-intrinsics?rq=1)
