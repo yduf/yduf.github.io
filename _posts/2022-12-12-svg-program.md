@@ -8,3 +8,4 @@ tags: svg python lib
 see also:
 - [rcairo](https://github.com/rcairo/rcairo) - Ruby bindings for cairo
 - [Cairo backends](https://zetcode.com/gfx/cairo/cairobackends/)
+- [Experimenting A New Syntax To Write SVG](https://yuanchuan.dev/experimenting-a-new-syntax-to-write-svg)
