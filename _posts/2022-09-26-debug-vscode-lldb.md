@@ -7,6 +7,8 @@ tags: debug-c++ vscode
 
 see also
 - [GDB Vs LLDB debuggers](https://stackoverflow.com/questions/9707883/gdb-vs-lldb-debuggers)
+- [Scripting Bridge API](https://lldb.llvm.org/design/sbapi.html) - The SB APIs constitute the stable C++ API that lldb presents to external clients, and which get processed by SWIG to produce the Python bindings to lldb.
+	- [Lua Scripting in LLDB](https://jonasdevlieghere.com/lua-scripting-in-lldb/)
 
 ## VSCode
 - [CodeLLDB User's Manual](https://github.com/vadimcn/vscode-lldb/blob/v1.7.4/MANUAL.md) - how to use this extension.
