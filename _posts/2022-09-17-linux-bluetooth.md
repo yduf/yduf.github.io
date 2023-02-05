@@ -13,6 +13,7 @@ $ bluetoothctl scan on
 ## Troubleshooting
 
 {% highlight bash %}
+$ rfkill                        #  lists the wireless adapters 
 $ sudo systemctl status bluetooth # check service
 $ dmesg | grep -i blue    # check module
 $ hciconfig -a            # hardware details
