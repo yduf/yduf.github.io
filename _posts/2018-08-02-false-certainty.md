@@ -25,3 +25,6 @@ I’m wondering if part of my caution about picking fights comes from picking fi
 - Worst of all: people not willing to engage in any argument at all. People who can’t defend their plan without getting angry, but also the ones who can’t help you unravel a problem or bounce ideas.
 
 By opposing all argument, these characters are also the enemy of finishing. But by not fighting them with the right tools, you’re the enemy of finishing too.
+
+see also
+- [Logical fallacies]({% post_url 2023-02-06-logical-fallacy %})
