@@ -16,7 +16,7 @@ good for extending to a more extensive ray tracer if you get excited and want to
 - [Real-Time Rendering Resources](http://www.realtimerendering.com/#books-small-table)
 - [Ray tracing with OpenGL Compute Shaders](https://github.com/LWJGL/lwjgl3-wiki/wiki/2.6.1.-Ray-tracing-with-OpenGL-Compute-Shaders-%28Part-I%29)
 - [GPU RAy tracing](https://medium.com/@jcowles/gpu-ray-tracing-in-one-weekend-3e7d874b3b0f)
-
+- [Ray Tracing in One Weekend C++ Tutorial](https://www.youtube.com/watch?v=EMdhQ5OZNRM)
 
 <iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/lssBD7?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
 
