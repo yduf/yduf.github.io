@@ -10,5 +10,6 @@ Here's one of its most important use cases. Have you ever had you debugger stupi
 see also
 - [Time Travel Debugger]({% post_url 2021-09-15-debug-time-travel %})
 - [	Logging C Functions](https://news.ycombinator.com/item?id=31443198) - features of the Cosmopolitan Libc runtime is its --ftrace flag that logs C function calls.
+- [Error Context ](http://www.ilikebigbits.com/2016_02_28_error_context.html)– a stack trace for data
 
 ![caption](https://www.scott-a-s.com/files/state_view.png)
