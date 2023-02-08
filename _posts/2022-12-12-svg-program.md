@@ -9,5 +9,6 @@ see also:
 - [rcairo](https://github.com/rcairo/rcairo) - Ruby bindings for cairo
 - [Cairo backends](https://zetcode.com/gfx/cairo/cairobackends/)
 - [Experimenting A New Syntax To Write SVG](https://yuanchuan.dev/experimenting-a-new-syntax-to-write-svg)
-- [	Reanimate: Build declarative animations with SVG and Haskell](https://news.ycombinator.com/item?id=34074380)
-
+- [Reanimate: Build declarative animations with SVG and Haskell](https://news.ycombinator.com/item?id=34074380)
+- [Victor](https://github.com/DannyBen/victor) -  a direct Ruby-to-SVG builder. All method calls are converted directly to SVG elements.
+	- [Converting an SVG to absolute command in Ruby](https://stackoverflow.com/questions/68870185/converting-an-svg-to-absolute-command-in-ruby)
