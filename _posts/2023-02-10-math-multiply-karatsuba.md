@@ -5,5 +5,7 @@ tags: math multiply
 ---
 >  How Karatsuba's algorithm gave us new ways to multiply - [O(N^1.6) 1960](https://www.youtube.com/watch?v=cCKOl5li6YM)
 
-see also
-- fast fourier transform 
+
+- fast fourier transform O(?)
+- best today is O(N log N)
+
