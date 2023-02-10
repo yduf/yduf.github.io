@@ -9,3 +9,6 @@ tags: math multiply
 - fast fourier transform O(?)
 - best today is O(N log N)
 
+see also
+- [Calcul Mental]({% post_url 2022-09-04-calcul-mental %})
+
