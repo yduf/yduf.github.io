@@ -12,6 +12,7 @@ tags: video youtube
 
 see also
 - [Yark](https://github.com/Owez/yark) / [HN](https://news.ycombinator.com/item?id=34264487)- YouTube archiving made simple.
+- [ Invidious as youtube cache #260 ](https://github.com/iv-org/invidious/issues/260) / [Is there a good way to cache YouTube videos on my home network.](https://www.reddit.com/r/selfhosted/comments/fzokzm/is_there_a_good_way_to_cache_youtube_videos_on_my/)
 
 ## Youtube Alternatives
 - [Invidious](https://github.com/iv-org/invidious) is an alternative front-end to YouTube.
