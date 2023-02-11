@@ -7,3 +7,4 @@ tags: NN stable-diffusion image paint art
 
 see laso
 - [Comment ces IA inventent-elles des images ?](https://www.youtube.com/watch?v=tdelUss-5hY) - stable diffusion epliqué.
+	- apprentissage supervisé vs non-supervisé
