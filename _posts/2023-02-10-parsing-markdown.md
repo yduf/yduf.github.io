@@ -5,6 +5,8 @@ tags: markdown compiler
 ---
 > [kramdown](https://kramdown.gettalong.org/) - fast, pure-Ruby Markdown-superset converter
 
+ChatGPT is able to mostly code that parser itself while guided.
+
 Alternatives 
 - [ redcarpet](https://github.com/vmg/redcarpet) - a Ruby library for Markdown processing
 
