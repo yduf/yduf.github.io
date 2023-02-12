@@ -26,7 +26,7 @@ end
     urls
   end
 
-markdown_text = File.read("/home/yves/yduf.github.io/_posts/2023-02-04-doc-mermaid.md")
+markdown_text = File.read("input.md")
 urls = extract_markdown_urls(markdown_text)
 
 puts urls
