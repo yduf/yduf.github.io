@@ -7,3 +7,6 @@ tags: ruby http client
 
 - [slideshare - 2016](https://fr.slideshare.net/ZoranMajstorovic1/ruby-http-clients)
 - [slideshare - 2012](https://fr.slideshare.net/HiroshiNakamura/rubyhttp-clients-comparison)
+
+see also
+- [The HTTP crash course nobody asked for](https://news.ycombinator.com/item?id=33280605)
