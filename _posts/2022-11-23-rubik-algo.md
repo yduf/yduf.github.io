@@ -10,7 +10,7 @@ tags: rubik
 ## [Methode debutante](https://www.youtube.com/watch?v=E29pksDLVRQ)
 - [Le belge simplifié !](https://www.youtube.com/watch?v=HSDXq6Ed4Hw)
 - [face jaune](https://www.youtube.com/watch?v=BBCGVhUORNQ)
-	- la croix ( 0 , I)
+	- la croix ( 0 , I) see below
     
 
 # [Method Fridrich](https://www.youtube.com/watch?v=keuarQZmDAA) - review
