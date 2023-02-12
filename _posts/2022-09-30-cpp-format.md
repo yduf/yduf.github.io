@@ -8,6 +8,7 @@ tags: c++ string format single-header
 - [{fmt}](https://github.com/fmtlib/fmt) an open-source formatting library providing a fast and safe alternative to C stdio and C++ iostreams. 
 	- see [Motivations](https://github.com/fmtlib/fmt#motivation)
     - [header-only mode](https://stackoverflow.com/questions/66944554/how-to-use-fmt-library-in-the-header-only-mode)
+    - Implementation of C++20 std::format
 
 ### C++20
 - [Printing Formatted Strings in C++20](https://bw.org/2021/08/09/cpp20-print/)
