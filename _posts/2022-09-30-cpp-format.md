@@ -1,7 +1,7 @@
 ---
 published: true
 title: C++ format
-tags: c++ string single-header
+tags: c++ string format single-header
 ---
 > How to get fprintf results as a std::string w/o sprintf - [SO](https://stackoverflow.com/questions/69738/c-how-to-get-fprintf-results-as-a-stdstring-w-o-sprintf)
 
