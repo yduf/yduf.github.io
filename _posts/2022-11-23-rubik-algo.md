@@ -40,15 +40,14 @@ Obtenir la croix jaune
 - [F R U R' U' F'](https://youtu.be/FZJq-VK5Ngo?t=165) - trait ou point
 - [F U R U' R' F'](https://youtu.be/FZJq-VK5Ngo?t=193) - virgule
 	- R' U' F' U F R
-    
-Completer avec les OLL adaptés
+ 
 
-## [Les OLL](https://www.youtube.com/watch?v=mqvxojuUFy4&list=PLh9akXp2EH2D1MBpl8gb0w2WM0eiailpB&index=8) - #57
+## Completer avec [Les OLL](https://www.youtube.com/watch?v=mqvxojuUFy4&list=PLh9akXp2EH2D1MBpl8gb0w2WM0eiailpB&index=8) adaptés - #57
 
-[R U R' U R U2 R'](https://youtu.be/mqvxojuUFy4?t=121)  
+[R U R' U R U2 R'](https://youtu.be/mqvxojuUFy4?t=121) - cross 1  
 R U2 R' U' R U' R'
 
-[R U2 R' U' R U R' U' R U' R'](https://youtu.be/mqvxojuUFy4?t=181)  
+[R U2 R' U' R U R' U' R U' R'](https://youtu.be/mqvxojuUFy4?t=181) - cross 2  
 R U2 R2 U' R2 U' R2 U2 R
 
 [R2 D R' U2 R D' R' U2 R'](https://youtu.be/FZJq-VK5Ngo?t=610) - 2 up
