@@ -15,4 +15,4 @@ int32_t a = 0x01234567
 
 see also
 - [htonl() vs __builtin_bswap32()](https://stackoverflow.com/questions/21527957/htonl-vs-builtin-bswap32) - reverse byte order depending or not on localhost architecture
-	- htonl == host to network long
+	- htonl == host to network long / htons => short
