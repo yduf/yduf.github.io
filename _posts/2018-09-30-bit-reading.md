@@ -19,3 +19,4 @@ see also
     - Is there a difference between ntohl() and htonl() ?
 => They do the exact same thing but have 2 different names. It doesn't matter which one you call.
 - [GNU C has a uint64_t __builtin_bswap64 (uint64_t x)](https://stackoverflow.com/questions/36497605/how-to-make-gcc-generate-bswap-instruction-for-big-endian-store-without-builtins/36584577#36584577)
+- [std::byteswap](https://en.cppreference.com/w/cpp/numeric/byteswap) - since C++23
