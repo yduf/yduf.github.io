@@ -7,6 +7,8 @@ tags: bluetooth
 
 - [What are BLE Beacons?](https://www.inpixon.com/technology/standards/bluetooth-low-energy) -  small, versatile, and low-power Bluetooth transmitters that can be detected by wireless devices like BLE-enabled smartphones. Beacons can be deployed in fixed positions, such as mounted on walls or structures, or placed on mobile assets, to provide location references for indoor positioning applications.
 
+- [What is RSSI and its acceptable signal strength? ](https://helpcenter.engeniustech.com/hc/en-us/articles/234761008-What-is-RSSI-and-its-acceptable-signal-strength-) - RSSI stands for Received Signal Strength Indicator. It is an estimated measure of power level that an RF client device is receiving from an access point or router. At larger distances, the signal gets weaker and the wireless data rates get slower, leading to a lower overall data throughput. Signal is measured by the receive signal strength indicator (RSSI), which in most cases indicates how well a particular radio can hear the remote connected client radios. 
+
 **Scanning for Nearby Devices**
 {% highlight bash %}
 $ bluetoothctl scan on
