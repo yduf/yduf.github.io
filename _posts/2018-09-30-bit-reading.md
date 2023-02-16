@@ -16,4 +16,6 @@ int32_t a = 0x01234567
 see also
 - [htonl() vs __builtin_bswap32()](https://stackoverflow.com/questions/21527957/htonl-vs-builtin-bswap32) - reverse byte order depending or not on localhost architecture
 	- [htonl == host to network long / htons => short / htoll => u64 ? ](https://stackoverflow.com/a/30386846/51386)
+    - Is there a difference between ntohl() and htonl() ?
+=> They do the exact same thing but have 2 different names. It doesn't matter which one you call.
 - [GNU C has a uint64_t __builtin_bswap64 (uint64_t x)](https://stackoverflow.com/questions/36497605/how-to-make-gcc-generate-bswap-instruction-for-big-endian-store-without-builtins/36584577#36584577)
