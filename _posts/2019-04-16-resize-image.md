@@ -17,3 +17,6 @@ tags: linux image crop resize how-to
 - Select images, open them with gthumb
 - Tools menu / Resize Images option
 - Execute
+
+see also
+- [	The dangers behind image resizing ](https://news.ycombinator.com/item?id=34816918) - study degenerate case for various resizing algorithm
