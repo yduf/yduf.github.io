@@ -5,6 +5,8 @@ tags: bluetooth
 ---
 > [bluetoothctl](https://www.makeuseof.com/manage-bluetooth-linux-with-bluetoothctl/) is a [command line tool](https://www.linux-magazine.com/Issues/2017/197/Command-Line-bluetoothctl)  which is [shipped with BlueZ](https://github.com/bluez/bluez/search?q=bluetoothctl) – Bluetooth protocol stack for Linux.
 
+- [What are BLE Beacons?](https://www.inpixon.com/technology/standards/bluetooth-low-energy) -  small, versatile, and low-power Bluetooth transmitters that can be detected by wireless devices like BLE-enabled smartphones. Beacons can be deployed in fixed positions, such as mounted on walls or structures, or placed on mobile assets, to provide location references for indoor positioning applications.
+
 **Scanning for Nearby Devices**
 {% highlight bash %}
 $ bluetoothctl scan on
