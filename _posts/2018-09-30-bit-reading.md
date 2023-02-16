@@ -1,7 +1,7 @@
 ---
 published: true
 title: Reading bits in far too many ways
-tags: bits c++ blog
+tags: bits c++ blog network
 ---
 > It turns out that MSB-first and LSB-first packing conventions both have advantages and disadvantages, and it’s much more useful to think of them as tools with different areas of application than it is to designate one as the “right way” and the other as the “wrong way”. - [The ryg blog part 1](https://fgiesen.wordpress.com/2018/02/19/reading-bits-in-far-too-many-ways-part-1/) / [2](https://fgiesen.wordpress.com/2018/02/20/reading-bits-in-far-too-many-ways-part-2/) / [3](https://fgiesen.wordpress.com/2018/09/27/reading-bits-in-far-too-many-ways-part-3/)
 
@@ -13,3 +13,5 @@ int32_t a = 0x01234567
 
 [ ![caption](https://bogotobogo.com/cplusplus/images/smallprograms/Little_Big_Endians.png)](https://bogotobogo.com/Embedded/Little_endian_big_endian_htons_htonl.php)
 
+see also
+- [htonl() vs __builtin_bswap32()](https://stackoverflow.com/questions/21527957/htonl-vs-builtin-bswap32) - reverse byte order.
