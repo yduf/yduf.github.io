@@ -14,4 +14,4 @@ int32_t a = 0x01234567
 [ ![caption](https://bogotobogo.com/cplusplus/images/smallprograms/Little_Big_Endians.png)](https://bogotobogo.com/Embedded/Little_endian_big_endian_htons_htonl.php)
 
 see also
-- [htonl() vs __builtin_bswap32()](https://stackoverflow.com/questions/21527957/htonl-vs-builtin-bswap32) - reverse byte order.
+- [htonl() vs __builtin_bswap32()](https://stackoverflow.com/questions/21527957/htonl-vs-builtin-bswap32) - reverse byte order depending or not on localhost architecture
