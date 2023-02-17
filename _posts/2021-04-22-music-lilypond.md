@@ -26,6 +26,15 @@ convert-ly tuxguitar_export.ly > converted.ly
 
 - [MuseScore](https://musescore.org/en)
 
+## Doc
+- [intro](https://lilypond.org/website/text-input.html)
+	- Notes are encoded with letters and numbers. 
+    - Alterations are made with different names: add -`is` for sharp, and -`es` for flat.
+    - enclose pitches in `< >` for chords
+    - Special commands are entered with backslashes.
+- [tutorial](http://lilypond.org/doc/v2.22/Documentation/learning/simple-notation)
+
+- [Line breaking](http://lilypond.org/doc/v2.18/Documentation/notation/line-breaking) ` \break`
 ## [Drums](https://lilypond.org/doc/v2.21/Documentation/notation/common-notation-for-percussion)
 
 With the exception of the snare and bass drum, there seems to be no consensus about where individual sound sources should be placed on the staff. - [Customizing Note Layout](https://lilypondcookbook.com/post/74735874981/drum-music-4-customizing-note-layout)
@@ -40,13 +49,7 @@ With the exception of the snare and bass drum, there seems to be no consensus ab
 ## Guitar
 ![caption](https://lilypond.org/doc/v2.22/Documentation/24/lily-9d3837f7.png)
 
-### Doc
-- [intro](https://lilypond.org/website/text-input.html)
-	- Notes are encoded with letters and numbers. 
-    - Alterations are made with different names: add -`is` for sharp, and -`es` for flat.
-    - enclose pitches in `< >` for chords
-    - Special commands are entered with backslashes.
-- [tutorial](http://lilypond.org/doc/v2.22/Documentation/learning/simple-notation)
+
 - [Guitar ref](http://lilypond.org/doc/v2.19/Documentation/notation/common-notation-for-fretted-strings.en.html)
 	- [tablatures](https://lilypond.org/doc/v2.22/Documentation/notation/common-notation-for-fretted-strings#default-tablatures)
     - [Fret](https://lilypond.org/doc/v2.22/Documentation/notation/common-notation-for-fretted-strings#custom-tablatures)
