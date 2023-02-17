@@ -3,7 +3,7 @@ published: true
 title: LilyPond (Music sheet)
 tags: music write guitar tab drums vscode
 ---
-> LilyPond is a music engraving program, devoted to producing the highest-quality sheet music possible - [lilypond.org](http://lilypond.org/)
+> LilyPond is a music engraving program, devoted to producing the highest-quality sheet music possible - [lilypond.org](http://lilypond.org/) / [wikipedia](https://en.wikipedia.org/wiki/LilyPond)
 
 ![caption](http://lilypond.org/pictures/bwv861-lilypond.png)
 
@@ -65,6 +65,3 @@ With the exception of the snare and bass drum, there seems to be no consensus ab
     - [key signature](https://lilypond.org/doc/v2.18/Documentation/learning/accidentals-and-key-signatures.en.html)
     
 - [advanced tutorial](http://www.artsulger.com/2007/03/lilypond-notation-program.html)
-
-
-
