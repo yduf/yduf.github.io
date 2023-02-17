@@ -8,7 +8,10 @@ tags: file-manager
 ## Nemo
 
 ### Emblems
+metadata is stored by GVFS in `~/.local/share/gvfs-metadata/`, use [GIO API](https://docs.gtk.org/gio/) to have access to those attributes in your own program.
+
 - [Backup emblems](https://forums.linuxmint.com/viewtopic.php?t=281724) - ` emblems are stored in ~/.local/share/gvfs-metadata`
+
 
 {% highlight bash %}
 $ gio info /path/to/folder | grep emblems # get embles
