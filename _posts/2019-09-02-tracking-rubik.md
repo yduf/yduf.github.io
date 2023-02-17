@@ -10,7 +10,8 @@ tags: rubik opencv robot lego
 - [Reading colors of a rubik's cube](https://stackoverflow.com/questions/25563751/reading-colors-of-a-rubiks-cube-using-opencv)
 
 
-## Cube Solver
+## [Cube Solver](https://medium.com/@brad.hodkinson2/writing-code-to-solve-a-rubiks-cube-7bf9c08de01f)
+
 - [Robots](https://ruwix.com/the-rubiks-cube/lego-rubiks-cube-robots-rubot2/)
 
 - [Cube Solver Robot With Arduino](https://www.instructables.com/Cool-Cube-Solver-Robot-With-Arduino/)
