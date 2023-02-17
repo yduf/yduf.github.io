@@ -46,6 +46,7 @@ With the exception of the snare and bass drum, there seems to be no consensus ab
 - [Noting a buzz roll](https://lilypondcookbook.com/post/108846925424/noting-a-buzz-roll)
 - [Showing "4/4" instead of "C"](https://lists.gnu.org/archive/html/lilypond-user/2010-11/msg00326.html) -  [`\numericTimeSignature`](http://lilypond.org/doc/v2.12/Documentation/user/lilypond/Displaying-rhythms#Time-signature)
 - [Isolated percent repeats](https://lilypond.org/doc/v2.22/Documentation/snippets/repeats#repeats-isolated-percent-repeats)
+- [Extend measure so it occupies whole line](https://music.stackexchange.com/questions/24780/extend-measure-so-it-occupies-whole-line)
 
 ## Guitar
 ![caption](https://lilypond.org/doc/v2.22/Documentation/24/lily-9d3837f7.png)
