@@ -35,6 +35,7 @@ With the exception of the snare and bass drum, there seems to be no consensus ab
 - [Drum Music 1 - Getting Started](https://lilypondcookbook.com/post/74312396803/drum-music-1-getting-started)
 - [Noting a buzz roll](https://lilypondcookbook.com/post/108846925424/noting-a-buzz-roll)
 - [Showing "4/4" instead of "C"](https://lists.gnu.org/archive/html/lilypond-user/2010-11/msg00326.html) -  [`\numericTimeSignature`](http://lilypond.org/doc/v2.12/Documentation/user/lilypond/Displaying-rhythms#Time-signature)
+- [Percent repeat counter](https://lilypond.org/doc/v2.22/Documentation/snippets/repeats#repeats-percent-repeat-counter)
 
 ## Guitar
 ![caption](https://lilypond.org/doc/v2.22/Documentation/24/lily-9d3837f7.png)
