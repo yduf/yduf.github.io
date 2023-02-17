@@ -28,7 +28,9 @@ convert-ly tuxguitar_export.ly > converted.ly
 
 ## [Drums](https://lilypond.org/doc/v2.21/Documentation/notation/common-notation-for-percussion)
 
-![caption](https://64.media.tumblr.com/fde4b2e7a08b606e38dce5948d5e5b10/tumblr_inline_p8ane5sKmn1synrls_500.png){:width="50%"}
+With the exception of the snare and bass drum, there seems to be no consensus about where individual sound sources should be placed on the staff. - [Customizing Note Layout](https://lilypondcookbook.com/post/74735874981/drum-music-4-customizing-note-layout)
+
+![caption](https://64.media.tumblr.com/ab9a01eb87df7f315a9818b134f59ada/tumblr_inline_p8ane5clc81synrls_500.png){:width="50%"}
 
 - [Drum Music 1 - Getting Started](https://lilypondcookbook.com/post/74312396803/drum-music-1-getting-started)
 - [Noting a buzz roll](https://lilypondcookbook.com/post/108846925424/noting-a-buzz-roll)
