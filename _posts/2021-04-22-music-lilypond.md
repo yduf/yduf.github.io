@@ -25,6 +25,8 @@ convert-ly tuxguitar_export.ly > converted.ly
 
 ## [Drums](https://lilypond.org/doc/v2.21/Documentation/notation/common-notation-for-percussion)
 
+![caption](https://64.media.tumblr.com/fde4b2e7a08b606e38dce5948d5e5b10/tumblr_inline_p8ane5sKmn1synrls_500.png)
+
 - [Drum Music 1 - Getting Started](https://lilypondcookbook.com/post/74312396803/drum-music-1-getting-started)
 - [Noting a buzz roll](https://lilypondcookbook.com/post/108846925424/noting-a-buzz-roll)
 
