@@ -9,12 +9,12 @@ tags: music write guitar tab drums
 
 
 ## Install / [online](https://www.hacklily.org/)
-### [Front-end Applications](http://lilypond.org/easier-editing.html)
-- [Frescobaldi](https://www.frescobaldi.org/) - sheet music text editor.
-- [VSLilyPond](https://github.com/lhl2617/VSLilyPond) - [Music IDE: Lilypond in Visual Studio Code](https://blog.anonymous-function.net/2017/10/24/music-ide-lilypond-in-visual-studio-code/)
+- [Front-end Applications](http://lilypond.org/easier-editing.html)
 - [Denemo](http://denemo.org/)
+### [Frescobaldi](https://www.frescobaldi.org/) - sheet music text editor.
+### [VSLilyPond](https://github.com/lhl2617/VSLilyPond) - [Music IDE: Lilypond in Visual Studio Code](https://blog.anonymous-function.net/2017/10/24/music-ide-lilypond-in-visual-studio-code/)
 
-## [Aternative](http://linuxmao.org/Le+coin+des+guitaristes)
+## [Aternatives](http://linuxmao.org/Le+coin+des+guitaristes)
 - [TuxGuitar](http://tuxguitar.com.ar/) - easier edit for Tabs
  	- [Exporting tabs from TuxGuitar to Lilypond](https://music.stackexchange.com/questions/101453/exporting-tabs-from-tuxguitar-to-lilypond) - and [fixing them](https://piware.de/post/2018-09-16-gavis-song/) with [convert-ly](https://lilypond.org/doc/v2.18/Documentation/usage/updating-files-with-convert_002dly.en.html)
 {% highlight bash %}
