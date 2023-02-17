@@ -5,18 +5,16 @@ tags: music write guitar tab drums
 ---
 > LilyPond is a music engraving program, devoted to producing the highest-quality sheet music possible - [lilypond.org](http://lilypond.org/)
 
-## [Drums](https://lilypond.org/doc/v2.21/Documentation/notation/common-notation-for-percussion)
+![caption](http://lilypond.org/pictures/bwv861-lilypond.png)
 
-- [Drum Music 1 - Getting Started](https://lilypondcookbook.com/post/74312396803/drum-music-1-getting-started)
-- [Noting a buzz roll](https://lilypondcookbook.com/post/108846925424/noting-a-buzz-roll)
 
-## Guitar
+## Install / [online](https://www.hacklily.org/)
 - [Front-end Applications](http://lilypond.org/easier-editing.html)
 	- [Frescobaldi](https://www.frescobaldi.org/) - sheet music text editor.
     - [VSLilyPond](https://github.com/lhl2617/VSLilyPond) - [Music IDE: Lilypond in Visual Studio Code](https://blog.anonymous-function.net/2017/10/24/music-ide-lilypond-in-visual-studio-code/)
-    - [online](https://www.hacklily.org/)
 - [Denemo](http://denemo.org/)
-    
+
+## [Aternative](http://linuxmao.org/Le+coin+des+guitaristes)
 - [TuxGuitar](http://tuxguitar.com.ar/) - easier edit for Tabs
  	- [Exporting tabs from TuxGuitar to Lilypond](https://music.stackexchange.com/questions/101453/exporting-tabs-from-tuxguitar-to-lilypond) - and [fixing them](https://piware.de/post/2018-09-16-gavis-song/) with [convert-ly](https://lilypond.org/doc/v2.18/Documentation/usage/updating-files-with-convert_002dly.en.html)
 {% highlight bash %}
@@ -24,6 +22,13 @@ convert-ly tuxguitar_export.ly > converted.ly
 {% endhighlight %}
 
 - [MuseScore](https://musescore.org/en)
+
+## [Drums](https://lilypond.org/doc/v2.21/Documentation/notation/common-notation-for-percussion)
+
+- [Drum Music 1 - Getting Started](https://lilypondcookbook.com/post/74312396803/drum-music-1-getting-started)
+- [Noting a buzz roll](https://lilypondcookbook.com/post/108846925424/noting-a-buzz-roll)
+
+## Guitar
 
 ### Doc
 - [intro](https://lilypond.org/website/text-input.html)
@@ -46,6 +51,5 @@ convert-ly tuxguitar_export.ly > converted.ly
     
 - [advanced tutorial](http://www.artsulger.com/2007/03/lilypond-notation-program.html)
 
-## [Aternative](http://linuxmao.org/Le+coin+des+guitaristes)
 
-![caption](http://lilypond.org/pictures/bwv861-lilypond.png)
+
