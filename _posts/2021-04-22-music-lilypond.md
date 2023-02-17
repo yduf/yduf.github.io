@@ -31,6 +31,7 @@ convert-ly tuxguitar_export.ly > converted.ly
 - [Noting a buzz roll](https://lilypondcookbook.com/post/108846925424/noting-a-buzz-roll)
 
 ## Guitar
+![caption](https://lilypond.org/doc/v2.22/Documentation/24/lily-9d3837f7.png)
 
 ### Doc
 - [intro](https://lilypond.org/website/text-input.html)
