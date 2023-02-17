@@ -9,9 +9,9 @@ tags: music write guitar tab drums
 
 
 ## Install / [online](https://www.hacklily.org/)
-- [Front-end Applications](http://lilypond.org/easier-editing.html)
-	- [Frescobaldi](https://www.frescobaldi.org/) - sheet music text editor.
-    - [VSLilyPond](https://github.com/lhl2617/VSLilyPond) - [Music IDE: Lilypond in Visual Studio Code](https://blog.anonymous-function.net/2017/10/24/music-ide-lilypond-in-visual-studio-code/)
+### [Front-end Applications](http://lilypond.org/easier-editing.html)
+- [Frescobaldi](https://www.frescobaldi.org/) - sheet music text editor.
+- [VSLilyPond](https://github.com/lhl2617/VSLilyPond) - [Music IDE: Lilypond in Visual Studio Code](https://blog.anonymous-function.net/2017/10/24/music-ide-lilypond-in-visual-studio-code/)
 - [Denemo](http://denemo.org/)
 
 ## [Aternative](http://linuxmao.org/Le+coin+des+guitaristes)
