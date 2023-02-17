@@ -13,6 +13,7 @@ tags: music write guitar tab drums
 - [Denemo](http://denemo.org/)
 ### [Frescobaldi](https://www.frescobaldi.org/) - sheet music text editor.
 ### [VSLilyPond](https://github.com/lhl2617/VSLilyPond) - [Music IDE: Lilypond in Visual Studio Code](https://blog.anonymous-function.net/2017/10/24/music-ide-lilypond-in-visual-studio-code/)
+- [Setup Guide](https://github.com/lhl2617/VSLilyPond/blob/HEAD/docs/INSTALL.md)
 
 ## [Aternatives](http://linuxmao.org/Le+coin+des+guitaristes)
 - [TuxGuitar](http://tuxguitar.com.ar/) - easier edit for Tabs
