@@ -8,7 +8,7 @@ tags: file-manager
 ## Nemo
 
 ### Emblems
-metadata is stored by GVFS in `~/.local/share/gvfs-metadata/`, use [GIO API](https://docs.gtk.org/gio/) to have access to those attributes in your own program.
+metadata is stored by GVFS in `~/.local/share/gvfs-metadata/`, use [GIO API](https://stackoverflow.com/questions/10874702/gnome-where-does-nautilus-store-emblem-data-and-how) to have access to those attributes in your own program.
 
 - [Backup emblems](https://forums.linuxmint.com/viewtopic.php?t=281724) - ` emblems are stored in ~/.local/share/gvfs-metadata`
 
