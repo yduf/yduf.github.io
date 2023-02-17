@@ -15,6 +15,10 @@ $ gio info /path/to/folder | grep emblems # get embles
 $ gio set # set emblems
 {% endhighlight %}
 
+- [additional emblems](https://forums.linuxmint.com/viewtopic.php?t=354871)
+Create a folder `~/.icons`  
+Put your own icons in there, named as `emblem-somename.png`  
+Restart nemo with `nemo --quit`  
 
 ## [CLI](https://www.tecmint.com/linux-terminal-file-managers/)
 - [Midnight Commander](http://www.linuxcommand.org/lc3_adv_mc.php)
