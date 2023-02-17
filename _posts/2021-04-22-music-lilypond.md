@@ -35,7 +35,7 @@ convert-ly tuxguitar_export.ly > converted.ly
 - [tutorial](http://lilypond.org/doc/v2.22/Documentation/learning/simple-notation)
 
 - [Line breaking](http://lilypond.org/doc/v2.18/Documentation/notation/line-breaking) ` \break`
-*
+
 ## [Drums](https://lilypond.org/doc/v2.21/Documentation/notation/common-notation-for-percussion)
 
 With the exception of the snare and bass drum, there seems to be no consensus about where individual sound sources should be placed on the staff. - [Customizing Note Layout](https://lilypondcookbook.com/post/74735874981/drum-music-4-customizing-note-layout)
