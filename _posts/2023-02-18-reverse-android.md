@@ -7,6 +7,7 @@ tags: reverse android blog
 
 - [Android Tampering and Reverse Engineering](https://github.com/OWASP/owasp-mastg/blob/master/Document/0x05c-Reverse-Engineering-and-Tampering.md)
 - [How to reverse engineer Unity3D Games?](https://medium.com/game-tech-tutorial/how-to-reverse-engineer-unity3d-games-67648f9329da)
+	- [Reverse engineering a Unity-based Android game](https://palant.info/2021/02/18/reverse-engineering-a-unity-based-android-game/)
 
 ## [Where is main() in Android?](https://stackoverflow.com/questions/9293329/where-is-main-in-android)
 Find a class which is a subclass of `Activity` and which is set as a LAUNCHER to start the execution of the application from its `onCreate()` method.
