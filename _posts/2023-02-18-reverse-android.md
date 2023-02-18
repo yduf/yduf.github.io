@@ -19,6 +19,6 @@ Activty are listed in the [`AndroidManifest.xml`](https://developer.android.com/
 - [Apktool](https://ibotpeaches.github.io/Apktool/install/) - `apktool d -r -s [your game].apk`
 
 ### Unity
-- [Il2CppDumper](https://github.com/Perfare/Il2CppDumper/releases/tag/v6.6.2)
+- [Il2CppDumper](https://github.com/Perfare/Il2CppDumper/releases/tag/v6.6.2) / [linux](https://www.andnixsh.com/2020/04/il2cppdumper-v621-net-core-for-macos.html)
 
 ## [Android Crackmes](https://github.com/OWASP/owasp-mastg/blob/master/Document/0x08b-Reference-Apps.md#android-crackmes)
