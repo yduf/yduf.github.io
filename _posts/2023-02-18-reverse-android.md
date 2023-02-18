@@ -7,4 +7,8 @@ tags: reverse android blog
 
 - [Android Tampering and Reverse Engineering](https://github.com/OWASP/owasp-mastg/blob/master/Document/0x05c-Reverse-Engineering-and-Tampering.md)
 
+## [Tools](https://epic.blog/reverse-engineering/2020/07/27/reverse-engineering-android-app.html)
+- [JADX (flatpak)](https://github.com/skylot/jadx) - CLI | GUI. It can run directly on APK / DEX combo without the extra step. It has also magical ability to deal with deobfuscation and from what I can tell the best full text search, declaration jumping and usage lookup.
+- [Apktool]()
+
 ## [Android Crackmes](https://github.com/OWASP/owasp-mastg/blob/master/Document/0x08b-Reference-Apps.md#android-crackmes)
