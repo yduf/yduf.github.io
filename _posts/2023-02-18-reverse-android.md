@@ -27,3 +27,7 @@ Latest version of C#code are transpilled to cpp.
 	- [ilspy-vscode](https://marketplace.visualstudio.com/items?itemName=icsharpcode.ilspy-vscode)
     
 ## [Android Crackmes](https://github.com/OWASP/owasp-mastg/blob/master/Document/0x08b-Reference-Apps.md#android-crackmes)
+
+see also
+- [The Ultimate Game Hacking Resource](https://github.com/dsasmblr/game-hacking)
+- [r/REGames](https://www.reddit.com/r/REGames/)
