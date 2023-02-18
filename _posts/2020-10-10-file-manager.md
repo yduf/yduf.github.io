@@ -23,6 +23,8 @@ Create a folder `~/.icons`
 Put your own icons in there, named as `emblem-somename.png`  
 Restart nemo with `nemo --quit`  
 
+- [Can I safely delete Files in .local/share/gvfs-metadata](https://superuser.com/questions/100545/files-in-local-share-gvfs-metadata-in-ubuntu)
+
 ## [CLI](https://www.tecmint.com/linux-terminal-file-managers/)
 - [Midnight Commander](http://www.linuxcommand.org/lc3_adv_mc.php)
 {% highlight bash %}
