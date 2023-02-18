@@ -16,6 +16,6 @@ Activty are listed in the [`AndroidManifest.xml`](https://developer.android.com/
 
 ## [Tools](https://epic.blog/reverse-engineering/2020/07/27/reverse-engineering-android-app.html)
 - [JADX (flatpak)](https://github.com/skylot/jadx) - CLI | GUI. It can run directly on APK / DEX combo without the extra step. It has also magical ability to deal with deobfuscation and from what I can tell the best full text search, declaration jumping and usage lookup.
-- [Apktool]()
+- [Apktool](https://ibotpeaches.github.io/Apktool/install/) - `apktool d -r -s [your game].apk`
 
 ## [Android Crackmes](https://github.com/OWASP/owasp-mastg/blob/master/Document/0x08b-Reference-Apps.md#android-crackmes)
