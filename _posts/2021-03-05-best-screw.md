@@ -9,4 +9,7 @@ tags: screw
 - Pozidrive
 - Robertson - square
 - Torx - star
-- Hexagonal 
+- Hexagonal
+
+see also
+- [	Watchmaking: Machining a 0.6 mm Screw](https://news.ycombinator.com/item?id=34849110)
