@@ -11,7 +11,7 @@ tags: socket thread mental-model c++
 
 >  the C++20 standard, only defines a framework for the execution of coroutines, but does not define any coroutine types satisfying such requirements. That means, we need to either write our own or rely on 3rd party libraries - [A C++20 coroutine example](https://mariusbancila.ro/blog/2020/06/22/a-cpp20-coroutine-example/)
 
-One other complication to be aware of is that C++ coroutines are often explained and even specified using the terms future and promise. **These terms have nothing to do with the types std::future and std::promise available in the C++ <future> header.**
+One other complication to be aware of is that C++ coroutines are often explained and even specified using the terms future and promise. **These terms have nothing to do with the types std::future and std::promise available in the C++ \<future\> header.**
 
 ## Other version
 - [boost::coroutine2 vs CoroutineTS](https://stackoverflow.com/questions/55078177/boostcoroutine2-vs-coroutinets)
