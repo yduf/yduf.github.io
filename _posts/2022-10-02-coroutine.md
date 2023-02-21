@@ -7,7 +7,7 @@ tags: software mental-model c++
 
 [![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.OzMDBAGgboO36s1Bmcr7xgHaDU%26pid%3DApi&f=1&ipt=8cf91359adc963da83042579565e722e307263c890bddcae731a90adeb9ab0c8&ipo=images)](http://www.vishalchovatiya.com/cpp20-coroutine-under-the-hood/)
 
-### {C++-20](https://en.cppreference.com/w/cpp/language/coroutines)
+### [C++-20](https://en.cppreference.com/w/cpp/language/coroutines)
 
 >  the C++20 standard, only defines a framework for the execution of coroutines, but does not define any coroutine types satisfying such requirements. That means, we need to either write our own or rely on 3rd party libraries - [A C++20 coroutine example](https://mariusbancila.ro/blog/2020/06/22/a-cpp20-coroutine-example/)
 
