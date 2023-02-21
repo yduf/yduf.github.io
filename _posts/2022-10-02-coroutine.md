@@ -3,7 +3,7 @@ published: true
 title: Coroutine
 tags: software mental-model c++
 ---
->  C++20 coroutines are implemented as a nice little nugget buried underneath heaps of garbage that you have to wade through to access the nice part. Frankly, I was disappointed by the design, because other recent language changes were more tastefully done, but alas not coroutines. - [My tutorial and take on C++20 coroutines](https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html)
+>  A typical example of event-driven code is registering a callback that gets invoked every time a socket has data to be read. - [My tutorial and take on C++20 coroutines](https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html)
 
 [![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.OzMDBAGgboO36s1Bmcr7xgHaDU%26pid%3DApi&f=1&ipt=8cf91359adc963da83042579565e722e307263c890bddcae731a90adeb9ab0c8&ipo=images)](http://www.vishalchovatiya.com/cpp20-coroutine-under-the-hood/)
 
