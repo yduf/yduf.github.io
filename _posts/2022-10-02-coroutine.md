@@ -1,7 +1,7 @@
 ---
 published: true
 title: Coroutine
-tags: socket software mental-model c++
+tags: socket thread mental-model c++
 ---
 >  A typical example of event-driven code is registering a callback that gets invoked every time a socket has data to be read. - [My tutorial and take on C++20 coroutines](https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html)
 
