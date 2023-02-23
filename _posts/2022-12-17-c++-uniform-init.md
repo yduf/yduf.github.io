@@ -1,7 +1,7 @@
 ---
 published: true
 title: C++ Uniform Unitialisation
-tags: c++
+tags: c++ c++-syntax
 ---
 > Why not just use the classic int x = 1; and call it a day? - [Benefits & Pitfalls](https://ianyepan.github.io/posts/cpp-uniform-initialization/)
 
