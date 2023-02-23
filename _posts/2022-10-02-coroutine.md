@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Coroutine
 tags: socket thread mental-model c++
 ---
@@ -9,7 +9,8 @@ tags: socket thread mental-model c++
 
 ### see also
 - [A coroutine based stream parser](https://andreasfertig.blog/2021/02/cpp20-a-coroutine-based-stream-parser/)
-- [Using C++20 coroutines for asynchronous parsers (video)](https://www.youtube.com/watch?v=u41EhjrqdGc)
+- [PARSCO](https://github.com/dpacbach/parsco) - C++20 Coroutine Synchronous Parser Combinator Library.
+- [asynchronous parsers (video)](https://www.youtube.com/watch?v=u41EhjrqdGc)
 
 - [Simple coroutines for games in C++](http://www.ilikebigbits.com/2016_03_20_coroutines.html)
 - [CO2 - Coroutine II](https://github.com/jamboree/co2) - A header-only C++ stackless coroutine emulation library, providing interface close to N4286.
