@@ -7,3 +7,25 @@ tags: c++-syntax
 
 - [Pros and Cons of Alternative Function Syntax in C++](https://blog.petrzemek.net/2017/01/17/pros-and-cons-of-alternative-function-syntax-in-cpp/)
 
+{% highlight cpp %}
+// C or C++98
+int f(int x, int y) {
+    // ...
+}
+{% endhighlight %}
+
+{% highlight cpp %}
+// C++11
+auto f(int x, int y) -> int {
+    // ...
+}
+{% endhighlight %}
+
+{% highlight cpp %}
+// C++14
+auto f(int x, int y) {
+    // The return type is deduced automatically
+    // based on the function's body.
+    // ...
+}
+{% endhighlight %}
