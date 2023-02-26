@@ -1,8 +1,9 @@
 ---
 published: true
 title: Haut Parleur
-tags: audio hardware
+tags: audio-hardware
 ---
-## A New Post
+> La rénovation d'un haut-parleur  - [Remplacer la suspension usée](https://remembranage.fr/reparation.html)
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+- [    La boutique du HAUT-PARLEUR ](https://www.haut-parleur.net/index.html) - Liste des suspensions de membrane haut-parleur
+
