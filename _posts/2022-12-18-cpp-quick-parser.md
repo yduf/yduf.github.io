@@ -22,3 +22,4 @@ while (fgets(line, SOME_SIZE, file)) {
 
 see also:
 - [Parsing Command Line Arguments in C++?](https://stackoverflow.com/questions/865668/parsing-command-line-arguments-in-c)
+- [toml++](https://marzer.github.io/tomlplusplus/index.html) - TOML (.ini) config parser and serializer for c++
