@@ -1,7 +1,7 @@
 ---
 published: true
 title: Quick Simple Parser
-tags: c++ parser
+tags: c++ config parser
 ---
 > I tend to fall back on scanf when I have to parse simple text files. - [Simple string parsing with C++](https://stackoverflow.com/questions/2880903/simple-string-parsing-with-c)
 
