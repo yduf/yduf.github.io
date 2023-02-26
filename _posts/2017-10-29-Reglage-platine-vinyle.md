@@ -1,6 +1,6 @@
 ---
 published: true
-tags: vinyle audio
+tags: audio-hardware
 title: Réglage platine vinyle
 ---
 > le premier de tous consiste à placer la platine vinyle parfaitement à l'horizontale à l'aide d'un niveau à bulle. - [Bien regler sa platine vinyle](https://www.son-video.com/guide/bien-regler-sa-platine-vinyle)
