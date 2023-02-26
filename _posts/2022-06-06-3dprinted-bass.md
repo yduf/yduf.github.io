@@ -1,7 +1,7 @@
 ---
 published: true
 title: 3Dprinted Bass / Guitar
-tags: music
+tags: music audio-hardware guitar
 ---
 ## Bass
 - [Hexagonal Precision Bass Guitar](https://www.thingiverse.com/thing:4809539) / [youtube](https://www.youtube.com/watch?v=VvFN157B1UM)
