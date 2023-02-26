@@ -1,7 +1,7 @@
 ---
 published: true
 title: Roland TD9
-tags: music hardware
+tags: music audio-hardware
 ---
 > V-Drums Module - [TD9](https://www.roland.com/global/products/td-9/)
 
