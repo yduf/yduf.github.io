@@ -1,7 +1,7 @@
 ---
 published: true
 title: Quick Simple Parser
-tags: c++ config parser
+tags: c++ config parser single-header
 ---
 > I tend to fall back on scanf when I have to parse simple text files. - [Simple string parsing with C++](https://stackoverflow.com/questions/2880903/simple-string-parsing-with-c)
 
@@ -23,3 +23,4 @@ while (fgets(line, SOME_SIZE, file)) {
 see also:
 - [Parsing Command Line Arguments in C++?](https://stackoverflow.com/questions/865668/parsing-command-line-arguments-in-c)
 - [toml++](https://marzer.github.io/tomlplusplus/index.html) - TOML (.ini) config parser and serializer for c++
+- [json.hpp](https://github.com/nlohmann/json) - Json for modern c++ - [single-header](https://json.nlohmann.me/integration/)
