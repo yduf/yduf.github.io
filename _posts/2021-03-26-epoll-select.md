@@ -1,7 +1,7 @@
 ---
 published: true
 title: Alternative I/O models
-tags: linux io-stream file network
+tags: linux io-stream file socket event network
 ---
 > What’s epoll? - [Julia Evans](https://jvns.ca/blog/2017/06/03/async-io-on-linux--select--poll--and-epoll/)
 > 
