@@ -9,4 +9,4 @@ tags: c++ fastware battery dictionary
 - return value optimisation work better (in general)
 - just say not to linked list
 - don't use a [std::map](https://youtu.be/fHNmRkzxHWs?t=2696) _it's a linked list_
-	- [unordered_map](https://youtu.be/fHNmRkzxHWs?t=2798) won't save us either.
+	- [unordered_map](https://youtu.be/fHNmRkzxHWs?t=2798) won't save us either. (also a linked list all below) => use a open addressing implementation instead
