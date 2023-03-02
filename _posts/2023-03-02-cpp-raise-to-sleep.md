@@ -9,3 +9,4 @@ tags: c++ fastware battery
 - return value optimisation work better (in general)
 - just say not to linked list
 - don't use a [std::map](https://youtu.be/fHNmRkzxHWs?t=2696) _it's a linked list_
+	- unordered_map won't save us either.
