@@ -14,3 +14,9 @@ The asynchronous nature of signals limits the interaction of signal handlers wit
 - user space functions have their own purpose and side-effect. Some are not re-entrance safe, those functions can't be called from signal handler. man 7 signal will help you find out which are re-entrance safe. Take example, you can call sys_futex() anywhere including signal handler, but if you use sys_futex() to implement a mutex, the sys_futex() inside signal handler may blocked for ever when the signal interrupts the critical section of the mutex. [SO](https://stackoverflow.com/a/11684043/51386)
 
 - One technique which is especially useful in programs which have a select loop is to write a single byte down a pipe on receipt of a signal and then handle the signal in the select loop. - [SO](https://stackoverflow.com/a/44183322/51386)
+
+### [Converting SIGSEGV signals to C++ exception](https://github.com/Plaristote/segvcatch) segvcatch
+
+This is a crossplatform C++ library designed to convert a hardware exceptions, such as segmentation fault, or floating point errors, into a software language exceptions, which can be handled later with a try/catch construction.
+
+Other words, it's a crossplatform structured exception handling (SEH).
