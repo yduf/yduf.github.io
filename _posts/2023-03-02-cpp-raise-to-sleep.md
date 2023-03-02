@@ -7,6 +7,6 @@ tags: c++ fastware battery dictionary
 
 - output parameter are not faster - [it's a myth](https://youtu.be/fHNmRkzxHWs?t=1928)
 - return value optimisation work better (in general)
-- just say not to linked list
+- just say **NO** to linked list
 - don't use a [std::map](https://youtu.be/fHNmRkzxHWs?t=2696) _it's a linked list_
 	- [unordered_map](https://youtu.be/fHNmRkzxHWs?t=2798) won't save us either. (also a linked list all below) => use a [open addressing]({% post_url 2021-10-17-hash-open-addressing %}) implementation instead, it's maximimising cache locality.
