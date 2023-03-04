@@ -20,6 +20,9 @@ tags: temperature monitoring bluetooth home-automation
 
 ## [Set scan parameters failed: Operation not permitted](https://unix.stackexchange.com/questions/96106/bluetooth-le-scan-as-non-root)
 
+> TL;DR: on my system the standard scan parameters are not allowed, only extended scan: that's what `bluetoothctl` is using.
+
+
 **LE Scan is working with bluetoothctl non root** - `bluetoothctl scan le`
 But not with `sudo hcitool lescan`
 
