@@ -1,7 +1,7 @@
 ---
 published: true
-title: Code Vizualisation
-tags: code vizualizer mental-model
+title: Code Visualization
+tags: code visualizer mental-model
 ---
 > So here you are – sitting alone in the darkness, surrounded by the walls with mysterious texts, – and using the code editor to shine a beam of light onto this wall to read a small part of it.  - [IDE vs Fire Torch](https://divan.dev/posts/visual_programming_go/) / 
 [HN](https://news.ycombinator.com/item?id=30891230)
