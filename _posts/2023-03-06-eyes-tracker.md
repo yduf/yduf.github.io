@@ -1,8 +1,6 @@
 ---
 published: true
 title: Eyes Tracker
-tags: eyes opencv
+tags: eyes opencv computer-vision
 ---
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+- [Real-time eye tracking using OpenCV and Dlib](https://towardsdatascience.com/real-time-eye-tracking-using-opencv-and-dlib-b504ca724ac6)
