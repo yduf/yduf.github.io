@@ -1,7 +1,7 @@
 ---
 published: true
 title: Hand Free Coding
-tags: eye tracker voice
+tags: eyes tracker voice
 ---
 
 - [Hands-Free Coding](https://joshwcomeau.com/accessibility/hands-free-coding/) / [HN](https://news.ycombinator.com/item?id=24846887)
