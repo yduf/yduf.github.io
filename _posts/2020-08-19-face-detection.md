@@ -4,8 +4,8 @@ title: Face detection
 tags: computer-vision face
 ---
 - [Face detection algorithms comparison](http://datahacker.rs/017-face-detection-algorithms-comparison/) / [Face detection tips, suggestions, and best practices](https://pyimagesearch.com/2021/04/26/face-detection-tips-suggestions-and-best-practices/)
+    - [OpenCV DNN](https://pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/)
 	- [OpenCV Haarcascade](https://www.superdatascience.com/blogs/opencv-face-detection)
-    - OpenCV DNN
     - Detecting a face using Dlib
     - MTCNN
     - Facenet
