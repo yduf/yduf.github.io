@@ -3,19 +3,20 @@ published: true
 title: Face detection
 tags: computer-vision face
 ---
-- [Face detection algorithms comparison](http://datahacker.rs/017-face-detection-algorithms-comparison/) / [Face detection tips, suggestions, and best practices](https://pyimagesearch.com/2021/04/26/face-detection-tips-suggestions-and-best-practices/)
-    - [OpenCV DNN](https://pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/)
-		- [YuNet](https://github.com/opencv/opencv_zoo/tree/master/models/face_detection_yunet) - a light-weight, fast and accurate face detection model
-        - [detect_faces.py](https://github.com/sr6033/face-detection-with-OpenCV-and-DNN/blob/master/detect_faces.py)
-	- [OpenCV Haarcascade](https://www.superdatascience.com/blogs/opencv-face-detection)
-    - Detecting a face using Dlib
-    - MTCNN
-    - Facenet
-    - [OpenFace](https://cmusatyalab.github.io/openface/)
-    - The Viola-Jones Algorithm (2001)
-    	- Haar-like features (edge, line, four rectangle features)
-		- Integral Image - compute sum once, then 4 point give the integral inside the given rectangle
-        - Adaboost - build a strong classifier from weaker one, complementing each previous one
+
+### [Face detection algorithms comparison](http://datahacker.rs/017-face-detection-algorithms-comparison/) / [Face detection tips, suggestions, and best practices](https://pyimagesearch.com/2021/04/26/face-detection-tips-suggestions-and-best-practices/)
+- [OpenCV DNN](https://pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/)
+	- [YuNet](https://github.com/opencv/opencv_zoo/tree/master/models/face_detection_yunet) - a light-weight, fast and accurate face detection model
+	- [detect_faces.py](https://github.com/sr6033/face-detection-with-OpenCV-and-DNN/blob/master/detect_faces.py)
+- [OpenCV Haarcascade](https://www.superdatascience.com/blogs/opencv-face-detection)
+- Detecting a face using Dlib
+- MTCNN
+- Facenet
+- [OpenFace](https://cmusatyalab.github.io/openface/)
+- The Viola-Jones Algorithm (2001)
+	- Haar-like features (edge, line, four rectangle features)
+	- Integral Image - compute sum once, then 4 point give the integral inside the given rectangle
+	- Adaboost - build a strong classifier from weaker one, complementing each previous one
     
 
 ## [Mediapipe](https://google.github.io/mediapipe/)
