@@ -18,6 +18,8 @@ tags: computer-vision face opencv
 	- Integral Image - compute sum once, then 4 point give the integral inside the given rectangle
 	- Adaboost - build a strong classifier from weaker one, complementing each previous one
     
+[![caption](https://github.com/opencv/opencv_zoo/raw/master/models/face_detection_yunet/examples/yunet_demo.gif)](https://github.com/opencv/opencv_zoo/tree/master/models/face_detection_yunet)
+
 
 ## [Mediapipe](https://google.github.io/mediapipe/)
 - [Truthsayer](https://github.com/everythingishacked/Truthsayer) - use  MediaPipe's Face Mesh
