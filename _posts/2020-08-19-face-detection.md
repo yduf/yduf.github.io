@@ -1,7 +1,7 @@
 ---
 published: true
 title: Face detection
-tags: computer-vision face
+tags: computer-vision face opencv
 ---
 
 ### [Face detection algorithms comparison](http://datahacker.rs/017-face-detection-algorithms-comparison/) / [Face detection tips, suggestions, and best practices](https://pyimagesearch.com/2021/04/26/face-detection-tips-suggestions-and-best-practices/)
