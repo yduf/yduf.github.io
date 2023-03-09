@@ -8,6 +8,7 @@ tags: computer-vision face opencv
 - [OpenCV DNN](https://pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/)
 	- [YuNet](https://github.com/opencv/opencv_zoo/tree/master/models/face_detection_yunet) - a light-weight, fast and accurate face detection model ([require OpenCV >= 4.7.0](https://github.com/opencv/opencv_zoo/blob/master/models/face_detection_yunet/CMakeLists.txt)) 
     - [opencv/samples/dnn/face_detect.py](https://github.com/opencv/opencv/blob/4.x/samples/dnn/face_detect.py) - opencv battery included
+		- [models](https://github.com/opencv/opencv/blob/4.x/samples/dnn/models.yml)
 	- [detect_faces.py](https://github.com/sr6033/face-detection-with-OpenCV-and-DNN/blob/master/detect_faces.py)
 - [OpenCV Haarcascade](https://www.superdatascience.com/blogs/opencv-face-detection)
 - Detecting a face using Dlib
