@@ -3,10 +3,13 @@ published: true
 title: Face detection
 tags: computer-vision face opencv
 ---
+> [Face detection algorithms comparison](http://datahacker.rs/017-face-detection-algorithms-comparison/) / [Face detection tips, suggestions, and best practices](https://pyimagesearch.com/2021/04/26/face-detection-tips-suggestions-and-best-practices/)
 
-### [Face detection algorithms comparison](http://datahacker.rs/017-face-detection-algorithms-comparison/) / [Face detection tips, suggestions, and best practices](https://pyimagesearch.com/2021/04/26/face-detection-tips-suggestions-and-best-practices/)
+[![caption](https://learnopencv.com/wp-content/uploads/2017/02/real-time-face-tracking.gif)](https://learnopencv.com/object-tracking-using-opencv-cpp-python/)
+
+
 - [OpenCV DNN](https://pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/)
-	- [YuNet](https://github.com/opencv/opencv_zoo/tree/master/models/face_detection_yunet)  / [high-performance-face-detection](https://medium.com/@silkworm/yunet-ultra-high-performance-face-detection-in-opencv-a-good-solution-for-real-time-poc-b01063e251d5) - a light-weight, fast and accurate face detection model ([require OpenCV >= 4.7.0](https://github.com/opencv/opencv_zoo/blob/master/models/face_detection_yunet/CMakeLists.txt))
+	- [YuNet](https://github.com/opencv/opencv_zoo/tree/master/models/face_detection_yunet)  / [high-performance-face-detection](https://medium.com/@silkworm/yunet-ultra-high-performance-face-detection-in-opencv-a-good-solution-for-real-time-poc-b01063e251d5) - a light-weight, fast and accurate face detection model
     - [opencv/samples/dnn/face_detect.py](https://github.com/opencv/opencv/blob/4.x/samples/dnn/face_detect.py) - opencv battery included - `./dnn/example_dnn_face_detect -m=/home/yves/Downloa
 ds/face_detection_yunet_2022mar.onnx`
 		- [ ShiqiYu/libfacedetection](https://github.com/ShiqiYu/libfacedetection) - `./detect  -m=/home/yves/Downloads/face_detection_yunet_2022mar.onnx`
