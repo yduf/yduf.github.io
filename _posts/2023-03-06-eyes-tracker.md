@@ -10,3 +10,10 @@ tags: eyes opencv computer-vision
 - [Real-time eye tracking using OpenCV and Dlib](https://towardsdatascience.com/real-time-eye-tracking-using-opencv-and-dlib-b504ca724ac6) / [github](https://github.com/vardanagarwal/Proctoring-AI)
 
 - [Tracking your eyes with Python](https://medium.com/@stepanfilonov/tracking-your-eyes-with-python-3952e66194a6) - using haarcascade to detect face + eyes & blobs for pupils
+
+see also
+- [Eye Gaze Tracking With Head Tracking Solutions On Linux](https://unix.stackexchange.com/questions/680253/eye-gaze-tracking-with-head-tracking-solutions-on-linux)
+- [Weekend Project: Take a Tour of Open Source Eye-Tracking Software](https://www.linux.com/training-tutorials/weekend-project-take-tour-open-source-eye-tracking-software/)
+	- [OpenGazer](https://github.com/opengazer/OpenGazer)
+	- [GazePointer](https://gazerecorder.com/gazepointer/)
+    - [Gaze Tracking](https://github.com/antoinelame/GazeTracking) - a webcam-based eye tracking system. It gives you the exact position of the pupils and the gaze direction, in real time.
