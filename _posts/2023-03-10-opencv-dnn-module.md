@@ -3,7 +3,7 @@ published: true
 title: opencv DNN module
 tags: NN opencv
 ---
-> The OpenCV DNN module only supports deep learning inference on images and videos. It does not support fine-tuning and training. ... OpenCV DNN module supports many popular deep learning frameworks. - [DNN opencv module: A Definitive Guide](https://learnopencv.com/deep-learning-with-opencvs-dnn-module-a-definitive-guide/)
+> The OpenCV DNN module only supports deep learning inference on images and videos. It does not support fine-tuning and training. ... OpenCV DNN module supports many popular deep learning frameworks. - [DNN opencv module: A Definitive Guide](https://learnopencv.com/deep-learning-with-opencvs-dnn-module-a-definitive-guide/) / [A Comprehensive Guide](https://bleedai.com/deep-learning-with-opencv-dnn-module-a-comprehensive-guide/)
 
 ### [Conversion of TensorFlow Segmentation Models and Launch with OpenCV](https://docs.opencv.org/4.x/dc/db4/tf_segm_tutorial_dnn_conversion.html) 
 
