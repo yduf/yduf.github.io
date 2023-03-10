@@ -5,7 +5,9 @@ tags: file-manager ubuntu
 ---
 > Nemo - [File Manager for Cinnamon](https://github.com/linuxmint/nemo)
 
-## Nemo
+## Nemo - [(github)](https://github.com/linuxmint/nemo)
+
+- [metadata](https://github.com/linuxmint/nemo/blob/7fe83632eca5801a55992dc08c52767b6d8685cb/libnemo-private/nemo-metadata.h)
 
 ### Emblems
 metadata is stored by GVFS in `~/.local/share/gvfs-metadata/`, use [GIO API](https://stackoverflow.com/questions/10874702/gnome-where-does-nautilus-store-emblem-data-and-how) to have access to those attributes in your own program.
