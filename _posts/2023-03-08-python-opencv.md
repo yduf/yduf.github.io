@@ -30,3 +30,6 @@ python3
 >>>import cv2
 >>>print(cv2.__version__)
 {% endhighlight %}
+
+see also
+- [Mouse and Trackbar in OpenCV GUI](https://learnopencv.com/mouse-and-trackbar-in-opencv-gui/)
