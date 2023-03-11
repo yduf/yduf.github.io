@@ -22,3 +22,11 @@ $ pip3 install --force-reinstall -v "opencv-python==4.5.4"	# will list available
 
 $ pip3 install opencv-python	  # or get latest version	
 {% endhighlight %}
+
+### Test Install
+
+{% highlight python %}
+python3
+>>>import cv2
+>>>print(cv2.__version__)
+{% endhighlight %}
