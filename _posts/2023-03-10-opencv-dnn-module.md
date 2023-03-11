@@ -11,11 +11,10 @@ The key concepts involved in the transition pipeline of the TensorFlow classific
 
 ### [.tflite](https://github.com/opencv/opencv/issues/13918)
 
-Not supported [yet](https://github.com/opencv/opencv/wiki/OE-35.-TFLite-support), but should be convertible to `.pb`
+Not supported [yet](https://github.com/opencv/opencv/wiki/OE-35.-TFLite-support), but [should be convertible to `.pb`](https://github.com/opencv/opencv/issues/13918#issuecomment-763715736)
 
 {% highlight cpp %}
-$ bazel run --config=opt //tensorflow/lite/toco:toco -- --input_file=model.tflite --output_file=graph.pb --input_format=TFLITE --output_format=TENSORFLOW_GRAPHDEF
-{% endhighlight %}
+$ bazel run -c opt //tensorflow/lite/toco:toco -- --input_file=palm_detection.tflite --output_file=graph.pb --input_format=TFLITE --output_format=TENSORFLOW_GRAPHDEF{% endhighlight %}
 
 ### [Conversion of PyTorch Segmentation Models and Launch with OpenCV ](https://docs.opencv.org/4.x/d7/d9a/pytorch_segm_tutorial_dnn_conversion.html)
 
