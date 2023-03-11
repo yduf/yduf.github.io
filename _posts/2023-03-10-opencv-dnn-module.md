@@ -11,7 +11,7 @@ The key concepts involved in the transition pipeline of the TensorFlow classific
 
 ### [.tflite](https://github.com/opencv/opencv/issues/13918)
 
-Not supported [yet](https://github.com/opencv/opencv/wiki/OE-35.-TFLite-support), but [should be convertible to `.pb`](https://github.com/opencv/opencv/issues/13918#issuecomment-763715736)
+**Not supported [yet](https://github.com/opencv/opencv/wiki/OE-35.-TFLite-support)**, but [should be convertible to `.pb`](https://github.com/opencv/opencv/issues/13918#issuecomment-763715736)
 
 {% highlight cpp %}
 $ bazel run -c opt //tensorflow/lite/toco:toco -- --input_file=palm_detection.tflite --output_file=graph.pb --input_format=TFLITE --output_format=TENSORFLOW_GRAPHDEF{% endhighlight %}
