@@ -18,5 +18,7 @@ $ cd py-opencv
 - install [python binding](https://www.geeksforgeeks.org/how-to-install-opencv-for-python-in-linux/)
 {% highlight bash %}
 $ virtualenv -p python3 py-opencv # this create a folder py-opencv
-$ cd py-opencv
+$ pip3 install --force-reinstall -v "opencv-python==4.5.4"	# will list available version if not found
+
+$ pip3 install opencv-python	  # or get latest version	
 {% endhighlight %}
