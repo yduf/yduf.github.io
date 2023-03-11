@@ -14,3 +14,9 @@ tags: python opencv
 $ virtualenv -p python3 py-opencv # this create a folder py-opencv
 $ cd py-opencv
 {% endhighlight %}
+
+- install [python binding](https://www.geeksforgeeks.org/how-to-install-opencv-for-python-in-linux/)
+{% highlight bash %}
+$ virtualenv -p python3 py-opencv # this create a folder py-opencv
+$ cd py-opencv
+{% endhighlight %}
