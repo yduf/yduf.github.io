@@ -1,7 +1,7 @@
 ---
 published: true
 title: The Workbench
-tags: lab tools quote
+tags: lab hardware-tools quote
 ---
 > Making use of existing tools and being able to manage their shortcomings is an important engineering skill. - [HN](https://news.ycombinator.com/item?id=31099627)
 
