@@ -17,6 +17,8 @@ Is just a [Hakko clone](https://www.reddit.com/r/soldering/comments/100pfqf/well
 
 ### Tips
 
+Diametre interieur 4.2 / ext 6.5
+
 [compatibles with Hakko 900M-T](https://www.elektormagazine.com/news/reviewtoolcraftdigitalsolderingstation)
 
 - [Uses of Different Soldering Iron Tips](https://www.instructables.com/Uses-of-Different-Soldering-Iron-Tips/)
