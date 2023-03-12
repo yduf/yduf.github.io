@@ -7,3 +7,4 @@ tags: audio-hardware
 
 - [    La boutique du HAUT-PARLEUR ](https://www.haut-parleur.net/index.html) - Liste des suspensions de membrane haut-parleur
 
+[![caption](https://img.youtube.com/vi/BRLtmpEQ_OQ/0.jpg)](https://www.youtube.com/watch?v=BRLtmpEQ_OQ)
