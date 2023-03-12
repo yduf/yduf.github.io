@@ -1,7 +1,7 @@
 ---
 published: true
 title: Dupont connector
-tags: electronic hardware
+tags: electronic hardware-tools
 ---
 > 3D printed Dupont connector for jumper cable - [Nerd Connector](https://nerd-corner.com/3d-printed-dupont-connector-for-jumper-cable/) / [thingiverse](https://www.thingiverse.com/thing:5233256/files)
 
