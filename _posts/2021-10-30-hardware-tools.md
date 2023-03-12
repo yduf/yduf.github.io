@@ -1,7 +1,7 @@
 ---
 published: true
 title: Hardware / Work Tools
-tags: lab hardware tools
+tags: lab hardware-tools
 ---
 > [amazon](https://www.amazon.fr/) / [castorama](https://www.castorama.fr/) / [entrepot-du-bricolage](https://www.entrepot-du-bricolage.fr/) / [mano-mano](https://www.manomano.fr/) / [bricozor](https://www.bricozor.com/)
 
