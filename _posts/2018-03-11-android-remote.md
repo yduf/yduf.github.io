@@ -1,7 +1,7 @@
 ---
 title: Android Remote control
 published: true
-tags: android remote display opencv
+tags: android kvm keybard remote display opencv
 ---
 > **SCReen CoPY** application provides display and control of Android devices connected on USB. It does not require any root access. It works on GNU/Linux, Windows and Mac OS.- [github/Scrcpy](https://github.com/Genymobile/scrcpy/blob/master/README.md) / [HN](https://news.ycombinator.com/item?id=35151298)
 
