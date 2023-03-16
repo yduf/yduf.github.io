@@ -1,9 +1,9 @@
 ---
 title: Android Remote control
 published: true
-tags: android remote display
+tags: android remote display opencv
 ---
-> Scrcpy application provides display and control of Android devices connected on USB. It does not require any root access. It works on GNU/Linux, Windows and Mac OS.- [Scrcpy](https://github.com/Genymobile/scrcpy/blob/master/README.md)
+> **SCReen CoPY** application provides display and control of Android devices connected on USB. It does not require any root access. It works on GNU/Linux, Windows and Mac OS.- [github/Scrcpy](https://github.com/Genymobile/scrcpy/blob/master/README.md) / [HN](https://news.ycombinator.com/item?id=35151298)
 
 - [How to Enable USB Debugging Mode on Android](https://www.kingoapp.com/root-tutorials/how-to-enable-usb-debugging-mode-on-android.htm)
 
@@ -16,3 +16,6 @@ scrcpy  --turn-screen-off --stay-awake
 {% highlight cpp %}
 autoadb scrcpy -s '{}' --turn-screen-off --stay-awake
 {% endhighlight %}
+
+### see also
+- [scrcpy-opencv](https://github.com/robberth/scrcpy-opencv) -  a tool that streams your android screen to your computer, and allows you to send mouse or keyboard input back to the android device. This project modifies scrcpy to also send back automatically generated input by passing the frame on to the OpenCV computer vision library.
