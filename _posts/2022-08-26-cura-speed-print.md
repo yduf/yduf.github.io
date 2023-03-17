@@ -1,7 +1,7 @@
 ---
 published: true
 title: Speed up printing
-tags: 3dprinter cura klipper
+tags: 3dprint cura klipper
 ---
 > [#speedboatrace](https://www.youtube.com/watch?v=6kRjdprTjFc)
 
