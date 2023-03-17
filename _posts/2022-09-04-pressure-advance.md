@@ -1,7 +1,7 @@
 ---
 published: true
 title: Pressure Advance
-tags: 3dprinter klipper
+tags: 3dprint klipper
 ---
 > [Klipper Tuning Guide](https://www.advanced3dprinting.com/tuning-guide-part-1/)
 
