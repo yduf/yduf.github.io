@@ -11,7 +11,12 @@ tags: eyes opencv computer-vision
 
 - [Tracking your eyes with Python](https://medium.com/@stepanfilonov/tracking-your-eyes-with-python-3952e66194a6) - using haarcascade to detect face + eyes & blobs for pupils
 
-see also
+## Starting Point
+
+Using Mediapipe Iris
+- [Iris Tracking MediaPipe](https://www.youtube.com/watch?v=DNKAvDeqH_Y) / [part 2](https://www.youtube.com/watch?v=8CIxfcbGU3s)
+
+### see also
 - [Eye Gaze Tracking With Head Tracking Solutions On Linux](https://unix.stackexchange.com/questions/680253/eye-gaze-tracking-with-head-tracking-solutions-on-linux)
 - [Weekend Project: Take a Tour of Open Source Eye-Tracking Software](https://www.linux.com/training-tutorials/weekend-project-take-tour-open-source-eye-tracking-software/)
 	- [OpenGazer](https://github.com/opengazer/OpenGazer)
