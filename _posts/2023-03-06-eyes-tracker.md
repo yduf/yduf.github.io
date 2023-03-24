@@ -13,7 +13,7 @@ tags: eyes opencv computer-vision
 
 ## Starting Point
 
-Using Mediapipe Iris
+Using Mediapipe Iris ([Face Geometry Module](https://github.com/google/mediapipe/wiki/MediaPipe-Face-Mesh))
 - [Iris Tracking MediaPipe](https://www.youtube.com/watch?v=DNKAvDeqH_Y) / [part 2](https://www.youtube.com/watch?v=8CIxfcbGU3s)
 
 ### see also
