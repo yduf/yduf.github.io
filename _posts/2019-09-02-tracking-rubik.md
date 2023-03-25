@@ -1,13 +1,18 @@
 ---
 published: true
-title: Cube solver
+title: Tracking Cube & Solver
 tags: rubik opencv robot lego
 ---
 > Recognising Rubik Cube - [backup](https://github.com/yduf/ruby-kube)
 
+## Tracker
+ - [backup](https://github.com/yduf/ruby-kube)
+
 [![caption](https://img.youtube.com/vi/VaW1dmqRE0o/0.jpg)](https://www.youtube.com/watch?v=VaW1dmqRE0o)
 
 - [Reading colors of a rubik's cube](https://stackoverflow.com/questions/25563751/reading-colors-of-a-rubiks-cube-using-opencv)
+
+- [Rubiks Cube Localization, Face Detection, and Interactive Solving](http://cs231n.stanford.edu/reports/2015/pdfs/jaykevin_final.pdf) / [github](https://github.com/jayhack/ConvCube)
 
 
 ## [Cube Solver](https://medium.com/@brad.hodkinson2/writing-code-to-solve-a-rubiks-cube-7bf9c08de01f)
