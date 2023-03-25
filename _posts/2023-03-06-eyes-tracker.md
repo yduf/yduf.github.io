@@ -16,6 +16,10 @@ tags: eyes opencv computer-vision
 Using Mediapipe Iris ([Face Geometry Module](https://github.com/google/mediapipe/wiki/MediaPipe-Face-Mesh))
 - [Iris Tracking MediaPipe](https://www.youtube.com/watch?v=DNKAvDeqH_Y) / [part 2](https://www.youtube.com/watch?v=8CIxfcbGU3s)
 
+- [gaze-tracking-pipeline ](https://github.com/pperle/gaze-tracking-pipeline) / [Efficiency in Real-time Webcam Gaze Tracking (pdf)](https://arxiv.org/pdf/2009.01270v1.pdf)
+
+[![caption](https://github.com/pperle/gaze-tracking-pipeline/raw/main/docs/gaze_tracking_pipeline.png)](https://github.com/pperle/gaze-tracking-pipeline)
+
 ## Iris Localization
 - [Simple and Accurate Iris Center Localization Method 
 based on Geometric Relationship of Eyeball Model ](https://www.researchgate.net/publication/335427069_Simple_and_Accurate_Iris_Center_Localization_Method_based_on_Geometric_Relationship_of_Eyeball_Model)
