@@ -1,7 +1,7 @@
 ---
 published: true
 title: Eyes&Gaze Tracker
-tags: eyes opencv computer-vision
+tags: face eyes opencv computer-vision
 ---
 > ML solution for accurate iris estimation, able to track landmarks involving the iris, pupil and the eye contours using a single RGB camera, in real-time, without the need for specialized hardware. - [MediaPipe Iris ](https://google.github.io/mediapipe/solutions/iris.html) / [Eye Tracking with Mediapipe and OpenCV](https://kh-monib.medium.com/title-gaze-tracking-with-opencv-and-mediapipe-318ac0c9c2c3)
 
