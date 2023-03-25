@@ -27,6 +27,12 @@ Using Mediapipe Iris ([Face Geometry Module](https://github.com/google/mediapipe
 - [Simple and Accurate Iris Center Localization Method 
 based on Geometric Relationship of Eyeball Model ](https://www.researchgate.net/publication/335427069_Simple_and_Accurate_Iris_Center_Localization_Method_based_on_Geometric_Relationship_of_Eyeball_Model)
 
+- [ Surface MediaPipe Iris model for the web #2526 ](https://github.com/google/mediapipe/issues/2526)
+
+## Landmark Stabilisation
+
+- [Step By Step Guide To Stabilize Facial Landmarks In A Video Using Dlib](https://analyticsindiamag.com/step-by-step-guide-to-stabilize-facial-landmarks-in-a-video-using-dlib/)
+
 ### see also
 
 - [Real-time eye tracking using OpenCV and Dlib](https://towardsdatascience.com/real-time-eye-tracking-using-opencv-and-dlib-b504ca724ac6) / [github](https://github.com/vardanagarwal/Proctoring-AI)
