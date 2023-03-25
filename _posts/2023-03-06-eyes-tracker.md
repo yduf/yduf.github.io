@@ -20,12 +20,14 @@ Using Mediapipe Iris ([Face Geometry Module](https://github.com/google/mediapipe
 
 [![caption](https://github.com/pperle/gaze-tracking-pipeline/raw/main/docs/gaze_tracking_pipeline.png)](https://github.com/pperle/gaze-tracking-pipeline)
 
+- [Eye gaze estimation using a webcam. 100 lines of code](https://medium.com/mlearning-ai/eye-gaze-estimation-using-a-webcam-in-100-lines-of-code-570d4683fe23)
+
 ## Iris Localization
 - [Simple and Accurate Iris Center Localization Method 
 based on Geometric Relationship of Eyeball Model ](https://www.researchgate.net/publication/335427069_Simple_and_Accurate_Iris_Center_Localization_Method_based_on_Geometric_Relationship_of_Eyeball_Model)
 
 ### see also
-- [Eye gaze estimation using a webcam. 100 lines of code](https://medium.com/mlearning-ai/eye-gaze-estimation-using-a-webcam-in-100-lines-of-code-570d4683fe23)
+
 - [Eye Gaze Tracking With Head Tracking Solutions On Linux](https://unix.stackexchange.com/questions/680253/eye-gaze-tracking-with-head-tracking-solutions-on-linux)
 - [Weekend Project: Take a Tour of Open Source Eye-Tracking Software](https://www.linux.com/training-tutorials/weekend-project-take-tour-open-source-eye-tracking-software/)
 	- [OpenGazer](https://github.com/opengazer/OpenGazer)
