@@ -20,7 +20,7 @@ Using Mediapipe Iris ([Face Geometry Module](https://github.com/google/mediapipe
 
 [![caption](https://github.com/pperle/gaze-tracking-pipeline/raw/main/docs/gaze_tracking_pipeline.png)](https://github.com/pperle/gaze-tracking-pipeline)
 
-- [Eye gaze estimation using a webcam. 100 lines of code](https://medium.com/mlearning-ai/eye-gaze-estimation-using-a-webcam-in-100-lines-of-code-570d4683fe23)
+- [Eye gaze estimation using a webcam. 100 lines of code](https://medium.com/mlearning-ai/eye-gaze-estimation-using-a-webcam-in-100-lines-of-code-570d4683fe23) / [github](https://github.com/amitt1236/Gaze_estimation)
 
 ## Iris Localization
 - [Simple and Accurate Iris Center Localization Method 
