@@ -7,16 +7,16 @@ tags: eyes opencv computer-vision
 
 [![caption](https://github.com/pperle/gaze-tracking-pipeline/raw/main/docs/gaze_tracking_pipeline.png)](https://github.com/pperle/gaze-tracking-pipeline)
 
-[![caption](https://1.bp.blogspot.com/-N494e9_yk00/XywzbwgHMgI/AAAAAAAAGUo/4rWZgcvMPaQVphDK6SSeDZp8-79REaIAwCLcBGAsYHQ/s0/image8.gif)](https://ai.googleblog.com/2020/08/mediapipe-iris-real-time-iris-tracking.html)
-
-- [Real-time eye tracking using OpenCV and Dlib](https://towardsdatascience.com/real-time-eye-tracking-using-opencv-and-dlib-b504ca724ac6) / [github](https://github.com/vardanagarwal/Proctoring-AI)
-
-- [Tracking your eyes with Python](https://medium.com/@stepanfilonov/tracking-your-eyes-with-python-3952e66194a6) - using haarcascade to detect face + eyes & blobs for pupils
 
 ## Starting Point
 
+### Face Landmark Detection
 Using Mediapipe Iris ([Face Geometry Module](https://github.com/google/mediapipe/wiki/MediaPipe-Face-Mesh))
 - [Iris Tracking MediaPipe](https://www.youtube.com/watch?v=DNKAvDeqH_Y) / [part 2](https://www.youtube.com/watch?v=8CIxfcbGU3s) / [medium](https://medium.com/mlearning-ai/iris-segmentation-mediapipe-python-a4deb711aae3)
+
+[![caption](https://1.bp.blogspot.com/-N494e9_yk00/XywzbwgHMgI/AAAAAAAAGUo/4rWZgcvMPaQVphDK6SSeDZp8-79REaIAwCLcBGAsYHQ/s0/image8.gif)](https://ai.googleblog.com/2020/08/mediapipe-iris-real-time-iris-tracking.html)
+
+### 3D Gaze
 
 - [gaze-tracking-pipeline ](https://github.com/pperle/gaze-tracking-pipeline) / [Efficiency in Real-time Webcam Gaze Tracking (pdf)](https://arxiv.org/pdf/2009.01270v1.pdf)
 
@@ -29,8 +29,13 @@ based on Geometric Relationship of Eyeball Model ](https://www.researchgate.net/
 
 ### see also
 
+- [Real-time eye tracking using OpenCV and Dlib](https://towardsdatascience.com/real-time-eye-tracking-using-opencv-and-dlib-b504ca724ac6) / [github](https://github.com/vardanagarwal/Proctoring-AI)
+
+- [Tracking your eyes with Python](https://medium.com/@stepanfilonov/tracking-your-eyes-with-python-3952e66194a6) - using haarcascade to detect face + eyes & blobs for pupils
+
 - [Eye Gaze Tracking With Head Tracking Solutions On Linux](https://unix.stackexchange.com/questions/680253/eye-gaze-tracking-with-head-tracking-solutions-on-linux)
 - [Weekend Project: Take a Tour of Open Source Eye-Tracking Software](https://www.linux.com/training-tutorials/weekend-project-take-tour-open-source-eye-tracking-software/)
 	- [OpenGazer](https://github.com/opengazer/OpenGazer)
 	- [GazePointer](https://gazerecorder.com/gazepointer/)
     - [Gaze Tracking](https://github.com/antoinelame/GazeTracking) - a webcam-based eye tracking system. It gives you the exact position of the pupils and the gaze direction, in real time.
+
