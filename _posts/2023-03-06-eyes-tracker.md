@@ -5,6 +5,8 @@ tags: eyes opencv computer-vision
 ---
 > ML solution for accurate iris estimation, able to track landmarks involving the iris, pupil and the eye contours using a single RGB camera, in real-time, without the need for specialized hardware. - [MediaPipe Iris ](https://google.github.io/mediapipe/solutions/iris.html) / [Eye Tracking with Mediapipe and OpenCV](https://kh-monib.medium.com/title-gaze-tracking-with-opencv-and-mediapipe-318ac0c9c2c3)
 
+[![caption](https://github.com/pperle/gaze-tracking-pipeline/raw/main/docs/gaze_tracking_pipeline.png)](https://github.com/pperle/gaze-tracking-pipeline)
+
 [![caption](https://1.bp.blogspot.com/-N494e9_yk00/XywzbwgHMgI/AAAAAAAAGUo/4rWZgcvMPaQVphDK6SSeDZp8-79REaIAwCLcBGAsYHQ/s0/image8.gif)](https://ai.googleblog.com/2020/08/mediapipe-iris-real-time-iris-tracking.html)
 
 - [Real-time eye tracking using OpenCV and Dlib](https://towardsdatascience.com/real-time-eye-tracking-using-opencv-and-dlib-b504ca724ac6) / [github](https://github.com/vardanagarwal/Proctoring-AI)
@@ -14,11 +16,10 @@ tags: eyes opencv computer-vision
 ## Starting Point
 
 Using Mediapipe Iris ([Face Geometry Module](https://github.com/google/mediapipe/wiki/MediaPipe-Face-Mesh))
-- [Iris Tracking MediaPipe](https://www.youtube.com/watch?v=DNKAvDeqH_Y) / [part 2](https://www.youtube.com/watch?v=8CIxfcbGU3s)
+- [Iris Tracking MediaPipe](https://www.youtube.com/watch?v=DNKAvDeqH_Y) / [part 2](https://www.youtube.com/watch?v=8CIxfcbGU3s) / [medium](https://medium.com/mlearning-ai/iris-segmentation-mediapipe-python-a4deb711aae3)
 
 - [gaze-tracking-pipeline ](https://github.com/pperle/gaze-tracking-pipeline) / [Efficiency in Real-time Webcam Gaze Tracking (pdf)](https://arxiv.org/pdf/2009.01270v1.pdf)
 
-[![caption](https://github.com/pperle/gaze-tracking-pipeline/raw/main/docs/gaze_tracking_pipeline.png)](https://github.com/pperle/gaze-tracking-pipeline)
 
 - [Eye gaze estimation using a webcam. 100 lines of code](https://medium.com/mlearning-ai/eye-gaze-estimation-using-a-webcam-in-100-lines-of-code-570d4683fe23) / [github](https://github.com/amitt1236/Gaze_estimation)
 
