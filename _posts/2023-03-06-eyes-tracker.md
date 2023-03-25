@@ -32,6 +32,7 @@ based on Geometric Relationship of Eyeball Model ](https://www.researchgate.net/
 ## Landmark Stabilisation
 
 - [Step By Step Guide To Stabilize Facial Landmarks In A Video Using Dlib](https://analyticsindiamag.com/step-by-step-guide-to-stabilize-facial-landmarks-in-a-video-using-dlib/)
+- [Stabilized-Facial-Landmark-Detection-in-Real-Time-Video](https://github.com/mayankvik2/Stabilized-Facial-Landmark-Detection-in-Real-Time-Video/blob/master/Stabilized%20Vedio.ipynb)
 
 ### see also
 
