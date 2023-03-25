@@ -1,6 +1,6 @@
 ---
 published: true
-title: Eyes Tracker
+title: Eyes&Gaze Tracker
 tags: eyes opencv computer-vision
 ---
 > ML solution for accurate iris estimation, able to track landmarks involving the iris, pupil and the eye contours using a single RGB camera, in real-time, without the need for specialized hardware. - [MediaPipe Iris ](https://google.github.io/mediapipe/solutions/iris.html) / [Eye Tracking with Mediapipe and OpenCV](https://kh-monib.medium.com/title-gaze-tracking-with-opencv-and-mediapipe-318ac0c9c2c3)
@@ -25,6 +25,7 @@ Using Mediapipe Iris ([Face Geometry Module](https://github.com/google/mediapipe
 based on Geometric Relationship of Eyeball Model ](https://www.researchgate.net/publication/335427069_Simple_and_Accurate_Iris_Center_Localization_Method_based_on_Geometric_Relationship_of_Eyeball_Model)
 
 ### see also
+- [Eye gaze estimation using a webcam. 100 lines of code](https://medium.com/mlearning-ai/eye-gaze-estimation-using-a-webcam-in-100-lines-of-code-570d4683fe23)
 - [Eye Gaze Tracking With Head Tracking Solutions On Linux](https://unix.stackexchange.com/questions/680253/eye-gaze-tracking-with-head-tracking-solutions-on-linux)
 - [Weekend Project: Take a Tour of Open Source Eye-Tracking Software](https://www.linux.com/training-tutorials/weekend-project-take-tour-open-source-eye-tracking-software/)
 	- [OpenGazer](https://github.com/opengazer/OpenGazer)
