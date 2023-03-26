@@ -1,6 +1,7 @@
 ---
 published: true
 tags: binary visualizer diff reverse
+title: Binary Visual & Diff
 ---
 - [BinDiff](https://www.zynamics.com/bindiff.html) - a comparison tool for binary files, that assists vulnerability researchers and engineers to quickly find differences and similarities in disassembled code.
 
