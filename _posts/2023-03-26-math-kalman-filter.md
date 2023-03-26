@@ -18,7 +18,7 @@ The expected value is the value you would expect your hidden variable to have ov
 
 ### Variance vs Standard Deviation
 
-The Variance is a measure of the spreading of the data set from its mean. 
+The Variance is a measure of the spreading of the data set from its mean.
 
 The Standard Deviation is the square root of the variance. 
 
