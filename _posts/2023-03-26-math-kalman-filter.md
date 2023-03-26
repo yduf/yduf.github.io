@@ -52,6 +52,9 @@ in "Kalman Filter language," this factor is called the Kalman Gain. It is denote
 The Kalman Filter requires the initial guess as a preset, which can be very rough. 
  
 ### Dynamic System
+
+A system that change its state over time.
+Follwoing a State Extrapolation Equation (also called a Transition Equation or a Prediction Equation) and is also one of the five Kalman filter equations. This system of equations extrapolates the current state to the next state (prediction). 
  
 ### see also
 - [Kalman Filter Using OpenCV in Python](https://www.delftstack.com/howto/python/opencv-kalman-filter/) / [SO](https://stackoverflow.com/questions/42904509/opencv-kalman-filter-python)
