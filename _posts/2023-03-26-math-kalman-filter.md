@@ -5,9 +5,15 @@ tags: math opencv
 ---
 > The Kalman Filter is one of the most important and common estimation algorithms. The Kalman Filter produces estimates of hidden variables based on inaccurate and uncertain measurements. Also, the Kalman Filter predicts the future system state based on past estimations. - [kalmanfilter.net](https://www.kalmanfilter.net/default.aspx)
 
+
+
+![caption](https://www.kalmanfilter.net/img/AlphaBeta/ex1_estimationAlgorithm.png) 
+
 **System state** - input needed for the prediction algorithm
 **Dynamic Model** - the relation between input and output
 **Measurement Noise** + **Process Noise**
+
+
 
 ### [Mean vs Expected Value](https://www.kalmanfilter.net/background.html)
 
@@ -38,6 +44,10 @@ The above equation is one of the five Kalman filter equations. It is called the 
 ![caption](https://www.kalmanfilter.net/img/AlphaBeta/ex1_stateUpdate.png) 
 
 in "Kalman Filter language," this factor is called the Kalman Gain. It is denoted by $K_n$. The subscript n indicates that the Kalman Gain can change with every iteration. 
+
+**Initial guess** - Before we make the first measurement, we can guess (or rough estimate) the gold bar weight simply by reading the stamp on the gold bar. It is called the Initial Guess, and it is our first estimate.
+
+The Kalman Filter requires the initial guess as a preset, which can be very rough. 
  
 ### Dynamic System
  
