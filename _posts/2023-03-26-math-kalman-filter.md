@@ -22,6 +22,11 @@ The Variance is a measure of the spreading of the data set from its mean.
 
 The Standard Deviation is the square root of the variance. 
 
+### Static System
+
+A static system is a system that doesn't change its state over a reasonable period. For instance, the static system could be a tower, and the state would be its height. 
+
+### Dynamic System
  
 ### see also
 - [Kalman Filter Using OpenCV in Python](https://www.delftstack.com/howto/python/opencv-kalman-filter/) / [SO](https://stackoverflow.com/questions/42904509/opencv-kalman-filter-python)
