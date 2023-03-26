@@ -11,7 +11,10 @@ tags: math opencv
 
 ### [Mean vs Expected Value](https://www.kalmanfilter.net/background.html)
 
- The expected value is the value you would expect your hidden variable to have over a long time or many trials. 
+Mean and Expected Value are closely related terms. However, there is a difference. 
+Mean is computed on observed value.
+
+The expected value is the value you would expect your hidden variable to have over a long time or many trials. 
  
 ### see also
 - [Kalman Filter Using OpenCV in Python](https://www.delftstack.com/howto/python/opencv-kalman-filter/) / [SO](https://stackoverflow.com/questions/42904509/opencv-kalman-filter-python)
