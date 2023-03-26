@@ -7,7 +7,7 @@ tags: math opencv
 
 
 
-![caption](https://www.kalmanfilter.net/img/AlphaBeta/ex1_estimationAlgorithm.png) 
+[![caption](https://www.kalmanfilter.net/img/AlphaBeta/ex1_estimationAlgorithm.png)](https://www.kalmanfilter.net/alphabeta.html)
 
 **System state** - input needed for the prediction algorithm
 **Dynamic Model** - the relation between input and output
@@ -41,7 +41,7 @@ The above equation is one of the five Kalman filter equations. It is called the 
 
 
 
-![caption](https://www.kalmanfilter.net/img/AlphaBeta/ex1_stateUpdate.png) 
+[![caption](https://www.kalmanfilter.net/img/AlphaBeta/ex1_stateUpdate.png)](https://www.kalmanfilter.net/alphabeta.html)
 
 in "Kalman Filter language," this factor is called the Kalman Gain. It is denoted by $K_n$. The subscript n indicates that the Kalman Gain can change with every iteration. 
 
