@@ -1,7 +1,9 @@
 ---
 published: true
-tags: binary visualizer
+tags: binary visualizer diff reverse
 ---
+- [BinDiff](https://www.zynamics.com/bindiff.html) - a comparison tool for binary files, that assists vulnerability researchers and engineers to quickly find differences and similarities in disassembled code.
+
 - [Visualizing binaries with space-filling curves](https://corte.si/posts/visualisation/binvis/index.html) / [HN](https://news.ycombinator.com/item?id=14544191)
 - [Visualizing-elf-binaries](https://reverseengineering.stackexchange.com/questions/6003/visualizing-elf-binaries) / [HN](https://news.ycombinator.com/item?id=15164166)
 
