@@ -15,6 +15,13 @@ Mean and Expected Value are closely related terms. However, there is a differenc
 Mean is computed on observed value.
 
 The expected value is the value you would expect your hidden variable to have over a long time or many trials. 
+
+### Variance vs Standard Deviation
+
+The Variance is a measure of the spreading of the data set from its mean. 
+
+The Standard Deviation is the square root of the variance. 
+
  
 ### see also
 - [Kalman Filter Using OpenCV in Python](https://www.delftstack.com/howto/python/opencv-kalman-filter/) / [SO](https://stackoverflow.com/questions/42904509/opencv-kalman-filter-python)
