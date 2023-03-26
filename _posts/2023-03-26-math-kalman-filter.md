@@ -9,6 +9,8 @@ tags: math opencv
 
 [![caption](https://www.kalmanfilter.net/img/AlphaBeta/ex1_estimationAlgorithm.png)](https://www.kalmanfilter.net/alphabeta.html)
 
+[![caption](https://www.kalmanfilter.net/img/AlphaBeta/ex1_MeasVsTrueVsEst.png)](https://www.kalmanfilter.net/alphabeta.html)
+
 **System state** - input needed for the prediction algorithm
 **Dynamic Model** - the relation between input and output
 **Measurement Noise** + **Process Noise**
