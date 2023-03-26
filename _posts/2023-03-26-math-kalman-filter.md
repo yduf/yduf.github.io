@@ -26,6 +26,19 @@ The Standard Deviation is the square root of the variance.
 
 A static system is a system that doesn't change its state over a reasonable period. For instance, the static system could be a tower, and the state would be its height. 
 
+Example of measuring gold:
+rewriting mean,so that it can be computed from previous estimation and new measurement (without recomputing it fully each time).
+
+$^n,n=1n∑ni=1(zi)=x^n,n−1+1n(zn−x^n,n−1) $ // TBD
+
+The above equation is one of the five Kalman filter equations. It is called the State Update Equation. It means the following: 
+
+
+
+![caption](https://www.kalmanfilter.net/img/AlphaBeta/ex1_stateUpdate.png) 
+
+in "Kalman Filter language," this factor is called the Kalman Gain. It is denoted by $K_n$. The subscript n indicates that the Kalman Gain can change with every iteration. 
+ 
 ### Dynamic System
  
 ### see also
