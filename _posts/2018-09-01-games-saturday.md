@@ -7,6 +7,7 @@ tags: codingame twitter
 
 see also
 - [Gameplay]({% post_url 2018-04-29-gameplay %})
+- [#deathtrash](https://twitter.com/hashtag/deathtrash?src=hash)
 
 ### [Bleak Sword](https://twitter.com/more8bit?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E990314804152815618%7Ctwgr%5E%7Ctwcon%5Es1_)
 
