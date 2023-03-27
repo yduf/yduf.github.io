@@ -32,3 +32,7 @@ If your key is relatively slow to hash and to compare like a std::string, robin_
 
 Sometimes it is very important to iterate and process all entries in a map very fast, e.g. in games. In that case, tsl::sparse_map is the clear winner. Iteration is exceptionally fast, it uses little memory, and find & insert & erase performance is ok as well.
 
+### see also
+- [ sparsehash](https://github.com/sparsehash/sparsehash) - several hash-map implementations, similar in
+API to SGI's hash_map class, but with different performance
+characteristics.
