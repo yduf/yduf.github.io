@@ -58,3 +58,4 @@ Follwoing a State Extrapolation Equation (also called a Transition Equation or a
  
 ### see also
 - [Kalman Filter Using OpenCV in Python](https://www.delftstack.com/howto/python/opencv-kalman-filter/) / [SO](https://stackoverflow.com/questions/42904509/opencv-kalman-filter-python)
+- [	Kalman filters and functional programming](https://news.ycombinator.com/item?id=13530140)
