@@ -20,3 +20,5 @@ Adding unrelated function slow down/or accelerate code.
 - [Performance Analysis & Tuning on Modern CPU - Denis Bakhvalov.](https://www.youtube.com/watch?v=Ho3bCIJcMcc&feature=youtu.be&t=351)
 	- [Blog](https://easyperf.net/notes/)
     - [slides](https://github.com/dendibakh/dendibakh.github.io/blob/master/_posts/presentations/PerfAnalysisOnModernCPU.pdf)
+
+- [Deoptimizing a C++ program](https://stackoverflow.com/questions/37361145/deoptimizing-a-program-for-the-pipeline-in-intel-sandybridge-family-cpus)
