@@ -29,3 +29,4 @@ How much latency is too much? A Reddit discussion contained a rule of thumb I li
 
 see also
 - [Memory Bandwidth Napkin Math](https://www.forrestthewoods.com/blog/memory-bandwidth-napkin-math/)
+- [	Slitter: A slab allocator that trusts, but verifies](https://news.ycombinator.com/item?id=28068015)
