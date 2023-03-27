@@ -1,7 +1,7 @@
 ---
 published: true
 title: Hacking the Attacknid
-tags: robot
+tags: robot reverse
 ---
 > The hexapod is the clever design work of Jaimie Mantzel, a somewhat eccentric Canadian inventor. In fact, the Attacknid is really a miniature version of [the Giant Robot Mantzel](https://www.youtube.com/watch?time_continue=698&v=YjTcReaOqQ0) recently finished building. What makes Mantzel’s design impressive is that despite its six legs, only two DC motors control its movement ­— compare that with the 12 servo motors minimum you’d find in any other six-legged walker. - [Arduino project: Hacking the Attacknid](https://web.archive.org/web/20140319044803/http://apcmag.com:80/arduino-project-hacking-attacknid.htm#null)
 
@@ -27,3 +27,7 @@ The controller has something that resembles a NRF24L01 RF transceiver in it.
 - [webarchive/apcmag](https://web.archive.org/web/20140319044803/http://apcmag.com:80/arduino-project-hacking-attacknid.htm#null)
 
 - [Ez Robot Attacknid](https://synthiam.com/Robot/Ez-Robot-Attacknid-6lr-137)
+
+
+### see also
+- [Reversing a 2.4GHz Remote Control ](https://news.ycombinator.com/item?id=31168052)
