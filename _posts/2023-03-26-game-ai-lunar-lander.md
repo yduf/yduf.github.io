@@ -6,4 +6,4 @@ tags: codingame AI
 > a lunar lander style web game - [HN](https://news.ycombinator.com/item?id=35032506) / [autopilot](https://news.ycombinator.com/item?id=35090054)
 
 Also
-- [Mars Lander (codingame)]()
+- [Mars Lander (codingame)](https://www.codingame.com/multiplayer/optimization/mars-lander)
