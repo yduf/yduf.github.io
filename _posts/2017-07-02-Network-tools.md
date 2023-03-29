@@ -1,14 +1,16 @@
 ---
 published: true
 tags: linux network benchmarking
+title: Network Tools
 ---
 ## [Probing Host](https://www.linux.com/learn/who-and-what-my-network-probing-your-network-linux)
 
-```bash
-# netstat -untap
+{% highlight bash %}
+$ netstat -untap
 
-# whowatch
-```
+$ whowatch
+{% endhighlight %}
+
 
 ## [perf host/host](https://linuxaria.com/article/tool-command-line-bandwidth-linux)
 [also](https://www.linux.com/learn/five-funny-little-linux-network-testers-and-monitors)
