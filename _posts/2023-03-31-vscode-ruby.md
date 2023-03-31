@@ -1,6 +1,6 @@
 ---
 published: true
-title: VSCode & Ruby
+title: VSCode & Ruby Debug
 tags: vscode ruby debug
 ---
 - [VSCode rdbg Ruby Debugger](https://marketplace.visualstudio.com/items?itemName=KoichiSasada.vscode-rdbg)
