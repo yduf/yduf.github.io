@@ -1,7 +1,7 @@
 ---
 published: true
 title: Opencv HighGUI
-tags: opencv
+tags: opencv gui
 ---
 - [OpenCV Combine Images](https://www.delftstack.com/howto/python/opencv-combine-images/)
 - [How to save the region of interest of a frame using openCV?](https://stackoverflow.com/questions/57766374/how-to-save-the-region-of-interest-of-a-frame-using-opencv)
