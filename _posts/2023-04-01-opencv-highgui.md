@@ -8,8 +8,7 @@ tags: opencv gui
 	- [ROI's are just numpy slices,](https://answers.opencv.org/question/233775/how-can-i-modify-roi-and-then-add-it-to-the-original-image-using-python/)
 
 
-- [Set Trackbar on Image using openCV Python](https://manivannan-ai.medium.com/set-trackbar-on-image-using-opencv-python-58c57fbee1ee)
-	- [setTrackbarPos() Function](https://www.geeksforgeeks.org/python-opencv-settrackbarpos-function/)
+- [Trackbar in OpenCV Python](https://blog.electroica.com/trackbar-in-opencv-python/)
 
 see also
 - [ cvcomposer ](https://github.com/wawanbreton/cvcomposer) - a graphical interface to OpenCV functions. It allows you to combine many processing functions and see the effect in real-time.
