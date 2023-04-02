@@ -9,6 +9,7 @@ tags: opencv gui
 
 
 - [Set Trackbar on Image using openCV Python](https://manivannan-ai.medium.com/set-trackbar-on-image-using-opencv-python-58c57fbee1ee)
+	- [setTrackbarPos() Function](https://www.geeksforgeeks.org/python-opencv-settrackbarpos-function/)
 
 see also
 - [ cvcomposer ](https://github.com/wawanbreton/cvcomposer) - a graphical interface to OpenCV functions. It allows you to combine many processing functions and see the effect in real-time.
