@@ -10,7 +10,7 @@ tags: svg python lib
 ### Writting SVG 
 - [Experimenting A New Syntax To Write SVG](https://yuanchuan.dev/experimenting-a-new-syntax-to-write-svg)
 
-- [Victor](https://github.com/DannyBen/victor) -  a direct Ruby-to-SVG builder. All method calls are converted directly to SVG elements.
+- [Victor](https://github.com/DannyBen/victor) / [online (opal)](https://gh.kbn.one/victor-opal/)-  a direct Ruby-to-SVG builder. All method calls are converted directly to SVG elements.
 	- [Converting an SVG to absolute command in Ruby](https://stackoverflow.com/questions/68870185/converting-an-svg-to-absolute-command-in-ruby)
     - [Building SVG Badges in Ruby](https://www.mayerdan.com/ruby/2019/04/10/building-svg-badges)
     
