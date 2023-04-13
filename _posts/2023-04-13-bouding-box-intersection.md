@@ -9,3 +9,4 @@ tags: math codingame
 see also
 - [Minkowski sum](https://gamedev.stackexchange.com/questions/93035/whats-the-fastest-way-checking-if-two-moving-aabbs-intersect) - What's the fastest way checking if two moving AABBs intersect?
 - [Line Segment Intersection](https://www.cs.umd.edu/class/spring2020/cmsc754/Lects/lect04-intersection.pdf)
+	- [ Sweep-Line Algorithm for Line Segment Intersection (2/5) | Computational Geometry - Lecture 02 ](https://www.youtube.com/watch?v=qkhUNzCGDt0)
