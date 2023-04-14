@@ -11,4 +11,4 @@ tags: wii emulator games
 
 ## Wii
 
-- [Dolphin](https://dolphin-emu.org/)
+- [Dolphin](https://dolphin-emu.org/) / [build](https://wiki.dolphin-emu.org/index.php?title=Building_Dolphin_on_Linux)
