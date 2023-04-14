@@ -8,3 +8,7 @@ tags: wii emulator games
 - comparison [Yuzu vs Ryujinx Test In 10 Games 4K  RTX 3070 + i5 12600K](https://www.youtube.com/watch?v=ZR3MOkOAKdo) - Yuzu look faster ?
 
 - [Yuzu](https://yuzu-emu.org/) - linux Appimage
+
+## Wii
+
+- [Dolphin](https://dolphin-emu.org/)
