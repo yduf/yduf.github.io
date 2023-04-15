@@ -18,6 +18,8 @@ $ bluetoothctl scan on
 
 ### [ Bluetooth icon missing from panel](https://forums.linuxmint.com/viewtopic.php?t=32002)
 
+Install blueman
+
 ### Devices
 
 {% highlight bash %}
