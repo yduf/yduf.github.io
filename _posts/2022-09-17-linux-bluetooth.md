@@ -16,6 +16,10 @@ $ bluetoothctl scan on
 
 ## Troubleshooting
 
+### [ Bluetooth icon missing from panel](https://forums.linuxmint.com/viewtopic.php?t=32002)
+
+### Devices
+
 {% highlight bash %}
 $ rfkill                  #  lists the wireless adapters 
 $ sudo systemctl status bluetooth # check service
