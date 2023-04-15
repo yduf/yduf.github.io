@@ -11,4 +11,16 @@ tags: wii emulator games
 
 ## Wii
 
-- [Dolphin](https://dolphin-emu.org/) / [build](https://wiki.dolphin-emu.org/index.php?title=Building_Dolphin_on_Linux)
+### [Dolphin](https://dolphin-emu.org/) / [build](https://wiki.dolphin-emu.org/index.php?title=Building_Dolphin_on_Linux)
+
+
+[Dolphin supports playing games dumped in the following formats](https://dolphin-emu.org/docs/faq/):
+
+GCM/ISO (uncompressed dumps, should be 1.4GB for GameCube games and 4.7GB for Wii games  
+GCZ (Dolphin can be used to compress your games to this format)  
+CISO*  
+WBFS* (not supported in Dolphin 3.0 or earlier)
+
+Note that WBFS and CISO are lossy compression formats: they remove some of the unused information stored on the discs to make files smaller. As such, we recommend you try dumping your games as GCM/ISO if you get issues using a WBFS dump.
+
+
