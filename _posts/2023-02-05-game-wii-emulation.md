@@ -24,3 +24,5 @@ WBFS* (not supported in Dolphin 3.0 or earlier)
 Note that WBFS and CISO are lossy compression formats: they remove some of the unused information stored on the discs to make files smaller. As such, we recommend you try dumping your games as GCM/ISO if you get issues using a WBFS dump.
 
 [Wiimote & Bluetooth Setup](https://wiki.dolphin-emu.org/index.php?title=Bluetooth_Passthrough)
+
+- [Using Wii module through USB](https://forums.dolphin-emu.org/Thread-how-to-wire-a-wii-s-bluetooth-module-to-a-pc-usb-port)
