@@ -7,4 +7,4 @@ tags: math 3Blue1Brown complex-number puzzle
 
 related
 - to prime
-- Riemann Hypothesis
+- Riemann Hypothesis / Dirichlet series
