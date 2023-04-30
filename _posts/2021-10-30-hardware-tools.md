@@ -44,14 +44,18 @@ others
 
 
 
-### [Perceuse à colonne Bosch PBD 40](https://www.bricolage-facile.net/test-avis-perceuse-a-colonne-pbd-40-bosch/) / [mano mano 270€](https://www.manomano.fr/p/perceuse-a-colonne-pbd40-bosch-51376)
+### Perceuse à colonne 
+
+vs [ Holzmann SB162VN ](https://www.youtube.com/watch?v=vBOyEKgupxM) / [amazon](https://www.amazon.fr/Holzmann-Perceuse-variateur-affichage-SB162VN-230V/dp/B0797TGW49/ref=cm_cr_arp_d_product_top?ie=UTF8)
+
+- [Bosch PBD 40](https://www.bricolage-facile.net/test-avis-perceuse-a-colonne-pbd-40-bosch/) / [mano mano 270€](https://www.manomano.fr/p/perceuse-a-colonne-pbd40-bosch-51376)
 - [review](https://www.woodworkforums.com/f171/bosch-pbd-40-bench-drill-218092) / [2](https://www.woodworkforums.com/f155/bosch-710w-corded-bench-drill-211213) / [3](https://www.youtube.com/watch?v=8ypXCasAaVw)
 - [Handle](https://www.thingiverse.com/thing:4190421) / [DRILL HANDLE V2](https://www.thingiverse.com/thing:3732317)
 - [Dust collector ](https://www.thingiverse.com/thing:4063290)
 
 vs [Scheppach DP60](https://www.youtube.com/watch?v=BTVz-uoeb8M) / [Parkside](https://www.youtube.com/watch?v=C--KbdsqSUA)
 
-vs [ Holzmann SB162VN ](https://www.youtube.com/watch?v=vBOyEKgupxM) / [amazon](https://www.amazon.fr/Holzmann-Perceuse-variateur-affichage-SB162VN-230V/dp/B0797TGW49/ref=cm_cr_arp_d_product_top?ie=UTF8)
+
 
 vs [Homemade](https://www.youtube.com/watch?v=a2kIJDhhZrg)
 - search for _drill spindle assembly_ and _linear motion bearings_ _magnetic holder base_
