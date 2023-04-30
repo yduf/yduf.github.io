@@ -51,6 +51,8 @@ others
 
 vs [Scheppach DP60](https://www.youtube.com/watch?v=BTVz-uoeb8M) / [Parkside](https://www.youtube.com/watch?v=C--KbdsqSUA)
 
+vs [ Holzmann SB162VN ](https://www.youtube.com/watch?v=vBOyEKgupxM) / [amazon](https://www.amazon.fr/Holzmann-Perceuse-variateur-affichage-SB162VN-230V/dp/B0797TGW49/ref=cm_cr_arp_d_product_top?ie=UTF8)
+
 vs [Homemade](https://www.youtube.com/watch?v=a2kIJDhhZrg)
 - search for _drill spindle assembly_ and _linear motion bearings_ _magnetic holder base_
 
