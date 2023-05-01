@@ -49,8 +49,9 @@ others
 vs [ Holzmann SB162VN ](https://www.youtube.com/watch?v=vBOyEKgupxM) / [amazon](https://www.amazon.fr/Holzmann-Perceuse-variateur-affichage-SB162VN-230V/dp/B0797TGW49/ref=cm_cr_arp_d_product_top?ie=UTF8)
 
 vs [EINHELL TE-BD 750 E](https://www.youtube.com/watch?v=2tvq04D1oBw) - cone morse MK2/CM2
-	- [precision](https://www.youtube.com/watch?v=twAIaMYnSGo)
+	- [precision](https://www.youtube.com/watch?v=twAIaMYnSGo) / [montage](https://www.youtube.com/watch?v=JlSuew2QfWk)
     - [operational limit](https://www.youtube.com/watch?v=2EgIfgauEmk) - 16mm iron
+    
 
 - [Bosch PBD 40](https://www.bricolage-facile.net/test-avis-perceuse-a-colonne-pbd-40-bosch/) / [mano mano 270€](https://www.manomano.fr/p/perceuse-a-colonne-pbd40-bosch-51376)
 	- [jeux dand les roulements](https://www.youtube.com/watch?v=RAcDacXRhWU)
