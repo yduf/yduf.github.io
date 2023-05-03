@@ -7,6 +7,7 @@ tags: js online graphic notebook
 
 ## Example
 - [farn](https://beta.observablehq.com/@timhau/farn)
+- [Bank failures](https://observablehq.com/d/d85ce0c639bc4df7) / [HN](https://news.ycombinator.com/item?id=35795975)
 
 ## Other
 - [Why We're Building Observable](https://news.ycombinator.com/item?id=25161409)
