@@ -7,7 +7,7 @@ tags: graph search algorithm fastware
 
 see also
 - [	Beautiful branchless binary search](https://probablydance.com/2023/04/27/beautiful-branchless-binary-search/) / [HN](https://news.ycombinator.com/item?id=35737862)
-- [Eytzinger Binary Search](https://algorithmica.org/en/eytzinger) - In addition to being branchless, it also has better cache properties than a standard binary search tree.
+- [Eytzinger Binary Search](https://algorithmica.org/en/eytzinger) / [2](https://espindo.la/posts/array-layouts.html) - In addition to being branchless, it also has better cache properties than a standard binary search tree.
 - [4K Aliasing](https://richardstartin.github.io/posts/4k-aliasing) - Intel uses 12-bit memory port quick addressing in their hardware, resulting in an issue known as “4K Aliasing” - [HN](https://news.ycombinator.com/item?id=35741301)
 - [cmov](https://yarchive.net/comp/linux/cmov.html) - make branches predictable, and only after, use CMOV for the remaining ones. His fundametnal assumption is that "even if you were to know that something is unpredictable, it's going to be very rare.". - [HN](https://news.ycombinator.com/item?id=35738299)
 
