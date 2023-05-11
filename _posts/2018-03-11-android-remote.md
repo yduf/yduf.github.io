@@ -7,6 +7,7 @@ tags: android kvm keybard remote display opencv
 
 see also
 - [Vos appareils](https://myaccount.google.com/device-activity?pli=1)
+- [Localiser mon appareil](https://www.google.com/android/find/)
 
 [![caption](https://github.com/Genymobile/scrcpy/raw/master/assets/screenshot-debian-600.jpg)](https://github.com/Genymobile/scrcpy)
 
