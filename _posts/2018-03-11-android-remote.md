@@ -5,6 +5,9 @@ tags: android kvm keybard remote display opencv
 ---
 > **SCReen CoPY** application provides display and control of Android devices connected on USB. It does not require any root access. It works on GNU/Linux, Windows and Mac OS.- [github/Scrcpy](https://github.com/Genymobile/scrcpy/blob/master/README.md) / [HN](https://news.ycombinator.com/item?id=35151298)
 
+see also
+- [Vos appareils](https://myaccount.google.com/device-activity?pli=1)
+
 [![caption](https://github.com/Genymobile/scrcpy/raw/master/assets/screenshot-debian-600.jpg)](https://github.com/Genymobile/scrcpy)
 
 - [How to Enable USB Debugging Mode on Android](https://www.kingoapp.com/root-tutorials/how-to-enable-usb-debugging-mode-on-android.htm)
