@@ -11,6 +11,7 @@ tags: pinball computer arcade hardware
 - [flipjuke.fr](https://flipjuke.fr/viewforum.php?f=5) - Les petites annonces (flipper, machine à sous, juke et jeux video)
 - [The Internet Pinball Database](https://www.ipdb.org/machine.cgi?id=997)
 - [How to build your own pinball machine in 4,761 easy steps](https://www.inverse.com/input/culture/homebrew-pinball-expo-2021)
+	- [Pinball from Scratch: 3D printed Flipper Assemblies and Case assembly](https://www.youtube.com/watch?v=QSe4ZymXoos)
 
 ### [Count-Down (Gotlieb)](https://www.ipdb.org/machine.cgi?id=573) / [Flippers](http://www.equipjeux.fr/nos-jeux/flippers/70-flipper-count-down.html) / [
 Joe's Classic Video Games](https://www.youtube.com/watch?v=3KA71VGiyTg)  - 2500€
