@@ -22,7 +22,7 @@ Joe's Classic Video Games](https://www.youtube.com/watch?v=3KA71VGiyTg)  - 2500�
 - [quels détails regarder ?](https://www.flipperfrance.com/threads/flipper-tales-of-the-arabian-nights-quels-d%C3%A9tails-regarder.690/)
 - [resto de mon Tales Of Arabian Nights](https://flipperfrance.com/threads/voici-le-d%C3%A9roulement-de-la-resto-de-mon-tales-of-arabian-nights.18064/)
 
-![caption](https://www.chicago-gaming.com/images/mmr/mmr-topper-1a-lg.jpg)
+[![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fy4pSxbqUp9M%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=4f9c41c9d50d4ee27eec557ca91b1f3feb65bb244f41d63e5142da3595e1def6&ipo=images)](https://duckduckgo.com/?q=tale+of+arabian+night+pinbal&t=lm&iar=images&iax=images&ia=images&iaf=layout%3AWide&iai=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fy4pSxbqUp9M%2Fmaxresdefault.jpg)
 
 
 ### [Medieval Madness](https://www.lyon-flipper.com/flippers/williams/medieval-madness) / [youtube](https://www.youtube.com/watch?v=gnvrXUMi0VM) - 5600€ / [$4,550.00](https://arcadepinballs.com/product/buy-medieval-madness/)
