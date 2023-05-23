@@ -10,6 +10,7 @@ tags: pinball computer arcade hardware
 
 - [flipjuke.fr](https://flipjuke.fr/viewforum.php?f=5) - Les petites annonces (flipper, machine à sous, juke et jeux video)
 - [The Internet Pinball Database](https://www.ipdb.org/machine.cgi?id=997)
+- [How to build your own pinball machine in 4,761 easy steps](https://www.inverse.com/input/culture/homebrew-pinball-expo-2021)
 
 ### [Count-Down (Gotlieb)](https://www.ipdb.org/machine.cgi?id=573) / [Flippers](http://www.equipjeux.fr/nos-jeux/flippers/70-flipper-count-down.html) / [
 Joe's Classic Video Games](https://www.youtube.com/watch?v=3KA71VGiyTg)  - 2500€
@@ -26,6 +27,7 @@ Joe's Classic Video Games](https://www.youtube.com/watch?v=3KA71VGiyTg)  - 2500�
 - [In-Depth Review of Chicago Gaming Company’s Medieval Madness Remake.](https://www.pinballnews.com/site/2016/02/10/medieval-madness-remake-in-depth-review/)
 	- [ebirth, under license from Williams Electronics Games](https://www.chicago-gaming.com/coinop/medieval-madness)
 - [How Much To Build A Medieval Madness?](https://www.aussiearcade.com/topic/50750-how-much-to-build-a-medieval-madness/)
+	- [One more Medieval Madness - build from scratch](https://aussiepinball.com/index.php?topic=9738.0)
 
 [![caption](https://www.chicago-gaming.com/images/mmr/mmr-topper-1a-lg.jpg)](https://www.chicago-gaming.com/coinop/medieval-madness)
 
