@@ -1,7 +1,7 @@
 ---
 published: true
 title: Real pinball (DIY)
-tags: pincab blog flipper pinball
+tags: pincab blog pinball arcade-hardware
 ---
 > Pinball Chameleon's Guide to DIY Pinball Machine Construction  - [blog](http://pinballchameleon.blogspot.com/2012/12/the-modern-firepower-pinball-project_20.html)
 
