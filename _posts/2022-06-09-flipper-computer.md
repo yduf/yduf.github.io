@@ -10,6 +10,7 @@ tags: pinball computer arcade hardware
 
 - [flipjuke.fr](https://flipjuke.fr/viewforum.php?f=5) - Les petites annonces (flipper, machine à sous, juke et jeux video)
 - [The Internet Pinball Database](https://www.ipdb.org/machine.cgi?id=997)
+- [Top 10 Greatest Pinball Machines of All Time](https://www.youtube.com/watch?v=tDYmKpHfgtQ&t=540s)
 
 ### [Build your own Pinball Machine](https://pinballmakers.com/wiki/index.php?title=Main_Page)
 
