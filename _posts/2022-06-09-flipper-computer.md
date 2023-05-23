@@ -39,7 +39,7 @@ Joe's Classic Video Games](https://www.youtube.com/watch?v=3KA71VGiyTg)  - 2500â
 
 ### [Buck Roger](https://www.youtube.com/embed/23ZBLgNgwnA) - [2600â‚¬](https://www.lyon-flipper.com/flippers/gottlieb/buck-rogers)
 
-![caption](/images/XXXimage.gifXXX)
+![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F23ZBLgNgwnA%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=b69ff1ec10aeb7d2462615b8ccc64d8c3708bab6797cd8364fcd49d647ad78fd&ipo=images)
 
 ## vente
 - [Lyon Flippers](https://www.lyon-flipper.com/flippers)
