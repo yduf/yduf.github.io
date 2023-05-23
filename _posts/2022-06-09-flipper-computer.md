@@ -37,5 +37,6 @@ Joe's Classic Video Games](https://www.youtube.com/watch?v=3KA71VGiyTg)  - 2500â
 - [Flippers](http://www.equipjeux.fr/nos-jeux/flippers/98-flipper-tales-of-the-arabian-night.html)
 - [Vegas flipper](https://www.flipper-paris.com/fr,1,7702.html)
 - [le coin du pro](https://www.lecoindupro.com/Search.aspx?c=3367)
+- [planete jeux](http://www.planetetranscardsjeux.com/)
 - [passetonannonce](https://www.passetonannonce.com/jeux-video-annonces-flippers-1.html)
 
