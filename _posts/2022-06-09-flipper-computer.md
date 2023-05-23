@@ -20,6 +20,10 @@ Joe's Classic Video Games](https://www.youtube.com/watch?v=3KA71VGiyTg)  - 2500�
 - [resto de mon Tales Of Arabian Nights](https://flipperfrance.com/threads/voici-le-d%C3%A9roulement-de-la-resto-de-mon-tales-of-arabian-nights.18064/)
 
 ### [Medieval Madness](https://www.lyon-flipper.com/flippers/williams/medieval-madness) / [youtube](https://www.youtube.com/watch?v=gnvrXUMi0VM) - 5600€
+- [In-Depth Review of Chicago Gaming Company’s Medieval Madness Remake.](https://www.pinballnews.com/site/2016/02/10/medieval-madness-remake-in-depth-review/)
+	- [ebirth, under license from Williams Electronics Games](https://www.chicago-gaming.com/coinop/medieval-madness)
+
+![caption](https://www.chicago-gaming.com/images/mmr/mmr-topper-1a-lg.jpg)
 
 ### [Attack From Mars](https://www.lyon-flipper.com/flippers/bally/attack-from-mars) / [youtube](https://www.youtube.com/embed/N7YMC1PULsk) - 4600€
 
