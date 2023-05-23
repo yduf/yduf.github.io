@@ -37,7 +37,7 @@ Joe's Classic Video Games](https://www.youtube.com/watch?v=3KA71VGiyTg)  - 2500â
 
 ### [Gorgar](https://pinside.com/pinball/machine/gorgar)
 
-![caption](XXX_url_XXX)
+![caption](https://imgix.bustle.com/uploads/image/2021/12/17/e1fa530a-2a4c-468c-8d69-4add253d630f-gorgar3.jpg?w=760&h=1014&fit=max&auto=format%2Ccompress&q=50&dpr=2)
 
 ### [Buck Roger](https://www.youtube.com/embed/23ZBLgNgwnA) - [2600â‚¬](https://www.lyon-flipper.com/flippers/gottlieb/buck-rogers)
 
