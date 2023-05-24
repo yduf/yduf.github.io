@@ -33,6 +33,10 @@ tags: pinball debug computer arcade-hardware
 
 ![caption](https://imgix.bustle.com/uploads/image/2021/12/17/e1fa530a-2a4c-468c-8d69-4add253d630f-gorgar3.jpg?w=760&h=1014&fit=max&auto=format%2Ccompress&q=50&dpr=2)
 
+### [Tales from the Crypt](https://www.youtube.com/watch?v=Xt6_kPl1IgM) - [4 500 €](https://www.leboncoin.fr/jeux_jouets/2327505081.htm)
+
+[![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FXt6_kPl1IgM%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=ea4bb14842494f2b2d57ef2a81d1edc52e1a616ace44b15a713601530ad71417&ipo=images)](https://duckduckgo.com/?q=tales+from+the+crypt+pinball&t=lm&iar=images&iax=images&ia=images&iai=https%3A%2F%2Fi.ytimg.com%2Fvi%2FXt6_kPl1IgM%2Fmaxresdefault.jpg)
+
 ### [Buck Roger](https://www.youtube.com/embed/23ZBLgNgwnA) - [2600€](https://www.lyon-flipper.com/flippers/gottlieb/buck-rogers)
 
 ![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F23ZBLgNgwnA%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=b69ff1ec10aeb7d2462615b8ccc64d8c3708bab6797cd8364fcd49d647ad78fd&ipo=images)
