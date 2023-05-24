@@ -37,7 +37,7 @@ tags: pinball debug computer arcade-hardware
 
 [![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FXt6_kPl1IgM%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=ea4bb14842494f2b2d57ef2a81d1edc52e1a616ace44b15a713601530ad71417&ipo=images)](https://duckduckgo.com/?q=tales+from+the+crypt+pinball&t=lm&iar=images&iax=images&ia=images&iai=https%3A%2F%2Fi.ytimg.com%2Fvi%2FXt6_kPl1IgM%2Fmaxresdefault.jpg)
 
-### [Williams Fish Tales](https://www.youtube.com/watch?v=qmi_n4YJeIM) - [6 500 €](https://www.leboncoin.fr/jeux_jouets/2350240379.htm)
+### [Williams Fish Tales](https://www.youtube.com/watch?v=qmi_n4YJeIM) - [6 500 €](https://www.leboncoin.fr/jeux_jouets/2350240379.htm) / [4 650 €](https://www.leboncoin.fr/consoles_jeux_video/2347966084.htm)
 
 ### [Buck Roger](https://www.youtube.com/embed/23ZBLgNgwnA) - [2600€](https://www.lyon-flipper.com/flippers/gottlieb/buck-rogers)
 
