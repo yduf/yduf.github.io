@@ -1,7 +1,7 @@
 ---
 published: true
 title: Tupper's self Referential Formula
-tags: quine
+tags: quine image
 ---
 > A formula that visually represents itself when graphed at a specific location in the (x, y) plane. - [wikipedia](https://en.m.wikipedia.org/wiki/Tupper%27s_self-referential_formula) / [HN](https://news.ycombinator.com/item?id=30066003)
 
