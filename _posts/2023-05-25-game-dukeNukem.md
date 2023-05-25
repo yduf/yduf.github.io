@@ -12,4 +12,4 @@ tags: games doom
 - [Honte Remastered Experimental: MAP01-MAP04 ](https://www.youtube.com/watch?v=dEcaEEdOxoY)
 - [Hollywood Holocaust (Duke Nukem 3D map remake) ](https://www.youtube.com/watch?v=BWutKWl2IY0)
 
-- [Duke Nukem 3D Savior of Babes - Hollywood Holocaust | 4K/60](https://www.youtube.com/watch?v=0GgtfHgwSu8)
+- [Duke Nukem 3D Savior of Babes - Hollywood Holocaust](https://www.youtube.com/watch?v=0GgtfHgwSu8)
