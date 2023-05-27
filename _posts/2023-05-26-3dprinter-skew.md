@@ -11,3 +11,5 @@ tags: 3dprinter klipper calibration skew
 
 ### Linux CNC
 - [ Skew settings](https://forum.linuxcnc.org/forum/38-general-linuxcnc-questions/26997-skew-settings)
+	- [Software compensation for skew in a gantry setup ](https://forum.linuxcnc.org/forum/38-general-linuxcnc-questions/29100-software-compensation-for-skew-in-a-gantry-setup)
+    	- [trivial kinematics extended by XY skew correction](http://wiki.linuxcnc.org/cgi-bin/wiki.pl?ContributedComponents#Kinematics)
