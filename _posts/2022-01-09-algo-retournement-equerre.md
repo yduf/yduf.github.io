@@ -1,7 +1,7 @@
 ---
 published: true
 title: Test du retournement
-tags: algorithm tools
+tags: algorithm tools skew
 ---
 > Pour tester une équerre ou une règle, la retourner permet de verifier la symétrie de la perpendiculaire ou de la droite.
 
