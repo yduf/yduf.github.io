@@ -1,7 +1,7 @@
 ---
 published: true
 title: Background Removal
-tags: computer-vision opencv face
+tags: computer-vision opencv face image
 ---
 > Selfie Segmentation
 
