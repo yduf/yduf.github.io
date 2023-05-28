@@ -9,3 +9,8 @@ tags: computer-vision opencv face
 	- [CVzone](https://github.com/cvzone/cvzone) makes its easy to run Image processing and AI functions. At the core it uses OpenCV and Mediapipe libraries.
     
 - [Track and Shoot using Computer Vision](https://www.youtube.com/watch?v=JgZbKn8Xcpg)
+
+- [	Show HN: Image background removal without annoying subscriptions ](https://news.ycombinator.com/item?id=36064639)
+	- [ABG_extension ](https://github.com/KutsuyaYuki/ABG_extension)
+    - [Hugging Face's logo Hugging Face](https://huggingface.co/spaces/skytnt/anime-remove-background)
+    - [Anime Remove Background](https://skytnt-anime-remove-background.hf.space/?__theme=light) / [github](https://github.com/SkyTNT/anime-segmentation/)
