@@ -13,3 +13,4 @@ tags: bits c++
 - [Compute the minimum (min) or maximum (max) of two integers without branching](http://graphics.stanford.edu/~seander/bithacks.html#IntegerMinOrMax)
 - [Determining if an integer is a power of 2](http://graphics.stanford.edu/~seander/bithacks.html#DetermineIfPowerOf2)
 
+## [The Aggregate Magic Algorithms ](http://aggregate.org/MAGIC/)
