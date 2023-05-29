@@ -17,3 +17,6 @@ tags: lab hardware-tools quote
 - [chariot de soudage](https://www.youtube.com/watch?v=4QVkGkJT_kE)
 
 - clamp / serre-joint [Clamping Tips & Tricks](https://www.youtube.com/watch?v=zIxPDbEcqcA)
+
+
+[![caption](https://img.youtube.com/vi/3QszufFTN58/0.jpg)](https://www.youtube.com/watch?v=3QszufFTN58)
