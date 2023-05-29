@@ -14,3 +14,6 @@ tags: bits float c++
 - [Determining if an integer is a power of 2](http://graphics.stanford.edu/~seander/bithacks.html#DetermineIfPowerOf2)
 
 ## [The Aggregate Magic Algorithms ](http://aggregate.org/MAGIC/)
+
+see also
+- [Mel's Hack – The Missing Bits](https://melsloop.com/docs/the-story-of-mel/pages/mels-hack-the-missing-bits) - a finite loop with no exit condition.
