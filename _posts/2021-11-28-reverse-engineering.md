@@ -25,3 +25,4 @@ tags: reverse debug
 ## Other
 - [Paul's Security Weekly](https://securityweekly.com/category-shows/paul-security-weekly/)
 - [Rétro-ingénierie pour Débutants (Dennis Yurichev)](https://beginners.re/RE4B-FR.pdf) / ["Reverse Engineering for Beginners" book](https://beginners.re/)
+- [An Intro to x86_64 Reverse Engineering](https://nora.codes/tutorial/an-intro-to-x86_64-reverse-engineering/)
