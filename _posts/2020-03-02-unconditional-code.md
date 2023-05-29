@@ -1,7 +1,7 @@
 ---
 published: true
 title: Unconditional code
-tags: bits c++
+tags: bits float c++
 ---
 ## [Bit Twiddling Hacks](http://graphics.stanford.edu/~seander/bithacks.html#ParityMultiply)
 
