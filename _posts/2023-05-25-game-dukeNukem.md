@@ -13,6 +13,7 @@ tags: games doom
 
 see also
 - [Building EDuke32 on Linux](http://wiki.eduke32.com/wiki/Building_EDuke32_on_Linux)
+	- [Acquiring the EDuke32 Source Code](http://wiki.eduke32.com/wiki/Acquiring_the_EDuke32_Source_Code)
 
 ###  DN3DooM (Duke Nukem3D in Doom)
 - [Honte Remastered Experimental: MAP01-MAP04 ](https://www.youtube.com/watch?v=dEcaEEdOxoY)
