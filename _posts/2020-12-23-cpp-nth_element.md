@@ -38,3 +38,9 @@ see also
 - [std::priority_queue](https://en.cppreference.com/w/cpp/container/priority_queue) - use vector as underlying container
 	- [How to preallocate(reserve) a priority_queue<vector>?](https://stackoverflow.com/a/29236236/51386)
 
+{% highlight cpp %}
+std::vector<unsigned char> container;
+container.reserve(1024);
+std::priority_queue<unsigned char, std::vector<unsigned char>> pq (
+    std::less<unsigned char>(), std::move(container));
+{% endhighlight %}
