@@ -44,3 +44,6 @@ container.reserve(1024);
 std::priority_queue<unsigned char, std::vector<unsigned char>> pq (
     std::less<unsigned char>(), std::move(container));
 {% endhighlight %}
+  
+see also
+- [What's faster: inserting into a priority queue, or sorting retrospectively?](https://stackoverflow.com/questions/3759112/whats-faster-inserting-into-a-priority-queue-or-sorting-retrospectively)
