@@ -10,3 +10,6 @@ Common uses for heap:
 - To support heap sorts.
 - To compute the minimum (or maximum) element of a collection quickly.
 - To impress your non-programmer friends.
+
+see also
+- [Beating std::sort - Andrei]({% post_url 2019-09-20-fast-sort %})
