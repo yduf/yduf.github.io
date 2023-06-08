@@ -1,7 +1,7 @@
 ---
 published: true
 title: Heap
-tags: algorithm
+tags: algorithm tree graph
 ---
 > a binary tree inside an array, so it does not use parent/child pointers. - [heap](https://aquarchitect.github.io/swift-algorithm-club/Heap/)
 
