@@ -16,4 +16,6 @@ tags: codingame contest
 - [Agade 2nd](https://github.com/Agade09/Agade-Coders-of-the-Caribbean-Postmortem/blob/master/Agade_CotC_Postmortem.md)
 - [other feedback](https://www.codingame.com/forum/t/coders-of-the-caribbean-feedback-strategies/2746)
 
-see also [Hexagonal grid]({% post_url 2017-04-20-Hexagonal-Grids %})
+see also 
+- [Hexagonal grid]({% post_url 2017-04-20-Hexagonal-Grids %})
+- [La famille pirate (Pouic, pouic, pouic! Houmba!)](https://www.youtube.com/channel/UCSuviPYajE-Glk-pu5unYCQ)
