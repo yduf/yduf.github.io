@@ -11,6 +11,10 @@ Common uses for heap:
 - To compute the minimum (or maximum) element of a collection quickly.
 - To impress your non-programmer friends.
 
+There are two kinds of heaps: a max-heap and a min-heap which are different by the order in which they store the tree nodes.
+
+In a max-heap, parent nodes have a greater value than each of their children. In a min-heap, every parent node has a smaller value than its child nodes. This is called the "heap property", and it is true for every single node in the tree.
+
 see also
 - [Beating std::sort - Andrei]({% post_url 2019-09-20-fast-sort %})
 
