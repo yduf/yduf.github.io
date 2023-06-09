@@ -27,7 +27,7 @@ cout << "Median is " << (data[data.size()/2]);
 ## [Using a priority queue](https://stackoverflow.com/a/7273074/51386)
 
 Applicable to an unbounded input stream
-Total complexity: O(N log k) where N is the total number of elements in the array and k the number element to keep. For k < N was benched to be far more efficient than sorting and taking first k elements.
+Total complexity: O(N log k) where N is the total number of elements in the array and k the number element to keep. For k \< N was benched to be far more efficient than sorting and taking first k elements.
 
   
 - Unconditionnally insert into the queue the k first elements
