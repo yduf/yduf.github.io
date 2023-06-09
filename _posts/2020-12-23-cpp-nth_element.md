@@ -29,9 +29,9 @@ cout << "Median is " << (data[data.size()/2]);
 Applicable to an unbounded input stream
 Total complexity: O(N log k) where N is the total number of elements in the array and k the number element to keep. 
   
+Notes:
 - For k \< N ( N > 100k, k=100), using a priority queue, was benched to be far more efficient than sorting and taking first k elements when looking for max.
 - For smaller array std::nth_element or even sort were faster (nth_element being always faster than sort).
-
   
 - Unconditionnally insert into the queue the k first elements
 - For each remaining element x, insert x if it is greater than the least element of the queue (O(log k) operation), and remove the least element (O(log k)).
