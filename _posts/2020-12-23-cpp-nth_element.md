@@ -27,12 +27,14 @@ cout << "Median is " << (data[data.size()/2]);
 ## [Using a priority queue](https://stackoverflow.com/a/7273074/51386)
 
 Applicable to an unbounded input stream
+Total complexity: O(N log k) where N is the total number of elements in the array and k the number element to keep. For k \< N was benched to be far more efficient than sorting and taking first k elements.
 
-- Unconditionnally insert into the queue the n first elements
-- For each remaining element x, insert x if it is greater than the least element of the queue (O(log n) operation), and remove the least element (O(log n)).
-- When done, the priority queue contains n elements, which are the n largest elements of the original array.
+  
+- Unconditionnally insert into the queue the k first elements
+- For each remaining element x, insert x if it is greater than the least element of the queue (O(log k) operation), and remove the least element (O(log k)).
+- When done, the priority queue contains k elements, which are the k largest elements of the original array.
 
-Total complexity: O(N log n) where N is the total number of elements in the array.
+
   
 see also
 - [std::priority_queue](https://en.cppreference.com/w/cpp/container/priority_queue) - use vector as underlying container
@@ -46,4 +48,4 @@ std::priority_queue<unsigned char, std::vector<unsigned char>> pq (
 {% endhighlight %}
   
 see also
-- [What's faster: inserting into a priority queue, or sorting retrospectively?](https://stackoverflow.com/questions/3759112/whats-faster-inserting-into-a-priority-queue-or-sorting-retrospectively)
+- [What's faster: inserting into a priority queue, or sorting retrospectively?](https://stackoverflow.com/questions/3759112/whats-faster-inserting-into-a-priority-queue-or-sorting-retrospectively) - does not account for reducing the content of priority queue to K elements.
