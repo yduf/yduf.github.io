@@ -19,5 +19,6 @@ A sorted array from low-to-high is a valid min-heap.
 
 see also
 - [Beating std::sort - Andrei]({% post_url 2019-09-20-fast-sort %})
+- [Finding the first n largest elements in an array]({% post_url 2020-12-23-cpp-nth_element %})
 
 ![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Max-Heap-new.svg/440px-Max-Heap-new.svg.png)
