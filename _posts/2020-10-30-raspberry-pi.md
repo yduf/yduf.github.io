@@ -32,9 +32,9 @@ tags: raspberry-pi hardware arm
 ## Fleet
 [Checking Model version](https://www.raspberrypi-spy.co.uk/2012/09/checking-your-raspberry-pi-board-version/) `cat /proc/device-tree/model` 
 or `pinout` in new raspbian version
-- Raspberry Pi 4 Model ()- armv7l - 4Go - (?)
+- Raspberry Pi 4 Model ()- arm ? - 4Go - (?)
 - Raspberry Pi 3 Model B Rev 1.2 (octopi)- armv7l - 1Go - (?)
-- Raspberry Pi Model B - armv7l - 0.5Go - (2013)
+- Raspberry Pi   Model B - arm ? - 0.5Go - (2013)
 
 
 
