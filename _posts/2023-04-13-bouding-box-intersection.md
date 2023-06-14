@@ -11,3 +11,4 @@ see also
 - [Line Segment Intersection](https://www.cs.umd.edu/class/spring2020/cmsc754/Lects/lect04-intersection.pdf)
 	- [ Sweep-Line Algorithm for Line Segment Intersection (2/5) \| Computational Geometry - Lecture 02 ](https://www.youtube.com/watch?v=qkhUNzCGDt0)
 - [An Algorithm for Polygon Intersections](https://www.gorillasun.de/blog/an-algorithm-for-polygon-intersections/) / [HN](https://news.ycombinator.com/item?id=33053320) - describe an algorithm that can compute convex polygon intersections. / method for intersections between axis-aligned rectangles, a function that can determine the intersection of two line segments, as well as a point in polygon test.
+- [Theory & Practice - Issue 01 - Collision Detection](https://www.flipcode.com/archives/Theory_Practice-Issue_01_Collision_Detection.shtml)
