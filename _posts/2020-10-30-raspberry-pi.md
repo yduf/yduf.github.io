@@ -1,6 +1,6 @@
 ---
 published: true
-title: Raspberry Pi
+title: Raspberry Pi / CubieTruck
 tags: raspberry-pi hardware arm
 ---
 > The Raspberry Pi is a tiny and affordable computer that you can use to learn programming through fun, practical projects. - [raspberrypi.org](https://www.raspberrypi.org)
