@@ -6,6 +6,8 @@ tags: 3dprint retro
 > Tiny Mac III (Pi 4) - [instructable](https://www.instructables.com/Tiny-Mac-II-Pi-Zero-2-and-Tiny-Mac-III-Pi-4-With-A/) / [HN](https://news.ycombinator.com/item?id=36289682)
 
 - [Making a Tiny Mac From a Raspberry Pi Zero](https://www.instructables.com/Making-a-Tiny-Mac-From-a-Raspberry-Pi-Zero/) / [thingiverse](https://www.thingiverse.com/thing:4887100)
+- [Making a Small Mac From a Raspberry Pi 3](https://www.instructables.com/Making-a-Small-Mac-From-a-Raspberry-3/) - uses a 3.5 inch display
+- [thingiverse](https://www.thingiverse.com/yd007/collections/38664602/things)
 
 ![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.turbosquid.com%2FPreview%2F2015%2F07%2F31__04_41_00%2FAppleMacintoshClassicIIDesktopComputer3dmodel06.jpg8185c1c2-706d-4092-be88-b0e535ae11fdLarge.jpg&f=1&nofb=1&ipt=c1c61e722eb596229a829108ec4b0b594c0a996542bfb8b601b885dc6477dec6&ipo=images) 
 
