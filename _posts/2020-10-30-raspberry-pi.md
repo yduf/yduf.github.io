@@ -37,7 +37,7 @@ or `pinout` in new raspbian version
 - Raspberry Pi   Model B - arm ? - 0.5Go - (2013)
 
 see also
-- [CubieTruck (Cubieboard3)](https://www.kali.org/docs/arm/cubietruck/) / [CubieBoard](http://cubieboard.org/tag/cubietruck/) / [wikipedia](https://en.wikipedia.org/wiki/Cubieboard)
+- [CubieTruck (Cubieboard3)](https://www.kali.org/docs/arm/cubietruck/) / [CubieBoard](http://cubieboard.org/tag/cubietruck/) / [wikipedia](https://en.wikipedia.org/wiki/Cubieboard) - (2013)
 
 
 ## [r/raspberry_pi](https://www.reddit.com/r/raspberry_pi/)
