@@ -32,10 +32,12 @@ tags: raspberry-pi hardware arm
 ## Fleet
 [Checking Model version](https://www.raspberrypi-spy.co.uk/2012/09/checking-your-raspberry-pi-board-version/) `cat /proc/device-tree/model` 
 or `pinout` in new raspbian version
-- Raspberry Pi 4 Model ()- arm ? - 4Go - (?)
-- Raspberry Pi 3 Model B Rev 1.2 (octopi)- armv7l - 1Go - (?)
+- Raspberry Pi 4 Model B Rev 1.2 ([ender6](http://ender6)) - armv7l - 4Go - (2021)
+- Raspberry Pi 3 Model B Rev 1.2 ([ender3](http://ender3))- armv7l - 1Go - (2019)
 - Raspberry Pi   Model B - arm ? - 0.5Go - (2013)
 
+see also
+- [CubieTruck](https://www.kali.org/docs/arm/cubietruck/)
 
 
 ## [r/raspberry_pi](https://www.reddit.com/r/raspberry_pi/)
