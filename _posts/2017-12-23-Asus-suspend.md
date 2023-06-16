@@ -3,7 +3,7 @@ title: Asus Linux Suspend
 published: true
 tags: linux-system laptop
 ---
-Solving Asus issue (going out of suspend restart computer):
+> Solving Asus issue (going out of suspend restart computer)
 
 1. - shudtown linux prpperly: 
 This is very important and has to be done has part of the stabilisation process.
@@ -19,3 +19,6 @@ If it works:
 8. - wait suspend
 9. - open lid
 10. - should wake up
+
+see also
+- [DebuggingKernelSuspend ](https://wiki.ubuntu.com/DebuggingKernelSuspend)
