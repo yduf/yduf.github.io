@@ -8,5 +8,6 @@ tags: avx fastware loop
 see also
 - [Crash course introduction to parallelism: SIMD Parallelism](https://johnysswlab.com/crash-course-introduction-to-parallelism-simd-parallelism/)
 - [Automatic vectorization](https://en.wikipedia.org/wiki/Automatic_vectorization)
+- [SIMD at Insomniac Games](https://deplinenoise.files.wordpress.com/2015/03/gdc2015_afredriksson_simd.pdf)
 
 ![caption](https://johnysswlab.com/wp-content/uploads/left-top-dependency-vectorized.drawio-1.png)
