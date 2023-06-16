@@ -64,7 +64,6 @@ R' U L' U2 R U' R' U2 L R U'
 
 # Advanced (sub 10s)
 
-
 ### Algorithm
 - [R2 U' S' U2 U' R2](https://www.youtube.com/watch?v=1u8BptRSXaw&list=PLh9akXp2EH2D1MBpl8gb0w2WM0eiailpB&index=3) - The New Fastest U Perm (0.5 Execution)
 - [r U'R'U R U r'](https://youtu.be/6lef76z55F4) - join med + corner at corner
@@ -76,3 +75,7 @@ R' U L' U2 R U' R' U2 L R U'
 - WINTER VARIATION 
 - ZBLL (493)
 - 1LLL (3000)
+
+# [Kociemba's Algorithm](https://www.speedsolving.com/wiki/index.php/Kociemba's_Algorithm)
+
+A computer algorithm for solving the 3x3x3 cube, created by Herbert Kociemba. It is similar to the Thistlethwaite's algorithm though with fewer steps thanks to the improvement of computer memory storage and processing speed. 
