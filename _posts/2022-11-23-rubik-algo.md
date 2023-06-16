@@ -79,3 +79,22 @@ R' U L' U2 R U' R' U2 L R U'
 # [Kociemba's Algorithm](https://www.speedsolving.com/wiki/index.php/Kociemba's_Algorithm)
 
 A computer algorithm for solving the 3x3x3 cube, created by Herbert Kociemba. It is similar to the Thistlethwaite's algorithm though with fewer steps thanks to the improvement of computer memory storage and processing speed. 
+
+## Two Phase Approach
+
+The core of the 2-phase approach is this:
+
+- Solve the cube into a state with a certain property.
+- Solve the rest of the cube.
+
+If we select F2L as our property, we get:
+
+- Solve the first two layers.
+- Solve the last layer.
+
+If you solve F2L with the fewest moves possible, then solve the resulting LL case optimally, you'll end up with a decently short solution. However, there might be a shorter solution: in that case, the first phase might take more moves, but get us an easy LL case (or an LL skip!).
+
+Iterative Deepening (for Phase 1)
+
+Let's say our first solution took 15 moves for F2L and 11 moves for LL. That means that our cube takes at most 15 + 11 = 26 moves to solve.  
+So let's try looking at all the solutions that take 15 moves for F2L. If any of them give us an LL that takes fewer than 11 moves, we can find a shorter solution.
