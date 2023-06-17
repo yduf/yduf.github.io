@@ -96,11 +96,7 @@ This is commonly used to virtually change the Z bed offset or to set nozzle XY o
 SET_GCODE_OFFSET Z_ADJUST=0.1
 {% endhighlight %}
   
-Final setup can be save with [`Z_OFFSET_APPLY_PROBE`](https://www.klipper3d.org/G-Codes.html#z_offset_apply_probe). Requires a SAVE_CONFIG to take effect.
-  
-### Which way to increase Z offset?
-  
-> If you want the nozzle higher decrease offset (nozzle goes down less) and if you want the nozzle lower then increase the offset (nozzle goes down more)
+Final setup can be save with [`Z_OFFSET_APPLY_PROBE`](https://www.klipper3d.org/G-Codes.html#z_offset_apply_probe). Requires a SAVE_CONFIG to take effect.  
  
 ### see also
 - [Klipper Tuning Guide](https://advanced3dprinting.com/wp-content/uploads/2021/11/Advanced-3D-Printing-Klipper-Kit-Tuning-Guide-v1.0.pdf)
