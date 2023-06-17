@@ -1,6 +1,6 @@
 ---
 published: true
-title: Homing (Klipper)
+title: Homing (Klipper) - Z Offset
 tags: klipper 3dprinter calibration
 ---
 > Mid pleasures and palaces though we may roam   
@@ -82,7 +82,7 @@ The secret to getting good bed leveling with bed leveling screws is to utilize t
 - abort => exit tool
   
   
-## [First layer]({% post_url 2018-09-15-first-layer %})
+## Z Offset & [First layer]({% post_url 2018-09-15-first-layer %})
 
 This involves running a print, observing the first layer going down, and adjusting your Z offset (["baby stepping"](https://3dp.tumbleweedlabs.com/firmware/klipper-firmware/klipper-calibration-guide/how-to-perfect-your-first-layer-height-with-klipper#baby-stepping)) up and down until you have the perfect level of squish. This is easier with an LCD but can also be done without. 
 
@@ -98,5 +98,9 @@ SET_GCODE_OFFSET Z_ADJUST=0.1
   
 Final setup can be save with [`Z_OFFSET_APPLY_PROBE`](https://www.klipper3d.org/G-Codes.html#z_offset_apply_probe). Requires a SAVE_CONFIG to take effect.
   
+### Which way to increase Z offset?
+  
+> If you want the nozzle higher decrease offset (nozzle goes down less) and if you want the nozzle lower then increase the offset (nozzle goes down more)
+ 
 ### see also
 - [Klipper Tuning Guide](https://advanced3dprinting.com/wp-content/uploads/2021/11/Advanced-3D-Printing-Klipper-Kit-Tuning-Guide-v1.0.pdf)
