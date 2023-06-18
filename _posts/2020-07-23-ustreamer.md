@@ -1,7 +1,7 @@
 ---
 published: true
 title: Stream MJPG Video (µStreamer)
-tags: video streaming raspberry-pi webcam
+tags: video streaming raspberry-pi systemd
 ---
 > [µStreamer](https://github.com/pikvm/ustreamer) is a lightweight and very quick server to broadcast MJPG video from any V4L2 device to the net. 
 
