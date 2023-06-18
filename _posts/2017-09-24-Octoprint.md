@@ -1,9 +1,9 @@
 ---
-title: Octoprint
+title: Octoprint (replaced by fluidd)
 published: true
 tags: 3dprinter docker klipper
 ---
->  Web interface for your 3D printer - [server](http://192.168.0.123/) / [Home](https://octoprint.org/)
+>  Web interface for your 3D printer - [Home](https://octoprint.org/)
 
 {::nomarkdown}
 <link rel="shortcut icon" href="https://octoprint.org/assets/img/tentacle-20x20.png" type="image/x-icon" />
