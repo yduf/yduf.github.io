@@ -68,4 +68,4 @@ with DSLR camera
 ### [Exclude Region](https://discourse.octoprint.org/t/exclude-region-plugin-is-one-of-the-best-ever/2742)
 
 ## Alternatives
-- [Fluidd](https://docs.fluidd.xyz/) / [fluidd vs octoprint](https://duckduckgo.com/?q=fluidd+vs+octoprint&t=lm&ia=web)
+- [Fluidd](https://docs.fluidd.xyz/) / [fluidd vs octoprint](https://duckduckgo.com/?q=fluidd+vs+octoprint&t=lm&ia=web) see [Klipper]({% post_url 2017-12-28-Klipper %}#kiauh)
