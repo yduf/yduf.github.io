@@ -19,6 +19,7 @@ tags: raspberry-pi hardware arm
     - **ttyUSB0** is the device for the first USB serial convertor.
     
 **WARNING** - [/dev/serial/by-id missing](https://www.reddit.com/r/debian/comments/1331wlr/comment/jihlmvs/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+	- edit `/usr/lib/udev/rules.d/60-serial.rules `
 
 ### [turn off USB ports power](https://forums.raspberrypi.com/viewtopic.php?p=813383#p813383)
 
