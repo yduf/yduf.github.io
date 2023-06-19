@@ -9,6 +9,16 @@ tags: 3dprinter docker klipper
 <link rel="shortcut icon" href="https://octoprint.org/assets/img/tentacle-20x20.png" type="image/x-icon" />
 {:/}
 
+Pros
+- was doing the job
+- have plugin system
+Cons
+- news message when login in
+- not so good Klipper integration (handling reboot/error)
+- slow ui / logon
+- webcam integration
+
+
 ## Run as [docker Image](https://github.com/OctoPrint/octoprint-docker)
 
 {% highlight bash %}
