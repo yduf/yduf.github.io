@@ -1,5 +1,5 @@
 ---
-title: Octoprint (replaced by fluidd)
+title: Octoprint (before moving to fluidd)
 published: true
 tags: 3dprinter docker klipper
 ---
