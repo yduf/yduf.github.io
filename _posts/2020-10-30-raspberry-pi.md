@@ -39,8 +39,9 @@ or `pinout` in new raspbian version
 - Raspberry Pi 3 Model B Rev 1.2 ([ender3](http://ender3))- armv7l - 1Go - (2019)
 - Raspberry Pi   Model B - arm ? - 0.5Go - (2013)
 
-see also
-- [CubieTruck (Cubieboard3)](https://www.kali.org/docs/arm/cubietruck/) / [CubieBoard](http://cubieboard.org/tag/cubietruck/) / [wikipedia](https://en.wikipedia.org/wiki/Cubieboard) - (2013)
+and also
+- [CubieTruck (Cubieboard3)]({% post_url 2023-06-19-arm-cubietruck %})  - (2013)
+
 
 
 ## [r/raspberry_pi](https://www.reddit.com/r/raspberry_pi/)
