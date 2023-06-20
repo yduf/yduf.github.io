@@ -3,9 +3,13 @@ published: true
 title: CubieTruck  (2013)
 tags: arm hardware raspberry-pi
 ---
->  Allwinner A20: CPU: ARM Cortex-A7 / Mali-400 GPU, supports HDMI 1080p, no LVDS support -  [Kali on CubieTruck](https://www.kali.org/docs/arm/cubietruck/) / [CubieBoard](http://cubieboard.org/tag/cubietruck/)
+>  Allwinner A20: CPU: ARM Cortex-A7 / Mali-400 GPU, supports HDMI 1080p, no LVDS support -  / [CubieBoard](http://cubieboard.org/tag/cubietruck/)
 
 - [Cubietruck Frame](https://www.thingiverse.com/thing:3316580) / [2](https://www.thingiverse.com/thing:1237191)
+
+### Distribution
+- [armbian](https://www.armbian.com/cubietruck/) / [Unofficial image for the cubietruck](https://forum.armbian.com/topic/23446-unofficial-image-for-the-cubietruck/#comment-146759) - 
+- [Kali on CubieTruck](https://www.kali.org/docs/arm/cubietruck/) - does not build
 
 [![image of cubietruck board](http://docs.cubieboard.org/_media/products/a20-cubietruck.png?w=600&tok=d831ea)](http://docs.cubieboard.org/tutorials/cubietruck/start)
 
@@ -28,6 +32,4 @@ SoC: Allwinner A20
 
 There is no LVDS support any longer. The RTL8211E NIC allows transfer rates up to 630–638 Mbit/s (sending while 5–10% idle) and 850–860 Mbit/s (receiving while 0–2% idle) when simultaneous TCP connections are established (testing was done utilising iperf with three clients against Cubietruck running Lubuntu)
 
-To connect a 3.5" HDD the necessary 12 V power can be delivered by a 3.5 inch HDD addon package which can be used to power the Cubietruck itself as well.[16] Also new is the option to power the Cubietruck from LiPo batteries. 
-
-
+To connect a 3.5" HDD the necessary 12 V power can be delivered by a 3.5 inch HDD addon package which can be used to power the Cubietruck itself as well.[16] Also new is the option to power the Cubietruck from LiPo batteries.
