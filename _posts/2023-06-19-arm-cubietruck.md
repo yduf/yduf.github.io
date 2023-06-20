@@ -7,6 +7,8 @@ tags: arm hardware raspberry-pi
 
 - [Cubietruck Frame](https://www.thingiverse.com/thing:3316580) / [2](https://www.thingiverse.com/thing:1237191)
 
+[![image of cubietruck board](http://docs.cubieboard.org/_media/products/a20-cubietruck.png?w=600&tok=d831ea)](http://docs.cubieboard.org/tutorials/cubietruck/start)
+
 ### [Cubietruck (Cubieboard3)](https://en.wikipedia.org/wiki/Cubieboard) 
 
 The third version has a new and larger PCB layout and features the following hardware:
@@ -28,4 +30,4 @@ There is no LVDS support any longer. The RTL8211E NIC allows transfer rates up t
 
 To connect a 3.5" HDD the necessary 12 V power can be delivered by a 3.5 inch HDD addon package which can be used to power the Cubietruck itself as well.[16] Also new is the option to power the Cubietruck from LiPo batteries. 
 
-[![image of cubietruck board](http://docs.cubieboard.org/_media/products/a20-cubietruck.png?w=600&tok=d831ea)](http://docs.cubieboard.org/tutorials/cubietruck/start)
+
