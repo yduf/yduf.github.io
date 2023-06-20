@@ -1,9 +1,9 @@
 ---
 published: true
-title: CubieTruck
+title: CubieTruck  (2013)
 tags: arm hardware raspberry-pi
 ---
-> [Kali on CubieTruck](https://www.kali.org/docs/arm/cubietruck/)
+> [Kali on CubieTruck](https://www.kali.org/docs/arm/cubietruck/) / [CubieBoard](http://cubieboard.org/tag/cubietruck/) / [wikipedia](https://en.wikipedia.org/wiki/Cubieboard) 
 
 - [Cubietruck Frame](https://www.thingiverse.com/thing:3316580) / [2](https://www.thingiverse.com/thing:1237191)
 
