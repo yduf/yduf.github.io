@@ -12,7 +12,9 @@ tags: arm hardware raspberry-pi
 	- [Armbian Quick Start Guide](https://docs.armbian.com/User-Guide_Getting-Started/)
     	- [Armbian Linux Community](https://github.com/armbian/community)
 		- [Unofficial image for the cubietruck](https://forum.armbian.com/topic/23446-unofficial-image-for-the-cubietruck/#comment-146759)
+- [android](http://docs.cubieboard.org/tutorials/cubietruck/start)
 - [Kali on CubieTruck](https://www.kali.org/docs/arm/cubietruck/) - does not build (failing after third stage)
+
 
 [![image of cubietruck board](http://docs.cubieboard.org/_media/products/a20-cubietruck.png?w=600&tok=d831ea)](http://docs.cubieboard.org/tutorials/cubietruck/start)
 
