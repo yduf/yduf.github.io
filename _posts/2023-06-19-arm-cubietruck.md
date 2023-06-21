@@ -8,7 +8,10 @@ tags: arm hardware raspberry-pi
 - [Cubietruck Frame](https://www.thingiverse.com/thing:3316580) / [2](https://www.thingiverse.com/thing:1237191)
 
 ### Distribution
-- [armbian](https://www.armbian.com/cubietruck/) / [Unofficial image for the cubietruck](https://forum.armbian.com/topic/23446-unofficial-image-for-the-cubietruck/#comment-146759) - 
+- [armbian](https://www.armbian.com/cubietruck/) 
+	- [Armbian Quick Start Guide](https://docs.armbian.com/User-Guide_Getting-Started/)
+    	- [Armbian Linux Community](https://github.com/armbian/community)
+		- [Unofficial image for the cubietruck](https://forum.armbian.com/topic/23446-unofficial-image-for-the-cubietruck/#comment-146759)
 - [Kali on CubieTruck](https://www.kali.org/docs/arm/cubietruck/) - does not build
 
 [![image of cubietruck board](http://docs.cubieboard.org/_media/products/a20-cubietruck.png?w=600&tok=d831ea)](http://docs.cubieboard.org/tutorials/cubietruck/start)
