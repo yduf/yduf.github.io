@@ -7,4 +7,11 @@ tags: 3dprinter calibration
 
 - [Slicer Flow Calibration](https://teachingtechyt.github.io/calibration.html#flow)
 
-- [A Better Way To Calibrate Your 3D Printer. Importance of Dimensionally Accurate 3D Printed Products](https://www.youtube.com/watch?v=lYmFXrmC5p0) - 20 mm cube are within a range of 0.3% precision on an ender3
+## Accurate Dimension
+
+- [How to 3D Print Dimensionally Accurate Parts](https://www.youtube.com/watch?v=0dFThbwAx2Y)
+	- overextrusion / underextrusion should not displace center
+    - **filament shrinkage**, can account for 0.6% measurement innaccuracy
+    
+- [A Better Way To Calibrate Your 3D Printer. Importance of Dimensionally Accurate 3D Printed Products](https://www.youtube.com/watch?v=lYmFXrmC5p0) - 20 mm cube are within a range of 0.3% precision on an ender3 => goto a 100mm test print
+	- [100mm Calibration Print](https://www.thingiverse.com/thing:5020524)
