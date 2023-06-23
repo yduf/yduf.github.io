@@ -1,7 +1,7 @@
 ---
 published: true
 title: Vernier Scale
-tags: tools algorithm
+tags: tools algorithm calipers
 ---
 > Verniers allow the user to make precise fractional measurements of distance. - [DIY Vernier Scale](https://www.instructables.com/DIY-Vernier-scale/)
 
