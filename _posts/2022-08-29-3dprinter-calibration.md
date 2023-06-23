@@ -1,7 +1,7 @@
 ---
 published: true
 title: 3dprinter Calibration & precision
-tags: 3dprinter calibration
+tags: 3dprinter calibration caliper
 ---
 > [Teaching Tech 3D Printer Calibration](https://teachingtechyt.github.io/calibration.html)
 
