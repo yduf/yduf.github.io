@@ -25,6 +25,7 @@ tags: 3dprinter calibration calipers
 
 ### Elephant Foot
 - [Adjust Initial Layer Horizontal Expansion](https://my3dlife.com/how-to-fix-elephants-foot-on-a-3d-printer-simple-guide/)
+- [How to STOP Elephant's Foot on your 3D Prints](https://www.youtube.com/watch?v=zlgR3rHg4p8)
 
 ## Wall ordering
 
