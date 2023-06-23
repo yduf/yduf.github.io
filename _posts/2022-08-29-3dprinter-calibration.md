@@ -24,3 +24,11 @@ tags: 3dprinter calibration calipers
 ## Wall ordering
 
 - [Why your 3d printed stuff doesn't fit together and how to fix it!](https://www.youtube.com/watch?v=yzPqBt2SrcE) - if interior wall is printed first, it will push away the external wall.
+
+## Clearance & Tolerance
+
+## Corner
+
+FDM does not make perfect corner
+
+- pressure advance may help
