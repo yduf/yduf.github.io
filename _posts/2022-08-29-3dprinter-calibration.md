@@ -25,7 +25,7 @@ tags: 3dprinter calibration calipers
 ## Accurate Dimension
 
 - [How to 3D Print Dimensionally Accurate Parts](https://www.youtube.com/watch?v=0dFThbwAx2Y)
-	- overextrusion / underextrusion should not displace center
+	- overextrusion / underextrusion should not displace center - [as well as horizongal expansion](https://www.youtube.com/watch?v=zxA3hJBpKr8)
     - **filament shrinkage**, can account for 0.6% measurement innaccuracy
     	- can be calibrated on specific print to reach expected dimension.
     
