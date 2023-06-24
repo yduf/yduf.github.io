@@ -12,16 +12,15 @@ tags: 3dprinter calibration calipers
 - You cannot calibrate the flow on first layer aspect since it is correlated with Z-offset - see Elefant Foot.
 - Flow can be assessed on upper layer aspect.
 
-## Hole & horizontal expension
-
-- [Horizontal Hole Tolerance Calibration Test](https://www.thingiverse.com/thing:4772939)
-
 ### Elephant Foot
 - **Set Z-offset properly first.**
 
 - [Adjust Initial Layer Horizontal Expansion](https://my3dlife.com/how-to-fix-elephants-foot-on-a-3d-printer-simple-guide/)
 - [How to STOP Elephant's Foot on your 3D Prints](https://www.youtube.com/watch?v=zlgR3rHg4p8)
 
+## Hole & horizontal expension
+
+- [Horizontal Hole Tolerance Calibration Test](https://www.thingiverse.com/thing:4772939)
 
 ## Accurate Dimension
 
