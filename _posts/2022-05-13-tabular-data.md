@@ -1,7 +1,7 @@
 ---
 published: true
 title: File format for tabular data
-tags: file db array
+tags: file db array parquet csv
 ---
 > there is several high quality and well-developed formats - [HN](https://news.ycombinator.com/item?id=31255775)
 
@@ -22,3 +22,6 @@ tags: file db array
 **xml** -- Useful if you are programming in early 2000s
 
 **GDBM**, **Kyoto Cabinet**, etc -- Useful if you are programming in late 1990s
+
+see also
+- [Working with CSV files on shell/terminal](https://news.ycombinator.com/item?id=36501364)
