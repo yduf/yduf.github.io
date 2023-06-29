@@ -5,6 +5,9 @@ tags: lab hardware-tools quote
 ---
 > Making use of existing tools and being able to manage their shortcomings is an important engineering skill. - [HN](https://news.ycombinator.com/item?id=31099627)
 
+## [Hauteur](https://www.boispassionsetcie.com/fr/questions-bricoleur/quelle-est-la-hauteur-ideale-pour-un-etabli-atelier)
+
+La hauteur recommandée pour les travaux courants dans un atelier d'ébénisterie ou de bricoleur varie entre 90 cm à 96 cm, soit à la hauteur de la ceinture de l'usager.
 
 - [foldable bench](https://www.youtube.com/watch?v=3QszufFTN58&list=LL&index=4) - Comment fabriquer un établi pliant type MFT ultra compact ? 
 
