@@ -5,6 +5,10 @@ tags: screw 3dmodel 3dprint openscad freecad cnc
 ---
 > This article is a guide to using screws in 3D printed SLA parts. There are many other ways [to attach multiple 3D printed parts](https://formlabs.com/blog/how-to-create-models-larger-than-your-3d-printers-build-volume/)  together, but if you need to repeatedly attach and detach components and want robust mechanical fastening, there's no real replacement for genuine metal threads. -  [Adding Screw Threads to 3D Printed Parts](https://formlabs.com/blog/adding-screw-threads-3d-printed-parts/)
 
+## Printing
+
+- [You should be using Cura's experimental "slicing tolerance" setting](https://www.youtube.com/watch?v=X6nCKQToOUg) - this change the way the model is sliced, supporting a better fit regarding screw/thread constraint
+
 ## [Freecad]({% post_url 2020-05-29-freecad %})
 
 Freecad knows ISO screws size - see [Fasterner Workbench](https://wiki.freecadweb.org/Fasteners_Workbench)
