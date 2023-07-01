@@ -1,7 +1,7 @@
 ---
 published: true
 title: Camera / Photo Hardware
-tags: photo
+tags: photo hardware
 ---
 ### Shop
 
