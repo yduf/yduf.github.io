@@ -7,7 +7,7 @@ tags: screw 3dmodel 3dprint openscad freecad cnc
 
 ## Printing
 
-- [You should be using Cura's experimental "slicing tolerance" setting](https://www.youtube.com/watch?v=X6nCKQToOUg) - this change the way the model is sliced, supporting a better fit regarding screw/thread constraint
+- [You should be using Cura's experimental **slicing tolerance** setting](https://www.youtube.com/watch?v=X6nCKQToOUg) - **Exclusive** this change the way the model is sliced, supporting a better fit regarding screw/thread constraint
 
 ## [Freecad]({% post_url 2020-05-29-freecad %})
 
