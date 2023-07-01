@@ -6,6 +6,7 @@ tags: photo
 ### Shop
 
 - [MBP](https://www.mpb.com/fr-fr)
+- [dpreview](https://www.dpreview.com/)
 
 ## Capteur
 ### [APS-C](https://en.wikipedia.org/wiki/APS-C) 
@@ -17,3 +18,5 @@ Approximately equivalent in size to the Advanced Photo System film negative in i
 ### Full frame
 
 - [D700](https://photographylife.com/used-full-frame-dslr-guide)
+- Z6
+- D850
