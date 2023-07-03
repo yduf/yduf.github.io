@@ -19,6 +19,9 @@ Part objects are more complex than mesh objects created with the Mesh Workbench,
 
 ### [Interface Creation](https://wiki.freecad.org/Interface_creation)
 
+- **Interface in a .ui file** -  This is the recommended approach. 
+- **Interface completely in Python code** - This method is recommended only for small interfaces that don't define more than a few widgets, for example in macros.
+
 [![caption](https://wiki.freecad.org/images/8/83/FreeCAD_creating_interfaces.svg)](https://wiki.freecad.org/Interface_creation)
 
 ### [GUI / Coin3D (SceneGraph)](https://wiki.freecad.org/Scenegraph)
