@@ -17,6 +17,10 @@ Part objects are more complex than mesh objects created with the Mesh Workbench,
 
 ### [Sketcher scripting](https://wiki.freecad.org/Sketcher_scripting)
 
+### [Interface Creation](https://wiki.freecad.org/Interface_creation)
+
+[![caption](https://wiki.freecad.org/images/8/83/FreeCAD_creating_interfaces.svg)](https://wiki.freecad.org/Interface_creation)
+
 ### [GUI / Coin3D (SceneGraph)](https://wiki.freecad.org/Scenegraph)
 
 In FreeCAD, normally, we don't need to interact directly with the Open Inventor scenegraph. Every object in a FreeCAD document, being a mesh, a part shape or anything else, gets automatically converted to Open Inventor code and inserted in the main scenegraph that you see in a 3D view. That scenegraph gets updated continuously when you modify, add or remove objects. In fact every object (in App space) has a view provider (a corresponding object in Gui space) responsible for issuing Open Inventor code. 
