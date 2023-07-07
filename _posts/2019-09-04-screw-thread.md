@@ -3,7 +3,7 @@ published: true
 title: Screw & Threads
 tags: screw 3dmodel 3dprint openscad freecad cnc
 ---
-> In traditional CAD systems modelling screw threads is discouraged because it puts a big load on the modelling kernel, as well as on the rendering of the shapes... However, with the popularization of additive manufacturing (3D printing), there is now a real need to model 3D threads, in order to print them exactly as designed. - [Thread for Screw Tutorial](https://wiki.freecad.org/Thread_for_Screw_Tutorial)
+> In traditional CAD systems modelling screw threads is discouraged because it puts a big load on the modelling kernel, as well as on the rendering of the shapes... However, with the popularization of additive manufacturing (3D printing), there is now a real need to model 3D threads, in order to print them exactly as designed. - [Thread for Screw Tutorial](https://wiki.freecad.org/Thread_for_Screw_Tutorial) / [Thread Anatomy- (In less than 5 min!)](https://www.youtube.com/watch?v=tkEVwpl2S4Q)
 
 This article is a guide to using screws in 3D printed SLA parts. There are many other ways [to attach multiple 3D printed parts](https://formlabs.com/blog/how-to-create-models-larger-than-your-3d-printers-build-volume/)  together, but if you need to repeatedly attach and detach components and want robust mechanical fastening, there's no real replacement for genuine metal threads. -  [Adding Screw Threads to 3D Printed Parts](https://formlabs.com/blog/adding-screw-threads-3d-printed-parts/)
 
