@@ -29,8 +29,8 @@ s.split.join(' ') #=> "Hello, my name is Michael."
 
 ### [Iterate on String]({% post_url 2019-03-30-ruby-iterate %}#iterate-on-string)
 {% highlight ruby %}
-"input".each_char { |c| puts c }
 "input".bytes     { |c| puts c }
+"input".each_char { |c| puts c }
 "input".chars.map { |c| puts c }	# => "input".split('').map
 
 # not short but usefull
