@@ -44,7 +44,7 @@ end
 ### Iterate on string
 {% highlight ruby %}
 "input".each_char { |c| ... }
-"input".bytes     { |c| puts c }
 "input".chars.map { |c| ... }
 "input".chars.each_with_index { |c,i| ... }
+"input".bytes     { |c| ... }
 {% endhighlight %}
