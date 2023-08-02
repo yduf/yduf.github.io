@@ -11,6 +11,7 @@ a,b,c=gets.split.map(&:to_i)
 STDIN.read.split("\n") #read until EOF rather than iterate
 # this may be equivalent
 $<.read.split("\n")
+$<.read.split.drop(1) #eg: to eliminate size given
 {% endhighlight %}
 
 ## [String](https://ruby-doc.org/core-3.0.1/String.html)
