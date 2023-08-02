@@ -27,7 +27,7 @@ s = "Hello, my\n       name is Michael."
 s.split.join(' ') #=> "Hello, my name is Michael."
 {% endhighlight %}
 
-### [Iterate on String]({% post_url 2019-03-30-ruby-iterate %}#anchor-id)
+### [Iterate on String]({% post_url 2019-03-30-ruby-iterate %}#iterate-on-string)
 {% highlight ruby %}
 "input".each_char { |c| puts c }
 "input".bytes     { |c| puts c }
