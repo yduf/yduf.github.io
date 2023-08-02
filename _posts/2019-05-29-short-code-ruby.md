@@ -27,10 +27,11 @@ s = "Hello, my\n       name is Michael."
 s.split.join(' ') #=> "Hello, my name is Michael."
 {% endhighlight %}
 
-### Iterate on String
+### [Iterate on String]({% post_url 2019-03-30-ruby-iterate %}#anchor-id)
 {% highlight ruby %}
-"input".chars.map { |c| puts c }	# => "input".split('').map
 "input".each_char { |c| puts c }
+"input".bytes     { |c| puts c }
+"input".chars.map { |c| puts c }	# => "input".split('').map
 
 # not short but usefull
 str.each_char.with_index { |c,i| puts c,i }
