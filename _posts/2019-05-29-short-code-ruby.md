@@ -36,6 +36,13 @@ s.split.join(' ') #=> "Hello, my name is Michael."
 str.each_char.with_index { |c,i| puts c,i }
 {% endhighlight %}
 
+### [All prefix of a string](https://stackoverflow.com/a/18078171/51386)
+
+{% highlight ruby %}
+acc = ''
+str.chars.map {|c| acc += c }
+{% endhighlight %}
+
 ### [Formatting](https://www.rubyguides.com/2012/01/ruby-string-formatting/) using [String.format]({% post_url 2018-08-27-string-int %}#ruby) / [sprintf](https://ruby-doc.org/core-2.0.0/Kernel.html#method-i-sprintf)
 {% highlight ruby %}
 puts "%0.1f %s" % [a,b]
