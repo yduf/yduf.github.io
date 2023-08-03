@@ -12,7 +12,7 @@ STDIN.read.split("\n") #read until EOF rather than iterate
 # this may be equivalent
 $<.read.split("\n")
 $<.read.split.drop(1) #eg: to eliminate size given
-# read full
+# read full input
 gets('')
 pp $_
 {% endhighlight %}
