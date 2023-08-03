@@ -68,7 +68,7 @@ puts "%#x" % 10 # 0ba , probleme 0 => gives 0 and not 0x0
 
 {% endhighlight %}
 
-### String Litteral
+### [String Litteral](https://docs.ruby-lang.org/en/master/syntax/literals_rdoc.html#label-String+Literals)
 {% highlight ruby %}
 ?[          # => "["
 {% endhighlight %}
