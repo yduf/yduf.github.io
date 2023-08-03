@@ -137,3 +137,4 @@ see also
 Example
 - [Prefix Tree Traversal](https://codegolf.stackexchange.com/questions/54733/prefix-tree-traversal)
 - [Sum positive number](https://www.ruby-forum.com/t/shortest-code/184803)
+- [Make an alphabeTrie](https://codegolf.stackexchange.com/questions/170580/make-an-alphabetrie)
