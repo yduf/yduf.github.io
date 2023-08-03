@@ -124,3 +124,6 @@ array.reduce(:+)		# or inject (alias)
 {% endhighlight %}
 
 ### [p vs puts](https://www.rubyguides.com/2018/10/puts-vs-print/)
+
+see also
+- [Tips for golfing in Ruby](https://codegolf.stackexchange.com/questions/363/tips-for-golfing-in-ruby)
