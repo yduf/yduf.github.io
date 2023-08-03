@@ -20,6 +20,7 @@ pp $_
 
 see also
 - [Pre-defined global variables](https://rubyreferences.github.io/rubyref/language/globals.html)
+- [pseudo-variables](https://www.zenspider.com/ruby/quickref.html#pseudo-variables)
 
 ## [String](https://ruby-doc.org/core-3.0.1/String.html)
 ### [Split string but keep multiple whitespace](https://stackoverflow.com/questions/46135748/ruby-split-string-but-keep-multiple-whitespace)
