@@ -134,6 +134,7 @@ array.reduce(:+)		# or inject (alias)
 
 see also
 - [Tips for golfing in Ruby](https://codegolf.stackexchange.com/questions/363/tips-for-golfing-in-ruby)
+- [ruby-codegolf](https://ruby-codegolf.netlify.app/others.html)
 
 Example
 - [Prefix Tree Traversal](https://codegolf.stackexchange.com/questions/54733/prefix-tree-traversal)
