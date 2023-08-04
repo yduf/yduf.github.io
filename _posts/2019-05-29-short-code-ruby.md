@@ -134,6 +134,7 @@ array.reduce(:+)		# or inject (alias)
 
 see also
 - [Tips for golfing in Ruby](https://codegolf.stackexchange.com/questions/363/tips-for-golfing-in-ruby)
+- [Code Golf tips of ruby](https://github.com/siman-man/ruby-golf-style-guide)
 - [ruby-codegolf](https://ruby-codegolf.netlify.app/others.html)
 
 Example
