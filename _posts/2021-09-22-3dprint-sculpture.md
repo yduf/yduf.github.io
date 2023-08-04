@@ -32,3 +32,5 @@ tags: art 3dprint statue
 ### Resin
 - [Build The Mandalorian's new ship](https://www.youtube.com/watch?v=WiBaR0eL5z4)
 	- [clear canopee](https://www.reddit.com/r/3Dprinting/)
+
+[![caption](https://cdn2.myminifactory.com/assets/images/post/1124548e-cover_resize.jpg)](https://www.myminifactory.com/stories/spotlight-on-matthew-metoyer)
