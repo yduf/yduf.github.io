@@ -133,6 +133,7 @@ array.reduce(:+)		# or inject (alias)
 ### [p vs puts](https://www.rubyguides.com/2018/10/puts-vs-print/)
 
 see also
+- [eonu/ruby-golf ](https://github.com/eonu/ruby-golf)
 - [Tips for golfing in Ruby](https://codegolf.stackexchange.com/questions/363/tips-for-golfing-in-ruby)
 - [Code Golf tips of ruby](https://github.com/siman-man/ruby-golf-style-guide)
 - [ruby-codegolf](https://ruby-codegolf.netlify.app/others.html)
