@@ -11,6 +11,7 @@ tags: art 3dprint statue
 - [Venus Reclining on a Sea Monster with Cupid and a Putto](https://www.thingiverse.com/thing:24263)
 - [Déesse chatte Bastet ](https://ateliersartmuseesnationaux.fr/fr/sculptures/RE000037?guid=614a58682d82c)
 - [ARTS-REPRODUCTIONS.COM](http://www.arts-reproductions.com/posts/34-copies-et-reproductions-de-sculptures-statues-bustes-et-statuettes-sur-mesure)
+- [Chinese stone lion: history of the great guardian](https://www.myminifactory.com/stories/chinese-stone-lion-history-of-the-great-guardian)
 
 ### Bronze
 - [Comment se fabrique une sculpture en bronze](https://www.royaldecorations.fr/comment-se-fabrique-une-sculpture-en-bronze) - La "cire perdue"
