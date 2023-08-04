@@ -136,6 +136,7 @@ see also
 - [Tips for golfing in Ruby](https://codegolf.stackexchange.com/questions/363/tips-for-golfing-in-ruby)
 - [Code Golf tips of ruby](https://github.com/siman-man/ruby-golf-style-guide)
 - [ruby-codegolf](https://ruby-codegolf.netlify.app/others.html)
+- [Ruby - code-golf/code-golf GitHub Wiki](https://github-wiki-see.page/m/code-golf/code-golf/wiki/Ruby) -  char packer trick - But doesn't work with Codingame
 
 Example
 - [Prefix Tree Traversal](https://codegolf.stackexchange.com/questions/54733/prefix-tree-traversal)
