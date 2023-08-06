@@ -20,7 +20,7 @@ tags: 3dprinter calibration calipers
 
 ## [Hole & horizontal expansion](https://the3dprinterbee.com/cura-horizontal-expansion/)
 
-Not the same as Shrinkage Compensation
+This **Not** the same as Shrinkage Compensation
 - [Horizontal Hole Tolerance Calibration Test](https://www.thingiverse.com/thing:4772939)
 
 ## Accurate Dimension
