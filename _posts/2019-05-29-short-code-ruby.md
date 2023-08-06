@@ -133,7 +133,7 @@ array.reduce(:+)		# or inject (alias)
 
 ### [p vs puts](https://www.rubyguides.com/2018/10/puts-vs-print/)
 
-### [call lambda]()
+### [call lambda](https://stackoverflow.com/a/19416173/51386)
 {% highlight ruby %}
 fact = -> (x){ x < 2 ? 1 : x*fact.(x-1)}
 
