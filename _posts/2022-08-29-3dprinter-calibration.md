@@ -18,8 +18,9 @@ tags: 3dprinter calibration calipers
 - [Adjust Initial Layer Horizontal Expansion](https://my3dlife.com/how-to-fix-elephants-foot-on-a-3d-printer-simple-guide/)
 - [How to STOP Elephant's Foot on your 3D Prints](https://www.youtube.com/watch?v=zlgR3rHg4p8)
 
-## Hole & horizontal expension
+## [Hole & horizontal expansion](https://the3dprinterbee.com/cura-horizontal-expansion/)
 
+Not the same as Shrinkage Compensation
 - [Horizontal Hole Tolerance Calibration Test](https://www.thingiverse.com/thing:4772939)
 
 ## Accurate Dimension
