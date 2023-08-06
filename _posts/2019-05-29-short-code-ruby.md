@@ -133,6 +133,15 @@ array.reduce(:+)		# or inject (alias)
 
 ### [p vs puts](https://www.rubyguides.com/2018/10/puts-vs-print/)
 
+### [call lambda]()
+{% highlight ruby %}
+fact = -> (x){ x < 2 ? 1 : x*fact.(x-1)}
+
+p fact.call(5)
+p fact.(5)
+p fact[5]
+{% endhighlight %}
+
 see also
 - [eonu/ruby-golf ](https://github.com/eonu/ruby-golf)
 - [Tips for golfing in Ruby](https://codegolf.stackexchange.com/questions/363/tips-for-golfing-in-ruby)
