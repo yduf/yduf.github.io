@@ -105,6 +105,7 @@ a.sort_by!{|str| str.length}.reverse!
 a.sort_by! { |s| -s.length } # shorter
 {% endhighlight %}
 
+## [On Looping](https://codegolf.stackexchange.com/a/156957/119077)
 ### Apply method on each element
 {% highlight ruby %}
 array.map!(&:to_i)
