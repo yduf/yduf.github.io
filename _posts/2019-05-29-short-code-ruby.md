@@ -1,7 +1,7 @@
 ---
 title: Shortest code (Ruby)
 published: true
-tags: ruby codingame string array
+tags: ruby codegolf codingame string array
 ---
 ## Tips
 ### Read inputs
