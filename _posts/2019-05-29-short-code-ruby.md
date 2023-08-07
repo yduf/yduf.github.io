@@ -86,6 +86,13 @@ puts "%#x" % 10 # 0ba , probleme 0 => gives 0 and not 0x0
 "string".bytes   # =>  "string".chars.map(&:ord)
 {% endhighlight %}
 
+### [string to number](https://notes.dt.in.th/RubyCodeGolfingTricks)
+
+{% highlight ruby %}
+"1234".to_i.to_s(2)
+"%b" % "1234"
+{% endhighlight %}
+
 ## [Hash](https://ruby-doc.org/core-3.1.2/Hash.html)
 - [hash trick](https://github.com/siman-man/ruby-golf-style-guide#hash)
 
