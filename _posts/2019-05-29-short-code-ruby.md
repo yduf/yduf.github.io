@@ -148,6 +148,7 @@ see also
 - [Code Golf tips of ruby](https://github.com/siman-man/ruby-golf-style-guide)
 - [ruby-codegolf](https://ruby-codegolf.netlify.app/others.html)
 - [Ruby - code-golf/code-golf GitHub Wiki](https://github-wiki-see.page/m/code-golf/code-golf/wiki/Ruby) -  char packer trick - But doesn't work with Codingame which count bytes
+- [Compression in Golf: Part I](https://www.perlmonks.org/?node_id=995190) - pack(u) trick
 
 Example
 - [Prefix Tree Traversal](https://codegolf.stackexchange.com/questions/54733/prefix-tree-traversal)
