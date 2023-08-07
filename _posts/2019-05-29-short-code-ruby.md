@@ -13,6 +13,7 @@ STDIN.read.split("\n") #read until EOF rather than iterate
 $<.read.split("\n")
 $<.read.split.drop(1) #eg: to eliminate size given
 $<.to_a
+
 # read full input
 gets('')
 pp $_
