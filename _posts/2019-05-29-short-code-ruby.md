@@ -168,6 +168,7 @@ see also
 - [eonu/ruby-golf ](https://github.com/eonu/ruby-golf)
 - [Tips for golfing in Ruby](https://codegolf.stackexchange.com/questions/363/tips-for-golfing-in-ruby)
 	- [A Half-hour to Learn Ruby Code Golf](https://waltergordy.com/blog/2020/01/18/ruby-golf.html)
+    - [Golfing Basics](https://idiosyncratic-ruby.com/27-golfing-basics.html)
 - [Code Golf tips of ruby](https://github.com/siman-man/ruby-golf-style-guide)
 - [ruby-codegolf](https://ruby-codegolf.netlify.app/others.html)
 - [Ruby - code-golf/code-golf GitHub Wiki](https://github-wiki-see.page/m/code-golf/code-golf/wiki/Ruby) -  char packer trick - But doesn't work with Codingame which count bytes
