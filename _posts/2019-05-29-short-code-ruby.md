@@ -16,7 +16,8 @@ $<.to_a
 
 # read full input
 gets('')
-pp $_
+p $_
+p `dd` # read from dd
 {% endhighlight %}
 
 see also
