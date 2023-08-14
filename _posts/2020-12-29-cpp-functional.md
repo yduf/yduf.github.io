@@ -9,6 +9,8 @@ tags: c++ functional haskell
 see also
 - [Lazy Code](https://github.com/SaadAttieh/lazyCode) - Compossible, lazily evaluated generators such as map, filter, fold, enumerated ranges and more.
 
+- [claims that modern C++ is functional  is simply untrue](https://news.ycombinator.com/item?id=37116136) - functional methods in the standard library require mutating the target (ie std::sort, std::transform, etc.) They are not ergonomic because we have to pass begin and end as arguments, which also means they cannot be chained.
+
 - [John Carmack on Inlined Code](http://number-none.com/blow/john_carmack_on_inlined_code.html) - _where inlining is not what the compiler do, but manually copying code upward_. To sum up:
 	- If a function is only called from a single place, consider inlining it.
 	- If a function is called from multiple places, see if it is possible to arrange for the work to be done in a single place, perhaps with flags, and inline that.
