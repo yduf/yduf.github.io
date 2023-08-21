@@ -1,11 +1,13 @@
 ---
 published: true
 title: Carbon Emission
-tags: despair.com climate-war science co2 quote
+tags: despair.com climate-war science co2 quote map
 ---
 > Si on ne s'occupe pas du problème, le problème s'occupera de nous - [Jancovici : Concevoir pour rester en dessous de 2°C](https://www.youtube.com/watch?v=I3CsL15U-sM) 
 > 
 > On est jeune tant qu'on se croit eternel et invicible.
+
+- [Electricity Map](https://app.electricitymaps.com/map) / [HN](https://news.ycombinator.com/item?id=37197903) - production & carbon emission per country.
 
 see also
 - [Earth's CO2 Home Page](https://www.co2.earth/) - 2022/11 417.51ppm
