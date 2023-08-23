@@ -9,6 +9,7 @@ tags: despair.com climate-war science
 
 
 - [Les sécheresses sont-elles archi-sèches ?](https://www.youtube.com/watch?v=X5FPzsKCKd0) - sources officielles des mesures du climat / secheresse en France.
+	- [infoclimat](https://www.infoclimat.fr/) - source en open data (pour la pluspart)
 - [Jancovici calme Pascal Praud](https://www.youtube.com/watch?v=6Zg1mSPbVBg)
 - [ PIB=energie=CO²](https://www.youtube.com/watch?v=LCZQZMpfAWE)
 	- consomation des ressource non renouvelables et renouvables.
