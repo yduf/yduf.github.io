@@ -10,6 +10,7 @@ tags: despair.com climate-war science
 
 - [Les sécheresses sont-elles archi-sèches ?](https://www.youtube.com/watch?v=X5FPzsKCKd0) - sources officielles des mesures du climat / secheresse en France.
 	- [infoclimat](https://www.infoclimat.fr/) - source en open data (pour la pluspart)
+    - [etat-nappes-eau-souterraine](https://www.brgm.fr/fr/tag/etat-nappes-eau-souterraine) - les eaux de surfaces (riviere,fleuve...) représentent 1/3 des sources ou l'on puise l'eau en France les autres 2/3 viennent des nappes (freatique ou profonde).
 - [Jancovici calme Pascal Praud](https://www.youtube.com/watch?v=6Zg1mSPbVBg)
 - [ PIB=energie=CO²](https://www.youtube.com/watch?v=LCZQZMpfAWE)
 	- consomation des ressource non renouvelables et renouvables.
