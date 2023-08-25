@@ -9,7 +9,7 @@ from [GOG](https://www.gog.com/fr/game/planet_of_lana)
 A bit of 1986s [Prince of Persia]({% post_url 2021-06-05-game-prince-of-persia %}) plus  
 A bit of Colorful Limbo plus  
 A bit of Abe Oddworld plus  
-A bit of Another World equals  
+A bit of [Another World]({% post_url 2018-06-16-AnotherWorld %}) equals  
 
 [![caption](https://upload.wikimedia.org/wikipedia/en/7/72/Planet_of_Lana_cover_art.jpg)](https://en.wikipedia.org/wiki/Planet_of_Lana)
 
