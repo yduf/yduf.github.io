@@ -7,6 +7,13 @@ tags: games wine lutris
 
 - [Adding runner](https://github.com/lutris/lutris/discussions/3772) - menu / preferences
 
+### [Gamescope](https://wiki.archlinux.org/title/Gamescope)
+
+Gamescope is a microcompositor from Valve that is used on the Steam Deck. Its goal is to provide an isolated compositor that is tailored towards gaming and supports many gaming-centric features such as:
+- Spoofing resolutions.
+- pscaling using AMD FidelityFX™ Super Resolution or NVIDIA Image Scaling.
+- Limiting framerates.
+    
 ### [What is DXVK?](https://github.com/lutris/docs/blob/master/HowToDXVK.md)
 
 ### [What is Esync?](https://github.com/lutris/docs/blob/master/HowToEsync.md)
