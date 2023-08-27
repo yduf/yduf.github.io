@@ -14,6 +14,7 @@ This article is a guide to using screws in 3D printed SLA parts. There are many 
 ## [Freecad]({% post_url 2020-05-29-freecad %})
 
 see also
+- [FreeCAD Threaded Hook](https://www.youtube.com/watch?v=uYgDdWAtn8A)
 - [How to make threaded parts in FreeCAD .17](https://www.youtube.com/watch?v=Rmq64GdCPas)
 
 Freecad knows ISO screws size - see [Fasterner Workbench](https://wiki.freecadweb.org/Fasteners_Workbench)
