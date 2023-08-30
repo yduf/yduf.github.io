@@ -1,7 +1,7 @@
 ---
 published: true
 title: Open Arena
-tags: quake games
+tags: games quake
 ---
 > OpenArena is a Free Content project. Its goal is to create new, original media while providing a stand-alone multiplayer game in the process. - [Open Arena](http://openarena.ws/download.php)
 
@@ -15,6 +15,8 @@ Free World - packed standalone version (unzip openarena-0.8.8-repack.zip)
 seta sv_master1 "dpmaster.deathmask.net"
 
 ## [Install](https://openarena.fandom.com/wiki/Manual#Installing_OpenArena)
+
+from `/nfs/tronaut/mnt/Backup/Console & Games/Games/OpenArena` unzip archive & launch `openarena.i386`
 
 ## Issue
 ### [Display too Dark]()
