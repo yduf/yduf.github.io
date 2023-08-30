@@ -3,6 +3,11 @@ title: String Interpolation
 published: true
 tags: crystal ruby scala dlang string interpolation
 ---
+> or variable binding
+
+### [C++20](https://stackoverflow.com/questions/63121776/simplest-syntax-for-string-interpolation-in-c)
+via std::format
+
 ### Crystal
 Work alike ruby with either [#{}](https://crystal-lang.org/reference/syntax_and_semantics/literals/string.html#Interpolation)
 
@@ -51,11 +56,14 @@ let value = 100;
 console.log(`The size is ${ value }`);
 {% endhighlight %}
 
-### [{{Mustache}} templates](http://mustache.github.io/)
-- [mustache.js](https://github.com/janl/mustache.js)
+
+### [m4]({% post_url 2019-02-27-m4 %})
 
 ### [maven](https://maven.apache.org/plugins/maven-resources-plugin/)
 
 - parameter expansion -> see maven filtering
 
-### [m4]({% post_url 2019-02-27-m4 %})
+### [{{Mustache}} templates](http://mustache.github.io/)
+- [mustache.js](https://github.com/janl/mustache.js)
+
+
