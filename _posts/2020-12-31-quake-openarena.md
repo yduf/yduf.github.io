@@ -18,6 +18,8 @@ seta sv_master1 "dpmaster.deathmask.net"
 
 from `/nfs/tronaut/mnt/Backup/Console & Games/Games/OpenArena` unzip archive & launch `openarena.i386`
 
+Can be launched from [Lutris]({% post_url 2023-08-25-wine-Lutris %}) with the advantage of cleaning up resolution and gamma on exit.
+
 ## Issue
 ### [Display too Dark]()
 SDL-bug on intel card, workaround:
