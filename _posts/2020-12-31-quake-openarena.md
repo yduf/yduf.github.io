@@ -21,6 +21,11 @@ from `/nfs/tronaut/mnt/Backup/Console & Games/Games/OpenArena` unzip archive & l
 Can be launched from [Lutris]({% post_url 2023-08-25-wine-Lutris %}) with the advantage of cleaning up resolution and gamma on exit.
 
 ## Issue
+### Network play
+- openArena work only with openArena
+- ioquake work only with ioquake
+	- install openArena data over ioquake (/base) 
+
 ### [Display too Dark]()
 SDL-bug on intel card, workaround:
 `xgamma -gamma 1.6 && ./openarena.x86_64 && xgamma -gamma 1.0`
