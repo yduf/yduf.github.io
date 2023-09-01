@@ -9,17 +9,20 @@ title: Tags
 <!-- tag_words: {{ tag_words }} -->
 
 <div id="tags">
+<!--
   <ul class="tag-box inline">
   {% for tag in tag_words %}
     <li><a href="#{{ tag | slugify }}-ref">{{ tag | replace: '-', ' ' }} <span>{{ site.tags[tag] | size }}</span></a></li>
   {% endfor %}
   </ul>
+ -->
 
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
   <h2 id="{{ this_word | slugify }}-ref">{{ this_word | replace: '-', ' ' }}</h2>
   <ul class="posts">
-    {% for post in site.tags[this_word] %}{% if post.title != null %}
+    {% assign sortedPosts = site.tags[this_word] | sort: 'title' %}
+    {% for post in sortedPosts %}{% if post.title != null %}
     <li itemscope>
         <a href="{{ post.url }}">{{ post.title }}</a>
            <span class="entry-date">
