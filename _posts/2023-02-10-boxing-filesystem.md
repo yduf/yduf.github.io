@@ -1,7 +1,7 @@
 ---
 published: true
 title: Boxing Filesystem
-tags: filesystem cgroup namespace
+tags: home config filesystem cgroup namespace
 ---
 > boxxy is a tool for boxing up misbehaving Linux applications and forcing them to put their files and directories in the right place, without symlinks! - [boxxy](https://github.com/queer/boxxy) / [HN](https://news.ycombinator.com/item?id=34730520)
 
