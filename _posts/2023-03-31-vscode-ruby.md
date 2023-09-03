@@ -3,7 +3,7 @@ published: true
 title: VSCode & Ruby Debug
 tags: vscode ruby debug
 ---
-> Ruby integration with Vscode - [Ruby by Peng Lv](https://betterprogramming.pub/code-like-a-pro-tooling-to-supercharge-vs-code-for-ruby-bf2ae61df5e3?gi=9dbd1898926e)
+> Ruby integration with VSCode - [Ruby by Peng Lv](https://betterprogramming.pub/code-like-a-pro-tooling-to-supercharge-vs-code-for-ruby-bf2ae61df5e3?gi=9dbd1898926e)
 
 Add also:
 - [Solargraph](https://solargraph.org/) + [Ruby Solargraph](https://marketplace.visualstudio.com/items?itemName=castwide.solargraph) - a language server that provides intellisense, code completion, and inline documentation for Ruby.
@@ -12,6 +12,9 @@ Add also:
 
 - [VSCode rdbg Ruby Debugger](https://marketplace.visualstudio.com/items?itemName=KoichiSasada.vscode-rdbg) 
 debug gem must be installed globally and rdbg should be in the path
+
+### Troubleshooting
+If using rbenv, make sure it is properly seen by VSCode (init shell)
 
 see also
 - [How to Debug & Fix Your Ruby Programs](https://www.rubyguides.com/2015/07/ruby-debugging/)
