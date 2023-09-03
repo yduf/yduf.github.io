@@ -16,5 +16,7 @@ A bit of [Another World]({% post_url 2018-06-16-AnotherWorld %}) equals
 see also
 - [Games that Make You Part of the Ecosystem](https://www.youtube.com/watch?v=ZFBUFFr4GmQ)
 
-spoiler
+**spoiler**
 - [Planet of Lana All Cutscenes Full Game Movie](https://www.youtube.com/watch?v=BoC7S2DnwhM)
+
+[![caption](https://img.youtube.com/vi/BoC7S2DnwhM/0.jpg)](https://www.youtube.com/watch?v=BoC7S2DnwhM)
