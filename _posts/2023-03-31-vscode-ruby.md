@@ -13,7 +13,7 @@ Add also:
 - [VSCode rdbg Ruby Debugger](https://marketplace.visualstudio.com/items?itemName=KoichiSasada.vscode-rdbg) 
 debug gem must be installed globally and rdbg should be in the path
 
-see also
+see also?
 - [the Standard Ruby VS Code extension](https://blog.testdouble.com/posts/2023-02-16-its-official-the-standard-ruby-vscode-extension/)
 
 ### Troubleshooting
