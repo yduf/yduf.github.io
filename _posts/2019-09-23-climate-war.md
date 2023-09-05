@@ -13,6 +13,9 @@ tags: despair.com climate-war science
 	- [etat-nappes-eau-souterraine](https://www.brgm.fr/fr/tag/etat-nappes-eau-souterraine) - les eaux de surfaces (riviere,fleuve...) représentent 1/3 des sources ou l'on puise l'eau en France les autres 2/3 viennent des nappes (freatique ou profonde).
 	- le maïs perdra entre 20 et 40% de rendement par an jusqu'en 2050 dans le sud de la france 
 	- ce n'est pas la fin de l'agriculture en France: mais les cultures doivent changer sur du long terme (les 15 prochaines années).
+    
+- [La défense militaire européenne par Jancovici](https://youtu.be/sytJfSDTbAI?feature=shared&t=528) - production de petrole / choc petrolier / force armée & industrielle.
+
 - [Jancovici calme Pascal Praud](https://www.youtube.com/watch?v=6Zg1mSPbVBg)
 - [ PIB=energie=CO²](https://www.youtube.com/watch?v=LCZQZMpfAWE)
 	- consomation des ressource non renouvelables et renouvables.
