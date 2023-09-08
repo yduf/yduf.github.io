@@ -3,7 +3,97 @@ title: PLA tested
 published: true
 tags: 3dprint pla
 ---
-PLA tested so far -- 1.75mm
+> PLA tested so far -- 1.75mm
+
+{::nomarkdown}
+    <style>
+        .palette {
+            display: flex;
+        }
+
+        .color-box {
+            width: 50px;
+            height: 50px;
+            margin: 10px;
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+
+        .color-box:hover {
+            transform: scale(1.1);
+        }
+
+        .product-list {
+            display: none;
+            position: absolute;
+            background-color: white;
+            padding: 10px;
+            border: 1px solid #ccc;
+            z-index: 1;
+        }
+
+        .color-box:hover + .product-list {
+            display: block;
+        }
+    </style>
+
+    <div class="palette">
+        <svg class="color-box" width="50" height="50">
+            <rect width="50" height="50" fill="red" />
+        </svg>
+        <div class="product-list">
+            <ul>
+                <li><a href="#">Product 1</a></li>
+                <li><a href="#">Product 2</a></li>
+                <li><a href="#">Product 3</a></li>
+            </ul>
+        </div>
+
+        <svg class="color-box" width="50" height="50">
+            <rect width="50" height="50" fill="green" />
+        </svg>
+        <div class="product-list">
+            <ul>
+                <li><a href="#">Product 4</a></li>
+                <li><a href="#">Product 5</a></li>
+                <li><a href="#">Product 6</a></li>
+            </ul>
+        </div>
+
+        <svg class="color-box" width="50" height="50">
+            <rect width="50" height="50" fill="blue" />
+        </svg>
+        <div class="product-list">
+            <ul>
+                <li><a href="#">Product 7</a></li>
+                <li><a href="#">Product 8</a></li>
+                <li><a href="#">Product 9</a></li>
+            </ul>
+        </div>
+
+        <svg class="color-box" width="50" height="50">
+            <rect width="50" height="50" fill="yellow" />
+        </svg>
+        <div class="product-list">
+            <ul>
+                <li><a href="#">Product 10</a></li>
+                <li><a href="#">Product 11</a></li>
+                <li><a href="#">Product 12</a></li>
+            </ul>
+        </div>
+
+        <svg class="color-box" width="50" height="50">
+            <rect width="50" height="50" fill="purple" />
+        </svg>
+        <div class="product-list">
+            <ul>
+                <li><a href="#">Product 13</a></li>
+                <li><a href="#">Product 14</a></li>
+                <li><a href="#">Product 15</a></li>
+            </ul>
+        </div>
+    </div>
+{:/}
 
 - [Faites votre propre Dual PLA](https://www.youtube.com/watch?v=Bjo_4RYRaOo)
 
