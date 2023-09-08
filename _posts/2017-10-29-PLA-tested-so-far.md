@@ -139,8 +139,8 @@ tags: 3dprint pla
             </svg>
             <div class="product-list">
                 <ul>
-                    <li><span class="circle" style="background-color: ##D2D7D3;"></span><a href="https://www.3djake.fr/formfutura/easyfil-epla-light-grey">Light Grey (EasyFil)</a></li>
-                    <li><span class="circle" style="background-color: ##D2D2C8;"></span><a href="https://yduf.github.io/mac-classic/">Mac Classic</a></li>
+                    <li><span class="circle" style="background-color: #D2D7D3;"></span><a href="https://www.3djake.fr/formfutura/easyfil-epla-light-grey">Light Grey (EasyFil)</a></li>
+                    <li><span class="circle" style="background-color: #D2D2C8;"></span><a href="https://yduf.github.io/mac-classic/">Mac Classic</a></li>
                 </ul>
             </div>
         </div>
