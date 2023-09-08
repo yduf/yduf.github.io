@@ -42,6 +42,9 @@ tags: 3dprint pla
             border-radius: 5px;
             top: 30px; /* Adjust the top position to match your layout */
             left: 0;
+            width: 200px; /* Set the width to accommodate longer product names */
+            white-space: nowrap; /* Prevent text from wrapping */
+            overflow: auto; /* Enable scrollbars for overflow text */
         }
 
         .color-box-container:hover .product-list {
