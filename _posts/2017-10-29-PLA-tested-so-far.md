@@ -49,6 +49,12 @@ tags: 3dprint pla
             white-space: nowrap; /* Prevent text from wrapping */
             overflow: auto; /* Enable scrollbars for overflow text */
         }
+  
+        /* Define different styles for list items */
+        .product-list ul {
+            list-style-type: none; /* Remove default list marker */
+            padding: 0;
+        }
 
         .color-box-container:hover .product-list {
             display: block;
@@ -72,6 +78,15 @@ tags: 3dprint pla
           /* Orange */
         .orange {
             fill: orange; /* Set fill color to orange */
+        }
+  
+        /* Colored circle */
+        .circle {
+            display: inline-block;
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            margin-right: 5px;
         }
     </style>
 {:/}
@@ -119,12 +134,12 @@ tags: 3dprint pla
 
         <!-- Repeat the color boxes and product lists for other colors -->
         <div class="color-box-container">
-            <svg class="color-box">
+            <svg class="color-box">Light Grey 
                 <rect width="100%" height="100%" class="light-grey"  />
             </svg>
             <div class="product-list">
                 <ul>
-                    <li><a href="#">none</a></li>
+                    <li><span class="circle" style="background-color: #f2f2f2;"></span><a href="https://www.3djake.fr/formfutura/easyfil-epla-light-grey">Light Grey (EasyFil)</a></li>
                 </ul>
             </div>
         </div>
