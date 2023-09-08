@@ -166,7 +166,7 @@ like [USSA design](https://www.youtube.com/@ussadesign/videos)
             </svg>
             <div class="product-list">
                 <ul>
-                    <li><a href="#">none</a></li>
+                    <li><span class="circle" style="background-color: #797B7A;"></span><a href="https://www.3djake.fr/formfutura/easyfil-epla-grey-aluminium">Grey Aluminium</a></li>
                 </ul>
             </div>
         </div>
