@@ -22,6 +22,10 @@ tags: 3dprint pla
             cursor: pointer;
             transition: transform 0.2s;
             border-radius: 10px;
+            stroke: black; /* Stroke color */
+            stroke-width: 2; /* Stroke width */
+            rx: 10; /* Default rx value for rounded corners */
+            ry: 10; /* Default ry value for rounded corners */
         }
 
         .color-box:hover {
@@ -47,8 +51,8 @@ tags: 3dprint pla
     
     <div class="palette">
         <div class="color-box-container">
-            <svg class="color-box" width="50" height="50">
-                <rect width="50" height="50" rx="10" ry="10" fill="white" />
+            <svg class="color-box">
+                <rect width="100%" height="100%" fill="white" />
             </svg>
             <div class="product-list">
                 <ul>
