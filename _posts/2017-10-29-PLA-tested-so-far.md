@@ -82,7 +82,7 @@ tags: 3dprint pla
             <svg class="color-box">
                 <rect width="100%" height="100%" fill="white" />
             </svg>
-            <div class="product-list">
+            <div class="product-list">White
                 <ul>
                     <li><a href="https://www.amazon.fr/gp/product/B017HAIMZU/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1">ICE</a> easy to print - thick 
 	- 205° </li>
