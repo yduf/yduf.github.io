@@ -92,6 +92,8 @@ tags: 3dprint pla
 {:/}
 
 ### Tech Palette
+like [USSA design](https://www.youtube.com/@ussadesign/videos)
+
 {::nomarkdown}
     <div class="palette">
         <!-- Repeat the color boxes and product lists for other colors -->
