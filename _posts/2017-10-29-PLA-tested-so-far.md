@@ -112,10 +112,10 @@ like [USSA design](https://www.youtube.com/@ussadesign/videos)
 
        	<!-- Repeat the color boxes and product lists for other colors -->
         <div class="color-box-container">
-            <svg class="color-box">Orange
+            <svg class="color-box">
                 <rect width="100%" height="100%" class="orange"  />
             </svg>
-            <div class="product-list">
+            <div class="product-list">Orange
                 <ul>
                     <li><a href="https://www.amazon.fr/gp/product/B017HAIB1A/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1">Obstinate Orange (ICE)</a></li>
                 </ul>
