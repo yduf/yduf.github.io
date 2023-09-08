@@ -136,10 +136,10 @@ like [USSA design](https://www.youtube.com/@ussadesign/videos)
 
         <!-- Repeat the color boxes and product lists for other colors -->
         <div class="color-box-container">
-            <svg class="color-box">Light Grey 
+            <svg class="color-box">
                 <rect width="100%" height="100%" class="light-grey"  />
             </svg>
-            <div class="product-list">
+            <div class="product-list">Light Grey 
                 <ul>
                     <li><span class="circle" style="background-color: #D2D7D3;"></span><a href="https://www.3djake.fr/formfutura/easyfil-epla-light-grey">Light Grey (EasyFil)</a></li>
                     <li><span class="circle" style="background-color: #D2D2C8;"></span><a href="https://yduf.github.io/mac-classic/">Mac Classic</a></li>
@@ -149,10 +149,10 @@ like [USSA design](https://www.youtube.com/@ussadesign/videos)
   
         <!-- Repeat the color boxes and product lists for other colors -->
         <div class="color-box-container">
-            <svg class="color-box">Grey
+            <svg class="color-box">
                 <rect width="100%" height="100%" class="grey"  />
             </svg>
-            <div class="product-list">
+            <div class="product-list">Grey
                 <ul>
                     <li><a href="#">none</a></li>
                 </ul>
@@ -161,10 +161,10 @@ like [USSA design](https://www.youtube.com/@ussadesign/videos)
   
         <!-- Repeat the color boxes and product lists for other colors -->
         <div class="color-box-container">
-            <svg class="color-box">Dark Grey
+            <svg class="color-box">
                 <rect width="100%" height="100%" fill="#555756"  />
             </svg>
-            <div class="product-list">
+            <div class="product-list">Dark Grey
                 <ul>
                     <li><span class="circle" style="background-color: #797B7A;"></span><a href="https://www.3djake.fr/formfutura/easyfil-epla-grey-aluminium">Grey Aluminium</a></li>
                 </ul>
