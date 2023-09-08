@@ -174,6 +174,18 @@ tags: 3dprint pla
 {::nomarkdown}
     <div class="palette">
 
+        <!-- Repeat the color boxes and product lists for other colors -->
+        <div class="color-box-container">
+            <svg class="color-box">Pink
+                <rect width="100%" height="100%" fill="#FE69B2"  />
+            </svg>
+            <div class="product-list">
+                <ul>
+                    <li><a href="https://www.amazon.fr/dp/B017HAIE1M/ref=twister_B09HSJWH47?th=1"> Precious Pink   (ICE)</a></li>
+                </ul>
+            </div>
+        </div>
+  
        	<!-- Repeat the color boxes and product lists for other colors -->
         <div class="color-box-container">
             <svg class="color-box">Green
@@ -206,18 +218,6 @@ tags: 3dprint pla
 
 {::nomarkdown}
     <div class="palette">
-
-       	<!-- Repeat the color boxes and product lists for other colors -->
-        <div class="color-box-container">
-            <svg class="color-box">Pink
-                <rect width="100%" height="100%" fill="#FE69B2"  />
-            </svg>
-            <div class="product-list">
-                <ul>
-                    <li><a href="https://www.amazon.fr/dp/B017HAIE1M/ref=twister_B09HSJWH47?th=1"> Precious Pink   (ICE)</a></li>
-                </ul>
-            </div>
-        </div>
   
     </div>   
 {:/}
