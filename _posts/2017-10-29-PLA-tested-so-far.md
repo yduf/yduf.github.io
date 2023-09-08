@@ -48,11 +48,12 @@ tags: 3dprint pla
     <div class="palette">
         <div class="color-box-container">
             <svg class="color-box" width="50" height="50">
-                <rect width="50" height="50" rx="10" ry="10" fill="red" />
+                <rect width="50" height="50" rx="10" ry="10" fill="white" />
             </svg>
             <div class="product-list">
                 <ul>
-                    <li><a href="#">Product 1</a></li>
+                    <li><a href="https://www.amazon.fr/gp/product/B017HAIMZU/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1">ICE</a> easy to print - thick 
+	- 205° </li>
                     <li><a href="#">Product 2</a></li>
                     <li><a href="#">Product 3</a></li>
                 </ul>
