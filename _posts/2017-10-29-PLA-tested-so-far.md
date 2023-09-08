@@ -226,7 +226,7 @@ tags: 3dprint pla
             </svg>
             <div class="product-list">
                 <ul>
-                    <li><a href="https://www.amazon.fr/gp/product/B017HAI4VM/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1">Groovy Gold (ICE)</a></li>  - easy to print, nice [bronze/brass finish](https://www.reddit.com/r/3Dprinting/comments/anh3qg/guan_bas_relief_printed_vertically_012_layer/) - 205°C/55°C - clean glass - work perfectly
+                    <li><a href="https://www.amazon.fr/gp/product/B017HAI4VM/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1">Groovy Gold (ICE)</a>  - easy to print, nice <a href="https://www.reddit.com/r/3Dprinting/comments/anh3qg/guan_bas_relief_printed_vertically_012_layer/>bronze/brass finish</a> - 205°C/55°C - clean glass - work perfectly</li>
                 </ul>
             </div>
         </div>
