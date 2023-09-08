@@ -64,7 +64,7 @@ tags: 3dprint pla
 
         /* Dark grey */
         .dark-grey {
-            fill: #fff; /* Text color for dark grey */
+            fill: #bbb; /* Text color for dark grey */
         }
   
           /* Orange */
