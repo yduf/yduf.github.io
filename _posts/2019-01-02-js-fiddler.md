@@ -1,7 +1,7 @@
 ---
 published: true
 title: JS Fiddler (online)
-tags: js web online d3.js
+tags: js web online d3.js playground
 ---
 > Web dev online -  [Home](https://jsfiddle.net/gerardofurtado/o67wycnt/)
 
