@@ -51,6 +51,26 @@ tags: 3dprint pla
         .color-box-container:hover .product-list {
             display: block;
         }
+  
+         /* Light grey */
+        .light-grey {
+            fill: #f2f2f2;
+        }
+
+        /* Grey */
+        .grey {
+            fill: #ccc;
+        }
+
+        /* Dark grey */
+        .dark-grey {
+            fill: #fff; /* Text color for dark grey */
+        }
+  
+          /* Orange */
+        .orange {
+            fill: orange; /* Set fill color to orange */
+        }
     </style>
 {:/}
 
@@ -73,18 +93,64 @@ tags: 3dprint pla
 
        	<!-- Repeat the color boxes and product lists for other colors -->
         <div class="color-box-container">
-            <svg class="color-box" width="50" height="50">
-                <rect width="50" height="50" rx="10" ry="10" fill="green" />
+            <svg class="color-box">
+                <rect width="100%" height="100%" class="orange"  />
             </svg>
             <div class="product-list">
                 <ul>
-                    <li><a href="#">Product 4</a></li>
-                    <li><a href="#">Product 5</a></li>
-                    <li><a href="#">Product 6</a></li>
+                    <li><a href="#">none</a></li>
                 </ul>
             </div>
         </div>
 
+        <!-- Repeat the color boxes and product lists for other colors -->
+        <div class="color-box-container">
+            <svg class="color-box">
+                <rect width="100%" height="100%" class="light-grey"  />
+            </svg>
+            <div class="product-list">
+                <ul>
+                    <li><a href="#">none</a></li>
+                </ul>
+            </div>
+        </div>
+  
+        <!-- Repeat the color boxes and product lists for other colors -->
+        <div class="color-box-container">
+            <svg class="color-box">
+                <rect width="100%" height="100%" class="grey"  />
+            </svg>
+            <div class="product-list">
+                <ul>
+                    <li><a href="#">none</a></li>
+                </ul>
+            </div>
+        </div>
+  
+        <!-- Repeat the color boxes and product lists for other colors -->
+        <div class="color-box-container">
+            <svg class="color-box">
+                <rect width="100%" height="100%" class="dark-grey"  />
+            </svg>
+            <div class="product-list">
+                <ul>
+                    <li><a href="#">none</a></li>
+                </ul>
+            </div>
+        </div>
+  
+        <!-- Repeat the color boxes and product lists for other colors -->
+        <div class="color-box-container">
+            <svg class="color-box">
+                <rect width="100%" height="100%" fill="black"  />
+            </svg>
+            <div class="product-list">
+                <ul>
+                    <li><a href="#">none</a></li>
+                </ul>
+            </div>
+        </div>
+  
     </div>   
 {:/}
 
