@@ -52,7 +52,10 @@ tags: 3dprint pla
             display: block;
         }
     </style>
-    
+{:/}
+
+### Tech Palette
+{::nomarkdown}
     <div class="palette">
         <!-- Repeat the color boxes and product lists for other colors -->
         <div class="color-box-container">
@@ -84,6 +87,7 @@ tags: 3dprint pla
 
     </div>   
 {:/}
+
 
 - [Faites votre propre Dual PLA](https://www.youtube.com/watch?v=Bjo_4RYRaOo)
 
