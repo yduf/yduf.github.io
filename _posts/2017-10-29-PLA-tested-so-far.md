@@ -153,12 +153,12 @@ tags: 3dprint pla
   
         <!-- Repeat the color boxes and product lists for other colors -->
         <div class="color-box-container">
-            <svg class="color-box">
+            <svg class="color-box">Black
                 <rect width="100%" height="100%" fill="black"  />
             </svg>
             <div class="product-list">
                 <ul>
-                    <li><a href="#">none</a></li>
+                    <li><a href="https://www.amazon.fr/gp/product/B074PD8GYY/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1">noir brillant (dagoma chromatic)</a></li>
                 </ul>
             </div>
         </div>
