@@ -53,6 +53,7 @@ tags: 3dprint pla
     </style>
     
     <div class="palette">
+        <!-- Repeat the color boxes and product lists for other colors -->
         <div class="color-box-container">
             <svg class="color-box">
                 <rect width="100%" height="100%" fill="white" />
@@ -62,7 +63,6 @@ tags: 3dprint pla
                     <li><a href="https://www.amazon.fr/gp/product/B017HAIMZU/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1">ICE</a> easy to print - thick 
 	- 205° </li>
                     <li><a href="https://www.amazon.fr/Verbatim-Printer-Filament-PLA-blanc/dp/B00WRBI59S/ref=sr_1_1?ie=UTF8&qid=1509281347&sr=8-1&keywords=verbatim+pla">Verbatim</a> - very thin/precise print - 205° </li>
-                    <li><a href="#">Product 3</a></li>
                 </ul>
             </div>
         </div>
@@ -80,7 +80,6 @@ tags: 3dprint pla
             </div>
         </div>
 
-        <!-- Repeat the color boxes and product lists for other colors -->
     </div>   
 {:/}
 
