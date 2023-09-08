@@ -95,161 +95,161 @@ tags: 3dprint pla
 like [USSA design](https://www.youtube.com/@ussadesign/videos)
 
 {::nomarkdown}
-    <div class="palette">
-        <!-- Repeat the color boxes and product lists for other colors -->
-        <div class="color-box-container">
-            <svg class="color-box">
-                <rect width="100%" height="100%" fill="white" />
-            </svg>
-            <div class="product-list">White
-                <ul>
-                    <li><a href="https://www.amazon.fr/gp/product/B017HAIMZU/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1">ICE</a> easy to print - thick 
-	- 205° </li>
-                    <li><a href="https://www.amazon.fr/Verbatim-Printer-Filament-PLA-blanc/dp/B00WRBI59S/ref=sr_1_1?ie=UTF8&qid=1509281347&sr=8-1&keywords=verbatim+pla">Verbatim</a> - very thin/precise print - 205° </li>
-                </ul>
-            </div>
-        </div>
+<div class="palette">
+  <!-- Repeat the color boxes and product lists for other colors -->
+  <div class="color-box-container">
+    <svg class="color-box">
+      <rect width="100%" height="100%" fill="white" />
+    </svg>
+    <div class="product-list">White
+      <ul>
+        <li><a href="https://www.amazon.fr/gp/product/B017HAIMZU/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1">ICE</a> easy to print - thick 
+          - 205° </li>
+        <li><a href="https://www.amazon.fr/Verbatim-Printer-Filament-PLA-blanc/dp/B00WRBI59S/ref=sr_1_1?ie=UTF8&qid=1509281347&sr=8-1&keywords=verbatim+pla">Verbatim</a> - very thin/precise print - 205° </li>
+      </ul>
+    </div>
+  </div>
 
-       	<!-- Repeat the color boxes and product lists for other colors -->
-        <div class="color-box-container">
-            <svg class="color-box">
-                <rect width="100%" height="100%" class="orange"  />
-            </svg>
-            <div class="product-list">Orange
-                <ul>
-                    <li><a href="https://www.amazon.fr/gp/product/B017HAIB1A/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1">Obstinate Orange (ICE)</a></li>
-                </ul>
-            </div>
-        </div>
-  
-        <!-- Repeat the color boxes and product lists for other colors -->
-        <div class="color-box-container">
-            <svg class="color-box">
-                <rect width="100%" height="100%" fill="red"  />
-            </svg>
-            <div class="product-list">Red
-                <ul>
-                    <li><a href="https://www.amazon.fr/gp/product/B074PDDPJ7/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1">rouge pompier (dagoma chromatic)</a></li>
-                </ul>
-            </div>
-        </div>
+  <!-- Repeat the color boxes and product lists for other colors -->
+  <div class="color-box-container">
+    <svg class="color-box">
+      <rect width="100%" height="100%" class="orange"  />
+    </svg>
+    <div class="product-list">Orange
+      <ul>
+        <li><a href="https://www.amazon.fr/gp/product/B017HAIB1A/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1">Obstinate Orange (ICE)</a></li>
+      </ul>
+    </div>
+  </div>
 
-        <!-- Repeat the color boxes and product lists for other colors -->
-        <div class="color-box-container">
-            <svg class="color-box">
-                <rect width="100%" height="100%" class="light-grey"  />
-            </svg>
-            <div class="product-list">Light Grey 
-                <ul>
-                    <li><span class="circle" style="background-color: #D2D7D3;"></span><a href="https://www.3djake.fr/formfutura/easyfil-epla-light-grey">Light Grey (EasyFil)</a></li>
-                    <li><span class="circle" style="background-color: #D2D2C8;"></span><a href="https://yduf.github.io/mac-classic/">Mac Classic</a></li>
-                </ul>
-            </div>
-        </div>
-  
-        <!-- Repeat the color boxes and product lists for other colors -->
-        <div class="color-box-container">
-            <svg class="color-box">
-                <rect width="100%" height="100%" class="grey"  />
-            </svg>
-            <div class="product-list">Grey
-                <ul>
-                    <li><a href="#">none</a></li>
-                </ul>
-            </div>
-        </div>
-  
-        <!-- Repeat the color boxes and product lists for other colors -->
-        <div class="color-box-container">
-            <svg class="color-box">
-                <rect width="100%" height="100%" fill="#555756"  />
-            </svg>
-            <div class="product-list">Dark Grey
-                <ul>
-                    <li><span class="circle" style="background-color: #797B7A;"></span><a href="https://www.3djake.fr/formfutura/easyfil-epla-grey-aluminium">Grey Aluminium</a></li>
-                </ul>
-            </div>
-        </div>
-  
-        <!-- Repeat the color boxes and product lists for other colors -->
-        <div class="color-box-container">
-            <svg class="color-box">
-                <rect width="100%" height="100%" fill="black"  />
-            </svg>
-            <div class="product-list">Black
-                <ul>
-                  <li><a href="https://www.amazon.fr/gp/product/B074PD8GYY/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1">noir brillant (dagoma chromatic)</a></li>
-                  <li><a href="https://www.3djake.fr/polymaker/polyterra-pla-charcoal-black">Charcoal Black (PolyTerra)</a></li>
-                </ul>
-            </div>
-        </div>
-  
-    </div>   
+  <!-- Repeat the color boxes and product lists for other colors -->
+  <div class="color-box-container">
+    <svg class="color-box">
+      <rect width="100%" height="100%" fill="red"  />
+    </svg>
+    <div class="product-list">Red
+      <ul>
+        <li><a href="https://www.amazon.fr/gp/product/B074PDDPJ7/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1">rouge pompier (dagoma chromatic)</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Repeat the color boxes and product lists for other colors -->
+  <div class="color-box-container">
+    <svg class="color-box">
+      <rect width="100%" height="100%" class="light-grey"  />
+    </svg>
+    <div class="product-list">Light Grey 
+      <ul>
+        <li><span class="circle" style="background-color: #D2D7D3;"></span><a href="https://www.3djake.fr/formfutura/easyfil-epla-light-grey">Light Grey (EasyFil)</a></li>
+        <li><span class="circle" style="background-color: #D2D2C8;"></span><a href="https://yduf.github.io/mac-classic/">Mac Classic</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Repeat the color boxes and product lists for other colors -->
+  <div class="color-box-container">
+    <svg class="color-box">
+      <rect width="100%" height="100%" class="grey"  />
+    </svg>
+    <div class="product-list">Grey
+      <ul>
+        <li><a href="#">none</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Repeat the color boxes and product lists for other colors -->
+  <div class="color-box-container">
+    <svg class="color-box">
+      <rect width="100%" height="100%" fill="#555756"  />
+    </svg>
+    <div class="product-list">Dark Grey
+      <ul>
+        <li><span class="circle" style="background-color: #797B7A;"></span><a href="https://www.3djake.fr/formfutura/easyfil-epla-grey-aluminium">Grey Aluminium</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Repeat the color boxes and product lists for other colors -->
+  <div class="color-box-container">
+    <svg class="color-box">
+      <rect width="100%" height="100%" fill="black"  />
+    </svg>
+    <div class="product-list">Black
+      <ul>
+        <li><a href="https://www.amazon.fr/gp/product/B074PD8GYY/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1">noir brillant (dagoma chromatic)</a></li>
+        <li><a href="https://www.3djake.fr/polymaker/polyterra-pla-charcoal-black">Charcoal Black (PolyTerra)</a></li>
+      </ul>
+    </div>
+  </div>
+
+</div>   
 {:/}
 
 ### Alt Palette
 
 {::nomarkdown}
-    <div class="palette">
+<div class="palette">
 
-        <!-- Repeat the color boxes and product lists for other colors -->
-        <div class="color-box-container">
-            <svg class="color-box">Pink
-                <rect width="100%" height="100%" fill="#FE69B2"  />
-            </svg>
-            <div class="product-list">
-                <ul>
-                    <li><a href="https://www.amazon.fr/dp/B017HAIE1M/ref=twister_B09HSJWH47?th=1"> Precious Pink   (ICE)</a></li>
-                </ul>
-            </div>
-        </div>
-  
-       	<!-- Repeat the color boxes and product lists for other colors -->
-        <div class="color-box-container">
-            <svg class="color-box">Green
-                <rect width="100%" height="100%" fill="#99D461"  />
-            </svg>
-            <div class="product-list">
-                <ul>
-                    <li><a href="https://www.amazon.fr/gp/product/B017HAI53E/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&th=1">Mellow Mint  (ICE)</a></li>
-                </ul>
-            </div>
-        </div>
-  
-       	<!-- Repeat the color boxes and product lists for other colors -->
-        <div class="color-box-container">
-            <svg class="color-box">Blue
-                <rect width="100%" height="100%" fill="#538DD9"  />
-            </svg>
-            <div class="product-list">
-                <ul>
-                    <li><a href="https://www.3djake.fr/formfutura/easyfil-epla-light-blue">Light Blue (EasyFil)</a></li>
-                </ul>
-            </div>
-        </div>
-  
-  
-    </div>   
+  <!-- Repeat the color boxes and product lists for other colors -->
+  <div class="color-box-container">
+    <svg class="color-box">Pink
+      <rect width="100%" height="100%" fill="#FE69B2"  />
+    </svg>
+    <div class="product-list">
+      <ul>
+        <li><a href="https://www.amazon.fr/dp/B017HAIE1M/ref=twister_B09HSJWH47?th=1"> Precious Pink   (ICE)</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Repeat the color boxes and product lists for other colors -->
+  <div class="color-box-container">
+    <svg class="color-box">Green
+      <rect width="100%" height="100%" fill="#99D461"  />
+    </svg>
+    <div class="product-list">
+      <ul>
+        <li><a href="https://www.amazon.fr/gp/product/B017HAI53E/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&th=1">Mellow Mint  (ICE)</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Repeat the color boxes and product lists for other colors -->
+  <div class="color-box-container">
+    <svg class="color-box">Blue
+      <rect width="100%" height="100%" fill="#538DD9"  />
+    </svg>
+    <div class="product-list">
+      <ul>
+        <li><a href="https://www.3djake.fr/formfutura/easyfil-epla-light-blue">Light Blue (EasyFil)</a></li>
+      </ul>
+    </div>
+  </div>
+
+
+</div>   
 {:/}
 
 ### Misc Palette
 
 {::nomarkdown}
-    <div class="palette">
+<div class="palette">
 
-        <!-- Repeat the color boxes and product lists for other colors -->
-        <div class="color-box-container">
-            <svg class="color-box">Gold
-                <rect width="100%" height="100%" fill="#E4C392"  />
-            </svg>
-            <div class="product-list">
-                <ul>
-                    <li><a href="https://www.amazon.fr/gp/product/B017HAI4VM/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1">Groovy Gold (ICE)</a>  - easy to print, nice <a href="https://www.reddit.com/r/3Dprinting/comments/anh3qg/guan_bas_relief_printed_vertically_012_layer/">bronze/brass finish</a> - 205°C/55°C - clean glass - work perfectly</li>
-                </ul>
-            </div>
-        </div>
-  
-    </div>   
+  <!-- Repeat the color boxes and product lists for other colors -->
+  <div class="color-box-container">
+    <svg class="color-box">Gold
+      <rect width="100%" height="100%" fill="#E4C392"  />
+    </svg>
+    <div class="product-list">
+      <ul>
+        <li><a href="https://www.amazon.fr/gp/product/B017HAI4VM/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1">Groovy Gold (ICE)</a>  - easy to print, nice <a href="https://www.reddit.com/r/3Dprinting/comments/anh3qg/guan_bas_relief_printed_vertically_012_layer/">bronze/brass finish</a> - 205°C/55°C - clean glass - work perfectly</li>
+      </ul>
+    </div>
+  </div>
+
+</div>   
 {:/}
 
 ## [Provider/Vendor](https://forum.prusaprinters.org/forum/original-prusa-i3-mk3-discussion-generale-annonces-et-nouveautes/filaments-avis-et-conseils/)
