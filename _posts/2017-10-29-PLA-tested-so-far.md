@@ -102,6 +102,18 @@ tags: 3dprint pla
                 </ul>
             </div>
         </div>
+  
+        <!-- Repeat the color boxes and product lists for other colors -->
+        <div class="color-box-container">
+            <svg class="color-box">Red
+                <rect width="100%" height="100%" fill="red"  />
+            </svg>
+            <div class="product-list">
+                <ul>
+                    <li><a href="https://www.amazon.fr/gp/product/B074PDDPJ7/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1">rouge pompier (dagoma chromatic)</a></li>
+                </ul>
+            </div>
+        </div>
 
         <!-- Repeat the color boxes and product lists for other colors -->
         <div class="color-box-container">
