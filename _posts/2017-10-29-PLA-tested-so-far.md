@@ -186,8 +186,6 @@ tags: 3dprint pla
             </div>
         </div>
   
-
-  
     </div>   
 {:/}
 
