@@ -23,7 +23,7 @@ tags: 3dprint pla
             transition: transform 0.2s;
             border-radius: 10px;
             stroke: black; /* Stroke color */
-            stroke-width: 2; /* Stroke width */
+            stroke-width: 4; /* Stroke width */
             rx: 10; /* Default rx value for rounded corners */
             ry: 10; /* Default ry value for rounded corners */
         }
