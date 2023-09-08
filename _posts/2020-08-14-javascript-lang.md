@@ -239,4 +239,4 @@ Parameters(a,b) vs Arguments(4,5)
 ## see also
 - [babeljs](https://babeljs.io) - translate new version of javascript syntax to legacy version
 - [codepen.io](https://codepen.io)
-- [[Mean-Max]({% post_url 2019-01-02-js-fiddler %})]({% post_url 2017-11-27-CG-meanmax %})
+- [JS Fiddler]({% post_url 2019-01-02-js-fiddler %})
