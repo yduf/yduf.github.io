@@ -186,6 +186,19 @@ tags: 3dprint pla
             </div>
         </div>
   
+       	<!-- Repeat the color boxes and product lists for other colors -->
+        <div class="color-box-container">
+            <svg class="color-box">Blue
+                <rect width="100%" height="100%" fill="#538DD9"  />
+            </svg>
+            <div class="product-list">
+                <ul>
+                    <li><a href="https://www.3djake.fr/formfutura/easyfil-epla-light-blue">Light Blue (EasyFil)</a></li>
+                </ul>
+            </div>
+        </div>
+  
+  
     </div>   
 {:/}
 
