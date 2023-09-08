@@ -67,6 +67,7 @@ tags: 3dprint pla
             </div>
         </div>
 
+       	<!-- Repeat the color boxes and product lists for other colors -->
         <div class="color-box-container">
             <svg class="color-box" width="50" height="50">
                 <rect width="50" height="50" rx="10" ry="10" fill="green" />
