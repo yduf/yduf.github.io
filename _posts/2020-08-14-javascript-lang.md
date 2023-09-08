@@ -1,7 +1,7 @@
 ---
 published: true
 title: Javascript
-tags: web js lang online
+tags: web js lang online playground
 ---
 > JavaScript is a scripting language that allows to dynamically change the DOM and style of a page, either by querying more information from the backend as needed or by performing computations and changes based on user input directly in the web browser. - [A Complete Overview of Front-End Development in 2021](https://codecapsule.com/2021/01/26/complete-overview-frontend-development-2021/)
 
@@ -239,3 +239,4 @@ Parameters(a,b) vs Arguments(4,5)
 ## see also
 - [babeljs](https://babeljs.io) - translate new version of javascript syntax to legacy version
 - [codepen.io](https://codepen.io)
+- [[Mean-Max]({% post_url 2019-01-02-js-fiddler %})]({% post_url 2017-11-27-CG-meanmax %})
