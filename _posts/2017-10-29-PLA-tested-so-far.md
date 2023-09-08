@@ -7,6 +7,8 @@ tags: 3dprint pla
 
 - [Faites votre propre Dual PLA](https://www.youtube.com/watch?v=Bjo_4RYRaOo)
 
+<!-- see base fiddler for this page: https://jsfiddle.net/y_duf/oqh3p8tx/ -->
+
 {::nomarkdown}
     <style>
         .palette {
@@ -301,4 +303,4 @@ like [USSA design](https://www.youtube.com/@ussadesign/videos)
 ## [TPU?](https://www.youtube.com/watch?v=rPgr2VkYESw)
 
 ### Dev mode
-- [Fiddle for this page](https://jsfiddle.net/y_duf/oqh3p8tx/)
+- [Fiddle for this page](https://jsfiddle.net/y_duf/oqh3p8tx/) mostly written by [ChatGPT](https://chat.openai.com/c/fccdf27c-22b3-4c39-a392-a9c2350fe7cd)
