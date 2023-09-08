@@ -158,7 +158,8 @@ tags: 3dprint pla
             </svg>
             <div class="product-list">
                 <ul>
-                    <li><a href="https://www.amazon.fr/gp/product/B074PD8GYY/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1">noir brillant (dagoma chromatic)</a></li>
+                  <li><a href="https://www.amazon.fr/gp/product/B074PD8GYY/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1">noir brillant (dagoma chromatic)</a></li>
+                  <li><a href="https://www.3djake.fr/polymaker/polyterra-pla-charcoal-black">Charcoal Black (PolyTerra)</a></li>
                 </ul>
             </div>
         </div>
