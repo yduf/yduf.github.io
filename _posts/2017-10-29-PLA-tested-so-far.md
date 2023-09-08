@@ -177,7 +177,7 @@ tags: 3dprint pla
        	<!-- Repeat the color boxes and product lists for other colors -->
         <div class="color-box-container">
             <svg class="color-box">Green
-                <rect width="100%" height="100%" fill="green"  />
+                <rect width="100%" height="100%" fill="#99D461"  />
             </svg>
             <div class="product-list">
                 <ul>
