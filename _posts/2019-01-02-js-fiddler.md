@@ -5,4 +5,7 @@ tags: js web online d3.js playground
 ---
 > Web dev online -  [Home](https://jsfiddle.net/gerardofurtado/o67wycnt/)
 
-[mine](http://jsfiddle.net/user/dashboard/fiddles/)
+- [mine](http://jsfiddle.net/user/dashboard/fiddles/)
+
+see also
+- [Comparing Code Playgrounds](https://codysaylor.com/notes/comparing-codepen-jsfiddle-cssdeck-liveweave-jsbin-dabblet/)
