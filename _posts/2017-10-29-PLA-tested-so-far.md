@@ -218,6 +218,18 @@ tags: 3dprint pla
 
 {::nomarkdown}
     <div class="palette">
+
+        <!-- Repeat the color boxes and product lists for other colors -->
+        <div class="color-box-container">
+            <svg class="color-box">Gold
+                <rect width="100%" height="100%" fill="#538DD9"  />
+            </svg>
+            <div class="product-list">
+                <ul>
+                    <li><a href="https://www.amazon.fr/gp/product/B017HAI4VM/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1">Groovy Gold (ICE)</a></li>  - easy to print, nice [bronze/brass finish](https://www.reddit.com/r/3Dprinting/comments/anh3qg/guan_bas_relief_printed_vertically_012_layer/) - 205°C/55°C - clean glass - work perfectly
+                </ul>
+            </div>
+        </div>
   
     </div>   
 {:/}
