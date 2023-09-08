@@ -5,6 +5,8 @@ tags: 3dprint pla
 ---
 > PLA tested so far -- 1.75mm
 
+- [Faites votre propre Dual PLA](https://www.youtube.com/watch?v=Bjo_4RYRaOo)
+
 {::nomarkdown}
     <style>
         .palette {
@@ -167,8 +169,30 @@ tags: 3dprint pla
     </div>   
 {:/}
 
+### Alt Palette
 
-- [Faites votre propre Dual PLA](https://www.youtube.com/watch?v=Bjo_4RYRaOo)
+{::nomarkdown}
+    <div class="palette">
+
+       	<!-- Repeat the color boxes and product lists for other colors -->
+        <div class="color-box-container">
+            <svg class="color-box">Green
+                <rect width="100%" height="100%" fill="green"  />
+            </svg>
+            <div class="product-list">
+                <ul>
+                    <li><a href="https://www.amazon.fr/gp/product/B017HAI53E/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&th=1">Mellow Mint  (ICE)</a></li>
+                </ul>
+            </div>
+        </div>
+  
+
+  
+    </div>   
+{:/}
+
+### Misc Palette
+
 
 ## [Provider/Vendor](https://forum.prusaprinters.org/forum/original-prusa-i3-mk3-discussion-generale-annonces-et-nouveautes/filaments-avis-et-conseils/)
 - [3djake.fr](https://www.3djake.fr) - TBD
