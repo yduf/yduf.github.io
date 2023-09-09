@@ -5,6 +5,9 @@ tags: c++ string
 ---
 > Can a std::string contain embedded nulls? - [yes](https://stackoverflow.com/questions/2845769/can-a-stdstring-contain-embedded-nulls)
 
+see also
+- [	Just how constexpr is C++20’s std:string?](https://news.ycombinator.com/item?id=37431425)
+
 {% highlight cpp %}
 std::string("\0world", 6);
 s.append("\0world", 6);
