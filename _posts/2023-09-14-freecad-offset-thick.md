@@ -7,4 +7,4 @@ tags: freecad
 
 see also
 - [2D offset (Part)](https://youtu.be/-enJR-OrMJM?feature=shared&t=334)
-- [thickness tool]()
+- [thickness tool](https://www.youtube.com/watch?v=35ZO8vQE-3I)
