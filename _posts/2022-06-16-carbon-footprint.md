@@ -7,8 +7,9 @@ tags: co2 climate-war
 
 [![caption](https://imgur.com/UN4hDjZ.png)](https://datagir.ademe.fr/blog/budget-empreinte-carbone-c-est-quoi/)
 
-- [Your personal climate report](https://nosgestesclimat.fr/fin?diapo=categories&details=t4.38s1.55a1.47l0.69d0.40)
-
+- [Your personal climate report](https://nosgestesclimat.fr/)
+	- [2023 - 8.5T](https://nosgestesclimat.fr/fin?diapo=categories&details=t4.38s1.55a1.47l0.69d0.40)
+	
 - [ Carbon results for yduf.github.io ](https://www.websitecarbon.com/website/yduf-github-io/) - cleaner than
 94 % of web pages tested - Only
 0.07 g of CO2 is produced every time someone visits this web page.  
