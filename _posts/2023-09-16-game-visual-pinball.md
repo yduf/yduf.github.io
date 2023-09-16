@@ -3,8 +3,12 @@ published: true
 title: null
 tags: pinball table games
 ---
-> This project was started by Randy Davis, open sourced in 2010 and continued by the Visual Pinball development team. - [github](https://github.com/vpinball/vpinball) / [linux](https://github.com/vpinball/vpinball/tree/standalone/standalone)
+> This project was started by Randy Davis, open sourced in 2010 and continued by the Visual Pinball development team. - [github](https://github.com/vpinball/vpinball) 
 
+### [linux](https://github.com/vpinball/vpinball/tree/standalone/standalone)
+- [Visual Pinball X on Linux](https://davidhouchin.com/posts/vpx-linux/)
+
+### Tables
 - [Arabian Night](https://youtu.be/u1y8MQQZZEE?feature=shared&t=2952)
 - [Medieval Madness](https://youtu.be/u1y8MQQZZEE?feature=shared&t=3107)
 - [Cactus canyon](https://youtu.be/u1y8MQQZZEE?feature=shared&t=3270)
