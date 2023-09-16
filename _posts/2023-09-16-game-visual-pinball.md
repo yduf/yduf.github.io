@@ -11,3 +11,5 @@ tags: pinball table games
 - [AC/DC](https://youtu.be/u1y8MQQZZEE?feature=shared&t=3993)
 - [Metallica](https://youtu.be/u1y8MQQZZEE?feature=shared&t=4052)
 - [Walking dead](https://youtu.be/u1y8MQQZZEE?feature=shared&t=4144)
+- [Ghost Buster](https://youtu.be/u1y8MQQZZEE?feature=shared&t=4206)
+- [Spider Man VE](https://youtu.be/u1y8MQQZZEE?feature=shared&t=4237)
