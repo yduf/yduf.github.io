@@ -3,7 +3,7 @@ published: true
 title: null
 tags: pinball table games
 ---
-> This project was started by Randy Davis, open sourced in 2010 and continued by the Visual Pinball development team. - [github](https://github.com/vpinball/vpinball)
+> This project was started by Randy Davis, open sourced in 2010 and continued by the Visual Pinball development team. - [github](https://github.com/vpinball/vpinball) / [linux](https://github.com/vpinball/vpinball/tree/standalone/standalone)
 
 - [Arabian Night](https://youtu.be/u1y8MQQZZEE?feature=shared&t=2952)
 - [Medieval Madness](https://youtu.be/u1y8MQQZZEE?feature=shared&t=3107)
