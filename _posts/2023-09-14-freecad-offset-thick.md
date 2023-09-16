@@ -5,6 +5,8 @@ tags: freecad
 ---
 > FreeCAD: How to create thick walled and hollowing out objects and how to prevent offset failure - [youtube](https://www.youtube.com/watch?v=-enJR-OrMJM)
 
+- [slicing objects and faces](https://www.youtube.com/watch?v=xXWavVw79Ag) - for a given tolerance
+
 see also
 - [Thickness modifier]((https://www.youtube.com/watch?v=fonfqS4s7dE))
 - [2D offset (Part)](https://youtu.be/-enJR-OrMJM?feature=shared&t=334)
