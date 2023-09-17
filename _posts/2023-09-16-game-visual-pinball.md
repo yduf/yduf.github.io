@@ -23,6 +23,7 @@ tags: pinball table games
 - [Spider Man VE](https://youtu.be/u1y8MQQZZEE?feature=shared&t=4237)
 - [Vortex](https://youtu.be/u1y8MQQZZEE?feature=shared&t=378)
 - [Sorcerer](https://youtu.be/u1y8MQQZZEE?feature=shared&t=378)
+- [Houdini](https://youtu.be/O-jZJ9Cq-74?feature=shared&t=780)
 
 see also
 - [Awesome Visual Pinball Recreations 2023 for your Virtual Pinball](https://www.youtube.com/watch?v=mM1GMs3ceLs)
