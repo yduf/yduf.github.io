@@ -11,7 +11,7 @@ tags: co2 climate-war
 	- [2019 - 11.5t](https://www.hellocarbo.com/blog/calculer/bilan-carbone-personnel/)
 	- [2023 -  8.5t](https://nosgestesclimat.fr/fin?diapo=categories&details=t4.38s1.55a1.47l0.69d0.40)
     - ...
-    - _[2050 -  2t](https://www.hellocarbo.com/blog/calculer/bilan-carbone-personnel/)_
+    - _[2050 -  2t](https://www.hellocarbo.com/blog/calculer/bilan-carbone-personnel/)_ - objectifs...
 	
 - [ Carbon results for yduf.github.io ](https://www.websitecarbon.com/website/yduf-github-io/) - cleaner than
 94 % of web pages tested - Only
