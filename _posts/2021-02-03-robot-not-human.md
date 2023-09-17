@@ -1,7 +1,7 @@
 ---
 published: true
 title: I am a robot
-tags: fun quote blog robot comic test
+tags: fun quote blog robot comic test AI
 ---
 > There are no more Humans - [Prove you are not a Human](https://www.smbc-comics.com/comic/captcha) / [Robots (Flight of the Conchords
 )](https://www.youtube.com/watch?v=NI9nopaieEc)
