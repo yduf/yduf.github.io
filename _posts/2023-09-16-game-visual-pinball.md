@@ -9,6 +9,9 @@ tags: pincab table games
 ### [Native linux](https://github.com/vpinball/vpinball/tree/standalone/standalone)
 - [Visual Pinball X on Linux](https://davidhouchin.com/posts/vpx-linux/)
 
+If you want to play a PinMAME-enabled game, then you need to install PinMAME as well. It's automatically installed if you use the installer. If you just build VPX from source, you probably don't have PinMAME at all. - [ External Tables & Roms with Visual Pinball built from source #45 ](https://github.com/vpinball/vpinball/issues/45#issuecomment-1066202713)
+
+
 ### Tables
 - [Arabian Night](https://youtu.be/u1y8MQQZZEE?feature=shared&t=2952) / [VPUniverse (4k)](https://vpuniverse.com/files/file/12652-tales-of-the-arabian-nights-4k-williams-1996/)
 - [Medieval Madness](https://youtu.be/u1y8MQQZZEE?feature=shared&t=3107)
