@@ -11,6 +11,7 @@ tags: pincab table games
 
 If you want to play a PinMAME-enabled game, then you need to install [PinMAME](https://github.com/vpinball/pinmame) as well. It's automatically installed if you use the installer. If you just build VPX from source, you probably don't have PinMAME at all. - [ External Tables & Roms with Visual Pinball built from source #45 ](https://github.com/vpinball/vpinball/issues/45#issuecomment-1066202713)
 
+### [Lutris](https://lutris.net/games/visual-pinball-x/)
 
 ### Tables
 - [Arabian Night](https://youtu.be/u1y8MQQZZEE?feature=shared&t=2952) / [VPUniverse (4k)](https://vpuniverse.com/files/file/12652-tales-of-the-arabian-nights-4k-williams-1996/)
