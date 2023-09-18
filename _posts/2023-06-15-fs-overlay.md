@@ -1,7 +1,7 @@
 ---
 published: true
 title: Overlay Filesystem
-tags: file-system content
+tags: filesystem content
 ---
 > Content-Addressable Overlay Filesystem for Linux - [ComposeFS](https://github.com/containers/composefs) / [HN](https://news.ycombinator.com/item?id=34524651)
 
