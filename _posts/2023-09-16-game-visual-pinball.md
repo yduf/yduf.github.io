@@ -9,7 +9,7 @@ tags: pincab table games
 ### [Native linux](https://github.com/vpinball/vpinball/tree/standalone/standalone)
 - [Visual Pinball X on Linux](https://davidhouchin.com/posts/vpx-linux/)
 
-If you want to play a PinMAME-enabled game, then you need to install PinMAME as well. It's automatically installed if you use the installer. If you just build VPX from source, you probably don't have PinMAME at all. - [ External Tables & Roms with Visual Pinball built from source #45 ](https://github.com/vpinball/vpinball/issues/45#issuecomment-1066202713)
+If you want to play a PinMAME-enabled game, then you need to install [PinMAME](https://github.com/vpinball/pinmame) as well. It's automatically installed if you use the installer. If you just build VPX from source, you probably don't have PinMAME at all. - [ External Tables & Roms with Visual Pinball built from source #45 ](https://github.com/vpinball/vpinball/issues/45#issuecomment-1066202713)
 
 
 ### Tables
