@@ -1,7 +1,7 @@
 ---
 published: true
 title: Ruby Packer
-tags: ruby zip file-system
+tags: ruby zip filesystem
 ---
 > Packing your Ruby application into a single executable - [github](https://github.com/pmq20/ruby-packer) / [youtube](https://www.youtube.com/watch?v=1mme7HiLqzA)
 
