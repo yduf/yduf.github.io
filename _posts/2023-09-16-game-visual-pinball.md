@@ -14,7 +14,9 @@ If you want to play a PinMAME-enabled game, then you need to install [PinMAME](h
 ### [Lutris](https://lutris.net/games/visual-pinball-x/)
 
 ### Tables
-- [Arabian Night](https://youtu.be/u1y8MQQZZEE?feature=shared&t=2952) / [VPUniverse (4k)](https://vpuniverse.com/files/file/12652-tales-of-the-arabian-nights-4k-williams-1996/)
+- [Arabian Night](https://youtu.be/u1y8MQQZZEE?feature=shared&t=2952)
+	- [VPUniverse (4k)](https://vpuniverse.com/files/file/12652-tales-of-the-arabian-nights-4k-williams-1996/)
+	- [Tales Of The Arabian Nights pin2dmd colorization v 2.0  ](https://vpuniverse.com/files/file/5532-tales-of-the-arabian-nights/)
 - [Medieval Madness](https://youtu.be/u1y8MQQZZEE?feature=shared&t=3107)
 - [Cactus canyon](https://youtu.be/u1y8MQQZZEE?feature=shared&t=3270)
 - [Monster Bash](https://youtu.be/u1y8MQQZZEE?feature=shared&t=3309)
