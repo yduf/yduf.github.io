@@ -10,7 +10,7 @@ tags: pincab table games
 - [Visual Pinball X on Linux](https://davidhouchin.com/posts/vpx-linux/)
 
 ### Tables
-- [Arabian Night](https://youtu.be/u1y8MQQZZEE?feature=shared&t=2952) / [vpforums](https://www.vpforums.org/index.php?app=downloads&showfile=14341) / [VPUniverse](https://vpuniverse.com/files/file/12652-tales-of-the-arabian-nights-4k-williams-1996/)
+- [Arabian Night](https://youtu.be/u1y8MQQZZEE?feature=shared&t=2952) / [vpforums](https://www.vpforums.org/index.php?app=downloads&showfile=14341) / [VPUniverse (4k)](https://vpuniverse.com/files/file/12652-tales-of-the-arabian-nights-4k-williams-1996/)
 - [Medieval Madness](https://youtu.be/u1y8MQQZZEE?feature=shared&t=3107)
 - [Cactus canyon](https://youtu.be/u1y8MQQZZEE?feature=shared&t=3270)
 - [Monster Bash](https://youtu.be/u1y8MQQZZEE?feature=shared&t=3309)
