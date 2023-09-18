@@ -1,7 +1,7 @@
 ---
 published: true
 title: Projet pincab
-tags: pincab project
+tags: pincab project shop
 ---
 
 ### [Bricolage](https://www.pincabpassion.net/f85p240-bricolage)
@@ -10,3 +10,4 @@ tags: pincab project
 
 ### Shop
 - [pinball.center](https://www.pinball.center/en/)
+- [artcab.fr](https://www.artcab.fr/)
