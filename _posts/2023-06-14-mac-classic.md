@@ -1,7 +1,7 @@
 ---
 published: true
 title: Classic Macintosh
-tags: 3dprint retro
+tags: 3dprint retro project
 ---
 > Tiny Mac III (Pi 4) - [instructable](https://www.instructables.com/Tiny-Mac-II-Pi-Zero-2-and-Tiny-Mac-III-Pi-4-With-A/) / [HN](https://news.ycombinator.com/item?id=36289682)
 
