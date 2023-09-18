@@ -19,7 +19,7 @@ title: Tags
 
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-  <h2 id="{{ this_word | slugify }}-ref">{{ this_word | replace: '-', ' ' }}</h2>
+  <h2 id="{{ this_word | slugify }}-ref">{{ this_word }}</h2>
   <ul class="posts">
     {% assign sortedPosts = site.tags[this_word] | sort: 'title' %}
     {% for post in sortedPosts %}{% if post.title != null %}
