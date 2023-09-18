@@ -59,3 +59,13 @@ tags: pinball debug computer arcade-hardware
 
 ### Export US
 - [arcadepinballs](https://arcadepinballs.com/)
+
+(obsolete ?)
+## [Collection de flipper](http://www.collectionneursdeflippers.com/flippers-a-vendre)
+## [Flipjuke](https://www.flipjuke.fr/viewforum.php?f=5&vtp=1&vta=0&start=110)
+Annonce Flipper.
+- [Star trek (BALLY) 1978](https://www.youtube.com/watch?v=KkNvl7lfLCY) révisé - 1100€.
+- [Génie Gottlieb 1979](https://www.youtube.com/watch?v=BzRso1D0DZ8) 
+	- [1500](https://www.site-annonce.fr/r/Details/flipper-gottlieb-genie/flipper%20gottlieb%20genie_leboncoin_1631897116) 
+    - 2590€.
+- [Whirlwind](https://www.youtube.com/watch?v=sVwybTYZ3D0)  - 2950€.
