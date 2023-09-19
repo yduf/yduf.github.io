@@ -5,6 +5,10 @@ tags: rubik
 ---
 > [Ruwix](https://ruwix.com/the-rubiks-cube/algorithm/) / [Quelle méthode pour votre niveau ?](https://www.youtube.com/watch?v=keuarQZmDAA)
 
+see also
+- [My system for solving Rubik's cube](http://www.ws.binghamton.edu/fridrich/system.html) / [HN](https://news.ycombinator.com/item?id=37416999)
+- [Can a Rubik's Cube be brute-forced?](https://news.ycombinator.com/item?id=36645846)
+
 ## [Methode debutante](https://www.youtube.com/watch?v=E29pksDLVRQ)
 - [Le belge simplifié !](https://www.youtube.com/watch?v=HSDXq6Ed4Hw)
 - [face jaune](https://www.youtube.com/watch?v=BBCGVhUORNQ)
