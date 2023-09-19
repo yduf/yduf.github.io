@@ -3,10 +3,13 @@ published: true
 title: Visual Pinball (VPinballX)
 tags: pincab table games
 ---
-> This project was started by Randy Davis, open sourced in 2010 and continued by the Visual Pinball development team. - [github](https://github.com/vpinball/vpinball) 
+> This project was started by Randy Davis, open sourced in 2010 and continued by the Visual Pinball development team. - [github](https://github.com/vpinball/vpinball) / [wikipedia](https://en.wikipedia.org/wiki/Visual_Pinball)
 
 
 ### [Native linux](https://github.com/vpinball/vpinball/tree/standalone/standalone)
+
+Standalone, is the player ported to other system. But it does not include the editor.
+
 - [Visual Pinball X on Linux](https://davidhouchin.com/posts/vpx-linux/)
 
 If you want to play a PinMAME-enabled game, then you need to install [PinMAME](https://github.com/vpinball/pinmame) as well. It's automatically installed if you use the installer. If you just build VPX from source, you probably don't have PinMAME at all. - [ External Tables & Roms with Visual Pinball built from source #45 ](https://github.com/vpinball/vpinball/issues/45#issuecomment-1066202713)
