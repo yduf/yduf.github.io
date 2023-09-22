@@ -1,7 +1,7 @@
 ---
 published: true
 title: ChatGPT
-tags: AI chatgpt test
+tags: AI chatgpt test c++
 ---
 > These People fail to realize that an AI outscoring a human on a test does not mean it can actually do the thing the test measures. - [GPT-4 Is Not Getting Worse](https://coagulopath.com/gpt-4-is-not-getting-worse/) / [HN](https://news.ycombinator.com/item?id=37532522)
 
@@ -16,5 +16,6 @@ see also
 		- taste: chatGPT has some from existing code
 		- creativy: chatGPT has some by pattern combination, but not there yet.
 	- success stories of using chatGPT : use your taste&creativity + feedback from chatGPT to complete your lack of knowledge of particular techhnology.
-        
+		- [UnitTest](https://youtu.be/trGJsOcA4hY?feature=shared&t=2916) - test framework shown in the presentation - chatGPT has no planning, no leaping to unknown, not got to what was not done.
+
 [![caption](https://www.monkeyuser.com/assets/images/2020/191-reverse-turing-test.png)](https://www.monkeyuser.com/2020/reverse-turing-test/)
