@@ -10,7 +10,7 @@ tags: co2 climate-war
 	- une augmentation des couts
     - une polyvalence des chaines de fabrication
     - avec l'augmentation du cout de l'energie on fera le chemin inverse de l'industrie (relocalisation / augmentation des prix / diminution de la specialisation).
-
-- 2008 est le pic du petrole conventionnel (hors gaz de chist)
+		- Part des echanges mondiaux dans le PIB mondial: 25% en 1970 / 60% en  2008 / 55% en 2023
+		- 2008 est le pic du petrole conventionnel (hors gaz de chist)
 
 [![caption](https://www.connaissancedesenergies.org/sites/default/files/inline-images/Petrole-Production-des-16-principaux-pays-fournisseurs-UE_0.png)](https://www.connaissancedesenergies.org/petrole-shift-project-precise-les-risques-dapprovisionnement-de-lue-220218)
