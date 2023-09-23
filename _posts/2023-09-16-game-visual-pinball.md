@@ -5,7 +5,9 @@ tags: pincab table games
 ---
 > This project was started by Randy Davis, open sourced in 2010 and continued by the Visual Pinball development team. - [github](https://github.com/vpinball/vpinball) / [wikipedia](https://en.wikipedia.org/wiki/Visual_Pinball)
 
+
 ### see also
+- [Visual Pinball X with BAM head trackig](https://www.youtube.com/watch?v=g-EpTp_3wKo)
 - [VPE Creator's guide](https://docs.visualpinball.org/creators-guide/introduction/overview.html) - a derivative of VPX using Unity
 
 ### [Native linux](https://github.com/vpinball/vpinball/tree/standalone/standalone)
