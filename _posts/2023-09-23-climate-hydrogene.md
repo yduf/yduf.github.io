@@ -1,7 +1,7 @@
 ---
 published: true
 title: La place de l'hydrogene dans la decarbonation
-tags: co2 climate-war
+tags: co2 h2 climate-war
 ---
 > Elle ne pourra pas etre celle de remplacer le petrole pour les vehicules - [Hydrogène (Jancovici)](https://www.youtube.com/watch?v=G-fVaYuSkrY)
 
