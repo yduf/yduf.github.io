@@ -27,7 +27,6 @@ const char* strstr(const char* haystack, const char* needle) {
 Most other solutions inevitably do more work (save for advanced algorithms, nonportable code)
 
 
-
 see also
 - [Is strstr() Faster Than Other String Matching Algorithms?](https://saturncloud.io/blog/is-strstr-faster-than-other-string-matching-algorithms/) - assume that strstr doesn't do bruteforce but use Boyer-Moore algorithm (BM) or the Knuth-Morris-Pratt (KMP) algorithm
 - [strstr faster than algorithms?](https://stackoverflow.com/questions/7586990/strstr-faster-than-algorithms)
