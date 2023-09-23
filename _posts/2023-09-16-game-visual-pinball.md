@@ -8,6 +8,7 @@ tags: pincab table games
 
 ### see also
 - [Visual Pinball X with BAM head tracking](https://www.youtube.com/watch?v=g-EpTp_3wKo)
+	- [ 3D Virtual Pinball with Kinect 2 head tracking+Future Pinball/Bam Test ](https://www.youtube.com/watch?v=64e7TQ5uj8g)
 - [VPE Creator's guide](https://docs.visualpinball.org/creators-guide/introduction/overview.html) - a derivative of VPX using Unity
 
 ### [Native linux](https://github.com/vpinball/vpinball/tree/standalone/standalone)
