@@ -8,6 +8,8 @@ tags: c++ fastware
 Nobody has implemented it in the past 30 years, because it's an intrinsic (and because they compare 4bytes at once), but the code below is the optimal version for the bruteforce method in c++. 
 only a very few people are able to come to that implementation (0% over 300 interviewed by Andrei, and including himself).
 
+Most other solutions inevitably do more work (save for advanced algorithms, nonportable code)
+
 {% highlight cpp %}
 const char* strstr(const char* haystack, const char* needle) {
 	for(;; ++haystack) {
@@ -24,7 +26,6 @@ const char* strstr(const char* haystack, const char* needle) {
 }
 {% endhighlight %}
 
-Most other solutions inevitably do more work (save for advanced algorithms, nonportable code)
 
 
 see also
