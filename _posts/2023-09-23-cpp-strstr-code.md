@@ -28,8 +28,8 @@ const char* strstr(const char* haystack, const char* needle) {
 
 
 
-see also
-- [Is strstr() Faster Than Other String Matching Algorithms?](https://saturncloud.io/blog/is-strstr-faster-than-other-string-matching-algorithms/) - compare their brute force implementation to strstr and find 20x difference performance, then assume that strstr doesn't do bruteforce and may use Boyer-Moore algorithm (BM) or the Knuth-Morris-Pratt (KMP) algorithm.
+### see also
+- [Is strstr() Faster Than Other String Matching Algorithms?](https://saturncloud.io/blog/is-strstr-faster-than-other-string-matching-algorithms/) - compare their brute force implementation to _strstr()_ and find 20x difference performance, then assume that strstr doesn't do bruteforce and may use Boyer-Moore algorithm (BM) or the Knuth-Morris-Pratt (KMP) algorithm.
 - [strstr faster than algorithms?](https://stackoverflow.com/questions/7586990/strstr-faster-than-algorithms)
 	-  KMP has good theoretical characteristics in terms of the number of comparisons but in practice it’s slower than the naive search since its operations are more complex. This is known and observed (google link in comment)  - [comment of answer](https://stackoverflow.com/a/7587069/51386)
 	- Horspool, KMP et al are optimal at minimizing the number of byte-comparisons. However, that's not the bottleneck on a modern processor. On an x86/64 processor, your string is being loaded into L1 cache in cache-line-width chunks. - [SO](https://stackoverflow.com/a/7857815/51386)
