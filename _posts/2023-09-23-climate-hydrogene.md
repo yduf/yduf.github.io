@@ -14,3 +14,9 @@ L'hydrogene sera necessaire
 - d'acier dans le haut fournaux (dans le cadre d'une transition bas carbone).
 
 La production ne sera pas suffisante pour adresser les autres besoins comme ceux envisagés pour le transport;
+
+### see also
+- [Voiture à hydrogène: l'impasse ?](https://www.youtube.com/watch?v=hNMRSUFuHPg&list=PLh9akXp2EH2DutmumXfDECXk3rJdsXS1t&index=5) - comparaison des contraintes que les voitures hydrogenes doivent resoudre et de leur bilan co2 par rapport aux voitures thermiques et electriques. Principalement
+	- le stockage et transport de l'hydrogene est compliqué.
+	- ceci oblige a construire des models lourds, qui ne sont pas économique en energie et coute chere a produire.
+	- la production d'hydrogene elle meme est problématique (cf la video d'en tete).
