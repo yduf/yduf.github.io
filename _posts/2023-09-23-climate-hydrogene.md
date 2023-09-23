@@ -3,7 +3,7 @@ published: true
 title: La place de l'hydrogene dans la decarbonation
 tags: co2 climate-war
 ---
-> Elle ne pourra pas etre celle de remplacer le petrole pour les vehicules - [Hydrogène](https://www.youtube.com/watch?v=G-fVaYuSkrY)
+> Elle ne pourra pas etre celle de remplacer le petrole pour les vehicules - [Hydrogène (Jancovici)](https://www.youtube.com/watch?v=G-fVaYuSkrY)
 
 Résumé:
 - la production d'hydrogene est soit generatrice de CO2 (rapport 1 a 10 ou 1 a 30 selon la methode)
