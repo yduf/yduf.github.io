@@ -22,11 +22,11 @@ const char* strstr(const char* haystack, const char* needle) {
     
     return nullPtr;
 }
+{% endhighlight %}
 
 Most other solutions inevitably do more work (save for advanced algorithms, nonportable code)
 
 
-{% endhighlight %}
 
 see also
 - [Is strstr() Faster Than Other String Matching Algorithms?](https://saturncloud.io/blog/is-strstr-faster-than-other-string-matching-algorithms/) - assume that strstr doesn't do bruteforce but use Boyer-Moore algorithm (BM) or the Knuth-Morris-Pratt (KMP) algorithm
