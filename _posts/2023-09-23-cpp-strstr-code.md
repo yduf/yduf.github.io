@@ -11,12 +11,12 @@ only a very few people are able to come to that implementation (0% over 300 inte
 {% highlight cpp %}
 const char* strstr(const char* haystack, const char* needle) {
 	for(;; ++haystack) {
-    	auto h = haystack;
-        for( auto n = needle; *h == *n; ++h, ++n) {
+		auto h = haystack;
+		for( auto n = needle; *h == *n; ++h, ++n) {
         	if( !*n) 
             	return haystack;	// no early retunn performance bug
 		}
-        if( !*n)		// testing !*haystack is correct but performance bug
+		if( !*n)		// testing !*haystack is correct but performance bug
         	break;		// using structured loop performance bug	
     }
     
