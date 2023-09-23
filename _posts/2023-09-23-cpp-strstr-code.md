@@ -5,8 +5,8 @@ tags: c++ fastware
 ---
 > There's is not 2 way to write this function - [Andrei (Code Europe 2023 Closing Keynote)](https://youtu.be/trGJsOcA4hY?feature=shared&t=1472)
 
-Nobody has implemented it in the past 30 years, because it's an intrinsic (and because they compare 4bytes at once), but the code below is the optimal versoin for the bruteforce method in c++. 
-only a few people are able to come to that implementation.
+Nobody has implemented it in the past 30 years, because it's an intrinsic (and because they compare 4bytes at once), but the code below is the optimal version for the bruteforce method in c++. 
+only a very few people are able to come to that implementation (0% over 300 interviewed by Andrei).
 
 {% highlight cpp %}
 const char* strstr(const char* haystack, const char* needle) {
