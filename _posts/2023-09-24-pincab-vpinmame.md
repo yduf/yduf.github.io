@@ -8,3 +8,5 @@ tags: pincab emulator
 For [Visual Pinball Standalone](https://github.com/vpinball/vpinball/blob/standalone/standalone/README.md) it is embeded via libpinmame.
 
 It's automatically installed if you use the installer. If you just build VPX from source (not standalone version), you probably don't have PinMAME at all. - [ External Tables & Roms with Visual Pinball built from source #45 ](https://github.com/vpinball/vpinball/issues/45#issuecomment-1066202713)
+
+[![caption](https://i.imgur.com/DRxjPjz.png)](https://vpuniverse.com/forums/topic/4928-dmdext-freezy-and-future-pinball-real-and-virtual-dmd-support/?tab=comments)
