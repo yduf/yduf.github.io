@@ -17,7 +17,7 @@ tags: pincab table games
 Standalone, is the player ported to other system. But it does not include the editor.
 There is still some editor available (if you press esc).
 
-If you want to play a PinMAME-enabled game, then you need to install [PinMAME](https://github.com/vpinball/pinmame) as well. It's automatically installed if you use the installer. If you just build VPX from source, you probably don't have PinMAME at all. - [ External Tables & Roms with Visual Pinball built from source #45 ](https://github.com/vpinball/vpinball/issues/45#issuecomment-1066202713)
+If you want to play a PinMAME-enabled game, then you need to install [PinMAME]({% post_url 2023-09-24-pincab-vpinmame %}) as well. 
 
 So to test it first start with a recreation or original that doesn't need roms.
 
