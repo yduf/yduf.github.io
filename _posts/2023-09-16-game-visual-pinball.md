@@ -5,7 +5,7 @@ tags: pincab table games
 ---
 > This project was started by Randy Davis, open sourced in 2010 and continued by the Visual Pinball development team. - [github](https://github.com/vpinball/vpinball) / [wikipedia](https://en.wikipedia.org/wiki/Visual_Pinball)
 
-[ ![caption](https://www.flylanddesigns.com/wp-content/uploads/Shop-Thumbnail-Pinball-845x321.jpg](https://www.flylanddesigns.com/)
+[![caption](https://www.flylanddesigns.com/wp-content/uploads/Shop-Thumbnail-Pinball-845x321.jpg)](https://www.flylanddesigns.com/)
 
 ### see also
 - [Visual Pinball X with BAM head tracking](https://www.youtube.com/watch?v=g-EpTp_3wKo)
