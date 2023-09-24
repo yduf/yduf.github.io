@@ -8,9 +8,11 @@ tags: pincab table games
 [![caption](https://www.flylanddesigns.com/wp-content/uploads/Shop-Thumbnail-Pinball-845x321.jpg)](https://www.flylanddesigns.com/)
 
 ### [doc](https://github.com/vpinball/vpinball/tree/master/docs)
+- [Visual Pinball Installation Guide ](https://www.vpforums.org/index.php?app=tutorials&article=1)
 - [Live Editor](https://github.com/vpinball/vpinball/blob/master/docs/LiveUI.md)
 - [View Setup](https://github.com/vpinball/vpinball/blob/master/docs/View%20Setup.md)	
 	- [Window projection](https://github.com/vpinball/vpinball/blob/master/docs/View%20Setup.md) - for cabinet emulation
+    
 
 ### see also
 - [Visual Pinball X with BAM head tracking](https://www.youtube.com/watch?v=g-EpTp_3wKo)
