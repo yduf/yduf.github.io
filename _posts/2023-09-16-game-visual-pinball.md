@@ -17,7 +17,7 @@ tags: pincab table games
 Standalone, is the player ported to other system. But it does not include the editor.
 There is still some editor available (if you press esc).
 
-If you want to play a PinMAME-enabled game, then you need to install [PinMAME]({% post_url 2023-09-24-pincab-vpinmame %}) as well. 
+If you want to play a PinMAME-enabled game, then you need to have the roms in the proper place, see  [PinMAME]({% post_url 2023-09-24-pincab-vpinmame %}). 
 
 So to test it first start with a recreation or original that doesn't need roms.
 
