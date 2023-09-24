@@ -7,20 +7,29 @@ tags: pincab table games
 
 [![caption](https://www.flylanddesigns.com/wp-content/uploads/Shop-Thumbnail-Pinball-845x321.jpg)](https://www.flylanddesigns.com/)
 
+### [doc](https://github.com/vpinball/vpinball/tree/master/docs)
+- [Live Editor](https://github.com/vpinball/vpinball/blob/master/docs/LiveUI.md)
+- [View Setup](https://github.com/vpinball/vpinball/blob/master/docs/View%20Setup.md)	
+	- [Window projection](https://github.com/vpinball/vpinball/blob/master/docs/View%20Setup.md) - for cabinet emulation
+
 ### see also
 - [Visual Pinball X with BAM head tracking](https://www.youtube.com/watch?v=g-EpTp_3wKo)
 	- [ 3D Virtual Pinball with Kinect 2 head tracking+Future Pinball/Bam Test ](https://www.youtube.com/watch?v=64e7TQ5uj8g)
 	- [Original Kinect for head tracking?](https://www.reddit.com/r/virtualpinball/comments/gfxhiz/original_kinect_for_head_tracking/)
 - [VPE Creator's guide](https://docs.visualpinball.org/creators-guide/introduction/overview.html) - a derivative of VPX using Unity
 
-### [Native linux](https://github.com/vpinball/vpinball/tree/standalone/standalone)
+## [Native linux](https://github.com/vpinball/vpinball/tree/standalone/standalone)
 
 Standalone, is the player ported to other system. But it does not include the editor.
-There is still some editor available (if you press esc).
+Only the [Live Editor](https://github.com/vpinball/vpinball/blob/master/docs/LiveUI.md) is available (if you press esc).
 
-If you want to play a PinMAME-enabled game, then you need to have the roms in the [proper place](https://github.com/vpinball/vpinball/blob/standalone/standalone/README.md#paths), see  [PinMAME]({% post_url 2023-09-24-pincab-vpinmame %}). 
+### [VPinMAME]({% post_url 2023-09-24-pincab-vpinmame %}
+
+If you want to play a PinMAME-enabled game, then you need to have the roms in the [proper place](https://github.com/vpinball/vpinball/blob/standalone/standalone/README.md#paths), see  [VPinMAME]({% post_url 2023-09-24-pincab-vpinmame %}). 
 
 So to test it first start with a recreation or original that doesn't need roms.
+
+### [B2S.Server ?]()
 
 see also
 - MacOS, Linux, and Android builds support [ZeDMD](https://www.pincabpassion.net/t14796-zedmd-installation-english) displays.
