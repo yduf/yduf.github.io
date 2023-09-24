@@ -7,7 +7,7 @@ tags: co2 h2 climate-war
 
 Résumé:
 - la production d'hydrogene est soit generatrice de CO2 (rapport 1 a 10 ou 1 a 30 selon la methode)
-- soit consomatrice d'electricité
+- soit consomatrice d'electricité si elle est produite par hydrolise (avec la question sur la source de production electrique).
 
 L'hydrogene sera necessaire
 - pour la production d'engrais
