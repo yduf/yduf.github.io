@@ -22,6 +22,7 @@ If you want to play a PinMAME-enabled game, then you need to have the roms in th
 So to test it first start with a recreation or original that doesn't need roms.
 
 see also
+- MacOS, Linux, and Android builds support [ZeDMD](https://www.pincabpassion.net/t14796-zedmd-installation-english) displays.
 - [Visual Pinball X on Linux](https://davidhouchin.com/posts/vpx-linux/)
 
 ### [Lutris](https://lutris.net/games/visual-pinball-x/)
