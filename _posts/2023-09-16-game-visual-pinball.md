@@ -39,7 +39,7 @@ see also
 
 ### [Lutris](https://lutris.net/games/visual-pinball-x/)
 
-### Tables
+### [Tables](https://archive.org/download/Visual_Pinball_2020-06-20/Visual%20Pinball%20%5BVPXx%5D%20Original%20Tables/)
 - [Arabian Night](https://youtu.be/u1y8MQQZZEE?feature=shared&t=2952)
 	- [VPUniverse (4k)](https://vpuniverse.com/files/file/12652-tales-of-the-arabian-nights-4k-williams-1996/)
 	- [Tales Of The Arabian Nights pin2dmd colorization v 2.0  ](https://vpuniverse.com/files/file/5532-tales-of-the-arabian-nights/)
