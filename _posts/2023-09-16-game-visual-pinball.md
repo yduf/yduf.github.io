@@ -29,7 +29,7 @@ If you want to play a PinMAME-enabled game, then you need to have the roms in th
 
 So to test it first start with a recreation or original that doesn't need roms.
 
-### [B2S.Server ?]()
+### [B2S.Server ?]({% post_url 2023-09-24-pincab-b2bs %})
 
 see also
 - MacOS, Linux, and Android builds support [ZeDMD](https://www.pincabpassion.net/t14796-zedmd-installation-english) displays.
