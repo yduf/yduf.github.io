@@ -1,7 +1,7 @@
 ---
 published: true
 title: Debug with LLDB
-tags: debug-c++ vscode
+tags: debug-c++ vscode gdb
 ---
 > integrated in VSCode - [CodeLLDB](https://github.com/vadimcn/vscode-lldb)
 
