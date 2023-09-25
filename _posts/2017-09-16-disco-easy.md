@@ -5,6 +5,8 @@ tags: 3dprinter klipper
 ---
 > First printer in 2017. Kit is ok, but configuration has some undocumented issue (but forums has answer). - [discoeasy 200](https://dagoma.fr/tutoriels/tutoriels-discovery200.html)
 
+[![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.wp.com%2Fwww.blablahightech.fr%2Fwp-content%2Fuploads%2F2017%2F01%2Fggg.jpg%3Fresize%3D1024%252C768%26ssl%3D1&f=1&nofb=1&ipt=7cc940cfbaca7bb903b08817527d4926a69f9fb1f518075665eb0081fc6c666b&ipo=images)](https://www.blablahightech.fr/2017/01/imprimante-3d-dagoma-discoeasy-200-le-test/)
+
 - [3d printer tips from hackaday](https://hackaday.com/2016/07/06/build-a-3d-printer-workhorse/)
 
 ### Ecran Rep rap
