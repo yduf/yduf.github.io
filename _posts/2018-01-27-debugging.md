@@ -1,7 +1,7 @@
 ---
 title: Linux Debugger
 published: true
-tags: debug linux debug-c++
+tags: debug-c++ linux gdb
 ---
 > prefered  [VSCode with LLDB]({% post_url 2022-09-26-debug-vscode-lldb %})
 
