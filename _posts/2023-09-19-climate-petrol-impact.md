@@ -14,3 +14,6 @@ tags: co2 climate-war petrol
 		- 2008 est le pic du petrole conventionnel (hors gaz de chist)
 
 [![caption](https://www.connaissancedesenergies.org/sites/default/files/inline-images/Petrole-Production-des-16-principaux-pays-fournisseurs-UE_0.png)](https://www.connaissancedesenergies.org/petrole-shift-project-precise-les-risques-dapprovisionnement-de-lue-220218)
+
+see also
+- [Where Does Oil Come From? Because It Isn't Dinosaurs](https://www.iflscience.com/where-does-oil-come-from-because-it-isnt-dinosaurs-70746) - oil comes from trillions of tiny algae and plankton. As algae and plankton died tens to hundreds of millions of years ago, they sank to the bottom of the sea, where they accumulated and were buried by layers and layers of sediment. Eventually, after millions of years in a high-pressure and low-oxygen environment, the algae and plankton got "cooked" and turned into that sticky black oil.
