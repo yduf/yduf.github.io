@@ -7,3 +7,4 @@ tags: serialization protobuf
 
 see also
 - [A Critique of the Cap'n Proto Schema Language (2019)](https://news.ycombinator.com/item?id=37195467)
+- [Cap'n Proto 1.0](https://news.ycombinator.com/item?id=36908309)
