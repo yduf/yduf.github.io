@@ -25,7 +25,7 @@ tags: co2 climate-war petrol
 		- changer son regime alimentaire
 	- avec investissement
 		- changer son mode de chauffage
-	- se restreindre dans les choix de son vehicule
+		- se restreindre dans les choix de son vehicule
 
 
 see also
