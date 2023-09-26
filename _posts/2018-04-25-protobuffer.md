@@ -2,7 +2,6 @@
 title: Proto buffer (serialisation)
 published: true
 tags: serialization  protobuf
-excerpt_separator: ""
 ---
 ## [Protocol Buffers](https://developers.google.com/protocol-buffers/)
 Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data.
@@ -13,7 +12,7 @@ Binary message format faster than [protobuf]()
 
 FlatBuffers is an efficient cross platform serialization library for C++, C#, C, Go, Java, JavaScript, TypeScript, PHP, and Python. It was originally created at Google for game development and other performance-critical applications.
 
-## [Cap’n Proto](https://capnproto.org/)
+## [Cap’n Proto]({% post_url 2023-09-26-serialisation-captain-proto %})
 
 Cap’n Proto is the result of years of experience working on Protobufs, listening to user feedback, and thinking about how things could be done better.
 
