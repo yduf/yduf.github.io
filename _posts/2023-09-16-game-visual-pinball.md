@@ -18,6 +18,7 @@ tags: pincab table games
 - [Visual Pinball X with BAM head tracking](https://www.youtube.com/watch?v=g-EpTp_3wKo)
 	- [ 3D Virtual Pinball with Kinect 2 head tracking+Future Pinball/Bam Test ](https://www.youtube.com/watch?v=64e7TQ5uj8g)
 	- [Original Kinect for head tracking?](https://www.reddit.com/r/virtualpinball/comments/gfxhiz/original_kinect_for_head_tracking/)
+- [VPinballX (Standalone) Code]({% post_url 2023-09-27-vpinballx-code %})
 
 
 ## [Native linux](https://github.com/vpinball/vpinball/tree/standalone/standalone)
