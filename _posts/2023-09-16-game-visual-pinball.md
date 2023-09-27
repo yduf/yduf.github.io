@@ -36,6 +36,8 @@ So to test it first start with a recreation or original that doesn't need roms.
 
 ### [B2S.Server ?]({% post_url 2023-09-24-pincab-b2bs %})
 
+The B2S code seems to be integrated into Standalone build. But How to enable it ?
+
 see also
 - MacOS, Linux, and Android builds support [ZeDMD](https://www.pincabpassion.net/t14796-zedmd-installation-english) displays.
 - [Visual Pinball X on Linux](https://davidhouchin.com/posts/vpx-linux/)
