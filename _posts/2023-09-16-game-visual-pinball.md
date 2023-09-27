@@ -29,6 +29,12 @@ see also
 - [VisualPinball.Engine ](https://github.com/freezy/VisualPinball.Engine) / [VPE Creator's guide](https://docs.visualpinball.org/creators-guide/introduction/overview.html) - a toolkit with the goal of making it easy to create pinball machines digitally. It uses Unity's High Definition Render Pipeline and comes with extensive editor tooling that aims to provide all the features needed for such a task. VPE can read Visual Pinball's file format and uses Visual Pinball's physics code for the simulation during gameplay.
 - [VPinballX (Standalone) Code]({% post_url 2023-09-27-vpinballx-code %})
 
+### [Configuration](https://forums.gameex.com/forums/topic/28932-guide-usingsetup-visual-pinball-108-with-different-settings/)
+
+In previous versions all settings where set in the registry and using for example another system needs a launch script to change the value in the registry. Now all the settings are stored in an INI file.
+
+You can copy & customize the one located in `~/.vpinball/VPinballX.ini`
+
 ### [VPinMAME]({% post_url 2023-09-24-pincab-vpinmame %})
 
 If you want to play a PinMAME-enabled game, then you need to have the roms in the [proper place](https://github.com/vpinball/vpinball/blob/standalone/standalone/README.md#paths), see  [VPinMAME]({% post_url 2023-09-24-pincab-vpinmame %}). 
