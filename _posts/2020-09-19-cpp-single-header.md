@@ -16,7 +16,7 @@ tags: c++ zip math single-header
 
 - [Plog]({% post_url 2023-09-27-cpp-lib-plog %}) - Pretty powerful logging library in about 1000 lines of code
 
-- [MicorPather](http://www.grinninglizard.com/MicroPather/) - a path finder and A* solver (astar or a-star) written in platform independent C++ that can be easily integrated into existing code. MicroPather focuses on being a path finding engine for video games but is a generic A* solver.
+- [MicroPather](http://www.grinninglizard.com/MicroPather/) - a path finder and A* solver (astar or a-star) written in platform independent C++ that can be easily integrated into existing code. MicroPather focuses on being a path finding engine for video games but is a generic A* solver.
 
 - [NanoJPEG](https://keyj.emphy.de/nanojpeg/) - a compact JPEG decoder
 
