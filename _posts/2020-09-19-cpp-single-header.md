@@ -21,7 +21,7 @@ tags: c++ zip math single-header
 - [NanoJPEG](https://keyj.emphy.de/nanojpeg/) - a compact JPEG decoder
 
 
-- [richgel999/miniz](https://github.com/richgel999/miniz) - Miniz is a lossless, high performance data compression library in a single source file that implements the zlib (RFC 1950) and Deflate (RFC 1951) compressed data format specification standards.
+- [Miniz](https://github.com/richgel999/miniz) - a lossless, high performance data compression library in a single source file that implements the zlib (RFC 1950) and Deflate (RFC 1951) compressed data format specification standards.
 
 - [tree.h](https://github.com/openbsd/src/blob/c1d6f13173b788e34852a303bda0c5a53861979e/sys/sys/tree.h) / [HN](https://news.ycombinator.com/item?id=26746674) - splay trees and red-black trees
 
