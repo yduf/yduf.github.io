@@ -9,7 +9,7 @@ tags: pincab code-review draft
 Use CMake
 
 Dependancies
-- [SDL](https://www.libsdl.org/) + OpenGL
+- [SDL2](https://www.libsdl.org/) + OpenGL
 - [Plog]({% post_url 2023-09-27-cpp-lib-plog %}) - Pretty powerful logging library in about 1000 lines of code. Cross-platform
 
 {% highlight bash %}
