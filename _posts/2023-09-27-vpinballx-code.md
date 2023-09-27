@@ -1,7 +1,7 @@
 ---
 published: true
 title: VPinballX (Standalone) Code (Draft)
-tags: code-review draft
+tags: pincab code-review draft
 ---
 > VisualPinball Engine for MacOS / Android / linux - [github](https://github.com/vpinball/vpinball/tree/standalone/standalone)
 
