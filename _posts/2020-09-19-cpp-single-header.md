@@ -14,7 +14,7 @@ tags: c++ zip math single-header
 
 - [lz4](https://github.com/lz4/lz4) - LZ4 is lossless compression algorithm, providing compression speed > 500 MB/s per core.
 
-- [Plog]({% post_url 2023-09-27-cpp-lib-plog %}) - Pretty powerful logging library in about 1000 lines of code
+- [Plog]({% post_url 2023-09-27-cpp-lib-plog %}) - Pretty powerful logging library in about 1000 lines of code. Cross-platform
 
 - [MicroPather](http://www.grinninglizard.com/MicroPather/) - a path finder and A* solver (astar or a-star) written in platform independent C++ that can be easily integrated into existing code. MicroPather focuses on being a path finding engine for video games but is a generic A* solver.
 
