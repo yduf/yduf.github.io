@@ -18,7 +18,6 @@ tags: pincab table games
 - [Visual Pinball X with BAM head tracking](https://www.youtube.com/watch?v=g-EpTp_3wKo)
 	- [ 3D Virtual Pinball with Kinect 2 head tracking+Future Pinball/Bam Test ](https://www.youtube.com/watch?v=64e7TQ5uj8g)
 	- [Original Kinect for head tracking?](https://www.reddit.com/r/virtualpinball/comments/gfxhiz/original_kinect_for_head_tracking/)
-- [VPinballX (Standalone) Code]({% post_url 2023-09-27-vpinballx-code %})
 
 
 ## [Native linux](https://github.com/vpinball/vpinball/tree/standalone/standalone)
@@ -28,6 +27,7 @@ Only the [Live Editor](https://github.com/vpinball/vpinball/blob/master/docs/Liv
 
 see also
 - [VisualPinball.Engine ](https://github.com/freezy/VisualPinball.Engine) / [VPE Creator's guide](https://docs.visualpinball.org/creators-guide/introduction/overview.html) - a toolkit with the goal of making it easy to create pinball machines digitally. It uses Unity's High Definition Render Pipeline and comes with extensive editor tooling that aims to provide all the features needed for such a task. VPE can read Visual Pinball's file format and uses Visual Pinball's physics code for the simulation during gameplay.
+- [VPinballX (Standalone) Code]({% post_url 2023-09-27-vpinballx-code %})
 
 ### [VPinMAME]({% post_url 2023-09-24-pincab-vpinmame %})
 
