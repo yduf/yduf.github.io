@@ -1,7 +1,7 @@
 ---
 published: true
 title: Krita Code
-tags: krita c++ code quote stroke stylus avx
+tags: krita code-review quote stroke stylus avx
 ---
 > In my 20+ year experience managing projects I learned that tools or systems don’t manage anything, people do, and if people need tools they’ll get them or make them - Ton Roosendaal, on #blendercoders / [Krita code wiki](https://docs.krita.org/en/untranslatable_pages.html) / [github](https://github.com/KDE/krita) / [KDE](https://invent.kde.org/graphics/krita)
 
