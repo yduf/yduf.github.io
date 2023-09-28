@@ -48,4 +48,3 @@ based on Geometric Relationship of Eyeball Model ](https://www.researchgate.net/
     - [Gaze Tracking](https://github.com/antoinelame/GazeTracking) - a webcam-based eye tracking system. It gives you the exact position of the pupils and the gaze direction, in real time.
     
 - [Face Alignment with OpenCV and Python](https://pyimagesearch.com/2017/05/22/face-alignment-with-opencv-and-python/)
-
