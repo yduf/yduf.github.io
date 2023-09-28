@@ -12,6 +12,8 @@ tags: human pose-estimation
 - [A Comprehensive Guide to Human Pose Estimation](https://www.v7labs.com/blog/human-pose-estimation-guide)
 - [Awesome Human Pose Estimation](https://github.com/cbsudux/awesome-human-pose-estimation)
 - [Human Pose Estimation Guide (2023)](https://fritz.ai/human-pose-estimation/)
+- [HyperPose](https://github.com/tensorlayer/hyperpose)
+
 - [HuMoR: 3D Human Motion Model for Robust Pose Estimation ](https://geometry.stanford.edu/projects/humor/)
 - [VIBE](https://github.com/mkocabas/VIBE) / [HN](https://news.ycombinator.com/item?id=23369706)
 
