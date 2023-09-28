@@ -5,6 +5,9 @@ tags: debug-c++ vscode gdb c++
 ---
 > How to set up C++ Compiler with Visual Studio Code. - [Setup Visual Studio Code for Multi-File C++ Projects](https://dev.to/talhabalaj/setup-visual-studio-code-for-multi-file-c-projects-1jpi)
 
+see also
+- [Godot Docs](https://docs.godotengine.org/en/latest/contributing/development/configuring_an_ide/visual_studio_code.html)
+
 ### [Build task](https://code.visualstudio.com/Docs/editor/tasks)
 
 VSCode's build in keyboard shortcut to task by making it of type `build`. The easiest way to set up tasks is to press `ctrl+shift+b`.
