@@ -11,4 +11,5 @@ tags: human pose-estimation
 - [Open Pose]({% post_url 2018-02-06-Open-pose %})
 - [Awesome Human Pose Estimation](https://github.com/cbsudux/awesome-human-pose-estimation)
 - [Human Pose Estimation Guide (2023)](https://fritz.ai/human-pose-estimation/)
+- [HuMoR: 3D Human Motion Model for Robust Pose Estimation ](https://geometry.stanford.edu/projects/humor/)
 
