@@ -49,8 +49,6 @@ see also
 - MacOS, Linux, and Android builds support [ZeDMD](https://www.pincabpassion.net/t14796-zedmd-installation-english) displays.
 - [Visual Pinball X on Linux](https://davidhouchin.com/posts/vpx-linux/)
 
-### [Lutris](https://lutris.net/games/visual-pinball-x/)
-
 ### [Tables](https://archive.org/download/Visual_Pinball_2020-06-20/Visual%20Pinball%20%5BVPXx%5D%20Original%20Tables/)
 - [Arabian Night](https://youtu.be/u1y8MQQZZEE?feature=shared&t=2952)
 	- [VPUniverse (4k)](https://vpuniverse.com/files/file/12652-tales-of-the-arabian-nights-4k-williams-1996/)
@@ -73,3 +71,5 @@ see also
 - [VPUniverse](https://vpuniverse.com/vpe/) - some high def table
 
 - [Awesome Visual Pinball Recreations 2023 for your Virtual Pinball](https://www.youtube.com/watch?v=mM1GMs3ceLs)
+- [Lutris](https://lutris.net/games/visual-pinball-x/) - should be possible to run Windows version through wine.
+
