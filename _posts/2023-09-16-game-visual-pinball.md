@@ -22,7 +22,7 @@ tags: pincab table games
 
 ## [Native linux](https://github.com/vpinball/vpinball/tree/standalone/standalone)
 
-Standalone, is the player ported to other system. But it does not include the editor.
+[Standalone](https://github.com/vpinball/vpinball/blob/master/docs/Build%20Differences.md), is the player ported to other system. But it does not include the editor.
 Only the [Live Editor](https://github.com/vpinball/vpinball/blob/master/docs/LiveUI.md) is available (if you press esc).
 
 see also
