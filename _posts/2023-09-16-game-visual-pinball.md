@@ -39,7 +39,7 @@ You can copy & customize the one located in `~/.vpinball/VPinballX.ini`
 
 If you want to play a PinMAME-enabled game, then you need to have the roms in the [proper place](https://github.com/vpinball/vpinball/blob/standalone/standalone/README.md#paths), see  [VPinMAME]({% post_url 2023-09-24-pincab-vpinmame %}). The pinmame emulator is included in the Standalone version.
 
-To test, first start with a recreation or original that doesn't need roms.
+To test VPinballX, first start with a recreation or original that doesn't need roms.
 
 ### [B2S.Server ?]({% post_url 2023-09-24-pincab-b2bs %})
 
