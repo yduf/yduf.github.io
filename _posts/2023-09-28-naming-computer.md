@@ -3,7 +3,7 @@ published: true
 title: Naming Computer
 tags: name gps
 ---
-> Choosing a Name for Your Computer - [HN](https://news.ycombinator.com/item?id=36028410)
+> How to Choose a Name for Your Computer - [HN](https://news.ycombinator.com/item?id=36028410)
 
 If you're going to be naming a lot of computers, it's surprisingly important to pick a naming format that is (1) expandable and (2) trivially parseable. The naming scheme that seems simple when you're in a garage can be constraining when there's too many to track in a spreadsheet.
 
