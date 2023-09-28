@@ -3,7 +3,7 @@ published: true
 title: Naming Computer
 tags: name gps
 ---
-> 	Choosing a Name for Your Computer - [HN](https://news.ycombinator.com/item?id=36028410)
+> Choosing a Name for Your Computer - [HN](https://news.ycombinator.com/item?id=36028410)
 
 If you're going to be naming a lot of computers, it's surprisingly important to pick a naming format that is (1) expandable and (2) trivially parseable. The naming scheme that seems simple when you're in a garage can be constraining when there's too many to track in a spreadsheet.
 
@@ -20,4 +20,4 @@ Alternatives that don't work as well:
 
 * Don't leave off the cluster number. Yes, you only have one cluster in us-west-2 right now, but maybe in five years you'll need to have more than one because you want to run 30,000 EC2 instances there but all your per-cluster infrastructure software falls over at 20,000 instances. Then you can just turn up "pdx2" instead of trying to explain to Hashicorp engineers why you want to run the world's biggest Consul cluster.
 
-* Do not put the production hostnames under a subdomain of your corporate website. If you are ACME LLC then your hostnames should end with `.acme-prod.com` instead of `.prod.acme.com`. The same is true of corporate IT assets like laptops or workstations (`acme-corp.com` -- NEVER `.corp.acme.com`). Why? Browser cookies. 
+* Do not put the production hostnames under a subdomain of your corporate website. If you are ACME LLC then your hostnames should end with `.acme-prod.com` instead of `.prod.acme.com`. The same is true of corporate IT assets like laptops or workstations (`acme-corp.com` -- NEVER `.corp.acme.com`). Why? Browser cookies.
