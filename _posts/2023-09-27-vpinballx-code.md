@@ -28,6 +28,8 @@ a Webserver is created on [0.0.0.0:2112](http://0.0.0.0:2112)
 
 ### [Setup Display](https://github.com/vpinball/vpinball/blob/6f84b57c90903a7c91eb495e5790f43032c845ae/pin/player.cpp#L496C1-L496C46)
 
+res/exampleTable.vpx is nice and small table for testing
+
 {% highlight cpp %}
 void Player::PreCreate(CREATESTRUCT& cs) {
     m_fullScreen = LoadValueWithDefault(regKey[RegName::Player], "FullScreen"s, IsWindows10_1803orAbove());
