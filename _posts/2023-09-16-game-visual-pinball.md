@@ -39,7 +39,7 @@ You can copy & customize the one located in `~/.vpinball/VPinballX.ini`
 [Player]
 
 ; Video options
-Display = 2		; 0 primary, otherwise use Id (same as displayed by indentifier
+Display = 2		; 0 primary, otherwise use Id (same as displayed by indentify command
 Fullscreen = 0	; 0/1 disable/enable
 {% endhighlight %}
 
