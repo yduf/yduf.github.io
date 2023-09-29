@@ -100,3 +100,8 @@ Partition: ID-1: / size: 91.17 GiB used: 27.78 GiB (30.5%) fs: ext4 dev: /dev/nv
 Sensors:   System Temperatures: cpu: 35.0 C mobo: N/A gpu: nouveau temp: 34 C 
            Fan Speeds (RPM): N/A 
 {% endhighlight %}
+  
+### Hardware upgrade
+- [Huawei MateBook 14s - disassembly and upgrade options](https://www.youtube.com/watch?v=zwfZ-mRTWpk&t=71s)
+	- memory soldered directly on the mother board
+	- SSD screw as factory sealed.
