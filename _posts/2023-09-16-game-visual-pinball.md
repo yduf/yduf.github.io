@@ -13,6 +13,11 @@ tags: pincab table games
 - [View Setup](https://github.com/vpinball/vpinball/blob/master/docs/View%20Setup.md)	
 	- [Window projection](https://github.com/vpinball/vpinball/blob/master/docs/View%20Setup.md) - for cabinet emulation
     
+### Config
+
+{% highlight ini %}
+code
+{% endhighlight %}
 
 ### see also
 - [Visual Pinball X with BAM head tracking](https://www.youtube.com/watch?v=g-EpTp_3wKo)
