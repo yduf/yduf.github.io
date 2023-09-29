@@ -39,15 +39,19 @@ You can copy & customize the one located in `~/.vpinball/VPinballX.ini`
 [Player]
 
 ; Video options
-Display = 2		; 0 primary, otherwise use Id (same as displayed by indentify command
+Display = 2	    ; 0 primary, otherwise use Id (same as displayed by indentify command
 Fullscreen = 0	; 0/1 disable/enable
+
+[Standalone]
+WebServer = 1   ; enable webserver UI: default addr is 0.0.0.0:2112 - allow edit of ini+misc
+
 {% endhighlight %}
 
 ### [VPinMAME]({% post_url 2023-09-24-pincab-vpinmame %})
 
 If you want to play a PinMAME-enabled game, then you need to have the roms in the [proper place](https://github.com/vpinball/vpinball/blob/standalone/standalone/README.md#paths), see  [VPinMAME]({% post_url 2023-09-24-pincab-vpinmame %}). The pinmame emulator is included in the Standalone version.
 
-To test VPinballX, first start with a recreation or original that doesn't need roms.
+To test VPinballX, first start with a recreation or original that doesn't need roms. For eg: res/exampleTable.vpx
 
 ### [B2S.Server ?]({% post_url 2023-09-24-pincab-b2bs %})
 
@@ -80,4 +84,3 @@ see also
 
 - [Awesome Visual Pinball Recreations 2023 for your Virtual Pinball](https://www.youtube.com/watch?v=mM1GMs3ceLs)
 - [Lutris](https://lutris.net/games/visual-pinball-x/) - should be possible to run Windows version through wine.
-
