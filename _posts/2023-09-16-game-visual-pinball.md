@@ -35,7 +35,12 @@ In previous versions all settings where set in the registry and using for exampl
 You can copy & customize the one located in `~/.vpinball/VPinballX.ini`
 
 {% highlight ini %}
-code
+; # Player settings
+[Player]
+
+; Video options
+Display = 2
+Fullscreen = 0
 {% endhighlight %}
 
 ### [VPinMAME]({% post_url 2023-09-24-pincab-vpinmame %})
