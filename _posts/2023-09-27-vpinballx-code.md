@@ -22,3 +22,4 @@ cmake -DCMAKE_BUILD_TYPE=Debug -B build_debug # so you have debug information
 Setup a custom .ini files, with proper setting ex: Fullsceen=false
 You can copy & customize the one located in `~/.vpinball/VPinballX.ini`
 
+### How to choose screen for display (in multiscreen) ?
