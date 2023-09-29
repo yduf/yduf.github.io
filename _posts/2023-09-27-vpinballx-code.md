@@ -1,7 +1,7 @@
 ---
 published: true
 title: VPinballX (Standalone) Code (Draft)
-tags: pincab code-review draft
+tags: pincab code-review project draft
 ---
 > VisualPinball Engine for MacOS / Android / linux - [github](https://github.com/vpinball/vpinball/tree/standalone/standalone)
 
@@ -17,10 +17,14 @@ Dependancies
 cmake -DCMAKE_BUILD_TYPE=Debug -B build_debug # so you have debug information
 {% endhighlight %}
 
-## Debug mode
+### Debug mode
 
 Setup a custom .ini files, with proper setting ex: Fullsceen=false
 You can copy & customize the one located in `~/.vpinball/VPinballX.ini`
+
+## Project
+
+Make it work on linux to be able to build a [pincab]({% post_url 2023-09-17-project-pincab %}) not requiring windows.
 
 ### Next
 - How to choose screen for display (in multiscreen) ?
