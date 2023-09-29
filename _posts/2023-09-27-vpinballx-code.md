@@ -12,15 +12,17 @@ Dependancies
 - [SDL2](https://www.libsdl.org/) + OpenGL
 - [Plog]({% post_url 2023-09-27-cpp-lib-plog %}) - Pretty powerful logging library in about 1000 lines of code. Cross-platform
 
-{% highlight bash %}
 ##  Debug mode
 
+{% highlight bash %}
 ### change build instruction to
 cmake -DCMAKE_BUILD_TYPE=Debug -B build_debug # so you have debug information
 {% endhighlight %}
 
 Setup a custom .ini files, with [proper setting]({% post_url 2023-09-16-game-visual-pinball %}#configuration) ex: Fullsceen=false and display for picking screen.
 You can copy & customize the one located in `~/.vpinball/VPinballX.ini`
+
+The entries of the .ini files are read with `LoadValueWithDefault` call, and you can lookup where the value are used in the code.
 
 ### [Setup Display](https://github.com/vpinball/vpinball/blob/6f84b57c90903a7c91eb495e5790f43032c845ae/pin/player.cpp#L496C1-L496C46)
 
