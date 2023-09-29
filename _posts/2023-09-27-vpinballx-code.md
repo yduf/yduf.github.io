@@ -19,7 +19,7 @@ Dependancies
 cmake -DCMAKE_BUILD_TYPE=Debug -B build_debug # so you have debug information
 {% endhighlight %}
 
-Setup a custom .ini files, with [proper setting]({% post_url 2023-09-16-game-visual-pinball %}#configuration) ex: Fullsceen=false
+Setup a custom .ini files, with [proper setting]({% post_url 2023-09-16-game-visual-pinball %}#configuration) ex: Fullsceen=false and display for picking screen.
 You can copy & customize the one located in `~/.vpinball/VPinballX.ini`
 
 ### [Setup Display](https://github.com/vpinball/vpinball/blob/6f84b57c90903a7c91eb495e5790f43032c845ae/pin/player.cpp#L496C1-L496C46)
@@ -48,5 +48,4 @@ void Player::CreateWnd(HWND parent /* = 0 */) {
 Make it work on linux to be able to build a [pincab]({% post_url 2023-09-17-project-pincab %}) not requiring windows.
 
 ### Next
-- How to choose screen for display (in multiscreen) ?
 - How to enable B2S in standalone ?
