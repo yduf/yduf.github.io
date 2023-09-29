@@ -12,12 +12,6 @@ tags: pincab table games
 - [Live Editor](https://github.com/vpinball/vpinball/blob/master/docs/LiveUI.md)
 - [View Setup](https://github.com/vpinball/vpinball/blob/master/docs/View%20Setup.md)	
 	- [Window projection](https://github.com/vpinball/vpinball/blob/master/docs/View%20Setup.md) - for cabinet emulation
-    
-### Config
-
-{% highlight ini %}
-code
-{% endhighlight %}
 
 ### see also
 - [Visual Pinball X with BAM head tracking](https://www.youtube.com/watch?v=g-EpTp_3wKo)
@@ -39,6 +33,10 @@ see also
 In previous versions all settings where set in the registry and using for example another system needs a launch script to change the value in the registry. Now all the settings are stored in an INI file.
 
 You can copy & customize the one located in `~/.vpinball/VPinballX.ini`
+
+{% highlight ini %}
+code
+{% endhighlight %}
 
 ### [VPinMAME]({% post_url 2023-09-24-pincab-vpinmame %})
 
