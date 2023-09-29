@@ -26,6 +26,7 @@ You can copy & customize the one located in `~/.vpinball/VPinballX.ini`
 
 [Setup Display](https://github.com/vpinball/vpinball/blob/6f84b57c90903a7c91eb495e5790f43032c845ae/pin/player.cpp#L496C1-L496C46)
 
+
 {% highlight cpp %}
 void Player::CreateWnd(HWND parent /* = 0 */) {
 ...
@@ -37,7 +38,17 @@ void Player::CreateWnd(HWND parent /* = 0 */) {
 }
 {% endhighlight %}
 
+```cpp
+{% capture code %}
+#include <iostream>
 
+// Function definition with a link
+void [exampleFunction](https://github.com/username/repository/blob/master/path/to/your/file.cpp#L10-L12)() {
+    std::cout << "This is an example function." << std::endl;
+}
+{% endcapture %}
+
+{{ code }}
 
 ## Project
 
