@@ -102,6 +102,6 @@ Sensors:   System Temperatures: cpu: 35.0 C mobo: N/A gpu: nouveau temp: 34 C
 {% endhighlight %}
   
 ### Hardware upgrade
-- [Huawei MateBook 14s - disassembly and upgrade options](https://www.youtube.com/watch?v=zwfZ-mRTWpk&t=71s)
+- [Huawei MateBook 14s - disassembly and upgrade options](https://www.youtube.com/watch?v=zwfZ-mRTWpk&t=71s) / [Huawei MateBook D 14 (2020) ](https://www.youtube.com/watch?v=BsiJxz3gKio)
 	- memory soldered directly on the mother board
-	- SSD screw as factory sealed.
+	- SSD can be removed.
