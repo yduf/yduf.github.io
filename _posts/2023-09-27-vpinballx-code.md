@@ -23,8 +23,10 @@ Setup a custom .ini files, with proper setting ex: Fullsceen=false
 You can copy & customize the one located in `~/.vpinball/VPinballX.ini`
 
 
-Setup Display
-[{% highlight cpp %}
+
+[Setup Display](https://github.com/vpinball/vpinball/blob/6f84b57c90903a7c91eb495e5790f43032c845ae/pin/player.cpp#L496C1-L496C46)
+
+{% highlight cpp %}
 void Player::CreateWnd(HWND parent /* = 0 */) {
 ...
    const int display = g_pvp->m_primaryDisplay ? 0 : LoadValueWithDefault(regKey[RegName::Player], "Display"s, 0);
@@ -34,7 +36,7 @@ void Player::CreateWnd(HWND parent /* = 0 */) {
          m_sdl_playfieldHwnd = SDL_CreateWindow(cs.lpszName, cs.x, cs.y, cs.cx, cs.cy, flags);
 }
 {% endhighlight %}
-](https://github.com/vpinball/vpinball/blob/6f84b57c90903a7c91eb495e5790f43032c845ae/pin/player.cpp#L496C1-L496C46)
+
 
 
 ## Project
