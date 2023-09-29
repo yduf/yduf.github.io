@@ -39,8 +39,8 @@ You can copy & customize the one located in `~/.vpinball/VPinballX.ini`
 [Player]
 
 ; Video options
-Display = 2
-Fullscreen = 0
+Display = 2		; 0 primary, otherwise use Id (same as displayed by indentifier
+Fullscreen = 0	; 0/1 disable/enable
 {% endhighlight %}
 
 ### [VPinMAME]({% post_url 2023-09-24-pincab-vpinmame %})
