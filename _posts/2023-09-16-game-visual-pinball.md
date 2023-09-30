@@ -117,6 +117,7 @@ see also
 
 see also
 - [VPForum](https://www.vpforums.org/index.php?) - to download tables
+	- [VPX Table Tutorials](https://vpinhub.com/vpxtables)
 - [VPUniverse](https://vpuniverse.com/files/) - some high def table
 - [virtual-pinball-spreadsheet](https://virtual-pinball-spreadsheet.web.app/) - nice updated list of tables
 - [Awesome Visual Pinball Recreations 2023 for your Virtual Pinball](https://www.youtube.com/watch?v=mM1GMs3ceLs)
