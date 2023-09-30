@@ -114,7 +114,7 @@ see also
 - [Gorgar](https://www.vpforums.org/index.php?app=downloads&showfile=8964)
 - [Master of the universe)](https://www.vpforums.org/index.php?showtopic=41193#entry485161)
 	- ["Masters of the Universe (VPX) - PuP-Pack](https://www.youtube.com/watch?v=L7-L2aJjjrM)
-- [Elvira House of horrors](https://vpuniverse.com/files/file/12296-elviras-party-house-of-horror/)
+- [Elvira House of horrors](https://vpuniverse.com/files/file/12296-elviras-party-house-of-horror/) / [2](https://www.youtube.com/watch?v=1eeBfJJXGwg)
 
 see also
 - [VPForum](https://www.vpforums.org/index.php?) - to download tables
