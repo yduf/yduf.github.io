@@ -11,6 +11,7 @@ Use CMake
 Dependancies
 - [SDL2](https://www.libsdl.org/) + OpenGL
 - [Plog]({% post_url 2023-09-27-cpp-lib-plog %}) - Pretty powerful logging library in about 1000 lines of code. Cross-platform
+- [tinyxml2](https://github.com/leethomason/tinyxml2) -  small, efficient, C++ XML parser - used for .pov files.
 
 ##  Debug mode
 
