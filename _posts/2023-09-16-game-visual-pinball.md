@@ -14,6 +14,15 @@ tags: pincab table games
 	- [Window projection](https://github.com/vpinball/vpinball/blob/master/docs/View%20Setup.md) - for cabinet emulation
 - [Visual Pinball Support](https://vpuniverse.com/forums/forum/17-visual-pinball-support/)
 
+[**Keyboard Layout**]() - the default keys are
+1 - start a new game / or when in live menu save pov change
+2 - buy extra ball (if applicable)  
+3,4,5,6 - add credit for given player  
+lshift, rshift - left & right flipper button  
+Enter - pull & release trigger  
+Esc - pause game & show menu  
+
+
 ### see also
 - [Visual Pinball X with BAM head tracking](https://www.youtube.com/watch?v=g-EpTp_3wKo)
 	- [ 3D Virtual Pinball with Kinect 2 head tracking+Future Pinball/Bam Test ](https://www.youtube.com/watch?v=64e7TQ5uj8g)
