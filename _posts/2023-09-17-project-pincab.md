@@ -3,7 +3,9 @@ published: true
 title: Projet pincab
 tags: pincab project shop
 ---
-> DIY ?
+> DIY ? - [pinscape guide](http://mjrnet.org/pinscape/BuildGuideV2/BuildGuide.php)
+
+[![caption](http://mjrnet.org/pinscape/BuildGuideV2/cover.png)](http://mjrnet.org/pinscape/BuildGuideV2/BuildGuide.php)
 
 ### [Bricolage](https://www.pincabpassion.net/f85p240-bricolage)
 - [vitrage](https://www.pincabpassion.net/t3768-les-differents-vitrages)
