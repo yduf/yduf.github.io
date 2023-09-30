@@ -49,6 +49,15 @@ WebServer = 1   ; enable webserver UI: default addr is 0.0.0.0:2112 - allow edit
 
 ## [Live Editor](https://github.com/vpinball/vpinball/blob/master/docs/LiveUI.md)
 
+Can give access to
+### [View Setup](https://github.com/vpinball/vpinball/blob/master/docs/View%20Setup.md#view-setup)
+
+It allow to switch Camera Mode from Camera (perpective) to Window (dedicated to cabinet).
+Here the control are mean for cabinet adjustement and so use games key
+- lctrl / rctl to choose menu entry
+- lshift / rshift to change value
+- return to validate
+
 ### [VPinMAME]({% post_url 2023-09-24-pincab-vpinmame %})
 
 If you want to play a PinMAME-enabled game, then you need to have the roms in the [proper place](https://github.com/vpinball/vpinball/blob/standalone/standalone/README.md#paths), see  [VPinMAME]({% post_url 2023-09-24-pincab-vpinmame %}). The pinmame emulator is included in the Standalone version.
