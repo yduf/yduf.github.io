@@ -111,6 +111,8 @@ see also
 - [Houdini](https://youtu.be/O-jZJ9Cq-74?feature=shared&t=780)
 - [circus Voltaire](https://vpuniverse.com/files/file/15989-cirqus-voltaire-bally-1997-vpw-mod/)
 - [Gorgar](https://www.vpforums.org/index.php?app=downloads&showfile=8964)
+- [Master of the universe)](https://www.vpforums.org/index.php?showtopic=41193#entry485161)
+	- ["Masters of the Universe (VPX) - PuP-Pack](https://www.youtube.com/watch?v=L7-L2aJjjrM)
 
 see also
 - [VPForum](https://www.vpforums.org/index.php?) - to download tables
