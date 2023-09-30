@@ -73,6 +73,7 @@ Export a POV that you like with the file name “Autopov.POV” and save it to y
 
 see also
 - [How to change Virtual Pinball POV Views on each table - things to look for](https://www.youtube.com/watch?v=e2vQWhqGHcs)
+- [POV on Vpin: our optimal settings](https://pinballmag.fr/en/pov-on-vpin-our-optimal-settings/)
 
 ### [VPinMAME]({% post_url 2023-09-24-pincab-vpinmame %})
 
