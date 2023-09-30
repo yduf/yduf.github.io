@@ -86,3 +86,4 @@ see also
 
 - [Awesome Visual Pinball Recreations 2023 for your Virtual Pinball](https://www.youtube.com/watch?v=mM1GMs3ceLs)
 - [Lutris](https://lutris.net/games/visual-pinball-x/) - should be possible to run Windows version through wine.
+- [orbitalpin](https://docs.orbitalpin.com/) - a framework to make table in VpinballX
