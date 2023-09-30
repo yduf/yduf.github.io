@@ -22,7 +22,7 @@ tags: pincab table games
 ## [Native linux](https://github.com/vpinball/vpinball/tree/standalone/standalone)
 
 [Standalone](https://github.com/vpinball/vpinball/blob/master/docs/Build%20Differences.md), is the player ported to other system. But it does not include the editor.
-Only the [Live Editor](https://github.com/vpinball/vpinball/blob/master/docs/LiveUI.md) is available (if you press esc).
+Only the [Live Editor](#live-editor) is available (if you press esc).
 
 see also
 - [VisualPinball.Engine ](https://github.com/freezy/VisualPinball.Engine) / [VPE Creator's guide](https://docs.visualpinball.org/creators-guide/introduction/overview.html) - a toolkit with the goal of making it easy to create pinball machines digitally. It uses Unity's High Definition Render Pipeline and comes with extensive editor tooling that aims to provide all the features needed for such a task. VPE can read Visual Pinball's file format and uses Visual Pinball's physics code for the simulation during gameplay.
@@ -46,6 +46,8 @@ Fullscreen = 0  ; 0/1 disable/enable
 WebServer = 1   ; enable webserver UI: default addr is 0.0.0.0:2112 - allow edit of ini+misc
 
 {% endhighlight %}
+
+## [Live Editor](https://github.com/vpinball/vpinball/blob/master/docs/LiveUI.md)
 
 ### [VPinMAME]({% post_url 2023-09-24-pincab-vpinmame %})
 
