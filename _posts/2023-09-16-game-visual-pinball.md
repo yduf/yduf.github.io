@@ -117,7 +117,7 @@ see also
 see also
 - [VPForum](https://www.vpforums.org/index.php?) - to download tables
 - [VPUniverse](https://vpuniverse.com/files/) - some high def table
-
+- [virtual-pinball-spreadsheet](https://virtual-pinball-spreadsheet.web.app/) - nice updated list of tables
 - [Awesome Visual Pinball Recreations 2023 for your Virtual Pinball](https://www.youtube.com/watch?v=mM1GMs3ceLs)
 - [Lutris](https://lutris.net/games/visual-pinball-x/) - should be possible to run Windows version through wine.
 - [orbitalpin](https://docs.orbitalpin.com/) - a framework to make table in VpinballX
