@@ -56,4 +56,5 @@ Make it work on linux to be able to build a [pincab]({% post_url 2023-09-17-proj
 
 ### Next
 - Enable cabinet mode for playfield
+	- how to use & edit .pov ?
 - How to enable B2S in standalone ?
