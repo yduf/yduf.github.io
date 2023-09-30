@@ -68,6 +68,8 @@ Do not import the POV to the table, that is the entire point of having a POV, yo
 
 [**Autopov**](https://www.reddit.com/r/virtualpinball/comments/goo5v8/folder_for_the_pov_file/) - 
 Export a POV that you like with the file name “Autopov.POV” and save it to your Tables folder. If you load a table that doesn’t have its own unique external POV file (with the same filename for POV as the VPX), it will use this Autopov file instead.
+	- [pov switching](https://www.vpforums.org/index.php?showtopic=44812)
+    - [How do you set up VPX for vertically oriented screen in OS (portrait) Or can you?](https://www.vpforums.org/index.php?showtopic=45119&page=1)
 
 see also
 - [How to change Virtual Pinball POV Views on each table - things to look for](https://www.youtube.com/watch?v=e2vQWhqGHcs)
@@ -105,6 +107,7 @@ see also
 - [Sorcerer](https://youtu.be/u1y8MQQZZEE?feature=shared&t=378)
 - [Houdini](https://youtu.be/O-jZJ9Cq-74?feature=shared&t=780)
 - [circus Voltaire](https://vpuniverse.com/files/file/15989-cirqus-voltaire-bally-1997-vpw-mod/)
+- [Gorgar](https://www.vpforums.org/index.php?app=downloads&showfile=8964)
 
 see also
 - [VPForum](https://www.vpforums.org/index.php?) - to download tables
