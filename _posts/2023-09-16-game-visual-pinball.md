@@ -58,6 +58,15 @@ Here the control are mean for cabinet adjustement and so use games key
 - lshift / rshift to change value
 - return to validate
 
+### [POV](https://www.vpforums.org/index.php?showtopic=47919)
+
+POV files go in the table folder and need to have same exact name as the associated table file
+
+Do not import the POV to the table, that is the entire point of having a POV, you can change the view with no actual changes made to the table itself
+
+see also
+- [How to change Virtual Pinball POV Views on each table - things to look for](https://www.youtube.com/watch?v=e2vQWhqGHcs)
+
 ### [VPinMAME]({% post_url 2023-09-24-pincab-vpinmame %})
 
 If you want to play a PinMAME-enabled game, then you need to have the roms in the [proper place](https://github.com/vpinball/vpinball/blob/standalone/standalone/README.md#paths), see  [VPinMAME]({% post_url 2023-09-24-pincab-vpinmame %}). The pinmame emulator is included in the Standalone version.
