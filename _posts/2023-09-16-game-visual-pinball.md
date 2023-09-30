@@ -50,7 +50,8 @@ WebServer = 1   ; enable webserver UI: default addr is 0.0.0.0:2112 - allow edit
 
 ## [Live Editor](https://github.com/vpinball/vpinball/blob/master/docs/LiveUI.md)
 
-Can give access to
+Can give access to ([demo](https://www.youtube.com/watch?v=KOo2rJOE_BI&t=272s))
+
 ### [View Setup](https://github.com/vpinball/vpinball/blob/master/docs/View%20Setup.md#view-setup)
 
 It allow to switch Camera Mode from Camera (perpective) to Window (dedicated to cabinet).
@@ -86,7 +87,7 @@ see also
 - [Visual Pinball X on Linux](https://davidhouchin.com/posts/vpx-linux/)
 
 ### [Tables](https://archive.org/download/Visual_Pinball_2020-06-20/Visual%20Pinball%20%5BVPXx%5D%20Original%20Tables/)
-- [Arabian Night](https://youtu.be/u1y8MQQZZEE?feature=shared&t=2952) / [2](https://youtu.be/FUEuoelOSK4?feature=shared&t=167)
+- [Arabian Night](https://youtu.be/u1y8MQQZZEE?feature=shared&t=2952) / [2](https://youtu.be/FUEuoelOSK4?feature=shared&t=167) / [3](https://www.youtube.com/watch?v=pWyzwSjGecc)
 	- [VPUniverse (4k)](https://vpuniverse.com/files/file/12652-tales-of-the-arabian-nights-4k-williams-1996/)
 	- [Tales Of The Arabian Nights pin2dmd colorization v 2.0  ](https://vpuniverse.com/files/file/5532-tales-of-the-arabian-nights/)
 - [Medieval Madness](https://youtu.be/u1y8MQQZZEE?feature=shared&t=3107)
@@ -103,10 +104,11 @@ see also
 - [Vortex](https://youtu.be/u1y8MQQZZEE?feature=shared&t=378)
 - [Sorcerer](https://youtu.be/u1y8MQQZZEE?feature=shared&t=378)
 - [Houdini](https://youtu.be/O-jZJ9Cq-74?feature=shared&t=780)
+- [circus Voltaire]()
 
 see also
 - [VPForum](https://www.vpforums.org/index.php?) - to download tables
-- [VPUniverse](https://vpuniverse.com/vpe/) - some high def table
+- [VPUniverse](https://vpuniverse.com/files/) - some high def table
 
 - [Awesome Visual Pinball Recreations 2023 for your Virtual Pinball](https://www.youtube.com/watch?v=mM1GMs3ceLs)
 - [Lutris](https://lutris.net/games/visual-pinball-x/) - should be possible to run Windows version through wine.
