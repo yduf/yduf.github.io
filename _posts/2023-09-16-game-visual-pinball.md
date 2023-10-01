@@ -142,8 +142,7 @@ Un PupPack est un ensemble de médias et d'effets visuels qui sont intégrés da
 	- [Gorgar (Williams 1979)_Bigus(MOD) 1.1](https://www.vpforums.org/index.php?app=downloads&showfile=16050) - [roms](https://www.vpforums.org/index.php?app=downloads&showfile=783)
 - ★★★☆☆ [JAWS Balutito MOD ](https://www.youtube.com/watch?v=7QvoDWaeq44)
 	- [JAWS Balutito MOD ](https://vpuniverse.com/files/file/10976-jaws-balutito-mod)
-- [Scared Stuff](https://youtu.be/FUEuoelOSK4?feature=shared&t=409)
-- [Tales from the crypt](https://youtu.be/giFi-qBU1F0?feature=shared&t=222)
+
 - [Monster Bash](https://youtu.be/u1y8MQQZZEE?feature=shared&t=3309)
 - [The Simpsons](https://youtu.be/u1y8MQQZZEE?feature=shared&t=3488) / [2](https://www.youtube.com/watch?v=IjZ0MaY3JMU)
 - [Medieval Madness](https://youtu.be/u1y8MQQZZEE?feature=shared&t=3107)
@@ -153,6 +152,8 @@ Un PupPack est un ensemble de médias et d'effets visuels qui sont intégrés da
 - [Metallica](https://youtu.be/u1y8MQQZZEE?feature=shared&t=4052) / [2](https://youtu.be/FUEuoelOSK4?feature=shared&t=133)
 	- [Metallica Premium Monsters (Stern 2013) VPW Mod ](https://vpuniverse.com/files/file/6058-metallica-premium-monsters-stern-2013-vpw-mod/) / [roms](https://archive.org/details/mtl-180) / [PupPack](https://vpuniverse.com/files/file/6142-metallica-master-of-puppets-table-and-pup-pack-20/?tab=comments) / [stern roms](https://sternpinball.com/support/game-code/) - [roms renaming](https://www.vpforums.org/index.php?showtopic=43535) : MTL180LE.BIN  --> mtl180h.bin then zip it to  mtl_180h.zip
 - [Munsters (Original 2020) 1.05.vpx](https://vpuniverse.com/files/file/10068-munsters-original-2020-105vpx/)
+- [Scared Stuff](https://youtu.be/FUEuoelOSK4?feature=shared&t=409)
+- [Tales from the crypt](https://youtu.be/giFi-qBU1F0?feature=shared&t=222) / [2](https://www.youtube.com/watch?v=SPKYllm-0rs)
 - [Walking dead](https://youtu.be/u1y8MQQZZEE?feature=shared&t=4144)
 - [Spider Man VE](https://youtu.be/u1y8MQQZZEE?feature=shared&t=4237)
 - [Vortex](https://youtu.be/u1y8MQQZZEE?feature=shared&t=378)
