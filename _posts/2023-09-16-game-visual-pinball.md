@@ -97,9 +97,20 @@ If you want to play a PinMAME-enabled game, then you need to have the roms in th
 
 To test VPinballX, first start with a recreation or original that doesn't need roms. For eg: res/exampleTable.vpx
 
-### [B2S.Server ?]({% post_url 2023-09-24-pincab-b2bs %})
+### [B2S (Backglass server) ?]({% post_url 2023-09-24-pincab-b2bs %})
 
-The B2S code seems to be integrated into Standalone build. But How to enable it ?
+The B2S code is started to be intagrated in the Standalone build. But need to be enabled ( New feature appeared 09/2023), and have a non null window.
+
+{% highlight ini %}
+[Standalone]
+B2S = 1
+B2SBackglassX = 
+B2SBackglassY = 
+B2SBackglassWidth = 1000
+B2SBackglassHeight = 1000
+{% endhighlight %}
+
+To work the B2s file and the table must have the same name: eg `table.vpx` and `table.directb2s` (necessary in the same folder ?).
 
 see also
 - MacOS, Linux, and Android builds support [ZeDMD](https://www.pincabpassion.net/t14796-zedmd-installation-english) displays.
