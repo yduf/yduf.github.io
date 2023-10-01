@@ -122,7 +122,7 @@ Un PupPack est un ensemble de médias et d'effets visuels qui sont intégrés da
 	- [Tales Of The Arabian Nights pin2dmd colorization v 2.0  ](https://vpuniverse.com/files/file/5532-tales-of-the-arabian-nights/)
 - [Cactus canyon](https://youtu.be/u1y8MQQZZEE?feature=shared&t=3270) / [2](https://youtu.be/giFi-qBU1F0?feature=shared&t=131)
 - [The Flintstones V1.25.8 ](https://www.vpforums.org/index.php?app=downloads&showfile=14473)
-- [Scared Stuff](https://youtu.be/FUEuoelOSK4?feature=shared&t=409)
+- [Scared Stuff](https://youtu.be/FUEuoelOSK4?feature=shared&t=409) / [roms](https://www.vpforums.org/index.php?app=downloads&showfile=1286)
 - [Tales from the crypt](https://youtu.be/giFi-qBU1F0?feature=shared&t=222)
 - [Monster Bash](https://youtu.be/u1y8MQQZZEE?feature=shared&t=3309)
 - [The Simpsons](https://youtu.be/u1y8MQQZZEE?feature=shared&t=3488) / [2](https://www.youtube.com/watch?v=IjZ0MaY3JMU)
