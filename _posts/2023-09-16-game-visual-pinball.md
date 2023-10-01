@@ -108,6 +108,12 @@ see also
 ### Physics
 - [slow the ball ?](https://www.reddit.com/r/virtualpinball/comments/zjie45/vpinballx_slow_the_ball_down_on_some_tables/)
 
+### [Pup Pack](https://chat.openai.com/c/a298701b-2209-4201-a4c8-9a0dd2881c1a)
+
+"PupPack" est un terme utilisé dans le monde du virtual pinball pour désigner un type de package spécifique pour les tables de vpinball, qui sont des simulations de flippers sur ordinateur. Le terme "PupPack" est dérivé de "PinUP Player Pack" ou "PUP Pack".
+
+Un PupPack est un ensemble de médias et d'effets visuels qui sont intégrés dans une table de vpinball. Ces packs comprennent généralement des vidéos, des images, des animations et des effets sonores qui sont synchronisés avec le gameplay de la table. Ces éléments visuels et sonores peuvent ajouter une nouvelle dimension à l'expérience de jeu en créant des cinématiques, des effets de lumière et des animations spéciales qui se déclenchent pendant le jeu.
+
 ### [Tables](https://archive.org/download/Visual_Pinball_2020-06-20/Visual%20Pinball%20%5BVPXx%5D%20Original%20Tables/)
 - [Arabian Night](https://youtu.be/u1y8MQQZZEE?feature=shared&t=2952) / [2](https://youtu.be/FUEuoelOSK4?feature=shared&t=167) / [3](https://www.youtube.com/watch?v=pWyzwSjGecc)
 	- [VPUniverse (4k)](https://vpuniverse.com/files/file/12652-tales-of-the-arabian-nights-4k-williams-1996/)
