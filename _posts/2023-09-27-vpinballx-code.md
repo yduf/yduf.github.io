@@ -13,11 +13,14 @@ Dependancies
 - [Imgui]({% post_url 2020-11-04-imgui %}) - used by live editor 
 - [Plog]({% post_url 2023-09-27-cpp-lib-plog %}) - Pretty powerful logging library in about 1000 lines of code. Cross-platform
 - [tinyxml2](https://github.com/leethomason/tinyxml2) -  small, efficient, C++ XML parser - used for .pov files.
+- [harfbuzz](https://github.com/harfbuzz/harfbuzz) - a text shaping engine.
 
 ##  Debug mode
 
 {% highlight bash %}
-### change build instruction to
+### change build instruction from 
+cmake -DCMAKE_BUILD_TYPE=Release -B build
+## to 
 cmake -DCMAKE_BUILD_TYPE=Debug -B build_debug # so you have debug information
 {% endhighlight %}
 
@@ -57,4 +60,4 @@ Make it work on linux to be able to build a [pincab]({% post_url 2023-09-17-proj
 
 ### Next
 
-- How to enable B2S in standalone ?
+- How to enable DMD in B2S in standalone ?
