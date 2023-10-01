@@ -128,6 +128,7 @@ Un PupPack est un ensemble de médias et d'effets visuels qui sont intégrés da
 - [The Simpsons](https://youtu.be/u1y8MQQZZEE?feature=shared&t=3488) / [2](https://www.youtube.com/watch?v=IjZ0MaY3JMU)
 - [AC/DC  Lucy](https://youtu.be/u1y8MQQZZEE?feature=shared&t=3993) / [2](https://youtu.be/FUEuoelOSK4?feature=shared&t=193)
 	- [ACDC LUCI (Stern 2013) VPW Mod ](https://vpuniverse.com/files/file/12471-acdc-luci-stern-2013-vpw-mod/)
+- [Megaman](https://vpuniverse.com/files/file/14877-megaman-original-2023/)
 - [Metallica](https://youtu.be/u1y8MQQZZEE?feature=shared&t=4052) / [2](https://youtu.be/FUEuoelOSK4?feature=shared&t=133)
 	- [Metallica Premium Monsters (Stern 2013) VPW Mod ](https://vpuniverse.com/files/file/6058-metallica-premium-monsters-stern-2013-vpw-mod/) / [roms](https://archive.org/details/mtl-180) / [PupPack](https://vpuniverse.com/files/file/6142-metallica-master-of-puppets-table-and-pup-pack-20/?tab=comments)
 - [Walking dead](https://youtu.be/u1y8MQQZZEE?feature=shared&t=4144)
