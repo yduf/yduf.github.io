@@ -139,6 +139,8 @@ Un PupPack est un ensemble de médias et d'effets visuels qui sont intégrés da
 	- [JP's Ghostbusters Slimer 5.0.0](https://www.vpforums.org/index.php?app=downloads&showfile=12488)
 - [Gorgar](https://www.vpforums.org/index.php?app=downloads&showfile=8964)
 	- [Gorgar (Williams 1979)_Bigus(MOD) 1.1](https://www.vpforums.org/index.php?app=downloads&showfile=16050) - [roms](https://www.vpforums.org/index.php?app=downloads&showfile=783)
+- ★★★☆☆ [JAWS Balutito MOD ]()
+	- [JAWS Balutito MOD ](https://vpuniverse.com/files/file/10976-jaws-balutito-mod)
 - [Scared Stuff](https://youtu.be/FUEuoelOSK4?feature=shared&t=409)
 - [Tales from the crypt](https://youtu.be/giFi-qBU1F0?feature=shared&t=222)
 - [Monster Bash](https://youtu.be/u1y8MQQZZEE?feature=shared&t=3309)
