@@ -123,6 +123,7 @@ Un PupPack est un ensemble de médias et d'effets visuels qui sont intégrés da
 - [Cactus canyon](https://youtu.be/u1y8MQQZZEE?feature=shared&t=3270) / [2](https://youtu.be/giFi-qBU1F0?feature=shared&t=131)
 - [Elvis 4.0.0 ](https://www.vpforums.org/index.php?app=downloads&showfile=12983) / [roms](https://www.vpforums.org/index.php?app=downloads&module=display&section=categoryletters&cat=9&sort_order=ASC&sort_key=file_name&letter=E&num=10&st=40)
 - [The Flintstones V1.25.8 ](https://www.vpforums.org/index.php?app=downloads&showfile=14473)  / [roms](https://www.vpforums.org/index.php?app=downloads&showfile=1286)
+- [JP's Friday the 13th 4.0.0](https://www.vpforums.org/index.php?app=downloads&showfile=16344)
 - [JP's Ghostbusters Slimer 5.0.0](https://www.vpforums.org/index.php?app=downloads&showfile=12488)
 - [Scared Stuff](https://youtu.be/FUEuoelOSK4?feature=shared&t=409)
 - [Tales from the crypt](https://youtu.be/giFi-qBU1F0?feature=shared&t=222)
