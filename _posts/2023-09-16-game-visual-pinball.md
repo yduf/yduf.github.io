@@ -114,6 +114,7 @@ To work the B2s file and the table must have the same name: eg `table.vpx` and `
 
 see also
 - [Backglass Software Setup](http://mjrnet.org/pinscape/BuildGuideV2/BuildGuide.php?sid=b2s) - mention 2-screen and 3-screen versions
+	- [how to install VPX, part 2: Backglasses](https://cohost.org/arborelia/post/770765-how-to-install-vpx)
 - MacOS, Linux, and Android builds support [ZeDMD](https://www.pincabpassion.net/t14796-zedmd-installation-english) displays.
 - [Visual Pinball X on Linux](https://davidhouchin.com/posts/vpx-linux/)
 
