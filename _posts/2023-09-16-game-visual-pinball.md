@@ -113,6 +113,7 @@ see also
 	- [VPUniverse (4k)](https://vpuniverse.com/files/file/12652-tales-of-the-arabian-nights-4k-williams-1996/)
 	- [Tales Of The Arabian Nights pin2dmd colorization v 2.0  ](https://vpuniverse.com/files/file/5532-tales-of-the-arabian-nights/)
 - [Medieval Madness](https://youtu.be/u1y8MQQZZEE?feature=shared&t=3107)
+	- [Medieval Madness (Williams 1997)_Bigus(MOD) 2.0 ](https://www.vpforums.org/index.php?app=downloads&showfile=15354)
 - [Scared Stuff](https://youtu.be/FUEuoelOSK4?feature=shared&t=409)
 - [Cactus canyon](https://youtu.be/u1y8MQQZZEE?feature=shared&t=3270) / [2](https://youtu.be/giFi-qBU1F0?feature=shared&t=131)
 - [Tales from the crypt](https://youtu.be/giFi-qBU1F0?feature=shared&t=222)
@@ -135,6 +136,7 @@ see also
 see also
 - [VPForum](https://www.vpforums.org/index.php?) - to download tables
 	- [VPX Table Tutorials](https://vpinhub.com/vpxtables)
+    - [Alphabetical Listing of VPM tables w/Links to Tutorials 1.7.0 ](https://www.vpforums.org/index.php?app=downloads&showfile=5221)
 - [VPUniverse](https://vpuniverse.com/files/) - some high def table
 - [virtual-pinball-spreadsheet](https://virtual-pinball-spreadsheet.web.app/) - nice updated list of tables
 - [Awesome Visual Pinball Recreations 2023 for your Virtual Pinball](https://www.youtube.com/watch?v=mM1GMs3ceLs)
