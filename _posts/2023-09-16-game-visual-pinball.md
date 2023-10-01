@@ -73,7 +73,14 @@ Here the control are mean for cabinet adjustement and so use games key
 
 **POV files** go in the table folder and need to have same exact name as the associated table file
 
-Do not import the POV to the table, that is the entire point of having a POV, you can change the view with no actual changes made to the table itself
+Do not import the POV to the table, that is the entire point of having a POV, you can change the view with no actual changes made to the table itself.
+
+To edit/create .pov file:
+{% highlight bash %}
+./build/VPinballX_GL -play ./res/exampleTable.vpx -povedit
+{% endhighlight %}
+
+Edit setting with [pinball controls](#doc), then press `1` to save and exit.
 
 [**Autopov**](https://www.reddit.com/r/virtualpinball/comments/goo5v8/folder_for_the_pov_file/) - 
 Export a POV that you like with the file name “Autopov.POV” and save it to your Tables folder. If you load a table that doesn’t have its own unique external POV file (with the same filename for POV as the VPX), it will use this Autopov file instead.
