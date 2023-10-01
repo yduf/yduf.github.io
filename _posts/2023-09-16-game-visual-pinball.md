@@ -135,7 +135,7 @@ Un PupPack est un ensemble de médias et d'effets visuels qui sont intégrés da
 - [Elvis 4.0.0 ](https://www.vpforums.org/index.php?app=downloads&showfile=12983) / [roms](https://www.vpforums.org/index.php?app=downloads&module=display&section=categoryletters&cat=9&sort_order=ASC&sort_key=file_name&letter=E&num=10&st=40)
 - [The Flintstones V1.25.8 ](https://www.vpforums.org/index.php?app=downloads&showfile=14473)  / [roms](https://www.vpforums.org/index.php?app=downloads&showfile=1286)
 - ★★★★☆ [JP's Friday the 13th 4.0.0](https://www.vpforums.org/index.php?app=downloads&showfile=16344)
-- [Ghost Buster](https://youtu.be/u1y8MQQZZEE?feature=shared&t=4206)
+- [Ghost Buster](https://youtu.be/u1y8MQQZZEE?feature=shared&t=4206) / [2](https://www.youtube.com/watch?v=rRKON3i66I4)
 	- [JP's Ghostbusters Slimer 5.0.0](https://www.vpforums.org/index.php?app=downloads&showfile=12488)
 - [Gorgar](https://www.vpforums.org/index.php?app=downloads&showfile=8964)
 	- [Gorgar (Williams 1979)_Bigus(MOD) 1.1](https://www.vpforums.org/index.php?app=downloads&showfile=16050) - [roms](https://www.vpforums.org/index.php?app=downloads&showfile=783)
