@@ -60,4 +60,4 @@ Make it work on linux to be able to build a [pincab]({% post_url 2023-09-17-proj
 
 ### Next
 
-- How to enable DMD in B2S in standalone ?
+- How to enable DMD inside B2S in standalone ?
