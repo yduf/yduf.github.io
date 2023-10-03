@@ -134,6 +134,9 @@ Un PupPack est un ensemble de médias et d'effets visuels qui sont intégrés da
 	- [VPUniverse (4k)](https://vpuniverse.com/files/file/12652-tales-of-the-arabian-nights-4k-williams-1996/)
 	- [Tales Of The Arabian Nights pin2dmd colorization v 2.0  ](https://vpuniverse.com/files/file/5532-tales-of-the-arabian-nights/)
 - [Cactus canyon](https://youtu.be/u1y8MQQZZEE?feature=shared&t=3270) / [2](https://youtu.be/giFi-qBU1F0?feature=shared&t=131)
+- [Cuphead Pro Pinball VPX](https://www.youtube.com/watch?v=ku_Pp4RAegg)
+	- [Cuphead Pro, PuP Perdition Edition (D. Goblett & Co 2020)](https://vpuniverse.com/files/file/15901-cuphead-pro-pup-perdition-edition-d-goblett-co-2020/)
+- [Elvira House of horrors](https://vpuniverse.com/files/file/12296-elviras-party-house-of-horror/) / [2](https://www.youtube.com/watch?v=1eeBfJJXGwg)
 - [Elvis 4.0.0 ](https://www.vpforums.org/index.php?app=downloads&showfile=12983) / [roms](https://www.vpforums.org/index.php?app=downloads&module=display&section=categoryletters&cat=9&sort_order=ASC&sort_key=file_name&letter=E&num=10&st=40)
 
 - [The Flintstones (Williams 1994) 1.2.6 - Pinball VPX](https://www.youtube.com/watch?v=SWgLiSW9koQ)
@@ -165,7 +168,7 @@ Un PupPack est un ensemble de médias et d'effets visuels qui sont intégrés da
 	- [Cirqus Voltaire Hanibals 4k Mod 3.6 ](https://www.vpforums.org/index.php?app=downloads&showfile=11841)
 - [Master of the universe)](https://www.vpforums.org/index.php?showtopic=41193#entry485161)
 	- ["Masters of the Universe (VPX) - PuP-Pack](https://www.youtube.com/watch?v=L7-L2aJjjrM)
-- [Elvira House of horrors](https://vpuniverse.com/files/file/12296-elviras-party-house-of-horror/) / [2](https://www.youtube.com/watch?v=1eeBfJJXGwg)
+
 - [Walking dead](https://youtu.be/u1y8MQQZZEE?feature=shared&t=4144)
 - [JP's Wrath of Olympus 4.0.0](https://www.vpforums.org/index.php?app=downloads&showfile=16457)
 
