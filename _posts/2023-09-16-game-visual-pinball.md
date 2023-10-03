@@ -157,7 +157,6 @@ Un PupPack est un ensemble de médias et d'effets visuels qui sont intégrés da
 - [Munsters (Original 2020) 1.05.vpx](https://vpuniverse.com/files/file/10068-munsters-original-2020-105vpx/)
 - [Scared Stuff](https://youtu.be/FUEuoelOSK4?feature=shared&t=409)
 - [Tales from the crypt](https://youtu.be/giFi-qBU1F0?feature=shared&t=222) / [2](https://www.youtube.com/watch?v=SPKYllm-0rs)
-- [Walking dead](https://youtu.be/u1y8MQQZZEE?feature=shared&t=4144)
 - [Spider Man VE](https://youtu.be/u1y8MQQZZEE?feature=shared&t=4237)
 - [Vortex](https://youtu.be/u1y8MQQZZEE?feature=shared&t=378)
 - [Sorcerer](https://youtu.be/u1y8MQQZZEE?feature=shared&t=378)
@@ -167,7 +166,8 @@ Un PupPack est un ensemble de médias et d'effets visuels qui sont intégrés da
 - [Master of the universe)](https://www.vpforums.org/index.php?showtopic=41193#entry485161)
 	- ["Masters of the Universe (VPX) - PuP-Pack](https://www.youtube.com/watch?v=L7-L2aJjjrM)
 - [Elvira House of horrors](https://vpuniverse.com/files/file/12296-elviras-party-house-of-horror/) / [2](https://www.youtube.com/watch?v=1eeBfJJXGwg)
-
+- [Walking dead](https://youtu.be/u1y8MQQZZEE?feature=shared&t=4144)
+- [JP's Wrath of Olympus 4.0.0](https://www.vpforums.org/index.php?app=downloads&showfile=16457)
 see also
 - [VPForum](https://www.vpforums.org/index.php?) - to download tables
 	- [VPX Table Tutorials](https://vpinhub.com/vpxtables)
