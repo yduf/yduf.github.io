@@ -9,7 +9,7 @@ tags: pincab table games
 
 - [vpxtools](https://github.com/francisdb/vpxtool) - Cross-platform console based utility for the vpinball ecosystem
 - [pinball-parts](https://github.com/vbousquet/pinball-parts) - Blender Pinball Parts library
-
+- [table can be patched by standalone](https://github.com/jsm174/vpx-standalone-scripts/tree/master/Judge%20Dredd%20(Bally%201993)%20VPW%20v1.1) - to fix vbx issue
 
 ### [doc](https://github.com/vpinball/vpinball/tree/master/docs)
 - [Visual Pinball Installation Guide ](https://www.vpforums.org/index.php?app=tutorials&article=1)
