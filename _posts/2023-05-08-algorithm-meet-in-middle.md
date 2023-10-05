@@ -11,3 +11,5 @@ So the creation of Trible DES (112bits key).
 For solving rubik cube:
 Need to explorer 10¹⁰ x2 state instead of 10²⁰. Which may be achievable (in days).
 
+### see also
+- [Tunnel of Eupalinos](https://en.wikipedia.org/wiki/Tunnel_of_Eupalinos)
