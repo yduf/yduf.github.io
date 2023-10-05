@@ -15,6 +15,7 @@ see also
     - avec l'augmentation du cout de l'energie on fera le chemin inverse de l'industrie (relocalisation / augmentation des prix / diminution de la specialisation).
 		- Part des echanges mondiaux dans le PIB mondial: 25% en 1970 / 60% en  2008 / 55% en 2023
 		- 2008 est le pic du petrole conventionnel (hors gaz de chist)
+        - [pic de Hubert](https://www.youtube.com/watch?v=a71PGGCfjdE) - l'extraction d'une ressource recontre toujours un pic a partir duquel elle devient de plus en plus compliqué et  couteuse.
 
 [![caption](https://www.connaissancedesenergies.org/sites/default/files/inline-images/Petrole-Production-des-16-principaux-pays-fournisseurs-UE_0.png)](https://www.connaissancedesenergies.org/petrole-shift-project-precise-les-risques-dapprovisionnement-de-lue-220218)
 
