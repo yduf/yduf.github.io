@@ -8,6 +8,8 @@ tags: pincab table games
 [![caption](https://www.flylanddesigns.com/wp-content/uploads/Shop-Thumbnail-Pinball-845x321.jpg)](https://www.flylanddesigns.com/)
 
 - [vpxtools](https://github.com/francisdb/vpxtool) - Cross-platform console based utility for the vpinball ecosystem
+- [pinball-parts](https://github.com/vbousquet/pinball-parts) - Blender Pinball Parts library
+
 
 ### [doc](https://github.com/vpinball/vpinball/tree/master/docs)
 - [Visual Pinball Installation Guide ](https://www.vpforums.org/index.php?app=tutorials&article=1)
