@@ -10,6 +10,7 @@ Use CMake
 
 Dependancies
 - [SDL2](https://www.libsdl.org/) + OpenGL
+- [BASS audio library ](https://www.un4seen.com/) - commercial/free - up to 4 separate stereo outputs with a 7.1 soundcard 
 - [Imgui]({% post_url 2020-11-04-imgui %}) - used by live editor 
 - [Plog]({% post_url 2023-09-27-cpp-lib-plog %}) - Pretty powerful logging library in about 1000 lines of code. Cross-platform
 - [tinyxml2](https://github.com/leethomason/tinyxml2) -  small, efficient, C++ XML parser - used for .pov files.
