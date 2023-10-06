@@ -165,6 +165,7 @@ Un PupPack est un ensemble de médias et d'effets visuels qui sont intégrés da
 - [Metallica](https://youtu.be/u1y8MQQZZEE?feature=shared&t=4052) / [2](https://youtu.be/FUEuoelOSK4?feature=shared&t=133)
 	- [Metallica Premium Monsters (Stern 2013) VPW Mod ](https://vpuniverse.com/files/file/6058-metallica-premium-monsters-stern-2013-vpw-mod/) / [roms](https://archive.org/details/mtl-180) / [PupPack](https://vpuniverse.com/files/file/6142-metallica-master-of-puppets-table-and-pup-pack-20/?tab=comments) / [stern roms](https://sternpinball.com/support/game-code/) - [roms renaming](https://www.vpforums.org/index.php?showtopic=43535) : MTL180LE.BIN  --> mtl180h.bin then zip it to  mtl_180h.zip
 - [Munsters (Original 2020) 1.05.vpx](https://vpuniverse.com/files/file/10068-munsters-original-2020-105vpx/)
+- [JP's IT - Pinball Madness 1.0.0](https://www.vpforums.org/index.php?app=downloads&showfile=16880)
 - [Scared Stuff](https://youtu.be/FUEuoelOSK4?feature=shared&t=409)
 - [Tales from the crypt](https://youtu.be/giFi-qBU1F0?feature=shared&t=222) / [2](https://www.youtube.com/watch?v=SPKYllm-0rs)
 - [Space Patrol (Taito do Brasil - 1978) 4.3.0 (JP's)](https://www.vpforums.org/index.php?app=downloads&showfile=14173)
