@@ -177,7 +177,7 @@ Un PupPack est un ensemble de médias et d'effets visuels qui sont intégrés da
 	- [Cirqus Voltaire Hanibals 4k Mod 3.6 ](https://www.vpforums.org/index.php?app=downloads&showfile=11841)
 - [Master of the universe)](https://www.vpforums.org/index.php?showtopic=41193#entry485161)
 	- ["Masters of the Universe (VPX) - PuP-Pack](https://www.youtube.com/watch?v=L7-L2aJjjrM)
-- [Vortex (Taito do Brasil - 1981) 4.0.0 ](https://www.vpforums.org/index.php?app=downloads&showfile=13336)
+- [Vortex (Taito do Brasil - 1981) 4.0.0 ](https://www.vpforums.org/index.php?app=downloads&showfile=13336) / [rom](https://www.vpforums.org/index.php?app=downloads&showfile=567)
 - [Walking dead](https://youtu.be/u1y8MQQZZEE?feature=shared&t=4144)
 - [JP's Wrath of Olympus 4.0.0](https://www.vpforums.org/index.php?app=downloads&showfile=16457)
 
