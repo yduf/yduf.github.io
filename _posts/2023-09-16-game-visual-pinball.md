@@ -144,7 +144,7 @@ Un PupPack est un ensemble de médias et d'effets visuels qui sont intégrés da
 	- [Cuphead Pro, PuP Perdition Edition (D. Goblett & Co 2020)](https://vpuniverse.com/files/file/15901-cuphead-pro-pup-perdition-edition-d-goblett-co-2020/)
 - [JP's Deadpool 5.1.2 ](https://www.vpforums.org/index.php?app=downloads&showfile=15967)
 - [Elvira House of horrors](https://vpuniverse.com/files/file/12296-elviras-party-house-of-horror/) / [2](https://www.youtube.com/watch?v=1eeBfJJXGwg)
-- [Elvis 4.0.0 ](https://www.vpforums.org/index.php?app=downloads&showfile=12983) / [roms](https://www.vpforums.org/index.php?app=downloads&module=display&section=categoryletters&cat=9&sort_order=ASC&sort_key=file_name&letter=E&num=10&st=40) / [b2s](https://vpuniverse.com/files/file/13971-elvis-stern-2004-b2s-with-full-dmd/)
+- ★★★☆☆ [Elvis 4.0.0 ](https://www.vpforums.org/index.php?app=downloads&showfile=12983) / [roms](https://www.vpforums.org/index.php?app=downloads&module=display&section=categoryletters&cat=9&sort_order=ASC&sort_key=file_name&letter=E&num=10&st=40) / [b2s](https://vpuniverse.com/files/file/13971-elvis-stern-2004-b2s-with-full-dmd/)
 - [Escape from monkey island 1.1](https://www.vpforums.org/index.php?app=downloads&showfile=16157)
 - ★★★★☆ [Flashman (Sportmatic 1984) 4.0.2](https://www.vpforums.org/index.php?app=downloads&showfile=16517)
 - [The Flintstones (Williams 1994) 1.2.6 - Pinball VPX](https://www.youtube.com/watch?v=SWgLiSW9koQ)
