@@ -175,7 +175,7 @@ Un PupPack est un ensemble de médias et d'effets visuels qui sont intégrés da
 - [Rollercoaster Tycoon (Stern 2002) 4.0.1 ](https://www.vpforums.org/index.php?app=downloads&showfile=13920) / [ROMS](https://www.vpforums.org/index.php?app=downloads&showfile=1125)
 - [Scared Stuff](https://youtu.be/FUEuoelOSK4?feature=shared&t=409)
 - [Scooby Doo, 2022 v1.0.1](https://www.vpforums.org/index.php?app=downloads&showfile=16631)
-- [Space Patrol (Taito do Brasil - 1978) 4.3.0 (JP's)](https://www.vpforums.org/index.php?app=downloads&showfile=14173)
+- ★★★☆☆ [Space Patrol (Taito do Brasil - 1978) 4.3.0 (JP's)](https://www.vpforums.org/index.php?app=downloads&showfile=14173)
 - [Spider Man VE](https://youtu.be/u1y8MQQZZEE?feature=shared&t=4237)
 - [Sorcerer](https://youtu.be/u1y8MQQZZEE?feature=shared&t=378)
 - [Tales from the crypt](https://youtu.be/giFi-qBU1F0?feature=shared&t=222) / [2](https://www.youtube.com/watch?v=SPKYllm-0rs)
