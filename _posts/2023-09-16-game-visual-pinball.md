@@ -160,16 +160,18 @@ Un PupPack est un ensemble de médias et d'effets visuels qui sont intégrés da
 - ★★★★☆ [JP's IT - Pinball Madness 1.0.0](https://www.vpforums.org/index.php?app=downloads&showfile=16880)
 - ★★★☆☆ [JAWS Balutito MOD ](https://www.youtube.com/watch?v=7QvoDWaeq44)
 	- [JAWS Balutito MOD ](https://vpuniverse.com/files/file/10976-jaws-balutito-mod)
+- [Master of the universe)](https://www.vpforums.org/index.php?showtopic=41193#entry485161)
+	- ["Masters of the Universe (VPX) - PuP-Pack](https://www.youtube.com/watch?v=L7-L2aJjjrM)
 
-- [Monster Bash](https://youtu.be/u1y8MQQZZEE?feature=shared&t=3309)
-- [The Simpsons](https://youtu.be/u1y8MQQZZEE?feature=shared&t=3488) / [2](https://www.youtube.com/watch?v=IjZ0MaY3JMU)
 - [Medieval Madness](https://youtu.be/u1y8MQQZZEE?feature=shared&t=3107)
 	- [Medieval Madness (Williams 1997)_Bigus(MOD) 2.0 ](https://www.vpforums.org/index.php?app=downloads&showfile=15354) / [roms](https://www.vpforums.org/index.php?app=downloads&showfile=1347) - script error
 	- [Medieval Madness Tom Tower 3.0b final (dozer 1.7) 3.0 ](https://www.vpforums.org/index.php?app=downloads&showfile=11742)
 - [Megaman](https://vpuniverse.com/files/file/14877-megaman-original-2023/)
 - [Metallica](https://youtu.be/u1y8MQQZZEE?feature=shared&t=4052) / [2](https://youtu.be/FUEuoelOSK4?feature=shared&t=133)
 	- [Metallica Premium Monsters (Stern 2013) VPW Mod ](https://vpuniverse.com/files/file/6058-metallica-premium-monsters-stern-2013-vpw-mod/) / [roms](https://archive.org/details/mtl-180) / [PupPack](https://vpuniverse.com/files/file/6142-metallica-master-of-puppets-table-and-pup-pack-20/?tab=comments) / [stern roms](https://sternpinball.com/support/game-code/) - [roms renaming](https://www.vpforums.org/index.php?showtopic=43535) : MTL180LE.BIN  --> mtl180h.bin then zip it to  mtl_180h.zip
+- [Monster Bash](https://youtu.be/u1y8MQQZZEE?feature=shared&t=3309)
 - [Munsters (Original 2020) 1.05.vpx](https://vpuniverse.com/files/file/10068-munsters-original-2020-105vpx/)
+- [The Simpsons](https://youtu.be/u1y8MQQZZEE?feature=shared&t=3488) / [2](https://www.youtube.com/watch?v=IjZ0MaY3JMU)
 - [Rollercoaster Tycoon (Stern 2002) 4.0.1 ](https://www.vpforums.org/index.php?app=downloads&showfile=13920) / [ROMS](https://www.vpforums.org/index.php?app=downloads&showfile=1125)
 - [Scared Stuff](https://youtu.be/FUEuoelOSK4?feature=shared&t=409)
 - [Scooby Doo, 2022 v1.0.1](https://www.vpforums.org/index.php?app=downloads&showfile=16631)
@@ -180,8 +182,7 @@ Un PupPack est un ensemble de médias et d'effets visuels qui sont intégrés da
 - [Tom & Jerry (Williams 2018) (DOF) 1.2](https://www.vpforums.org/index.php?app=downloads&showfile=14023)
 - [circus Voltaire](https://vpuniverse.com/files/file/15989-cirqus-voltaire-bally-1997-vpw-mod/)
 	- [Cirqus Voltaire Hanibals 4k Mod 3.6 ](https://www.vpforums.org/index.php?app=downloads&showfile=11841)
-- [Master of the universe)](https://www.vpforums.org/index.php?showtopic=41193#entry485161)
-	- ["Masters of the Universe (VPX) - PuP-Pack](https://www.youtube.com/watch?v=L7-L2aJjjrM)
+
 - [Vortex](https://youtu.be/u1y8MQQZZEE?feature=shared&t=378) 
 	- [Vortex (Taito do Brasil - 1981) 4.0.0 ](https://www.vpforums.org/index.php?app=downloads&showfile=13336) / [rom](https://www.vpforums.org/index.php?app=downloads&showfile=567)
 - [Walking dead](https://youtu.be/u1y8MQQZZEE?feature=shared&t=4144)
