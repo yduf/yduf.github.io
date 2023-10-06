@@ -64,5 +64,6 @@ Make it work on linux to be able to build a [pincab]({% post_url 2023-09-17-proj
 
 - How to enable DMD inside B2S in standalone ? -  [see](https://discord.com/channels/652274650524418078/1076655472846831667/1154883166486659244)
 	-  [patch](https://discord.com/channels/652274650524418078/1076655472846831667/1144343645739290695)
+    - DMD in it's own windows work fine (see Attack from Mars), but may depends on table implementation
 
 - loading [lucy? / anaglyph](https://discord.com/channels/652274650524418078/1076655472846831667/1156362516054691841)
