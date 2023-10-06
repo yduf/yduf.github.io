@@ -11,6 +11,8 @@ tags: pincab project shop
 - [vitrage](https://www.pincabpassion.net/t3768-les-differents-vitrages)
 - [bois](https://www.pincabpassion.net/t11172-resolu-quel-bois-pour-mon-pincab) - contreplaqué vs MDF
 	- [Cutting Plans for Cabinet Construction](http://mjrnet.org/pinscape/BuildGuideV2/BuildGuide.php?sid=plywoodCuttingPlans#singleSheetPlan)
+    - [Body std dimension](https://www.flippers.be/basics/101_pinball_dimensions.html) / [2](https://www.reddit.com/r/pinball/comments/1m9noh/standard_vs_widebody_dimensions/) - 56cm wide standard, 63cm wide widebody.
+	- [Williams Widebody Lockdown Bar](https://www.reddit.com/r/virtualpinball/comments/z3spu3/williams_widebody_lockdown_bar_lockbar_assembly/)
     
 ![caption](http://www.jadejeux.com/img/cms/Dimensions_cm.jpg)
 
