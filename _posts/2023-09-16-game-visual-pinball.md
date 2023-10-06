@@ -145,7 +145,7 @@ Un PupPack est un ensemble de médias et d'effets visuels qui sont intégrés da
 
 - [The Flintstones (Williams 1994) 1.2.6 - Pinball VPX](https://www.youtube.com/watch?v=SWgLiSW9koQ)
 	- [The Flintstones V1.25.8 ](https://www.vpforums.org/index.php?app=downloads&showfile=14473)  / [roms](https://www.vpforums.org/index.php?app=downloads&showfile=1286)
-- ★★★★★ [JP(d pinball tables](https://www.vpforums.org/index.php?app=core&module=search&do=user_activity&sid=40128d9b02d204ff0a868b9c159c7f81&mid=277&search_app=downloads&userMode=all&search_app_filters%5Bdownloads%5D%5BsearchInKey%5D=files&search_app_filters%5Bdownloads%5D%5Bfiles%5D%5BsortKey%5D=update&search_app_filters%5Bdownloads%5D%5Bfiles%5D%5BsortDir%5D=)
+- ★★★★★ [JP'd pinball tables](https://www.vpforums.org/index.php?app=core&module=search&do=user_activity&sid=40128d9b02d204ff0a868b9c159c7f81&mid=277&search_app=downloads&userMode=all&search_app_filters%5Bdownloads%5D%5BsearchInKey%5D=files&search_app_filters%5Bdownloads%5D%5Bfiles%5D%5BsortKey%5D=update&search_app_filters%5Bdownloads%5D%5Bfiles%5D%5BsortDir%5D=)
 - ★★★★★ [JP's Friday the 13th 4.0.0](https://www.vpforums.org/index.php?app=downloads&showfile=16344)
 - ★★★★☆ [Ghost Buster](https://youtu.be/u1y8MQQZZEE?feature=shared&t=4206) / [2](https://www.youtube.com/watch?v=rRKON3i66I4)
 	-★★★★☆  [JP's Ghostbusters Slimer 5.0.0](https://www.vpforums.org/index.php?app=downloads&showfile=12488) / [B2S](https://www.vpforums.org/index.php?app=downloads&showfile=12899) / [DMD](https://vpuniverse.com/files/file/6549-ghost-buster-fulldmd-add-on/)
