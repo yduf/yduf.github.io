@@ -144,7 +144,7 @@ Un PupPack est un ensemble de médias et d'effets visuels qui sont intégrés da
 - [JP's Deadpool 5.1.2 ](https://www.vpforums.org/index.php?app=downloads&showfile=15967)
 - [Elvira House of horrors](https://vpuniverse.com/files/file/12296-elviras-party-house-of-horror/) / [2](https://www.youtube.com/watch?v=1eeBfJJXGwg)
 - [Elvis 4.0.0 ](https://www.vpforums.org/index.php?app=downloads&showfile=12983) / [roms](https://www.vpforums.org/index.php?app=downloads&module=display&section=categoryletters&cat=9&sort_order=ASC&sort_key=file_name&letter=E&num=10&st=40)
-- [Flashman (Sportmatic 1984) 4.0.2](https://www.vpforums.org/index.php?app=downloads&showfile=16517)
+- ★★★★☆ [Flashman (Sportmatic 1984) 4.0.2](https://www.vpforums.org/index.php?app=downloads&showfile=16517)
 - [The Flintstones (Williams 1994) 1.2.6 - Pinball VPX](https://www.youtube.com/watch?v=SWgLiSW9koQ)
 	- [The Flintstones V1.25.8 ](https://www.vpforums.org/index.php?app=downloads&showfile=14473)  / [roms](https://www.vpforums.org/index.php?app=downloads&showfile=1286)
 - ★★★★★ [JP'd pinball tables](https://www.vpforums.org/index.php?app=core&module=search&do=user_activity&sid=40128d9b02d204ff0a868b9c159c7f81&mid=277&search_app=downloads&userMode=all&search_app_filters%5Bdownloads%5D%5BsearchInKey%5D=files&search_app_filters%5Bdownloads%5D%5Bfiles%5D%5BsortKey%5D=update&search_app_filters%5Bdownloads%5D%5Bfiles%5D%5BsortDir%5D=)
