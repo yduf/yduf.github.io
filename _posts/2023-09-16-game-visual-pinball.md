@@ -184,7 +184,7 @@ Un PupPack est un ensemble de médias et d'effets visuels qui sont intégrés da
 - [Vortex](https://youtu.be/u1y8MQQZZEE?feature=shared&t=378) 
 	- [Vortex (Taito do Brasil - 1981) 4.0.0 ](https://www.vpforums.org/index.php?app=downloads&showfile=13336) / [rom](https://www.vpforums.org/index.php?app=downloads&showfile=567)
 - [Walking dead](https://youtu.be/u1y8MQQZZEE?feature=shared&t=4144)
-- [JP's Wrath of Olympus 4.0.0](https://www.vpforums.org/index.php?app=downloads&showfile=16457)
+- ★★★☆☆ [JP's Wrath of Olympus 4.0.0](https://www.vpforums.org/index.php?app=downloads&showfile=16457)
 
 ### see also
 - [VPForum](https://www.vpforums.org/index.php?) - to download tables
