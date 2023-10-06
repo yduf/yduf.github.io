@@ -10,6 +10,7 @@ tags: pincab project shop
 ### [Bricolage](https://www.pincabpassion.net/f85p240-bricolage)
 - [vitrage](https://www.pincabpassion.net/t3768-les-differents-vitrages)
 - [bois](https://www.pincabpassion.net/t11172-resolu-quel-bois-pour-mon-pincab) - contreplaqué vs MDF
+	- [Cutting Plans for Cabinet Construction](http://mjrnet.org/pinscape/BuildGuideV2/BuildGuide.php?sid=plywoodCuttingPlans#singleSheetPlan)
 
 ### Shop
 - [pinball.center](https://www.pinball.center/en/)
