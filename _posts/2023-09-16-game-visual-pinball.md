@@ -147,7 +147,7 @@ Un PupPack est un ensemble de médias et d'effets visuels qui sont intégrés da
 	- [The Flintstones V1.25.8 ](https://www.vpforums.org/index.php?app=downloads&showfile=14473)  / [roms](https://www.vpforums.org/index.php?app=downloads&showfile=1286)
 - ★★★★★ [JP's Friday the 13th 4.0.0](https://www.vpforums.org/index.php?app=downloads&showfile=16344)
 - [Ghost Buster](https://youtu.be/u1y8MQQZZEE?feature=shared&t=4206) / [2](https://www.youtube.com/watch?v=rRKON3i66I4)
-	- [JP's Ghostbusters Slimer 5.0.0](https://www.vpforums.org/index.php?app=downloads&showfile=12488)
+	- [JP's Ghostbusters Slimer 5.0.0](https://www.vpforums.org/index.php?app=downloads&showfile=12488) / [B2S](https://www.vpforums.org/index.php?app=downloads&showfile=12899)
 - [Gorgar](https://www.vpforums.org/index.php?app=downloads&showfile=8964)
 	- [Gorgar (Williams 1979)_Bigus(MOD) 1.1](https://www.vpforums.org/index.php?app=downloads&showfile=16050) / [roms](https://www.vpforums.org/index.php?app=downloads&showfile=783) / [Gorgar [b2s] 1.2](https://www.vpforums.org/index.php?app=downloads&showfile=9935)
 - ★★★☆☆ [JAWS Balutito MOD ](https://www.youtube.com/watch?v=7QvoDWaeq44)
