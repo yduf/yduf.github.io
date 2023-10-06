@@ -156,7 +156,7 @@ Un PupPack est un ensemble de médias et d'effets visuels qui sont intégrés da
 - [Gorgar](https://www.vpforums.org/index.php?app=downloads&showfile=8964) / [B2S (2)](https://vpuniverse.com/files/file/5087-ghostbusters-le-stern-2016-b2s/)
 	- [Gorgar (Williams 1979)_Bigus(MOD) 1.1](https://www.vpforums.org/index.php?app=downloads&showfile=16050) / [roms](https://www.vpforums.org/index.php?app=downloads&showfile=783) / [Gorgar [b2s] 1.2](https://www.vpforums.org/index.php?app=downloads&showfile=9935)
 - [Houdini](https://youtu.be/O-jZJ9Cq-74?feature=shared&t=780)
-- [JP's IT - Pinball Madness 1.0.0](https://www.vpforums.org/index.php?app=downloads&showfile=16880)
+- ★★★★☆ [JP's IT - Pinball Madness 1.0.0](https://www.vpforums.org/index.php?app=downloads&showfile=16880)
 - ★★★☆☆ [JAWS Balutito MOD ](https://www.youtube.com/watch?v=7QvoDWaeq44)
 	- [JAWS Balutito MOD ](https://vpuniverse.com/files/file/10976-jaws-balutito-mod)
 
