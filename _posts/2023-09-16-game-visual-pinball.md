@@ -152,7 +152,7 @@ Un PupPack est un ensemble de médias et d'effets visuels qui sont intégrés da
 	- [Cuphead Pro, PuP Perdition Edition (D. Goblett & Co 2020)](https://vpuniverse.com/files/file/15901-cuphead-pro-pup-perdition-edition-d-goblett-co-2020/)
 - ★★★★☆ [JP's Deadpool 5.1.2 ](https://www.vpforums.org/index.php?app=downloads&showfile=15967)
 - [Elvira House of horrors](https://vpuniverse.com/files/file/12296-elviras-party-house-of-horror/) / [2](https://www.youtube.com/watch?v=1eeBfJJXGwg)
-- [Elvira and the Party Monsters (Bally 1989)_Bigus(MOD) 2.1](https://www.vpforums.org/index.php?app=downloads&showfile=16086)
+- [Elvira and the Party Monsters (Bally 1989)_Bigus(MOD) 2.1](https://www.vpforums.org/index.php?app=downloads&showfile=16086) / [roms](https://www.vpforums.org/index.php?app=downloads&showfile=959)
 - ★★★☆☆ [Elvis 4.0.0 ](https://www.vpforums.org/index.php?app=downloads&showfile=12983) / [roms](https://www.vpforums.org/index.php?app=downloads&module=display&section=categoryletters&cat=9&sort_order=ASC&sort_key=file_name&letter=E&num=10&st=40) / [b2s](https://vpuniverse.com/files/file/13971-elvis-stern-2004-b2s-with-full-dmd/)
 - [Escape from monkey island 1.1](https://www.vpforums.org/index.php?app=downloads&showfile=16157)
 - ★★★★☆ [Flashman (Sportmatic 1984) 4.0.2](https://www.vpforums.org/index.php?app=downloads&showfile=16517)
@@ -192,8 +192,7 @@ Un PupPack est un ensemble de médias et d'effets visuels qui sont intégrés da
 - [Spider Man VE](https://youtu.be/u1y8MQQZZEE?feature=shared&t=4237)
 - [Sorcerer](https://youtu.be/u1y8MQQZZEE?feature=shared&t=378)
 - [Tales from the crypt](https://youtu.be/giFi-qBU1F0?feature=shared&t=222) / [2](https://www.youtube.com/watch?v=SPKYllm-0rs)
-	- []()
-- [Tom & Jerry (Williams 2018) (DOF) 1.2](https://www.vpforums.org/index.php?app=downloads&showfile=14023)
+- [Tom & Jerry (Williams 2018) (DOF) 1.2](https://www.vpforums.org/index.php?app=downloads&showfile=14023) / [roms](https://vpuniverse.com/files/file/5467-tom-jerry/)
 - [circus Voltaire](https://vpuniverse.com/files/file/15989-cirqus-voltaire-bally-1997-vpw-mod/)
 	- [Cirqus Voltaire Hanibals 4k Mod 3.6 ](https://www.vpforums.org/index.php?app=downloads&showfile=11841)
 
