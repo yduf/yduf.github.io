@@ -114,7 +114,8 @@ If you want to play a PinMAME-enabled game, then you need to have the roms in th
 
 To test VPinballX, first start with a recreation or original that doesn't need roms. For eg: res/exampleTable.vpx
 
-
+see also
+- [FlexDMD](https://github.com/vbousquet/flexdmd) - a DMD renderer extension for Visual Pinball 
 
 ### [B2S (Backglass server)]({% post_url 2023-09-24-pincab-b2bs %})
 
