@@ -41,6 +41,7 @@ Only the [Live Editor](#live-editor) is available (if you press esc).
 see also
 - [VisualPinball.Engine ](https://github.com/freezy/VisualPinball.Engine) / [VPE Creator's guide](https://docs.visualpinball.org/creators-guide/introduction/overview.html) - a toolkit with the goal of making it easy to create pinball machines digitally. It uses Unity's High Definition Render Pipeline and comes with extensive editor tooling that aims to provide all the features needed for such a task. VPE can read Visual Pinball's file format and uses Visual Pinball's physics code for the simulation during gameplay.
 - [VPinballX (Standalone) Code]({% post_url 2023-09-27-vpinballx-code %})
+- [Ghostbusters VPX emulation](https://www.patreon.com/posts/update-february-17686171)
 
 ### [Configuration](https://forums.gameex.com/forums/topic/28932-guide-usingsetup-visual-pinball-108-with-different-settings/)
 
@@ -151,6 +152,7 @@ Un PupPack est un ensemble de médias et d'effets visuels qui sont intégrés da
 	- [Cuphead Pro, PuP Perdition Edition (D. Goblett & Co 2020)](https://vpuniverse.com/files/file/15901-cuphead-pro-pup-perdition-edition-d-goblett-co-2020/)
 - ★★★★☆ [JP's Deadpool 5.1.2 ](https://www.vpforums.org/index.php?app=downloads&showfile=15967)
 - [Elvira House of horrors](https://vpuniverse.com/files/file/12296-elviras-party-house-of-horror/) / [2](https://www.youtube.com/watch?v=1eeBfJJXGwg)
+- [Elvira and the Party Monsters (Bally 1989)_Bigus(MOD) 2.1](https://www.vpforums.org/index.php?app=downloads&showfile=16086)
 - ★★★☆☆ [Elvis 4.0.0 ](https://www.vpforums.org/index.php?app=downloads&showfile=12983) / [roms](https://www.vpforums.org/index.php?app=downloads&module=display&section=categoryletters&cat=9&sort_order=ASC&sort_key=file_name&letter=E&num=10&st=40) / [b2s](https://vpuniverse.com/files/file/13971-elvis-stern-2004-b2s-with-full-dmd/)
 - [Escape from monkey island 1.1](https://www.vpforums.org/index.php?app=downloads&showfile=16157)
 - ★★★★☆ [Flashman (Sportmatic 1984) 4.0.2](https://www.vpforums.org/index.php?app=downloads&showfile=16517)
@@ -180,18 +182,22 @@ Un PupPack est un ensemble de médias et d'effets visuels qui sont intégrés da
 - [Munsters (Original 2020) 1.05.vpx](https://vpuniverse.com/files/file/10068-munsters-original-2020-105vpx/)
 - [The Simpsons](https://youtu.be/u1y8MQQZZEE?feature=shared&t=3488) / [2](https://www.youtube.com/watch?v=IjZ0MaY3JMU)
 - [Rollercoaster Tycoon (Stern 2002) 4.0.1 ](https://www.vpforums.org/index.php?app=downloads&showfile=13920) / [ROMS](https://www.vpforums.org/index.php?app=downloads&showfile=1125)
+- Scared Stiff (Bally 1996)
+	- [Scared Stiff (Bally 1996) 1.31](https://www.vpforums.org/index.php?app=downloads&showfile=12432)
 - [Scared Stuff](https://youtu.be/FUEuoelOSK4?feature=shared&t=409)
 - [Scooby Doo, 2022 v1.0.1](https://www.vpforums.org/index.php?app=downloads&showfile=16631)
 - ★★★☆☆ [Space Patrol (Taito do Brasil - 1978) 4.3.0 (JP's)](https://www.vpforums.org/index.php?app=downloads&showfile=14173)
 - [Spider Man VE](https://youtu.be/u1y8MQQZZEE?feature=shared&t=4237)
 - [Sorcerer](https://youtu.be/u1y8MQQZZEE?feature=shared&t=378)
 - [Tales from the crypt](https://youtu.be/giFi-qBU1F0?feature=shared&t=222) / [2](https://www.youtube.com/watch?v=SPKYllm-0rs)
+	- []()
 - [Tom & Jerry (Williams 2018) (DOF) 1.2](https://www.vpforums.org/index.php?app=downloads&showfile=14023)
 - [circus Voltaire](https://vpuniverse.com/files/file/15989-cirqus-voltaire-bally-1997-vpw-mod/)
 	- [Cirqus Voltaire Hanibals 4k Mod 3.6 ](https://www.vpforums.org/index.php?app=downloads&showfile=11841)
 
 - [Vortex](https://youtu.be/u1y8MQQZZEE?feature=shared&t=378) 
 	- [Vortex (Taito do Brasil - 1981) 4.0.0 ](https://www.vpforums.org/index.php?app=downloads&showfile=13336) / [rom](https://www.vpforums.org/index.php?app=downloads&showfile=567)
+- [JP's The Walking Dead (Stern 2014) 4.0.0](https://www.vpforums.org/index.php?app=downloads&showfile=15696)
 - [Walking dead](https://youtu.be/u1y8MQQZZEE?feature=shared&t=4144)
 - ★★★☆☆ [JP's Wrath of Olympus 4.0.0](https://www.vpforums.org/index.php?app=downloads&showfile=16457)
 	- [Wrath of Olympus VP912 FS 1.0.0](https://www.vpforums.org/index.php?app=downloads&showfile=6855)
