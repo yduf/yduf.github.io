@@ -185,7 +185,7 @@ Un PupPack est un ensemble de médias et d'effets visuels qui sont intégrés da
 - [The Simpsons](https://youtu.be/u1y8MQQZZEE?feature=shared&t=3488) / [2](https://www.youtube.com/watch?v=IjZ0MaY3JMU)
 - [Rollercoaster Tycoon (Stern 2002) 4.0.1 ](https://www.vpforums.org/index.php?app=downloads&showfile=13920) / [ROMS](https://www.vpforums.org/index.php?app=downloads&showfile=1125)
 - Scared Stiff (Bally 1996)
-	- [Scared Stiff (Bally 1996) 1.31](https://www.vpforums.org/index.php?app=downloads&showfile=12432)
+	- [Scared Stiff (Bally 1996) 1.31](https://www.vpforums.org/index.php?app=downloads&showfile=12432) / [roms](https://www.vpforums.org/index.php?app=downloads&showfile=1207)
 - [Scared Stuff](https://youtu.be/FUEuoelOSK4?feature=shared&t=409)
 - [Scooby Doo, 2022 v1.0.1](https://www.vpforums.org/index.php?app=downloads&showfile=16631)
 - ★★★☆☆ [Space Patrol (Taito do Brasil - 1978) 4.3.0 (JP's)](https://www.vpforums.org/index.php?app=downloads&showfile=14173)
@@ -198,7 +198,7 @@ vpx - [Tom & Jerry (Williams 2018) (DOF) 1.2](https://www.vpforums.org/index.php
 
 - [Vortex](https://youtu.be/u1y8MQQZZEE?feature=shared&t=378) 
 	- [Vortex (Taito do Brasil - 1981) 4.0.0 ](https://www.vpforums.org/index.php?app=downloads&showfile=13336) / [rom](https://www.vpforums.org/index.php?app=downloads&showfile=567)
-- [JP's The Walking Dead (Stern 2014) 4.0.0](https://www.vpforums.org/index.php?app=downloads&showfile=15696)
+- [JP's The Walking Dead (Stern 2014) 4.0.0](https://www.vpforums.org/index.php?app=downloads&showfile=15696) / [rom (stern)](https://sternpinball.com/support/game-code/)
 - [Walking dead](https://youtu.be/u1y8MQQZZEE?feature=shared&t=4144)
 - ★★★☆☆ [JP's Wrath of Olympus 4.0.0](https://www.vpforums.org/index.php?app=downloads&showfile=16457)
 	- [Wrath of Olympus VP912 FS 1.0.0](https://www.vpforums.org/index.php?app=downloads&showfile=6855)
