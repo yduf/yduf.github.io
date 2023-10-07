@@ -148,10 +148,10 @@ see also
 Un PupPack est un ensemble de médias et d'effets visuels qui sont intégrés dans une table de vpinball. Ces packs comprennent généralement des vidéos, des images, des animations et des effets sonores qui sont synchronisés avec le gameplay de la table. Ces éléments visuels et sonores peuvent ajouter une nouvelle dimension à l'expérience de jeu en créant des cinématiques, des effets de lumière et des animations spéciales qui se déclenchent pendant le jeu.
 
 ### [Tables](https://archive.org/download/Visual_Pinball_2020-06-20/Visual%20Pinball%20%5BVPXx%5D%20Original%20Tables/)
-- [AC/DC](https://youtu.be/u1y8MQQZZEE?feature=shared&t=3993) / [2](https://youtu.be/FUEuoelOSK4?feature=shared&t=193)
+- ★★★☆☆ [AC/DC](https://youtu.be/u1y8MQQZZEE?feature=shared&t=3993) / [2](https://youtu.be/FUEuoelOSK4?feature=shared&t=193)
 	- [AC/DC](https://vpuniverse.com/files/file/5489-acdc/)
 	- [ACDC LUCI (Stern 2013) VPW Mod ](https://vpuniverse.com/files/file/12471-acdc-luci-stern-2013-vpw-mod/) / [roms](https://sternpinball.com/support/game-code/) - Zip it up and name it  -- acd_170h.zip
-	- [AC/DC (LUCI Premium) 1.0 ](https://www.vpforums.org/index.php?app=downloads&showfile=12897) / [b2s](https://vpuniverse.com/files/file/8663-ac-dc-luci-stern-2012-video-backglass-nude-mod-kit/)
+	- ★★★☆☆ [AC/DC (LUCI Premium) 1.0 ](https://www.vpforums.org/index.php?app=downloads&showfile=12897) / [b2s](https://vpuniverse.com/files/file/8663-ac-dc-luci-stern-2012-video-backglass-nude-mod-kit/)
 - ★★★★☆ [Arabian Night](https://youtu.be/u1y8MQQZZEE?feature=shared&t=2952) / [2](https://youtu.be/FUEuoelOSK4?feature=shared&t=167) / [3](https://www.youtube.com/watch?v=pWyzwSjGecc)
 	- ★★★★☆ [Tales of the Arabian Nights 5.0.0 (JP's)](https://www.vpforums.org/index.php?app=downloads&showfile=11611)
 	- [VPUniverse (4k)](https://vpuniverse.com/files/file/12652-tales-of-the-arabian-nights-4k-williams-1996/)
