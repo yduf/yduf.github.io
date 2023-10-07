@@ -157,7 +157,7 @@ Un PupPack est un ensemble de médias et d'effets visuels qui sont intégrés da
 - [Escape from monkey island 1.1](https://www.vpforums.org/index.php?app=downloads&showfile=16157)
 - ★★★★☆ [Flashman (Sportmatic 1984) 4.0.2](https://www.vpforums.org/index.php?app=downloads&showfile=16517)
 - [Flash Gordon (Bally 1981) Sound Mod v2.1 VPX7.2](https://www.vpforums.org/index.php?app=downloads&showfile=13111) / [roms](https://www.vpforums.org/index.php?app=downloads&showfile=668)
-- [Flash, The (Original 2018) 1.0](https://www.vpforums.org/index.php?app=downloads&showfile=13687)
+- [Flash, The (Original 2018) 1.0](https://www.vpforums.org/index.php?app=downloads&showfile=13687) / [roms](https://www.vpforums.org/index.php?app=downloads&showfile=758)
 - [The Flintstones (Williams 1994) 1.2.6 - Pinball VPX](https://www.youtube.com/watch?v=SWgLiSW9koQ)
 	- [The Flintstones V1.25.8 ](https://www.vpforums.org/index.php?app=downloads&showfile=14473)  / [roms](https://www.vpforums.org/index.php?app=downloads&showfile=1286)
 - ★★★★★ [JP'd pinball tables](https://www.vpforums.org/index.php?app=core&module=search&do=user_activity&sid=40128d9b02d204ff0a868b9c159c7f81&mid=277&search_app=downloads&userMode=all&search_app_filters%5Bdownloads%5D%5BsearchInKey%5D=files&search_app_filters%5Bdownloads%5D%5Bfiles%5D%5BsortKey%5D=update&search_app_filters%5Bdownloads%5D%5Bfiles%5D%5BsortDir%5D=)
@@ -192,7 +192,7 @@ Un PupPack est un ensemble de médias et d'effets visuels qui sont intégrés da
 - [Spider Man VE](https://youtu.be/u1y8MQQZZEE?feature=shared&t=4237)
 - [Sorcerer](https://youtu.be/u1y8MQQZZEE?feature=shared&t=378)
 - [Tales from the crypt](https://youtu.be/giFi-qBU1F0?feature=shared&t=222) / [2](https://www.youtube.com/watch?v=SPKYllm-0rs)
-- [Tom & Jerry (Williams 2018) (DOF) 1.2](https://www.vpforums.org/index.php?app=downloads&showfile=14023) / [roms](https://vpuniverse.com/files/file/5467-tom-jerry/)
+vpx - [Tom & Jerry (Williams 2018) (DOF) 1.2](https://www.vpforums.org/index.php?app=downloads&showfile=14023) / [roms](https://vpuniverse.com/files/file/5467-tom-jerry/)
 - [circus Voltaire](https://vpuniverse.com/files/file/15989-cirqus-voltaire-bally-1997-vpw-mod/)
 	- [Cirqus Voltaire Hanibals 4k Mod 3.6 ](https://www.vpforums.org/index.php?app=downloads&showfile=11841)
 
