@@ -101,9 +101,11 @@ If you want to play a PinMAME-enabled game, then you need to have the roms in th
 
 To test VPinballX, first start with a recreation or original that doesn't need roms. For eg: res/exampleTable.vpx
 
-### [B2S (Backglass server) ?]({% post_url 2023-09-24-pincab-b2bs %})
 
-The B2S code is started to be intagrated in the Standalone build. But need to be enabled ( New feature appeared 09/2023), and have a non null window.
+
+### [B2S (Backglass server)]({% post_url 2023-09-24-pincab-b2bs %})
+
+The B2S code is integrated in the Standalone build, but still in implementation phase. It need to be enabled ( New feature appeared 09/2023), and have a non null window.
 
 {% highlight ini %}
 [Standalone]
@@ -162,6 +164,7 @@ Un PupPack est un ensemble de médias et d'effets visuels qui sont intégrés da
 - ★★★★☆ [JP's IT - Pinball Madness 1.0.0](https://www.vpforums.org/index.php?app=downloads&showfile=16880)
 - ★★★☆☆ [JAWS Balutito MOD ](https://www.youtube.com/watch?v=7QvoDWaeq44)
 	- [JAWS Balutito MOD ](https://vpuniverse.com/files/file/10976-jaws-balutito-mod)
+- [Mägo de Oz - the pinball 4.0.1 ](https://www.vpforums.org/index.php?app=downloads&showfile=15598)
 - [Master of the universe)](https://www.vpforums.org/index.php?showtopic=41193#entry485161)
 	- ["Masters of the Universe (VPX) - PuP-Pack](https://www.youtube.com/watch?v=L7-L2aJjjrM)
 
@@ -189,6 +192,7 @@ Un PupPack est un ensemble de médias et d'effets visuels qui sont intégrés da
 	- [Vortex (Taito do Brasil - 1981) 4.0.0 ](https://www.vpforums.org/index.php?app=downloads&showfile=13336) / [rom](https://www.vpforums.org/index.php?app=downloads&showfile=567)
 - [Walking dead](https://youtu.be/u1y8MQQZZEE?feature=shared&t=4144)
 - ★★★☆☆ [JP's Wrath of Olympus 4.0.0](https://www.vpforums.org/index.php?app=downloads&showfile=16457)
+	- [Wrath of Olympus VP912 FS 1.0.0](https://www.vpforums.org/index.php?app=downloads&showfile=6855)
 
 ### see also
 - [VPForum](https://www.vpforums.org/index.php?) - to download tables
