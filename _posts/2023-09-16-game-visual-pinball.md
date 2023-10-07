@@ -23,7 +23,6 @@ The mechanism is the following.
 - if a Script folder exist nearby the executable, it will be looked up also for a .vbs file with the name of the table.
 
 
-
 ### [doc](https://github.com/vpinball/vpinball/tree/master/docs)
 - [Visual Pinball Installation Guide ](https://www.vpforums.org/index.php?app=tutorials&article=1)
 - [Live Editor](https://github.com/vpinball/vpinball/blob/master/docs/LiveUI.md)
