@@ -10,7 +10,7 @@ tags: pincab table games
 - [vpxtools](https://github.com/francisdb/vpxtool) - Cross-platform console based utility for the vpinball ecosystem
 - [pinball-parts](https://github.com/vbousquet/pinball-parts) - Blender Pinball Parts library
 
-### Fixing & patching
+### [Fixing & patching](https://github.com/vpinball/vpinball/tree/standalone/standalone#workarounds)
 
 DMD & vbs script may need fixing to run on standalone or multiscree.
 
