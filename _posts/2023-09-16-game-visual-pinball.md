@@ -12,7 +12,7 @@ tags: pincab table games
 
 ### [Fixing & patching](https://github.com/vpinball/vpinball/tree/standalone/standalone#workarounds)
 
-DMD & vbs script may need fixing to run on standalone or multiscreen.
+[DMD](https://github.com/vbousquet/flexdmd/blob/master/docs/VPXDMD.md) & vbs script may need fixing to run on standalone or multiscreen.
 
 VPX Standalone support a _path_ mechanism that allows to override table script with external definition. A number of fixes for major tables are already avalaible:
 - [jsm174/vpx-standalone-scripts](https://github.com/jsm174/vpx-standalone-scripts/tree/master/Judge%20Dredd%20(Bally%201993)%20VPW%20v1.1)
