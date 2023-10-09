@@ -11,6 +11,9 @@ tags: docker
 $ sudo apt-get -y install podman
 {% endhighlight %}
 
+see also
+- [Podman Tutorial For Beginners: Step by Step Guides](https://devopscube.com/podman-tutorial-beginners/)
+
 ### see also
 - [Containers vs. Pods - Taking a Deeper Look](https://iximiuz.com/en/posts/containers-vs-pods/)
 - [How to run pods as systemd services with Podman](https://www.redhat.com/sysadmin/podman-run-pods-systemd-services)
