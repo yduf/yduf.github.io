@@ -11,8 +11,12 @@ tags: docker
 $ sudo apt-get -y install podman
 {% endhighlight %}
 
+podman command are closed to docker
+
 see also
 - [Podman Tutorial For Beginners: Step by Step Guides](https://devopscube.com/podman-tutorial-beginners/)
+- [Using Podman pods Instead of docker-compose](https://www.mavjs.org/post/podman-pods-instead-of-docker-compose/)
+	- alternatively [Podman Compose or Docker Compose: Which should you use in Podman?](https://www.redhat.com/sysadmin/podman-compose-docker-compose)
 
 ### see also
 - [Containers vs. Pods - Taking a Deeper Look](https://iximiuz.com/en/posts/containers-vs-pods/)
