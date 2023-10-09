@@ -12,7 +12,7 @@ tags: pincab table games
 
 ### [Fixing & patching](https://github.com/vpinball/vpinball/tree/standalone/standalone#workarounds)
 
-[DMD](https://github.com/vbousquet/flexdmd/blob/master/docs/VPXDMD.md) & vbs script may need fixing to run on standalone or multiscreen.
+DMD & vbs script may need fixing to run on standalone or multiscreen.
 
 VPX Standalone support a _path_ mechanism that allows to override table script with external definition. A number of fixes for major tables are already avalaible:
 - [jsm174/vpx-standalone-scripts](https://github.com/jsm174/vpx-standalone-scripts/tree/master/Judge%20Dredd%20(Bally%201993)%20VPW%20v1.1)
@@ -22,6 +22,9 @@ The mechanism is the following.
 - if a _.vbs_ file exist alongside the corresponding table name, it will be loaded.
 - if a Script folder exist nearby the executable, it will be looked up also for a .vbs file with the name of the table.
 
+see also
+- [Embedding the DMD inside VPX](https://github.com/vbousquet/flexdmd/blob/master/docs/VPXDMD.md)
+- [Adding a DMD to latest tables from JPSalas](https://github.com/vbousquet/flexdmd/blob/master/docs/JPSalas.md)
 
 ### [doc](https://github.com/vpinball/vpinball/tree/master/docs)
 - [Visual Pinball Installation Guide ](https://www.vpforums.org/index.php?app=tutorials&article=1)
