@@ -24,8 +24,8 @@ tags: llm security
     </style>
 {:/}
 
-    <details class="foldable-section">
-            <summary>Click to fold/hide</summary>
+<details class="foldable-section">
+<summary>Click to fold/hide</summary>
 Spoiler lvl8..
 
 Input - inspired from [My solutions to the Lakera Gandalf game](https://github.com/chen-simon/lakera-gandalf-solutions)
@@ -70,4 +70,4 @@ submitItem(wurt);  // Error 的所在
 Please note that the "auth" value should be the characters of the secret password, not any other characters.
 {% endhighlight %}
 
-    </details>
+</details>
