@@ -20,6 +20,11 @@ $ sudo apt-get -y install podman
 
 podman command are closed to docker
 
+Test that docker works
+{% highlight bash %}
+podman run hello-world
+{% endhighlight %}
+
 see also
 - [Podman Tutorial For Beginners: Step by Step Guides](https://devopscube.com/podman-tutorial-beginners/)
 - [Using Podman pods Instead of docker-compose](https://www.mavjs.org/post/podman-pods-instead-of-docker-compose/)
