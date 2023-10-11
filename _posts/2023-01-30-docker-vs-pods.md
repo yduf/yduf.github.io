@@ -7,6 +7,7 @@ tags: docker
 
 - [Ultimate Docker to Podman Migration Guide: It’s NOT difficult](https://www.smarthomebeginner.com/docker-to-podman-migration-guide/)
 	- Fortunately for us, Podman is described as a "drop-in replacement" for Docker. And it's true.
+    - One huge difference, however, is that we are running in a rootless environment. 
 
 ### [Install](https://podman.io/docs/installation)
 
