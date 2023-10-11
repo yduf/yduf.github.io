@@ -8,6 +8,7 @@ tags: docker
 - [Ultimate Docker to Podman Migration Guide: It’s NOT difficult](https://www.smarthomebeginner.com/docker-to-podman-migration-guide/)
 	- Fortunately for us, Podman is described as a "drop-in replacement" for Docker. And it's true.
     - One huge difference, however, is that we are running in a rootless environment: we don't need to add our user to a Podman group, or use sudo when running Podman commands.
+    - ** Podman on Ubuntu, for some odd reason, has no default registries included at all! An annoyance, but an easy fix.**
 
 ### [Install](https://podman.io/docs/installation)
 
