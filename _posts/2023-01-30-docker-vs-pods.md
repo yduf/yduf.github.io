@@ -14,6 +14,8 @@ tags: docker
 
 ### [Podman Kube Play Support](https://docs.podman.io/en/latest/markdown/podman-kube-play.1.html#podman-kube-play-support)
 
+- [Moving from docker-compose to Podman pods](https://www.redhat.com/sysadmin/compose-podman-pods)
+
 ✅ initContainers  
 ✅ containers  
 ✅ volumes  
