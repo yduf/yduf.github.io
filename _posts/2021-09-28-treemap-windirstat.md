@@ -12,3 +12,6 @@ It uses [treemap](https://www.data-to-viz.com/graph/treemap.html) to represents 
 - [Cushion Treemaps: Visualization of Hierarchical Information](https://www.win.tue.nl/~wstahw/publications/papers/ctm.pdf)
 
 ![caption](https://windirstat.net/images/windirstat.jpg)
+
+see also
+- [	Treemaps are awesome](https://news.ycombinator.com/item?id=36868940)
