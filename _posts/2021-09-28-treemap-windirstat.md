@@ -15,3 +15,4 @@ It uses [treemap](https://www.data-to-viz.com/graph/treemap.html) to represents 
 
 see also
 - [	Treemaps are awesome](https://news.ycombinator.com/item?id=36868940)
+- [TreeSheets](https://strlen.com/treesheets/) - A "hierarchical spreadsheet" that is a great replacement for spreadsheets
