@@ -9,7 +9,9 @@ tags: doc text
 
 ### Installation
 
-see [    paperless-ngx/docker/compose](https://github.com/paperless-ngx/paperless-ngx/blob/main/docker/compose/docker-compose.sqlite.yml)
+see
+- [ppngx: Podman + Paperless-ngx](https://github.com/jdoss/ppngx)
+- [    paperless-ngx/docker/compose](https://github.com/paperless-ngx/paperless-ngx/blob/main/docker/compose/docker-compose.sqlite.yml)
 - [podman/systemd setup](https://www.reddit.com/r/selfhosted/comments/16z8c9y/comment/k3esxcv/?utm_source=share&utm_medium=web2x&context=3)
 
 [![caption](https://docs.paperless-ngx.com/assets/screenshots/documents-smallcards.png#only-light)](https://docs.paperless-ngx.com)
