@@ -3,7 +3,7 @@ title: Planet Shadertoy
 published: true
 tags: shader online
 ---
-## [teleport](https://www.shadertoy.com/view/4tjGRh)
+> [teleport](https://www.shadertoy.com/view/4tjGRh) - [An introduction to Shader Art Coding](https://www.youtube.com/watch?v=f4s1h2YETNY)
 
 <iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/4tjGRh?gui=true&t=10&paused=false&muted=false" allowfullscreen></iframe>
 
