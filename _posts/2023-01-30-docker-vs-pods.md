@@ -25,6 +25,7 @@ tags: docker
 ### PODs
 
 - [`podman ps --pod`](https://www.redhat.com/sysadmin/container-information-podman)
+- [`podman pod inspect paperless `](https://docs.podman.io/en/latest/markdown/podman-pod-inspect.1.html)
 
 
 
