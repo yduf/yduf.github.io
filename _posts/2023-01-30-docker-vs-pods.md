@@ -16,7 +16,7 @@ tags: docker k8
 
 - [Moving from docker-compose to Podman pods](https://www.redhat.com/sysadmin/compose-podman-pods)
 
-✅ initContainers  
+✅ [initContainers](https://kubernetes.io/docs/concepts/workloads/pods/init-containers/)    
 ✅ containers  
 ✅ volumes  
 ✅ hostname  
