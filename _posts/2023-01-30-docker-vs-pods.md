@@ -16,13 +16,14 @@ tags: docker k8
 
 - [Moving from docker-compose to Podman pods](https://www.redhat.com/sysadmin/compose-podman-pods)
 
+### [PODs](https://kubernetes.io/docs/concepts/workloads/pods/)
+
 ✅ [initContainers](https://kubernetes.io/docs/concepts/workloads/pods/init-containers/)    
 ✅ containers  
 ✅ [volumes](https://kubernetes.io/docs/concepts/storage/volumes/)    
 ✅ hostname  
 ✅ hostNetwork
 
-### [PODs](https://kubernetes.io/docs/concepts/workloads/pods/)
 
 - [`podman pod ps` or `podman ps --pod`](https://www.redhat.com/sysadmin/container-information-podman)
 - [`podman pod inspect paperless `](https://docs.podman.io/en/latest/markdown/podman-pod-inspect.1.html)
