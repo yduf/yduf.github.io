@@ -24,7 +24,7 @@ tags: docker
 
 ### PODs
 
-- [`podman ps --pod`](https://www.redhat.com/sysadmin/container-information-podman)
+- [`podman pod ps` or `podman ps --pod`](https://www.redhat.com/sysadmin/container-information-podman)
 - [`podman pod inspect paperless `](https://docs.podman.io/en/latest/markdown/podman-pod-inspect.1.html)
 
 - [`podman generate kube my-pod \>\> my-pod.yaml`](https://www.redhat.com/sysadmin/compose-podman-pods#generate-the-yaml-for-our-pod) - Generate the YAML for our pod
