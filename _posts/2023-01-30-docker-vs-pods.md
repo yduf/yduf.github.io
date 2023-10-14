@@ -15,7 +15,7 @@ tags: docker k8
 ## [Podman Kube Play Support](https://docs.podman.io/en/latest/markdown/podman-kube-play.1.html#podman-kube-play-support)
 
 Currently, the supported Kubernetes kinds are:
-- Pod
+- [Pod](https://kubernetes.io/docs/concepts/workloads/pods/)
 - Deployment
 - PersistentVolumeClaim
 - ConfigMap
