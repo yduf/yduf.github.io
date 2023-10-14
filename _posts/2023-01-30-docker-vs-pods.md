@@ -1,7 +1,7 @@
 ---
 published: true
 title: '# Podman - Containers vs. Pods'
-tags: docker
+tags: docker k8
 ---
 > People associate running **pods** with _Kubernetes_. And when they run containers in their development runtimes, they do not even think about the role pods could play—even in a localized runtime.  Most people coming from the _Docker_ world of running **single containers** do not envision the concept of running **pods**. - [Podman: Managing pods and containers in a local container runtime](https://developers.redhat.com/blog/2019/01/15/podman-managing-containers-pods#)
 
