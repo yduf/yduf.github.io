@@ -14,13 +14,22 @@ tags: docker k8
 
 ## [Podman Kube Play Support](https://docs.podman.io/en/latest/markdown/podman-kube-play.1.html#podman-kube-play-support)
 
+Currently, the supported Kubernetes kinds are:
+- Pod
+- Deployment
+- PersistentVolumeClaim
+- ConfigMap
+- Secret
+- DaemonSet
+
+
 - [Moving from docker-compose to Podman pods](https://www.redhat.com/sysadmin/compose-podman-pods)
 
 ### [PODs](https://kubernetes.io/docs/concepts/workloads/pods/)
 
 ✅ [initContainers](https://kubernetes.io/docs/concepts/workloads/pods/init-containers/)    
 ✅ [containers](https://kubernetes.io/docs/concepts/workloads/pods/)  
-✅ [volumes](https://kubernetes.io/docs/concepts/storage/volumes/)    
+✅ [volumes](https://kubernetes.io/docs/concepts/storage/volumes/) - Only three volume types are supported by kube play, the hostPath, emptyDir, and persistentVolumeClaim volume types.  
 ✅ hostname  
 ✅ hostNetwork
 
