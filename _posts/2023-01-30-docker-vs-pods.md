@@ -18,8 +18,8 @@ Currently, the supported Kubernetes kinds are:
 - [Pod](https://kubernetes.io/docs/concepts/workloads/pods/)
 - Deployment
 - PersistentVolumeClaim
-- ConfigMap
-- Secret
+- ConfigMap*
+- Secret*
 - DaemonSet
 
 
