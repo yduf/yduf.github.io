@@ -18,7 +18,7 @@ tags: docker k8
 
 ✅ [initContainers](https://kubernetes.io/docs/concepts/workloads/pods/init-containers/)    
 ✅ containers  
-✅ volumes  
+✅ [volumes](https://kubernetes.io/docs/concepts/storage/volumes/)    
 ✅ hostname  
 ✅ hostNetwork
 
