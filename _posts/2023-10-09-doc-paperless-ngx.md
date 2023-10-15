@@ -9,7 +9,17 @@ see also
 - [Over-engineering my document storage system with Paperless-ngx](https://skerritt.blog/how-i-store-physical-documents/)
 - [Paperless, paperless-ng, paperless-ngx ... where are we going ...?](https://www.reddit.com/r/selfhosted/comments/100gm61/paperless_paperlessng_paperlessngx_where_are_we/) - paperless-ngx is the only version/fork of paperless that is currently developped.
 
-## Installation
+## Setup
+
+### Consume - TBD
+
+### Storage Path - TBD
+
+### Backup - TBD 
+
+### Email sync - TBD 
+
+## Installation - TBD
 
 ### [ppngx: Podman + Paperless-ngx](https://github.com/jdoss/ppngx)
 
