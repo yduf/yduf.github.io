@@ -27,7 +27,7 @@ see also
 `podman pod stop paperless` 
 
 see also
-- [    paperless-ngx/docker/compose](https://github.com/paperless-ngx/paperless-ngx/blob/main/docker/compose/docker-compose.sqlite.yml)
+- [paperless-ngx/docker/compose](https://github.com/paperless-ngx/paperless-ngx/blob/main/docker/compose/docker-compose.sqlite.yml)
 - [podman/systemd setup](https://www.reddit.com/r/selfhosted/comments/16z8c9y/comment/k3esxcv/?utm_source=share&utm_medium=web2x&context=3)
 
 [![caption](https://docs.paperless-ngx.com/assets/screenshots/documents-smallcards.png#only-light)](https://docs.paperless-ngx.com)
