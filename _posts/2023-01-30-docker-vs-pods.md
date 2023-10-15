@@ -29,7 +29,7 @@ Currently, the supported Kubernetes kinds are:
 
 ✅ [initContainers](https://kubernetes.io/docs/concepts/workloads/pods/init-containers/)    
 ✅ [containers](https://kubernetes.io/docs/concepts/workloads/pods/)  
-✅ [volumes](https://kubernetes.io/docs/concepts/storage/volumes/) - Only three volume types are supported by kube play, the hostPath, [emptyDir](https://kubernetes.io/docs/concepts/storage/volumes/#emptydir), and persistentVolumeClaim volume types.  
+✅ [volumes](https://kubernetes.io/docs/concepts/storage/volumes/) - Only three volume types are supported by kube play, the [hostPath](https://kubernetes.io/docs/concepts/storage/volumes/#hostpath), [emptyDir](https://kubernetes.io/docs/concepts/storage/volumes/#emptydir), and persistentVolumeClaim volume types.  
 ✅ hostname  
 ✅ hostNetwork
 
