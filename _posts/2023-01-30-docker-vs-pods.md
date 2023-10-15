@@ -7,7 +7,7 @@ tags: docker k8
 
 ### [Ultimate Docker to Podman Migration Guide: It’s NOT difficult](https://www.smarthomebeginner.com/docker-to-podman-migration-guide/)
 - Fortunately for us, Podman is described as a "drop-in replacement" for Docker. And it's true.
-- One huge difference, however, is that we are running in a **rootless environment**: we don't need to add our user to a Podman group, or use sudo when running Podman commands. (using **uid=0** is the correct thing to do here for mouting folder)
+- One huge difference, however, is that we are running in a **rootless environment**: we don't need to add our user to a Podman group, or use sudo when running Podman commands. (using **uid=0** is the correct thing to do here inside container for mouting folder)
 - **Podman on Ubuntu, for some odd reason, has no default registries included at all! An annoyance, but an easy fix.**
 - Enable Containers to Run After Logout:  The root user is allowed to continue running processes in the background even when not logged-in. As we will be running in a rootless environment, we don't have the same privilege by default.
 - Restart Containers and Start on Boot: Systemd Unit files
