@@ -36,7 +36,7 @@ if a PDF document already contains a layer of text (as it has been OCR'd) it wil
 
 ## [Installation](https://github.com/yduf/ppngx)
 
-Podman install derived from  [ppngx: Podman + Paperless-ngx](https://github.com/jdoss/ppngx)
+Podman install derived from  [ppngx: Podman + Paperless-ngx](https://github.com/jdoss/ppngx).
 
 `start.sh`  
 `podman pod stop paperless` 
