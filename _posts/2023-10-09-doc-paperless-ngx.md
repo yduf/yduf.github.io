@@ -17,7 +17,7 @@ if a PDF document already contains a layer of text (as it has been OCR'd) it wil
 
 - Create a **Saved View** which shows on your homepage of new documents so you have a little list.
 
-### Storage Path - TBD
+### [Storage Path](https://docs.paperless-ngx.com/advanced_usage/#storage-paths)
 
 - [File name handling](https://docs.paperless-ngx.com/advanced_usage/#file-name-handling)
 - [Physical documents](https://skerritt.blog/how-i-store-physical-documents/#physical-documents)
