@@ -5,6 +5,9 @@ tags: doc text
 ---
 > A Clutter-Free Life: Going Paperless with Paperless-ngx - [article](https://nerdyarticles.com/a-clutter-free-life-with-paperless-ngx/) / [HN](https://news.ycombinator.com/item?id=37800951) / [Home](https://docs.paperless-ngx.com/) / [github](https://github.com/paperless-ngx/paperless-ngx)
 
+
+[![caption](https://docs.paperless-ngx.com/assets/screenshots/documents-smallcards.png#only-light)](https://docs.paperless-ngx.com)
+
 ## Setup
 
 > Paperless converts your documents from regular PDFs to PDF/A which is a subset of the PDF standard. This subset is designed for long-term storage. - [Over-engineering my document storage system with Paperless-ngx](https://skerritt.blog/how-i-store-physical-documents/)
@@ -43,4 +46,3 @@ see also
 - [paperless-ngx/docker/compose](https://github.com/paperless-ngx/paperless-ngx/blob/main/docker/compose/docker-compose.sqlite.yml)
 - [podman/systemd setup](https://www.reddit.com/r/selfhosted/comments/16z8c9y/comment/k3esxcv/?utm_source=share&utm_medium=web2x&context=3)
 
-[![caption](https://docs.paperless-ngx.com/assets/screenshots/documents-smallcards.png#only-light)](https://docs.paperless-ngx.com)
