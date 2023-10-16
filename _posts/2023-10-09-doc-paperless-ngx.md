@@ -21,7 +21,7 @@ if a PDF document already contains a layer of text (as it has been OCR'd) it wil
 
 - [File name handling](https://docs.paperless-ngx.com/advanced_usage/#file-name-handling)
 - [Physical documents](https://skerritt.blog/how-i-store-physical-documents/#physical-documents)
-- [Barcodes](https://docs.paperless-ngx.com/advanced_usage/#barcodes)
+	- [Barcodes](https://docs.paperless-ngx.com/advanced_usage/#barcodes)
 
 ### [Backup](https://skerritt.blog/how-i-store-physical-documents/#backups)
 
