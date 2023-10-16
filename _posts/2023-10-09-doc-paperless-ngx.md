@@ -19,6 +19,8 @@ if a PDF document already contains a layer of text (as it has been OCR'd) it wil
 
 ### Storage Path - TBD
 
+- [Physical documents](https://skerritt.blog/how-i-store-physical-documents/#physical-documents)
+
 ### Backup - TBD 
 
 ### Email sync - TBD 
