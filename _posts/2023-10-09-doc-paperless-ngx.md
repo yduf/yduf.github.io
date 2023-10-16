@@ -13,7 +13,9 @@ if a PDF document already contains a layer of text (as it has been OCR'd) it wil
 
 ### Consume & [tagging](https://skerritt.blog/how-i-store-physical-documents/#tagging)
 
-I highly suggest creating an inbox tag. This means that all newly consumed documents are assigned the inbox tag and you can then go through all the new documents and update their names, metadata, tags etc.
+- Create an **inbox tag**. This means that all newly consumed documents are assigned the inbox tag and you can then go through all the new documents and update their names, metadata, tags etc.
+
+- Create a **Saved View** which shows on your homepage of new documents so you have a little list.
 
 ### Storage Path - TBD
 
