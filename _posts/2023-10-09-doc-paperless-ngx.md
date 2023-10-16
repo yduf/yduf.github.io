@@ -23,6 +23,8 @@ if a PDF document already contains a layer of text (as it has been OCR'd) it wil
 
 ### [Backup](https://skerritt.blog/how-i-store-physical-documents/#backups)
 
+**Managing your own documents also means having to manage the backups of documents.**
+
 ### Email sync - TBD 
 
 ## Installation - TBD
