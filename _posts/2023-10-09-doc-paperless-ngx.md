@@ -23,9 +23,10 @@ if a PDF document already contains a layer of text (as it has been OCR'd) it wil
 - [Physical documents](https://skerritt.blog/how-i-store-physical-documents/#physical-documents)
 	- [Barcodes](https://docs.paperless-ngx.com/advanced_usage/#barcodes)
 
-### [Backup](https://skerritt.blog/how-i-store-physical-documents/#backups)
+### [Backup](https://docs.paperless-ngx.com/administration/#backup)
 
-**Managing your own documents also means having to manage the backups of documents.**
+[**Managing your own documents also means having to manage the backups of documents.**]((https://skerritt.blog/how-i-store-physical-documents/#backups)
+)
 
 
 ### Email sync - TBD 
