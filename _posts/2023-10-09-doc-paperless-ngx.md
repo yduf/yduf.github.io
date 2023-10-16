@@ -11,7 +11,7 @@ tags: doc text
 
 if a PDF document already contains a layer of text (as it has been OCR'd) it will use that and not OCR the document. If your OCR tool isn't the best it is better to set `PAPERLESS_OCR_MODE=redo`
 
-### Consume & [tagging](https://skerritt.blog/how-i-store-physical-documents/#tagging)
+### [Consume](https://docs.paperless-ngx.com/usage/#usage-recommended-workflow) && [tagging](https://skerritt.blog/how-i-store-physical-documents/#tagging)
 
 - Create an **inbox tag**. This means that all newly consumed documents are assigned the inbox tag and you can then go through all the new documents and update their names, metadata, tags etc.
 
@@ -24,6 +24,7 @@ if a PDF document already contains a layer of text (as it has been OCR'd) it wil
 ### [Backup](https://skerritt.blog/how-i-store-physical-documents/#backups)
 
 **Managing your own documents also means having to manage the backups of documents.**
+
 
 ### Email sync - TBD 
 
