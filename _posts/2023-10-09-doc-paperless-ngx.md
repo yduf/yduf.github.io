@@ -5,13 +5,15 @@ tags: doc text
 ---
 > A Clutter-Free Life: Going Paperless with Paperless-ngx - [article](https://nerdyarticles.com/a-clutter-free-life-with-paperless-ngx/) / [HN](https://news.ycombinator.com/item?id=37800951) / [Home](https://docs.paperless-ngx.com/) / [github](https://github.com/paperless-ngx/paperless-ngx)
 
-see also
-- [Over-engineering my document storage system with Paperless-ngx](https://skerritt.blog/how-i-store-physical-documents/)
-
-
 ## Setup
 
-### Consume - TBD
+> Paperless converts your documents from regular PDFs to PDF/A which is a subset of the PDF standard. This subset is designed for long-term storage. - [Over-engineering my document storage system with Paperless-ngx](https://skerritt.blog/how-i-store-physical-documents/)
+
+if a PDF document already contains a layer of text (as it has been OCR'd) it will use that and not OCR the document. If your OCR tool isn't the best it is better to set `PAPERLESS_OCR_MODE=redo`
+
+### Consume & [tagging](https://skerritt.blog/how-i-store-physical-documents/#tagging)
+
+I highly suggest creating an inbox tag. This means that all newly consumed documents are assigned the inbox tag and you can then go through all the new documents and update their names, metadata, tags etc.
 
 ### Storage Path - TBD
 
