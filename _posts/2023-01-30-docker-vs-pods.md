@@ -22,7 +22,7 @@ Currently, the supported Kubernetes kinds are:
 - Secret*
 - DaemonSet
 
-
+### Compose
 - [Moving from docker-compose to Podman pods](https://www.redhat.com/sysadmin/compose-podman-pods)
 
 ### [PODs](https://kubernetes.io/docs/concepts/workloads/pods/)
