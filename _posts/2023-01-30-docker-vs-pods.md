@@ -54,7 +54,7 @@ Currently, the supported Kubernetes kinds are:
 
 ### [Install](https://podman.io/docs/installation)
 
-see also [How to Install Podman on Ubuntu 20.04 LTS](https://computingforgeeks.com/how-to-install-podman-on-ubuntu/)
+see also [How To Install Podman 4 on Ubuntu 22.04](https://devicetests.com/install-podman-4-ubuntu-22-04)
 
 {% highlight bash %}
 $ sudo apt-get -y install podman
