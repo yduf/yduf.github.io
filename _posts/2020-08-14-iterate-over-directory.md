@@ -22,6 +22,8 @@ Dir["**/*"].each do |filename|
 end
 {% endhighlight %}
 
+see also [Paths in Ruby](https://www.clairecodes.com/blog/2016-01-01-paths-in-ruby/) - for path manipulation, eg: `File.expand_path(__FILE__)` 
+
 ### [C++](https://en.cppreference.com/w/cpp/filesystem/directory_iterator)
 {% highlight cpp %}
 #include <filesystem>
