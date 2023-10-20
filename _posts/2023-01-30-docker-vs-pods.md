@@ -5,6 +5,7 @@ tags: docker k8
 ---
 > People associate running **pods** with _Kubernetes_. And when they run containers in their development runtimes, they do not even think about the role pods could play—even in a localized runtime.  Most people coming from the _Docker_ world of running **single containers** do not envision the concept of running **pods**. - [Podman: Managing pods and containers in a local container runtime](https://developers.redhat.com/blog/2019/01/15/podman-managing-containers-pods#)
 
+
 ### [Ultimate Docker to Podman Migration Guide: It’s NOT difficult](https://www.smarthomebeginner.com/docker-to-podman-migration-guide/)
 - Fortunately for us, Podman is described as a "drop-in replacement" for Docker. And it's true.
 - One huge difference, however, is that we are running in a [**rootless environment**](https://blog.christophersmart.com/2021/01/26/user-ids-and-rootless-containers-with-podman/): we don't need to add our user to a Podman group, or use sudo when running Podman commands. (using **uid=0** is the correct thing to do here inside container for mouting folder)
@@ -43,6 +44,10 @@ Currently, the supported Kubernetes kinds are:
 
 - [`podman generate kube my-pod >> my-pod.yaml`](https://www.redhat.com/sysadmin/compose-podman-pods#generate-the-yaml-for-our-pod) - Generate the YAML for our pod
 - [`podman play kube ./my-pod.yaml`](https://www.redhat.com/sysadmin/compose-podman-pods) - Bring up a pod from the YAML
+
+### [Health Check](https://developers.redhat.com/blog/2019/04/18/monitoring-container-vitality-and-availability-with-podman#interacting_with_the_results_of_healthchecks)
+
+- [Keeping services alive with custom healthcheck actions](https://www.redhat.com/sysadmin/podman-edge-healthcheck)
 
 ### Management tools
 - [Cockpit]({% post_url 2022-11-04-linux-cockpit %}) a web-based GUI for your server, [ has a nice plugin for us to manage Podman ](https://www.smarthomebeginner.com/docker-to-podman-migration-guide/#Cockpit)
