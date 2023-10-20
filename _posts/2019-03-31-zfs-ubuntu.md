@@ -11,13 +11,16 @@ tags: zfs linux system
     - You'll see the module loaded automatically if you use it.
     - The user space zfsutils-linux package will be included in Ubuntu Main, with security updates provided by Canonical.
 
-# Basics
+# The Basics
 
-_ZFS pool_ and thus your _file system_ is based on one or more **VDEVs**. And those VDEVs contain the actual hard drives.
+**ZFS pool** and thus your _file system_ is based on one or more **VDEVs**. And those VDEVs contain the actual hard drives.
 
-Fault-tolerance or redundancy is addressed within a _VDEV_. A VDEV is either a RAID-1 (mirror), RAID-5 (RAIDZ) or RAID-6 (RAIDZ2). It can even use tripple parity (RAID-Z3).
+**Fault-tolerance** or redundancy is addressed within a _VDEV_. A VDEV is either a RAID-1 (mirror), RAID-5 (RAIDZ) or RAID-6 (RAIDZ2). It can even use tripple parity (RAID-Z3).
 
-So it's important to understand that **a ZFS pool itself is not fault-tolerant**. If you lose a single VDEV within a pool, you lose the whole pool. **You lose the pool, all data is lost**.
+So it's important to understand that
+- **a ZFS pool itself is not fault-tolerant.**
+- **If you lose a single VDEV within a pool, you lose the whole pool.**
+- **You lose the pool, all data is lost**.
 
 [ ![caption](https://louwrentius.com/static/images/zfs-overview.png) ](https://louwrentius.com/the-hidden-cost-of-using-zfs-for-your-home-nas.html)
 
@@ -41,8 +44,10 @@ df -h .
 ## [Replacing a (silently) failing disk in a ZFS pool](https://imil.net/blog/2019/07/02/Replacing-a-silently-failing-disk-in-a-ZFS-pool/)
 
 # Configuration
-## [Pool - RAID5 / Z1](https://www.maketecheasier.com/use-zfs-filesystem-ubuntu-linux/)
+## 1 - [Pool - RAID5 / Z1](https://www.maketecheasier.com/use-zfs-filesystem-ubuntu-linux/)
     
+Create the VDEV (storage) then the pool.
+  
 {% highlight bash %}
 zpool create storage_pool raidz1 /dev/sda /dev/sdb /dev/sdc
 zpool status
@@ -50,7 +55,7 @@ cd /storage_pool
 df -h .
 {% endhighlight %}
 
-## [Create ZFS Filesystem (or dataset)](https://www.jamescoyle.net/how-to/478-create-a-zfs-volume-on-ubuntu)
+## 2 - [Create ZFS Filesystem (or dataset)](https://www.jamescoyle.net/how-to/478-create-a-zfs-volume-on-ubuntu)
 
 > At this point, we now have a zpool spanning three disks. One of these is used for parity, giving us the chance to recover in the event of a single disk failure. The next step is to make the volume usable and add features such as compression, encryption or de-duplication.
 
