@@ -15,3 +15,5 @@ Cockpit is not intended to be run as a container, but instead directly on the ho
 
 see also
 - [How to Install Cockpit Web Console on Ubuntu 20.04 Server](https://www.linuxtechi.com/how-to-install-cockpit-on-ubuntu-20-04/)
+- [Question: Updating managed servers through centralised Cockpit
+#12216](https://github.com/cockpit-project/cockpit/issues/12216) - you have to log directly...
