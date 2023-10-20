@@ -25,6 +25,10 @@ Currently, the supported Kubernetes kinds are:
 ### Compose
 - [Moving from docker-compose to Podman pods](https://www.redhat.com/sysadmin/compose-podman-pods)
 
+### SystemD
+
+**Note**: `podman generate systemd` **is deprecated**. We recommend using [Quadlet](https://docs.podman.io/en/latest/markdown/podman-systemd.unit.5.html) files when running Podman containers or pods under systemd.
+
 ### [PODs](https://kubernetes.io/docs/concepts/workloads/pods/)
 
 ✅ [initContainers](https://kubernetes.io/docs/concepts/workloads/pods/init-containers/)    
