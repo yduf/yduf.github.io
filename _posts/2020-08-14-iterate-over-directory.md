@@ -22,7 +22,7 @@ Dir["**/*"].each do |filename|
 end
 {% endhighlight %}
 
-see also [Paths in Ruby](https://www.clairecodes.com/blog/2016-01-01-paths-in-ruby/) - for path manipulation, eg: `File.expand_path( File.join( File.dirname(__FILE__), '../other' ))` 
+see also [Paths in Ruby](https://www.clairecodes.com/blog/2016-01-01-paths-in-ruby/) - for path manipulation, eg: `File.expand_path( File.join( File.dirname(__FILE__), '../other' ))` or `File.expand_path('../other', __FILE__)`
 
 ### [C++](https://en.cppreference.com/w/cpp/filesystem/directory_iterator)
 {% highlight cpp %}
