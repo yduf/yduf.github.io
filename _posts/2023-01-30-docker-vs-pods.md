@@ -27,7 +27,7 @@ Currently, the supported Kubernetes kinds are:
 
 ### SystemD
 
-**Note**: `podman generate systemd` **is deprecated**. We recommend using [Quadlet](https://docs.podman.io/en/latest/markdown/podman-systemd.unit.5.html) files when running Podman containers or pods under systemd.
+**Note**: `podman generate systemd` **is deprecated**. We recommend using [Quadlet](https://www.redhat.com/sysadmin/quadlet-podman) files when running Podman containers or pods under systemd.
 
 ### [PODs](https://kubernetes.io/docs/concepts/workloads/pods/)
 
