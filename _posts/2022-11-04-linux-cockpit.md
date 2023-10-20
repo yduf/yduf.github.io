@@ -5,7 +5,9 @@ tags: linux-system docker
 ---
 > a web-based graphical interface for servers - [local](http://localhost:9090) / [Home](https://cockpit-project.org/)
 
+- [tronaut](https://tronaut:9090/)
 - [sophie-iMac](https://sophie-imac:9090/)
+
 
 ### [Install](https://www.smarthomebeginner.com/docker-to-podman-migration-guide/#Cockpit)
 
