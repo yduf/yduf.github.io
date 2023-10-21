@@ -1,7 +1,7 @@
 ---
 published: true
 title: Quadlet (Podman on systemd)
-tags: docker systemd
+tags: docker systemd k8
 ---
 > hides the complexity of running containers under systemd to make it easier to maintain unit files written from scratch. - [Make systemd better for Podman with Quadlet ](https://www.redhat.com/sysadmin/quadlet-podman) / [github](https://github.com/containers/quadlet)
 
