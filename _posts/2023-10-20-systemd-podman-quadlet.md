@@ -3,7 +3,7 @@ published: true
 title: Quadlet (Podman on systemd)
 tags: docker systemd k8
 ---
-> hides the complexity of running containers under systemd to make it easier to maintain unit files written from scratch. - [Make systemd better for Podman with Quadlet ](https://www.redhat.com/sysadmin/quadlet-podman) / [github](https://github.com/containers/quadlet)
+> Run  Kubernetes YAML specification  workloads on single nodes instead of a cluster. - [Make systemd better for Podman with Quadlet ](https://www.redhat.com/sysadmin/quadlet-podman) / [github](https://github.com/containers/quadlet)
 
 It is merged in podman 4, but only available on [ubuntu 22.04](https://devicetests.com/install-podman-4-ubuntu-22-04)
 
@@ -38,4 +38,3 @@ $ systemctl --user start paperless.service
 
 see also
 - [Run Kubernetes workloads in systemd with Podman](https://www.redhat.com/sysadmin/kubernetes-workloads-podman-systemd)
-- [1](https://www.redhat.com/sysadmin/quadlet-podman)
