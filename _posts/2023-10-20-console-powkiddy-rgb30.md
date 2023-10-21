@@ -5,6 +5,8 @@ tags: arcade-hardware gameboy pico8
 ---
 > [Powkiddy RGB30 - In-Depth Review](https://www.youtube.com/watch?v=XgIlD4rNe8k)
 
+- support bluetooth joystick / and HDMI output
+
 - [pico8](https://www.youtube.com/watch?v=KTb6ik1Eb40&t=2012s)
 	- can be programmed directly on the device
 - [Installing ArkOS](https://www.youtube.com/watch?v=XgIlD4rNe8k&t=508s)
