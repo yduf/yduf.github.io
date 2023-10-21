@@ -34,7 +34,7 @@ if a PDF document already contains a layer of text (as it has been OCR'd) it wil
 
 ### Email sync - TBD 
 
-## [Installation](https://github.com/yduf/ppngx)
+## [Installation](https://github.com/yduf/ppngx#ppngx-podman--paperless-ngx)
 
 Podman install derived from  [ppngx: Podman + Paperless-ngx](https://github.com/jdoss/ppngx).
 
