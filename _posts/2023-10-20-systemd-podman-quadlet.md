@@ -23,11 +23,15 @@ WantedBy=default.target
 
 [Kube]
 # Point to the yaml file in the same directory
-Yaml=paperless.yml
+Yaml=/mnt/paperless/paperless.yaml
 # Publish the envoy proxy data port
 PublishPort=8000:8080
 {% endhighlight %}
 
+{% highlight bash %}
+# The place where we will store the definition
+$ mkdir -p $HOME/.config/containers/systemd/
+{% endhighlight %}
 
 
 see also
