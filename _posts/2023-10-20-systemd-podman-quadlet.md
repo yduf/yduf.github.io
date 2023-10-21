@@ -24,8 +24,8 @@ WantedBy=default.target
 [Kube]
 # Point to the yaml file in the same directory
 Yaml=/mnt/paperless/paperless.yaml
-# Publish the envoy proxy data port
-PublishPort=8000:8080
+# Publish the envoy proxy data port => this has to match otherwise service won't start
+PublishPort=8000:8000
 {% endhighlight %}
 
 {% highlight bash %}
