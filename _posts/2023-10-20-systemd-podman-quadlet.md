@@ -36,4 +36,5 @@ $ systemctl --user start paperless.service
 
 
 see also
+- [Run Kubernetes workloads in systemd with Podman](https://www.redhat.com/sysadmin/kubernetes-workloads-podman-systemd)
 - [1](https://www.redhat.com/sysadmin/quadlet-podman)
