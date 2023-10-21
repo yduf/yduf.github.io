@@ -29,8 +29,9 @@ PublishPort=8000:8080
 {% endhighlight %}
 
 {% highlight bash %}
-# The place where we will store the definition
-$ mkdir -p $HOME/.config/containers/systemd/
+# start pod
+$ systemctl --user daemon-reload
+$ systemctl --user start paperless.service
 {% endhighlight %}
 
 
