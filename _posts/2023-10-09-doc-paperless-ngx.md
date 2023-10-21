@@ -45,3 +45,6 @@ Podman install derived from  [ppngx: Podman + Paperless-ngx](https://github.com/
 - [Paperless, paperless-ng, paperless-ngx ... where are we going ...?](https://www.reddit.com/r/selfhosted/comments/100gm61/paperless_paperlessng_paperlessngx_where_are_we/) - paperless-ngx is the only version/fork of paperless that is currently developped.
 - [paperless-ngx/docker/compose](https://github.com/paperless-ngx/paperless-ngx/blob/main/docker/compose/docker-compose.sqlite.yml)
 - [podman/systemd setup](https://www.reddit.com/r/selfhosted/comments/16z8c9y/comment/k3esxcv/?utm_source=share&utm_medium=web2x&context=3)
+- [“Go Green, Go Paperless”
+Messages Are Misleading
+The Facts About Greenwashing](https://twosidesna.org/wp-content/uploads/sites/16/2021/08/2021-TSNA-Greenwash-Fact-Sheet-FINAL2.pdf)
