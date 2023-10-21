@@ -24,14 +24,8 @@ WantedBy=default.target
 [Kube]
 # Point to the yaml file in the same directory
 Yaml=paperless.yml
-# Use the quadlet-demo network
-Network=quadlet-demo.network
 # Publish the envoy proxy data port
 PublishPort=8000:8080
-# Publish the envoy proxy admin port
-PublishPort=9000:9901
-# Use the envoy proxy config map in the same directory
-ConfigMap=envoy-proxy-configmap.yml
 {% endhighlight %}
 
 
