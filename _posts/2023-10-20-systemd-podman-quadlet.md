@@ -21,13 +21,9 @@ $ mkdir -p $HOME/.config/containers/systemd/
 [Install]
 WantedBy=default.target
 
-[Unit]
-Requires=quadlet-demo-mysql.service
-After=quadlet-demo-mysql.service
-
 [Kube]
 # Point to the yaml file in the same directory
-Yaml=quadlet-demo.yml
+Yaml=paperless.yml
 # Use the quadlet-demo network
 Network=quadlet-demo.network
 # Publish the envoy proxy data port
