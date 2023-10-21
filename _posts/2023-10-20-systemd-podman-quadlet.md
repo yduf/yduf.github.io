@@ -29,10 +29,11 @@ PublishPort=8000:8000
 {% endhighlight %}
 
 {% highlight bash %}
-# start pod
+# to start pod
 $ systemctl --user daemon-reload
 $ systemctl --user start paperless.service
 {% endhighlight %}
+
 
 
 see also
