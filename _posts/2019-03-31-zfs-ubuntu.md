@@ -44,6 +44,10 @@ df -h .
 ## [Replacing a (silently) failing disk in a ZFS pool](https://imil.net/blog/2019/07/02/Replacing-a-silently-failing-disk-in-a-ZFS-pool/)
 
 # Configuration
+  
+see also [ 	
+	ZFSBootMenu ](https://news.ycombinator.com/item?id=37113917)
+  
 ## 1 - [Pool - RAID5 / Z1](https://www.maketecheasier.com/use-zfs-filesystem-ubuntu-linux/)
     
 Create the VDEV (storage) then the pool.
