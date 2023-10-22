@@ -18,3 +18,4 @@ May be
 - [Picotool](https://github.com/dansanderson/picotool) - a suite of tools and a Python library for manipulating PICO-8 cartridges. 
 - [decoding Pico-8 cartridges](https://robertovaccari.com/blog/2021_01_03_stegano_pico8/)
 - [pico8-imgtools](https://github.com/gamax92/pico8-imgtools)
+- [P8Coder (windows)](https://blog.thrill-project.com/p8coder-pico-8-programming-tool/) / [github](https://github.com/movAX13h/P8Coder) - pico-8 programming tool
