@@ -1,6 +1,6 @@
 ---
 published: true
-title: GPU optimized term - Kitty
+title: 'Kitty - a modern term '
 tags: cli gpu term image viewer quake
 ---
 > the fast, featureful, GPU based terminal emulator - [kitty](https://sw.kovidgoyal.net/kitty/#quickstart) / [HN](https://news.ycombinator.com/item?id=24643008)
