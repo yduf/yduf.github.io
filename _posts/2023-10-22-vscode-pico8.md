@@ -3,7 +3,7 @@ published: true
 title: PICO-8 IDE (VSCode)
 tags: pico8 vscode
 ---
-> PICO-8 Easier development with Visual Studio - [imogiagames](https://imogiagames.itch.io/anila/devlog/367600/pico-8-easier-development-with-visual-studio)
+> PICO-8 Easier development with Visual Studio - [imogiagames](https://imogiagames.itch.io/anila/devlog/367600/pico-8-easier-development-with-visual-studio) / [PICO 8 Tips \| Using External Tools](https://www.youtube.com/watch?v=srPKBhzgZhc)
 
 - [Using VS Code with PICO-8](https://erika.florist/wiki/computers/vscodepico8/) 
     - [pico8-vscode](https://github.com/joho/pico8-vscode#pico8-vscode) - editing and running pico8 files.
