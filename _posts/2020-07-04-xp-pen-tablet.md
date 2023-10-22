@@ -10,3 +10,6 @@ tags: hardware tablet mouse stylus
 - [DIGImend - Tablets](https://digimend.github.io/tablets/)
 - [youtube](https://www.youtube.com/results?search_query=xp-pen+12+linux)
 	- [How to get XP-PEN working on Linux Mint Correct!](https://www.youtube.com/watch?v=bnrtPoo6-d8)
+
+see also
+-  [SOFTWARE & DRIVERS (linux driver!)](https://www.xp-pen.com/download/artist-12pro.html)
