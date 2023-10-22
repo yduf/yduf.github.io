@@ -54,16 +54,8 @@ tags: nas zfs ansible monitoring
 			- `--disable-telemetry`
             - `--no-updates`
     
-- Docker
-	- [portainer.io](https://www.portainer.io/installation/)
-	- [docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04)
-{% highlight bash %}
-sudo systemctl status docker
-sudo usermod -aG docker ${USER}
-sudo systemctl status
-{% endhighlight %}
-
 ### Remote Access
+- [**Cockpit**](http://192.168.0.125:9090)
 - ssh
 - [VSCode server]({% post_url 2019-04-29-vscode-server %})
 
