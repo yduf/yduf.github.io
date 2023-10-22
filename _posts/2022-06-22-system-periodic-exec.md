@@ -16,7 +16,7 @@ The modern option is to use a systemd timer unit. This requires creating a syste
 $ systemctl --user status "*timer"  # list timers
 $ systemctl --user list-timers      # summary of next programmed execution
 
-$ systemctl --all list-timers
+$ systemctl --all list-timers		# list all active/inactive
 {% endhighlight %}
 
 
