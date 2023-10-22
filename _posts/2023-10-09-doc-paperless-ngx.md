@@ -8,6 +8,12 @@ tags: doc text
 
 [![caption](https://docs.paperless-ngx.com/assets/screenshots/documents-smallcards.png#only-light)](https://docs.paperless-ngx.com)
 
+## Troubleshoot
+- [Pdf is rotated after consume #3368](https://github.com/paperless-ngx/paperless-ngx/issues/3368)
+	- [ [BUG] OCR slightly tilting scanned Document #2201 ](https://github.com/paperless-ngx/paperless-ngx/issues/2201)
+- [not all pdf files can be imported successfully]()
+	- [ [BUG] PDF gets scrambled while being imported #4016 ](https://github.com/paperless-ngx/paperless-ngx/issues/4016)
+
 ## Setup
 
 > Paperless converts your documents from regular PDFs to PDF/A which is a subset of the PDF standard. This subset is designed for long-term storage. - [Over-engineering my document storage system with Paperless-ngx](https://skerritt.blog/how-i-store-physical-documents/)
