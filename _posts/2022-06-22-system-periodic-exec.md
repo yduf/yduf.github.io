@@ -6,7 +6,8 @@ tags: linux-system systemd automation service timer
 > Cron, however, fails if your system happens to not be running when the appropriate execution time occurs.  
 > Anacron insures that the task will be executed when your system is again active. However, the anacron frequency of execution can be no less than daily.
 >
-> Systemd timers offer the best of both cron and anacron. - [Systemd Timers for Scheduling Tasks](https://fedoramagazine.org/systemd-timers-for-scheduling-tasks/)
+> Systemd timers offer the best of both cron and anacron. - [Systemd Timers for Scheduling Tasks](https://fedoramagazine.org/systemd-timers-for-scheduling-tasks/) / [systemd/Timers](https://wiki.archlinux.org/index.php/Systemd/Timers#As_a_cron_replacement)
+
 
 The modern option is to use a systemd timer unit. This requires creating a systemd unit which defines the job you want to periodically run, and a systemd.timer unit defining the schedule for the job. - [SO](https://askubuntu.com/questions/844533/how-to-execute-a-script-periodically-without-using-crontab/844618#844618)
 
@@ -19,10 +20,11 @@ $ systemctl --user list-timers      # summary of next programmed execution
 $ systemctl --all list-timers		# list all active/inactive
 {% endhighlight %}
 
-
 ### [Create timer](https://opensource.com/article/20/7/systemd-timers)
 - [What is stalling my systemd user timer?](https://stackoverflow.com/questions/35387345/what-is-stalling-my-systemd-user-timer)
 - [systemd/Timers](https://wiki.archlinux.org/title/Systemd/Timers)
+	- [Creating A Timer](https://linuxhint.com/cron_systemd_timer/)
+	- [creating a service](https://linuxhint.com/systemd_unit_file_service/)
 
 in `$HOME/.config/systemd/user`
 
