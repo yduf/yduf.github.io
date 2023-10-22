@@ -9,7 +9,8 @@ tags: pico8 color
 - [Palette](https://pico-8.fandom.com/wiki/Palette)
 - [Pico-8 Colour Study](https://www.lexaloffle.com/bbs/?tid=3386)
 - [Bitplanes! An overview](https://www.lexaloffle.com/bbs/?pid=134773)
-
+- [How to convert an image to pico-8 with optimized size](https://anto80.com/en-us/image-processing/convert-image-to-pico8-p8-imgtopico8) 
 <span>
 [![caption](https://www.lexaloffle.com/media/1/bunny_1.gif)](https://www.lexaloffle.com/bbs/?tid=50632) [![caption](https://www.lexaloffle.com/media/1/boat3b_1.gif)](https://www.lexaloffle.com/bbs/?tid=49075)
 </span>
+
