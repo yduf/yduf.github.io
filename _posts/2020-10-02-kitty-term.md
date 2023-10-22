@@ -8,6 +8,7 @@ tags: cli gpu term image viewer quake
 - [Terminal issues with SSH](https://wiki.archlinux.org/title/Kitty#Terminal_issues_with_SSH) - `$ kitty +kitten ssh user@host
 - [Kitty conf (ctrl+shift+f2)](https://sw.kovidgoyal.net/kitty/conf/#opt-kitty.shell)
 `
+- [changing the icon](https://sw.kovidgoyal.net/kitty/faq/#i-do-not-like-the-kitty-icon) on [ubuntu](https://askubuntu.com/questions/1417373/how-can-i-change-the-name-or-icon-of-an-installed-application)
 
 ### [Integration with other tools](https://sw.kovidgoyal.net/kitty/integrations/)
 kitty provides extremely powerful interfaces such as Control kitty from scripts and Custom kittens and icat that allow it to be integrated with other tools seamlessly. 
