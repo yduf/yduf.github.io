@@ -5,6 +5,8 @@ tags: pico8 vscode
 ---
 > PICO-8 Easier development with Visual Studio - [imogiagames](https://imogiagames.itch.io/anila/devlog/367600/pico-8-easier-development-with-visual-studio) / [PICO 8 Tips \| Using External Tools](https://www.youtube.com/watch?v=srPKBhzgZhc)
 
+_put all of your code in a separate file and using #include_
+
 - [Using VS Code with PICO-8](https://erika.florist/wiki/computers/vscodepico8/) 
     - [pico8-vscode](https://github.com/joho/pico8-vscode#pico8-vscode) - editing and running pico8 files.
     - [pico8vscodeeditor](https://marketplace.visualstudio.com/items?itemName=Grumpydev.pico8vscodeeditor) - facilities for editing Pico-8 p8 files in VSCode.
