@@ -1,7 +1,7 @@
 ---
 published: true
 title: Gyruss
-tags: games
+tags: games arcade
 ---
 >  Galaga in a tube shooter format - [wikipedia](https://en.wikipedia.org/wiki/Gyruss)
 
