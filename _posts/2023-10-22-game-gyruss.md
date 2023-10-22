@@ -3,7 +3,7 @@ published: true
 title: Gyruss
 tags: games arcade
 ---
->  Galaga in a tube shooter format - [wikipedia](https://en.wikipedia.org/wiki/Gyruss)
+>  Galaga in a tube shooter format - [giantbomb.com](https://www.giantbomb.com/gyruss/3030-18885/)
 
 [![caption](https://www.battleofthearcades.net/img/marquees/gyruss.jpg)](https://www.battleofthearcades.net/Game/7/57)
 
