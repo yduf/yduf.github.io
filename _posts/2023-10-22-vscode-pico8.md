@@ -1,6 +1,6 @@
 ---
 published: true
-title: Using VS Code with PICO-8
+title: PICO-8 IDE (VSCode)
 tags: pico8 vscode
 ---
 > PICO-8 Easier development with Visual Studio - [imogiagames](https://imogiagames.itch.io/anila/devlog/367600/pico-8-easier-development-with-visual-studio)
