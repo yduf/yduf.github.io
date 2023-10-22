@@ -1,7 +1,7 @@
 ---
 published: true
 title: XP-Pen Artist 12
-tags: hardware tablet mouse stylus
+tags: hardware linux-hardware tablet mouse stylus
 ---
 > Compact Design of 11.6 Inch FHD display with 178° degree of visual angle , 16.7M Great color and 1920x1080 resolution ,6 handy shortcut keys with a slim touch Pad - [support](https://www.xp-pen.com/search/index.html?keyword=artist+12) / [amazon](https://www.amazon.fr/gp/product/B07GNK18VJ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)
 
@@ -12,4 +12,5 @@ tags: hardware tablet mouse stylus
 	- [How to get XP-PEN working on Linux Mint Correct!](https://www.youtube.com/watch?v=bnrtPoo6-d8)
 
 see also
--  [SOFTWARE & DRIVERS (linux driver!)](https://www.xp-pen.com/download/artist-12pro.html)
+- [SOFTWARE & DRIVERS (linux driver!)](https://www.xp-pen.com/download/artist-12pro.html)
+- [https://www.xp-pen.com/download/artist-12pro.html](https://krita-artists.org/t/graphic-tablets-on-linux/351)
