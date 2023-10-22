@@ -6,10 +6,10 @@ tags: nas zfs ansible monitoring
 >  Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook. - [davestephens/ansible-nas](https://github.com/davestephens/ansible-nas)
 
 ### Service
-- [**Netdata**](http://192.168.0.125:19999) dashboard
-- [**Cockpit**](http://192.168.0.125:9090) dashboard
+- [**Netdata**](http://192.168.0.125:19999) - dashboard
+- [**Cockpit**](http://192.168.0.125:9090)  - admin
 
-- [**Paperless-ngx**](http://192.168.0.125:8000) dashboard
+- [**Paperless-ngx**](http://192.168.0.125:8000) - CDM
 
 
 ## _TODO_
