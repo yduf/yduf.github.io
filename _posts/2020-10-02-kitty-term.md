@@ -5,7 +5,6 @@ tags: cli gpu term image viewer quake
 ---
 > the fast, featureful, GPU based terminal emulator - [kitty](https://sw.kovidgoyal.net/kitty/#quickstart) / [HN](https://news.ycombinator.com/item?id=24643008)
 
-[![caption](https://github.com/DinkDonk/kitty-icon/raw/main/kitty-dark.png)](https://sw.kovidgoyal.net/kitty/faq/#i-do-not-like-the-kitty-icon)
 
 - [Terminal issues with SSH](https://wiki.archlinux.org/title/Kitty#Terminal_issues_with_SSH) - `$ kitty +kitten ssh user@host
 - [Kitty conf (ctrl+shift+f2)](https://sw.kovidgoyal.net/kitty/conf/#opt-kitty.shell)
@@ -21,3 +20,6 @@ see also:
 - [alacritty ](https://github.com/alacritty/alacritty) - the fastest terminal emulator in existence.
 - [Terminal image viewer]({% post_url 2017-11-16-TerminalImageViewer %})
 - [Casey Muratori’s refterm]({% post_url 2021-11-02-term-anatomy %})
+
+
+[![caption](https://github.com/DinkDonk/kitty-icon/raw/main/kitty-dark.png)](https://sw.kovidgoyal.net/kitty/faq/#i-do-not-like-the-kitty-icon)
