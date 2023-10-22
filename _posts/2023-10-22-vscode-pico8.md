@@ -15,4 +15,4 @@ May be
 
     
 - [compiler](https://github.com/amirave/pico-compiler)
-- [Picotool](https://pico-8.fandom.com/wiki/Picotool) - a suite of tools and a Python library for manipulating PICO-8 cartridges. 
+- [Picotool](https://github.com/dansanderson/picotool) - a suite of tools and a Python library for manipulating PICO-8 cartridges. 
