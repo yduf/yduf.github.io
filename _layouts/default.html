@@ -11,8 +11,26 @@
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+  
+    <style>
+      @keyframes blink {
+          0% {
+              opacity: 1;
+          }
+          50% {
+              opacity: 0;
+          }
+          100% {
+              opacity: 1;
+          }
+      }
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+      .blinking-cursor {
+          color: #FE69B2;
+          animation: blink 1s infinite;
+          text-decoration: none;
+        }
+  </style>
   </head>
 
   <body>
@@ -23,7 +41,7 @@
 
           <div class="site-info">
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
+            <p class="site-description">> ls yduf <a href="https://www.pico-8-edu.com/" class="link-without-underline"><span class="blinking-cursor">▇</span></a></p>
           </div>
 
           <nav>
