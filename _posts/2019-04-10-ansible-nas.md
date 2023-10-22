@@ -37,7 +37,7 @@ tags: nas zfs ansible monitoring
 	- env ANSIBLE_NOCOWS=1 ansible-playbook -i inventory nas.yml -b -K should do you nicely.
 
 ### System Setup
-- [Ubuntu Server 18.04.2 LTS](https://www.ubuntu.com/download/server)
+- [Ubuntu Server 22.04.2 LTS](https://www.ubuntu.com/download/server)
 	- [upgraded kernel]({% post_url 2018-06-16-remove-kernel %})
 - [static ip]({% post_url 2017-07-16-network %})
 - [wake on lan]({% post_url 2019-04-27-wake-up %})
