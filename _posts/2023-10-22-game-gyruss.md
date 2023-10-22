@@ -12,3 +12,4 @@ tags: games arcade
 see also
 - [PYRUSS Pro (Retro Remake) By Wigsoft Development.](https://www.youtube.com/watch?v=Eq866HAm8PU) - remake
 - [Main Theme](https://www.youtube.com/watch?v=Ul7a1eB8DzA) - Tochatta remixed
+- [P8Coder (windows)](https://blog.thrill-project.com/p8coder-pico-8-programming-tool/) - pico-8 programming tool
