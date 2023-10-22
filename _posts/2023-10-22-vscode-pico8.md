@@ -8,3 +8,5 @@ tags: pico8 vscode
 - [Using VS Code with PICO-8](https://erika.florist/wiki/computers/vscodepico8/) / [pico8vscodeeditor](https://marketplace.visualstudio.com/items?itemName=Grumpydev.pico8vscodeeditor) / [compiler](https://github.com/amirave/pico-compiler)
 	- [PICO-8 Language Server](https://github.com/japhib/pico8-ls#pico-8-language-server) - Full language support for the PICO-8 dialect of Lua.
     - [pico8vscodeeditor](https://marketplace.visualstudio.com/items?itemName=Grumpydev.pico8vscodeeditor)
+    - [pico8-vscode](https://marketplace.visualstudio.com/items?itemName=johob.pico8-vscode)
+    
