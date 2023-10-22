@@ -5,14 +5,15 @@ tags: nas zfs ansible monitoring
 ---
 >  Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook. - [davestephens/ansible-nas](https://github.com/davestephens/ansible-nas)
 
-### Monitoring
+### Service
 - [**Netdata**](http://192.168.0.125:19999) dashboard
+- [**Cockpit**](http://192.168.0.125:9090) dashboard
+
+- [**Paperless-ngx**](http://192.168.0.125:8000) dashboard
+
 
 ## _TODO_
-- docker registry
 - samba 
-
-- docker / zfs container volume
 - [Guacamole](https://guacamole.apache.org/doc/gug/users-guide.html)
 	- [docker](https://guacamole.apache.org/doc/gug/guacamole-docker.html)
 - [rsync]({% post_url 2019-04-28-rsync %})
