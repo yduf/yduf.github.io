@@ -13,7 +13,7 @@ tags: pico8 vscode
 May be
     - [PICO-8 Language Server](https://github.com/japhib/pico8-ls#pico-8-language-server) - Full language support for the PICO-8 dialect of Lua.
 
-### Doc
+### [Doc](https://www.lexaloffle.com/dl/docs/pico-8_manual.html)
 - [Pico-8 API Cheatsheet](https://iiviigames.github.io/pico8-api/)
     
 - [compiler](https://github.com/amirave/pico-compiler)
