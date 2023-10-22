@@ -17,3 +17,4 @@ May be
 - [compiler](https://github.com/amirave/pico-compiler)
 - [Picotool](https://github.com/dansanderson/picotool) - a suite of tools and a Python library for manipulating PICO-8 cartridges. 
 - [decoding Pico-8 cartridges](https://robertovaccari.com/blog/2021_01_03_stegano_pico8/)
+- [pico8-imgtools](https://github.com/gamax92/pico8-imgtools)
