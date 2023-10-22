@@ -7,4 +7,4 @@ tags: codingame pico8 adventure
 
 ### [Code-8](https://gamejolt.com/games/code-8/340837)
 
-[![caption](https://m.gjcdn.net/game-header/1800/340837-ll-kxxdahnk-v4.webp)](https://gamejolt.com/games/code-8/340837)
+[![caption](https://i.gjcdn.net/public-data/games/5/87/340837/media/game-description/5d0caa8b5ca28-xzhzefgs.gif)](https://gamejolt.com/games/code-8/340837)
