@@ -5,7 +5,7 @@ tags: cli gpu term image viewer quake
 ---
 > the fast, featureful, GPU based terminal emulator - [kitty](https://sw.kovidgoyal.net/kitty/#quickstart) / [HN](https://news.ycombinator.com/item?id=24643008)
 
-
+### [Kitty Terminal Emulator: How to Install, Configure, and Use It](https://linuxiac.com/kitty-terminal-emulator/)
 - [Terminal issues with SSH](https://wiki.archlinux.org/title/Kitty#Terminal_issues_with_SSH) - `$ kitty +kitten ssh user@host
 - [Kitty conf (ctrl+shift+f2)](https://sw.kovidgoyal.net/kitty/conf/#opt-kitty.shell)
 `
