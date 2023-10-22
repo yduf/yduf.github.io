@@ -10,4 +10,6 @@ tags: pico8 color
 - [Pico-8 Colour Study](https://www.lexaloffle.com/bbs/?tid=3386)
 - [Bitplanes! An overview](https://www.lexaloffle.com/bbs/?pid=134773)
 
+<span>
 [![caption](https://www.lexaloffle.com/media/1/bunny_1.gif)](https://www.lexaloffle.com/bbs/?tid=50632) [![caption](https://www.lexaloffle.com/media/1/boat3b_1.gif)](https://www.lexaloffle.com/bbs/?tid=49075)
+</span>
