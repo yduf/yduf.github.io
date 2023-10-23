@@ -8,3 +8,4 @@ tags: codingame pico8 project
 ### Sprite Rotation
 - [sprite rotation](https://www.lexaloffle.com/bbs/?tid=31642)
 	- [Rotating a sprite around its center](https://www.lexaloffle.com/bbs/?tid=3593)
+    - [simple function to rotate sprites around a point?](https://www.lexaloffle.com/bbs/?tid=31642)
