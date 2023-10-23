@@ -10,6 +10,7 @@ There are still artists playing with stereograms, like [3Dimka](https://www.devi
 [![running free poster](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9cab7be2-0be8-4bc9-96a6-e84a16fcf5e1_762x763.png)](https://www.zazzle.com/hidden_3d_stereogram_poster_running_free-228577180965906063)
 
 ## Tutorials
+- [How To Make Your Own Spooky Magic Eye Pictures (Autostereograms)](https://blog.demofox.org/2023/10/22/how-to-make-your-own-spooky-magic-eye-pictures-autostereograms/) / [HN](https://news.ycombinator.com/item?id=37977938)
 - [basic](https://www.ime.usp.br/~otuyama/stereogram/basic/index.html)
 - [Realtime stereograms](http://developer.download.nvidia.com/books/HTML/gpugems/gpugems_ch41.html)
 
