@@ -8,3 +8,6 @@ tags: pico8 codingame
 ### Tips
 - [Circular Clipping Masks](https://www.lexaloffle.com/bbs/?tid=46286)
 - [Storing Binary Data as Strings](https://www.lexaloffle.com/bbs/?tid=38692)
+
+### Tutorials
+- [Let's make a PICO-8 Game in 30 Minutes!](https://www.youtube.com/watch?v=RJN83kSzh2k)
