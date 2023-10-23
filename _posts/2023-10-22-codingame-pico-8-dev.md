@@ -7,3 +7,4 @@ tags: pico8 codingame
 
 ### Tips
 - [Circular Clipping Masks](https://www.lexaloffle.com/bbs/?tid=46286)
+- [Storing Binary Data as Strings](https://www.lexaloffle.com/bbs/?tid=38692)
