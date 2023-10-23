@@ -13,6 +13,9 @@ tags: pico8 color
 	- [Image-To-Pico8 Converter ImgToP8](https://anto80.itch.io/image-to-pico8-converter)
     - [Add animated glitch to your images, in the pico8 color palette](https://anto80.itch.io/image-to-pico8-converter/devlog/179687/add-animated-glitch-to-your-images-in-the-pico8-color-palette)
     
+## Others
+- [LazyDevs](https://www.youtube.com/@LazyDevs/videos)
+    
 <span>
 [![caption](https://www.lexaloffle.com/media/1/bunny_1.gif)](https://www.lexaloffle.com/bbs/?tid=50632) [![caption](https://www.lexaloffle.com/media/1/boat3b_1.gif)](https://www.lexaloffle.com/bbs/?tid=49075)
 </span>
