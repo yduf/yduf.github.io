@@ -15,7 +15,8 @@ tags: pico8 color
     
 ## Others
 - [LazyDevs](https://www.youtube.com/@LazyDevs/videos)
-    
+- [Pico-8 Tutorial - Breakout](https://www.youtube.com/playlist?list=PLea8cjCua_P0qjjiG8G5FBgqwpqMU7rBk)
+
 <span>
 [![caption](https://www.lexaloffle.com/media/1/bunny_1.gif)](https://www.lexaloffle.com/bbs/?tid=50632) [![caption](https://www.lexaloffle.com/media/1/boat3b_1.gif)](https://www.lexaloffle.com/bbs/?tid=49075)
 </span>
