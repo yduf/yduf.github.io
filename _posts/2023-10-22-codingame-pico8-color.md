@@ -19,6 +19,7 @@ tags: pico8 color
 - [Dylan Bennett](https://www.youtube.com/@DylanBennett/videos)
 - [Gamecodeur](https://www.youtube.com/watch?v=F_SJQMgP9vs)
 
+- [zep.p8](https://mastodon.social/@zep/109309275931134267)
 <span>
 [![caption](https://www.lexaloffle.com/media/1/bunny_1.gif)](https://www.lexaloffle.com/bbs/?tid=50632) [![caption](https://www.lexaloffle.com/media/1/boat3b_1.gif)](https://www.lexaloffle.com/bbs/?tid=49075)
 </span>
