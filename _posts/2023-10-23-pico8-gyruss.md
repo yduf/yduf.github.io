@@ -1,7 +1,7 @@
 ---
 published: true
 title: Gyruss - Project
-tags: codingame pico8 project
+tags: pico8 codingame project
 ---
 > Gyruss on pico8
 
