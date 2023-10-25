@@ -10,4 +10,4 @@ tags: pico8 pixelart
 
 ### Sprite Rotation
 - [tline sprite rotation/scaling](https://www.lexaloffle.com/bbs/?pid=78451)
-- [Sprite Rotation](https://www.lexaloffle.com/bbs/?tid=41632)
+- [Sprite Rotation](https://www.lexaloffle.com/bbs/?tid=41632) - 64x64
