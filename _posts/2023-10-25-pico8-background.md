@@ -11,5 +11,6 @@ tags: pico8 image
 
 see also
 - [PX9](https://www.lexaloffle.com/bbs/?tid=34058) - a lightweight gfx & map compression library
-- [Rolling your own editor](https://itch.io/post/1522416)
+- [Rolling your own editor](https://itch.io/post/1522416) / [Masters of the Universe](https://itch.io/t/818099/masters-of-the-universe) / [cart](https://theroboz.itch.io/motu)
 	- [Picodraw](https://www.lexaloffle.com/bbs/?tid=39384) - compressed full-screen graphic drawing tool
+- [Storing Binary Data as Strings](https://www.lexaloffle.com/bbs/?tid=38692)
