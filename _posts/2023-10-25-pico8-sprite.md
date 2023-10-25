@@ -14,3 +14,15 @@ tags: pico8 pixelart
 
 ### Collision
 - [Guides for Sprite Collision detection ...](https://www.lexaloffle.com/bbs/?tid=28145)
+
+### [Stacked Sprites](https://www.youtube.com/watch?v=_Z5eg9UvLRw)
+
+
+{::nomarkdown}
+<div class="myvideo">
+   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+       <source src="https://preview.redd.it/nagwcs5ih9db1.gif?format=mp4&s=de675ac91c34d5696dbac07e8030629e746e882b"  type="video/mp4"  />
+   </video>
+</div>
+{:/}
+
