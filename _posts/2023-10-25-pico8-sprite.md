@@ -11,3 +11,6 @@ tags: pico8 pixelart
 ### Sprite Rotation
 - [tline sprite rotation/scaling](https://www.lexaloffle.com/bbs/?pid=78451)
 - [Sprite Rotation](https://www.lexaloffle.com/bbs/?tid=41632) - 64x64
+
+### Collision
+- [Guides for Sprite Collision detection ...](https://www.lexaloffle.com/bbs/?tid=28145)
