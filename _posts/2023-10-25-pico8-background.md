@@ -14,3 +14,4 @@ see also
 - [Rolling your own editor](https://itch.io/post/1522416) / [Masters of the Universe](https://itch.io/t/818099/masters-of-the-universe) / [cart](https://theroboz.itch.io/motu)
 	- [Picodraw](https://www.lexaloffle.com/bbs/?tid=39384) - compressed full-screen graphic drawing tool
 - [Storing Binary Data as Strings](https://www.lexaloffle.com/bbs/?tid=38692)
+- [Depict, an image demake tool for PICO-8](https://www.reddit.com/r/pico8/comments/lezpxy/updated_depict_an_image_demake_tool_for_pico8/)
