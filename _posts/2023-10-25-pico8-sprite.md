@@ -17,6 +17,7 @@ tags: pico8 pixelart
 
 ### [Stacked Sprites](https://www.youtube.com/watch?v=_Z5eg9UvLRw)
 
+- [Sprite stacking example](https://www.lexaloffle.com/bbs/?pid=80083)
 
 {::nomarkdown}
 <div class="myvideo">
