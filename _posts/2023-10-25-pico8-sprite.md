@@ -27,3 +27,5 @@ tags: pico8 pixelart
 </div>
 {:/}
 
+see also
+- [Tutorial: Additional Sprite Memory](https://www.lexaloffle.com/bbs/?tid=33758)
