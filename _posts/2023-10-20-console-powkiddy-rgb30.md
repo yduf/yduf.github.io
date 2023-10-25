@@ -8,6 +8,7 @@ tags: arcade-hardware gameboy pico8 retro
 - support bluetooth joystick / and HDMI output
 
 - [pico8](https://www.youtube.com/watch?v=KTb6ik1Eb40&t=2012s)
+	- [Pico-8 on RGB30](https://www.reddit.com/r/pico8/comments/17ebtq0/pico8_on_rgb30_help_needed/)
 	- can be programmed directly on the device
 - [Installing ArkOS](https://www.youtube.com/watch?v=XgIlD4rNe8k&t=508s)
 
