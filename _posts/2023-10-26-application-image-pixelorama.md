@@ -8,4 +8,9 @@ tags: image sprite pixelart godot
 ### [Doc](https://www.oramainteractive.com/Pixelorama-Docs/)
 - [Pixelorama -- Great Free Pixel Art & Animation Tool with a Twist!](https://www.youtube.com/watch?v=u-TJ1WcCA6k) - show basic usage + internals
 
+see also:
+- [bobsprite.com](https://bobsprite.com/editor)
+- [pixilart.com](https://www.pixilart.com/draw?ref=home-page)
+- [Piskel](https://www.piskelapp.com/)
+
 [![caption](https://godotengine.org/assets/showcase/pixelorama.png) ](https://godotengine.org/showcase/pixelorama/)
