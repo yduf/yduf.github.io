@@ -17,6 +17,9 @@ tags: pico8 pixelart
 
 ### [Stacked Sprites](https://www.youtube.com/watch?v=_Z5eg9UvLRw)
 
+- [Beginners Guide to Sprite Stacking using Magica Voxel and GameMaker Studio 2 or any Other Engine](https://medium.com/@avsnoopy/beginners-guide-to-sprite-stacking-in-gamemaker-studio-2-and-magica-voxel-part-1-f7a1394569c0)
+- [Flaming Stacks: Using stacked sprites in Flame](https://blog.codemagic.io/flaming-stacks/)
+- [Sprite Stacking](https://www.samd.is/2020/04/10/sprite-stacking.html) -  How to Make a 3D Game with a 2D Engine
 - [Sprite stacking example](https://www.lexaloffle.com/bbs/?pid=80083)
 
 {::nomarkdown}
