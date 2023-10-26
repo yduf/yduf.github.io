@@ -8,7 +8,7 @@ tags: pico8 codingame
 ### [Lua](https://pico-8.fandom.com/wiki/Lua)
 - [Tables](https://pico-8.fandom.com/wiki/Tables)
 	- Metatables ?
-- Coroutines
+- [Coroutines](https://pico-8.fandom.com/wiki/Cocreate)
 
 ### Tips
 - [Circular Clipping Masks](https://www.lexaloffle.com/bbs/?tid=46286)
