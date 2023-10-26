@@ -1,7 +1,7 @@
 ---
 published: true
 title: Sprite (Pico-8)
-tags: pico8 pixelart
+tags: pico8 sprite pixelart
 ---
 > 
 
