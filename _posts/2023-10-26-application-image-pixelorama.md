@@ -7,6 +7,7 @@ tags: image sprite pixelart godot
 
 ### [Doc](https://www.oramainteractive.com/Pixelorama-Docs/)
 - [Pixelorama -- Great Free Pixel Art & Animation Tool with a Twist!](https://www.youtube.com/watch?v=u-TJ1WcCA6k) - show basic usage + internals
+- can import [palette from image](https://www.oramainteractive.com/Pixelorama-Docs/user_manual/palettes#palettes-import) eg from [pico8]()
 
 see also:
 - [Piskel](https://www.piskelapp.com/)
