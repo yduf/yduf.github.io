@@ -23,3 +23,5 @@ tags: pico8 codingame
 You can also STOP() in code and it will stop the interpreter. Then run “.” To single step. “R” to continue running.
 
 - [printh](https://www.lexaloffle.com/bbs/?tid=2549) -  prints a string to the host operating system's console.
+
+- [HELP: Performance profiling?](https://www.lexaloffle.com/bbs/?pid=51496)
