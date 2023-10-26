@@ -7,6 +7,7 @@ tags: pico8 codingame
 
 ### [Lua](https://pico-8.fandom.com/wiki/Lua)
 - [Tables](https://pico-8.fandom.com/wiki/Tables)
+	- Metatables ?
 - Coroutines
 
 ### Tips
@@ -16,3 +17,9 @@ tags: pico8 codingame
 ### Tutorials
 - [Let's make a PICO-8 Game in 30 Minutes!](https://www.youtube.com/watch?v=RJN83kSzh2k)
 - [Programmer des mini-jeux avec PICO-8 ! Tuto pour débuter](https://www.youtube.com/watch?v=YXbR0eqPoAw&list=PLHKUrXMrDS5t3ibCCh412ZAy0slIv3jeE&index=1)
+
+### [Debug](https://www.reddit.com/r/pico8/comments/s1dzk9/how_to_debug_a_game_in_pico8/)
+
+You can also STOP() in code and it will stop the interpreter. Then run “.” To single step. “R” to continue running.
+
+- [printh](https://www.lexaloffle.com/bbs/?tid=2549) -  prints a string to the host operating system's console.
