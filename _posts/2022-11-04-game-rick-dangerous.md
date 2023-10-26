@@ -8,4 +8,4 @@ tags: games
 - [History](https://www.simonphipps.com/games/rickdangerous/)
 - [graphics](https://www.rickdangerous.co.uk/graphics.htm)
 
-![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F2.bp.blogspot.com%2F-UOAoynJGYtM%2FW_RUc5gr2EI%2FAAAAAAAAoUw%2Fpm185-MXA-cWZHWYN8t0TOH_3rFDLAtlwCLcBGAs%2Fs400%2FRickDangerous.jpg&f=1&nofb=1&ipt=5da941342d26d58698e8f82ca9b9499233be9170a1ef012b96e97ac4b8aa6681&ipo=images)
+[![caption](https://amiga.abime.net/screen/1201-1300/1235_screen1.png?v=2448)]()https://amiga.abime.net/games/view/rick-dangerous
