@@ -32,3 +32,4 @@ tags: pico8 pixelart
 
 see also
 - [Tutorial: Additional Sprite Memory](https://www.lexaloffle.com/bbs/?tid=33758)
+- [Sprite Stacking with lighting in GameMaker Studio 2.3 - Part 1](https://www.youtube.com/watch?v=DNDwo7855Gs)
