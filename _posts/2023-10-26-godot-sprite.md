@@ -7,4 +7,3 @@ tags: godot codingame sprite
 
 see also
 - [2D sprite animation](https://docs.godotengine.org/en/4.1/tutorials/2d/2d_sprite_animation.html)
-- [Pixelorama](https://github.com/Orama-Interactive/Pixelorama#pixelorama---pixelate-your-dreams) / [Doc](https://www.oramainteractive.com/Pixelorama-Docs/)
