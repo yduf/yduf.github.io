@@ -10,4 +10,7 @@ tags: games
 - [History](https://www.simonphipps.com/games/rickdangerous/)
 - [graphics](https://www.rickdangerous.co.uk/graphics.htm)
 
+- [Full Map](https://rickdangerous.co.uk/rickmaps.htm)
+	- [SOUTH AMERICA](https://rickdangerous.co.uk/sa_map.htm)
+
 [![caption](https://www.pmbaty.com/rick/rick-dangerous.jpg)](https://www.pmbaty.com/rick/)
