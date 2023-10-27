@@ -15,8 +15,9 @@ tags: pico8 codingame
 - [Storing Binary Data as Strings](https://www.lexaloffle.com/bbs/?tid=38692)
 
 ### Tutorials
-- [Pico-8 Tutorial Crash Course For TOTAL Game Dev Beginners!](https://www.youtube.com/watch?v=LTMN5ItzzuA)
-- [Let's make a PICO-8 Game in 30 Minutes!](https://www.youtube.com/watch?v=RJN83kSzh2k)
+- [Pico-8 Tutorial Crash Course For TOTAL Game Dev Beginners!](https://www.youtube.com/watch?v=LTMN5ItzzuA) - general intro on tools available - very basic sprite move
+- [Let's make a PICO-8 Game in 30 Minutes!](https://www.youtube.com/watch?v=RJN83kSzh2k) - more complete overview
+	- how to reuse existing game to make your own - [use celest movement (MIT Licenced)](https://www.youtube.com/watch?v=RJN83kSzh2k&t=258s)
 - [Programmer des mini-jeux avec PICO-8 ! Tuto pour débuter](https://www.youtube.com/watch?v=YXbR0eqPoAw&list=PLHKUrXMrDS5t3ibCCh412ZAy0slIv3jeE&index=1)
 
 ### [Debug](https://www.reddit.com/r/pico8/comments/s1dzk9/how_to_debug_a_game_in_pico8/)
