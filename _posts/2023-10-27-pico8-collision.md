@@ -17,3 +17,6 @@ tags: codingame collision pico8
 
 [![caption](http://gamedev.docrobs.co.uk/wp-content/uploads/2018/05/fget_map.png) ](http://gamedev.docrobs.co.uk/first-steps-in-pico-8-easy-collisions-with-map-tiles)
 
+see also
+- [How to make a Platformer Game!](https://nerdyteachers.com/Explain/Platformer/)
+
