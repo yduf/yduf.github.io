@@ -19,6 +19,8 @@ tags: pico8 codingame
 - [Let's make a PICO-8 Game in 30 Minutes!](https://www.youtube.com/watch?v=RJN83kSzh2k) - more complete overview
 	- how to reuse existing game to make your own - [use celest movement (MIT Licenced)](https://www.youtube.com/watch?v=RJN83kSzh2k&t=258s)
 - [Programmer des mini-jeux avec PICO-8 ! Tuto pour débuter](https://www.youtube.com/watch?v=YXbR0eqPoAw&list=PLHKUrXMrDS5t3ibCCh412ZAy0slIv3jeE&index=1)
+	- [Programmer un shoot'em up !](https://www.youtube.com/watch?v=Ri8fqTMizmI&list=PLHKUrXMrDS5t3ibCCh412ZAy0slIv3jeE&index=3)
+	- [Programmer un jeu d'aventure à la Zelda](https://www.youtube.com/watch?v=opj-iZG1m94&list=PLHKUrXMrDS5t3ibCCh412ZAy0slIv3jeE&index=5)
 
 ### [Debug](https://www.reddit.com/r/pico8/comments/s1dzk9/how_to_debug_a_game_in_pico8/)
 
