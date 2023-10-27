@@ -9,7 +9,7 @@ tags: pico8 vscode
 
 ## [Using VS Code with PICO-8](https://www.youtube.com/watch?v=srPKBhzgZhc)
 
-As well as  [Using External Tools](https://www.youtube.com/watch?v=srPKBhzgZhc)
+As well as other [Using External Tools](https://www.youtube.com/watch?v=srPKBhzgZhc)
 
 [![caption](https://erika.florist/_astro/pico8.3926c591_Z27Efhn.avif)](https://erika.florist/wiki/computers/vscodepico8/)
 
