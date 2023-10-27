@@ -3,16 +3,23 @@ published: true
 title: PICO-8 IDE (VSCode)
 tags: pico8 vscode
 ---
-> PICO-8 Easier development with Visual Studio - [imogiagames](https://imogiagames.itch.io/anila/devlog/367600/pico-8-easier-development-with-visual-studio) / [PICO 8 Tips \| Using External Tools](https://www.youtube.com/watch?v=srPKBhzgZhc)
+> PICO-8 Easier development with Visual Studio - [imogiagames](https://imogiagames.itch.io/anila/devlog/367600/pico-8-easier-development-with-visual-studio) /
 
 <link rel="shortcut icon" href="https://static.wikia.nocookie.net/pico-8/images/4/4a/Site-favicon.ico/revision/latest?cb=20210713144653" type="image/x-icon" />
+
+## [Using VS Code with PICO-8](https://www.youtube.com/watch?v=srPKBhzgZhc)
+
+As well as  [Using External Tools](https://www.youtube.com/watch?v=srPKBhzgZhc)
 
 [![caption](https://erika.florist/_astro/pico8.3926c591_Z27Efhn.avif)](https://erika.florist/wiki/computers/vscodepico8/)
 
 _put all of your code in a separate file and using [#include](https://youtu.be/srPKBhzgZhc?feature=shared&t=305)_
 - use _info_ to have token count
 
-### [Using VS Code with PICO-8](https://erika.florist/wiki/computers/vscodepico8/) 
+Alternative way of doing things:
+- [Using VS Code with PICO-8](https://erika.florist/wiki/computers/vscodepico8/) - edit cart directly ?
+
+### Extension
 - [pico8-vscode](https://github.com/joho/pico8-vscode#pico8-vscode) - editing and running pico8 files.
 - [pico8vscodeeditor](https://marketplace.visualstudio.com/items?itemName=Grumpydev.pico8vscodeeditor) - facilities for editing Pico-8 p8 files in VSCode.
 - [pico8-simple-outline](https://marketplace.visualstudio.com/items?itemName=unremarkable.pico8-simple-outline) - display a list of all the functions in your project, and acces their definition by clicking on them.
