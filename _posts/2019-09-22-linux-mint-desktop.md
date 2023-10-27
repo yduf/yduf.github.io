@@ -30,6 +30,8 @@ Exec=/bin/sh -c "/home/scking/newshosting-2.9.9/newshosting.sh"
 Icon=/home/scking/newshosting-2.9.9/64x64_newshosting.png
 {% endhighlight %}
 
+When complete, save this file and using chmod, give it 644 permissions:
+`sudo chmod 644 /usr/share/applications/newshosting.desktop`
 
 ### Cinnamon Add shortcut to panel
 This require to add the launcher app to panel (default panel, allows only unpin, not add)
