@@ -15,7 +15,7 @@ tags: codingame collision pico8
     - [Advanced Micro Platformer - Starter Kit](https://www.lexaloffle.com/bbs/?tid=28793)
     - [pico8-bump.lua ](https://github.com/RuairiD/pico8-bump.lua)
 	
-- []() - block level collision
+- [Programmer un jeu d'aventure à la Zelda](https://www.youtube.com/watch?v=opj-iZG1m94&list=PLHKUrXMrDS5t3ibCCh412ZAy0slIv3jeE&index=6) - block level collision
     - [Micro Platformer - Simple Platforming Engine in 100 Lines of Code](https://www.lexaloffle.com/bbs/?tid=27626)
 - [Breakout #6 - Collision - Pico-8 Hero](https://www.youtube.com/watch?v=ejDC-aIgVIE) - en mode casse brick
 
