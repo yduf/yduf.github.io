@@ -5,6 +5,8 @@ tags: pico8 image
 ---
 > [Background images w/o tiles](https://www.lexaloffle.com/bbs/?tid=38884)
 
+<link rel="shortcut icon" href="https://static.wikia.nocookie.net/pico-8/images/4/4a/Site-favicon.ico/revision/latest?cb=20210713144653" type="image/x-icon" />
+
 [![caption](https://www.lexaloffle.com/media/45707/rle%20p8_1.gif)](https://www.lexaloffle.com/bbs/?tid=38884)
 
 [![caption](https://www.lexaloffle.com/media/32989/motu_000.png)](https://www.lexaloffle.com/bbs/?tid=39384)
