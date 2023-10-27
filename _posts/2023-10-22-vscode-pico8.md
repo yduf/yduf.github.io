@@ -16,9 +16,6 @@ As well as other [Using External Tools](https://www.youtube.com/watch?v=srPKBhzg
 _put all of your code in a separate file and using [#include](https://youtu.be/srPKBhzgZhc?feature=shared&t=305)_
 - use _info_ to have token count
 
-
-
-
 Alternative way of doing things:
 - [Using VS Code with PICO-8](https://erika.florist/wiki/computers/vscodepico8/) - edit cart directly ?
 
