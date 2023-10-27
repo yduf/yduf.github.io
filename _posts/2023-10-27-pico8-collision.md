@@ -1,9 +1,9 @@
 ---
 published: true
-title: Map (Pico-8)
+title: Collision (Pico-8)
 tags: codingame collision pico8
 ---
-> 
+> Collisions in games aren't just about hitting a wall, they're about breaking through barriers, smashing expectations, and crashing into new adventures! - _ChatGPT_
 
 [![caption](https://github.com/RuairiD/pico8-bump.lua/raw/master/img/slide.png) ](https://github.com/RuairiD/pico8-bump.lua)
 
