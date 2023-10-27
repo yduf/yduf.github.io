@@ -5,6 +5,8 @@ tags: pico8 vscode
 ---
 > PICO-8 Easier development with Visual Studio - [imogiagames](https://imogiagames.itch.io/anila/devlog/367600/pico-8-easier-development-with-visual-studio) / [PICO 8 Tips \| Using External Tools](https://www.youtube.com/watch?v=srPKBhzgZhc)
 
+<link rel="shortcut icon" href="https://static.wikia.nocookie.net/pico-8/images/4/4a/Site-favicon.ico/revision/latest?cb=20210713144653" type="image/x-icon" />
+
 _put all of your code in a separate file and using [#include](https://youtu.be/srPKBhzgZhc?feature=shared&t=305)_
 - use _info_ to have token count
 
