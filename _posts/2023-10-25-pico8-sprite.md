@@ -11,7 +11,9 @@ tags: pico8 sprite pixelart
 - [draw pico-8 sprites!](https://nerdyteachers.com/PICO-8/Draw/Sprite/) - up to 32x32
 
 ### External tools
-- [export](https://youtu.be/srPKBhzgZhc?feature=shared&t=724) - `export spritesheet.png`
+- [export](https://youtu.be/srPKBhzgZhc?feature=shared&t=724)
+	- `export spritesheet.png`
+	- `import spritesheet.png`
 
 ### Sprite Rotation
 - [tline sprite rotation/scaling](https://www.lexaloffle.com/bbs/?pid=78451)
