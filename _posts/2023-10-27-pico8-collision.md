@@ -12,3 +12,6 @@ tags: codingame collision pico8
 	- [Simple Collision Function](https://www.lexaloffle.com/bbs/?tid=3116) - pixel level box collision - same size as map
 	- []() - block level collision
 - [Breakout #6 - Collision - Pico-8 Hero](https://www.youtube.com/watch?v=ejDC-aIgVIE) - en mode casse brick
+
+[![caption](http://gamedev.docrobs.co.uk/wp-content/uploads/2018/05/fget_map.png) ](http://gamedev.docrobs.co.uk/first-steps-in-pico-8-easy-collisions-with-map-tiles)
+
