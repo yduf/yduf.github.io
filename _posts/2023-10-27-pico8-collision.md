@@ -21,7 +21,7 @@ tags: codingame collision pico8
 
 - [Pixel Perfect collision](https://forums.insertcredit.com/d/543-pico-8-dev-diary/7) 
 	- [celeste work](https://github.com/ExOK/Celeste2)
-		- tour of [elest movement (MIT Licenced)](https://www.youtube.com/watch?v=RJN83kSzh2k&t=258s)
+		- tour of [Celest movement (MIT Licenced)](https://www.youtube.com/watch?v=RJN83kSzh2k&t=258s)
 
 
 [![caption](http://gamedev.docrobs.co.uk/wp-content/uploads/2018/05/fget_map.png) ](http://gamedev.docrobs.co.uk/first-steps-in-pico-8-easy-collisions-with-map-tiles)
