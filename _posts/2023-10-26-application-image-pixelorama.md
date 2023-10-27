@@ -11,6 +11,7 @@ tags: application image sprite pixelart godot
 	- but does not support ([yet](https://github.com/Orama-Interactive/Pixelorama/issues/356)) indexed palette
 
 see also:
+- [LibreSprite]({% post_url 2023-10-27-libresprite %}) -  a fork of Aseprite 
 - [Piskel](https://www.piskelapp.com/)
 - [bobsprite.com](https://bobsprite.com/editor)
 - [pixilart.com](https://www.pixilart.com/draw?ref=home-page)
