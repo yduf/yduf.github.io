@@ -7,14 +7,17 @@ tags: pico8 vscode
 
 <link rel="shortcut icon" href="https://static.wikia.nocookie.net/pico-8/images/4/4a/Site-favicon.ico/revision/latest?cb=20210713144653" type="image/x-icon" />
 
+[![caption](https://erika.florist/_astro/pico8.3926c591_Z27Efhn.avif)](https://erika.florist/wiki/computers/vscodepico8/)
+
 ## [Using VS Code with PICO-8](https://www.youtube.com/watch?v=srPKBhzgZhc)
 
 As well as other [Using External Tools](https://www.youtube.com/watch?v=srPKBhzgZhc)
 
-[![caption](https://erika.florist/_astro/pico8.3926c591_Z27Efhn.avif)](https://erika.florist/wiki/computers/vscodepico8/)
-
 _put all of your code in a separate file and using [#include](https://youtu.be/srPKBhzgZhc?feature=shared&t=305)_
 - use _info_ to have token count
+
+
+
 
 Alternative way of doing things:
 - [Using VS Code with PICO-8](https://erika.florist/wiki/computers/vscodepico8/) - edit cart directly ?
