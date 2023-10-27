@@ -1,11 +1,13 @@
 ---
 published: true
 title: Map (Pico-8)
-tags: codingame pico8
+tags: codingame collision pico8
 ---
 > 
 
 ### Collision
 
-- [Simple Collision Function](https://www.lexaloffle.com/bbs/?tid=3116) - pixel level box collision
+- [Map-Collision Example](https://www.lexaloffle.com/bbs/?tid=46181) - big sprite x small block
+	- [Simple Collision Function](https://www.lexaloffle.com/bbs/?tid=3116) - pixel level box collision - same size as map
 	- []() - block level collision
+- [Breakout #6 - Collision - Pico-8 Hero](https://www.youtube.com/watch?v=ejDC-aIgVIE) - en mode casse brick
