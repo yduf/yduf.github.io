@@ -1,7 +1,7 @@
 ---
 published: true
 title: Map (Pico-8)
-tags: pico8
+tags: codingame pico8
 ---
 > 
 
