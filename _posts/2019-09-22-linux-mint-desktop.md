@@ -14,6 +14,23 @@ tags: linux-system desktop application quote
 ### Linux Mint 21
 - display manager is lightdm
 
+### [Add Application to Cinnamon Menu and Panel](https://www.scottcking.com/2020/07/13/linux-mint-20-cinnamon-manually-add-application-to-cinnamon-menu-panel/)
+
+Add an entry in `/usr/share/applications` with the name of the application and
+with content
+
+{% highlight ini %}
+[Desktop Entry]
+Encoding=UTF-8
+Version=2.9.9
+Name=Newshosting
+GenericName=Newshosting Launcher
+Type=Application
+Exec=/bin/sh -c "/home/scking/newshosting-2.9.9/newshosting.sh"
+Icon=/home/scking/newshosting-2.9.9/64x64_newshosting.png
+{% endhighlight %}
+
+
 ### Cinnamon Add shortcut to panel
 This require to add the launcher app to panel (default panel, allows only unpin, not add)
 
