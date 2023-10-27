@@ -13,14 +13,16 @@ tags: vscode
 Open the keybindings.json from the editor: CMD-SHIFT-P -> Preferences: Open Keyboard Shortcuts File. Also a nice resource: [code.visualstudio.com/docs](https://code.visualstudio.com/docs/getstarted/keybindings)
 
 {% highlight json %}
-    // Toggle between terminal and editor focus
-    { "key": "ctrl+[Backquote]", "command": "workbench.action.terminal.focus"},
-    { "key": "ctrl+[Backquote]", "command": "workbench.action.focusActiveEditorGroup", "when": "terminalFocus"}
-
+// Toggle between terminal and editor focus
+{ "key": "ctrl+[Backquote]", "command": "workbench.action.terminal.focus"},
+{ "key": "ctrl+[Backquote]", "command": "workbench.action.focusActiveEditorGroup", "when": "terminalFocus"}
 {% endhighlight %}
 
 ## [Settings Cycler](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-settings-cycler)
-And add a configuration for the setting, see below.
+
+Add a configuration for the setting, see below.
+This is can be at the workspace or user level.
+It's will be located in the Extension setting: `~/.config/Code/User/settings.json`
 
 {% highlight json %}
 {
@@ -41,7 +43,6 @@ And add a configuration for the setting, see below.
                 { "workbench.colorTheme": "Default Light+" }
             ]
         }
-
 {% endhighlight %}
 
 ### [Cycling sort order in Explorer](https://stackoverflow.com/questions/51543871/sorting-files-in-vs-code-explorer)
@@ -60,7 +61,7 @@ And add a configuration for the setting, see below.
         }
 {% endhighlight %}
 
-### End Cycling configuration
+`End Cycling configuration`
 
 {% highlight json %}
     ]
@@ -70,6 +71,7 @@ And add a configuration for the setting, see below.
 ## [Configure a keyboard shortcut](https://code.visualstudio.com/docs/getstarted/keybindings)
 File > Preferences > Keyboard Shortcuts
 
+This will be located in `~/.config/Code/User/keybindings.json`
 {% highlight json %}
 {
     "key": "ctrl+shift+t",
