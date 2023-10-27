@@ -5,6 +5,8 @@ tags: vscode
 ---
 > Sometimes VS Code ships a new feature without a toggle command (editor.minimap.enabled, explorer.autoReveal). Sometimes you want to easily toggle between a light and dark themes. Maybe you want to do something even more complex and toggle multiple settings at once. - [Settings Cycler](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-settings-cycler)
 
+<link rel="shortcut icon" href="https://code.visualstudio.com/favicon.ico" type="image/x-icon" />
+
 # Customization
 ## [Switch focus between editor and integrated terminal](https://stackoverflow.com/a/43012779/51386)
 
@@ -79,4 +81,3 @@ File > Preferences > Keyboard Shortcuts
         "command": "settings.cycle.fileSortOrder",
     }
 {% endhighlight %}
-
