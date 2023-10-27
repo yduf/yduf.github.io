@@ -7,6 +7,7 @@ tags: shader online
 
 see also
 - [Interactive intro to shaders](https://news.ycombinator.com/item?id=38032288)
+- [An introduction to Shader Art Coding](https://www.youtube.com/watch?v=f4s1h2YETNY)
 
 <iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/4tjGRh?gui=true&t=10&paused=false&muted=false" allowfullscreen></iframe>
 
