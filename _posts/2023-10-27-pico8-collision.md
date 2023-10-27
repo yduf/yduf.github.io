@@ -5,12 +5,15 @@ tags: codingame collision pico8
 ---
 > 
 
+[![caption](https://github.com/RuairiD/pico8-bump.lua/raw/master/img/slide.png) ](https://github.com/RuairiD/pico8-bump.lua)
+
 ### Collision
 
 - [Map-Collision Example](https://www.lexaloffle.com/bbs/?tid=46181) - big sprite x small block
 	- [First Steps in PICO-8: Easy Collisions with Map Tiles](http://gamedev.docrobs.co.uk/first-steps-in-pico-8-easy-collisions-with-map-tiles) - half filled tiles
 	- [Simple Collision Function](https://www.lexaloffle.com/bbs/?tid=3116) - pixel level box collision - same size as map
     - [Advanced Micro Platformer - Starter Kit](https://www.lexaloffle.com/bbs/?tid=28793)
+    - [pico8-bump.lua ](https://github.com/RuairiD/pico8-bump.lua)
 	
 - []() - block level collision
     - [Micro Platformer - Simple Platforming Engine in 100 Lines of Code](https://www.lexaloffle.com/bbs/?tid=27626)
