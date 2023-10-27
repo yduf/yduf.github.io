@@ -1,7 +1,7 @@
 ---
 published: true
 title: Lighting by hand (Pico-8)
-tags: game-engine pico8 light 8bit
+tags: game-engine pico8 color light 8bit
 ---
 > real-time lighting engine for the PICO-8 - [into the shadows](https://hackernoon.com/lighting-by-hand-4-into-the-shadows-a92bc8bc6d97)
 
