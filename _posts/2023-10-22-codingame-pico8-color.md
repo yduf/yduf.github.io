@@ -14,6 +14,8 @@ tags: pico8 color
 	- [Image-To-Pico8 Converter ImgToP8](https://anto80.itch.io/image-to-pico8-converter)
     - [Add animated glitch to your images, in the pico8 color palette](https://anto80.itch.io/image-to-pico8-converter/devlog/179687/add-animated-glitch-to-your-images-in-the-pico8-color-palette)
 
+see also
+- [Lighting by hand]({% post_url 2021-12-05-game-lightning %})
     
 ## Others
 - [LazyDevs](https://www.youtube.com/@LazyDevs/videos)
