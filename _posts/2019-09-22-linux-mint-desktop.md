@@ -16,7 +16,7 @@ tags: linux-system desktop application quote
 
 ### [Add Application to Cinnamon Menu and Panel](https://www.scottcking.com/2020/07/13/linux-mint-20-cinnamon-manually-add-application-to-cinnamon-menu-panel/)
 
-Add an entry in `/usr/share/applications` with the name of the application and
+Add an entry in `/usr/share/applications` with the name of the `<desired_name>.desktop` and
 with content
 
 {% highlight ini %}
