@@ -8,8 +8,8 @@ tags: pico8 codingame
 <link rel="shortcut icon" href="https://static.wikia.nocookie.net/pico-8/images/4/4a/Site-favicon.ico/revision/latest?cb=20210713144653" type="image/x-icon" />
 
 ### [Keyboard Shortcuts](https://pico-8.fandom.com/wiki/Keyboard_Shortcuts)
-Reload/Run/Restart  Ctrl+R
-Quick-Save          Ctrl+S  
+Reload/Run/Restart  Ctrl+R  
+Quick-Save          Ctrl+S    
 
 ### [Lua](https://pico-8.fandom.com/wiki/Lua)
 - [Tables](https://pico-8.fandom.com/wiki/Tables)
