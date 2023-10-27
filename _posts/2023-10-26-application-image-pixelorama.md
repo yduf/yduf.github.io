@@ -1,7 +1,7 @@
 ---
 published: true
 title: Pixelorama
-tags: image sprite pixelart godot
+tags: application image sprite pixelart godot
 ---
 > Pixelate your dreams! - [github](https://github.com/Orama-Interactive/Pixelorama#pixelorama---pixelate-your-dreams) / [Showcase](https://godotengine.org/showcase/pixelorama/)
 
