@@ -32,11 +32,11 @@ Quick-Save          Ctrl+S
 
 ### [Debug](https://www.reddit.com/r/pico8/comments/s1dzk9/how_to_debug_a_game_in_pico8/)
 
-
+- [log/debug tips](https://youtu.be/srPKBhzgZhc?feature=shared&t=392)
 
 You can also STOP() in code and it will stop the interpreter. Then run “.” To single step. “R” to continue running.
+You can also inspect variable with [print](https://youtu.be/srPKBhzgZhc?feature=shared&t=680)
 
 - [printh](https://www.lexaloffle.com/bbs/?tid=2549) -  prints a string to the host operating system's console.
-	- [log/debug tips](https://youtu.be/srPKBhzgZhc?feature=shared&t=392)
 
 - [HELP: Performance profiling?](https://www.lexaloffle.com/bbs/?pid=51496)
