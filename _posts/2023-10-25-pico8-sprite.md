@@ -5,8 +5,13 @@ tags: pico8 sprite pixelart
 ---
 > A small or elusive supernatural being; an elf or pixie. - [noun](https://www.wordnik.com/words/sprite)
 
+<link rel="shortcut icon" href="https://static.wikia.nocookie.net/pico-8/images/4/4a/Site-favicon.ico/revision/latest?cb=20210713144653" type="image/x-icon" />
+
 - [The secret guide to bullets, sprites, and animations](https://www.lexaloffle.com/bbs/?tid=44686)
 - [draw pico-8 sprites!](https://nerdyteachers.com/PICO-8/Draw/Sprite/) - up to 32x32
+
+### External tools
+- [export](https://youtu.be/srPKBhzgZhc?feature=shared&t=724) - `export spritesheet.png`
 
 ### Sprite Rotation
 - [tline sprite rotation/scaling](https://www.lexaloffle.com/bbs/?pid=78451)
