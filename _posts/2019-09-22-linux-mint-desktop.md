@@ -9,7 +9,7 @@ tags: linux-system desktop application quote
 
 - [Linux Mint Releases](https://www.linuxmint.com/download_all.php) - and ubuntu correspondance
 	- linux mint 21 (vanessa) <-> ubuntu Jammy 22.04 LTS
-- [Wayland?](https://forums.linuxmint.com/viewtopic.php?t=361316)
+- [Wayland](https://blog.linuxmint.com/) - wayland is coming
 
 ![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.SrDJcVOmGRfl3ZWMHFnsIgAAAA%26pid%3DApi&f=1&ipt=6193fd3b6793de1e1e739c906933cbfbe5695857922e3bcac6331f350a9612e6&ipo=images)
 
