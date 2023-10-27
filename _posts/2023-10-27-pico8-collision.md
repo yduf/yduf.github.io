@@ -13,5 +13,7 @@ tags: codingame collision pico8
 	- []() - block level collision
 - [Breakout #6 - Collision - Pico-8 Hero](https://www.youtube.com/watch?v=ejDC-aIgVIE) - en mode casse brick
 
+- [Pixel Perfect collision](https://forums.insertcredit.com/d/543-pico-8-dev-diary/7)
+
 [![caption](http://gamedev.docrobs.co.uk/wp-content/uploads/2018/05/fget_map.png) ](http://gamedev.docrobs.co.uk/first-steps-in-pico-8-easy-collisions-with-map-tiles)
 
