@@ -9,6 +9,7 @@ tags: pico8 codingame
 - [Tables](https://pico-8.fandom.com/wiki/Tables)
 	- Metatables ?
 - [Coroutines](https://pico-8.fandom.com/wiki/Cocreate)
+- [using External Editor]({% post_url 2023-10-22-vscode-pico8 %})
 
 ### Tips
 - [Circular Clipping Masks](https://www.lexaloffle.com/bbs/?tid=46286)
@@ -21,6 +22,7 @@ tags: pico8 codingame
 - [Programmer des mini-jeux avec PICO-8 ! Tuto pour débuter](https://www.youtube.com/watch?v=YXbR0eqPoAw&list=PLHKUrXMrDS5t3ibCCh412ZAy0slIv3jeE&index=1)
 	- [Programmer un shoot'em up !](https://www.youtube.com/watch?v=Ri8fqTMizmI&list=PLHKUrXMrDS5t3ibCCh412ZAy0slIv3jeE&index=3)
 	- [Programmer un jeu d'aventure à la Zelda](https://www.youtube.com/watch?v=opj-iZG1m94&list=PLHKUrXMrDS5t3ibCCh412ZAy0slIv3jeE&index=5)
+    	- moitié basse de la map / partagé avec les planche de sprites 3 & 4
 
 ### [Debug](https://www.reddit.com/r/pico8/comments/s1dzk9/how_to_debug_a_game_in_pico8/)
 
