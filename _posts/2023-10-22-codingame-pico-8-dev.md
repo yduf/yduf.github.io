@@ -17,6 +17,20 @@ Quick-Save          Ctrl+S
 - [Coroutines](https://pico-8.fandom.com/wiki/Cocreate)
 - [using External Editor]({% post_url 2023-10-22-vscode-pico8 %})
 
+- [Multiline comments](https://stackoverflow.com/a/22722493/51386)
+
+{% highlight lua %}
+--[=====[ 
+for k,v in pairs(t) do
+   local d = fullToShort[k]
+   local col = xColours[v[1]] -- It stops here!
+   cecho(string.format(("<%s>%s ", col, d))
+end
+--]=====]
+
+{% endhighlight %}
+
+
 ### Tips
 - [Circular Clipping Masks](https://www.lexaloffle.com/bbs/?tid=46286)
 - [Storing Binary Data as Strings](https://www.lexaloffle.com/bbs/?tid=38692)
