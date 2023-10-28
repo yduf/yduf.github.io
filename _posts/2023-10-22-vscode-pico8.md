@@ -25,8 +25,12 @@ Alternative way of doing things:
 
 - [PICO-8 Language Server](https://github.com/japhib/pico8-ls#pico-8-language-server)
 	- Full language support for the PICO-8 dialect of Lua. - (goto definion, etc)
+    - View docs on hover, then auto-complete 
+
+Alternative
 - [pico8vscodeeditor](https://marketplace.visualstudio.com/items?itemName=Grumpydev.pico8vscodeeditor) - facilities for editing Pico-8 p8 files in VSCode.
 	- Pico-8 API snippets - [(Ctrl+Space)](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
+
 - [pico8-simple-outline](https://marketplace.visualstudio.com/items?itemName=unremarkable.pico8-simple-outline) - for `*.p8` files: display a list of all the functions in your project, and acces their definition by clicking on them.
 - [pico8-vscode](https://github.com/joho/pico8-vscode#pico8-vscode) - editing and running pico8 files.
 
