@@ -9,3 +9,4 @@ tags: lua coroutine pico8
 
 see also
 - [COROUTINES](https://nerdyteachers.com/PICO-8/Guide/?COROUTINES)
+- [Pico-8 coroutines are occasionally dead](https://stackoverflow.com/questions/54193676/pico-8-coroutines-are-occasionally-dead)
