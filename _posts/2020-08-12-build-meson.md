@@ -43,7 +43,7 @@ libfolly = cmake.subproject('libfolly')
 
 [Wrap file](https://mesonbuild.com/Wrap-dependency-system-manual.html) tells Meson how to download it for you. If you then use this subproject in your build, Meson will automatically download and extract it during build. This makes subproject embedding extremely easy.
 
-**see [Wrap DB](https://wrapdb.mesonbuild.com/)/[2](https://github.com/mesonbuild/wrapdb/tree/master)**, to automatically get them for know lib.
+**see [Wrap DB](https://wrapdb.mesonbuild.com/)/[2](https://github.com/mesonbuild/wrapdb/tree/master)**, to automatically get them for known libs.
 For eg:
 
 {% highlight bash %}
