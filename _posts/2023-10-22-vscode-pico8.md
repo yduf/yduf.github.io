@@ -14,7 +14,7 @@ tags: pico8 vscode
 As well as other [Using External Tools](https://www.youtube.com/watch?v=srPKBhzgZhc)
 
 _put all of your code in a separate file and using [#include](https://youtu.be/srPKBhzgZhc?feature=shared&t=305)_
-you can use individual tabs from carts by going `#include cartname.p8:2` which would include any code on the second tab inside the cart. 
+you can use individual tabs from carts by going [`#include cartname.p8:2`](https://www.reddit.com/r/pico8/comments/17e8wke/include_file_in_different_directory/) which would include any code on the second tab inside the cart. 
 
 - use _info_ to have token count
 
