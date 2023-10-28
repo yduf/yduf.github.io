@@ -16,7 +16,7 @@ Quick-Save          Ctrl+S
 	- Metatables ?
 - [Coroutines]({% post_url 2023-10-28-lua-coroutine %})
 - [using External Editor]({% post_url 2023-10-22-vscode-pico8 %})
-
+- [multi assignment](https://stackoverflow.com/questions/15256516/how-does-multiple-assignment-work) - `local x,y = 10, 11`
 - [Multiline comments](https://stackoverflow.com/a/22722493/51386)
 
 {% highlight lua %}
