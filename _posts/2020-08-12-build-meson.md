@@ -41,7 +41,20 @@ cmake = import('cmake')
 libfolly = cmake.subproject('libfolly')
 {% endhighlight %}
 
-[Wrap file](https://mesonbuild.com/Wrap-dependency-system-manual.html) tells Meson how to download it for you. If you then use this subproject in your build, Meson will automatically download and extract it during build. This makes subproject embedding extremely easy. see also [Wrap DB](https://wrapdb.mesonbuild.com/)
+[Wrap file](https://mesonbuild.com/Wrap-dependency-system-manual.html) tells Meson how to download it for you. If you then use this subproject in your build, Meson will automatically download and extract it during build. This makes subproject embedding extremely easy.
+
+https://github.com/mesonbuild/wrapdb/tree/master
+
+**see [Wrap DB](https://wrapdb.mesonbuild.com/)**, to automatically get them for know lib.
+For eg:
+
+{% highlight bash %}
+# get already existing wrap for imgui (which include the required patch to make it work with meson build system)
+$ meson wrap install imgui
+
+# use wrap to retrieve the dependancy and launch build
+$ meson build .
+{% endhighlight %}
 
 eg; having in `./subprojects/libfolly.wrap`, will have meson automatically get folly from git repos at url with proper revision.
 
