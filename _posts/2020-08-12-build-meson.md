@@ -20,9 +20,9 @@ $ meson test
 {% endhighlight %}
 
 {% highlight ruby %}
-project('tutorial', 'c')
+project('tutorial', 'cpp')
 gtkdep = dependency('gtk+-3.0')
-executable('demo', 'main.c', dependencies : gtkdep)
+executable('demo', 'main.cc', dependencies : gtkdep)
 {% endhighlight %}
 
 ## [Subprojects](https://mesonbuild.com/Subprojects.html)
@@ -32,6 +32,12 @@ Meson allows you to take any other Meson project and make it a part of your buil
 see also [Subproject limitations](https://github.com/mesonbuild/meson/issues/422)
 
 [CMake based subprojects](https://mesonbuild.com/CMake-module.html#cmake-subprojects) are also supported but not guaranteed to work.
+
+{% highlight ruby %}
+project('tutorial', 'cpp')
+gtkdep = dependency('gtk+-3.0')
+executable('demo', 'main.c', dependencies : gtkdep)
+{% endhighlight %}
 
 [Wrap file](https://mesonbuild.com/Wrap-dependency-system-manual.html) tells Meson how to download it for you. If you then use this subproject in your build, Meson will automatically download and extract it during build. This makes subproject embedding extremely easy. see also [Wrap DB](https://wrapdb.mesonbuild.com/)
 
