@@ -34,12 +34,22 @@ see also [Subproject limitations](https://github.com/mesonbuild/meson/issues/422
 [CMake based subprojects](https://mesonbuild.com/CMake-module.html#cmake-subprojects) are also supported but not guaranteed to work.
 
 {% highlight ruby %}
-project('tutorial', 'cpp')
-gtkdep = dependency('gtk+-3.0')
-executable('demo', 'main.c', dependencies : gtkdep)
+# Configure the CMake project
+cmake = import('cmake')
+
+## folly CMake require https://github.com/fmtlib/fmt.git to be installed
+libfolly = cmake.subproject('libfolly')
 {% endhighlight %}
 
 [Wrap file](https://mesonbuild.com/Wrap-dependency-system-manual.html) tells Meson how to download it for you. If you then use this subproject in your build, Meson will automatically download and extract it during build. This makes subproject embedding extremely easy. see also [Wrap DB](https://wrapdb.mesonbuild.com/)
+
+eg; having in `./subprojects/libfolly.wrap`, will have meson automatically get folly from git repos at url with proper revision.
+
+{% highlight ruby %}
+[wrap-git]
+url = https://github.com/facebook/folly.git
+revision = v2021.06.14.00
+{% endhighlight %}
 
 [.gitignore Meson subprojects](https://www.scivision.dev/git-ignore-meson-subproject/) - For Meson subprojects, using the negate .gitignore syntax Git will ignore subdirectories but track the subprojects/*.wrap files, by including in the project top-level .gitignore:
 {% highlight cpp %}
