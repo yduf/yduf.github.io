@@ -18,6 +18,7 @@ Quick-Save          Ctrl+S
 - [using External Editor]({% post_url 2023-10-22-vscode-pico8 %})
 - [multi assignment](https://stackoverflow.com/questions/15256516/how-does-multiple-assignment-work) - `local x,y = 10, 11`
 - [Multiline comments](https://stackoverflow.com/a/22722493/51386)
+- [16.16 fixed point numbers](https://www.lexaloffle.com/bbs/?tid=39319) - need a library for float
 
 {% highlight lua %}
 --[=====[ 
