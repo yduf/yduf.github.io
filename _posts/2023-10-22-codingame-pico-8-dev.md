@@ -14,7 +14,7 @@ Quick-Save          Ctrl+S
 ### [Lua](https://pico-8.fandom.com/wiki/Lua)
 - [Tables](https://pico-8.fandom.com/wiki/Tables)
 	- Metatables ?
-- [Coroutines](https://pico-8.fandom.com/wiki/Cocreate)
+- [Coroutines]({% post_url 2023-10-28-lua-coroutine %})
 - [using External Editor]({% post_url 2023-10-22-vscode-pico8 %})
 
 - [Multiline comments](https://stackoverflow.com/a/22722493/51386)
