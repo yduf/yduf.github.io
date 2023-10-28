@@ -22,10 +22,13 @@ Alternative way of doing things:
 - [Using VS Code with PICO-8](https://erika.florist/wiki/computers/vscodepico8/) - edit cart directly ?
 
 ### Extension
-- [pico8-vscode](https://github.com/joho/pico8-vscode#pico8-vscode) - editing and running pico8 files.
+
+- [PICO-8 Language Server](https://github.com/japhib/pico8-ls#pico-8-language-server)
+	- Full language support for the PICO-8 dialect of Lua. - (goto definion, etc)
 - [pico8vscodeeditor](https://marketplace.visualstudio.com/items?itemName=Grumpydev.pico8vscodeeditor) - facilities for editing Pico-8 p8 files in VSCode.
-- [PICO-8 Language Server](https://github.com/japhib/pico8-ls#pico-8-language-server) - Full language support for the PICO-8 dialect of Lua. - (goto definion, etc)
+	- Pico-8 API snippets - [Ctrl-SPACE](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
 - [pico8-simple-outline](https://marketplace.visualstudio.com/items?itemName=unremarkable.pico8-simple-outline) - for `*.p8` files: display a list of all the functions in your project, and acces their definition by clicking on them.
+- [pico8-vscode](https://github.com/joho/pico8-vscode#pico8-vscode) - editing and running pico8 files.
 
 ### [Doc](https://www.lexaloffle.com/dl/docs/pico-8_manual.html)
 - [Pico-8 API Cheatsheet](https://iiviigames.github.io/pico8-api/)
