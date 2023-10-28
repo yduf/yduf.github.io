@@ -5,6 +5,8 @@ tags: pincab table games
 ---
 > This project was started by Randy Davis, open sourced in 2010 and continued by the Visual Pinball development team. - [github](https://github.com/vpinball/vpinball) / [wikipedia](https://en.wikipedia.org/wiki/Visual_Pinball) / [doc](https://github.com/vpinball/vpinball/tree/master/docs) / [r/virtualpinball/](https://www.reddit.com/r/virtualpinball/) / [discord](https://discord.com/channels/652274650524418078/1076655472846831667)
 
+<link rel="shortcut icon" href="https://avatars.githubusercontent.com/u/20977447?s=48&v=4" type="image/x-icon" />
+
 [![caption](https://www.flylanddesigns.com/wp-content/uploads/Shop-Thumbnail-Pinball-845x321.jpg)](https://www.flylanddesigns.com/)
 
 - [vpxtools](https://github.com/francisdb/vpxtool) - Cross-platform console based utility for the vpinball ecosystem
