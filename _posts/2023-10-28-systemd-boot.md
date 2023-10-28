@@ -1,7 +1,7 @@
 ---
 published: true
 title: Boot Process with Systemd
-tags: systemd boot
+tags: systemd boot init
 ---
 > Analyzing System Boot Performance - [practical examples](https://www.geeksforgeeks.org/boot-process-with-systemd-in-linux/)
 
