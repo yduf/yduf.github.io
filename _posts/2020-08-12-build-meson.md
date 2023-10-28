@@ -56,7 +56,8 @@ $ meson wrap install imgui
 $ meson build .
 {% endhighlight %}
 
-eg; having in `./subprojects/libfolly.wrap`, will have meson automatically get folly from git repos at url with proper revision.
+Otherwise, they can be written manually.
+For eg: having in `./subprojects/libfolly.wrap`, will have meson automatically get folly from git repos at url with proper revision.
 
 {% highlight ruby %}
 [wrap-git]
