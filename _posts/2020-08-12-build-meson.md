@@ -51,7 +51,7 @@ url = https://github.com/facebook/folly.git
 revision = v2021.06.14.00
 {% endhighlight %}
 
-[.gitignore Meson subprojects](https://www.scivision.dev/git-ignore-meson-subproject/) - For Meson subprojects, using the negate .gitignore syntax Git will ignore subdirectories but track the subprojects/*.wrap files, by including in the project top-level .gitignore:
+[**.gitignore** Meson subprojects](https://www.scivision.dev/git-ignore-meson-subproject/) - For Meson subprojects, using the negate .gitignore syntax Git will ignore subdirectories but track the subprojects/*.wrap files, by including in the project top-level .gitignore:
 {% highlight cpp %}
 /subprojects/*
 !/subprojects/*.wrap
