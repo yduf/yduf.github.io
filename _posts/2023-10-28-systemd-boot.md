@@ -21,3 +21,5 @@ $ systemd-analyze blame
 # showing the dependencies between services and the time taken for each service to start
 $ systemd-analyze plot > boot.svg
 {% endhighlight %}
+
+[![caption](https://media.geeksforgeeks.org/wp-content/uploads/20221216180018/boot.png)](https://www.geeksforgeeks.org/boot-process-with-systemd-in-linux/)
