@@ -47,9 +47,11 @@ end
 
 - [log/debug tips](https://youtu.be/srPKBhzgZhc?feature=shared&t=392)
 
-You can also STOP() in code and it will stop the interpreter. Then run “.” To single step. “R” to continue running.
-You can also inspect variable with [print](https://youtu.be/srPKBhzgZhc?feature=shared&t=680)
+- You can also STOP() in code and it will stop the interpreter. Then run “.” To single step. “R” to continue running.
 
+- You can also inspect variable with [print](https://youtu.be/srPKBhzgZhc?feature=shared&t=680) from pico8 console.
+	- and from code itself  [`print('score: '..score, 0, 120, 8)`](https://pico-8.fandom.com/wiki/Print)
+    
 - [printh](https://www.lexaloffle.com/bbs/?tid=2549) -  prints a string to the host operating system's console.
 
 - [HELP: Performance profiling?](https://www.lexaloffle.com/bbs/?pid=51496)
