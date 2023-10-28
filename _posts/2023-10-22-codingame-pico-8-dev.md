@@ -27,7 +27,6 @@ for k,v in pairs(t) do
    cecho(string.format(("<%s>%s ", col, d))
 end
 --]=====]
-
 {% endhighlight %}
 
 
