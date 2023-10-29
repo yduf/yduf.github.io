@@ -13,6 +13,10 @@ It uses [treemap](https://www.data-to-viz.com/graph/treemap.html) to represents 
 
 ![caption](https://windirstat.net/images/windirstat.jpg)
 
+### Project
+
+Have same treemap vizualisation ported to linux
+
 see also
 - [	Treemaps are awesome](https://news.ycombinator.com/item?id=36868940)
 - [TreeSheets]({% post_url 2023-10-13-app-excel-treesheet %}) - A "hierarchical spreadsheet" that is a great replacement for spreadsheets
