@@ -67,5 +67,5 @@ digikamctl rm Work    # Remove library
 
 ## Atlernative
 - [How I found my best Digital Asset Management (DAM) system](https://www.bkwinephotography.com/technology/found-best-digital-asset-management-dam-system/)- [Digikam alternative Reddit](https://pedirostoba.com/index--nk6080-jon.php/2015/07/04/free-software-alternatives-to-photoshop-and-lightroom-gimp-and-digikam/)
-- Darktable
+- [Darktable](https://www.darktable.org/about/features/) - Non-destructive editing throughout the complete workflow, your original images are never modified.
 - Shotwell
