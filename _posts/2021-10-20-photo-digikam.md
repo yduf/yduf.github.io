@@ -3,7 +3,7 @@ published: true
 title: digiKam (DAM)
 tags: application photo hash
 ---
-> Professional Photo Management with the Power of Open Source - [v7.4.0](https://www.digikam.org/) / [HN](https://news.ycombinator.com/item?id=23947398) / [Photography (SE)](https://photo.stackexchange.com/search?q=digikam)
+> Professional Photo Management with the Power of Open Source - [Home](https://www.digikam.org/) / [HN](https://news.ycombinator.com/item?id=23947398) / [Photography (SE)](https://photo.stackexchange.com/search?q=digikam)
 
 **The biggest CON for digiKam is the delete function. If you delete a file from the app it is deleted from the drive.**   
 If you delete a picture, it first goes to digikam's trash `.dtrash` in same folder as where the photo was - [r/homelab](https://www.reddit.com/r/homelab/comments/kktqqw/digikam_pros_cons_alternatives_for_photo/)
@@ -67,5 +67,7 @@ digikamctl rm Work    # Remove library
 
 ## Atlernative
 - [How I found my best Digital Asset Management (DAM) system](https://www.bkwinephotography.com/technology/found-best-digital-asset-management-dam-system/)- [Digikam alternative Reddit](https://pedirostoba.com/index--nk6080-jon.php/2015/07/04/free-software-alternatives-to-photoshop-and-lightroom-gimp-and-digikam/)
-- [Darktable](https://www.darktable.org/about/features/) - Non-destructive editing throughout the complete workflow, your original images are never modified.
+
+- [Darktable]({% post_url 2021-07-03-photo-app %}) - Non-destructive editing throughout the complete workflow, your original images are never modified.
+- [RawTherapee](http://rawtherapee.com/) - Non-destructive, 32-bit (floating point) processing engine, modern demosaicing algorithms
 - Shotwell
