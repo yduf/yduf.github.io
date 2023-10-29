@@ -43,6 +43,28 @@ end
 	- [Programmer un shoot'em up !](https://www.youtube.com/watch?v=Ri8fqTMizmI&list=PLHKUrXMrDS5t3ibCCh412ZAy0slIv3jeE&index=3)
 	- [Programmer un jeu d'aventure à la Zelda](https://www.youtube.com/watch?v=opj-iZG1m94&list=PLHKUrXMrDS5t3ibCCh412ZAy0slIv3jeE&index=5)
 		- moitié basse de la map / partagé avec les planche de sprites 3 & 4
+        
+### Pico-8 Feature review
+
+[PICO-8 0.2.5](https://www.youtube.com/watch?v=bpoqBOOZOMw&list=PLea8cjCua_P3axOkgl2xJKXFYupupItuM&index=8)
+- Sprite
+	- Sprite animation Ctrl-L set start then end - U / W cycle within range Work aslso on big sprite
+    - paste big Ctrl-B 
+    - activate Grid Ctrl-G
+    - print ctrl code
+- Map in different place
+- [Save url](https://www.youtube.com/watch?v=bpoqBOOZOMw&list=PLea8cjCua_P3axOkgl2xJKXFYupupItuM&index=8) - a url embeding your code
+- [Label for cart](https://www.youtube.com/watch?v=bpoqBOOZOMw&list=PLea8cjCua_P3axOkgl2xJKXFYupupItuM&index=6&t=936s) 
+- [custom font](https://www.youtube.com/watch?v=bpoqBOOZOMw&list=PLea8cjCua_P3axOkgl2xJKXFYupupItuM&index=8) - variable width
+- [Map Editor](https://www.youtube.com/watch?v=bpoqBOOZOMw&list=PLea8cjCua_P3axOkgl2xJKXFYupupItuM&index=6&t=2552s)
+	- move selection without erasing what's under it
+- [String are array now](https://www.youtube.com/watch?v=bpoqBOOZOMw&list=PLea8cjCua_P3axOkgl2xJKXFYupupItuM&index=6&t=2348s)
+- [Char wrap](https://www.youtube.com/watch?v=bpoqBOOZOMw&list=PLea8cjCua_P3axOkgl2xJKXFYupupItuM&index=6&t=2552s)
+- [TLINE](https://www.youtube.com/watch?v=bpoqBOOZOMw&list=PLea8cjCua_P3axOkgl2xJKXFYupupItuM&index=6&t=2718s) ??
+
+    
+
+
 
 ### [Debug](https://www.reddit.com/r/pico8/comments/s1dzk9/how_to_debug_a_game_in_pico8/)
 
