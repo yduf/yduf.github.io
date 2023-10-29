@@ -5,14 +5,16 @@ tags: application photo hash
 ---
 > Professional Photo Management with the Power of Open Source - [Home](https://www.digikam.org/) / [HN](https://news.ycombinator.com/item?id=23947398) / [Photography (SE)](https://photo.stackexchange.com/search?q=digikam)
 
+An alternative [to Picasa](https://shotkit.com/best-picasa-alternative/)
+
+
 **The biggest CON for digiKam is the delete function. If you delete a file from the app it is deleted from the drive.**   
 If you delete a picture, it first goes to digikam's trash `.dtrash` in same folder as where the photo was - [r/homelab](https://www.reddit.com/r/homelab/comments/kktqqw/digikam_pros_cons_alternatives_for_photo/)
 
-- digiKam [features](https://www.digikam.org/about/features/)
-	- [tags & face tags](https://userbase.kde.org/Digikam/Tutorials/Tagging_and_Face_Tags)
-    - [quality sorter](https://photo.stackexchange.com/questions/70858/how-does-the-digikam-quality-sorter-work?r=SearchResults)
+### digiKam [features](https://www.digikam.org/about/features/)
+- [tags & face tags](https://userbase.kde.org/Digikam/Tutorials/Tagging_and_Face_Tags)
+- [quality sorter](https://photo.stackexchange.com/questions/70858/how-does-the-digikam-quality-sorter-work?r=SearchResults)
 - complement [DarkTable]({% post_url 2021-07-03-photo-app %})
-- an alternative to Picasa
 
 - [Digital Asset Management (DAM) with digiKam](https://docs.kde.org/trunk5/en/digikam-doc/digikam/using-dam.html)
 - [digiKam <-> Darktable workflow?](https://www.reddit.com/r/FOSSPhotography/comments/jgviqd/digikam_darktable_workflow/)
