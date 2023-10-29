@@ -1,7 +1,7 @@
 ---
 published: true
 title: WinDirStat
-tags: disk treemap treemap
+tags: system disk treemap treemap
 ---
 > WinDirStat is a disk usage statistics viewer - [Home](https://windirstat.net/)/[2](https://www.wikiwand.com/en/WinDirStat#Source_code) / [blog](https://blog.windirstat.net/) / [repo](https://osdn.net/projects/windirstat/#) / [github](https://github.com/windirstat/windirstat)
 
