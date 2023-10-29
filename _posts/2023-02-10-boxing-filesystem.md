@@ -9,5 +9,7 @@ tags: home config filesystem cgroup namespace
 - box any program and force it to put its files/directories where you want it to
 - context-dependent boxing, ie different rules apply in different directories depending on your configuration
 
+** does not seems to work with [appImage](https://github.com/queer/boxxy/issues/142)
+
 see also
 - [can non-root user run process in chroot jail?](https://serverfault.com/questions/135599/ubuntu-can-non-root-user-run-process-in-chroot-jail/811509#811509)
