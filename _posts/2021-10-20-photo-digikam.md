@@ -5,6 +5,8 @@ tags: application photo hash
 ---
 > Professional Photo Management with the Power of Open Source - [Home](https://www.digikam.org/) / [HN](https://news.ycombinator.com/item?id=23947398) / [Photography (SE)](https://photo.stackexchange.com/search?q=digikam)
 
+<link rel="shortcut icon" href="https://www.digikam.org/favicon-32x32.png" type="image/png" />
+
 An alternative [to Picasa](https://shotkit.com/best-picasa-alternative/)
 
 
