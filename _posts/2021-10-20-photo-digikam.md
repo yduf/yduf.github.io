@@ -70,4 +70,4 @@ digikamctl rm Work    # Remove library
 
 - [Darktable]({% post_url 2021-07-03-photo-app %}) - Non-destructive editing throughout the complete workflow, your original images are never modified.
 - [RawTherapee](http://rawtherapee.com/) - Non-destructive, 32-bit (floating point) processing engine, modern demosaicing algorithms
-- Shotwell
+- [Shotwell](https://wiki.gnome.org/Apps/Shotwell)
