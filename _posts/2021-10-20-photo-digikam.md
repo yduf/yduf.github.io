@@ -24,6 +24,9 @@ If you delete a picture, it first goes to digikam's trash `.dtrash` in same fold
 
 ## [How to use multiple photo libraries with DigiKam](https://unix.cafe/wp/en/2020/08/how-to-use-multiple-photo-libraries-with-digikam/) / [github](https://github.com/DeaDSouL/unix.cafe_digikam-multiple-libraries)
 
+see also
+- [Database Settings](https://docs.digikam.org/en/setup_application/database_settings.html#database-settings)
+
 The `digikamctl` script create & switch .config/digikamrc file, associating db automatically
 
 ### initialize repo
