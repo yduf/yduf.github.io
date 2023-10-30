@@ -13,7 +13,7 @@ tags: image photo viewer application
     
 ### Simple Editor
 - Pinta: paint style
-- [Pix](https://github.com/linuxmint/pix#pix) - very similar to gThumb - JXL support is blocky
+- [Pix](https://github.com/linuxmint/pix#pix) - very similar to gThumb - JXL support is blocky as of v3.0.2
 - [gThumb](https://gitlab.gnome.org/GNOME/gthumb/#gthumb): crop, rotate
 
 ### see also
