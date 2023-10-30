@@ -62,7 +62,7 @@ As rules can be passed directly on cli, the whole thing can become, it's own scr
 # ~/.config/boxxy/boxxy.yaml
 #!/bin/bash
 #digikam-lib1
-boxxy --rule '~/.config/digikamrc:~/.config/digikamrc-new4:file' ~/app/digiKam-8.1.0-x86-64.appimage --appimage-extract-and-run
+boxxy --rule '~/.config/digikamrc:~/.config/digikamrc-lib:file' ~/app/digiKam-8.1.0-x86-64.appimage --appimage-extract-and-run
 {% endhighlight %}
 
 Which is less intrusive that the previous approach below, as well as allowing to launch at the same time 2 different instance of digiKam pointing to 2 different photo collections (which other approach does not support).
