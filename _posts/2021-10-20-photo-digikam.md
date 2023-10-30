@@ -19,7 +19,7 @@ If you delete a picture, it first goes to digikam's trash `.dtrash` in same fold
 - [tags & face tags](https://userbase.kde.org/Digikam/Tutorials/Tagging_and_Face_Tags)
 - [quality sorter](https://photo.stackexchange.com/questions/70858/how-does-the-digikam-quality-sorter-work?r=SearchResults)
 - complement [DarkTable]({% post_url 2021-07-03-photo-app %})
-- [digiKam 8.0](https://9to5linux.com/digikam-8-0-released-with-qt-6-port-improved-jpeg-xl-webp-and-avif-support) - Released with Qt 6 Port, Improved [JPEG-XL, WebP, and AVIF Support](https://docs.digikam.org/en/supported_materials/image_formats.html)
+- [digiKam 8.0](https://9to5linux.com/digikam-8-0-released-with-qt-6-port-improved-jpeg-xl-webp-and-avif-support) - Released with Qt 6 Port, [Improved Support](https://docs.digikam.org/en/supported_materials/image_formats.html) for  [JPEG-XL]({% post_url 2020-02-07-jpeg-xl %}), WebP, and AVIF 
 - [Digital Asset Management (DAM) with digiKam](https://docs.kde.org/trunk5/en/digikam-doc/digikam/using-dam.html)
 - [digiKam <-> Darktable workflow?](https://www.reddit.com/r/FOSSPhotography/comments/jgviqd/digikam_darktable_workflow/)
 
