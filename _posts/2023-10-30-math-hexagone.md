@@ -1,7 +1,7 @@
 ---
 published: true
 title: Hexagone
-tags: math devil
+tags: math devil music
 ---
 > L'Hexagone 666, le plus grand des hexagones - [Micmaths](https://www.youtube.com/watch?v=N-ZGCsvxBB0)
 
