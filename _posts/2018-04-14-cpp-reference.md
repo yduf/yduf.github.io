@@ -1,7 +1,7 @@
 ---
 title: C++ Lang
 published: true
-tags: c++
+tags: c++ quote
 ---
 >  This idea of just building a new system over on the side, without any of the problems of the old one, is a fantasy. But it’s a very popular fantasy. - [Stroustrup](https://thenewstack.io/bjarne-stroustrups-plan-for-bringing-safety-to-c/) / [c++ reference](http://en.cppreference.com/w/) / [r/cpp](https://www.reddit.com/r/cpp/)
 
