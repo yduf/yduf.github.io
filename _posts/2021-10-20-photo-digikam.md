@@ -51,7 +51,7 @@ For ex using following rules
 rules:
 - name: "redirect digikam DB"
   target: "~/.config/digikamrc"
-  rewrite: "~/.config/digikamrc-test"
+  rewrite: "~/.config/digikamrc-lib1"
   mode: "file"
 {% endhighlight %}
 
