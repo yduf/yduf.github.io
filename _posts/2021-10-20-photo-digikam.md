@@ -22,10 +22,22 @@ If you delete a picture, it first goes to digikam's trash `.dtrash` in same fold
 - [Digital Asset Management (DAM) with digiKam](https://docs.kde.org/trunk5/en/digikam-doc/digikam/using-dam.html)
 - [digiKam <-> Darktable workflow?](https://www.reddit.com/r/FOSSPhotography/comments/jgviqd/digikam_darktable_workflow/)
 
-## [How to use multiple photo libraries with DigiKam](https://unix.cafe/wp/en/2020/08/how-to-use-multiple-photo-libraries-with-digikam/) / [github](https://github.com/DeaDSouL/unix.cafe_digikam-multiple-libraries)
+## Database
+
+As of 8.x Digikam manages more than one database. For convenience, it is broadly categorized in three:
+
+- Core database for all collection properties, i.e. it hosts all albums, images and searches data.
+- Thumbnails database for compressed thumbnails i.e. to host image thumbs using wavelets compression images (PGF format).
+- Similarity database to store image finger-prints for fuzzy search engine.
+- Face database for storing face recognition metadata i.e. to host face histograms for faces recognition.
+
+The path to the database are stored in `` (look for _"Database Name"_).
 
 see also
 - [Database Settings](https://docs.digikam.org/en/setup_application/database_settings.html#database-settings)
+
+
+## [How to use multiple photo libraries with DigiKam](https://unix.cafe/wp/en/2020/08/how-to-use-multiple-photo-libraries-with-digikam/) / [github](https://github.com/DeaDSouL/unix.cafe_digikam-multiple-libraries)
 
 The `digikamctl` script create & switch .config/digikamrc file, associating db automatically
 
