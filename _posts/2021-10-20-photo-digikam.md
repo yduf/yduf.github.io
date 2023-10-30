@@ -20,8 +20,14 @@ If you delete a picture, it first goes to digikam's trash `.dtrash` in same fold
 - [quality sorter](https://photo.stackexchange.com/questions/70858/how-does-the-digikam-quality-sorter-work?r=SearchResults)
 - complement [DarkTable]({% post_url 2021-07-03-photo-app %})
 - [digiKam 8.0](https://9to5linux.com/digikam-8-0-released-with-qt-6-port-improved-jpeg-xl-webp-and-avif-support) - Released with Qt 6 Port, [Improved Support](https://docs.digikam.org/en/supported_materials/image_formats.html) for  [JPEG-XL]({% post_url 2020-02-07-jpeg-xl %}), WebP, and AVIF 
+
+## Workflow
+
 - [Digital Asset Management (DAM) with digiKam](https://docs.kde.org/trunk5/en/digikam-doc/digikam/using-dam.html)
+
 - [digiKam <-> Darktable workflow?](https://www.reddit.com/r/FOSSPhotography/comments/jgviqd/digikam_darktable_workflow/)
+
+
 
 ## Database
 
@@ -39,7 +45,7 @@ see also
 
 ### How to use multiple photo libraries with DigiKam
 
-Digikam does not offer that natively. To overcome that the solution is to redirect the config to a different set of database corresponding to a different photo libraries.
+Digikam does not offer that natively. To overcome that, the solution is to redirect the config to a different set of database corresponding to a different photo libraries.
 
 This ban be done by changing the content of `~/.config/digikamrc` throught a script (see below),
 or in modern system by changing the filesystem view.
