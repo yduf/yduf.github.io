@@ -13,7 +13,7 @@ tags: image photo viewer application
     
 ### Simple Editor
 - Pinta: paint style
-- gThumb: crop, rotate
+- [gThumb](https://gitlab.gnome.org/GNOME/gthumb/#gthumb): crop, rotate
 
 ### see also
 - [Which apps support to open and convert JPEG XL (.jxl) pictures?](https://askubuntu.com/questions/1332041/which-apps-support-to-open-and-convert-jpeg-xl-jxl-pictures)
