@@ -83,7 +83,7 @@ The `digikamctl` script create & switch .config/digikamrc file, associating db a
 
 - [Compile and install Digikam on Ubuntu 20.04 Focal (21.10 too)](https://www.blackrosetech.com/gessel/2021/03/26/compile-and-install-digikam-on-ubuntu-20-04-focal)
 
-## Atlernative
+### Atlernatives
 
 > [How I found my best Digital Asset Management (DAM) system](https://www.bkwinephotography.com/technology/found-best-digital-asset-management-dam-system/) - [Digikam alternative (Reddit)](https://pedirostoba.com/index--nk6080-jon.php/2015/07/04/free-software-alternatives-to-photoshop-and-lightroom-gimp-and-digikam/)
 
