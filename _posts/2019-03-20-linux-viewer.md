@@ -12,6 +12,9 @@ tags: image photo viewer application jxl
     - Does not [support JPEG XL (yet)](https://github.com/linuxmint/xviewer/issues/162)
     
 ### Simple Editor
+- [Geeqie](http://www.geeqie.org/) 
+	- JXL support
+	- Comments and Exif information browsing and editing
 - [Pix](https://github.com/linuxmint/pix#pix) - very similar to gThumb - JXL support is blocky as of v3.0.2
 - [gThumb](https://gitlab.gnome.org/GNOME/gthumb/#gthumb): crop, rotate
 - [Gwenview](https://apps.kde.org/gwenview/)
