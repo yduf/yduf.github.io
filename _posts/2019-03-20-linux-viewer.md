@@ -9,6 +9,7 @@ tags: image photo viewer application
 
 - [Xviewer (linux mint default)](https://github.com/linuxmint/xviewer)
 	- forked from [Eye of gnome 3.14](https://projects-old.gnome.org/eog/)
+    - Does not [support JPEG XL (yet)](https://github.com/linuxmint/xviewer/issues/162)
     
 ### Simple Editor
 - Pinta: paint style
