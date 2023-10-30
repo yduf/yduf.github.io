@@ -3,7 +3,7 @@ published: true
 title: Image viewers
 tags: image viewer application
 ---
-> Fast and quick browsing, with few features.
+> Fast and quick browsing, with few features & easy shell integratoin.
 
 ### Simple Viewer
 
