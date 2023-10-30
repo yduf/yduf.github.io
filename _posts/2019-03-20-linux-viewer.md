@@ -1,7 +1,7 @@
 ---
 published: true
 title: Image viewers
-tags: image photo viewer application
+tags: image photo viewer application jxl
 ---
 > Fast and quick browsing, with few features & easy shell integratoin.
 
