@@ -61,7 +61,6 @@ As rules can be passed directly on cli, the whole thing can become, it's own scr
 {% highlight bash %}
 # ~/.config/boxxy/boxxy.yaml
 #!/bin/bash
-#digikam-lib1
 boxxy --rule '~/.config/digikamrc:~/.config/digikamrc-lib:file' ~/app/digiKam-8.1.0-x86-64.appimage --appimage-extract-and-run
 {% endhighlight %}
 
