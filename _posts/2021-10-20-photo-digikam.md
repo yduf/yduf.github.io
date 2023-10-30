@@ -1,7 +1,7 @@
 ---
 published: true
 title: digiKam (DAM)
-tags: application photo hash
+tags: application photo hash jxl
 ---
 > Professional Photo Management with the Power of Open Source - [Home](https://www.digikam.org/) / [HN](https://news.ycombinator.com/item?id=23947398) / [Photography (SE)](https://photo.stackexchange.com/search?q=digikam)
 
