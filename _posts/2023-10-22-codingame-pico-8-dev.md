@@ -7,6 +7,8 @@ tags: pico8 codingame lua
 
 <link rel="shortcut icon" href="https://static.wikia.nocookie.net/pico-8/images/4/4a/Site-favicon.ico/revision/latest?cb=20210713144653" type="image/x-icon" />
 
+[![caption](https://res.cloudinary.com/practicaldev/image/fetch/s--CUnO68dE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rny64w70l0srpa0r53ud.jpg) ](https://dev.to/cmiles74/getting-started-with-pico-8-4nla)
+
 ### [Keyboard Shortcuts](https://pico-8.fandom.com/wiki/Keyboard_Shortcuts)
 Reload/Run/Restart  Ctrl+R  
 Quick-Save          Ctrl+S    
