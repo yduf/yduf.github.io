@@ -85,7 +85,7 @@ The `digikamctl` script create & switch .config/digikamrc file, associating db a
 
 ## Atlernative
 
-[How I found my best Digital Asset Management (DAM) system](https://www.bkwinephotography.com/technology/found-best-digital-asset-management-dam-system/) - [Digikam alternative Reddit](https://pedirostoba.com/index--nk6080-jon.php/2015/07/04/free-software-alternatives-to-photoshop-and-lightroom-gimp-and-digikam/)
+> [How I found my best Digital Asset Management (DAM) system](https://www.bkwinephotography.com/technology/found-best-digital-asset-management-dam-system/) - [Digikam alternative (Reddit)](https://pedirostoba.com/index--nk6080-jon.php/2015/07/04/free-software-alternatives-to-photoshop-and-lightroom-gimp-and-digikam/)
 
 - [Darktable]({% post_url 2021-07-03-photo-app %}) - Non-destructive editing throughout the complete workflow, your original images are never modified.
 - [RawTherapee](http://rawtherapee.com/) - Non-destructive, 32-bit (floating point) processing engine, modern demosaicing algorithms
