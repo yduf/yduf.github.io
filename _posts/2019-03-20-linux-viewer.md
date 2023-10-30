@@ -13,3 +13,6 @@ tags: image viewer application
 ### Simple Editor
 - Pinta: paint style
 - gThumb: crop, rotate
+
+### see also
+- [digiKam]({% post_url 021-10-20-photo-digikam %}) - for a picasa alternative
