@@ -23,6 +23,8 @@ If you delete a picture, it first goes to digikam's trash `.dtrash` in same fold
 
 ## Workflow
 
+- [Lightoom and Darktable: the verdict two years after switching ](https://www.dpreview.com/forums/post/59324818)
+
 - [Digital Asset Management (DAM) with digiKam](https://docs.kde.org/trunk5/en/digikam-doc/digikam/using-dam.html)
 
 - [digiKam <-> Darktable workflow?](https://www.reddit.com/r/FOSSPhotography/comments/jgviqd/digikam_darktable_workflow/)
