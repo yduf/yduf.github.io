@@ -9,6 +9,8 @@ tags: application photo hash
 
 An alternative [to Picasa](https://shotkit.com/best-picasa-alternative/)
 
+### Notes
+- digiKam [**Album**](https://docs.digikam.org/en/main_window/albums_view.html#id6) correspond directly to **Folder** on filesystem
 
 **The biggest CON for digiKam is the delete function. If you delete a file from the app it is deleted from the drive.**   
 If you delete a picture, it first goes to digikam's trash `.dtrash` in same folder as where the photo was - [r/homelab](https://www.reddit.com/r/homelab/comments/kktqqw/digikam_pros_cons_alternatives_for_photo/)
