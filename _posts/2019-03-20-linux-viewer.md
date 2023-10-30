@@ -16,4 +16,5 @@ tags: image photo viewer application
 - gThumb: crop, rotate
 
 ### see also
+- [Which apps support to open and convert JPEG XL (.jxl) pictures?](https://askubuntu.com/questions/1332041/which-apps-support-to-open-and-convert-jpeg-xl-jxl-pictures)
 - [digiKam]({% post_url 021-10-20-photo-digikam %}) - for a picasa alternative
