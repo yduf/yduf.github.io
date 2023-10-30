@@ -18,6 +18,7 @@ tags: pico8 color
 
 see also
 - [Lighting by hand]({% post_url 2021-12-05-game-lightning %})
+- [Fading](https://www.youtube.com/watch?v=LIlFLoU9S1w&list=PLea8cjCua_P3LL7J1Q9b6PJua0A-96uUS&index=14&t=34s)
     
 ## Others
 - [LazyDevs](https://www.youtube.com/@LazyDevs/videos)
