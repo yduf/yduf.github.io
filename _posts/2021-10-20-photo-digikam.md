@@ -36,44 +36,41 @@ The path to the database are stored in `~/.config/digikamrc` (look for _"Databas
 see also
 - [Database Settings](https://docs.digikam.org/en/setup_application/database_settings.html#database-settings)
 
+### How to use multiple photo libraries with DigiKam
 
-## [How to use multiple photo libraries with DigiKam](https://unix.cafe/wp/en/2020/08/how-to-use-multiple-photo-libraries-with-digikam/) / [github](https://github.com/DeaDSouL/unix.cafe_digikam-multiple-libraries)
+Digikam does not offer that natively. To overcome that the solution is to redirect the config to a different set of database corresponding to a different photo libraries.
+
+This ban be done by changing the content of `~/.config/digikamrc` throught a script (see below),
+or in modern system by changing the filesystem view.
+
+[**By Filesystem boxxing**]({% post_url 2017-11-27-CG-meanmax %})
+
+For ex using following rules
+{% highlight ini %}
+# ~/.config/boxxy/boxxy.yaml
+rules:
+- name: "redirect digikam DB"
+  target: "~/.config/digikamrc"
+  rewrite: "~/.config/digikamrc-test"
+  mode: "file"
+{% endhighlight %}
+
+& Launching it with `boxxy ~/app/digiKam-8.1.0-x86-64.appimage --appimage-extract-and-run` 
+
+As rules can be passed directly on cli, the whole thing can become, it's own script:
+{% highlight bash %}
+# ~/.config/boxxy/boxxy.yaml
+#!/bin/bash
+#digikam-lib1
+boxxy --rule '~/.config/digikamrc:~/.config/digikamrc-new4:file' ~/app/digiKam-8.1.0-x86-64.appimage --appimage-extract-and-run
+{% endhighlight %}
+
+Which is less intrusive that the previous approach below, as well as allowing to launch at the same time 2 different instance of digiKam pointing to 2 different photo collections (which other approach does not support).
+
+**By Scripting (obsolete)**
+- [How to use multiple photo libraries with DigiKam](https://unix.cafe/wp/en/2020/08/how-to-use-multiple-photo-libraries-with-digikam/) / [github](https://github.com/DeaDSouL/unix.cafe_digikam-multiple-libraries)
 
 The `digikamctl` script create & switch .config/digikamrc file, associating db automatically
-
-### initialize repo
-
-{% highlight bash %}
-cp -v ~/.config/digikamrc ~/Pictures/DigiKams/digikamrc.template
-sed -i "s,Database Name=.*,Database Name=,g" "${HOME}/Pictures/DigiKams/digikamrc.template"
-sed -i "s,Database Name Face=.*,Database Name Face=,g" "${HOME}/Pictures/DigiKams/digikamrc.template"
-sed -i "s,Database Name Similarity=.*,Database Name Similarity=,g" "${HOME}/Pictures/DigiKams/digikamrc.template"
-sed -i "s,Database Name Thumbnails=.*,Database Name Thumbnails=,g" "${HOME}/Pictures/DigiKams/digikamrc.template"
-{% endhighlight %}
-
-### init DB
-it's necessary to force db creation when creating a new library.
-
-{% highlight bash %}
-digikamctl new Work   # Create new library
-digikamctl use Work   # setup new library as .digikamrc
-
-# force recreation of database for new library (open digikam setup process)
-# it seems to work because the path to digikamrc is local / not found ?
-digikam --database-directory Pictures/DigiKams/Work/Database/ --config Pictures/DigiKams/Work/digikamrc
-
-{% endhighlight %}
-
-
-### Usage
-{% highlight bash %}
-digikamctl ls         # List your available libraries
-digikamctl new Work   # Create new library
-digikamctl use Work   # Activate library
-digikamctl open Personal # digikamctl open Personal in digikam (modified to NOT setup as default)
-                      # need to remove check in script to enable opening several lib concurrently
-digikamctl rm Work    # Remove library 
-{% endhighlight %}
 
 
 ## Issue
