@@ -74,7 +74,7 @@ The `digikamctl` script create & switch .config/digikamrc file, associating db a
 
 
 ## Issue
-- does not recognize image when filename is missing extension
+- does not recognize image when filename is missing extension. Which kind disallow use on direct hashed object store. 
 
 ## [Internal](https://www.digikam.org/documentation/)
 - [digiKam API reference page](https://www.digikam.org/api/index.html) - digiKam is split into a number of components, each ones located to a dedicated directory.
