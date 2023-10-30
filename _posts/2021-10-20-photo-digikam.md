@@ -31,7 +31,7 @@ As of 8.x Digikam manages more than one database. For convenience, it is broadly
 - Similarity database to store image finger-prints for fuzzy search engine.
 - Face database for storing face recognition metadata i.e. to host face histograms for faces recognition.
 
-The path to the database are stored in `` (look for _"Database Name"_).
+The path to the database are stored in `~/.config/digikamrc` (look for _"Database Name"_).
 
 see also
 - [Database Settings](https://docs.digikam.org/en/setup_application/database_settings.html#database-settings)
