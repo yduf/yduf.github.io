@@ -14,7 +14,7 @@ Reload/Run/Restart  Ctrl+R
 Quick-Save          Ctrl+S    
 
 ### [Lua](https://pico-8.fandom.com/wiki/Lua)
-- [Tables](https://pico-8.fandom.com/wiki/Tables)
+- [Tables](https://pico-8.fandom.com/wiki/Tables) - **Table index start at 1 in Lua**
 	- Metatables ?
 - [Coroutines]({% post_url 2023-10-28-lua-coroutine %})
 - [using External Editor]({% post_url 2023-10-22-vscode-pico8 %})
