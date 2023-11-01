@@ -5,6 +5,8 @@ tags: video youtube
 ---
 > download videos from youtube.com or other video platforms - [youtube-dl.org](https://youtube-dl.org/)
 
+> There was a point in the past where video platforms were competing, and by no means was it clear that YouTube would end up dominating this area to the point of being close to a monopoly... When YouTube won that race, they won it with a given set of parameters, including the kind and amount of ads they show. - [about the "morality" of Adblocking](https://news.ycombinator.com/item?id=38065387)
+
 - [**DMCA takedown from RIAA**](https://news.ycombinator.com/item?id=24872911)
 - [Supported sites](https://ytdl-org.github.io/youtube-dl/supportedsites.html)
 - [can no longer download age-restricted videos ](https://news.ycombinator.com/item?id=27353917)
