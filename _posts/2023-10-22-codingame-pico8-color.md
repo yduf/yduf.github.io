@@ -8,7 +8,7 @@ tags: pico8 color
 <link rel="shortcut icon" href="https://static.wikia.nocookie.net/pico-8/images/4/4a/Site-favicon.ico/revision/latest?cb=20210713144653" type="image/x-icon" />
 
 - [Enabling more than 16 colors on the screen](https://www.lexaloffle.com/bbs/?tid=38565)
-	- [32 Colors at the Same Time!](https://www.youtube.com/watch?v=osk7P4ljWOU)
+	- [32 Colors at the Same Time!](https://www.youtube.com/watch?v=osk7P4ljWOU) - [water effect](https://www.youtube.com/watch?v=osk7P4ljWOU&t=751s) / [crt effect](https://www.youtube.com/watch?v=osk7P4ljWOU&t=991s) / [highlight](https://www.youtube.com/watch?v=osk7P4ljWOU&t=1041s) / []()
 - [Working with the secret color palette](https://www.reddit.com/r/pico8/comments/pvzev0/working_with_the_secret_color_palette/) / [2](https://nerdyteachers.com/PICO-8/Guide/?HIDDEN_PALETTE)
 - [Palette](https://pico-8.fandom.com/wiki/Palette)
 - [Pico-8 Colour Study](https://www.lexaloffle.com/bbs/?tid=3386)
