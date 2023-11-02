@@ -11,6 +11,8 @@ tags: codingame pico8
 
 - [Picohorn](https://github.com/WuffMakesGames/Picohorn#picohorn) - like [Ahorn](https://github.com/CelestialCartographers/Ahorn)
 
+- [PicoMap](https://www.lexaloffle.com/bbs/?tid=42848) -  allows console game size worlds to fit in a single Pico-8 cart.
+
 ### [Reload](https://www.youtube.com/watch?v=QF5jZWAhl1s&list=PLea8cjCua_P3LL7J1Q9b6PJua0A-96uUS&index=16&t=726s)
 {% highlight lua %}
 reload(0x2000,0x2000,0x1000)	-- reset the map to its card definition
