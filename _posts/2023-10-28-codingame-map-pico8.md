@@ -9,7 +9,7 @@ tags: codingame pico8
 
 ### Map Editor
 
-- [Picohorn](https://github.com/WuffMakesGames/Picohorn#picohorn) - like [Ahorn](https://github.com/CelestialCartographers/Ahorn)
+- [Picohorn](https://github.com/WuffMakesGames/Picohorn#picohorn)  - map editor for celeste
 
 - [PicoMap](https://www.lexaloffle.com/bbs/?tid=42848) -  allows console game size worlds to fit in a single Pico-8 cart.
 
