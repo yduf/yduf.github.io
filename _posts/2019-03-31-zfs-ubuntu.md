@@ -1,6 +1,6 @@
 ---
 published: true
-title: ZFS (Ubuntu)
+title: '# ZFS (Ubuntu)'
 tags: zfs linux system
 ---
 > ZFS unlike most other storage systems, it unifies both of these roles and acts as both the volume manager and the file system. Therefore, it has complete knowledge of both the physical disks and volumes - [wikipedia](https://en.wikipedia.org/wiki/ZFS)
@@ -11,7 +11,7 @@ tags: zfs linux system
     - You'll see the module loaded automatically if you use it.
     - The user space zfsutils-linux package will be included in Ubuntu Main, with security updates provided by Canonical.
 
-# The Basics
+# [The Basics](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
 
 **ZFS pool** and thus your _file system_ is based on one or more **VDEVs**. And those VDEVs contain the actual hard drives.
 
