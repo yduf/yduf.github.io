@@ -19,4 +19,5 @@ Have same treemap vizualisation ported to linux
 
 see also
 - [	Treemaps are awesome](https://news.ycombinator.com/item?id=36868940)
+- [  Git Heat Map](https://news.ycombinator.com/item?id=34563851) – a tool for visualising git repo activity for each file
 - [TreeSheets]({% post_url 2023-10-13-app-excel-treesheet %}) - A "hierarchical spreadsheet" that is a great replacement for spreadsheets
