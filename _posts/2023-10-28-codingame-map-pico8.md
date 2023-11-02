@@ -7,6 +7,10 @@ tags: codingame pico8
 
 - [Smooth Map Screens](https://mboffin.itch.io/pico-8-smooth-map-screens)
 
+### Map Editor
+
+- [Picohorn](https://github.com/WuffMakesGames/Picohorn#picohorn) - like [Ahorn](https://github.com/CelestialCartographers/Ahorn)
+
 ### [Reload](https://www.youtube.com/watch?v=QF5jZWAhl1s&list=PLea8cjCua_P3LL7J1Q9b6PJua0A-96uUS&index=16&t=726s)
 {% highlight lua %}
 reload(0x2000,0x2000,0x1000)	-- reset the map to its card definition
