@@ -24,7 +24,7 @@ end
 
 see also [Paths in Ruby](https://www.clairecodes.com/blog/2016-01-01-paths-in-ruby/) - for path manipulation, eg: `File.expand_path( File.join( File.dirname(__FILE__), '../other' ))` or `File.expand_path('../other', __FILE__)`
 
-### [C++](https://en.cppreference.com/w/cpp/filesystem/directory_iterator)
+### [C++]({% post_url 2020-09-06-filesystem-tools %})
 {% highlight cpp %}
 #include <filesystem>
 namespace fs = std::filesystem;
