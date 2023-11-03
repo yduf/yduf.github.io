@@ -3,7 +3,7 @@ published: false
 title: Coroutine
 tags: socket thread mental-model coroutine c++
 ---
-> 
+> Coroutines split the idea of having an execution state off of the idea of having a thread of execution. - [SO](https://stackoverflow.com/a/44244451/51386)
 
 >  A typical example of event-driven code is registering a callback that gets invoked every time a socket has data to be read. - [My tutorial and take on C++20 coroutines](https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html)
 
