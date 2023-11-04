@@ -29,6 +29,11 @@ Update crash the system / (or is it rom sdcard ?).
 ### [ArkOS](https://github.com/christianhaitian/arkos/wiki#welcome-to-the-arkos-wiki-)
 - [Installing ArkOS](https://www.youtube.com/watch?v=XgIlD4rNe8k&t=508s)
 
+
+## Customisation
+
+- [Add and enable a rumble (vibration) motor.](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30#q-how-do-i-add-and-enable-a-rumble-vibration-motor-to-my-unit)
+
 see also
 - [Retro
 Handhelds](https://retrohandhelds.gg/) - retro gaming community
