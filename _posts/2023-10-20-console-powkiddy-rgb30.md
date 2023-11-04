@@ -27,7 +27,7 @@ Update crash the system / (or is it rom sdcard ?).
     - press `START` then `Game Settings` then select `Update Gamelists` under the Tools header.
 
 ### [ArkOS](https://github.com/christianhaitian/arkos/wiki#welcome-to-the-arkos-wiki-)
-- [Installing ArkOS](https://www.youtube.com/watch?v=XgIlD4rNe8k&t=508s)
+- [Installing ArkOS](https://www.youtube.com/watch?v=CzsOyqgJtcI&t=1s)
 
 
 ## Customisation
