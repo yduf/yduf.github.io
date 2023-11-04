@@ -31,6 +31,7 @@ Update crash the system / (or is it rom sdcard ?).
 
 - [setup](https://www.youtube.com/watch?v=CzsOyqgJtcI)
 	- [Pico-8](https://www.youtube.com/watch?v=CzsOyqgJtcI&t=474s)
+    - [PICOwesome v1.4 (oct-31-2022)](https://www.reddit.com/r/Roms/comments/yj2irf/picowesome_v14_oct312022/) - full set of cart
     - [Tiny Best Set: GO!](https://archive.org/details/tiny-best-set-go)
     
 ## Customisation
