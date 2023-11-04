@@ -31,7 +31,8 @@ Update crash the system / (or is it rom sdcard ?).
 
 - [setup](https://www.youtube.com/watch?v=CzsOyqgJtcI)
 	- [Pico-8](https://www.youtube.com/watch?v=CzsOyqgJtcI&t=474s)
-
+    - [Tiny Best Set: GO!](https://archive.org/details/tiny-best-set-go)
+    
 ## Customisation
 
 - [Add and enable a rumble (vibration) motor.](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30#q-how-do-i-add-and-enable-a-rumble-vibration-motor-to-my-unit)
