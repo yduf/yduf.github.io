@@ -19,6 +19,13 @@ tags: arcade-hardware gameboy pico8 retro
 - Device to device and device to cloud sync with Syncthing and rclone.
 - Integrated cross-device local and remote network play.
 
+Update crash the system / (or is it rom sdcard ?).
+
+
+- [Adding Games](https://jelos.org/play/add-games/)
+	- add files to rom folder
+    - press `START` then `Game Settings` then select `Update Gamelists` under the Tools header.
+
 ### [ArkOS](https://github.com/christianhaitian/arkos/wiki#welcome-to-the-arkos-wiki-)
 - [Installing ArkOS](https://www.youtube.com/watch?v=XgIlD4rNe8k&t=508s)
 
