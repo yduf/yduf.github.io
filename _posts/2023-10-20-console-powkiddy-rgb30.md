@@ -13,7 +13,7 @@ tags: arcade-hardware gameboy pico8 retro
 
 ![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.n1ZfSor20nrbr8o_S4CbiAHaEK%26pid%3DApi&f=1&ipt=0c888f97e66313041f302f62badb6b3275070124924c51e9d8b45643321d5fd5&ipo=images)
 
-### [JELOS](https://jelos.org/devices/powkiddy/rgb30/) - Just Enough Linux Operating System
+### [JELOS](https://jelos.org/devices/powkiddy/rgb30/) v20231029 - Just Enough Linux Operating System
 - Bluetooth audio and controller support.
 - Support for HDMI audio and video out, and USB audio.
 - Device to device and device to cloud sync with Syncthing and rclone.
