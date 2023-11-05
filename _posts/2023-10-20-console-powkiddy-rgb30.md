@@ -49,7 +49,11 @@ Audio:     Device-1: rk3568-dw-hdmi driver: dwhdmi_rockchip
            Sound Server: ALSA v: k4.19.172 
 {% endhighlight %}
     
-## Customisation
+### Hardware
+
+- [Tear down](https://www.youtube.com/watch?v=Pp9wfW5fU6Y&t=952s)
+
+### Customisation
 
 - [Add and enable a rumble (vibration) motor.](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30#q-how-do-i-add-and-enable-a-rumble-vibration-motor-to-my-unit)
 
