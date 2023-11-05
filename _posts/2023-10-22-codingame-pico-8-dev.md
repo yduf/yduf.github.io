@@ -81,3 +81,6 @@ end
 - [printh](https://www.lexaloffle.com/bbs/?tid=2549) -  prints a string to the host operating system's console.
 
 - [HELP: Performance profiling?](https://www.lexaloffle.com/bbs/?pid=51496)
+
+### Compression & Packing
+- [rom one Pico-8 cart to many](https://retroactive.me/post/from-one-pico-cart-to-many/)
