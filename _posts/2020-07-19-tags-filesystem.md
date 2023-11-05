@@ -8,7 +8,7 @@ tags: tags filesystem
 see also
 - [I am endlessly fascinated with content tagging systems](https://news.ycombinator.com/item?id=33248391)
 - [What's a good solution for file-tagging in linux?](https://superuser.com/questions/81563/whats-a-good-solution-for-file-tagging-in-linux)
-	- [Modify ext4 file system to add custom attribute for files](https://stackoverflow.com/questions/44440575/modify-ext4-file-system-to-add-custom-attribute-for-files)
+	- [Modify ext4 file system to add custom attribute for files](https://stackoverflow.com/questions/44440575/modify-ext4-file-system-to-add-custom-attribute-for-files) - There is no indexing of these values. You have to check all existing files
 		- [How I use the attr command with my Linux filesystem](https://opensource.com/article/22/6/linux-attr-command)
 		- [Executing a bash script upon file creation](https://stackoverflow.com/questions/14692353/executing-a-bash-script-upon-file-creation)
 
