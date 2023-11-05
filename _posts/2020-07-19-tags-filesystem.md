@@ -7,6 +7,7 @@ tags: tags filesystem
 
 see also
 - [I am endlessly fascinated with content tagging systems](https://news.ycombinator.com/item?id=33248391)
+- [What's a good solution for file-tagging in linux?](https://superuser.com/questions/81563/whats-a-good-solution-for-file-tagging-in-linux)
 
 # Principle
 - [Designing better file organization around tags, not hierarchies](https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies#contents)
