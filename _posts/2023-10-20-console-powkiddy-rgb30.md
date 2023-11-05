@@ -22,14 +22,15 @@ They both use [Emulation Station](https://www.emulationstation.org/) they both u
 - Bluetooth audio and controller support.
 - Support for HDMI audio and video out, and USB audio.
 - Device to device and device to cloud sync with Syncthing and rclone.
-- Integrated cross-device local and remote network play.
+- Integrated cross-device local and remote network play. support [Moonlight ?](https://moonlight-stream.org/)
 
 Update crash the system / (or is it rom sdcard ?).
-
 
 - [Adding Games](https://jelos.org/play/add-games/)
 	- add files to rom folder
     - press `START` then `Game Settings` then select `Update Gamelists` under the Tools header.
+
+
 
 ### [ArkOS](https://github.com/christianhaitian/arkos/wiki#welcome-to-the-arkos-wiki-) - Ubuntu base
 - [Installing ArkOS](https://www.youtube.com/watch?v=CzsOyqgJtcI&t=1s) / [download link](https://github.com/christianhaitian/arkos/wiki#download-links) 
