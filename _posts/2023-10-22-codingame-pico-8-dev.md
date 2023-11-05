@@ -83,4 +83,4 @@ end
 - [HELP: Performance profiling?](https://www.lexaloffle.com/bbs/?pid=51496)
 
 ### Compression & Packing
-- [rom one Pico-8 cart to many](https://retroactive.me/post/from-one-pico-cart-to-many/)
+- [From one Pico-8 cart to many](https://retroactive.me/post/from-one-pico-cart-to-many/)
