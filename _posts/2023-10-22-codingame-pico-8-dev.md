@@ -15,7 +15,7 @@ Quick-Save          Ctrl+S
 
 ### [Lua](https://pico-8.fandom.com/wiki/Lua)
 - [Tables](https://pico-8.fandom.com/wiki/Tables) - **Table index start at 1 in Lua**
-	- [Metatables](https://www.youtube.com/watch?v=z_OUZelebTw)
+	- [Metatables](https://www.youtube.com/watch?v=z_OUZelebTw) - Creating objects using tables in Pico-8
 - [Coroutines]({% post_url 2023-10-28-lua-coroutine %})
 - [using External Editor]({% post_url 2023-10-22-vscode-pico8 %})
 - [multi assignment](https://stackoverflow.com/questions/15256516/how-does-multiple-assignment-work) - `local x,y = 10, 11`
