@@ -51,6 +51,11 @@ Audio:     Device-1: rk3568-dw-hdmi driver: dwhdmi_rockchip
     
 ### Hardware
 
+- [Rockchip RK3566 (ARM)](https://www.notebookcheck.net/Rockchip-RK3566-Processor-Benchmarks-and-Specs.741611.0.html)
+	- integrates four ARM Cortex-A55 cores with up to 2 GHz
+	- As a GPU it integrates a ARM Mali-G52 MP2 (2 cores).
+    - a video decoder with H.264 and H.265 support is integrated, among other things.
+
 - [Tear down](https://www.youtube.com/watch?v=Pp9wfW5fU6Y&t=952s)
 
 ### Customisation
