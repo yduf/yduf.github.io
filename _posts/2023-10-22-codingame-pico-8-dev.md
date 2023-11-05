@@ -84,4 +84,4 @@ end
 
 ### Compression & Packing
 - [From one Pico-8 cart to many](https://retroactive.me/post/from-one-pico-cart-to-many/)
-- [rectpack2D](https://github.com/TeamHypersomnia/rectpack2D#rectpack2d) - A header-only 2D rectangle packing library written in modern C++.
+- [rectpack2D](https://github.com/TeamHypersomnia/rectpack2D#rectpack2d) / [HN](https://news.ycombinator.com/item?id=36469297) - A header-only 2D rectangle packing library written in modern C++.
