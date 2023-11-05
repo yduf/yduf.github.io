@@ -18,7 +18,7 @@ tags: arcade-hardware gameboy pico8 retro
 They both use [Emulation Station](https://www.emulationstation.org/) they both use [Retroarch](https://www.retroarch.com/), they both use [thememaster](https://johnirvine1433.github.io/ThemeMaster/).
 
 
-### [JELOS](https://jelos.org/devices/powkiddy/rgb30/) v20231029 - Just Enough Linux Operating System
+### [JELOS](https://jelos.org/devices/powkiddy/rgb30/) v20231029 - Just Enough Linux Operating System - [Entware](https://github.com/Entware/Entware/wiki) base
 - Bluetooth audio and controller support.
 - Support for HDMI audio and video out, and USB audio.
 - Device to device and device to cloud sync with Syncthing and rclone.
@@ -31,13 +31,23 @@ Update crash the system / (or is it rom sdcard ?).
 	- add files to rom folder
     - press `START` then `Game Settings` then select `Update Gamelists` under the Tools header.
 
-### [ArkOS](https://github.com/christianhaitian/arkos/wiki#welcome-to-the-arkos-wiki-)
+### [ArkOS](https://github.com/christianhaitian/arkos/wiki#welcome-to-the-arkos-wiki-) - Ubuntu base
 - [Installing ArkOS](https://www.youtube.com/watch?v=CzsOyqgJtcI&t=1s) / [download link](https://github.com/christianhaitian/arkos/wiki#download-links) 
 
 - [setup](https://www.youtube.com/watch?v=CzsOyqgJtcI)
 	- [Pico-8](https://www.youtube.com/watch?v=CzsOyqgJtcI&t=474s)
     - [PICOwesome v1.4 (oct-31-2022)](https://www.reddit.com/r/Roms/comments/yj2irf/picowesome_v14_oct312022/) - full set of cart
     - [Tiny Best Set: GO!](https://archive.org/details/tiny-best-set-go)
+    
+{% highlight cpp %}
+ark@rgb30:~$ inxi -SMA
+System:    Host: rgb30 Kernel: 4.19.172 aarch64 bits: 64 Console: tty 0 Distro: Ubuntu 19.10 (Eoan Ermine) 
+Machine:   Type: ARM Device System: Powkiddy RGB30 aka wonderfully weird unit serial: 1e5e013d694a1d57 
+Audio:     Device-1: rk3568-dw-hdmi driver: dwhdmi_rockchip 
+           Device-2: simple-audio-card driver: asoc_simple_card 
+           Device-3: simple-audio-card driver: asoc_simple_card 
+           Sound Server: ALSA v: k4.19.172 
+{% endhighlight %}
     
 ## Customisation
 
