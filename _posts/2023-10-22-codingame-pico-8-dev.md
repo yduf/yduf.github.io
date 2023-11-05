@@ -34,7 +34,7 @@ end
 
 
 ### Tips
-- [Circular Clipping Masks](https://www.lexaloffle.com/bbs/?tid=46286)
+- [Circular Clipping Masks](https://www.lexaloffle.com/bbs/?tid=46286) / [lazydev](https://www.youtube.com/watch?v=435tL1chJhI)
 - [Storing Binary Data as Strings](https://www.lexaloffle.com/bbs/?tid=38692)
 - [Study notes on Pico-8 movement](https://ljvmiranda921.github.io/notebook/2021/01/31/pico8-offset/)
 
