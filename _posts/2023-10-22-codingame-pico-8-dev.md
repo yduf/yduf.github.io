@@ -36,6 +36,7 @@ end
 ### Tips
 - [Circular Clipping Masks](https://www.lexaloffle.com/bbs/?tid=46286)
 - [Storing Binary Data as Strings](https://www.lexaloffle.com/bbs/?tid=38692)
+- [Study notes on Pico-8 movement](https://ljvmiranda921.github.io/notebook/2021/01/31/pico8-offset/)
 
 ### Tutorials
 - [Pico-8 Tutorial Crash Course For TOTAL Game Dev Beginners!](https://www.youtube.com/watch?v=LTMN5ItzzuA) - general intro on tools available - very basic sprite move
