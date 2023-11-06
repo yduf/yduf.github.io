@@ -56,7 +56,7 @@ Audio:     Device-1: rk3568-dw-hdmi driver: dwhdmi_rockchip
 ## Customisation
 
 ### Shader
-- [Combine overlays with LCD shaders](https://retrogamecorps.com/2021/01/28/guide-handheld-screen-settings-for-rg351-devices/)
+- [Combine overlays with LCD shaders](https://retrogamecorps.com/2021/01/28/guide-handheld-screen-settings-for-rg351-devices/) / [youtube](https://www.youtube.com/watch?v=H0KjQrkusmI&t=2s)
     
 ### Hardware
 
