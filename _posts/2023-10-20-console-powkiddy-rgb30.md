@@ -52,6 +52,11 @@ Audio:     Device-1: rk3568-dw-hdmi driver: dwhdmi_rockchip
            Device-3: simple-audio-card driver: asoc_simple_card 
            Sound Server: ALSA v: k4.19.172 
 {% endhighlight %}
+
+## Customisation
+
+### Shader
+- [Combine overlays with LCD shaders](https://retrogamecorps.com/2021/01/28/guide-handheld-screen-settings-for-rg351-devices/)
     
 ### Hardware
 
