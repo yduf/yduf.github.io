@@ -33,6 +33,9 @@ Update crash the system / (or is it rom sdcard ?).
 
 
 ### [ArkOS](https://github.com/christianhaitian/arkos/wiki#welcome-to-the-arkos-wiki-) - Ubuntu base
+
+ArkOS does not obfuscate the line between Emulationstation and Retroarch. You're trying to set a Retroarch option, so you're going to have to do it in Retroarch, not Emulationstation. - [ArkOS set Shader](https://www.reddit.com/r/SBCGaming/comments/yc7w5x/arkos_set_shader/)
+
 - [Installing ArkOS](https://www.youtube.com/watch?v=CzsOyqgJtcI&t=1s) / [download link](https://github.com/christianhaitian/arkos/wiki#download-links) 
 
 - [setup](https://www.youtube.com/watch?v=CzsOyqgJtcI)
