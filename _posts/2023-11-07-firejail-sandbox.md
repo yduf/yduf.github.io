@@ -11,7 +11,7 @@ tags: sandbox cgroup firefox systemd
 - [Limit the memory size used by the jailed process #593 ](https://github.com/netblue30/firejail/issues/593) - `ulimit` + `firejail` or [`firejail --cgroups`](https://github.com/netblue30/firejail/issues/49)
 	- [ulimit vs cgroup](https://unix.stackexchange.com/questions/302938/about-ulimit-setrlimit-and-cgroup) - the mechanisms are generally not redundant:
     	- cgroup sets limits per groups of processes
-        - setrlimit sets limits per user or per process
+        - setrlimit sets limits per user or per process (ulimit is a wrapper arrount setrlimit)
     
 ### see also
 - [`systemd-run --scope --user -p  MemoryLimit=1G vivaldi-stable`](https://superuser.com/questions/1624040/firejail-and-chrome-limiting-ram-useage) - and  [What is a systemd scope for?](https://askubuntu.com/questions/1058635/what-is-a-systemd-scope-for)
