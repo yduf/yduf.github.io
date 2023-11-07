@@ -16,3 +16,4 @@ tags: sandbox cgroup firefox systemd
 
 ### see also
 - [`systemd-run --scope --user -p  MemoryLimit=1G vivaldi-stable`](https://superuser.com/questions/1624040/firejail-and-chrome-limiting-ram-useage) - and  [What is a systemd scope for?](https://askubuntu.com/questions/1058635/what-is-a-systemd-scope-for)
+- [How do I check cgroup v2 is installed on my machine?](https://unix.stackexchange.com/questions/471476/how-do-i-check-cgroup-v2-is-installed-on-my-machine)
