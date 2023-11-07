@@ -18,8 +18,8 @@ tags: linux-system desktop application quote
 
 ### [Add Application to Cinnamon Menu and Panel](https://www.scottcking.com/2020/07/13/linux-mint-20-cinnamon-manually-add-application-to-cinnamon-menu-panel/)
 
-Add an entry in `/usr/share/applications` with the name of the `<desired_name>.desktop` and
-with content
+Add an entry in `/usr/share/applications` with the name of the [`<desired_name>.desktop`](https://wiki.archlinux.org/title/Desktop_entries) and
+with content (see also [Recognized desktop entry keys](https://specifications.freedesktop.org/desktop-entry-spec/latest/ar01s06.html)):
 
 {% highlight ini %}
 [Desktop Entry]
