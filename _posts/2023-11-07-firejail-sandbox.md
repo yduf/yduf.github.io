@@ -12,6 +12,7 @@ tags: sandbox cgroup firefox systemd
 	- [ulimit vs cgroup](https://unix.stackexchange.com/questions/302938/about-ulimit-setrlimit-and-cgroup) - the mechanisms are generally not redundant:
     	- cgroup sets limits per groups of processes
         - setrlimit sets limits per user or per process (ulimit is a wrapper arrount setrlimit)
-    
+- [Limit memory usage for a single Linux process](https://unix.stackexchange.com/questions/44985/limit-memory-usage-for-a-single-linux-process)
+
 ### see also
 - [`systemd-run --scope --user -p  MemoryLimit=1G vivaldi-stable`](https://superuser.com/questions/1624040/firejail-and-chrome-limiting-ram-useage) - and  [What is a systemd scope for?](https://askubuntu.com/questions/1058635/what-is-a-systemd-scope-for)
