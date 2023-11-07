@@ -9,7 +9,8 @@ tags: image photo viewer application jxl
 
 - [Xviewer (linux mint default)](https://github.com/linuxmint/xviewer)
 	- forked from [Eye of gnome 3.14](https://projects-old.gnome.org/eog/)
-    - Does not [support JPEG XL (yet)](https://github.com/linuxmint/xviewer/issues/162)
+    - Does not officialy [support JPEG XL (yet)](https://github.com/linuxmint/xviewer/issues/162)
+    	- but due to architecture it's just a matter of mime/type config in linuxmint 21 (add it as application to view .jxl file)
     
 ### Simple Editor
 - [Geeqie](http://www.geeqie.org/) 
