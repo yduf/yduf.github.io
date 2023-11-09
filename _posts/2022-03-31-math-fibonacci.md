@@ -1,7 +1,7 @@
 ---
 published: true
 title: Fibonacci sequence
-tags: fibonacci math
+tags: Fibonacci math
 ---
 > Fibonacci numbers appear unexpectedly often in mathematics, so much so that there is an entire journal dedicated to their study, the Fibonacci Quarterly. - [wikipedia](https://en.wikipedia.org/wiki/Fibonacci_number)
 
