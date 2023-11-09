@@ -38,3 +38,5 @@ linux-lowlatency-hwe-22.04 - Complete lowlatency Linux kernel
 ...
 $ sudo apt install linux-lowlatency-hwe-22.04 # Pick the newest, (without "edge")
 {% endhighlight %}
+
+Reboot. Then go through the steps above again to make sure you actually have a low-latency kernel.
