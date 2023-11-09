@@ -32,3 +32,9 @@ CONFIG_HZ=1000
 {% endhighlight %}
 
 ==> Need to install a low latency kernel.
+{% highlight bash %}
+$ apt-cache search --names-only linux-lowlatency-hwe
+linux-lowlatency-hwe-22.04 - Complete lowlatency Linux kernel
+...
+$ sudo apt install linux-lowlatency-hwe-22.04 # Pick the newest, (without "edge")
+{% endhighlight %}
