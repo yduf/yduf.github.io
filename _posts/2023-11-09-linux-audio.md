@@ -30,3 +30,5 @@ $ grep ^CONFIG_HZ /boot/config-`uname -r`
 CONFIG_HZ_1000=y
 CONFIG_HZ=1000
 {% endhighlight %}
+
+==> Need to install a low latency kernel.
