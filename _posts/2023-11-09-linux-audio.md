@@ -1,7 +1,7 @@
 ---
 published: true
 title: Linux Audio
-tags: linux kernel midi audio audio-hardware linux-hardware
+tags: linux-system kernel midi audio audio-hardware linux-hardware
 ---
 > Audio applications are time-critical, so they need a preemptible (low latency) kernel with a 1000Hz timer frequency. - [Ted's Linux MIDI Guide](http://www.tedfelix.com/linux/linux-midi.html)
 
