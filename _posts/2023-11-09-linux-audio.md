@@ -6,6 +6,9 @@ tags: linux-system kernel midi audio audio-hardware linux-hardware
 > Audio applications are time-critical, so they need a preemptible (low latency) kernel with a 1000Hz timer frequency. - [Ted's Linux MIDI Guide](http://www.tedfelix.com/linux/linux-midi.html)
 
 From [Ted's Linux MIDI Guide](http://www.tedfelix.com/linux/linux-midi.html)
+
+### Low Latency Kernel
+
 To check whether you are running a low latency kernel, use uname:
 {% highlight bash %}
 $ uname -a
@@ -40,3 +43,17 @@ $ sudo apt install linux-lowlatency-hwe-22.04 # Pick the newest, (without "edge"
 {% endhighlight %}
 
 Reboot. Then go through the steps above again to make sure you actually have a low-latency kernel.
+
+### Enabling it
+
+=> **Audio Group**
+
+see also
+- [Pipewire (linux audio)]({% post_url 2021-03-04-audio-pipewire %}) - which is replacing jack on recent linux distro
+	- Pulse Audio is deprecated and replaced by Pipewire 
+    - Jack is also replaced by Pipewire
+- ALSA - is still relevant - as it seems to more on the driver level.
+
+
+
+
