@@ -22,7 +22,6 @@ Dir["**/*"].each do |filename|
 end
 {% endhighlight %}
 
-
 see also
 - [How to list directory contents including dotfiles but not . and ..?](https://stackoverflow.com/questions/11385795/how-to-list-directory-contents-including-dotfiles-but-not-and)
 - [Paths in Ruby](https://www.clairecodes.com/blog/2016-01-01-paths-in-ruby/) - for path manipulation, eg: `File.expand_path( File.join( File.dirname(__FILE__), '../other' ))` or `File.expand_path('../other', __FILE__)`
