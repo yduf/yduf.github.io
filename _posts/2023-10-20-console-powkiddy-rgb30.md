@@ -73,6 +73,7 @@ Audio:     Device-1: rk3568-dw-hdmi driver: dwhdmi_rockchip
 ### Games Recommanded
 - [PICOwesome v1.4 (oct-31-2022)](https://www.reddit.com/r/Roms/comments/yj2irf/picowesome_v14_oct312022/) - full set of cart
 - [Tiny Best Set: GO!](https://archive.org/details/tiny-best-set-go)
+- [Neo-Geo]({% post_url 2023-11-10-game-arcade-neogeo %}) - is working if using the [proper config](https://www.reddit.com/user/VultureMadAtTheOx/comments/1032kag/a_curated_and_scraped_rom_collection_20_reupload/)
 
 ### see also
 - [Retro Handhelds](https://retrohandhelds.gg/) - retro gaming community
