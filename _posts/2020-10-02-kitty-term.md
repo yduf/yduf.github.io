@@ -8,6 +8,7 @@ tags: cli gpu term image viewer quake
 ### [Kitty Terminal Emulator: How to Install, Configure, and Use It](https://linuxiac.com/kitty-terminal-emulator/)
 - [Fix terminal issues when ssh](https://wiki.archlinux.org/title/Kitty#Terminal_issues_with_SSH) - `$ kitty +kitten ssh user@host
 - [Kitty conf (ctrl+shift+f2)](https://sw.kovidgoyal.net/kitty/conf/#opt-kitty.shell)
+- [remote file](https://sw.kovidgoyal.net/kitty/kittens/remote_file/#remote-files) - `ls --hyperlink=auto` + Ctrl+Shift -  Edit, Open or Download files from a computer into which you are SSHed
 - [icat](https://sw.kovidgoyal.net/kitty/kittens/icat/#icat) - `alias icat="kitty +kitten icat image-file-or-url-or-directory "` - Display images in the terminal
 
 - [changing the icon](https://sw.kovidgoyal.net/kitty/faq/#i-do-not-like-the-kitty-icon) on [ubuntu](https://askubuntu.com/questions/1417373/how-can-i-change-the-name-or-icon-of-an-installed-application)
