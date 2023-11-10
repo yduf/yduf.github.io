@@ -64,6 +64,11 @@ Audio:     Device-1: rk3568-dw-hdmi driver: dwhdmi_rockchip
 	- integrates four ARM Cortex-A55 cores with up to 2 GHz
 	- As a GPU it integrates a ARM Mali-G52 MP2 (2 cores).
     - a video decoder with H.264 and H.265 support is integrated, among other things.
+- RAM: 1GB
+- Battery: 4100mA
+- Screen: 4in 1:1 ratio (720x720px)
+- Connectivity: Wifi + Bluetooth
+- Output: Mini HDMI TV out, 3.5mm headphone, OTG-USB-C
 
 - [Tear down](https://www.youtube.com/watch?v=Pp9wfW5fU6Y&t=952s)
 
