@@ -57,7 +57,7 @@ Legend of Success Joe
 Magical Drop III
 Magician Lord
 Matrimelee
-**Metal Slug - Super Vehicle-001**
+[**Metal Slug - Super Vehicle-001**]({% post_url 2022-09-10-game-metal-slug %})
 Metal Slug 2 - Super Vehicle-001/II
 Metal Slug 3
 Metal Slug 4
