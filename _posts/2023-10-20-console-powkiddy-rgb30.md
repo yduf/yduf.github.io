@@ -24,8 +24,9 @@ They both use [Emulation Station](https://www.emulationstation.org/) they both u
 - Device to device and device to cloud sync with Syncthing and rclone.
 - Integrated cross-device local and remote network play. support [Moonlight ?](https://moonlight-stream.org/)
 
-Update crash the system / (or is it rom sdcard ?).
+Update crash the system / (or is it rom sdcard ?) or just bad rom ?
 
+- [Powkiddy RGB30 Setup Guide](https://retrohandheldguides.com/rgb30-setup-guide/)
 - [Adding Games](https://jelos.org/play/add-games/)
 	- add files to rom folder
     - press `START` then `Game Settings` then select `Update Gamelists` under the Tools header.
@@ -40,8 +41,6 @@ ArkOS does not obfuscate the line between Emulationstation and Retroarch. You're
 
 - [setup](https://www.youtube.com/watch?v=CzsOyqgJtcI)
 	- [Pico-8](https://www.youtube.com/watch?v=CzsOyqgJtcI&t=474s)
-    - [PICOwesome v1.4 (oct-31-2022)](https://www.reddit.com/r/Roms/comments/yj2irf/picowesome_v14_oct312022/) - full set of cart
-    - [Tiny Best Set: GO!](https://archive.org/details/tiny-best-set-go)
     
 {% highlight cpp %}
 ark@rgb30:~$ inxi -SMA
@@ -64,11 +63,6 @@ Audio:     Device-1: rk3568-dw-hdmi driver: dwhdmi_rockchip
 	- integrates four ARM Cortex-A55 cores with up to 2 GHz
 	- As a GPU it integrates a ARM Mali-G52 MP2 (2 cores).
     - a video decoder with H.264 and H.265 support is integrated, among other things.
-- RAM: 1GB
-- Battery: 4100mA
-- Screen: 4in 1:1 ratio (720x720px)
-- Connectivity: Wifi + Bluetooth
-- Output: Mini HDMI TV out, 3.5mm headphone, OTG-USB-C
 
 - [Tear down](https://www.youtube.com/watch?v=Pp9wfW5fU6Y&t=952s)
 
@@ -76,6 +70,9 @@ Audio:     Device-1: rk3568-dw-hdmi driver: dwhdmi_rockchip
 
 - [Add and enable a rumble (vibration) motor.](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30#q-how-do-i-add-and-enable-a-rumble-vibration-motor-to-my-unit)
 
-see also
-- [Retro
-Handhelds](https://retrohandhelds.gg/) - retro gaming community
+### Games Recommanded
+- [PICOwesome v1.4 (oct-31-2022)](https://www.reddit.com/r/Roms/comments/yj2irf/picowesome_v14_oct312022/) - full set of cart
+- [Tiny Best Set: GO!](https://archive.org/details/tiny-best-set-go)
+
+### see also
+- [Retro Handhelds](https://retrohandhelds.gg/) - retro gaming community
