@@ -16,7 +16,7 @@ kitty provides extremely powerful interfaces such as Control kitty from scripts 
 
 - [Kitti3](https://github.com/LandingEllipse/kitti3) turns Kitty into a drop-down, Quake-style floating terminal.
 
-see also:
+### see also:
 - [alacritty ](https://github.com/alacritty/alacritty) - the fastest terminal emulator in existence.
 - [Terminal image viewer]({% post_url 2017-11-16-TerminalImageViewer %})
 - [Casey Muratori’s refterm]({% post_url 2021-11-02-term-anatomy %})
