@@ -13,8 +13,6 @@ tags: cli gpu term image viewer quake
 - [icat](https://sw.kovidgoyal.net/kitty/kittens/icat/#icat) - Display images in the terminal
 	- `alias icat="kitty +kitten icat image-file-or-url-or-directory "` 
 
-- [changing the icon](https://sw.kovidgoyal.net/kitty/faq/#i-do-not-like-the-kitty-icon) on [ubuntu](https://askubuntu.com/questions/1417373/how-can-i-change-the-name-or-icon-of-an-installed-application)
-
 ### [Integration with other tools](https://sw.kovidgoyal.net/kitty/integrations/)
 kitty provides extremely powerful interfaces such as Control kitty from scripts and Custom kittens and icat that allow it to be integrated with other tools seamlessly. 
 
@@ -25,5 +23,6 @@ kitty provides extremely powerful interfaces such as Control kitty from scripts 
 - [Terminal image viewer]({% post_url 2017-11-16-TerminalImageViewer %})
 - [Casey Muratori’s refterm]({% post_url 2021-11-02-term-anatomy %})
 
+- [changing the icon](https://sw.kovidgoyal.net/kitty/faq/#i-do-not-like-the-kitty-icon) on [ubuntu](https://askubuntu.com/questions/1417373/how-can-i-change-the-name-or-icon-of-an-installed-application)
 
 [![caption](https://github.com/DinkDonk/kitty-icon/raw/main/kitty-dark.png)](https://sw.kovidgoyal.net/kitty/faq/#i-do-not-like-the-kitty-icon)
