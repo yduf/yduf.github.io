@@ -5,7 +5,7 @@ tags: games arcade retro emulation
 ---
 > _GIGA POWER_ - [neo-geo.com](https://www.neo-geo.com/) 
 
-![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.romsuniverse.com%2Fimg%2Femus%2Fneo-geo.png&f=1&nofb=1&ipt=6628449614f4bcb3d409a8b25668b51dbdc2f1b732c903a996dafe0039d273ee&ipo=images)
+![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-UiHYqDNiVkA%2FYCDCVgJ6vTI%2FAAAAAAAAAkg%2FM0owQ58EhPM6Va_9-Z6erOuBtMI_jhyjACLcBGAsYHQ%2Fs1920%2F2552760.jpg&f=1&nofb=1&ipt=69e9f584af0c0e30f4993d09d863dae8866bbaea7efc6a5cdf65e91e4c22b2cb&ipo=images)
 
 2020 Super Baseball (set 1)
 Aero Fighters 2
@@ -20,12 +20,12 @@ Bang Bead
 Baseball Stars 2
 Baseball Stars Professional
 Battle Flip Shot
-Blazing Star
+**Blazing Star**
 Blue's Journey
 Breakers
 Breakers Revenge
 Burning Fight
-Bust-a-Move
+**Bust-a-Move**
 Bust-A-Move Again
 Captain Tomaday
 Crossed Swords
@@ -53,11 +53,11 @@ Kizuna Encounter - Super Tag Battle
 Last Resort
 League Bowling
 Legend of Success Joe
-Magical Drop II
+**Magical Drop II**
 Magical Drop III
 Magician Lord
 Matrimelee
-Metal Slug - Super Vehicle-001
+**Metal Slug - Super Vehicle-001**
 Metal Slug 2 - Super Vehicle-001/II
 Metal Slug 3
 Metal Slug 4
@@ -81,7 +81,7 @@ Pochi and Nyaa
 Pop 'n Bounce
 Power Spikes II
 Prehistoric Isle 2 (decrypted)
-Pulstar
+**Pulstar**
 Puzzle De Pon!
 Puzzled
 Rage of the Dragons
@@ -91,7 +91,7 @@ Real Bout Fatal Fury 2 - The Newcomers
 Real Bout Fatal Fury Special
 Riding Hero
 Robo Army
-Samurai Shodown
+**Samurai Shodown**
 Samurai Shodown II
 Samurai Shodown III
 Samurai Shodown IV - Amakusa's Revenge
@@ -101,7 +101,7 @@ Savage Reign
 Sengoku
 Sengoku 2
 Sengoku 3
-Shock Troopers
+**Shock Troopers**
 Shock Troopers : 2nd Squad
 Soccer Brawl
 Spin Master
@@ -125,7 +125,7 @@ The King of Fighters 2000
 The King of Fighters 2001
 The King of Fighters 2002
 The King of Fighters 2003
-The Last Blade
+**The Last Blade**
 The Last Blade 2
 The Super Spy
 The Ultimate 11: SNK Football Championship
@@ -135,9 +135,9 @@ Top Player's Golf
 Treasure of the Caribbean
 Twinkle Star Sprites
 V-Liner
-Viewpoint
+**Viewpoint**
 Voltage Fighter Gowcaizer
-Waku Waku 7
+**Waku Waku 7**
 Windjammers
 World Heroes
 World Heroes 2
