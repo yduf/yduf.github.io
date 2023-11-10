@@ -53,8 +53,8 @@ Kizuna Encounter - Super Tag Battle
 Last Resort
 League Bowling
 Legend of Success Joe
-**Magical Drop II**
-Magical Drop III
+Magical Drop II
+**Magical Drop III**
 Magician Lord
 Matrimelee
 [**Metal Slug - Super Vehicle-001**]({% post_url 2022-09-10-game-metal-slug %})
