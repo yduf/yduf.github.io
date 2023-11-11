@@ -14,9 +14,7 @@ tags: games arcade pico8
 
  If your build of MAME is 0.116 or newer, then the dkong.zip sound samples file is no longer needed.
 As of MAME 0.116 Donkey Kong uses discrete sound emulation, and the sound samples if present will be ignored by MAME.
-With an older build such as MAME 0.078, Donkey Kong needs a sound samples file. See link.
-
-http://samples.mameworld.info/ 
+With an older build such as [MAME 0.078](https://forums.launchbox-app.com/topic/52122-mame-078-sound-samples/), Donkey Kong needs a sound samples file. See link: http://samples.mameworld.info/ 
 
 - [Fixing sound missing](https://www.youtube.com/watch?v=_I1uJyppFW0)
 	- some [samples files](https://samples.mameworld.info/Unofficial%20Samples.htm) - are needed for a more complete emulation. Put them in [/roms/mame/samples](https://retropie.org.uk/docs/MAME/)
