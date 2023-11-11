@@ -30,3 +30,6 @@ see [Generating Logs](https://docs.libretro.com/guides/generating-retroarch-logs
 Once enabled.
 
 Logs are generated in /home/ark/.emulationstation/es_log.txt on RGB30 using ArkOS.
+It's also possible to launch retro-arch directly from ternminal (even through ssh) provided Emulation station is exited before.
+
+
