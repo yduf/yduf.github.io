@@ -7,3 +7,5 @@ tags: arcade emulator
 
 
 [![caption](https://docs.mamedev.org/_images/MAMElogo.svg)](https://docs.mamedev.org/)
+
+- [r/MAME ROMs & "My game won't play" FAQ.](https://www.reddit.com/r/MAME/comments/enz17s/rmame_roms_my_game_wont_play_faq_please_read/)
