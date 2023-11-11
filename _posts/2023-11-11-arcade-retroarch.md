@@ -9,8 +9,8 @@ tags: arcade
 
 ### [RetroArch MAME Tips (Best Core, ROMs and Versions)](https://purplepedia.com/what-is-the-best-mame-core-for-retroarch/)
 
-The best MAME core for RetroArch is the MAME 2003-Plus.
+The best MAME core for RetroArch is the [MAME 2003-Plus](https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information#mame-2003).
 
 After installing RetroArch on your gaming system, the next thing you need to do is install cores that will run the games you want to play. 
 
-Each MAME core has a specific ROMset version, and it will not work if you download a different version. For example, if you have installed the MAME 2003 core, its required ROMset version is MAME 0.78. 
+Each MAME core has a specific ROMset version, and it will not work if you download a different version. For example, if you have installed the MAME 2003 core, its required ROMset version is [MAME 0.78](https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information#mame-2003). 
