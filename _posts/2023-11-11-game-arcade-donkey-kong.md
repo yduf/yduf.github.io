@@ -25,4 +25,4 @@ http://samples.mameworld.info/
 
 ### see also
 - [King Kong (1976)](https://www.imdb.com/title/tt0074751/?ref_=ttls_li_tt)
-	- [. King Kong (1933)](https://www.imdb.com/title/tt0024216/?ref_=ttls_li_tt)
+	- [King Kong (1933)](https://www.imdb.com/title/tt0024216/?ref_=ttls_li_tt)
