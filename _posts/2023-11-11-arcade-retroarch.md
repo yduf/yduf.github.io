@@ -14,3 +14,7 @@ The best MAME core for RetroArch is the [MAME 2003-Plus](https://github.com/chri
 After installing RetroArch on your gaming system, the next thing you need to do is install cores that will run the games you want to play. 
 
 Each MAME core has a specific ROMset version, and it will not work if you download a different version. For example, if you have installed the MAME 2003 core, its required ROMset version is [MAME 0.78](https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information#mame-2003). 
+
+The given rom set must be put in the specific folder [./mame2003](https://www.reddit.com/r/RG351/comments/zx8jwb/arkos_playing_mame_games_through_retroarch/) to be used by that core.
+
+Alternative is to put them in the ./arcade folder
