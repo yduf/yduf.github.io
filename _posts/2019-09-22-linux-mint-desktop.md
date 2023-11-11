@@ -35,6 +35,15 @@ Icon=/home/scking/newshosting-2.9.9/64x64_newshosting.png
 When complete, save this file and using chmod, give it 644 permissions:  
 `sudo chmod 644 /usr/share/applications/newshosting.desktop`
 
+**BUT** it will be erased when a package add the very same entry.
+So for custumisation of an existing entry, it's better to first copy it locally to your user config:
+
+{% highlight bash %}
+cp /usr/share/applications/firefox.desktop ~/.local/share/applications/
+{% endhighlight %}
+
+Custimoze the launch command for eg, then run [`update-desktop-database ~/.local/share/applications/ `](https://askubuntu.com/questions/610474/can-local-share-applications-override-usr-share-applications/610527#610527) - it should now override the /usr/share one.
+
 ### Cinnamon Add shortcut to panel
 This require to add the launcher app to panel (default panel, allows only unpin, not add)
 
