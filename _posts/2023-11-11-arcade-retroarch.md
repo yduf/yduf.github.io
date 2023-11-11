@@ -26,7 +26,7 @@ We recommend the Full Non-Merged format, where each romset zip files includes al
 
 ### Troubleshooting
 
-see [Generating Logs](https://docs.libretro.com/guides/generating-retroarch-logs/) to enable logs in RetroArch (to diagnose roms issue for egs).
+see [Generating Logs](https://docs.libretro.com/guides/generating-retroarch-logs/) to enable logs (Settings/Loggin) in RetroArch (to diagnose roms issue for egs).
 Once enabled.
 
 Logs are generated in /home/ark/.emulationstation/es_log.txt on RGB30 using ArkOS.
