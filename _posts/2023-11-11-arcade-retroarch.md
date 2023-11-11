@@ -16,9 +16,9 @@ After installing RetroArch on your gaming system, the next thing you need to do 
 Each MAME core has a specific ROMset version, and it will not work if you download a different version. For example, if you have installed the MAME 2003 core, its required ROMset version is [MAME 0.78](https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information#mame-2003). 
 
 The given rom set must be put in the specific folder [./mame2003](https://www.reddit.com/r/RG351/comments/zx8jwb/arkos_playing_mame_games_through_retroarch/) to be used by that core.
-- [MAME_2003-Plus_Reference_Set_2018/](https://archive.org/download/MAME_2003-Plus_Reference_Set_2018/samples/) - for sound sample.
+As well as [MAME_2003-Plus_Reference_Set_2018/](https://archive.org/download/MAME_2003-Plus_Reference_Set_2018/samples/) - for sound sample.
 
-Alternative is to put them in the ./arcade folder
+Alternative is to put them in the ./arcade folder ?
 
 ### Cores
 - [MAME 2003-Plus](https://docs.libretro.com/library/mame2003_plus/) - MAME 2003-Plus began with the game drivers from MAME 0.78, meaning that 95% or more of MAME 0.78 romsets will work as-is in MAME 2003-Plus, where they immediately benefit from its bugfixes and other improvements. In order to play the new games and games which received ROM updates in MAME 2003-Plus, you will need to find or build MAME 2003-Plus romsets.
