@@ -15,7 +15,7 @@ tags: arcade gameboy hardware pico8 retro
 
 ## [System](https://www.reddit.com/r/RG353V/comments/ya2twg/as_of_now_should_i_go_with_arkos_or_jelos/)
 
-They both use [Emulation Station]({% post_url 2023-11-12-emulationstation %}) they both use [Retroarch](https://www.retroarch.com/), they both use [thememaster](https://johnirvine1433.github.io/ThemeMaster/).
+They both use [Emulation Station]({% post_url 2023-11-12-emulationstation %}) they both use [Retroarch]({% post_url 2023-11-11-arcade-retroarch %}), they both use [thememaster](https://johnirvine1433.github.io/ThemeMaster/).
 
 
 ### [JELOS](https://jelos.org/devices/powkiddy/rgb30/) v20231029 - Just Enough Linux Operating System - [Entware](https://github.com/Entware/Entware/wiki) base
