@@ -12,5 +12,5 @@ ArkOS is using [EmulationStation FCAMOD](https://github.com/christianhaitian/Emu
 ES will check two places for an es_systems.cfg file, in the following order, stopping after it finds one that works:
 
 - ~/.emulationstation/es_systems.cfg
-- /etc/emulationstation/es_systems.cfg
+- /etc/emulationstation/es_systems.cfg  <= the one used on ArkOS
 
