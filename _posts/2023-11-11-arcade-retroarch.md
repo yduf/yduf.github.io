@@ -33,7 +33,7 @@ Then Save (globaly / per core / per folder or per gameà.
 - [GameBoy](https://www.reddit.com/r/RetroArch/comments/owh93f/best_shader_combination_for_gba/) - handheld/lcd-grid-v2-gba-color.slangp 
 	-  [Handheld Colorspace Shaders](https://www.youtube.com/watch?v=yA-aQMUXKPM)
 - [CRT](https://www.reddit.com/r/RetroArch/comments/shbzrf/whats_your_favorite_crt_shaders_for_retro_games/)
-	- [https://docs.libretro.com/shader/crt/#crt-shaders](https://docs.libretro.com/shader/crt/)
+	- [CRT Shaders](https://docs.libretro.com/shader/crt/)
 
 
 
