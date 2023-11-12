@@ -25,6 +25,15 @@ Alternative is to put them in the ./arcade folder ?
 
 We recommend the Full Non-Merged format, where each romset zip files includes all the files needed to run each game, including any ROMs from 'parent' ROM sets and BIOS sets.
 
+### [Shaders](https://www.youtube.com/watch?v=2JlVTh5xOfk)
+
+Choose your Shader (quick menu) + Shader (there is a handeld selection)
+Then Save (globaly / per core / per folder or per gameà.
+
+- [GameBoy](https://www.reddit.com/r/RetroArch/comments/owh93f/best_shader_combination_for_gba/) - handheld/lcd-grid-v2-gba-color.slangp 
+
+
+
 ### Troubleshooting
 
 see [Generating Logs](https://docs.libretro.com/guides/generating-retroarch-logs/) to enable logs (Settings/Loggin) in RetroArch (to diagnose roms issue for egs).
@@ -32,5 +41,3 @@ Once enabled.
 
 Logs are generated in /home/ark/.emulationstation/es_log.txt on RGB30 using ArkOS.
 It's also possible to launch retro-arch directly from ternminal (even through ssh) provided Emulation station is exited before.
-
-
