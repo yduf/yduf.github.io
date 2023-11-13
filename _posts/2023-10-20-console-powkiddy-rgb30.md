@@ -1,7 +1,7 @@
 ---
 published: true
 title: Powkiddy RGB30
-tags: arcade gameboy hardware pico8 retro
+tags: arcade gameboy games-hardware pico8 retro
 ---
 > [Powkiddy](https://powkiddy.com/en-fr/products/pre-sale-powkiddy-rgb30-rk3566-handheld-game-console-built-in-wifi) RGB30 - [In-Depth Review](https://www.youtube.com/watch?v=XgIlD4rNe8k) / [r/PowKiddy](https://www.reddit.com/r/PowKiddy/)
 
