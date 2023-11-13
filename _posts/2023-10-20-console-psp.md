@@ -1,7 +1,7 @@
 ---
 published: true
 title: PSP (Sony Console)
-tags: arcade-hardware gameboy project pico8 emulator
+tags: games-hardware gameboy project pico8 emulator
 ---
 TODO: rescucite PSP
 - [have pico8 on it](https://www.reddit.com/r/pico8/comments/1731vtv/pico_8_on_psp/)
