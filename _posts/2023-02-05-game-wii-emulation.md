@@ -11,6 +11,8 @@ tags: wii emulator games
 
 ## Wii
 
+- [Wii Architecture ](https://www.copetti.org/writings/consoles/wii/) / [HN](https://news.ycombinator.com/item?id=37344096) – A Practical Analysis
+
 ### [Dolphin](https://dolphin-emu.org/) / [build](https://wiki.dolphin-emu.org/index.php?title=Building_Dolphin_on_Linux)
 
 
