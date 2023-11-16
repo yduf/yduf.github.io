@@ -6,6 +6,7 @@ tags: codingame pico8
 > [Making a Roguelike](https://www.youtube.com/watch?v=qLIPY0ro5UY&t=108s)
 
 - [Smooth Map Screens](https://mboffin.itch.io/pico-8-smooth-map-screens)
+- [ Spawn Enemies](https://www.youtube.com/watch?v=8jb8SHNS66c)
 
 ### Map Editor
 
@@ -17,5 +18,3 @@ tags: codingame pico8
 {% highlight lua %}
 reload(0x2000,0x2000,0x1000)	-- reset the map to its card definition
 {% endhighlight %}
-
-
