@@ -15,6 +15,7 @@ Setup Linux Audio [Kernel]({% post_url 2023-11-09-linux-audio %}) and  [Pipewire
 
 ### Pads
 - [Hydrogen drum machine with Akai LPD8 USB/MIDI pad](https://www.youtube.com/watch?v=jrHYHjIRBt4)
+- [Electronic Drums as USB Midi Input Device with Hydrogen](https://www.youtube.com/watch?v=SvBweh5CoEw)
 
 
 ### see also
