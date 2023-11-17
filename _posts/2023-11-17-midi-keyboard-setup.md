@@ -7,4 +7,4 @@ tags: audio midi
 
 ### Prerequisite
 
-Setup []({% post_url 2017-11-27-CG-meanmax %}) + []({% post_url 2017-11-27-CG-meanmax %})
+Setup Linux Audio [Kernel]({% post_url 2023-11-09-linux-audio %}) and  [Pipewire]({% post_url 2021-03-04-audio-pipewire %})
