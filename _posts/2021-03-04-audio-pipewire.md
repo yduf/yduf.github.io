@@ -9,6 +9,8 @@ tags: linux-system audio audio-hardware
 
 - [Helvum](https://gitlab.freedesktop.org/pipewire/helvum) / [flatpak](https://flathub.org/apps/org.pipewire.Helvum) - a graphical patchbay for PipeWire. It allows creating and removing connections between applications and/or devices to reroute flow of audio, video and MIDI data to where it is needed.
 
+- [RaySession](https://github.com/Houston4444/RaySession) -  load together audio programs, then be able to save or close all documents together.
+
 ### [How to Use PipeWire to replace PulseAudio in Ubuntu 22.04](https://ubuntuhandbook.org/index.php/2022/04/pipewire-replace-pulseaudio-ubuntu-2204/)
 
 Pipewire is pre-installed out-of-the-box, and runs as background service automatically. ([Ubuntu 22.10 Makes PipeWire Default for Audio][https://www.omgubuntu.co.uk/2022/05/ubuntu-22-10-makes-pipewire-default])
