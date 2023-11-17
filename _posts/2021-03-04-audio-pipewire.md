@@ -35,12 +35,12 @@ sudo apt remove pulseaudio-module-bluetooth
 systemctl --user --now enable wireplumber.service
 {% endhighlight %}
 
-Need to restart / or loggout ?
+Need to restart... (why?)
 
 {% highlight bash %}
 # check with 
 $ pactl info
-Server Name: pulseaudio on pipewire
+Server Name: PulseAudio (on PipeWire 0.3.48) # <= this validates the change + sound should be working
 {% endhighlight %}
 
 
