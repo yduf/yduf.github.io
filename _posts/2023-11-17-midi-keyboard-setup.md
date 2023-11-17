@@ -13,6 +13,9 @@ Setup Linux Audio [Kernel]({% post_url 2023-11-09-linux-audio %}) and  [Pipewire
 
 ### Piano
 
+### Pads
+- [Hydrogen drum machine with Akai LPD8 USB/MIDI pad](https://www.youtube.com/watch?v=jrHYHjIRBt4)
+
 
 ### see also
 - [Step-by-step to run a midi keyboard input device?](https://askubuntu.com/questions/147052/step-by-step-to-run-a-midi-keyboard-input-device-12-04)
