@@ -19,6 +19,10 @@ Though available out-of-the-box, it’s not in use by default for audio output.
 
 So need to [follow this ](https://ubuntuhandbook.org/index.php/2022/04/pipewire-replace-pulseaudio-ubuntu-2204/)
 
+{% highlight bash %}
+sudo apt install pipewire-audio-client-libraries libspa-0.2-bluetooth libspa-0.2-jack
+sudo apt install wireplumber pipewire-media-session-
+{% endhighlight %}
 
 ### Previously
 
