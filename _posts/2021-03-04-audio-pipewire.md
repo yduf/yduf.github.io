@@ -30,6 +30,9 @@ sudo cp /usr/share/doc/pipewire/examples/ld.so.conf.d/pipewire-jack-*.conf /etc/
 sudo ldconfig
 
 sudo apt remove pulseaudio-module-bluetooth
+
+# enable  media session 
+systemctl --user --now enable wireplumber.service
 {% endhighlight %}
 
 ### Previously
