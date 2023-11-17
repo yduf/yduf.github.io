@@ -29,6 +29,7 @@ If you delete a picture, it first goes to digikam's trash `.dtrash` in same fold
 
 - [digiKam <-> Darktable workflow?](https://www.reddit.com/r/FOSSPhotography/comments/jgviqd/digikam_darktable_workflow/)
 
+[![caption](https://docs.digikam.org/en/_images/architecture.webp)](https://docs.digikam.org/en/getting_started/introduction.html)
 
 
 ## Database
