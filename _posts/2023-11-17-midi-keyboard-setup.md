@@ -9,6 +9,10 @@ tags: audio midi
 
 Setup Linux Audio [Kernel]({% post_url 2023-11-09-linux-audio %}) and  [Pipewire]({% post_url 2021-03-04-audio-pipewire %})
 
+# Setup a synth
+
+### Piano
+
 
 ### see also
 - [Step-by-step to run a midi keyboard input device?](https://askubuntu.com/questions/147052/step-by-step-to-run-a-midi-keyboard-input-device-12-04)
