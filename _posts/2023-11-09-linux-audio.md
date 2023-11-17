@@ -48,6 +48,11 @@ Reboot. Then go through the steps above again to make sure you actually have a l
 
 => [**Audio Group**](https://wiki.ubuntu.com/Audio/TheAudioGroup)
 
+{% highlight bash %}
+$ groups
+$ 
+{% endhighlight %}
+
 see also
 - [Pipewire (linux audio)]({% post_url 2021-03-04-audio-pipewire %}) - which is replacing jack on recent linux distro ( see [Lubuntu 23.04 Now Uses PipeWire!](https://discourse.lubuntu.me/t/lubuntu-23-04-now-uses-pipewire-info-you-should-know-call-for-testing/3907)
 	- Pulse Audio is deprecated and replaced by Pipewire 
