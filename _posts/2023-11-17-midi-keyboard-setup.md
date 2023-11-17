@@ -22,3 +22,4 @@ Setup Linux Audio [Kernel]({% post_url 2023-11-09-linux-audio %}) and  [Pipewire
 
 ### see also
 - [Step-by-step to run a midi keyboard input device?](https://askubuntu.com/questions/147052/step-by-step-to-run-a-midi-keyboard-input-device-12-04)
+- [Simple piano application for Linux?](https://www.reddit.com/r/linuxaudio/comments/gxcxdq/simple_piano_application_for_linux/)
