@@ -14,6 +14,9 @@ Setup Linux Audio [Kernel]({% post_url 2023-11-09-linux-audio %}) and  [Pipewire
 ### Piano
 - install [sfizz SFZ intrument synthesizer](https://freepats.zenvoid.org/links.html) + [Upright Piano KW](https://freepats.zenvoid.org/Piano/acoustic-grand-piano.html) soundfont
 	- [Best free and native piano app/VST?](https://www.reddit.com/r/linuxaudio/comments/s6xwow/best_free_and_native_piano_appvst/)
+    
+Sfizz UI is not chown on it's own : it has to be embeded by an other software.
+This work with ardour, but make the setup a bit more complex.
 
 ### Pads
 - [Hydrogen drum machine with Akai LPD8 USB/MIDI pad](https://www.youtube.com/watch?v=jrHYHjIRBt4)
