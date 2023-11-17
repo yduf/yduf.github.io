@@ -12,6 +12,7 @@ Setup Linux Audio [Kernel]({% post_url 2023-11-09-linux-audio %}) and  [Pipewire
 # Setup a synth
 
 ### Piano
+- install [sfizz SFZ intrument synthesizer](https://freepats.zenvoid.org/links.html) + [Upright Piano KW](https://freepats.zenvoid.org/Piano/acoustic-grand-piano.html) soundfont
 
 ### Pads
 - [Hydrogen drum machine with Akai LPD8 USB/MIDI pad](https://www.youtube.com/watch?v=jrHYHjIRBt4)
