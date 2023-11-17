@@ -35,6 +35,15 @@ sudo apt remove pulseaudio-module-bluetooth
 systemctl --user --now enable wireplumber.service
 {% endhighlight %}
 
+Need to restart / or loggout ?
+
+{% highlight bash %}
+# check with 
+$ pactl info
+Server Name: pulseaudio on pipewire
+{% endhighlight %}
+
+
 ### Previously
 
 - [How to replace pulseaudio with pipewire on Ubuntu 21.04?](https://askubuntu.com/questions/1333404/how-to-replace-pulseaudio-with-pipewire-on-ubuntu-21-04)
