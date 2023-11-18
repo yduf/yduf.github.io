@@ -28,4 +28,4 @@ tags: cnc laser
     
 ### see also
 - [Diode lasers vs. Co2 laser tubes. Advantages and disadvantages](https://endurancelasers.com/diode-lasers-vs-co2-laser-tubes/)
-	- diodes: no single diode can create more than 10 watt optical powe
+	- diodes: no single diode can create more than 10 watt optical power / Have a long lifespan (if the diode does not work anything really happens to it).
