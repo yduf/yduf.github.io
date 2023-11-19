@@ -5,6 +5,7 @@ tags: codingame pico8
 ---
 > [Making a Roguelike](https://www.youtube.com/watch?v=qLIPY0ro5UY&t=108s)
 
+### Tricks
 - [Smooth Map Screens Transition](https://mboffin.itch.io/pico-8-smooth-map-screens)
 	- see end of [Programmer un jeu d'aventure EP3 : Dialogues et animations](https://www.youtube.com/watch?v=z2A-Cr4ESZ4)
 - [ Spawn Enemies](https://www.youtube.com/watch?v=8jb8SHNS66c)
