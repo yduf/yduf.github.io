@@ -11,7 +11,11 @@ tags: pico8 image
 
 [![caption](https://www.lexaloffle.com/media/32989/motu_000.png)](https://www.lexaloffle.com/bbs/?tid=39384)
 
-see also
+### [Pico Illustrator](https://www.lexaloffle.com/bbs/?pid=122008)
+
+[![caption](https://www.lexaloffle.com/media/72593/pico_illustrator_3.gif) ](https://www.lexaloffle.com/bbs/?pid=122008)
+
+### see also
 - [PX9](https://www.lexaloffle.com/bbs/?tid=34058) - a lightweight gfx & map compression library
 - [Rolling your own editor](https://itch.io/post/1522416) / [Masters of the Universe](https://itch.io/t/818099/masters-of-the-universe) / [cart](https://theroboz.itch.io/motu)
 	- [Picodraw](https://www.lexaloffle.com/bbs/?tid=39384) - compressed full-screen graphic drawing tool
