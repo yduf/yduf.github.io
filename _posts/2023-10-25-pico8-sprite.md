@@ -41,6 +41,13 @@ tags: pico8 sprite pixelart
 </div>
 {:/}
 
-see also
+### [Sprite Composer](https://www.lexaloffle.com/bbs/?tid=50974)
+
+Create animation from sprite composition
+
+[ ![caption](https://www.lexaloffle.com/media/72593/home_explore%20p8_0.gif) ](https://www.lexaloffle.com/bbs/?tid=50908)
+
+
+### see also
 - [Tutorial: Additional Sprite Memory](https://www.lexaloffle.com/bbs/?tid=33758)
 - [Sprite Stacking with lighting in GameMaker Studio 2.3 - Part 1](https://www.youtube.com/watch?v=DNDwo7855Gs)
