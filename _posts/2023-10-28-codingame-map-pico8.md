@@ -12,6 +12,10 @@ tags: codingame pico8
 
 ### Map Editor
 
+- [jaP8e](https://www.lexaloffle.com/bbs/?tid=49307) / [github](https://github.com/GPIforGit/jaP8e) - Editor for code, graphic, charset, sound
+
+[![caption](https://www.lexaloffle.com/media/58188/map.gif)](https://www.lexaloffle.com/bbs/?tid=49307)
+
 - [Picohorn](https://github.com/WuffMakesGames/Picohorn#picohorn)  - map editor for celeste
 
 - [PicoMap](https://www.lexaloffle.com/bbs/?tid=42848) -  allows console game size worlds to fit in a single Pico-8 cart.
