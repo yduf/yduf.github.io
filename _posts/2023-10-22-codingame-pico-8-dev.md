@@ -59,7 +59,7 @@ end
 - [Save url](https://www.youtube.com/watch?v=bpoqBOOZOMw&list=PLea8cjCua_P3axOkgl2xJKXFYupupItuM&index=8) - a url embeding your code
 - [Label for cart](https://www.youtube.com/watch?v=bpoqBOOZOMw&list=PLea8cjCua_P3axOkgl2xJKXFYupupItuM&index=6&t=936s) 
 - [custom font](https://www.youtube.com/watch?v=bpoqBOOZOMw&list=PLea8cjCua_P3axOkgl2xJKXFYupupItuM&index=8) - variable width
-- [Map Editor](https://www.youtube.com/watch?v=bpoqBOOZOMw&list=PLea8cjCua_P3axOkgl2xJKXFYupupItuM&index=6&t=2552s)
+- [Map Editor](https://www.youtube.com/watch?v=bpoqBOOZOMw&list=PLea8cjCua_P3axOkgl2xJKXFYupupItuM&index=6&t=2135s)
 	- move selection without erasing what's under it
 - [String are array now](https://www.youtube.com/watch?v=bpoqBOOZOMw&list=PLea8cjCua_P3axOkgl2xJKXFYupupItuM&index=6&t=2348s)
 - [Char wrap](https://www.youtube.com/watch?v=bpoqBOOZOMw&list=PLea8cjCua_P3axOkgl2xJKXFYupupItuM&index=6&t=2552s)
