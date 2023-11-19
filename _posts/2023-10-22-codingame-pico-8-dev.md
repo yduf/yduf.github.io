@@ -60,7 +60,7 @@ end
 - [Label for cart](https://www.youtube.com/watch?v=bpoqBOOZOMw&list=PLea8cjCua_P3axOkgl2xJKXFYupupItuM&index=6&t=936s) 
 - [custom font](https://www.youtube.com/watch?v=bpoqBOOZOMw&list=PLea8cjCua_P3axOkgl2xJKXFYupupItuM&index=8) - variable width
 - [Map Editor](https://www.youtube.com/watch?v=bpoqBOOZOMw&list=PLea8cjCua_P3axOkgl2xJKXFYupupItuM&index=6&t=2135s)
-	- move & edit in selection without erasing what's under it - by using the key
+	- move & edit in selection without erasing what's under it - by using the cursor key
 - [String are array now](https://www.youtube.com/watch?v=bpoqBOOZOMw&list=PLea8cjCua_P3axOkgl2xJKXFYupupItuM&index=6&t=2348s)
 - [Char wrap](https://www.youtube.com/watch?v=bpoqBOOZOMw&list=PLea8cjCua_P3axOkgl2xJKXFYupupItuM&index=6&t=2552s)
 - [TLINE](https://www.youtube.com/watch?v=bpoqBOOZOMw&list=PLea8cjCua_P3axOkgl2xJKXFYupupItuM&index=6&t=2718s) ??
