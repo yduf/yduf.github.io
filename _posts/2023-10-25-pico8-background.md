@@ -1,13 +1,18 @@
 ---
 published: true
 title: Background (Pico-8)
-tags: pico8 image
+tags: pico8 image rle zip
 ---
 > [Background images w/o tiles](https://www.lexaloffle.com/bbs/?tid=38884)
 
 <link rel="shortcut icon" href="https://static.wikia.nocookie.net/pico-8/images/4/4a/Site-favicon.ico/revision/latest?cb=20210713144653" type="image/x-icon" />
 
-[![caption](https://www.lexaloffle.com/media/45707/rle%20p8_1.gif)](https://www.lexaloffle.com/bbs/?tid=38884)
+### RLE Encoder
+- [picoRLE](https://github.com/iSpellcaster/pico8rle#pico8rle)
+	- [Title Screens and more w/o sprites or tiles](https://www.lexaloffle.com/bbs/?tid=38887)
+- [String-Based Graphics Rendering System](https://www.lexaloffle.com/bbs/?tid=38829) - Version 2.0 - derived from picoRLE
+
+[![caption](https://github.com/iSpellcaster/pico8rle/raw/master/rle%20p8_1.gif)](https://www.lexaloffle.com/bbs/?tid=38884)
 
 [![caption](https://www.lexaloffle.com/media/32989/motu_000.png)](https://www.lexaloffle.com/bbs/?tid=39384)
 
