@@ -13,6 +13,8 @@ tags: pico8 image rle zip
 	- [Title Screens and more w/o sprites or tiles](https://www.lexaloffle.com/bbs/?tid=38887)
 - [PX9](https://www.lexaloffle.com/bbs/?tid=34058) - a lightweight gfx & map compression library
 
+- [LZW Compress/Decompress](https://www.lexaloffle.com/bbs/?tid=44398)
+- [LZ77 picture compression](https://www.lexaloffle.com/bbs/?tid=42198)
 
 [![caption](https://github.com/iSpellcaster/pico8rle/raw/master/rle%20p8_1.gif)](https://www.lexaloffle.com/bbs/?tid=38884)
 
