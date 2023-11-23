@@ -88,5 +88,6 @@ end
 ### Compression & Packing
 - [PICO-8 Token Optimizations](https://github.com/seleb/PICO-8-Token-Optimizations)
 	- [compressed size limit](https://www.lexaloffle.com/bbs/?tid=3205)
+    - [Shrinko8](https://github.com/thisismypassport/shrinko8#shrinko8) - A set of Pico-8 cart tools, with a focus on shrinking code size.
 - [From one Pico-8 cart to many](https://retroactive.me/post/from-one-pico-cart-to-many/)
 - [rectpack2D](https://github.com/TeamHypersomnia/rectpack2D#rectpack2d) / [HN](https://news.ycombinator.com/item?id=36469297) - A header-only 2D rectangle packing library written in modern C++.
