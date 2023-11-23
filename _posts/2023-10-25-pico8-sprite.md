@@ -20,6 +20,8 @@ tags: pico8 sprite pixelart
 - [tline sprite rotation/scaling](https://www.lexaloffle.com/bbs/?pid=78451)
 - [Sprite Rotation](https://www.lexaloffle.com/bbs/?tid=41632) - 64x64
 
+- [exploding sprite in particle](https://www.lexaloffle.com/bbs/?tid=39162)
+
 ### Animating Big Sprite
 
 - [How to Animate 16x16 Sprites in Pico-8](https://www.youtube.com/watch?v=LkA5NhHFoVM)
