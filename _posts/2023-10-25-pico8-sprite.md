@@ -14,7 +14,7 @@ tags: pico8 sprite pixelart
 - [`export`](https://youtu.be/srPKBhzgZhc?feature=shared&t=724)
 	- `export spritesheet.png`
 	- `import spritesheet.png`
-- [respriter](https://www.lexaloffle.com/bbs/?tid=35255) -  move sprites around and have the map updated to point to the new location of your sprites
+- [respriter](https://www.lexaloffle.com/bbs/?tid=35255) -  move sprites around and have the map updated to point to the new location of your sprites ( remove the 2 square brackets on tab 5, line 375. to fix bugs on latest version)
 
 ### Sprite Rotation
 - [tline sprite rotation/scaling](https://www.lexaloffle.com/bbs/?pid=78451)
