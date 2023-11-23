@@ -50,7 +50,7 @@ end
         
 ### Pico-8 Feature review
 
-[PICO-8 0.2.5](https://www.youtube.com/watch?v=bpoqBOOZOMw&list=PLea8cjCua_P3axOkgl2xJKXFYupupItuM&index=8)
+[**PICO-8 0.2.5**](https://www.youtube.com/watch?v=bpoqBOOZOMw&list=PLea8cjCua_P3axOkgl2xJKXFYupupItuM&index=8)
 - Sprite
 	- Sprite animation Ctrl-L set start then end - U / W cycle within range Work aslso on big sprite
     - paste big Ctrl-B 
@@ -66,7 +66,10 @@ end
 - [Char wrap](https://www.youtube.com/watch?v=bpoqBOOZOMw&list=PLea8cjCua_P3axOkgl2xJKXFYupupItuM&index=6&t=2552s)
 - [TLINE](https://www.youtube.com/watch?v=bpoqBOOZOMw&list=PLea8cjCua_P3axOkgl2xJKXFYupupItuM&index=6&t=2718s) ??
 
-    
+- [**PICO-8 0.2.4**](https://www.lexaloffle.com/bbs/?tid=45538)
+- 64ko Memory
+- Video Remapping - The video memory sections can now be mapped to each other, allowing the screen to be used as if it were the spritesheet, and/or to draw to the spritesheet as if it were the screen.
+- Big Maps - This feature doesn't come with extra cartridge space to match! So to use 0x8000 and above, you'll need to manually mset() or memcpy() some map data. This feature will be most useful for carts that procedurally generate their maps or have some custom data storage scheme.
 
 
 
