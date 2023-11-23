@@ -1,7 +1,7 @@
 ---
 published: true
 title: Tapo C212 (wifi camera)
-tags: hardware video
+tags: hardware video reverse
 ---
 > 2023 - 30€ - [amazon](https://www.amazon.fr/gp/product/B0CG9MBCYR/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&th=1)
 
