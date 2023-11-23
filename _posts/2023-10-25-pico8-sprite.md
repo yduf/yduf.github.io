@@ -30,7 +30,7 @@ tags: pico8 sprite pixelart
 - [Shadow Techniques](https://www.lexaloffle.com/bbs/?tid=27653) - PEEK/POKE MERGE
 - [exploding sprite in particle](https://www.lexaloffle.com/bbs/?tid=39162)
 - [draws a sprite to the screen with an outline of the specified colour](https://gist.github.com/Liquidream/1b419261dc324708f008f24ee6d13d7b)
-- [z-index](https://www.lexaloffle.com/bbs/?pid=35182) - use hash (table) indexed on z, rather than sorting sprite
+- [z-index](https://www.lexaloffle.com/bbs/?pid=35182) - use hash (table) indexed on z, rather than sorting sprite for drawing
 
 ### Collision
 - [Guides for Sprite Collision detection ...](https://www.lexaloffle.com/bbs/?tid=28145)
