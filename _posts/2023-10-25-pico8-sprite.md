@@ -20,17 +20,17 @@ tags: pico8 sprite pixelart
 - [tline sprite rotation/scaling](https://www.lexaloffle.com/bbs/?pid=78451)
 - [Sprite Rotation](https://www.lexaloffle.com/bbs/?tid=41632) - 64x64
 
-- [exploding sprite in particle](https://www.lexaloffle.com/bbs/?tid=39162)
-- [draws a sprite to the screen with an outline of the specified colour](https://gist.github.com/Liquidream/1b419261dc324708f008f24ee6d13d7b)
-
 ### Animating Big Sprite
 
 - [How to Animate 16x16 Sprites in Pico-8](https://www.youtube.com/watch?v=LkA5NhHFoVM)
 - [4x4 Sprites](https://www.lexaloffle.com/bbs/?tid=3287) - use sspr()
 	- [sspr() is twice as slow as spr()](https://www.lexaloffle.com/bbs/?pid=20105#p) - There are indeed 'artificial' costs assigned to the internal draw operations. For spr() it's around 1 Lua vm instruction per drawn pixel, and sspr() it's 2.
 
-### Shadow
+### Tips
 - [Shadow Techniques](https://www.lexaloffle.com/bbs/?tid=27653) - PEEK/POKE MERGE
+- [exploding sprite in particle](https://www.lexaloffle.com/bbs/?tid=39162)
+- [draws a sprite to the screen with an outline of the specified colour](https://gist.github.com/Liquidream/1b419261dc324708f008f24ee6d13d7b)
+- [z-index](https://www.lexaloffle.com/bbs/?pid=35182) - use hash (table) indexed on z, rather than sorting sprite
 
 ### Collision
 - [Guides for Sprite Collision detection ...](https://www.lexaloffle.com/bbs/?tid=28145)
