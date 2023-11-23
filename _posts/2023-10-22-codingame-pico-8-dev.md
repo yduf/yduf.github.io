@@ -70,8 +70,7 @@ end
 - 64ko Memory
 - Video Remapping - The video memory sections can now be mapped to each other, allowing the screen to be used as if it were the spritesheet, and/or to draw to the spritesheet as if it were the screen.
 - Big Maps - This feature doesn't come with extra cartridge space to match! So to use 0x8000 and above, you'll need to manually mset() or memcpy() some map data. This feature will be most useful for carts that procedurally generate their maps or have some custom data storage scheme.
-
-
+- P8SCII - character data can be specified and printed in-line using "\^." followed by 8 bytes of raw binary data
 
 ### [Debug](https://www.reddit.com/r/pico8/comments/s1dzk9/how_to_debug_a_game_in_pico8/)
 
