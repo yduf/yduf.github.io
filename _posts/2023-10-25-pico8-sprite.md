@@ -22,6 +22,7 @@ tags: pico8 sprite pixelart
 ### Animating Big Sprite
 
 - [How to Animate 16x16 Sprites in Pico-8](https://www.youtube.com/watch?v=LkA5NhHFoVM)
+- [4x4 Sprites](https://www.lexaloffle.com/bbs/?tid=3287) - use sspr()
 
 ### Collision
 - [Guides for Sprite Collision detection ...](https://www.lexaloffle.com/bbs/?tid=28145)
