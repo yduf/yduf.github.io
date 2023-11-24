@@ -7,6 +7,7 @@ tags: typescript lang online
 
 ### see also
 - [Deno](https://deno.com/) - Next-generation JavaScript Runtime / Native support for TypeScript and JSX
+- [TS-PICO-8](https://github.com/tmountain/pico-8-typescript#ts-pico-8---typescript-for-pico-8) - TypeScript for PICO-8
 
 ## [Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
 
