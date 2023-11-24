@@ -5,6 +5,9 @@ tags: typescript lang online
 ---
 > TypeScript is an open-source language which builds on JavaScript, one of the world’s most used tools, by adding static type definitions. - [Home](https://www.typescriptlang.org/) / [online](https://www.typescriptlang.org/play)
 
+### see also
+- [Deno](https://deno.com/) - Next-generation JavaScript Runtime / Native support for TypeScript and JSX
+
 ## [Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
 
 ### [Classes](https://www.typescriptlang.org/docs/handbook/classes.html)
