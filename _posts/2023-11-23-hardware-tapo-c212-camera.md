@@ -17,6 +17,14 @@ tags: hardware video reverse
 - once setup / rstp is functional and can be accessed by ffplay (for eg).
 - seems to be supported by [iSpy](https://github.com/ispysoftware/iSpy)
 
+### ONVIF / PTZ
+
+ONVIF stands for Open Network Video Interface Forum.  
+PTZ stands for Pan-Tilt-Zoom.
+
+
+
+
 ### see also
 - [How to view Tapo camera on PC through RTSP stream](https://www.tapo.com/en/faq/34/)
 - [Tapo P100 Homebridge](https://github.com/homebridge/homebridge/wiki/Install-Homebridge-on-Debian-or-Ubuntu-Linux ) -  javascript server emulating Homekit API 
