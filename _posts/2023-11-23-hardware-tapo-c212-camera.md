@@ -9,9 +9,10 @@ tags: hardware video reverse
 - Need to install Android/iOS App + create an account
 - Setup can only be done through the App
 	- one account at the tapo level for global setting
-    - one account on the device to create a user/password and enable the RTSP feed.
+    - [a second configuration](https://www.tapo.com/en/faq/34/) from the app to create a user/password and enable the RTSP feed for the device.
     	- high quality `rtsp://user:password/IP Address/stream1`
     	- low  quality `rtsp://user:password/IP Address/stream2`
+	- RSTP is not enabled when a SDCard is present
 ### Pro
 - once setup / rstp is functional
 
