@@ -9,3 +9,5 @@ tags: video camera webcam
 - ffplay/ffmpeg is able to connect to [rtsp://user:password/IP]({% post_url 2022-09-02-ip-camera %})
 - [Webcamoid](https://webcamoid.github.io/)
 - [Cheese](https://www.linuxlinks.com/Cheese/)
+
+### [Image pixel formats ](http://jevois.org/doc/PixelFormats.html) 
