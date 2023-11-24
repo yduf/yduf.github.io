@@ -14,10 +14,11 @@ tags: hardware video reverse
     	- low  quality `rtsp://user:password/IP Address/stream2`
 	- RSTP is not enabled when a SDCard is present
 ### Pro
-- once setup / rstp is functional
+- once setup / rstp is functional and can be accessed by ffplay (for eg).
 - seems to be supported by [iSpy](https://github.com/ispysoftware/iSpy)
 
 ### see also
 - [How to view Tapo camera on PC through RTSP stream](https://www.tapo.com/en/faq/34/)
+- [Homebridge](https://github.com/homebridge/homebridge/wiki/Install-Homebridge-on-Debian-or-Ubuntu-Linux ) -  javascript server emulating Homekit API 
 - [TP-Link Tapo C200 Camera Reverse Engineering](https://github.com/nervous-inhuman/tplink-tapo-c200-re)
 	- [THE Tapo C200 Research Proj.](https://drmnsamoliu.github.io/shell.html)
