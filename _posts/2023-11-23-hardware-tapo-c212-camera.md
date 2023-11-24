@@ -22,7 +22,11 @@ tags: hardware video reverse
 ONVIF stands for Open Network Video Interface Forum.  
 PTZ stands for Pan-Tilt-Zoom.
 
-- [ONVIFViewer](https://www.debugpoint.com/onvifviewer-internet-camera-viewer-for-linux/) / [gitlab](https://gitlab.com/caspermeijn/onvifviewer) - Linux Internet Camera Viewer
+- [HomeAssistant](https://raspberrytips.com/install-home-assistant-on-ubuntu/) - easy to install as docker image
+	- `podman run  -d --name homeassistant --privileged --restart=unless-stopped -e TZ=Europe/Paris -v /home/yves/home_assistant:/config --network=host ghcr.io/home-assistant/home-assistant:stable`
+	- [ONVIF]() - use port `:2020` for [tapo camera device](https://community.home-assistant.io/t/custom-component-tapo-cameras-control/231795)
+    	- [HomeAssistant - Tapo: Cameras Control](https://community.home-assistant.io/t/custom-component-tapo-cameras-control/231795)
+- [ONVIFViewer](https://www.debugpoint.com/onvifviewer-internet-camera-viewer-for-linux/) / [gitlab](https://gitlab.com/caspermeijn/onvifviewer) - Linux Internet Camera Viewer - dev stopped
 
 
 ### see also
