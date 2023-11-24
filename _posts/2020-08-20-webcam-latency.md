@@ -1,7 +1,7 @@
 ---
 published: true
 title: Webcam
-tags: webcam hardware video
+tags: webcam hardware video streaming
 ---
 - [Finding a low-latency webcam](https://makehardware.com/2016/03/29/finding-a-low-latency-webcam/)
 
@@ -37,3 +37,4 @@ see /root/bin/webcamd and [configurations](https://github.com/foosel/OctoPrint/w
 see also
 - [Pi Cam]({% post_url 2021-10-03-pi-cam %})
 - [Stream MJPG Video]({% post_url 2020-07-23-ustreamer %})
+
