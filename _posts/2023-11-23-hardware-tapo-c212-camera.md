@@ -22,7 +22,7 @@ tags: hardware video reverse
 ONVIF stands for Open Network Video Interface Forum.  
 PTZ stands for Pan-Tilt-Zoom.
 
-
+- [ONVIFViewer](https://www.debugpoint.com/onvifviewer-internet-camera-viewer-for-linux/) - Linux Internet Camera Viewer
 
 
 ### see also
