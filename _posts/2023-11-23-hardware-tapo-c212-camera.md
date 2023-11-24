@@ -19,6 +19,7 @@ tags: hardware video reverse
 
 ### see also
 - [How to view Tapo camera on PC through RTSP stream](https://www.tapo.com/en/faq/34/)
+	- [HomeAssistant - Tapo: Cameras Control](https://github.com/JurajNyiri/HomeAssistant-Tapo-Control#homeassistant---tapo-cameras-control)
 - [Tapo P100 Homebridge](https://github.com/homebridge/homebridge/wiki/Install-Homebridge-on-Debian-or-Ubuntu-Linux ) -  javascript server emulating Homekit API 
 - [TP-Link Tapo C200 Camera Reverse Engineering](https://github.com/nervous-inhuman/tplink-tapo-c200-re)
 	- [THE Tapo C200 Research Proj.](https://drmnsamoliu.github.io/shell.html)
