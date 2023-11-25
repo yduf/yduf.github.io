@@ -10,6 +10,7 @@ tags: pc-hardware
 	- Intel 815EM 
 - 256 MB RAM up to  384 MB. 
 	- MicroDIMM 144-pin 
+- XGA 1024x768
 - 10/100 Ethernet 
 
 [ ![caption](https://www.fdi.ucm.es/migs/catalogo/vaio_pcg_srx51p_a/vaio_pcg_srx51p_a.jpg)](https://www.fdi.ucm.es/migs/catalogo/vaio_pcg_srx51p_a/)
