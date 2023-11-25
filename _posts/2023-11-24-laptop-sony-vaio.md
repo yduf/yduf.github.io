@@ -13,3 +13,7 @@ tags: pc-hardware
 - 10/100 Ethernet 
 
 [ ![caption](https://www.fdi.ucm.es/migs/catalogo/vaio_pcg_srx51p_a/vaio_pcg_srx51p_a.jpg)](https://www.fdi.ucm.es/migs/catalogo/vaio_pcg_srx51p_a/)
+
+### Linux ?
+- [Linux on Sony VAIO PCG-SRX51P](http://linux.bplaced.net/srx51p/) - Arch Linux  - 2010 ?
+- [Linux on the Sony VAIO PCG-SRX51P/A ](http://homepage.eircom.net/~atownley/srx51p.html)
