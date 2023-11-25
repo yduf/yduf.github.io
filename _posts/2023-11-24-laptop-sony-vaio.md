@@ -26,3 +26,9 @@ Also known as [PCG-461M](https://www.reddit.com/r/vaio/comments/zizudf/please_he
 ### Windows driver
 - [Please help to find PCG-SRX51P/A drivers](https://www.reddit.com/r/vaio/comments/zizudf/please_help_to_find_pcgsrx51pa_drivers/)
 	- [Sony VAIO PCG-SRX Series Recovery Discs CD (JP) [Windows XP] + Application Recovery](https://archive.org/details/pcg-srx)
+    
+## Hardware customisation
+
+### Keyboard
+- [Laptop's internal keyboard as an external one?](https://superuser.com/questions/184870/laptops-internal-keyboard-as-an-external-one) - In laptops, the keyboard controller circuitry is located on-motherboard, so the keyboard connects directly with a matrix cable. 
+	- [hackaday](https://hackaday.com/2018/12/04/teensy-liberates-the-thinkpad-keyboard/) - use a teensy microcontroler to replicate that funcstionnality
