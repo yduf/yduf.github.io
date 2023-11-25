@@ -5,6 +5,8 @@ tags: pc-hardware
 ---
 > laptop from 2002 - [PCG-SRX51P/A](https://www.manualslib.com/manual/248672/Sony-Pcg-Srx51p-A.html)
 
+Also known as [PCG-461M](https://www.reddit.com/r/vaio/comments/zizudf/please_help_to_find_pcgsrx51pa_drivers/)
+
 ### [Spec](https://specspro.net/laptops/9297-sony-vaio-pcg-srx99/?currency=eur&country=fr/)
 - Intel Pentium III-M 850 MHz
 	- Intel 815EM 
@@ -18,3 +20,7 @@ tags: pc-hardware
 ### Linux ?
 - [Linux on Sony VAIO PCG-SRX51P](http://linux.bplaced.net/srx51p/) - Arch Linux  - 2010 ?
 - [Linux on the Sony VAIO PCG-SRX51P/A ](http://homepage.eircom.net/~atownley/srx51p.html)
+
+### Windows driver
+- [Please help to find PCG-SRX51P/A drivers](https://www.reddit.com/r/vaio/comments/zizudf/please_help_to_find_pcgsrx51pa_drivers/)
+	- [Sony VAIO PCG-SRX Series Recovery Discs CD (JP) [Windows XP] + Application Recovery](https://archive.org/details/pcg-srx)
