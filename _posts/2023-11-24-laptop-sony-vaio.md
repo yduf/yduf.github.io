@@ -12,7 +12,7 @@ Also known as [PCG-461M](https://www.reddit.com/r/vaio/comments/zizudf/please_he
 	- Intel 815EM 
 - 256 MB RAM up to  384 MB. 
 	- MicroDIMM 144-pin 
-- [display](https://www.sony.com/electronics/support/res/manuals/Z008/Z008787111.PDF) : Écran XGA (1024x768) p-Si TFT de 10,4 pouces
+- [display](https://www.sony.com/electronics/support/res/manuals/Z008/Z008787111.PDF) : Écran XGA (1024x768) p-Si TFT de 10,4 pouces - 21.2x16cm visible
 - 10/100 Ethernet 
 
 [ ![caption](https://www.fdi.ucm.es/migs/catalogo/vaio_pcg_srx51p_a/vaio_pcg_srx51p_a.jpg)](https://www.fdi.ucm.es/migs/catalogo/vaio_pcg_srx51p_a/)
