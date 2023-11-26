@@ -8,8 +8,9 @@ tags: pc-hardware
 Also known as [PCG-461M](https://www.reddit.com/r/vaio/comments/zizudf/please_help_to_find_pcgsrx51pa_drivers/)
 
 ### [Spec](https://specspro.net/laptops/9297-sony-vaio-pcg-srx99/?currency=eur&country=fr/)
-- Intel Pentium III-M 850 MHz
-	- Intel 815EM 
+- [Intel Pentium III-M 850 MHz](https://ark.intel.com/content/www/us/en/ark/products/27554/intel-pentium-iii-processor-850-mhz-256k-cache-100-mhz-fsb.html)
+	- 32bits / 1 core
+- dispay Intel 815EM 
 - 256 MB RAM up to  384 MB. 
 	- MicroDIMM 144-pin 
 - [display](https://www.sony.com/electronics/support/res/manuals/Z008/Z008787111.PDF) : Écran XGA (1024x768) p-Si TFT de 10,4 pouces - 21.2x16cm visible
