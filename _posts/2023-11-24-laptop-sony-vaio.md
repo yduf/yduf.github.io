@@ -40,3 +40,5 @@ Also known as [PCG-461M](https://www.reddit.com/r/vaio/comments/zizudf/please_he
 
 ### see also
 - [Laptop Screen]({% post_url 2020-11-07-old-lcd %})
+- [DIY Portable KVM Crashcart From Recycled Laptop](https://www.instructables.com/DIY-Portable-KVM-Crashcart-From-Recycled-Laptop-Pr/)
+	- [Laptop Touchpad/Trackpoint Conversion to USB](https://www.hackster.io/frank-adams/laptop-touchpad-trackpoint-conversion-to-usb-d70519)
