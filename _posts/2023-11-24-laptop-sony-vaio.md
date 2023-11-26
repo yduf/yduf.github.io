@@ -1,9 +1,9 @@
 ---
 published: true
-title: Sony Vaio
-tags: pc-hardware
+title: Sony Vaio PCG-SRX51P/A (2002)
+tags: laptop
 ---
-> laptop from 2002 - [PCG-SRX51P/A](https://www.manualslib.com/manual/248672/Sony-Pcg-Srx51p-A.html)
+> laptop from the past - [spec](https://www.manualslib.com/manual/248672/Sony-Pcg-Srx51p-A.html)
 
 Also known as [PCG-461M](https://www.reddit.com/r/vaio/comments/zizudf/please_help_to_find_pcgsrx51pa_drivers/)
 
