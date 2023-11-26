@@ -5,7 +5,7 @@ tags: pc-hardware laptop
 excerpt_separator: <!--more-->
 ---
 <!--more-->
-[![caption](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.klikglodok.com%2Ftoko%2Fimg%2Fcms%2FASUS%2FAsus%2520LaptopNotebook%2Fharga-asus-zenbook-ux305ua-fc003t-notebook-core-i5-4gb-256gb-windows-10.jpg&f=1&nofb=1&ipt=42a41695bc255c27096a4ef06c11b50ed30cb5b7012fbe502a07ef345d4401e2&ipo=images)](https://www.ultrabookreview.com/10058-asus-zenbook-ux305ua-review/)
+[![caption](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.klikglodok.com%2Ftoko%2F30088-large_default%2Fharga-asus-zenbook-ux305ua-fc003t-notebook-core-i5-4gb-256gb-windows-10.jpg&f=1&nofb=1&ipt=70d6c1fe49c8e80121af146b6485077231ea8955d0b0a14aa1898a767cca3672&ipo=images)](https://www.ultrabookreview.com/10058-asus-zenbook-ux305ua-review/)
 
 ## [Bios](https://www.asus.com/us/Laptops/ASUS-ZenBook-UX305UA/HelpDesk_BIOS/) version 201 - 2016 / 1200€
 
