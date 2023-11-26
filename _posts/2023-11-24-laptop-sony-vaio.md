@@ -1,7 +1,7 @@
 ---
 published: true
 title: Sony Vaio PCG-SRX51P/A (2002)
-tags: laptop
+tags: laptop keyboard
 ---
 > Cute mini-laptop from the past - [spec](https://www.manualslib.com/manual/248672/Sony-Pcg-Srx51p-A.html)
 
