@@ -35,3 +35,7 @@ Also known as [PCG-461M](https://www.reddit.com/r/vaio/comments/zizudf/please_he
 - [Laptop's internal keyboard as an external one?](https://superuser.com/questions/184870/laptops-internal-keyboard-as-an-external-one) - In laptops, the keyboard controller circuitry is located on-motherboard, so the keyboard connects directly with a matrix cable. 
 	- [hackaday](https://hackaday.com/2018/12/04/teensy-liberates-the-thinkpad-keyboard/) - use a teensy microcontroler to replicate that funcstionnality
     - [How to Make a USB Laptop Keyboard Controller](https://www.instructables.com/How-to-Make-a-USB-Laptop-Keyboard-Controller/)
+
+
+### see also
+- [Laptop Screen]({% post_url 2020-11-07-old-lcd %})
