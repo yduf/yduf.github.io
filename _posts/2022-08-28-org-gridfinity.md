@@ -5,6 +5,13 @@ tags: org lab ikea
 ---
 > [Your Ultimate Modular Workshop](https://www.youtube.com/watch?v=ra_9zU-mnl8) / [r/gridfinity/](https://www.reddit.com/r/gridfinity/) / [wiki](https://gridfinity.xyz/)
 
+Key Concept of GridFinity & [French clay](https://www.youtube.com/watch?v=yLMIUffz9gE)  
+Interest of Gridfinity & Frenchclay:
+- open system - you can directly pick the tool you are looking for
+- you can pick them as a group and bring them somewhere else.
+	- in which case you need to be able to lay them down on the floor
+
+
 - [gridfinity-rebuilt-openscad](https://github.com/kennetek/gridfinity-rebuilt-openscad) - openscad customized way of defining box
 - [gridfinity-catalog](https://github.com/jeffbarr/gridfinity-catalog)
 - [Basic Gridfinity Baseplates ](https://www.printables.com/model/170956-basic-gridfinity-baseplates-cadquery-customizable)
