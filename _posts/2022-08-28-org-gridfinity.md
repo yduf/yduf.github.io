@@ -10,6 +10,7 @@ Interest of Gridfinity & Frenchclay:
 - open system - you can directly pick the tool you are looking for
 - you can pick them as a group and bring them somewhere else.
 	- in which case you need to be able to lay them down on the floor
+    - so there is no point to have them for individual tool
 
 
 - [gridfinity-rebuilt-openscad](https://github.com/kennetek/gridfinity-rebuilt-openscad) - openscad customized way of defining box
