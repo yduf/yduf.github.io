@@ -8,6 +8,7 @@ tags: linux-system pc-hardware
 ![caption](https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP667/sp667_imac_27inch_late2012_display.jpg)
 
 ### [How to Use iMac as Second Monitor for Windows PC](https://www.anyrec.io/use-imac-as-monitor-for-pc/)
+- Thunderbolt vs USB-C (they are somewhat similar)
 
 ## [Mac startup key combinations](https://support.apple.com/en-us/HT201255)
 
