@@ -21,7 +21,8 @@ Also known as [PCG-461M](https://www.reddit.com/r/vaio/comments/zizudf/please_he
 
 [ ![caption](https://www.fdi.ucm.es/migs/catalogo/vaio_pcg_srx51p_a/vaio_pcg_srx51p_a.jpg)](https://www.fdi.ucm.es/migs/catalogo/vaio_pcg_srx51p_a/)
 
-### Linux ?
+### [Linux ?](https://www.makeuseof.com/tag/linux-distro-space/)
+- [Damnsmall]({% post_url 2023-11-27-linux-damnsmall %})
 - [Installation report for a Sony Vaio SRX51P](https://wiki.ubuntu.com/LaptopTestingTeam/PCG-SRX51P) - with Ubuntu Feisty 7.04 - everything works
 - [Linux on Sony VAIO PCG-SRX51P](http://linux.bplaced.net/srx51p/) - Arch Linux  - 2010 ?
 - [Linux on the Sony VAIO PCG-SRX51P/A ](http://homepage.eircom.net/~atownley/srx51p.html)
