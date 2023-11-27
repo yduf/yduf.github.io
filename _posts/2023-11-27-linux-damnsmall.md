@@ -10,3 +10,6 @@ tags: linux-system
 ### [Tiny Core Linux](http://tinycorelinux.net/welcome.html)
 - Tiny Core is an extremely small distribution designed to be minimal and modular. You add only the components you need.
 - It's suitable for very resource-constrained environments.
+
+### see also
+- [Fast Operating Systems for Old PCs](https://www.techworm.net/2023/08/light-fast-operating-system-old-pc-laptop-tablet.html)
