@@ -21,7 +21,11 @@ Have same treemap vizualisation ported to linux
 - treemap code is in `windirstat/Controls/treemap.cpp` CTreemapPreview::OnPaint()
 	- CTreemap::DrawTreemapDoubleBuffered()
     	- CTreemap::DrawTreemap()
-			- CTreemap::RecurseDrawGraph()
+		- CTreemap::RecurseDrawGraph()
+        - RenderLeaf()
+            - RenderRectangle()
+            - DrawCushion()
+        - CTreemap::DrawChildren()    
 
 
 ### see also
