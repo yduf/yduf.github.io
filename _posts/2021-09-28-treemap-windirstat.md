@@ -18,7 +18,10 @@ It uses [treemap](https://www.data-to-viz.com/graph/treemap.html) to represents 
 Have same treemap vizualisation ported to linux
 
 ### CodeMap
-- treemap code is in `windirstat/Controls/treemap.cpp`
+- treemap code is in `windirstat/Controls/treemap.cpp` CTreemapPreview::OnPaint()
+	- CTreemap::DrawTreemapDoubleBuffered()
+    	- CTreemap::DrawTreemap()
+			- CTreemap::RecurseDrawGraph()
 
 
 ### see also
