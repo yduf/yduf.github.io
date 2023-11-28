@@ -5,6 +5,9 @@ tags: lab hardware-tools shop
 ---
 > [amazon](https://www.amazon.fr/) / [castorama](https://www.castorama.fr/) / [entrepot-du-bricolage](https://www.entrepot-du-bricolage.fr/) / [mano-mano](https://www.manomano.fr/) / [bricozor](https://www.bricozor.com/)
 
+see also
+- [	The Periodic Table of Tools](https://periodictableoftools.com/index.html) / [HN](https://news.ycombinator.com/item?id=38421044)
+
 ### Scie à Onglets Radiale - [GCM 10 GDJ](https://www.amazon.fr/gp/product/B08GKYN2LM/ref=ox_sc_saved_title_2?smid=A1X6FK5RDHNB96&psc=1) - (1 800 W, Ø de lame 254 mm) - 635€ promo
 
 [**If The Blade Sees Its Shadow, It’s Another 64th Of Accuracy**](https://hackaday.com/2022/09/11/if-the-blade-sees-its-shadow-its-another-64th-of-accuracy/)

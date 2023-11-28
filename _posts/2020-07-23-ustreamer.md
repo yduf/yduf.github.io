@@ -31,5 +31,6 @@ WantedBy=multi-user.target
 {% endhighlight %}
 
 ### see also:
+- [go2rtc](https://github.com/AlexxIT/go2rtc#go2rtc) - Ultimate camera streaming application with support RTSP, WebRTC, HomeKit, FFmpeg, RTMP, etc.
 - [Raspberry Pi Hardware Accelerated RTSP Camera](https://codecalamity.com/raspberry-pi-hardware-accelerated-h264-webcam-security-camera/) - use hardware accelerated ffmpeg library h264_omx to encode the webcam stream.
-- use octoprint [Multi-cam Plugin](https://plugins.octoprint.org/plugins/multicam/) to connect µStreamer 
+- use octoprint [Multi-cam Plugin](https://plugins.octoprint.org/plugins/multicam/) to connect µStreamer
