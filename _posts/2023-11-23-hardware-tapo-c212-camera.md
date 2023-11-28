@@ -7,12 +7,17 @@ tags: hardware camera network video reverse
 
 ### Cons
 - Need to install Android/iOS App + create an account
+	- setup is a bit strange (and derouting at first) when trying to setup the Wifi connection
+    - the app establish a direct wifi link with the camera and so android complain severa time about losing network: it's just that the connection first switch from wifi to direct cam then to wifi: don't restablish the connection from the android popup or it will mess the setup.
+    
 - Setup can only be done through the App
 	- one account at the tapo level for global setting
     - [a second configuration](https://www.tapo.com/en/faq/34/) from the app to create a user/password and enable the RTSP feed for the device.
     	- high quality `rtsp://user:password/IP Address/stream1`
     	- low  quality `rtsp://user:password/IP Address/stream2`
 	- RSTP is not enabled when a SDCard is present
+- Wifi is restricted to 2.4Ghz
+
 ### Pro
 - once setup / rstp is functional and can be accessed by ffplay (for eg).
 - seems to be supported by [iSpy](https://github.com/ispysoftware/iSpy)
