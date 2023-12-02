@@ -9,7 +9,7 @@ tags: lan display kvm vnc
 
 - [Old Laptops as Secondary Monitors](https://rgoswami.me/posts/laptop-as-second-screens/) / [HN](https://news.ycombinator.com/item?id=24875533)
 
-## [Distributed Multihead X Project (DMX)](http://dmx.sourceforge.net/)
+## [Distributed Multihead X Project (DMX)](http://dmx.sourceforge.net/) - Not Working
 
 - [Multihead display using Xdmx](https://codeyarns.com/2015/07/02/multihead-display-using-xdmx/)
 - [9 Screen Wall 1](https://nurdspace.nl/9_Screen_Wall_1)
