@@ -18,4 +18,7 @@ $ ./boxxy -l debug ~/app/digiKam-8.1.0-x86-64.appimage --appimage-extract-and-ru
 
 
 see also
+- [The mount namespace](https://www.redhat.com/sysadmin/mount-namespaces)
+	- [Mount namespaces and shared subtrees](https://lwn.net/Articles/689856/)
+    - [Linux - understanding the mount namespace & clone CLONE_NEWNS flag](https://stackoverflow.com/questions/22889241/linux-understanding-the-mount-namespace-clone-clone-newns-flag)
 - [can non-root user run process in chroot jail?](https://serverfault.com/questions/135599/ubuntu-can-non-root-user-run-process-in-chroot-jail/811509#811509)
