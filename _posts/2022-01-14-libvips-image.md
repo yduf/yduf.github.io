@@ -16,6 +16,7 @@ It straitghforward through meson. But it requires additional libraries to suppor
 	- [libjpeg-turbo](https://github.com/libjpeg-turbo/libjpeg-turbo#background) -  a JPEG image codec that uses SIMD instructions to accelerate baseline JPEG compression and decompression
 	- libjpeg - fallback
 - libjxl - for jpegxl 
+- libwebp
 
 ## [nip2](https://github.com/libvips/nip2)
 A user interface for libvips.
