@@ -18,7 +18,8 @@ It straitghforward through meson. But it requires additional libraries to suppor
 - libjxl - for jpegxl 
 - libwebp
 
-- [highway]({% post_url 2022-08-24-cpp-highway-lib %})
+- [highway]({% post_url 2022-08-24-cpp-highway-lib %}) - SIMD support
+- [orc](https://github.com/GStreamer/orc#readme) - Optimized Inner Loops Runtime Compiler
 
 ## [nip2](https://github.com/libvips/nip2)
 A user interface for libvips.
