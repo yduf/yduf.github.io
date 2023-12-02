@@ -10,7 +10,7 @@ tags: image jpeg jxl lib ruby c++
 
 ### Compiling
 It straitghforward through meson. But it requires additional libraries to support features:
-- [libspng](https://github.com/randy408/libspng) (recommended) - faster png operation
+- [ ][libspng](https://github.com/randy408/libspng) (recommended) - faster png operation
 	- otherwise use libpng
 - [x] [mozjpeg](https://github.com/mozilla/mozjpeg#mozilla-jpeg-encoder-project-) (recommended) - compatible with the libjpeg API and ABI. It is intended to be a drop-in replacement for libjpeg. MozJPEG is a patch for libjpeg-turbo.
 	- [libjpeg-turbo](https://github.com/libjpeg-turbo/libjpeg-turbo#background) -  a JPEG image codec that uses SIMD instructions to accelerate baseline JPEG compression and decompression
