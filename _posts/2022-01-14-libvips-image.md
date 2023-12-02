@@ -12,14 +12,14 @@ tags: image jpeg jxl lib ruby c++
 It straitghforward through meson. But it requires additional libraries to support features:
 - [libspng](https://github.com/randy408/libspng) (recommended) - faster png operation
 	- otherwise use libpng
-- [mozjpeg](https://github.com/mozilla/mozjpeg#mozilla-jpeg-encoder-project-) (recommended) - compatible with the libjpeg API and ABI. It is intended to be a drop-in replacement for libjpeg. MozJPEG is a patch for libjpeg-turbo.
+- [x] [mozjpeg](https://github.com/mozilla/mozjpeg#mozilla-jpeg-encoder-project-) (recommended) - compatible with the libjpeg API and ABI. It is intended to be a drop-in replacement for libjpeg. MozJPEG is a patch for libjpeg-turbo.
 	- [libjpeg-turbo](https://github.com/libjpeg-turbo/libjpeg-turbo#background) -  a JPEG image codec that uses SIMD instructions to accelerate baseline JPEG compression and decompression
 	- libjpeg - fallback
-- libjxl - for jpegxl 
-- libwebp
+- [x] libjxl - for jpegxl 
+- [x] libwebp
 
-- [highway]({% post_url 2022-08-24-cpp-highway-lib %}) - SIMD support
-- [orc](https://github.com/GStreamer/orc#readme) - Optimized Inner Loops Runtime Compiler
+- [x] [highway]({% post_url 2022-08-24-cpp-highway-lib %}) - SIMD support
+- [ ] [orc](https://github.com/GStreamer/orc#readme) - Optimized Inner Loops Runtime Compiler
 
 ## [nip2](https://github.com/libvips/nip2)
 A user interface for libvips.
