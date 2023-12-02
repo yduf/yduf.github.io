@@ -113,7 +113,7 @@ endian = 'little'
 - [Getting started with Meson build system and C++](https://medium.com/@germandiagogomez/getting-started-with-meson-build-system-and-c-83270f444bee) / [2](https://medium.com/@germandiagogomez/getting-started-with-meson-in-c-part-2-58150354ff17) / [3](https://medium.com/@germandiagogomez/getting-started-with-meson-in-c-part-3-70b9bc419957) / [4](https://medium.com/@germandiagogomez/getting-started-with-meson-part-4-8bceec6149e1)
 - [Do not use Meson](https://www.rojtberg.net/1481/do-not-use-meson/)
 
-## Tipical build
+## Typical build
 {% highlight bash %}
 $ meson build .  (1)
 $ cd build
@@ -124,6 +124,13 @@ $ ninja test     (3)
 1. First time you configure the project
 2. Each time you build it
 3. Each time you run tests
+
+## Install !!
+
+- [ModuleNotFoundError: No module named 'mesonbuild](https://github.com/mesonbuild/meson/issues/7258)
+
+To install with `sudo ninja install` you need to have meson & ninja available for _root_ user.
+And you need _root_ meson in the same version as the one having build the project.
 
 ## Features
 - multiplatform support for Linux, macOS, Windows, GCC, Clang, Visual Studio and others
