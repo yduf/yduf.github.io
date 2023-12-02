@@ -6,7 +6,11 @@ tags: image jpeg jxl lib ruby c++
 > a demand-driven, [horizontally threaded](https://github.com/libvips/libvips/wiki/Why-is-libvips-quick) image processing library. Compared to similar libraries, libvips runs quickly and uses little memory. - [**libVIPS**](https://www.libvips.org/) / [blog](http://libvips.blogspot.com/) / [wikipedia](https://en.wikipedia.org/wiki/VIPS_(software))
 
 - [Automatic computation reordering](http://libvips.blogspot.com/2017/01/automatic-computation-reordering.html)
-- support jpeg-xl since  [libvips 8.11](https://github.com/libvips/libvips/blob/master/ChangeLogS)
+- support jpeg-xl since  [libvips 8.11](https://github.com/libvips/libvips/blob/master/ChangeLogS) / but not part as ubuntu release
+
+### Compiling
+It straitghforward through meson. But it requires additional libraries to support features:
+- [libspng](https://github.com/randy408/libspng) (recommended) - faster png operation
 
 ## [nip2](https://github.com/libvips/nip2)
 A user interface for libvips.
