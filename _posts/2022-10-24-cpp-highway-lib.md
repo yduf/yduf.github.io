@@ -3,7 +3,7 @@ published: true
 title: Highway (vector loop)
 tags: c++ lib avx loop
 ---
-> a C++ library that provides portable SIMD/vector intrinsics. - [github](https://github.com/google/highway) / [HN](https://news.ycombinator.com/item?id=28189799)
+> a C++ library that provides portable SIMD/vector intrinsics. - [github](https://github.com/google/highway#efficient-and-performance-portable-vector-software) / [HN](https://news.ycombinator.com/item?id=28189799)
 
 Online demos using Compiler Explorer:
 - [single target using -m flags](https://gcc.godbolt.org/z/rGnjMevKG)
