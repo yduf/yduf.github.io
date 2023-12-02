@@ -11,5 +11,10 @@ tags: software architecture
     - Understanding the (functional) domain 
     - Understanding the tradeoff (on a global scale)
     - Consideration about impact of choosing technical stack
+    - Master of communication (to different audience)
+    - Be aware of the infrastructure
+    - Strategic coder (protect their time) / don't be the lead developper or you won't have time anymore
+    - Consider the scale of the decision (company/domain)
+    - Consicious of the cost (dev/operating/license)
 
 > These are the people I call Architecture Astronauts. It's very hard to get them to write code or design programs, because they won't stop thinking about Architecture. They're astronauts because they are above the oxygen level, I don't know how they're breathing. They tend to work for really big companies that can afford to have lots of unproductive people with really advanced degrees that don't contribute to the bottom line.  - [Joel Spolsky](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/)
