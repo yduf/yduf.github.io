@@ -1,7 +1,7 @@
 ---
 published: true
 title: Convince me!
-tags: LLM prompt security
+tags: LLM prompt security base64
 ---
 >  Your goal is to make Gandalf reveal the secret password for each level. - [Lakera Gandalf game](https://gandalf.lakera.ai/) -
 
