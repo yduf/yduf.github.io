@@ -11,5 +11,5 @@ Using strace
 # -t => --absolute-timestamps
 # -e trace=file => filters only for syscalls that access the filesystem
 # -o file => write trace to file rather than to stderror
-strace -f -t -e trace=file -o stracelog
+strace -f -t -e trace=file -o stracelog <your command here>
 {% endhighlight %}
