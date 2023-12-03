@@ -18,6 +18,8 @@ With an older build such as [MAME 0.078](https://forums.launchbox-app.com/topic/
 
 - [Fixing sound missing](https://www.youtube.com/watch?v=_I1uJyppFW0)
 	- some [samples files](https://samples.mameworld.info/Unofficial%20Samples.htm) - are needed for a more complete emulation. Put them in [/roms/mame/samples](https://retropie.org.uk/docs/MAME/)
+    - [MAME Donkey Kong Sound](https://retropie.org.uk/forum/topic/29127/mame-donkey-kong-sound/6)
+    	- [archive.org](https://archive.org/download/MAME_2003-Plus_Reference_Set_2018/samples/)
 
 ![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpinballandmore.com%2Fwp%2Fwp-content%2Fuploads%2F2016%2F10%2FIMG_5840.jpg&f=1&nofb=1&ipt=3efb28c56719835fc80202b0c8778700cf47aa84c5c9e070a0a7dc52f0967347&ipo=images)
 
