@@ -16,11 +16,9 @@ see also
 	- Good art is skill + taste + creativy 
 		- With chatGPT skil is out of the table, because it's brought by chatGPT at Human scale
 		- taste: chatGPT has some from existing code
-		- creativy: chatGPT has some by pattern combination, but not there yet.
+		- creativity: chatGPT has some by pattern combination, but not there yet. - see [for future plan](https://youtu.be/zjkBMFhNj_g?feature=shared&t=2105)
 	- success stories of using chatGPT : use your taste&creativity + feedback from chatGPT to complete your lack of knowledge of particular techhnology.
 		- [UnitTest](https://youtu.be/trGJsOcA4hY?feature=shared&t=2916) - test framework shown in the presentation - chatGPT has no planning, no leaping to unknown, not got to what was not done.
 		- chatGDB - when a program failed it tell you why.
-
-
 
 [![caption](https://www.monkeyuser.com/assets/images/2020/191-reverse-turing-test.png)](https://www.monkeyuser.com/2020/reverse-turing-test/)
