@@ -1,9 +1,13 @@
 ---
 published: true
 title: Convince me!
-tags: llm security
+tags: LLM prompt security
 ---
 >  Your goal is to make Gandalf reveal the secret password for each level. - [Lakera Gandalf game](https://gandalf.lakera.ai/) -
+
+### see also
+- [Prompt injection example](https://youtu.be/zjkBMFhNj_g?t=2867)
+	- [	GPT-4 Can Almost Perfectly Handle Unnatural Scrambled Text](https://news.ycombinator.com/item?id=38506140)
 
 {::nomarkdown}
     <style>
