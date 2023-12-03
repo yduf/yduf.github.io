@@ -1,13 +1,19 @@
 ---
 published: true
 title: Overlay Filesystem
-tags: filesystem content
+tags: filesystem content docker cgroups
 ---
 > Content-Addressable Overlay Filesystem for Linux - [ComposeFS](https://github.com/containers/composefs) / [HN](https://news.ycombinator.com/item?id=34524651)
 
 - [Using Composefs in OSTree](https://blogs.gnome.org/alexl/2022/06/02/using-composefs-in-ostree/) - The idea is that instead of checking out a hardlinked directory and passing that on the kernel commandline we build a composefs image, enable fs-verity on it and put its filename and digest on the kernel command line instead.
 
 [![caption](https://linuxconfig.org/wp-content/uploads/2022/09/01-introduction-to-the-overlayfs.png)](https://linuxconfig.org/introduction-to-the-overlayfs)
+
+### [Mount overlayfs within unprivileged user namespace ](https://chat.openai.com/share/6b698675-65ec-4fb6-b70c-a22ce067d5ec)
+
+{% highlight cpp %}
+code
+{% endhighlight %}
 
 ### see also
 - [Introduction to the OverlayFS](https://linuxconfig.org/introduction-to-the-overlayfs)
