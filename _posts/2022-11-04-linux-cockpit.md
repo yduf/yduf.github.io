@@ -6,6 +6,7 @@ tags: linux-system docker
 > a web-based graphical interface for servers - [local](http://localhost:9090) / [Home](https://cockpit-project.org/)
 
 - [tronaut](https://tronaut:9090/)
+- [yves-lab](https://yves-lab:9090/)
 - [sophie-iMac](https://sophie-imac:9090/)
 
 ### Operation
@@ -20,4 +21,3 @@ Cockpit is not intended to be run as a container, but instead directly on the ho
 
 see also
 - [How to Install Cockpit Web Console on Ubuntu 20.04 Server](https://www.linuxtechi.com/how-to-install-cockpit-on-ubuntu-20-04/)
-
