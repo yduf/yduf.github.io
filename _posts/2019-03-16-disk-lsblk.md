@@ -1,12 +1,13 @@
 ---
 published: true
-title: 'lsblk, blkid '
+title: Disk diagnostic
 tags: cli disk linux fstab
 ---
-## [How do I find the UUID of a filesystem](https://serverfault.com/questions/3132/how-do-i-find-the-uuid-of-a-filesystem)
+> [How do I find the UUID of a filesystem](https://serverfault.com/questions/3132/how-do-i-find-the-uuid-of-a-filesystem)
 
 ### lsblk
-{% highlight cpp %}
+{% highlight bash %}
+$ lsblk
 NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
 sda      8:0    0   477G  0 disk 
 ├─sda1   8:1    0   260M  0 part /boot/efi
@@ -19,6 +20,12 @@ sda      8:0    0   477G  0 disk
 {% endhighlight %}
 
 ### blkid /dev/sda7
-{% highlight cpp %}
+{% highlight bash %}
+$ blkid /dev/sda7
 /dev/sda7: UUID="dffbe19f-eb0f-4027-8912-db9299ac26eb" TYPE="ext4" PARTLABEL="archive" PARTUUID="c4359d67-57b3-4595-8bad-175876fd71bb" 
+{% endhighlight %}
+
+### Indentify HDD by SATA port number
+{% highlight bash %}
+$ lscscsi
 {% endhighlight %}
