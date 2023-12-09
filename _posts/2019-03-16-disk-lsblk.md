@@ -8,6 +8,7 @@ tags: cli disk linux fstab
 ### lsblk
 {% highlight bash %}
 $ lsblk
+
 NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
 sda      8:0    0   477G  0 disk 
 ├─sda1   8:1    0   260M  0 part /boot/efi
