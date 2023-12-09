@@ -30,3 +30,11 @@ $ blkid /dev/sda7
 {% highlight bash %}
 $ lscscsi
 {% endhighlight %}
+
+### [Remove a SATA disk from a running system](https://unix.stackexchange.com/questions/43413/how-can-i-safely-remove-a-sata-disk-from-a-running-system)
+
+- [ disconnect hot-swap SATA hard drive](https://askubuntu.com/questions/989410/whats-the-proper-way-to-disconnect-hot-swap-sata-hard-drive/989466#989466)
+
+{% highlight bash %}
+$ device=sde; sudo sh -c "echo 1 > /sys/block/${device}/device/delete"
+{% endhighlight %}
