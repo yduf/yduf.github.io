@@ -18,3 +18,6 @@ tags: c++ thread codingame
         cout << "Wins:" << setprecision(4) << 100*p << "+-" << 100*sigma << "% Rounds:" << games << " Draws:" << draws << " " << better*100 << "% chance that " << Bot_Names[0] << " is better" << endl;
     }
 {% endhighlight %}
+
+### see also
+- [C++ async vs OpenMP tasks](https://stackoverflow.com/questions/47895048/c-async-vs-openmp-tasks)
