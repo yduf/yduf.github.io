@@ -125,7 +125,7 @@ $ ninja test     (3)
 2. Each time you build it
 3. Each time you run tests
 
-## Install !!
+## [Install !!](https://mesonbuild.com/Quick-guide.html#installation-using-package-manager)
 
 - [ModuleNotFoundError: No module named 'mesonbuild](https://github.com/mesonbuild/meson/issues/7258)
 
