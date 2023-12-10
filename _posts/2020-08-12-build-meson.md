@@ -134,6 +134,13 @@ $ ninja test     (3)
 To install with `sudo ninja install` you need to have meson & ninja available for _root_ user.
 And you need _root_ meson in the same version as the one having build the project.
 
+{% highlight bash %}
+# sudo -i   # for root install
+$ curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+$ python3 get-pip.py
+$ python3 -m pip install meson
+{% endhighlight %}
+
 ## Features
 - multiplatform support for Linux, macOS, Windows, GCC, Clang, Visual Studio and others
 - supported languages include C, C++, D, Fortran, Java, Rust
