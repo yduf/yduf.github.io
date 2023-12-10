@@ -21,3 +21,4 @@ tags: c++ thread codingame
 
 ### see also
 - [C++ async vs OpenMP tasks](https://stackoverflow.com/questions/47895048/c-async-vs-openmp-tasks)
+- [Formation "OpenMP" (cnrs)](https://stackoverflow.com/questions/47895048/c-async-vs-openmp-tasks)
