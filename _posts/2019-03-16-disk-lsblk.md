@@ -1,6 +1,6 @@
 ---
 published: true
-title: Disk diagnostic
+title: Disk Tool & Diagnostic
 tags: cli disk linux fstab
 ---
 > [How do I find the UUID of a filesystem](https://serverfault.com/questions/3132/how-do-i-find-the-uuid-of-a-filesystem)
