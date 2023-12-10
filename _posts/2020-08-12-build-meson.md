@@ -127,6 +127,8 @@ $ ninja test     (3)
 
 ## [Install !!](https://mesonbuild.com/Quick-guide.html#installation-using-package-manager)
 
+> Due to our frequent release cycle and development speed, distro packaged software may quickly become outdated.
+
 - [ModuleNotFoundError: No module named 'mesonbuild](https://github.com/mesonbuild/meson/issues/7258)
 
 To install with `sudo ninja install` you need to have meson & ninja available for _root_ user.
