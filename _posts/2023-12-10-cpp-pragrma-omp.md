@@ -8,6 +8,8 @@ tags: c++ thread codingame
 - [Tutorials & Articles](https://www.openmp.org/resources/tutorials-articles/)
 
 {% highlight cpp %}
+#include <omp.h>
+
     #pragma omp parallel num_threads(N_Threads) shared(points,Bot_Names,games)
     while(!stop){
         double winner{Play_Round(Bot_Names)};
