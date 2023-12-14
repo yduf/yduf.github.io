@@ -3,8 +3,11 @@ published: true
 title: Donkey Kong
 tags: games arcade pico8
 ---
-> the product of Nintendo's efforts to develop a hit to rival Pac-Man (1980) and break into the North American market. - [wikipedia](https://en.wikipedia.org/wiki/Donkey_Kong_(arcade_game)) / [Donkey Kong: A Record of Struggle](https://shmuplations.com/donkeykong/)
+> the product of Nintendo's efforts to develop a hit to rival Pac-Man (1980) and break into the North American market. - [wikipedia](https://en.wikipedia.org/wiki/Donkey_Kong_(arcade_game)) 
 
+
+- [Donkey Kong: A Record of Struggle](https://shmuplations.com/donkeykong/)
+- [25m_Jump_Bug](https://tcrf.net/Donkey_Kong_(Arcade)#25m_Jump_Bug)
 
 - [Dinky Kong](https://www.lexaloffle.com/bbs/?tid=51877) - pico-8 remake
 - Standard "in-the-box" title, included with [ColecoVision](https://en.wikipedia.org/wiki/ColecoVision) console 
