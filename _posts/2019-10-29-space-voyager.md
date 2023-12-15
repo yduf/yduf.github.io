@@ -11,4 +11,5 @@ Uptime 15,364 days – The Computers of Voyager - [HN](https://news.ycombinator.
 
 > "Practically all of Voyager's redundancy is gone now, either because something broke along the way or it was turned off to conserve power. Of the 11 original instruments on Voyager 1, only five remain" - [wired](https://www.wired.com/2013/09/vintage-voyager-probes/)
 
-- 15/12/2023 - [Voyager 1 stops communicating with Earth](https://news.ycombinator.com/item?id=38640900)
+- 13/12/2023 - [Voyager 1 stops communicating with Earth](https://news.ycombinator.com/item?id=38640900)
+- 12/09/2013 - Voyager leaves Solar System
