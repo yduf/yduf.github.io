@@ -26,3 +26,4 @@ tags: mechanical computer calculator 3dmodel
 
 ### see also
 - [	Calculation before we went digital ](https://news.ycombinator.com/item?id=38652773)
+- [How the CURTA Works](https://www.youtube.com/watch?v=loI1Kwed8Pk)
