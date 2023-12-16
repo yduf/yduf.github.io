@@ -7,6 +7,7 @@ tags: mechanical calculator 3dmodel
 [![caption](https://www.vcalc.net/images2/Posters/Curta-German-Poster-Master21G-860x560.jpg)](https://www.vcalc.net/cu.htm)
 
 - [onshape 3D](https://cad.onshape.com/documents/56ab5570e4b0d9659037a1cf/w/9f078541afd347bb397e344f/e/2b386be0c67cfb2a94581ba7)
+- [This Amazing 70 Year Old Calculating Machine](https://www.youtube.com/watch?v=Vh0NLgbuioE)
 
 ## [3D printed version](http://hackaday.com/2017/07/17/3d-printed-math-grenade/)
 
