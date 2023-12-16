@@ -10,6 +10,7 @@ layout: pico8
 - [Smooth Map Screens Transition](https://mboffin.itch.io/pico-8-smooth-map-screens)
 	- see end of [Programmer un jeu d'aventure EP3 : Dialogues et animations](https://www.youtube.com/watch?v=z2A-Cr4ESZ4)
 - [ Spawn Enemies](https://www.youtube.com/watch?v=8jb8SHNS66c)
+- [Study notes on Pico-8 movement](https://ljvmiranda921.github.io/notebook/2021/01/31/pico8-offset/)
 
 ### Map Editor
 
