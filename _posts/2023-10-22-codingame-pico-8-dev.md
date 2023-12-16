@@ -49,6 +49,7 @@ end
 		- moitié basse de la map / partagé avec les planche de sprites 3 & 4
         
 ### Pico-8 Feature review
+- [Official Doc](https://github.com/THE-ORONCO/pico-8/blob/master/pico-8_manual.md)
 
 [**PICO-8 0.2.5**](https://www.youtube.com/watch?v=bpoqBOOZOMw&list=PLea8cjCua_P3axOkgl2xJKXFYupupItuM&index=8)
 - Sprite
