@@ -1,6 +1,6 @@
 ---
 published: true
-tags: mechanical calculator 3dmodel
+tags: mechanical computer calculator 3dmodel
 ---
 > Curt Herzstark had been working on the calculator in the 1930s until the Nazis forced him to focus on building other tools for the German army. He was taken by the Nazis in 1943 and ended up in Buchenwald concentration camp. There, he told the officers about his plans for the CURTA. They were impressed and interested enough to let him continue work on it so they could present it as a gift to the Führer. [The CURTA mechanical calculator](http://hackaday.com/2014/09/16/retrotechtacular-the-curta-mechanical-calculator/) literally saved its inventor’s life. / [The CURTA Calculator Page](https://www.vcalc.net/cu.htm)
 
@@ -23,3 +23,6 @@ tags: mechanical calculator 3dmodel
 ## Assembly
 
 [![caption](https://img.youtube.com/vi/zh2Z11miQ0w/0.jpg)](https://www.youtube.com/watch?v=zh2Z11miQ0w)
+
+### see also
+- [	Calculation before we went digital ](https://news.ycombinator.com/item?id=38652773)
