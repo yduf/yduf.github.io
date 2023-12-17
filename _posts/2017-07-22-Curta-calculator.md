@@ -9,8 +9,7 @@ tags: mechanical computer calculator 3dmodel
 - [onshape 3D](https://cad.onshape.com/documents/56ab5570e4b0d9659037a1cf/w/9f078541afd347bb397e344f/e/2b386be0c67cfb2a94581ba7)
 
 
-## [3D printed version](http://hackaday.com/2017/07/17/3d-printed-math-grenade/)
-
+## [3D printed version](http://hackaday.com/2017/07/17/3d-printed-math-grenade/) / [Marcus Wu](https://wudev.digitaltorque.com/)
 - [Photos of making of](http://imgur.com/a/ZAx7R#QpoZQao)
 - Curta Calculator Type I scaled at 3:1 [thingiverse](https://www.thingiverse.com/thing:1943171)
 
