@@ -14,19 +14,15 @@ tags: mechanical computer calculator 3dmodel
 - [onshape 3D](https://cad.onshape.com/documents/56ab5570e4b0d9659037a1cf/w/9f078541afd347bb397e344f/e/2b386be0c67cfb2a94581ba7)
 - [Printables](https://www.printables.com/model/158740-curta-calculator-type-i-scaled-at-31/remixes) / [thingiverse](https://www.thingiverse.com/thing:1943171)
 
-
-
-- [Photos of making of](http://imgur.com/a/ZAx7R#QpoZQao)
-
  Some facts: Printed at 3:1 scale There are around 240 printed parts -- around 100 unique parts. There are about 100 non-printed parts (ball bearings, springs, screws, nuts, etc) The original Curta had over 600 parts. I combined many of them for simplicity when 3D printing. It weighed 1357g (just about 3 lbs) before painting. I used around 2 spools on the successful prints, but it was 3 spools counting failures. I first started researching for this project in April 2015. I had my first functional Curta in the Fall of 2016. This is the second Curta I've built and the first one I've painted. CAD work was done from the original engineering drawings in OnShape.
 
 ## Functionning
 
 [![caption](https://img.youtube.com/vi/ShFkJgck6Pw/0.jpg)](https://www.youtube.com/watch?v=ShFkJgck6Pw)
 
-## Assembly
+### [Assembly](https://www.youtube.com/watch?v=zh2Z11miQ0w)
 
-[![caption](https://img.youtube.com/vi/zh2Z11miQ0w/0.jpg)](https://www.youtube.com/watch?v=zh2Z11miQ0w)
+[![caption](https://hips.hearstapps.com/pop.h-cdn.co/assets/17/28/1500144802-mar1.jpg?resize=980:*)](https://www.popularmechanics.com/technology/gadgets/a27318/3d-printed-curta-calculator/)
 
 ### see also
 - [	Calculation before we went digital ](https://news.ycombinator.com/item?id=38652773)
