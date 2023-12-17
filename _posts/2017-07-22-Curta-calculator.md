@@ -26,6 +26,6 @@ tags: mechanical computer calculator 3dmodel
 
 ### see also
 - [	Calculation before we went digital ](https://news.ycombinator.com/item?id=38652773)
-- [How the CURTA Works](https://www.youtube.com/watch?v=loI1Kwed8Pk) - describe mechanical principle behind operation
+- [How the CURTA Works](https://www.youtube.com/watch?v=loI1Kwed8Pk) - describe mechanical principle behind operation ([Leibniz Stepped reckoner](https://en.wikipedia.org/wiki/Stepped_reckoner))
 - [CURTA Calculator Assembly](https://www.youtube.com/watch?v=AnTb26WHx2Q&t=378s)
 	- [This Amazing 70 Year Old Calculating Machine](https://www.youtube.com/watch?v=Vh0NLgbuioE)
