@@ -38,7 +38,7 @@ see also [dprint troubleshooting]({% post_url 2018-09-25-3dprint %})
 - [Elephant Foot](https://www.youtube.com/watch?v=zlgR3rHg4p8), possible solution
 	- use a very small chanfer to compensate in CAD
     - use slicer compensation for first layer
-    	- Cura - Initial Layer Horizontal Expansion
+		- Cura - Initial Layer Horizontal Expansion
     - use a RAFT
 
 ### Seam removal
@@ -54,7 +54,7 @@ see also [dprint troubleshooting]({% post_url 2018-09-25-3dprint %})
     - **Increasing Dimensional Error** -  then it is likely the problem may be due to thermal contraction.
 - [horizontal expansion](https://www.youtube.com/watch?v=-jsBI3OeUJQ) 
 	- [calibration tool](https://www.thingiverse.com/thing:4766295)
-    	- [Fast test](https://www.thingiverse.com/thing:3535060)
+		- [Fast test](https://www.thingiverse.com/thing:3535060)
     - [What Is Horizontal Expansion in Cura? (How to Use It?)](https://www.3dprintbeast.com/cura-horizontal-expansion/)
      - [<strike>Are you printing undersized holes ?</strike>](http://www.deltarap.org/printing-undersized-holes)
      
