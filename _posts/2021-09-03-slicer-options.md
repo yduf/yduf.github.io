@@ -59,6 +59,8 @@ see also [dprint troubleshooting]({% post_url 2018-09-25-3dprint %})
      - [<strike>Are you printing undersized holes ?</strike>](http://www.deltarap.org/printing-undersized-holes)
      - [Horizontal Hole Tolerance Calibration Test](https://www.thingiverse.com/thing:4772939) - a quick calibration model to calibrate the Horizontal Hole parameter in Cura.
      
+[![caption](https://cdn.thingiverse.com/assets/3a/f4/55/92/fe/medium_preview_CALIBRER.00_07_33_58.Still001.jpg) ](https://www.thingiverse.com/thing:4772939)
+ 
 - [slicing tolerance](https://www.youtube.com/watch?v=X6nCKQToOUg) / [doc](https://support.ultimaker.com/hc/en-us/articles/360012614559-Experimental-settings)
 	- inclusive - for part that you plan to sand
     - middle - for others for best accuracy
