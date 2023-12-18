@@ -38,6 +38,7 @@ see also [dprint troubleshooting]({% post_url 2018-09-25-3dprint %})
 - [Elephant Foot](https://www.youtube.com/watch?v=zlgR3rHg4p8), possible solution
 	- use a very small chanfer to compensate in CAD
     - use slicer compensation for first layer
+    	- Cura - Initial Layer Horizontal Expansion
     - use a RAFT
 
 ### Seam removal
