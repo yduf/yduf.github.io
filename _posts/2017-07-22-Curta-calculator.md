@@ -8,14 +8,19 @@ tags: mechanical computer calculator 3dmodel
 
 
 
-## [3D printed version](http://hackaday.com/2017/07/17/3d-printed-math-grenade/)
+## [3D printed version](http://hackaday.com/2017/07/17/3d-printed-math-grenade/) by  [Marcus Wu](https://wudev.digitaltorque.com/) 
 
-[Marcus Wu](https://wudev.digitaltorque.com/) Curta Calculator Type I scaled at 3:1:
+### Curta Calculator Type I scaled at 3:1:
 - [onshape 3D](https://cad.onshape.com/documents/56ab5570e4b0d9659037a1cf/w/9f078541afd347bb397e344f/e/2b386be0c67cfb2a94581ba7)
 - [Printables](https://www.printables.com/model/158740-curta-calculator-type-i-scaled-at-31/remixes) / [thingiverse](https://www.thingiverse.com/thing:1943171)
 	- [Instructables](https://www.instructables.com/Build-a-3D-Printed-Curta-Calculator/)
 
- Some facts: Printed at 3:1 scale There are around 240 printed parts -- around 100 unique parts. There are about 100 non-printed parts (ball bearings, springs, screws, nuts, etc) The original Curta had over 600 parts. I combined many of them for simplicity when 3D printing. It weighed 1357g (just about 3 lbs) before painting. I used around 2 spools on the successful prints, but it was 3 spools counting failures. I first started researching for this project in April 2015. I had my first functional Curta in the Fall of 2016. This is the second Curta I've built and the first one I've painted. CAD work was done from the original engineering drawings in OnShape.
+Some facts: 
+- There are around 240 printed parts -- around 100 unique parts. 
+- There are about 100 non-printed parts (ball bearings, springs, screws, nuts, etc) 
+- The original Curta had over 600 parts. 
+    
+I combined many of them for simplicity when 3D printing. It weighed 1357g (just about 3 lbs) before painting. I used around 2 spools on the successful prints, but it was 3 spools counting failures. I first started researching for this project in April 2015. I had my first functional Curta in the Fall of 2016. This is the second Curta I've built and the first one I've painted. CAD work was done from the original engineering drawings in OnShape.
 
 ## Functionning
 
