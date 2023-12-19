@@ -1,7 +1,7 @@
 ---
 published: true
 title: Technical Debt Is Like Tetris
-tags: software dev quote
+tags: software dev quote tetris
 ---
 > You can’t win. You can only control how quickly you lose. - [Eric Higgins](https://medium.com/s/story/technical-debt-is-like-tetris-168f64d8b700)
 
