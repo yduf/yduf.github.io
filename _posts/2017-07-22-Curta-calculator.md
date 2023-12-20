@@ -35,6 +35,7 @@ I combined many of them for simplicity when 3D printing. It weighed 1357g (just 
 ### see also
 - [	Calculation before we went digital ](https://news.ycombinator.com/item?id=38652773)
 	- [Evolution of the Calculator 2,000 BCE - 2020](https://www.youtube.com/watch?v=LLhBjsOCM-I)
+    - [Mechanical Computer (All Parts) - Basic Mechanisms In Fire Control Computers](https://www.youtube.com/watch?v=s1i-dnAH9Y4)
 - [How the CURTA Works](https://www.youtube.com/watch?v=loI1Kwed8Pk) - describe mechanical principle behind operation - ([Leibniz Stepped reckoner](https://en.wikipedia.org/wiki/Stepped_reckoner)) - with one common cylinder
 - [CURTA Calculator Assembly](https://www.youtube.com/watch?v=AnTb26WHx2Q&t=378s)
 	- [This Amazing 70 Year Old Calculating Machine](https://www.youtube.com/watch?v=Vh0NLgbuioE)
