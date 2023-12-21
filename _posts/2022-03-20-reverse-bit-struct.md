@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Parsing '
+title: Parsing Untrusted binary format
 tags: reverse bits unsafe binary parser
 ---
 > Kaitai Struct: A new way to develop parsers for binary structures - [HN](https://news.ycombinator.com/item?id=30715406) / [Wuffs (Wrangling Untrusted File Formats Safely)](https://github.com/google/wuffs)
