@@ -1,7 +1,7 @@
 ---
 published: true
 title: L'effort humain
-tags: quote
+tags: quote life
 ---
 > L’effort humain n’a pas de vraie maison  
 > il sent l’odeur de son travail  
