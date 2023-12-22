@@ -12,3 +12,5 @@ Further, if your mesh values don't seem to be changing in either case, then it i
 However if you go into Edit...preferences.. when you save anything, the default value in PartDesign ... Shape view...Tessellation.."maximum deviation depending on model bounding box"... is forced into all your solids Deviation properties in your project. Even if you have not changed that value but change any other preference then save, all your solids will be given the deviation value in the settings not whatever you might have individually changed them two.
 
  Setting the "Maximum deviation...." to 0.01%, from 5%, was a great boost arc quality. See the attached pic for before/after comparison.
+ 
+[![caption](https://forum.freecad.org/download/file.php?id=94961)](https://forum.freecad.org/viewtopic.php?p=327958#p327958)
