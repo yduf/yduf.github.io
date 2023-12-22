@@ -15,7 +15,6 @@ title: Curta Mechanical Calculator
 - [github](https://github.com/marcuswu/Curta-Type-I-3x)
 - [onshape 3D](https://cad.onshape.com/documents/56ab5570e4b0d9659037a1cf/w/9f078541afd347bb397e344f/e/2b386be0c67cfb2a94581ba7)
 - [Printables](https://www.printables.com/model/158740-curta-calculator-type-i-scaled-at-31/remixes) / [thingiverse](https://www.thingiverse.com/thing:1943171)
-	- [Instructables](https://www.instructables.com/Build-a-3D-Printed-Curta-Calculator/)
 
 Some facts: 
 - There are around 240 printed parts -- around 100 unique parts. 
@@ -29,6 +28,8 @@ I combined many of them for simplicity when 3D printing. It weighed 1357g (just 
 [![caption](https://img.youtube.com/vi/ShFkJgck6Pw/0.jpg)](https://www.youtube.com/watch?v=ShFkJgck6Pw)
 
 ### [Assembly](https://www.youtube.com/watch?v=zh2Z11miQ0w)
+
+- [Instructables](https://www.instructables.com/Build-a-3D-Printed-Curta-Calculator/)
 
 [![caption](https://hips.hearstapps.com/pop.h-cdn.co/assets/17/28/1500144802-mar1.jpg?resize=980:*)](https://www.popularmechanics.com/technology/gadgets/a27318/3d-printed-curta-calculator/)
 
