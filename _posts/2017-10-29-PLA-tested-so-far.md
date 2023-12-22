@@ -109,7 +109,7 @@ like [USSA design](https://www.youtube.com/@ussadesign/videos)
           - 210° / 60° / 65° </li>
         <li><a href="https://www.amazon.fr/gp/product/B017HAIMZU/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1">ICE</a> easy to print - thick 
           - 205° </li>
-        <li><a href="https://www.amazon.fr/Verbatim-Printer-Filament-PLA-blanc/dp/B00WRBI59S/ref=sr_1_1?ie=UTF8&qid=1509281347&sr=8-1&keywords=verbatim+pla">Verbatim</a> - very thin/precise print - 205° </li>
+        <li><a href="https://www.amazon.fr/Verbatim-Printer-Filament-PLA-blanc/dp/B00WRBI59S">Verbatim</a> - very thin/precise print - 205° </li>
       </ul>
     </div>
   </div>
