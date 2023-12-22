@@ -17,3 +17,4 @@ However if you go into Edit...preferences.. when you save anything, the default 
 
 ### see also
 - [How to Increase the Quality View and Resolution of 3D Models](https://www.youtube.com/watch?v=gpZuiLs7Ay0)
+- [Output Quality / Resolution For Better 3D Models | Printing (STL etc)](https://www.youtube.com/watch?v=v6FgTIpsCKo)
