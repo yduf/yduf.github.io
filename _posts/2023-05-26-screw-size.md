@@ -1,6 +1,6 @@
 ---
 published: true
-title: Screw Size
+title: Screw & Thread Size
 tags: screw
 ---
 > Pour répondre à vos attentes convenablement, elle doit mesurer 3 fois l'épaisseur de la pièce à fixer. - [Comment mesurer une vis ?](https://www.lavisserie.fr/content/13-comment-mesurer-une-vis)
@@ -15,3 +15,4 @@ The actual diameter of an
 
 So if you are measuring the screw yourself and your caliper says the screw diameter is 2.4mm you have to order an M2.5 screw to match it.
 
+### [Metric Tap Chart](https://armstrongmetalcrafts.com/Reference/MetricTapChart.aspx)
