@@ -105,7 +105,7 @@ like [USSA design](https://www.youtube.com/@ussadesign/videos)
     </svg>
     <div class="product-list">White
       <ul>
-        <li><a href="https://www.amazon.fr/gp/product/B017HAIMZU/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1">SUNLU PLA+</a> easy to print - very thin 
+        <li><a href="https://www.amazon.fr/SUNLU-Filament-Dimensional-Accuracy-Printing/dp/B07R8X76GW/?th=1">SUNLU PLA+</a> easy to print - very thin 
           - 210° / 60° / 65° </li>
         <li><a href="https://www.amazon.fr/gp/product/B017HAIMZU/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1">ICE</a> easy to print - thick 
           - 205° </li>
