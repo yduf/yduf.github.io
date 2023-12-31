@@ -6,6 +6,7 @@ tags: 3dprint pla
 > PLA tested so far -- 1.75mm
 
 - [Filament Dryer / Dehydrator](https://www.thingiverse.com/thing:1618037)
+	- [Comment sécher votre filament (PLA, ABS, nylon)](https://all3dp.com/fr/2/secher-filament-pla-abs-nylon/)
 - [Faites votre propre Dual PLA](https://www.youtube.com/watch?v=Bjo_4RYRaOo)
 
 <!-- see base fiddler for this page: https://jsfiddle.net/y_duf/oqh3p8tx/ -->
