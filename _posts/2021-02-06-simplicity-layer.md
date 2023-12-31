@@ -1,6 +1,6 @@
 ---
 published: true
 title: Simplicity layer
-tags: quote mental-model
+tags: quote concept
 ---
 > J'ai rajouté une couche de simplicité - Yann R.
