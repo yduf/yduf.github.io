@@ -6,7 +6,7 @@ tags: kvm display keyboard
 > Share one mouse and keyboard between multiple computers  - [Barrier](https://github.com/debauchee/barrier#barrier) (fork of [Synergy](https://symless.com/synergy))
 
 - [Using Barrier to Control Multiple PCs with One Keyboard and Mouse](https://www.rauchland.com/articles/using-barrier-to-control-multiple-pcs-with-one-keyboard-and-mouse/)
-
+- [ Fast Desktop Switching](https://news.ycombinator.com/item?id=38780519)
 
 ## Feature
 - clipboard sharing - enable copy/paste between PC
