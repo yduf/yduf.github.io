@@ -7,7 +7,9 @@ tags: linux-system
 
 ( [damnsmalllinux](http://www.damnsmalllinux.org/notes.html) still exist, but doesn't look to be much alive...)
 
-### [Tiny Core Linux](http://tinycorelinux.net/welcome.html) - 2008
+- [The 9 Smallest Linux Distros That Are Minimal and Super Lightweight](https://www.makeuseof.com/tag/linux-distro-space/)
+
+### [Tiny Core Linux](http://tinycorelinux.net/welcome.html) -  46MB RAM - 2008
 - Tiny Core is an extremely small distribution designed to be minimal and modular. You add only the components you need.
 - It's suitable for very resource-constrained environments.
 
