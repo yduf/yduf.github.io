@@ -12,4 +12,8 @@ struct S {
 int main() { S s; }
 {% endhighlight %}
 
-see [boost](https://www.boost.org/doc/libs/1_54_0/doc/html/container/containers_of_incomplete_types.html)
+`struct S : std::vector<S> {};` would work as well.
+  
+### see also 
+- [boost](https://www.boost.org/doc/libs/1_54_0/doc/html/container/containers_of_incomplete_types.html)
+- [My favourite memory leak](https://www.youtube.com/watch?v=LKKmPAQFNgE)
