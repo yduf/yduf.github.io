@@ -5,6 +5,9 @@ tags: music write guitar tab drums vscode
 ---
 > LilyPond is a music engraving program, devoted to producing the highest-quality sheet music possible - [lilypond.org](http://lilypond.org/) / [wikipedia](https://en.wikipedia.org/wiki/LilyPond)
 
+### see also
+- [Notation Must Die: The Battle For How We Read Music](https://www.youtube.com/watch?v=Eq3bUFgEcb4) - reviews origin of musical notation and alternative proposal. 
+
 ![caption](http://lilypond.org/pictures/bwv861-lilypond.png)
 
 
