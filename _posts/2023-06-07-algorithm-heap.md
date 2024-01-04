@@ -8,7 +8,7 @@ tags: algorithm tree graph c++
 Common uses for heap:
 - To build priority queues.
 - To support heap sorts.
-- To compute the minimum (or maximum) element of a collection quickly.
+- To compute the [nth minimum]({% post_url 2020-12-23-cpp-nth_element %}) (or maximum) element(s) of a collection quickly.
 - To impress your non-programmer friends.
 
 There are two kinds of heaps: a max-heap and a min-heap which are different by the order in which they store the tree nodes.
