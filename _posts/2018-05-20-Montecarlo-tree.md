@@ -22,7 +22,7 @@ As each node is visited, the denominator of the exploration term increases, whic
 
 ## Monte-Carlo Tree Search
 
-Monte-Carlo Tree search is made up of four distinct operations [1](http://matthewdeakos.me/2018/03/10/monte-carlo-tree-search/):
+Monte-Carlo Tree search is made up of four distinct operations [1](https://www.manifoldmadness.com/blog/mcts/monte-carlo-tree-search):
 - Selection
 - Expansion
 - Simulation
