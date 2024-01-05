@@ -11,7 +11,7 @@ tags: algorithm tree graph c++
 - delete min in $O(ln N)$
 - _But_ search is $O(N)$
 
-### [Common uses for heap](https://aquarchitect.github.io/swift-algorithm-club/Heap/):
+### [Common uses for heap](https://aquarchitect.github.io/swift-algorithm-club/Heap/)
 - To build priority queues.
 - To support heap sorts.
 - To compute the [nth minimum]({% post_url 2020-12-23-cpp-nth_element %}) (or maximum) element(s) of a collection quickly.
