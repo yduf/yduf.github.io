@@ -6,9 +6,10 @@ tags: algorithm tree graph c++
 > a binary tree inside an array, so it does not use parent/child pointers. - [heap](https://aquarchitect.github.io/swift-algorithm-club/Heap/) / [std::make_heap](https://en.cppreference.com/w/cpp/algorithm/make_heap)
 
 ### Key Properties
-- insert in $O(ln N)$
 - find min in $O(1)$
+- insert in $O(ln N)$
 - delete min in $O(ln N)$
+- _But_ search is $O(N)$
 
 [Common uses for heap](https://aquarchitect.github.io/swift-algorithm-club/Heap/):
 - To build priority queues.
