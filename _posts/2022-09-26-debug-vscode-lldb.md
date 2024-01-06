@@ -25,7 +25,7 @@ see also
 - [Debugging in VS Code](https://code.visualstudio.com/docs/editor/debugging) - if you are new to VSCode debugging.
 
 ### Troubleshooting
-Extension can conflict with other, and make debugging unavailable
+Extension can conflict with other, and make debugging unavailable: disabling all extension & reloading selectively can solve the issue.
 
 So far compatbile extension are
 - [Code Runner](https://github.com/crystal-lang-tools/vscode-crystal-lang/wiki/Useful-extensions#code-runner) - runs selected code snippets per click or keyboard shortcut.
