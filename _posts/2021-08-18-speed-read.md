@@ -7,6 +7,7 @@ tags: read book speed
 
 see also
 - [Lecture rapide : les médias gobent l'arnaque ](https://www.youtube.com/watch?v=T1YZsP3rnOk)
+	- [Champion du monde de lecture rapide, Kamel Kajout livre ses secrets](https://www.youtube.com/watch?v=VR9mxUEqlLE)
 
 ## Don’t read nonfiction books from cover to cover
 
