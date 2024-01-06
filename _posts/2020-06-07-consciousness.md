@@ -15,5 +15,7 @@ tags: AI mental-model identity
     - [What is consciousness](https://www.youtube.com/watch?v=P-2P3MSZrBM&t=3389s) Physicall systems cannot be conscious, only simulation (the mind) can be conscious.
     	- [Spirit]: operating system of autonomous robots
         
+### see also
+- [Egregore](https://en.wikipedia.org/wiki/Egregore) - an esoteric concept representing a non-physical entity that arises from the collective thoughts of a distinct group of people.
         
  ![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnQKMNI5X148%2Fmaxresdefault.jpg&f=1&nofb=1)
