@@ -24,6 +24,13 @@ see also
     - [Time travel debugging](https://github.com/vadimcn/vscode-lldb/blob/v1.7.4/MANUAL.md#reverse-debugging)
 - [Debugging in VS Code](https://code.visualstudio.com/docs/editor/debugging) - if you are new to VSCode debugging.
 
+### Troubleshooting
+Extension can conflict with other, and make debugging unavailable
+
+So far compatbile extension are
+- [Code Runner](https://github.com/crystal-lang-tools/vscode-crystal-lang/wiki/Useful-extensions#code-runner) - runs selected code snippets per click or keyboard shortcut.
+- [CodeLLDB](https://github.com/vadimcn/codelldb#features)
+
 ## [LLDB launch config](https://github.com/yduf/lldb-vscode-debug/blob/master/.vscode/launch.json)
 
 - [Debug a C++ project in VS Code](https://www.youtube.com/watch?v=G9gnSGKYIg4) - launch syntax is different for each plugin.
