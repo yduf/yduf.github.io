@@ -5,6 +5,11 @@ tags: debug-c++ vscode gdb
 ---
 > integrated in VSCode - [CodeLLDB](https://github.com/vadimcn/codelldb#features)
 
+### [Debug Action](https://code.visualstudio.com/docs/editor/debugging#_debug-actions)
+**F5** - Continue / Pause  
+**F10** - Step Over
+**F11** - Step Into
+
 see also
 - [GDB Vs LLDB debuggers](https://stackoverflow.com/questions/9707883/gdb-vs-lldb-debuggers)
 - [Scripting Bridge API](https://lldb.llvm.org/design/sbapi.html) - The SB APIs constitute the stable C++ API that lldb presents to external clients, and which get processed by SWIG to produce the Python bindings to lldb.
