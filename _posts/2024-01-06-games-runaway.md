@@ -7,7 +7,7 @@ tags: games adventure
 
 ### Runaway: A Road Adventure - 2001
 [![caption](https://lutris.net/games/banner/runaway-a-road-adventure.jpg) ](https://lutris.net/games/runaway-a-road-adventure/) 
-Play underwine directly (badly support 2 monitor config - run well on one only)
+Play underwine directly (badly support 2 monitor config - performance issue on start cinematique - run well though, when there is one only)
 
 
 
