@@ -5,11 +5,14 @@ tags: read book speed
 ---
 >  Instead of chasing [speed reading]({% post_url 2020-12-14-voice-in-our-head %}) and memorization techniques, it is more important to first [select the right books](https://codecapsule.com/2015/12/13/you-dont-need-to-read-faster-just-pick-the-right-books/), and read only those. - [Planned Reading: The Trick for Reading Nonfiction](https://codecapsule.com/2017/05/06/planned-reading-the-trick-for-reading-nonfiction/)
 
+see also
+- [Lecture rapide : les médias gobent l'arnaque ](https://www.youtube.com/watch?v=T1YZsP3rnOk)
+
 ## Don’t read nonfiction books from cover to cover
 
 If you research a bit into the process that book publishers use to get nonfiction books out the door, you’ll learn that most nonfiction books are just 10-page articles that have been stretched into 250-page books using bad prose and anecdotes. Therefore the structure offered by authors in nonfiction books is a trap, and following it will inevitably lead you to getting bored and dropping out.
 
-see also
+### see also
 - [How to Remember What You Read](https://news.ycombinator.com/item?id=28254378)
 	- Mark up the book
     - Make mental links
