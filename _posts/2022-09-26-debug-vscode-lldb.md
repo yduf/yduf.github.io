@@ -27,9 +27,11 @@ see also
 ### Troubleshooting
 Extension can conflict with other, and make debugging unavailable: disabling all extension & reloading selectively can solve the issue.
 
-So far compatbile extension are
+So far compatible extension are
 - [Code Runner](https://github.com/crystal-lang-tools/vscode-crystal-lang/wiki/Useful-extensions#code-runner) - runs selected code snippets per click or keyboard shortcut.
 - [CodeLLDB](https://github.com/vadimcn/codelldb#features)
+
+Issue remains
 
 ## [LLDB launch config](https://github.com/yduf/lldb-vscode-debug/blob/master/.vscode/launch.json)
 
