@@ -3,7 +3,7 @@ published: true
 title: Debug with LLDB
 tags: debug-c++ vscode gdb
 ---
-> integrated in VSCode - [CodeLLDB](https://github.com/vadimcn/vscode-lldb)
+> integrated in VSCode - [CodeLLDB](https://github.com/vadimcn/codelldb#features)
 
 see also
 - [GDB Vs LLDB debuggers](https://stackoverflow.com/questions/9707883/gdb-vs-lldb-debuggers)
