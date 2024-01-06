@@ -20,7 +20,7 @@ Evaluation function using UCT is balanced between:
 
 As each node is visited, the denominator of the exploration term increases, which decreases its contribution.  On  the  other  hand,  if  another  child  of  the  parent node  is  visited,  the  numerator  increases  and  hence  the exploration  values  of  unvisited  siblings  increase.  The exploration  term  ensures  that  each  child  has  a  non-zero  probability  of  selection,  which  is  essential  giventhe random nature of the playouts.
 
-# Algorithm
+# MCTS Algorithm
 
 Monte-Carlo Tree search is made up of four distinct operations [1](https://www.manifoldmadness.com/blog/mcts/monte-carlo-tree-search):
 **Selection** - Start at the root node, and successively select a child until we reach a node that is not fully expanded.  
