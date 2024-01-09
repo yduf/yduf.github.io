@@ -1,7 +1,7 @@
 ---
 published: true
 title: The BOYS
-tags: movie quote
+tags: movie quote despair.com
 ---
 > Si tu mets pas les mains dedans et que tu laisses les connard gerer la merde, alors tu fais partie du problème - [The Boys (s2e3)](https://en.wikipedia.org/wiki/The_Boys_(TV_series))
 
