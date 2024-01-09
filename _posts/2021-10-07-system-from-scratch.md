@@ -11,4 +11,4 @@ tags: system quote
 
 - [	I wrote a display server, a desktop environment, and a debugging/reversing tool ](https://news.ycombinator.com/item?id=11785479)
 
-![caption](https://raw.githubusercontent.com/SerenityOS/serenity/master/Meta/screenshot-b36968c.png)
+[![caption](https://github.com/SerenityOS/serenity/raw/master/Meta/Screenshots/screenshot-c03b788.png)](https://github.com/SerenityOS/serenity#serenityos)
