@@ -8,4 +8,4 @@ tags: software lang
 
 Example
 - Go generic, thought as not necessary, but still added [long afterward to the language](https://news.ycombinator.com/item?id=36045353)
-- Rust Exception - [hidden on panic name](https://news.ycombinator.com/item?id=36044934)
+- Rust Exception - [hidden behind panic](https://news.ycombinator.com/item?id=36044934)
