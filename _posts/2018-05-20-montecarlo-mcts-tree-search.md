@@ -22,11 +22,13 @@ As each node is visited, the denominator of the exploration term increases, whic
 
 # MCTS Algorithm
 
-Monte-Carlo Tree search is made up of four distinct operations [1](https://www.manifoldmadness.com/blog/mcts/monte-carlo-tree-search):
+Monte-Carlo Tree search is made up of four distinct operations [1](https://www.manifoldmadness.com/blog/mcts/monte-carlo-tree-search):  
 **Selection** - Start at the root node, and successively select a child until we reach a node that is not fully expanded.  
 **Expansion** - Unless the node we end up at is a terminating state, expand the children of the selected node by choosing an action and creating new nodes using the action outcomes.  
 **Simulation** - Choose one of the new nodes and perform a random simulation of the MDP to the terminating state.  
 **Backpropagation** - Given the reward $r$ at the terminating state, backpropagate the reward to calculate the value $V(s$ at each state along the path.
+
+[![caption](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*NyQqAZ6QnvkC6HeZd2cZSQ.png)](https://towardsdatascience.com/monte-carlo-tree-search-in-reinforcement-learning-b97d3e743d0f?gi=3e4bbf14fbdb)
 
 ## Pseudo Code
 [python code](https://github.com/int8/monte-carlo-tree-search)
