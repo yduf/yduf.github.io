@@ -11,6 +11,10 @@ tags: 3dprint pla
 
 **Time** - Unit is in Hour
 **Temperature** 
+- **1** - PLA/PLA+
+- **2** - ABS/ABS+ / PETG
+- **3** - PVA / Nylon / PC
+
 
     
 - [Faites votre propre Dual PLA](https://www.youtube.com/watch?v=Bjo_4RYRaOo)
