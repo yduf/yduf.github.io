@@ -11,9 +11,9 @@ tags: 3dprint pla
 
 **Time** - Unit is in Hour
 **Temperature** 
-- **1** - PLA/PLA+
-- **2** - ABS/ABS+ / PETG
-- **3** - PVA / Nylon / PC
+- **1** - PLA/PLA+ - 40°
+- **2** - ABS/ABS+ / PETG - 50°
+- **3** - PVA / Nylon / PC - 55°
 
 
     
