@@ -5,9 +5,10 @@ tags: 3dprinter calibration calipers
 ---
 > [Teaching Tech 3D Printer Calibration](https://teachingtechyt.github.io/calibration.html)
 
-- [Slicer Flow Calibration](https://teachingtechyt.github.io/calibration.html#flow)
 
 ## [Flow]({% post_url 2017-10-27-extrusion-ratio %})
+
+- [Slicer Flow Calibration](https://teachingtechyt.github.io/calibration.html#flow)
 
 - You cannot calibrate the flow on first layer aspect since it is correlated with Z-offset - see Elefant Foot.
 - Flow can be assessed on upper layer aspect.
