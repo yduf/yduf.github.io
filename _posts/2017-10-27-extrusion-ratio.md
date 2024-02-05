@@ -11,7 +11,6 @@ tags: 3dprint calibration cura
 - extruder calibration
 - calibration flow test
 
-
 A very [simple and fast print test](https://www.thingiverse.com/thing:1622868) for configuring a 3d printer extrusion ratio. 
 
 see also [the calculator](https://docs.google.com/spreadsheets/d/11wnlCU2EVHg3Nl7GxisAegoGicogK_QTkMjRavwx0ME/edit#gid=0)
