@@ -41,6 +41,10 @@ see also [dprint troubleshooting]({% post_url 2018-09-25-3dprint %})
 		- Cura - Initial Layer Horizontal Expansion
     - use a RAFT
 
+### Hidding default
+
+- using [fuzzy skin](https://www.youtube.com/watch?v=K0uXhN3CffQ)
+
 ### Seam removal
 - [move seam to corner](https://youtu.be/NU1kYEE3qrQ?t=114)
 	- wall / Z seam alignment
