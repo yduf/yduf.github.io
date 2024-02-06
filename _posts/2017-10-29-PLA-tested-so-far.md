@@ -315,7 +315,8 @@ like [USSA design](https://www.youtube.com/@ussadesign/videos)
 - [ERYONE trans blue](https://www.amazon.fr/gp/product/B07YJDB2C2/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1)
 	- head=250/bed=80..85/fan=40%/ini layer=0.1 speed 30mm/s * 80%
     - [How to create transparent 3D prints!](https://www.youtube.com/watch?v=QkfQri2B0PY)
-    - [Transparent FDM 3D Prints are Clearly Stronger!](https://www.youtube.com/watch?v=9qb25Gi4Jv0)
+    - [Transparent FDM 3D Prints are Clearly Stronger!](https://www.youtube.com/watch?v=9qb25Gi4Jv0) / [cnckitchen](https://www.cnckitchen.com/blog/transparent-fdm-3d-prints-are-clearly-stronger)
+    	- [How To Print Glass ](https://www.printables.com/model/15310-how-to-print-glass)
 
 ## [TPU?](https://www.youtube.com/watch?v=rPgr2VkYESw)
 
