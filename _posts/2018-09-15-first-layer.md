@@ -41,3 +41,6 @@ For a 0.05mm layer height, use 0.05 (yes, this is possible on the Di3!)
 You can use a lower layer height or larger extrusion width if you wish, it will work fine. The slicing software automatically calculates the appropriate volume to extrude based on the settings you choose.
 
 ### [Build plate adhesion](https://ultimaker.com/en/resources/257-build-plate-adhesion-how-to-get-your-print-to-stick-to-the-build-plate)
+
+There is no one fit all solution
+see [Should you own more than one bed surface?](https://www.youtube.com/watch?v=ldkodIpIlNw&list=PLh9akXp2EH2ATO7fJ6EVeahKw5azFSTue&index=81)
