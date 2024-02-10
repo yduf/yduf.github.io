@@ -10,7 +10,7 @@ tags: graph search algorithm fastware
 	- binary search invented in 1946, support odd size in 1957
     - std::lower_bound does not return early - but does only one comparison compared to binary_search
     - 50% improvement on std::equal_range
-    - on creativity, judgement and skill
+    - on creativity, judgement and skill (about chatGPT)
 - [Bug in Binary Search](https://www.youtube.com/watch?v=_eS-nNnkKfI) - when taking the middle (l+r)/2, what if m+r overflow your integer ? Rather use l+(r-l)/2.
 - [	Beautiful branchless binary search](https://probablydance.com/2023/04/27/beautiful-branchless-binary-search/) / [HN](https://news.ycombinator.com/item?id=35737862)
 - [Eytzinger Binary Search](https://algorithmica.org/en/eytzinger) / [2](https://espindo.la/posts/array-layouts.html) - In addition to being branchless, it also has better cache properties than a standard binary search tree.
