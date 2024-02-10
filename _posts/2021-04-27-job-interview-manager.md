@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Manager Interviews
 tags: job management
 ---
