@@ -19,6 +19,10 @@ tags: 3dprinter klipper
 
 - [Belt Tensioning and Replacement Belt Source](https://www.reddit.com/r/ender6/comments/prxn5o/belt_tensioning_and_replacement_belt_source/)
 
+### [Hotend](https://www.reddit.com/r/ender6/comments/q1dv39/does_the_ender_6_use_the_same_hotend_setup_as_any/)
+
+The ender 6 has a 2 pin connector on the "heat" wire, or the heat catridge that is unique to the printer. The rest is the same.
+
 ## Motherboard
 
 - [ mother board wiring](https://user-images.githubusercontent.com/46035129/101119293-caad8480-35c9-11eb-960d-3d9c698b4ba0.png)
