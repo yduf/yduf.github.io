@@ -11,7 +11,7 @@ tags: software job management
 	- [Top 35 Salesforce Interview Questions](https://theinterviewguys.com/salesforce-interview-questions/)
 		- [Full-Service Ownership: The Key to Unlocking Business and Customer Value](https://thenewstack.io/full-service-ownership-the-key-to-unlocking-business-and-customer-value/) - today’s digital services are powered by microservices that are constantly changing. Behind those rapidly changing microservices are distributed technical teams who are building, testing, rolling out and maintaining what’s there independently. Full-service ownership brings these experts closer to their customers and the business outcomes driven by their software.
 
-### [for Manager]({% post_url 2021-04-27-job-interview-manager %})
+### for Manager -  post_url 2021-04-27-job-interview-manager 
 
 ## Questions to ask
 - [Top 14 Best Questions To Ask In An Interview](https://theinterviewguys.com/top-14-questions-to-ask-in-an-interview/)
