@@ -15,6 +15,10 @@ $ podman run --gpus all --rm -ti --ipc=host -v /home/yves/DEV/Segmentatio/sam.cp
 python convert-pth-to-ggml.py checkpoints/sam_vit_b_01ec64.pth . 1
 {% endhighlight %}
 
+{% highlight bash %}
+# run inference
+$ ./bin/sam -t 16 -m ../checkpoints/ggml-model-f16.bin -i ../img.jpg 
+{% endhighlight %}
 ### [SAMIST](https://github.com/dibrale/samist?tab=readme-ov-file#samist) 
 
 list different models with different size.
