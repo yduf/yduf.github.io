@@ -19,6 +19,13 @@ $ pip3 install torch torchvision torchaudio --extra-index-url https://download.p
 Successfully installed torch-1.13.1+rocm5.2 torchaudio-0.13.1+rocm5.2 torchvision-0.14.1+rocm5.2 typing-extensions-4.4.0
 {% endhighlight %}
 
+
+### Docker images
+
+{% highlight bash %}
+$ podman run --gpus all --rm -ti --ipc=host -v /home/yves/DEV/:/workspace pytorch/pytorch:latest
+{% endhighlight %}
+
 ### [Verify installation](https://pytorch.org/get-started/locally/#linux-verification)
 
 Using python repl: run `python3`, and copy past code below.
