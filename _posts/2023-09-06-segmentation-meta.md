@@ -10,7 +10,9 @@ tags: segmentation AI project
 Needs [pytorch](https://github.com/pytorch/pytorch?tab=readme-ov-file#docker-image) for model conversion
 
 {% highlight bash %}
-$ podman run --gpus all --rm -ti --ipc=host pytorch/pytorch:latest
+$ podman run --gpus all --rm -ti --ipc=host -v /home/yves/DEV/Segmentatio/sam.cpp/:/workspace pytorch/pytorch:latest
+# Convert PTH model to ggml. Requires python3, torch and numpy
+python convert-pth-to-ggml.py checkpoints/sam_vit_b_01ec64.pth . 1
 {% endhighlight %}
 
 ### [SAMIST](https://github.com/dibrale/samist?tab=readme-ov-file#samist) 
