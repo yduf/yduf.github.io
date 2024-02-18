@@ -11,6 +11,3 @@ tags: 3dprint
         - archimedean chords
 	- average: grid & cubic & lightning
     - best: 3d honeycomb & gyroid
-    
-
-![caption](http://my3dmatter.com/wp-content/uploads/2015/03/settingschoice-1024x800.png) <!-- .element height="50%" width="50% ustify-content="left" -->
