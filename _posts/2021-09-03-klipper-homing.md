@@ -39,6 +39,12 @@ z_offset: 2.345
 
 [![caption](https://img.youtube.com/vi/fN_ndWvXGBQ/0.jpg)](https://www.youtube.com/watch?v=fN_ndWvXGBQ)
 
+see also [Initial tests](https://www.klipper3d.org/BLTouch.html#initial-tests)
+{% highlight cpp %}
+[bltouch]
+BLTOUCH_DEBUG COMMAND=pin_down
+BLTOUCH_DEBUG COMMAND=pin_up
+{% endhighlight %}
 
 ### [Setting the probe offset](https://www.youtube.com/watch?v=fN_ndWvXGBQ)
 - X, Y: align on target with PROBE or info from probe support
