@@ -27,7 +27,7 @@ The ender 6 has a 2 pin connector on the "heat" wire, or the heat catridge that 
 
 - [ mother board wiring](https://user-images.githubusercontent.com/46035129/101119293-caad8480-35c9-11eb-960d-3d9c698b4ba0.png)
 - [Creality board](https://www.reddit.com/r/ender6/comments/rggqp3/comment/homyl8i/) - [mainboard fraud](https://youtu.be/DAfIEkHHoQc?t=79)
-	- got an A/E board => 2xTMC2208 ( X + Y) and 2xA988 ( Z + Ex) 
+	- got an [A/E board](https://www.reddit.com/r/ender6/comments/u7zmxc/ender_6_wbiqu_h2_vref_value_issues_mixed_drivers/) => 2xTMC2208 ( X + Y) and 2xA4988 ( Z1 + E1) 
 	- [V ref](https://www.reddit.com/r/ender6/comments/u7zmxc/ender_6_wbiqu_h2_vref_value_issues_mixed_drivers/)
 
 ### Screen
