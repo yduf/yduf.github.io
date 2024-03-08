@@ -7,7 +7,7 @@ tags: 3dprint calibration cura
 > - tuning your extruder steps/mm value - this mechanical part can use recommanded value  
 > - tuning your extrusion multiplier - this is specific to each filament  
 
-### [Tuning Material Flow For Best Quality 3d Prints ](https://www.youtube.com/watch?v=W901s6zTwiw)
+### [Tuning your extruder steps/mm value ](https://www.youtube.com/watch?v=W901s6zTwiw)
 
 When the g_code require a certain amount of filament, this allow to get the right length of filament.
 
@@ -16,6 +16,7 @@ When the g_code require a certain amount of filament, this allow to get the righ
 - extruder calibration
 - calibration flow test
 
+### Tuning your extrusion multiplier
 A very [simple and fast print test](https://www.thingiverse.com/thing:1622868) for configuring a 3d printer extrusion ratio. 
 
 see also [the calculator](https://docs.google.com/spreadsheets/d/11wnlCU2EVHg3Nl7GxisAegoGicogK_QTkMjRavwx0ME/edit#gid=0)
