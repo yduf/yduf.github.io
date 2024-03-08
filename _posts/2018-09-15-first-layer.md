@@ -7,7 +7,6 @@ tags: 3dprint calibration
 
 ### [How does a successfull first layer look like](https://ultimaker.com/en/resources/21330-what-does-a-successful-first-layer-look-like)
 
-[cult](https://cults3d.com/fr/blog/articles/6-facteurs-premi%C3%A8re-couche-impression3d-parfaite)
 [![caption](https://files.cults3d.com/uploads/blog/image/image/1704/prusa.jpg)](https://cults3d.com/fr/blog/articles/6-facteurs-premi%C3%A8re-couche-impression3d-parfaite)
 
 [first layer test model](https://www.yeggi.com/q/first+layer+test/)
