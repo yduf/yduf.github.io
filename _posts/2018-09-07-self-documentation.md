@@ -6,7 +6,7 @@ tags: software doc comments
 > Self-documenting code is one of the biggest documentation myths in the software industry. This view generally conflates documentation with code comments. - [“My Code is Self-Documenting”](http://ericholscher.com/blog/2017/jan/27/code-is-self-documenting/)
 
 see also
-- [	Comments Are Code (2018)](https://news.ycombinator.com/item?id=39615465)
+- [	Comments Are Code (2018)](https://news.ycombinator.com/item?id=39637554)
 
 I’d like to make two arguments in this post:
 - Code comments have value,
