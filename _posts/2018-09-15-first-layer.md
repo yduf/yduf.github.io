@@ -19,7 +19,9 @@ tags: 3dprint calibration
 
 ### Over / Under Extrusion
 
-see [Feeding rate](http://www.tridimake.com/2012/10/review-settings-for-cura-3d-printing.html)
+see
+- [Material Flow / Extrusion ratio]({% post_url 2017-10-27-extrusion-ratio %})
+- [Feeding rate](http://www.tridimake.com/2012/10/review-settings-for-cura-3d-printing.html)
 
 ### [First Layer Settings](https://3dprinterwiki.info/tips/first-layer-settings/)
 
