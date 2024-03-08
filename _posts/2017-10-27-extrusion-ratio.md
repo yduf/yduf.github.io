@@ -8,6 +8,11 @@ tags: 3dprint calibration cura
 > - tuning your extrusion multiplier - this is specific to each filament  
 
 ### [Tuning Material Flow For Best Quality 3d Prints ](https://www.youtube.com/watch?v=W901s6zTwiw)
+
+When the g_code require a certain amount of filament, this allow to get the right length of filament.
+
+[Instruction](https://youtu.be/W901s6zTwiw?feature=shared&t=140) to calibrate this:
+
 - extruder calibration
 - calibration flow test
 
