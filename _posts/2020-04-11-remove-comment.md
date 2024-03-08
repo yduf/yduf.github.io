@@ -1,7 +1,7 @@
 ---
 published: true
 title: Remove comments from C/C++ code
-tags: c++ codingame
+tags: c++ codingame comments
 ---
 ## [SO](https://stackoverflow.com/a/2394040/51386)
 
