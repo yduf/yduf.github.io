@@ -15,7 +15,7 @@ When the g_code require a certain amount of filament, this allow to get the righ
 
 - setup factory parameter for extruder (eg orbiter)
 - take a light color filament that can be marked
-	- insert filament in extruder
+	- insert filament in extruder directly (not within bowden)
     - make sure flows go through
     - make a mark at 70mm above the extruder entry
     - extrude 50mm
