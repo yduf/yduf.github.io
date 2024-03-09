@@ -25,6 +25,13 @@ When the g_code require a certain amount of filament, this allow to get the righ
 Next calculate flow per filament (next section).
 
 ### [Tuning your extrusion multiplier](https://youtu.be/W901s6zTwiw?feature=shared&t=382)
+
+Using [Prusa Slicer](https://www.prusa3d.com/en/page/prusaslicer_424/)  and its [calibration menu](https://help.prusa3d.com/category/calibration_199)
+- choose a filament profile close to the filament you are using
+- print the extrusion test
+- look for the relative flow setting that looks the best (on the outer surface)
+- apply formula to current flow.
+
 A very [simple and fast print test](https://www.thingiverse.com/thing:1622868) for configuring a 3d printer extrusion ratio. 
 
 see also [the calculator](https://docs.google.com/spreadsheets/d/11wnlCU2EVHg3Nl7GxisAegoGicogK_QTkMjRavwx0ME/edit#gid=0)
