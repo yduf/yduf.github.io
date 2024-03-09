@@ -22,6 +22,7 @@ When the g_code require a certain amount of filament, this allow to get the righ
     - measure what's left above the extruder entry (it should be 20mm)
     - if there is a difference of more than 1mm - use formula to adjust parameters 
     
+Next calculate flow per filament
 
 ### Tuning your extrusion multiplier
 A very [simple and fast print test](https://www.thingiverse.com/thing:1622868) for configuring a 3d printer extrusion ratio. 
