@@ -13,8 +13,15 @@ When the g_code require a certain amount of filament, this allow to get the righ
 
 [Instruction](https://youtu.be/W901s6zTwiw?feature=shared&t=140) to calibrate this:
 
-- extruder calibration
-- calibration flow test
+- setup factory parameter for extruder (eg orbiter)
+- take a light color filament that can be marked
+	- insert filament in extruder
+    - make sure flows go through
+    - make a mark at 70mm above the extruder entry
+    - extrude 50mm
+    - measure what's left above the extruder entry (it should be 20mm)
+    - if there is a difference of more than 1mm - use formula to adjust parameters 
+    
 
 ### Tuning your extrusion multiplier
 A very [simple and fast print test](https://www.thingiverse.com/thing:1622868) for configuring a 3d printer extrusion ratio. 
