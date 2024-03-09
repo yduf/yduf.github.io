@@ -26,7 +26,9 @@ Next calculate flow per filament (next section).
 
 ### [Tuning your extrusion multiplier](https://youtu.be/W901s6zTwiw?feature=shared&t=382)
 
-Using [Prusa Slicer](https://www.prusa3d.com/en/page/prusaslicer_424/)  and its [calibration menu](https://help.prusa3d.com/category/calibration_199)
+Using [Prusa Slicer](https://www.prusa3d.com/en/page/prusaslicer_424/)  and its [calibration menu](https://help.prusa3d.com/category/calibration_199).
+This is also available in Cura plugin _Calibration shape_ - `multi flow test`
+
 - choose a filament profile close to the filament you are using
 - print the extrusion test
 - look for the relative flow setting that looks the best (on the outer surface)
