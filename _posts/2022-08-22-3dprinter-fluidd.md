@@ -8,7 +8,8 @@ tags: 3dprinter klipper
 ### Features
 - [Exclude Object](https://docs.fluidd.xyz/features/gcode-viewer#exclude-object)
 	- Cura does label objects in gcode output by default. - [Ultimaker](https://community.ultimaker.com/topic/44275-label-objects-for-adaptive-meshing-and-purging-kamp/)
-
+	 - This feature only works on files that were uploaded after these configuration changes as the file needs to be processed by mooraker with this option turned on.
+     
 ### [KIAUH](https://github.com/th33xitus/KIAUH)
 
 Can be used to setup local install + additionnal tools.
