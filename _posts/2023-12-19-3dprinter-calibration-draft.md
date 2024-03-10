@@ -5,6 +5,8 @@ tags: 3dprinter
 ---
 > Define a process for precise FDM printer calibration
 
+see [Ellis' Print Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide/)
+
 PreRequesite
 - a printer that is able to print something (first layer ok)
 
