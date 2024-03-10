@@ -5,6 +5,10 @@ tags: 3dprinter klipper
 ---
 > a lightweight & responsive user interface for Klipper, the 3D printer firmware. - [Home](https://docs.fluidd.xyz/) / [github](https://github.com/fluidd-core/fluidd)
 
+### Features
+- [Exclude Object](https://docs.fluidd.xyz/features/gcode-viewer#exclude-object)
+	- Cura does label objects in gcode output by default. - [Ultimaker](https://community.ultimaker.com/topic/44275-label-objects-for-adaptive-meshing-and-purging-kamp/)
+
 ### [KIAUH](https://github.com/th33xitus/KIAUH)
 
 Can be used to setup local install + additionnal tools.
