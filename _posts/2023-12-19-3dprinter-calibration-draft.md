@@ -6,8 +6,8 @@ tags: 3dprinter calibration
 > Define a process for precise FDM printer calibration
 
 see
-- [Teaching Tech 3D Printer Calibration](https://teachingtechyt.github.io/calibration.html#flow)
 - [Ellis' Print Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide/)
+- [Teaching Tech 3D Printer Calibration](https://teachingtechyt.github.io/calibration.html#flow)
 
 PreRequesite
 - a printer that is able to print something (first layer ok)
