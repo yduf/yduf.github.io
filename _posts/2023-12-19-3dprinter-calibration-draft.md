@@ -1,7 +1,7 @@
 ---
 published: true
 title: 3dprinter calibration
-tags: 3dprinter
+tags: 3dprinter calibration
 ---
 > Define a process for precise FDM printer calibration
 
