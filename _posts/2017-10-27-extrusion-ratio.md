@@ -22,7 +22,11 @@ When the g_code require a certain amount of filament, this allow to get the righ
     - measure what's left above the extruder entry (it should be 20mm)
     - if there is a difference of more than 1mm - use formula to adjust parameters 
     
-Next calculate flow per filament (next section).
+Next calculate flow per filament (Tuning your extrusion multiplier section).
+
+### [How do you determine your printer’s max volumetric speed?](https://klipper.discourse.group/t/how-do-you-calibrate-determine-your-printers-max-volumetric-speed/5553)
+
+- [Speed & Max Flow Tuning (gcode)](https://teachingtechyt.github.io/calibration.html#speed) - from teaching Tech
 
 ### [Tuning your extrusion multiplier](https://youtu.be/W901s6zTwiw?feature=shared&t=382)
 
