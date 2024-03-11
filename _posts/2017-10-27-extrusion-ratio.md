@@ -28,6 +28,8 @@ Next calculate flow per filament (Tuning your extrusion multiplier section).
 
 - [Speed & Max Flow Tuning (gcode)](https://teachingtechyt.github.io/calibration.html#speed) - from teaching Tech
 
+[![caption](https://teachingtechyt.github.io/img/speeddiagram.jpg) ](https://teachingtechyt.github.io/calibration.html#speed)
+
 ### [Tuning your extrusion multiplier](https://youtu.be/W901s6zTwiw?feature=shared&t=382)
 
 Using [Orca Slicer](https://github.com/SoftFever/OrcaSlicer/wiki/Calibration) 
