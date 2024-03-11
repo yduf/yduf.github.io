@@ -27,6 +27,8 @@ Next calculate flow per filament (Tuning your extrusion multiplier section).
 ### [How do you determine your printer’s max volumetric speed?](https://klipper.discourse.group/t/how-do-you-calibrate-determine-your-printers-max-volumetric-speed/5553)
 
 - [Speed & Max Flow Tuning (gcode)](https://teachingtechyt.github.io/calibration.html#speed) - from teaching Tech
+- [Determining Maximum Volumetric Flow Rate ](https://ellis3dp.com/Print-Tuning-Guide/articles/determining_max_volumetric_flow_rate.html)
+	- [Cura :page_facing_up: has not yet added this feature](https://github.com/Ultimaker/Cura/issues/5248) - Set Max Flowin your slicer. 
 
 [![caption](https://teachingtechyt.github.io/img/speeddiagram.jpg) ](https://teachingtechyt.github.io/calibration.html#speed)
 
