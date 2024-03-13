@@ -7,8 +7,9 @@ tags: screw
 
 ### [Measuring Tips](https://www.metricscrews.us/index.php?main_page=page&id=3)
 
-**Diameter**  
-The actual diameter of an 
+**Diameter** of tapped hole 
+The actual diameter of a tapped hole for:
+- M4 screw is 3.3mm,
 - M3 screw is usually about 2.9mm, 
 - M2.5 screw is 2.4mm,
 - M2 is 1.9mm. 
