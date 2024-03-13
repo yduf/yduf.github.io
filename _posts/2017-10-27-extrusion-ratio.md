@@ -31,7 +31,8 @@ Next calculate flow per filament (Tuning your extrusion multiplier section).
 	- [Cura :page_facing_up: has not yet added this feature](https://github.com/Ultimaker/Cura/issues/5248) - Set Max Flow in your slicer. 
     - [Move exceeds maximum extrusion (klipper)](https://klipper.discourse.group/t/h-move-exceeds-maximum-extrusion/1189) - safety feature of Klipper
     
-Ender 3 / Ender 6 default extruder max is aboug 12mm³/sec
+Ender 3 
+Ender 6 default extruder + CHT nozzle 0.6 max is aboug 12mm³/sec which correspond to 0.6 nozzle, 04 layer height and xx mm/sec
 
 
 [![caption](https://teachingtechyt.github.io/img/speeddiagram.jpg) ](https://teachingtechyt.github.io/calibration.html#speed)
