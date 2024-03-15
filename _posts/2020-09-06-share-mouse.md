@@ -66,7 +66,7 @@ Qt: Session management error: Could not open network socket
 ## Alternative
 - [htrefil/rkvm](https://github.com/htrefil/rkvm) / [HN](https://news.ycombinator.com/item?id=24950817) - a tool for sharing keyboard and mouse across multiple Linux computers.
 - [Best Synergy Alternative](https://rigorousthemes.com/blog/best-synergy-alternative/)
-
+- [Turn a $30 USB switch into a full-featured KVM](https://github.com/haimgel/display-switch?tab=readme-ov-file#turn-a-30-usb-switch-into-a-full-featured-kvm)
 
 ## [Building on Linux](https://github.com/debauchee/barrier/wiki/Building-on-Linux)
 
