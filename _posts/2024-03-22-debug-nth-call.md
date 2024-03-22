@@ -13,4 +13,4 @@ This assume the bug is reproducible.
 4. - set the breakpoint to break at _N_ -1
 5. - rerun, and now you are ready to debug in close condition to the crash.
 
-This method allows to rerun close to normal performance and easily understand context of such bug.
+This method allows to rerun close to normal performance and easily understand context of such bug  (for eg, when happens after several call of the same functions, or deep in a loop).
