@@ -40,6 +40,7 @@ function hash(board):
 {% endhighlight %}
 
 ## References
+- [Zobrist Hashing](https://iq.opengenus.org/zobrist-hashing-game-theory/) - You won't be encountering this algorithm until and unless you are facing a really large board. Some thing like 8x8 (chess) or 16x16 (ultimate tic-tac-toe)
 - [An Efficient Work Distribution Method for ParallelBest-First Search](https://jinnaiyuu.github.io/pdf/papers/AAAI-16%20Jinnai-Fukunaga.pdf)
 - [Transposition Table and Zobrist Hashing](https://www.adamberent.com/2019/03/02/transposition-table-and-zobrist-hashing/)
 - [Zobrist Hashing](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-5-zobrist-hashing/)
