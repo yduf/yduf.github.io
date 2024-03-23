@@ -5,6 +5,10 @@ tags: avx gpu life turing-complete
 ---
 > You can simulate Life within Life itself - [Let’s BUILD a COMPUTER in CONWAY's GAME of LIFE - ⠠⠵](https://www.youtube.com/watch?v=Kk2MH9O4pXY) / [wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
+- [ Game of Life, simulating itself, infinitely zoomable](https://oimo.io/works/life/) / [HN](https://news.ycombinator.com/item?id=39799755)
+	- [ Life Universe: A Technical Explanation ](https://blog.oimo.io/2023/04/10/life-universe-en/)
+	- [Brice Due's Game-of-Life Metapixel -- Sample Patterns](http://b3s23life.blogspot.com/2006_09_01_archive.html?m=1)
+
 - [ALiEn](https://alien-project.org/) / [HN](https://news.ycombinator.com/item?id=27472224) – a GPU-accelerated artificial life simulation program
 - [Conway's Game of Life on GPU using CUDA](http://www.marekfiser.com/Projects/Conways-Game-of-Life-on-GPU-using-CUDA/4-Advanced-lookup-table-implementation)
 
