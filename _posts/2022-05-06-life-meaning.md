@@ -16,3 +16,5 @@ tags: life quote identity
 
 > Etre mort c'est comme n'avoir jamais été en vie.
 
+see also
+- Avant de savoir s'il y a une vie après la mort, il conviendrait de se rassurer qu'il y en une avant, qu'il convient de ne pas la rater. [comment on ](https://www.youtube.com/watch?v=vA2xH91VzkA)
