@@ -5,6 +5,8 @@ tags: despair.com science
 ---
 > Comment, des ravages du tabac au déni du changement climatique, on instrumentalise la science pour démentir... la science. - [La fabrique de l'ignorance (ARTE)](https://www.youtube.com/watch?v=6IGVqsnxCE0)
 
+- [Les batailles du Nutri-Score - Avides de recherche #74](https://www.youtube.com/watch?v=5lzSNK7XQic)
+
 > La science ne dit pas ce que nous devons faire de ce qu'elle permet de faire. - [Je ne suis pas expert, mais je... - Étienne Klein](https://www.youtube.com/watch?v=zp-GJAr5kGo) 
 
 - nous savons que ... et nous nous demandons si ...
