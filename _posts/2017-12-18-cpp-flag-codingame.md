@@ -6,9 +6,9 @@ tags: c++ codingame
 > Votre programme est compilé et exécuté dans un environnement Linux sur une architecture multi-coeurs 64bits. - [Environment/lang](https://www.codingame.com/faq)
 
 ## Limits
-- Your program is compiled and run in a Linux environment on a 64bit multi-core architecture.
+Your program is compiled and run in a Linux environment on a _64bit_ multi-core architecture.
 - 1 cpu
-- Memory limits is 768MB - [forum](https://forum.codingame.com/t/killed-on-c-memory-reservations/140640/77?u=yduf)
+- Memory limits is 768MB - [forum](https://forum.codingame.com/t/killed-on-c-memory-reservations/140640/77)
 - source code is 100k chararcters
 
 ## Ruby 2.6.2
