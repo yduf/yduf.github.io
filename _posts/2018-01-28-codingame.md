@@ -5,7 +5,7 @@ tags: codingame AI puzzle
 ---
 see also
 - [	Games of Coding ](https://github.com/michelpereira/awesome-games-of-coding) / [HN](https://news.ycombinator.com/item?id=13566247) – A curated list of games that teach you a programming language 
-- [C++ flags & HW Limits]({% post_url 2017-12-18-cpp-flag-codingame.md %})
+- [C++ flags & HW Limits]({% post_url 2017-12-18-cpp-flag-codingame %})
 
 
 ## Arena
