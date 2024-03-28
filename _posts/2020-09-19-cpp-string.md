@@ -28,7 +28,7 @@ std::string multiline_str =
     "Line 3";
 {% endhighlight %}
 
-or equivalent [with a _macro_](https://www.delftstack.com/howto/cpp/cpp-multiline-string-cpp/)
+or [with a _macro_](https://www.delftstack.com/howto/cpp/cpp-multiline-string-cpp/) / [SO](https://stackoverflow.com/a/14293615/51386). It will replace any number of consecutive whitespace characters by a single space
 {% highlight cpp %}
 #define MULTILINE_STRING(...) #__VA_ARGS__
 
