@@ -8,3 +8,4 @@ tags: games adventure
 - [Myst - L'analyse complète](https://www.youtube.com/watch?v=1xMSNMrlJ0s)
 	- inspiration du Monde de Narnia
     - et de [L'Île mystérieuse (Jules Verne)](https://fr.wikipedia.org/wiki/L%27%C3%8Ele_myst%C3%A9rieuse)
+    - circulation dans les ages inspirée du park disney ?
