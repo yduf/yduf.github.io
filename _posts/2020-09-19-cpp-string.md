@@ -7,6 +7,8 @@ tags: c++ string
 
 ### [raw string literals c++11](https://stackoverflow.com/a/5460235/51386)
 
+This is the closest to [Ruby Heredoc]({% post_url 2019-02-19-ruby-string %})
+
 {% highlight cpp %}
 const char * vogon_poem = R"V0G0N(
              O freddled gruntbuggly thy micturations are to me
