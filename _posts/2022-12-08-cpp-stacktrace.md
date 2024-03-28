@@ -1,7 +1,7 @@
 ---
 published: true
 title: StackTrace
-tags: c++ stacktrace
+tags: c++ stacktrace single-header
 ---
 > Base your stack tracing / "symbolization" on Boost stack_trace - [#146](https://github.com/doctest/doctest/issues/146)
 
