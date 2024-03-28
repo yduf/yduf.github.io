@@ -9,3 +9,4 @@ tags: games adventure
 	- inspiration du Monde de Narnia
     - et de [L'Île mystérieuse (Jules Verne)](https://fr.wikipedia.org/wiki/L%27%C3%8Ele_myst%C3%A9rieuse)
     - circulation dans les ages inspirée du park disney ?
+    - resoudre des enigmes = des problemes normaux dans l'univers de Myst (en fait redecouvrir ce qui serait des connaissance culturel des habitants de cet univers).
