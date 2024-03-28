@@ -20,3 +20,5 @@ The asynchronous nature of signals limits the interaction of signal handlers wit
 This is a crossplatform C++ library designed to convert a hardware exceptions, such as segmentation fault, or floating point errors, into a software language exceptions, which can be handled later with a try/catch construction.
 
 Other words, it's a crossplatform structured exception handling (SEH).
+
+- [How to write a signal handler to catch SIGSEGV?](https://stackoverflow.com/questions/2663456/how-to-write-a-signal-handler-to-catch-sigsegv) - When your signal handler returns (assuming it doesn't call exit or longjmp or something that prevents it from actually returning), the code will continue at the point the signal occurred, reexecuting the same instruction. Since at this point, the memory protection has not been changed, it will just throw the signal again, and you'll be back in your signal handler in an infinite loop.
