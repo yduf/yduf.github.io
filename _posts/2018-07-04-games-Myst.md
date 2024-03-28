@@ -10,3 +10,5 @@ tags: games adventure
     - et de [L'Île mystérieuse (Jules Verne)](https://fr.wikipedia.org/wiki/L%27%C3%8Ele_myst%C3%A9rieuse)
     - circulation dans les ages inspirée du park disney ?
     - resoudre des enigmes = des problemes normaux dans l'univers de Myst (en fait redecouvrir ce qui serait des connaissance culturel des habitants de cet univers).
+
+[![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.wccftech.com%2Fwp-content%2Fuploads%2F2021%2F08%2Fmyst-remakeHD-scaled.jpg&f=1&nofb=1&ipt=85912b5061d51d9c770da34940ecb028281490c1a6def7d39321f804832f0c9e&ipo=images)](https://duckduckgo.com/?t=lm&q=myst&iax=images&ia=images&iai=https%3A%2F%2Fcdn.wccftech.com%2Fwp-content%2Fuploads%2F2021%2F08%2Fmyst-remakeHD-scaled.jpg)
