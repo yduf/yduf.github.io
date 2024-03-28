@@ -5,6 +5,8 @@ tags: c++ stacktrace
 ---
 > Base your stack tracing / "symbolization" on Boost stack_trace - [#146](https://github.com/doctest/doctest/issues/146)
 
+- [std::basic_stacktrace (c++23)](https://en.cppreference.com/w/cpp/utility/basic_stacktrace)
+- [Cpptrace](https://github.com/jeremy-rifkin/cpptrace) - a simple, portable, and self-contained C++ stacktrace library supporting C++11 and greater on Linux
 - [de-boostified version of libstacktrace.](https://github.com/eyalroz/stacktrace/)
 
 see also
