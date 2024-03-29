@@ -5,6 +5,8 @@ tags: linux-system docker
 ---
 > a web-based graphical interface for servers - [local](http://localhost:9090) / [Home](https://cockpit-project.org/)
 
+### [Managing Linux servers with Cockpit](https://lwn.net//Articles/965434/) / [HN]()
+
 - [tronaut](https://tronaut:9090/)
 - [yves-lab](https://yves-lab:9090/)
 - [sophie-iMac](https://sophie-imac:9090/)
