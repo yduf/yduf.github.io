@@ -5,7 +5,7 @@ tags: arcade
 ---
 >  an initial fork of The Retro Arena, Short for Another ~~rk3326~~ rockchip Operating System. Ubuntu base - [ArkOS](https://github.com/christianhaitian/arkos/wiki)
 
-- How to update game list => restart Emulation Station (ES)
+- How to update game list => start / Quit / restart Emulation Station (ES)
 - [How do I SSH into ArkOS?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg353v#q-how-do-i-ssh-into-arkos)
 	- Press start to see your the assigned IP to your device.  / The default ssh port number is 22.
 	- Select Enable Remote Services from the Options menu so that SSH
