@@ -16,3 +16,5 @@ tags: arcade
 
 ### Alternatives
 - JelOS
+
+[![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstat.ameba.jp%2Fuser_images%2F20221020%2F23%2Fcboy1231%2F05%2F3e%2Fj%2Fo4032226815191247973.jpg&f=1&nofb=1&ipt=a0c42b823a47b973eb3fe2c6ba5e5f743d665e81be5c36274921e9492798ff5b&ipo=images)](https://github.com/christianhaitian/arkos/wiki)
