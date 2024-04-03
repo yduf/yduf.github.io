@@ -14,7 +14,7 @@ tags: nas zfs ansible monitoring
 
 ## _TODO_
 - samba 
-- [Guacamole](https://guacamole.apache.org/doc/gug/users-guide.html)
+- [Guacamole](https://guacamole.apache.org/doc/gug/users-guide.html) / [HN](https://news.ycombinator.com/item?id=39867702)
 	- [docker](https://guacamole.apache.org/doc/gug/guacamole-docker.html)
 - [rsync]({% post_url 2019-04-28-rsync %})
 - airsonic ?
