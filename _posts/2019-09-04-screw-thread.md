@@ -54,6 +54,8 @@ when creating holes in part-design workbench
 Standard Thread size:  
 **M3** 2.5mm (hole) x 0.5mm (thread step)
 
+Custom Definition can be added to the workbench - see [Cut Type Definitions](https://wiki.freecad.org/PartDesign_Hole#Cut_Type_Definitions)
+
 - [Taraudage in Freecad 0.20](https://www.youtube.com/watch?v=C-o0pLB-fmY&t=0s) - avec custom clearance
 - [Thread for Screw Tutorial](https://wiki.freecadweb.org/Thread%20for%20Screw%20Tutorial)
 - [Designing a 3D printed filament spool holder](https://youtu.be/T4A17KOzd_8?t=433)
