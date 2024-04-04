@@ -5,6 +5,8 @@ tags: freecad
 ---
 > [Developer hub](https://wiki.freecad.org/Developer_hub) / [Power users hub](https://wiki.freecad.org/Power_users_hub) / [mastodon](https://fosstodon.org/@FreeCAD)
 
+- [FreeCAD Developers Handbook](https://freecad.github.io/DevelopersHandbook/gettingstarted/)
+	- [dependencies](https://freecad.github.io/DevelopersHandbook/gettingstarted/dependencies.html#dependencies) / [Compile on Linux](https://wiki.freecad.org/Compile_on_Linux)
 - [The FreeCAD source code](https://wiki.freecad.org/The_FreeCAD_source_code)
 
 ### [Part Module](https://wiki.freecad.org/Part_Workbench)
@@ -26,4 +28,4 @@ Part objects are more complex than mesh objects created with the Mesh Workbench,
 
 ### [GUI / Coin3D (SceneGraph)](https://wiki.freecad.org/Scenegraph)
 
-In FreeCAD, normally, we don't need to interact directly with the Open Inventor scenegraph. Every object in a FreeCAD document, being a mesh, a part shape or anything else, gets automatically converted to Open Inventor code and inserted in the main scenegraph that you see in a 3D view. That scenegraph gets updated continuously when you modify, add or remove objects. In fact every object (in App space) has a view provider (a corresponding object in Gui space) responsible for issuing Open Inventor code. 
+In FreeCAD, normally, we don't need to interact directly with the Open Inventor scenegraph. Every object in a FreeCAD document, being a mesh, a part shape or anything else, gets automatically converted to Open Inventor code and inserted in the main scenegraph that you see in a 3D view. That scenegraph gets updated continuously when you modify, add or remove objects. In fact every object (in App space) has a view provider (a corresponding object in Gui space) responsible for issuing Open Inventor code.
