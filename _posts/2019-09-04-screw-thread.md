@@ -32,6 +32,8 @@ And 0.20 can make hole with thread.
 
 ### [Creating thread](https://forum.freecadweb.org/viewtopic.php?t=41892)
 
+- [ThreadProfile Workbench](https://github.com/mwganson/ThreadProfile/blob/master/README.md)
+
 Cutting a thread with bolt gives you a "negative" bolt thread which is mechanically incorrect.
 To make a "real" threaded hole, there is a special arbitrary length "tap" rod that you then cut from your object: 
 
