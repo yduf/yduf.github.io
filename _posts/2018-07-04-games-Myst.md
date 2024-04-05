@@ -13,6 +13,9 @@ tags: games adventure
 
 ### [Play Myst](https://www.reddit.com/r/myst/comments/15j3pdh/confused_on_which_version_of_myst_i_should_play/)
 
+- [Running Myst games on Linux: some tips and quirks ](https://www.reddit.com/r/myst/comments/n3jra6/running_myst_games_on_linux_some_tips_and_quirks/)
+	- some version runs on [ScummVM](https://www.scummvm.org/compatibility/)
+
 - [Myst (2021)](https://adventuregamers.com/articles/view/myst-2021) install with Lustris Wine (System 8.0.2) - Windows 7 x64 - launch GOG installer
 	- play  running Myst.exe with [-dx11](https://appdb.winehq.org/objectManager.php?sClass=version&iId=40229#knownbugs) option.
 
