@@ -51,8 +51,8 @@ when creating holes in part-design workbench
 - select _Size_ (ex M3)
 - select  _Threaded_ => this will give a hole diameter for tap drill (ex for [M3 screw, it's 2.5mm](https://www.thingiverse.com/groups/sunhokey-3d-printer-owners/forums/general/topic:5484#comment-838622))
 
-Standard Thread size:  
-**M3** 2.5mm (hole) x 0.5mm (thread step)
+[Standard Thread size]({% post_url 2023-05-26-screw-size %}):
+**M3** 2.5mm (hole) x 0.5mm (thread pitch)
 
 Custom Definition can be added to the workbench - see [Cut Type Definitions](https://wiki.freecad.org/PartDesign_Hole#Cut_Type_Definitions)
 
