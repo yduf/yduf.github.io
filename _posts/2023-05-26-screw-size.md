@@ -9,10 +9,12 @@ tags: screw
 
 **Diameter** of tapped hole 
 The actual diameter of a tapped hole for:
-- M4 is 3.3mm,  
-**M3** 2.5mm (hole) x 0.5mm (thread pitch), diameter of screw is 2.9mm  
-- M2.5 , screw is 2.4mm,
-- M2   , screw is 1.9mm. 
+**M6** is 5.00 mm 
+**M5** is 4.20 mm, 
+**M4** is 3.3mm,  
+**M3** is 2.5mm (hole) x 0.5mm (thread pitch), diameter of screw is 2.9mm  
+**M2.5** is 2.05, screw is 2.4mm,  
+**M2** is 1.6, screw is 1.9mm. 
 
 So if you are measuring the screw yourself and your caliper says the screw diameter is 2.4mm you have to order an M2.5 screw to match it.
 
