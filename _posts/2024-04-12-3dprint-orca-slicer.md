@@ -3,6 +3,4 @@ title: Orca Slicer
 published: true
 tags: 3dprint slicer
 ---
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+> Orca Slicer getting started guide: A slicer for all of your 3D printers - [teaching tech](https://www.youtube.com/watch?v=cquTCpz1V74)
