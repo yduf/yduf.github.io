@@ -8,9 +8,9 @@ tags: screw
 ### [Measuring Tips](https://www.metricscrews.us/index.php?main_page=page&id=3)
 
 **Diameter** of tapped hole 
-The actual diameter of a tapped hole for:
-**M6** is 5.00 mm 
-**M5** is 4.20 mm, 
+The actual diameter of a tapped hole for:  
+**M6** is 5.00 mm  
+**M5** is 4.20 mm,  
 **M4** is 3.3mm,  
 **M3** is 2.5mm (hole) x 0.5mm (thread pitch), diameter of screw is 2.9mm  
 **M2.5** is 2.05, screw is 2.4mm,  
