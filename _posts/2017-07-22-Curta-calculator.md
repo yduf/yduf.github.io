@@ -12,9 +12,8 @@ title: Curta Mechanical Calculator
 ## [3D printed version](http://hackaday.com/2017/07/17/3d-printed-math-grenade/) by  [Marcus Wu](https://wudev.digitaltorque.com/) 
 
 ### Curta Calculator Type I scaled at 3:1
-- [github](https://github.com/marcuswu/Curta-Type-I-3x)
-- [onshape 3D](https://cad.onshape.com/documents/56ab5570e4b0d9659037a1cf/w/9f078541afd347bb397e344f/e/2b386be0c67cfb2a94581ba7)
-- [Printables](https://www.printables.com/model/158740-curta-calculator-type-i-scaled-at-31/remixes) / [thingiverse](https://www.thingiverse.com/thing:1943171)
+- [github (scale 3x)](https://github.com/marcuswu/Curta-Type-I-3x) / [Printables](https://www.printables.com/model/158740-curta-calculator-type-i-scaled-at-31/remixes) / [thingiverse](https://www.thingiverse.com/thing:1943171)
+- [onshape 3D (scale 1x)](https://cad.onshape.com/documents/56ab5570e4b0d9659037a1cf/w/9f078541afd347bb397e344f/e/2b386be0c67cfb2a94581ba7)
 
 Some facts: 
 - There are around 240 printed parts -- around 100 unique parts. 
