@@ -1,7 +1,7 @@
 ---
 title: Tapping Screw
 published: true
-tags: tools 3dprint
+tags: tools 3dprint screw
 ---
 > Tapping Tools - [Tapping Arm](https://www.printables.com/model/334976-tapping-arm-and-addons)
 
