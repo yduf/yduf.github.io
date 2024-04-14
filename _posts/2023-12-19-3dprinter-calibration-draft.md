@@ -6,6 +6,8 @@ tags: 3dprinter calibration
 > Define a process for precise FDM printer calibration
 
 see
+- [How I tune 3D Printers (The 100)](https://www.youtube.com/watch?v=ikvOHPZL6Cc)
+	- derived from _Andrew Ellis bellow_
 - [Ellis' Print Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide/)
 - [Teaching Tech 3D Printer Calibration](https://teachingtechyt.github.io/calibration.html#flow)
 
