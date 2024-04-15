@@ -7,4 +7,4 @@ tags: 3dprint slicer
 
 Featuring  
 - [Paint-on supports](https://www.youtube.com/watch?v=cquTCpz1V74) - interactive paint model where you want to have supports.
-
+- [scarf joint seams](https://www.youtube.com/watch?v=vl0FT339jfc) - hide seams
