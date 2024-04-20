@@ -20,7 +20,7 @@ tags: c++ bits  avx pack mask morton-code raytracing
 {% endhighlight %}
 
 see also:
-- [Morton (github)](https://github.com/jart/morton?tab=readme-ov-file#morton) - a SWAR implementation is used which takes 2 nanoseconds. If -mbmi2 is available, then morton() and unmorton() take less than one nanosecond. 
+- [Morton (github)](https://github.com/jart/morton?tab=readme-ov-file#morton) / [HN](https://news.ycombinator.com/item?id=40084631) - a SWAR implementation is used which takes 2 nanoseconds. If -mbmi2 is available, then morton() and unmorton() take less than one nanosecond. 
 - [Left Pack]({% post_url 2020-02-22-avx-left-pack %})
 - [Fastest way to unpack 32 bits to a 32 byte vector](https://stackoverflow.com/questions/24225786/fastest-way-to-unpack-32-bits-to-a-32-byte-simd-vector?noredirect=1&lq=1)
 - [Optimal uint8_t bitmap into a 8 x 32bit SIMD “bool” vector](https://stackoverflow.com/questions/28683926/optimal-uint8-t-bitmap-into-a-8-x-32bit-simd-bool-vector?noredirect=1&lq=1)
