@@ -17,6 +17,9 @@ Recommanded:
 - [wiki](https://3dprint.wiki/reprap/anet/a8/layer-heights)
 - [redit](https://www.reddit.com/r/CR10/comments/8i88h0/cr10s_layer_height_upgrade_is_there_such_a_thing/)
 
+### [Line Width](https://3dprinterly.com/how-to-get-the-perfect-line-width-setting/)
+Many slicers default the line width to between 100% and 120% of the nozzle diameter. Increasing line width is great for increasing part strength, while decreasing line width can improve printing times, as well as print quality. The minimum and maximum is around 60% and 200% of the nozzle diameter.
+
 ### [How to tune your slicing settings featuring Ender 3](https://www.youtube.com/watch?v=3yIebnVjADM)
 
 ## Quality
