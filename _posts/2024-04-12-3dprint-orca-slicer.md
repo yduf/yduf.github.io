@@ -10,4 +10,6 @@ Featuring
 - [scarf joint seams](https://www.youtube.com/watch?v=vl0FT339jfc) - hide seams
 
 Doc
-- [Support Blockers](https://www.youtube.com/watch?v=2uP7hVE3spw)
+- [Support Blockers](https://www.youtube.com/watch?v=2uP7hVE3spw) - painting support
+	- left click - green - support
+    - right click - red - support blocker 
