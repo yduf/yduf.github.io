@@ -7,6 +7,7 @@ tags: ruby loop iterate string
 
 see also
 - [Ruby vs Python comes down to the for loop](https://softwaredoug.com/blog/2021/11/12/ruby-vs-python-for-loop.html) / [HN](https://news.ycombinator.com/item?id=40111184) - Ruby inherits it's approach to flow control from Smalltalk, while Python comes from a C/Algol-like heritage.
+	- [HN](https://news.ycombinator.com/item?id=40111383) - Once you implement `each`, `include Enumerable` is all it takes to get the full set of collection methods (including `max`/`min` etc, if the entries define `<=>`). 
 
 ## [see also Enumerable](http://ruby-doc.org/core-2.6.3/Enumerable.html)
 - [none?](http://ruby-doc.org/core-2.6.3/Enumerable.html#method-i-none-3F), [any?](http://ruby-doc.org/core-2.6.3/Enumerable.html#method-i-any-3F), [one?](http://ruby-doc.org/core-2.6.3/Enumerable.html#method-i-one-3F),  [all?](http://ruby-doc.org/core-2.6.3/Enumerable.html#method-i-all-3F)
