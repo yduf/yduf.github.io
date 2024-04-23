@@ -8,7 +8,7 @@ tags: 3dprint slicer
 Featuring  
 - [Paint-on supports](https://www.youtube.com/watch?v=cquTCpz1V74) - interactive paint model where you want to have supports.
 - [scarf joint seams](https://www.youtube.com/watch?v=vl0FT339jfc) - hide seams
-- [automatic joint](https://www.youtube.com/watch?v=MAEi50e1yOg) - split part and join them with ducktail.
+- [automatic joint](https://www.youtube.com/watch?v=MAEi50e1yOg) - split part and join them with ducktail or planar cut + connector
 - max volumetric flow in mm³/s
 
 Doc
