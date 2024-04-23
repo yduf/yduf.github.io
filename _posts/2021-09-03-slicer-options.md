@@ -44,6 +44,8 @@ see also [dprint troubleshooting]({% post_url 2018-09-25-3dprint %})
     - use slicer compensation for first layer
 		- Cura - Initial Layer Horizontal Expansion
     - use a RAFT
+    
+### [Pressure Advance](https://github.com/SoftFever/OrcaSlicer/blob/main/doc/Calibration.md)
 
 ### Hidding default
 
