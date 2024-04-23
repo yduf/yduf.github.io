@@ -60,7 +60,10 @@ see also [dprint troubleshooting]({% post_url 2018-09-25-3dprint %})
     - **Under or Over-Extrusion** - If the extrusion multiplier is too low, you may start to see gaps between perimeters, holes in your top surfaces, and parts that are smaller than their intended size. If your extrusion multiplier is too high, you may notice top layers that tend to bulge upwards and parts that are larger than intended.
     - **Constant Dimensional Error** - => horizontal expansion
     - **Increasing Dimensional Error** -  then it is likely the problem may be due to thermal contraction.
-- [horizontal expansion](https://www.youtube.com/watch?v=-jsBI3OeUJQ) 
+- [Horizontal expansion](https://www.youtube.com/watch?v=-jsBI3OeUJQ) 
+	- [Cura Horizontal Expansion – A Better Way of Calibrating](https://the3dprinterbee.com/cura-horizontal-expansion/)
+    	- **Horizontal Expansion vs. Flow Rate** - The difference between the flow rate and the horizontal expansion is that the dimensions of the object do not change when the flow rate is changed in the slicer. Changing the flow rate does not compensate well for inaccuracies. 
+        - **Horizontal Expansion vs. Shrinkage Compensation** - Horizontal expansion in Cura expands each point of the object by a value in mm. Shrinkage compensation scales the object by a percentage value. The end result is therefore fundamentally different and suitable for different applications. 
 	- [calibration tool](https://www.thingiverse.com/thing:4766295)
 		- [Fast test](https://www.thingiverse.com/thing:3535060)
     - [What Is Horizontal Expansion in Cura? (How to Use It?)](https://www.3dprintbeast.com/cura-horizontal-expansion/)
