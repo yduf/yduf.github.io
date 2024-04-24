@@ -9,3 +9,6 @@ tags: chemical
     
 [**Isopropyl alcohol / isopropanol**](https://en.wikipedia.org/wiki/Isopropyl_alcohol) - Isopropyl alcohol, an organic polar molecule, is miscible in water, ethanol, and chloroform, demonstrating its ability to dissolve a wide range of substances including ethyl cellulose, polyvinyl butyral, oils, alkaloids, and natural resins.
 - dissolves a wide range of non-polar compounds. It evaporates quickly and the typically available grades tend to not leave behind oil traces when used as a cleaning fluid unlike some other common solvents. It is also relatively non-toxic. Thus, it is used widely as a solvent and as a cleaning fluid, especially where there are oils or oil based residues which are not easily cleaned with water, conveniently evaporating and (depending on water content and other variables) posing less of a risk of corrosion or rusting than plain water. Together with ethanol, n-butanol, and methanol, it belongs to the group of alcohol solvents. 
+
+[**Pétrole désaromatisé / Kerdane / lampant**](https://bricoleurpro.ouest-france.fr/dossier-2487-petrole-desaromatise.html)
+-  excellent pouvoir dégraissant sur les métaux.
