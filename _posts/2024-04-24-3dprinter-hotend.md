@@ -3,6 +3,8 @@ title: Hotend
 published: true
 tags: 3dprinter
 ---
+> [Troubleshooting Guide](https://www.crealityexperts.com/creality-hot-end-repair-guide)
+
 ### Hotend Cartridge
 
 When encountering thermal runaway error (temperature does not follow input current).
