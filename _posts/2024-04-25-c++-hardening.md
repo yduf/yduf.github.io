@@ -3,7 +3,7 @@ title: C++ flags Hardening Guide
 published: true
 tags: c++ compiler security
 ---
-> 	Compiler Options Hardening Guide for C and C++ - [OpenSSF](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html) / [HN](https://news.ycombinator.com/item?id=38478866)
+> Compiler Options Hardening Guide for C and C++ - [OpenSSF](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html) / [HN](https://news.ycombinator.com/item?id=38478866)
 
 When compiling C or C++ code on compilers such as GCC and clang, turn on these flags for detecting vulnerabilities at compile time and enable run-time protection mechanisms:
 
