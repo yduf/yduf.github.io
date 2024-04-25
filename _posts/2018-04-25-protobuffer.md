@@ -6,6 +6,9 @@ tags: serialization  protobuf
 > [Protocol Buffers](https://developers.google.com/protocol-buffers/)
 Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data.
 
+see also
+- [	Reverse Engineering Protobuf Definitions from Compiled Binaries](https://news.ycombinator.com/item?id=39654445)
+
 Alernatives
 
 ## [Cap’n Proto]({% post_url 2023-09-26-serialisation-captain-proto %})
