@@ -10,6 +10,10 @@ excerpt_separator: <!--more-->
 > -    in UTF-32, use Base65536
 <!--more-->
 
+see also
+- [	Understanding and avoiding visually ambiguous characters in IDs](https://news.ycombinator.com/item?id=40127124)
+	- [Base 32 (crockford & rfc 4648) has a nice unambiguous alphabet for compact representation and explanation of why.](https://news.ycombinator.com/item?id=40128250)
+
 ## [ASCII‑constrained](https://en.wikipedia.org/wiki/ASCII)
 - [Base1](https://github.com/qntm/base1) \*
 - [Base16](https://en.wikipedia.org/wiki/Hexadecimal),Hex -  **50%** UTF8 Efficiency - hash output [a9eb85ea214a6cfa6882f4be041d5cce7bee3e45](https://blog.thoughtram.io/git/2014/11/18/the-anatomy-of-a-git-commit.html)
