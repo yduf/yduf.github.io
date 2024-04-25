@@ -1,7 +1,7 @@
 ---
 title: Proto buffer (serialisation)
 published: true
-tags: serialization  protobuf
+tags: serialization  protobuf reverse
 ---
 > [Protocol Buffers](https://developers.google.com/protocol-buffers/)
 Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data.
