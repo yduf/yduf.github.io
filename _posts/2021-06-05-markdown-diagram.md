@@ -8,4 +8,4 @@ tags: doc markdown diagram
 see also
 - [Building awesome diagrams with D2](https://victorbjorklund.com/build-diagrams-as-code-with-d2-d2lang) / [online](https://play.d2lang.com/?script=qlDQtVOo5AIEAAD__w%3D%3D&) 
 - [Mermaid]({% post_url 2023-02-04-doc-mermaid %})
-- [Markwhen](https://docs.markwhen.com/) / [github](https://github.com/mark-when/markwhen) / [vscode](https://marketplace.visualstudio.com/items?itemName=Markwhen.markwhen)
+- [Markwhen](https://docs.markwhen.com/) / [github](https://github.com/mark-when/markwhen) / [vscode](https://marketplace.visualstudio.com/items?itemName=Markwhen.markwhen) -  a text-to-timeline tool.
