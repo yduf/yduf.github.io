@@ -5,7 +5,7 @@ tags: 3dprinter
 ---
 > [Troubleshooting Guide](https://www.crealityexperts.com/creality-hot-end-repair-guide)
 
-### Hotend Cartridge
+### [Hotend Cartridge](https://clevercreations.org/hotend-heater-cartridge-how-many-watts/)
 
 When encountering thermal runaway error (temperature does not follow input current).
 
