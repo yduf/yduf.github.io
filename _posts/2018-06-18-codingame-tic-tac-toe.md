@@ -3,7 +3,7 @@ title: Ultimate Tic-Tac-Toe
 published: true
 tags: codingame tic-tac-toe MCTS AI NN
 ---
->  A much more strategic version of tic-tac-toe - [rules explained](https://www.thegamegal.com/2018/09/01/ultimate-tic-tac-toe/) / [Codingame](https://www.codingame.com/multiplayer/bot-programming/tic-tac-toe)
+>  A much more strategic version of tic-tac-toe - [rules explained](https://www.thegamegal.com/2018/09/01/ultimate-tic-tac-toe/) / [Codingame](https://www.codingame.com/multiplayer/bot-programming/tic-tac-toe) / [online](https://ziap.github.io/uttt/)
 
 - [ultimate_tic-tac-toe_alphazero](https://github.com/Arnav235/ultimate_tic-tac-toe_alphazero) / [youtube](https://www.youtube.com/watch?v=CcwC8tTe_QE)
 - [SaltZero](https://github.com/farmersrice/saltzero) matched against codingame (but a big model > 200Mo)
@@ -14,6 +14,10 @@ tags: codingame tic-tac-toe MCTS AI NN
 
 ## Arena
 
+- [online](https://ziap.github.io/uttt/)
+- [Alapha Zero like ai](https://www.uttt.ai/) - has an analysis mode.
+
+### Codingame
 - Agade [Arena](https://github.com/Agade09/CG-UTTT-Arena) program that plays games between two Ultimate Tic-Tac-Toe AIs
 - [Magnus refere](https://github.com/dreignier/game-ultimate-tictactoe) working with [Cg-brutaltester](https://github.com/dreignier/cg-brutaltester). 
 	- Official [refere](https://github.com/CodinGame/game-ultimate-tictactoe)
