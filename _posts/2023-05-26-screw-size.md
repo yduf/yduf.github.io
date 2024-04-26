@@ -1,7 +1,7 @@
 ---
 published: true
 title: Screw & Thread Size
-tags: screw
+tags: screw shop
 ---
 > Pour répondre à vos attentes convenablement, elle doit mesurer 3 fois l'épaisseur de la pièce à fixer. - [Comment mesurer une vis ?](https://www.lavisserie.fr/content/13-comment-mesurer-une-vis)
 
