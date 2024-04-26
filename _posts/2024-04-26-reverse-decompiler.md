@@ -1,7 +1,7 @@
 ---
 title: De-compiler
 published: true
-tags: reverse compiler LLM
+tags: LLM reverse compiler
 ---
 > Decompiling Binary Code with LLM - [	LLM4Decompile](https://github.com/albertan017/LLM4Decompile?tab=readme-ov-file#llm4decompile) / [HN](https://news.ycombinator.com/item?id=39733275)
 
