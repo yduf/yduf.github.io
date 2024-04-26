@@ -1,6 +1,6 @@
 ---
 published: true
-title: Ender 6
+title: '# Ender 6'
 tags: 3dprinter klipper
 ---
 > cheap CoreXY -  [r/ender6/](https://www.reddit.com/r/ender6/) / [klipper config](https://github.com/yduf/klipper-ender6-config) / [server](http://ender6/) / [Moonraker](http://ender6:7125/)
