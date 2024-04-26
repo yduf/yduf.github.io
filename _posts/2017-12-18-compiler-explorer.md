@@ -20,6 +20,6 @@ make EXTRA_ARGS='--language c++'
 {% endhighlight %}
 
 ### see also
-- [C++ Insights](https://news.ycombinator.com/item?id=39948404) - a Clang-based tool that does a source-to-source transformation. The goal of C++ Insights is to make things visible that normally and intentionally happen behind the scenes. It's about the magic the compiler does for us to make things work.
+- [C++ Insights](https://news.ycombinator.com/item?id=39948404) / [github](https://github.com/andreasfertig/cppinsights?tab=readme-ov-file#c-insights---see-your-source-code-with-the-eyes-of-a-compiler) / [online](https://cppinsights.io/) - a Clang-based tool that does a source-to-source transformation. The goal of C++ Insights is to make things visible that normally and intentionally happen behind the scenes. It's about the magic the compiler does for us to make things work.
 
 - [Happy 10th Birthday Compiler Explorer!](https://xania.org/202206/happy-birthday-ce)
