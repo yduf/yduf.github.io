@@ -35,7 +35,8 @@ The ender 6 has a 2 pin connector on the "heat" wire, or the heat catridge that 
 For idea for replacement
 - [Ender 6 (duh), SKR Mini E3 v3.0, Klipper - IT'S ALIVE! ](https://www.reddit.com/r/ender6/comments/z68w1d/ender_6_duh_skr_mini_e3_v30_klipper_its_alive/)
 - [Toasted motherboard (suggest upgrade) ](https://www.reddit.com/r/ender6/comments/18tmlgh/toasted_motherboard_suggest_upgrade/)
-    
+- [BTT Octopus](https://3dwork.io/en/btt-octopus/) - considered for custom toolchanger
+
 ### Spray Board
 
 - [What is the K-fan1?](https://www.reddit.com/r/ender6/comments/15dhqjv/what_is_the_kfan1/) - 2nd part cooling fan. Share the same pin as k-fan 
@@ -219,11 +220,6 @@ Screen has to be flashed separately to be functional.
 *** Desuu menu config option***
 
 see [sample-t5uid1.cfg](https://github.com/Desuuuu/klipper/blob/dgus-reloaded/config/sample-t5uid1.cfg)
-
-
-## Motherboard
-
-- [BTT Octopus](https://3dwork.io/en/btt-octopus/)
 
 ## Speed
 - [reality Ender 6 w/ BIQU H2 - 200mm/s@6k acceleration](https://www.youtube.com/watch?v=82gAH7u3tMM) / [100mm/s and 4000 acc](https://www.youtube.com/watch?v=EqPe5yzP3zo)
