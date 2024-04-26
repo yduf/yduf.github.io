@@ -34,6 +34,8 @@ The ender 6 has a 2 pin connector on the "heat" wire, or the heat catridge that 
     
 ### Spray Board
 
+- [What is the K-fan1?](https://www.reddit.com/r/ender6/comments/15dhqjv/what_is_the_kfan1/) - 2nd part cooling fan. Share the same pin as k-fan 
+
 [![caption](https://preview.redd.it/i-just-an-ender-6-but-my-heater-cartridge-doesnt-work-any-v0-yoqdrk6gw9l81.jpg?width=3024&format=pjpg&auto=webp&s=b7fc5dc2a124cea7a0e14ba6c3891bf930e1a318)](https://www.reddit.com/r/ender6/comments/t67n1q/i_just_an_ender_6_but_my_heater_cartridge_doesnt/)
 
 
