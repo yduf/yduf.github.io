@@ -33,6 +33,7 @@ The ender 6 has a 2 pin connector on the "heat" wire, or the heat catridge that 
 	- [V ref](https://www.reddit.com/r/ender6/comments/u7zmxc/ender_6_wbiqu_h2_vref_value_issues_mixed_drivers/)
     
 For idea for replacement
+- [Ender 6 (duh), SKR Mini E3 v3.0, Klipper - IT'S ALIVE! ](https://www.reddit.com/r/ender6/comments/z68w1d/ender_6_duh_skr_mini_e3_v30_klipper_its_alive/)
 - [Toasted motherboard (suggest upgrade) ](https://www.reddit.com/r/ender6/comments/18tmlgh/toasted_motherboard_suggest_upgrade/)
     
 ### Spray Board
