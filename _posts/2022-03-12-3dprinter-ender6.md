@@ -23,12 +23,19 @@ tags: 3dprinter klipper
 
 The ender 6 has a 2 pin connector on the "heat" wire, or the heat catridge that is unique to the printer. The rest is the same.
 
+- [The heater stopped working. I bought a new one and replaced it, but its still didn't work. Then I found out that this spray board failed on the heater pin. So I bought a 2m cable one and connected it directly to mainboard.](https://www.reddit.com/r/ender6/comments/t67n1q/comment/hzaogkx/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
 ## Motherboard
 
 - [ mother board wiring](https://user-images.githubusercontent.com/46035129/101119293-caad8480-35c9-11eb-960d-3d9c698b4ba0.png)
 - [Creality board](https://www.reddit.com/r/ender6/comments/rggqp3/comment/homyl8i/) - [mainboard fraud](https://youtu.be/DAfIEkHHoQc?t=79)
 	- got an [A/E board](https://www.reddit.com/r/ender6/comments/u7zmxc/ender_6_wbiqu_h2_vref_value_issues_mixed_drivers/) => 2xTMC2208 ( X + Y) and 2xA4988 ( Z1 + E1) 
 	- [V ref](https://www.reddit.com/r/ender6/comments/u7zmxc/ender_6_wbiqu_h2_vref_value_issues_mixed_drivers/)
+    
+### Spray Board
+
+[![caption](https://preview.redd.it/i-just-an-ender-6-but-my-heater-cartridge-doesnt-work-any-v0-yoqdrk6gw9l81.jpg?width=3024&format=pjpg&auto=webp&s=b7fc5dc2a124cea7a0e14ba6c3891bf930e1a318)](https://www.reddit.com/r/ender6/comments/t67n1q/i_just_an_ender_6_but_my_heater_cartridge_doesnt/)
+
 
 ### Screen
 - [DMT48270C043_03W](http://www.ampdisplay.com/documents/pdf/DMT48270C043_03WN.pdf) / [2012 Instruction Manual Beijing DWIN Technology](https://manualzz.com/doc/11786048/2012-instruction-manual-beijing-dwin-technology-co.--ltd)
