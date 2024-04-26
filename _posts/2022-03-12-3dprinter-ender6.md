@@ -32,6 +32,9 @@ The ender 6 has a 2 pin connector on the "heat" wire, or the heat catridge that 
 	- got an [A/E board](https://www.reddit.com/r/ender6/comments/u7zmxc/ender_6_wbiqu_h2_vref_value_issues_mixed_drivers/) => 2xTMC2208 ( X + Y) and 2xA4988 ( Z1 + E1) 
 	- [V ref](https://www.reddit.com/r/ender6/comments/u7zmxc/ender_6_wbiqu_h2_vref_value_issues_mixed_drivers/)
     
+For idea for replacement
+- [Toasted motherboard (suggest upgrade) ](https://www.reddit.com/r/ender6/comments/18tmlgh/toasted_motherboard_suggest_upgrade/)
+    
 ### Spray Board
 
 - [What is the K-fan1?](https://www.reddit.com/r/ender6/comments/15dhqjv/what_is_the_kfan1/) - 2nd part cooling fan. Share the same pin as k-fan 
