@@ -1,7 +1,7 @@
 ---
 title: Cold Shower (software)
 published: true
-tags: software
+tags: software agile
 ---
 > [overhyped topics](https://github.com/hwayne/awesome-cold-showers) prooved to be not so great.
 
