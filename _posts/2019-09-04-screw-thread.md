@@ -17,6 +17,10 @@ This article is a guide to using screws in 3D printed SLA parts. There are many 
 
 ## [Freecad]({% post_url 2020-05-29-freecad %})
 
+- [FreeCAD_Fastener_holes](https://github.com/pgilfernandez/FreeCAD_Fastener_holes?tab=readme-ov-file#freecad_fastener_holes) - creates shapes to act as holes when cut to other shapes
+
+[![caption](https://github.com/pgilfernandez/FreeCAD_Fastener_holes/raw/media/fastener_holes_4.jpeg?raw=true)](https://github.com/pgilfernandez/FreeCAD_Fastener_holes?tab=readme-ov-file#freecad_fastener_holes)
+
 see also
 - [FreeCAD Threaded Hook](https://www.youtube.com/watch?v=uYgDdWAtn8A)
 - [How to make threaded parts in FreeCAD .17](https://www.youtube.com/watch?v=Rmq64GdCPas)
