@@ -8,6 +8,7 @@ tags: despair.com climate-war science co2 quote map
 > On est jeune tant qu'on se croit eternel et invicible.
 
 - [Electricity Map](https://app.electricitymaps.com/map) / [HN](https://news.ycombinator.com/item?id=37197903) - production & carbon emission per country.
+- [Who has contributed most to global CO2 emissions?](https://ourworldindata.org/contributed-most-global-co2)
 
 see also
 - [Earth's CO2 Home Page](https://www.co2.earth/) - 2022/11 417.51ppm
