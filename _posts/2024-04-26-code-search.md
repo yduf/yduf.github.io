@@ -7,3 +7,4 @@ tags: code search
 
 see also
 - [sourcegraph](https://sourcegraph.com/)
+- [Building a better repository map with tree sitter](https://aider.chat/docs/repomap.html)
