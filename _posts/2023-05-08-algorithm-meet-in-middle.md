@@ -1,7 +1,7 @@
 ---
 published: true
 title: Meet in the Middle (MM)
-tags: algorithm rubik hash nearest-neighbor
+tags: algorithm rubik hash nearest-neighbor graph pathfinding search
 ---
 > The algorithmic trick that solves Rubik’s Cubes and breaks ciphers - [youtube](https://www.youtube.com/watch?v=wL3uWO-KLUE)
 
@@ -12,4 +12,5 @@ For solving rubik cube:
 Need to explorer 10¹⁰ x2 state instead of 10²⁰. Which may be achievable (in days).
 
 ### see also
+- [Bidirectional Search That Is Guaranteed to Meet in the Middle](https://people.engr.tamu.edu/guni/Papers/AAAI16-MM.pdf)
 - [Tunnel of Eupalinos](https://en.wikipedia.org/wiki/Tunnel_of_Eupalinos)
