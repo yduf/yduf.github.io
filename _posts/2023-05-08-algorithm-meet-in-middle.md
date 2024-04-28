@@ -12,5 +12,5 @@ For solving rubik cube:
 Need to explorer 10¹⁰ x2 state instead of 10²⁰. Which may be achievable (in days).
 
 ### see also
-- [Bidirectional Search That Is Guaranteed to Meet in the Middle](https://people.engr.tamu.edu/guni/Papers/AAAI16-MM.pdf)
+- [Bidirectional Search That Is Guaranteed to Meet in the Middle](https://people.engr.tamu.edu/guni/Papers/AAAI16-MM.pdf) - paper introducing MM0 algorithm and derivatives.
 - [Tunnel of Eupalinos](https://en.wikipedia.org/wiki/Tunnel_of_Eupalinos)
