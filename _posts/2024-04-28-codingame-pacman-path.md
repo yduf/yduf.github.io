@@ -1,7 +1,7 @@
 ---
 title: Pacman Shortest Path
 published: true
-tags: codingame pacman graph algorithm
+tags: codingame pacman graph algorithm pathfinding search
 ---
 > [Solving the Traveling Pacman Problem](https://blog.polybdenum.com/2017/07/26/solving-the-traveling-pacman-problem.html)
 
