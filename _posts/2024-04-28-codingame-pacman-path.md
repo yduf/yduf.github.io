@@ -9,7 +9,7 @@ Using
 - [Biconnected components](#biconnected-components)
 - [Carving width](https://en.wikipedia.org/wiki/Branch-decomposition#Carving_width)
 
-- [Pathfinding in Pacman domain](https://pnut2357.github.io/search-algorithms/)
+- [Pathfinding in Pacman domain](https://pnut2357.github.io/search-algorithms/) - compare different algorithm and euristics including [Meet in Middle (MM)]({% post_url 2023-05-08-algorithm-meet-in-middle %})
 - [a short path for eating all the dots](https://stackoverflow.com/questions/12877560/pacman-a-short-path-for-eating-all-the-dots)
 - [Working Harder, not Smarter in Pacman](https://saumikn.com/blog/working-harder-not-smarter-in-pacman/)
 - [Optimal Pac-Man](https://chalkdustmagazine.com/features/optimal-pac-man/)
