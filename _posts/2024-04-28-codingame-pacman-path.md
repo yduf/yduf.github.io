@@ -7,6 +7,10 @@ tags: codingame pacman graph algorithm
 - [Pathfinding in Pacman domain](https://pnut2357.github.io/search-algorithms/)
 - [a short path for eating all the dots](https://stackoverflow.com/questions/12877560/pacman-a-short-path-for-eating-all-the-dots)
 - [Working Harder, not Smarter in Pacman](https://saumikn.com/blog/working-harder-not-smarter-in-pacman/)
+- [Optimal Pac-Man](https://chalkdustmagazine.com/features/optimal-pac-man/)
+
+
+- [Pacman: how do the eyes find their way back to the monster hole? [closed]](https://stackoverflow.com/questions/3148435/pacman-how-do-the-eyes-find-their-way-back-to-the-monster-hole)
 
 ### [Biconnected components](https://en.wikipedia.org/wiki/Biconnected_component)
 
