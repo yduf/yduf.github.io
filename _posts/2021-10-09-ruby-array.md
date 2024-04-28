@@ -40,6 +40,7 @@ a.each_slice(3).to_a # => [[0, 1, 2], [3, 4, 5], [6, 7]
 
 see also
 - [Console table format in ruby](https://stackoverflow.com/questions/36156305/console-table-format-in-ruby)
+	- [ConsoleTable](https://github.com/rodhilton/console_table?tab=readme-ov-file#consoletable--) - a helper class that allows you to print data to a console in a clean, table-like fashion.
 - [String litterals]({% post_url 2019-02-19-ruby-string %})
 - [How to Iterate the Right Way]({% post_url 2019-03-30-ruby-iterate %})
 - [Shortest code](2019-05-29-short-code-ruby)
