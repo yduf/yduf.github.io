@@ -1,10 +1,14 @@
 ---
 published: true
 title: Stable diffusion
-tags: NN stable-diffusion image paint art
+tags: NN stable-diffusion image paint art text krita
 ---
+> Text to image generation
+
 - [Fooocus](https://github.com/lllyasviel/Fooocus?tab=readme-ov-file#fooocus) / [youtube](https://www.youtube.com/watch?v=7epYDyaPIHU) / [amdGPU](https://github.com/lllyasviel/Fooocus?tab=readme-ov-file#windows-amd-gpus)
 - [OpenJourney: Midjourney, but Open Source](https://news.ycombinator.com/item?id=34522311) / [online](https://replicate.com/prompthero/openjourney)
+
+- [krita ai-diffusion](https://github.com/Acly/krita-ai-diffusion?tab=readme-ov-file#-generative-ai-for-krita) - Generate images from within Krita with minimal fuss
 
 Advanced
 - [ Stable Diffusion 2 Depth Guided model: architecture photos from dollhouse](https://news.ycombinator.com/item?id=34076077)
