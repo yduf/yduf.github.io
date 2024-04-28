@@ -25,3 +25,6 @@ Using
 - [Biconnected Components [Explained + Algorithm to find it]](https://iq.opengenus.org/biconnected-components/)
 
 [![caption](https://blog.polybdenum.com/img/1*FKnFcRSIYWA-J3vd3UkwNA.png)](https://blog.polybdenum.com/2017/07/26/solving-the-traveling-pacman-problem.html#biconnected-components)
+
+### see also
+- [How to Win at Pacman Part 1 - Patterns for every level](https://www.youtube.com/watch?v=Bin0vu8Hp0g)
