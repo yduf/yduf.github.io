@@ -1,6 +1,6 @@
 ---
 published: true
-title: Meet in the Middle
+title: Meet in the Middle (MM)
 tags: algorithm rubik hash nearest-neighbor
 ---
 > The algorithmic trick that solves Rubik’s Cubes and breaks ciphers - [youtube](https://www.youtube.com/watch?v=wL3uWO-KLUE)
