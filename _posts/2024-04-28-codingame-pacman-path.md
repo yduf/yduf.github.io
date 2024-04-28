@@ -9,7 +9,9 @@ tags: codingame pacman graph algorithm
 - [Working Harder, not Smarter in Pacman](https://saumikn.com/blog/working-harder-not-smarter-in-pacman/)
 - [Optimal Pac-Man](https://chalkdustmagazine.com/features/optimal-pac-man/)
 
-
+- [use collaborative-diffusion](https://wiki.computationalthinkingfoundation.org/wiki/Collaborative_Diffusion)
+    - [Collaborative Diffusion on the GPU for Path-finding in Games](file:///home/yves/Downloads/mcmillan.pdf)
+    
 - [Pacman: how do the eyes find their way back to the monster hole? [closed]](https://stackoverflow.com/questions/3148435/pacman-how-do-the-eyes-find-their-way-back-to-the-monster-hole)
 
 ### [Biconnected components](https://en.wikipedia.org/wiki/Biconnected_component)
