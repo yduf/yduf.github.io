@@ -5,7 +5,9 @@ tags: codingame pacman graph algorithm pathfinding search
 ---
 > [Solving the Traveling Pacman Problem](https://blog.polybdenum.com/2017/07/26/solving-the-traveling-pacman-problem.html)
 
-- use  [Biconnected components](#biconnected-components)
+Using
+- [Biconnected components](#biconnected-components)
+- [Carving width](https://en.wikipedia.org/wiki/Branch-decomposition#Carving_width)
 
 - [Pathfinding in Pacman domain](https://pnut2357.github.io/search-algorithms/)
 - [a short path for eating all the dots](https://stackoverflow.com/questions/12877560/pacman-a-short-path-for-eating-all-the-dots)
