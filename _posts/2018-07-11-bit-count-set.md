@@ -1,5 +1,5 @@
 ---
-title: 'Popcount / Hamming weight (# bit set)'
+title: Popcount / Hamming weight (# bit set)
 published: true
 tags: c++ bits lookup hamming algorithm
 ---
@@ -45,6 +45,14 @@ int popcount(uint32_t i) {
      i = (i & 0x33333333) + ((i >> 2) & 0x33333333);  // quads
      i = (i + (i >> 4)) & 0x0F0F0F0F;        // groups of 8
      return (i * 0x01010101) >> 24;          // horizontal sum of bytes
+}
+  
+// alternative version for 64bits - similar logic
+int countOnes(unsigned long number) { 
+  i = i - ((i >> 1) & 0x7777777777777777) 
+        - ((i >> 2) & 0x3333333333333333) 
+        - ((i >> 3) & 0x1111111111111111); 
+  return (((i + (i >> 4)) & 0x0F0F0F0F0F0F0F0F) * 0x0101010101010101 ) >> 56; 
 }
 {% endhighlight %}
   
