@@ -3,7 +3,7 @@ published: true
 title: EDM Printer
 tags: 3dprinter edm
 ---
-> [I built an EDM machine](https://www.youtube.com/watch?v=5CeCxkFVCdM&list=PLh9akXp2EH2ATO7fJ6EVeahKw5azFSTue&index=13) / [kickstarter](https://www.kickstarter.com/projects/rackrobotics/powercore-cut-through-solid-metal-with-edm?ref=ksr_email_creator_launch)
+> [I built an EDM machine](https://www.youtube.com/watch?v=5CeCxkFVCdM&list=PLh9akXp2EH2ATO7fJ6EVeahKw5azFSTue&index=13) / [kickstarter](https://www.kickstarter.com/projects/rackrobotics/powercore-cut-through-solid-metal-with-edm?ref=ksr_email_creator_launch) / [Électro-érosion (FR)](https://fr.wikipedia.org/wiki/%C3%89lectro-%C3%A9rosion)
 
 [rackrobo.io/](https://rackrobo.io/)
 - [Wire EDM at home? RackRobotics PowerCore V2 FIRST LOOK](https://www.youtube.com/watch?v=YLF70yzrhWw)
