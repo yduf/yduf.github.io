@@ -5,7 +5,10 @@ tags: codingame tic-tac-toe MCTS AI NN
 ---
 >  A much more strategic version of tic-tac-toe - [rules explained](https://www.thegamegal.com/2018/09/01/ultimate-tic-tac-toe/) / [Codingame](https://www.codingame.com/multiplayer/bot-programming/tic-tac-toe) / [online](https://ziap.github.io/uttt/)
 
+### Strategy
 - [Positional analysis for Ultimate Tic Tac Toe](https://minimax.dev/docs/ultimate/pruning/#positional-analysis-for-ultimate-tic-tac-toe)
+
+### IA
 - [ultimate_tic-tac-toe_alphazero](https://github.com/Arnav235/ultimate_tic-tac-toe_alphazero) / [youtube](https://www.youtube.com/watch?v=CcwC8tTe_QE)
 - [SaltZero](https://github.com/farmersrice/saltzero) matched against codingame (but a big model > 200Mo)
 - [Tic-Tac-Toe with a Neural Network](https://nestedsoftware.com/2019/12/27/tic-tac-toe-with-a-neural-network-1fjn.206436.html)
