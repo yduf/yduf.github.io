@@ -6,6 +6,8 @@ tags: serialization  protobuf reverse
 > [Protocol Buffers](https://developers.google.com/protocol-buffers/)
 Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data.
 
+- [How to install Protobuf on Ubuntu](https://www.geeksforgeeks.org/how-to-install-protobuf-on-ubuntu/)
+
 see also
 - [	Reverse Engineering Protobuf Definitions from Compiled Binaries](https://news.ycombinator.com/item?id=39654445)
 
