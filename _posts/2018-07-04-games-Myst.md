@@ -18,5 +18,6 @@ tags: games adventure
 
 - [Myst (2021)](https://adventuregamers.com/articles/view/myst-2021) install with Lustris Wine (System 8.0.2) - Windows 7 x64 - launch GOG installer
 	- play  running Myst.exe with [-dx11](https://appdb.winehq.org/objectManager.php?sClass=version&iId=40229#knownbugs) option.
+    - disable DXVK
 
 [![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.wccftech.com%2Fwp-content%2Fuploads%2F2021%2F08%2Fmyst-remakeHD-scaled.jpg&f=1&nofb=1&ipt=85912b5061d51d9c770da34940ecb028281490c1a6def7d39321f804832f0c9e&ipo=images)](https://duckduckgo.com/?t=lm&q=myst&iax=images&ia=images&iai=https%3A%2F%2Fcdn.wccftech.com%2Fwp-content%2Fuploads%2F2021%2F08%2Fmyst-remakeHD-scaled.jpg)
