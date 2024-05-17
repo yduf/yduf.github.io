@@ -170,7 +170,7 @@ like [USSA design](https://www.youtube.com/@ussadesign/videos)
     </svg>
     <div class="product-list">Grey
       <ul>
-        <li><a href="#">none</a></li>
+         <li><span class="circle" style="background-color: #797B7A;"></span><a href="https://www.amazon.fr/dp/B07DCLQG45">Grey (ANYCUBIC)</a></li>
       </ul>
     </div>
   </div>
