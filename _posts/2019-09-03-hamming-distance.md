@@ -7,6 +7,7 @@ tags: hash hamming distance nearest-neighbor vector search LLM
 
 see also
 - [	Exact binary vector search for RAG in 100 lines of Julia ](https://news.ycombinator.com/item?id=40379347) - RAG + full scan & hamming distance
+	- [Binary and Scalar Embedding Quantization for Significantly Faster & Cheaper Retrieval](https://huggingface.co/blog/embedding-quantization)
 - [Improved Hamming Distance Search using Variable Length Hashing](https://openaccess.thecvf.com/content_cvpr_2016/papers/Ong_Improved_Hamming_Distance_CVPR_2016_paper.pdf)
 - [Detecting Near-Duplicates for Web Crawling](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/33026.pdf)
 - [Similarity Estimation Techniques from Rounding Algorithms](https://www.cs.princeton.edu/courses/archive/spr04/cos598B/bib/CharikarEstim.pdf)
