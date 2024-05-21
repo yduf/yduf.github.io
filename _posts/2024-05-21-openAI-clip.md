@@ -1,0 +1,6 @@
+---
+title: CLIP (OpenAI)
+published: true
+tags: generative-AI word2vec
+---
+> how totransforms Image Classification into a Text-Image similarity matching task. - [youtube](https://www.youtube.com/watch?v=u0HG77RNhPE)
