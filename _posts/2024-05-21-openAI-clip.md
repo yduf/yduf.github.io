@@ -7,3 +7,4 @@ tags: AI generative-AI word2vec
 
 see also
 - [CLIP: Connecting text and images](https://openai.com/index/clip/)
+	- [Hugging Face](https://huggingface.co/docs/transformers/model_doc/clip)
