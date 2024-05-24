@@ -33,3 +33,4 @@ sudo apt install mc
 
 see also
 - [TagSpaces](https://www.tagspaces.org/) / [github](https://github.com/tagspaces/tagspaces) - a file manager with tagging and note-taking capabilities
+	- tags are saved in filename or in sidecar .json
