@@ -30,3 +30,6 @@ Restart nemo with `nemo --quit`
 {% highlight bash %}
 sudo apt install mc
 {% endhighlight %}
+
+see also
+- [TagSpaces](https://www.tagspaces.org/) / [github](https://github.com/tagspaces/tagspaces) - a file manager with tagging and note-taking capabilities
