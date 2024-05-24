@@ -1,7 +1,7 @@
 ---
 published: true
 title: File Manager
-tags: file-manager ubuntu
+tags: file-manager ubuntu tags
 ---
 > Nemo - File Manager for Cinnamon - [(github)](https://github.com/linuxmint/nemo)
 
