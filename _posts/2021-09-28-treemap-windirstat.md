@@ -6,6 +6,7 @@ tags: system disk treemap
 > WinDirStat is a disk usage statistics viewer - [Home](https://windirstat.net/)/[2](https://www.wikiwand.com/en/WinDirStat#Source_code) / [blog](https://blog.windirstat.net/) / [repo](https://osdn.net/projects/windirstat/#) / [github](https://github.com/windirstat/windirstat)
 
 - [WinDirStat-next](https://github.com/windirstat/windirstat-next?tab=readme-ov-file#windirstat---windows-directory-statistics)  / [HN](https://news.ycombinator.com/item?id=40449767)
+	- [QDirStat](https://github.com/shundhammer/qdirstat) - KDirStat without any KDE
 
 - [ ariccio/altWinDirStat](https://github.com/ariccio/altWinDirStat) - An unofficial modification of WinDirStat. Tremendous performance improvements.
 
