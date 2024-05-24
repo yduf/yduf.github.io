@@ -5,6 +5,8 @@ tags: system disk treemap
 ---
 > WinDirStat is a disk usage statistics viewer - [Home](https://windirstat.net/)/[2](https://www.wikiwand.com/en/WinDirStat#Source_code) / [blog](https://blog.windirstat.net/) / [repo](https://osdn.net/projects/windirstat/#) / [github](https://github.com/windirstat/windirstat) / [HN](https://news.ycombinator.com/item?id=40449767)
 
+- [WinDirStat-next](https://github.com/windirstat/windirstat-next?tab=readme-ov-file#windirstat---windows-directory-statistics)
+
 - [ ariccio/altWinDirStat](https://github.com/ariccio/altWinDirStat) - An unofficial modification of WinDirStat. Tremendous performance improvements.
 
 It uses [treemap](https://www.data-to-viz.com/graph/treemap.html) to represents each file as a colored rectangle, the area of which is proportional to the file's size.
