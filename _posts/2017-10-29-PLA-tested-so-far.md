@@ -171,7 +171,7 @@ like [USSA design](https://www.youtube.com/@ussadesign/videos)
     </svg>
     <div class="product-list">Grey
       <ul>
-         <li><span class="circle" style="background-color: #797B7A;"></span><a href="https://www.amazon.fr/dp/B07DCLQG45">Grey (ANYCUBIC)</a></li>
+  <li><span class="circle" style="background-color: #797B7A;"></span><a href="https://www.3djake.fr/polymaker/polyterra-pla-fossil-grey">Fossil Grey (PolyTerra) - smooth texture</a></li>       
       </ul>
     </div>
   </div>
@@ -183,6 +183,7 @@ like [USSA design](https://www.youtube.com/@ussadesign/videos)
     </svg>
     <div class="product-list">Dark Grey
       <ul>
+ 		<li><span class="circle" style="background-color: #797B7A;"></span><a href="https://www.amazon.fr/dp/B07DCLQG45">Grey (ANYCUBIC)</a></li>
         <li><span class="circle" style="background-color: #797B7A;"></span><a href="https://www.3djake.fr/formfutura/easyfil-epla-grey-aluminium">Grey Aluminium</a></li>
       </ul>
     </div>
