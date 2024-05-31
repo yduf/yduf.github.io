@@ -9,6 +9,6 @@ Being surprised that animals so different than us possibly dream is just another
 	Spiders Seem to Have REM-Like Sleep and May Even Dream](https://news.ycombinator.com/item?id=32396061)
     
 - [The Soliloquies of the Lambs: Review of Why Animals Talk](https://news.ycombinator.com/item?id=39324040)
-- [Flying Squirrel plays dead. Fakes crime scene.](https://www.youtube.com/watch?v=f75Vet_sJNo) - Squirrel put a broomstick down and then fake the action to make it look like the broomstick killed him.
+- [Flying Squirrel plays dead. Fakes crime scene.](https://www.youtube.com/watch?v=f75Vet_sJNo) - Squirrel put a broomstick down and then fake the action to make it look like the broomstick killed him. Looking around to see if owner notice him.
     
 ![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkronos-images.schoolmouv.fr%2F1-fnx-hlp-c18-img01-v2.png&f=1&nofb=1)
