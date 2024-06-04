@@ -6,7 +6,7 @@ tags: 3dprint filter co2
 > PM2.5 is of interest because it’s a size that your body has a harder time getting rid of. Larger size particles have an easier time being captured by the upper respiratory system. Smaller things might make it into the blood stream and hopefully be filtered by the kidneys. 2.5 microns is right at the point between where either thing is less likely to happen and instead the stuff might get stuck in your lungs. - [HN](https://news.ycombinator.com/item?id=40501015)
 
 ## Air quality
-[Formaldehyde Concentration in Building Air](https://inspectapedia.com/indoor_air_quality/Formaldehyde_Gas_Exposure_Limits.php)
+### [Formaldehyde Concentration in Building Air](https://inspectapedia.com/indoor_air_quality/Formaldehyde_Gas_Exposure_Limits.php)
 - > 0.0123  - mild irritation or allergic sensitization in some people
 - > 0.615 mg/M³ - irritation to eyes & mucous membranes
 - > 1.23 mg/M³ - possible nasopharyngeal cancer
