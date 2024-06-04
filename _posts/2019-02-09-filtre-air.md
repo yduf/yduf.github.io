@@ -12,6 +12,12 @@ tags: 3dprint filter co2
 - > 1.23 mg/M³ - possible nasopharyngeal cancer
 - > 3.684 mg/M³- Respiratory impairment and damage
 
+### [TVOC](https://www.environmental-expert.com/news/what-are-acceptable-voc-levels-in-the-air-814546)
+- Less than 0.3 mg/m3: Low
+- 0.3 to 0.5 mg/m3: Acceptable
+- 0.5 to 1 mg/m3: Marginal
+- 1 to 3 mg/m3: High
+
 [![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic1.squarespace.com%2Fstatic%2F4ff3cb5ce4b05dff6b7ae07e%2Ft%2F563d636fe4b0dc5f2bef239f%2F1446863736230%2Fcarbon-dioxide-co2-hazard-scale.jpg&f=1&nofb=1&ipt=00031af4a35ffd16e3e54d0eae6b5e271b6f377be773bb9ea3c3929c20e07e1b&ipo=images)](https://duckduckgo.com/?t=lm&q=air+quality+co2+level&iax=images&ia=images&iai=https%3A%2F%2Fstatic1.squarespace.com%2Fstatic%2F4ff3cb5ce4b05dff6b7ae07e%2Ft%2F563d636fe4b0dc5f2bef239f%2F1446863736230%2Fcarbon-dioxide-co2-hazard-scale.jpg)
 
 ### [Filtrer l'air d'une imprimante](https://www.lesimprimantes3d.fr/forum/topic/1628-filtrer-lair-dune-imprimante/)
