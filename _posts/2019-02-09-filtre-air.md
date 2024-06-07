@@ -5,7 +5,6 @@ tags: 3dprint filter co2
 ---
 > PM2.5 is of interest because it’s a size that your body has a harder time getting rid of. Larger size particles have an easier time being captured by the upper respiratory system. Smaller things might make it into the blood stream and hopefully be filtered by the kidneys. 2.5 microns is right at the point between where either thing is less likely to happen and instead the stuff might get stuck in your lungs. - [HN](https://news.ycombinator.com/item?id=40501015)
 
-> Il n’y a pas de réchauffement climatique il fait 18°C chez moi...La faim dans le monde n'existe pas je viens de manger...Le chômage n’existe pas, j’ai un travail...La pauvreté n’existe pas, j'ai une résidence secondaire...Le racisme n’existe pas, j’ai un ami noir...La fraude fiscale n’existe pas, je paye des impôts...L’adultère n’existe pas, je suis fidèle...La dictature n’existe pas, je vis en démocratie...Pas de guerre dans le monde, je vis dans un pays en paix...Ma table ne penche pas donc la Terre est plate . - [youtube](https://www.youtube.com/watch?v=keOb0gkXTyc&lc=UgzG81k4jjTKSh3SEMx4AaABAg)
 
 ## Air quality
 ### [Formaldehyde Concentration in Building Air](https://inspectapedia.com/indoor_air_quality/Formaldehyde_Gas_Exposure_Limits.php)
