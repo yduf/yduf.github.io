@@ -5,6 +5,8 @@ tags: computer-vision face opencv
 ---
 > [Face detection algorithms comparison](http://datahacker.rs/017-face-detection-algorithms-comparison/) / [Face detection tips, suggestions, and best practices](https://pyimagesearch.com/2021/04/26/face-detection-tips-suggestions-and-best-practices/)
 
+- [What is Face Detection? Ultimate Guide 2023 + Model Comparison](https://learnopencv.com/what-is-face-detection-the-ultimate-guide/)
+
 [![caption](https://learnopencv.com/wp-content/uploads/2017/02/real-time-face-tracking.gif)](https://learnopencv.com/object-tracking-using-opencv-cpp-python/)
 
 
@@ -26,6 +28,10 @@ ds/face_detection_yunet_2022mar.onnx`
 	- Adaboost - build a strong classifier from weaker one, complementing each previous one
     
 [![caption](https://github.com/opencv/opencv_zoo/raw/master/models/face_detection_yunet/examples/yunet_demo.gif)](https://github.com/opencv/opencv_zoo/tree/master/models/face_detection_yunet)
+
+## [Yolo](https://github.com/akanametov/yolov8-face)
+
+[![caption](https://github.com/akanametov/yolov8-face/raw/dev/results/face/face.jpg)](https://github.com/akanametov/yolov8-face)
 
 
 ## [Mediapipe](https://google.github.io/mediapipe/)

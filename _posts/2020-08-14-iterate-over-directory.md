@@ -26,7 +26,7 @@ see also
 - [How to list directory contents including dotfiles but not . and ..?](https://stackoverflow.com/questions/11385795/how-to-list-directory-contents-including-dotfiles-but-not-and)
 - [Paths in Ruby](https://www.clairecodes.com/blog/2016-01-01-paths-in-ruby/) - for path manipulation, eg: `File.expand_path( File.join( File.dirname(__FILE__), '../other' ))` or `File.expand_path('../other', __FILE__)`
 
-### [C++]({% post_url 2020-09-06-filesystem-tools %})
+### [C++ (x17)]({% post_url 2020-09-06-filesystem-tools %})
 {% highlight cpp %}
 #include <filesystem>
 namespace fs = std::filesystem;
@@ -38,3 +38,6 @@ int main() {
 {% endhighlight %}
 
 for g++ version < 9.0 link with `-lstdc++fs` see [undefined reference when using experimental/filesystem](https://stackoverflow.com/questions/49249349/undefined-reference-when-using-experimental-filesystem)
+
+see also
+- [std::filesystem::is_directory](https://en.cppreference.com/w/cpp/filesystem/is_directory) - example of checking different filetype. There are 2 kind of api: one trigger exception, the other return an error code.

@@ -67,11 +67,34 @@ revision = v2021.06.14.00
 {% endhighlight %}
 
 [**.gitignore** Meson subprojects](https://www.scivision.dev/git-ignore-meson-subproject/) - For Meson subprojects, using the negate .gitignore syntax Git will ignore subdirectories but track the subprojects/*.wrap files, by including in the project top-level .gitignore:
-{% highlight cpp %}
+{% highlight bash %}
 /subprojects/*
 !/subprojects/*.wrap
 {% endhighlight %}
 
+## Using [pkg-config](https://stackoverflow.com/a/68932575/51386)
+
+Meson provides the dependency() abstraction for working with pkg-config, cmake, various *-config tools, and a few built in dependencies that Meson has to save everyone reimplementing them, you would simply write:
+
+{% highlight bash %}
+dep_gstreamer = dependency('gstreamer-1.0')
+dep_gsreamer_video = dependency('gstreamer-video-1.0')
+# note that each dependency call finds 1 dependency
+{% endhighlight %}
+
+then you'd pass them to your targets:
+
+{% highlight bash %}
+build_target(
+  'name',
+  sources,
+  dependencies : [dep_gstreamer, dep_gstreamer_video]
+)
+{% endhighlight %}
+
+### Generating [pkg-config](https://mesonbuild.com/Pkg-config-files.html)
+
+Meson can also generate pkg info when compiling libs.
 
 ## [Native config files](https://mesonbuild.com/Release-notes-for-0-49-0.html#native-config-files)
 Meson has separation between project build descriptions in meson.build, and compilation environment / toolchain descriptions in native/cross files.
