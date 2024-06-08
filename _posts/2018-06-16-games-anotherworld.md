@@ -6,6 +6,7 @@ tags: games
 >  A young scientist who, as a result of an experiment gone wrong, finds himself on a dangerous alien world where he is forced to fight for his survival. - [wikipedia](https://en.wikipedia.org/wiki/Another_World_(video_game))
 
 [Code Review](http://fabiensanglard.net/anotherWorld_code_review/) / [HN](https://news.ycombinator.com/item?id=17320387)
+- [Another World : son code est fou](https://www.youtube.com/watch?v=PGLOiDDW4Kc) - code higlight
 
 - [The Story of Another World on the Amiga](https://www.youtube.com/watch?v=0iz9PJbs5rE)
 
