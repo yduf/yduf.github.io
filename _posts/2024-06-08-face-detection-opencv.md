@@ -17,7 +17,6 @@ The DNN-based detector overcomes all the drawbacks of the Haar cascade based det
 
 ### see also
 - [OpenCV DNN](https://pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/)
-	
     - [opencv/samples/dnn/face_detect.py](https://github.com/opencv/opencv/blob/4.x/samples/dnn/face_detect.py) - opencv battery included - `./dnn/example_dnn_face_detect -m=/home/yves/Downloa
 ds/face_detection_yunet_2022mar.onnx`
 		- [ ShiqiYu/libfacedetection](https://github.com/ShiqiYu/libfacedetection) - `./detect  -m=/home/yves/Downloads/face_detection_yunet_2022mar.onnx`
