@@ -3,7 +3,7 @@ title: Face detection (OpenCV DNN)
 published: true
 tags: computer-vision face opencv NN
 ---
-> [DNN]({% post_url 2023-03-10-opencv-dnn-module %}) Face detector in OpenCV 
+> [DNN]({% post_url 2023-03-10-opencv-dnn-module %}) Face detector in OpenCV - [OpenCV](https://docs.opencv.org/4.x/d0/dd4/tutorial_dnn_face.html)
 
 ### [A comparison](https://learnopencv.com/face-detection-opencv-dlib-and-deep-learning-c-python/) 
 
