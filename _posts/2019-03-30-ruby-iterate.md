@@ -53,3 +53,8 @@ end
 "input".chars.each_with_index { |c,i| ... }
 "input".bytes     { |c| ... }
 {% endhighlight %}
+
+### [Send method to each object in Array](https://stackoverflow.com/questions/18237446/send-method-to-each-object-in-array?rq=3)
+{% highlight ruby %}
+array.each(&:some_method)
+{% endhighlight %}
