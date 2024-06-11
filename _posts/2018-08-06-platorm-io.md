@@ -5,6 +5,9 @@ tags: arduino esp32 vscode ide serial
 ---
 > Professional collaborative platform for embedded development - [platformio.org/](https://platformio.org/)
 
+see also
+- [PlatformIO drama](https://news.ycombinator.com/item?id=40648035) - PlatformIO built up a dominant position by supporting all these platforms and accepting community contributions to do so, then tried extracting value from the manufacturers directly after the fact, blocking further community PRs that would add new board revisions or fix bugs.
+
 ## Install
 Install as VSCode extension
 
