@@ -57,4 +57,7 @@ end
 ### [Send method to each object in Array](https://stackoverflow.com/questions/18237446/send-method-to-each-object-in-array?rq=3)
 {% highlight ruby %}
 array.each(&:some_method)
+# Which is shorthand for
+array.each(&Proc.new { |x| x.some_method })
+# Use that version if you need to pass parameters to the method.
 {% endhighlight %}
