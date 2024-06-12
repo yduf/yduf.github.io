@@ -9,6 +9,9 @@ tags: climate-war science movie games
 
 
 see also
+- [David Lightman's bedroom in the 1983 movie "WarGames"](https://www.miniatua.com/work/imsai/)
+	- [IMSAI 8080 microcomputer](https://www.miniatua.com/work/imsai/img/16.jpg) / [museum](https://americanhistory.si.edu/collections/nmah_334326)
+
 - [DEFCON](https://www.gog.com/fr/game/defcon) / [2](https://defcon.fileplanet.com/) - You play a General hidden deep within an underground bunker. Your mission is to successfully exterminate your enemy's civilian population whilst saving your own.
 
 ![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fscifiempire.net%2Fwordpress%2Fwp-content%2Fuploads%2F2015%2F11%2FPhoto-compilation-Wargames.jpg&f=1&nofb=1)
