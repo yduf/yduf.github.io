@@ -11,5 +11,6 @@ Being surprised that animals so different than us possibly dream is just another
 - [The Soliloquies of the Lambs: Review of Why Animals Talk](https://news.ycombinator.com/item?id=39324040)
 - [Flying Squirrel plays dead. Fakes crime scene.](https://www.youtube.com/watch?v=f75Vet_sJNo) - Squirrel put a broomstick down and then fake the action to make it look like the broomstick killed him. Looking around to see if owner notice him.
 - [	Wild elephants may have names that other elephants use to call them](https://news.ycombinator.com/item?id=40640076)
+- [Fish "Drive" To His Mom To Get Treats](https://www.youtube.com/watch?v=SgXlN0x--u8) - aquarium controlled by fish to go to place where he will be rewarded.
 
 ![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkronos-images.schoolmouv.fr%2F1-fnx-hlp-c18-img01-v2.png&f=1&nofb=1)
