@@ -1,7 +1,7 @@
 ---
 published: true
 title: Wargames
-tags: climate-war science movie games
+tags: climate-war science movie games computer
 ---
 > A strange game. The only winning move is not to play. How about a nice game of chess? - [Joshua](https://www.quotes.net/movies/wargames_12413)
 
