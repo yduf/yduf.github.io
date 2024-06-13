@@ -38,6 +38,11 @@ a.each_slice(3) # => #<Enumerator: [0, 1, 2, 3, 4, 5, 6, 7]:each_slice(3)>
 a.each_slice(3).to_a # => [[0, 1, 2], [3, 4, 5], [6, 7]
 {% endhighlight %}
 
+- [How to map/collect with index in Ruby?](https://stackoverflow.com/questions/4697557/how-to-map-collect-with-index-in-ruby) 
+`arr.each_with_index.map { |x,i| [x, i+2] }`
+or  
+`[:a, :b, :c].map.with_index(2).to_a` #=> [[:a, 2], [:b, 3], [:c, 4]]
+
 see also
 - [Console table format in ruby](https://stackoverflow.com/questions/36156305/console-table-format-in-ruby)
 	- [ConsoleTable](https://github.com/rodhilton/console_table?tab=readme-ov-file#consoletable--) - a helper class that allows you to print data to a console in a clean, table-like fashion.
