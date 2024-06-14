@@ -12,5 +12,7 @@ Stroustrup
 - Global static analysis is just unaffordable
 - Being careful doesn’t scale
 
-see also
+### see also
 - [	Main is usually a function](https://news.ycombinator.com/item?id=37045803) - So then when is it not?
+- [Debug & Build C++ Project]({% post_url 2020-09-19-vscode-cpp-project %})
+
