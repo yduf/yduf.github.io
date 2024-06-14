@@ -6,7 +6,56 @@ tags: debug-c++ vscode gdb c++
 > How to set up C++ Compiler with Visual Studio Code. - [Setup Visual Studio Code for Multi-File C++ Projects](https://dev.to/talhabalaj/setup-visual-studio-code-for-multi-file-c-projects-1jpi)
 
 see also
+- [C++ in VS Code: A Quick Guide](https://www.youtube.com/watch?v=qeEcV6u1kV4&t=24s)
 - [Godot Docs](https://docs.godotengine.org/en/latest/contributing/development/configuring_an_ide/visual_studio_code.html)
+
+### Quick start
+Install [Code runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) extension.
+
+Customize it inside your project to have includes path, eg:
+{% highlight json %}
+// Edit Executor map
+"code-runner.executorMap": {
+        "cpp": "cd $dir && g++ -std=c++20 -I ~/DEV/cpp -g $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+{% endhighlight %}
+
+For one file program, it's good enough => It will compile them with debug info, in an executable of same name (use )
+
+To debug this single files, use the [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) microsoft extension and invoke directly the gdb config (using current file as target).
+
+{% highlight json %}
+// in .vscode/launch.json
+{
+  "configurations": [
+    {
+      "name": "(gdb) Launch",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${fileDirname}/${fileBasenameNoExtension}",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${fileDirname}",
+      "environment": [],
+      "externalConsole": false,
+      "MIMode": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        },
+        {
+          "description": "Set Disassembly Flavor to Intel",
+          "text": "-gdb-set disassembly-flavor intel",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ],
+  "version": "2.0.0"
+}
+{% endhighlight %}
+
 
 ### [Build task](https://code.visualstudio.com/Docs/editor/tasks)
 
