@@ -22,5 +22,7 @@ $ nmcli con mod "$connectionName" ipv4.dns "8.8.8.8 8.8.4.4"
 $ service NetworkManager restart
 {% endhighlight %}
 
+- [NetworkManager](https://wiki.debian.org/NetworkManager)
+
 
 
