@@ -3,6 +3,11 @@ title: Armbian
 published: true
 tags: linux-system raspberry-pi arm
 ---
-## A New Post
+> Armbian official website - [archive](http://xogium.performanceservers.nl/archive/bananapim2zero/archive/) 
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+### Seting up Wifi
+
+using `nmtui`
+- activate connection
+
+### Static ip
