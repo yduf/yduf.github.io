@@ -17,7 +17,9 @@ see [nmcli to display the status of a connection](https://unix.stackexchange.com
 - [How to manage DNS in NetworkManager via console (nmcli)?](https://serverfault.com/questions/810636/how-to-manage-dns-in-networkmanager-via-console-nmcli)
 
 {% highlight bash %}
-nmcli con mod "$connectionName" ipv4.dns "8.8.8.8 8.8.4.4"
+$ nmcli con show
+$ nmcli con mod "$connectionName" ipv4.dns "8.8.8.8 8.8.4.4"
+$ service NetworkManager restart
 {% endhighlight %}
 
 
