@@ -3,7 +3,7 @@ title: Armbian
 published: true
 tags: linux-system raspberry-pi arm
 ---
-> Armbian official website - [archive](http://xogium.performanceservers.nl/archive/bananapim2zero/archive/) 
+> optimized Debian and Ubuntu Linux images for ARM-based SBCs - [archive](http://xogium.performanceservers.nl/archive/bananapim2zero/archive/) 
 
 ### Seting up Wifi
 
