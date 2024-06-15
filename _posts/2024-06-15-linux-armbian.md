@@ -23,6 +23,6 @@ $ service NetworkManager restart
 {% endhighlight %}
 
 - [NetworkManager](https://wiki.debian.org/NetworkManager)
-
+	- [How to troubleshoot DNS with systemd-resolved?](https://unix.stackexchange.com/questions/328131/how-to-troubleshoot-dns-with-systemd-resolved)
 
 
