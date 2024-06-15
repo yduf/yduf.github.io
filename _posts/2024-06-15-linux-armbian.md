@@ -11,3 +11,6 @@ tags: linux-system raspberry-pi arm
 using [`nmtui`](https://www.tecmint.com/nmtui-configure-network-connection/)
 - _activate connection_ to connect to wifi
 - using _edit connection_ => you can configure static ip
+
+For troubleshooting
+see [nmcli to display the status of a connection](https://unix.stackexchange.com/questions/441969/use-nmcli-to-display-the-status-of-a-connection)
