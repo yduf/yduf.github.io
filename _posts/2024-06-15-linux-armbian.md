@@ -14,3 +14,4 @@ using [`nmtui`](https://www.tecmint.com/nmtui-configure-network-connection/)
 
 For troubleshooting
 see [nmcli to display the status of a connection](https://unix.stackexchange.com/questions/441969/use-nmcli-to-display-the-status-of-a-connection)
+
