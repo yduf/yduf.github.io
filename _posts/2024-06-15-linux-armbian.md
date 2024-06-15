@@ -7,7 +7,6 @@ tags: linux-system raspberry-pi arm
 
 ### Seting up Wifi
 
-using `nmtui`
-- activate connection
-
-### Static ip
+using [`nmtui`](https://www.tecmint.com/nmtui-configure-network-connection/)
+- _activate connection_ to connect to wifi
+- using _edit connection_ => you can configure static ip
