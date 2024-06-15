@@ -9,6 +9,21 @@ tags: raspberry-pi hardware arm
 <link rel="shortcut icon" href="https://www.raspberrypi.org/app/themes/mind-control/images/favicon.png" type="image/png" />
 {:/}
 
+### Fleet
+[Checking Model version](https://www.raspberrypi-spy.co.uk/2012/09/checking-your-raspberry-pi-board-version/) `cat /proc/device-tree/model` 
+or `pinout` in new raspbian version
+- Banana-pi M2 Zero (The100) - (2024)
+- Raspberry Pi 4 Model B Rev 1.2 ([ender6](http://ender6)) - armv7l - 4Go - (2021)
+- Raspberry Pi 3 Model B Rev 1.2 ([ender3](http://ender3))- armv7l - 1Go - (2019)
+- Raspberry Pi   Model B - arm ? - 0.5Go - (2013)
+
+and also
+- [CubieTruck (Cubieboard3)]({% post_url 2023-06-19-arm-cubietruck %})  - (2013)
+
+### GPIO
+
+![caption](https://www.raspberrypi-spy.co.uk/wp-content/uploads/2012/06/raspberry_pi_3_model_b_plus_gpio.jpg)
+
 ## USB
 ### [Finding Serial ports](https://www.klipper3d.org/FAQ.html#wheres-my-serial-port)
 - `ls /dev/serial/by-id/*` -> **this is stable**
@@ -31,18 +46,6 @@ tags: raspberry-pi hardware arm
 - [Disable WiFi (wlan0) on Pi](https://raspberrypi.stackexchange.com/questions/43720/disable-wifi-wlan0-on-pi-3)
 
 ### [Boot](({% post_url 2020-09-20-uast-drive %}))
-
-## Fleet
-[Checking Model version](https://www.raspberrypi-spy.co.uk/2012/09/checking-your-raspberry-pi-board-version/) `cat /proc/device-tree/model` 
-or `pinout` in new raspbian version
-- Raspberry Pi 4 Model B Rev 1.2 ([ender6](http://ender6)) - armv7l - 4Go - (2021)
-- Raspberry Pi 3 Model B Rev 1.2 ([ender3](http://ender3))- armv7l - 1Go - (2019)
-- Raspberry Pi   Model B - arm ? - 0.5Go - (2013)
-
-and also
-- [CubieTruck (Cubieboard3)]({% post_url 2023-06-19-arm-cubietruck %})  - (2013)
-
-
 
 ## [r/raspberry_pi](https://www.reddit.com/r/raspberry_pi/)
 - [Act as a usb device for another computer.](https://www.reddit.com/r/raspberry_pi/comments/jir0u8/i_just_realized_the_raspberry_pi_4_can_do/)
