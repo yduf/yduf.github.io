@@ -3,7 +3,7 @@ title: DNS
 published: true
 tags: network
 ---
-> 	Why is DNS still hard to learn? - [jvns](https://news.ycombinator.com/item?id=36909427)
+> Why is DNS still hard to learn? - [jvns](https://news.ycombinator.com/item?id=36909427)
 
 - [Useful Tools to Troubleshoot DNS Name Resolution Problems](https://www.tecmint.com/troubleshoot-dns-in-linux/)
 
