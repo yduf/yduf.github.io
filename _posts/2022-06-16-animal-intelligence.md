@@ -15,3 +15,6 @@ Being surprised that animals so different than us possibly dream is just another
 - [Craw playing tic-tac-toe](https://youtube.com/shorts/3K2vFmCkO6o?si=kLAL_m6aXxudesza)
 
 ![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkronos-images.schoolmouv.fr%2F1-fnx-hlp-c18-img01-v2.png&f=1&nofb=1)
+
+### see also
+- [Enthoven vs. ChatGPT : QUI EST L'IMPOSTEUR ?](https://www.youtube.com/watch?v=dOF9vc5tLJ4) - man pretend machine will never be able to think (Enthoven)
