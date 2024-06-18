@@ -16,6 +16,15 @@ Being surprised that animals so different than us possibly dream is just another
 
 ![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkronos-images.schoolmouv.fr%2F1-fnx-hlp-c18-img01-v2.png&f=1&nofb=1)
 
+### [Consciousness]({% post_url 2020-06-07-consciousness %})
+_Well, could you give me the definition of consciousness? No you can’t. So now you’re asking me both to define it and show if animals have it or not._
+
+_Are animals aware of their surroundings? Yes. Are animals showing the behavioural signs of pain when you hurt them? Yes. Can animals direct attention? Yes. Can animals remember? Yes. Can animals learn? Yes. Are animals self-aware? Some of them, some only sometimes, some not._
+
+_To think of consciousness as a dichotomy instead of a spectrum is baffling to me. As is thinking of consciousness as being a single, indivisible thing._ - [	Are animals conscious?](https://news.ycombinator.com/item?id=40714449)
+
+
+
 ### see also
 - [Enthoven vs. ChatGPT : QUI EST L'IMPOSTEUR ?](https://www.youtube.com/watch?v=dOF9vc5tLJ4) - man pretend machine will never be able to think (man is Enthoven)
 	- _"On a d'un côté quelque chose capable de générer à volonté des suites de mots sur n'importe quoi en donnant une troublante illusion de compétence... et de l'autre côté un chatbot."_ - Mr Phi
