@@ -1,5 +1,5 @@
 ---
-title: Monte-Carlo Tree Search (MCTS)
+title: '# Monte-Carlo Tree Search (MCTS)'
 published: true
 tags: AI MCTS search montecarlo algorithm
 use_math: true
