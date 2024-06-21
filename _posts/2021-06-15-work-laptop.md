@@ -4,7 +4,11 @@ title: Work Laptops
 tags: pc-hardware laptop
 ---
 
-## [Dell Precision 5550](https://www.dell.com/en-us/work/shop/dell-laptops-and-notebooks/precision-5550-workstation/spd/precision-15-5550-laptop)
+### [Mac]()
+- 16'' screen
+- as heavy as DELL 
+
+### [Dell Precision 5550](https://www.notebookcheck.net/Dell-Precision-5550-Workstation-Review-The-XPS-15-For-Professionals.483877.0.html)
 - 15'' screen 
 - lourd ( 1.8 kg)
 
