@@ -1,6 +1,6 @@
 ---
 published: true
-title: Quick Simple Parser
+title: Quick Simple Parser (scanf)
 tags: c++ config parser single-header json toml
 ---
 > I tend to fall back on scanf when I have to parse simple text files. - [Simple string parsing with C++](https://stackoverflow.com/questions/2880903/simple-string-parsing-with-c)
