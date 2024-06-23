@@ -21,7 +21,7 @@ see also
 	- success stories of using chatGPT : use your taste&creativity + feedback from chatGPT to complete your lack of knowledge of particular techhnology.
 		- [UnitTest](https://youtu.be/trGJsOcA4hY?feature=shared&t=2916) - test framework shown in the presentation - chatGPT has no planning, no leaping to unknown, not got to what was not done.
 		- chatGDB - when a program failed it tell you why.
-- [ChatGPT rêve-t-il de cavaliers électriques ? (Mr Phi)](https://www.youtube.com/watch?v=6D1XIbkm4JE) - ChatGPT3.5 reach 1800ELO playing chess
+- [ChatGPT rêve-t-il de cavaliers électriques ? (Mr Phi)](https://www.youtube.com/watch?v=6D1XIbkm4JE) - ChatGPT3.5 reach 1800ELO playing chess / not just a stochastic parrots.
 	- chatGPT 4 is less good, for unkwnown reason.
     - Emergent world representation (like chessboard)
     - game history play a lot in ability to play in a good way
