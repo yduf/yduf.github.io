@@ -23,6 +23,9 @@ see also
 		- chatGDB - when a program failed it tell you why.
 - [ChatGPT rêve-t-il de cavaliers électriques ? (Mr Phi)](https://www.youtube.com/watch?v=6D1XIbkm4JE) - ChatGPT3.5 reach 1800ELO playing chess
 	- chatGPT 4 is less good, for unkwnown reason.
-    - Emergent world representation
+    - Emergent world representation (like chessboard)
+    - game history play a lot in ability to play in a good way
+    	- random play history lead to pour play
+        - good play history lead to better play
 
 [![caption](https://www.monkeyuser.com/assets/images/2020/191-reverse-turing-test.png)](https://www.monkeyuser.com/2020/reverse-turing-test/)
