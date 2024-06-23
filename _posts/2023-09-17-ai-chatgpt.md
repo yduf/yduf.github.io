@@ -23,5 +23,6 @@ see also
 		- chatGDB - when a program failed it tell you why.
 - [ChatGPT rêve-t-il de cavaliers électriques ? (Mr Phi)](https://www.youtube.com/watch?v=6D1XIbkm4JE) - ChatGPT3.5 reach 1800ELO playing chess
 	- chatGPT 4 is less good, for unkwnown reason.
+    - Emergent world representation
 
 [![caption](https://www.monkeyuser.com/assets/images/2020/191-reverse-turing-test.png)](https://www.monkeyuser.com/2020/reverse-turing-test/)
