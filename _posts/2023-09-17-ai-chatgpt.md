@@ -33,3 +33,5 @@ ChatGPT is a _development limité_ of human knowledge, you can get a good initia
         - une comprehension objective sans comprehension subjective
 	- agrument enormément critiqué (de part et d'autre)
 [![caption](https://www.monkeyuser.com/assets/images/2020/191-reverse-turing-test.png)](https://www.monkeyuser.com/2020/reverse-turing-test/)
+		- l'homme processeur ne comprend rien,
+        - mais le systeme (la chambre chinoise) est le detenteur de la comprehension.
