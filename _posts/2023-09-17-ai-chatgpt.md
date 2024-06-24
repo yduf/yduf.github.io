@@ -30,5 +30,6 @@ ChatGPT is a _development limité_ of human knowledge, you can get a good initia
 - [La preuve définitive que ChatGPT ne comprend rien](https://www.youtube.com/watch?v=_XJsAQsT0Bo) - la chambre chinoise
 	- le fonctionnalisme / le computationisme
     	- la seule execution d'un algorithme ne suffit pas a générer de la compréhension - subjectif vs objectif (l'experience de la chambre chinoise) - "la vraie comprehension" ? / la conscience
+        - une comprehension objective sans comprehension subjective
 
 [![caption](https://www.monkeyuser.com/assets/images/2020/191-reverse-turing-test.png)](https://www.monkeyuser.com/2020/reverse-turing-test/)
