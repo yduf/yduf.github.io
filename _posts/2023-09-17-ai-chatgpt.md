@@ -11,7 +11,7 @@ ChatGPT is a _development limité_ of human knowledge, you can get a good initia
 
 - [What's wrong with LLMs and what we should be building instead](https://www.youtube.com/watch?v=cEyHsMzbZBs)
 
-see also
+### see also
 - [AI to replace 2.4 million jobs in the US by 2030, many fewer than other forms of automation](https://www.theregister.com/2023/09/06/generative_ai_jobs_forrester_report/)
 - [C++hatGPT & AI Tools' Impact](https://www.youtube.com/watch?v=trGJsOcA4hY) - explores the inner workings of large language models with an eye for leveraging them effectively for coding tasks. 
 	- Good art is skill + taste + creativy 
@@ -29,6 +29,6 @@ see also
         - good play history lead to better play
 - [La preuve définitive que ChatGPT ne comprend rien](https://www.youtube.com/watch?v=_XJsAQsT0Bo) - la chambre chinoise
 	- le fonctionnalisme / le computationisme
-    	- la seule execution d'un algorithme ne suffit pas a générer de la compréhension - subjectif vs objectif (l'experience de la chambre chinoise)
+    	- la seule execution d'un algorithme ne suffit pas a générer de la compréhension - subjectif vs objectif (l'experience de la chambre chinoise) - "la vraie comprehension" ?
 
 [![caption](https://www.monkeyuser.com/assets/images/2020/191-reverse-turing-test.png)](https://www.monkeyuser.com/2020/reverse-turing-test/)
