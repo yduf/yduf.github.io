@@ -31,5 +31,5 @@ ChatGPT is a _development limité_ of human knowledge, you can get a good initia
 	- le fonctionnalisme / le computationisme
     	- la seule execution d'un algorithme ne suffit pas a générer de la compréhension - subjectif vs objectif (l'experience de la chambre chinoise) - "la vraie comprehension" ? / la conscience
         - une comprehension objective sans comprehension subjective
-
+	- agrument enormément critiqué (de part et d'autre)
 [![caption](https://www.monkeyuser.com/assets/images/2020/191-reverse-turing-test.png)](https://www.monkeyuser.com/2020/reverse-turing-test/)
