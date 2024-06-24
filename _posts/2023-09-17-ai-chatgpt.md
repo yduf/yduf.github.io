@@ -36,3 +36,5 @@ ChatGPT is a _development limité_ of human knowledge, you can get a good initia
 		- l'homme processeur ne comprend rien,
         - mais le systeme (la chambre chinoise) est le detenteur de la comprehension.
         - l'exceptionalité humaine sans justification (les machines (toutes) ne pensent pas (toujours))
+	- prediction fausse de Yann Lecun - le telephone sur la table
+    - model entrainée sur des textes - capable de generé des images (via programmes) et dessine un mouton / une licorne.
