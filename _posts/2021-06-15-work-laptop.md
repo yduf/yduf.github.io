@@ -4,7 +4,7 @@ title: Work Laptops
 tags: pc-hardware laptop
 ---
 
-### [Mac]()
+### [Mac Pro]()
 - 16'' screen
 - as heavy as DELL 
 
