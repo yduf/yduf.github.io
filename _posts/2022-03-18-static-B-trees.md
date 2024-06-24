@@ -6,7 +6,9 @@ tags: tree search algorithm fastware
 > Static B-Trees,  a data structure for faster binary search - [Algorithmica.org](https://en.algorithmica.org/hpc/data-structures/s-tree/) / [HN](https://news.ycombinator.com/item?id=30376140)
 
 ### see also
-- [	B-Trees Require Fewer Comparisons Than Balanced Binary Search Trees](https://news.ycombinator.com/item?id=40768418)
+- [	B-Trees Require Fewer Comparisons Than Balanced Binary Search Trees](https://news.ycombinator.com/item?id=40768418) 
+	- How B-trees can win is by taking advantage of the node children being sorted in an array. This allows a binary search to be used. Binary search makes B-tree more or less equivalent to a very balanced binary tree. - [HN](https://news.ycombinator.com/item?id=40774105)
+    	- linear search could even be more efficient and cache friendly (assuming small child array).
 - [Robots Are After Your Job: Exploring Generative AI for C++ - Andrei Alexandrescu - CppCon 2023](https://www.youtube.com/watch?v=J48YTbdJNNc) - now at NVidia
 	- binary search invented in 1946, support odd size in 1957
     - std::lower_bound does not return early - but does only one comparison compared to binary_search
