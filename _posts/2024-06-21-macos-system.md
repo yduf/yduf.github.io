@@ -7,6 +7,7 @@ tags: macos-system
 
 ### Howto
 - [MacBook Pro detects external monitor but shows black screen](https://apple.stackexchange.com/questions/25003/macbook-pro-detects-external-monitor-but-shows-black-screen) - unplug HDMI from hub & reconnect
+- [How to Make Mac Keyboards, Mice, and Trackpads Work Like on Windows](https://www.howtogeek.com/how-to-make-mac-keyboards-mice-and-trackpads-work-like-on-windows/#:~:text=Set%20Up%20Your%20Mac%20Keyboard%20Like%20Windows%201,System%20Shortcuts%20...%208%20Enable%20Mouse%20Keys%20)
 
 ### [Keyboard](https://medium.com/@Pawel.Sierszen/is-switching-to-mac-worth-it-an-experience-of-a-lifelong-linux-user-fa3300db5325#keyboard-and-shortcuts)
 
