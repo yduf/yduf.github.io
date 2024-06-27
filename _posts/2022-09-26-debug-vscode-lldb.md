@@ -13,6 +13,7 @@ tags: debug-c++ vscode gdb
 see also
 - [GDB Vs LLDB debuggers](https://stackoverflow.com/questions/9707883/gdb-vs-lldb-debuggers)
 	- [GDB Advanced Techniques: Expanding GDB Functionality with Custom Function Execution](https://altmannmarcelo.medium.com/gdb-advanced-techniques-expanding-gdb-functionality-with-custom-function-execution-ccf50894f61b)
+    - [What are the best ways to automate a GDB debugging session?](https://stackoverflow.com/questions/10748501/what-are-the-best-ways-to-automate-a-gdb-debugging-session)
 - [Scripting Bridge API](https://lldb.llvm.org/design/sbapi.html) - The SB APIs constitute the stable C++ API that lldb presents to external clients, and which get processed by SWIG to produce the Python bindings to lldb.
 	- [Lua Scripting in LLDB](https://jonasdevlieghere.com/lua-scripting-in-lldb/)
 
