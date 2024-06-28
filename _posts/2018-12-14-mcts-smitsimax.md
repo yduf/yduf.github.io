@@ -1,7 +1,7 @@
 ---
 published: true
 title: Handling simultaneous move (Smitsimax)
-tags: codingame MCTS
+tags: MCTS codingame
 ---
 > UTC forest - [codingame](https://www.codingame.com/playgrounds/36476/smitsimax)
 
