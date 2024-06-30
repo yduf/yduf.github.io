@@ -5,6 +5,9 @@ tags: games arcade retro emulation
 ---
 > _GIGA POWER_ - [neo-geo.com](https://www.neo-geo.com/) 
 
+see also
+- [	Neo Geo Architecture: A practical analysis ](https://news.ycombinator.com/item?id=40828068)
+
 ![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-UiHYqDNiVkA%2FYCDCVgJ6vTI%2FAAAAAAAAAkg%2FM0owQ58EhPM6Va_9-Z6erOuBtMI_jhyjACLcBGAsYHQ%2Fs1920%2F2552760.jpg&f=1&nofb=1&ipt=69e9f584af0c0e30f4993d09d863dae8866bbaea7efc6a5cdf65e91e4c22b2cb&ipo=images)
 
 2020 Super Baseball (set 1)
