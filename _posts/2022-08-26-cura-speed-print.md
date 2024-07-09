@@ -29,6 +29,10 @@ Max Layer height: .25mm
         - 0.02s pressure advance smooth time
         - MZV input shaper
 
+### Orca Slicer
+- [Can't get Benchy under 1 hour in Orca ](https://www.reddit.com/r/klippers/comments/1bcxhm8/cant_get_benchy_under_1_hour_in_orca/)
+- [Is 15 min benchy possible on an ordinary slicer? ](https://www.reddit.com/r/Ender3V3KE/comments/192yaqh/is_15_min_benchy_possible_on_an_ordinary_slicer/)
+
 - [cnc kitchen](https://www.youtube.com/watch?v=hSWjlf5aNIU)
 	- [The FASTEST 3DBenchy at QUALITY ?](https://www.youtube.com/watch?v=vso6lgTRSo0)
 
