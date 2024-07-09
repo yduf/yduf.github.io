@@ -1,9 +1,33 @@
 ---
 published: true
-title: Speed up printing
-tags: 3dprint cura klipper
+title: Speedboat (3dprinter)
+tags: 3dprinter klipper
 ---
 > [#speedboatrace](https://www.youtube.com/watch?v=6kRjdprTjFc)
+
+[![caption](https://stldenise3d.com/wp-content/uploads/2023/07/red-benchy-boat-1-edited.jpg.webp)](https://stldenise3d.com/speed-benchy-settings-and-rules/)
+
+## Speed Benchy Settings 
+Max Line width: .5mm
+Max Layer height: .25mm
+2 Walls
+3 Top/Bottom Layers
+10% Infill (You may combine infill every other layer)
+
+### 15min
+- [Recommend good settings on speedboating? ](https://www.reddit.com/r/OrcaSlicer/comments/1cc6cgj/recommend_good_settings_on_speedboating/)
+	- [Ender 3 - 16 minute quality benchy](https://www.youtube.com/watch?v=w6aeM3n-a0c)
+		- PLA at 210°C
+        - 0.24mm layer height
+        - 20% triangle infill
+		- 300mm/s travels
+        - Autospeed with 20mm³/s peak flow
+        - 5k mm/s² acceleration on externals
+        - 10k-20k mm/s² acceleration otherwise
+        - 20mm/s square corner velocity
+		- 0.03s pressure advance
+        - 0.02s pressure advance smooth time
+        - MZV input shaper
 
 - [cnc kitchen](https://www.youtube.com/watch?v=hSWjlf5aNIU)
 	- [The FASTEST 3DBenchy at QUALITY ?](https://www.youtube.com/watch?v=vso6lgTRSo0)
