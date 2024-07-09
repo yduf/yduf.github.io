@@ -3,7 +3,7 @@ published: true
 title: Handling simultaneous move (DUCT)
 tags: MCTS
 ---
-> <em>D<\em>ecoupled UCT - [Monte Carlo Tree Search for SimultaneousMove Games](https://dke.maastrichtuniversity.nl/m.winands/documents/sm-tron-bnaic2013.pdf)
+> Decoupled UCT - [Monte Carlo Tree Search for SimultaneousMove Games](https://dke.maastrichtuniversity.nl/m.winands/documents/sm-tron-bnaic2013.pdf)
 
 - [XMash Rush (CC07) - Feedback & Strategies](https://www.codingame.com/forum/t/xmash-rush-cc07-feedback-strategies/74346/37)
 	- [ExampleDUCT.java](https://github.com/Ludeme/LudiiExampleAI/blob/master/src/mcts/ExampleDUCT.java)
