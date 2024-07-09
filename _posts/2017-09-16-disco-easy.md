@@ -186,13 +186,3 @@ gcode:
 
 ## [Configure bed levelling](https://github.com/KevinOConnor/klipper/blob/master/config/example-extras.cfg) - (see also [#555](https://github.com/KevinOConnor/klipper/pull/555))
 
-
-## Reconfigure G-Code generator
- - Octoprint before print
- - Cura before / after code
-
-### Open Issue (dagome config)
-
-- M112 - works, but hard to reconnect afterward
-- cannot restart service from octoprint (need to issue sudo service klipper restart)
- by eg when ttyUSBx change
