@@ -7,12 +7,12 @@ tags: 3dprinter klipper
 
 [![caption](https://stldenise3d.com/wp-content/uploads/2023/07/red-benchy-boat-1-edited.jpg.webp)](https://stldenise3d.com/speed-benchy-settings-and-rules/)
 
-## Speed Benchy Settings 
-Max Line width: .5mm
-Max Layer height: .25mm
-2 Walls
-3 Top/Bottom Layers
-10% Infill (You may combine infill every other layer)
+## Speed Benchy Settings Rules
+Max Line width: .5mm  
+Max Layer height: .25mm  
+2 Walls  
+3 Top/Bottom Layers  
+10% Infill (You may combine infill every other layer)  
 
 ### 15min
 - [Recommend good settings on speedboating? ](https://www.reddit.com/r/OrcaSlicer/comments/1cc6cgj/recommend_good_settings_on_speedboating/)
