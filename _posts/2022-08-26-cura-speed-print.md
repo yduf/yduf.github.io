@@ -29,6 +29,14 @@ Max Layer height: .25mm
         - 0.02s pressure advance smooth time
         - MZV input shaper
 
+## [Speed & Acceleration](https://ellis3dp.com/Print-Tuning-Guide/articles/determining_max_speeds_accels.html#determining-maximum-speeds-and-accelerations)
+
+from [Ellis' Print Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide/articles/determining_max_speeds_accels.html#determining-maximum-speeds-and-accelerations)
+
+Determining if Skipping Occured 
+
+
+
 ### Orca Slicer
 - [Can't get Benchy under 1 hour in Orca ](https://www.reddit.com/r/klippers/comments/1bcxhm8/cant_get_benchy_under_1_hour_in_orca/)
 - [Is 15 min benchy possible on an ordinary slicer? ](https://www.reddit.com/r/Ender3V3KE/comments/192yaqh/is_15_min_benchy_possible_on_an_ordinary_slicer/)
