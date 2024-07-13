@@ -10,4 +10,4 @@ tags: games adventure
 Play under wine directly (badly support 2 monitor config - performance issue on start cinematique - run well though, when there is one only)
 
 ### Runaway 2: The Dream of the Turtle - 
-[![caption](https://lutris.net/games/banner/runaway-2-the-dream-of-the-turtle.jpg](https://lutris.net/games/runaway-2-the-dream-of-the-turtle/)
+[![caption](https://lutris.net/games/banner/runaway-2-the-dream-of-the-turtle.jpg)](https://lutris.net/games/runaway-2-the-dream-of-the-turtle/)
