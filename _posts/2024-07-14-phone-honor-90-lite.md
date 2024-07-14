@@ -4,3 +4,6 @@ published: true
 tags: phone android
 ---
 > [amazon](https://www.amazon.fr/dp/B0C7G2T6JH)
+
+- 5G
+- 8Go / 256Go
