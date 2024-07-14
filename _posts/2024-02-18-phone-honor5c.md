@@ -1,5 +1,5 @@
 ---
-title: Honor 5C - (2017)
+title: Honor 5C (2017)
 published: true
 tags: phone android
 ---
