@@ -19,3 +19,5 @@ tags: macos-system
 
 ### [Homebrew](https://brew.sh/)
 The Missing [Package](https://formulae.brew.sh/formula/) Manager for macOS (or Linux)
+
+- [	Our audit of Homebrew](https://news.ycombinator.com/item?id=41114839)
