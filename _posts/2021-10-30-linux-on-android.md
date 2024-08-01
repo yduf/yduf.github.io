@@ -14,7 +14,16 @@ tags: linux-system android
 
 Opensource and maintained as of 2024
 
-- [Install Kali (pdf)](https://www.dropbox.com/scl/fi/irpaebjwlu5v1c3mt4hzi/Android-Kali-NetHunter-Install-2.pdf?rlkey=65gpc275fy6sbkz0i19wlcj06&e=1&dl=0)
+- [Install (pdf)](https://www.dropbox.com/scl/fi/irpaebjwlu5v1c3mt4hzi/Android-Kali-NetHunter-Install-2.pdf?rlkey=65gpc275fy6sbkz0i19wlcj06&e=1&dl=0) / [Kali Nethunter](https://www.kali.org/docs/nethunter/) 
+	- [NetHunter Rootless](https://www.kali.org/docs/nethunter/nethunter-rootless/) - special packaged for android
+
+{% highlight bash %}
+$ termux-setup-storage
+$ pkg install wget
+$ wget -O install-nethunter-termux https://offs.ec/2MceZWr
+$ chmod +x install-nethunter-termux
+$ ./install-nethunter-termux
+{% endhighlight %}
 
 ### [Linux Deploy](https://github.com/meefik/linuxdeploy)
 ### [ UserLAnd](https://www.androidauthority.com/install-ubuntu-on-your-android-smartphone-765408/)
