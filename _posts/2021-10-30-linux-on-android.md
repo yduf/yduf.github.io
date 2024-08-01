@@ -43,6 +43,8 @@ $ adb shell "/system/bin/device_config get activity_manager max_phantom_processe
 ### [Linux Deploy](https://github.com/meefik/linuxdeploy)
 ### [ UserLAnd](https://www.androidauthority.com/install-ubuntu-on-your-android-smartphone-765408/)
 
+**UserLAnd seems to be a fork of an older version of Termux**
+
 Userland is an app to help you set up a container and run applications in it quickly using proot,likes desktop environment Same with what Linux deploy (same with userland but using chroot not proot) did,but proot doesn't need your phone to be rooted because it doesn't need root authority.
 
 Closed source / payed option.
