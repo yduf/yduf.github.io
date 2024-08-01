@@ -1,7 +1,7 @@
 ---
 title: Armbian
 published: true
-tags: linux-system raspberry-pi arm
+tags: arm linux-system raspberry-pi
 ---
 > Optimized Debian and Ubuntu Linux images for ARM-based SBCs  
 > Armbian is the opposite of [Raspbian]({% post_url 2019-08-16-raspbian-x86 %}): Raspbian has dozens of contributors to focus on a single SBC platform. Armbian has a dozen contributors to focus on 100+ SBCs spread over 30 platforms. - [archive](http://xogium.performanceservers.nl/archive/bananapim2zero/archive/) 
