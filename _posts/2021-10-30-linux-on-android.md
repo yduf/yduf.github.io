@@ -14,7 +14,7 @@ tags: linux-system android
 
 Opensource and maintained as of 2024
 
-- [Install (pdf)](https://www.dropbox.com/scl/fi/irpaebjwlu5v1c3mt4hzi/Android-Kali-NetHunter-Install-2.pdf?rlkey=65gpc275fy6sbkz0i19wlcj06&e=1&dl=0) / [Kali Nethunter](https://www.kali.org/docs/nethunter/) 
+- [html doc](https://www.golinuxcloud.com/install-kali-linux-on-android/) / [Install (pdf)](https://www.dropbox.com/scl/fi/irpaebjwlu5v1c3mt4hzi/Android-Kali-NetHunter-Install-2.pdf?rlkey=65gpc275fy6sbkz0i19wlcj06&e=1&dl=0) / [Kali Nethunter](https://www.kali.org/docs/nethunter/) 
 	- [NetHunter Rootless](https://www.kali.org/docs/nethunter/nethunter-rootless/) - special packaged for android
 
 {% highlight bash %}
@@ -23,6 +23,18 @@ $ pkg install wget
 $ wget -O install-nethunter-termux https://offs.ec/2MceZWr
 $ chmod +x install-nethunter-termux
 $ ./install-nethunter-termux
+{% endhighlight %}
+
+- [DISABLE PHANTOM PROCESS KILLER In Android 12 & 13](https://kskroyal.com/disable-phantom-process-killer-in-android-12-13/) - It’s a background process limiter that kills the app processes using excessive CPU or system resources. Google has submitted a patch that adds a toggle in developer options to disable the monitoring of phantom processes in android 13. It seems like many smartphone vendors aren’t updated the developer’s options by including this option. 
+
+{% highlight bash %}
+$ adb shell "/system/bin/device_config set_sync_disabled_for_tests persistent"
+$ adb shell "/system/bin/device_config put activity_manager max_phantom_processes 2147483647"
+$ adb shell settings put global settings_enable_monitor_phantom_procs false
+
+## verify that they are taken into account
+$ adb shell "/system/bin/dumpsys activity settings | grep max_phantom_processes"
+$ adb shell "/system/bin/device_config get activity_manager max_phantom_processes"
 {% endhighlight %}
 
 ### [Linux Deploy](https://github.com/meefik/linuxdeploy)
