@@ -6,7 +6,7 @@ tags: android kvm remote display debug-android
 > **SCReen CoPY** application provides display and control of Android devices connected on USB. It does not require any root access. It works on GNU/Linux, Windows and Mac OS.- [github](https://github.com/Genymobile/scrcpy?tab=readme-ov-file#scrcpy-v25) / [HN](https://news.ycombinator.com/item?id=35151298)
 
 {% highlight bash %}
-$ scrcpy --video-codec=h265 --max-size=1920 --max-fps=60 --no-audio --keyboard=uhid --stay-awake
+$ scrcpy --video-codec=h264 --max-size=1920 --max-fps=20 --no-audio --keyboard=uhid --stay-awake
 {% endhighlight %}
 
 **Keyboard config**: Paramètre/Fonctionnalité d'accessibilité/Clavier Physique  
