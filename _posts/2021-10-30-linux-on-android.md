@@ -41,6 +41,9 @@ $ adb shell "/system/bin/device_config get activity_manager max_phantom_processe
 {% endhighlight %}
 
 ### [Linux Deploy](https://github.com/meefik/linuxdeploy)
+
+Linux Deploy installs and runs GNU/Linux, and seems to be the best option if you have root access.
+
 ### [ UserLAnd](https://www.androidauthority.com/install-ubuntu-on-your-android-smartphone-765408/)
 
 **UserLAnd seems to be a fork of an older version of Termux**
