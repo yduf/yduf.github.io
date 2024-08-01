@@ -1,7 +1,7 @@
 ---
 published: true
 title: CubieTruck  (2013)
-tags: arm hardware raspberry-pi
+tags: arm-hardware raspberry-pi
 ---
 >  Allwinner A20: CPU: ARM Cortex-A7 / Mali-400 GPU, supports HDMI 1080p, no LVDS support -  / [CubieBoard](http://cubieboard.org/tag/cubietruck/)
 
