@@ -10,6 +10,7 @@ tags: linux-system android
 
 ## On non rooted phone
 ### [Termux](https://www.youtube.com/watch?v=KxOGyuGq0Ts)
+**Do not use Termux app from Google Play. It is deprecated**
 ### [Linux Deploy](https://github.com/meefik/linuxdeploy)
 ### [ UserLAnd](https://www.androidauthority.com/install-ubuntu-on-your-android-smartphone-765408/)
 
