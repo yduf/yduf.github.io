@@ -6,7 +6,10 @@ tags: linux-system android
 > Installing a regular Linux distribution on an Android device opens a whole new world of possibilities. You can turn your Android device into a full-blown Linux/Apache/MySQL/PHP server and run web-based applications on it, install and use your favorite Linux tools, and even run a graphical desktop environment. - [Linux Mag](https://www.linux-magazine.com/Online/Features/Convert-an-Android-Device-to-Linux)
 
 - [How To Install a Linux OS On Your Android Phone](https://helpdeskgeek.com/linux-tips/how-to-install-a-linux-os-on-your-android-phone/)
-	- [What are the differences between Termux, PRoot, Userland, Linux Deploy, AnLinux and Alpine?](https://superuser.com/questions/1546024/what-are-the-differences-between-termux-proot-userland-linux-deploy-anlinux)
+- [What are the differences between Termux, PRoot, Userland, Linux Deploy, AnLinux and Alpine?](https://superuser.com/questions/1546024/what-are-the-differences-between-termux-proot-userland-linux-deploy-anlinux)
+
+They all provide a container,what chroot mainly do is to pretend you root dir is under the rootfs's dir,It provides file-level isolation, however the process,etc,share the resource of your system which running currently.
+- **Userland** is build on **termux**, **Linux deploy** is a app using it's own code
 
 ## On non rooted phone
 ### [Termux](https://www.youtube.com/watch?v=KxOGyuGq0Ts)
