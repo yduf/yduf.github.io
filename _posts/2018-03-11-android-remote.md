@@ -13,6 +13,7 @@ $ scrcpy --video-codec=h264 --max-size=1920 --max-fps=20 --no-audio --keyboard=u
 [**shortcuts**](https://github.com/Genymobile/scrcpy/blob/master/doc/shortcuts.md):  MOD=Alt
 - Home: MOD + h
 - Back: MOD + b
+- Landscape/portrait: MOD + r
 
 
 ### see also
