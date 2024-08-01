@@ -13,3 +13,6 @@ tags: android debug
 - [How to Extract an APK on an Android Device](https://www.alphr.com/extract-apk-android/)
 - [How to extract default ringtones from Android device?](https://android.stackexchange.com/questions/183455/how-to-extract-default-ringtones-from-android-device) - `adb pull /system/media/audio/`
 	- [How To Transfer Ringtones From Android to Android ](https://mobiletrans.wondershare.com/android-transfer/transfer-ringtones-from-android-to-android.html)
+    
+### see also
+- [Android remote]({% post_url 2018-03-11-android-remote %})
