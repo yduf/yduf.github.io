@@ -12,10 +12,14 @@ tags: linux-system android
 ### [Termux](https://www.youtube.com/watch?v=KxOGyuGq0Ts)
 **Do not use Termux app from Google Play. It is deprecated** - [github](https://github.com/termux/termux-app/releases/tag/v0.118.1)
 
+Opensource and maintained as of 2024
+
 ### [Linux Deploy](https://github.com/meefik/linuxdeploy)
 ### [ UserLAnd](https://www.androidauthority.com/install-ubuntu-on-your-android-smartphone-765408/)
 
 Userland is an app to help you set up a container and run applications in it quickly using proot,likes desktop environment Same with what Linux deploy (same with userland but using chroot not proot) did,but proot doesn't need your phone to be rooted because it doesn't need root authority.
+
+Closed source / payed option.
 
 - [Getting Started in UserLAnd](https://github.com/CypherpunkArmory/UserLAnd/wiki/Getting-Started-in-UserLAnd)
 
