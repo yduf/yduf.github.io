@@ -9,6 +9,7 @@ tags: linux-system android
 	- [What are the differences between Termux, PRoot, Userland, Linux Deploy, AnLinux and Alpine?](https://superuser.com/questions/1546024/what-are-the-differences-between-termux-proot-userland-linux-deploy-anlinux)
 
 ## On non rooted phone
+### [Termux](https://www.youtube.com/watch?v=KxOGyuGq0Ts)
 ### [Linux Deploy](https://github.com/meefik/linuxdeploy)
 ### [ UserLAnd](https://www.androidauthority.com/install-ubuntu-on-your-android-smartphone-765408/)
 
