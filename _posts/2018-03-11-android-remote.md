@@ -9,7 +9,8 @@ tags: android kvm remote display debug-android
 $ scrcpy --video-codec=h265 --max-size=1920 --max-fps=60 --no-audio --keyboard=uhid
 {% endhighlight %}
 
-Keyboard config: Paramètre/Fonctionnalité d'accessibilité/Clavier Physique
+**Keyboard config**: Paramètre/Fonctionnalité d'accessibilité/Clavier Physique  
+
 
 ### see also
 - [Vos appareils](https://myaccount.google.com/device-activity?pli=1)
