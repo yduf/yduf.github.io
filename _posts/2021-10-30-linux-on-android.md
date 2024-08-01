@@ -13,4 +13,7 @@ tags: linux-system android
 
 best option if using root access.
 
-- [AndroNix](https://www.makeuseof.com/tag/how-to-linux-on-android/) - non root
+- [AndroNix](https://www.makeuseof.com/tag/how-to-linux-on-android/) 
+
+## On rooted phone
+### [Lindroid](https://hackaday.com/2024/06/18/lindroid-promises-true-linux-on-android/)
