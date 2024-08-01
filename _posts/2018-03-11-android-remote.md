@@ -10,7 +10,7 @@ $ scrcpy --video-codec=h265 --max-size=1920 --max-fps=60 --no-audio --keyboard=u
 {% endhighlight %}
 
 **Keyboard config**: Paramètre/Fonctionnalité d'accessibilité/Clavier Physique  
-[**shortcuts**](https://github.com/Genymobile/scrcpy/blob/master/doc/shortcuts.md):  
+[**shortcuts**](https://github.com/Genymobile/scrcpy/blob/master/doc/shortcuts.md):  MOD=Alt
 
 
 ### see also
