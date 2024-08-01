@@ -6,6 +6,8 @@ tags: linux-system raspberry-pi arm
 > Optimized Debian and Ubuntu Linux images for ARM-based SBCs  
 > Armbian is the opposite of [Raspbian]({% post_url 2019-08-16-raspbian-x86 %}): Raspbian has dozens of contributors to focus on a single SBC platform. Armbian has a dozen contributors to focus on 100+ SBCs spread over 30 platforms. - [archive](http://xogium.performanceservers.nl/archive/bananapim2zero/archive/) 
 
+`cat /proc/cpuinfo` - [How do I see which ARM CPU version I have?](https://raspberrypi.stackexchange.com/questions/9912/how-do-i-see-which-arm-cpu-version-i-have)
+
 ### Seting up Wifi
 
 using [`nmtui`](https://www.tecmint.com/nmtui-configure-network-connection/)
@@ -24,5 +26,3 @@ $ service NetworkManager restart
 
 - [NetworkManager](https://wiki.debian.org/NetworkManager)
 	- [How to troubleshoot DNS with systemd-resolved?](https://unix.stackexchange.com/a/637845/192991)
-
-
