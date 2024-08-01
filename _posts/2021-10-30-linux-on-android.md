@@ -10,8 +10,12 @@ tags: linux-system android
 
 ## On non rooted phone
 ### [Linux Deploy](https://github.com/meefik/linuxdeploy)
+### [ UserLAnd](https://www.androidauthority.com/install-ubuntu-on-your-android-smartphone-765408/)
 
-best option if using root access.
+Userland is an app to help you set up a container and run applications in it quickly using proot,likes desktop environment Same with what Linux deploy (same with userland but using chroot not proot) did,but proot doesn't need your phone to be rooted because it doesn't need root authority.
+
+- [Getting Started in UserLAnd](https://github.com/CypherpunkArmory/UserLAnd/wiki/Getting-Started-in-UserLAnd)
+
 
 - [AndroNix](https://www.makeuseof.com/tag/how-to-linux-on-android/) 
 
