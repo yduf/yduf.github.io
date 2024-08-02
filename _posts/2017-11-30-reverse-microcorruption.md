@@ -74,6 +74,6 @@ _Every number in the debugger is in base 16._
 
 - [**Tutorial**](https://microcorruption.com/debugger/Tutorial) - follow tutorial. - _every password of proper size work._
 - [**New Orleans**](https://microcorruption.com/debugger/New%20Orleans) - LockIT Pro rev a.01 - _hardcoded password_
-	- [**Vancouver**](https://microcorruption.com/map) - SecurePlus rev a.01 - debug payload ?
-    - [**Baku**]() - SecurePlus 
-- [**Sydney**](https://microcorruption.com/debugger/Sydney) - rev a.02
+	- [**Vancouver**](https://microcorruption.com/map) - LockIT 2 a.01 - debug payload ?
+    - [**Baku**](https://microcorruption.com/debugger/Baku) - SecurePlus 
+- [**Sydney**](https://microcorruption.com/debugger/Sydney) - LockIT Pro  rev a.02
