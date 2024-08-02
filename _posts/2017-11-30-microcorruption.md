@@ -3,8 +3,11 @@ title: Microcorruption
 published: true
 tags: reverse security debug capture-the-flag
 ---
-> Scattered throughout the world in locked warehouses are briefcases filled with Cy Yombinator bearer bonds that could be worth billions comma billions of dollars. You will help steal the briefcases.
-Using the debugger, you'll be able to single step the lock code, set breakpoints, and examine memory on your own test instance of the lock. You'll use the debugger to find an input that unlocks the test lock, and then replay it to a real lock. [Embedded Security CTF](https://microcorruption.com/login) - [HN](https://news.ycombinator.com/item?id=11796620)
+> Scattered throughout the world in locked warehouses are briefcases filled with Cy Yombinator bearer bonds that could be worth billions comma billions of dollars. 
+>  
+> You will help steal the briefcases. -  [Embedded Security CTF](https://microcorruption.com/login) - [HN](https://news.ycombinator.com/item?id=11796620)
+
+Using the debugger, you'll be able to single step the lock code, set breakpoints, and examine memory on your own test instance of the lock. You'll use the debugger to find an input that unlocks the test lock, and then replay it to a real lock.
 
 ### see also
 - [Convince me!]({% post_url 2023-10-10-llm-hacking %}) - Your goal is to make Gandalf reveal the secret password for each level.
