@@ -14,5 +14,7 @@ tags: android debug-android
 - [How to extract default ringtones from Android device?](https://android.stackexchange.com/questions/183455/how-to-extract-default-ringtones-from-android-device) - `adb pull /system/media/audio/`
 	- [How To Transfer Ringtones From Android to Android ](https://mobiletrans.wondershare.com/android-transfer/transfer-ringtones-from-android-to-android.html)
     
+- [How do I kill all active tasks/apps using ADB?](https://stackoverflow.com/a/38845817/51386) - `adb shell am force-stop <PACKAGE>`
+    
 ### see also
 - [Android remote]({% post_url 2018-03-11-android-remote %})
