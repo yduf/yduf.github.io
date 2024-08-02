@@ -28,6 +28,8 @@ Considered:
     
 ### [Band saw Vs Chop saw - Scheppach MBS1100 Metal Cutting Band Saw 127mm - Review and modifications](https://www.youtube.com/watch?v=X5_m1PGU_Js&list=LL&index=8)
 
+- lame: longueur 1140mm
+
 ### [Aspirateur Chantier](https://www.youtube.com/watch?v=f_aXEV_BllU)
 
 - Kpa: > 20
