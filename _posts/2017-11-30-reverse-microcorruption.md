@@ -70,7 +70,10 @@ _Every number in the debugger is in base 16._
 `let pc=4498` - change pc
 `sove` - reolve puzzle outside debug mode
 
+[MSP430](https://phas.ubc.ca/~michal/phys319/MSP430Reference-RyansEdit.pdf)
 
 - [**Tutorial**](https://microcorruption.com/debugger/Tutorial) - follow tutorial. - _every password of proper size work._
-- [**New Orleans**](https://microcorruption.com/debugger/New%20Orleans) - rev a.01 - _hardcoded password_
+- [**New Orleans**](https://microcorruption.com/debugger/New%20Orleans) - LockIT Pro rev a.01 - _hardcoded password_
+	- [**Vancouver**](https://microcorruption.com/map) - SecurePlus rev a.01 - debug payload ?
+    - [**Baku**]() - SecurePlus 
 - [**Sydney**](https://microcorruption.com/debugger/Sydney) - rev a.02
