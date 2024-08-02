@@ -1,7 +1,7 @@
 ---
 published: true
 title: Sokoban
-tags: games search puzzle algorithm codingame
+tags: games search puzzle algorithm codingame pico8
 ---
 >  Sokoban is japanese for 'warehouse keeper': 倉庫番.
 >
@@ -11,6 +11,9 @@ tags: games search puzzle algorithm codingame
 - part of [Syntax Terror](http://www.pouet.net/prod.php?which=498) Demo
 
 ![caption](https://upload.wikimedia.org/wikipedia/commons/4/4b/Sokoban_ani.gif)
+
+### see also
+- [Tiny Golf Puzzles](https://www.lexaloffle.com/bbs/?pid=tinygolfpuzzles-1#p)
 
 ## [Algorithm](https://en.wikipedia.org/wiki/Sokoban#Scientific_research)
 The problem of solving Sokoban puzzles was first proved to be NP-hard. Further work showed that it was significantly more difficult than NP problems; it is PSPACE-complete.
