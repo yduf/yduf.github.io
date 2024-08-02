@@ -68,7 +68,7 @@ _Every number in the debugger is in base 16._
 
 **debugger action**
 `let pc=4498` - change pc
-`sove` - reolve puzzle outside debug mode
+`solve` - reolve puzzle outside debug mode
 
 [MSP430](https://phas.ubc.ca/~michal/phys319/MSP430Reference-RyansEdit.pdf)
 
@@ -77,5 +77,5 @@ _Every number in the debugger is in base 16._
 - [**Sydney**](https://microcorruption.com/debugger/Sydney) - LockIT Pro  rev a.02 - _hardcoded password_
 - [**Hanoi**](https://microcorruption.com/debugger/Hanoi) - LockIT Pro rev b.01 -
 
-- [**Vancouver**](https://microcorruption.com/map) - LockIT 2 a.01 - debug payload ?
-- [**Baku**](https://microcorruption.com/debugger/Baku) - SecurePlus rev a.01 
+- [**Vancouver**](https://microcorruption.com/map) - LockIT 2 a.01 -  ?
+- [**Baku**](https://microcorruption.com/debugger/Baku) - SecurePlus rev a.01 - ?
