@@ -1,7 +1,7 @@
 ---
 published: true
 title: Chat on LAN
-tags: network lan chat
+tags: network chat
 ---
 > iptux is a very convenient GUI-based program. You can even send files (and entire folder) - [SE](https://askubuntu.com/a/363566/523012)
 
