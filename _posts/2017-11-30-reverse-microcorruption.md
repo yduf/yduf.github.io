@@ -60,3 +60,6 @@ DETAILS
 
 (c) 2013 LOCKITALL                                            Page 1/1
 {% endhighlight %}
+
+## Hint
+- **Tutorial** - follow tutorial.
