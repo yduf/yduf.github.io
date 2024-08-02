@@ -62,4 +62,4 @@ DETAILS
 {% endhighlight %}
 
 ## Hint
-- **Tutorial** - follow tutorial.
+- [**Tutorial**](https://microcorruption.com/debugger/Tutorial) - follow tutorial.
