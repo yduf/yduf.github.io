@@ -1,7 +1,7 @@
 ---
 published: true
 title: Vector Graphics
-tags: vector graphic retro games emulator
+tags: vector-graphic retro games emulator
 ---
 > In 1978 when the Digital Vector Generator was developed for Lunar Lander, memory was much too expensive for a frame buffer in a video game. … Two frame buffers of 512x512x4 would have required 128 memory devices costing total of $614. - [History of Vector Graphics](https://trmm.net/Vector_games_32c3/) / [HN](https://news.ycombinator.com/item?id=26747703)
 
