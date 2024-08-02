@@ -1,7 +1,7 @@
 ---
 title: Another World
 published: true
-tags: games
+tags: games vector-graphic
 ---
 >  A young scientist who, as a result of an experiment gone wrong, finds himself on a dangerous alien world where he is forced to fight for his survival. - [wikipedia](https://en.wikipedia.org/wiki/Another_World_(video_game))
 
