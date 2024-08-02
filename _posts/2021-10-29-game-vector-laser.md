@@ -1,7 +1,7 @@
 ---
 published: true
 title: Vector games on laser beam
-tags: laser vector games esp32 electronic
+tags: laser vector-graphic games esp32 electronic
 ---
 > running TEMPEST, SEGA STARTREK, my game Word War vi, and some demos on a home made RGB laser projector driven by openlase modified to support color. - [youtube](https://www.youtube.com/watch?v=eA6pvAZ3nq4) 
 
@@ -29,4 +29,4 @@ Compile with [Platform.io]({% post_url 2018-08-06-platorm-io %})
 
 - [Vector display overview](https://trmm.net/Category:Vector_display/)
 
-![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.OR253GzfK5vbkHussIfwOAHaEK%26pid%3DApi&f=1) 
+![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.OR253GzfK5vbkHussIfwOAHaEK%26pid%3DApi&f=1)
