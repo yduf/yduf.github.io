@@ -10,6 +10,7 @@ tags: cad
 ## [Tutorials](http://solvespace.com/tutorial.pl)
 - [A SolveSpace Learning Guide](http://www.farwire.net/SolveSpace-LearningGuide.htm)
 - [youtube](https://www.youtube.com/results?search_query=solvespace)
+	- [Introduction to SolveSpace](https://www.youtube.com/watch?v=8JaQCG9PO2c)
 	- [SolveSpace 3.0 Showcase - Modeling a Technical Piece](https://www.youtube.com/watch?v=1uZgUpjTg18)
 	- [challenge #7](https://www.youtube.com/watch?v=kuIubpcPwFk)
     - [challenge #6](https://www.youtube.com/watch?v=L-wpsLx95qg)
