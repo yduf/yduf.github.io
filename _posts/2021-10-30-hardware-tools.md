@@ -8,7 +8,8 @@ tags: lab hardware-tools shop
 see also
 - [	The Periodic Table of Tools](https://periodictableoftools.com/index.html) / [HN](https://news.ycombinator.com/item?id=38421044)
 
-### Scie à Onglets Radiale - [GCM 10 GDJ](https://www.amazon.fr/gp/product/B08GKYN2LM/ref=ox_sc_saved_title_2?smid=A1X6FK5RDHNB96&psc=1) - (1 800 W, Ø de lame 254 mm) - 635€ promo
+### Scie à Onglets Radiale 
+[GCM 10 GDJ](https://www.amazon.fr/gp/product/B08GKYN2LM/ref=ox_sc_saved_title_2?smid=A1X6FK5RDHNB96&psc=1) - (1 800 W, Ø de lame 254 mm) - 635€ promo
 
 [**If The Blade Sees Its Shadow, It’s Another 64th Of Accuracy**](https://hackaday.com/2022/09/11/if-the-blade-sees-its-shadow-its-another-64th-of-accuracy/)
 
@@ -26,7 +27,8 @@ Considered:
 - [Einhell Scie à onglet radiale TC-SM 2131/1 Dual](https://www.amazon.fr/Einhell-TC-SM-2131-glissi%C3%A8re-dispositif-tungst%C3%A8ne/dp/B0816WP4JW/ref=sr_1_5?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1O6PMV4XM6I2O&keywords=scie+onglet&qid=1651934990&sprefix=scie+onglet%2Caps%2C175&sr=8-5) / [test]()
 - [ENERGYSAW-254SB PEUGEOT](https://www.bricozor.com/scie-onglets-radiale-double-inclinaison-energysaw-254sb-peugeot.html) / [manual](https://manuall.co.uk/peugeot-energysaw-254sb-mitre-saw/)
     
-### [Band saw Vs Chop saw - Scheppach MBS1100 Metal Cutting Band Saw 127mm - Review and modifications](https://www.youtube.com/watch?v=X5_m1PGU_Js&list=LL&index=8)
+### Band Saw 
+[Band saw Vs Chop saw - Scheppach MBS1100 Metal Cutting Band Saw 127mm - Review and modifications](https://www.youtube.com/watch?v=X5_m1PGU_Js&list=LL&index=8)
 
 - lame: longueur 1140mm
 
