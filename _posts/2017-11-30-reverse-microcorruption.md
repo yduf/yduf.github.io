@@ -71,5 +71,6 @@ _Every number in the debugger is in base 16._
 `sove` - reolve puzzle outside debug mode
 
 
-- [**Tutorial**](https://microcorruption.com/debugger/Tutorial) - follow tutorial. - every password of proper size work.
-- [**New Orleans**](https://microcorruption.com/debugger/New%20Orleans) - rev a.01 
+- [**Tutorial**](https://microcorruption.com/debugger/Tutorial) - follow tutorial. - _every password of proper size work._
+- [**New Orleans**](https://microcorruption.com/debugger/New%20Orleans) - rev a.01 - _hardcoded password_
+- [**Sydney**](https://microcorruption.com/debugger/Sydney) - rev a.02
