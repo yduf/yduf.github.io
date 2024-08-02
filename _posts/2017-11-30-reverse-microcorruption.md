@@ -62,4 +62,6 @@ DETAILS
 {% endhighlight %}
 
 ## Hint
+_Every number in the debugger is in base 16._
+
 - [**Tutorial**](https://microcorruption.com/debugger/Tutorial) - follow tutorial.
