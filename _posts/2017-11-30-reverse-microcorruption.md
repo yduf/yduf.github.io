@@ -64,4 +64,12 @@ DETAILS
 ## Hint
 _Every number in the debugger is in base 16._
 
-- [**Tutorial**](https://microcorruption.com/debugger/Tutorial) - follow tutorial.
+`mov.b @r15, r14` - move whatever is at memory addressed by r15 in to r14
+
+**debugger action**
+`let pc=4498` - change pc
+`sove` - reolve puzzle outside debug mode
+
+
+- [**Tutorial**](https://microcorruption.com/debugger/Tutorial) - follow tutorial. - every password of proper size work.
+- [**New Orleans**](https://microcorruption.com/debugger/New%20Orleans) - rev a.01 
