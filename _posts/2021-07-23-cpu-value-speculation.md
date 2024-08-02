@@ -8,4 +8,5 @@ tags: cpu cache security
 Modern CPUs do not process instructions serially, but rather handle many at the same time. They read many instructions at once, break them down in stages, and then try to fill all the computation units they have with as many tasks from as many instructions as possible.3 For instance, modern Intel processors are designed for a throughput of 4 instructions per clock cycle, and AMD Zen processors for up to 5 or 6. However, branches pose a challenge when wanting to execute instructions in parallel.
 
 ### see also
+- [When you Accidentally Compromise every CPU on Earth](https://www.youtube.com/watch?v=YRohz9VO1YY&list=PLh9akXp2EH2AweDnfo4w7hCmu7e7Py8oF&index=3)
 - [researchers find an unfixable bug in EVERY ARM cpu ](https://www.youtube.com/watch?v=CjpEZ2LAazM)
