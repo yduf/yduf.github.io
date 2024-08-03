@@ -67,7 +67,7 @@ _Every number in the debugger is in base 16._
 `solve` - reolve puzzle outside debug mode  
 
 **MSP430** - [online (dis)assembly](https://microcorruption.com/assembler)
-- [The instruction set] (https://phas.ubc.ca/~michal/phys319/MSP430Reference-RyansEdit.pdf)
+- [The instruction set](https://phas.ubc.ca/~michal/phys319/MSP430Reference-RyansEdit.pdf)
 	- [ref](http://mspgcc.sourceforge.net/manual/x223.html)
 - [mspgcc](http://mspgcc.sourceforge.net/manual/book1.html) - A port of the GNU tools to the Texas Instruments MSP430 microcontrollers
 
