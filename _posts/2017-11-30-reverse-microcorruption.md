@@ -76,8 +76,8 @@ _Every number in the debugger is in base 16._
 - [**Tutorial**](https://microcorruption.com/debugger/Tutorial) - follow tutorial. - _every password of proper size work._
 - [**New Orleans**](https://microcorruption.com/debugger/New%20Orleans) - LockIT Pro rev a.01 - _hardcoded password_
 - [**Sydney**](https://microcorruption.com/debugger/Sydney) - LockIT Pro  rev a.02 - _hardcoded password_
-- [**Hanoi**](https://microcorruption.com/debugger/Hanoi) - LockIT Pro rev b.01 - _login flags next to password_
-- [**Cusco**](https://microcorruption.com/debugger/Cusco) - LockIT Pro rev b.02 - _password stored on the stack_
+- [**Hanoi**](https://microcorruption.com/debugger/Hanoi) - LockIT Pro rev b.01 - _login flags next to input pwd_
+- [**Cusco**](https://microcorruption.com/debugger/Cusco) - LockIT Pro rev b.02 - _input password stored on the stack_
 - [**Reykjavik**](https://microcorruption.com/debugger/Reykjavik) - LockIT Pro rev a.03 - 
 - --
 - [**Vancouver**](https://microcorruption.com/map) - LockIT 2 a.01 -  ?
