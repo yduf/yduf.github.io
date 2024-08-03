@@ -15,8 +15,7 @@ Using the debugger, you'll be able to single step the lock code, set breakpoints
 A port of the GNU tools to the Texas Instruments MSP430 microcontrollers
 	- [The instruction set](http://mspgcc.sourceforge.net/manual/x223.html)
 
-## [Hackaday](https://hackaday.com/2014/01/18/microcorruption-embedded-ctf/)
-![caption](https://hackaday.com/wp-content/uploads/2014/01/ctf.png?w=800)
+[![caption](https://hackaday.com/wp-content/uploads/2014/01/ctf.png?w=800)](https://hackaday.com/2014/01/18/microcorruption-embedded-ctf/)
 
 {% highlight cpp %}
 Lockitall                                            LOCKIT PRO r a.01
