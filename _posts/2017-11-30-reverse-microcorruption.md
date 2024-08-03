@@ -62,9 +62,9 @@ _Every number in the debugger is in base 16._
 
 `mov.b @r15, r14` - move whatever is at memory addressed by r15 in to r14
 
-**debugger action**
-`let pc=4498` - change pc
-`solve` - reolve puzzle outside debug mode
+**debugger action**  
+`let pc=4498` - change pc  
+`solve` - reolve puzzle outside debug mode  
 
 **MSP430** - [online (dis)assembly](https://microcorruption.com/assembler)
 - [The instruction set] (https://phas.ubc.ca/~michal/phys319/MSP430Reference-RyansEdit.pdf)
