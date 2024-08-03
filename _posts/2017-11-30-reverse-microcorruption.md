@@ -78,6 +78,7 @@ _Every number in the debugger is in base 16._
 - [**Sydney**](https://microcorruption.com/debugger/Sydney) - LockIT Pro  rev a.02 - _hardcoded password_
 - [**Hanoi**](https://microcorruption.com/debugger/Hanoi) - LockIT Pro rev b.01 - _login flags next to password_
 - [**Cusco**](https://microcorruption.com/debugger/Cusco) - LockIT Pro rev b.02 - _password stored on the stack_
+- [**Reykjavik**](https://microcorruption.com/debugger/Reykjavik) - LockIT Pro rev a.03 - 
 - --
 - [**Vancouver**](https://microcorruption.com/map) - LockIT 2 a.01 -  ?
 - [**Baku**](https://microcorruption.com/debugger/Baku) - SecurePlus rev a.01 - ?
