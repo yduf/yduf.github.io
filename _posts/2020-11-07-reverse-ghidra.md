@@ -8,6 +8,9 @@ tags: reverse electronic debug vscode ghidra
 require Java > 17
 
 - [Increase font size in Ghidra](https://reverseengineering.stackexchange.com/questions/31961/increase-font-size-in-ghidra) - in `support\launch.properties` set VMARGS_WINDOWS=-Dsun.java2d.uiScale=2
+	- [
+Closed
+Font size is unchangeable?](https://github.com/NationalSecurityAgency/ghidra/issues/83)
 
 - [How we bypassed bytenode and decompiled Node.js bytecode in Ghidra](https://swarm.ptsecurity.com/how-we-bypassed-bytenode-and-decompiled-node-js-bytecode-in-ghidra/)
 
