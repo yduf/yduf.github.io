@@ -11,9 +11,6 @@ Using the debugger, you'll be able to single step the lock code, set breakpoints
 
 ### see also
 - [Convince me!]({% post_url 2023-10-10-llm-hacking %}) - Your goal is to make Gandalf reveal the secret password for each level.
-- [mspgcc](http://mspgcc.sourceforge.net/manual/book1.html)
-A port of the GNU tools to the Texas Instruments MSP430 microcontrollers
-	- [The instruction set](http://mspgcc.sourceforge.net/manual/x223.html)
 
 [![caption](https://hackaday.com/wp-content/uploads/2014/01/ctf.png?w=800)](https://hackaday.com/2014/01/18/microcorruption-embedded-ctf/)
 
@@ -72,7 +69,10 @@ _Every number in the debugger is in base 16._
 **MSP430**
 -[online (dis)assembly](https://microcorruption.com/assembler)
 -[ref](https://phas.ubc.ca/~michal/phys319/MSP430Reference-RyansEdit.pdf)
-
+- [mspgcc](http://mspgcc.sourceforge.net/manual/book1.html)
+A port of the GNU tools to the Texas Instruments MSP430 microcontrollers
+	- [The instruction set](http://mspgcc.sourceforge.net/manual/x223.html)
+    
 ### Levels
 - [**Tutorial**](https://microcorruption.com/debugger/Tutorial) - follow tutorial. - _every password of proper size work._
 - [**New Orleans**](https://microcorruption.com/debugger/New%20Orleans) - LockIT Pro rev a.01 - _hardcoded password_
