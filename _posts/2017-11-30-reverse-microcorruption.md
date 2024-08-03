@@ -57,7 +57,7 @@ DETAILS
 (c) 2013 LOCKITALL                                            Page 1/1
 {% endhighlight %}
 
-## Hint
+## Hints
 _Every number in the debugger is in base 16._
 
 `mov.b @r15, r14` - move whatever is at memory addressed by r15 in to r14
