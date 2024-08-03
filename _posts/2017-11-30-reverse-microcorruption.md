@@ -75,12 +75,12 @@ _Every number in the debugger is in base 16._
 ### Levels
 - [**Tutorial**](https://microcorruption.com/debugger/Tutorial) - follow tutorial. - _every password of proper size work._
 
-**LockIT Pro rev A**  - no security module
+**LockIT Pro rev A**  - No security module
 - [**New Orleans**](https://microcorruption.com/debugger/New%20Orleans) - LockIT Pro rev a.01 - _hardcoded password_
 - [**Sydney**](https://microcorruption.com/debugger/Sydney) - LockIT Pro  rev a.02 - _hardcoded password_
 - [**Reykjavik**](https://microcorruption.com/debugger/Reykjavik) - LockIT Pro rev a.03 - 
 
-**LockIT Pro rev B** - use Security Module 1 stores
+**LockIT Pro rev B** - with Security Module 1
 - [**Hanoi**](https://microcorruption.com/debugger/Hanoi) - LockIT Pro rev b.01 - _login flags next to input_
 - [**Cusco**](https://microcorruption.com/debugger/Cusco) - LockIT Pro rev b.02 - _input stored on the stack_
 
