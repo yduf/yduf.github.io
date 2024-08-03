@@ -77,6 +77,7 @@ _Every number in the debugger is in base 16._
 - [**New Orleans**](https://microcorruption.com/debugger/New%20Orleans) - LockIT Pro rev a.01 - _hardcoded password_
 - [**Sydney**](https://microcorruption.com/debugger/Sydney) - LockIT Pro  rev a.02 - _hardcoded password_
 - [**Hanoi**](https://microcorruption.com/debugger/Hanoi) - LockIT Pro rev b.01 - _every password of proper size & ending work_
+- [**Cusco**](https://microcorruption.com/debugger/Cusco) - LockIT Pro rev b.02 -
 - --
 - [**Vancouver**](https://microcorruption.com/map) - LockIT 2 a.01 -  ?
 - [**Baku**](https://microcorruption.com/debugger/Baku) - SecurePlus rev a.01 - ?
