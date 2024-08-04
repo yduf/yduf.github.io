@@ -7,6 +7,7 @@ tags: ioccc printf security turing-complete tic-tac-toe c++
 
 ### see also
 - [How can a Format-String vulnerability be exploited?](https://stackoverflow.com/questions/7459630/how-can-a-format-string-vulnerability-be-exploited)
+	- [Exploit 101 - Format Strings ](https://axcheron.github.io/exploit-101-format-strings/)
 	- [Format String Vulnerability](https://ctf101.org/binary-exploitation/what-is-a-format-string-vulnerability/)
     - [Binary Exploitation: Format String Vulnerabilities](https://medium.com/swlh/binary-exploitation-format-string-vulnerabilities-70edd501c5be)
 	- [format-string-attack](https://www.comparitech.com/blog/information-security/format-string-attack/)
