@@ -7,9 +7,13 @@ tags: reverse electronic debug vscode ghidra
 
 require Java > 17
 
+### Features
+- **Decompiler**: ASM to C generation
+
 ### Hints
 - [What're you telling me, Ghidra?](https://byte.how/posts/what-are-you-telling-me-ghidra/) - An introduction to Ghidra's primary components
 	- [CheatSheet](https://ghidra-sre.org/CheatSheet.html) - for keyboard shortcut
+    - [An introduction to hacking video games with Ghidra](https://www.youtube.com/watch?v=qCEZC3cPc1s)
 - [Increase font size in Ghidra](https://reverseengineering.stackexchange.com/questions/31961/increase-font-size-in-ghidra) - in `support\launch.properties` set VMARGS_WINDOWS=-Dsun.java2d.uiScale=2
 	- [Font size is unchangeable?](https://github.com/NationalSecurityAgency/ghidra/issues/83)
 
