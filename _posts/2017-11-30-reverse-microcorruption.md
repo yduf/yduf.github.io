@@ -87,7 +87,7 @@ _Every number in the debugger is in base 16._
 **LockIT Pro rev B** - with Security Module 1
 - [**Hanoi**](https://microcorruption.com/debugger/Hanoi) - LockIT Pro rev b.01 - _login flags next to input_
 - [**Cusco**](https://microcorruption.com/debugger/Cusco) - LockIT Pro rev b.02 - _input stored on the stack_
-- [**Addis Ababa**](https://microcorruption.com/debugger/Cusco) - LockIT Pro rev b.03 - _printf_ 
+- [**Addis Ababa**](https://microcorruption.com/debugger/Cusco) - LockIT Pro rev b.03 - [_printf_](https://owasp.org/www-community/attacks/Format_string_attack)
 
 - --
 - [**Vancouver**](https://microcorruption.com/map) - LockIT 2 a.01 -  ?
