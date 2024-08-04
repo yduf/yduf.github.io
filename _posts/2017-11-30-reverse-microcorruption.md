@@ -75,6 +75,8 @@ _Every number in the debugger is in base 16._
 ### Levels
 - [**Tutorial**](https://microcorruption.com/debugger/Tutorial) - follow tutorial. - _every password of proper size work._
 
+> The engineers responsible have been sacked.
+
 - --
 **LockIT Pro rev A**  - No security module
 - [**New Orleans**](https://microcorruption.com/debugger/New%20Orleans) - LockIT Pro rev a.01 - _hardcoded password_
