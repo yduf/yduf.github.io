@@ -71,7 +71,8 @@ _Every number in the debugger is in base 16._
 	- [ref](http://mspgcc.sourceforge.net/manual/x223.html)
 - [mspgcc](http://mspgcc.sourceforge.net/manual/book1.html) - A port of the GNU tools to the Texas Instruments MSP430 microcontrollers
 
-    
+- [ASCII Table](https://www.ascii-code.com/)
+
 ### Levels
 - [**Tutorial**](https://microcorruption.com/debugger/Tutorial) - follow tutorial. - _every password of proper size work._
 
