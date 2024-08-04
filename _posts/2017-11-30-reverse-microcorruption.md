@@ -79,7 +79,7 @@ _Every number in the debugger is in base 16._
 **LockIT Pro rev A**  - No security module
 - [**New Orleans**](https://microcorruption.com/debugger/New%20Orleans) - LockIT Pro rev a.01 - _hardcoded password_
 - [**Sydney**](https://microcorruption.com/debugger/Sydney) - LockIT Pro  rev a.02 - _hardcoded password_
-- [**Reykjavik**](https://microcorruption.com/debugger/Reykjavik) - LockIT Pro rev a.03 - 
+- [**Reykjavik**](https://microcorruption.com/debugger/Reykjavik) - LockIT Pro rev a.03 - _hardcoded password - yet code not visible in debugger view (executed from ram)_
 
 - --
 **LockIT Pro rev B** - with Security Module 1
