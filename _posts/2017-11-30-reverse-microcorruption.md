@@ -89,7 +89,8 @@ _Every number in the debugger is in base 16._
 - [**Hanoi**](https://microcorruption.com/debugger/Hanoi) - LockIT Pro rev b.01 - _login flags next to input_
 - [**Cusco**](https://microcorruption.com/debugger/Cusco) - LockIT Pro rev b.02 - _input stored on the stack_
 - [**Addis Ababa**](https://microcorruption.com/debugger/Cusco) - LockIT Pro rev b.03 - [_printf_](https://stackoverflow.com/questions/7459630/how-can-a-format-string-vulnerability-be-exploited)
-- [**Johannesburg**](https://microcorruption.com/debugger/Johannesburg) - LockIT Pro rev b.04
+- [**Johannesburg**](https://microcorruption.com/debugger/Johannesburg) - LockIT Pro rev b.04 - _overflow_
+- [**Santa Cruz**](https://microcorruption.com/debugger/Santa%20Cruz) - LockIT Pro rev b.05 -
 
 - --
 **LockIT Pro rev C** - call open door directly from security module
