@@ -91,7 +91,7 @@ _Every number in the debugger is in base 16._
 - [**Addis Ababa**](https://microcorruption.com/debugger/Cusco) - LockIT Pro rev b.03 - [_printf_](https://stackoverflow.com/questions/7459630/how-can-a-format-string-vulnerability-be-exploited)
 - [**Johannesburg**](https://microcorruption.com/debugger/Johannesburg) - LockIT Pro rev b.04 - _overflow_
 - [**Santa Cruz**](https://microcorruption.com/debugger/Santa%20Cruz) - LockIT Pro rev b.05 -
-
+- [**Jakarta**](https://microcorruption.com/debugger/Jakarta) - LockIT Pro rev b.06 -
 - --
 **LockIT Pro rev C** - call open door directly from security module
 - [**Whitehorse**](https://microcorruption.com/debugger/Whitehorse) - LockIT Pro rev c.01 
