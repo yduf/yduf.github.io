@@ -92,11 +92,13 @@ _Every number in the debugger is in base 16._
 - [**Johannesburg**](https://microcorruption.com/debugger/Johannesburg) - LockIT Pro rev b.04 - _overflow_
 - [**Santa Cruz**](https://microcorruption.com/debugger/Santa%20Cruz) - LockIT Pro rev b.05 -
 - [**Jakarta**](https://microcorruption.com/debugger/Jakarta) - LockIT Pro rev b.06 -
+
 - --
 **LockIT Pro rev C** - call open door directly from security module
 - [**Whitehorse**](https://microcorruption.com/debugger/Whitehorse) - LockIT Pro rev c.01 
 **LockIT Pro rev C** - call open door directly from security module
 - [**Novosibirsk**](https://microcorruption.com/debugger/Novosibirsk) - LockIT Pro rev c.02
+
 - --
 - [**Vancouver**](https://microcorruption.com/map) - LockIT 2 a.01 -  ?
 - [**Baku**](https://microcorruption.com/debugger/Baku) - SecurePlus rev a.01 - ?
