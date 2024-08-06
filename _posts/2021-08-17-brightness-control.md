@@ -1,7 +1,7 @@
 ---
 published: true
 title: Brightness Control
-tags: screen display brightness
+tags: screen display brightness daylight
 ---
 > supports an arbitrary number of displays!
 
