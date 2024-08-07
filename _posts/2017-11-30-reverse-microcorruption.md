@@ -94,7 +94,7 @@ _Every number in the debugger is in base 16._
 - [**Jakarta**](https://microcorruption.com/debugger/Jakarta) - LockIT Pro rev b.06 - _detail bytes_
 
 - --
-**LockIT Pro rev C** - call open door directly from security module  
+**LockIT Pro rev C** - test & open door directly from security module   
 - [**Whitehorse**](https://microcorruption.com/debugger/Whitehorse) - LockIT Pro rev c.01 - _know your history_
 - [**Novosibirsk**](https://microcorruption.com/debugger/Novosibirsk) - LockIT Pro rev c.02 - _back to bbb_
 - [**Montevideo**](https://microcorruption.com/debugger/Montevideo) - LockIT Pro rev c.03 - _push your way through_
