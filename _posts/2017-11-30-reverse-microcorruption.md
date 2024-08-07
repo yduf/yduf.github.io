@@ -101,7 +101,7 @@ _Every number in the debugger is in base 16._
 
 - --
 **LockIT Pro rev D** -  Account Manager.
-- [**Algiers**](https://microcorruption.com/debugger/Algiers) - LockIT Pro rev d.01 -
+- [**Algiers**](https://microcorruption.com/debugger/Algiers) - LockIT Pro rev d.01 - ?
 
 - --
 - [**Vancouver**](https://microcorruption.com/map) - LockIT 2 a.01 -  ?
