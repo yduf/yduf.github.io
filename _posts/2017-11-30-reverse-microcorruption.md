@@ -99,6 +99,9 @@ _Every number in the debugger is in base 16._
 - [**Novosibirsk**](https://microcorruption.com/debugger/Novosibirsk) - LockIT Pro rev c.02 - _back to bbb_
 - [**Montevideo**](https://microcorruption.com/debugger/Montevideo) - LockIT Pro rev c.03 - _push your way through_
 
+- --
+**LockIT Pro rev D** -  Account Manager.
+- [**Algiers**](https://microcorruption.com/debugger/Algiers) - LockIT Pro rev d.01 -
 
 - --
 - [**Vancouver**](https://microcorruption.com/map) - LockIT 2 a.01 -  ?
