@@ -100,7 +100,7 @@ _Every number in the debugger is in base 16._
 - [**Montevideo**](https://microcorruption.com/debugger/Montevideo) - LockIT Pro rev c.03 - _push your way through_
 
 - --
-**LockIT Pro rev D** -  Account Manager.
+**LockIT Pro rev D** -  with Account Manager.
 - [**Algiers**](https://microcorruption.com/debugger/Algiers) - LockIT Pro rev d.01 - ?
 
 - --
