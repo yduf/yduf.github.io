@@ -101,7 +101,7 @@ _Every number in the debugger is in base 16._
 
 - --
 **LockIT Pro rev D** -  with Account Manager.
-- [**Algiers**](https://microcorruption.com/debugger/Algiers) - LockIT Pro rev d.01 - ?
+- [**Algiers**](https://microcorruption.com/debugger/Algiers) - LockIT Pro rev d.01 - [_malloc/free_](https://research.checkpoint.com/2020/safe-linking-eliminating-a-20-year-old-malloc-exploit-primitive/)
 
 - --
 - [**Vancouver**](https://microcorruption.com/map) - LockIT 2 a.01 -  ?
