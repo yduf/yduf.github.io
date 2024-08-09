@@ -26,6 +26,8 @@ $ adb start-server
 {% highlight bash %}
 $ adb shell pm list packages             # list
 $ adb shell pm path com.example.someapp  # get path
+# get it
+$ adb pull /data/app/com.example.someapp-2.apk path/to/desired/destination
 {% endhighlight %}
 
 
