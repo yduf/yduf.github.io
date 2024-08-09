@@ -12,6 +12,8 @@ tags: phone android
 ### Unlock bootloader
 - [Install Lineage on a Huawei/Honor device ](https://www.reddit.com/r/LineageOS/comments/a54e4w/install_lineage_on_a_huaweihonor_device/)
 	- Huawei has closed that website and there is no longer any official way to unlock their devices' bootloaders. 
+   
+- [huawei-honor-unlock-bootloader](https://github.com/programminghoch10/huawei-honor-bootloader-bruteforce) / [rr/Huawei](https://www.reddit.com/r/Huawei/comments/usau9n/2_programs_to_unlock_huawei_and_honor_devices/)
 
 ### see also
 - [	We're ending our Samsung collaboration](https://news.ycombinator.com/item?id=40456107)
