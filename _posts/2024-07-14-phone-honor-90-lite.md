@@ -11,5 +11,7 @@ tags: phone android
 - nano sim
 
 ### Applications
-- [Bien-être numérique](https://www.lesnumeriques.com/telecharger/bien-etre-numerique-31380)
+- [Bien-être numérique](https://www.lesnumeriques.com/telecharger/bien-etre-numerique-31380) - google
 - [Synchronisation des données HONOR](https://www.honor.com/fr/support/content/fr-fr15842586/) - Se connecter avec Identifiant Honor ID 
+
+- [ ChronoPuzzle](https://apkpure.com/chronopuzzle/com.understorm.chronopuzzlefree)
