@@ -23,6 +23,12 @@ $ adb start-server
 - [How do I kill all active tasks/apps using ADB?](https://stackoverflow.com/a/38845817/51386) - `adb shell am force-stop <PACKAGE>`
 
 ### [How do I get an apk file from an Android device?](https://stackoverflow.com/questions/4032960/how-do-i-get-an-apk-file-from-an-android-device)
+
+see also 
+- [Top 5 Ways to Extract APK File of Any App on Your Android Phone](https://techwiser.com/extract-apk-android/)
+	- Extracting APK directly from Google play]
+    - from old device you can share link to application by email
+	
 {% highlight bash %}
 # for system apps use -f -s to list path
 $ adb shell pm list packages             # list
