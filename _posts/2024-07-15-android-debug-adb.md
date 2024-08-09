@@ -24,6 +24,7 @@ $ adb start-server
 
 ### [How do I get an apk file from an Android device?](https://stackoverflow.com/questions/4032960/how-do-i-get-an-apk-file-from-an-android-device)
 {% highlight bash %}
+# for system apps use -f -s to list path
 $ adb shell pm list packages             # list
 $ adb shell pm path com.example.someapp  # get path
 # get it
