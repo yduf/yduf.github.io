@@ -10,19 +10,24 @@ tags: android debug-android
 	- [ADB Android Device Unauthorized](https://stackoverflow.com/questions/23081263/adb-android-device-unauthorized)
 - [How to list all the files in android phone by using adb shell?](https://stackoverflow.com/questions/16796432/how-to-list-all-the-files-in-android-phone-by-using-adb-shell)
 
-- [How to Extract an APK on an Android Device](https://www.alphr.com/extract-apk-android/)
 - [How to extract default ringtones from Android device?](https://android.stackexchange.com/questions/183455/how-to-extract-default-ringtones-from-android-device) - `adb pull /system/media/audio/`
 	- [How To Transfer Ringtones From Android to Android ](https://mobiletrans.wondershare.com/android-transfer/transfer-ringtones-from-android-to-android.html)
-    
-- [How do I kill all active tasks/apps using ADB?](https://stackoverflow.com/a/38845817/51386) - `adb shell am force-stop <PACKAGE>`
 
 ### Debug server
-
-
 {% highlight bash %}
 $ adb kill-server
 $ adb start-server
 {% endhighlight %}
+
+## Applications
+- [How do I kill all active tasks/apps using ADB?](https://stackoverflow.com/a/38845817/51386) - `adb shell am force-stop <PACKAGE>`
+
+### [How do I get an apk file from an Android device?](https://stackoverflow.com/questions/4032960/how-do-i-get-an-apk-file-from-an-android-device)
+{% highlight bash %}
+$ adb shell pm list packages             # list
+$ adb shell pm path com.example.someapp  # get path
+{% endhighlight %}
+
 
 ### see also
 - [Android remote]({% post_url 2018-03-11-android-remote %})
