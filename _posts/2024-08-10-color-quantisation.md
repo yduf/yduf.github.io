@@ -12,3 +12,4 @@ tags: color
 - [OctreeColorQuantizer-opencv](https://github.com/mseurre/OctreeColorQuantizer-opencv?tab=readme-ov-file#octreecolorquantizer-opencv) - Color quantization of images using octrees (implemented in C++ with OpenCV)
 - [Forty years of color quantization: a modern, algorithmic
 survey](https://faculty.uca.edu/ecelebi/documents/AIRE_2023.pdf)
+- [C++ – Fast color quantization in OpenCV](https://itecnotes.com/tecnote/c-fast-color-quantization-in-opencv/)
