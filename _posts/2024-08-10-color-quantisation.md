@@ -16,5 +16,11 @@ survey](https://faculty.uca.edu/ecelebi/documents/AIRE_2023.pdf)
 	- [C++ – Fast color quantization in OpenCV](https://itecnotes.com/tecnote/c-fast-color-quantization-in-opencv/)
 
 ### [Color quantization using k-means](https://se7entyse7en.dev/posts/color-quantization-using-k-means/)
-	
+
+This iterate several over the whole images before convergence.
+
 - [ChatGPT code](https://chatgpt.com/share/78c8c7b9-4516-4c51-9c5a-d6ee30a18d75)
+
+### [MedianCut](https://muthu.co/reducing-the-number-of-colors-of-an-image-using-median-cut-algorithm/)
+
+Reduce processing on each iteration.
