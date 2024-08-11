@@ -14,3 +14,5 @@ tags: color quantization nearest-neighbor
 - [Forty years of color quantization: a modern, algorithmic
 survey](https://faculty.uca.edu/ecelebi/documents/AIRE_2023.pdf)
 	- [C++ – Fast color quantization in OpenCV](https://itecnotes.com/tecnote/c-fast-color-quantization-in-opencv/)
+
+### K-means
