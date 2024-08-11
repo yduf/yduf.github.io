@@ -50,7 +50,9 @@ A user interface for libvips.
 - [filters like sepia, black-white](https://github.com/libvips/php-vips/issues/104)
 	- [New colour package](http://libvips.blogspot.com/2012/11/new-colour-package.html)
 	- [autodetect CMYK and convert to sRGB JPEG](http://libvips.blogspot.com/2011/12/task-of-day-autodetect-cmyk-and-convert.html)
-    
+
+- [Contrast-Limited Adaptive Histogram Equalisation](http://libvips.blogspot.com/2017/03/whats-new-in-85.html?view=timeslide)
+
 ### [Image shrinking](https://github.com/libvips/libvips/wiki/HOWTO----Image-shrinking)
 - [vips_thumbnail()](https://www.libvips.org/API/current/libvips-resample.html#vips-thumbnail) - [don't use thumbnail_image on already loaded images](https://github.com/libvips/pyvips/issues/168#issuecomment-609689396). - Because the image has already been opened, it can't do any of the shrink-on-load tricks that help make thumbnail fast.
 	- cmd [vipsthumbnail](http://www.manpagez.com/man/1/vipsthumbnail/)
