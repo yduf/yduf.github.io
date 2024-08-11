@@ -15,4 +15,6 @@ tags: color quantization nearest-neighbor algorithm
 survey](https://faculty.uca.edu/ecelebi/documents/AIRE_2023.pdf)
 	- [C++ – Fast color quantization in OpenCV](https://itecnotes.com/tecnote/c-fast-color-quantization-in-opencv/)
 
-### K-means
+### using K-means
+- [Color quantization using k-means](https://se7entyse7en.dev/posts/color-quantization-using-k-means/)
+	- [ChatGPT](https://chatgpt.com/share/78c8c7b9-4516-4c51-9c5a-d6ee30a18d75)
