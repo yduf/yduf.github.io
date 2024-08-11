@@ -50,9 +50,8 @@ A user interface for libvips.
 - [Some newbie questions on how to do things with libvips](https://github.com/libvips/libvips/issues/1449)
 
 ### [Image shrinking](https://github.com/libvips/libvips/wiki/HOWTO----Image-shrinking)
-- [vips_thumbnail ()](https://www.libvips.org/API/current/libvips-resample.html#vips-thumbnail)
-	- [Don't use thumbnail_image](https://github.com/libvips/pyvips/issues/168#issuecomment-609689396). - Because the image has already been opened, it can't do any of the shrink-on-load tricks that help make thumbnail fast.
-		- cmd [vipsthumbnail](http://www.manpagez.com/man/1/vipsthumbnail/)
+- [vips_thumbnail()](https://www.libvips.org/API/current/libvips-resample.html#vips-thumbnail) - [don't use thumbnail_image](https://github.com/libvips/pyvips/issues/168#issuecomment-609689396). - Because the image has already been opened, it can't do any of the shrink-on-load tricks that help make thumbnail fast.
+	- cmd [vipsthumbnail](http://www.manpagez.com/man/1/vipsthumbnail/)
 	- [Different resize issues](https://github.com/libvips/pyvips/issues/148)
 
 - [Making DeepZoom, Zoomify and Google Maps image pyramids with vips](http://libvips.blogspot.com/2013/03/making-deepzoom-zoomify-and-google-maps.html)
