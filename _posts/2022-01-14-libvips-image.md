@@ -1,7 +1,7 @@
 ---
 published: true
 title: libVIPS
-tags: image-lib jpeg jxl ruby c++
+tags: image-lib color jpeg jxl ruby c++
 ---
 > a demand-driven, [horizontally threaded](https://github.com/libvips/libvips/wiki/Why-is-libvips-quick) image processing library. Compared to similar libraries, libvips runs quickly and uses little memory. - [**libVIPS**](https://www.libvips.org/) / [github](https://github.com/libvips/libvips) / [blog](http://libvips.blogspot.com/) / [wikipedia](https://en.wikipedia.org/wiki/VIPS_(software))
 
