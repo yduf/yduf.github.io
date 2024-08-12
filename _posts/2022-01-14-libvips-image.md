@@ -35,7 +35,7 @@ A user interface for libvips.
 
 
 ## [Doc](https://www.libvips.org/API/current/) / [c++](https://www.libvips.org/API/8.11/cpp/) / [SO](https://stackoverflow.com/questions/tagged/vips)
-- [Hello World](https://github.com/libvips/libvips/wiki/Hello-World)
+- [Hello World](https://github.com/libvips/libvips/wiki/Hello-World#libvips-hello-world-in-c-1)
 - [How libvips opens a file](http://libvips.blogspot.com/2012/06/how-libvips-opens-file.html)
 	- [Sequential mode read](http://libvips.blogspot.com/2012/02/sequential-mode-read.html) - Not all operations need random access to their source pixels. For example, thumbnailing, the process of shrinking images for display, can work strictly top-to-bottom. [**But this has re-reading constraint**](https://github.com/libvips/libvips/issues/91#issuecomment-31195517)
 
@@ -50,7 +50,9 @@ A user interface for libvips.
 - [filters like sepia, black-white](https://github.com/libvips/php-vips/issues/104)
 	- [New colour package](http://libvips.blogspot.com/2012/11/new-colour-package.html)
 	- [autodetect CMYK and convert to sRGB JPEG](http://libvips.blogspot.com/2011/12/task-of-day-autodetect-cmyk-and-convert.html)
-
+	- [colour operators](https://www.libvips.org/API/current/libvips-colour.html) - These operators let you transform coordinates and images between colour spaces, calculate colour differences, and move to and from device spaces.
+    	- Use vips_colourspace() to move an image to a target colourspace using the best sequence of colour transform operations.
+    
 - [Contrast-Limited Adaptive Histogram Equalisation](http://libvips.blogspot.com/2017/03/whats-new-in-85.html?view=timeslide)
 
 ### [Image shrinking](https://github.com/libvips/libvips/wiki/HOWTO----Image-shrinking)
