@@ -1,7 +1,7 @@
 ---
 title: K-Means Clustering
 published: true
-tags: k-means ML
+tags: k-means ML opencv
 ---
 > an unsupervised machine learning technique that seeks to group similar data into distinct clusters to uncover patterns in the data. 
 
