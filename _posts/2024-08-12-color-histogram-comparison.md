@@ -1,7 +1,7 @@
 ---
 title: Histogram Comparison/Search
 published: true
-tags: color histogram search
+tags: color histogram search opencv
 ---
 > - [Understanding image histograms with OpenCV](https://medium.com/@lmcaraig/understanding-image-histograms-with-opencv-667572a25c1f)
 
