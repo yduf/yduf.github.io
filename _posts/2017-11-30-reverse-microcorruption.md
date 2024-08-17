@@ -98,7 +98,7 @@ _Every number in the debugger is in base 16._
 - [**Whitehorse**](https://microcorruption.com/debugger/Whitehorse) - LockIT Pro rev c.01 - _know your history_
 - [**Novosibirsk**](https://microcorruption.com/debugger/Novosibirsk) - LockIT Pro rev c.02 - _back to bbb_
 - [**Montevideo**](https://microcorruption.com/debugger/Montevideo) - LockIT Pro rev c.03 - _push your way through_
-- [**Lagos**](https://microcorruption.com/mapx) - LockIT Pro rev c.04 - __
+- [**Lagos**](https://microcorruption.com/debugger/Lagos) - LockIT Pro rev c.04 - __
 - [**Vladivostok**](https://microcorruption.com/debugger/Vladivostok) - LockIT Pro rev c.05 - __
 
 - --
@@ -106,5 +106,5 @@ _Every number in the debugger is in base 16._
 - [**Algiers**](https://microcorruption.com/debugger/Algiers) - LockIT Pro rev d.01 - [_free yourself_](https://research.checkpoint.com/2020/safe-linking-eliminating-a-20-year-old-malloc-exploit-primitive/)
 
 - --
-- [**Vancouver**](https://microcorruption.com/map) - LockIT 2 a.01 -  ?
+- [**Vancouver**](https://microcorruption.com/debugger/Vancouver) - LockIT 2 a.01 -  ?
 - [**Baku**](https://microcorruption.com/debugger/Baku) - SecurePlus rev a.01 - ?
