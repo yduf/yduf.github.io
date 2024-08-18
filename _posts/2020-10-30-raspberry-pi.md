@@ -20,7 +20,7 @@ or `pinout` in new raspbian version
 - Raspberry Pi 1 Model B - arm 32bits - 0.5Go - (2013) - [Raspi-OS](https://www.raspberrypi.com/software/operating-systems/#raspberry-pi-os-legacy)
 
 and also
-- [CubieTruck (Cubieboard3)]({% post_url 2023-06-19-arm-cubietruck %})  - 2Go - (2013)
+- [CubieTruck (Cubieboard3)]({% post_url 2023-06-19-arm-cubietruck %}) - 2Go - (2013)
 
 ### GPIO
 
