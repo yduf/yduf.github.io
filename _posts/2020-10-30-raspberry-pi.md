@@ -9,7 +9,7 @@ tags: raspberry-pi arm-hardware
 <link rel="shortcut icon" href="https://www.raspberrypi.org/app/themes/mind-control/images/favicon.png" type="image/png" />
 {:/}
 
-[![caption](https://en.wikipedia.org/wiki/File:Raspberry_Pi_-_Model_A.jpg)](https://en.wikipedia.org/wiki/Raspberry_Pi)
+[![caption](https://upload.wikimedia.org/wikipedia/commons/4/45/Raspberry_Pi_-_Model_A.jpg)](https://en.wikipedia.org/wiki/Raspberry_Pi)
 
 ### [Fleet](https://howchoo.com/pi/raspberry-pi-models/)
 [Checking Model version](https://www.raspberrypi-spy.co.uk/2012/09/checking-your-raspberry-pi-board-version/) `cat /proc/device-tree/model` 
