@@ -9,13 +9,15 @@ tags: raspberry-pi arm-hardware
 <link rel="shortcut icon" href="https://www.raspberrypi.org/app/themes/mind-control/images/favicon.png" type="image/png" />
 {:/}
 
-### Fleet
+[![caption](https://en.wikipedia.org/wiki/File:Raspberry_Pi_-_Model_A.jpg)](https://en.wikipedia.org/wiki/Raspberry_Pi)
+
+### [Fleet](https://howchoo.com/pi/raspberry-pi-models/)
 [Checking Model version](https://www.raspberrypi-spy.co.uk/2012/09/checking-your-raspberry-pi-board-version/) `cat /proc/device-tree/model` 
 or `pinout` in new raspbian version
 - **[BananaPi M2 Zero](https://wiki.banana-pi.org/Banana_Pi_BPI-M2_ZERO)** ([The100]()) - arm A7 - 0.5Go - (2024)
 - Raspberry Pi 4 Model B Rev 1.2 ([ender6](http://ender6)) - armv7l - 4Go - (2021)
 - Raspberry Pi 3 Model B Rev 1.2 ([ender3](http://ender3))- armv7l - 1Go - (2019)
-- Raspberry Pi   Model B - arm ? - 0.5Go - (2013) - [Raspi-OS](https://www.raspberrypi.com/software/operating-systems/#raspberry-pi-os-legacy)
+- Raspberry Pi 1 Model B - arm 32bits - 0.5Go - (2013) - [Raspi-OS](https://www.raspberrypi.com/software/operating-systems/#raspberry-pi-os-legacy)
 
 and also
 - [CubieTruck (Cubieboard3)]({% post_url 2023-06-19-arm-cubietruck %})  - (2013)
