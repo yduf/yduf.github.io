@@ -28,6 +28,14 @@ gtkdep = dependency('gtk+-3.0')
 executable('demo', 'main.cc', dependencies : gtkdep)
 {% endhighlight %}
 
+### [Include directories](https://mesonbuild.com/Reference-manual_returned_inc.html)
+
+{% highlight ruby %}
+incdir = include_directories('include')
+executable('someprog', 'someprog.c', include_directories : incdir)
+
+{% endhighlight %}
+
 ## [Subprojects](https://mesonbuild.com/Subprojects.html)
 
 Meson allows you to take any other Meson project and make it a part of your build without (in the best case) any changes to its Meson setup. It becomes a transparent part of the project. 
