@@ -12,4 +12,5 @@ Jamf Connect -
 Qualys Cloud Agent
 Crowdstrike falcon Agent - 
 Avecto 
+Microsoft Team's 
 
