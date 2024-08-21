@@ -1,7 +1,7 @@
 ---
 title: cutter (disassembly)
 published: true
-tags: tools reverse application debug
+tags: tools reverse application debug-c++
 ---
 ## [Github](https://github.com/radareorg/cutter)
 A Qt and C++ GUI for radare2 reverse engineering framework
