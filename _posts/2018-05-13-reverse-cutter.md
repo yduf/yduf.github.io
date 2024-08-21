@@ -5,6 +5,9 @@ tags: tools reverse debug-c++
 ---
 > AN open-source reverse engineering platform powered by [rizin](https://github.com/rizinorg/rizin). - [github](https://github.com/rizinorg/cutter?tab=readme-ov-file#cutter)
 
+### Features
+- Native integration of Ghidra's decompiler 
+
 - [Github](https://github.com/radareorg/cutter) -A Qt and C++ GUI for radare2 reverse engineering framework
 
 (from [StackExchange](https://unix.stackexchange.com/questions/418354/understanding-what-a-linux-binary-is-doing))
