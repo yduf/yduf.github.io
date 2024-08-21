@@ -1,7 +1,7 @@
 ---
 title: cutter (disassembly)
 published: true
-tags: tools reverse application debug-c++
+tags: tools reverse debug-c++
 ---
 > AN open-source reverse engineering platform powered by [rizin](https://github.com/rizinorg/rizin). - [github](https://github.com/rizinorg/cutter?tab=readme-ov-file#cutter)
 
