@@ -17,6 +17,11 @@ tags: macos-system
 
 - [How to turn your macOS into a Linux-like Desktop](https://blog.codeminer42.com/how-to-turn-your-macos-into-a-linux-like-desktop/)
 
+### Mouse/Trackpad
+
+- [How to separate "mouse" and "trackpad" settings?](https://apple.stackexchange.com/questions/116617/how-to-separate-mouse-and-trackpad-settings)
+	- [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) - Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS.
+
 ### [Homebrew](https://brew.sh/)
 The Missing [Package](https://formulae.brew.sh/formula/) Manager for macOS (or Linux)
 
