@@ -22,7 +22,7 @@ Enable the display to communicate its supported display modes to the adapter and
 
 ### MacOS
 
-see [MonitorControl](https://github.com/MonitorControl/MonitorControl?tab=readme-ov-file#monitorcontrol---for-apple-silicon-and-intel)
+- [MonitorControl](https://github.com/MonitorControl/MonitorControl?tab=readme-ov-file#monitorcontrol---for-apple-silicon-and-intel) - Controls your external display brightness and volume and shows native OSD.
 
 see also
 - [ACPI]({% post_url 2021-07-25-acpi %})
