@@ -1,7 +1,7 @@
 ---
 published: true
 title: Brightness Control
-tags: screen display brightness daylight
+tags: screen display brightness daylight macos-system
 ---
 > supports an arbitrary number of displays!
 
