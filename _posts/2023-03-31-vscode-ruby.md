@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'VSCode: Ruby Debug'
+title: '# Ruby Debug (VSCode)'
 tags: vscode ruby debug
 ---
 > Ruby integration with VSCode - [Ruby by Peng Lv](https://betterprogramming.pub/code-like-a-pro-tooling-to-supercharge-vs-code-for-ruby-bf2ae61df5e3?gi=9dbd1898926e)
