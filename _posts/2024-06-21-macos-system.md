@@ -26,3 +26,6 @@ tags: macos-system
 The Missing [Package](https://formulae.brew.sh/formula/) Manager for macOS (or Linux)
 
 - [	Our audit of Homebrew](https://news.ycombinator.com/item?id=41114839)
+
+see also
+- [Brightness Control](({% 2021-08-17-brightness-control.md %}#macos))
