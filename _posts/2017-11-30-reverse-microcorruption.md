@@ -1,7 +1,7 @@
 ---
 title: Microcorruption
 published: true
-tags: reverse security debug capture-the-flag
+tags: reverse security debug-c++ capture-the-flag
 ---
 > Scattered throughout the world in locked warehouses are briefcases filled with Cy Yombinator bearer bonds that could be worth billions comma billions of dollars. 
 >  
