@@ -172,6 +172,9 @@ $ python3 get-pip.py
 $ python3 -m pip install meson
 {% endhighlight %}
 
+### VSCode
+- [Meson & VSCode: Develop your project in a modern IDE](https://www.collabora.com/news-and-blog/blog/2023/04/18/meson-and-vscode-develop-your-project-modern-ide/)
+
 ## Features
 - multiplatform support for Linux, macOS, Windows, GCC, Clang, Visual Studio and others
 - supported languages include C, C++, D, Fortran, Java, Rust
