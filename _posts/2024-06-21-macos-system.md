@@ -1,7 +1,7 @@
 ---
 title: MacOS
 published: true
-tags: macos-system
+tags: macos-system accessibility
 ---
 > tips.
 
