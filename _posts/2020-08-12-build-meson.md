@@ -1,7 +1,7 @@
 ---
 published: true
 title: The Meson build system
-tags: build-system dlang c++
+tags: build-system dlang c++ vscode
 ---
 > The main design point of Meson is that every moment a developer spends writing or debugging build definitions is a second wasted. So is every second spent waiting for the build system to actually start compiling code. - [Meson](https://mesonbuild.com/index.html)
 
