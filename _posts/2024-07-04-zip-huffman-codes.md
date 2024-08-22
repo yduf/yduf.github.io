@@ -9,5 +9,6 @@ tags: zip entropy
 
 see also
 - [Asymmetric numeral systems (ANS)](https://en.wikipedia.org/wiki/Asymmetric_numeral_systems)
+- [better than Huffman](https://www.youtube.com/watch?v=RFWJM8JMXBs) - intro to arithmetic coding 
 
 [![caption](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fvias.org%2Fencyclopedia%2Fimg%2Fa106b.gif&f=1&nofb=1&ipt=f55e2fa96caa349e33716776e2373f42873dd65bc980bccfea4ca9881e4f5deb&ipo=images)](http://vias.org/encyclopedia/huffman_coding.html)
