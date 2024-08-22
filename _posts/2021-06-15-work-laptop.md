@@ -8,7 +8,7 @@ tags: pc-hardware laptop macos-system
 - 16'' screen
 - as heavy as DELL 
 - only 18Go RAM
-- M3
+- M3 / 12 cores
 
 ### [Dell Precision 5550](https://www.notebookcheck.net/Dell-Precision-5550-Workstation-Review-The-XPS-15-For-Professionals.483877.0.html)
 - 15'' screen 
