@@ -1,7 +1,7 @@
 ---
 published: true
 title: Work Laptops
-tags: pc-hardware laptop
+tags: pc-hardware laptop macos-system
 ---
 
 ### [MacBook Pro](https://www.apple.com/macbook-pro/)
@@ -14,6 +14,6 @@ tags: pc-hardware laptop
 - 15'' screen 
 - lourd ( 1.8 kg)
 
-## [Dell Precision 5520](https://www.dell.com/support/kbdoc/fr-fr/000141036/dell-precision-5520-mobile-station-de-travail-guide-visuel)
+### [Dell Precision 5520](https://www.dell.com/support/kbdoc/fr-fr/000141036/dell-precision-5520-mobile-station-de-travail-guide-visuel)
 PRO:  32GB Ram
 CONs: chauffe beaucoup / lourd / nose camera
