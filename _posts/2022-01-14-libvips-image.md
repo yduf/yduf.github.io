@@ -113,6 +113,7 @@ see also
 	- [Different resize issues](https://github.com/libvips/pyvips/issues/148)
 
 - [Making DeepZoom, Zoomify and Google Maps image pyramids with vips](http://libvips.blogspot.com/2013/03/making-deepzoom-zoomify-and-google-maps.html)
+- [How to use libvips to shrink giant images with limited memory](https://stackoverflow.com/questions/73145033/how-to-use-libvips-to-shrink-giant-images-with-limited-memory) - not possible on _progressive_ or _interlaced_ image (like some jpegs).
 
 ### [Image arithmetic](https://www.libvips.org/API/current/libvips-arithmetic.html)
 
