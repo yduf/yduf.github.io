@@ -49,6 +49,7 @@ A user interface for libvips.
 An image can be very large, much larger than the available memory, so you can’t just access pixels with a pointer *. 
 
 - [demo program (JCupitt)](https://github.com/libvips/libvips/discussions/3894#discussioncomment-8810939)
+	- [Access to data pixel directly #3894](https://github.com/libvips/libvips/discussions/3894)
 
 That will only work for 8-bit images, and I've not tried to handle errors or int overflow correctly. With a 10k x 10k pixel RGB JPEG I see:  700ms to decompress and scan a 300mb image, with a peak memory use of 150mb.
 
