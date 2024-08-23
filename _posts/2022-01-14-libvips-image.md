@@ -94,6 +94,8 @@ main(int argc, char **argv)
 }
 {% endhighlight %}
 
+see also
+- [How to modify the pixel through "VIPS_REGION_ADDR"？](https://github.com/libvips/libvips/discussions/2281)
 
 ### Colors
 - [filters like sepia, black-white](https://github.com/libvips/php-vips/issues/104)
