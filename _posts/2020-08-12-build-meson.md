@@ -28,6 +28,12 @@ gtkdep = dependency('gtk+-3.0')
 executable('demo', 'main.cc', dependencies : gtkdep)
 {% endhighlight %}
 
+### [Optimized build](https://stackoverflow.com/questions/64794068/how-to-set-debug-and-optimization-flag-with-meson/69188608#69188608)
+
+{% highlight bash %}
+$ meson --reconfigure --buildtype=debugoptimized # or debug or release
+{% endhighlight %}
+
 ### [Include directories](https://mesonbuild.com/Reference-manual_returned_inc.html)
 
 {% highlight ruby %}
