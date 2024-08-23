@@ -41,10 +41,59 @@ A user interface for libvips.
 
 - [Fancy transforms](http://libvips.blogspot.com/2015/11/fancy-transforms.html)
 - [trim (auto crop) with ruby-vips](http://libvips.blogspot.com/2014/02/trim-auto-crop-with-ruby-vips.html?view=sidebar)
-
-
     
 - [Some newbie questions on how to do things with libvips](https://github.com/libvips/libvips/issues/1449)
+
+### [Iterating over Region](https://www.libvips.org/API/current/How-it-works.html)
+
+An image can be very large, much larger than the available memory, so you can’t just access pixels with a pointer *. 
+
+- [demo program (JCupitt)](https://github.com/libvips/libvips/discussions/3894#discussioncomment-8810939)
+
+That will only work for 8-bit images, and I've not tried to handle errors or int overflow correctly. With a 10k x 10k pixel RGB JPEG I see:  700ms to decompress and scan a 300mb image, with a peak memory use of 150mb.
+
+
+{% highlight cpp %}
+/* compile with:
+ *
+ * gcc -g -Wall try350.c `pkg-config vips --cflags --libs`
+ */
+
+#include <stdio.h>
+#include <vips/vips.h>
+
+int
+main(int argc, char **argv)   
+{
+    VipsImage *image;
+
+    if (VIPS_INIT(argv[0]))
+        vips_error_exit(NULL);
+
+    if (!(image = vips_image_new_from_file(argv[1], "access", VIPS_ACCESS_SEQUENTIAL, NULL)))
+        vips_error_exit(NULL);
+
+    VipsRegion *region = vips_region_new(image);
+    int sum = 0;
+    for (int y = 0; y < image->Ysize; y++) {
+        if (vips_region_prepare(region, &(VipsRect) { 0, y, image->Xsize, 1 }))
+            vips_error_exit(NULL);
+
+        unsigned char *p = VIPS_REGION_ADDR(region, 0, y);
+        int size = VIPS_REGION_SIZEOF_LINE(region);
+        for (int x = 0; x < size; x++) 
+            sum += p[x];
+    }
+
+    printf("sum = %d\n", sum);
+
+    g_object_unref(region);
+    g_object_unref(image);
+
+    return 0;
+}
+{% endhighlight %}
+
 
 ### Colors
 - [filters like sepia, black-white](https://github.com/libvips/php-vips/issues/104)
