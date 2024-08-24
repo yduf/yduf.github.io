@@ -34,3 +34,4 @@ see also
 
 see also
 - [Where Does Oil Come From? Because It Isn't Dinosaurs](https://www.iflscience.com/where-does-oil-come-from-because-it-isnt-dinosaurs-70746) - oil comes from trillions of tiny algae and plankton. As algae and plankton died tens to hundreds of millions of years ago, they sank to the bottom of the sea, where they accumulated and were buried by layers and layers of sediment. Eventually, after millions of years in a high-pressure and low-oxygen environment, the algae and plankton got "cooked" and turned into that sticky black oil.
+- [This is the 1st lady (I mean President’s wife) of a country in Africa. Just listen to her.](https://www.youtube.com/watch?v=VJSsXkTdOi0) - about _Big Brother_ petroleum company
