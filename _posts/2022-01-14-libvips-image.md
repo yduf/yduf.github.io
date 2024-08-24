@@ -33,6 +33,9 @@ A user interface for libvips.
 - [A/B viewing in nip2](http://libvips.blogspot.com/2013/07/task-of-day-toggle-between-two-images.html)
 - [an example of adding a nips2 tool](http://libvips.blogspot.com/2016/09/nip2-for-nerds-example-of-adding-nips2.html)
 
+see also
+- [Difference Hash computation](https://github.com/yduf/dhash?tab=readme-ov-file#difference-hash-computation) - use libvips for image shrinking
+
 
 ## [Doc](https://www.libvips.org/API/current/) / [c++](https://www.libvips.org/API/8.11/cpp/) / [SO](https://stackoverflow.com/questions/tagged/vips)
 - [Hello World](https://github.com/libvips/libvips/wiki/Hello-World#libvips-hello-world-in-c-1)
