@@ -17,6 +17,7 @@ tags: AI concept identity
 - [MATÉRIALISME ET TERMINATOR - Esprit et matière (5/5) ](https://www.youtube.com/watch?v=qyDWSpX3xAk&t=1s) - si un programme realise les memes function que moi avec mon cerveau - alors il a un esprit.
         
 ### see also
+- [Animal Intelligence]({% post_url 2020-06-07-consciousness %})
 - [Egregore](https://en.wikipedia.org/wiki/Egregore) - an esoteric concept representing a non-physical entity that arises from the collective thoughts of a distinct group of people.
 - [DESCARTES TE MET UN GROS DOUTE - Esprit et matière (1/5)](https://www.youtube.com/watch?v=ixbZNpgHjig) 
 	- dualisme esprit / matiere - _Je pense donc je suis._
