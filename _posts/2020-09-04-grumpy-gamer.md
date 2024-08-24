@@ -1,9 +1,13 @@
 ---
 published: true
 title: Grumpy Gamer (Ron Gilbert blog)
-tags: codingame adventure quote json blog
+tags: codingame adventure quote json blog-people
 ---
 > The Muse visits during the act of creation, not before. Don't wait for her. Start alone. - Roger Ebert
+
+{::nomarkdown}
+<link rel="shortcut icon" href="https://grumpygamer.com/favicon.ico" type="image/x-icon" />
+{:/}
 
 [![caption](https://images-grumpygamer.nyc3.digitaloceanspaces.com/gg_header4.png) <!-- .element height="50%" width="50% ustify-content="left" -->
 ](https://grumpygamer.com/)
