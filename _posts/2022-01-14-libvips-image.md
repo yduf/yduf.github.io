@@ -75,7 +75,7 @@ An image can be very large, much larger than the available memory, so you can’
 That will only work for 8-bit images, and I've not tried to handle errors or int overflow correctly. With a 10k x 10k pixel RGB JPEG I see:  700ms to decompress and scan a 300mb image, with a peak memory use of 150mb.
 
 <details>
-  <summary>Code...</summary>
+  <summary>{% highlight cpp %}Code...{% endhighlight %}</summary>
 <p>
 {% highlight cpp %}
 /* compile with:
