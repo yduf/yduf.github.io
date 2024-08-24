@@ -14,6 +14,7 @@ tags: AI concept identity
     - Sentience: being able to use existing model
     - [What is consciousness](https://www.youtube.com/watch?v=P-2P3MSZrBM&t=3389s) Physicall systems cannot be conscious, only simulation (the mind) can be conscious.
     	- [Spirit]: operating system of autonomous robots
+- [MATÉRIALISME ET TERMINATOR - Esprit et matière (5/5) ](https://www.youtube.com/watch?v=qyDWSpX3xAk&t=1s) - si un programme realise les memes function que moi avec mon cerveau - alors il a un esprit.
         
 ### see also
 - [Egregore](https://en.wikipedia.org/wiki/Egregore) - an esoteric concept representing a non-physical entity that arises from the collective thoughts of a distinct group of people.
@@ -23,4 +24,5 @@ tags: AI concept identity
     	- je pense toutes les choses dont je doute
         - donc **Moi** j'existe
         - mais mon corps n'existe pas ?
+	- pourtant l'esprit et le corps ne font qu'un.
  ![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnQKMNI5X148%2Fmaxresdefault.jpg&f=1&nofb=1)
