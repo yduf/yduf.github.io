@@ -53,6 +53,9 @@ The libvips C++ API is a thin layer over the libvips GObject API. It adds automa
 
 You can drop down to the C API at any point, so all the C API docs also work for C++.
 
+see also
+- [VIPS from C++](https://www.manpagez.com/html/libvips/libvips-7.42.1/using-from-cpp.php)
+
 ### [Iterating over Region](https://www.libvips.org/API/current/How-it-works.html)
 
 An image can be very large, much larger than the available memory, so you can’t just access pixels with a pointer *. 
