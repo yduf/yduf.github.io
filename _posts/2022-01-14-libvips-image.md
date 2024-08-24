@@ -34,7 +34,7 @@ A user interface for libvips.
 - [an example of adding a nips2 tool](http://libvips.blogspot.com/2016/09/nip2-for-nerds-example-of-adding-nips2.html)
 
 see also
-- [Difference Hash computation](https://github.com/yduf/dhash?tab=readme-ov-file#difference-hash-computation) - use libvips for image shrinking
+- [Difference Hash computation](https://github.com/yduf/dhash?tab=readme-ov-file#difference-hash-computation) - use libvips for image shrinking - access band[0] direclty
 
 
 ## [Doc](https://www.libvips.org/API/current/) / [c++](https://www.libvips.org/API/8.11/cpp/) / [SO](https://stackoverflow.com/questions/tagged/vips)
@@ -52,6 +52,15 @@ see also
 The libvips C++ API is a thin layer over the libvips GObject API. It adds automatic reference counting, exceptions, operator overloads, and automatic constant expansion.
 
 You can drop down to the C API at any point, so all the C API docs also work for C++.
+
+- The API overloads **()** to be [vips_getpoint()](https://www.libvips.org/API/current/libvips-arithmetic.html#vips-getpoint) - **which is very slow**
+- The API overloads **[]** to be vips_extract_band()
+- [VIPS images](https://www.libvips.org/API/current/VipsImage.html) / [c++](https://www.libvips.org/API/8.11/cpp/classVImage.html)
+
+VIPS images are three-dimensional arrays, the dimensions being width, height and bands
+
+- [crop](https://www.libvips.org/API/8.11/cpp/classVImage.html#a0cd5e66c9394d4dc5e3dabbef97553fc) synonym for [extract_area](https://www.libvips.org/API/8.11/cpp/classVImage.html#acae0a58b8b3590725b5b2d11694f3dde) - Extract an area from an image.
+- [data](https://www.libvips.org/API/8.11/cpp/classVImage.html#acff02c37a612a932bb1838b352fd0a7e) - Arrange for the underlying object to be entirely in memory, then return a pointer to the first pixel.
 
 see also
 - [VIPS from C++](https://www.manpagez.com/html/libvips/libvips-7.42.1/using-from-cpp.php)
@@ -184,19 +193,6 @@ Full bindings are available for
 - [ watermarking with ruby-vips](http://libvips.blogspot.com/2013/07/watermarking-with-ruby-vips.html)
 - [ruby-vips example](https://github.com/libvips/ruby-vips/wiki/Examples) / [code](https://github.com/libvips/ruby-vips/tree/master/example)
 	- [Are there any good examples of usage?](https://stackoverflow.com/questions/10709995/ruby-vips-image-processing-library-are-there-any-good-examples-of-usage/10710337#10710337)
-
-### [C++](https://github.com/libvips/libvips/tree/master/cplusplus)
-
-- The API overloads () to be [vips_getpoint()](https://www.libvips.org/API/current/libvips-arithmetic.html#vips-getpoint)
-
-- The API overloads [] to be vips_extract_band()
-
-### [VIPS images](https://www.libvips.org/API/current/VipsImage.html) / [c++](https://www.libvips.org/API/8.11/cpp/classVImage.html)
-
-VIPS images are three-dimensional arrays, the dimensions being width, height and bands
-
-- [crop](https://www.libvips.org/API/8.11/cpp/classVImage.html#a0cd5e66c9394d4dc5e3dabbef97553fc) synonym for [extract_area](https://www.libvips.org/API/8.11/cpp/classVImage.html#acae0a58b8b3590725b5b2d11694f3dde) - Extract an area from an image.
-- [data](https://www.libvips.org/API/8.11/cpp/classVImage.html#acff02c37a612a932bb1838b352fd0a7e) - Arrange for the underlying object to be entirely in memory, then return a pointer to the first pixel.
 
 
 ### [Iterate over pixel](https://github.com/libvips/libvips/issues/2260)
