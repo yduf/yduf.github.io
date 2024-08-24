@@ -1,7 +1,7 @@
 ---
 published: true
 title: libVIPS
-tags: image-lib color jpeg jxl ruby c++
+tags: image-lib color jpeg jxl ruby c++ opencv transform
 ---
 > a demand-driven, [horizontally threaded](https://github.com/libvips/libvips/wiki/Why-is-libvips-quick) image processing library. Compared to similar libraries, libvips runs quickly and uses little memory. - [**libVIPS**](https://www.libvips.org/) / [github](https://github.com/libvips/libvips) / [blog](http://libvips.blogspot.com/) / [wikipedia](https://en.wikipedia.org/wiki/VIPS_(software))
 
@@ -43,6 +43,8 @@ see also
 	- [Sequential mode read](http://libvips.blogspot.com/2012/02/sequential-mode-read.html) - Not all operations need random access to their source pixels. For example, thumbnailing, the process of shrinking images for display, can work strictly top-to-bottom. [**But this has re-reading constraint**](https://github.com/libvips/libvips/issues/91#issuecomment-31195517)
 
 - [Fancy transforms](http://libvips.blogspot.com/2015/11/fancy-transforms.html)
+	- [hough_circle](https://www.libvips.org/API/current/cpp/classVImage.html#a12320b47e270dbd52d9047b517c58fbb)
+    - [hough_line](https://www.libvips.org/API/current/cpp/classVImage.html#a95e5ac3492d171eb1c4f4fde669c2bb8)
 - [trim (auto crop) with ruby-vips](http://libvips.blogspot.com/2014/02/trim-auto-crop-with-ruby-vips.html?view=sidebar)
     
 - [Some newbie questions on how to do things with libvips](https://github.com/libvips/libvips/issues/1449)
