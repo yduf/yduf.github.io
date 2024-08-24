@@ -20,5 +20,6 @@ tags: AI concept identity
 - [DESCARTES TE MET UN GROS DOUTE - Esprit et matière (1/5)](https://www.youtube.com/watch?v=ixbZNpgHjig) 
 	- dualisme esprit / matiere - _Je pense donc je suis._
     - le doute méthodique
-    
+    	- je pense toutes les choses dont je doute
+        
  ![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnQKMNI5X148%2Fmaxresdefault.jpg&f=1&nofb=1)
