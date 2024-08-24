@@ -63,9 +63,11 @@ An image can be very large, much larger than the available memory, so you can’
 - [demo program (JCupitt)](https://github.com/libvips/libvips/discussions/3894#discussioncomment-8810939)
 	- [Access to data pixel directly #3894](https://github.com/libvips/libvips/discussions/3894)
 
+<details>
+  <summary>
 That will only work for 8-bit images, and I've not tried to handle errors or int overflow correctly. With a 10k x 10k pixel RGB JPEG I see:  700ms to decompress and scan a 300mb image, with a peak memory use of 150mb.
-
-
+</summary>
+<p>
 {% highlight cpp %}
 /* compile with:
  *
@@ -106,7 +108,9 @@ main(int argc, char **argv)
     return 0;
 }
 {% endhighlight %}
-
+</p>
+</details>
+  
 see also
 - [How to modify the pixel through "VIPS_REGION_ADDR"？](https://github.com/libvips/libvips/discussions/2281)
 
