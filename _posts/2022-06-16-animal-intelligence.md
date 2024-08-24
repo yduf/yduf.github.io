@@ -26,6 +26,7 @@ _To think of consciousness as a dichotomy instead of a spectrum is baffling to m
 
 
 ### see also
+- [Consciousness]({% post_url 2020-06-07-consciousness %})
 - [Enthoven vs. ChatGPT : QUI EST L'IMPOSTEUR ?](https://www.youtube.com/watch?v=dOF9vc5tLJ4) - man pretend machine will never be able to think (man is Enthoven)
 	- _"On a d'un côté quelque chose capable de générer à volonté des suites de mots sur n'importe quoi en donnant une troublante illusion de compétence... et de l'autre côté un chatbot."_ - Mr Phi
     - les machines ne pense pas ... car ce sont des machines (en conclusion c'est un dogme).
