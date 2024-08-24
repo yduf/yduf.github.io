@@ -6,7 +6,7 @@ tags: image-lib color jpeg jxl ruby c++ opencv transform
 > a demand-driven, [horizontally threaded](https://github.com/libvips/libvips/wiki/Why-is-libvips-quick) image processing library. Compared to similar libraries, libvips runs quickly and uses little memory. - [**libVIPS**](https://www.libvips.org/) / [github](https://github.com/libvips/libvips) / [blog](http://libvips.blogspot.com/) / [wikipedia](https://en.wikipedia.org/wiki/VIPS_(software))
 
 - [Automatic computation reordering](http://libvips.blogspot.com/2017/01/automatic-computation-reordering.html)
-- support jpeg-xl since  [libvips 8.11](https://github.com/libvips/libvips/blob/master/ChangeLogS) / but not as part as ubuntu release
+- support jpeg-xl since  [libvips 8.11](https://github.com/libvips/libvips/blob/master/ChangeLogS) - _but not as part as ubuntu release_
 
 ### Compiling
 It straitghforward through meson. But it requires additional libraries to support features:
