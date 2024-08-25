@@ -1,7 +1,7 @@
 ---
 published: true
 title: Text Search
-tags: text search index
+tags: text search index sqlite
 ---
 > Building a full-text search engine in 150 lines of Python code - [blog](https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/) / [HN](https://news.ycombinator.com/item?id=26582109)
 
@@ -14,6 +14,7 @@ see also
 	- [How Google Code Search Worked](https://swtch.com/~rsc/regexp/regexp4.html) - Regular Expression Matching with a Trigram Index
 
 - [SQLite FTS](https://www.sqlite.org/fts5.html)
+	- [Postgres as a Search Engine ](https://news.ycombinator.com/item?id=41344981) - comment mention SQLite as well
 
 ## [The Boyer-Moore Fast String Searching Algorithm](https://www.cs.utexas.edu/users/moore/best-ideas/string-searching/) / [HN](https://news.ycombinator.com/item?id=26910982)
 
