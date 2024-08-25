@@ -5,7 +5,7 @@ tags: phone android project
 ---
 - EMUI 5.0.4 / Android 7.0 - [xda](https://xdaforums.com/c/honor-5c.5548/) / [amazon](https://www.amazon.fr/gp/product/B01GTOMDIC/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) / [les numeriques](https://www.lesnumeriques.com/telephone-portable/honor-5c-p32605/test.html) / [specs](https://www.devicespecifications.com/en/model/f1483bab)
 
-- [PotatoNV ](https://github.com/mashed-potatoes/PotatoNV?tab=readme-ov-file#alternatives) - only open source solution for Unlocking the bootloader.
+[**PotatoNV**](https://github.com/mashed-potatoes/PotatoNV?tab=readme-ov-file#alternatives) - only open source solution for Unlocking the bootloader.
 	- [Dozens of Huawei and Honor devices with Kirin processors can now be bootloader unlocked](https://www.xda-developers.com/huawei-honor-bootloader-unlock-potatonv/)
     - [TWRP Recovery Download For Huawei Honor 5c ](https://cyanogenmods.org/twrp-recovery-download-for-huawei-honor-5c-nemo/)
     - [How to Install ADB Fastboot on Linux](https://cyanogenmods.org/how-to-install-adb-fastboot-on-linux/)
