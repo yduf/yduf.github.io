@@ -1,6 +1,6 @@
 ---
 published: true
-title: Simple Colored output (term)
+title: Colored output term
 tags: c++ ruby color term cli
 ---
 > Berlin and Kay found that, in languages with fewer than the maximum eleven color categories, the colors followed a specific evolutionary pattern. - Using terminal color code
