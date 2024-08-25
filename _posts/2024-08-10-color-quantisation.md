@@ -27,3 +27,6 @@ Reduce processing on each iteration.
 
 Own Implementation
 - [Color Quantisation](https://github.com/yduf/qcolor/tree/master?tab=readme-ov-file#color-quantisation-alph%C3%A0) - Color Quantisation CLI
+
+### see also
+- [How does color segmentation differ from color quantization?](https://tpgit.github.io/UnOfficialLeptDocs/leptonica/color-segmentation.html)
