@@ -24,3 +24,6 @@ This iterate several times over the whole images before convergence.
 ### [Median Cut](https://muthu.co/reducing-the-number-of-colors-of-an-image-using-median-cut-algorithm/)
 
 Reduce processing on each iteration.
+
+Own Implementation
+- [Color Quantisation](https://github.com/yduf/qcolor/tree/master?tab=readme-ov-file#color-quantisation-alph%C3%A0) - Color Quantisation CLI
