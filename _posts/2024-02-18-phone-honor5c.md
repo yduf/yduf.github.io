@@ -8,6 +8,7 @@ tags: phone android
 - [PotatoNV ](https://github.com/mashed-potatoes/PotatoNV?tab=readme-ov-file#alternatives) - only open source solution for Unlocking the bootloader.
 	- [Dozens of Huawei and Honor devices with Kirin processors can now be bootloader unlocked](https://www.xda-developers.com/huawei-honor-bootloader-unlock-potatonv/)
     - [TWRP Recovery Download For Huawei Honor 5c ](https://cyanogenmods.org/twrp-recovery-download-for-huawei-honor-5c-nemo/)
+    - [How to Install ADB Fastboot on Linux](https://cyanogenmods.org/how-to-install-adb-fastboot-on-linux/)
 
 ### Roms
 - [LineageOS 21](https://xdaforums.com/t/rom-14-0-lineageos-21-huawei-p9-lite-honor-5c.4653251/)
