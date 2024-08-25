@@ -35,6 +35,7 @@ A user interface for libvips.
 
 see also
 - [Difference Hash computation](https://github.com/yduf/dhash?tab=readme-ov-file#difference-hash-computation) - use libvips for image shrinking - access band[0] direclty
+- [Color Quantisation](https://github.com/yduf/qcolor/tree/master?tab=readme-ov-file#color-quantisation-alph%C3%A0) - Color Quantisation CLI
 
 
 ## [Doc](https://www.libvips.org/API/current/) / [c++](https://www.libvips.org/API/8.11/cpp/) / [SO](https://stackoverflow.com/questions/tagged/vips)
