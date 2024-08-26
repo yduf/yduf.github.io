@@ -10,7 +10,7 @@ Not hypothetical anymore
 	- [Home Chip Lab (Sam Zeloof)](http://sam.zeloof.xyz/category/semiconductor/)
 - [Making Microchips at Home - Cooking with Jeri Part1](https://www.youtube.com/watch?v=PdcKwOo7dmM&t=1s)
 
-see also
+### see also
 - [How are microchips made?](https://www.youtube.com/watch?v=g8Qav3vIv9s)
 - [Why The First Computers Were Made Out Of Light Bulbs](https://www.youtube.com/watch?v=FU_YFpfDqqA) - diode - triode ( vacuum tube) used first as amplifier then as equivalent of relay
 	- half adder XOR+AND (model (K)itchen
