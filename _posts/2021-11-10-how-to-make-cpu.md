@@ -12,4 +12,5 @@ Not hypothetical anymore
 
 see also
 - [How are microchips made?](https://www.youtube.com/watch?v=g8Qav3vIv9s)
-- [Why The First Computers Were Made Out Of Light Bulbs](https://www.youtube.com/watch?v=FU_YFpfDqqA) - diode - triode and vacuum tube
+- [Why The First Computers Were Made Out Of Light Bulbs](https://www.youtube.com/watch?v=FU_YFpfDqqA) - diode - triode ( vacuum tube) used first as amplifier then as equivalent of relay
+	- half adder XOR+AND (model (K)itchen
