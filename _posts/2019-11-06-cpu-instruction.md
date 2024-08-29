@@ -1,7 +1,7 @@
 ---
 published: true
 title: ' Let''s build a 6502 computer from scratch'
-tags: computer hardware electronic blog tutorial
+tags: computer cpu electronic tutorial blog-electronic
 ---
 > It just sits here succesfully doing nothing forever - [Ben Eater](https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA) 
 
