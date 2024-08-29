@@ -1,7 +1,7 @@
 ---
 published: true
 title: Algorithms List
-tags: algorithm blog visualizer sort
+tags: algorithm visualizer sort
 ---
 > methods for solving a problem expressed as a finite sequence of instructions. 
 
