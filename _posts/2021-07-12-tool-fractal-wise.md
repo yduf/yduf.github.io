@@ -7,6 +7,7 @@ tags: fractal tools 3dmodel math
 
 - [Fractal Vise Jaws - Mechanical Bearings](https://jfs-agri.com/index.php/bubsbuilds-projects/80-fractal-vise-jaws-mechanical-bearings) / [printables](https://www.printables.com/model/991519-fractal-vise-mechanical-bearing-v1)
 	- [Having some fun with a few low-cost, DIY Fractal Vise designs](https://www.youtube.com/watch?v=SP5CHSLomKo)
+    - [Panavise support ](https://www.amazon.com/dp/B00011QA0M)
 
 - [clamp for workmate ](https://www.thingiverse.com/thing:4902085)
 
