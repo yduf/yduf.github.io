@@ -22,6 +22,10 @@ Some facts:
     
 I combined many of them for simplicity when 3D printing. It weighed 1357g (just about 3 lbs) before painting. I used around 2 spools on the successful prints, but it was 3 spools counting failures. I first started researching for this project in April 2015. I had my first functional Curta in the Fall of 2016. This is the second Curta I've built and the first one I've painted. CAD work was done from the original engineering drawings in OnShape.
 
+### 1:1 Scale
+Printed on a resin printer
+- [3D Printed 100% Scale CURTA Calculator Demo Part 2](https://www.youtube.com/watch?v=KQf37PwH8C4)
+
 ## Functionning
 
 [![caption](https://img.youtube.com/vi/ShFkJgck6Pw/0.jpg)](https://www.youtube.com/watch?v=ShFkJgck6Pw)
