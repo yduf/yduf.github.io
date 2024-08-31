@@ -5,7 +5,8 @@ tags: fractal tools 3dmodel math
 ---
 >  Made for [engraving](www.airgraver.com) - [Rare Antique Fractal Vise](https://www.youtube.com/watch?v=QBeOgGt_oWU)
 
-- [Having some fun with a few low-cost, DIY Fractal Vise designs](https://www.youtube.com/watch?v=SP5CHSLomKo)
+- [Fractal Vise Jaws - Mechanical Bearings](https://jfs-agri.com/index.php/bubsbuilds-projects/80-fractal-vise-jaws-mechanical-bearings)
+	- [Having some fun with a few low-cost, DIY Fractal Vise designs](https://www.youtube.com/watch?v=SP5CHSLomKo)
 
 - [clamp for workmate ](https://www.thingiverse.com/thing:4902085)
 
