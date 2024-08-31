@@ -7,6 +7,9 @@ tags: art 3dprint statue
 
 ![caption](https://miro.medium.com/max/1400/1*W_A3tqlt1IfzxvKWvDQJ0w.jpeg)
 
+see also
+- [LuBan](https://www.luban3d.com/) - autocut software for printing big parts
+
 ###  [Scan the World](https://www.myminifactory.com/scantheworld/)
 - [Venus Reclining on a Sea Monster with Cupid and a Putto](https://www.thingiverse.com/thing:24263)
 - [Déesse chatte Bastet ](https://ateliersartmuseesnationaux.fr/fr/sculptures/RE000037?guid=614a58682d82c)
