@@ -24,6 +24,7 @@ I combined many of them for simplicity when 3D printing. It weighed 1357g (just 
 
 ### 1:1 Scale
 Printed on a resin printer
+- [3D Printed 100% Scale CURTA Calculator Part 1](https://www.youtube.com/watch?v=wiXMzj-c69Q)
 - [3D Printed 100% Scale CURTA Calculator Demo Part 2](https://www.youtube.com/watch?v=KQf37PwH8C4)
 
 ## Functionning
