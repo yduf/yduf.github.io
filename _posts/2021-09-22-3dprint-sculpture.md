@@ -9,6 +9,7 @@ tags: art 3dprint statue
 
 see also
 - [LuBan](https://www.luban3d.com/) - autocut software for printing big parts
+	- [How to Easily Print Large Models on Your 3D Printer](https://www.youtube.com/watch?v=uY2lr0GNEVs)
 
 ###  [Scan the World](https://www.myminifactory.com/scantheworld/)
 - [Venus Reclining on a Sea Monster with Cupid and a Putto](https://www.thingiverse.com/thing:24263)
