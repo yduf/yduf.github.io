@@ -29,6 +29,7 @@ I combined many of them for simplicity when 3D printing. It weighed 1357g (just 
 ### [Assembly](https://www.youtube.com/watch?v=zh2Z11miQ0w)
 
 - [Instructables](https://www.instructables.com/Build-a-3D-Printed-Curta-Calculator/)
+- [Atlernates Assembly Video](https://www.youtube.com/watch?v=f_BKrc08eEw)
 
 [![caption](https://hips.hearstapps.com/pop.h-cdn.co/assets/17/28/1500144802-mar1.jpg?resize=980:*)](https://www.popularmechanics.com/technology/gadgets/a27318/3d-printed-curta-calculator/)
 
