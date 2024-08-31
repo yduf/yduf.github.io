@@ -5,6 +5,8 @@ tags: fractal tools 3dmodel
 ---
 >  Made for [engraving](www.airgraver.com) - [Rare Antique Fractal Vise](https://www.youtube.com/watch?v=QBeOgGt_oWU)
 
+- [Having some fun with a few low-cost, DIY Fractal Vise designs](https://www.youtube.com/watch?v=SP5CHSLomKo)
+
 - [clamp for workmate ](https://www.thingiverse.com/thing:4902085)
 
 - [3d printed (Teaching tech)](https://cults3d.com/en/3d-model/tool/fractal-vise) - [onshape model]( https://cad.onshape.com/documents/5509608f682224235855a810/w/6c2a90d7701f2b3540e103d9/e/a6666422824314d6fd1547db) / [2](https://www.youtube.com/watch?v=DbcEL514FV4)
