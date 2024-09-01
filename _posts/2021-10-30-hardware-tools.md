@@ -38,7 +38,7 @@ Considered:
 - l/mm > 4000 / 65 l/s
 - db: le minimum 60db
 
-- [Einhell Aspirateur eaux et poussières TE-VC 2230](https://www.leroymerlin.fr/produits/outillage/radio-chauffage-et-equipement-de-chantier/nettoyage-de-chantier/aspirateur-nettoyeur-vapeur-et-accessoires/aspirateur-de-chantier/aspirateur-de-chantier-eau-et-poussieres-einhell-te-vec-2230-22-kpa-30-l-80051006.html) / [amazon](https://www.amazon.fr/Einhell-Aspirateur-poussi%C3%A8res-Nettoyage-asservie/dp/B09B9HMRJP/ref=cm_cr_arp_d_product_top?ie=UTF8)
+- [Einhell Aspirateur eaux et poussières TE-VC 2230 SA ](https://www.amazon.fr/gp/product/B00BLZVL7E)
 
 - [Tuto : Démarrage automatique pour aspirateur à copeaux](https://www.youtube.com/watch?v=wGa-r4M88k0)
 
