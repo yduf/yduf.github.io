@@ -15,10 +15,10 @@ tags: 3dprint filter co2
 
 ## Air quality
 ### [Formaldehyde Concentration in Building Air](https://inspectapedia.com/indoor_air_quality/Formaldehyde_Gas_Exposure_Limits.php)
-- > 0.0123  - mild irritation or allergic sensitization in some people
-- > 0.615 mg/M³ - irritation to eyes & mucous membranes
-- > 1.23 mg/M³ - possible nasopharyngeal cancer
-- > 3.684 mg/M³- Respiratory impairment and damage
+- \> 0.0123  - mild irritation or allergic sensitization in some people
+- \> 0.615 mg/M³ - irritation to eyes & mucous membranes
+- \> 1.23 mg/M³ - possible nasopharyngeal cancer
+- \> 3.684 mg/M³- Respiratory impairment and damage
 
 ### [TVOC](https://www.environmental-expert.com/news/what-are-acceptable-voc-levels-in-the-air-814546)
 - Less than 0.3 mg/m3: Low
