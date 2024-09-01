@@ -12,6 +12,7 @@ see also
 	- see [Motivations](https://github.com/fmtlib/fmt#motivation)
     - [header-only mode](https://stackoverflow.com/questions/66944554/how-to-use-fmt-library-in-the-header-only-mode)
     - Implementation of C++20 std::format
+    - [Honey, I shrunk {fmt}](https://vitaut.net/posts/2024/binary-size/) / [HN](https://news.ycombinator.com/item?id=41415238) - show generating code size equivalent to call to printf
 
 ### C++20
 - [Printing Formatted Strings in C++20](https://bw.org/2021/08/09/cpp20-print/)
