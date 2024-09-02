@@ -12,3 +12,4 @@ So, to answer our question: What’s the deal with the weird wrong-number texts?
 - [The Fraud Supply Chain ](https://bam.kalzumeus.com/archive/the-fraud-supply-chain/) / [HN](https://news.ycombinator.com/item?id=29437712)
 - [	The Rise of User-Hostile Software (2021) ](https://news.ycombinator.com/item?id=34108692)
 - [Générateur de Mouvement Perpétuel : COMMENT ÇA MARCHE ?](https://youtu.be/LaMdiz2e-6k?feature=shared&t=451) - the business here is to generate money from "perpetual view" on this topic - and the building of fraudulent / deceptive mechanism (battery included).
+- [Scammers PANIC After I Hack Their Live CCTV Cameras!](https://www.youtube.com/watch?v=58JqGuclqng) - scam through sponsored app targeting alex app.
