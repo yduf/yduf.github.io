@@ -1,6 +1,6 @@
 ---
 published: true
-title: Ubuntu
+title: '# Ubuntu & derivatives'
 tags: linux-system ubuntu version
 ---
 > [`neofetch`](https://github.com/dylanaraps/neofetch)  
