@@ -3,7 +3,15 @@ title: MacOS
 published: true
 tags: macos-system accessibility
 ---
-> tips.
+> I'm pretty sure I'm not alone in wanting to customize the hell out of OSX. - [r/MacOS](https://www.reddit.com/r/MacOS/comments/74k4h6/comment/kbngmqr/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+Some things never change. 
+The desire to customize Macos, as well as the incessant bullshit drum beat of "nope, you can't do it"  
+
+Other wrong answers include:
+- Embrace change
+- It's better this way
+- Once you get use to it, you'll like it.
 
 ### Howto
 - [MacBook Pro detects external monitor but shows black screen](https://apple.stackexchange.com/questions/25003/macbook-pro-detects-external-monitor-but-shows-black-screen) - unplug HDMI from hub & reconnect
