@@ -25,6 +25,8 @@ Other wrong answers include:
 
 - [How to turn your macOS into a Linux-like Desktop](https://blog.codeminer42.com/how-to-turn-your-macos-into-a-linux-like-desktop/)
 
+- [AltTab](https://alt-tab-macos.netlify.app/) -  brings the power of Windows’s “alt-tab” window switcher to macOS.
+
 ### Mouse/Trackpad
 
 - [How to separate "mouse" and "trackpad" settings?](https://apple.stackexchange.com/questions/116617/how-to-separate-mouse-and-trackpad-settings)
