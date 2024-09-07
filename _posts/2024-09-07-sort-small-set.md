@@ -1,7 +1,7 @@
 ---
 title: Sorting small set
 published: true
-tags: fastware sort
+tags: fastware sort blog-code
 ---
 > 1-), 2, 3, 4, 5 - [Understanding DeepMind's Sorting Algorithm](https://justine.lol/sorting/)
 
