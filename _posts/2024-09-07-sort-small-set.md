@@ -3,4 +3,4 @@ title: Sorting small set
 published: true
 tags: fastware sort
 ---
-> [Understanding DeepMind's Sorting Algorithm](https://justine.lol/sorting/)
+> 1-), 2, 3, 4, 5 - [Understanding DeepMind's Sorting Algorithm](https://justine.lol/sorting/)
