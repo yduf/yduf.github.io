@@ -5,6 +5,10 @@ tags: fastware sort
 ---
 > 1-), 2, 3, 4, 5 - [Understanding DeepMind's Sorting Algorithm](https://justine.lol/sorting/)
 
+PartialSort3() isn't actually a sorting function. It's a sorting kernel that's intended to be used as the building block of the sort3() function. 
+
+It's also worth mentioning that Sort3() and Sort5() are kernels themselves.
+
 {% highlight cpp %}
 // sorts [a,b]
 static inline void Sort2(long *a, long *b) {
