@@ -14,7 +14,7 @@ title: Curta - The Mechanical Calculator
 ### Curta Calculator Type I scaled at 3:1
 - [github (scale 3x)](https://github.com/marcuswu/Curta-Type-I-3x) / [Printables](https://www.printables.com/model/158740-curta-calculator-type-i-scaled-at-31/remixes) 
 	- [thingiverse](https://www.thingiverse.com/thing:1943171)
-    	- [Curta Calculator Mods](https://www.thingiverse.com/thing:3126676) - splitted trying to avoid supports - some tailored for 3dprint
+    	- [Curta Calculator Mods](https://www.thingiverse.com/thing:3126676) - a number of design modifications that I felt better supported 3D printing and the use of plastic vs. metal components. - some piece splitted
 
 - [onshape 3D (scale 1x)](https://cad.onshape.com/documents/56ab5570e4b0d9659037a1cf/w/9f078541afd347bb397e344f/e/2b386be0c67cfb2a94581ba7)
 
