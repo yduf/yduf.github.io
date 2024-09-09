@@ -1,6 +1,6 @@
 ---
 title: Dogwhistling
 published: true
-tags: psychology
+tags: psychology lang
 ---
 > double speak langage
