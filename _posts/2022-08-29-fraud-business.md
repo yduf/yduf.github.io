@@ -14,3 +14,4 @@ So, to answer our question: What’s the deal with the weird wrong-number texts?
 - [Générateur de Mouvement Perpétuel : COMMENT ÇA MARCHE ?](https://youtu.be/LaMdiz2e-6k?feature=shared&t=451) - the business here is to generate money from "perpetual view" on this topic - and the building of fraudulent / deceptive mechanism (battery included).
 - [Scammers PANIC After I Hack Their Live CCTV Cameras!](https://www.youtube.com/watch?v=58JqGuclqng) - scam through sponsored app targeting alex app.
 	- [Police RAID This Scam Call Center Live ON Camera!](https://www.youtube.com/watch?v=ewg_xdR0_Vw)
+	- [Showing A Scammer HIS OWN Local BILLBOARD!](https://www.youtube.com/watch?v=jjukOD4f32U)
