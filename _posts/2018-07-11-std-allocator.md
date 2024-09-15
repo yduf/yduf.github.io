@@ -16,4 +16,6 @@ Manipulating block made of (addr, size).
 Danger:
 - Freelist: are adversed to cache and can eat all memory.
 
-See also [custom vector allocator](https://upcoder.com/6/custom-vector-allocation/)
+See also 
+- [custom vector allocator](https://upcoder.com/6/custom-vector-allocation/)
+- [	Nesting Allocators (2023)](https://news.ycombinator.com/item?id=41540777)
