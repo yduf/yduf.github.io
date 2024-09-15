@@ -20,5 +20,9 @@ puts "done"
 
 ### [C++](https://stackoverflow.com/questions/9158150/colored-output-in-c)
 
+{% highlight c++ %}
+## RGB colors
+auto s = std::format("\033[38;2;{;d};{;d};{:d}m ", r,g,b);    // Select RGB foreground color
+{% endhighlight %}
 
 [![caption](https://i.stack.imgur.com/KTSQa.png)](https://stackoverflow.com/questions/4842424/list-of-ansi-color-escape-sequences)
