@@ -8,7 +8,12 @@ tags: image-lib color jpeg jxl ruby c++ opencv transform
 - [Automatic computation reordering](http://libvips.blogspot.com/2017/01/automatic-computation-reordering.html)
 - support jpeg-xl since  [libvips 8.11](https://github.com/libvips/libvips/blob/master/ChangeLogS) - _but not as part as ubuntu release_
 
-### Compiling
+### [Compiling]()
+
+{% highlight cpp %}
+sudo apt install build-essential ninja-build
+{% endhighlight %}
+    
 It straitghforward through meson. But it requires additional libraries to support features:
 - [x] [libspng](https://github.com/randy408/libspng) (recommended) - faster png operation
 	- otherwise use libpng
