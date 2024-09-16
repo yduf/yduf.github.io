@@ -1,7 +1,7 @@
 ---
 title: MacOS
 published: true
-tags: macos-system accessibility vscode
+tags: macos-system accessibility vscode chrome
 ---
 > I'm pretty sure I'm not alone in wanting to customize the hell out of OSX. - [r/MacOS](https://www.reddit.com/r/MacOS/comments/74k4h6/comment/kbngmqr/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
