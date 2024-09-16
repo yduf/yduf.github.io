@@ -1,7 +1,7 @@
 ---
 title: MacOS
 published: true
-tags: macos-system accessibility
+tags: macos-system accessibility vscode
 ---
 > I'm pretty sure I'm not alone in wanting to customize the hell out of OSX. - [r/MacOS](https://www.reddit.com/r/MacOS/comments/74k4h6/comment/kbngmqr/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
@@ -31,6 +31,10 @@ Other wrong answers include:
 
 - [How to separate "mouse" and "trackpad" settings?](https://apple.stackexchange.com/questions/116617/how-to-separate-mouse-and-trackpad-settings)
 	- [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) - Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS.
+    
+- Zoom with Wheel
+	- [Quick Zoom extension](https://www.reddit.com/r/MacOS/comments/u3naol/mac_equivalent_of_ctrlmouse_scroll_to_zoom_in_a/) - Chrome/Edge extension to solve it
+    - VSCode [set `editor.mouseWheelZoom": true`](https://stackoverflow.com/a/38360205/51386)
 
 ### [Homebrew](https://brew.sh/)
 The Missing [Package](https://formulae.brew.sh/formula/) Manager for macOS (or Linux)
