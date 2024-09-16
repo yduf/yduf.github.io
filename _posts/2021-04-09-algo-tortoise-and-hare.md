@@ -10,8 +10,9 @@ tags: graph cycle algorithm
 - find position of first repetition
 - find cycle length
 
-see [rosettacode.org](http://rosettacode.org/wiki/Cycle_detection#Ruby)
-
-[Brent's algorithm](https://en.wikipedia.org/wiki/Cycle_detection#Brent's_algorithm) use a faster model with progressive speed.
+see also
+- [rosettacode.org](http://rosettacode.org/wiki/Cycle_detection#Ruby)
+- [Brent's algorithm](https://en.wikipedia.org/wiki/Cycle_detection#Brent's_algorithm) use a faster model with progressive speed.
 
 - [If Programming Was An Anime](https://www.youtube.com/watch?v=pKO9UjSeLew)
+- [	Possibly all the ways to get loop-finding in graphs wrong](https://news.ycombinator.com/item?id=41508355)
