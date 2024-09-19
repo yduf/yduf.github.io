@@ -10,8 +10,8 @@ tags: screw shop
 **Diameter** of tapped hole 
 The actual diameter of a tapped hole for:  
 **M6** is 5.00 mm  
-**M5** is 4.20 mm,  
-**M4** is 3.3mm,  x 0.7 (std) or 0.75  
+**M5** is 4.20 mm, x 0.8 (std) or 0.9 
+**M4** is 3.3mm,   x 0.7 (std) or 0.75  
 **M3** is 2.5mm (hole) x 0.5mm (thread pitch), diameter of screw is 2.9mm  
 **M2.5** is 2.05, screw is 2.4mm,  
 **M2** is 1.6, screw is 1.9mm. 
