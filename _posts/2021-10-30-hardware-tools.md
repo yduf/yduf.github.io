@@ -3,7 +3,13 @@ published: true
 title: Hardware / Work Tools
 tags: lab hardware-tools shop
 ---
-> [amazon](https://www.amazon.fr/) / [castorama](https://www.castorama.fr/) / [entrepot-du-bricolage](https://www.entrepot-du-bricolage.fr/) / [mano-mano](https://www.manomano.fr/) / [bricozor](https://www.bricozor.com/)
+> The 4.5" angle grinder is like an agressive little dog that's just waiting for a chance to bite you.  
+> The table saw is like an old pitbull that generally sleeps.
+> The 6"/7"/9" grinder is a skunk.  
+>
+> Everyone who's ever given it the chance has a story about the time the angle grinder nipped at them. The people who pestered the old pitbull until it got sick of their crap have 9 fingers. Nobody has problems with the skunk because it's pretty obvious what'll happen if you disrespect it. - [HN](https://news.ycombinator.com/item?id=41593762)
+
+[amazon](https://www.amazon.fr/) / [castorama](https://www.castorama.fr/) / [entrepot-du-bricolage](https://www.entrepot-du-bricolage.fr/) / [mano-mano](https://www.manomano.fr/) / [bricozor](https://www.bricozor.com/)
 
 see also
 - [	The Periodic Table of Tools](https://periodictableoftools.com/index.html) / [HN](https://news.ycombinator.com/item?id=38421044)
