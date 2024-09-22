@@ -5,7 +5,7 @@ tags: application music
 ---
 > Living fork of [Clementine](https://www.clementine-player.org/) itself inspired by [Amarok 1.4](https://amarok.kde.org/), - [Home](https://github.com/strawberrymusicplayer/strawberry#strawberry-strawberry-music-player-)
 
-Works on Linux Lint 22.x
+### Works on Linux Lint 22.x
 
 Strawberry is a music player and music collection organizer. It is a fork of Clementine released in 2018 aimed at music collectors and audiophiles. It's written in C++ using the Qt toolkit.
 
