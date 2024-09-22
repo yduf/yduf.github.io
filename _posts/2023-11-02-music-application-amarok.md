@@ -12,6 +12,6 @@ Strawberry is a music player and music collection organizer. It is a fork of Cle
 [![caption](https://raw.githubusercontent.com/strawberrymusicplayer/strawberry/master/data/screenshot/screenshot.png)](https://github.com/strawberrymusicplayer/strawberry#strawberry-strawberry-music-player-)
 
 
-### How to bring back amarok 1.4 ? - TBD
+### How to bring back amarok 1.4 ? - Obsolete
 
 - project: tried to put everything in a docker or appimage - to avoid old library issue
