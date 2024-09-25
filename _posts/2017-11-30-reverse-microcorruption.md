@@ -98,7 +98,7 @@ _Every number in the debugger is in base 16._
 - [**Whitehorse**](https://microcorruption.com/debugger/Whitehorse) - LockIT Pro rev c.01 - _know your history_
 - [**Novosibirsk**](https://microcorruption.com/debugger/Novosibirsk) - LockIT Pro rev c.02 - _back to bbb_
 - [**Montevideo**](https://microcorruption.com/debugger/Montevideo) - LockIT Pro rev c.03 - _push your way through_
-- [**Lagos**](https://microcorruption.com/debugger/Lagos) - LockIT Pro rev c.04 - _?_
+- [**Lagos**](https://microcorruption.com/debugger/Lagos) - LockIT Pro rev c.04 - _alphabet is your limit_
 - [**Vladivostok**](https://microcorruption.com/debugger/Vladivostok) - LockIT Pro rev c.05 - _?_
 
 - --
