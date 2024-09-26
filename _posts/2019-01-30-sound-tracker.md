@@ -3,6 +3,8 @@ published: true
 title: Sound tracker
 tags: 8bit online amiga music audio chiptune
 ---
+> 	Furnace – the biggest multi-system chiptune tracker ever made - [HN](https://news.ycombinator.com/item?id=41609254)
+
 ## [BassoonTracker](https://github.com/steffest/bassoontracker) - [\[HN\]](https://news.ycombinator.com/item?id=19034690)
 
 [![caption](https://img.youtube.com/vi/SlyK_elUmIw/0.jpg)](https://www.youtube.com/watch?v=SlyK_elUmIw)
