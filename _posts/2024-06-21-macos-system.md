@@ -51,7 +51,7 @@ VSCode [set `editor.mouseWheelZoom": true`](https://stackoverflow.com/a/38360205
 add VS Code to your path, to do so run the following commands:
 
 {% highlight bash %}
-cat << EOF >> ~/.bash_profile
+$ cat << EOF >> ~/.bash_profile
 # Add Visual Studio Code (code)
 export PATH="\$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
 EOF
