@@ -73,7 +73,7 @@ _Every number in the debugger is in base 16._
 
 - [ASCII Table](https://www.ascii-code.com/)
 
-### Levels
+### [Levels](https://github.com/yduf/yduf.github.io/issues/7)
 - [**Tutorial**](https://microcorruption.com/debugger/Tutorial) - follow tutorial. - _every password of proper size work._
 
 > The engineers responsible have been sacked.
@@ -108,3 +108,4 @@ _Every number in the debugger is in base 16._
 - --
 - [**Vancouver**](https://microcorruption.com/debugger/Vancouver) - LockIT 2 a.01 -  _?_
 - [**Baku**](https://microcorruption.com/debugger/Baku) - SecurePlus rev a.01 - _?_
+
