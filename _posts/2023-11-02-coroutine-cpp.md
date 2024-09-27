@@ -11,3 +11,6 @@ tags: c++ coroutine
 - [My tutorial and take on C++20 coroutines](https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html)
 - [C++20 Coroutines: sketching a minimal async framework](https://www.jeremyong.com/cpp/2021/01/04/cpp20-coroutines-a-minimal-async-framework/)
 - [Yet Another C++ Coroutine Tutorial](https://theshoemaker.de/posts/yet-another-cpp-coroutine-tutorial)
+
+### see also
+- [Coros – A Modern C++ Library for Task Parallelism](https://news.ycombinator.com/item?id=41647025)
