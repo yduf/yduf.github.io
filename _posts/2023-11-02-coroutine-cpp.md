@@ -13,4 +13,4 @@ tags: c++ coroutine
 - [Yet Another C++ Coroutine Tutorial](https://theshoemaker.de/posts/yet-another-cpp-coroutine-tutorial)
 
 ### see also
-- [Coros](https://news.ycombinator.com/item?id=41647025) - a header-only C++23 library designed for task-based parallelism, that utilizes coroutines and the new expected type
+- [Coros](https://news.ycombinator.com/item?id=41647025) - a header-only C++23 library designed for task-based parallelism, that utilizes coroutines and the new expected type.
