@@ -2,6 +2,7 @@
 published: true
 title: La malédiction de Cantor
 tags: quote
+use_math: true
 ---
 > La somme de nos connaissances est toujours inférieure à la somme de celles qui nous manquent. - yduf
 
