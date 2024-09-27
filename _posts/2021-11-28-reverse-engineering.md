@@ -18,6 +18,7 @@ tags: reverse debug
 
 ## Debug
 - [Write a toy strace and gdb ](https://news.ycombinator.com/item?id=13148541)
+- [Writing a Debugger From Scratch](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-7/)
 
 ## Reverse
 - [Dangers of the Decompiler](https://blog.ret2.io/2017/11/16/dangers-of-the-decompiler/) / [HN](https://news.ycombinator.com/item?id=15714989) - A Sampling of Anti-Decompilation Techniques 
