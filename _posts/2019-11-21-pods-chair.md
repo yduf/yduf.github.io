@@ -16,6 +16,4 @@ tags: fun pods mechanical art robot project 3dprint
     - [Carpentopod vs Strandbeest](https://www.youtube.com/watch?v=k4qrjD_HK4E)
 
 
-
-
 ![caption](https://web.archive.org/web/20170730105230if_/http://boim.com/Walkin8r/JansenCycle.gif)
