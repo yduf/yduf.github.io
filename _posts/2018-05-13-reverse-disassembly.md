@@ -1,11 +1,14 @@
 ---
-title: cutter (disassembly)
+title: Disassembler
 published: true
 tags: tools reverse debug-c++  ghidra
 ---
-> AN open-source reverse engineering platform powered by [rizin](https://github.com/rizinorg/rizin). - [github](https://github.com/rizinorg/cutter?tab=readme-ov-file#cutter)
+> An open-source reverse engineering platform powered by [rizin](https://github.com/rizinorg/rizin). - [github](https://github.com/rizinorg/cutter?tab=readme-ov-file#cutter)
 
-### Features
+- [Destroying x86_64 instruction decoders with differential fuzzing](https://blog.trailofbits.com/2019/10/31/destroying-x86_64-instruction-decoders-with-differential-fuzzing/)
+
+### Cutter
+
 - Native integration of Ghidra's decompiler 
 
 - [Github](https://github.com/radareorg/cutter) -A Qt and C++ GUI for radare2 reverse engineering framework
