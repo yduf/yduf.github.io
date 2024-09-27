@@ -56,3 +56,7 @@ $ cat << EOF >> ~/.bash_profile
 export PATH="\$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
 EOF
 {% endhighlight %}
+
+### [Linux](https://news.ycombinator.com/item?id=40316704)
+
+> I do laud the effort here, but personally I will not buy apple again, even with linux. The software is not the only problem with apple's closed system - the hardware is all but irreparable, locked to approved parts and so on.
