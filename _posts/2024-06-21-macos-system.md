@@ -43,3 +43,16 @@ The Missing [Package](https://formulae.brew.sh/formula/) Manager for macOS (or L
 
 see also
 - [Brightness Control](({% post_url 2021-08-17-brightness-control %}#macos))
+
+### [VSCode](https://code.visualstudio.com/docs/setup/mac)
+
+VSCode [set `editor.mouseWheelZoom": true`](https://stackoverflow.com/a/38360205/51386)
+
+add VS Code to your path, to do so run the following commands:
+
+{% highlight bash %}
+cat << EOF >> ~/.bash_profile
+# Add Visual Studio Code (code)
+export PATH="\$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+EOF
+{% endhighlight %}
