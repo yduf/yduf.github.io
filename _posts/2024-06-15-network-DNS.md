@@ -14,3 +14,18 @@ Check that your gateway (your router is reachable) `curl -v https://github.com`
 
 If this not the case "network is unreachable" error suggests there may be an issue with your network configuration or connectivity. 
 I sometimes failed to put the right adress .255 vs .254.
+
+### [DNS leak test](https://www.dnsleaktest.com/what-is-transparent-dns-proxy.html)
+- from [\[HN\]](https://news.ycombinator.com/item?id=13037858)
+
+### Alternative DNS
+- [CloudFlare](https://blog.cloudflare.com/dns-resolver-1-1-1-1/) - [1.1.1.1](https://1.1.1.1/)
+
+### DNSMask
+- [Five Nines with Dnsmasq](https://news.ycombinator.com/item?id=27916548)
+
+- [What domain name to use for your home network](https://news.ycombinator.com/item?id=28192247)
+
+
+### See also
+- [Malaysia started mandating ISPs to redirect DNS queries to local servers ](https://news.ycombinator.com/item?id=41471510)
