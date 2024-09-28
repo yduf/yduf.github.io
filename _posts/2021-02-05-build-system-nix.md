@@ -13,7 +13,7 @@ Nix is the outcome of an Academic Work => [The Purely Functional Software
 Deployment Model (2006)](https://edolstra.github.io/pubs/phd-thesis.pdf)
 
 - [Nix explained from the ground up ](https://www.youtube.com/watch?v=5D3nUU1OVx8) - explain why & what is Nix
-	- a DSL + Platform to get reproducible within same platform
+	- a DSL + Platform & a store to get reproducible within same platform
     - stage one / stage two generation for having clean binaries.
     	- does it survive [Evil compiler]({% post_url 2022-06-06-devil-compiler %}) ?
 
