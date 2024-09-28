@@ -7,4 +7,4 @@ tags: web vscode
 
 ### Specific extension
 
-- [Live Server](https://marketplace.visualstudio.com/items?itemName=yandeu.five-server)
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=yandeu.five-server) - see [usage](How To Install Live Server in Visual Studio Code)
