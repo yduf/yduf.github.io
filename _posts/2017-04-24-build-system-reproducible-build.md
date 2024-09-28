@@ -1,6 +1,6 @@
 ---
 published: true
-tags: reproducible build-system
+tags: build-system
 title: Reproducible Build
 ---
 > Reliable way to verify the binaries we ship are faithful to their sources - [HN](https://news.ycombinator.com/item?id=38057591)
