@@ -1,5 +1,5 @@
 ---
-title: Debugging the nth call
+title: Debugging the n-th call
 published: true
 tags: debug-war debug-c++ yduf
 ---
@@ -14,3 +14,6 @@ tags: debug-war debug-c++ yduf
 5. - rerun, and now you are ready to debug in close condition to the crash.
 
 This method allows to rerun close to normal performance and easily understand context of such bug  (for eg, when happens after several call of the same functions, or deep in a loop).
+
+see also
+- [	Why use strace in 2023?](https://news.ycombinator.com/item?id=38908496)
