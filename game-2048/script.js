@@ -3,6 +3,23 @@ import Tile from "./Tile.js"
 
 const gameBoard = document.getElementById("game-board")
 
+// avoid scrolling while playing - doesn't workk yet
+function HandleKeyPress(e) {
+  var e = e || window.event;
+  switch (e.keyCode) {
+
+      case e.DOM_VK_LEFT:
+      case e.DOM_VK_RIGHT:
+      case e.DOM_VK_UP:
+      case e.DOM_VK_DOWN:
+          if (e.preventDefault)
+              e.preventDefault();
+          else e.returnValue = false;
+  }
+}
+
+gameBoard.onkeypress = HandleKeyPress;
+
 const grid = new Grid(gameBoard)
 grid.randomEmptyCell().tile = new Tile(gameBoard)
 grid.randomEmptyCell().tile = new Tile(gameBoard)
