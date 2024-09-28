@@ -17,6 +17,7 @@ Deployment Model (2006)](https://edolstra.github.io/pubs/phd-thesis.pdf)
     - force specific file-system hierarchy
     - stage one / stage two generation for having clean binaries.
     	- does it survive [Evil compiler]({% post_url 2022-06-06-devil-compiler %}) ?
+	- NixOS - a linux distribution base upon Nix
 
 - [	Fast, Declarative, Reproduble and Composable Developer Environments Using Nix (devenv)](https://devenv.sh/) / [HN](https://news.ycombinator.com/item?id=40010991)
 - [Our Roadmap for Nix](https://news.ycombinator.com/item?id=32374113)
