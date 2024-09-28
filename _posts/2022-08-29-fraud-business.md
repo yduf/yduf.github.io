@@ -16,3 +16,4 @@ So, to answer our question: What’s the deal with the weird wrong-number texts?
 	- [Police RAID This Scam Call Center Live ON Camera!](https://www.youtube.com/watch?v=ewg_xdR0_Vw)
 	- [Showing A Scammer HIS OWN Local BILLBOARD!](https://www.youtube.com/watch?v=jjukOD4f32U)
 - [Fraud, so much fraud ](https://news.ycombinator.com/item?id=41672599) - scientific fraud
+- [Moving Bricks: Money-laundering practices in the online scam industry](https://news.ycombinator.com/item?id=41669934)
