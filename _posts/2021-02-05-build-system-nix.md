@@ -1,13 +1,15 @@
 ---
 published: true
 title: What Is Nix ?
-tags: dev docker nix
+tags: build-system
 ---
 > On Debian, Fedora, etc, installing a package means letting it put files wherever it likes; which effectively gives the package author root on your system. Not a good base for sandboxing!
 >
 > Also, they make it difficult to try out 3rd-party software, or to test newer versions of just some packages.
 > 
 > In 2003 I created 0install to address these problems, and Nix has very similar goals. - [NixOS](https://roscidus.com/blog/blog/2021/03/07/qubes-lite-with-kvm-and-wayland/#nixos)
+
+- [Nix explained from the ground up ](https://www.youtube.com/watch?v=5D3nUU1OVx8) - explain why & what is Nix
 
 - [	Fast, Declarative, Reproduble and Composable Developer Environments Using Nix (devenv)](https://devenv.sh/) / [HN](https://news.ycombinator.com/item?id=40010991)
 - [Our Roadmap for Nix](https://news.ycombinator.com/item?id=32374113)
