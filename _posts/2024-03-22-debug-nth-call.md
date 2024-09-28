@@ -15,6 +15,6 @@ tags: debug-war debug-c++ yduf strace
 
 This method allows to rerun close to normal performance and easily understand context of such bug  (for eg, when happens after several call of the same functions, or deep in a loop).
 
-see also
+### see also
 - [	Why use strace in 2023?](https://news.ycombinator.com/item?id=38908496)
 - [So you wanna de-bog yourself](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself)
