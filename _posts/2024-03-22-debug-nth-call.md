@@ -1,11 +1,11 @@
 ---
-title: debugging the nth call
+title: Debugging the nth call
 published: true
-tags: debug-war c++ yduf
+tags: debug-war debug-c++ yduf
 ---
 > the easiest way to debug a crash on the nth call of a piece of code is to set a hardware breakpoint - yduf
 
-This assume the bug is reproducible.
+**This assume the bug is reproducible.**
 
 1. - run the code until it crash
 2. - not the place, and set a hardware breakpoint there - with counting enable, but no stop.
