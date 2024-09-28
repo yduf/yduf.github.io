@@ -1,7 +1,7 @@
 ---
 published: true
 title: The Mythical Man Month
-tags: book quote software enterprise
+tags: book quote software enterprise mythical-man
 ---
 > Adding manpower to a late software project makes it later. - [Fred Brooks](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
 

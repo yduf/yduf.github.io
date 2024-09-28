@@ -1,7 +1,7 @@
 ---
 published: true
 title: Reverse Engineering
-tags: reverse debug
+tags: reverse debug-c++
 ---
 > [SO Newest Question](https://reverseengineering.stackexchange.com/questions)
 
