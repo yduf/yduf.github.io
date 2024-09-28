@@ -170,7 +170,8 @@ like [USSA design](https://www.youtube.com/@ussadesign/videos)
     </svg>
     <div class="product-list">Grey
       <ul>
-  <li><span class="circle" style="background-color: #797B7A;"></span><a href="https://www.3djake.fr/polymaker/polyterra-pla-fossil-grey">Fossil Grey (PolyTerra) - smooth texture</a></li>       
+  		<li><span class="circle" style="background-color: #797B7A;"></span>
+          <a href="https://www.3djake.fr/polymaker/polyterra-pla-fossil-grey">Fossil Grey (PolyTerra) - smooth texture</a></li>       
       </ul>
     </div>
   </div>
@@ -240,7 +241,7 @@ like [USSA design](https://www.youtube.com/@ussadesign/videos)
     </svg>
     <div class="product-list">
       <ul>
-        <li><a href="https://www.amazon.fr/gp/product/B07FQJ9H8F">Bleu Clair (eSUN PLA+)</a></li>
+        <li><span class="circle" style="background-color: #37D9FF;"></span><a href="https://www.amazon.fr/gp/product/B07FQJ9H8F">Bleu Clair (eSUN PLA+)</a></li>
       </ul>
     </div>
   </div>
