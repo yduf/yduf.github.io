@@ -9,6 +9,9 @@ tags: build-system
 > 
 > In 2003 I created 0install to address these problems, and Nix has very similar goals. - [NixOS](https://roscidus.com/blog/blog/2021/03/07/qubes-lite-with-kvm-and-wayland/#nixos)
 
+Nix is the outcome of an Academic Work => [The Purely Functional Software
+Deployment Model](https://edolstra.github.io/pubs/phd-thesis.pdf)
+
 - [Nix explained from the ground up ](https://www.youtube.com/watch?v=5D3nUU1OVx8) - explain why & what is Nix
 	- a DSL + Platform to get reproducible within same platform
 
