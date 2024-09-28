@@ -10,6 +10,7 @@ tags: build-system
 > In 2003 I created 0install to address these problems, and Nix has very similar goals. - [NixOS](https://roscidus.com/blog/blog/2021/03/07/qubes-lite-with-kvm-and-wayland/#nixos)
 
 - [Nix explained from the ground up ](https://www.youtube.com/watch?v=5D3nUU1OVx8) - explain why & what is Nix
+	- a DSL + Platform to get reproducible within same platform
 
 - [	Fast, Declarative, Reproduble and Composable Developer Environments Using Nix (devenv)](https://devenv.sh/) / [HN](https://news.ycombinator.com/item?id=40010991)
 - [Our Roadmap for Nix](https://news.ycombinator.com/item?id=32374113)
