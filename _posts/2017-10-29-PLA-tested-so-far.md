@@ -15,7 +15,6 @@ tags: 3dprint pla
 - **2** - ABS/ABS+ / PETG - 50°
 - **3** - PVA / Nylon / PC - 55°
 
-
     
 - [Faites votre propre Dual PLA](https://www.youtube.com/watch?v=Bjo_4RYRaOo)
 
@@ -230,6 +229,18 @@ like [USSA design](https://www.youtube.com/@ussadesign/videos)
     <div class="product-list">
       <ul>
         <li><a href="https://www.amazon.fr/gp/product/B017HAI53E/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&th=1">Mellow Mint  (ICE)</a></li>
+      </ul>
+    </div>
+  </div>
+  
+  <!-- Repeat the color boxes and product lists for other colors -->
+  <div class="color-box-container">
+    <svg class="color-box">Bleu Clair
+      <rect width="100%" height="100%" fill="#37D9FF"  />
+    </svg>
+    <div class="product-list">
+      <ul>
+        <li><a href="https://www.amazon.fr/gp/product/B07FQJ9H8F">Bleu Clair (eSUN PLA+)</a></li>
       </ul>
     </div>
   </div>
