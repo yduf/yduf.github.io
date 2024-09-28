@@ -1,7 +1,7 @@
 ---
 title: Debugging the n-th call
 published: true
-tags: debug-war debug-c++ yduf
+tags: debug-war debug-c++ yduf strace
 ---
 > the easiest way to debug a crash on the nth call of a piece of code is to set a hardware breakpoint - yduf
 
