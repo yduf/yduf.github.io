@@ -1,11 +1,11 @@
 ---
-title: debugging the nth call
+title: Debugging the n-th call
 published: true
-tags: debug-war c++ yduf
+tags: debug-war debug-c++ yduf strace
 ---
 > the easiest way to debug a crash on the nth call of a piece of code is to set a hardware breakpoint - yduf
 
-This assume the bug is reproducible.
+**This assume the bug is reproducible.**
 
 1. - run the code until it crash
 2. - not the place, and set a hardware breakpoint there - with counting enable, but no stop.
@@ -14,3 +14,7 @@ This assume the bug is reproducible.
 5. - rerun, and now you are ready to debug in close condition to the crash.
 
 This method allows to rerun close to normal performance and easily understand context of such bug  (for eg, when happens after several call of the same functions, or deep in a loop).
+
+see also
+- [	Why use strace in 2023?](https://news.ycombinator.com/item?id=38908496)
+- [So you wanna de-bog yourself](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself)

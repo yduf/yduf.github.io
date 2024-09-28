@@ -7,7 +7,7 @@ tags: c++ quote
 
 - A complex system that works is invariably found to have evolved from a simple system that worked. - [Gall's law](https://en.wikipedia.org/wiki/John_Gall_(author)#Gall's_law)
 
-Stroustrup
+### Stroustrup
 - A lot of the so-called ‘safe’ languages outsource all the low-level stuff to C or C++ 
 - Global static analysis is just unaffordable
 - Being careful doesn’t scale
@@ -15,4 +15,4 @@ Stroustrup
 ### see also
 - [	Main is usually a function](https://news.ycombinator.com/item?id=37045803) - So then when is it not?
 - [Debug & Build C++ Project]({% post_url 2020-09-19-vscode-cpp-project %})
-
+- [The C++20 Naughty and Nice List for Game Devs](https://www.jeremyong.com/c++/2023/12/24/cpp20-gamedev-naughty-nice/) -  features I think game devs should probably use (possibly with caveats), and features I think game devs will probably want to avoid. 

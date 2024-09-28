@@ -1,7 +1,7 @@
 ---
 published: true
 title: Coding Minecraft in One Week
-tags: game-engine c++ opengl minecraft mesh
+tags: codingame game-engine opengl minecraft mesh project
 ---
 > [Hopson](https://www.youtube.com/watch?v=Xq3isov6mZ8)
 

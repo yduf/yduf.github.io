@@ -1,7 +1,7 @@
 ---
 published: true
 title: Butano
-tags: 8bit c++ game-engine
+tags: 8bit game-engine gameboy
 ---
 > [Modern C++ high level GBA engine](https://github.com/GValiente/butano#butano)
 

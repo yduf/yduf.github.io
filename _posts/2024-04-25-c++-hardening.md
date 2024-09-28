@@ -17,6 +17,6 @@ When compiling C or C++ code on compilers such as GCC and clang, turn on these f
 -Wl,-z,relro -Wl,-z,now
 {% endhighlight %}
 
-see also
+### see also
 - [No more leaks with sanitize flags in gcc and clang](https://lemire.me/blog/2016/04/20/no-more-leaks-with-sanitize-flags-in-gcc-and-clang/) - run a memory sanitizer inside your program
 	- [Catching sanitizer errors programmatically](https://lemire.me/blog/2022/08/20/catching-sanitizer-errors-programmatically/)
