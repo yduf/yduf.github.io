@@ -1,7 +1,7 @@
 ---
 title: Le But
 published: true
-tags: book job manager
+tags: book job manager mythical-man
 ---
 > Les aventures d'un Directeur d'Usine se débatant dans sa vie professionnelle et personnelle.
 Très belle prise de recul et remise à plat des notions de management et de gestion.
