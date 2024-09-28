@@ -17,3 +17,4 @@ This method allows to rerun close to normal performance and easily understand co
 
 see also
 - [	Why use strace in 2023?](https://news.ycombinator.com/item?id=38908496)
+- [So you wanna de-bog yourself](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself)
