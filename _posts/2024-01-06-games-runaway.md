@@ -1,9 +1,11 @@
 ---
 published: true
 title: Runaway
-tags: games adventure
+tags: games adventure quote
 ---
-> Inspired by the road movie genre and films such as Pulp Fiction and Raising Arizona - [wikipedia](https://en.wikipedia.org/wiki/Runaway:_A_Road_Adventure)
+> He Who Knows Does Not Speak
+
+Inspired by the road movie genre and films such as Pulp Fiction and Raising Arizona - [wikipedia](https://en.wikipedia.org/wiki/Runaway:_A_Road_Adventure)
 
 ### Runaway: A Road Adventure - 2001
 [![caption](https://lutris.net/games/banner/runaway-a-road-adventure.jpg) ](https://lutris.net/games/runaway-a-road-adventure/)  <!-- .element height="50%" width="50% ustify-content="left" -->
