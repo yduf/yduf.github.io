@@ -8,6 +8,6 @@ tags: fun blog robot comic test AI bots
 
 - [Bots, so many Bots ](https://wakatime.com/blog/67-bots-so-many-bots) / [HN](https://news.ycombinator.com/item?id=41708837)
 
-[![caption](https://www.smbc-comics.com/comics/1535025762-20180823.png)](https://www.smbc-comics.com/)
+[![caption](https://www.smbc-comics.com/comics/1535025762-20180823.png)](http://smbc-comics.com/comic/captcha)
 
 [![caption](https://www.monkeyuser.com/2020/reverse-turing-test/191-reverse-turing-test.png)](https://www.monkeyuser.com/2020/reverse-turing-test/)
