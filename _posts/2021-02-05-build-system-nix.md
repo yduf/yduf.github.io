@@ -12,6 +12,7 @@ tags: build-system docker
 **Nix** is a build system, which is the outcome of an Academic Work => [The Purely Functional Software
 Deployment Model (2006)](https://edolstra.github.io/pubs/phd-thesis.pdf)  
 **NixOS** - a linux distribution base upon Nix
+- [NixOS is a good server OS, except when it isn't ](https://news.ycombinator.com/item?id=41717050)
 
 Nix is sometime proposed as an alternative to docker, because its reproducible system overcome using docker to package snapshot of libs that used to work together.
 
@@ -20,7 +21,7 @@ Nix is sometime proposed as an alternative to docker, because its reproducible s
     - force specific file-system hierarchy
     - stage one / stage two generation for having clean binaries.
     	- does it survive [Evil compiler]({% post_url 2022-06-06-devil-compiler %}) ?
-- [NixOS is a good server OS, except when it isn't ](https://news.ycombinator.com/item?id=41717050)
+
 
 - [	Fast, Declarative, Reproduble and Composable Developer Environments Using Nix (devenv)](https://devenv.sh/) / [HN](https://news.ycombinator.com/item?id=40010991)
 - [Our Roadmap for Nix](https://news.ycombinator.com/item?id=32374113)
