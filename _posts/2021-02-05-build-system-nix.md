@@ -20,6 +20,7 @@ Nix is sometime proposed as an alternative to docker, because its reproducible s
     - force specific file-system hierarchy
     - stage one / stage two generation for having clean binaries.
     	- does it survive [Evil compiler]({% post_url 2022-06-06-devil-compiler %}) ?
+- [NixOS is a good server OS, except when it isn't ](https://news.ycombinator.com/item?id=41717050)
 
 - [	Fast, Declarative, Reproduble and Composable Developer Environments Using Nix (devenv)](https://devenv.sh/) / [HN](https://news.ycombinator.com/item?id=40010991)
 - [Our Roadmap for Nix](https://news.ycombinator.com/item?id=32374113)
