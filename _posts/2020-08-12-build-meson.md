@@ -15,7 +15,7 @@ The only thing to note is that you need to create a separate build directory. Me
 
 ### [meson.build](https://mesonbuild.com/Tutorial.html) file
 {% highlight bash %}
-$ mkdir test && cd test
+$ mkdir new_project && cd new_project
 $ meson init               # for creating project from scratch 
 $ meson build && cd build
 $ meson compile
