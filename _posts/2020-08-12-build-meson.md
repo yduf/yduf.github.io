@@ -46,6 +46,12 @@ executable('someprog', 'someprog.c', include_directories : incdir)
 
 Meson allows you to take any other Meson project and make it a part of your build without (in the best case) any changes to its Meson setup. It becomes a transparent part of the project. 
 
+All subprojects must be inside _subprojects_ directory inside your _project_ folder.
+{% highlight bash %}
+$ mkdir subprojects
+{% endhighlight %}
+
+
 see also [Subproject limitations](https://github.com/mesonbuild/meson/issues/422)
 
 [CMake based subprojects](https://mesonbuild.com/CMake-module.html#cmake-subprojects) are also supported but not guaranteed to work.
