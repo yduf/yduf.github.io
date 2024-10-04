@@ -17,6 +17,5 @@ Anyway, if I were doing a new game GUI again, I would start with a "debug" gui l
 	- n imgui this can be accomplished more directly by running the children first, only getting bounds from them, and then running them again later.
 - Ability to describe elements with appropriate units and relative positions.
 
-### see also:
-Alive [C++ UI Libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/)
+### Alive [C++ UI Libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/)
 - [Dear ImGui]({% post_url 2020-11-04-imgui %})
