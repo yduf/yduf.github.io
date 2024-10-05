@@ -54,7 +54,7 @@ $ mkdir subprojects
 
 see also 
 - [Subproject limitations](https://github.com/mesonbuild/meson/issues/422)
-- [**How to force subproject vs system**](https://chatgpt.com/share/6701a1f4-bbc8-800d-942e-4b78d8e1f676) in Meson.
+- [**How to force subproject vs system library**](https://chatgpt.com/share/6701a1f4-bbc8-800d-942e-4b78d8e1f676) in Meson.
 
 [CMake based subprojects](https://mesonbuild.com/CMake-module.html#cmake-subprojects) are also supported but not guaranteed to work.
 
