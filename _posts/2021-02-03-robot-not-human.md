@@ -6,6 +6,8 @@ tags: fun blog robot comic test AI bots
 > There are no more Humans - [Prove you are not a Human](https://www.smbc-comics.com/comic/captcha) / [Robots (Flight of the Conchords
 )](https://www.youtube.com/watch?v=NI9nopaieEc)
 
+- [AI Podcast Hosts Discover They’re AI, Not Human - NotebookLM](https://www.youtube.com/watch?v=AR4dRtzFvxM)
+
 - [Bots, so many Bots ](https://wakatime.com/blog/67-bots-so-many-bots) / [HN](https://news.ycombinator.com/item?id=41708837)
 
 [![caption](https://www.smbc-comics.com/comics/1535025762-20180823.png)](http://smbc-comics.com/comic/captcha)
