@@ -1,7 +1,7 @@
 ---
 title: Retronator Magazine / Pixel Art
 published: true
-tags: retro pixelart 8bit blog
+tags: retro art pixelart 8bit blog
 ---
 > Supercool retro art and (very) long articles... - [Pixel Art, Gaming & Saturated Colors](https://medium.com/retronator-magazine) / [Archive](http://www.retronator.com/archive) / [twitter](https://twitter.com/Retronator) / [youtube](https://www.youtube.com/user/Retro3D)
 
