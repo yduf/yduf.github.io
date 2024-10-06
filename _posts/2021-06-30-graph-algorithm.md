@@ -10,7 +10,7 @@ tags: graph algorithm c++ topology
 - Minimum Spanning Tree
 - Pagerank
 - Centrality Measures
-- [Graph Coloring Methods](https://news.ycombinator.com/item?id=41608784)
+- [Graph Coloring Methods](https://news.ycombinator.com/item?id=41608784) - a special case of graph labeling; it is an assignment of labels traditionally called "colors" to elements of a graph subject to certain constraints.
 
 ## [Computation graphs and graph computation](https://breandan.net/2020/06/30/graph-computation/) / [HN](https://news.ycombinator.com/item?id=29066780)
 
