@@ -5,5 +5,10 @@ tags: coroutine codingame lua
 ---
 > This post will show ways of implementing actions sequences and cutscenes in video games. - [Elias Daler](https://edw.is/how-to-implement-action-sequences-and-cutscenes/)
 
+Possible way of doing it:
+- State machine (with a lot of if in bruteforce case) 
+- Action list 
+- Coroutine
+
 see also
 - [Coroutine (Lua)]({% post_url 2023-10-28-lua-coroutine %})
