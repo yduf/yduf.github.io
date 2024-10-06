@@ -10,6 +10,8 @@ Possible way of doing it:
 - Action list 
 - Coroutine - combined with action list
 
+The approach is not perfect, however. For example, it’s hard to handle saving. For example, suppose that you have a long tutorial which is just one big coroutine. The player won’t be able to save during this tutorial, because you’d have to serialize coroutine’s state and then resume coroutine exactly from the point it was paused at.
+
 {% highlight lua %}
 local function f()
   print("hello")
