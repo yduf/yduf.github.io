@@ -10,6 +10,7 @@ tags: graph algorithm c++ topology
 - Minimum Spanning Tree
 - Pagerank
 - Centrality Measures
+- [Graph Coloring Methods](https://news.ycombinator.com/item?id=41608784)
 
 ## [Computation graphs and graph computation](https://breandan.net/2020/06/30/graph-computation/) / [HN](https://news.ycombinator.com/item?id=29066780)
 
