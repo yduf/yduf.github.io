@@ -30,5 +30,7 @@ uhh...
 world
 {% endhighlight %}
 
-see also
+### see also
 - [Coroutine (Lua)]({% post_url 2023-10-28-lua-coroutine %})
+
+[![caption](https://edw.is/how-to-implement-action-sequences-and-cutscenes/coroutine-game-loop.png)](https://edw.is/how-to-implement-action-sequences-and-cutscenes/)
