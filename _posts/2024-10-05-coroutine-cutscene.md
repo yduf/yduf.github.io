@@ -8,7 +8,27 @@ tags: coroutine codingame lua
 Possible way of doing it:
 - State machine (with a lot of if in bruteforce case) 
 - Action list 
-- Coroutine
+- Coroutine - combined with action list
+
+{% highlight lua %}
+local function f()
+  print("hello")
+  coroutine.yield()
+  print("world!")
+end
+
+local c = coroutine.create(f)
+coroutine.resume(c)
+print("uhh...")
+coroutine.resume(c)
+{% endhighlight %}
+
+Which output
+{% highlight lua %}
+hello
+uhh...
+world
+{% endhighlight %}
 
 see also
 - [Coroutine (Lua)]({% post_url 2023-10-28-lua-coroutine %})
