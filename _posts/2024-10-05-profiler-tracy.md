@@ -7,3 +7,5 @@ tags: profiler
 
 - [An Introduction to Tracy Profiler in C++ (cppcon 2023)](https://www.youtube.com/watch?v=ghXk3Bk5F2U&t=828s)
 	- `#include <Tracy.hpp>` to be included in the client
+
+[![caption](https://github.com/wolfpld/tracy/raw/master/doc/profiler.png)](https://github.com/wolfpld/tracy)
