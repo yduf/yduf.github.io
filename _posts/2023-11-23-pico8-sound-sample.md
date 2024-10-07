@@ -11,3 +11,4 @@ tags: pico8 sound sample voice
 - [Software Automatic Mouth (SAM)](https://simulationcorner.net/index.php?page=sam) / [github](https://github.com/s-macke/SAM)
 - [The Voder - Homer Dudley (Bell Labs) 1939](https://prose.io/#yduf/yduf.github.io/edit/master/_posts/2023-11-23-pico8-sound-sample.md)
 - [Speaking Piano - Now with (somewhat decent) captions!](https://www.youtube.com/watch?v=muCPjK4nGY4)
+- [The C64 Digi](https://gist.github.com/munshkr/30f35e39905e63876ff7) - digitally sampled audio -- are fairly common on the 64. 
