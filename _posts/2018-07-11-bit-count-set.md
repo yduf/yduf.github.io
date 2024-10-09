@@ -10,6 +10,7 @@ see also
 - [sideways addition](https://groups.google.com/g/comp.graphics.algorithms/c/ZKSegl2sr4c/m/QYTwoPSx30MJ?hl=en)
 - [Generating Binary Permutations in Popcount Order](https://alexbowe.com/popcount-permutations/)
 - [Bit Hacks](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec3.pdf) 
+	- [Why is x & -x equal to the largest power of 2 that divides x?](https://news.ycombinator.com/item?id=40475355)
 - [Revisiting POPCOUNT Operations in CPUs/GPUs](http://sc16.supercomputing.org/sc-archive/src_poster/poster_files/spost106s2-file2.pdf)
 	- [SSSE3: fast popcount](http://0x80.pl/articles/sse-popcount.html)
 
