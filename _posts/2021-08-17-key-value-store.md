@@ -6,6 +6,10 @@ tags: db hash filesystem dictionary c++ fastware benchmarking
 > Key-value stores are one of the simplest forms of database. - [Implementing a Key-Value Store](https://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
 
 ### Benchmark
+- [Comprehensive C++ Hashmap Benchmarks 2022](https://martin.ankerl.com/2022/08/27/hashmap-bench-01/)
+	- 3 years ago absl::flat_hash_map was one of the fastest maps. It still is quite fast, and seems to perform especially well for large maps.
+    	- [Abseil Containers](https://abseil.io/docs/cpp/guides/container)
+    
 - [Finding the Fastest, Memory Efficient Hashmap](https://martin.ankerl.com/2019/04/01/hashmap-benchmarks-01-overview/)  - 2020 - results
 	- [hashmap benchmarks](https://github.com/martinus/map_benchmark) / [r/cpp](https://www.reddit.com/r/cpp/comments/auwbmg/hashmap_benchmarks_what_should_i_add/) - benchmark code
 
