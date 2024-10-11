@@ -28,3 +28,4 @@ we’re looking for somebody more technical
 
 see also
 - [Extremely slow performance when processing virtual terminal sequences #10362](https://github.com/microsoft/terminal/issues/10362#issuecomment-862822530)
+	- [Anatomy of a Terminal Emulator]({% post_url 2021-11-02-term-anatomy %})
