@@ -7,7 +7,7 @@ tags: math animation 3blue1brown
 
 see also
 - [	How I Animate 3Blue1Brown](https://www.youtube.com/watch?v=rbu7Zu5X1zI) / [HN](https://news.ycombinator.com/item?id=41818779)
-- [Ego and Math | Stanford Math Department Commencement Speech 2023](https://www.youtube.com/watch?v=z7GVHB2wiyg)
+- [Ego and Math ](https://www.youtube.com/watch?v=z7GVHB2wiyg) - Stanford Math Department Commencement Speech 2023
 
 ![caption](https://raw.githubusercontent.com/3b1b/manim/master/logo/cropped.png)
 
