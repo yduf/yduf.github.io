@@ -3,7 +3,7 @@ published: true
 title: Primitive Pictures
 tags: image algorithm art
 ---
-> Reproducing images with geometric primitives. [github](https://github.com/fogleman/primitive) / [Primitive for macOS](https://primitive.lol/)
+> Reproducing images with geometric primitives. [github](https://github.com/fogleman/primitive?tab=readme-ov-file#primitive-pictures) / [Primitive for macOS](https://primitive.lol/)
 
 - [generate triangulated art from images](https://github.com/RH12503/Triangula) / [HN](https://news.ycombinator.com/item?id=26899066)
 
