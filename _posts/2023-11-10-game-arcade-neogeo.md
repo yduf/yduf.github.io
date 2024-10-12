@@ -1,7 +1,7 @@
 ---
 published: true
 title: Neogeo
-tags: games arcade retro emulation
+tags: games arcade retro emulator
 ---
 > _GIGA POWER_ - [neo-geo.com](https://www.neo-geo.com/) 
 
