@@ -3,7 +3,7 @@ title: Not a real engineer
 published: true
 tags: job interview
 ---
-> You are not a real engineer... - [poem](https://twitchard.github.io/posts/2019-05-29-not-a-real-engineer.html)
+> You are not a real engineer... - Richard Marmorstein - May 29, 2019 [poem](https://twitchard.github.io/posts/2019-05-29-not-a-real-engineer.html)
 
 >You are a creature with a terrible countenance  
 the stature of a man  
