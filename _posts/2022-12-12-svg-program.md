@@ -1,7 +1,7 @@
 ---
 published: true
 title: Generating SVG Image
-tags: svg python lib
+tags: svg vector-graphic python lib
 ---
 > how we can create SVG file - [using PyCairo](https://pypi.org/project/pycairo/) / [geeksforgeeks](https://www.geeksforgeeks.org/creating-svg-image-using-pycairo/)
 
