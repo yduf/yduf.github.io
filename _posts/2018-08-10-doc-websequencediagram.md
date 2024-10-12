@@ -1,7 +1,7 @@
 ---
 published: true
 title: Sequence Diagram (online)
-tags: online software UML markdown
+tags: doc UML diagram markdown online
 ---
 > UML Sequence Diagriam from text - [websequencediagrams.com](https://www.websequencediagrams.com/?lz=CkEtPkI6IHRleHQK&s=napkin)
 
