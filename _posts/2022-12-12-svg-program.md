@@ -20,8 +20,10 @@ tags: svg vector-graphic python lib
 - [rcairo](https://github.com/rcairo/rcairo) - Ruby bindings for cairo
 - [Cairo backends](https://zetcode.com/gfx/cairo/cairobackends/)
 
-## Converting Bitmap to SVG
+## [Converting Bitmap to SVG](https://news.ycombinator.com/item?id=38400435)
 
+- [Primitive]({% post_url 2019-04-04-primitive %})
+- [Potrace](https://en.wikipedia.org/wiki/Potrace)
 - [HN](https://news.ycombinator.com/item?id=38377307) - discussion about VTracer mentioning
 	- [vectormagic](https://vectormagic.com/)
     - [ Vectorizer.AI](https://vectorizer.ai/)
