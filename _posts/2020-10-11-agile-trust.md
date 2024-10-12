@@ -16,4 +16,5 @@ tags: agile work software despair.com
 “I Vasco used to be pretty good at Microsoft Access, I guess I’ll be the database guy.”
 
 ### see also
+- [Building software is not a job scheduling optimization problem](https://twitchard.github.io/posts/2020-03-28-against-process.html)
 - [	How to distort Scrum until it no longer works](https://news.ycombinator.com/item?id=33123807)
