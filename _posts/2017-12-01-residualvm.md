@@ -1,11 +1,12 @@
 ---
 title: Residual VM
 published: true
-tags: games
+tags: games emulator
 ---
-[ResidualVM](http://www.residualvm.org//) supports 
+> a unique cross-platform 3D game interpreter from Lucas Art - [ResidualVM](http://www.residualvm.org//) / [Github](https://github.com/residualvm/residualvm#41-required-files)
+
+supports 
 - Grim Fandango
 - Escape From Monkey Island
 - Myst III.
 
-[Github](https://github.com/residualvm/residualvm#41-required-files)
