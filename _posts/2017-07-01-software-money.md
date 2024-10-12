@@ -1,6 +1,6 @@
 ---
 published: true
-tags: enterprise software test
+tags: enterprise money software test
 title: How most of the money is made in the software industry
 ---
 > Software, as an industry, generally profits the most when it can identify an existing need that is currently solved without computers, and then make it 10x+ more efficient by applying computers. - [HN](https://news.ycombinator.com/item?id=14661285)
