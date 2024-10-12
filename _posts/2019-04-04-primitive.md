@@ -1,7 +1,7 @@
 ---
 published: true
 title: Primitive Pictures
-tags: image algorithm art
+tags: image vector-graphic algorithm art
 ---
 > Reproducing images with geometric primitives. [github](https://github.com/fogleman/primitive?tab=readme-ov-file#primitive-pictures) / [Primitive for macOS](https://primitive.lol/)
 
