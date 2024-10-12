@@ -1,7 +1,7 @@
 ---
 published: true
 title: Emulation Station
-tags: arcade emulation
+tags: arcade emulator
 ---
 > A graphical and themeable emulator front-end that allows you to access all your favorite games in one place, even without a keyboard! - [Home](https://www.emulationstation.org) / [github](https://github.com/Aloshi/EmulationStation) / [r/emulationstation](https://www.reddit.com/r/emulationstation/)
 
