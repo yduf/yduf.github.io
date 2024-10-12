@@ -16,5 +16,5 @@ tags: agile work software despair.com
 “I Vasco used to be pretty good at Microsoft Access, I guess I’ll be the database guy.”
 
 ### see also
-- [Building software is not a job scheduling optimization problem](https://twitchard.github.io/posts/2020-03-28-against-process.html)
+- [Building software is not a job scheduling optimization problem](https://twitchard.github.io/posts/2020-03-28-against-process.html) - Doing planning. Doing project research. Writing documents. Updating people. Constantly rethinking your plans and commitments. These activities are important, but it is critical not to conflate these things with Process. Process, in my experience at least, tends to displace these activities, not encourage them.
 - [	How to distort Scrum until it no longer works](https://news.ycombinator.com/item?id=33123807)
