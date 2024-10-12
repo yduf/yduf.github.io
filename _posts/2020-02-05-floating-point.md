@@ -15,3 +15,4 @@ tags: math float history c++
 see also
 - [Floating-point arithmetic (wikipedia)](https://en.wikipedia.org/wiki/Floating-point_arithmetic)
 - [floats, bits, and constant expressions](https://brnz.org/hbr/?p=1518) - Can you access the bits that represent an IEEE754 single precision float in a C++14 constant expression (constexpr)?
+- [The number of floats between 0 and 1](https://news.ycombinator.com/item?id=41390712)
