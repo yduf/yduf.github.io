@@ -22,7 +22,7 @@ tags: svg vector-graphic python lib
 
 ## [Converting Bitmap to SVG](https://news.ycombinator.com/item?id=38400435)
 
-- [Primitive]({% post_url 2019-04-04-primitive %})
+- [Primitive]({% post_url 2019-04-04-primitive %}) - Reproducing images with geometric primitives.
 - [Potrace](https://en.wikipedia.org/wiki/Potrace)
 - [HN](https://news.ycombinator.com/item?id=38377307) - discussion about VTracer mentioning
 	- [vectormagic](https://vectormagic.com/)
