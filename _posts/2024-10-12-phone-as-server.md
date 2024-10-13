@@ -7,3 +7,4 @@ tags: phone server lab project
 
 see also
 - [Honor 5C]({% post_url 2024-02-18-phone-honor5c %}) - target for convertion
+- [Wiko Wax]({% post_url 2024-10-13-phone-wiko-wax %}) - target for convertion
