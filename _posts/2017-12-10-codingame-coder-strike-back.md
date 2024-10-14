@@ -1,7 +1,7 @@
 ---
 title: Coder Strike Back (Codingame)
 published: true
-tags: codingame contest NN
+tags: codingame NN genetic-algorithm
 ---
 > I did not had the opportunity to participate to this one.
 
