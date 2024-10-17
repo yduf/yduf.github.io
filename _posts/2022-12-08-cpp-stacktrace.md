@@ -53,10 +53,10 @@ A simple, portable, and self-contained C++ stacktrace library supporting C++11 a
 
 [![caption](https://github.com/jeremy-rifkin/cpptrace/raw/main/res/from_current.png)](https://github.com/jeremy-rifkin/cpptrace?tab=readme-ov-file#30-second-overview)
 
+### see also
+
 - [std::basic_stacktrace (c++23)](https://en.cppreference.com/w/cpp/utility/basic_stacktrace)
 - [de-boostified version of libstacktrace.](https://github.com/eyalroz/stacktrace/)
-
-see also
 - [symbolizer (folly)](https://github.com/facebook/folly/tree/main/folly/experimental/symbolizer) - older than boost
 
 ### Shortest implementation with glib
