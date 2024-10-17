@@ -18,8 +18,8 @@ see also
 ### Remake
 - [Serious Duke 3D](https://www.youtube.com/watch?v=eE147UkGIsA) - L.A. Meltdown: Hollywood Holocaust (Modern) 
 - [DN3DooM](https://www.youtube.com/watch?v=dEcaEEdOxoY) - Honte Remastered Experimental
+	- [Honte Remastered Experimental: MAP01-MAP04 ](https://www.youtube.com/watch?v=dEcaEEdOxoY)
+	- [Hollywood Holocaust (Duke Nukem 3D map remake) ](https://www.youtube.com/watch?v=BWutKWl2IY0)
 
-
-###  DN3DooM (Duke Nukem3D in Doom)
-- [Honte Remastered Experimental: MAP01-MAP04 ](https://www.youtube.com/watch?v=dEcaEEdOxoY)
-- [Hollywood Holocaust (Duke Nukem 3D map remake) ](https://www.youtube.com/watch?v=BWutKWl2IY0)
+### see also
+- [Some interesting facts about Duke Nukem 3D graphics](https://www.youtube.com/watch?v=ErLhj5AWS5M)
