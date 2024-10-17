@@ -9,12 +9,13 @@ tags: debug-c++ stacktrace single-header codingame vscode
 Header only - a beautiful stack trace pretty printer for C++.
 - can be installed via meson or conan or directly
 
-**To use**
+**This one is very easy to setup**
+And well suited  for VScode .runner one liner compiler command.
+
 - include `backward.hpp`
 - define a **backend** for stackunwiding
 - modify `backward.cpp` to use the same backend
 
-This one is very easy to setup for VScode .runner one liner compiler command.
 
 {% highlight cpp %}
 // in main.cc
