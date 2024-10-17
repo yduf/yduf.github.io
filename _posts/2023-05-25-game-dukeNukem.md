@@ -17,6 +17,7 @@ see also
 
 ### Remake
 - [Serious Duke 3D](https://www.youtube.com/watch?v=eE147UkGIsA) - L.A. Meltdown: Hollywood Holocaust (Modern) 
+- [DN3DooM](https://www.youtube.com/watch?v=dEcaEEdOxoY) - Honte Remastered Experimental
 
 
 ###  DN3DooM (Duke Nukem3D in Doom)
