@@ -1,7 +1,7 @@
 ---
 published: true
 title: 'Uptime 15,364 days (Voyager I)'
-tags: quote software space voyager
+tags: quote software space computer voyager
 ---
 > Many applications running for long periods of time eventually transition to broken states, and cannot recover except by being restarted. - [HN](https://news.ycombinator.com/item?id=21288195)
 
