@@ -7,6 +7,7 @@ tags: debug-c++ stacktrace single-header codingame
 
 ### [Backward-cpp](https://github.com/bombela/backward-cpp?tab=readme-ov-file#backward-cpp-)
 Header only - a beautiful stack trace pretty printer for C++.
+- can be installed via conan
 
 ### [Cpptrace](https://github.com/jeremy-rifkin/cpptrace?tab=readme-ov-file#cpptrace-)
 A simple, portable, and self-contained C++ stacktrace library supporting C++11 and greater on Linux
