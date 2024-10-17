@@ -3,7 +3,7 @@ published: true
 title: StackTrace ≅
 tags: debug-c++ stacktrace single-header codingame vscode
 ---
-> How to automatically generate a stacktrace when my program crashes 
+> How to automatically generate a stacktrace when my program crashes - [SO](https://stackoverflow.com/questions/77005/how-to-automatically-generate-a-stacktrace-when-my-program-crashes)
 
 ### [Backward-cpp](https://github.com/bombela/backward-cpp?tab=readme-ov-file#backward-cpp-)
 Header only - a beautiful stack trace pretty printer for C++.
