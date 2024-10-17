@@ -10,7 +10,7 @@ Header only - a beautiful stack trace pretty printer for C++.
 - can be installed via meson or conan or directly
 
 **This one is very easy to setup**
-And well suited  for VScode .runner one liner compiler command:
+And well suited  for VScode code runner one liner compiler command:
 - include `backward.hpp`
 - define a **backend** for stackunwiding
 - modify `backward.cpp` to use the same backend
@@ -38,7 +38,7 @@ All setup! Now compile with
 $ g++/clang++ -lbfd + include backward-cpp/backward.hpp.cpp in the sources
 {% endhighlight %}
 
-This would be the .runner config
+This would be the .run config
 {% highlight json %}
 "cpp": "cd $dir && g++-11 -g $fileName ~/DEV/cpp/backward-cpp/backward.cpp -o $fileNameWithoutExt -g -O0 -std=gnu++17 -Werror=return-type -g -pthread -lm -lpthread -lbfd -ldl -lcrypt -I $workspaceRoot -I ~/DEV/cpp  && $dir$fileNameWithoutExt",
 {% endhighlight %}
