@@ -23,3 +23,4 @@ see also
 
 ### see also
 - [Some interesting facts about Duke Nukem 3D graphics](https://www.youtube.com/watch?v=ErLhj5AWS5M)
+- [Voxels Duke Nukem remake](https://www.youtube.com/@cheello_art/videos)
