@@ -44,6 +44,8 @@ This would be the runner config
 "cpp": "cd $dir && g++-11 -g $fileName ~/DEV/cpp/backward-cpp/backward.cpp -o $fileNameWithoutExt -g -O0 -std=gnu++17 -Werror=return-type -g -pthread -lm -lpthread -lbfd -ldl -lcrypt -I $workspaceRoot -I ~/DEV/cpp  && $dir$fileNameWithoutExt",
 {% endhighlight %}
 
+And you will get this automatically
+[![caption](https://github.com/bombela/backward-cpp/raw/master/doc/pretty.png)](https://github.com/bombela/backward-cpp/tree/master?tab=readme-ov-file#backward-cpp-)
 
 ### [Cpptrace](https://github.com/jeremy-rifkin/cpptrace?tab=readme-ov-file#cpptrace-)
 A simple, portable, and self-contained C++ stacktrace library supporting C++11 and greater on Linux
