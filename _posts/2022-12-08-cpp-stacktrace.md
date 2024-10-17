@@ -1,13 +1,49 @@
 ---
 published: true
 title: StackTrace
-tags: debug-c++ stacktrace single-header codingame
+tags: debug-c++ stacktrace single-header codingame vscode
 ---
 > Base your stack tracing / "symbolization" on Boost stack_trace - [#146](https://github.com/doctest/doctest/issues/146)
 
 ### [Backward-cpp](https://github.com/bombela/backward-cpp?tab=readme-ov-file#backward-cpp-)
 Header only - a beautiful stack trace pretty printer for C++.
-- can be installed via meson or conan
+- can be installed via meson or conan or directly
+
+**To use**
+- include `backward.hpp`
+- define a **backend** for stackunwiding
+- modify `backward.cpp` to use the same backend
+
+This one is very easy to setup for VScode .runner one liner compiler command.
+
+{% highlight cpp %}
+// in main.cc
+#define BACKWARD_HAS_BFD 1
+#include <backward-cpp/backward.hpp>
+{% endhighlight %}
+
+{% highlight cpp %}
+// backward-cpp/backward.hpp.cpp
+#define BACKWARD_HAS_BFD 1    // uncomment this
+{% endhighlight %}
+
+{% highlight cpp %}
+# make sure the proper backend is available
+$ apt-get install binutils-dev
+{% endhighlight %}
+
+All setup
+Now compile with
+{% highlight cpp %}
+# make sure the proper backend is available
+$ g++/clang++ -lbfd + include backward-cpp/backward.hpp.cpp in the sources
+{% endhighlight %}
+
+This would be the runner config
+{% highlight json %}
+"cpp": "cd $dir && g++-11 -g $fileName ~/DEV/cpp/backward-cpp/backward.cpp -o $fileNameWithoutExt -g -O0 -std=gnu++17 -Werror=return-type -g -pthread -lm -lpthread -lbfd -ldl -lcrypt -I $workspaceRoot -I ~/DEV/cpp  && $dir$fileNameWithoutExt",
+{% endhighlight %}
+
 
 ### [Cpptrace](https://github.com/jeremy-rifkin/cpptrace?tab=readme-ov-file#cpptrace-)
 A simple, portable, and self-contained C++ stacktrace library supporting C++11 and greater on Linux
