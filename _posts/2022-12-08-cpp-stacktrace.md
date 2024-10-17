@@ -32,8 +32,7 @@ And well suited  for VScode .runner one liner compiler command:
 $ apt-get install binutils-dev
 {% endhighlight %}
 
-All setup
-Now compile with
+All setup! Now compile with
 {% highlight cpp %}
 # make sure the proper backend is available
 $ g++/clang++ -lbfd + include backward-cpp/backward.hpp.cpp in the sources
