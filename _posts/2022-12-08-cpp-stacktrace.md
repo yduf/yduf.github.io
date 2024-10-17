@@ -38,7 +38,7 @@ All setup! Now compile with
 $ g++/clang++ -lbfd + include backward-cpp/backward.hpp.cpp in the sources
 {% endhighlight %}
 
-This would be the runner config
+This would be the .runner config
 {% highlight json %}
 "cpp": "cd $dir && g++-11 -g $fileName ~/DEV/cpp/backward-cpp/backward.cpp -o $fileNameWithoutExt -g -O0 -std=gnu++17 -Werror=return-type -g -pthread -lm -lpthread -lbfd -ldl -lcrypt -I $workspaceRoot -I ~/DEV/cpp  && $dir$fileNameWithoutExt",
 {% endhighlight %}
