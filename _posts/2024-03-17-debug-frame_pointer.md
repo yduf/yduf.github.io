@@ -1,7 +1,7 @@
 ---
 title: Frame Pointer (libSegFault)
 published: true
-tags: stacktrace debug-c++ lib
+tags: stacktrace debug-c++
 ---
 > The Return of the Frame Pointers - [HN](https://news.ycombinator.com/item?id=39731824)
 
