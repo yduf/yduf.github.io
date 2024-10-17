@@ -10,7 +10,7 @@ Header only - a beautiful stack trace pretty printer for C++.
 - can be installed via meson or conan or directly
 
 **This one is very easy to setup**
-And well suited  for VScode code runner one liner compiler command:
+And well suited  for  [VScode code runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) one liner compiler command:
 - include `backward.hpp`
 - define a **backend** for stackunwiding
 - modify `backward.cpp` to use the same backend
