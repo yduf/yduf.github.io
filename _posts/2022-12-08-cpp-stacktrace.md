@@ -3,7 +3,7 @@ published: true
 title: StackTrace ≅
 tags: debug-c++ stacktrace single-header codingame vscode
 ---
-> Base your stack tracing / "symbolization" on Boost stack_trace - [#146](https://github.com/doctest/doctest/issues/146)
+> How to automatically generate a stacktrace when my program crashes 
 
 ### [Backward-cpp](https://github.com/bombela/backward-cpp?tab=readme-ov-file#backward-cpp-)
 Header only - a beautiful stack trace pretty printer for C++.
@@ -58,9 +58,7 @@ A simple, portable, and self-contained C++ stacktrace library supporting C++11 a
 - [de-boostified version of libstacktrace.](https://github.com/eyalroz/stacktrace/)
 - [symbolizer (folly)](https://github.com/facebook/folly/tree/main/folly/experimental/symbolizer) - older than boost
 
-### Shortest implementation with glib
-
-- [How to automatically generate a stacktrace when my program crashes](https://stackoverflow.com/questions/77005/how-to-automatically-generate-a-stacktrace-when-my-program-crashes)
+### [Shortest implementation with glib](https://stackoverflow.com/questions/77005/how-to-automatically-generate-a-stacktrace-when-my-program-crashes)
 
 {% highlight cpp %}
 #include <stdio.h>
