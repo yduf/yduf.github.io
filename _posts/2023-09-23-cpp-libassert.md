@@ -1,7 +1,7 @@
 ---
 published: true
 title: libassert
-tags: c++ lib test
+tags: debug-c++ lib test
 ---
 > The most over-engineered C++ assertion library - [github](https://github.com/jeremy-rifkin/libassert?tab=readme-ov-file#libassert-)
 
