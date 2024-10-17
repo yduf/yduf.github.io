@@ -26,3 +26,6 @@ $ service NetworkManager restart
 
 - [NetworkManager](https://wiki.debian.org/NetworkManager)
 	- [How to troubleshoot DNS with systemd-resolved?](https://unix.stackexchange.com/a/637845/192991)
+
+### Boot speed
+- [	Raspberry Pi 3 fastboot in less than 2 seconds](https://news.ycombinator.com/item?id=41867608)
