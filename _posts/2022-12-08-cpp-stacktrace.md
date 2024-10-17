@@ -15,13 +15,6 @@ And well suited  for  [VScode code runner](https://marketplace.visualstudio.com/
 - include `backward.hpp` if you are using the API directly
 - modify `backward.cpp` to use the same backend - if you want automated trace dump on SIGNAL
 
-
-{% highlight cpp %}
-// in main.cc
-#define BACKWARD_HAS_BFD 1
-#include <backward-cpp/backward.hpp>
-{% endhighlight %}
-
 {% highlight cpp %}
 // backward-cpp/backward.hpp.cpp
 #define BACKWARD_HAS_BFD 1    // uncomment this
@@ -36,6 +29,13 @@ All setup! Now compile with
 {% highlight cpp %}
 # make sure the proper backend is available
 $ g++/clang++ -lbfd + include backward-cpp/backward.hpp.cpp in the sources
+{% endhighlight %}
+
+Optionally add that in the place you are need to call the API directly (make sure the backend is the same)
+{% highlight cpp %}
+// in main.cc
+#define BACKWARD_HAS_BFD 1
+#include <backward-cpp/backward.hpp>
 {% endhighlight %}
 
 This would be the .run config
