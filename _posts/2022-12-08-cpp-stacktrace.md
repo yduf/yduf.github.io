@@ -11,9 +11,9 @@ Header only - a beautiful stack trace pretty printer for C++.
 
 **This one is very easy to setup**  
 And well suited  for  [VScode code runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) one liner compiler command:
-- include `backward.hpp`
 - define a **backend** for stackunwiding
-- modify `backward.cpp` to use the same backend
+- include `backward.hpp` if you are using the API directly
+- modify `backward.cpp` to use the same backend - if you want automated trace dump
 
 
 {% highlight cpp %}
