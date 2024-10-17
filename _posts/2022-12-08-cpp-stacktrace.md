@@ -1,6 +1,6 @@
 ---
 published: true
-title: StackTrace
+title: StackTrace ≅
 tags: debug-c++ stacktrace single-header codingame vscode
 ---
 > Base your stack tracing / "symbolization" on Boost stack_trace - [#146](https://github.com/doctest/doctest/issues/146)
