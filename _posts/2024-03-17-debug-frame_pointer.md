@@ -1,5 +1,5 @@
 ---
-title: Frame Pointer (libSegFault)
+title: Frame Pointer (-fno-omit-frame-pointer)
 published: true
 tags: stacktrace debug-c++
 ---
