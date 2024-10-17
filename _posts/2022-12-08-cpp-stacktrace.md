@@ -6,6 +6,7 @@ tags: debug-c++ stacktrace single-header codingame
 > Base your stack tracing / "symbolization" on Boost stack_trace - [#146](https://github.com/doctest/doctest/issues/146)
 
 - [Cpptrace](https://github.com/jeremy-rifkin/cpptrace?tab=readme-ov-file#cpptrace-) - a simple, portable, and self-contained C++ stacktrace library supporting C++11 and greater on Linux
+	- can be installed via conan
 
 [![caption](https://github.com/jeremy-rifkin/cpptrace/raw/main/res/from_current.png)](https://github.com/jeremy-rifkin/cpptrace?tab=readme-ov-file#30-second-overview)
 
