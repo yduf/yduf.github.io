@@ -10,7 +10,7 @@ see also
 - [Godot Docs](https://docs.godotengine.org/en/latest/contributing/development/configuring_an_ide/visual_studio_code.html)
 
 ### Notes
-In  `~/.cache/vscode-cpptools` you will find that VSCode store a huge amount of file info, that you can safely clean to regain some disk spaces.
+In  `~/.cache/vscode-cpptools` you will find that [VSCode store](https://github.com/microsoft/vscode-cpptools/issues/12066) a huge amount of file info, that you can safely clean to regain some disk spaces.
 
 
 ### Quick start
