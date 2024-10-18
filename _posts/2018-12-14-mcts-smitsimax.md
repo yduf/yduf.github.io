@@ -3,7 +3,7 @@ published: true
 title: Handling simultaneous move (Smitsimax)
 tags: MCTS codingame
 ---
-> UTC forest - [codingame](https://www.codingame.com/playgrounds/36476/smitsimax)
+> UTC forest - [Smitsimax](https://www.codingame.com/playgrounds/36476/smitsimax)
 
 Similarities with Monte Carlo Tree Search (MCTS)
 
