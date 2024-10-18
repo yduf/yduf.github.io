@@ -9,6 +9,10 @@ see also
 - [C++ in VS Code: A Quick Guide](https://www.youtube.com/watch?v=qeEcV6u1kV4&t=24s)
 - [Godot Docs](https://docs.godotengine.org/en/latest/contributing/development/configuring_an_ide/visual_studio_code.html)
 
+### Notes
+In  `~/.cache/vscode-cpptools` you will find that VSCode store a huge amount of file info, that you can safely clean to regain some disk spaces.
+
+
 ### Quick start
 Install [Code runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) extension.
 
