@@ -5,6 +5,7 @@ tags: MCTS
 ---
 > Decoupled UCT - [Monte Carlo Tree Search for SimultaneousMove Games](https://dke.maastrichtuniversity.nl/m.winands/documents/sm-tron-bnaic2013.pdf)
 
+- [Summer Challenge 2024 - Feedback and Strategies](https://www.codingame.com/forum/t/summer-challenge-2024-feedback-and-strategies/204471/14) - I did a “DUCT”
 - [XMash Rush (CC07) - Feedback & Strategies](https://www.codingame.com/forum/t/xmash-rush-cc07-feedback-strategies/74346/37)
 	- [ExampleDUCT.java](https://github.com/Ludeme/LudiiExampleAI/blob/master/src/mcts/ExampleDUCT.java)
     - [#6 Legend](https://forum.codingame.com/t/summer-challenge-2024-feedback-and-strategies/204471/27)
