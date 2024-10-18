@@ -11,6 +11,7 @@ see also
 ## Arena
 
 - [psyleague](https://github.com/FakePsyho/psyleague?tab=readme-ov-file#main-features) - cmd-line league system for bot contests.
+	- recommended by smits
 
 ### Referee
 - [codinGame](https://github.com/SpiritusSancti5/codinGame/tree/master/Referees) - These are the actual codingame referees, written by CG staff.
