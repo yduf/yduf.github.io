@@ -5,6 +5,9 @@ tags: MCTS codingame
 ---
 > UTC forest - [Smitsimax](https://www.codingame.com/playgrounds/36476/smitsimax)
 
+see also
+- [Post mortem Olymbits (msmits, rank 8)](https://docs.google.com/document/d/11rkVuEuF5Ulp5BqjWV-snUMwNIBHmX156byEk1tox2E/edit?tab=t.0)
+
 Similarities with Monte Carlo Tree Search (MCTS)
 
 Smitsimax shares some features with MCTS. One of them is the use of statistics to guide the search. The other is the use of a selection and backpropagation phase. There are also some clear differences:
