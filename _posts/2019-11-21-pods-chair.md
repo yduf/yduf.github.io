@@ -14,6 +14,6 @@ tags: fun pods mechanical art robot project 3dprint
 - [Carpentopod](https://www.decarpentier.nl/carpentopod) / [some video](https://www.youtube.com/watch?v=6wnj2yneBog) - A walking table project
 	- [mechanisme](https://www.youtube.com/embed/R5b97QwAwxg?rel=0) / [tinkercad](https://www.youtube.com/watch?v=WJ5XZkNJtac)
     - [Carpentopod vs Strandbeest](https://www.youtube.com/watch?v=k4qrjD_HK4E)
-
+	- [ WALKING coffee table](https://www.youtube.com/watch?v=3y0c-zA4Eys)
 
 ![caption](https://web.archive.org/web/20170730105230if_/http://boim.com/Walkin8r/JansenCycle.gif)
