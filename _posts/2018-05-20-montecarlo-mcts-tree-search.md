@@ -85,7 +85,7 @@ This essay digs into the “how do you reach a higher level of gameplay?” part
 
 ### Papers
 
-- [A Survey of Monte Carlo Tree Search Methods](http://mcts.ai/pubs/mcts-survey-master.pdf)
+- [A Survey of Monte Carlo Tree Search Methods](https://repository.essex.ac.uk/4117/1/MCTS-Survey.pdf)
 - [MCTS for multiplayer games](https://project.dke.maastrichtuniversity.nl/games/files/phd/Nijssen_thesis.pdf)
 - [Mastering the game of Go with deep neural networks and tree search](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf)
 - [Single-Player Monte-Carlo Tree Search](https://dke.maastrichtuniversity.nl/m.winands/documents/CGSameGame.pdf)
