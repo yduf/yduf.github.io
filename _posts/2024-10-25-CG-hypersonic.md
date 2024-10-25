@@ -10,3 +10,5 @@ tags: codingame
 - [Royale](https://forum.codingame.com/t/hypersonic-feedback-strategy/2067/17)
 - [reCurse](https://forum.codingame.com/t/hypersonic-feedback-strategy/2067/19)
 - [Kimiyuki, 3rd.](https://forum.codingame.com/t/hypersonic-feedback-strategy/2067/27) - beam search
+
+- [Developing a Successful Bomberman Agent](https://arxiv.org/abs/2203.09608)
