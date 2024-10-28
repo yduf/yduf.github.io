@@ -10,5 +10,6 @@ games that have limited interaction with the oppo-
 nent(s), so the planning part is more important than
 the exact opponent prediction - [wikipedia](https://en.wikipedia.org/wiki/Beam_search)
 
-## References
+### References
+- [Developing a Successful Bomberman Agent](https://arxiv.org/pdf/2203.09608)
 - [Beam stack search](https://en.wikipedia.org/wiki/Beam_stack_search)
