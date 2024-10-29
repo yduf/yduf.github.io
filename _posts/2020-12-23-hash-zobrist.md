@@ -47,6 +47,8 @@ function hash(board):
 
 ## [Transposition table](https://adamberent.com/transposition-table-and-zobrist-hashing/)
 
+When the search encounters a transposition, it is beneficial to 'remember' what was determined the last time the position was examined, rather than redoing the entire search again. For this reason, chess programs have a transposition table, which is a large hash table storing information about positions previously searched, how deeply they were searched, and what we concluded about them. Even if the depth (draft) of the related transposition table entry is not big enough, or does not contain the right bound for a cutoff, a best (or good enough) move from a previous search can improve move ordering, and save search time. This is especially true inside an iterative deepening framework, where one gains valuable table hits from previous iterations.  - [CPW](https://www.chessprogramming.org/Transposition_Table)
+
 ### Replacement Schemes
 Since your Transposition Table can’t hold all the moves searched in a game you will have to start replacing your entries fairly soon.   In the same time you don’t simply want to replace all entries regardless of their usefulness.  For this reason in the event that I find an entry that is useful (was used in a lookup), I set a Boolean flag Ancient to false, meaning doesn’t replace.  This way you always replace entries that are unused and keep the ones that were historically useful.  To prevent your table from filling up with Ancient nodes from 10 turns ago, the Ancient flag gets set to true for every entry after every search. 
 
