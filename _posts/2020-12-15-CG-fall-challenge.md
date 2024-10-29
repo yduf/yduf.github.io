@@ -1,6 +1,6 @@
 ---
 published: true
-title: Fall Challenge 2020 (CG)
+title: (CG) Fall Challenge 2020
 tags: codingame
 ---
 > Perhaps the only CG game where better search is worse?
