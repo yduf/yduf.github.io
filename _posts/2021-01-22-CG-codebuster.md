@@ -1,6 +1,6 @@
 ---
 published: true
-title: CodeBuster
+title: (CG) CodeBuster
 tags: codingame
 ---
 ## Strategy
