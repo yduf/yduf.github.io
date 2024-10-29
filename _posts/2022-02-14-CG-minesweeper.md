@@ -1,6 +1,6 @@
 ---
 published: true
-title: Minesweeper AI
+title: (CG) Minesweeper AI
 tags: codingame probability
 ---
 > Find all mines without detonating any of them.  - [Codingame](https://www.codingame.com/ide/puzzle/minesweeper-1)
