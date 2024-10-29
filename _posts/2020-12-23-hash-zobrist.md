@@ -58,6 +58,8 @@ Table Entry Index =  Hash mod TableSize
 
 This way when we search the table to see if a certain Hash exists we know there is only one place it could be stored Table[Hash mod TableSize] 
 
+see also
+- [Transposition Table and Zobrist Hashing](https://adamberent.com/transposition-table-and-zobrist-hashing/)
 
 ### References
 - [Zobrist Hashing](https://iq.opengenus.org/zobrist-hashing-game-theory/) - You won't be encountering this algorithm until and unless you are facing a really large board. Some thing like 8x8 (chess) or 16x16 (ultimate tic-tac-toe)
