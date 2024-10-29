@@ -16,5 +16,6 @@ branching factor for increased search depth – thus gain an advantage on future
 ### References
 - [Developing a Successful Bomberman Agent](https://arxiv.org/pdf/2203.09608)
 - [Beam stack search](https://en.wikipedia.org/wiki/Beam_stack_search)
+- [(CG) Fall Challenge 2020]({% post_url 2020-12-15-CG-fall-challenge %}) - Agade [BFS pseudo code & Zobrist hash](https://github.com/Agade09/Agade-Fall2020-Challenge-Postmortem)
 
-[![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Beam_search.gif/330px-Beam_search.gif) ](https://en.wikipedia.org/wiki/Beam_search) 
+[![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Beam_search.gif/330px-Beam_search.gif) ](https://en.wikipedia.org/wiki/Beam_search)
