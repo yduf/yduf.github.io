@@ -1,5 +1,5 @@
 ---
-title: Ultimate Tic-Tac-Toe
+title: (CG) Ultimate Tic-Tac-Toe
 published: true
 tags: codingame tic-tac-toe MCTS AI NN
 ---
