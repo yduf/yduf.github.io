@@ -1,5 +1,5 @@
 ---
-title: Coder Strike Back (Codingame)
+title: (CG) Coder Strike Back
 published: true
 tags: codingame NN genetic-algorithm
 ---
