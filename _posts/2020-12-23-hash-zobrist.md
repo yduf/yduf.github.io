@@ -1,7 +1,7 @@
 ---
 published: true
 tytle: Zobrist Hash
-tags: chess hash xor search
+tags: chess xor hash  search
 title: Zobrist Hash
 ---
 > Zobrist Hashing, a technique to transform a board position of arbitrary size into a number of a set length, with an equal distribution over all possible numbers. - [chessprogramming.org](https://www.chessprogramming.org/Zobrist_Hashing) 
