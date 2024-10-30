@@ -15,7 +15,7 @@ The concept is the following:
 Zobrist hashing starts by randomly generating bitstrings for each possible element of a board game, i.e. for each combination of a piece and a position... Now any board configuration can be broken up into independent piece/position components, which are mapped to the random bitstrings generated earlier. The final Zobrist hash is computed by combining those bitstrings using bitwise [`XOR`](https://en.wikipedia.org/wiki/Exclusive_or). - [wikipedia](https://en.wikipedia.org/wiki/Zobrist_hashing)
 
 ### Updating hash
-Because of XOR properties, the hash can be _delta_ updated:
+Because of XOR properties - [(which is commutative and associative)](https://chatgpt.com/share/67221960-dc24-800d-92dc-9c959e42755e), the hash can be _delta_ updated in any order:
 - by xoring (out) the bitstring of removed events,
 - by xoring (in) the bitstring of new events.
 Xoring in/out being the same `XOR` operation, it onlys express the intent.
