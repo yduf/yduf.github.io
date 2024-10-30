@@ -22,7 +22,7 @@ Xoring in/out being the same `XOR` operation, it onlys express the intent.
 
 ### [Pseudo code](https://en.wikipedia.org/wiki/Zobrist_hashing)
 Example pseudocode for the game of chess
-{% highlight cpp %}
+{% highlight python %}
 constant indices
     white_pawn := 1
     white_rook := 2
