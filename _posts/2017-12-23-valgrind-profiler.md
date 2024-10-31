@@ -44,7 +44,6 @@ valgrind --tool=callgrind -v --dump-every-bb=10000000  ./a.out < data/game_1/01.
 
 ### UI
 
-
 {% highlight bash %}
 kcachegrind
 {% endhighlight %}
