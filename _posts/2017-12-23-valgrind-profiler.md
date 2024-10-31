@@ -9,7 +9,7 @@ tags: benchmarking profiler c++ debug-c++
 
 - [	Twenty years of Valgrind ](https://news.ycombinator.com/item?id=32245136)
 
-### [Memcheck](https://linuxhint.com/valgrind-c/)
+## [Memcheck](https://linuxhint.com/valgrind-c/)
 - [How do I use valgrind to find memory leaks?](https://stackoverflow.com/questions/5134891/how-do-i-use-valgrind-to-find-memory-leaks)
 {% highlight bash %}
 valgrind --tool=memcheck --leak-check=full ./build/cg < test_21.txt , --l
@@ -18,7 +18,7 @@ eak-check=full
 
 see [valgrind: –-tool=memcheck: command not found](https://stackoverflow.com/questions/55233310/valgrind-tool-memcheck-command-not-found)
 
-## Alternatives
+### Alternatives
 - [Tracy](https://github.com/wolfpld/tracy)
 - [Optik](https://news.ycombinator.com/item?id=29092136)
 
@@ -42,5 +42,11 @@ valgrind --tool=callgrind -v --dump-every-bb=10000000  ./a.out < data/game_1/01.
 - [Tips & Tricks](https://web.stanford.edu/class/archive/cs/cs107/cs107.1174/guide_callgrind.html)
 - [ Watching for software inefficiencies with Valgrind ](https://kristerw.blogspot.com/2020/02/watching-for-software-inefficiencies.html)
 
+### UI
+
+
+{% highlight bash %}
+kcachegrind
+{% endhighlight %}
 
 ![caption](https://kcachegrind.github.io/images/KcgShot3.gif)
