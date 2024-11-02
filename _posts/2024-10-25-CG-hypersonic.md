@@ -3,8 +3,9 @@ title: (CG) Hypersonic (Bomberman)
 published: true
 tags: codingame
 ---
-> Contest
+> Contest - [CG](https://www.codingame.com/multiplayer/bot-programming/hypersonic)
 
+[Postmortem](https://www.codingame.com/blog/breadth-first-depth-algorithms-hypersonic/?utm_source=codingame&utm_medium=details-page&utm_campaign=cg-blog&utm_content=hypersonic)
 - [BlitzProg, 25th.](https://forum.codingame.com/t/hypersonic-feedback-strategy/2067/14)
 - [Agade](https://forum.codingame.com/t/hypersonic-feedback-strategy/2067/15)
 - [Royale](https://forum.codingame.com/t/hypersonic-feedback-strategy/2067/17)
