@@ -30,4 +30,4 @@ _A sorted array from low-to-high is a valid min-heap._
 - [Fibonacci heap](https://en.wikipedia.org/wiki/Fibonacci_heap) - has a better amortized running time than many other priority queue data structures.
 - [Geometric Search Trees](https://news.ycombinator.com/item?id=41546874) - define zip tree as well
 
-![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Max-Heap-new.svg/440px-Max-Heap-new.svg.png)
+[![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Max-Heap-new.svg/440px-Max-Heap-new.svg.png)](https://commons.wikimedia.org/wiki/File:Max-Heap-new.svg)
