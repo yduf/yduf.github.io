@@ -75,6 +75,7 @@ int main()
 {% endhighlight %}
 
 {% highlight bash %}
+input:           3 1 4 1 5 9
 after make_heap: 9 5 4 1 1 3
 after pop_heap:  5 3 4 1 1 9
 largest element: 9
