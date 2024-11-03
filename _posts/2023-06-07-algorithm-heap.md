@@ -35,7 +35,7 @@ _A sorted array from low-to-high is a valid min-heap._
 ### As C++ Algorithm
 
 [**make_heap**](https://en.cppreference.com/w/cpp/algorithm/make_heap)  
-[**push_heap**](https://en.cppreference.com/w/cpp/algorithm/push_heap)
+[**push_heap**](https://en.cppreference.com/w/cpp/algorithm/push_heap)  
 [**pop_heap**](https://en.cppreference.com/w/cpp/algorithm/pop_heap)
 
 {% highlight cpp %}
