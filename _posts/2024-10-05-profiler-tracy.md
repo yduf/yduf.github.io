@@ -10,6 +10,13 @@ tags: profiler
 
 ### [Installation](https://chatgpt.com/share/6728b6e3-fc9c-800d-bc55-98737823c9a1)
 
+
+{% highlight bash %}
+$ git clone --recursive https://github.com/wolfpld/tracy.git
+$ cmake -B profiler/build -S profiler -DCMAKE_BUILD_TYPE=Release
+$ cmake --build profiler/build --config Release --parallel
+{% endhighlight %}
+
 ### see also
 - [KUtrace](https://github.com/dicksites/KUtrace) / [HN](https://news.ycombinator.com/item?id=40972099) -  an extremely low-overhead Linux kernel tracing facility for observing all 
 the execution time on all cores of a multi-core processor, nothing missing, while running 
