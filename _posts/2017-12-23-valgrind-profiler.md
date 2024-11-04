@@ -19,7 +19,7 @@ see [valgrind: –-tool=memcheck: command not found](https://stackoverflow.com/q
 
 ### Alternatives
 - [Tracy]({% post_url 2024-10-05-profiler-tracy %})
-- [Optik](https://news.ycombinator.com/item?id=29092136)
+- [Optik (Brofiler)](https://news.ycombinator.com/item?id=29092136)
 
 ## [Supported platform](https://valgrind.org/info/platforms.html)
 - **AMD64/Linux**: up to and including AVX2. This is the primary development target and tends to be well supported.
