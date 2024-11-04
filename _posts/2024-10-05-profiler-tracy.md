@@ -81,6 +81,7 @@ to the desired call stack capture depth.
 
 
 ### see also
+- [Tracy Profiler](https://github.com/davidwed/tracy?tab=readme-ov-file#tracy-profiler)
 - [Integrating Tracy Profiler in C++](https://luxeengine.com/integrating-tracy-profiler-in-cpp/)
 
 ### Alternatives
