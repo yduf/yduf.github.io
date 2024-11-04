@@ -12,11 +12,11 @@ Platine Vinyle [Audio Technica AT-LP120USBHC](https://www.amazon.fr/Audio-Techni
 - [porte-cellule AT-HS10](https://www.son-video.com/article/portes-cellule/audio-technica/at-hs10) standard SME
 - [Cellule AT95E](https://www.son-video.com/article/cellules-hi-fi/audio-technica/at95e).
 
-# Monture Système Ortofon/SME
+### Monture Système Ortofon/SME
 
 L'adoption d'une cellule avec monture Ortofon/SME simplifie l'étape du réglage qui ne concerne alors que le bras de lecture, ce système de montage solidarisant de facto la cellule au bras dans une position unique. Le zénith et l’azimut ne peuvent être modifiés. C'est donc uniquement le bras qui est calé précisément en fonction des caractéristiques de la cellule. Le système Ortofon/SME est plébiscité par les professionnels, notamment dans les discothèques : le DJ peut utiliser différentes cellules sans perdre de temps à les régler à chaque changement.
 
-# La force d'appui (Vertical Tracking Force ou VTF)
+### La force d'appui (Vertical Tracking Force ou VTF)
 
 La pointe de lecture doit rester en contact permanent avec les flancs du sillon pour assurer une bonne lecture des informations qui y sont gravées. La force d'appui est la force verticale exercée sur la pointe de lecture de la cellule par son propre poids et celui du bras. Elle se règle au moyen d'un contrepoids fixé à l'arrière du bras, derrière le point de pivot. Le contrepoids gradué peut être avancé ou reculé pour équilibrer le bras qui exerce alors une force plus ou moins importante sur la cellule et donc sur la pointe de lecture.
 
@@ -32,8 +32,11 @@ Le réglage de la force d'appui s'effectue en trois étapes :
 
 Remarque : contrairement à certaines idées reçues, une force d'appui trop faible est plus dommageable pour le disque qu'une force d'appui trop élevée. Pourquoi ? Tout simplement parce qu'avec une force d'appui trop faible, la pointe de lecture est amenée à sautiller dans le sillon, occasionnant des dégâts irrémédiables à chaque rebond.
 
-# L'antiskating
+### L'antiskating
 
 Il s'agit d'un procédé technique permettant d'exercer sur le bras une force chargée de compenser la traction du sillon sur la pointe de lecture. Elle est généralement adaptée en fonction de la force d'appui. Cela dépend bien sûr de la construction du bras. Les correcteurs d'antiskating habituels utilisent un ressort (Technics SL1200), un aimant (dont la force dépend de l'angle), un contrepoids fixé sur un câble et suspendu sur un bras de levier cranté ou un contrepoids fixe. Le réglage de l'antiskating doit être fait avec la platine parfaitement horizontale.
 
-## [Stereo disc recording](https://www.vinylrecorder.com/stereo.html)
+### See also
+- [Stereo disc recording](https://www.vinylrecorder.com/stereo.html)
+- [Comprendre la technologie derrière la musique d'avant](https://www.youtube.com/watch?v=nYib8hNkG1k)
+- [Anatomie et décorticage d'une platine et d'un disque vinyle](https://www.youtube.com/watch?v=pP-5bnuHbJY)
