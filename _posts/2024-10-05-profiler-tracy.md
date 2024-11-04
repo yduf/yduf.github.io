@@ -46,7 +46,7 @@ The part above is refered as _client setup_ in the documentation.
 
 Then  
 1- Start `tracy-profiler` - (the server)  and click connect (start listening socket)
-2- launch your executable
+2- launch your executable - (the client)
 
 If everything goes well this will give some data into the profiler.
 
