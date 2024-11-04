@@ -10,10 +10,15 @@ tags: profiler
 
 ### [Installation](https://chatgpt.com/share/6728b6e3-fc9c-800d-bc55-98737823c9a1)
 
+On linux, need to build from source.
+
+**Notes**: by default it compile for Wayland.
+Need X11 => need to enable LEGACY option in CMake build settings (-DLEGACY=ON)
+This will require glfw.
 
 {% highlight bash %}
 $ git clone --recursive https://github.com/wolfpld/tracy.git
-$ cmake -B profiler/build -S profiler -DCMAKE_BUILD_TYPE=Release
+$ cmake -B profiler/build -S profiler -DCMAKE_BUILD_TYPE=Release -DLEGACY=ON
 $ cmake --build profiler/build --config Release --parallel
 {% endhighlight %}
 
