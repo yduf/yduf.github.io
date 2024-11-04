@@ -42,8 +42,10 @@ $  g++ fibers.cpp ../public/TracyClient.cpp -I../public/tracy -DTRACY_ENABLE -DT
 **For short program**
 Add -DTRACY_NO_EXIT
 
+The part above is refered as _client setup_ in the documentation.
+
 Then  
-1- Start `tracy-profiler` - and click connect (start listening socket)
+1- Start `tracy-profiler` - (the server)  and click connect (start listening socket)
 2- launch your executable
 
 If everything goes well this will give some data into the profiler.
