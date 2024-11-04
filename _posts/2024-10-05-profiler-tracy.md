@@ -24,6 +24,33 @@ $ cmake -B profiler/build -S profiler -DCMAKE_BUILD_TYPE=Release -DLEGACY=ON
 $ cmake --build profiler/build --config Release --parallel
 {% endhighlight %}
 
+## Tracing C++
+
+Include in your code (look in example folder):
+
+{% highlight cpp %}
+#include "Tracy.hpp"
+#include "TracyC.h"
+{% endhighlight %}
+
+and compile with
+
+{% highlight bash %}
+$  g++ fibers.cpp ../public/TracyClient.cpp -I../public/tracy -DTRACY_ENABLE -DTRACY_FIBERS -lpthread -ldl
+{% endhighlight %}
+
+**For short program**
+Add -DTRACY_NO_EXIT
+
+Then  
+1- Start `tracy-profiler` - and click connect (start listening socket)
+2- launch your executable
+
+If everything goes well this will give some data into the profiler.
+
+### Instrumentation
+
+
 ### see also
 - [Optik (Brofiler)](https://github.com/bombomby/optick?tab=readme-ov-file#optick-c-profiler-for-games) / [HN](https://news.ycombinator.com/item?id=29092136) - how to make it work on linux is unclear
 - [KUtrace](https://github.com/dicksites/KUtrace) / [HN](https://news.ycombinator.com/item?id=40972099) -  an extremely low-overhead Linux kernel tracing facility for observing all 
