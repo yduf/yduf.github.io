@@ -16,6 +16,8 @@ On linux, need to build from source.
 Need X11 => need to enable LEGACY option in CMake build settings (-DLEGACY=ON)
 This will require glfw.
 
+Otherwise it's rather easy to build:
+
 {% highlight bash %}
 $ git clone --recursive https://github.com/wolfpld/tracy.git
 $ cmake -B profiler/build -S profiler -DCMAKE_BUILD_TYPE=Release -DLEGACY=ON
