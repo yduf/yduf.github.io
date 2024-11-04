@@ -18,7 +18,7 @@ eak-check=full
 see [valgrind: –-tool=memcheck: command not found](https://stackoverflow.com/questions/55233310/valgrind-tool-memcheck-command-not-found)
 
 ### Alternatives
-- [Tracy](https://github.com/wolfpld/tracy)
+- [Tracy]({% post_url 2024-10-05-profiler-tracy %})
 - [Optik](https://news.ycombinator.com/item?id=29092136)
 
 ## [Supported platform](https://valgrind.org/info/platforms.html)
