@@ -78,6 +78,12 @@ To record a zone's execution time add the ZoneScoped macro at the beginning of t
 
 Tracy is able to capture and draw value changes over time.
 
+### [Message Log](https://github.com/davidwed/tracy?tab=readme-ov-file#message-log)
+
+You can send messages (for example, your typical debug output) using the TracyMessage( text, size ) macro;
+
+### [Memory Profiling](https://github.com/davidwed/tracy?tab=readme-ov-file#memory-profiling)
+
 ### Callstack
 
 You can force call stack capture in the non-S postfixed macros by adding the TRACY_CALLSTACK define, set
