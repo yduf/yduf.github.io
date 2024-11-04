@@ -84,7 +84,7 @@ You can send messages (for example, your typical debug output) using the TracyMe
 
 ### [Memory Profiling](https://github.com/davidwed/tracy?tab=readme-ov-file#memory-profiling)
 
-### Callstack
+### [Callstack](https://github.com/davidwed/tracy?tab=readme-ov-file#collecting-call-stacks)
 
 You can force call stack capture in the non-S postfixed macros by adding the TRACY_CALLSTACK define, set
 to the desired call stack capture depth.
