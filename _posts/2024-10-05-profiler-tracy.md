@@ -54,6 +54,9 @@ If everything goes well this will give some data into the profiler.
 
 
 ### see also
+- [Integrating Tracy Profiler in C++](https://luxeengine.com/integrating-tracy-profiler-in-cpp/)
+
+### Alternatives
 - [Optik (Brofiler)](https://github.com/bombomby/optick?tab=readme-ov-file#optick-c-profiler-for-games) / [HN](https://news.ycombinator.com/item?id=29092136) - how to make it work on linux is unclear
 - [KUtrace](https://github.com/dicksites/KUtrace) / [HN](https://news.ycombinator.com/item?id=40972099) -  an extremely low-overhead Linux kernel tracing facility for observing all 
 the execution time on all cores of a multi-core processor, nothing missing, while running 
