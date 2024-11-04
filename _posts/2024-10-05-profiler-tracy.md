@@ -50,7 +50,26 @@ Then
 
 If everything goes well this will give some data into the profiler.
 
-### Instrumentation
+## Instrumentation
+
+With the steps mentioned above, you will be able to connect to the profiled program, but there probably won’t be any data collection performed. Unless you’re able to perform automatic call stack sampling (see chapter 3.15.5), you will have to instrument the application manually.
+
+**Notes** the API sometimes rely on unique ptr (unique adress) for string definition. Make sure to read the doc refering to that part, eg this is the case for FrameMarker:
+
+### Frame
+
+{% highlight cpp %}
+// recommended approach to ensure unique addr for this API calls
+const char * const sl_AudioProcessing = " Audio processing " ;
+
+FrameMarkStart( sl_AudioProcessing ) ;
+...
+FrameMarkEnd( sl_AudioProcessing ) ;
+
+{% endhighlight %}
+
+
+
 
 
 ### see also
