@@ -58,6 +58,8 @@ With the steps mentioned above, you will be able to connect to the profiled prog
 
 ### Frame
 
+To slice the program's execution recording into frame-sized chunks.
+
 {% highlight cpp %}
 // recommended approach to ensure unique addr for this API calls
 const char * const sl_AudioProcessing = " Audio processing " ;
@@ -70,7 +72,7 @@ FrameMarkEnd( sl_AudioProcessing ) ;
 
 ### Zone
 
-TBD
+To record a zone's execution time add the ZoneScoped macro at the beginning of the scope you want to measure. This will automatically record function name, source file name and location. Optionally you may use the ZoneScopedC( 0xRRGGBB ) macro to set a custom color for the zone. Note that the color value will be constant in the recording.
 
 ### Callstack
 
