@@ -20,7 +20,7 @@ Convert a [naive BFS](https://chatgpt.com/share/6728aab3-147c-800d-88c4-08e11db1
 - don't use any Hash: you can register in the very same array (or an other) which cell have been visited.
 
 - BFS without classes: bit store (advertised as 10-15% boost to performance) for Node storage
-- BFS without reset: ? 🚧 Not understood...
+- BFS without reset: ? 🚧 a way to accelerate re-initialisation of visited Node.
 
 
 see also
