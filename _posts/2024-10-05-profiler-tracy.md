@@ -70,9 +70,13 @@ FrameMarkEnd( sl_AudioProcessing ) ;
 
 {% endhighlight %}
 
-### Zone
+### [Zone](https://github.com/davidwed/tracy?tab=readme-ov-file#marking-zones)
 
 To record a zone's execution time add the ZoneScoped macro at the beginning of the scope you want to measure. This will automatically record function name, source file name and location. Optionally you may use the ZoneScopedC( 0xRRGGBB ) macro to set a custom color for the zone. Note that the color value will be constant in the recording.
+
+### [Plotting Data](https://github.com/davidwed/tracy?tab=readme-ov-file#plotting-data)
+
+Tracy is able to capture and draw value changes over time.
 
 ### Callstack
 
