@@ -6,7 +6,6 @@ tags: benchmarking profiler c++ debug-c++
 > Valgrind is an instrumentation framework for building dynamic analysis tools. - [Valgrind](http://valgrind.org/) / [git](https://sourceware.org/git/?p=valgrind.git;a=summary)
 
 - [How to use Valgrind c++](https://linuxhint.com/valgrind-c/)
-
 - [	Twenty years of Valgrind ](https://news.ycombinator.com/item?id=32245136)
 
 ## [Memcheck](https://linuxhint.com/valgrind-c/)
