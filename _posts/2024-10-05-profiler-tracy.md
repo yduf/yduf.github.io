@@ -24,7 +24,7 @@ $ cmake -B profiler/build -S profiler -DCMAKE_BUILD_TYPE=Release -DLEGACY=ON
 $ cmake --build profiler/build --config Release --parallel
 {% endhighlight %}
 
-## Tracing C++
+## [Tracing C++](https://github.com/davidwed/tracy?tab=readme-ov-file#initial-client-setup)
 
 Include in your code (look in example folder):
 
