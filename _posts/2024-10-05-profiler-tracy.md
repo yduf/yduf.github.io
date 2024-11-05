@@ -86,7 +86,7 @@ You can send messages (for example, your typical debug output) using the TracyMe
 
 ### [Callstack](https://chatgpt.com/share/67294318-9a1c-800d-81a0-749fa826d17b)
 
-The easiest way is to launch instrument code [with high privilege](https://stackoverflow.com/questions/78362287/is-there-a-way-to-track-whole-frame-call-stack-in-tracy-whitout-calling-zonescop) => this will allows stack sampling and stack collection
+The easiest way is to launch instrument code [with high privilege](https://markhedleyjones.com/notes/using-tracy-profiler) => this will allows stack sampling and stack collection
 
 You can force call stack capture in the non-S postfixed macros by adding the TRACY_CALLSTACK define, set
 to the desired call stack capture depth.
