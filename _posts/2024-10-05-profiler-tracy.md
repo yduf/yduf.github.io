@@ -36,7 +36,7 @@ Include in your code (look in example folder):
 and compile with
 
 {% highlight bash %}
-$  g++ fibers.cpp ../public/TracyClient.cpp -I../public/tracy -DTRACY_ENABLE -DTRACY_FIBERS -lpthread -ldl
+$  g++ fibers.cpp ../public/TracyClient.cpp -I../public/tracy -DTRACY_ENABLE -lpthread -ldl
 {% endhighlight %}
 
 **For short program**
@@ -85,6 +85,8 @@ You can send messages (for example, your typical debug output) using the TracyMe
 ### [Memory Profiling](https://github.com/davidwed/tracy?tab=readme-ov-file#memory-profiling)
 
 ### [Callstack](https://chatgpt.com/share/67294318-9a1c-800d-81a0-749fa826d17b)
+
+The easiest way is to launch instrument code [with high privilege](https://stackoverflow.com/questions/78362287/is-there-a-way-to-track-whole-frame-call-stack-in-tracy-whitout-calling-zonescop) => this will allows stack sampling and stack collection
 
 You can force call stack capture in the non-S postfixed macros by adding the TRACY_CALLSTACK define, set
 to the desired call stack capture depth.
