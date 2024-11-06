@@ -15,3 +15,6 @@ tags: codingame
 - [Developing a Successful Bomberman Agent](https://arxiv.org/abs/2203.09608)
 
 [![caption](https://www.codingame.com/blog/wp-content/uploads/2016/10/Screen-Shot-2018-10-11-at-10.21.34.jpg)](https://www.codingame.com/blog/breadth-first-depth-algorithms-hypersonic/?utm_source=codingame&utm_medium=details-page&utm_campaign=cg-blog&utm_content=hypersonic)
+
+see also
+- [XBlast](https://xblast.sourceforge.net/) - fromt the past...
