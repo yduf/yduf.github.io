@@ -1,7 +1,7 @@
 ---
 title: Tabulate
 published: true
-tags: c++ single-header term format
+tags: c++ single-header term table format
 ---
 > Table Maker for Modern C++ - [github](https://github.com/p-ranav/tabulate/tree/master)
 
