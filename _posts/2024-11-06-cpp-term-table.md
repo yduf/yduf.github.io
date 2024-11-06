@@ -19,7 +19,7 @@ Table table;
 table.add_row( title);
 {% endhighlight %}
 
-Output Example
+Output Example (some issue with color control code)
 {% highlight bash %}
 ## depth 2, beam size 18
 ## Beam id 183
