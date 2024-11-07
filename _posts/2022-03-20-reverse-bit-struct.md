@@ -16,3 +16,4 @@ tags: reverse bits unsafe binary parser security png
 - [Parsifal](https://www.ieee-security.org/TC/SPW2014/papers/5103a191.PDF) / [2](https://www.sstic.org/media/SSTIC2013/SSTIC-actes/parsifal/SSTIC2013-Slides-parsifal-levillain.pdf) - a pragmatic solution to the binary parsing
 problem
 - [Visualizing binary files with ImHex's DSL, the "pattern language"](https://xy2i.blogspot.com/2024/11/using-imhexs-pattern-language-to-parse.html) / [HN](https://news.ycombinator.com/item?id=42070153)
+- [Awesome binary parsing](https://github.com/dloss/binary-parsing?tab=readme-ov-file#awesome-binary-parsing) - A list of generic tools for parsing binary data structures, such as file formats, network protocols or bitstreams.
