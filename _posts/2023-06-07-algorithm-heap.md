@@ -11,6 +11,7 @@ use_math: true
 - insert in $O(ln N)$
 - delete min in $O(ln N)$
 - _But_ search is $O(N)$
+- _make_heap_ is $O(N)$
 
 ### [Common uses for heap](https://aquarchitect.github.io/swift-algorithm-club/Heap/)
 - To build priority queues.
