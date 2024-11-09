@@ -12,6 +12,7 @@ use_math: true
 - delete min in $O(ln N)$
 - _But_ search is $O(N)$
 - _make_heap_ is $O(N)$
+- _sort_ heap is still  $O(N ln N)$
 
 ### [Common uses for heap](https://aquarchitect.github.io/swift-algorithm-club/Heap/)
 - To build priority queues.
@@ -30,6 +31,7 @@ _A sorted array from low-to-high is a valid min-heap._
 - [Finding the first n largest elements in an array]({% post_url 2020-12-23-cpp-nth_element %})
 - [Fibonacci heap](https://en.wikipedia.org/wiki/Fibonacci_heap) - has a better amortized running time than many other priority queue data structures.
 - [Geometric Search Trees](https://news.ycombinator.com/item?id=41546874) - define zip tree as well
+- [How can building a heap be O(n) time complexity?](https://stackoverflow.com/questions/9755721/how-can-building-a-heap-be-on-time-complexity)
 
 [![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Max-Heap-new.svg/440px-Max-Heap-new.svg.png)](https://commons.wikimedia.org/wiki/File:Max-Heap-new.svg)
 
