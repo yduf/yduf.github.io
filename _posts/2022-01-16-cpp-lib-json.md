@@ -5,7 +5,8 @@ tags: json c++ lib
 ---
 > In languages such as Python, JSON feels like a first class data type. We used all the operator magic of modern C++ to achieve the same feeling in your code. - [JSON for Modern C++](https://nlohmann.github.io/json/features/arbitrary_types/) / [nlohmann/json ](https://github.com/nlohmann/json) / [SO](https://stackoverflow.com/a/64792566/51386)
 
-
+see also
+- [JSON for Classic C++](https://news.ycombinator.com/item?id=42132533) - a rant? about  nlohmann/json begin slow to compile.
 
 {% highlight cpp %}
 // create an empty structure (null)
