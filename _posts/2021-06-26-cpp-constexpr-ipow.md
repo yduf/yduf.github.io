@@ -20,6 +20,7 @@ constexpr int64_t ipow(int64_t base, int exp, int64_t result = 1) {
 {% endhighlight %}
 
 ### double^int
+
 {% highlight cpp %}
 template <int N>
 double power(double x) {
