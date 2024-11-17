@@ -5,6 +5,8 @@ tags: quote software space computer voyager
 ---
 > Many applications running for long periods of time eventually transition to broken states, and cannot recover except by being restarted. - [HN](https://news.ycombinator.com/item?id=21288195)
 
+> the Voyagers relied on a once in a 175 year planetary alignment.  - [HN](https://news.ycombinator.com/item?id=42166263)
+
 - [Kubernetes provides](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/) liveness probes to detect and remedy such situations.
 
 > Most spacecraft have more than one Command Loss Timer Reset for subsystem level safety reasons, with the Voyager craft using at least 7 of these timers. - [wikipedia](https://en.wikipedia.org/wiki/Command_Loss_Timer_Reset)
