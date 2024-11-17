@@ -8,7 +8,6 @@ tags: algorithm
 Example
 - [std::unique](https://en.cppreference.com/w/cpp/algorithm/unique)
 
-
 {% highlight cpp %}
 template<class ForwardIt>
 ForwardIt unique(ForwardIt first, ForwardIt last)
