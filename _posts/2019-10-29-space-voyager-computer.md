@@ -11,5 +11,6 @@ tags: quote software space computer voyager
 
 > "Practically all of Voyager's redundancy is gone now, either because something broke along the way or it was turned off to conserve power. Of the 11 original instruments on Voyager 1, only five remain" - [wired](https://www.wired.com/2013/09/vintage-voyager-probes/)
 
+- 17/11/2024 - [Voyager 1 Breaks Its Silence with NASA via Radio Transmitter Not Used Since 1981 ](https://news.ycombinator.com/item?id=42107078)
 - 13/12/2023 - [Voyager 1 stops communicating with Earth](https://news.ycombinator.com/item?id=38640900)
 - 12/09/2013 - Voyager leaves Solar System
