@@ -17,3 +17,6 @@ tags: linux io-stream file socket event network
 
 - [Using select(2)](http://aivarsk.com/2017/04/06/select/) - Use libev, Boost.Asio or other libraries.
 	- [libev](http://software.schmorp.de/pkg/libev.html) - A full-featured and high-performance event loop that is loosely modelled after libevent.
+    
+see also
+- [Waiting for many things at once with io_uring](https://news.ycombinator.com/item?id=42135412)
