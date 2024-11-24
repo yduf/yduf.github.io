@@ -11,3 +11,12 @@ see also
     	- 39.2%: No writing
         - 37.1%: Pictures only
         - 23.7%: Writing
+        
+Wooden structures 476,000 BCE  
+Sailing 100,000 BCE  
+Drawing 73,000 BCE  
+Counting 60,000 BCE  
+Medicine 40,000 BCE  
+…
+Writing 3,200 BCE  
+Alphabet 2,400 BCE  
