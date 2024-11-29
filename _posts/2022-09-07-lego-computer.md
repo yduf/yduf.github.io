@@ -10,5 +10,6 @@ see also
 	- [Lego computer brick](https://www.youtube.com/watch?v=0pUV_3qeHog)
     - [Brick Assembly](https://www.youtube.com/watch?v=6wBrOV2FJM8)
     - [Lego Doom](https://www.youtube.com/watch?v=TJHSMpYi8bg)
+    - [Grid o Bricks](https://www.youtube.com/watch?v=uzfsiPFNfkg)
 
 [![caption](https://interactionmagic.com/images/pages/UX-LEGO-Interfaces/interfaces.jpg)](https://interactionmagic.com/UX-LEGO-Interfaces/)
