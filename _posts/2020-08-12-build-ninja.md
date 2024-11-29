@@ -5,6 +5,10 @@ tags: build-system
 ---
 > Where other build systems are high-level languages, Ninja aims to be an assembler. - [The Ninja build system](https://ninja-build.org/manual.html) / [Comparison to Make](https://ninja-build.org/manual.html#_comparison_to_make)
 
+see also
+- [The Success and Failure of Ninja](https://neugierig.org/software/blog/2020/05/ninja.html) / [HN](https://news.ycombinator.com/item?id=42268310) - review ninja core design choice
+- [Samourai](https://github.com/michaelforney/samurai?tab=readme-ov-file#samurai) - an alternative to ninja
+
 # [Ninja](https://github.com/ninja-build/ninja)
 Some explicit non-goals:
 - convenient syntax for writing build files by hand. You should generate your ninja files using another program. This is how we can sidestep many policy decisions.
