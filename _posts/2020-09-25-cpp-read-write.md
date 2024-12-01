@@ -29,3 +29,16 @@ Write file binary / text
     ostrm << 123 << "abc" << '\n';
 }
 {% endhighlight %}
+
+Read some data by lines
+
+{% highlight cpp %}
+#include <sstream>  // For std::stringstream
+
+while (std::getline(inputFile, line)) {
+    std::stringstream ss(line);
+    char comma;  // To discard the comma
+    ss >> a >> comma >> b;
+    pairs.emplace_back(a, b);
+}
+{% endhighlight %}
