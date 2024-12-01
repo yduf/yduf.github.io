@@ -3,9 +3,9 @@ published: true
 title: Read/Write File in C++
 tags: c++ file io-stream
 ---
-### [input/output library](https://en.cppreference.com/w/cpp/io/basic_ofstream)
+> [input/output library](https://en.cppreference.com/w/cpp/io/basic_ofstream) - [ChatGPT](https://chatgpt.com/share/674c9052-0950-800d-86b7-34cff85ea828)
 
-[Return content of stream as a string](http://wordaligned.org/articles/cpp-streambufs)
+### [Return content of stream as a string](http://wordaligned.org/articles/cpp-streambufs)
 {% highlight cpp %}
 std::string load_stream(std::istream& src)
 {
@@ -18,7 +18,8 @@ std::ifstream in("input/test1.txt");
 cerr << load_stream(in);
 {% endhighlight %}
 
-Write file binary / text
+### Write file binary / text
+
 {% highlight cpp %}
 {   // scoped, so that ostrm desctructor will close file by the end
     std::ofstream ostrm("Test.b", std::ios::binary);
@@ -30,7 +31,7 @@ Write file binary / text
 }
 {% endhighlight %}
 
-Read some data by lines
+### Read some data by lines
 
 {% highlight cpp %}
 #include <sstream>  // For std::stringstream
