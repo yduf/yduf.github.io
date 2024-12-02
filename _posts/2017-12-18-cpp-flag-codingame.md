@@ -5,7 +5,7 @@ tags: c++ codingame
 ---
 > Votre programme est compilé et exécuté dans un environnement Linux sur une architecture multi-coeurs 64bits. - [Environment/lang](https://www.codingame.com/faq)
 
-<span style="color:red">**SIGSEGV will often been seen as Timeout by the Codingame engine (without any clue given).**</span>
+<span style="color:red">**SIGSEGV will often been seen as Timeout by the Codingame engine (without any clue given).**</span>  
 see [Stacktrace]({% post_url 2022-12-08-cpp-stacktrace %}) - for a quick Signal handler that could help diagnosing this situation.
 
 
