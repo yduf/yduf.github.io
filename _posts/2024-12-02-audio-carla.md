@@ -1,7 +1,7 @@
 ---
 title: Carla
 published: true
-tags: linux-audio
+tags: linux-audio DAW
 ---
 > Carla le rack universel Linux ,synthés, équa ou ampli virtuel en vsti, lv2, vst serie. - [Carla](https://kx.studio/Applications:Carla)
 
