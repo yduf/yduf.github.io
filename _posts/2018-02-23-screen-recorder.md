@@ -1,7 +1,7 @@
 ---
 title: Screen Recorder for linux
 published: true
-tags: screen recorder linux application
+tags: screen recorder linux-audio
 ---
 > Open Broadcaster Software Studio (OBS Studio) - [As of 2024](https://chatgpt.com/share/6740933d-7a98-800d-a1e1-85259c489bbe)
 
