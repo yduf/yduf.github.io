@@ -10,6 +10,10 @@ tags: screen recorder linux application
 Open source - support for win / macos / linux.
 Most complete with Wayland support.
 
+see also
+- [Setting up OBS Studio](https://github.com/mikeroyal/PipeWire-Guide?tab=readme-ov-file#setting-up-obs-studio)
+	- [Useful OBS Studio 3rd party plugins and themes.](https://github.com/mikeroyal/PipeWire-Guide?tab=readme-ov-file#useful-obs-studio-3rd-party-plugins-and-themes)
+
 ### [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/)
 
 {% highlight bash %}
