@@ -5,11 +5,12 @@ tags: linux-system linux-audio audio-hardware
 ---
 > PipeWire has a better vibe than Pulseaudio did. It intends to replace a system that never worked flawlessly, seems to focus on compatibility, and the apparent endorsement from the [JACK]({% post_url 2017-06-09-Linux-Audio %})-developers also does not hurt. - [PipeWire Overview](https://docs.pipewire.org/page_overview.html) / [lwn](https://lwn.net/SubscriberLink/847412/d7826b1353e33734/) / [HN](https://news.ycombinator.com/item?id=26329027)
 
+- [PipeWire Guide ](https://github.com/mikeroyal/PipeWire-Guide?tab=readme-ov-file#-----pipewire-guide)
+
 ### Tools
 
-- A [Patchbay](({% post_url 2024-12-02-audio-patchbay %})) like [Helvum](https://gitlab.freedesktop.org/pipewire/helvum) / [flatpak](https://flathub.org/apps/org.pipewire.Helvum) - a graphical patchbay for PipeWire. It allows creating and removing connections between applications and/or devices to reroute flow of audio, video and MIDI data to where it is needed.
+- A [Patchbay](({% post_url 2024-12-02-audio-patchbay %})) like [Helvum](https://gitlab.freedesktop.org/pipewire/helvum)
 
-- [RaySession](https://github.com/Houston4444/RaySession) -  load together audio programs, then be able to save or close all documents together.
 
 ### [How to Use PipeWire to replace PulseAudio in Ubuntu 22.04](https://ubuntuhandbook.org/index.php/2022/04/pipewire-replace-pulseaudio-ubuntu-2204/)
 
