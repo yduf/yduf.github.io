@@ -7,6 +7,7 @@ tags: linux-audio
 
 
 - [How to add audio effects to your voice in Linux with PipeWire and Carla ](https://www.youtube.com/watch?v=JtMSLkolITE)
+- [Librazik / RaySession / Carla / Bespoke / explication du setup](https://www.youtube.com/watch?v=DScBEw2KdPk)
 
 - [carla search](https://www.youtube.com/results?search_query=carla+kxstudio)
 - Home Studio
