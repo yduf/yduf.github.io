@@ -8,6 +8,7 @@ tags: DAW audio-hardware guitar midi
 
 ### [Behringer U-PHORIA UMC202HD vs UMC204HD](https://www.youtube.com/watch?v=g3xgw1U8sIg)
 - test with [ardour](https://discourse.ardour.org/t/behringer-umc204hd-and-umc404hd/104756)
+- [ Interface walkthrough](https://www.youtube.com/watch?v=dJaYyyn8eAE)
 
 [![caption](https://images.static-thomann.de/pics/bdb/359082/12426217_800.jpg)](https://www.thomann.de/fr/behringer_u_phoria_umc204hd.htm?ref=intl&shp=eyJjb3VudHJ5IjoiZnIiLCJjdXJyZW5jeSI6MiwibGFuZ3VhZ2UiOiJmciJ9)
 
