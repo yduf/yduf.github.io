@@ -7,6 +7,8 @@ tags: linux-system kernel midi audio audio-hardware linux-hardware
 
 From [Ted's Linux MIDI Guide](http://www.tedfelix.com/linux/linux-midi.html)
 
+- [Linux Setup for Audio Production in 10 Minutes - Anyone Can Do It](https://www.youtube.com/watch?v=idcGxMFwvv8)
+
 ### Low Latency Kernel
 
 To check whether you are running a low latency kernel, use uname:
