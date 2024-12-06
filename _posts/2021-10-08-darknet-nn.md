@@ -3,7 +3,7 @@ published: true
 title: Darknet
 tags: NN deep-learning
 ---
-> Darknet is an open source neural network framework written in C and CUDA. - [Home](The bulk of our computation will be multiplying big matrices together so we want a card with high single precision performance.) 
+> Darknet is an open source neural network framework written in C and CUDA. - [github](https://github.com/pjreddie/darknet?tab=readme-ov-file#darknet) 
 
 - [Hardware](https://pjreddie.com/darknet/hardware-guide/)
 The bulk of our computation will be multiplying big matrices together so we want a card with high single precision performance.
