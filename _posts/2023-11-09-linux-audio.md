@@ -10,6 +10,10 @@ From [Ted's Linux MIDI Guide](http://www.tedfelix.com/linux/linux-midi.html)
 - [Linux Setup for Audio Production in 10 Minutes - Anyone Can Do It](https://www.youtube.com/watch?v=idcGxMFwvv8)
 	- [Why I Use Linux for Audio Production](https://www.youtube.com/watch?v=bGpRACAuoWU)
 
+Latency is also driven by the size of the buffer in Jack.  
+The buffer size can be controlled by QJackCtl => and it gives an indication of Latency as well.
+
+
 ### Low Latency Kernel
 
 To check whether you are running a low latency kernel, use uname:
