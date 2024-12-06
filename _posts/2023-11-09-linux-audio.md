@@ -12,7 +12,8 @@ From [Ted's Linux MIDI Guide](http://www.tedfelix.com/linux/linux-midi.html)
 
 Latency is also driven by the size of the buffer in Jack.  
 The buffer size can be controlled by QJackCtl => and it gives an indication of Latency as well.
-
+- a buffer size of 32 gives a latency of 0.667ms
+- a buffer size of 1024 (the default) gives a latency of 21.3ms (which can be heared easily).
 
 ### Low Latency Kernel
 
