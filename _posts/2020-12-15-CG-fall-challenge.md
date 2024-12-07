@@ -15,6 +15,7 @@ Thanks to the random recipe drawn after a brew which has the property to mess up
 - [Agade Fall 2020 Challenge Postmortem (2nd)](https://github.com/Agade09/Agade-Fall2020-Challenge-Postmortem) - BFS pseudo code
 
 - [Fall Challenge 2020 - Feedbacks & Strategies](https://www.codingame.com/forum/t/fall-challenge-2020-feedbacks-strategies/187846) - Beam search pseudo code
+	- [k4ng0u, 66th in legend (C++)](https://forum.codingame.com/t/fall-challenge-2020-feedbacks-strategies/187846/27) - start with MC / follow up with Beam search
     - [reCurse (3thd)](https://forum.codingame.com/t/fall-challenge-2020-feedbacks-strategies/187846/81)
         - Had to artificially limit the search depth to 15, any further decreased playing performance.
     	- Too much effort wasted on optimization as a result
