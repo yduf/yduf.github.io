@@ -1,7 +1,7 @@
 ---
 published: true
 title: My little donuts (donuts.c)
-tags: c++
+tags: c++ donuts
 ---
 > A revised version with no use of sin, cos, and no need for linking the math library - [Donut.c Without a Math Library](https://www.a1k0n.net/2021/01/13/optimizing-donut.html) / [HN](https://news.ycombinator.com/item?id=25787545)
 
