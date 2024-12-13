@@ -50,6 +50,11 @@ This require to add the launcher app to panel (default panel, allows only unpin,
 
 ### [Recent files](https://askubuntu.com/questions/540661/how-do-i-disable-the-recent-files-feature-in-the-cinnamon-desktop-environment) - pull up the menu, type 'privacy' 
 
+### Worskpace seting
+
+- open _Workspace_ configuration
+- open _applets_ manager and add _workspace applet_
+
 ## File Explorer [Nemo](https://doc.ubuntu-fr.org/nemo)
 - [ThumbnailFactory](https://unix.stackexchange.com/questions/249182/nemo-how-can-i-fix-a-problem-has-been-detected-with-your-thumbnail-cache/249211#249211)
 - One can add custom thumbnail generators by adding configuration files in share/thumbnailers. Typically: /usr/share/thumbnailers/ or ~/.local/share/thumbnailers
