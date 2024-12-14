@@ -12,7 +12,7 @@ tags: video editor
 
 - Markers & Guides
 	- [Markers](https://docs.kdenlive.org/en/cutting_and_assembling/markers.html) can be used for certain points in a clip that are important.
-    - [Guides](https://docs.kdenlive.org/en/cutting_and_assembling/guides.html#guides)
+    - [Guides](https://docs.kdenlive.org/en/cutting_and_assembling/guides.html#guides) - Guides can be used to define regions for rendering
 
 ### Troubleshooting
 - [Audio recording not working ](https://www.reddit.com/r/kdenlive/comments/gy4pi8/audio_recording_not_working/)
