@@ -8,6 +8,12 @@ tags: video editor
 - [Capturing Audio](https://docs.kdenlive.org/en/project_and_asset_management/capturing_audio.html) - You can use Kdenlive to capture audio with a microphone while you are playing your project in the project monitor.
 	- Depending on your recording device, this may record stereo audio. You can mix it down to mono using the Audio effect [Copy Channels to Stereo](https://docs.kdenlive.org/en/effects_and_filters/audio_effects/channels/copy_channels_to_stereo.html).
 
+- Can do screen grab as well.
+
+- Markers & Guides
+	- [Markers](https://docs.kdenlive.org/en/cutting_and_assembling/markers.html) can be used for certain points in a clip that are important.
+    - [Guides](https://docs.kdenlive.org/en/cutting_and_assembling/guides.html#guides)
+
 ### Troubleshooting
 - [Audio recording not working ](https://www.reddit.com/r/kdenlive/comments/gy4pi8/audio_recording_not_working/)
 	- `$ sudo apt install libqt5multimedia5-plugins`
