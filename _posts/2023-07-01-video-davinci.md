@@ -9,3 +9,4 @@ tags: video
 It has some limitations on used export resolutions, available plugins and some of the more advanced features (noise reduction, effects, audio and video encoders/decoders, interlaced video handling, GPU usage). For many uses and users this version does pretty much everything you might need for video editing. Does not utilize a GPU as much as the paid Studio version.
 
 - [How to Install And Configure DaVinci Resolve In Linux](https://www.maketecheasier.com/install-configure-davinci-resolve-linux/)
+	-[How to get DaVinci Resolve working on Linux Mint 22 (and 20.x/21.x) with an AMD graphics card](https://forums.linuxmint.com/viewtopic.php?t=426123)
