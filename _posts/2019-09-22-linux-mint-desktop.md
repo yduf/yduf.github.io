@@ -8,6 +8,7 @@ tags: linux-system ubuntu desktop application quote
 <link rel="shortcut icon" href="https://linuxmint.com/web/img/favicon.ico" type="image/x-icon" />
 
 - [Linux Mint Releases](https://www.linuxmint.com/download_all.php) - and ubuntu correspondance
+	- linux mint 22   (Wilma)    <-> Ubuntu Noble 24.04 LTS
 	- linux mint 21.3 (virginia) <-> ubuntu Jammy 22.04 LTS
 	- linux mint 21   (vanessa)  <-> ubuntu Jammy 22.04 LTS
 - [Wayland](https://blog.linuxmint.com/) - wayland is coming
