@@ -25,6 +25,7 @@ tags: video editor
 => try removing preview folder in kdenlive directory
 
 Try using an [older version without the bug](https://www.reddit.com/r/kdenlive/comments/1gilu7a/kdenlive_always_crashes_while_opening_a_project/)
+- [24.8](https://download.kde.org/stable/kdenlive/24.08/linux/) - 24.08.1 is more stable
 - [previous release](https://download.kde.org/Attic/kdenlive/)
 
 ### Atlernatives
