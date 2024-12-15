@@ -19,6 +19,10 @@ tags: video editor
 ### Troubleshooting
 - [Audio recording not working ](https://www.reddit.com/r/kdenlive/comments/gy4pi8/audio_recording_not_working/)
 	- `$ sudo apt install libqt5multimedia5-plugins`
+    
+    
+- opening existing project is crashing
+=> try removing preview folder in kdenlive directory
 
 ### Atlernatives
 - [DaVinci Resolve 18]({% post_url 2023-07-01-video-davinci %}) / [HN](https://news.ycombinator.com/item?id=31142560) - For a small 30-second clip I like the more approachable, simple workflow of Kdenlive but holiday videos with a hundred or more cuts work much better with Davinci for me.
