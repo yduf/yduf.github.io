@@ -24,6 +24,9 @@ tags: video editor
 - opening existing project is crashing
 => try removing preview folder in kdenlive directory
 
+Try using an [older version without the bug](https://www.reddit.com/r/kdenlive/comments/1gilu7a/kdenlive_always_crashes_while_opening_a_project/)
+- [previous release](https://download.kde.org/Attic/kdenlive/)
+
 ### Atlernatives
 - [DaVinci Resolve 18]({% post_url 2023-07-01-video-davinci %}) / [HN](https://news.ycombinator.com/item?id=31142560) - For a small 30-second clip I like the more approachable, simple workflow of Kdenlive but holiday videos with a hundred or more cuts work much better with Davinci for me.
 - [OpenShot](https://www.openshot.org/) - Multiplatorm
