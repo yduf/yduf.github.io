@@ -1,0 +1,6 @@
+---
+title: Outsider
+published: true
+tags: concept sociology
+---
+> ce qui agace en sous -jaccent les métaleux, rôlistes, geeks et amoureux des comics des années 90/2000 et avant etc, c'est le fait d'avoir "payé" socialement pour leurs gouts une forme de méprise et de rejet et même de moquerie et en même temps au moment où ça devient mainstream une sorte de nostalgie de cet entre soi d'hier et un sentiment de rejet des "touristes" qui adhérent parce que ça devient à la mode sans avoir hier payé l'écho, alors qu'en fait c'est un processus naturel d'ouverture à des choses hier rejetées par la masse, un enrichissement des individus et une assurance pour la société de faire société en réintégrant ses moutons noirs..... c'est une sorte de validation des survivants entre eux qui se "reconnaissent" et peuvent parler de leurs anciennes guerres que les jeunes ont pas connu.... une forme d'élitisme de ceux qui étaient là avant que ça soit aimé par tous mais bien dejà à l'époque où celui qui aimait ça se trainait un capital social négatif. faut il alors leur en vouloir de se payer un peu de cette façon de leur parcours dans tel ou tel courant culturel ? - [from comments](https://www.youtube.com/watch?v=9fLi07LmLrQ) / [Becker (outsiders)](https://en.wikipedia.org/wiki/Howard_S._Becker)
