@@ -15,6 +15,9 @@ tags: video editor
 - Markers & Guides
 	- [Markers](https://docs.kdenlive.org/en/cutting_and_assembling/markers.html) can be used for certain points in a clip that are important.
     - [Guides](https://docs.kdenlive.org/en/cutting_and_assembling/guides.html#guides) - Guides can be used to define regions for rendering
+    
+- [Sequence](https://www.youtube.com/watch?v=fWaGG8xY51M)
+	- [BUG: No audio from sequence when created from clips in main timeline ](https://www.reddit.com/r/kdenlive/comments/1b2pifa/bug_no_audio_from_sequence_when_created_from/) - just reinsert them in the main sequence
 
 ### Troubleshooting
 - [Audio recording not working ](https://www.reddit.com/r/kdenlive/comments/gy4pi8/audio_recording_not_working/)
