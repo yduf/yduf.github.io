@@ -61,7 +61,7 @@ To debug this single files, use the [C/C++](https://marketplace.visualstudio.com
 {% endhighlight %}
 
 
-### [Build task](https://code.visualstudio.com/Docs/editor/tasks)
+### [Build task](https://code.visualstudio.com/Docs/editor/tasks) - `ctrl+shift+b`
 
 VSCode's build in keyboard shortcut to task by making it of type `build`. The easiest way to set up tasks is to press `ctrl+shift+b`.
 
