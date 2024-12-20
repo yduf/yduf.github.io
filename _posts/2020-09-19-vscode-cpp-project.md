@@ -1,7 +1,7 @@
 ---
 published: true
 title: Debug & Build C++ Project (VSCode)
-tags: debug-c++ vscode gdb c++
+tags: debug-c++ vscode gdb c++ build-system
 ---
 > How to set up C++ Compiler with Visual Studio Code. - [Setup Visual Studio Code for Multi-File C++ Projects](https://dev.to/talhabalaj/setup-visual-studio-code-for-multi-file-c-projects-1jpi)
 
