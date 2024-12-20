@@ -65,7 +65,7 @@ To debug this single files, use the [C/C++](https://marketplace.visualstudio.com
 
 VSCode's build in keyboard shortcut to task by making it of type `build`. The easiest way to set up tasks is to press `ctrl+shift+b`.
 
-`tasks.json` 
+In fiel `.vscode/tasks.json` 
 {% highlight json %}
 {
     // See https://go.microsoft.com/fwlink/?LinkId=733558
