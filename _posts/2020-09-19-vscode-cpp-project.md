@@ -75,7 +75,7 @@ In fiel `.vscode/tasks.json`
         {
             "label": "build",
             "type": "shell",
-            "command": "make",
+            "command": "make",	// your shell command here
             "group": {
                 "kind": "build",
                 "isDefault": true,
