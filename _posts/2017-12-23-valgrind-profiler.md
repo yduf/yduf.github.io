@@ -9,9 +9,9 @@ tags: benchmarking profiler c++ debug-c++
 - [	Twenty years of Valgrind ](https://news.ycombinator.com/item?id=32245136)
 
 ## [Memcheck](https://linuxhint.com/valgrind-c/)
-[How do I use valgrind to find memory leaks?](https://stackoverflow.com/questions/5134891/how-do-i-use-valgrind-to-find-memory-leaks)
+[How do I use valgrind to find memory leaks?](https://stackoverflow.com/a/44989219)
 {% highlight bash %}
-valgrind --tool=memcheck --leak-check=full ./build/cg < test_21.txt 
+valgrind --tool=memcheck --leak-check=full --show-leak-kinds=all --track-origins=yes ./build/cg < test_21.txt 
 , --leak-check=full
 {% endhighlight %}
 
