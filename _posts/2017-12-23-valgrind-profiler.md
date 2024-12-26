@@ -1,5 +1,5 @@
 ---
-title: Valgrind (profiler)
+title: Valgrind (profiler & memory check)
 published: true
 tags: benchmarking profiler c++ debug-c++
 ---
