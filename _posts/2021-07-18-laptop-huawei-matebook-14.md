@@ -30,9 +30,7 @@ excerpt_separator: <!--more-->
         - Fingerpring reader : [KO](https://github.com/nekr0z/linux-on-huawei-matebook-13-2019/blob/master/README.md#fingerprint-reader)
 
     - [Disabled STAPM and Increased the Power Limit](https://www.reddit.com/r/Amd/comments/a2vs55/i_successfully_disabled_stapm_and_increased_the/)
-- [enable fingerprint scanner](https://www.addictivetips.com/ubuntu-linux-tips/enable-fingerprint-scanner-support-on-linux/)
-	- via [Fingerprint GUI](https://github.com/RogueScholar/fingerprint-gui?tab=readme-ov-file#fingerprint-gui) - an application providing fingerprint-based authentication on Linux desktops. Based on the libfprint library, it features a simple GUI for fingerprint management and a PAM module.
-		- linuxMint: Unable to locate package libfprint-dev
+- [enable fingerprint scanner]({% post_url 2024-12-31-fingerprint-libfprint %})
 
 
 ## Startup options
