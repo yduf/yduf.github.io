@@ -1,6 +1,6 @@
 ---
 published: true
-title: Alternative I/O models
+title: Alternative I/O models ( select / io_uring)
 tags: linux io-stream file socket event network
 ---
 > What’s epoll? - [Julia Evans](https://jvns.ca/blog/2017/06/03/async-io-on-linux--select--poll--and-epoll/)
@@ -20,3 +20,4 @@ tags: linux io-stream file socket event network
     
 see also
 - [Waiting for many things at once with io_uring](https://news.ycombinator.com/item?id=42135412)
+	- [Do Files want to be Actors?](https://news.ycombinator.com/item?id=42595700) - using his io_uring test server, like this one[0] claiming 180 GB/s of write throughput, which is fast enough to start blurring the lines with memory bandwidth.  You can't use mmap() for large persistent data because CPU silicon doesn't support enough virtual memory
