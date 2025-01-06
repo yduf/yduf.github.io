@@ -8,3 +8,5 @@ tags: agile enterprise software
 - [Bad Estimation](https://hosseinjazayeri.wordpress.com/2016/11/06/10-modern-software-over-engineering-mistakes/) - Quality needs time and not just skill. And smart developers frequently overestimate their capability. Finally they end up taking ugly hacks to finish stuff on a self-committed suicide timeline.
 
 TL;DR — Bad Estimation destroys Quality even before a single line of code is written
+
+[![caption](https://www.monkeyuser.com/2023/would-you-rather/257-would-you-rather.png)](https://www.monkeyuser.com/2023/would-you-rather/)
