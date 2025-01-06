@@ -18,6 +18,6 @@ tags: linux io-stream file socket event network
 - [Using select(2)](http://aivarsk.com/2017/04/06/select/) - Use libev, Boost.Asio or other libraries.
 	- [libev](http://software.schmorp.de/pkg/libev.html) - A full-featured and high-performance event loop that is loosely modelled after libevent.
     
-see also
+### [io_uring](Welcome to Lord of the io_uring)
 - [Waiting for many things at once with io_uring](https://news.ycombinator.com/item?id=42135412)
 	- [Do Files want to be Actors?](https://news.ycombinator.com/item?id=42595700) - using his io_uring test server, like this one[0] claiming 180 GB/s of write throughput, which is fast enough to start blurring the lines with memory bandwidth.  You can't use mmap() for large persistent data because CPU silicon doesn't support enough virtual memory
