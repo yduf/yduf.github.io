@@ -7,3 +7,4 @@ tags: fun despair.com
 
 see also
 - [OSS Macron face à la Jeunesse](https://www.youtube.com/watch?v=QTBBsGaPolg)
+- [Macron dans Astérix Mission Cléopâtre](https://www.youtube.com/watch?v=WTap_0J_F6w)
