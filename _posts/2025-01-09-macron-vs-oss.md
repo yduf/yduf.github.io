@@ -5,3 +5,5 @@ tags: fun despair.com
 ---
 > OSS Macron face à OSS Sarko et OSS 117 - [youtube](https://www.youtube.com/watch?v=dZLev4hfWvo)
 
+see also
+- [OSS Macron face à la Jeunesse](https://www.youtube.com/watch?v=QTBBsGaPolg)
