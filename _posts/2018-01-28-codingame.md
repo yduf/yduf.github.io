@@ -58,6 +58,10 @@ My [own](https://github.com/yduf/CG-rubyprep?tab=readme-ov-file#c-include-files-
 
 - [Merge C++ files into a single source file](https://stackoverflow.com/questions/5995773/merge-c-files-into-a-single-source-file/46373134#46373134)
 
+## Cheating
+- [CG-Send-Binary](https://github.com/Agade09/CG-Send-Binary?tab=readme-ov-file#cg-send-binary) -  Flagged as a cheat during contests since Wondev Woman
+
+
 ## Technical details
 - [Magus](https://forum.codingame.com/t/public-api-for-statistics-or-other-useful-things/1247/6)
 - [API](https://www.codingame.com/forum/t/api-the-place-to-ask-for-improvements-in-cg-api/2514)
