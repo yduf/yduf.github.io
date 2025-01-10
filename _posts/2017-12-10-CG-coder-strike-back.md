@@ -19,6 +19,7 @@ But there is a great [read from Magus](http://files.magusgeek.com/csb/csb_en.htm
 ### [NN Bots](https://www.codingame.com/forum/t/neural-network-ressources/1667/32)
 - [Bleuj](https://forum.codingame.com/t/neural-network-ressources/1667/7)
 - [_CPC_Herbert](https://www.codingame.com/forum/t/neural-network-ressources/1667/9) - using Unsupervised learning 
+- [Agade](https://forum.codingame.com/t/neural-network-ressources/1667/19) - q-learning
 
 - [Mastering a Pod Racing AI Competition with Nash-DQN](https://github.com/pb4git/Nash-DQN-CSB-Article)
 - [Using a neural network on ”Coders Strike Back”](https://www.docdroid.net/NgvoYFR/csb-nn-slides-pdf)
