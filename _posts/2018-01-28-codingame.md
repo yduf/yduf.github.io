@@ -52,7 +52,10 @@ For Legacy games:
 ## Chrome Extension
 - [sync](https://www.codingame.com/forum/t/codingame-sync-beta/614/58)
 
-## Merger Tools
+## [Merger Tools](https://github.com/yduf/CG-rubyprep?tab=readme-ov-file#c-include-files-packer)
+
+My [own](https://github.com/yduf/CG-rubyprep?tab=readme-ov-file#c-include-files-packer).
+
 - [Merge C++ files into a single source file](https://stackoverflow.com/questions/5995773/merge-c-files-into-a-single-source-file/46373134#46373134)
 
 ## Technical details
