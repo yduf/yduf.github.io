@@ -1,5 +1,5 @@
 ---
-title: (CG) Coder Strike Back
+title: (CG) Coder Strike Back / Mad Pod Racing
 published: true
 tags: codingame NN genetic-algorithm
 ---
