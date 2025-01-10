@@ -1,5 +1,5 @@
 ---
-title: CG TotoZero - Spring Challenge 2021
+title: (CG) TotoZero - Spring Challenge 2021
 published: true
 tags: codingame NN
 ---
