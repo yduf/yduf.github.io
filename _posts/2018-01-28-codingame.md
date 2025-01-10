@@ -14,7 +14,10 @@ see also
 	- recommended by smits
 
 ### Referee
+
+For Legacy games:
 - [codinGame](https://github.com/SpiritusSancti5/codinGame/tree/master/Referees) - These are the actual codingame referees, written by CG staff.
+- [eulerscheZah](https://github.com/eulerscheZahl/RefereeCollection) -  unofficial collection of referee
 
 ### External
 - [Cg-brutaltester](https://www.codingame.com/forum/t/cg-brutaltester-because-you-love-to-be-brutal/2716) / [github](https://github.com/dreignier/cg-brutaltester)
