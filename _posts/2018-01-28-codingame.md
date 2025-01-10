@@ -18,6 +18,9 @@ see also
 For Legacy games:
 - [codinGame](https://github.com/SpiritusSancti5/codinGame/tree/master/Referees) - These are the actual codingame referees, written by CG staff.
 - [eulerscheZah](https://github.com/eulerscheZahl/RefereeCollection) -  unofficial collection of referee
+
+[**CSB / Mad Pod**]({% post_url 2017-12-10-CG-coder-strike-back %})  
+- [Agade Arena](https://github.com/Agade09/CSB-Runner-Arena)
 - [loicmarie](https://github.com/loicmarie/cg-csb-referee-cpp) - Referee for the CodinGame contest Coders Strike Back, written in CPP
 
 ### External
