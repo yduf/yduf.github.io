@@ -7,3 +7,4 @@ tags: history
 
 see also
 - [The British Empire Was Much Worse Than You Realize](https://www.newyorker.com/magazine/2022/04/04/the-british-empire-was-much-worse-than-you-realize-caroline-elkinss-legacy-of-violence) / [HN](https://news.ycombinator.com/item?id=42558142) - The world’s biggest colonial power prided itself on being a liberal democracy. Was this part of the problem?
+- [Le racisme à l'époque, c'était pas un jeu](https://www.youtube.com/watch?v=O9K1uN3qBKI) - un pilote de ligne noir, raconte la frayeur de Mohamed Alis quand il decouvre que c'est lui qui va piloter l'avion. Un echange sur la manipulation et les biais induis (Tarzan & les sauvages).
