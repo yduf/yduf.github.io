@@ -1,7 +1,7 @@
 ---
 title: The Expedition
 published: true
-tags: life quote
+tags: life quote song
 ---
 > No path out of this valley involves traveling alone - [HN](https://news.ycombinator.com/item?id=42581657)
 
