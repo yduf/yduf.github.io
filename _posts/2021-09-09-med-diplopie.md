@@ -10,7 +10,7 @@ Monocular diplopia may be induced in many individuals, even those with normal ey
 In this sense, double vision is neither dangerous nor harmful, and may even be enjoyable. It makes viewing stereograms possible.
 
 see also
-- [I’ve acquired a new superpower](https://danielwirtz.com/blog/spot-the-difference-superpower) - fast find difference between two images
+- [I’ve acquired a new superpower](https://danielwirtz.com/blog/spot-the-difference-superpower) / [HN](https://news.ycombinator.com/item?id=42655870) - fast find difference between two images
 
 
 ![caption](https://upload.wikimedia.org/wikipedia/commons/5/53/Diplopia.jpg)
