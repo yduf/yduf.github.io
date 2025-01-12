@@ -6,7 +6,7 @@ tags: youtube
 > How to download transcript from youtube video - [chatgpt](https://chatgpt.com/share/6783ce5a-74ec-800d-8d80-07957370e86b)
 
 see also
-- [YouTube Transcript](https://youtubetranscript.com/)
+- [YouTube Transcript (online)](https://youtubetranscript.com/) - works well - no duplicate
 - [YouTube Transcript API ](https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#---youtube-transcript-api-)
 
 Using yt-dlp, prefer srt[^1]
