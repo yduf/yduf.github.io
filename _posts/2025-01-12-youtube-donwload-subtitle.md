@@ -5,7 +5,11 @@ tags: youtube
 ---
 > How to download transcript from youtube video - [chatgpt](https://chatgpt.com/share/6783ce5a-74ec-800d-8d80-07957370e86b)
 
-Using ytl, prefer srt[^1]
+see also
+- [YouTube Transcript](https://youtubetranscript.com/)
+- [YouTube Transcript API ](https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#---youtube-transcript-api-)
+
+Using yt-dlp, prefer srt[^1]
 
 {% highlight bash %}
 $ yt-dlp --write-auto-sub --sub-lang en --skip-download VIDEO_URL    # without video
@@ -20,3 +24,4 @@ And then convert to text.
 - [SRT to TXT Converter (online)](https://converts.me/tools/conversion/subtitle/srt-to-txt)
 
 [^1]: [SRT vs VTT? Which Subtitle Format Should You Use?](https://www.getsubly.com/post/srt-vtt)
+
