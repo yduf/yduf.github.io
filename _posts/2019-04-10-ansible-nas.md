@@ -3,7 +3,7 @@ published: true
 title: Ansible-NAS
 tags: nas zfs ansible monitoring
 ---
->  Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook. - [davestephens/ansible-nas](https://github.com/davestephens/ansible-nas)
+>  Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook. - [Home](https://ansible-nas.io/blog/) / [github](https://github.com/davestephens/ansible-nas) / [blog](https://davidstephens.uk/2019/01/02/an-update-on-ansible-nas/)
 
 ### Service
 - [**Netdata**](http://192.168.0.125:19999) - dashboard
