@@ -11,6 +11,9 @@ Using ytl, prefer srt[¹]
 $ yt-dlp --write-auto-sub --sub-lang en --skip-download VIDEO_URL    # without video
 
 $ yt-dlp --write-sub --sub-lang en --skip-download VIDEO_URL         # for manual subtitle
+
+$ yt-dlp --write-auto-sub --sub-lang en --convert-subs srt --skip-download VIDEO_URL    # convert  to SRT
+
 {% endhighlight %}
 
 And then convert to text.
