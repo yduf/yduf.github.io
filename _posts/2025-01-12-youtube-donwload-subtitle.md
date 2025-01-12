@@ -17,5 +17,6 @@ $ yt-dlp --write-auto-sub --sub-lang en --convert-subs srt --skip-download VIDEO
 {% endhighlight %}
 
 And then convert to text.
+- [SRT to TXT Converter (online)](https://converts.me/tools/conversion/subtitle/srt-to-txt)
 
-[¹]: [SRT vs VTT? Which Subtitle Format Should You Use?](https://www.getsubly.com/post/srt-vtt) 
+[¹]: [SRT vs VTT? Which Subtitle Format Should You Use?](https://www.getsubly.com/post/srt-vtt)
