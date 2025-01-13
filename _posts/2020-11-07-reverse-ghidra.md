@@ -33,3 +33,4 @@ require Java > 17
 
 ### see also
 - [Reverse engineering an e-ink display ](https://zeus.ugent.be/blog/22-23/reverse_engineering_epaper/) / [HN](https://news.ycombinator.com/item?id=34738649)
+- [	Using Ghidra and Python to reverse engineer Ecco the Dolphin](https://news.ycombinator.com/item?id=42076884)
