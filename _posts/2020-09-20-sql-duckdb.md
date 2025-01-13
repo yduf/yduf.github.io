@@ -1,7 +1,7 @@
 ---
 published: true
 title: DuckDB
-tags: sql db parquet csv spark
+tags: sql db sqlite parquet csv spark
 ---
 > An embeddable SQL database like SQLite, but supports Postgres features - [DuckDB](https://duckdb.org/) / [github](https://github.com/duckdb/duckdb?tab=readme-ov-file#duckdb) / [HN](https://news.ycombinator.com/item?id=24531085)
 
