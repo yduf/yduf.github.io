@@ -8,7 +8,7 @@ tags: microscope
 ### Hardware
 - [openflexure](https://openflexure.org/) / [HN](https://news.ycombinator.com/item?id=30577258) -  I recommend 3d printing the v7 version - high precision mechanical positioning 
 - [PUMA](https://www.youtube.com/c/PUMAMicroscope/videos) / [github](https://github.com/TadPath/PUMA) - modular optic microscope / a lot of illumination options
-- [Show HN: CNC Microscopy for Fun ](https://news.ycombinator.com/item?id=41596336)
+- [Show HN: CNC Microscopy for Fun ](https://news.ycombinator.com/item?id=41596336) - observe Compact Disk tracks
 
 - [IBM open sources fully-functional Lego microscope design (2020) ](https://news.ycombinator.com/item?id=30576285)
 
