@@ -283,6 +283,56 @@ footer {
   text-align: center;
 }
 
+/* General table styling */
+table {
+  width: 100%;
+  border-collapse: collapse; /* Avoid double borders */
+  margin: 20px 0; /* Add some spacing */
+  font-size: 16px;
+  font-family: Arial, sans-serif;
+}
+
+/* Table header styling */
+th {
+  background-color: #f4f4f4; /* Light gray background for the header */
+  color: #333; /* Dark text for contrast */
+  text-align: left;
+  padding: 10px;
+  border-bottom: 2px solid #ccc; /* Distinct bottom border */
+}
+
+/* Table row styling */
+td {
+  padding: 10px;
+  border-bottom: 1px solid #ddd; /* Light border between rows */
+}
+
+/* Zebra striping for rows */
+tr:nth-child(even) {
+  background-color: #f9f9f9; /* Light gray for alternate rows */
+}
+
+tr:nth-child(odd) {
+  background-color: #fff; /* White for other rows */
+}
+
+/* Hover effect */
+tr:hover {
+  background-color: #f1f1f1; /* Slightly darker gray for hover effect */
+}
+
+/* Responsive table styling */
+@media screen and (max-width: 600px) {
+  table {
+    width: 100%; /* Ensure it fits smaller screens */
+    font-size: 14px; /* Slightly smaller text for smaller devices */
+  }
+
+  th, td {
+    padding: 8px; /* Adjust padding for smaller screens */
+  }
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
