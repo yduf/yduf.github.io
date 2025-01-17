@@ -5,6 +5,6 @@ tags: linux filesystem ext4
 ---
 > Take a walk through EXT4's history, features, and optimal use, and learn how it differs from previous iterations of the EXT filesystem. - [An introduction to Linux's EXT4 filesystem](https://opensource.com/article/17/5/introduction-ext4-filesystem)
 
-- [EXT4 | How does it work?](https://www.youtube.com/watch?v=4KaF2OXWfzg&list=WL&index=3)
+- [EXT4 - How does it work?](https://www.youtube.com/watch?v=4KaF2OXWfzg&list=WL&index=3)
 	- ext3/ext4 is now the same ext4 driver in the kernel
 	- extended attribute part of the inode (96 par defaut)
