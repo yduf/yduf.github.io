@@ -1,7 +1,7 @@
 Ryzen,Price,Core,€/core,PCIe Gen,Cache (Mb),iGPU,TDB,sortie
 5 - 5600X,130€,6,21.6,,,,,
 [7 - 5800](https://www.techpowerup.com/cpu-specs/ryzen-7-5800.c2678),?,8,,,32,,65W,Q1 2021
-[**7 - 5800X**](https://www.techpowerup.com/cpu-specs/ryzen-7-5800x.c2362),178€,8,22.3,,32,,105W,
+[**7 - 5800X**](https://www.techpowerup.com/cpu-specs/ryzen-7-5800x.c2362),178€,8,22.3,,32,,105W,Q4 2020
 7 - 5700X3D,250€,8,31.3,,100,y,105W,Q1 2024
 [7 - 5800XT](https://www.techpowerup.com/cpu-specs/ryzen-7-5800xt.c3654),230€,8,28.8,4,36,,105W,Q2 2024
 [9 - 5900](https://www.techpowerup.com/cpu-specs/ryzen-9-5900.c2677),?,12,,,64,,65W,Q1 2021
