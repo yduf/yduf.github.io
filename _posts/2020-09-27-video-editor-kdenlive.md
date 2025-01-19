@@ -1,7 +1,7 @@
 ---
 published: true
 title: Video Editor
-tags: video editor
+tags: video editor renderfarm
 ---
 > Kdenlive is an open source video editor. - [Kdenlive](https://kdenlive.org/en/features/) / [ r/kdenlive ](https://www.reddit.com/r/kdenlive/)
 
