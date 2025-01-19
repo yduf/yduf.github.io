@@ -31,6 +31,10 @@ Try using an [older version without the bug](https://www.reddit.com/r/kdenlive/c
 - [24.8](https://download.kde.org/stable/kdenlive/24.08/linux/) - 24.08.1 is more stable
 - [previous release](https://download.kde.org/Attic/kdenlive/)
 
+### Renderfarm
+- [render notes](https://gist.github.com/glilco/952a54520ec3dc93394c4c80e1d44a2e)
+- [Render farm for kdenlive 20.12.1 ](https://www.reddit.com/r/kdenlive/comments/l1ucks/render_farm_for_kdenlive_20121/)
+
 ### Atlernatives
 - [DaVinci Resolve 18]({% post_url 2023-07-01-video-davinci %}) / [HN](https://news.ycombinator.com/item?id=31142560) - For a small 30-second clip I like the more approachable, simple workflow of Kdenlive but holiday videos with a hundred or more cuts work much better with Davinci for me.
 - [OpenShot](https://www.openshot.org/) - Multiplatorm
