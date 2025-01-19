@@ -9,7 +9,7 @@ tags: build-system docker
 > 
 > In 2003 I created 0install to address these problems, and Nix has very similar goals. - [NixOS](https://roscidus.com/blog/blog/2021/03/07/qubes-lite-with-kvm-and-wayland/#nixos)
 
-- [**The case for Nix on the home server**](https://www.youtube.com/watch?v=h8oyoDMUM2I)
+[**The case for Nix on the home server**](https://www.youtube.com/watch?v=h8oyoDMUM2I)
 
 **Nix** is a build system, which is the outcome of an Academic Work => [The Purely Functional Software
 Deployment Model (2006)](https://edolstra.github.io/pubs/phd-thesis.pdf)  
