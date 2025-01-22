@@ -7,4 +7,4 @@ tags: NN AI
 
 the Bellman equation for optimality
 
-### Introducing Q-Learning
+### [Introducing Q-Learning](https://huggingface.co/learn/deep-rl-course/unit2/q-learning)
