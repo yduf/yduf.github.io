@@ -7,7 +7,7 @@ tags: build-system docker linux-system
 >
 > Also, they make it difficult to try out 3rd-party software, or to test newer versions of just some packages.
 > 
-> In 2003 I created 0install to address these problems, and Nix has very similar goals. - [NixOS](https://roscidus.com/blog/blog/2021/03/07/qubes-lite-with-kvm-and-wayland/#nixos) / [r/NixOS ](https://www.reddit.com/r/NixOS/)
+> In 2003 I created 0install to address these problems, and Nix has very similar goals. - [NixOS]([NixOS](https://roscidus.com/blog/blog/2021/03/07/qubes-lite-with-kvm-and-wayland/#nixos)) / [r/NixOS ](https://www.reddit.com/r/NixOS/)
 
 [**The case for Nix on the home server**](https://www.youtube.com/watch?v=h8oyoDMUM2I)
 
@@ -29,6 +29,7 @@ Nix is sometime proposed as an alternative to docker, because its reproducible s
 - [Our Roadmap for Nix](https://news.ycombinator.com/item?id=32374113)
 
 see also
+-[KVM & Wayland](https://roscidus.com/blog/blog/2021/03/07/qubes-lite-with-kvm-and-wayland/#nixos)
 - [	Zero to Nix, an unofficial, opinionated, gentle introduction to Nix](https://news.ycombinator.com/item?id=34490376)
 - [	Crafting container images without Dockerfiles](https://news.ycombinator.com/item?id=34678121) - I've been using Nix for this.
 - [Using Nix on Linux Mint](https://leward.eu/using-nix-on-linux-mint/)
