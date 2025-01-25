@@ -1,7 +1,7 @@
 ---
 published: true
 title: Fibonacci sequence
-tags: Fibonacci math
+tags: Fibonacci math c++
 ---
 > Fibonacci numbers appear unexpectedly often in mathematics, so much so that there is an entire journal dedicated to their study, the Fibonacci Quarterly. - [wikipedia](https://en.wikipedia.org/wiki/Fibonacci_number)
 
@@ -13,3 +13,4 @@ tags: Fibonacci math
 
 ### see also
 - [Le nombre d'or]({% post_url 2023-11-09-math-nombre-d-or %})
+- [I am not sorry for switching to C](https://www.youtube.com/watch?v=LXm6ygZ3h7A) - optimisation of algorithm to compute the largest possible fibonnaci number in less than 1.0s
