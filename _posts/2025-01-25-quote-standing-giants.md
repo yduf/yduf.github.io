@@ -7,4 +7,4 @@ tags: quote concept
 
 - [The Electric State](https://www.imdb.com/title/tt7766378/)
 
-[![caption](https://i.ytimg.com/vi/PGNx5clBLTk/maxresdefault.jpg)](https://www.youtube.com/watch?v=BOdca_kJimE)
+[![caption](https://assetsio.gnwcdn.com/the-electric-state-rpg-artwork-simon-stalenhag-wrecked-bot.png?width=848&quality=80&format=jpg&dpr=2&auto=webp)](https://www.youtube.com/watch?v=BOdca_kJimE)
