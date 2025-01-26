@@ -1,6 +1,6 @@
 ---
 published: true
 title: Physic Engine
-tags: physic engine
+tags: physics engine
 ---
 > [Writing a Physics Engine from scratch](https://www.youtube.com/watch?v=lS_qeBy3aQI).
