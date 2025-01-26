@@ -6,6 +6,7 @@ tags: despair.com science
 > Comment, des ravages du tabac au déni du changement climatique, on instrumentalise la science pour démentir... la science. - [La fabrique de l'ignorance (ARTE)](https://www.youtube.com/watch?v=6IGVqsnxCE0)
 
 - [Les batailles du Nutri-Score - Avides de recherche #74](https://www.youtube.com/watch?v=5lzSNK7XQic)
+- [Désinformation: comment les géants américains du pétrole, du plastique et des pesticides utilisent leurs tweets pour retarder l’action climatique](https://www.liberation.fr/environnement/climat/reseau-x-comment-les-geants-americains-du-petrole-du-plastique-et-des-pesticides-utilisent-leurs-tweets-pour-retarder-laction-climatique-20250124_WUHRJ6I67ZARLADWTAPQ4YKAGE/)
 
 > La science ne dit pas ce que nous devons faire de ce qu'elle permet de faire. - [Je ne suis pas expert, mais je... - Étienne Klein](https://www.youtube.com/watch?v=zp-GJAr5kGo) 
 
