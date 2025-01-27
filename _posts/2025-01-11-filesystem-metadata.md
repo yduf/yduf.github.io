@@ -8,4 +8,4 @@ tags: filesystem file ext4 zfs
 If you need to move files with xattr between filesystems (e.g., from ZFS to ext4), you may encounter compatibility issues. Use tools like tar or rsync with --xattrs to preserve attributes.
 
 ### Lang support
-- Ruby - [ffi-xattr](https://github.com/jarib/ffi-xattr?tab=readme-ov-file#ffi-xattr)
+- Ruby - [ffi-xattr](https://github.com/jarib/ffi-xattr?tab=readme-ov-file#ffi-xattr) - unmaintained
