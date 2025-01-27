@@ -7,3 +7,4 @@ tags: c++ compiler
 
 - [time-trace](https://aras-p.info/blog/2019/01/16/time-trace-timeline-flame-chart-profiler-for-Clang/) -  timeline / flame chart profiler for Clang
 - [Faster C++ builds](https://www.bitsnbites.eu/faster-c-builds/)
+- [Using Precompiled Headers](https://gcc.gnu.org/onlinedocs/gcc/Precompiled-Headers.html)
