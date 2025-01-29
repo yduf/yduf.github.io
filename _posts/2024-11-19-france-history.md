@@ -6,6 +6,7 @@ tags: history
 > Au fond de la colonisation, il y a un négationnisme extrêmement profond de l'altérité qu'elle vise soit à faire disparaître, soit à dominer définitivement. - [Extermination et violence coloniales euphémisées dans l'Algérie du XIXe siècle ](http://histoiredelalgerie.over-blog.com/2017/02/extermination-et-violence-coloniales-euphemisees-dans-l-algerie-du-xixe-siecle.html)
 
 - [une manifestation des Algériens de France pour débaptiser la rue Bugeaud](https://www.lyonmag.com/article/141181/lyon-une-manifestation-des-algeriens-de-france-pour-debaptiser-la-rue-bugeaud) - la rue qui porte le nom de Thomas Robert Bugeaud Maréchal de France, connu pour ses massacres commis en Algérie au XIXe siècle.
+- ["Torture, ratissages, rafles" pendant la période coloniale (1945-1960)](https://www.francetvinfo.fr/monde/afrique/cameroun/un-rapport-sur-la-colonisation-francaise-au-cameroun-pointe-des-violences-extremes-entre-1945-et-1971_7043363.html)
 
 see also
 - [The British Empire Was Much Worse Than You Realize](https://www.newyorker.com/magazine/2022/04/04/the-british-empire-was-much-worse-than-you-realize-caroline-elkinss-legacy-of-violence) / [HN](https://news.ycombinator.com/item?id=42558142) - The world’s biggest colonial power prided itself on being a liberal democracy. Was this part of the problem?
