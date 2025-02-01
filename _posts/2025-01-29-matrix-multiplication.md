@@ -7,7 +7,7 @@ tags: math avx intel matrix algebra
 
 see also
 - [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
-	- [The Tensor Cookbook](https://tensorcookbook.com/)
+	- [The Tensor Cookbook](https://tensorcookbook.com/) / [HN](https://news.ycombinator.com/item?id=42890389)
     
 ### High-Performance Matrix Multplication
 [github](https://gist.github.com/nadavrot/5b35d44e8ba3dd718e595e40184d03f0#high-performance-matrix-multiplication)
