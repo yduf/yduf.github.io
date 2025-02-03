@@ -16,3 +16,10 @@ tags: phone android
 - [Synchronisation des données HONOR](https://www.honor.com/fr/support/content/fr-fr15842586/) - Se connecter avec Identifiant Honor ID 
 
 - [ ChronoPuzzle](https://apkpure.com/chronopuzzle/com.understorm.chronopuzzlefree)
+
+### Deverouillage
+
+Pour activer le deverouillage par schema:
+Parametres / Securité et confidentialité / Déverouillage de l'appareil
+- Verouillage de l'écran
+	- => Modifier le Mode de déverouillage <= / au lieu de resaisir un code 
