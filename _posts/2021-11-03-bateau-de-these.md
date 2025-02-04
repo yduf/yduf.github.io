@@ -12,5 +12,6 @@ For almost 100 years, it had been a mantra of biology that brain cells or neuron
 - [How do neurons regenerate without losing memory?](https://www.sciencedaily.com/releases/2014/05/140521133514.htm)
 
 a voir aussi
+- [L'individu n'existe pas](https://youtube.com/shorts/NKbwVVCFLSo?si=PE7F-ijc61NsabPa) - notre corps est un assemblage de colonie de bacteries
 - [LE CYBERPUNK](https://youtu.be/v3HjYBS0IYQ?t=854) - la frontiere entre l'humain et le robot
 - [Mon beau navire ô ma mémoire - Avons-nous assez navigué ?](https://www.youtube.com/watch?v=BVh2yEAUklQ)
