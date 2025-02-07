@@ -69,6 +69,8 @@ This require to add the launcher app to panel (default panel, allows only unpin,
 ## Post install fix
 - [Failed to start casper-md5check Verify Live ISO checksums](https://askubuntu.com/questions/1421093/ubuntu-boot-systemd1-failed-to-start-casper-md5check-verify-live-iso-checksum)
 
+## [Fix Broken package](https://www.fosslinux.com/8782/fix-broken-linux-mint-updates-due-to-the-broken-packages.htm)
+
 ## Updating
 - [How to upgrade to Linux Mint 22](https://linuxmint-user-guide.readthedocs.io/en/latest/upgrade-to-mint-22.html)
 - [How to upgrade to Linux Mint 21](https://linuxmint-user-guide.readthedocs.io/en/latest/upgrade-to-mint-21.html#)
