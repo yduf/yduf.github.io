@@ -70,6 +70,8 @@ This require to add the launcher app to panel (default panel, allows only unpin,
 - [Failed to start casper-md5check Verify Live ISO checksums](https://askubuntu.com/questions/1421093/ubuntu-boot-systemd1-failed-to-start-casper-md5check-verify-live-iso-checksum)
 
 ## Updating
+- [How to upgrade to Linux Mint 22](https://linuxmint-user-guide.readthedocs.io/en/latest/upgrade-to-mint-22.html)
+- [How to upgrade to Linux Mint 21](https://linuxmint-user-guide.readthedocs.io/en/latest/upgrade-to-mint-21.html#)
 - [How to upgrade to Linux Mint 20](https://linuxmint-user-guide.readthedocs.io/en/latest/upgrade-to-mint-20.html)
 - [How to upgrade to Linux Mint 19](https://community.linuxmint.com/tutorial/view/2416)
     - `sudo touch /etc/timeshift.json`
