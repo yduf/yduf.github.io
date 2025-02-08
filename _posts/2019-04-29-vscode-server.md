@@ -5,6 +5,8 @@ tags: vscode remote linux editor ssh
 ---
 >  [CodeServer](https://github.com/cdr/code-server) Run VS Code on any server over SSH. A precursor of [VS Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview)
 
+- [VSCode's SSH agent is bananas](https://news.ycombinator.com/item?id=42979467)
+
 ## [VS Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview)
 - work over ssh
 - on container
