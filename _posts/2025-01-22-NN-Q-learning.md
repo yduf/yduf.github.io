@@ -34,6 +34,8 @@ This is what is Deep Q-Learning [^2]
 
 the Bellman equation for optimality
 
-### [Introducing Q-Learning](https://huggingface.co/learn/deep-rl-course/unit2/q-learning)
+
+### see also
+- [Introducing Q-Learning](https://huggingface.co/learn/deep-rl-course/unit2/q-learning)
 
 ### Reference
