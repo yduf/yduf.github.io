@@ -27,14 +27,18 @@ In this situation there is a simple algorithm to learn that Q-function (and Q-ta
 ### This Minecraft world is to Big to fit in a table
 
 Discretizing most world this way would require a huge table.
-Rather than uzing an explicit table, we will use a neural network to learn and approximate that Q-Function without storing it in a table.
+Rather than uzing an explicit table, we will use a neural network to learn and approximate that Q-Function without storing it in a table:
+- the input layer will match the tuple identifying our cell
+- the hidden layer is however need to be (convolution network / whatever)
+- the output layer will match the set of actions available to us and give the learned weigth.
 
-We trade memory, for compactness, but learning will take more time.
+That way we are trade memory of the Q-table, for compactness of the NN, with same usage, but learning will take more time.
 
 This is what is Deep Q-Learning [^2]
 
 [^2]: [Deep Q Learning w\/ DQN - Reinforcement Learning p.5](https://www.youtube.com/watch?v=t3fbETsIBCY)
 
+![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Fwww.marktorr.com%2Fwp-content%2Fuploads%2F2017%2F06%2FNeuralNet.png&f=1&nofb=1&ipt=9e389e433d04f271a354706850e11893905368a5b2f568d4f47280865dac341a&ipo=images)
 
 ### Notes
 the Bellman equation for optimality
