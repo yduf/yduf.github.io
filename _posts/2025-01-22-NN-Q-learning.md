@@ -5,7 +5,10 @@ tags: NN AI
 ---
 > The ability to have agents automatically learn complex policies, solely through environmental rewards - [A Step-by-Step Beginner‘s Guide](https://thelinuxcode.com/demystifying-q-learning-a-step-by-step-beginners-guide/)
 
-Basic step for understanding (deep) Q-learning
+Understanding (deep) Q-learning in 2min
+
+[![caption](https://mcdn.wallpapersafari.com/medium/92/47/AWFrD0.jpg)](https://wallpapersafari.com/w/AWFrD0)
+
 
 ### Discretize the World
 
