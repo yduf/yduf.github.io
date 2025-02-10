@@ -35,6 +35,8 @@ This is what is Deep Q-Learning [^2]
 
 [^2]: [Deep Q Learning w\/ DQN - Reinforcement Learning p.5](https://www.youtube.com/watch?v=t3fbETsIBCY)
 
+
+### Notes
 the Bellman equation for optimality
 
 
