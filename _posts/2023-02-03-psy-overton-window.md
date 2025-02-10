@@ -5,6 +5,9 @@ tags: psychology mental-model
 ---
 > the range of policies politically acceptable to the mainstream population at a given time. It is also known as the window of discourse. - [wikipedia](https://en.wikipedia.org/wiki/Overton_window)
 
+
+- [La véranda d’Overton - La chronique de Mamari dans "La dernière" ](https://www.youtube.com/watch?v=_kNzHBaz37Q)
+
 see also
 - [Controversy]({% post_url 2021-10-30-controversy %})
 
