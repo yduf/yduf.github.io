@@ -13,7 +13,7 @@ Understanding (deep) Q-learning in 2min
 ### Discretize the World
 
 Let's assume that we are able to discretize our environment as well as the set of actions available to us.
-Then we can imagine that some fonction exist that would gives the best action possible for a certain situation ( a cell in our discretized environment).
+Then we can imagine that some fonction exist that would gives the best action possible for a certain situation (when positioned on a cell in our discretized environment).
 
 This would be our Q-Function.
 
