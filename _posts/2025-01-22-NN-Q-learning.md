@@ -17,7 +17,7 @@ Then we can imagine that some fonction exist that would gives the best action po
 
 This would be our Q-Function.
 
-If we lived in a discretized environment we also can think of this Q-function as a Q-table:
+If we lived in a discretized environment we also can think of this Q-function as a Q-table:  
 a table for which each entries is a tuple identified the cell we are in (in our environment) and map to a vector of available actions pondered by their score. The best action for this cell being the one having the highest value.
 
 In this situation there is a simple algorithm to learn that Q-function (and Q-table) by only looking at the reward of our actions (by simulating their outcome) ([^1])
