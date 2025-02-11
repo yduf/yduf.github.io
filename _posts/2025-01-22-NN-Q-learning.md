@@ -29,7 +29,7 @@ In this situation there is a simple algorithm to learn that Q-function (and Q-ta
 
 [^1]: [Q Learning Intro/Table - Reinforcement Learning p.1](https://www.youtube.com/watch?v=yMk_XtIEzH8&list=PLh9akXp2EH2D6RPP5ACPfG4D60XqhrXmC&index=3)
 
-### This Minecraft world is to Big to fit in a table
+### This World is to Big to fit in a table
 
 Discretizing most world this way would require a huge table.
 Rather than uzing an explicit table, we will use a neural network to learn and approximate that Q-Function without storing it in a table:
