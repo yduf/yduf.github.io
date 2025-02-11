@@ -2,6 +2,7 @@
 published: true
 title: Logarithm
 tags: math calculator
+use_math: true
 ---
 > [Calculating Logarithms by Hand](https://news.ycombinator.com/item?id=38836437) - [wikipedia](https://en.wikipedia.org/wiki/Logarithm)
 
