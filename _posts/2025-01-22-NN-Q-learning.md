@@ -20,7 +20,7 @@ This would be our Q-Function.
 If we lived in a discretized environment we also can think of this Q-function as a Q-table:
 a table for which each entries is a tuple identified the cell we are in (in our environment) and map to a vector of available actions pondered by their score. The best action for this cell being the one having the highest value.
 
-In this situation there is a simple algorithm to learn that Q-function (and Q-table) by only looking at the reward of our actions (by simulating their outcome) [^1]
+In this situation there is a simple algorithm to learn that Q-function (and Q-table) by only looking at the reward of our actions (by simulating their outcome) ([^1])
 
 [^1]: [Q Learning Intro\/Table - Reinforcement Learning p.1](https://www.youtube.com/watch?v=yMk_XtIEzH8&list=PLh9akXp2EH2D6RPP5ACPfG4D60XqhrXmC&index=3)
 
