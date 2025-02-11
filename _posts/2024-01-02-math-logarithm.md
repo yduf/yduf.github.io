@@ -3,7 +3,10 @@ published: true
 title: Logarithm
 tags: math calculator
 ---
-> [Calculating Logarithms by Hand](https://news.ycombinator.com/item?id=38836437)
+> [Calculating Logarithms by Hand](https://news.ycombinator.com/item?id=38836437) - [wikipedia](https://en.wikipedia.org/wiki/Logarithm)
+
+[![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Slide_rule_example2_with_labels.svg/825px-Slide_rule_example2_with_labels.svg.png)](https://en.wikipedia.org/wiki/Logarithm)
+
 
 see also
 - [slide rules](https://news.ycombinator.com/item?id=39309083)
