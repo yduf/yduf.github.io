@@ -41,7 +41,7 @@ That way we are trade memory of the Q-table, for compactness of the NN, with sam
 
 This is what is Deep Q-Learning [^2]
 
-[^2]: [Deep Q Learning w\/ DQN - Reinforcement Learning p.5](https://www.youtube.com/watch?v=t3fbETsIBCY)
+[^2]: [Deep Q Learning w/ DQN - Reinforcement Learning p.5](https://www.youtube.com/watch?v=t3fbETsIBCY)
 
 ![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Fwww.marktorr.com%2Fwp-content%2Fuploads%2F2017%2F06%2FNeuralNet.png&f=1&nofb=1&ipt=9e389e433d04f271a354706850e11893905368a5b2f568d4f47280865dac341a&ipo=images)
 
