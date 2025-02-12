@@ -11,6 +11,7 @@ tags: codingame AI GA
 - [Forty Years of Lunar Lander](https://technologizer.com/2009/07/19/lunar-lander/index.html)
 	- [I found a 55 year old bug in the first Lunar Lander game ](https://news.ycombinator.com/item?id=40680218)
 - [Mars Lander (codingame)](https://www.codingame.com/multiplayer/optimization/mars-lander)
+	- [Episode 1](https://www.codingame.com/ide/puzzle/mars-lander-episode-1)
 	- [A Dedicated Landing with a Genetic Algorithm](https://www.codingame.com/blog/genetic-algorithm-mars-lander/)
 		- [ genetic-algorithm-mars-lander](https://github.com/teekaytai/genetic-algorithm-mars-lander)
         - [youtube](https://www.youtube.com/watch?v=nfpbKCZy1s8)
