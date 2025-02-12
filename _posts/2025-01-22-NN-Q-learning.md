@@ -51,5 +51,5 @@ the Bellman equation for optimality
 
 ### see also
 - [Introducing Q-Learning](https://huggingface.co/learn/deep-rl-course/unit2/q-learning)
-
+- [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html) / [HN](https://news.ycombinator.com/item?id=11282797)
 ### Reference
