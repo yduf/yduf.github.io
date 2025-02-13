@@ -8,6 +8,10 @@ use_math: true
 
 One of the main historical motivations of introducing logarithms is the formula $log_b ⁡ ( x y ) = log_b ⁡ x + log_b ⁡ y $ 
 
+First known origin is from [Napier around 1614](https://en.wikipedia.org/wiki/History_of_logarithms)
+
+
+
 ### [Logarithmic scale](https://en.wikipedia.org/wiki/Logarithm#Logarithmic_scale)
 
 [ ![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Germany_Hyperinflation.svg/330px-Germany_Hyperinflation.svg.png) ](https://en.wikipedia.org/wiki/Logarithm#Logarithmic_scale)
