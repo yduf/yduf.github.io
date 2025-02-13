@@ -8,7 +8,7 @@ use_math: true
 
 One of the main historical motivations of introducing logarithms is the formula $log_b ⁡ ( x y ) = log_b ⁡ x + log_b ⁡ y $ 
 
-First known origin is from [Napier around 1614](https://en.wikipedia.org/wiki/History_of_logarithms)
+First known modern origin is from [Napier around 1614](https://en.wikipedia.org/wiki/History_of_logarithms). Napier worked decades before calculus was invented, the exponential function was understood, or coordinate geometry was developed by Descartes. But predecessor function sharing similarities dates from [2000 BC (quarter square multiplication), around 800 and 1544 (binary log) ](https://en.wikipedia.org/wiki/History_of_logarithms#Predecessors)
 
 
 
