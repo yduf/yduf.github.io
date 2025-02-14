@@ -37,7 +37,7 @@ Rather than uzing an explicit table, we will use a neural network to learn and a
 - the hidden layer is however need to be (convolution network / whatever)
 - the output layer will match the set of actions available to us and give the learned weigth.
 
-That way we are trade memory of the Q-table, for compactness of the NN, with same usage, but learning will take more time.
+That way we trade memory of the Q-table for compactness of the NN, with same usage, but learning will take more time.
 
 This is what is Deep Q-Learning [^2]
 
