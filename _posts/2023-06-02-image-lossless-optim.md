@@ -11,3 +11,6 @@ $ jpegoptim --all-normal --verbose $IN.jpg $OUT.jpg
 $ gifsicle -O3 --verbose -i $IN.gif -o $OUT.gif
 $ scour -i $IN.svg -o $OUT.svg
 {% endhighlight %}
+
+### see also
+- [pingo ](https://css-ig.net/pingo) - image optimizer for web
