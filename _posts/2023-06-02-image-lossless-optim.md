@@ -1,7 +1,7 @@
 ---
 published: true
 title: Losslessly Optimising Images
-tags: image zip
+tags: image zip web
 ---
 > there are a few tools you can use to losslessly optimise and reduce file sizes of various image formats. - [HN](https://news.ycombinator.com/item?id=32635906)
 
