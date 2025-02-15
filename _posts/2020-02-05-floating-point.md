@@ -12,7 +12,9 @@ tags: math float history c++
 
 > But why did DEC use 8 bits for the exponent in the F and D formats? The reason is to be able to represent all important physical constants, including the Plank constant (6.626070040 × 10^-34) and the Avogradro constant (6.022140857 × 10^23) - [SO](https://retrocomputing.stackexchange.com/questions/13493/where-did-the-free-parameters-of-ieee-754-come-from/13496#13496)
 
-see also
+[![caption](https://www.bitsnbites.eu/wp-content/uploads/2021/11/ieee754-single-precision-1.png)](https://www.bitsnbites.eu/i-want-to-show-a-thing-cpp-code-generation/)
+
+### see also
 - [Floating-point arithmetic (wikipedia)](https://en.wikipedia.org/wiki/Floating-point_arithmetic)
 - [floats, bits, and constant expressions](https://brnz.org/hbr/?p=1518) - Can you access the bits that represent an IEEE754 single precision float in a C++14 constant expression (constexpr)?
 - [The number of floats between 0 and 1](https://news.ycombinator.com/item?id=41390712)
