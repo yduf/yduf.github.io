@@ -10,6 +10,7 @@ tags: pico8 vscode
 [![caption](https://erika.florist/_astro/pico8.3926c591_Z27Efhn.avif)](https://erika.florist/wiki/computers/vscodepico8/)
 
 see also
+- [Using VS Code with PICO-8](https://erika.florist/wiki/computers/vscodepico8)
 - [Getting Started with Local Development for Pico-8 and VS Code](https://maxzsol.com/getting-started-with-local-development-for-pico-8-and-vs-code/)
 
 ## [Using VS Code with PICO-8](https://www.youtube.com/watch?v=srPKBhzgZhc)
