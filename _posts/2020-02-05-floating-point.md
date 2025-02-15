@@ -18,4 +18,4 @@ tags: math float history c++
 - [Floating-point arithmetic (wikipedia)](https://en.wikipedia.org/wiki/Floating-point_arithmetic)
 - [floats, bits, and constant expressions](https://brnz.org/hbr/?p=1518) - Can you access the bits that represent an IEEE754 single precision float in a C++14 constant expression (constexpr)?
 - [The number of floats between 0 and 1](https://news.ycombinator.com/item?id=41390712)
-- [C++ to machine code](https://www.bitsnbites.eu/i-want-to-show-a-thing-cpp-code-generation/)
+- [C++ to machine code](https://www.bitsnbites.eu/i-want-to-show-a-thing-cpp-code-generation/) - C++ code snippet that we will compile defines two public functions, get_exponent() and set_exponent() - match 2 asm instruction when compiled.
