@@ -5,6 +5,9 @@ tags: math avx intel matrix algebra
 ---
 > you can see mat mul a column (matrix) x scalar (from vector) - [3blueBrown](https://youtu.be/9-Jl0dxWQs8?si=C5rgn9DOmS4Pbymp&t=741)
 
+What are Tensor Cores?
+[![caption](https://img.youtube.com/vi/Cak8ASX7NOk/0.jpg)](https://www.youtube.com/watch?v=Cak8ASX7NOk)
+
 see also
 - [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 	- [The Tensor Cookbook](https://tensorcookbook.com/) / [HN](https://news.ycombinator.com/item?id=42890389)
