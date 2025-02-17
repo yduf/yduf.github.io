@@ -3,7 +3,7 @@ title: Nitrome Grames
 published: true
 tags: games pixelart indies
 ---
-## [Y8 directory](http://www.y8.com/tags/nitrome)
+> [Y8 directory](http://www.y8.com/tags/nitrome) / [Nitrome Games Soundtrack](https://www.youtube.com/watch?v=6Btw7KuRJME&t=18905s)
 
 [![caption](https://img.youtube.com/vi/6Btw7KuRJME/0.jpg)](https://www.youtube.com/watch?v=6Btw7KuRJME)
 
