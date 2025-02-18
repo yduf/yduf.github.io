@@ -18,3 +18,11 @@ $ sudo apt install mold
 
 $ sudo update-alternatives --install /usr/bin/ld ld $(which mold) 100
 {% endhighlight %}
+
+### [Why is mold so fast?](https://github.com/rui314/mold?tab=readme-ov-file#why-is-mold-so-fast)
+
+One reason is that it utilizes faster algorithms and more efficient data structures compared to other linkers. Another reason is that mold is highly parallelized.
+
+Here is a side-by-side comparison of per-core CPU usage for lld (left) and mold (right), linking the same program, a Chromium executable.
+
+[![caption](https://github.com/rui314/mold/raw/main/docs/htop.gif) ](https://github.com/rui314/mold)
