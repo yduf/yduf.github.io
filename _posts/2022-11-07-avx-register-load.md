@@ -1,6 +1,6 @@
 ---
 published: true
-title: Loading AVX Registers
+title: AVX Loading  Registers
 tags: c++ avx
 ---
 
