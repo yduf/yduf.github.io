@@ -3,7 +3,7 @@ published: true
 title: What *is* a Neural Network?
 tags: NN computer-vision 3blue1brown
 ---
-> But what *is* a Neural Network? - [3blue1brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+> But what *is* a Neural Network? - [3blue1brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) / [How Does a Neural Network Work in 60 seconds? ](https://www.youtube.com/shorts/Dbcx2_MO0LM)
 
 For those who want to learn more, I highly recommend the book by Michael Nielsen introducing neural networks and deep learning: [https://goo.gl/Zmczdy](https://goo.gl/Zmczdy).
 
