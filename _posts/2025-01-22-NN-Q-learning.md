@@ -28,7 +28,7 @@ In this situation there is a simple algorithm to learn that Q-function (and Q-ta
 [![caption](https://wikimedia.org/api/rest_v1/media/math/render/svg/a3a4d2ac903b1be02cc81e60de2e9f91d7025fec)](https://en.wikipedia.org/wiki/Q-learning#Algorithm)
 
 [^1]: [Q Learning Intro/Table - Reinforcement Learning p.1](https://www.youtube.com/watch?v=yMk_XtIEzH8&list=PLh9akXp2EH2D6RPP5ACPfG4D60XqhrXmC&index=3) / [writing](https://pythonprogramming.net/q-learning-reinforcement-learning-python-tutorial/)
-[^3]: [Q Learning Explained (tutorial)](https://www.youtube.com/watch?v=aCEvtRtNO-M) - Montecarlo vs TD.
+[^3]: [Q Learning Explained (tutorial)](https://www.youtube.com/watch?v=aCEvtRtNO-M) - Montecarlo vs TD. / [Q-Learning](https://www.geeksforgeeks.org/q-learning-in-python/)
 
 ### This World is to Big to fit in a table
 
