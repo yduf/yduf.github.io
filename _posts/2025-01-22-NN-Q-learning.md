@@ -47,7 +47,7 @@ This is what is Deep Q-Learning [^2]
 ![neural network illusation]()
 
 ### Notes
-the Bellman equation for optimality
+the function to learn the Q-function is the Bellman equation for optimality.
 
 
 ### see also
