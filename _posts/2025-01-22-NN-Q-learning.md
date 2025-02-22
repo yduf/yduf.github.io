@@ -23,7 +23,7 @@ a table for which each entries is a tuple identified the cell we are in (in our 
 
 $ [ x, y, z] \Rightarrow ( a_1, a_2, a_3, a_4)$
 
-In this situation there is a simple algorithm to learn that Q-function (and Q-table) by only looking at the reward of our actions (by simulating their outcome) ([^1])([^13)
+In this situation there is a simple algorithm to learn that Q-function (and Q-table) by only looking at the reward of our actions (by simulating their outcome) ([^1])([^3)
 
 [![caption](https://wikimedia.org/api/rest_v1/media/math/render/svg/a3a4d2ac903b1be02cc81e60de2e9f91d7025fec)](https://en.wikipedia.org/wiki/Q-learning#Algorithm)
 
