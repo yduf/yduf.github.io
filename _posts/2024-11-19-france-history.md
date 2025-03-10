@@ -10,6 +10,7 @@ tags: history
 - [Jean-Michel Aphatie annonce qu'il ne retournera pas à RTL après ses propos sur l'histoire coloniale en Algérie ](https://www.francetvinfo.fr/economie/medias/jean-michel-aphatie-annonce-qu-il-ne-retournera-pas-a-rtl-apres-ses-propos-sur-l-histoire-coloniale-en-algerie_7119690.html)
 	- [Jean-Michel Aphatie compare les massacres français en Algérie avec celui d'Oradour-sur-Glane](https://www.arretsurimages.net/articles/aphatie-mis-en-retrait-par-rtl-apres-ses-propos-sur-lalgerie-et-oradour) - _Les nazis n'existaient pas. On ne s'est pas comportés comme des nazis. Les nazis se sont comportés comme nous, nous l'avons fait en Algérie._
     - _Nous, ce que nous avons fait, c'est que les villageois algériens se réfugiaient dans des grottes. On a muré les grottes. On a mis du bois dans les grottes. On a allumé du feu et on les a asphyxiés_.
+    - [Le massacre de la tribu des El Ouffia](https://www.youtube.com/watch?v=mHm6YOIWt4w)
 
 see also
 - [The British Empire Was Much Worse Than You Realize](https://www.newyorker.com/magazine/2022/04/04/the-british-empire-was-much-worse-than-you-realize-caroline-elkinss-legacy-of-violence) / [HN](https://news.ycombinator.com/item?id=42558142) - The world’s biggest colonial power prided itself on being a liberal democracy. Was this part of the problem?
