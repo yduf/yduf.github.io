@@ -7,3 +7,4 @@ tags: debug-c++ vscode
 
 - [rr](https://rr-project.org/) / [HN](https://news.ycombinator.com/item?id=41023547) - record and replay debugger for C/C++
 	- [Using rr in an IDE](https://github-wiki-see.page/m/rr-debugger/rr/wiki/Using-rr-in-an-IDE)
+- [CodeTracer](https://news.ycombinator.com/item?id=43280615) - A time-traveling debugger implemented in Nim and Rust
