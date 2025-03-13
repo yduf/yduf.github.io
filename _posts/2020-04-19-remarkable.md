@@ -50,7 +50,7 @@ Host remarkable
 crop=smart&auto=webp&s=de4e46cff9a739175965e561c5f561720660413c)
 
 ### Calendar
-- [ReCalendar](https://recalendar.me/) / [r/RemarkableTablet](https://www.reddit.com/r/RemarkableTablet/comments/odpl07/recalendar_opensource_highly_customizable/?utm_source=share&utm_medium=web2x&context=3) -   open-source, highly customizable calendar for ReMarkable tablets. Everything is done in your browser.
+- [ReCalendar](https://recalendar.me/) / [r/RemarkableTablet](https://www.reddit.com/r/RemarkableTablet/comremarkable pen compatible withments/odpl07/recalendar_opensource_highly_customizable/?utm_source=share&utm_medium=web2x&context=3) -   open-source, highly customizable calendar for ReMarkable tablets. Everything is done in your browser.
 	- [A quiet endorsement of recalendar.me](https://www.reddit.com/r/RemarkableTablet/comments/vfcddu/a_quiet_endorsement_of_recalendarme/)
 
 ## Customization
@@ -175,7 +175,7 @@ The stylus communicates wirelessly. The pressure sensitivity is in the stylus it
 - [**Ratta Supernote A5 X**](https://youtu.be/ObU8-lxORPg?t=195) / [Best E-Ink Note Taking Reader Devices Of  2022](https://www.youtube.com/watch?v=h5cqc_CP1s0) / [2021](https://youtu.be/jvPvp5_P0o8?t=710) / [/r/Supernote](https://www.reddit.com/r/Supernote/)
 	- [Where To Purchase?](https://www.reddit.com/r/Supernote/comments/pzjc91/where_to_purchase/) / [2](https://www.reddit.com/r/Supernote/comments/p0e65f/where_do_you_buy_your_supernote_ax5/) => [supernote.com](https://supernote.com/) - min price 675€
 
-- [PineNote](https://www.pine64.org/pinenote/) - **new** but **raw dev**
+- [PineNote]({% post_url 2025-03-13-epaper-pinenote %}) - **new** but **raw dev**
 
 - [Onyx Boox Max Air (closest)](https://www.youtube.com/watch?v=EdQ5sXTJRMI) / [r/Onyx_Boox](https://www.reddit.com/r/Onyx_Boox/)
 - [Onyx Boox Max Lumi](https://www.youtube.com/watch?v=0SIRcxobTnA) / [Home](https://www.boox.com/maxlumi/)
