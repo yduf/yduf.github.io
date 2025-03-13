@@ -24,3 +24,5 @@ More detailed explaination on narrowing range search:
 ### see also
 - [Hilbert's Curve: Is infinite math useful? (3blue1Brown)](https://www.youtube.com/watch?v=3s7h2MHQtxc)
 - [	Experiment with Penrose Tilings and other patterns](https://news.ycombinator.com/item?id=33818693) / [Pattern Collider](https://github.com/aatishb/patterncollider#readme)
+
+- [Google’s S2, geometry on the sphere, cells and Hilbert curve](https://blog.christianperone.com/2015/08/googles-s2-geometry-on-the-sphere-cells-and-hilbert-curve/)
