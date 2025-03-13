@@ -19,6 +19,8 @@ More detailed explaination on narrowing range search:
 
 ![caption](https://i.stack.imgur.com/Lqa16.png)
 
-see also:
+- [HN](https://news.ycombinator.com/item?id=41061630) - An interesting variant of space-filling curves + dimensionality reduction is [Geohash](https://en.wikipedia.org/wiki/Geohash] [^:1](http://geohash.org/) which takes a lon/lat and uses a Z-curve approach to produce a hash such as `u4pruydqqvj` representing the location. 
+
+### see also
 - [Hilbert's Curve: Is infinite math useful? (3blue1Brown)](https://www.youtube.com/watch?v=3s7h2MHQtxc)
 - [	Experiment with Penrose Tilings and other patterns](https://news.ycombinator.com/item?id=33818693) / [Pattern Collider](https://github.com/aatishb/patterncollider#readme)
