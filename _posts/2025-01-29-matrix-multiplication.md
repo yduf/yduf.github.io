@@ -18,3 +18,4 @@ see also
 
 see also
 - [Matrix Multiplication](http://matrixmultiplication.xyz/) - animated computation / [HN](https://news.ycombinator.com/item?id=13036386)
+- [ Hierarchical Tiling to speed up my Matrix Multiplication ](https://www.youtube.com/watch?v=KniNW8Xe4Us)
