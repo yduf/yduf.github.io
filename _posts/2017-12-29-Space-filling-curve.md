@@ -1,7 +1,9 @@
 ---
 title: Space filling curve
 published: true
-tags: math  3blue1brown range search index space curve morton-code penrose
+tags: >-
+  math 3blue1brown range search map index earth space hash curve morton-code
+  penrose
 ---
 > [**Peano curve (1890)**](https://en.wikipedia.org/wiki/Peano_curve) the first example of a space-filling curve to be discovered.
 
