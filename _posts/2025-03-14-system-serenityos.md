@@ -3,4 +3,6 @@ title: Serenity OS
 published: true
 tags: system QEMU driver
 ---
-> [Bringing SerenityOS to real hardware, one driver at a time ](https://news.ycombinator.com/item?id=42636086) - [youtube](https://www.youtube.com/watch?v=ZOzZ8R4gphE&t=1677s) / [github](https://github.com/SerenityOS/serenity)
+> [Bringing SerenityOS to real hardware, one driver at a time ](https://news.ycombinator.com/item?id=42636086) - [ Andreas Kling ](https://www.youtube.com/channel/UC3ts8coMP645hZw9JSD3pqQ) / [github](https://github.com/SerenityOS/serenity)
+
+[![caption](https://github.com/SerenityOS/serenity/raw/master/Meta/Screenshots/screenshot-c03b788.png)](https://github.com/SerenityOS/serenity#serenityos)
