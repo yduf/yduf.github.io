@@ -10,6 +10,8 @@ One of the main historical motivations of introducing logarithms is the formula 
 
 First known modern origin is from [Napier around 1614](https://en.wikipedia.org/wiki/History_of_logarithms). Napier worked decades before calculus was invented, the exponential function was understood, or coordinate geometry was developed by Descartes. But predecessor function sharing similarities dates from [-2000 (quarter square multiplication), around 800 and 1544 (binary log) ](https://en.wikipedia.org/wiki/History_of_logarithms#Predecessors)
 
+see also
+- [The Lost Art of Logarithms](https://www.lostartoflogarithms.com/) / [HN](https://news.ycombinator.com/item?id=43356314)
 
 ### [Logarithmic scale](https://en.wikipedia.org/wiki/Logarithm#Logarithmic_scale)
 
