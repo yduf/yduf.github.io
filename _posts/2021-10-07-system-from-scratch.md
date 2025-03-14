@@ -7,7 +7,7 @@ tags: system quote
 
 - [Writing a “bare metal” operating system for Raspberry Pi 4](https://news.ycombinator.com/item?id=28774022)
 
-- [	SerenityOS](https://news.ycombinator.com/item?id=19986126) / [ Andreas Kling ](https://www.youtube.com/channel/UC3ts8coMP645hZw9JSD3pqQ) - a graphical Unix-like OS for x86, with 90s aesthetics
+- [	SerenityOS]({% post_url 2025-03-14-system-serenityos %}) - a graphical Unix-like OS for x86, with 90s aesthetics
 
 - [	I wrote a display server, a desktop environment, and a debugging/reversing tool ](https://news.ycombinator.com/item?id=11785479)
 
