@@ -20,7 +20,7 @@ void sort() {
 }
 {% endhighlight %}
 
-see also
+### see also
 - [Quicksort Algorithm in Five Lines of Code! ](https://www.youtube.com/watch?v=OKc2hAmMOY4) - but not in place
 
 [ ![caption](https://github.com/radiantly/simplest-sort/raw/main/demo/screencast.gif)](https://github.com/radiantly/simplest-sort)
