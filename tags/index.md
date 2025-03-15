@@ -44,6 +44,42 @@ title: Tags
 <!-- tag_words sorted: -->
 {% assign tag_words = site_tags | split:',' | sort_natural %}
 
+
+<!-- tags relationship: -->
+<div id="test">
+{% assign all_tags = site_tags %}
+
+{% assign tag_list = tag_words %}
+
+<ul>
+  {% for tag in tag_list %}
+    <li>
+      <strong>{{ tag }}</strong>: 
+      {% assign related_tags = "" %}
+      
+      {% for post in site.posts %}
+        {% if post.tags contains tag %}
+          {% for related_tag in post.tags %}
+            {% unless related_tag == tag or related_tags contains related_tag %}
+              {% assign related_tags = related_tags | append: related_tag | append: "," %}
+            {% endunless %}
+          {% endfor %}
+        {% endif %}
+      {% endfor %}
+      
+      {% assign related_tag_list = related_tags | split: "," | sort %}
+      
+      {% for related_tag in related_tag_list %}
+        {% if related_tag != "" %}
+          <a href="/tags/{{ related_tag | slugify }}/">{{ related_tag }}</a>{% unless forloop.last %}, {% endunless %}
+        {% endif %}
+      {% endfor %}
+    </li>
+  {% endfor %}
+</ul>
+</div>
+
+
 <!-- Floating Graph Container -->
 <div id="graph-container">
   <svg width="400" height="400">
@@ -95,8 +131,30 @@ title: Tags
         { "name": "{{ tag }}", "size": {{ site.tags[tag] | size | times: 1.4 | plus: 10 }}, "id": "{{ tag | slugify }}-ref" },
     {% endfor %}
       ],
+
       "links": [
        // { "source": "Machine Learning", "target": "Artificial Intelligence" },
+    {% for tag in tag_list %}
+      {% assign related_tags = "" %}
+      
+      {% for post in site.posts %}
+        {% if post.tags contains tag %}
+          {% for related_tag in post.tags %}
+            {% unless related_tag == tag or related_tags contains related_tag %}
+              {% assign related_tags = related_tags | append: related_tag | append: "," %}
+            {% endunless %}
+          {% endfor %}
+        {% endif %}
+      {% endfor %}
+      
+      {% assign related_tag_list = related_tags | split: "," | sort %}
+      
+      {% for related_tag in related_tag_list %}
+        {% if related_tag != "" %}
+          { "source": "{{ tag | slugify }}-ref", "target": "{{ related_tag | slugify }}-ref" },
+        {% endif %}
+      {% endfor %}
+   {% endfor %}
       ]
     };
     
@@ -116,7 +174,7 @@ title: Tags
     
     const simulation = d3.forceSimulation(data.nodes)
       .force("link", d3.forceLink(data.links).id(d => d.id).distance(80))
-      .force("charge", d3.forceManyBody().strength(-30))
+      .force("charge", d3.forceManyBody().strength(-200))
       .force("center", d3.forceCenter(width / 2, height / 2));
 
     const link = zoomLayer.append("g")
@@ -135,6 +193,7 @@ title: Tags
       .attr("fill", "steelblue")
       .style("cursor", "pointer")
       .on("click", (event, d) => {
+        highlightNode(d);
         // Scroll to the relevant section
         document.getElementById(d.id).scrollIntoView({ behavior: "smooth" });
       })
@@ -199,6 +258,36 @@ title: Tags
         d3.zoomIdentity.translate(width / 2 - scale * x, height / 2 - scale * y).scale(scale)
       );
     }
+
+  // Function to highlight a node and its neighbors
+function highlightNode(selectedNode) {
+  const neighbors = new Set();
+  data.links.forEach(link => {
+    if (link.source.id === selectedNode.id) neighbors.add(link.target.id);
+    if (link.target.id === selectedNode.id) neighbors.add(link.source.id);
+  });
+
+  // Change node colors
+  node.transition().duration(300)
+    .attr("fill", d => d.id === selectedNode.id ? "orange" : (neighbors.has(d.id) ? "red" : "lightgray"));
+
+  // Change link colors
+  link.transition().duration(300)
+    .attr("stroke", d => (d.source.id === selectedNode.id || d.target.id === selectedNode.id) ? "red" : "#ddd")
+    .attr("stroke-width", d => (d.source.id === selectedNode.id || d.target.id === selectedNode.id) ? 3 : 1);
+
+  // Increase attraction between selected node and neighbors
+  simulation.force("link")
+    .strength(d => (d.source.id === selectedNode.id || d.target.id === selectedNode.id) ? 1 : 0.1)
+    .distance(d => (d.source.id === selectedNode.id || d.target.id === selectedNode.id) ? 40 : 100);
+
+  // Reduce repulsion force for selected node and its neighbors
+  simulation.force("charge")
+    .strength(d => (d.id === selectedNode.id || neighbors.has(d.id)) ? -20 : -200);
+
+  // Restart simulation with new forces
+  simulation.alpha(1).restart();
+}
 
     // Attach click event to topic sections
     document.querySelectorAll('.topic-section').forEach(header => {
