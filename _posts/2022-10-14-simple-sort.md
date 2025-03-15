@@ -5,6 +5,12 @@ tags: sort
 ---
 > Simple and innefficient - [HN](https://news.ycombinator.com/item?id=28758106) / [arxiv.org](https://arxiv.org/pdf/2110.01111.pdf)
 
+[This isn't Bubble Sort](https://news.ycombinator.com/item?id=43162982)
+- In bubble sort you see if two things are the wrong way round and it they are then you swap them. This does that (sort of) the "wrong way round".
+- In Bubble Sort your indices are always i<j ... here they aren't.
+- In Bubble Sort you only ever compare adjacent items. Here you don't.
+- This really, really isn't Bubble Sort, unoptimised or other.
+
 {% highlight cpp %}
 void sort() {
     for( int i = 0; i < N; i++)
