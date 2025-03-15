@@ -14,6 +14,8 @@ title: Tags
   
   /* Floating Graph Container */
   #graph-container {
+    display: none; /* Initially hide the graph */
+
     position: fixed;
     top: 10px;
     right: 10px;
@@ -27,6 +29,21 @@ title: Tags
     padding: 10px;
     z-index: 1000;
   }
+        
+  .toggle-btn {
+      position: fixed;
+      top: 10px;
+      right: 10px;
+      padding: 8px 12px;
+      background: steelblue;
+      color: white;
+      border: none;
+      cursor: pointer;
+  }
+  .toggle-checkbox {
+      margin: 0 5px;
+  }
+
 
   /* Topic Sections */
   .topic-section {
@@ -36,6 +53,19 @@ title: Tags
     border: 1px solid #ddd;
     background: #f9f9f9;
   */}
+
+/* Style for the floating window */
+.floating-window {
+  position: fixed;
+  left: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
+  z-index: 1000; /* Ensure the button is on top of other content */
+}
 </style>
 
 <!-- site_tags:  -->
@@ -46,39 +76,16 @@ title: Tags
 
 
 <!-- tags relationship: -->
-<div id="test">
 {% assign all_tags = site_tags %}
-
 {% assign tag_list = tag_words %}
 
-<ul>
-  {% for tag in tag_list %}
-    <li>
-      <strong>{{ tag }}</strong>: 
-      {% assign related_tags = "" %}
-      
-      {% for post in site.posts %}
-        {% if post.tags contains tag %}
-          {% for related_tag in post.tags %}
-            {% unless related_tag == tag or related_tags contains related_tag %}
-              {% assign related_tags = related_tags | append: related_tag | append: "," %}
-            {% endunless %}
-          {% endfor %}
-        {% endif %}
-      {% endfor %}
-      
-      {% assign related_tag_list = related_tags | split: "," | sort %}
-      
-      {% for related_tag in related_tag_list %}
-        {% if related_tag != "" %}
-          <a href="/tags/{{ related_tag | slugify }}/">{{ related_tag }}</a>{% unless forloop.last %}, {% endunless %}
-        {% endif %}
-      {% endfor %}
-    </li>
-  {% endfor %}
-</ul>
+<!-- Toggle Button for Graph Visibility -->
+<div class="floating-window">
+<label>
+    <input type="checkbox" class="toggle-checkbox" id="toggleGraph" />
+    Show Graph
+</label>
 </div>
-
 
 <!-- Floating Graph Container -->
 <div id="graph-container">
@@ -91,18 +98,34 @@ title: Tags
 
 
 <div id="tags">
-<!--
-  <ul class="tag-box inline">
-  {% for tag in tag_words %}
-    <li><a href="#{{ tag | slugify }}-ref">{{ tag | replace: '-', ' ' }} <span>{{ site.tags[tag] | size }}</span></a></li>
-  {% endfor %}
-  </ul>
- -->
-
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
   <div id="{{ this_word | slugify }}-ref"  class="topic-section">
     <h2>{{ this_word }}</h2>
+<!-- other tags appearing in posts related to this tag -->
+      {% assign related_tags = "" %}
+      
+      {% for post in site.tags[this_word] %}
+          {% for related_tag in post.tags %}
+            {% unless related_tag == this_word or related_tags contains related_tag %}
+              {% assign related_tags = related_tags | append: related_tag | append: "," %}
+            {% endunless %}
+          {% endfor %}
+      {% endfor %}
+      
+      {% assign related_tag_list = related_tags | split: "," | sort_natural %}
+<details>
+    <summary style="font-size: 0.8em;">related tags</summary>
+      <p style="font-size: 0.8em;">
+      {% for related_tag in related_tag_list %}
+        {% if related_tag != "" %}
+          <a href="#{{ related_tag | slugify }}-ref">{{ related_tag }}</a>{% unless forloop.last %},{% endunless %}
+        {% endif %}
+      {% endfor %}
+      </p>
+</details>
+
+<!-- posts related to main tag -->
     <ul class="posts">
       {% assign sortedPosts = site.tags[this_word] | sort_natural: 'title' %}
       {% for post in sortedPosts %}{% if post.title != null %}
@@ -137,27 +160,23 @@ title: Tags
     {% for tag in tag_list %}
       {% assign related_tags = "" %}
       
-      {% for post in site.posts %}
-        {% if post.tags contains tag %}
+      {% for post in site.tags[tag] %}
           {% for related_tag in post.tags %}
             {% unless related_tag == tag or related_tags contains related_tag %}
               {% assign related_tags = related_tags | append: related_tag | append: "," %}
             {% endunless %}
           {% endfor %}
-        {% endif %}
       {% endfor %}
       
       {% assign related_tag_list = related_tags | split: "," | sort %}
       
-      {% for related_tag in related_tag_list %}
-        {% if related_tag != "" %}
-          { "source": "{{ tag | slugify }}-ref", "target": "{{ related_tag | slugify }}-ref" },
-        {% endif %}
-      {% endfor %}
-   {% endfor %}
+{% for related_tag in related_tag_list %}{% if related_tag != "" %}
+{ "source": "{{ tag | slugify }}-ref", "target": "{{ related_tag | slugify }}-ref" },{% endif %}{% endfor %}{% endfor %}
       ]
     };
     
+    const graphContainer = document.getElementById("graph-container");
+    const toggleGraphCheckbox = document.getElementById("toggleGraph");
 
     const svg = d3.select("svg");
     const zoomLayer = d3.select("#zoomLayer");
@@ -244,20 +263,22 @@ title: Tags
       d.fy = null;
     }
 
-    // Function to focus the graph on a topic
-    function focusOnTopic(topicId) {
-      const topic = data.nodes.find(node => node.id === topicId);
-      if (!topic) return;
+// Function to focus the graph on a topic
+function focusOnTopic(topicId) {
+  const topic = data.nodes.find(node => node.id === topicId);
+  if (!topic) return;
 
-      const scale = 2;  // Zoom in factor
-      const x = topic.x;
-      const y = topic.y;
+  highlightNode( topic);
 
-      svg.transition().duration(750).call(
-        zoom.transform,
-        d3.zoomIdentity.translate(width / 2 - scale * x, height / 2 - scale * y).scale(scale)
-      );
-    }
+  const scale = 2;  // Zoom in factor
+  const x = topic.x;
+  const y = topic.y;
+
+  svg.transition().duration(750).call(
+    zoom.transform,
+    d3.zoomIdentity.translate(width / 2 - scale * x, height / 2 - scale * y).scale(scale)
+  );
+}
 
   // Function to highlight a node and its neighbors
 function highlightNode(selectedNode) {
@@ -276,24 +297,69 @@ function highlightNode(selectedNode) {
     .attr("stroke", d => (d.source.id === selectedNode.id || d.target.id === selectedNode.id) ? "red" : "#ddd")
     .attr("stroke-width", d => (d.source.id === selectedNode.id || d.target.id === selectedNode.id) ? 3 : 1);
 
+  // Move selected node and neighbors to the front
+  node.filter(d => d.id === selectedNode.id || neighbors.has(d.id)).each(function () {
+    d3.select(this).raise(); // Bring to top
+  });
+
+  // Move labels on top too
+  labels.filter(d => d.id === selectedNode.id || neighbors.has(d.id)).each(function () {
+    d3.select(this).raise();
+  });
+
   // Increase attraction between selected node and neighbors
   simulation.force("link")
     .strength(d => (d.source.id === selectedNode.id || d.target.id === selectedNode.id) ? 1 : 0.1)
-    .distance(d => (d.source.id === selectedNode.id || d.target.id === selectedNode.id) ? 40 : 100);
+    .distance(d => (d.source.id === selectedNode.id || d.target.id === selectedNode.id) ? 60 : 100);
 
   // Reduce repulsion force for selected node and its neighbors
   simulation.force("charge")
-    .strength(d => (d.id === selectedNode.id || neighbors.has(d.id)) ? -20 : -200);
+    .strength(d => (d.id === selectedNode.id || neighbors.has(d.id)) ? -50 : -200);
 
   // Restart simulation with new forces
   simulation.alpha(1).restart();
 }
 
-    // Attach click event to topic sections
-    document.querySelectorAll('.topic-section').forEach(header => {
-      header.addEventListener('click', function () {
-        const topicId = this.id;
-        focusOnTopic(topicId);
-      });
-    });
-  </script>
+// Attach click event to topic sections
+document.querySelectorAll('.topic-section').forEach(header => {
+  header.addEventListener('click', function () {
+    const topicId = this.id;
+    focusOnTopic(topicId);
+  });
+});
+
+// Show/Hide Graph Based on Checkbox
+function hideGraph(enabled) {
+    if (enabled) {
+        // Show the graph container
+        graphContainer.style.display = "block";
+        simulation.alpha(1).restart(); // Restart the simulation if shown
+        // drawGraph();
+    } else {
+        // Hide the graph container
+        graphContainer.style.display = "none";
+        simulation.stop(); // Stop the simulation if hidden
+    }
+}
+
+toggleGraphCheckbox.addEventListener("change", () => {
+  hideGraph(toggleGraphCheckbox.checked )
+});
+
+// Optional: Save user preference for graph visibility (localStorage)
+const savedPreference = localStorage.getItem("graphVisibility");
+if (savedPreference === "shown") {
+    toggleGraphCheckbox.checked = true;
+    hideGraph(toggleGraphCheckbox.checked )
+} else {
+    toggleGraphCheckbox.checked = false;
+    hideGraph(toggleGraphCheckbox.checked )
+}
+
+// Save the preference when the user toggles the checkbox
+toggleGraphCheckbox.addEventListener("change", () => {
+    const visibility = toggleGraphCheckbox.checked ? "shown" : "hidden";
+    localStorage.setItem("graphVisibility", visibility);
+});
+
+</script>
