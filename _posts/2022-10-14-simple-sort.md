@@ -7,8 +7,8 @@ tags: sort
 
 [This isn't Bubble Sort](https://news.ycombinator.com/item?id=43162982)
 - In bubble sort you see if two things are the wrong way round and it they are then you swap them. This does that (sort of) the "wrong way round".
-- In Bubble Sort your indices are always i<j ... here they aren't.
-- In Bubble Sort you only ever compare adjacent items. [Here you don't](https://www.youtube.com/watch?v=8raee-rvBw0).
+- In Bubble Sort your indices are always i<j ... [here they aren't](https://www.youtube.com/watch?v=8raee-rvBw0).
+- In Bubble Sort you only ever compare adjacent items. [Here you don't](https://www.youtube.com/watch?v=bydMm4cJDeU).
 - This really, really isn't Bubble Sort, unoptimised or other.
 
 {% highlight cpp %}
