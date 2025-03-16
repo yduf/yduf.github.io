@@ -1,0 +1,6 @@
+---
+title: Shipping Project
+published: true
+tags: project work
+---
+> Shipping is a social construct within a company. Concretely, that means that a project is shipped when the important people at your company believe it is shipped. - [	How I ship projects at big tech companies]() / [HN](https://news.ycombinator.com/item?id=42111031)
