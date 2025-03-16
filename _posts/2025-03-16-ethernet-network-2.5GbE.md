@@ -10,4 +10,7 @@ tags: network ethernet
 
 ### N305 hardware
 
+- [MNBOXCONET N305 NAS Carte mère DDR5 Low Power, Mini ITX](https://www.amazon.fr/MNBOXCONET-SATA3-0-PCle3-0-Barebone-2-5GBE/dp/B0DJ7BYPCS) 
+- [HKUXZR N305 Carte mère Industrielle NAS 8 cœurs](https://www.amazon.fr/HKUXZR-Industrielle-Processeur-Puissance-r%C3%A9seau/dp/B0DJ7LJZ3P)
+
 [ ![caption](https://m.media-amazon.com/images/I/71v+5aNBH+L._AC_SL1500_.jpg) ](https://www.amazon.fr/HKUXZR-Industrielle-Processeur-Puissance-r%C3%A9seau/dp/B0DJ7LJZ3P)
