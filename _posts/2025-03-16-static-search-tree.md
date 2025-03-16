@@ -7,4 +7,6 @@ tags: search tree
 
 Focus on S+ trees - ~27ns overhead for searching for a u32 in a 4GB set in memory
 
-Eytzinger layout
+### [Eytzinger layout](https://algorithmica.org/en/eytzinger)
+
+[![caption](https://algorithmica.org/en/img/eytzinger.png)](https://algorithmica.org/en/eytzinger)
