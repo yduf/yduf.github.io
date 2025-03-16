@@ -6,7 +6,7 @@ permalink: /about/
 
 Hello! 
 
-You have found my recreative site, where I track funny things, ideas and some of my personnal projects.
+You have found my recreative place, where I track funny things, ideas and some of my personnal projects.
 
 There probably nothing of interests here, except for me of course. This is not even a blog.
 It begins as way to move my bookmarks from my browser to a shared place that I can access from anywhere. It also allows me to go deeper on topics, joting notes around as time goes by.
