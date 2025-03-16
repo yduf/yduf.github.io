@@ -5,4 +5,4 @@ tags: network ethernet
 ---
 > 
 
-- [Zyxel 5-Port PoE 2.5G Multi-Gig Unmanaged Switch](Multi-Gig 12-Port Unmanaged Switch) - 106€
+- [Zyxel 5-Port PoE 2.5G Multi-Gig Unmanaged Switch](Multi-Gig 12-Port Unmanaged Switch) - 83/106€
