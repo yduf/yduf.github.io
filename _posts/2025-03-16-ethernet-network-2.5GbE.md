@@ -7,3 +7,7 @@ tags: network ethernet
 
 - [2.5GbE Networking on Linux](https://virtualizationreview.com/articles/2021/05/05/linux-networking.aspx)
 - [Zyxel 5-Port PoE 2.5G Multi-Gig Unmanaged Switch](Multi-Gig 12-Port Unmanaged Switch) - 83/106€
+
+### N305 hardware
+
+[ ![caption](https://m.media-amazon.com/images/I/71v+5aNBH+L._AC_SL1500_.jpg) ](https://www.amazon.fr/HKUXZR-Industrielle-Processeur-Puissance-r%C3%A9seau/dp/B0DJ7LJZ3P)
