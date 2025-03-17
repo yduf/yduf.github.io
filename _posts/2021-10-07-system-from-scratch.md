@@ -12,5 +12,6 @@ tags: system quote
 - [	Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2023/xv6.html) / [HN](https://news.ycombinator.com/item?id=40613126)
 
 - [minix 3](https://news.ycombinator.com/item?id=41671690) - Deader than disco.
+- [ Trying to find a post about some OS developer in the 80s coding by hand](https://news.ycombinator.com/item?id=42779117)
 
 [![caption](https://github.com/SerenityOS/serenity/raw/master/Meta/Screenshots/screenshot-c03b788.png)](https://github.com/SerenityOS/serenity#serenityos)
