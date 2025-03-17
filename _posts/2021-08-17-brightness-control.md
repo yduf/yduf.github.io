@@ -8,7 +8,7 @@ tags: screen display brightness daylight macos-system
 [**Brightness Controller**](https://github.com/lordamit/Brightness) changes [gamma]({% post_url 2020-06-29-redshift %}) and not hardware setting and as such is equivalent to `xrandr`.
 
 see also
-- [	How to improve your WFH lighting to reduce eye strain ](https://news.ycombinator.com/item?id=42796950)
+- [	How to improve your WFH lighting to reduce eye strain ](https://news.ycombinator.com/item?id=42796950) - When it comes to light brightness, too much is just as problematic as too little
 
 ## [Display Data Channel](https://en.wikipedia.org/wiki/Display_Data_Channel)
 Enable the display to communicate its supported display modes to the adapter and that enable the computer host to adjust monitor parameters, such as brightness and contrast.
