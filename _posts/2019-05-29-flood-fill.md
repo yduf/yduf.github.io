@@ -9,7 +9,7 @@ tags: algorithm flood-fill diffusion map codingame pathfinding
 
 ### [Jump Flood Algorithm (2006)](https://en.wikipedia.org/wiki/Jump_flooding_algorithm)
 
-a flooding algorithm used in the construction of Voronoi diagrams and distance transforms. 
+A flooding algorithm used in the construction of Voronoi diagrams and distance transforms. 
 
 Note that the 'Jump Flood Algorithm' is O(N log N) where N is the number of pixels. There is a better O(N) algorithm which can be parallelized over the number of rows/columns of an image, Unfortunately, it requires random access writes. - [HN](https://news.ycombinator.com/item?id=42595158)
 
