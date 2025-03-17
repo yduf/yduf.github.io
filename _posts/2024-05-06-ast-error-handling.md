@@ -1,5 +1,5 @@
 ---
-title: AST Error handling
+title: AST Structure & Error handling
 published: true
 tags: compiler AST error poisoning
 ---
@@ -8,3 +8,5 @@ tags: compiler AST error poisoning
 > It works far better than attempting to repair the AST into some plausible state.
 >
 > It's analogous to the propagation of NaN values in floating point code. - [HN](https://news.ycombinator.com/item?id=40278184)
+
+- [Flattening ASTs (and Other Compiler Data Structures)](https://www.cs.cornell.edu/~asampson/blog/flattening.html) / [HN](https://news.ycombinator.com/item?id=42659061)
