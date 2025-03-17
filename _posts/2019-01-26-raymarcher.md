@@ -10,6 +10,10 @@ tags: raytracing shader ray-marching distance intersection
 - [Encore MIEUX que le RAY TRACING ?](https://www.youtube.com/watch?v=K9yrtyLKysA)
 - [An introduction to Raymarching](https://www.youtube.com/watch?v=khblXafu7iA)
 
+- [Learn Shader Programming with Rick and Morty](https://danielchasehooper.com/posts/code-animated-rick/) / [HN](https://news.ycombinator.com/item?id=42958696)
+
+
+
 ## [Coding Adventure](https://www.youtube.com/watch?v=Cp5WWtMoeKg)
 
 [![caption](https://img.youtube.com/vi/XuSnLbB1j6E/0.jpg)](https://www.youtube.com/watch?v=XuSnLbB1j6E)
