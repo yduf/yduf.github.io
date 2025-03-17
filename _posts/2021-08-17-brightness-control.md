@@ -9,6 +9,8 @@ tags: screen display brightness daylight macos-system
 
 see also
 - [	How to improve your WFH lighting to reduce eye strain ](https://news.ycombinator.com/item?id=42796950) - When it comes to light brightness, too much is just as problematic as too little
+	- An even, diffused lighting environment is best for the eyes. 
+    - Even the perfect lighting environment will fatigue you — take breaks, and think beyond lighting!
 
 ## [Display Data Channel](https://en.wikipedia.org/wiki/Display_Data_Channel)
 Enable the display to communicate its supported display modes to the adapter and that enable the computer host to adjust monitor parameters, such as brightness and contrast.
