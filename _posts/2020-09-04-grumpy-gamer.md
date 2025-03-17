@@ -15,3 +15,9 @@ tags: codingame adventure quote json blog-people
 - [JSON](https://grumpygamer.com/json)
 - [Linux laptop](https://grumpygamer.com/my_linux_laptop)
 - [Delores Source Code Released!](https://grumpygamer.com/delores_dev) / [github](https://github.com/grumpygamer/DeloresDev)
+
+### see also
+- [	A Pixel Parable](https://olano.dev/blog/a-pixel-parable/) / [HN](https://news.ycombinator.com/item?id=42606433) - Mark Ferrari story at LucasFilm Games.
+
+[ ![caption](https://olano.dev/assets/img/parable/sunset.png) ](https://olano.dev/blog/a-pixel-parable/)
+
