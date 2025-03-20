@@ -16,6 +16,7 @@ see also
 - [	A colorful Game of Life](https://news.ycombinator.com/item?id=42961868)
 - [Artificial Life (Simulation & Code)](https://www.youtube.com/watch?v=0Kx4Y9TVMGg) - 4 particle with different interaction forces / [github](https://github.com/hunar4321/particle-life) / [live](https://hunar4321.github.io/particle-life/particle_life.html#91651088029)
 - [How does the _mm256_shuffle_epi8 make sense in this Game of Life implementation?](https://stackoverflow.com/questions/54551462/how-does-the-mm256-shuffle-epi8-make-sense-in-this-game-of-life-implementation)
+- [What Can We Learn about Engineering and Innovation from Half a Century of the Game of Life Cellular Automaton?](https://writings.stephenwolfram.com/2025/03/what-can-we-learn-about-engineering-and-innovation-from-half-a-century-of-the-game-of-life-cellular-automaton/) / [HN](https://news.ycombinator.com/item?id=43410349) - "Computation irreducibility"[0] is Mr. Wolfram's word for it 
 
 ![caption](https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif)
 
