@@ -6,7 +6,7 @@ tags: vscode ruby debug
 > Ruby integration with VSCode 
 
 **Deprecated** 
-- [Ruby by Peng Lv](https://betterprogramming.pub/code-like-a-pro-tooling-to-supercharge-vs-code-for-ruby-bf2ae61df5e3?gi=9dbd1898926e) / [github](https://github.com/rubyide/vscode-ruby?tab=readme-ov-file#deprecated) - replaced by Ruby LSP from Shopify.
+- [Ruby by Peng Lv](https://betterprogramming.pub/code-like-a-pro-tooling-to-supercharge-vs-code-for-ruby-bf2ae61df5e3?gi=9dbd1898926e) / [github](https://github.com/rubyide/vscode-ruby?tab=readme-ov-file#deprecated) - replaced by [Ruby LSP from Shopify](https://code.visualstudio.com/docs/languages/ruby)
 
 Add also:
 - [Solargraph](https://solargraph.org/) + [Ruby Solargraph](https://marketplace.visualstudio.com/items?itemName=castwide.solargraph) - a language server that provides intellisense, code completion, and inline documentation for Ruby.
