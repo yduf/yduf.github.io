@@ -8,14 +8,18 @@ tags: vscode ruby debug
 Recommandation is to combine:
 - [Ruby LSP from Shopify](https://code.visualstudio.com/docs/languages/ruby) - for easy navigation
 - [VSCode Ruby rdbg Debugger](https://github.com/ruby/vscode-rdbg?tab=readme-ov-file#vscode-ruby-rdbg-debugger) - to enable debugging
+	- this create a launch task, that can be configured to debug current files (setup can take some times).
+    	- you need to confirm the command to run (it can be ruby or bundler exec)
+    - debug gem must be installed globally and rdbg should be in the path
 
-**Deprecated** 
+
+### Deprecated
 - [Ruby by Peng Lv](https://betterprogramming.pub/code-like-a-pro-tooling-to-supercharge-vs-code-for-ruby-bf2ae61df5e3?gi=9dbd1898926e) / [github](https://github.com/rubyide/vscode-ruby?tab=readme-ov-file#deprecated) - replaced by [Ruby LSP from Shopify](https://code.visualstudio.com/docs/languages/ruby)
 	- unfortunately [it doesn't support debug the same way](https://forums.sketchup.com/t/vscode-ruby-extension-no-longer-mantained/250058)
     - The Ruby LSP extension supports debugging using the debug gem (Ruby's official debugger). 
 
-Add also:
 - [Solargraph](https://solargraph.org/) + [Ruby Solargraph](https://marketplace.visualstudio.com/items?itemName=castwide.solargraph) - a language server that provides intellisense, code completion, and inline documentation for Ruby.
+	- previous setup was depending on solargraph, Ruby LSP seems to be standalone now.
 
 [![caption](https://solargraph.org/assets/vscode-solargraph-0.34.1-a63b2ca0626c295d31413d74577b6e56cbdec00f3bbd444d1fb3bea7d5d8885a.gif)](https://solargraph.org/)
 
