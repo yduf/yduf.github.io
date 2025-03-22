@@ -6,7 +6,9 @@ tags: vscode ruby debug
 > Ruby integration with VSCode - [Ruby LSP from Shopify](https://code.visualstudio.com/docs/languages/ruby)
 
 Recommandation is to combine:
-- [Ruby LSP from Shopify](https://code.visualstudio.com/docs/languages/ruby) - for easy navigation
+- [Ruby LSP from Shopify](https://code.visualstudio.com/docs/languages/ruby)
+	- for easy navigation
+    - [rubocop](https://github.com/rubocop/rubocop)
 - [VSCode Ruby rdbg Debugger](https://github.com/ruby/vscode-rdbg?tab=readme-ov-file#vscode-ruby-rdbg-debugger) / [market](https://marketplace.visualstudio.com/items?itemName=KoichiSasada.vscode-rdbg) 
 debug gem must be installed globally and rdbg should be in the path - to enable debugging
 	- this create a launch task, that can be configured to debug current files (setup can take some times).
