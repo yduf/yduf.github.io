@@ -10,6 +10,7 @@ tags: vscode ruby debug
 **Deprecated** 
 - [Ruby by Peng Lv](https://betterprogramming.pub/code-like-a-pro-tooling-to-supercharge-vs-code-for-ruby-bf2ae61df5e3?gi=9dbd1898926e) / [github](https://github.com/rubyide/vscode-ruby?tab=readme-ov-file#deprecated) - replaced by [Ruby LSP from Shopify](https://code.visualstudio.com/docs/languages/ruby)
 	- unfortunately [it doesn't support debug the same way](https://forums.sketchup.com/t/vscode-ruby-extension-no-longer-mantained/250058)
+    - The Ruby LSP extension supports debugging using the debug gem (Ruby's official debugger). 
 
 Add also:
 - [Solargraph](https://solargraph.org/) + [Ruby Solargraph](https://marketplace.visualstudio.com/items?itemName=castwide.solargraph) - a language server that provides intellisense, code completion, and inline documentation for Ruby.
