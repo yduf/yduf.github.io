@@ -7,7 +7,8 @@ tags: vscode ruby debug
 
 Recommandation is to combine:
 - [Ruby LSP from Shopify](https://code.visualstudio.com/docs/languages/ruby) - for easy navigation
-- [VSCode Ruby rdbg Debugger](https://github.com/ruby/vscode-rdbg?tab=readme-ov-file#vscode-ruby-rdbg-debugger) - to enable debugging
+- [VSCode Ruby rdbg Debugger](https://github.com/ruby/vscode-rdbg?tab=readme-ov-file#vscode-ruby-rdbg-debugger) / [market](https://marketplace.visualstudio.com/items?itemName=KoichiSasada.vscode-rdbg) 
+debug gem must be installed globally and rdbg should be in the path - to enable debugging
 	- this create a launch task, that can be configured to debug current files (setup can take some times).
     	- you need to confirm the command to run (it can be ruby or bundler exec)
     - debug gem must be installed globally and rdbg should be in the path
@@ -23,10 +24,8 @@ Recommandation is to combine:
 
 [![caption](https://solargraph.org/assets/vscode-solargraph-0.34.1-a63b2ca0626c295d31413d74577b6e56cbdec00f3bbd444d1fb3bea7d5d8885a.gif)](https://solargraph.org/)
 
-- [VSCode rdbg Ruby Debugger](https://marketplace.visualstudio.com/items?itemName=KoichiSasada.vscode-rdbg) 
-debug gem must be installed globally and rdbg should be in the path
 
-see also?
+### see also?
 - [the Standard Ruby VS Code extension](https://blog.testdouble.com/posts/2023-02-16-its-official-the-standard-ruby-vscode-extension/)
 
 ### Troubleshooting
