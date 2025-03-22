@@ -1,0 +1,1 @@
+Reduce tags page size (around 3.5m now)
