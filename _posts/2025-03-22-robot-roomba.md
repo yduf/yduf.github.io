@@ -10,7 +10,12 @@ tags: robot reverse security
     
 - [The best robot vacuum for me is the one I hacked](https://www.theverge.com/23934731/valetudo-robot-vacuum-hacking)
 
+
 ### Security issue
 - [Roborock S5 Max hacked: being used as data mule?](https://www.reddit.com/r/Roborock/comments/kpvrj5/roborock_s5_max_hacked_being_used_as_data_mule/)
 
 [![caption](XXX_url_XXX) ]()
+
+
+see also
+- [awesome-vacuum](https://github.com/awesome-vacuum/awesome-vacuum?tab=readme-ov-file#awesome-vacuum)
