@@ -1,6 +1,6 @@
 ---
 published: true
-title: I am a robot
+title: "I am a robot \U0001F916"
 tags: fun blog robot comic test AI LLM bots
 ---
 > There are no more Humans - [Prove you are not a Human](https://www.smbc-comics.com/comic/captcha) / [Robots (Flight of the Conchords
