@@ -5,6 +5,9 @@ tags: robot reverse security firmware roomba
 ---
 > Valetudo is a cloud replacement for vacuum robots enabling local-only operation. - [Free your vacuum from the cloud](https://github.com/Hypfer/Valetudo) / [Home](https://valetudo.cloud/pages/companion_apps/valeronoi.html)
 
+### Roborok
+- [Why is my vacuum as powerful as my smartphone? ](https://media.ccc.de/v/34c3-9147-unleash_your_smart-home_devices_vacuum_cleaning_robot_hacking)
+
 - [Roborock rooting and installation](https://valetudo.cloud/pages/installation/roborock.html)
 	- [Roborock S6/T6 Technical information and rooting](https://www.youtube.com/watch?v=r_04K5SPEXI)
     - [Unleash your smart-home devices: Vacuum Cleaning Robot Hacking ](https://media.ccc.de/v/34c3-9147-unleash_your_smart-home_devices_vacuum_cleaning_robot_hacking) - Why is my vacuum as powerful as my smartphone? 
