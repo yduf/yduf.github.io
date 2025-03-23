@@ -11,5 +11,4 @@ tags: retro robot
 
 - [Toby The Totbot](https://www.theoldrobots.com/Totbot.html)
 
-
-[![Toby The Totbot](hhttps://www.theoldrobots.com/images61/Totbot-8.JPG)](https://www.theoldrobots.com/Totbot.html)
+[![Toby The Totbot](https://www.theoldrobots.com/images61/Totbot-3.JPG)](https://www.theoldrobots.com/Totbot.html)
