@@ -14,7 +14,7 @@ tags: robot reverse security firmware
 ### Security issue
 - [Roborock S5 Max hacked: being used as data mule?](https://www.reddit.com/r/Roborock/comments/kpvrj5/roborock_s5_max_hacked_being_used_as_data_mule/)
 
-[![caption](https://valetudo.cloud/pages/installation/img/s5e_mainboard_fel_root.jpg) ]()
+[![caption](https://valetudo.cloud/pages/installation/img/s5e_mainboard_fel_root.jpg) ](https://valetudo.cloud/pages/installation/roborock.html)
 
 
 see also
