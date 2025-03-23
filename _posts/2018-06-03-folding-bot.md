@@ -1,5 +1,5 @@
 ---
-title: Foldable print
+title: "Foldable print \U0001F916"
 published: true
 tags: 3dmodel foldable robot
 ---
