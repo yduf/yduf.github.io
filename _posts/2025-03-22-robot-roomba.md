@@ -1,7 +1,7 @@
 ---
 title: Roomba like Robots
 published: true
-tags: robot reverse security firmware
+tags: robot reverse security firmware roomba
 ---
 > Valetudo is a cloud replacement for vacuum robots enabling local-only operation. - [Free your vacuum from the cloud](https://github.com/Hypfer/Valetudo) / [Home](https://valetudo.cloud/pages/companion_apps/valeronoi.html)
 
