@@ -29,6 +29,7 @@ see also
 
 ## [Les F2L intuitifs](https://www.youtube.com/watch?v=FKLyQvc4QrM)
 - [3 cas](https://youtu.be/FKLyQvc4QrM?t=322)
+- [How to Solve F2L in the Back [tips & more]](https://www.youtube.com/watch?v=1TzHHPJ_2HY)
 
 ## [Les F2L](https://www.youtube.com/watch?v=QnWZeEDAtVM&t=0s)
 - U' [ R U R' ](https://youtu.be/QnWZeEDAtVM?t=215)  
