@@ -7,6 +7,9 @@ tags: robot reverse security firmware roomba
 
 ## [Roborock Qrevo S (2025 480€)](https://www.amazon.fr/dp/B0D4YK2CQW)
 
+- Qrevo S unveiled on on June 25, 2024
+- S7 was released on March 2021
+
 ### Roborok (Xiaomi ?)
 
 - [Why is my vacuum as powerful as my smartphone? ](https://media.ccc.de/v/34c3-9147-unleash_your_smart-home_devices_vacuum_cleaning_robot_hacking) -> [dontvacuum.me](https://www.dontvacuum.me/)
