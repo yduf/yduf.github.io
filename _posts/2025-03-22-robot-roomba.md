@@ -20,12 +20,13 @@ tags: robot reverse security firmware roomba
 
 ### Security issue
 
-
 - [Roborock S5 Max hacked: being used as data mule?](https://www.reddit.com/r/Roborock/comments/kpvrj5/roborock_s5_max_hacked_being_used_as_data_mule/)
 	- [Anyone here setup roborock securely on wifi?](https://www.reddit.com/r/Roborock/comments/q321g6/anyone_here_setup_roborock_securely_on_wifi_seems/)
 
 [![caption](https://valetudo.cloud/pages/installation/img/s5e_mainboard_fel_root.jpg) ](https://valetudo.cloud/pages/installation/roborock.html)
 
+### hardware
+- [Q5 disassembly](https://www.reddit.com/r/Roborock/comments/1bzfmlo/q5_disassembly_to_access_parts_for_repair_images/)
 
 see also
 - [awesome-vacuum](https://github.com/awesome-vacuum/awesome-vacuum?tab=readme-ov-file#awesome-vacuum)
