@@ -5,6 +5,7 @@ tags: robot reverse security firmware roomba
 ---
 > Valetudo is a cloud replacement for vacuum robots enabling local-only operation. - [Free your vacuum from the cloud](https://github.com/Hypfer/Valetudo) / [Home](https://valetudo.cloud/pages/companion_apps/valeronoi.html)
 
+## Roborock Q
 ### Roborok (Xiaomi ?)
 
 - [Why is my vacuum as powerful as my smartphone? ](https://media.ccc.de/v/34c3-9147-unleash_your_smart-home_devices_vacuum_cleaning_robot_hacking) -> [dontvacuum.me](https://www.dontvacuum.me/)
@@ -18,7 +19,10 @@ tags: robot reverse security firmware roomba
 - [What are the differences between Roborock Qrevo S and Qrevo?](https://support.roborock.com/hc/en-us/articles/33953752924697-What-are-the-differences-between-Roborock-Qrevo-S-and-Qrevo)
 
 ### Security issue
+
+
 - [Roborock S5 Max hacked: being used as data mule?](https://www.reddit.com/r/Roborock/comments/kpvrj5/roborock_s5_max_hacked_being_used_as_data_mule/)
+	- [Anyone here setup roborock securely on wifi?](https://www.reddit.com/r/Roborock/comments/q321g6/anyone_here_setup_roborock_securely_on_wifi_seems/)
 
 [![caption](https://valetudo.cloud/pages/installation/img/s5e_mainboard_fel_root.jpg) ](https://valetudo.cloud/pages/installation/roborock.html)
 
