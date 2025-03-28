@@ -12,6 +12,8 @@ ary = ["foo", "bar", "baz"]
 p ary.map { it.upcase } #=> ["FOO", "BAR", "BAZ"]
 {% endhighlight %}
 
+it very much behaves the same as _1. When the intention is to only use _1 in a block, the potential for other numbered parameters such as _2 to also appear imposes an extra cognitive load onto readers. So it was introduced as a handy alias. Use it in simple cases where it speaks for itself, such as in one-line blocks.
+
 
 ### [First and Rest in Ruby](https://avdi.codes/first-and-rest-in-ruby/)
 {% highlight ruby %}
