@@ -28,7 +28,9 @@ tags: robot reverse security firmware roomba
         - U-Boot bypass (2020): Blocked for new models in 2020
     - Hardware gets weaker, despite devices getting more expensive
 - [Vacuum robot security and privacy (2023?)](https://dontvacuum.me/talks/DEFCON31/DEFCON31-vacuum-robots-final.pdf)
+	- Roborock Q Revo (a75) (06/2023)
 - [Reverse engineering and hacking Ecovacs robots (2024)](https://dontvacuum.me/talks/DEFCON32/DEFCON32_reveng_hacking_ecovacs_robots.html)
+	- [the bad and the really bad](https://dontvacuum.me/talks/HITCON2024/HITCON-CMT-2024_Ecovacs.pdf)
 
     
 - New Method: FEL rooting
