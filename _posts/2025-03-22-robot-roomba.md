@@ -21,8 +21,7 @@ tags: robot reverse security firmware roomba
         – Signed configuration files to enforce region locks
         – However: Hardware remains mostly the same
     - Keeping rooting methods secret
-    	- Assumption: Roborock would lock them down in newer
-devices
+    	- Assumption: Roborock would lock them down in newer devices
 
 - [Roborock rooting and installation](https://valetudo.cloud/pages/installation/roborock.html)
 	- [Roborock S6/T6 Technical information and rooting](https://www.youtube.com/watch?v=r_04K5SPEXI)
