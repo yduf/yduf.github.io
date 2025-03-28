@@ -15,6 +15,11 @@ tags: robot reverse security firmware roomba
 - [Why is my vacuum as powerful as my smartphone? (2017?)](https://media.ccc.de/v/34c3-9147-unleash_your_smart-home_devices_vacuum_cleaning_robot_hacking) -> [dontvacuum.me](https://www.dontvacuum.me/)
 	- [Roborock Q Revo](https://robotinfo.dev/detail_roborock.vacuum.a75_0.html)
 - [Robots with lasers and cameras (2021)](https://dontvacuum.me/talks/DEFCON29/DEFCON29-vacuum-robots.pdf) - Liberating your vacuum from the cloud
+	- With introduction of Roborock S6 (2019):
+    	– Signed firmware and voice packages
+        – Each model uses different encryption keys
+        – Signed configuration files to enforce region locks
+        – However: Hardware remains mostly the same
 
 - [Roborock rooting and installation](https://valetudo.cloud/pages/installation/roborock.html)
 	- [Roborock S6/T6 Technical information and rooting](https://www.youtube.com/watch?v=r_04K5SPEXI)
