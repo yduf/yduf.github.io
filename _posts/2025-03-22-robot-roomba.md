@@ -22,7 +22,11 @@ tags: robot reverse security firmware roomba
         – However: Hardware remains mostly the same
     - Keeping rooting methods secret
     	- Assumption: Roborock would lock them down in newer devices
-
+    - Every time we publish a method, it gets blocked
+    	– Local updates (2017): Blocked via firmware updates in 2018
+        - Root password method (2019): Blocked for newly produced devices in 2019
+        - U-Boot bypass (2020): Blocked for new models in 2020
+        
 - [Roborock rooting and installation](https://valetudo.cloud/pages/installation/roborock.html)
 	- [Roborock S6/T6 Technical information and rooting](https://www.youtube.com/watch?v=r_04K5SPEXI)
     - [Roborock S7 rooting](https://www.reddit.com/r/Roborock/comments/vlvep2/roborock_s7_rootingvaletudo_tutorial/)
