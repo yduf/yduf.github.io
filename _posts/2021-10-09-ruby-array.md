@@ -5,6 +5,14 @@ tags: ruby array
 ---
 > [ruby-doc](https://ruby-doc.org/core-3.0.1/Array.html)
 
+### [_it_ (Ruby 3.4)](https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/)
+{% highlight ruby %}
+ary = ["foo", "bar", "baz"]
+
+p ary.map { it.upcase } #=> ["FOO", "BAR", "BAZ"]
+{% endhighlight %}
+
+
 ### [First and Rest in Ruby](https://avdi.codes/first-and-rest-in-ruby/)
 {% highlight ruby %}
 many = [0,1,2,3,4]
