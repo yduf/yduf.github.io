@@ -27,6 +27,9 @@ tags: robot reverse security firmware roomba
         - Root password method (2019): Blocked for newly produced devices in 2019
         - U-Boot bypass (2020): Blocked for new models in 2020
     - Hardware gets weaker, despite devices getting more expensive
+    
+- New Method: FEL rooting
+	- Applies to all current NAND-based Roborock models
         
 - [Roborock rooting and installation](https://valetudo.cloud/pages/installation/roborock.html)
 	- [Roborock S6/T6 Technical information and rooting](https://www.youtube.com/watch?v=r_04K5SPEXI)
