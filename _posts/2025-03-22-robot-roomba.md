@@ -11,7 +11,7 @@ tags: robot reverse security firmware roomba
 - S7 was released on March 2021
 
 ### Roborok (Xiaomi ?)
-
+- [Roborock S8 technical information and rooting (2024)](https://builder.dontvacuum.me/nextgen/roborock_s8.pdf)
 - [Why is my vacuum as powerful as my smartphone? (2017?)](https://media.ccc.de/v/34c3-9147-unleash_your_smart-home_devices_vacuum_cleaning_robot_hacking) -> [dontvacuum.me](https://www.dontvacuum.me/)
 	- [Roborock Q Revo](https://robotinfo.dev/detail_roborock.vacuum.a75_0.html)
 - [Robots with lasers and cameras (2021)](https://dontvacuum.me/talks/DEFCON29/DEFCON29-vacuum-robots.pdf) / [youtube](https://www.youtube.com/playlist?list=PL9PoaNtZCJRYiwGlHVpGZdVqPKQ2mo57k) - Liberating your vacuum from the cloud
