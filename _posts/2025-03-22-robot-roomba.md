@@ -57,4 +57,4 @@ tags: robot reverse security firmware roomba
 
 see also
 - [awesome-vacuum](https://github.com/awesome-vacuum/awesome-vacuum?tab=readme-ov-file#awesome-vacuum)
-- [https://robotinfo.dev/](https://robotinfo.dev/)
+- [robotinfo.dev/](https://robotinfo.dev/)
