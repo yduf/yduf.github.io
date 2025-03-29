@@ -10,6 +10,8 @@ tags: robot reverse security firmware roomba
 - Qrevo S unveiled on on [June 25, 2024](https://www.reddit.com/r/Roborock/comments/1c7kax7/comparison_of_models_2024/)
 - S7 was released on March 2021
 
+- [De-Clouding a Robot Vacuum with Valetudo! Roborock Q7 Max+ ](https://www.youtube.com/watch?v=qHuCcxR9jNc)
+
 ### Roborok (Xiaomi ?)
 - [Roborock S8 technical information and rooting (2024)](https://builder.dontvacuum.me/nextgen/roborock_s8.pdf)
 - [Why is my vacuum as powerful as my smartphone? (2017?)](https://media.ccc.de/v/34c3-9147-unleash_your_smart-home_devices_vacuum_cleaning_robot_hacking) -> [dontvacuum.me](https://www.dontvacuum.me/)
@@ -34,7 +36,7 @@ tags: robot reverse security firmware roomba
     - ecovacs only
 
     
-- New Method: FEL rooting
+- New Method: [FEL rooting]()
 	- Applies to all current NAND-based Roborock models
         
 - [Roborock rooting and installation](https://valetudo.cloud/pages/installation/roborock.html)
