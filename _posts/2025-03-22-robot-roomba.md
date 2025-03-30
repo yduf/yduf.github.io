@@ -36,7 +36,7 @@ tags: robot reverse security firmware roomba
     - ecovacs only
 
     
-- New Method: FEL rooting - [Flash Extension Loader](https://chatgpt.com/share/67e90d94-0b44-800d-bb4b-2ff4ff97a5b3)
+- New Method: [FEL](https://linux-sunxi.org/FEL) rooting - [Flash Extension Loader](https://chatgpt.com/share/67e90d94-0b44-800d-bb4b-2ff4ff97a5b3)
 	- Applies to all current NAND-based Roborock models
         
 - [Roborock rooting and installation](https://valetudo.cloud/pages/installation/roborock.html)
