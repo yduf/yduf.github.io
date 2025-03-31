@@ -3,10 +3,18 @@ title: Hardware security
 published: true
 tags: hardware-security security reverse
 ---
-> Why, and for who ?
+> Why, and for whom ?
 
 ### Use cases
-Console vendor wanting to avoid access to their game.
+
+Vendor want to restrict access from the user:
+- Console vendor wanting to avoid access to their game.
+- Vaccuum vendor want to force cloud usage for their product
+- Phone vendor want to control which software you are running (android/iphone)
+
+Not necessary for security alone, because once customer is unable to control what is runned,
+- he cannot patch himself security issue
+- he still subject to security attack (if vendor breached).
 
 ## Bypass
 
@@ -19,4 +27,5 @@ FEL is a low-level subroutine contained in the BootROM on Allwinner devices. It 
 - [FEL Mode Drivers - Exdroid Tablet](https://github.com/Siragon/exdroid-driver-fel?tab=readme-ov-file#fel-mode-drivers---exdroid-tablet)
 
 Device concerned
+- [Roborok vaccuum]()
 
