@@ -14,6 +14,7 @@ tags: games adventure
 see also
 - [	The Myst Graph: A New Perspective on Myst](https://news.ycombinator.com/item?id=43549293)
 - [Apple \]\[ Myst "Demake"](http://www.deater.net/weave/vmwprod/mist/)
+- [Fixing the Loading in Myst IV: Revelation](https://medium.com/@tomysshadow/fixing-the-loading-in-myst-iv-revelation-86e2814afbf8)
 
 ### [Play Myst](https://www.reddit.com/r/myst/comments/15j3pdh/confused_on_which_version_of_myst_i_should_play/)
 
