@@ -47,6 +47,6 @@ work native under linux.
 
 see also
 - [Thimbleweed Park]({% post_url 2019-03-02-Thimbleweed-Park %})
-- [Delores: A Thimbleweed Park mini-adventure]({% post_url 2020-11-29-delores %})
+- [Delores: A Thimbleweed Park mini-adventure]({% post_url 2020-11-29-games-delores %})
 - [Maniac Mansion]({% post_url 2017-07-17-Maniac-Mansion-Deluxe %})
 - [Ron Gilbert]({% post_url 2020-09-04-grumpy-gamer %})
