@@ -1,9 +1,9 @@
 ---
 published: true
-title: ' Let''s build a 6502 computer from scratch'
+title: ' Let''s build a 8bit computer from scratch'
 tags: computer cpu electronic tutorial blog-electronic
 ---
-> It just sits here succesfully doing nothing forever - [Ben Eater](https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA) 
+> It just sits here succesfully doing nothing forever - [Ben Eater](https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA) / [HN](https://news.ycombinator.com/item?id=43533715)
 
 [![caption](https://yt3.ggpht.com/S29wEjoodDYZ7RTVEtF30KrFOKABSlqphjNwGzC8RCslsketGsynfUKr8aSpXWMBFAZH9AAP=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)](https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA)
 
