@@ -1,5 +1,5 @@
 ---
-title: Censorship
+title: "Censorship \U0001F479"
 published: true
 tags: history IA flood-fill
 ---
