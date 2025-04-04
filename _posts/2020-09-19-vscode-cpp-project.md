@@ -5,6 +5,8 @@ tags: debug-c++ vscode gdb c++ build-system
 ---
 > How to set up C++ Compiler with Visual Studio Code. - [Setup Visual Studio Code for Multi-File C++ Projects](https://dev.to/talhabalaj/setup-visual-studio-code-for-multi-file-c-projects-1jpi)
 
+<link rel="shortcut icon" href="https://code.visualstudio.com/favicon.ico" type="image/x-icon" />
+
 see also
 - [C++ in VS Code: A Quick Guide](https://www.youtube.com/watch?v=qeEcV6u1kV4&t=24s)
 - [Godot Docs](https://docs.godotengine.org/en/latest/contributing/development/configuring_an_ide/visual_studio_code.html)
