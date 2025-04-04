@@ -1,6 +1,6 @@
 ---
 published: true
-title: ' Let''s build a 8bit computer from scratch'
+title: ' Let''s build a 8bits computer from scratch'
 tags: computer cpu electronic tutorial blog-electronic
 ---
 > It just sits here succesfully doing nothing forever - [Ben Eater](https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA) / [HN](https://news.ycombinator.com/item?id=43533715)
