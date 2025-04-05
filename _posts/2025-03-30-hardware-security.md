@@ -11,6 +11,9 @@ Vendor want to restrict access from the user:
 - Console vendor wanting to avoid access to their game.
 - Vaccuum vendor want to force cloud usage for their product
 - Phone vendor want to control which software you are running (android/iphone)
+- DRM
+	- DVD zoning to control market
+    - hdmi / video - to control copy
 
 Not necessary for security alone, because once customer is unable to control what is runned,
 - he cannot patch himself security issue
@@ -28,4 +31,3 @@ FEL is a low-level subroutine contained in the BootROM on Allwinner devices. It 
 
 Device concerned
 - [Roborok vaccuum]()
-
