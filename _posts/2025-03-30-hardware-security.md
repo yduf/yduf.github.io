@@ -13,7 +13,7 @@ Vendor want to restrict access from the user:
 - Phone vendor want to control which software you are running (android/iphone)
 - DRM
 	- DVD zoning to control market
-    - hdmi / video - to control copy
+    - [hdmi]({% post_url 2024-08-30-display-connector %}) / video - to control copy
 
 Not necessary for security alone, because once customer is unable to control what is runned,
 - he cannot patch himself security issue
