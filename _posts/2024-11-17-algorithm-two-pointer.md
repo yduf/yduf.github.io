@@ -26,5 +26,5 @@ ForwardIt unique(ForwardIt first, ForwardIt last)
 }
 {% endhighlight %}
 
-see also
+### see also
 - [LeetCode](https://leetcode.com/problem-list/two-pointers/) - Two pointer problem.
