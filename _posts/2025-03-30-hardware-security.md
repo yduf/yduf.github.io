@@ -14,6 +14,7 @@ Vendor want to restrict access from the user:
 - DRM
 	- DVD zoning to control market
     - [hdmi]({% post_url 2024-08-30-display-connector %}) / video - to control copy
+    - [sony malware](https://en.wikipedia.org/wiki/Sony_BMG_copy_protection_rootkit_scandal)
 
 Not necessary for security alone, because once customer is unable to control what is runned,
 - he cannot patch himself security issue
