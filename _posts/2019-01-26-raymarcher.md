@@ -6,6 +6,7 @@ tags: raytracing shader ray-marching distance intersection
 > Raymarching of distance field proved super powerful for creating rich images with complex shapes procedurally and interesting efficient lighting effects in a minimal amount of code. Not only the actual content creation code modeling was small, but the actual renderer itself, the whole technical setup to sinthetize images was ridiculously compact comparing to a mesh based rasterizer or raytracer. So, the exercise became really fruitful and I produced 5 images in 2008 alone that I presented to the "4 kilobyte Procedural Image" category of different demo partys across Europe. - [inigo quilez](https://iquilezles.org/www/articles/raymarchingdf/raymarchingdf.htm)
 
 ### see also
+- [ The DDA Algorithm, explained interactively](https://news.ycombinator.com/item?id=43543007)
 - [What is Ray Marching? Is Sphere Tracing the same thing?](https://computergraphics.stackexchange.com/questions/161/what-is-ray-marching-is-sphere-tracing-the-same-thing)
 - [Encore MIEUX que le RAY TRACING ?](https://www.youtube.com/watch?v=K9yrtyLKysA)
 - [An introduction to Raymarching](https://www.youtube.com/watch?v=khblXafu7iA)
