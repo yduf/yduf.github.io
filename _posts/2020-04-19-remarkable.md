@@ -170,6 +170,11 @@ The stylus communicates wirelessly. The pressure sensitivity is in the stylus it
 ### Tools
 - [ddvk/remarkable2-recovery](https://github.com/ddvk/remarkable2-recovery) - reMarkable 2 Recovery / Unbricking. Tools for recovery (works only under Linux).
 
+### What is missing
+- ability to have in use widget, like a calculator
+- drawing shape (like MadDraw)
+- easy way to import / export note & pdf
+	- pdf can be printed to the device (it helps).
 
 ## Alternatives
 - [**Ratta Supernote A5 X**](https://youtu.be/ObU8-lxORPg?t=195) / [Best E-Ink Note Taking Reader Devices Of  2022](https://www.youtube.com/watch?v=h5cqc_CP1s0) / [2021](https://youtu.be/jvPvp5_P0o8?t=710) / [/r/Supernote](https://www.reddit.com/r/Supernote/)
