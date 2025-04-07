@@ -159,7 +159,7 @@ The stylus communicates wirelessly. The pressure sensitivity is in the stylus it
     
 ### [Security/Confidentiality](https://www.reddit.com/r/RemarkableTablet/comments/kc1b8p/security_question_response/)
 
-### Early price: Total 459€ (vs 597€)
+### Early price: Total 459€ (2020) / (vs 597€)
 - 1x Book Folio – Polymer weave – Gray: €20
 - 1x Marker Plus: €40
 - 1x reMarkable 2: €399
