@@ -12,6 +12,7 @@ tags: games adventure
     - resoudre des enigmes = des problemes normaux dans l'univers de Myst (en fait redecouvrir ce qui serait des connaissance culturel des habitants de cet univers).
     
 see also
+- [Things You May Not Have Noticed in MYST ](https://mrillustrated.com/)
 - [	The Myst Graph: A New Perspective on Myst](https://news.ycombinator.com/item?id=43549293)
 - [Apple \]\[ Myst "Demake"](http://www.deater.net/weave/vmwprod/mist/)
 - [Fixing the Loading in Myst IV: Revelation](https://medium.com/@tomysshadow/fixing-the-loading-in-myst-iv-revelation-86e2814afbf8)
