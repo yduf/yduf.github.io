@@ -54,5 +54,9 @@ the function to learn the Q-function is the Bellman equation for optimality.
 - [Introducing Q-Learning](https://huggingface.co/learn/deep-rl-course/unit2/q-learning)
 - [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html) / [HN](https://news.ycombinator.com/item?id=11282797)
 - [Q-Learning Tic-Tac-Toe, Briefly](https://planspace.org/20191103-q_learning_tic_tac_toe_briefly/)
+- [DQN vs PPO](https://jerrickliu.com/2020-07-13-FourthPost/) 
+	- DQN and Q-learning in general are performed **off-policy**, meaning that while learning, each update in the policy can use data collected at any point in its time of training,
+    - PPO are **on-policy**, only using the data collected from the most up-to-date policy and making decisions based on that.
+    - Both algorithms are **model-free**, meaning that while training agents, they do not have access to the model of the environment. The model of the environment is a function which predicts state transitions and rewards.
 
 ### Reference
