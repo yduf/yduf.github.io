@@ -61,7 +61,7 @@ Similarly to [Monte-Carlo Tree Search]({% post_url 2018-05-20-montecarlo-mcts-tr
 The ε-greedy policy do that the following way:
 We start with an initial value of ɛ = 1.0:
 
-- With probability 1 — ɛ : we do exploitation (aka our agent selects the action with the highest state-action pair value).
+- With probability 1-ɛ : we do exploitation (aka our agent selects the action with the highest state-action pair value).
 - With probability ɛ: we do exploration (trying random action).
 
 As the number of episodes processed grows, ɛ can be decreased to explore less and exploit more (similar to _temperature_ [^5] concept found in other algorithm).
@@ -72,7 +72,7 @@ Note that ε-greedy is the simplest to tune, but also the worst performing explo
 
 [^5]: TBD
 
-## This World is to Big to fit in a table
+## This World is to Big to fit in a table 🚧 
 
 Discretizing most world this way would require a huge table.
 Rather than uzing an explicit table, we will use a neural network to learn and approximate that Q-Function without storing it in a table:
