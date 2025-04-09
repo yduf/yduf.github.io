@@ -85,3 +85,5 @@ the function to learn the Q-function is the Bellman equation for optimality.
     - Both algorithms are **model-free**, meaning that while training agents, they do not have access to the model of the environment. The model of the environment is a function which predicts state transitions and rewards.
 
 ### Reference
+
+<script src="/assets/js/toc.js"></script>
