@@ -35,6 +35,8 @@ In this situation there is a simple algorithm to learn that Q-function (and Q-ta
 
 The learning algorithm iterates over several _episodes_ to estimate the Q-function, where an _episode_ is a complete sequence of actions leading to a terminal states. Iterations over _episode_ make the Q-value flows to the early states.
 
+Different _policy_ exists to make that process converge([^4]), ε-greedy being the simplest to implement. It is the one sample code below.
+
 {% highlight ruby %}
 
 for a number of episode
@@ -45,12 +47,12 @@ end
 
 {% endhighlight %}
 
-[^4]: [Comparing Exploration Strategies for Q-learning in Random Stochastic Mazes](https://www.ai.rug.nl/~mwiering/GROUP/ARTICLES/Exploration_QLearning.pdf) - ocused on the undirected strategies: softmax, e-greedy,
+[^4]: [Comparing Exploration Strategies for Q-learning in Random Stochastic Mazes](https://www.ai.rug.nl/~mwiering/GROUP/ARTICLES/Exploration_QLearning.pdf) - Focused on the undirected strategies: softmax, ε-greedy,
 pursuit, and compared them to the directed exploration strat-
 egy UCB-1. The results show that softmax or Boltzmann
 exploration outperforms the other strategies, although it is
 harder to tune its parameters. _The easiest techniques to tune
-are e-greedy and UCB-1, but e-greedy performs worst of all
+are ε-greedy and UCB-1, but ε-greedy performs worst of all
 exploration strategies_
 
 ## This World is to Big to fit in a table
