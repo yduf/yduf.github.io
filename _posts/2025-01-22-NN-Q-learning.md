@@ -54,7 +54,23 @@ end
 
 {% endhighlight %}
 
+### Learning policy
+
+Similarly to [Monte-Carlo Tree Search]({% post_url 2017-11-27-CG-meanmax %}), the idea is to have strategy that handles exploration (learn new thing) vs exploitation (use what we already know).
+
+The ε-greedy policy do that the following way:
+We start with an initial value of ɛ = 1.0:
+
+- With probability 1 — ɛ : we do exploitation (aka our agent selects the action with the highest state-action pair value).
+- With probability ɛ: we do exploration (trying random action).
+
+As the number of episodes processed grows, ɛ can be decreased to explore less and exploit more (similar to _temperature_ [^5] concept found in other algorithm).
+
+Note that ε-greedy is the simplest to tune, but also the worst performing exploration strategy ([^4]). It should be fine as a starting point though.
+
 [^4]: [Comparing Exploration Strategies for Q-learning in Random Stochastic Mazes](https://www.ai.rug.nl/~mwiering/GROUP/ARTICLES/Exploration_QLearning.pdf) - Focused on the undirected strategies: softmax, ε-greedy, pursuit, and compared them to the directed exploration strat-egy UCB-1. The results show that softmax or Boltzmann exploration outperforms the other strategies, although it is harder to tune its parameters. _The easiest techniques to tune are ε-greedy and UCB-1, but ε-greedy performs worst of all exploration strategies_
+
+[^5]: TBD
 
 ## This World is to Big to fit in a table
 
