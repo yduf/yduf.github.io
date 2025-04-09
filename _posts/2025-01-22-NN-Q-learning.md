@@ -54,13 +54,7 @@ end
 
 {% endhighlight %}
 
-[^4]: [Comparing Exploration Strategies for Q-learning in Random Stochastic Mazes](https://www.ai.rug.nl/~mwiering/GROUP/ARTICLES/Exploration_QLearning.pdf) - Focused on the undirected strategies: softmax, ε-greedy,
-pursuit, and compared them to the directed exploration strat-
-egy UCB-1. The results show that softmax or Boltzmann
-exploration outperforms the other strategies, although it is
-harder to tune its parameters. _The easiest techniques to tune
-are ε-greedy and UCB-1, but ε-greedy performs worst of all
-exploration strategies_
+[^4]: [Comparing Exploration Strategies for Q-learning in Random Stochastic Mazes](https://www.ai.rug.nl/~mwiering/GROUP/ARTICLES/Exploration_QLearning.pdf) - Focused on the undirected strategies: softmax, ε-greedy, pursuit, and compared them to the directed exploration strat-egy UCB-1. The results show that softmax or Boltzmann exploration outperforms the other strategies, although it is harder to tune its parameters. _The easiest techniques to tune are ε-greedy and UCB-1, but ε-greedy performs worst of all exploration strategies_
 
 ## This World is to Big to fit in a table
 
