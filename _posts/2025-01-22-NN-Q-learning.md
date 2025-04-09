@@ -33,7 +33,7 @@ In this situation there is a simple algorithm to learn that Q-function (and Q-ta
 
 ### [The Q-Learning algorithm](https://huggingface.co/learn/deep-rl-course/unit2/q-learning#q-learning-algo)
 
-The learning algorithm iterates over several _episodes_ to estimate the Q-function, where an _episode_ is a complete sequence of actions leading to a terminal states. Iterations over _episode_ make the Q-value flows to the early states.
+The learning algorithm iterates over several _episodes_ to estimate the Q-function, where an _episode_ is a complete sequence of actions leading to a terminal states. Iterations over _episode_ make the Q-value flows to the early states through the formula above.
 
 Different _policy_ exists to make that process converge([^4]), ε-greedy being the simplest to implement.
 
