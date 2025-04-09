@@ -35,13 +35,20 @@ In this situation there is a simple algorithm to learn that Q-function (and Q-ta
 
 The learning algorithm iterates over several _episodes_ to estimate the Q-function, where an _episode_ is a complete sequence of actions leading to a terminal states. Iterations over _episode_ make the Q-value flows to the early states.
 
-Different _policy_ exists to make that process converge([^4]), ε-greedy being the simplest to implement. It is the one sample code below.
+Different _policy_ exists to make that process converge([^4]), ε-greedy being the simplest to implement.
 
 {% highlight ruby %}
 
-for a number of episode
-	
+Initialize Q arbitrary (either 0, or randome value)
+
+for a number of episodes
+    t = 0
+    Observe S0
     repeat
+    	choose an action At using policy derived from Q (eg: ε-greedy)
+        Take Action At and observe Tr+1,St+1
+        Q(St,At) = Q(St,At) + alph(Rt+1+ymaxQ(St+1,q) -Q(St,At))
+        t += 1
     until terminate
 end
 
