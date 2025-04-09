@@ -1,4 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
+  const isMobile = window.matchMedia("(max-width: 768px)").matches;
+  if (isMobile) return; // skip creating the TOC on mobile
+  
   const headings = document.querySelectorAll("h1, h2, h3");
   if (!headings.length) return;
 
