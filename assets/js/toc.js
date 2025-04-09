@@ -45,10 +45,13 @@ document.addEventListener("DOMContentLoaded", function () {
     a.style.color = "#007BFF";
     a.style.fontSize = "0.9rem";
 
-    a.addEventListener("click", function (e) {
-      e.preventDefault();
-      document.getElementById(heading.id).scrollIntoView({ behavior: "smooth" });
-    });
+    // this is not mandatory
+    // it only provide smooth scrolling
+    // a.addEventListener("click", function (e) {
+    //   e.preventDefault();
+    //   document.getElementById(heading.id).scrollIntoView({ behavior: "smooth" });
+    //   history.pushState(null, "", `#${heading.id}`);
+    // });
 
     li.appendChild(a);
     list.appendChild(li);

@@ -2,6 +2,7 @@
 published: true
 title: reMarkable 2
 tags: remarkable epaper arm-hardware stylus
+toc: true
 ---
 > The reMarkable is a paper tablet for those who prefer writing on paper, rather than keyboards. Its remarkably fast paper-white display, Linux based operating system and awesome community make it highly attractive amongst hackers and developers. - [r/RemarkableTablet](https://www.reddit.com/r/RemarkableTablet/) / [reMarkable Guide](https://remarkable.guide/)
 
@@ -191,6 +192,3 @@ The stylus communicates wirelessly. The pressure sensitivity is in the stylus it
 > 
 > Then you have the Onyx Boox, which thanks to its Android underpinnings, offers a lot more power in terms of broader functionality, additional apps and document support, a lot of configurability, and a somewhat familiar interface for Android users. When you spread the peanut butter over a wider surface, it's thinner throughout, and so along with that broader functionality is a lot more inconsistent (and frankly, insane UX), UX that is clear it's built for dual Chinese and Intl markets with random instances of Chinese hardcoded to menus, and the list goes on. - [r/Onyx_Boox](https://www.reddit.com/r/Onyx_Boox/comments/kaegqd/i_bought_a_boox_note_to_take_notes_and_annotate/gf9wybo/?utm_source=reddit&utm_medium=web2x&context=3)
 
-
-<!-- Include the script at the bottom -->
-<script src="{{ '/assets/js/toc.js' | relative_url }}"></script>

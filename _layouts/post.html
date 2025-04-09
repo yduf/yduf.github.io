@@ -2,6 +2,9 @@
 layout: default
 ---
 {% assign last_modified_at = site.data.mtime[ page.path] %}
+{% if page.toc %}
+  <script src="{{ '/assets/js/toc.js' | relative_url }}"></script>
+{% endif %}
 
 <article class="post">
   <h1>{{ page.title }}</h1>
