@@ -17,7 +17,7 @@ Let's assume that we are able to discretize our environment as well as the set o
 Then we can imagine that some fonction exist that would gives the best action possible for a certain situation (when positioned on a cell in our discretized environment).
 
 This would be our Q-Function
-(the Q comes from “the Quality” (the value) of that action at that state).
+(tThe Q-Learning algorithmhe Q comes from “the Quality” (the value) of that action at that state).
 
 If we lived in a discretized environment we also can think of this Q-function as a Q-table:  
 a table for which each entries is a tuple identifying the cell we are in (in our environment) and map to a vector of available actions pondered by their score. The best action for this cell being the one having the highest value.
@@ -31,7 +31,19 @@ In this situation there is a simple algorithm to learn that Q-function (and Q-ta
 [^1]: [Q Learning Intro/Table - Reinforcement Learning p.1](https://www.youtube.com/watch?v=yMk_XtIEzH8&list=PLh9akXp2EH2D6RPP5ACPfG4D60XqhrXmC&index=3)  - the presentation itsef take many shortcuts that will lead to a not working q algorithm, look at [Introducing Q-Learning (Hugging Face)](https://huggingface.co/learn/deep-rl-course/unit2/q-learning) for a better algorithm.
 [^3]: [Q Learning Explained (tutorial)](https://www.youtube.com/watch?v=aCEvtRtNO-M) - Montecarlo vs TD. / [Q-Learning](https://www.geeksforgeeks.org/q-learning-in-python/)
 
-### 
+### [The Q-Learning algorithm](https://huggingface.co/learn/deep-rl-course/unit2/q-learning#q-learning-algo)
+
+The learning algorithm iterates over several _episodes_ to estimate the Q-function, where an _episode_ is a complete sequence of actions leading to a terminal states. Iterations over _episode_ make the Q-value flows to the early states.
+
+{% highlight ruby %}
+
+for a number of episode
+	
+    repeat
+    until terminate
+end
+
+{% endhighlight %}
 
 [^4]: [Comparing Exploration Strategies for Q-learning in Random Stochastic Mazes](https://www.ai.rug.nl/~mwiering/GROUP/ARTICLES/Exploration_QLearning.pdf) - ocused on the undirected strategies: softmax, e-greedy,
 pursuit, and compared them to the directed exploration strat-
