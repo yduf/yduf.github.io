@@ -15,3 +15,6 @@ tags: opencv algorithm math transform
 ## [Line Detection](https://docs.opencv.org/2.4/doc/tutorials/imgproc/imgtrans/hough_lines/hough_lines.html)
 
 ## [Circle Detection](https://www.bogotobogo.com/python/OpenCV_Python/python_opencv3_Image_Hough%20Circle_Transform.php)
+
+see also
+- [Hitting the bullseye](http://www.ilikebigbits.com/2017_07_19_hitting_the_bullseye.html) - a new circle detection algorithm which handles all the above issues and with robustness and accuracy. 
