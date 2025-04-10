@@ -5,6 +5,8 @@ tags: cli gpu term image viewer quake
 ---
 > the fast, featureful, GPU based terminal emulator - [kitty](https://sw.kovidgoyal.net/kitty/#quickstart) / [HN](https://news.ycombinator.com/item?id=24643008)
 
+<link rel="shortcut icon" href="https://github.com/DinkDonk/kitty-icon/raw/main/kitty-light.png" type="image/x-icon" />
+
 ### [Kitty Terminal Emulator: How to Install, Configure, and Use It](https://linuxiac.com/kitty-terminal-emulator/)
 - [Fix terminal issues when ssh](https://wiki.archlinux.org/title/Kitty#Terminal_issues_with_SSH) - `$ kitty +kitten ssh user@host`
 	- [Xterm-Kitty: Unknown Terminal Type?](https://hatchjs.com/xterm-kitty-unknown-terminal-type/) - `$ export TERM=xterm-256color`
