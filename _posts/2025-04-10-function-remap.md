@@ -1,7 +1,7 @@
 ---
 title: remap
 published: true
-tags: concept algorithm code-blog
+tags: concept algorithm blog-code
 ---
 > What a difference a function makes - [I Like Big Bits](http://www.ilikebigbits.com/2015_02_05_remap.html) / [easings.net]( http://easings.net/ )
 
