@@ -1,7 +1,7 @@
 ---
 published: true
-title: StackTrace ≅
-tags: debug-c++ stacktrace single-header codingame vscode
+title: StackTrace ≅ (C++)
+tags: debug-c++ stacktrace single-header
 ---
 > How to automatically generate a stacktrace when my program crashes - [SO](https://stackoverflow.com/questions/77005/how-to-automatically-generate-a-stacktrace-when-my-program-crashes)
 
