@@ -14,3 +14,4 @@ tags: image graphic
 ditherit-v2 ](https://github.com/alexharris/ditherit-v2)
 - [Observable](https://observablehq.com/@jobleonard/ordered-error-diffusion-dithering)
 - [	Stabilizing the Obra Dinn 1-bit dithering process (2017)](https://news.ycombinator.com/item?id=42084080)
+- [Dithering in Colour](https://obrhubr.org/dithering-in-colour) / [HN](https://news.ycombinator.com/item?id=43315029) - Dithering into arbitrary palettes
