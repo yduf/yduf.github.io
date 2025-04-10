@@ -58,7 +58,7 @@ end
 
 Similarly to [Monte-Carlo Tree Search]({% post_url 2018-05-20-montecarlo-mcts-tree-search %}), the idea is to have strategy that handles exploration (learn new thing) vs exploitation (use what we already know).
 
-The ε-greedy policy do that the following way:
+The [ε-greedy policy](https://huggingface.co/learn/deep-rl-course/unit2/q-learning#step2) do that the following way:
 We start with an initial value of ɛ = 1.0:
 
 - With probability 1-ɛ : we do exploitation (aka our agent selects the action with the highest state-action pair value).
