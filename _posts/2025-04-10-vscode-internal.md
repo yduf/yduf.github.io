@@ -5,12 +5,12 @@ tags: vscode-internal code-review blog-code
 ---
 > Visual Studio Code - Open Source - [github](https://github.com/microsoft/vscode?tab=readme-ov-file#visual-studio-code---open-source-code---oss) / [Source Code Organization](https://github.com/microsoft/vscode/wiki/Source-Code-Organization)
 
+<link rel="shortcut icon" href="https://code.visualstudio.com/favicon.ico" type="image/x-icon" />
 
 - [VSCode - From Vision to Architecture](https://2021.desosa.nl/projects/vscode/posts/essay2/)
 - [Visual Studio Code](https://delftswa.gitbooks.io/desosa-2017/content/vscode/chapter.html)
 - [VSCode Architecture And Overview](https://www.c-sharpcorner.com/article/vscode-architecture-and-overview/)
 
-<link rel="shortcut icon" href="https://code.visualstudio.com/favicon.ico" type="image/x-icon" />
 
 ### [Layers](https://github.com/microsoft/vscode/wiki/Source-Code-Organization#layers)
 
