@@ -3,7 +3,9 @@ title: remap
 published: true
 tags: concept algorithm
 ---
-> What a difference a function makes - [I Like Big Bits](http://www.ilikebigbits.com/2015_02_05_remap.html)
+> What a difference a function makes - [I Like Big Bits](http://www.ilikebigbits.com/2015_02_05_remap.html) / [easings.net/]( http://easings.net/ )
+
+mapping one number line onto another.
 
 [![caption](http://www.ilikebigbits.com/2015_02_05_remap/remap.png) ](http://www.ilikebigbits.com/2015_02_05_remap.html)
 
