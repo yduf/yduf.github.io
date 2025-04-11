@@ -20,7 +20,7 @@ see also
     - [SN DBS](https://www.snsystems.com/) - Used by a lot of game developers, to spread mostly compilation (but also shader compile, or custom jobs).
       - IncrediBuild - https://www.incredibuild.com/
 	- [Fast build](https://www.fastbuild.org/)
-	- [icecream](https://github.com/icecc/icecream) - A more modern alternative to distcc, often easier to set up.
+	- [icecream](https://github.com/icecc/icecream) - [A more modern alternative to distcc, often easier to set up.](https://chatgpt.com/share/67f8cbfc-4924-800d-af3c-1e7143a06bcc)
 	- [distcc]( https://www.distcc.org/)
 	- [Goma](https://chromium.googlesource.com/infra/goma/client/)
 	- [Bazel / buck](https://bazel.build/remote/rbe) / like with various RBE back ends
