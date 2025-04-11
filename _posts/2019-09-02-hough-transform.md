@@ -1,7 +1,7 @@
 ---
 published: true
 title: Hough Transform
-tags: opencv algorithm math transform
+tags: opencv algorithm math transform blog-code
 ---
 > The Hough transform and the [Radon transform](https://en.wikipedia.org/wiki/Radon_transform) are indeed very similar to each other and their relation can be loosely defined as the former being a discretized form of the latter... However, the Hough transform is a quick algorithm that can be prone to certain artifacts. Radon, being more mathematically sound, is more accurate but slower. - [stack](https://dsp.stackexchange.com/questions/470/whats-the-difference-between-the-hough-and-radon-transforms/472#472)
 
@@ -15,3 +15,6 @@ tags: opencv algorithm math transform
 ## [Line Detection](https://docs.opencv.org/2.4/doc/tutorials/imgproc/imgtrans/hough_lines/hough_lines.html)
 
 ## [Circle Detection](https://www.bogotobogo.com/python/OpenCV_Python/python_opencv3_Image_Hough%20Circle_Transform.php)
+
+see also
+- [Hitting the bullseye](http://www.ilikebigbits.com/2017_07_19_hitting_the_bullseye.html) - a new circle detection algorithm which handles all the above issues and with robustness and accuracy. 

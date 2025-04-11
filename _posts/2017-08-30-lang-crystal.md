@@ -4,11 +4,11 @@ published: true
 tags: crystal lang golang
 permalink: /crystal/
 ---
-> A language for humans and computers - [Home](https://crystal-lang.org/) / [HN v1.0.0](https://news.ycombinator.com/item?id=26545082)
+> A language for humans and computers - [Home](https://crystal-lang.org/) / [v1.16.0](https://news.ycombinator.com/item?id=43649618)
 
-{::nomarkdown}
 <link rel="shortcut icon" href="https://crystal-lang.org/favicon.ico" type="image/x-icon" />
-{:/}
+
+- [v1.0.0](https://news.ycombinator.com/item?id=26545082)
 
 {% highlight crystal %}
 #!/usr/bin/env crystal

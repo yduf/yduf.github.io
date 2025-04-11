@@ -1,9 +1,11 @@
 ---
 published: true
 title: VSCode Extension DEV
-tags: vscode
+tags: vscode-internal
 ---
 > We'll teach you the fundamental concepts for building extensions.- [Your First Extension](https://code.visualstudio.com/api/get-started/your-first-extension) / [digitalocean](https://www.digitalocean.com/community/tutorials/how-to-create-your-first-visual-studio-code-extension) / [youtube](https://www.youtube.com/watch?v=srwsnNhiqv8)
+
+<link rel="shortcut icon" href="https://code.visualstudio.com/favicon.ico" type="image/x-icon" />
 
 see also [Typescript](2020-12-07-typescript)
 
