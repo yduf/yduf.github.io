@@ -14,7 +14,7 @@ tags: c++ compiler
 
 see also
 - [Distributed C++ Compiler ](https://news.ycombinator.com/item?id=43008797)
-	- nocc
+	- [nocc](https://github.com/VKCOM/nocc)
     - [SN DBS](https://www.snsystems.com/) - Used by a lot of game developers, to spread mostly compilation (but also shader compile, or custom jobs).
       - IncrediBuild - https://www.incredibuild.com/
 	- [Fast build](https://www.fastbuild.org/)
