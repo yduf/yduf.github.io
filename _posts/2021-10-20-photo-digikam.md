@@ -57,8 +57,9 @@ or in modern system by changing the filesystem view.
 ### [By --config](https://chatgpt.com/share/67f92479-5cd0-800d-995b-2385071be500)
 
 {% highlight bash %}
-$ touch /yourconfigpath/separate_config
-$ digikam --config /yourconfigpath/separate_config # this start the setup from scratch
+$ CONFIG=/yourconfigpath/separate_config
+$ touch ${CONFIG}
+$ digikam --config ${CONFIG} # this start the setup from scratch
 {% endhighlight %}
 
 
