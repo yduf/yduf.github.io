@@ -4,11 +4,11 @@ title: digiKam (DAM)
 tags: application photo hash jxl
 toc: true
 ---
-> Professional Photo Management with the Power of Open Source - [Home](https://www.digikam.org/) / [HN](https://news.ycombinator.com/item?id=23947398) / [Photography (SE)](https://photo.stackexchange.com/search?q=digikam)
+> Professional Photo Management with the Power of Open Source - An alternative [to Picasa](https://shotkit.com/best-picasa-alternative/) - [Home](https://www.digikam.org/) / [HN](https://news.ycombinator.com/item?id=23947398) / [Photography (SE)](https://photo.stackexchange.com/search?q=digikam)
 
 <link rel="shortcut icon" href="https://www.digikam.org/favicon-32x32.png" type="image/png" />
 
-An alternative [to Picasa](https://shotkit.com/best-picasa-alternative/)
+
 
 ### Notes
 - digiKam [**Album**](https://docs.digikam.org/en/main_window/albums_view.html#id6) correspond directly to **Folder** on filesystem
@@ -54,7 +54,7 @@ Digikam does not offer that natively. To overcome that, the solution is to redir
 This ban be done by changing the content of `~/.config/digikamrc` throught a script (see below),
 or in modern system by changing the filesystem view.
 
-### [By --config](https://chatgpt.com/share/67f92479-5cd0-800d-995b-2385071be500)
+### [Using --config](https://chatgpt.com/share/67f92479-5cd0-800d-995b-2385071be500)
 
 {% highlight bash %}
 $ CONFIG=/yourconfigpath/separate_config
