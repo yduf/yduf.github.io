@@ -1,7 +1,7 @@
 ---
 published: true
 title: A Big Little Idea Called Legibility
-tags: despair.com complexity book psychology
+tags: despair.com complexity book psychology simplicity
 ---
 > How, across dozens of domains, ranging from agriculture and forestry, to urban planning and census-taking, a very predictable failure pattern keeps recurring... The big mistake in this pattern of failure is projecting your subjective lack of comprehension onto the object you are looking at, as “irrationality.” We make this mistake because we are tempted by a desire for legibility. - [Venkatesh Rao](https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/) / [HN](https://news.ycombinator.com/item?id=21996377)
 
