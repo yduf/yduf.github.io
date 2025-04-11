@@ -2,6 +2,7 @@
 published: true
 title: digiKam (DAM)
 tags: application photo hash jxl
+toc: true
 ---
 > Professional Photo Management with the Power of Open Source - [Home](https://www.digikam.org/) / [HN](https://news.ycombinator.com/item?id=23947398) / [Photography (SE)](https://photo.stackexchange.com/search?q=digikam)
 
@@ -46,14 +47,22 @@ The path to the database are stored in `~/.config/digikamrc` (look for _"Databas
 see also
 - [Database Settings](https://docs.digikam.org/en/setup_application/database_settings.html#database-settings)
 
-### How to use multiple photo libraries with DigiKam
+## How to use multiple photo libraries with DigiKam
 
 Digikam does not offer that natively. To overcome that, the solution is to redirect the config to a different set of database corresponding to a different photo libraries.
 
 This ban be done by changing the content of `~/.config/digikamrc` throught a script (see below),
 or in modern system by changing the filesystem view.
 
-[**By Filesystem boxxing**]({% post_url 2017-11-27-CG-meanmax %})
+### [By --config](https://chatgpt.com/share/67f92479-5cd0-800d-995b-2385071be500)
+
+{% highlight bash %}
+$ touch /yourconfigpath/separate_config
+$ digikam --config /yourconfigpath/separate_config # this start the setup from scratch
+{% endhighlight %}
+
+
+### [By Filesystem boxxing]({% post_url 2017-11-27-CG-meanmax %}) - didn't work
 
 For ex using following rules
 {% highlight ini %}
@@ -76,7 +85,7 @@ boxxy --rule '~/.config/digikamrc:~/.config/digikamrc-lib1:file' ~/app/digiKam-8
 
 Which is less intrusive that the previous approach below, as well as allowing to launch at the same time 2 different instance of digiKam pointing to 2 different photo collections (which other approach does not support).
 
-**By Scripting (obsolete)**
+### By Scripting
 - [How to use multiple photo libraries with DigiKam](https://unix.cafe/wp/en/2020/08/how-to-use-multiple-photo-libraries-with-digikam/) / [github](https://github.com/DeaDSouL/unix.cafe_digikam-multiple-libraries)
 
 The `digikamctl` script create & switch .config/digikamrc file, associating db automatically
