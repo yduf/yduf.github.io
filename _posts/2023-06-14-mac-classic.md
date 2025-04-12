@@ -3,7 +3,7 @@ published: true
 title: Classic Macintosh
 tags: 3dprint retro project macintosh
 ---
-> Tiny Mac III (Pi 4) - [instructable](https://www.instructables.com/Tiny-Mac-II-Pi-Zero-2-and-Tiny-Mac-III-Pi-4-With-A/) / [HN](https://news.ycombinator.com/item?id=36289682)
+> Tiny Mac III (Pi 4) - [instructable](https://www.instructables.com/Tiny-Mac-II-Pi-Zero-2-and-Tiny-Mac-III-Pi-4-With-A/) / [HN](https://news.ycombinator.com/item?id=36289682) / [r/VintageApple ](https://www.reddit.com/r/VintageApple/)
 
 <link rel="shortcut icon" href="https://img.icons8.com/?size=100&id=22195&format=png" type="image/x-icon" />
 
