@@ -16,7 +16,7 @@ toc: true
 **The biggest CON for digiKam is the delete function. If you delete a file from the app it is deleted from the drive.**   
 If you delete a picture, it first goes to digikam's trash `.dtrash` in same folder as where the photo was - [r/homelab](https://www.reddit.com/r/homelab/comments/kktqqw/digikam_pros_cons_alternatives_for_photo/)
 
-### digiKam [features](https://www.digikam.org/about/features/)
+## digiKam [features](https://www.digikam.org/about/features/)
 - [tags & face tags](https://userbase.kde.org/Digikam/Tutorials/Tagging_and_Face_Tags)
 - [quality sorter](https://photo.stackexchange.com/questions/70858/how-does-the-digikam-quality-sorter-work?r=SearchResults)
 - complement [DarkTable]({% post_url 2021-07-03-photo-app %})
@@ -33,7 +33,7 @@ If you delete a picture, it first goes to digikam's trash `.dtrash` in same fold
 [![caption](https://docs.digikam.org/en/_images/architecture.webp)](https://docs.digikam.org/en/getting_started/introduction.html)
 
 
-## Database
+# Database
 
 As of 8.x Digikam manages more than one database. For convenience, it is broadly categorized in three:
 
@@ -51,8 +51,7 @@ see also
 
 Digikam does not offer that natively. To overcome that, the solution is to redirect the config to a different set of database corresponding to a different photo libraries.
 
-This ban be done by changing the content of `~/.config/digikamrc` throught a script (see below),
-or in modern system by changing the filesystem view.
+This can be achieved in several way, the simplest being to redirect to a different config when launching digikam. Previous attempt were more complex because of lacking the knowledge of the `--config` option. They try to do the same by changing the content of `~/.config/digikamrc` throught a script (see below), or in modern system by changing the filesystem view.
 
 ### [Using --config](https://chatgpt.com/share/67f92479-5cd0-800d-995b-2385071be500)
 
@@ -61,6 +60,15 @@ $ CONFIG=/yourconfigpath/separate_config
 $ touch ${CONFIG}
 $ digikam --config ${CONFIG} # this start the setup from scratch
 {% endhighlight %}
+
+
+**All other approch below are more complex.**
+
+
+### By Scripting
+- [How to use multiple photo libraries with DigiKam](https://unix.cafe/wp/en/2020/08/how-to-use-multiple-photo-libraries-with-digikam/) / [github](https://github.com/DeaDSouL/unix.cafe_digikam-multiple-libraries)
+
+The `digikamctl` script create & switch .config/digikamrc file, associating db automatically
 
 
 ### [By Filesystem boxxing]({% post_url 2017-11-27-CG-meanmax %}) - didn't work
@@ -85,11 +93,6 @@ boxxy --rule '~/.config/digikamrc:~/.config/digikamrc-lib1:file' ~/app/digiKam-8
 {% endhighlight %}
 
 Which is less intrusive that the previous approach below, as well as allowing to launch at the same time 2 different instance of digiKam pointing to 2 different photo collections (which other approach does not support).
-
-### By Scripting
-- [How to use multiple photo libraries with DigiKam](https://unix.cafe/wp/en/2020/08/how-to-use-multiple-photo-libraries-with-digikam/) / [github](https://github.com/DeaDSouL/unix.cafe_digikam-multiple-libraries)
-
-The `digikamctl` script create & switch .config/digikamrc file, associating db automatically
 
 
 ## Issue
