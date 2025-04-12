@@ -1,7 +1,7 @@
 ---
 title: Valgrind (profiler & memory check)
 published: true
-tags: benchmarking profiler c++ debug-c++
+tags: benchmarking profiler c++-memory debug-c++
 ---
 > Valgrind is an instrumentation framework for building dynamic analysis tools. - [Valgrind](http://valgrind.org/) / [git](https://sourceware.org/git/?p=valgrind.git;a=summary)
 
