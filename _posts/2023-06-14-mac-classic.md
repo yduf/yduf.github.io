@@ -33,7 +33,19 @@ tags: 3dprint retro project macintosh in-progress
 
 - [retrofitted Macintosh Classic ](https://www.reddit.com/r/VintageApple/comments/q2x90k/my_new_retrofitted_macintosh_classic/)
 
-### see also
+# Project
+
+- Mac Classic HS - 50€
+- clavier sans fil
+- Ecran IPS 4/3
+- carte N305 / ou switch avec le NAS ?
+- picotron onboard 
+	- requiert un amd64.
+    
+### Purpose ?
+
+
+## see also
 
 - [Macintosh Classic](https://oldcrap.org/2018/10/31/apple-macintosh-classic/)
 
