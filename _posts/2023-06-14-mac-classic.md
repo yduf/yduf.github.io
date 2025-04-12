@@ -35,11 +35,11 @@ tags: 3dprint retro project macintosh in-progress
 
 # Project
 
-- Mac Classic HS - 50€
+- Mac Classic HS - 50€ (leboncoin)
 - clavier sans fil
 - Ecran IPS 4/3
 - carte N305 / ou switch avec le NAS ?
-- picotron onboard 
+- [picotron onboard]({% post_url 2025-04-12-main-picotron %})
 	- requiert un amd64.
     
 ### Purpose ?
