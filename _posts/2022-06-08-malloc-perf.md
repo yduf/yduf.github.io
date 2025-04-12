@@ -1,7 +1,7 @@
 ---
 published: true
 title: Malloc perf
-tags: malloc memory allocator c++ fastware latency
+tags: malloc memory allocator c++-memory fastware latency
 ---
 > What is the worst-case performance for malloc on a modern machine in practice? - [Benchmarking Malloc with Doom 3 - ForrestTheWoods](https://www.forrestthewoods.com/blog/benchmarking-malloc-with-doom3/)
 
