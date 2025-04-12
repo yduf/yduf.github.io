@@ -5,6 +5,8 @@ tags: 3dprint retro project
 ---
 > Tiny Mac III (Pi 4) - [instructable](https://www.instructables.com/Tiny-Mac-II-Pi-Zero-2-and-Tiny-Mac-III-Pi-4-With-A/) / [HN](https://news.ycombinator.com/item?id=36289682)
 
+<link rel="shortcut icon" href="https://img.icons8.com/?size=100&id=22195&format=png" type="image/x-icon" />
+
 ### 3dprinted
 
 - [3D Printed Full-Size Macintosh - The Brewintosh](https://www.youtube.com/watch?v=7N9oz4Ylzm4&list=PLh9akXp2EH2CBLVl-UZKirYpzl8suuAYc&index=1) / [arstechnica](https://arstechnica.com/gadgets/2024/03/3d-printed-mac-replica-is-a-maker-masterwork-inside-an-entirely-accurate-shell/) - full reconstruction of a  Macintosh from scratch.
