@@ -1,7 +1,7 @@
 ---
 published: true
-title: Classic Macintosh
-tags: 3dprint retro project macintosh
+title: "Classic Macintosh \U0001F6A7"
+tags: 3dprint retro project macintosh in-progress
 ---
 > Tiny Mac III (Pi 4) - [instructable](https://www.instructables.com/Tiny-Mac-II-Pi-Zero-2-and-Tiny-Mac-III-Pi-4-With-A/) / [HN](https://news.ycombinator.com/item?id=36289682) / [r/VintageApple ](https://www.reddit.com/r/VintageApple/)
 
