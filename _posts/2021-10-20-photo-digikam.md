@@ -57,8 +57,8 @@ This can be achieved in several way, the simplest being to redirect to a differe
 
 {% highlight bash %}
 $ CONFIG=/yourconfigpath/separate_config
-$ touch ${CONFIG}
-$ digikam --config ${CONFIG} # this start the setup from scratch
+$ touch ${CONFIG}              # digikam require the config file to exist when using --config  
+$ digikam --config ${CONFIG}   # this start the setup from scratch
 {% endhighlight %}
 
 
