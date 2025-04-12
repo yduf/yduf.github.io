@@ -10,6 +10,9 @@ tags: 3dprint retro project macintosh
 ### 3dprinted
 
 - [3D Printed Full-Size Macintosh - The Brewintosh](https://www.youtube.com/watch?v=7N9oz4Ylzm4&list=PLh9akXp2EH2CBLVl-UZKirYpzl8suuAYc&index=1) / [arstechnica](https://arstechnica.com/gadgets/2024/03/3d-printed-mac-replica-is-a-maker-masterwork-inside-an-entirely-accurate-shell/) - full reconstruction of a  Macintosh from scratch.
+	- [STL & part info](https://kevinnoki.gumroad.com/l/Brewintosh)
+    	- [3,5" drive](https://www.amazon.fr/dp/B099RC7B5Y?tag=nokioneuk06-21&geniuslink=true)
+        
 - [Making a Tiny Mac From a Raspberry Pi Zero](https://www.instructables.com/Making-a-Tiny-Mac-From-a-Raspberry-Pi-Zero/) / [thingiverse](https://www.thingiverse.com/thing:4887100)
 - [Making a Small Mac From a Raspberry Pi 3](https://www.instructables.com/Making-a-Small-Mac-From-a-Raspberry-3/) - uses a 3.5 inch display
 	- []()
