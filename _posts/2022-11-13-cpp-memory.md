@@ -5,7 +5,6 @@ tags: c++ memory fastware GC
 ---
 > the main reason C++ can be faster than the Java memory management is that it has value objects, which can avoid a lot of heap allocation (and pointer chasing) even without replacing it with stack allocation. Consider for instance an array of objects, in C++ it can be a single allocation, while Java requires one allocation for each object, plus another allocation for the array itself. - [HN](https://news.ycombinator.com/item?id=33575039)
 
-<a href="https://x.com/lexaloffle/status/1164102124092792832" style="text-decoration: none;">
 <pre style="font-family: monospace;">
 ┏┓ 
 ┃┃╱╲ in
