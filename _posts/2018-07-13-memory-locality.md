@@ -1,7 +1,7 @@
 ---
 title: Memory locality vs Algorithm <=> vector vs List (Herb)
 published: true
-tags: c++ fastware memory
+tags: c++-memory fastware memory
 ---
 ## [Modern C++: What You Need to Know](https://channel9.msdn.com/Events/Build/2014/2-661) - Herb Sutter - 2014
 
