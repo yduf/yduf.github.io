@@ -1,7 +1,7 @@
 ---
 published: true
 title: Variable length struct in C++
-tags: c++ array
+tags: c++-memory array
 ---
 > since it's a POD, everything works just like it did in C. - [SO](https://stackoverflow.com/a/19970507/51386)
 
