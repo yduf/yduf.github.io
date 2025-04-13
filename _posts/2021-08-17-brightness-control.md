@@ -5,7 +5,7 @@ tags: screen display brightness daylight macos-system
 ---
 > supports an arbitrary number of displays!
 
-[**Brightness Controller**](https://github.com/lordamit/Brightness) changes [gamma]({% post_url 2020-06-29-redshift %}) and not hardware setting and as such is equivalent to `xrandr`.
+[**Brightness Controller**](https://github.com/lordamit/Brightness) changes [gamma]({% post_url 2020-06-29-display-redshift %}) and not hardware setting and as such is equivalent to `xrandr`.
 
 see also
 - [	How to improve your WFH lighting to reduce eye strain ](https://news.ycombinator.com/item?id=42796950) - When it comes to light brightness, too much is just as problematic as too little
