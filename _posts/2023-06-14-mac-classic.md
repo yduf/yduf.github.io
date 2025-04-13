@@ -30,7 +30,7 @@ toc: true
     	- [Polymaker Muted White Filament](https://www.amazon.com/dp/B09TR8N5T2?ref_=cm_sw_r_apin_dp_DMVE72X7YWNSX8ZFFE8K) 
         - Platinum PLA Filament (hex code: #BFBCB1) for newer Macs
 
-### Repair & Restoration
+## Repair & Restoration
 
 - [1991 Apple Macintosh Classic I Repair & Restoration](https://retrorepairsandrefurbs.com/2023/06/22/1991-apple-macintosh-classic-i-repair-restoration/)
 
@@ -39,9 +39,12 @@ toc: true
 	- [cleaning case](https://youtu.be/hwMAmKAoIkA?si=YRCCufmRnFLt_88q&t=606) - with hydrogen peroxyde bath + uv light
 - [Macintosh SE Restoration](https://www.youtube.com/watch?v=wXWlJFrX19s)
 	- [CRT handling](https://youtu.be/wXWlJFrX19s?si=iym1iMN2EnSPOQhu&t=268)
-    - [cleaning case](https://youtu.be/wXWlJFrX19s?si=L4vHJeL8XdlmXszw&t=386) - [with 3% hydrogen peroxyde and plastic wrap + 4sun hours](https://www.youtube.com/watch?v=bJZSrRU1xt4)
-    	- [hydrogen peroxide cream](https://www.amazon.fr/s?k=hydrogen+peroxide+cream&__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HMB39DGQCZ6G&sprefix=hydrogen+peroxide+cream%2Caps%2C419&ref=nb_sb_noss) - [12% + plastic wrap](https://www.youtube.com/watch?v=RsIwIHJt_ps)
-        - [nouvelles techniques pour restaurer des plastiques jaunis !](https://www.youtube.com/watch?v=qZYbchvSUDY)
+    
+### [Cleaning case](https://youtu.be/wXWlJFrX19s?si=L4vHJeL8XdlmXszw&t=386) 
+
+- [with 3% hydrogen peroxyde and plastic wrap + 4sun hours](https://www.youtube.com/watch?v=bJZSrRU1xt4)
+    - [hydrogen peroxide cream](https://www.amazon.fr/s?k=hydrogen+peroxide+cream&__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HMB39DGQCZ6G&sprefix=hydrogen+peroxide+cream%2Caps%2C419&ref=nb_sb_noss) - [12% + plastic wrap](https://www.youtube.com/watch?v=RsIwIHJt_ps)
+- [nouvelles techniques pour restaurer des plastiques jaunis !](https://www.youtube.com/watch?v=qZYbchvSUDY) - chauffée a 71°
 
 ### [Reusing CRT Video](https://chatgpt.com/share/67fb7b5d-7c2c-800d-adf6-a2f57d0aced3)
 - [Generate a VGA signal for inboard CRT](https://www.hackster.io/news/revive-your-old-macintosh-classic-with-a-raspberry-pi-0e679f8bd168) from a raspberry pi GPIO, see  [instructables](https://www.instructables.com/Turn-a-Broken-Mac-Classic-Into-a-Modern-day-Raspbe/)
