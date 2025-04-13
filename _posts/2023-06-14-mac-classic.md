@@ -36,7 +36,10 @@ toc: true
 
 - [Macintosh Classic disassembly](https://www.ifixit.com/Guide/Macintosh+Classic+disassembly/155322)
 - [Macintosh Classic Restoration](https://www.youtube.com/watch?v=hwMAmKAoIkA)
-	- [clean case](https://youtu.be/hwMAmKAoIkA?si=YRCCufmRnFLt_88q&t=606)
+	- [cleaning case](https://youtu.be/hwMAmKAoIkA?si=YRCCufmRnFLt_88q&t=606) - with hydrogen peroxyde bath + uv light
+- [Macintosh SE Restoration](https://www.youtube.com/watch?v=wXWlJFrX19s)
+	- [CRT handling](https://youtu.be/wXWlJFrX19s?si=iym1iMN2EnSPOQhu&t=268)
+    - [cleaning case](https://youtu.be/wXWlJFrX19s?si=L4vHJeL8XdlmXszw&t=386) - with hydrogen peroxyde and plastic wrap + 4sun hours
 
 ### [Reusing CRT Video](https://chatgpt.com/share/67fb7b5d-7c2c-800d-adf6-a2f57d0aced3)
 - [Generate a VGA signal for inboard CRT](https://www.hackster.io/news/revive-your-old-macintosh-classic-with-a-raspberry-pi-0e679f8bd168) from a raspberry pi GPIO, see  [instructables](https://www.instructables.com/Turn-a-Broken-Mac-Classic-Into-a-Modern-day-Raspbe/)
