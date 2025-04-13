@@ -40,7 +40,8 @@ tags: 3dprint retro project macintosh in-progress
 ### [Reusing CRT Video](https://chatgpt.com/share/67fb7b5d-7c2c-800d-adf6-a2f57d0aced3)
 - [Generate a VGA signal for inboard CRT](https://www.hackster.io/news/revive-your-old-macintosh-classic-with-a-raspberry-pi-0e679f8bd168) / [instructables](https://www.instructables.com/Turn-a-Broken-Mac-Classic-Into-a-Modern-day-Raspbe/)
 
-- [video board](https://www.youtube.com/watch?time_continue=1441&v=pvjsXbz1xlk&source_ve_path=Mjg2NjY) - exporting analog to hdmi
+- [guide on RGBTOHDMI](https://tinkerdifferent.com/threads/my-little-guide-on-rgbtohdmi-installed-on-classic-plus-etc.2475/)
+	- [video board](https://www.youtube.com/watch?time_continue=1441&v=pvjsXbz1xlk&source_ve_path=Mjg2NjY) - exporting analog to hdmi
 
 ### Electronic
 
