@@ -49,10 +49,11 @@ toc: true
 
 - [Macintosh Classic Schematic (bomarc).pdf (bomarc)](https://github.com/nickpunt/nubus-se30/blob/master/Schematics/bomarc/Macintosh%20Classic%20Schematic%20(bomarc).pdf)
 
-# Project
+# Project - rehousing
 
 - [retrofitted Macintosh Classic ](https://www.reddit.com/r/VintageApple/comments/q2x90k/my_new_retrofitted_macintosh_classic/)
 - [Macintosh Classic II Color Hackintosh](https://www.instructables.com/Macintosh-Classic-II-Color-Hackintosh/)
+- [cutting back panel](https://youtu.be/nguN392TH-g?si=MQ8X2YtvCZiFf07-&t=429)
 
 - Mac Classic HS - 50€ (leboncoin)
 - clavier sans fil
