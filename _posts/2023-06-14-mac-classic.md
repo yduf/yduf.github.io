@@ -53,7 +53,12 @@ toc: true
 
 - [retrofitted Macintosh Classic ](https://www.reddit.com/r/VintageApple/comments/q2x90k/my_new_retrofitted_macintosh_classic/)
 - [Macintosh Classic II Color Hackintosh](https://www.instructables.com/Macintosh-Classic-II-Color-Hackintosh/)
-- [cutting back panel](https://youtu.be/nguN392TH-g?si=MQ8X2YtvCZiFf07-&t=429)
+- [Mac Classic Retrofit - Breathe new life into a classic!](https://www.youtube.com/watch?v=nguN392TH-g)
+	- [cutting back panel](https://youtu.be/nguN392TH-g?si=MQ8X2YtvCZiFf07-&t=429)
+    
+- [Remodelling the Mac Classic II into a PC](https://www.youtube.com/watch?v=j3Esy8NP9bo)
+
+- [Bad: Fitting a fulll PC (with too much cut)](https://www.youtube.com/watch?v=zBrjSIqgD1A)
 
 - Mac Classic HS - 50€ (leboncoin)
 - clavier sans fil
