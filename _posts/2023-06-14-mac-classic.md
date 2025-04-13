@@ -35,16 +35,20 @@ tags: 3dprint retro project macintosh in-progress
 
 - [Macintosh Classic disassembly](https://www.ifixit.com/Guide/Macintosh+Classic+disassembly/155322)
 - [Macintosh Classic Restoration](https://www.youtube.com/watch?v=hwMAmKAoIkA)
+	- [clean case](https://youtu.be/hwMAmKAoIkA?si=YRCCufmRnFLt_88q&t=606)
 
-- [Generate a VGA signal for inboard CRT](https://www.hackster.io/news/revive-your-old-macintosh-classic-with-a-raspberry-pi-0e679f8bd168)
+### [Reusing CRT Video](https://chatgpt.com/share/67fb7b5d-7c2c-800d-adf6-a2f57d0aced3)
+- [Generate a VGA signal for inboard CRT](https://www.hackster.io/news/revive-your-old-macintosh-classic-with-a-raspberry-pi-0e679f8bd168) / [instructables](https://www.instructables.com/Turn-a-Broken-Mac-Classic-Into-a-Modern-day-Raspbe/)
 
-- [retrofitted Macintosh Classic ](https://www.reddit.com/r/VintageApple/comments/q2x90k/my_new_retrofitted_macintosh_classic/)
+- [video board](https://www.youtube.com/watch?time_continue=1441&v=pvjsXbz1xlk&source_ve_path=Mjg2NjY) - exporting analog to hdmi
 
 ### Electronic
 
 - [Macintosh Classic Schematic (bomarc).pdf (bomarc)](https://github.com/nickpunt/nubus-se30/blob/master/Schematics/bomarc/Macintosh%20Classic%20Schematic%20(bomarc).pdf)
 
 # Project
+
+- [retrofitted Macintosh Classic ](https://www.reddit.com/r/VintageApple/comments/q2x90k/my_new_retrofitted_macintosh_classic/)
 
 - Mac Classic HS - 50€ (leboncoin)
 - clavier sans fil
