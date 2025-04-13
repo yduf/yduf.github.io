@@ -45,6 +45,7 @@ toc: true
 - [with 3% hydrogen peroxyde and plastic wrap + 4sun hours](https://www.youtube.com/watch?v=bJZSrRU1xt4)
     - [hydrogen peroxide cream](https://www.amazon.fr/s?k=hydrogen+peroxide+cream&__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HMB39DGQCZ6G&sprefix=hydrogen+peroxide+cream%2Caps%2C419&ref=nb_sb_noss) - [12% + plastic wrap](https://www.youtube.com/watch?v=RsIwIHJt_ps)
 - [nouvelles techniques pour restaurer des plastiques jaunis !](https://www.youtube.com/watch?v=qZYbchvSUDY) - chauffée a 71°
+- [Retr0bright](https://www.youtube.com/watch?v=xBS_UEV35W4) - de-yellowing do's, dont's, and playing devil's advocate
 
 ### [Reusing CRT Video](https://chatgpt.com/share/67fb7b5d-7c2c-800d-adf6-a2f57d0aced3)
 - [Generate a VGA signal for inboard CRT](https://www.hackster.io/news/revive-your-old-macintosh-classic-with-a-raspberry-pi-0e679f8bd168) from a raspberry pi GPIO, see  [instructables](https://www.instructables.com/Turn-a-Broken-Mac-Classic-Into-a-Modern-day-Raspbe/)
