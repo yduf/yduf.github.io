@@ -15,13 +15,15 @@ tags: 3dprint retro project macintosh in-progress
 	- [STL & part info](https://kevinnoki.gumroad.com/l/Brewintosh)
     	- [3,5" drive](https://www.amazon.fr/dp/B099RC7B5Y?tag=nokioneuk06-21&geniuslink=true)
         
-- [Making a Tiny Mac From a Raspberry Pi Zero](https://www.instructables.com/Making-a-Tiny-Mac-From-a-Raspberry-Pi-Zero/) / [thingiverse](https://www.thingiverse.com/thing:4887100)
+- [Making a Tiny Mac From a Raspberry Pi Zero](https://www.instructables.com/Making-a-Tiny-Mac-From-a-Raspberry-Pi-Zero/)
+	- [thingiverse](https://www.thingiverse.com/thing:4887100)
+    - [thingiverse](https://www.thingiverse.com/thing:4424878)
 - [Making a Small Mac From a Raspberry Pi 3](https://www.instructables.com/Making-a-Small-Mac-From-a-Raspberry-3/) - uses a 3.5 inch display
 	- []()
 
 
 **Free models**
-- [macintosh classic housing (life size) ](https://cults3d.com/en/3d-model/gadget/macintosh-classic-housing-life-size) / [thingiverse](https://www.thingiverse.com/thing:4424878)
+- [macintosh classic housing (life size) ](https://cults3d.com/en/3d-model/gadget/macintosh-classic-housing-life-size) 
 - [thingiverse](https://www.thingiverse.com/yd007/collections/38664602/things)
 	- [Macintosh Classic Mini](https://www.thingiverse.com/thing:5980485)
     	- [Polymaker Muted White Filament](https://www.amazon.com/dp/B09TR8N5T2?ref_=cm_sw_r_apin_dp_DMVE72X7YWNSX8ZFFE8K) 
