@@ -56,8 +56,8 @@ toc: true
 - [Mac Classic Retrofit - Breathe new life into a classic!](https://www.youtube.com/watch?v=nguN392TH-g)
 	- [cutting back panel](https://youtu.be/nguN392TH-g?si=MQ8X2YtvCZiFf07-&t=429)
     
-- [Remodelling the Mac Classic II into a PC](https://www.youtube.com/watch?v=j3Esy8NP9bo)
-
+**Fiting a Full PC**
+- [Less Bad: Remodelling the Mac Classic II into a PC](https://www.youtube.com/watch?v=j3Esy8NP9bo)
 - [Bad: Fitting a fulll PC (with too much cut)](https://www.youtube.com/watch?v=zBrjSIqgD1A)
 
 - Mac Classic HS - 50€ (leboncoin)
