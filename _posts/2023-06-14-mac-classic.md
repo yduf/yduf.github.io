@@ -68,6 +68,6 @@ tags: 3dprint retro project macintosh in-progress
 ## see also
 
 - [Macintosh Classic](https://oldcrap.org/2018/10/31/apple-macintosh-classic/)
-
+- [The Macintosh Garden](https://macintoshgarden.org/)
 
 [![caption](https://retrorepairsandrefurbs.com/wp-content/uploads/2023/07/img_2500-1.jpg?w=3136)](https://retrorepairsandrefurbs.com/2023/06/22/1991-apple-macintosh-classic-i-repair-restoration/)
