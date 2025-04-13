@@ -33,6 +33,10 @@ tags: 3dprint retro project macintosh in-progress
 
 - [retrofitted Macintosh Classic ](https://www.reddit.com/r/VintageApple/comments/q2x90k/my_new_retrofitted_macintosh_classic/)
 
+### Electronic
+
+- [Macintosh Classic Schematic (bomarc).pdf (bomarc)](https://github.com/nickpunt/nubus-se30/blob/master/Schematics/bomarc/Macintosh%20Classic%20Schematic%20(bomarc).pdf)
+
 # Project
 
 - Mac Classic HS - 50€ (leboncoin)
@@ -42,7 +46,11 @@ tags: 3dprint retro project macintosh in-progress
 - [picotron onboard]({% post_url 2025-04-12-main-picotron %})
 	- requiert un amd64.
     
-### Purpose ?
+### [Purpose ?](https://chatgpt.com/share/67fa94de-8158-800d-ba9a-e3204a09ec7d)
+- could be a 2.5Gb switch
+- could host nginx
+- could be tied to the second availabe monitor
+
 
 
 ## see also
