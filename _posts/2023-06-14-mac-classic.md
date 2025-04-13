@@ -57,6 +57,7 @@ toc: true
 	- [video board](https://www.youtube.com/watch?time_continue=1441&v=pvjsXbz1xlk&source_ve_path=Mjg2NjY) - exporting analog to hdmi
     
 see also
+- [J'ai construit un Mac IMPOSSIBLE](https://www.youtube.com/watch?v=Nzj17eXgvO8)
 - [I Built a "Mac Minus" With a Real CRT](https://www.youtube.com/watch?v=1aZgCDQHiIw)
 	- old a B&W CRT from old small TV
 
