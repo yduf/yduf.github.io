@@ -1,7 +1,7 @@
 ---
 published: true
 title: RedShift
-tags: red brightness
+tags: red display brightness
 ---
 > Experimentation for getting submarine environment for night work.
 
