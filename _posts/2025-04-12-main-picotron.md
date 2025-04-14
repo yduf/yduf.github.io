@@ -9,3 +9,6 @@ tags: picotron
 
 - [Wor](https://www.reddit.com/r/picotron/comments/1ikk759/wor_games_the_picotron_shines_with_another/)
 - [Phoenix](https://www.reddit.com/r/picotron/comments/1fewmok/phoenix_a_brand_new_version_of_phoenix_for_2024/)
+
+### Tutorial
+- [Picotron GUI](https://www.reddit.com/r/picotron/comments/1ep54s7/picotron_gui_cpu_usage_and_troubleshooting/)
