@@ -79,14 +79,27 @@ see also
 - Mac Classic HS - 50€ (leboncoin)
 - clavier sans fil
 - Ecran IPS 4/3
-- [carte N305](https://nascompares.com/guide/the-best-m-itx-cpumotherboard-combo-for-your-nas-build/#Best_CPU_Motherboard_for_a_Premium_Feature_but_Low_Power_Consumption_NAS_-_The_i3-N305_M-ITX_Board) / ou switch avec le NAS ?
-	- i3 N305 is limited to 16Go
 - [picotron onboard]({% post_url 2025-04-12-main-picotron %})
 	- requiert un amd64.
     
+<table>
+  {% for row in site.data.minimac %}
+    {% if forloop.first %}
+    <tr>
+      {% for pair in row %}
+        <th>{{ pair[0] }}</th>
+      {% endfor %}
+    </tr>
+    {% endif %}
+
+    {% tablerow pair in row %}
+      {{ pair[1] | markdownify }}
+    {% endtablerow %}
+  {% endfor %}
+</table>
     
 ### [Purpose ?](https://chatgpt.com/share/67fa94de-8158-800d-ba9a-e3204a09ec7d)
-- could be a 2.5Gb switch
+- ~~could be a 2.5Gb switch~~
 - could host nginx
 - could be tied to the second availabe monitor
 
