@@ -1,7 +1,7 @@
 ---
 title: Picotron
 published: true
-tags: picotron
+tags: picotron pico8 retro 8bit platform codingame blog-code
 ---
 > The virtual computer - [v0.2.0c](https://www.lexaloffle.com/picotron.php) / [r/picotron](https://www.reddit.com/r/picotron/)
 
