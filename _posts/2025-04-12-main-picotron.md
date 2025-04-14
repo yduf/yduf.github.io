@@ -3,7 +3,7 @@ title: Picotron
 published: true
 tags: picotron
 ---
-> The virtual computer - [r/picotron](https://www.reddit.com/r/picotron/)
+> The virtual computer - [v0.2.0c](https://www.lexaloffle.com/picotron.php) / [r/picotron](https://www.reddit.com/r/picotron/)
 
 - [User Manual](https://www.lexaloffle.com/dl/docs/picotron_manual.html#Picotron_User_Manual)
 
