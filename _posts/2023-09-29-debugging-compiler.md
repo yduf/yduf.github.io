@@ -11,4 +11,4 @@ digits of the hash of function names that should use the new backend. - [binary 
 [![caption](https://haqr.eu/tinycompiler/home/compiler.png)](https://haqr.eu/tinycompiler/)
 
 see also
-- [ TinyCompiler](https://news.ycombinator.com/item?id=43120873) - A compiler in a week-end
+- [ TinyCompiler](https://yduf.github.io/debugging-compiler/)/ [HN](https://news.ycombinator.com/item?id=43120873) - A compiler in a week-end
