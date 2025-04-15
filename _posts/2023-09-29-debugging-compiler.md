@@ -1,7 +1,7 @@
 ---
 published: true
 title: Debugging a compiler
-tags: compiler hash debug search
+tags: compiler hash debug search blog-code
 ---
 > The old and new backends coexisted, and we could use either
 for any given function in the compilation. Keith introduced an
