@@ -7,4 +7,6 @@ tags: linux-system
 
 ### [Plymmouth](https://www.freedesktop.org/wiki/Software/Plymouth/)
 
+- [unbuntu wiki](https://wiki.ubuntu.com/Plymouth)
 - [plymouth-themes](https://github.com/adi1090x/plymouth-themes?tab=readme-ov-file#plymouth-themes)
+
