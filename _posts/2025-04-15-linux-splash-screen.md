@@ -8,5 +8,7 @@ tags: linux-system
 ### [Plymmouth](https://www.freedesktop.org/wiki/Software/Plymouth/)
 
 - [unbuntu wiki](https://wiki.ubuntu.com/Plymouth)
+
+[How do I change the plymouth bootscreen?](https://askubuntu.com/questions/2007/how-do-i-change-the-plymouth-bootscreen)
 - [plymouth-themes](https://github.com/adi1090x/plymouth-themes?tab=readme-ov-file#plymouth-themes)
 
