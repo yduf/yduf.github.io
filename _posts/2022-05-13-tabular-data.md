@@ -26,6 +26,4 @@ tags: file db array parquet csv
 see also
 - [Working with CSV files on shell/terminal](https://news.ycombinator.com/item?id=36501364)
 - [A love letter to the CSV format](https://github.com/medialab/xan/blob/master/docs/LOVE_LETTER.md) / [HN](https://news.ycombinator.com/item?id=43484382)
-	- dead simple
-    - text
-    - streamable
+	- dead simple + text + streamable
