@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Classic Macintosh \U0001F6A7"
+title: "Macintosh Classic \U0001F6A7"
 tags: 3dprint retro project macintosh pc-hardware in-progress
 toc: true
 ---
