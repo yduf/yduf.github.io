@@ -5,6 +5,11 @@ tags: linux-system boot
 ---
 > [How to change it?](https://chatgpt.com/share/67fdfdd4-46d0-800d-9741-ad469fedc367)
 
+### Grub
+- [AWESOME Boot Loader Themes for GRUB](https://www.youtube.com/watch?v=nZu0rEgJcXA)
+	- [GRUB Themes](https://www.gnome-look.org/browse?cat=109&ord=rating)
+
+
 ### [Plymmouth](https://www.freedesktop.org/wiki/Software/Plymouth/)
 
 - [unbuntu wiki](https://wiki.ubuntu.com/Plymouth)
