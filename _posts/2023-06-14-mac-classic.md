@@ -8,6 +8,8 @@ toc: true
 
 <link rel="shortcut icon" href="https://img.icons8.com/?size=100&id=22195&format=png" type="image/x-icon" />
 
+[![caption](https://cdn.prod.website-files.com/5b44edefca321a1e2d0c2aa6/5e7f5af10c4ef4ca3bf73da6_Dimensions-Guide-Digital-Apple-iMac-Macintosh-128K-1984-Dimensions.svg)](https://www.dimensions.com/element/apple-macintosh-128k-1984)
+
 [![caption](https://upload.wikimedia.org/wikipedia/en/timeline/lvjuq81m4e89xlvtqw5vez5pc0dpjp2.png)](https://en.wikipedia.org/wiki/Macintosh_128K)
 
 # [Classic](https://everymac.com/systems/apple/mac_classic/specs/mac_classic.html)
