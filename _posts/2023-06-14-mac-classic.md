@@ -83,6 +83,7 @@ see also
 - Mac Classic HS - 50€ (leboncoin)
 - clavier sans fil
 - Ecran IPS 4/3
+	- [VSDISPLAY Écran LCD 9,7](https://www.amazon.fr/gp/product/B099Z9SVX7)
 - [picotron onboard]({% post_url 2025-04-12-main-picotron %})
 	- requiert un amd64.
     
