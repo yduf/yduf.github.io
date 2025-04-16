@@ -108,6 +108,10 @@ Hardware Total:        **600€**
     {% endtablerow %}
   {% endfor %}
 </table>
+
+[![caption](https://m.media-amazon.com/images/G/08/apparel/rcxgs/tile._CB483369919_.gif)](https://www.amazon.fr/gp/product/B08GM91HBQ)
+
+[![caption](https://m.media-amazon.com/images/G/08/apparel/rcxgs/tile._CB483369919_.gif)](https://www.amazon.fr/gp/product/B089TP3GQF)
     
 ### [Purpose ?](https://chatgpt.com/share/67fa94de-8158-800d-ba9a-e3204a09ec7d)
 - ~~could be a 2.5Gb switch~~
