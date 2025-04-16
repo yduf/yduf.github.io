@@ -14,7 +14,7 @@ tags: file db array parquet csv
 **sqlite** -- Designed for relational data, somewhat ubiquitous, types defined but not enforced
 
 **parquet** / **hdf5** / **apache feather** / etc -- Designed for scientific use cases, robust, efficient, less ubiquitous
-	- [DuckDB](https://news.ycombinator.com/item?id=31220841) is a lightweight and super fast library/CLI for working with Parquet. It’s SQLite for column formats
+	- [DuckDB]({% post_url 2020-09-20-sql-duckdb %}) is a lightweight and super fast library/CLI for working with Parquet. It’s SQLite for column formats
     - Arrow also has its own on-disk format called [Feather](https://arrow.apache.org/docs/python/feather.html)
 
 **capn proto**, **prototype buffers**, **avro**, **thrift** -- Has specific features for data communication between systems
