@@ -84,6 +84,13 @@ see also
     
 - [Thermalright AXP90-X47 Full copper](https://www.amazon.fr/Thermalright-Refroidisseur-processeur-ventilateur-90x90x15mm/dp/B09WDRKBRJ) - [comparison](https://www.tinytechtweaks.com/en/post/top-6-low-profile-cpu-air-coolers-for-ryzen-7800x3d-a-comparison) - best is a liquid cooler 67° - the second best is this one with 76°
 
+Hardware Total:				 600€
+	- motherboard/Cpu/ram:   400€
+    - better ventirad:        40€
+    - mac screen replacement 100€
+    - power:                  50€
+    
+
 <table>
   {% for row in site.data.minimac %}
     {% if forloop.first %}
