@@ -1,7 +1,7 @@
 ---
 title: Linux Splash Screen
 published: true
-tags: linux-system
+tags: linux-system boot
 ---
 > [How to change it?](https://chatgpt.com/share/67fdfdd4-46d0-800d-9741-ad469fedc367)
 
@@ -11,3 +11,5 @@ tags: linux-system
 
 [How do I change the plymouth bootscreen?](https://askubuntu.com/questions/2007/how-do-i-change-the-plymouth-bootscreen)
 - [plymouth-themes](https://github.com/adi1090x/plymouth-themes?tab=readme-ov-file#plymouth-themes)
+
+- [Playing sound at boot](https://chatgpt.com/share/67ff528f-9de4-800d-9ec6-86af70d1cddf)
