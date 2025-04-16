@@ -82,6 +82,8 @@ see also
 - [picotron onboard]({% post_url 2025-04-12-main-picotron %})
 	- requiert un amd64.
     
+- [Thermalright AXP90-X47 Full copper](https://www.amazon.fr/Thermalright-Refroidisseur-processeur-ventilateur-90x90x15mm/dp/B09WDRKBRJ) - [comparison](https://www.tinytechtweaks.com/en/post/top-6-low-profile-cpu-air-coolers-for-ryzen-7800x3d-a-comparison) - best is a liquid cooler 67° - the second best is this one with 76°
+
 <table>
   {% for row in site.data.minimac %}
     {% if forloop.first %}
