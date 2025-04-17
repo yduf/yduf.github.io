@@ -94,7 +94,8 @@ title: Tags
   </svg>
 </div>
 
-<script src="https://d3js.org/d3.v7.min.js"></script>
+<!-- <script src="https://d3js.org/d3.v7.min.js"></script> -->
+<script src="{{ '/assets/js/d3.v7.min.js' | relative_url }}"></script>
 
 
 <div id="tags">
