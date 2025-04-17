@@ -10,6 +10,7 @@ tags: CRT shader retro pixelart display screen
 a compositor for X, that support shaders.
 
 Can be used to run linux mint Cinamon + some shader effect ([chatgpt](https://chatgpt.com/share/68014eba-be54-800d-8027-6cfa490f5ebd))
+- [runing cinnamon + picom](https://chatgpt.com/share/68014f1a-6e54-800d-9208-99402c5aeaac)
 
 - [https://github.com/ikz87/picom-shaders](https://github.com/ikz87/picom-shaders?tab=readme-ov-file#a-list-of-glsl-shaders-for-picom) - has one CRT shader
 
