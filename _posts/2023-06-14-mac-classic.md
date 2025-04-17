@@ -1,12 +1,16 @@
 ---
 published: true
-title: "Classic Macintosh \U0001F6A7"
+title: "Macintosh Classic \U0001F6A7"
 tags: 3dprint retro project macintosh pc-hardware in-progress
 toc: true
 ---
-> Tiny Mac III (Pi 4) - [instructable](https://www.instructables.com/Tiny-Mac-II-Pi-Zero-2-and-Tiny-Mac-III-Pi-4-With-A/) / [HN](https://news.ycombinator.com/item?id=36289682) / [r/VintageApple ](https://www.reddit.com/r/VintageApple/)
+> Tiny Mac III (Pi 4) - [instructable](https://www.instructables.com/Tiny-Mac-II-Pi-Zero-2-and-Tiny-Mac-III-Pi-4-With-A/) / [HN](https://news.ycombinator.com/item?id=36289682) / [r/VintageApple ](https://www.reddit.com/r/VintageApple/) / [wikipedia](https://en.wikipedia.org/wiki/Macintosh_Classic)
 
 <link rel="shortcut icon" href="https://img.icons8.com/?size=100&id=22195&format=png" type="image/x-icon" />
+
+[![caption](https://cdn.prod.website-files.com/5b44edefca321a1e2d0c2aa6/5e7f5af10c4ef4ca3bf73da6_Dimensions-Guide-Digital-Apple-iMac-Macintosh-128K-1984-Dimensions.svg)](https://www.dimensions.com/element/apple-macintosh-128k-1984)
+
+[![caption](https://upload.wikimedia.org/wikipedia/en/timeline/lvjuq81m4e89xlvtqw5vez5pc0dpjp2.png)](https://en.wikipedia.org/wiki/Macintosh_128K)
 
 # [Classic](https://everymac.com/systems/apple/mac_classic/specs/mac_classic.html)
 
@@ -78,10 +82,23 @@ see also
 
 - Mac Classic HS - 50€ (leboncoin)
 - clavier sans fil
-- Ecran IPS 4/3
 - [picotron onboard]({% post_url 2025-04-12-main-picotron %})
 	- requiert un amd64.
     
+- Ecran IPS 4/3
+	- [VSDISPLAY Écran LCD 9,7](https://www.amazon.fr/gp/product/B099Z9SVX7) - spec [ écran IPS eDP 440nit](https://chatgpt.com/share/680016d4-093c-800d-b9ec-d3bceeb10884) ref VS-RTD09703-V1
+    
+[![caption](https://m.media-amazon.com/images/I/71hn2L+7btL._AC_SL1500_.jpg)](https://www.amazon.fr/gp/product/B099Z9SVX7?smid=A28KS01BONGL5G&th=1)
+    
+- [Thermalright AXP90-X47 Full copper](https://www.amazon.fr/Thermalright-Refroidisseur-processeur-ventilateur-90x90x15mm/dp/B09WDRKBRJ) - [comparison](https://www.tinytechtweaks.com/en/post/top-6-low-profile-cpu-air-coolers-for-ryzen-7800x3d-a-comparison) - best is a liquid cooler 67° - the second best is this one with 76°
+
+Hardware Total:        **600€**
+- motherboard/Cpu/ram:   400€
+- better ventirad:        40€
+- mac screen replacement 100€
+- power:                  50€
+    
+
 <table>
   {% for row in site.data.minimac %}
     {% if forloop.first %}
@@ -97,6 +114,10 @@ see also
     {% endtablerow %}
   {% endfor %}
 </table>
+
+[![caption](https://m.media-amazon.com/images/I/51uCFHBLNuS._SS284_.jpg)](https://www.amazon.fr/gp/product/B08GM91HBQ)
+
+[![caption](https://m.media-amazon.com/images/I/71Ys5naKaDL._SS284_.jpg)](https://www.amazon.fr/gp/product/B089TP3GQF)
     
 ### [Purpose ?](https://chatgpt.com/share/67fa94de-8158-800d-ba9a-e3204a09ec7d)
 - ~~could be a 2.5Gb switch~~
