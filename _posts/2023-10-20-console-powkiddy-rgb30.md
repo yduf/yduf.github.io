@@ -66,6 +66,7 @@ Audio:     Device-1: rk3568-dw-hdmi driver: dwhdmi_rockchip
     - a video decoder with H.264 and H.265 support is integrated, among other things.
 
 - [Tear down](https://www.youtube.com/watch?v=Pp9wfW5fU6Y&t=952s)
+	- [hardware comparison](https://www.youtube.com/watch?v=sK9QcNuRJT8&t=301s)
 
 ### Customisation
 
