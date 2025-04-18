@@ -82,7 +82,7 @@ see also
 **Fiting a Full PC**
 - [Less Bad: Remodelling the Mac Classic II into a PC](https://www.youtube.com/watch?v=j3Esy8NP9bo)
 - [Bad: Fitting a fulll PC (with too much cut)](https://www.youtube.com/watch?v=zBrjSIqgD1A)
-- [fitting a pi](https://jm.iq.pl/macintoshpi-mac-os-7-8-9-for-raspberry-pi/)
+
 
 - Mac Classic HS - 50€ (leboncoin)
 - clavier sans fil
@@ -122,7 +122,8 @@ Hardware Total:        **600€**
 
 - [ Mac Classic with LCD inside the CRT part 1](https://www.youtube.com/watch?v=-mMaO6ULuSk&list=LL&index=19) - glass cut / smaller lcd 8in screen fit.
     - [cutting the tube](https://www.youtube.com/watch?v=nVWXaGI7gfQ&t=158s) - _just don't breathe the phosphors._
-- [3dprinted fillout](https://www.youtube.com/watch?v=nguN392TH-g) / [thingiverse](https://www.thingiverse.com/thing:3551263/files)
+ - [fitting a pi](https://jm.iq.pl/macintoshpi-mac-os-7-8-9-for-raspberry-pi/) / [using it](https://www.youtube.com/watch?v=yDPkjhl2oSI) - simple black fillout
+	- [3dprinted fillout](https://www.youtube.com/watch?v=nguN392TH-g) / [thingiverse](https://www.thingiverse.com/thing:3551263/files)
 - [Macintosh Plus mini Retrofit](https://www.youtube.com/watch?v=dpgFJmEe90I&t=1644s) - acrylic sheet + custom bezel 
 	- [shop](https://www.etsy.com/shop/RetroAppleAT)
 
