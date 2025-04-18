@@ -82,6 +82,7 @@ see also
 **Fiting a Full PC**
 - [Less Bad: Remodelling the Mac Classic II into a PC](https://www.youtube.com/watch?v=j3Esy8NP9bo)
 - [Bad: Fitting a fulll PC (with too much cut)](https://www.youtube.com/watch?v=zBrjSIqgD1A)
+- [fitting a pi](https://jm.iq.pl/macintoshpi-mac-os-7-8-9-for-raspberry-pi/)
 
 - Mac Classic HS - 50€ (leboncoin)
 - clavier sans fil
