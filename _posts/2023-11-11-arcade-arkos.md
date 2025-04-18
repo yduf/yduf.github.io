@@ -16,6 +16,6 @@ tags: arcade linux-system
 
 ### Alternatives
 - [JelOS]({% post_url 2023-10-20-console-powkiddy-rgb30 %}#jelos-v20231029---just-enough-linux-operating-system---entware-base %})
-- [Knully](https://chatgpt.com/c/68028d9f-8d58-800d-8827-2e2301808d92)
+- [Knully](https://chatgpt.com/c/68028d9f-8d58-800d-8827-2e2301808d92) - target more specific hardware
 
 [![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstat.ameba.jp%2Fuser_images%2F20221020%2F23%2Fcboy1231%2F05%2F3e%2Fj%2Fo4032226815191247973.jpg&f=1&nofb=1&ipt=a0c42b823a47b973eb3fe2c6ba5e5f743d665e81be5c36274921e9492798ff5b&ipo=images)](https://github.com/christianhaitian/arkos/wiki)
