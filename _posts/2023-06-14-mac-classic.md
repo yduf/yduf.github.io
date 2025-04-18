@@ -121,6 +121,7 @@ Hardware Total:        **600€**
 
 - [ Mac Classic with LCD inside the CRT part 1](https://www.youtube.com/watch?v=-mMaO6ULuSk&list=LL&index=19) - glass cut / smaller lcd 8in screen fit.
 	- _just don't breathe the phosphors._
+    - [breaking the tube](https://www.youtube.com/watch?v=oc5mid3nQLY&t=508s)
 
 
 
