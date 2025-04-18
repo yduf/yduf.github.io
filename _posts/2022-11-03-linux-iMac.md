@@ -1,6 +1,6 @@
 ---
 published: true
-title: iMac
+title: 'iMac '
 tags: linux-system pc-hardware
 ---
 > Late 2012 - 16GB / quad-core Intel Core i5 processor - [iMac 12 2](https://support.apple.com/kb/SP667?locale=en_US) / [cockpit](https://sophie-imac:9090/system/services)
@@ -9,6 +9,8 @@ tags: linux-system pc-hardware
 
 ### [How to Use iMac as Second Monitor for Windows PC](https://www.anyrec.io/use-imac-as-monitor-for-pc/)
 - Thunderbolt vs USB-C (they are somewhat similar)
+
+- [conversion](https://www.youtube.com/watch?v=bW3nKIyeZps)
 
 ## [Mac startup key combinations](https://support.apple.com/en-us/HT201255)
 
