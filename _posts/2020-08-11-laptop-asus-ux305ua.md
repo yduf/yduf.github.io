@@ -1,6 +1,6 @@
 ---
 published: true
-title: ASUS ZenBook UX305UA (2016)
+title: "ASUS ZenBook UX305UA (2016)  - \U0001F4BB"
 tags: pc-hardware laptop
 excerpt_separator: <!--more-->
 ---
