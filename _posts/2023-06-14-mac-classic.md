@@ -24,7 +24,7 @@ toc: true
 	- [thingiverse](https://www.thingiverse.com/thing:4887100)
     - [thingiverse](https://www.thingiverse.com/thing:4424878)
 - [Making a Small Mac From a Raspberry Pi 3](https://www.instructables.com/Making-a-Small-Mac-From-a-Raspberry-3/) - uses a 3.5 inch display
-	- []()
+- [3dprinted full size](https://www.youtube.com/watch?v=gLxTpqCW2KU)
 
 
 **Free models**
@@ -120,9 +120,8 @@ Hardware Total:        **600€**
 ### Screen
 
 - [ Mac Classic with LCD inside the CRT part 1](https://www.youtube.com/watch?v=-mMaO6ULuSk&list=LL&index=19) - glass cut / smaller lcd 8in screen fit.
-	- _just don't breathe the phosphors._
-    - [breaking the tube](https://www.youtube.com/watch?v=oc5mid3nQLY&t=508s)
-
+    - [cutting the tube](https://www.youtube.com/watch?v=nVWXaGI7gfQ&t=158s) - _just don't breathe the phosphors._
+- []()
 
 
 
