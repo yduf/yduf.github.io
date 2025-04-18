@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'iMac '
+title: "iMac \U0001F5A5️"
 tags: linux-system pc-hardware
 ---
 > Late 2012 - 16GB / quad-core Intel Core i5 processor - [iMac 12 2](https://support.apple.com/kb/SP667?locale=en_US) / [cockpit](https://sophie-imac:9090/system/services)
