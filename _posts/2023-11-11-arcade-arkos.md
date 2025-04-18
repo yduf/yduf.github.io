@@ -15,6 +15,7 @@ tags: arcade linux-system
 - [How can I access a terminal physically on ArkOS](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rgb30#q-how-can-i-access-a-terminal-physically-on-arkos) - If you'd like to go back to EmulationStation without restarting, do the following: `sudo systemctl restart emulationstation`
 
 ### Alternatives
-- JelOS
+- [JelOS]({% post_url 2023-10-20-console-powkiddy-rgb30 %}#jelos-v20231029---just-enough-linux-operating-system---entware-base %})
+- []()
 
 [![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstat.ameba.jp%2Fuser_images%2F20221020%2F23%2Fcboy1231%2F05%2F3e%2Fj%2Fo4032226815191247973.jpg&f=1&nofb=1&ipt=a0c42b823a47b973eb3fe2c6ba5e5f743d665e81be5c36274921e9492798ff5b&ipo=images)](https://github.com/christianhaitian/arkos/wiki)
