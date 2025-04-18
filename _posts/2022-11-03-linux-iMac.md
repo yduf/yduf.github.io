@@ -11,7 +11,7 @@ tags: linux-system pc-hardware
 - Thunderbolt vs USB-C (they are somewhat similar)
 
 - [How To Convert An iMac Into An External Monitor](https://www.ifixit.com/Guide/How+To+Convert+An+iMac+Into+An+External+Monitor/40567)
-	- [using chinese controller](https://www.youtube.com/watch?v=Vx5IoiPjPC8)
+	- [using chinese controller](https://www.youtube.com/watch?v=Vx5IoiPjPC8) - [alixepress](https://fr.aliexpress.com/item/1005003965302404.html?spm=a2g0o.productlist.main.13.df284302xFUI55&algo_pvid=b6d02171-5085-42cc-9671-66df692f9290&algo_exp_id=b6d02171-5085-42cc-9671-66df692f9290-6&pdp_ext_f=%7B%22sku_id%22%3A%2212000027587288558%22%7D&pdp_npi=2%40dis%21GBP%2138.27%2138.27%21%21%21%21%21%402100b1a616739040950534050d06f8%2112000027587288558%21sea&curPageLogUid=RVUrNu2wAJM3&gatewayAdapt=glo2fra) - LM270WQ1 A2 C2 E3 B1 v1.screen
 	- [conversion](https://www.youtube.com/watch?v=bW3nKIyeZps) - custom board
 
 ## [Mac startup key combinations](https://support.apple.com/en-us/HT201255)
