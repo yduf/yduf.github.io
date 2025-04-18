@@ -10,8 +10,8 @@ tags: linux-system pc-hardware
 ### [How to Use iMac as Second Monitor for Windows PC](https://www.anyrec.io/use-imac-as-monitor-for-pc/)
 - Thunderbolt vs USB-C (they are somewhat similar)
 
-- [How To Convert An iMac Into An External Monitor
-How To Convert An iMac Into An External Monitor](https://www.ifixit.com/Guide/How+To+Convert+An+iMac+Into+An+External+Monitor/40567)
+- [How To Convert An iMac Into An External Monitor](https://www.ifixit.com/Guide/How+To+Convert+An+iMac+Into+An+External+Monitor/40567)
+	- [using chinese controller](https://www.youtube.com/watch?v=Vx5IoiPjPC8)
 	- [conversion](https://www.youtube.com/watch?v=bW3nKIyeZps) - custom board
 
 ## [Mac startup key combinations](https://support.apple.com/en-us/HT201255)
