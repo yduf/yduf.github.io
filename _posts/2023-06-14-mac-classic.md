@@ -87,12 +87,7 @@ see also
 - clavier sans fil
 - [picotron onboard]({% post_url 2025-04-12-main-picotron %})
 	- requiert un amd64.
-    
-- Ecran IPS 4/3
-	- [VSDISPLAY Écran LCD 9,7](https://www.amazon.fr/gp/product/B099Z9SVX7) - spec [ écran IPS eDP 440nit](https://chatgpt.com/share/680016d4-093c-800d-b9ec-d3bceeb10884) ref VS-RTD09703-V1
-    
-[![caption](https://m.media-amazon.com/images/I/71hn2L+7btL._AC_SL1500_.jpg)](https://www.amazon.fr/gp/product/B099Z9SVX7?smid=A28KS01BONGL5G&th=1)
-    
+
 - [Thermalright AXP90-X47 Full copper](https://www.amazon.fr/Thermalright-Refroidisseur-processeur-ventilateur-90x90x15mm/dp/B09WDRKBRJ) - [comparison](https://www.tinytechtweaks.com/en/post/top-6-low-profile-cpu-air-coolers-for-ryzen-7800x3d-a-comparison) - best is a liquid cooler 67° - the second best is this one with 76°
 
 Hardware Total:        **600€**
@@ -121,7 +116,21 @@ Hardware Total:        **600€**
 [![caption](https://m.media-amazon.com/images/I/51uCFHBLNuS._SS284_.jpg)](https://www.amazon.fr/gp/product/B08GM91HBQ)
 
 [![caption](https://m.media-amazon.com/images/I/71Ys5naKaDL._SS284_.jpg)](https://www.amazon.fr/gp/product/B089TP3GQF)
+
+### Screen
+
+- [ Mac Classic with LCD inside the CRT part 1](https://www.youtube.com/watch?v=-mMaO6ULuSk&list=LL&index=19) - glass cut / smaller lcd 8in screen fit.
+	- _just don't breathe the phosphors._
+
+
+
+
+- Ecran IPS 4/3
+	- [VSDISPLAY Écran LCD 9,7](https://www.amazon.fr/gp/product/B099Z9SVX7) - spec [ écran IPS eDP 440nit](https://chatgpt.com/share/680016d4-093c-800d-b9ec-d3bceeb10884) ref VS-RTD09703-V1
     
+[![caption](https://m.media-amazon.com/images/I/71hn2L+7btL._AC_SL1500_.jpg)](https://www.amazon.fr/gp/product/B099Z9SVX7?smid=A28KS01BONGL5G&th=1)
+    
+
 ### [Purpose ?](https://chatgpt.com/share/67fa94de-8158-800d-ba9a-e3204a09ec7d)
 - ~~could be a 2.5Gb switch~~
 - could host nginx
