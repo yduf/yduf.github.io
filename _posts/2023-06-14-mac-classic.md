@@ -120,7 +120,7 @@ Hardware Total:        **600€**
 
 ### Screen
 
-- [ Mac Classic with LCD inside the CRT part 1](https://www.youtube.com/watch?v=-mMaO6ULuSk&list=LL&index=19) - glass cut / smaller lcd 8in screen fit.
+- [ Mac Classic with LCD inside the CRT part 1](https://www.youtube.com/watch?v=-mMaO6ULuSk&list=LL&index=19) / [part3](https://www.youtube.com/watch?v=3grAxKGzBt0)- glass cut / smaller lcd 8in screen fit.
     - [cutting the tube](https://www.youtube.com/watch?v=nVWXaGI7gfQ&t=158s) - _just don't breathe the phosphors._
  - [fitting a pi](https://jm.iq.pl/macintoshpi-mac-os-7-8-9-for-raspberry-pi/) / [using it](https://www.youtube.com/watch?v=yDPkjhl2oSI) - simple black fillout
 	- [3dprinted fillout](https://www.youtube.com/watch?v=nguN392TH-g) / [thingiverse](https://www.thingiverse.com/thing:3551263/files)
