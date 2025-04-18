@@ -94,7 +94,7 @@ see also
 Hardware Total:        **600€**
 - motherboard/Cpu/ram:   400€
 - better ventirad:        40€
-- mac screen replacement 100€
+- mac screen replacement  79€ - [VSDISPLAY Écran LCD 9,7](https://www.amazon.fr/gp/product/B099Z9SVX7) - spec [ écran IPS eDP 440nit](https://chatgpt.com/share/680016d4-093c-800d-b9ec-d3bceeb10884) ref VS-RTD09703-V1
 - power:                  50€
     
 
