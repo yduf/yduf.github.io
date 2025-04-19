@@ -13,6 +13,7 @@ tags: arcade linux-system
     
 - How to add _splore_ to [Pico-8](https://retrogamecorps.com/2020/11/12/guide-pico-8-on-retro-handhelds/) => create a blank text file named “zzzsplore.p8”  in pico-8/carts
 - [How can I access a terminal physically on ArkOS](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rgb30#q-how-can-i-access-a-terminal-physically-on-arkos) - If you'd like to go back to EmulationStation without restarting, do the following: `sudo systemctl restart emulationstation`
+- [PortMaster]({% post_url 2025-04-19-arcade-portmaster %})
 
 ### Alternatives
 - [JelOS]({% post_url 2023-10-20-console-powkiddy-rgb30 %}#jelos-v20231029---just-enough-linux-operating-system---entware-base %})
