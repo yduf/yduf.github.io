@@ -45,7 +45,9 @@ toc: true
 
 ### [Macintosh Classic disassembly](https://www.ifixit.com/Guide/Macintosh+Classic+disassembly/155322)
 
-
+- [Removing the motherboard](https://www.ifixit.com/Guide/Macintosh+Classic+disassembly/155322#s323923) - The motherboard has no screws, so it can be removed by pulling upwards.
+	- Make sure to disconnect all cables.
+    
 ### [Cleaning case](https://youtu.be/wXWlJFrX19s?si=L4vHJeL8XdlmXszw&t=386) 
 
 - [with 3% hydrogen peroxyde and plastic wrap + 4sun hours](https://www.youtube.com/watch?v=bJZSrRU1xt4)
