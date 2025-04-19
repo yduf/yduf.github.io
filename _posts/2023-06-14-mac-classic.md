@@ -14,7 +14,7 @@ toc: true
 
 # [Classic](https://everymac.com/systems/apple/mac_classic/specs/mac_classic.html)
 
-### 3dprinted
+## 3dprinted
 
 - [3D Printed Full-Size Macintosh - The Brewintosh](https://www.youtube.com/watch?v=7N9oz4Ylzm4&list=PLh9akXp2EH2CBLVl-UZKirYpzl8suuAYc&index=1) / [arstechnica](https://arstechnica.com/gadgets/2024/03/3d-printed-mac-replica-is-a-maker-masterwork-inside-an-entirely-accurate-shell/) - full reconstruction of a  Macintosh from scratch.
 	- [STL & part info](https://kevinnoki.gumroad.com/l/Brewintosh)
@@ -38,12 +38,14 @@ toc: true
 
 - [1991 Apple Macintosh Classic I Repair & Restoration](https://retrorepairsandrefurbs.com/2023/06/22/1991-apple-macintosh-classic-i-repair-restoration/)
 
-- [Macintosh Classic disassembly](https://www.ifixit.com/Guide/Macintosh+Classic+disassembly/155322)
 - [Macintosh Classic Restoration](https://www.youtube.com/watch?v=hwMAmKAoIkA)
 	- [cleaning case](https://youtu.be/hwMAmKAoIkA?si=YRCCufmRnFLt_88q&t=606) - with hydrogen peroxyde bath + uv light
 - [Macintosh SE Restoration](https://www.youtube.com/watch?v=wXWlJFrX19s)
 	- [CRT handling](https://youtu.be/wXWlJFrX19s?si=iym1iMN2EnSPOQhu&t=268)
-    
+
+### [Macintosh Classic disassembly](https://www.ifixit.com/Guide/Macintosh+Classic+disassembly/155322)
+
+
 ### [Cleaning case](https://youtu.be/wXWlJFrX19s?si=L4vHJeL8XdlmXszw&t=386) 
 
 - [with 3% hydrogen peroxyde and plastic wrap + 4sun hours](https://www.youtube.com/watch?v=bJZSrRU1xt4)
