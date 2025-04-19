@@ -126,6 +126,7 @@ Hardware Total:        **600€**
 
 ### Screen
 
+Options are:
 - [ Mac Classic with LCD inside the CRT part 1](https://www.youtube.com/watch?v=-mMaO6ULuSk&list=LL&index=19) / [part3](https://www.youtube.com/watch?v=3grAxKGzBt0)- glass cut / smaller lcd 8in screen fit.
     - [cutting the tube](https://www.youtube.com/watch?v=nVWXaGI7gfQ&t=158s) - _just don't breathe the phosphors._
  - [fitting a pi](https://jm.iq.pl/macintoshpi-mac-os-7-8-9-for-raspberry-pi/) / [using it](https://www.youtube.com/watch?v=yDPkjhl2oSI) - simple black fillout
@@ -133,9 +134,8 @@ Hardware Total:        **600€**
 - [Macintosh Plus mini Retrofit](https://www.youtube.com/watch?v=dpgFJmEe90I&t=1644s) - acrylic sheet + custom bezel 
 	- [shop](https://www.etsy.com/shop/RetroAppleAT)
 
-
-- Ecran IPS 4/3
-	- [VSDISPLAY Écran LCD 9,7](https://www.amazon.fr/gp/product/B099Z9SVX7) - spec [ écran IPS eDP 440nit](https://chatgpt.com/share/680016d4-093c-800d-b9ec-d3bceeb10884) ref VS-RTD09703-V1
+My Choice [**Ecran IPS 4/3**](https://youtu.be/nguN392TH-g?si=Qj1b74SA7zqf23BR&t=203) + [3d printed bezel](https://www.thingiverse.com/thing:3551263/files)
+- [VSDISPLAY Écran LCD 9,7](https://www.amazon.fr/gp/product/B099Z9SVX7) - spec [ écran IPS eDP 440nit](https://chatgpt.com/share/680016d4-093c-800d-b9ec-d3bceeb10884) ref VS-RTD09703-V1
     
 [![caption](https://m.media-amazon.com/images/I/71hn2L+7btL._AC_SL1500_.jpg)](https://www.amazon.fr/gp/product/B099Z9SVX7?smid=A28KS01BONGL5G&th=1)
     
