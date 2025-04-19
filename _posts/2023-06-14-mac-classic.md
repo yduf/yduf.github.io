@@ -47,6 +47,8 @@ toc: true
 
 - [Removing the motherboard](https://www.ifixit.com/Guide/Macintosh+Classic+disassembly/155322#s323923) - The motherboard has no screws, so it can be removed by pulling upwards.
 	- Make sure to disconnect all cables.
+- [Remove The Floppy Drive ](https://www.ifixit.com/Guide/Macintosh+Classic+disassembly/155322#s323924) - 4 screws to remove - all hidden below, accessible only after removing the mother board, 2 behind the plastic fan
+
     
 ### [Cleaning case](https://youtu.be/wXWlJFrX19s?si=L4vHJeL8XdlmXszw&t=386) 
 
