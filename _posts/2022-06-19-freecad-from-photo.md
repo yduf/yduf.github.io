@@ -6,6 +6,8 @@ tags: photo image freecad
 > [Dessiner un sketch à partir d'une photo](https://forum.freecadweb.org/viewtopic.php?t=69399)
 
 - [Why has the Image Workbench been removed in FreeCAD 0.21 ?](https://www.youtube.com/watch?v=WhxDAgskcHA)
+	- now part of import
+    - double click to have access all parameters that were previously in image workbench
 
 - [FreeCAD 0.20 : Création d'un roulement imprimable qui fonctionne](https://youtu.be/PMUxmlnYv1M?t=219)
 	- superposition de 2 images dans des plans orthogonaux pour simplifier la modélisation
