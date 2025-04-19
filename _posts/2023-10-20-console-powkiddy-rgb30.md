@@ -11,6 +11,7 @@ tags: arcade gameboy games-hardware pico8 retro CRT
 	- [Pico-8 on RGB30](https://www.reddit.com/r/pico8/comments/17ebtq0/pico8_on_rgb30_help_needed/)
 	- can be programmed directly on the device
     - [I successfully swapped X and O on my RGB30!](https://www.reddit.com/r/pico8/comments/1igjij1/i_successfully_swapped_x_and_o_on_my_rgb30/)
+- [PortMaster]({% post_url 2025-04-19-arcade-portmaster %}) / [youtube](https://www.youtube.com/watch?v=HUg86HrE3c4)
 
 ![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.n1ZfSor20nrbr8o_S4CbiAHaEK%26pid%3DApi&f=1&ipt=0c888f97e66313041f302f62badb6b3275070124924c51e9d8b45643321d5fd5&ipo=images)
 
