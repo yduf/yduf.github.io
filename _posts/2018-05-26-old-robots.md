@@ -5,7 +5,7 @@ tags: retro robot
 ---
 > [The Inventory](http://www.theoldrobots.com/index2.html)
 
-### [Armatron]({% post_url 2017-11-27-CG-meanmax %})
+### [Armatron]({% post_url 2025-04-20-robot-armatron %})
 
 [![Armatron](https://www.theoldrobots.com/images14/big15.JPG)](https://www.theoldrobots.com/armatron1.html)
 
