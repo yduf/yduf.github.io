@@ -127,6 +127,8 @@ Hardware Total:        **600€**
 
 ### Screen
 
+- **[How (not) to discharge a CRT!](https://www.youtube.com/watch?v=a6FMpvs71pc&t=347s) ⚡**
+
 Options are:
 - [ Mac Classic with LCD inside the CRT part 1](https://www.youtube.com/watch?v=-mMaO6ULuSk&list=LL&index=19) / [part3](https://www.youtube.com/watch?v=3grAxKGzBt0)- glass cut / smaller lcd 8in screen fit.
     - [cutting the tube](https://www.youtube.com/watch?v=nVWXaGI7gfQ&t=158s) - _just don't breathe the phosphors._
