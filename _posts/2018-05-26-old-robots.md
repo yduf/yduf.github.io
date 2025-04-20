@@ -9,6 +9,6 @@ tags: retro robot
 
 [![Armatron](https://www.theoldrobots.com/images14/big15.JPG)](https://www.theoldrobots.com/armatron1.html)
 
-- [Toby The Totbot](https://www.theoldrobots.com/Totbot.html)
+### [Toby The Totbot](https://www.theoldrobots.com/Totbot.html)
 
 [![Toby The Totbot](https://www.theoldrobots.com/images61/Totbot-3.JPG)](https://www.theoldrobots.com/Totbot.html)
