@@ -6,7 +6,7 @@ tags: repl python notebook jupyter vscode
 > Open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text - [Jupyter](https://jupyter.org/index.html)
 
 see also
-- [jupyter{book}](https://jupyterbook.org/en/stable/intro.html)
+- [jupyter{book}](https://jupyterbook.org/en/stable/intro.html) - Build beautiful, publication-quality books and documents from computational content.
 
 ## [Install](https://jupyter.org/install.html)
 
