@@ -5,6 +5,8 @@ tags: freecad CAD
 ---
 > Creating Curved Surfaces - [Intro](https://www.digikey.com/en/maker/tutorials/2025/intro-to-freecad-part-8-creating-curved-surfaces)
 
+<link rel="shortcut icon" href="https://www.freecad.org/images/favicon.ico" type="image/x-icon" />
+
 - [youtube](https://www.youtube.com/watch?v=HDGdeLWGBns) - demonstrate several techniques including the  curves workbench.
 	- check geometry before creating part design
 
