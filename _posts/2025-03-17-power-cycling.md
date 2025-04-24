@@ -1,7 +1,7 @@
 ---
 title: Power Cycling
 published: true
-tags: computer
+tags: computer power
 ---
 > Hello, IT. Have you try to turn it off, and turn it on again ?! - [The IT Crowd](https://www.imdb.com/title/tt0487831/)
 
