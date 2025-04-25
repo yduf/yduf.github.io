@@ -8,6 +8,9 @@ tags: freecad cut
 - [by intersecting](https://youtu.be/tzHkQaHgrfQ?t=337)
 - [with a plane](https://youtu.be/tzHkQaHgrfQ?t=555)
 	- [Cuting piece](https://www.xsim.info/articles/FreeCAD/en-US/HowTo/Cut-a-solid-with-a-plane.html)
+		- create a plane in Part workbench (basic feature)
+        - place it
+        - use slice
 
 - [with a sketch](https://youtu.be/tzHkQaHgrfQ?t=933)
 	- [making a puzzle](https://wiki.freecadweb.org/Part_Slice)
