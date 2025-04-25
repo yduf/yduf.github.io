@@ -1,7 +1,7 @@
 ---
 title: Removing rust
 published: true
-tags: rust
+tags: rust chemical
 ---
 > Nobody like rust - ;-) 
 
