@@ -5,6 +5,9 @@ tags: freecad cut
 ---
 > [Slice Apart](https://wiki.freecadweb.org/Part_SliceApart)
 
+<link rel="shortcut icon" href="https://www.freecad.org/images/favicon.ico" type="image/x-icon" />
+
+
 - [by intersecting](https://youtu.be/tzHkQaHgrfQ?t=337)
 - [with a plane](https://youtu.be/tzHkQaHgrfQ?t=555)
 	- [Cuting piece](https://www.xsim.info/articles/FreeCAD/en-US/HowTo/Cut-a-solid-with-a-plane.html)
