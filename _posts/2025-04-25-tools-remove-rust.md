@@ -11,8 +11,5 @@ tags: rust chemical
         - un chargeur de batterie
         	- negatif sur la piece a netoyer
             - positif sur l'electrode
-        - plus long
-    - acide 
- 
-
-    
+        - [plus long](https://www.youtube.com/watch?v=V-prcdrvb_E)
+    - acide
