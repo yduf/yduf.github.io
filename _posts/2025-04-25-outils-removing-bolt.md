@@ -8,4 +8,5 @@ tags: hardware
 - drill a hole centered - you want a guide to not destroy the surrounding thread
 - tap a screw extractor
 - extract the bolt.
-
+- verify the thread
+	- add some grease
