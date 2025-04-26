@@ -13,3 +13,7 @@ tags: rust chemical
             - positif sur l'electrode
         - [plus long](https://www.youtube.com/watch?v=V-prcdrvb_E)
     - acide
+	- [Gestion des dechets](https://youtu.be/v0ZbF-2DmQg?si=_OS0ufl1NnNUXmLn&t=806)
+    	- au niveau du bac d'electrolyse
+        	- present dans le bac => oxyde de fer, present a l'état naturel dans les sols
+            - la soude, une fois diluée, n'est pas polluante.
