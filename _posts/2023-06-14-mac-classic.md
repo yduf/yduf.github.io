@@ -80,12 +80,15 @@ see also
 
 # Project - rehousing
 
-- [retrofitted Macintosh Classic ](https://www.reddit.com/r/VintageApple/comments/q2x90k/my_new_retrofitted_macintosh_classic/)
+
 - [Macintosh Classic II Color Hackintosh](https://www.instructables.com/Macintosh-Classic-II-Color-Hackintosh/)
-- [Mac Classic Retrofit - Breathe new life into a classic!](https://www.youtube.com/watch?v=nguN392TH-g)
-	- [cutting back panel](https://youtu.be/nguN392TH-g?si=MQ8X2YtvCZiFf07-&t=429)
     
 ## Fiting a Full PC
+
+- [Mac Classic Retrofit - Breathe new life into a classic!](https://www.youtube.com/watch?v=nguN392TH-g)
+	- [cutting back panel](https://youtu.be/nguN392TH-g?si=MQ8X2YtvCZiFf07-&t=429)
+    - or build a [backpanel to avoid it](https://www.instructables.com/Macintosh-Classic-II-Color-Hackintosh/)
+
 - [Vintage Mac Classic NAS](https://www.insanelymac.com/forum/topic/344354-vintage-mac-classic-nas/) - lot of pics
 - [Less Bad: Remodelling the Mac Classic II into a PC](https://www.youtube.com/watch?v=j3Esy8NP9bo)
 - [Bad: Fitting a fulll PC (with too much cut)](https://www.youtube.com/watch?v=zBrjSIqgD1A)
@@ -94,6 +97,9 @@ see also
 - clavier sans fil
 - [picotron onboard]({% post_url 2025-04-12-main-picotron %})
 	- requiert un amd64.
+    
+see also
+- [retrofitted Macintosh Classic ](https://www.reddit.com/r/VintageApple/comments/q2x90k/my_new_retrofitted_macintosh_classic/) - has link to rebuild a mac mouse
 
 ### New Hardware
 
