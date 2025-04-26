@@ -97,14 +97,15 @@ see also
 
 ### new Hardware
 
-- [Thermalright AXP90-X47 Full copper](https://www.amazon.fr/Thermalright-Refroidisseur-processeur-ventilateur-90x90x15mm/dp/B09WDRKBRJ) - [comparison](https://www.tinytechtweaks.com/en/post/top-6-low-profile-cpu-air-coolers-for-ryzen-7800x3d-a-comparison) - best is a liquid cooler 67° - the second best is this one with 76°
 
 Hardware Total:        **535€**
 - motherboard/Cpu/ram:   388€
 	- [ryzen 7 5700G](https://www.amazon.fr/dp/B091J3NYVF)  165€
     - [64Go](https://www.amazon.fr/dp/B0C29W4G29)           107€
     - miniITX            116€ - [Gigabyte A520I AC ITX](https://www.amazon.fr/dp/B08GM91HBQ)
-- _better ventirad:        40€_ - not yet
+- _better ventirad:        40€_ - not yet 
+	- [Thermalright AXP90-X47 Full copper](https://www.amazon.fr/Thermalright-Refroidisseur-processeur-ventilateur-90x90x15mm/dp/B09WDRKBRJ) - [comparison](https://www.tinytechtweaks.com/en/post/top-6-low-profile-cpu-air-coolers-for-ryzen-7800x3d-a-comparison) - best is a liquid cooler 67° - the second best is this one with 76°
+
 - mac screen replacement  79€ - [VSDISPLAY Écran LCD 9,7](https://www.amazon.fr/gp/product/B099Z9SVX7) - spec [ écran IPS eDP 440nit](https://chatgpt.com/share/680016d4-093c-800d-b9ec-d3bceeb10884) ref VS-RTD09703-V1
 - power:                  68€ - [Corsair CX450M](https://www.amazon.fr/dp/B019NWTCEA) - semi cablé
     
