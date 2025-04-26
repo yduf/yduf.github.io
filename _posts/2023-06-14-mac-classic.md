@@ -90,11 +90,12 @@ see also
 - [Less Bad: Remodelling the Mac Classic II into a PC](https://www.youtube.com/watch?v=j3Esy8NP9bo)
 - [Bad: Fitting a fulll PC (with too much cut)](https://www.youtube.com/watch?v=zBrjSIqgD1A)
 
-
 - Mac Classic HS - 50€ (leboncoin)
 - clavier sans fil
 - [picotron onboard]({% post_url 2025-04-12-main-picotron %})
 	- requiert un amd64.
+
+### new Hardware
 
 - [Thermalright AXP90-X47 Full copper](https://www.amazon.fr/Thermalright-Refroidisseur-processeur-ventilateur-90x90x15mm/dp/B09WDRKBRJ) - [comparison](https://www.tinytechtweaks.com/en/post/top-6-low-profile-cpu-air-coolers-for-ryzen-7800x3d-a-comparison) - best is a liquid cooler 67° - the second best is this one with 76°
 
@@ -146,14 +147,14 @@ My Choice [**Ecran IPS 4/3**](https://youtu.be/nguN392TH-g?si=Qj1b74SA7zqf23BR&t
 [![caption](https://m.media-amazon.com/images/I/71hn2L+7btL._AC_SL1500_.jpg)](https://www.amazon.fr/gp/product/B099Z9SVX7?smid=A28KS01BONGL5G&th=1)
     
 
-### [Purpose ?](https://chatgpt.com/share/67fa94de-8158-800d-ba9a-e3204a09ec7d)
+## [Purpose ?](https://chatgpt.com/share/67fa94de-8158-800d-ba9a-e3204a09ec7d)
 - ~~could be a 2.5Gb switch~~
 - could host nginx
 - could be tied to the second availabe monitor
 
 
 
-## see also
+# see also
 
 - [Macintosh Classic](https://oldcrap.org/2018/10/31/apple-macintosh-classic/)
 - [The Macintosh Garden](https://macintoshgarden.org/)
