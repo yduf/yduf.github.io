@@ -95,8 +95,7 @@ see also
 - [picotron onboard]({% post_url 2025-04-12-main-picotron %})
 	- requiert un amd64.
 
-### new Hardware
-
+### New Hardware
 
 Hardware Total:        **535€**
 - motherboard/Cpu/ram:   388€
