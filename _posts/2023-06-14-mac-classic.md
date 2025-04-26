@@ -40,6 +40,7 @@ toc: true
 
 - [Macintosh Classic Restoration](https://www.youtube.com/watch?v=hwMAmKAoIkA)
 	- [cleaning case](https://youtu.be/hwMAmKAoIkA?si=YRCCufmRnFLt_88q&t=606) - with hydrogen peroxyde bath + uv light
+	- plastic sheet can create marks.
 - [Macintosh SE Restoration](https://www.youtube.com/watch?v=wXWlJFrX19s)
 	- [CRT handling](https://youtu.be/wXWlJFrX19s?si=iym1iMN2EnSPOQhu&t=268)
 
