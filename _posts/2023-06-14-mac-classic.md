@@ -85,7 +85,7 @@ see also
 - [Mac Classic Retrofit - Breathe new life into a classic!](https://www.youtube.com/watch?v=nguN392TH-g)
 	- [cutting back panel](https://youtu.be/nguN392TH-g?si=MQ8X2YtvCZiFf07-&t=429)
     
-**Fiting a Full PC**
+## Fiting a Full PC
 - [Vintage Mac Classic NAS](https://www.insanelymac.com/forum/topic/344354-vintage-mac-classic-nas/) - lot of pics
 - [Less Bad: Remodelling the Mac Classic II into a PC](https://www.youtube.com/watch?v=j3Esy8NP9bo)
 - [Bad: Fitting a fulll PC (with too much cut)](https://www.youtube.com/watch?v=zBrjSIqgD1A)
@@ -100,9 +100,12 @@ see also
 
 Hardware Total:        **600€**
 - motherboard/Cpu/ram:   400€
+	- [ryzen 7 5700G](https://www.amazon.fr/dp/B091J3NYVF)  165€
+    - [64Go]()           107€
+    - miniITX            116€ - [Gigabyte A520I AC ITX](https://www.amazon.fr/dp/B08GM91HBQ)
 - better ventirad:        40€
 - mac screen replacement  79€ - [VSDISPLAY Écran LCD 9,7](https://www.amazon.fr/gp/product/B099Z9SVX7) - spec [ écran IPS eDP 440nit](https://chatgpt.com/share/680016d4-093c-800d-b9ec-d3bceeb10884) ref VS-RTD09703-V1
-- power:                  50€
+- power:                  68€ - [Corsair CX450M](https://www.amazon.fr/dp/B019NWTCEA) - semi cablé
     
 
 <table>
