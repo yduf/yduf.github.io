@@ -81,7 +81,7 @@ see also
 # Project - rehousing
 
 
-- [Macintosh Classic II Color Hackintosh](https://www.instructables.com/Macintosh-Classic-II-Color-Hackintosh/)
+
     
 ## Fiting a Full PC
 
@@ -100,6 +100,8 @@ see also
     
 see also
 - [retrofitted Macintosh Classic ](https://www.reddit.com/r/VintageApple/comments/q2x90k/my_new_retrofitted_macintosh_classic/) - has link to rebuild a mac mouse
+- [Macintosh Classic II Color Hackintosh](https://www.instructables.com/Macintosh-Classic-II-Color-Hackintosh/)
+
 
 ### New Hardware
 
