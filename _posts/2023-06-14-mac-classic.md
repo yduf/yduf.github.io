@@ -101,7 +101,7 @@ see also
 Hardware Total:        **600€**
 - motherboard/Cpu/ram:   400€
 	- [ryzen 7 5700G](https://www.amazon.fr/dp/B091J3NYVF)  165€
-    - [64Go]()           107€
+    - [64Go](https://www.amazon.fr/dp/B0C29W4G29)           107€
     - miniITX            116€ - [Gigabyte A520I AC ITX](https://www.amazon.fr/dp/B08GM91HBQ)
 - better ventirad:        40€
 - mac screen replacement  79€ - [VSDISPLAY Écran LCD 9,7](https://www.amazon.fr/gp/product/B099Z9SVX7) - spec [ écran IPS eDP 440nit](https://chatgpt.com/share/680016d4-093c-800d-b9ec-d3bceeb10884) ref VS-RTD09703-V1
