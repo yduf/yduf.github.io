@@ -127,7 +127,6 @@ Hardware Total:        **535€**
 
 [![caption](https://m.media-amazon.com/images/I/51uCFHBLNuS._SS284_.jpg)](https://www.amazon.fr/gp/product/B08GM91HBQ)
 
-[![caption](https://m.media-amazon.com/images/I/71Ys5naKaDL._SS284_.jpg)](https://www.amazon.fr/gp/product/B089TP3GQF)
 
 ### Screen
 
