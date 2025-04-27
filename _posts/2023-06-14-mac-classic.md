@@ -156,6 +156,9 @@ My Choice [**Ecran IPS 4/3**](https://youtu.be/nguN392TH-g?si=Qj1b74SA7zqf23BR&t
     
 [![caption](https://m.media-amazon.com/images/I/71hn2L+7btL._AC_SL1500_.jpg)](https://www.amazon.fr/gp/product/B099Z9SVX7?smid=A28KS01BONGL5G&th=1)
     
+- 3dprinted Bezel
+- acrylic filler
+- [colle B7000](https://chatgpt.com/share/680e243e-b2c0-800d-8402-18915d6c845e) - decollage en chauffant a 80°
 
 ## [Purpose ?](https://chatgpt.com/share/67fa94de-8158-800d-ba9a-e3204a09ec7d)
 - ~~could be a 2.5Gb switch~~
