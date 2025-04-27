@@ -1,7 +1,7 @@
 ---
 title: The Drifter
 published: true
-tags: games gog blog-games blog-code
+tags: games adventure gog blog-games blog-code
 ---
 > [trailer](https://www.youtube.com/watch?v=Lk_TY4mZbVg) / [gog](https://www.gog.com/fr/game/the_drifter)
 
