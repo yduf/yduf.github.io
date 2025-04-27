@@ -104,6 +104,7 @@ see also
 - [Macintosh Classic II Color Hackintosh](https://www.instructables.com/Macintosh-Classic-II-Color-Hackintosh/)
 - [New life on a 30-year-old Macintosh Classic II](https://www.youtube.com/watch?v=a5XxrUhoXqE&t=904s) - glue screen + mac mini. - screen bigger than aperture.
 - [Macintosh Plus mini Retrofit - Build Video!](https://www.youtube.com/watch?v=dpgFJmEe90I)
+	- use an avrylic fake CRT screen for filling the gap
 
 ### New Hardware
 
