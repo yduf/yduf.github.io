@@ -1,7 +1,7 @@
 ---
 published: true
 title: Bleak Sword
-tags: games
+tags: games dungeon
 ---
 > [Bleak Sword](https://twitter.com/more8bit?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E990314804152815618%7Ctwgr%5E%7Ctwcon%5Es1_) is a dark fantasy action-adventure video game  - [Home](https://www.bleaksword.com/)
 
