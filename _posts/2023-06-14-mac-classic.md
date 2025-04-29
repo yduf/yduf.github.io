@@ -8,9 +8,14 @@ toc: true
 
 <link rel="shortcut icon" href="https://img.icons8.com/?size=100&id=22195&format=png" type="image/x-icon" />
 
-[![caption](https://cdn.prod.website-files.com/5b44edefca321a1e2d0c2aa6/5e7f5af10c4ef4ca3bf73da6_Dimensions-Guide-Digital-Apple-iMac-Macintosh-128K-1984-Dimensions.svg)](https://www.dimensions.com/element/apple-macintosh-128k-1984)
+
+[![caption](https://retrorepairsandrefurbs.com/wp-content/uploads/2023/07/img_2500-1.jpg?w=3136)](https://retrorepairsandrefurbs.com/2023/06/22/1991-apple-macintosh-classic-i-repair-restoration/)
+
 
 [![caption](https://upload.wikimedia.org/wikipedia/en/timeline/lvjuq81m4e89xlvtqw5vez5pc0dpjp2.png)](https://en.wikipedia.org/wiki/Macintosh_128K)
+
+[![caption](https://cdn.prod.website-files.com/5b44edefca321a1e2d0c2aa6/5e7f5af10c4ef4ca3bf73da6_Dimensions-Guide-Digital-Apple-iMac-Macintosh-128K-1984-Dimensions.svg)](https://www.dimensions.com/element/apple-macintosh-128k-1984)
+
 
 # [Classic](https://everymac.com/systems/apple/mac_classic/specs/mac_classic.html)
 
@@ -185,4 +190,3 @@ My Choice [**Ecran IPS 4/3**](https://youtu.be/nguN392TH-g?si=Qj1b74SA7zqf23BR&t
 - [Macintosh Classic](https://oldcrap.org/2018/10/31/apple-macintosh-classic/)
 - [The Macintosh Garden](https://macintoshgarden.org/)
 
-[![caption](https://retrorepairsandrefurbs.com/wp-content/uploads/2023/07/img_2500-1.jpg?w=3136)](https://retrorepairsandrefurbs.com/2023/06/22/1991-apple-macintosh-classic-i-repair-restoration/)
