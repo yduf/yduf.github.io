@@ -146,7 +146,7 @@ Hardware Total:        **535€**
 - 3dprinted Bezel
 - acrylic filler
 - [colle B7000](https://chatgpt.com/share/680e243e-b2c0-800d-8402-18915d6c845e) - decollage en chauffant a 80°C
-- control button in floppy disk drive
+- [control button in floppy disk drive](https://youtu.be/nguN392TH-g?si=nXbxcn8i43qxHAmO&t=297)
 
 My Choice [**Ecran IPS 4/3**](https://youtu.be/nguN392TH-g?si=Qj1b74SA7zqf23BR&t=203) + [3d printed bezel](https://www.thingiverse.com/thing:3551263/files)
 - [VSDISPLAY Écran LCD 9,7](https://www.amazon.fr/gp/product/B099Z9SVX7) - spec [ écran IPS eDP 440nit](https://chatgpt.com/share/680016d4-093c-800d-b9ec-d3bceeb10884) ref VS-RTD09703-V1
