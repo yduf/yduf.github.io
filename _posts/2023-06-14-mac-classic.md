@@ -158,11 +158,19 @@ My Choice [**Ecran IPS 4/3**](https://youtu.be/nguN392TH-g?si=Qj1b74SA7zqf23BR&t
 - [colle B7000](https://chatgpt.com/share/680e243e-b2c0-800d-8402-18915d6c845e) - decollage en chauffant a 80°C
 
 ### ATX power fitting
-- use ATX fan as out fan
+- use ATX fan as out fan / put ATX on left side in front &close back window
 - reuse legacy socket
 - deport/reduce ATX input socket
 
 [![caption](https://www.insanelymac.com/uploads/monthly_2020_06/IMG_2777.thumb.jpg.9db74c0d42bca2c8d6204677a81e981b.jpg)](https://www.insanelymac.com/forum/topic/344354-vintage-mac-classic-nas/)
+
+### Motherboard Fit
+
+- 3dprint somelegs to support the mother board
+- cut the back of the frame
+
+[![caption](https://www.insanelymac.com/uploads/monthly_2020_06/IMG_2708.thumb.jpg.ca4b1cabc31331eb325a2497c21e65af.jpg)](https://www.insanelymac.com/forum/topic/344354-vintage-mac-classic-nas/)
+
 
 ## [Purpose ?](https://chatgpt.com/share/67fa94de-8158-800d-ba9a-e3204a09ec7d)
 - ~~could be a 2.5Gb switch~~
