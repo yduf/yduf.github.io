@@ -40,3 +40,4 @@ see also
 - [The Ultimate Game Hacking Resource](https://github.com/dsasmblr/game-hacking)
 - [r/REGames](https://www.reddit.com/r/REGames/)
 - [How To Reverse Engineer A Bluetooth Device](https://www.youtube.com/watch?v=NIBmiPtCDdM) / [2](https://www.youtube.com/watch?v=e3VwPb72Bbgm)
+- [THIS is how you find malware in an illegal Android TV Box](https://www.youtube.com/watch?v=vIuT7rJgc8w) - deep review on how to get into / and analyse top box. - require some special tools
