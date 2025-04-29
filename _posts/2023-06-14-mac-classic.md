@@ -139,7 +139,6 @@ Hardware Total:        **535€**
   {% endfor %}
 </table>
 
-[![caption](https://m.media-amazon.com/images/I/51uCFHBLNuS._SS284_.jpg)](https://www.amazon.fr/gp/product/B08GM91HBQ)
 
 
 ### Screen
@@ -147,6 +146,7 @@ Hardware Total:        **535€**
 - 3dprinted Bezel
 - acrylic filler
 - [colle B7000](https://chatgpt.com/share/680e243e-b2c0-800d-8402-18915d6c845e) - decollage en chauffant a 80°C
+- control button in floppy disk drive
 
 My Choice [**Ecran IPS 4/3**](https://youtu.be/nguN392TH-g?si=Qj1b74SA7zqf23BR&t=203) + [3d printed bezel](https://www.thingiverse.com/thing:3551263/files)
 - [VSDISPLAY Écran LCD 9,7](https://www.amazon.fr/gp/product/B099Z9SVX7) - spec [ écran IPS eDP 440nit](https://chatgpt.com/share/680016d4-093c-800d-b9ec-d3bceeb10884) ref VS-RTD09703-V1
@@ -177,6 +177,8 @@ Options are:
 
 [![caption](https://www.insanelymac.com/uploads/monthly_2020_06/IMG_2708.thumb.jpg.ca4b1cabc31331eb325a2497c21e65af.jpg)](https://www.insanelymac.com/forum/topic/344354-vintage-mac-classic-nas/)
 
+
+[![caption](https://m.media-amazon.com/images/I/51uCFHBLNuS._SS284_.jpg)](https://www.amazon.fr/gp/product/B08GM91HBQ)
 
 ## [Purpose ?](https://chatgpt.com/share/67fa94de-8158-800d-ba9a-e3204a09ec7d)
 - ~~could be a 2.5Gb switch~~
