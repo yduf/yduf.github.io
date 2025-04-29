@@ -173,6 +173,7 @@ My Choice [**Ecran IPS 4/3**](https://youtu.be/nguN392TH-g?si=Qj1b74SA7zqf23BR&t
 
 - 3dprint somelegs to support the mother board
 - [cut the back of the framel](https://youtu.be/nguN392TH-g?si=MQ8X2YtvCZiFf07-&t=429)
+	- [removing back](https://www.insanelymac.com/uploads/monthly_2020_06/IMG_2690.thumb.jpg.a47016e7388456fd653f2e492360c0c3.jpg)
 
 
 [![caption](https://www.insanelymac.com/uploads/monthly_2020_06/IMG_2708.thumb.jpg.ca4b1cabc31331eb325a2497c21e65af.jpg)](https://www.insanelymac.com/forum/topic/344354-vintage-mac-classic-nas/)
