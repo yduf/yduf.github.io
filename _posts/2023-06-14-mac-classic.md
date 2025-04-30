@@ -91,7 +91,7 @@ see also
 	- [x] - retrobright case - didn't go as planned
     - [x] - electrolyse chassis corrosion (caused by component leak)
 - Preps
-	- [x] - screen is working
+	- [x] - [screen is working](#screen)
     - [ ] - assemble motherboard 
 		- [ ] - check motherboard
 		- [ ] - install OS
