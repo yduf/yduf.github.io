@@ -95,7 +95,7 @@ see also
     - [x] - assemble motherboard 
 		- [x] - check motherboard
 		- [x] - install OS - from reused from lab
-- Screen fitting
+- [Screen fitting](#screen)
 	- [ ] - redesigning bezel
     - [ ] - paint bezel 
     - [ ] - glue bezel w B7000
