@@ -92,9 +92,9 @@ see also
     - [x] - electrolyse chassis corrosion (caused by component leak)
 - Preps
 	- [x] - [screen is working](#screen)
-    - [ ] - assemble motherboard 
-		- [ ] - check motherboard
-		- [ ] - install OS
+    - [x] - assemble motherboard 
+		- [x] - check motherboard
+		- [x] - install OS - from reused from lab
 - Screen fitting
 	- [ ] - redesigning bezel
     - [ ] - paint bezel 
