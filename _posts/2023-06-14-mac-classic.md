@@ -98,7 +98,7 @@ see also
 - Screen fitting
 	- [ ] - redesigning bezel
     - [ ] - paint bezel 
-    - [ ] - glue bezel w B7000rust
+    - [ ] - glue bezel w B7000
     - [ ] - cut acrylic glass to fill gap / have a proper plane
     - [ ] - fix screen on acrylic
     - [ ] - attach main electronic
