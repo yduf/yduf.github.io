@@ -116,7 +116,7 @@ see also
     - [ ] - hdd led
 - Closing
 	- [ ] archive motherboard doc
-    - [ ] adds pic to project
+    - [ ] adds my own pics to project
 
 ## Fiting a Full PC
 
