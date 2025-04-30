@@ -87,6 +87,31 @@ see also
 
 # Project - rehousing
 
+- Case
+	- [x] - retrobright case - didn't go as planned
+    - [x] - electrolyse chassis corrosion (caused by component leak)
+- Preps
+	- [x] - screen is working
+    - [ ] - assemble motherboard 
+    	- [ ] - check motherboard
+        - [ ] - install OS
+- Screen fitting
+	- [ ] - redesigning bezel
+    - [ ] - paint bezel 
+    - [ ] - glue bezel w B7000
+    - [ ] - cut acrylic glass to fill gap / have a proper plane
+    - [ ] - fix screen on acrylic
+    - [ ] - attach main electronic
+    - [ ] - attach control button
+- Motherboard Fit
+	- [ ] - design foot
+	- [ ] - cut chassis
+    - [ ] - cut back
+	- [ ] - design cover
+- ATX Power fit
+	- [ ] - design support 
+	- [ ] - reset / power on button fit
+
 ## Fiting a Full PC
 
 - [Mac Classic Retrofit - Breathe new life into a classic!](https://www.youtube.com/watch?v=nguN392TH-g)
@@ -191,4 +216,3 @@ Options are:
 
 - [Macintosh Classic](https://oldcrap.org/2018/10/31/apple-macintosh-classic/)
 - [The Macintosh Garden](https://macintoshgarden.org/)
-
