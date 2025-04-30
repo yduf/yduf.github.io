@@ -89,7 +89,7 @@ see also
 
 - Case
 	- [x] - retrobright case - didn't go as planned
-    - [x] - electrolyse chassis corrosion (caused by component leak)
+    - [x] - remove rust by electrolysis on chassis corrosion (caused by component leak)
 - Preps
 	- [x] - [screen is working](#screen)
     - [x] - assemble motherboard 
