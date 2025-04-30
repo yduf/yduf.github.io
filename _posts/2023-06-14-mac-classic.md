@@ -114,6 +114,9 @@ see also
 - Misc
 	- [ ] - fit HP
     - [ ] - hdd led
+- Closing
+	- [ ] archive motherboard doc
+    - [ ] adds pic to project
 
 ## Fiting a Full PC
 
