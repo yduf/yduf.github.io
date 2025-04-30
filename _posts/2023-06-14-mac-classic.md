@@ -111,6 +111,9 @@ see also
 - ATX Power fit
 	- [ ] - design support 
 	- [ ] - reset / power on button fit
+- Misc
+	- [ ] - fit HP
+    - [ ] - hdd led
 
 ## Fiting a Full PC
 
