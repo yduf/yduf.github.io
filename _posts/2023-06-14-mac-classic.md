@@ -93,12 +93,12 @@ see also
 - Preps
 	- [x] - screen is working
     - [ ] - assemble motherboard 
-    	- [ ] - check motherboard
-        - [ ] - install OS
+		- [ ] - check motherboard
+		- [ ] - install OS
 - Screen fitting
 	- [ ] - redesigning bezel
     - [ ] - paint bezel 
-    - [ ] - glue bezel w B7000
+    - [ ] - glue bezel w B7000rust
     - [ ] - cut acrylic glass to fill gap / have a proper plane
     - [ ] - fix screen on acrylic
     - [ ] - attach main electronic
