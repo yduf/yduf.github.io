@@ -96,9 +96,9 @@ see also
 		- [x] - check motherboard
 		- [x] - install OS - from reused from lab
 - [Screen fitting](#screen)
-	- [ ] - redesigning bezel
-    - [ ] - paint bezel 
-    - [ ] - glue bezel w B7000
+	- [x] - redesigning bezel
+    - [x] - paint bezel 
+    - [ ] - glue bezel w B7000 - 30min Liquid / 2h can be handled / 6h finished
     - [ ] - cut acrylic glass to fill gap / have a proper plane
     - [ ] - fix screen on acrylic
     - [ ] - attach main electronic
