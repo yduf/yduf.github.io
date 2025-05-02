@@ -97,8 +97,8 @@ see also
 		- [x] - install OS - from reused from lab
 - [Screen fitting](#screen)
 	- [x] - redesigning bezel
-    - [x] - paint bezel 
-    - [ ] - glue bezel w B7000 - 30min Liquid / 2h can be handled / 6h finished
+	    - [x] - paint bezel - [using light grey](https://www.amazon.fr/dp/B06XR412B3)
+    	- [ ] - glue bezel [w B7000](https://www.amazon.fr/dp/B0CF6WHMH6?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) - 30min Liquid / 2h can be handled / 6h finished
     - [ ] - cut acrylic glass to fill gap / have a proper plane
     - [ ] - fix screen on acrylic
     - [ ] - attach main electronic
