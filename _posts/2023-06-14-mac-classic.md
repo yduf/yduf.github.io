@@ -145,7 +145,7 @@ see also
 
 Hardware Total:        **535€**
 - motherboard/Cpu/ram:   388€
-	- [ryzen 7 5700G](https://www.amazon.fr/dp/B091J3NYVF)  165€
+	- [ryzen 7 5700G](https://www.amazon.fr/dp/B091J3NYVF)  165€ - garantie 3Y
     - [64Go](https://www.amazon.fr/dp/B0C29W4G29)           107€
     - miniITX            116€ - [Gigabyte A520I AC ITX](https://www.amazon.fr/dp/B08GM91HBQ)
 - _better ventirad:        40€_ - not yet 
