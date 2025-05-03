@@ -1,16 +1,21 @@
 ---
 published: true
 title: "Macintosh Classic \U0001F4BE \U0001F6A7"
-tags: 3dprint retro project macintosh pc-hardware in-progress
+tags: 3dprint retro project macintosh pc-hardware chemical in-progress
 toc: true
 ---
 > Tiny Mac III (Pi 4) - [instructable](https://www.instructables.com/Tiny-Mac-II-Pi-Zero-2-and-Tiny-Mac-III-Pi-4-With-A/) / [HN](https://news.ycombinator.com/item?id=36289682) / [r/VintageApple ](https://www.reddit.com/r/VintageApple/) / [wikipedia](https://en.wikipedia.org/wiki/Macintosh_Classic)
 
 <link rel="shortcut icon" href="https://img.icons8.com/?size=100&id=22195&format=png" type="image/x-icon" />
 
-[![caption](https://cdn.prod.website-files.com/5b44edefca321a1e2d0c2aa6/5e7f5af10c4ef4ca3bf73da6_Dimensions-Guide-Digital-Apple-iMac-Macintosh-128K-1984-Dimensions.svg)](https://www.dimensions.com/element/apple-macintosh-128k-1984)
+
+[![caption](https://retrorepairsandrefurbs.com/wp-content/uploads/2023/07/img_2500-1.jpg?w=3136)](https://retrorepairsandrefurbs.com/2023/06/22/1991-apple-macintosh-classic-i-repair-restoration/)
+
 
 [![caption](https://upload.wikimedia.org/wikipedia/en/timeline/lvjuq81m4e89xlvtqw5vez5pc0dpjp2.png)](https://en.wikipedia.org/wiki/Macintosh_128K)
+
+[![caption](https://cdn.prod.website-files.com/5b44edefca321a1e2d0c2aa6/5e7f5af10c4ef4ca3bf73da6_Dimensions-Guide-Digital-Apple-iMac-Macintosh-128K-1984-Dimensions.svg)](https://www.dimensions.com/element/apple-macintosh-128k-1984)
+
 
 # [Classic](https://everymac.com/systems/apple/mac_classic/specs/mac_classic.html)
 
@@ -40,11 +45,13 @@ toc: true
 
 - [Macintosh Classic Restoration](https://www.youtube.com/watch?v=hwMAmKAoIkA)
 	- [cleaning case](https://youtu.be/hwMAmKAoIkA?si=YRCCufmRnFLt_88q&t=606) - with hydrogen peroxyde bath + uv light
+	- plastic wrap created marks ?
 - [Macintosh SE Restoration](https://www.youtube.com/watch?v=wXWlJFrX19s)
 	- [CRT handling](https://youtu.be/wXWlJFrX19s?si=iym1iMN2EnSPOQhu&t=268)
 
 ### [Macintosh Classic disassembly](https://www.ifixit.com/Guide/Macintosh+Classic+disassembly/155322)
 
+- **[How (not) to discharge a CRT!](https://www.youtube.com/watch?v=a6FMpvs71pc&t=347s) ⚡**
 - [Removing the motherboard](https://www.ifixit.com/Guide/Macintosh+Classic+disassembly/155322#s323923) - The motherboard has no screws, so it can be removed by pulling upwards.
 	- Make sure to disconnect all cables.
 - [Remove The Floppy Drive ](https://www.ifixit.com/Guide/Macintosh+Classic+disassembly/155322#s323924) - 4 screws to remove - all hidden below, accessible only after removing the mother board, 2 behind the plastic fan
@@ -80,29 +87,72 @@ see also
 
 # Project - rehousing
 
-- [retrofitted Macintosh Classic ](https://www.reddit.com/r/VintageApple/comments/q2x90k/my_new_retrofitted_macintosh_classic/)
-- [Macintosh Classic II Color Hackintosh](https://www.instructables.com/Macintosh-Classic-II-Color-Hackintosh/)
+- Case
+	- [x] - retrobright case - didn't go as planned
+    - [x] - remove rust by electrolysis on chassis corrosion (caused by component leak)
+- Preps
+	- [x] - [screen is working](#screen)
+    - [x] - assemble motherboard 
+		- [x] - check motherboard
+		- [x] - install OS - from reused from lab
+- [Screen fitting](#screen)
+	- [x] - [redesigned bezel](https://www.printables.com/model/1283304-mac-classic-bezel)
+	    - [x] - paint bezel - [using light grey](https://www.amazon.fr/dp/B06XR412B3)
+		- [ ] - glue bezel [w B7000](https://www.amazon.fr/dp/B0CF6WHMH6?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) - 30min Liquid / 2h can be handled / 6h finished
+    - [ ] - cut 2mm acrylic glass to fill remaining gap / have a proper plane
+    	- glue acrylic screen - to reinforce bezel base.
+    - [ ] - fix screen on acrylic
+    - [ ] - attach main electronic
+    - [ ] - attach control button
+- Motherboard Fit
+	- [ ] - design foot
+	- [ ] - cut chassis
+    - [ ] - cut back
+	- [ ] - design cover
+- ATX Power fit
+	- [ ] - design support 
+	- [ ] - reset / power on button fit
+- Misc
+	- [ ] - fit HP
+    - [ ] - hdd led
+- Closing
+	- [ ] archive motherboard doc
+    - [ ] adds my own pics to project
+
+## Fiting a Full PC
+
 - [Mac Classic Retrofit - Breathe new life into a classic!](https://www.youtube.com/watch?v=nguN392TH-g)
 	- [cutting back panel](https://youtu.be/nguN392TH-g?si=MQ8X2YtvCZiFf07-&t=429)
-    
-**Fiting a Full PC**
-- [Vintage Mac Classic NAS](https://www.insanelymac.com/forum/topic/344354-vintage-mac-classic-nas/) - lot of pics
-- [Less Bad: Remodelling the Mac Classic II into a PC](https://www.youtube.com/watch?v=j3Esy8NP9bo)
-- [Bad: Fitting a fulll PC (with too much cut)](https://www.youtube.com/watch?v=zBrjSIqgD1A)
+    - or build a [backpanel to avoid it](https://www.instructables.com/Macintosh-Classic-II-Color-Hackintosh/)
 
+- [Vintage Mac Classic NAS](https://www.insanelymac.com/forum/topic/344354-vintage-mac-classic-nas/) - lot of pics
+- [Not Bad: Remodelling the Mac Classic II into a PC](https://www.youtube.com/watch?v=j3Esy8NP9bo)
+- [Bad: Fitting a fulll PC (with too much cut)](https://www.youtube.com/watch?v=zBrjSIqgD1A)
 
 - Mac Classic HS - 50€ (leboncoin)
 - clavier sans fil
 - [picotron onboard]({% post_url 2025-04-12-main-picotron %})
 	- requiert un amd64.
+    
+see also
+- [retrofitted Macintosh Classic ](https://www.reddit.com/r/VintageApple/comments/q2x90k/my_new_retrofitted_macintosh_classic/) - has link to [rebuild a mac mouse](https://www.youtube.com/watch?v=miN8sADrsgA)
+- [Macintosh Classic II Color Hackintosh](https://www.instructables.com/Macintosh-Classic-II-Color-Hackintosh/)
+- [New life on a 30-year-old Macintosh Classic II](https://www.youtube.com/watch?v=a5XxrUhoXqE&t=904s) - glue screen + mac mini. - screen bigger than aperture.
+- [Macintosh Plus mini Retrofit - Build Video!](https://www.youtube.com/watch?v=dpgFJmEe90I)
+	- use an avrylic fake CRT screen for filling the gap
 
-- [Thermalright AXP90-X47 Full copper](https://www.amazon.fr/Thermalright-Refroidisseur-processeur-ventilateur-90x90x15mm/dp/B09WDRKBRJ) - [comparison](https://www.tinytechtweaks.com/en/post/top-6-low-profile-cpu-air-coolers-for-ryzen-7800x3d-a-comparison) - best is a liquid cooler 67° - the second best is this one with 76°
+### New Hardware
 
-Hardware Total:        **600€**
-- motherboard/Cpu/ram:   400€
-- better ventirad:        40€
+Hardware Total:        **535€**
+- motherboard/Cpu/ram:   388€
+	- [ryzen 7 5700G](https://www.amazon.fr/dp/B091J3NYVF)  165€ - garantie 3Y
+    - [64Go](https://www.amazon.fr/dp/B0C29W4G29)           107€
+    - miniITX            116€ - [Gigabyte A520I AC ITX](https://www.amazon.fr/dp/B08GM91HBQ)
+- _better ventirad:        40€_ - not yet 
+	- [Thermalright AXP90-X47 Full copper](https://www.amazon.fr/Thermalright-Refroidisseur-processeur-ventilateur-90x90x15mm/dp/B09WDRKBRJ) - [comparison](https://www.tinytechtweaks.com/en/post/top-6-low-profile-cpu-air-coolers-for-ryzen-7800x3d-a-comparison) - best is a liquid cooler 67° - the second best is this one with 76°
+
 - mac screen replacement  79€ - [VSDISPLAY Écran LCD 9,7](https://www.amazon.fr/gp/product/B099Z9SVX7) - spec [ écran IPS eDP 440nit](https://chatgpt.com/share/680016d4-093c-800d-b9ec-d3bceeb10884) ref VS-RTD09703-V1
-- power:                  50€
+- power:                  68€ - [Corsair CX450M](https://www.amazon.fr/dp/B019NWTCEA) - semi cablé
     
 
 <table>
@@ -121,14 +171,20 @@ Hardware Total:        **600€**
   {% endfor %}
 </table>
 
-[![caption](https://m.media-amazon.com/images/I/51uCFHBLNuS._SS284_.jpg)](https://www.amazon.fr/gp/product/B08GM91HBQ)
 
-[![caption](https://m.media-amazon.com/images/I/71Ys5naKaDL._SS284_.jpg)](https://www.amazon.fr/gp/product/B089TP3GQF)
 
 ### Screen
 
-- **[How (not) to discharge a CRT!](https://www.youtube.com/watch?v=a6FMpvs71pc&t=347s) ⚡**
+- 3dprinted Bezel
+- acrylic filler
+- [colle B7000](https://chatgpt.com/share/680e243e-b2c0-800d-8402-18915d6c845e) - decollage en chauffant a 80°C
+- [control button in floppy disk drive](https://youtu.be/nguN392TH-g?si=nXbxcn8i43qxHAmO&t=297)
 
+My Choice [**Ecran IPS 4/3**](https://youtu.be/nguN392TH-g?si=Qj1b74SA7zqf23BR&t=203) + [3d printed bezel](https://www.thingiverse.com/thing:3551263/files)
+- [VSDISPLAY Écran LCD 9,7](https://www.amazon.fr/gp/product/B099Z9SVX7) - spec [ écran IPS eDP 440nit](https://chatgpt.com/share/680016d4-093c-800d-b9ec-d3bceeb10884) ref VS-RTD09703-V1
+    
+[![caption](https://m.media-amazon.com/images/I/71hn2L+7btL._AC_SL1500_.jpg)](https://www.amazon.fr/gp/product/B099Z9SVX7?smid=A28KS01BONGL5G&th=1)
+    
 Options are:
 - [ Mac Classic with LCD inside the CRT part 1](https://www.youtube.com/watch?v=-mMaO6ULuSk&list=LL&index=19) / [part3](https://www.youtube.com/watch?v=3grAxKGzBt0)- glass cut / smaller lcd 8in screen fit.
     - [cutting the tube](https://www.youtube.com/watch?v=nVWXaGI7gfQ&t=158s) - _just don't breathe the phosphors._
@@ -137,22 +193,33 @@ Options are:
 - [Macintosh Plus mini Retrofit](https://www.youtube.com/watch?v=dpgFJmEe90I&t=1644s) - acrylic sheet + custom bezel 
 	- [shop](https://www.etsy.com/shop/RetroAppleAT)
 
-My Choice [**Ecran IPS 4/3**](https://youtu.be/nguN392TH-g?si=Qj1b74SA7zqf23BR&t=203) + [3d printed bezel](https://www.thingiverse.com/thing:3551263/files)
-- [VSDISPLAY Écran LCD 9,7](https://www.amazon.fr/gp/product/B099Z9SVX7) - spec [ écran IPS eDP 440nit](https://chatgpt.com/share/680016d4-093c-800d-b9ec-d3bceeb10884) ref VS-RTD09703-V1
-    
-[![caption](https://m.media-amazon.com/images/I/71hn2L+7btL._AC_SL1500_.jpg)](https://www.amazon.fr/gp/product/B099Z9SVX7?smid=A28KS01BONGL5G&th=1)
-    
+### ATX power fitting
+- use ATX fan as out fan / put ATX on left side in front &close back window
+- reuse legacy socket
+- deport/reduce ATX input socket
 
-### [Purpose ?](https://chatgpt.com/share/67fa94de-8158-800d-ba9a-e3204a09ec7d)
+[![caption](https://www.insanelymac.com/uploads/monthly_2020_06/IMG_2777.thumb.jpg.9db74c0d42bca2c8d6204677a81e981b.jpg)](https://www.insanelymac.com/forum/topic/344354-vintage-mac-classic-nas/)
+
+### Motherboard Fit
+
+- 3dprint somelegs to support the mother board
+- [cut the back of the framel](https://youtu.be/nguN392TH-g?si=MQ8X2YtvCZiFf07-&t=429)
+	- [removing back](https://www.insanelymac.com/uploads/monthly_2020_06/IMG_2690.thumb.jpg.a47016e7388456fd653f2e492360c0c3.jpg)
+- reuse power/reset button on the side
+
+[![caption](https://www.insanelymac.com/uploads/monthly_2020_06/IMG_2708.thumb.jpg.ca4b1cabc31331eb325a2497c21e65af.jpg)](https://www.insanelymac.com/forum/topic/344354-vintage-mac-classic-nas/)
+
+
+[![caption](https://m.media-amazon.com/images/I/51uCFHBLNuS._SS284_.jpg)](https://www.amazon.fr/gp/product/B08GM91HBQ)
+
+## [Purpose ?](https://chatgpt.com/share/67fa94de-8158-800d-ba9a-e3204a09ec7d)
 - ~~could be a 2.5Gb switch~~
 - could host nginx
 - could be tied to the second availabe monitor
 
 
 
-## see also
+# see also
 
 - [Macintosh Classic](https://oldcrap.org/2018/10/31/apple-macintosh-classic/)
 - [The Macintosh Garden](https://macintoshgarden.org/)
-
-[![caption](https://retrorepairsandrefurbs.com/wp-content/uploads/2023/07/img_2500-1.jpg?w=3136)](https://retrorepairsandrefurbs.com/2023/06/22/1991-apple-macintosh-classic-i-repair-restoration/)
