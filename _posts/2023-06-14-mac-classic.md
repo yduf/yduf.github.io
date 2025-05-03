@@ -104,12 +104,12 @@ see also
     - [ ] - fix screen on acrylic
     - [ ] - attach main electronic
     - [ ] - attach control button
-- Motherboard Fit
+- [Motherboard Fit](#motherboard-fit)
 	- [ ] - design foot
 	- [ ] - cut chassis
     - [ ] - cut back
 	- [ ] - design cover
-- ATX Power fit
+- [ATX Power fit](#atx-power-fitting)
 	- [ ] - design support 
 	- [ ] - reset / power on button fit
 - Misc
@@ -199,6 +199,8 @@ Options are:
 - deport/reduce ATX input socket
 
 [![caption](https://www.insanelymac.com/uploads/monthly_2020_06/IMG_2777.thumb.jpg.9db74c0d42bca2c8d6204677a81e981b.jpg)](https://www.insanelymac.com/forum/topic/344354-vintage-mac-classic-nas/)
+
+![caption](./2025-05-03_16-17-pc-fit.png)
 
 ### Motherboard Fit
 
