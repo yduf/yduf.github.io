@@ -98,10 +98,10 @@ see also
 - [Screen fitting](#screen)
 	- [x] - [redesigned bezel](https://www.printables.com/model/1283304-mac-classic-bezel)
 	    - [x] - paint bezel - [using light grey](https://www.amazon.fr/dp/B06XR412B3)
-		- [ ] - glue bezel [w B7000](https://www.amazon.fr/dp/B0CF6WHMH6?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) - 30min Liquid / 2h can be handled / 6h finished
-    - [ ] - cut 2mm acrylic glass to fill remaining gap / have a proper plane
-    	- glue acrylic screen - to reinforce bezel base.
-    - [ ] - fix screen on acrylic
+		- [x] - glue bezel [w B7000](https://www.amazon.fr/dp/B0CF6WHMH6?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) - 30min Liquid / 2h can be handled / 6h finished
+    - [x] - cut 2mm acrylic glass to fill remaining gap / have a proper plane
+    	- ~~glue acrylic screen - to reinforce bezel base~~. 
+    - [x] - fix screen on acrylic
     - [ ] - attach main electronic
     - [ ] - attach control button
 - Motherboard Fit
