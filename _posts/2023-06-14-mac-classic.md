@@ -184,7 +184,7 @@ My Choice [**Ecran IPS 4/3**](https://youtu.be/nguN392TH-g?si=Qj1b74SA7zqf23BR&)
 - [VSDISPLAY Écran LCD 9,7](https://www.amazon.fr/gp/product/B099Z9SVX7) - spec [ écran IPS eDP 440nit](https://chatgpt.com/share/680016d4-093c-800d-b9ec-d3bceeb10884) ref VS-RTD09703-V1
 	- the light is not homogenous (top is dimmer than bottom)
     - Sufficient brightness is only possible when powered in 12V.
-    	- the power connector is advised as [3.5Mm X 1.35Mm](https://www.amazon.fr/dp/B0D5HMSK6P) but doesn't fit such cable (inside to thin for contact).
+		- the power connector is advised as [3.5Mm X 1.35Mm](https://www.amazon.fr/dp/B0D5HMSK6P) but doesn't fit such cable (inside to thin for contact).
         
 [![caption](https://m.media-amazon.com/images/I/71hn2L+7btL._AC_SL1500_.jpg)](https://www.amazon.fr/gp/product/B099Z9SVX7?smid=A28KS01BONGL5G&th=1)
     
