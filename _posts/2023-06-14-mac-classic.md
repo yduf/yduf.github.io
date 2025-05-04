@@ -175,14 +175,17 @@ Hardware Total:        **535€**
 
 ### Screen
 
-- 3dprinted Bezel
-- acrylic filler
+- [my own 3dprinted Bezel]((https://www.printables.com/model/1283304-mac-classic-bezel)) - good fit / not easy to glue
+- acrylic filler, fille the remaining gap between the original display screws. Protect display.
 - [colle B7000](https://chatgpt.com/share/680e243e-b2c0-800d-8402-18915d6c845e) - decollage en chauffant a 80°C
 - [control button in floppy disk drive](https://youtu.be/nguN392TH-g?si=nXbxcn8i43qxHAmO&t=297)
 
-My Choice [**Ecran IPS 4/3**](https://youtu.be/nguN392TH-g?si=Qj1b74SA7zqf23BR&t=203) + [3d printed bezel](https://www.thingiverse.com/thing:3551263/files)
+My Choice [**Ecran IPS 4/3**](https://youtu.be/nguN392TH-g?si=Qj1b74SA7zqf23BR&)
 - [VSDISPLAY Écran LCD 9,7](https://www.amazon.fr/gp/product/B099Z9SVX7) - spec [ écran IPS eDP 440nit](https://chatgpt.com/share/680016d4-093c-800d-b9ec-d3bceeb10884) ref VS-RTD09703-V1
-    
+	- the light is not homogenous (top is dimmer than bottom)
+    - Sufficient brightness is only possible when powered in 12V.
+    	- the power connector is advised as [3.5Mm X 1.35Mm](https://www.amazon.fr/dp/B0D5HMSK6P) but doesn't fit such cable (inside to thin for contact).
+        
 [![caption](https://m.media-amazon.com/images/I/71hn2L+7btL._AC_SL1500_.jpg)](https://www.amazon.fr/gp/product/B099Z9SVX7?smid=A28KS01BONGL5G&th=1)
     
 Options are:
