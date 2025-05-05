@@ -112,6 +112,7 @@ see also
 - ATX Power fit
 	- [ ] - design support 
 	- [ ] - reset / power on button fit
+    - [ ] - power screen using 12V Molex source
 - Misc
 	- [ ] - fit HP
     - [ ] - hdd led
