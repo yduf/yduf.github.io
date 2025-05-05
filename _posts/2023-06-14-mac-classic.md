@@ -102,7 +102,7 @@ see also
     - [x] - cut 2mm acrylic glass to fill remaining gap / have a proper plane
     	- ~~glue acrylic screen - to reinforce bezel base~~. 
     - [x] - fix screen on acrylic
-    - [x] - attach main electronic
+    - [x] - attach main electronic - screwed on bottom bezel / taped on mid board
     - [ ] - attach control button
 - Motherboard Fit
 	- [ ] - design foot
