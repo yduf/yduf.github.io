@@ -10,10 +10,11 @@ tags: doc remarkable offline graph wikipedia
 
 ![caption](https://duckduckgo.com/i/a96348db.png)
 
-## [Offline wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Database_download)
+## [Database Download](https://en.wikipedia.org/wiki/Wikipedia:Database_download)
 
 Using [Kiwix](https://www.kiwix.org/en/) to [offline wikipedia](https://wastalinux.org/tutorials/kiwix/)
 
 - [remarkable-wikipedia](https://github.com/dps/remarkable-wikipedia)
 - [Read-Only Wikipedia on IPFS](https://github.com/ipfs/distributed-wikipedia-mirror#goal-1-read-only-wikipedia-on-ipfs)
 - [Data-Mining Wikipedia for Fun and Profit (billpg.com)](https://news.ycombinator.com/item?id=28234122)
+- [ Database Download](https://en.wikipedia.org/wiki/Wikipedia:Database_download) / [HN](https://news.ycombinator.com/item?id=43811732)
