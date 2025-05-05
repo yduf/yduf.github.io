@@ -175,7 +175,7 @@ Hardware Total:        **535€**
 
 ### Screen
 
-- [my own 3dprinted Bezel]((https://www.printables.com/model/1283304-mac-classic-bezel)) - good fit / not easy to glue
+- [my own 3dprinted Bezel](https://www.printables.com/model/1283304-mac-classic-bezel) - good fit / not easy to glue
 - acrylic filler, fille the remaining gap between the original display screws. Protect display.
 - [colle B7000](https://chatgpt.com/share/680e243e-b2c0-800d-8402-18915d6c845e) - decollage en chauffant a 80°C
 - [control button in floppy disk drive](https://youtu.be/nguN392TH-g?si=nXbxcn8i43qxHAmO&t=297)
