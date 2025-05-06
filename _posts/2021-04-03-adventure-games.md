@@ -5,6 +5,13 @@ tags: adventure retro games
 ---
 > List of graphic adventure games - [wikipedia](https://en.wikipedia.org/wiki/List_of_graphic_adventure_games)
 
+**Played**
+- [Runaway]({% post_url 2024-01-06-games-runaway %})
+
+**Retro Style**
+- Book 1 / [Book Two](https://powerhoof.itch.io/the-telwynium-book-two) (itchio) -  an early 90s style point and click, with Sierra SCI0 style graphics, but with a fancy new-fangled point 'n click interface.
+
+**Others**
 - [Ark of Time](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=1756&fic=liens)
 - [The Journeyman Project](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=1620)
 - [The Journeyman Project 3 : L'Héritage du temps](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=2215)
