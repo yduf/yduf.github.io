@@ -5,6 +5,8 @@ tags: retro games adventure
 ---
 > List of graphic adventure games - [wikipedia](https://en.wikipedia.org/wiki/List_of_graphic_adventure_games)
 
+[![book pic](https://img.itch.zone/aW1hZ2UvMTA5MzA4Mi82Mjk4OTQ4LnBuZw==/794x1000/PmIJXZ.png)](https://powerhoof.itch.io/the-telwynium)
+
 **Played**
 - [Runaway]({% post_url 2024-01-06-games-runaway %})
 
@@ -12,6 +14,7 @@ tags: retro games adventure
 - Book 1 / [Book Two](https://powerhoof.itch.io/the-telwynium-book-two) (itchio) -  an early 90s style point and click, with Sierra SCI0 style graphics, but with a fancy new-fangled point 'n click interface.
 - [Space Quest V : La Mutation suivante](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=296)
 - [Space Quest VI : Roger Wilco in the Spinal Frontier](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=709)
+
 
 **Others**
 - [Ark of Time](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=1756&fic=liens)
