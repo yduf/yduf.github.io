@@ -11,7 +11,7 @@ tags: retro games adventure
 - [Runaway]({% post_url 2024-01-06-games-runaway %})
 
 **Retro Style**
-- Book 1 / [Book Two](https://powerhoof.itch.io/the-telwynium-book-two) (itchio) -  an early 90s style point and click, with Sierra SCI0 style graphics, but with a fancy new-fangled point 'n click interface.
+- [Book One](https://powerhoof.itch.io/the-telwynium) / [Book Two](https://powerhoof.itch.io/the-telwynium-book-two) (itchio) -  an early 90s style point and click, with Sierra SCI0 style graphics, but with a fancy new-fangled point 'n click interface.
 - [Space Quest V : La Mutation suivante](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=296)
 - [Space Quest VI : Roger Wilco in the Spinal Frontier](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=709)
 
