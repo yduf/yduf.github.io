@@ -10,6 +10,8 @@ tags: retro games adventure
 
 **Retro Style**
 - Book 1 / [Book Two](https://powerhoof.itch.io/the-telwynium-book-two) (itchio) -  an early 90s style point and click, with Sierra SCI0 style graphics, but with a fancy new-fangled point 'n click interface.
+- [Space Quest V : La Mutation suivante](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=296)
+- [Space Quest VI : Roger Wilco in the Spinal Frontier](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=709)
 
 **Others**
 - [Ark of Time](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=1756&fic=liens)
@@ -18,8 +20,6 @@ tags: retro games adventure
 
 - [The 7th Guest](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=762)
 - [The 11th Hour](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=800)
-- [Space Quest V : La Mutation suivante](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=296)
-- [Space Quest VI : Roger Wilco in the Spinal Frontier](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=709)
 - [Ecstatica](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=421)
 - [Uninvited (Amiga version)](https://www.lemonamiga.com/games/details.php?id=1096)
 - [Shadow of the Comet](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=352)
