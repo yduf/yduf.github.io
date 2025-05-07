@@ -108,7 +108,7 @@ see also
 	- [ ] - design foot
 	- [ ] - cut chassis
     - [ ] - cut back
-    	- [x] - remove back plate drill / cut / melt attach
+		- [x] - remove back plate drill / cut / melt attach
 	- [ ] - design cover
 - ATX Power fit
 	- [ ] - design support 
