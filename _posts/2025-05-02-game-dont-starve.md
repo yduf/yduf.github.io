@@ -9,7 +9,12 @@ tags: games
 - [ Getting Started (Don't Starve RoG Beginner's Guide Series) ](https://www.youtube.com/watch?v=NksfDyU80m4) / [github](https://github.com/squeek502/Minimap-HUD)
 
 ### Mods
+
+Need to authenticate to access downloads.
+
 - [Minimap HUD 1.0.7](https://forums.kleientertainment.com/files/file/352-minimap-hud/)
 - [Combined Status 1.9.1](https://forums.kleientertainment.com/files/file/1136-combined-status/)
 
 [![caption](https://wallpapercave.com/dwp2x/wp2237057.jpg)](https://wallpapercave.com/dont-starve-wallpapers)
+
+[![caption](https://static.wikia.nocookie.net/dont-starve-game/images/1/19/Not-crazy.png/revision/latest?cb=20140430184518)](https://dontstarve.fandom.com/wiki/Forgotten_Knowledge_Puzzles)
