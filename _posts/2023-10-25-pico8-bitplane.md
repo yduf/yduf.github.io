@@ -19,3 +19,6 @@ dst_color = (dst_color & ~write_mask) | (src_color & write_mask & read_mask)
 {% endhighlight %}
 
 [![caption](https://www.lexaloffle.com/media/1/bunny_1.gif)](https://www.lexaloffle.com/bbs/?tid=50632)
+
+see also
+- [How do i make circles of light? ](https://www.reddit.com/r/pico8/comments/1i6mpgx/how_do_i_make_circles_of_light/)
