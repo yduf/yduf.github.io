@@ -9,6 +9,7 @@ tags: linux-system boot
 - [AWESOME Boot Loader Themes for GRUB](https://www.youtube.com/watch?v=nZu0rEgJcXA)
 	- [GRUB Themes](https://www.gnome-look.org/browse?cat=109&ord=rating)
     	- [Fallout GRUB theme](https://github.com/shvchk/fallout-grub-theme?tab=readme-ov-file#fallout-grub-theme)
+- [Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB)
 
 
 ### [Plymmouth](https://www.freedesktop.org/wiki/Software/Plymouth/)

@@ -14,3 +14,5 @@ tags: cli image viewer term
 - [Chafa]({% post_url 2019-02-03-chafa %})
 
 - [Chrome in term]({% post_url 2023-01-28-chrome-term %})
+
+- [FastAnime](https://github.com/Benexl/FastAnime?tab=readme-ov-file#fastanime) / [HN](https://news.ycombinator.com/item?id=42828459) - Browse Anime from the Terminal 

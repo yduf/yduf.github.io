@@ -1,7 +1,7 @@
 ---
 title: AST Structure & Error handling
 published: true
-tags: compiler AST error poisoning
+tags: compiler AST error-handling poisoning
 ---
 > The D language compiler uses a technique I call "poisoning" which has greatly reduced cascading error messages. The idea is whenever an error is found in an AST node, the AST node is replaced with an "error" node. Any combination of an error node with another node is replaced with an error node. Error messages for error nodes are suppressed.
 > 
