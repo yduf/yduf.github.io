@@ -12,6 +12,9 @@ tags: games
 
 Need to authenticate to access downloads.
 
+[**How To: Install a Mod from the Klei Downloads Page**](https://forums.kleientertainment.com/forums/topic/29658-how-to-install-a-mod-from-the-klei-downloads-page/)
+- copy the mods to the mods folder: `Dont Starve/game/mods`
+
 - [Minimap HUD 1.0.7](https://forums.kleientertainment.com/files/file/352-minimap-hud/)
 - [Combined Status 1.9.1](https://forums.kleientertainment.com/files/file/1136-combined-status/)
 
