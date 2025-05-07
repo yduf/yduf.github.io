@@ -104,7 +104,7 @@ see also
     - [x] - fix screen on acrylic
     - [x] - attach main electronic - screwed on bottom bezel / taped on mid board
     - [ ] - attach control button
-- Motherboard Fit
+- [Motherboard Fit](#motherboard-fit)
 	- [ ] - design foot
 	- [ ] - cut chassis
     - [ ] - cut back
