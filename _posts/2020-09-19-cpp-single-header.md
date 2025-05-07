@@ -31,4 +31,4 @@ tags: c++ zip math single-header lib-c++
 
 - [utl::profiler](https://github.com/DmitriBogdanov/UTL/blob/master/docs/module_profiler.md#utlprofiler) / [HN](https://news.ycombinator.com/item?id=43680477) - Single-Header Profiler for C++17 
 
-[![output](https://github.com/DmitriBogdanov/UTL/raw/master/docs/images/profiler_profiling_code_segment.png)](https://github.com/DmitriBogdanov/UTL/blob/master/docs/module_enum_reflect.md#examples)
+[![output](https://github.com/DmitriBogdanov/UTL/raw/master/docs/images/profiler_profiling_code_segment.png)](https://github.com/DmitriBogdanov/UTL/blob/master/docs/module_profiler.md#profiling-code-segment)
