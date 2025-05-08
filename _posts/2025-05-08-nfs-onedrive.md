@@ -15,3 +15,6 @@ $ sudo apt install cachefilesd
 
 And it must be enabled `/etc/default/cachefilesd` -> `RUN=yes`
 and then `sudo systemctl enable --now cachefilesd`
+
+Now when mounting nfs, use `-o fsc` to enables FS-Cache support
+``
