@@ -78,6 +78,7 @@ WantedBy=multi-user.target
 {% highlight bash %}
 $ sudo systemctl daemon-reexec
 $ sudo systemctl enable home-tronaut-yves-mnt-share.mount
+$ sudo systemctl start home-yves-Tronaut.mount
 {% endhighlight %}
 
 
