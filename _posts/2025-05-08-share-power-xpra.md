@@ -1,7 +1,7 @@
 ---
 title: "Xpra \U0001F6A7"
 published: true
-tags: remote display
+tags: remote display in-progress
 ---
 > persistent remote display server and client for forwarding applications and desktop screens. - [Home](https://xpra.org/index.html)
 
