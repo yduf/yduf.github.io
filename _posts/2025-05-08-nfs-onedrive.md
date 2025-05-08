@@ -38,8 +38,8 @@ $ zfs create -o mountpoint=/mnt/tronaut-yves storage_pool/tronaut-yves
 
 **On Client**
 {% highlight bash %}
-$ mkdir yves ~/tronaut
-$ sudo mount -t nfs4 -o fsc yourserver:/some/export /nfs/myfscached-nfs
+$ mkdir yves ~/Tronaut
+$ sudo mount -t nfs4 -o fsc tronaut:/mnt/tronaut-yves /home/yves/Tronaut
 {% endhighlight %}
 
 
