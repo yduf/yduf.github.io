@@ -26,10 +26,23 @@ Now when mounting nfs, use `-o fsc` to enables FS-Cache support
 
 ### Example
 
+Setup user specific folder on NAS
+
+**On Server** [create ZFS dataset]({% post_url 2017-11-27-CG-meanmax %}) / [NFS Share]()
 {% highlight bash %}
-$ sudo mkdir /tronaut
+$ zfs create -o mountpoint=/mnt/tronaut-yves storage_pool/tronaut-yves
+
+# add it to NFS exports (/etc/exports)
+# /mnt/tronaut-yves *(rw,sync,no_subtree_check,no_root_squash)
+{% endhighlight %}
+
+**On Client**
+{% highlight bash %}
+$ mkdir yves ~/tronaut
 $ sudo mount -t nfs4 -o fsc yourserver:/some/export /nfs/myfscached-nfs
 {% endhighlight %}
+
+
 
 ### [Config](https://computingforgeeks.com/how-to-cache-nfs-share-data-with-fs-cache-on-linux/)
 
