@@ -1,7 +1,7 @@
 ---
 published: true
 title: Sharing mouse & keyboard between PC
-tags: kvm display keyboard
+tags: kvm display keyboard remote share
 ---
 > Share one mouse and keyboard between multiple computers  - [Barrier](https://github.com/debauchee/barrier#barrier) (fork of [Synergy](https://symless.com/synergy)) / [ Fast Desktop Switching](https://news.ycombinator.com/item?id=38780519)
 
