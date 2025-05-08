@@ -9,6 +9,7 @@ tags: image text doc
 
 ### [Hugin](https://hugin.sourceforge.io/tutorials/index.shtml) 
 
+**Stitcher Tab** refered in tutorials is in fact accessible in _View Menu_
 
 A stitching panorama tool:
 - can estimate lens distortion
