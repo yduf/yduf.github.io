@@ -54,6 +54,7 @@ toc: true
 			- `sudo touch /opt/netdata/etc/netdata/.opt-out-from-anonymous-statistics`
 			- `--disable-telemetry`
 			- `--no-updates`
+- `glances` - kind of htop + cpu temps
     
 ### Remote Access
 - [**Cockpit**](http://192.168.0.125:9090)
