@@ -1,7 +1,7 @@
 ---
-title: Deskewing / Dewarping Images
+title: Deskewing / Dewarping & Stitching Images
 published: true
-tags: image text doc
+tags: image panorama text doc
 ---
 >  scanned or photo taken from hand that do not have ideal perspective - [tools to fix them](https://safjan.com/tools-for-doc-deskewing-and-dewarping/#page-dewarp-11k-stars)
 
