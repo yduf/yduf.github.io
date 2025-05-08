@@ -7,7 +7,7 @@ tags: nfs nas
 
 ### Use fs-cache + cachefilesd with NFS
 
-Needs [FS-Cache]() needs to be installed locally
+Needs [FS-Cache](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/storage_administration_guide/ch-fscache#ch-fscache) needs to be installed locally
 
 {% highlight bash %}
 $ sudo apt install cachefilesd
