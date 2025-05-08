@@ -50,20 +50,26 @@ $ sudo mount -t nfs4 -o fsc tronaut:/mnt/tronaut-yves /home/yves/Tronaut
 
 or create a [systemd mount unit](https://chatgpt.com/share/681ce740-8f10-800d-b2e3-ab9d8627159e)
 
-in `/etc/systemd/system/home-tronaut-yves-mnt-share.mount`
+**systemd .mount unit filenames must be the escaped version of the mount path.**
+
+{% highlight bash %}
+$ systemd-escape -p --suffix=mount /home/yves/Tronaut
+=> home-yves-Tronaut.mount
+{% endhighlight %}
+
+in `/etc/systemd/system/home-yves-Tronaut.mount`
 {% highlight init %}
-# /etc/systemd/system/home-tronaut-yves-mnt-share.mount
+# /etc/systemd/system/home-yves-Tronaut.mount
 [Unit]
 Description=Mount Tronaut NFS Share for yves
 After=network-online.target
 Wants=network-online.target
-ConditionUser=yves
 
 [Mount]
 What=tronaut:/mnt/tronaut-yves
 Where=/home/yves/Tronaut
 Type=nfs4
-Options=netdev,fsc,auto,nofail,x-systemd.automount,x-systemd.device-timeout=10,timeo=14
+Options=_netdev,fsc,auto,nofail,x-systemd.automount,x-systemd.device-timeout=10,timeo=14
 
 [Install]
 WantedBy=multi-user.target
