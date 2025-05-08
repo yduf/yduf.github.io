@@ -12,7 +12,7 @@ tags: vscode remote linux editor ssh
 - on container
 - on WSL (windows)
 
-**does not work with fish as user shell** => will cause a Timeout on VSCode client (though ssh work perfectly).
+**does not work with fish as default user shell** => will cause a Timeout on VSCode client (though ssh work perfectly).
 
 ## [code-server](https://github.com/cdr/code-server)
 Run inside chrome and work over ssh.
