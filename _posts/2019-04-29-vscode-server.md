@@ -49,3 +49,9 @@ In your **global VS Code settings** (`settings.json`), you can set a Peacock col
 },
 "peacock.applyColorOnRemoteConnection": true
 {% endhighlight %}
+
+It seems that remote color is store remotely in `settings.json`
+
+{% highlight json %}
+  "peacock.remoteColor": "#764FE3"
+{% endhighlight %}
