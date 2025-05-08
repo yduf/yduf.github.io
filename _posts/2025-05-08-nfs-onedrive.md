@@ -21,4 +21,5 @@ Now when mounting nfs, use `-o fsc` to enables FS-Cache support
 
 ### Avoid? Autofs mount
 
-because if you do the content is unreliable, the mount point having been removed.
+- because if you do the content is unreliable, the mount point having been removed.
+- **do not share** mount point between autofs and cachedfs (do not use `/nfs` if this is the autofs mount point)
