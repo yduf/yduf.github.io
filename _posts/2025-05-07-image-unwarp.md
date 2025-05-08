@@ -7,11 +7,14 @@ tags: image text doc
 
 ## [Correct Perspective](https://chatgpt.com/share/681c79f3-9dec-800d-b268-ac7b4160f260)
 
-### [Hugin](https://hugin.sourceforge.io/tutorials/perspective/en.shtml)
+### [Hugin](https://hugin.sourceforge.io/tutorials/index.shtml) 
+
 
 A stitching panorama tool:
 - can estimate lens distortion
-- correct perspective
-- create panorams (or recreate larger flat image from a set).
+- [correct perspective](https://hugin.sourceforge.io/tutorials/perspective/en.shtml)
+- [stitching flat image](https://hugin.sourceforge.io/tutorials/scans/en.shtml) - recreate larger flat image from a set
+- _panoramas_ ?
+
 
 
