@@ -31,3 +31,15 @@ $ sudo mkdir /tronaut
 $ sudo mount -t nfs4 -o fsc yourserver:/some/export /nfs/myfscached-nfs
 {% endhighlight %}
 
+### [Config](https://computingforgeeks.com/how-to-cache-nfs-share-data-with-fs-cache-on-linux/)
+
+`sudo xed /etc/cachefilesd.conf`
+
+Default backend is in `/var/cache/fscache`
+
+There are 6 control in `/etc/cachefilesd.conf` Configure Cache culling:
+**brun N%** (percentage of blocks) & **frun N%** (percentage of files): this describes the amount of free space and the number of available files. If these values cache rise above the set percentage, then culling is turned off  
+**bcull N%** (percentage of blocks) & **fcull N%** (percentage of files): describes the amount of available space or the number of files and if these values fall below the set limit, then cull is started.
+**bstop N%** (percentage of blocks) & **fstop N%** (percentage of files): here if the amount of available space or the number of available files in the cache falls below either of these limits then the allocation of disk space stops until the limits are raised above the set percentage.
+
+
