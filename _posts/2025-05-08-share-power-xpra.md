@@ -1,5 +1,5 @@
 ---
-title: Xpra
+title: "Xpra \U0001F6A7"
 published: true
 tags: remote display
 ---
