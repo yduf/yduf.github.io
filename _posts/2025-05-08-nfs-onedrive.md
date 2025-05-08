@@ -69,6 +69,11 @@ Options=netdev,fsc,auto,nofail,x-systemd.automount,x-systemd.device-timeout=10,t
 WantedBy=multi-user.target
 {% endhighlight %}
 
+{% highlight bash %}
+$ sudo systemctl daemon-reexec
+$ sudo systemctl enable home-tronaut-yves-mnt-share.mount
+{% endhighlight %}
+
 
 ### [Config](https://computingforgeeks.com/how-to-cache-nfs-share-data-with-fs-cache-on-linux/)
 
