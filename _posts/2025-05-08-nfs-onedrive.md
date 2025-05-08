@@ -42,4 +42,4 @@ There are 6 control in `/etc/cachefilesd.conf` Configure Cache culling:
 **bcull N%** (percentage of blocks) & **fcull N%** (percentage of files): describes the amount of available space or the number of files and if these values fall below the set limit, then cull is started.
 **bstop N%** (percentage of blocks) & **fstop N%** (percentage of files): here if the amount of available space or the number of available files in the cache falls below either of these limits then the allocation of disk space stops until the limits are raised above the set percentage.
 
-
+[![fscace design](https://computingforgeeks.com/wp-content/uploads/2022/07/Cache-NFS-Share-Data-with-FS-Cache-1.png?ezimgfmt=ng:webp/ngcb23)](https://computingforgeeks.com/how-to-cache-nfs-share-data-with-fs-cache-on-linux/)
