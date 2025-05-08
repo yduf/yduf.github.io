@@ -28,12 +28,14 @@ Now when mounting nfs, use `-o fsc` to enables FS-Cache support
 
 Setup user specific folder on NAS
 
-**On Server** [create ZFS dataset]({% post_url 2017-11-27-CG-meanmax %}) / [NFS Share]()
+**On Server** [create ZFS dataset]({% post_url https://yduf.github.io/zfs-ubuntu/ %}#2---create-zfs-filesystem-or-dataset) / [NFS Share]()
 {% highlight bash %}
 $ zfs create -o mountpoint=/mnt/tronaut-yves storage_pool/tronaut-yves
 
 # add it to NFS exports (/etc/exports)
 # /mnt/tronaut-yves *(rw,sync,no_subtree_check,no_root_squash)
+
+$ 
 {% endhighlight %}
 
 **On Client**
