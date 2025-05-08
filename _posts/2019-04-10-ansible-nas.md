@@ -5,7 +5,53 @@ tags: nas zfs nfs ansible monitoring
 ---
 >  Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook. - [Home](https://ansible-nas.io/blog/) / [github](https://github.com/davestephens/ansible-nas) / [blog](https://davidstephens.uk/2019/01/02/an-update-on-ansible-nas/)
 
+<style>
+	.service {
+		display: flex;
+		align-items: center;
+		margin-bottom: 10px;
+		font-family: Arial, sans-serif;
+	}
+	.indicator {
+		width: 15px;
+		height: 15px;
+		border-radius: 50%;
+		margin-right: 10px;
+		background-color: gray;
+	}
+</style>
+
 ### Service
+
+  <div id="services"></div>
+	
+<script>
+	const services = [
+		{ name: "NetData", url: "http://tronaut:19999/api/v1/info" },
+		{ name: "Cockpit", url: "http://tronaut:9090" },
+		{ name: "Paperless-ngx", url: "http://tronaut:8000" },
+	];
+
+	const container = document.getElementById('services');
+
+	services.forEach(service => {
+		const el = document.createElement('div');
+		el.className = 'service';
+		el.innerHTML = `<div class="indicator"></div><span>${service.name}</span>`;
+		container.appendChild(el);
+
+		// Check availability
+		fetch(service.url, { mode: 'no-cors' }) // use 'cors' if you control the server
+			.then(() => {
+				el.querySelector('.indicator').style.backgroundColor = 'green';
+			})
+			.catch(() => {
+				el.querySelector('.indicator').style.backgroundColor = 'red';
+			});
+	});
+</script>
+
+
 - [**Netdata**](http://192.168.0.125:19999) - dashboard
 - [**Cockpit**](http://192.168.0.125:9090)  - admin
 
