@@ -7,10 +7,12 @@ tags: vscode remote linux editor ssh
 
 - [VSCode's SSH agent is bananas](https://news.ycombinator.com/item?id=42979467)
 
-## [VS Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview)
+### [VS Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview)
 - work over ssh
 - on container
 - on WSL (windows)
+
+**does not work with fish as user shell** => will cause a Timeout on VSCode client (though ssh work perfectly).
 
 ## [code-server](https://github.com/cdr/code-server)
 Run inside chrome and work over ssh.
