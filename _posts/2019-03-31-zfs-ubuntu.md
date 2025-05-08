@@ -2,6 +2,7 @@
 published: true
 title: '# ZFS (Ubuntu)'
 tags: zfs linux-system
+toc: true
 ---
 > ZFS unlike most other storage systems, it unifies both of these roles and acts as both the volume manager and the file system. Therefore, it has complete knowledge of both the physical disks and volumes - [wikipedia](https://en.wikipedia.org/wiki/ZFS)
 
