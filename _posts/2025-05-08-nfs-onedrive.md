@@ -18,3 +18,7 @@ and then `sudo systemctl enable --now cachefilesd`
 
 Now when mounting nfs, use `-o fsc` to enables FS-Cache support
 `sudo mount -o fsc yourserver:/yourpath /mnt/nfs`
+
+### Avoid? Autofs mount
+
+because if you do the content is unreliable, the mount point having been removed.
