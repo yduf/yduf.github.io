@@ -36,15 +36,38 @@ $ sudo micro /etc/exports
 # add it to NFS exports (/etc/exports)
 # /mnt/tronaut-yves *(rw,sync,no_subtree_check,no_root_squash)
 
+$ sudo systemctl restart nfs-kernel-server
 $ 
 {% endhighlight %}
 
 **On Client**
 {% highlight bash %}
 $ mkdir yves ~/Tronaut
+
+# manual mount
 $ sudo mount -t nfs4 -o fsc tronaut:/mnt/tronaut-yves /home/yves/Tronaut
 {% endhighlight %}
 
+or create a [systemd mount unit](https://chatgpt.com/share/681ce740-8f10-800d-b2e3-ab9d8627159e)
+
+in `/etc/systemd/system/home-tronaut-yves-mnt-share.mount`
+{% highlight init %}
+# /etc/systemd/system/home-tronaut-yves-mnt-share.mount
+[Unit]
+Description=Mount Tronaut NFS Share for yves
+After=network-online.target
+Wants=network-online.target
+ConditionUser=yves
+
+[Mount]
+What=tronaut:/mnt/tronaut-yves
+Where=/home/yves/Tronaut
+Type=nfs4
+Options=netdev,fsc,auto,nofail,x-systemd.automount,x-systemd.device-timeout=10,timeo=14
+
+[Install]
+WantedBy=multi-user.target
+{% endhighlight %}
 
 
 ### [Config](https://computingforgeeks.com/how-to-cache-nfs-share-data-with-fs-cache-on-linux/)
