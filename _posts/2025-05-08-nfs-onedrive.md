@@ -3,7 +3,7 @@ title: Linux NFS Onedrive
 published: true
 tags: nfs nas
 ---
->  OneDrive-style experience, usinf FS-Cache - [chatGPT](https://chatgpt.com/share/681c8f76-b64c-800d-95e0-9f5f8a2605c5)
+>  OneDrive-style experience, using FS-Cache - [chatGPT](https://chatgpt.com/share/681c8f76-b64c-800d-95e0-9f5f8a2605c5)
 
 ### Use fs-cache + cachefilesd with NFS
 
