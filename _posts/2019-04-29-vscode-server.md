@@ -34,7 +34,7 @@ docker run -it -p 8443:8080 -v "${PWD}:/home/coder/project"  -u "$(id -u):$(id -
 
 ### [Autocolor by Host](https://chatgpt.com/share/681c977c-d934-800d-9a5a-1dda473d08e2)
 
-Using [Peacock](https://marketplace.visualstudio.com/items/?itemName=johnpapa.vscode-peacock) - it must be installed on both local and remote server (?).
+Using [Peacock](https://marketplace.visualstudio.com/items/?itemName=johnpapa.vscode-peacock) - it must be installed on both local and remote server (?). - [doc](https://www.peacockcode.dev/guide/#overview)
 
 In your **global VS Code settings** (`settings.json`), you can set a Peacock color for a specific workspace name:
 
