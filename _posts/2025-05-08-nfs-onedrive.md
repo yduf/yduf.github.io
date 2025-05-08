@@ -32,6 +32,7 @@ Setup user specific folder on NAS
 {% highlight bash %}
 $ zfs create -o mountpoint=/mnt/tronaut-yves storage_pool/tronaut-yves
 
+$ sudo micro /etc/exports
 # add it to NFS exports (/etc/exports)
 # /mnt/tronaut-yves *(rw,sync,no_subtree_check,no_root_squash)
 
