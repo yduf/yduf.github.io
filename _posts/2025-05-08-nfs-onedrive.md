@@ -14,3 +14,4 @@ $ sudo apt install cachefilesd
 {% endhighlight %}
 
 And it must be enabled `/etc/default/cachefilesd` -> `RUN=yes`
+and then `sudo systemctl enable --now cachefilesd`
