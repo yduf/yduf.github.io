@@ -9,4 +9,7 @@ Xpra differs from standard X forwarding primarily in allowing disconnection and 
 
 ### [Setup](https://chatgpt.com/share/681d9c22-d2b4-800d-9355-3e5b0dc5077a)
 
-
+{% highlight bash %}
+sudo apt update
+sudo apt install xpra
+{% endhighlight %}
