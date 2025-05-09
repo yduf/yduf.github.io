@@ -44,6 +44,12 @@ $ xpra detach ssh:yves-lab:100	# appication is still there
 {% endhighlight %}
 
 **using a web browser**
+{% highlight bash %}
+# host session must have been launched with --html=on + a bind address
+# xpra start --bind-tcp=0.0.0.0:9876 --html=on --start=xterm
+
+$ xpra detach ssh:yves-lab:100	# appication is still there
+{% endhighlight %}
 
 
 ## Troubleshooting
