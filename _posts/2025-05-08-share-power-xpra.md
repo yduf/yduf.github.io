@@ -9,7 +9,7 @@ Xpra differs from standard X forwarding primarily in allowing disconnection and 
 
 ### [Setup](https://chatgpt.com/share/681d9c22-d2b4-800d-9355-3e5b0dc5077a)
 
-**Debian and Ubuntu also ships xpra packages, though their stable versions are completely out of date, broken and unsupported, they should not be used.** - [doc](https://github.com/Xpra-org/xpra/blob/master/docs/Build/Debian.md)
+**Debian and Ubuntu also ships xpra packages, though their stable versions are completely out of date, broken and unsupported, they should not be used.** - [doc](https://github.com/Xpra-org/xpra/wiki/Distribution-Packages)
 
 {% highlight bash %}
 sudo apt update
