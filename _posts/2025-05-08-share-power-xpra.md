@@ -33,6 +33,10 @@ see [youtube](https://www.youtube.com/watch?v=2iBMsyfbC28&t=609s) for a demo
 $ xpra start :100		# start an empty desktop
 $ DISPLAY=:100 freecad  # launch an application
 
+# or make it available for a web browser
+# host session must have been launched with --html=on + a bind address
+# xpra start --bind-tcp=0.0.0.0:9876 --html=on --start=freecad
+
 $ xpra stop :100        # close session
 {% endhighlight %}
 
@@ -45,8 +49,7 @@ $ xpra detach ssh:yves-lab:100	# appication is still there
 
 **using a web browser**
 {% highlight bash %}
-# host session must have been launched with --html=on + a bind address
-# xpra start --bind-tcp=0.0.0.0:9876 --html=on --start=xterm
+
 
 $ xpra detach ssh:yves-lab:100	# appication is still there
 {% endhighlight %}
