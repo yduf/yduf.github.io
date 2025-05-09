@@ -37,6 +37,8 @@ $ DISPLAY=:100 freecad  # launch an application
 **on client**
 {% highlight bash %}
 $ xpra attach ssh:yves-lab:100		# connect to it
+
+$ xpra deattach ssh:yves-lab:100	# appication is still there
 {% endhighlight %}
 
 ## Troubleshooting
