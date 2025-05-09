@@ -35,7 +35,8 @@ $ DISPLAY=:100 freecad  # launch an application
 
 # or make it available for a web browser
 # host session must have been launched with --html=on + a bind address
-# xpra start --bind-tcp=0.0.0.0:9876 --html=on --start=freecad
+$ xpra start --bind-tcp=0.0.0.0:9876 --html=on --start=freecad
+# then connect to host:9876
 
 $ xpra stop :100        # close session
 {% endhighlight %}
