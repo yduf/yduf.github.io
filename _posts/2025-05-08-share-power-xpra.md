@@ -23,7 +23,7 @@ $ xpra --version
 xpra v6.3-r0
 {% endhighlight %}
 
-### Using it
+### [Using it](https://bytexd.com/xpra/)
 
 see [youtube](https://www.youtube.com/watch?v=2iBMsyfbC28&t=609s) for a demo
 
@@ -32,14 +32,19 @@ see [youtube](https://www.youtube.com/watch?v=2iBMsyfbC28&t=609s) for a demo
 {% highlight bash %}
 $ xpra start :100		# start an empty desktop
 $ DISPLAY=:100 freecad  # launch an application
+
+$ xpra stop :100        # close session
 {% endhighlight %}
 
 **on client**
 {% highlight bash %}
 $ xpra attach ssh:yves-lab:100		# connect to it
 
-$ xpra deattach ssh:yves-lab:100	# appication is still there
+$ xpra detach ssh:yves-lab:100	# appication is still there
 {% endhighlight %}
+
+**using a web browser**
+
 
 ## Troubleshooting
 
