@@ -1,5 +1,5 @@
 ---
-title: "Xpra \U0001F6A7"
+title: Xpra
 published: true
 tags: remote display in-progress
 ---
@@ -24,6 +24,8 @@ xpra v6.3-r0
 {% endhighlight %}
 
 ### Using it
+
+see [youtube](https://www.youtube.com/watch?v=2iBMsyfbC28&t=609s) for a demo
 
 **on host**
 
