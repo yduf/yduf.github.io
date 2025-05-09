@@ -48,14 +48,6 @@ $ xpra attach ssh:yves-lab:100		# connect to it
 $ xpra detach ssh:yves-lab:100	# appication is still there
 {% endhighlight %}
 
-**using a web browser**
-{% highlight bash %}
-
-
-$ xpra detach ssh:yves-lab:100	# appication is still there
-{% endhighlight %}
-
-
 ## Troubleshooting
 
 Start in direct mode (no-daemon)
