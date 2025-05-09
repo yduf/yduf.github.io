@@ -1,7 +1,7 @@
 ---
 title: Xpra
 published: true
-tags: remote display in-progress
+tags: remote display
 ---
 > persistent remote display server and client for forwarding applications and desktop screens. - [Home](https://xpra.org/index.html) / [github](https://github.com/Xpra-org/xpra/?tab=readme-ov-file#about)
 
