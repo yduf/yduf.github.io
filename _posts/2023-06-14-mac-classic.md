@@ -114,6 +114,9 @@ see also
 	- [ ] - design support 
 	- [ ] - reset / power on button fit
     - [ ] - power screen using 12V Molex source
+    - [x] - unsolder power socket & switch from power board
+		- iron with 400-450°C + manual solder pump - need to go smoothly
+		- power socket is also soldered to main board
 - Misc
 	- [ ] - fit HP
     - [ ] - hdd led
