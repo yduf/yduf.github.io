@@ -1,5 +1,5 @@
 ---
-title: Deskewing / Dewarping & Stitching Images
+title: "Deskewing / Dewarping & Stitching Images \U0001F4D0"
 published: true
 tags: image panorama text doc
 ---
@@ -19,4 +19,3 @@ A stitching panorama tool:
 
 
 [![distorded image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxbqRsALb67nwNkj1Yzfr2thw7MnP5sSxHd4rTq0xTC-oc6H8_jlycbmy8qp_N0DG7dN49af1uCg4ZB2gUuu3CGvoGEmbsrY2tClLAqjiazWLFMKISyGgF_OnUOJV-LmKpsb-ATy-2_vE/s640/samyang+7.5mm+f3.5+example+image+sergels+torg+f5.6.jpg)](https://m43photo.blogspot.com/2012/03/defishing-fisheye-images.html)
-
