@@ -55,5 +55,8 @@ Start in direct mode (no-daemon)
 $ xpra start :100 --daemon=no
 {% endhighlight %}
 
+## see also
+- [Install Xpra](https://richrose.dev/posts/linux/xpra/xpra-setup/) - suggest to run vscode with xpra to make available in a browser
+
 
 
