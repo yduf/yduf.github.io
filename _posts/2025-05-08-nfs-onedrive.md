@@ -5,4 +5,9 @@ tags: nfs nas in-progress
 ---
 >  OneDrive-style experience ?
 
+From raffinement with [ChatGPT]() there is no equivalent solution:
+- some don't support NFS
+- some don't support offline
+- some don't garantie proper sync when writing offline.
+
 
