@@ -98,7 +98,7 @@ toc: true
 ### Monitoring
 - [**Netdata**](http://192.168.0.125:19999) dashboard
 	- [netdata instead of Grafana](https://github.com/davestephens/ansible-nas/issues/8) see [netdata/netdata](https://github.com/netdata/netdata)
-		- [Install Netdata with kickstart.sh](https://learn.netdata.cloud/docs/netdata-agent/installation/linux)
+		- [Install Netdata with kickstart.sh](https://learn.netdata.cloud/docs/netdata-agent/installation/linux) - script can be customized and accept arguments
 			- `sudo touch /opt/netdata/etc/netdata/.opt-out-from-anonymous-statistics`
 			- `--disable-telemetry`
 			- `--no-updates`
