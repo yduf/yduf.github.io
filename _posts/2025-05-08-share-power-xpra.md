@@ -29,10 +29,20 @@ xpra v6.3-r0
 
 {% highlight bash %}
 $ xpra start :100		# start an empty desktop
+$ DISPLAY=:100 freecad  # launch an application
 {% endhighlight %}
 
 **on client**
 {% highlight bash %}
-$ xpra attach ssh:yves-lab:100		# start an empty desktop
+$ xpra attach ssh:yves-lab:100		# connect to it
 {% endhighlight %}
+
+## Troubleshooting
+
+Start in direct mode (no-daemon)
+{% highlight bash %}
+$ xpra start :100 --daemon=no
+{% endhighlight %}
+
+
 
