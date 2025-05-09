@@ -6,7 +6,7 @@ toc: true
 ---
 >  Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook. - [Home](https://ansible-nas.io/blog/) / [github](https://github.com/davestephens/ansible-nas) / [blog](https://davidstephens.uk/2019/01/02/an-update-on-ansible-nas/)
 
-<link rel="shortcut icon" href="https://cdn-icons-png.flaticon.com/512/6954/6954729.png" type="image/x-icon" />
+<link rel="shortcut icon" href="https://cdn-icons-png.flaticon.com/512/14349/14349847.png" type="image/x-icon" />
 
 <style>
 	.service {
