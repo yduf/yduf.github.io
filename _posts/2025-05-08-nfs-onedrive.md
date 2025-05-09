@@ -10,4 +10,6 @@ From raffinement with [ChatGPT](https://chatgpt.com/share/681d9567-4e7c-800d-94c
 - some don't support offline
 - some don't garantie proper sync when writing offline.
 
+see also
+- [Rclone](https://rclone.org/#what) - syncs your files to cloud storage
 
