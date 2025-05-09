@@ -24,5 +24,11 @@ A stitching panorama tool:
 ### Install
 - from [PPA](https://ubuntuhandbook.org/index.php/2024/11/hugin-2024-0-1-released-ppa-updated/)
 
+{% highlight cpp %}
+$ sudo add-apt-repository ppa:ubuntuhandbook1/hugin
+$ sudo apt update
+$ sudo apt install hugin
+{% endhighlight %}
+
 ### [Compiling](https://wiki.panotools.org/Hugin_Compiling_Ubuntu)
 
