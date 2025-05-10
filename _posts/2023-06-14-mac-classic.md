@@ -213,6 +213,7 @@ Options are:
 [![image cable](https://images-eu.ssl-images-amazon.com/images/I/51bdDz9TOIL._AC_UL232_SR232,232_.jpg)](https://www.amazon.fr/JSADZKJ90-dAlimentation-Adaptateur-convertisseur-Ordinateurs/dp/B0CX7TQ3NW/262-2286286-2847021)
 
 - need to ground back plate ? previous connector was grouding the metallic parts.
+	- this can be done by grouding one of the ATX screw
 
 [![caption](https://www.insanelymac.com/uploads/monthly_2020_06/IMG_2777.thumb.jpg.9db74c0d42bca2c8d6204677a81e981b.jpg)](https://www.insanelymac.com/forum/topic/344354-vintage-mac-classic-nas/)
 
