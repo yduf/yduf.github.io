@@ -1,6 +1,6 @@
 ---
 published: true
-title: Model from picture (Image Workbench)
+title: "Model from picture (Image Workbench)  \U0001F5BC"
 tags: photo image freecad
 ---
 > [Dessiner un sketch à partir d'une photo](https://forum.freecadweb.org/viewtopic.php?t=69399)
