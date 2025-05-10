@@ -211,6 +211,8 @@ Options are:
 	- deport/reduce ATX input socket / as its a C14 standard using this kind of [Rallonge IEC320 C14 à C13, C14 avec trous de vis et coudé C13 de 30 cm](https://fr.aliexpress.com/item/10000040758107.html?spm=a2g0o.order_list.order_list_main.4.21ef5e5bPDA29j&gatewayAdapt=glo2fra) dedicated to this kind of operation. - [3G 0.75mm² -> 10A (2300W)/ 16A (3680W) Max](https://umvie.com/comprendre-la-puissance-dun-cable-075-mm%C2%B2-guide-pratique/)
 - need to ground back plate
 
+[![image cable](https://images-eu.ssl-images-amazon.com/images/I/51bdDz9TOIL._AC_UL232_SR232,232_.jpg)](https://www.amazon.fr/JSADZKJ90-dAlimentation-Adaptateur-convertisseur-Ordinateurs/dp/B0CX7TQ3NW/262-2286286-2847021)
+
 [![caption](https://www.insanelymac.com/uploads/monthly_2020_06/IMG_2777.thumb.jpg.9db74c0d42bca2c8d6204677a81e981b.jpg)](https://www.insanelymac.com/forum/topic/344354-vintage-mac-classic-nas/)
 
 ![caption](./2025-05-03_16-17-pc-fit.png)
