@@ -50,15 +50,22 @@ $ xpra attach ssh:yves-lab:100		# connect to it
 $ xpra detach ssh:yves-lab:100	# appication is still there
 {% endhighlight %}
 
-## Troubleshooting
+### Troubleshooting
 
 Start in direct mode (no-daemon)
 {% highlight bash %}
 $ xpra start :100 --daemon=no
 {% endhighlight %}
 
-## see also
+see also
 - [Install Xpra](https://richrose.dev/posts/linux/xpra/xpra-setup/) - suggest to run vscode with xpra to make remote available in a browser
 
+## OpenGL
 
+### [GPU Acceleration](https://github.com/Xpra-org/xpra/blob/master/docs/Usage/OpenGL.md#gpu-acceleration) 
+
+By default, OpenGL applications are supported, but they are executed in a virtual framebuffer context which uses a software renderer, and therefore without any GPU acceleration.
+
+
+### [Client OpenGL]()
 
