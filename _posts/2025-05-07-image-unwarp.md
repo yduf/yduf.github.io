@@ -3,7 +3,7 @@ title: "Deskewing / Dewarping & Stitching Images \U0001F4D0"
 published: true
 tags: image panorama text doc
 ---
->  scanned or photo taken from hand that do not have ideal perspective - [tools to fix them](https://safjan.com/tools-for-doc-deskewing-and-dewarping/#page-dewarp-11k-stars)
+>  scanned or photo taken from hand that do not have ideal perspective - [tools to fix them](https://safjan.com/tools-for-doc-deskewing-and-dewarping/#page-dewarp-11k-stars) / [Hugin](https://hugin.sourceforge.io/tutorials/index.shtml)
 
 # [Correct Perspective](https://chatgpt.com/share/681c79f3-9dec-800d-b268-ac7b4160f260)
 
@@ -31,4 +31,3 @@ $ sudo apt install hugin
 {% endhighlight %}
 
 ### [Compiling](https://wiki.panotools.org/Hugin_Compiling_Ubuntu)
-
