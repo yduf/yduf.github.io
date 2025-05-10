@@ -66,6 +66,12 @@ see also
 
 By default, OpenGL applications are supported, but they are executed in a virtual framebuffer context which uses a software renderer, and therefore without any GPU acceleration.
 
+this has nothing to do with the client's opengl acceleration.
 
-### [Client OpenGL]()
 
+### [Client OpenGL](https://github.com/Xpra-org/xpra/blob/master/docs/Usage/Client-OpenGL.md)
+
+The native client can use OpenGL for better window rendering performance.
+The window's pixels are kept in GPU buffers and so re-painting the window can be done quickly and efficiently.
+
+This is in no way related to the OpenGL capabilities of the server.
