@@ -15,7 +15,7 @@ $ nmcli connection show
 # You'll see something like: NAME: Wired connection 1 ... DEVICE: enp0s3
 
 # Add the alternative IP
-$ sudo nmcli connection modify "Wired connection 1" +ipv4.addresses 192.168.1.100/24
+$ sudo nmcli connection modify "Wired connection 1" +ipv4.addresses 192.168.0.134/24
 
 # Ensure manual addressing is enabled (alongside DHCP):
 $ sudo nmcli connection modify "Wired connection 1" ipv4.method auto
