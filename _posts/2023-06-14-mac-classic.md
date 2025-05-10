@@ -191,6 +191,10 @@ My Choice [**Ecran IPS 4/3**](https://youtu.be/nguN392TH-g?si=Qj1b74SA7zqf23BR&)
     - Sufficient brightness is only possible when powered in 12V.
 		- the power connector is advised as [3.5Mm X 1.35Mm](https://www.amazon.fr/dp/B0D5HMSK6P) but doesn't fit such cable (inside too thin for contact). Resolved with soldering on the cable plug to shorten the end and make contact.
         
+**Display**
+As the screen is too large, a solution need to be found for reducing the part shown on the screen.
+For linux there are some options, see [ChatGPT](https://chatgpt.com/share/681efd50-2cb8-800d-8ed3-bb4c9eef05c1). There also a possibility to simulate CRT.
+
 [![caption](https://m.media-amazon.com/images/I/71hn2L+7btL._AC_SL1500_.jpg)](https://www.amazon.fr/gp/product/B099Z9SVX7?smid=A28KS01BONGL5G&th=1)
     
 Options are:
