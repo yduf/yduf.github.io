@@ -15,7 +15,7 @@ tags: image panorama book text warp skew
 
 A stitching panorama tool:
 - can estimate lens distortion
-- [correct perspective](https://hugin.sourceforge.io/tutorials/perspective/en.shtml)
+- [correct perspective](https://hugin.sourceforge.io/tutorials/perspective/en.shtml) - get a good selection of both vertical and horizontal control points
 - [stitching flat image](https://hugin.sourceforge.io/tutorials/scans/en.shtml) - recreate larger flat image from a set
 - _panoramas_ ?
 
