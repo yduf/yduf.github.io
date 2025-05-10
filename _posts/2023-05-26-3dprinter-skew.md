@@ -1,6 +1,6 @@
 ---
 published: true
-title: Skew Correction
+title: "Skew Correction \U0001F4D0"
 tags: 3dprinter klipper CAM calibration skew
 ---
 > Software based skew correction can help resolve dimensional inaccuracies resulting from a printer assembly that is not perfectly square. - [klipper](https://www.klipper3d.org/Skew_Correction.html)
