@@ -194,6 +194,7 @@ My Choice [**Ecran IPS 4/3**](https://youtu.be/nguN392TH-g?si=Qj1b74SA7zqf23BR&)
 ### Display Notes 🚧
 As the screen is too large, a solution need to be found for reducing the part shown on the screen.
 For linux there are some options, see [ChatGPT](https://chatgpt.com/share/681efd50-2cb8-800d-8ed3-bb4c9eef05c1). There also a possibility to simulate CRT.
+	- see also [xrandr]({% post_url 2019-04-05-rotate-display %}#xrandr)
 
 [![caption](https://m.media-amazon.com/images/I/71hn2L+7btL._AC_SL1500_.jpg)](https://www.amazon.fr/gp/product/B099Z9SVX7?smid=A28KS01BONGL5G&th=1)
     
