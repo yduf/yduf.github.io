@@ -3,6 +3,9 @@ layout: default
 ---
 <link rel="shortcut icon" href="{{ site.avatar }}" type="image/x-icon" />
 
+<p> When I wrote this, only God and I understood what I was doing.
+Now, only God knows. </p>
+
 <p>
 	{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 <!-- site_tags: using sort_natural see https://github.com/jekyll/jekyll/issues/6290 -->
