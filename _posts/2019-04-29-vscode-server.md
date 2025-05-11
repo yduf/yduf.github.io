@@ -5,7 +5,9 @@ tags: vscode remote linux editor ssh
 ---
 >  [CodeServer](https://github.com/cdr/code-server) Run VS Code on any server over SSH. A precursor of [VS Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview)
 
-- [VSCode's SSH agent is bananas](https://news.ycombinator.com/item?id=42979467)
+- [VSCode's SSH agent is bananas](https://news.ycombinator.com/item?id=42979467) - Unlike Tramp, which lives off the land on the remote connection, VSCode mounts a full-scale invasion: it runs a Bash snippet stager that downloads an agent, including a binary installation of Node. 
+
+- Github copilot extension - is [doing rigrep](https://stackoverflow.com/questions/65120743/many-rg-commands-started-by-vscode-that-consume-99-of-cpus) => this can saturate cpu when opening home folder in remote. => **disabling copilot extension solve it**
 
 ### [VS Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview)
 - work over ssh

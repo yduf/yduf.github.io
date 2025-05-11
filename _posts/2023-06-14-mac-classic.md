@@ -114,6 +114,9 @@ see also
 	- [ ] - design support 
 	- [ ] - reset / power on button fit
     - [ ] - power screen using 12V Molex source
+    - [x] - unsolder power socket & switch from power board
+		- iron with 400-450°C + manual solder pump - need to go smoothly
+		- power socket is also soldered to main board
 - Misc
 	- [ ] - fit HP
     - [ ] - hdd led
@@ -188,6 +191,10 @@ My Choice [**Ecran IPS 4/3**](https://youtu.be/nguN392TH-g?si=Qj1b74SA7zqf23BR&)
     - Sufficient brightness is only possible when powered in 12V.
 		- the power connector is advised as [3.5Mm X 1.35Mm](https://www.amazon.fr/dp/B0D5HMSK6P) but doesn't fit such cable (inside too thin for contact). Resolved with soldering on the cable plug to shorten the end and make contact.
         
+### Display Notes 🚧
+As the screen is too large, a solution need to be found for reducing the part shown on the screen.
+For linux there are some options, see [ChatGPT](https://chatgpt.com/share/681efd50-2cb8-800d-8ed3-bb4c9eef05c1). There also a possibility to simulate CRT.
+
 [![caption](https://m.media-amazon.com/images/I/71hn2L+7btL._AC_SL1500_.jpg)](https://www.amazon.fr/gp/product/B099Z9SVX7?smid=A28KS01BONGL5G&th=1)
     
 Options are:
@@ -201,7 +208,12 @@ Options are:
 ### ATX power fitting
 - use ATX fan as out fan / put ATX on left side in front &close back window
 - reuse legacy socket
-- deport/reduce ATX input socket
+	- deport/reduce ATX input socket / as its a C14 standard using this kind of [Rallonge IEC320 C14 à C13, C14 avec trous de vis et coudé C13 de 30 cm](https://fr.aliexpress.com/item/10000040758107.html?spm=a2g0o.order_list.order_list_main.4.21ef5e5bPDA29j&gatewayAdapt=glo2fra) dedicated to this kind of operation. - [3G 0.75mm² -> 10A (2300W)/ 16A (3680W) Max](https://umvie.com/comprendre-la-puissance-dun-cable-075-mm%C2%B2-guide-pratique/)
+
+[![image cable](https://images-eu.ssl-images-amazon.com/images/I/51bdDz9TOIL._AC_UL232_SR232,232_.jpg)](https://www.amazon.fr/JSADZKJ90-dAlimentation-Adaptateur-convertisseur-Ordinateurs/dp/B0CX7TQ3NW/262-2286286-2847021)
+
+- need to ground back plate ? previous connector was grouding the metallic parts.
+	- this can be done by grouding one of the ATX screw
 
 [![caption](https://www.insanelymac.com/uploads/monthly_2020_06/IMG_2777.thumb.jpg.9db74c0d42bca2c8d6204677a81e981b.jpg)](https://www.insanelymac.com/forum/topic/344354-vintage-mac-classic-nas/)
 

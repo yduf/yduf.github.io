@@ -1,5 +1,5 @@
 ---
-title: CRT Shader
+title: "CRT Shader  \U0001F5B5"
 published: true
 tags: CRT shader retro pixelart display screen
 ---
@@ -16,4 +16,3 @@ Can be used to run linux mint Cinamon + some shader effect ([chatgpt](https://ch
 	- [demo](https://www.reddit.com/r/unixporn/comments/11njk64/oc_old_crt_shader_for_picom_perfect_for_playing/)
 
 [![caption](https://user-images.githubusercontent.com/98569017/227437429-1a3a2754-dba5-41f7-a431-c225ec8323db.png)](https://github.com/ikz87/picom-shaders/wiki/Shader-gallery)
-

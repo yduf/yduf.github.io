@@ -6,6 +6,8 @@ toc: true
 ---
 >  Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook. - [Home](https://ansible-nas.io/blog/) / [github](https://github.com/davestephens/ansible-nas) / [blog](https://davidstephens.uk/2019/01/02/an-update-on-ansible-nas/)
 
+<link rel="shortcut icon" href="https://cdn-icons-png.flaticon.com/512/14349/14349847.png" type="image/x-icon" />
+
 <style>
 	.service {
 		display: flex;
@@ -96,7 +98,7 @@ toc: true
 ### Monitoring
 - [**Netdata**](http://192.168.0.125:19999) dashboard
 	- [netdata instead of Grafana](https://github.com/davestephens/ansible-nas/issues/8) see [netdata/netdata](https://github.com/netdata/netdata)
-		- [Install Netdata with kickstart.sh](https://learn.netdata.cloud/docs/netdata-agent/installation/linux)
+		- [Install Netdata with kickstart.sh](https://learn.netdata.cloud/docs/netdata-agent/installation/linux) - script can be customized and accept arguments
 			- `sudo touch /opt/netdata/etc/netdata/.opt-out-from-anonymous-statistics`
 			- `--disable-telemetry`
 			- `--no-updates`

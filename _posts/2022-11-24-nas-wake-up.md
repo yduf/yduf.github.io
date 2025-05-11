@@ -1,7 +1,7 @@
 ---
 published: true
 title: Automatically Wake NAS on Access
-tags: nas
+tags: nas nfs
 ---
 > with dd-wrt router - [SO](https://stackoverflow.com/questions/10911825/automatically-wake-nas-on-access)
 
