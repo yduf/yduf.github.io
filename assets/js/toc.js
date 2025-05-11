@@ -1,28 +1,11 @@
-function detecDevice() {
-    let device = '';
- 
-    if (navigator.userAgent.match(/Android/i)
-        || navigator.userAgent.match(/webOS/i)
-        || navigator.userAgent.match(/iPhone/i)
-        || navigator.userAgent.match(/iPad/i)
-        || navigator.userAgent.match(/iPod/i)
-        || navigator.userAgent.match(/BlackBerry/i)
-        || navigator.userAgent.match(/Windows Phone/i)) {
-        device = true;
-    } else {
-        device = false;
-    }
-    console.log(device);
-}
-
+// https://jsfiddle.net/y_duf/exnbja16/6/
 document.addEventListener("DOMContentLoaded", function () {
-  const isMobile = detecDevice();
-  if (isMobile) return; // skip creating the TOC on mobile
-  
   const headings = document.querySelectorAll("h1, h2, h3");
   if (!headings.length) return;
 
+  // Create TOC container
   const toc = document.createElement("div");
+  toc.id = "toc";
   toc.style.position = "fixed";
   toc.style.top = "80px";
   toc.style.right = "20px";
@@ -37,13 +20,26 @@ document.addEventListener("DOMContentLoaded", function () {
   toc.style.zIndex = "1000";
   toc.style.borderRadius = "8px";
 
-  const tocTitle = document.createElement("div");
-  tocTitle.textContent = "Table of Contents";
-  tocTitle.style.fontWeight = "bold";
-  tocTitle.style.marginBottom = "0.5rem";
-  toc.appendChild(tocTitle);
+  // Create title with checkbox
+  const titleBar = document.createElement("div");
+  titleBar.id = "toc-title";
 
+  const checkbox = document.createElement("input");
+  checkbox.type = "checkbox";
+  checkbox.checked = true;
+  checkbox.id = "toc-toggle";
+
+  const label = document.createElement("label");
+  label.htmlFor = "toc-toggle";
+  label.textContent = "Table of Contents";
+
+  titleBar.appendChild(label);
+  titleBar.appendChild(checkbox);
+  toc.appendChild(titleBar);
+
+  // Create list container
   const list = document.createElement("ul");
+  list.id = "toc-list";
   list.style.listStyle = "none";
   list.style.padding = "0";
   list.style.margin = "0";
@@ -79,4 +75,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
   toc.appendChild(list);
   document.body.appendChild(toc);
+
+  // Toggle visibility of the list when checkbox changes
+  checkbox.addEventListener("change", function () {
+    toc.style.display = this.checked ? "block" : "none";
+  });
 });
