@@ -99,8 +99,27 @@ $ sudo dpkg -i ./Downloads/virtualgl_3.1.3_amd64.deb
 $ sudo /opt/VirtualGL/bin/vglserver_config
 # 1) Configure server for use with VirtualGL (GLX + EGL back ends)
 # Restrict 3D X server access to vglusers group?: yes
-# Add existing users to vglusers group?: yes
-# Enable the VirtualGL server components now?: yes
+# Restrict framebuffer device access to vglusers group?: yes
+# Disable XTEST extension?: yes
+... Creating vglusers group ...
+... Creating /etc/opt/VirtualGL/ ...
+... Granting read permission to /etc/opt/VirtualGL/ for vglusers group ...
+... Creating /etc/modprobe.d/virtualgl.conf to set requested permissions for
+    /dev/nvidia* ...
+... Granting write permission to /dev/dri/card1 for vglusers group ...
+... Granting write permission to /dev/dri/renderD128 for vglusers group ...
+... Modifying /etc/X11/xorg.conf.d/99-virtualgl-dri.conf to enable DRI
+    permissions for vglusers group ...
+... Creating /etc/lightdm/lightdm.conf.d/99-virtualgl.conf ...
+... Creating /usr/share/gdm/greeter/autostart/virtualgl.desktop ...
+
+Done. You must restart the display manager for the changes to take effect.
+# Exit
+
+#
+$ sudo systemctl start lightdm   # or gdm3, lightdm, etc.	# restart
+$ sudo usermod -a -G vglusers $USER   # add yourself to groups
+
 {% endhighlight %}
 
 ### [Client OpenGL](https://github.com/Xpra-org/xpra/blob/master/docs/Usage/Client-OpenGL.md)
