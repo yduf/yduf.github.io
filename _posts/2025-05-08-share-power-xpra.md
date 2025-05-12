@@ -84,7 +84,7 @@ Virtual GL has to be set independantly of xpra.
 Package are available on [project release page](https://github.com/VirtualGL/virtualgl/releases).
 
 {% highlight bash %}
-$ $ sudo dpkg -i ./Downloads/virtualgl_3.1.3_amd64.deb 
+$ sudo dpkg -i ./Downloads/virtualgl_3.1.3_amd64.deb 
 {% endhighlight %}
 
 ### [Client OpenGL](https://github.com/Xpra-org/xpra/blob/master/docs/Usage/Client-OpenGL.md)
