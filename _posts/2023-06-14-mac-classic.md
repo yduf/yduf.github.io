@@ -109,10 +109,9 @@ see also
 	- [ ] - cut chassis
     - [ ] - cut back
 		- [x] - remove back plate drill / cut / melt attach
-	- [ ] - design cover
+	- [ ] - reset / power on button fit
 - [ATX Power fit](#atx-power-fitting)
 	- [ ] - design support 
-	- [ ] - reset / power on button fit
     - [ ] - power screen using 12V Molex source
     - [x] - unsolder power socket & switch from power board
 		- iron with 400-450°C + manual solder pump - need to go smoothly
