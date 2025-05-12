@@ -75,7 +75,8 @@ $ xpra start --exec-wrapper="vglrun" --start="glxgears"
 or
 
 $ xpra start :100 --start="vglrun glxgears"
----
+
+--- if encountering this => see setup
 2025-05-12 12:05:18,306 No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
 2025-05-12 12:05:18,434 Warning: OpenGL support check failed:
 2025-05-12 12:05:18,434  unknown error
@@ -85,7 +86,6 @@ $ xpra start :100 --start="vglrun glxgears"
 2025-05-12 12:05:18,436  wrote pid 3794 to '/run/user/1000/xpra/100/ibus-daemon.pid'
 Invalid MIT-MAGIC-COOKIE-1 key
 [VGL] ERROR: Could not open display :0.
-
 {% endhighlight %}
 
 Virtual GL has to be set independantly of xpra.
@@ -119,6 +119,17 @@ Done. You must restart the display manager for the changes to take effect.
 #
 $ sudo systemctl start lightdm   # or gdm3, lightdm, etc.	# restart
 $ sudo usermod -a -G vglusers $USER   # add yourself to groups
+
+# test
+$ xpra start :100 --exec-wrapper="vglrun" --start="glxgears" --daemon=no
+--- this is ok
+2025-05-12 12:21:14,515 No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+2025-05-12 12:21:15,110 OpenGL is supported on display ':100'
+2025-05-12 12:21:15,110  using 'AMD Radeon Graphics (radeonsi, renoir, LLVM 19.1.1, DRM 3.57, 6.8.0-59-generic)' renderer
+2025-05-12 12:21:15,111 started command `/usr/bin/vglrun glxgears` with pid 5789
+2025-05-12 12:21:15,111  wrote pid 5789 to '/run/user/1000/xpra/100/glxgears.pid'
+2025-05-12 12:21:15,112 started command `/usr/bin/vglrun ibus-daemon --xim --verbose --replace --panel=disable --desktop=xpra --daemonize` with pid 5792
+2025-05-12 12:21:15,112  wrote pid 5792 to '/run/user/1000/xpra/100/ibus-daemon.pid'
 
 {% endhighlight %}
 
