@@ -96,6 +96,11 @@ Package are available on [project release page](https://github.com/VirtualGL/vir
 
 {% highlight bash %}
 $ sudo dpkg -i ./Downloads/virtualgl_3.1.3_amd64.deb 
+$ sudo /opt/VirtualGL/bin/vglserver_config
+# 1) Configure server for use with VirtualGL (GLX + EGL back ends)
+# Restrict 3D X server access to vglusers group?: yes
+# Add existing users to vglusers group?: yes
+# Enable the VirtualGL server components now?: yes
 {% endhighlight %}
 
 ### [Client OpenGL](https://github.com/Xpra-org/xpra/blob/master/docs/Usage/Client-OpenGL.md)
