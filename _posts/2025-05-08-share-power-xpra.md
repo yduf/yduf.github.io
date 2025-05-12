@@ -145,3 +145,29 @@ The window's pixels are kept in GPU buffers and so re-painting the window can be
 This is in no way related to the OpenGL capabilities of the server.
 
 Look for info on client (it's on by default)
+
+## Automating Launch
+
+Example launching freecad `bin/freecad-remote.sh`:
+{% highlight bash %}
+# ======= Configuration =======
+SERVER_USER="yves"
+SERVER_HOST="yves-lab"
+DISPLAY_NUM="100"  # Change if you want a different xpra display
+APP_COMMAND="app/FreeCAD_1.0.0-conda-Linux-x86_64-py311.AppImage"
+XPRA_DISPLAY=":${DISPLAY_NUM}"
+# =============================
+
+# Step 1: Start FreeCAD on the server in background via xpra
+# will exit when freecad is closed
+echo "[*] Launching FreeCAD on server via xpra..."
+ssh ${SERVER_HOST} "xpra start ${XPRA_DISPLAY} --exec-wrapper='vglrun' --start-child='${APP_COMMAND}' --exit-with-children=yes"
+
+# Optional: Wait a bit to ensure xpra starts properly
+#sleep 2
+
+# Step 2: Connect to the remote xpra session
+echo "[*] Connecting to remote xpra session from client..."
+xpra attach ssh:${SERVER_HOST}${XPRA_DISPLAY}
+
+{% endhighlight %}
