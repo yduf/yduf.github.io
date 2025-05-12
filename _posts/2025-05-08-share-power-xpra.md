@@ -142,3 +142,5 @@ The native client can use OpenGL for better window rendering performance.
 The window's pixels are kept in GPU buffers and so re-painting the window can be done quickly and efficiently.
 
 This is in no way related to the OpenGL capabilities of the server.
+
+Look for info on client (it's on by default)
