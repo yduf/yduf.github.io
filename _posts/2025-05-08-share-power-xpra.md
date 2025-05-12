@@ -67,7 +67,7 @@ By default, OpenGL applications are supported, but they are executed in a virtua
 
 this has nothing to do with the client's opengl acceleration.
 
-## [Virtual GL](https://www.virtualgl.org/) 🚧 
+## [Virtual GL](https://www.virtualgl.org/)
 
 [Virtual GL](https://virtualgl.org/About/Background) does API intercept and delegates OpenGL acceleration to a real GPU to do server side rendering.
 
