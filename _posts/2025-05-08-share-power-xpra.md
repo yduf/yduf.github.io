@@ -150,6 +150,8 @@ Look for info on client (it's on by default)
 
 Example launching freecad `bin/freecad-remote.sh`:
 {% highlight bash %}
+#!/bin/bash
+
 # ======= Configuration =======
 SERVER_USER="yves"
 SERVER_HOST="yves-lab"
