@@ -134,7 +134,7 @@ $ xpra start :100 --exec-wrapper="vglrun" --start="glxgears" --daemon=no
 2025-05-12 12:21:15,112  wrote pid 5792 to '/run/user/1000/xpra/100/ibus-daemon.pid'
 
 # in parallel run nvtop to see GPU activity on host
-$ nvtop # should display application use and consumption / otherwise it's mesa software that is run for opengl
+$ nvtop # should display application use and gpuconsumption / otherwise it's mesa software that is run for opengl in pure cpu
 {% endhighlight %}
 
 ### [Client OpenGL](https://github.com/Xpra-org/xpra/blob/master/docs/Usage/Client-OpenGL.md)
