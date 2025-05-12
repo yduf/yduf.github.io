@@ -60,14 +60,26 @@ $ xpra start :100 --daemon=no
 see also
 - [Install Xpra](https://richrose.dev/posts/linux/xpra/xpra-setup/) - suggest to run vscode with xpra to make remote available in a browser
 
-## OpenGL
+# OpenGL
 
-### [GPU Acceleration](https://github.com/Xpra-org/xpra/blob/master/docs/Usage/OpenGL.md#gpu-acceleration) 
+## [Host GPU Acceleration](https://github.com/Xpra-org/xpra/blob/master/docs/Usage/OpenGL.md#gpu-acceleration) 
 
 By default, OpenGL applications are supported, but they are executed in a virtual framebuffer context which uses a software renderer, and therefore without any GPU acceleration.
 
 this has nothing to do with the client's opengl acceleration.
 
+### [Virtual GL](https://www.virtualgl.org/)
+
+[Virtual GL](https://www.virtualgl.org/) does API intercept and delegates OpenGL acceleration to a real GPU.
+
+{% highlight bash %}
+$ xpra start --exec-wrapper="vglrun" --start="glxgears"
+or
+
+$ xpra start --start="vglrun glxgears"
+{% endhighlight %}
+
+Virtual GL has to be set independantly of xpra
 
 ### [Client OpenGL](https://github.com/Xpra-org/xpra/blob/master/docs/Usage/Client-OpenGL.md)
 
