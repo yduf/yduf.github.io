@@ -70,7 +70,7 @@ this has nothing to do with the client's opengl acceleration.
 
 ### [Virtual GL](https://www.virtualgl.org/)
 
-[Virtual GL](https://www.virtualgl.org/) does API intercept and delegates OpenGL acceleration to a real GPU.
+[Virtual GL](https://virtualgl.org/About/Background) does API intercept and delegates OpenGL acceleration to a real GPU to do server side rendering.
 
 {% highlight bash %}
 $ xpra start --exec-wrapper="vglrun" --start="glxgears"
@@ -79,7 +79,7 @@ or
 $ xpra start --start="vglrun glxgears"
 {% endhighlight %}
 
-Virtual GL has to be set independantly of xpra
+Virtual GL has to be set independantly of xpra.
 
 ### [Client OpenGL](https://github.com/Xpra-org/xpra/blob/master/docs/Usage/Client-OpenGL.md)
 
