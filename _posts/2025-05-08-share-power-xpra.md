@@ -1,7 +1,7 @@
 ---
 title: Xpra
 published: true
-tags: remote display
+tags: remote display opengl
 ---
 > persistent remote display server and client for forwarding applications and desktop screens. - [Home](https://xpra.org/index.html) / [github](https://github.com/Xpra-org/xpra/?tab=readme-ov-file#about)
 
@@ -119,6 +119,7 @@ Done. You must restart the display manager for the changes to take effect.
 #
 $ sudo systemctl start lightdm   # or gdm3, lightdm, etc.	# restart
 $ sudo usermod -a -G vglusers $USER   # add yourself to groups
+# need to unlog/relog user for groups to take effect
 
 # test
 $ xpra start :100 --exec-wrapper="vglrun" --start="glxgears" --daemon=no
@@ -131,6 +132,8 @@ $ xpra start :100 --exec-wrapper="vglrun" --start="glxgears" --daemon=no
 2025-05-12 12:21:15,112 started command `/usr/bin/vglrun ibus-daemon --xim --verbose --replace --panel=disable --desktop=xpra --daemonize` with pid 5792
 2025-05-12 12:21:15,112  wrote pid 5792 to '/run/user/1000/xpra/100/ibus-daemon.pid'
 
+# in parallel run nvtop to see GPU activity on host
+$ nvtop # should display application use and consumption / otherwise it's mesa software that is run for opengl
 {% endhighlight %}
 
 ### [Client OpenGL](https://github.com/Xpra-org/xpra/blob/master/docs/Usage/Client-OpenGL.md)
