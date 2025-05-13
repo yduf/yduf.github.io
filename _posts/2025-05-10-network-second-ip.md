@@ -27,5 +27,3 @@ $ sudo nmcli connection down "Wired connection 1" && sudo nmcli connection up "W
 $ ip addr show enp0s3
 {% endhighlight %}
 
-apply `sudo netplan apply`
-
