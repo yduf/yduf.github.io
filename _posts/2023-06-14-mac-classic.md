@@ -119,6 +119,7 @@ see also
 - Misc
 	- [ ] - fit HP
     - [ ] - hdd led
+    	- [braket to hold led](https://www.thingiverse.com/thing:6578146) that could be usefull
 - Closing
 	- [ ] archive motherboard doc
     - [ ] adds my own pics to project
