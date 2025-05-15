@@ -212,7 +212,9 @@ Options are:
 	- [shop](https://www.etsy.com/shop/RetroAppleAT)
 
 ### ATX power fitting
-- use ATX fan as out fan / put ATX on left side in front &close back window
+- use ATX fan as exhaust fan 
+	- put ATX on left side in front and close to back window
+    - use a fanduct
 - reuse legacy socket
 	- deport/reduce ATX input socket / as its a C14 standard using this kind of [Rallonge IEC320 C14 à C13, C14 avec trous de vis et coudé C13 de 30 cm](https://fr.aliexpress.com/item/10000040758107.html?spm=a2g0o.order_list.order_list_main.4.21ef5e5bPDA29j&gatewayAdapt=glo2fra) dedicated to this kind of operation. - [3G 0.75mm² -> 10A (2300W)/ 16A (3680W) Max](https://umvie.com/comprendre-la-puissance-dun-cable-075-mm%C2%B2-guide-pratique/)
 
