@@ -10,6 +10,8 @@ tags: games
 
 ### Mods
 
+- [The best Mod in DST](https://www.youtube.com/watch?v=ZmjFhmUMie0)
+
 Need to authenticate to access downloads.
 
 [**How To: Install a Mod from the Klei Downloads Page**](https://forums.kleientertainment.com/forums/topic/29658-how-to-install-a-mod-from-the-klei-downloads-page/)
@@ -17,7 +19,8 @@ Need to authenticate to access downloads.
 - Unzip the files you download to this location
 
 - [Minimap HUD 1.0.7](https://forums.kleientertainment.com/files/file/352-minimap-hud/)
-- [Combined Status 1.9.1](https://forums.kleientertainment.com/files/file/1136-combined-status/)
+- [Combined Status 1.9.1](https://forums.kleientertainment.com/files/file/1136-combined-status/) - show  status as well as temperature
+- [Epic Healthbar]() - show both health
 
 [![caption](https://wallpapercave.com/dwp2x/wp2237057.jpg)](https://wallpapercave.com/dont-starve-wallpapers)
 
