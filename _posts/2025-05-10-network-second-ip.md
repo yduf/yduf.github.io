@@ -5,7 +5,7 @@ tags: network linux-system
 ---
 > make your host available on a specific alternative IP address - [chatGPT](https://chatgpt.com/share/681f2745-c928-800d-9057-db5efce02eb3)
 
-### Ubuntu 22+
+### Ubuntu 22+ / Debian 12
 
 Check if you are using netplan or NetworkManager
 `cat /etc/netplan/1-network-manager-all.yaml ` => default to NetworkManager
