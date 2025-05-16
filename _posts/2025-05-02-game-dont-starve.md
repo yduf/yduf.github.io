@@ -20,7 +20,7 @@ Need to authenticate to access downloads.
 
 - [Minimap HUD 1.0.7](https://forums.kleientertainment.com/files/file/352-minimap-hud/)
 - [Combined Status 1.9.1](https://forums.kleientertainment.com/files/file/1136-combined-status/) - show  status as well as temperature
-- [Epic Healthbar]() - show both health
+- [Epic Healthbar]() - show boss health
 
 [![caption](https://wallpapercave.com/dwp2x/wp2237057.jpg)](https://wallpapercave.com/dont-starve-wallpapers)
 
