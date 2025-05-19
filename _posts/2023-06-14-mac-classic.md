@@ -107,7 +107,7 @@ see also
 - [Motherboard Fit](#motherboard-fit)
 	- [ ] - design foot
 	- [ ] - cut chassis
-    - [ ] - cut back
+    - [x] - cut back
 		- [x] - remove back plate drill / cut / melt attach
 	- [ ] - reset / power on button fit
 - [ATX Power fit](#atx-power-fitting)
