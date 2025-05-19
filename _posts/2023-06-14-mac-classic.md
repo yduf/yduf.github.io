@@ -112,6 +112,7 @@ see also
 	- [ ] - reset / power on button fit
 - [ATX Power fit](#atx-power-fitting)
 	- [x] - design support & fan duct 
+    - [x] - fit cable
     - [ ] - power screen using 12V Molex source
     - [x] - unsolder power socket & switch from power board
 		- iron with 400-450°C + manual solder pump - need to go smoothly
