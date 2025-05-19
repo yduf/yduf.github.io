@@ -107,7 +107,7 @@ see also
 - [Motherboard Fit](#motherboard-fit)
 	- [ ] - design foot
 	- [ ] - cut chassis
-    - [x] - cut back
+    - [x] - cut back - [used this kind of tool](https://www.amazon.fr/Milwaukee-48-22-0012-Compact-Scie-m%C3%A9taux-Rouge/dp/B003VY8WA2)
 		- [x] - remove back plate drill / cut / melt attach
 	- [ ] - reset / power on button fit
 - [ATX Power fit](#atx-power-fitting)
