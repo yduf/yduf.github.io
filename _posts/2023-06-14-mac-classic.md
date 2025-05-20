@@ -106,10 +106,10 @@ see also
     - [x] - attach main electronic - screwed on bottom bezel / taped on mid board
     - [ ] - attach control button
 - [Motherboard Fit](#motherboard-fit)
-	- [ ] - design foot
+	- [ ] - design foot / hook mechanism
 	- [ ] - cut chassis
-    - [x] - cut back - [used this kind of tool](https://www.amazon.fr/Milwaukee-48-22-0012-Compact-Scie-m%C3%A9taux-Rouge/dp/B003VY8WA2)
-		- [x] - remove back plate drill / cut / melt attach
+    - [x] - cut backplate - [used this kind of tool](https://www.amazon.fr/Milwaukee-48-22-0012-Compact-Scie-m%C3%A9taux-Rouge/dp/B003VY8WA2)
+		- [x] - remove metal backplate - drill / cut / melt attach
 	- [ ] - reset / power on button fit
 - [ATX Power fit](#atx-power-fitting)
 	- [x] - design support & fan duct 
