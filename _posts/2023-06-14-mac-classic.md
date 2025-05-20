@@ -77,6 +77,7 @@ toc: true
 - [Apple never built a Mac like this](https://www.youtube.com/watch?v=PGqwhYGrJDI) - unmounting & discharging the CRT.
     
 see also
+- [1993 Apple Macintosh Classic II Repair & Restoration](https://retrorepairsandrefurbs.com/2023/07/01/1993-apple-macintosh-classic-ii-repair-restoration/) - changing capacitor
 - [J'ai construit un Mac IMPOSSIBLE](https://www.youtube.com/watch?v=Nzj17eXgvO8)
 - [I Built a "Mac Minus" With a Real CRT](https://www.youtube.com/watch?v=1aZgCDQHiIw)
 	- old a B&W CRT from old small TV
