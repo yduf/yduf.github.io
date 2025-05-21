@@ -104,20 +104,23 @@ see also
     	- ~~glue acrylic screen - to reinforce bezel base~~. 
     - [x] - fix screen on acrylic
     - [x] - attach main electronic - screwed on bottom bezel / taped on mid board
+    - [ ] - power screen using 12V Molex source
     - [ ] - attach control button
 - [Motherboard Fit](#motherboard-fit)
-	- [ ] - design foot / hook mechanism
-	- [ ] - cut chassis
     - [x] - cut backplate - [used this kind of tool](https://www.amazon.fr/Milwaukee-48-22-0012-Compact-Scie-m%C3%A9taux-Rouge/dp/B003VY8WA2)
 		- [x] - remove metal backplate - drill / cut / melt attach
+	- [ ] - cut chassis
+	- [ ] - design foot / hook mechanism
+    	- [1/2] - glue a corniere on each side for supporting motherboard
 	- [ ] - reset / power on button fit
+    	- [ ] - reuse original one ?
 - [ATX Power fit](#atx-power-fitting)
 	- [x] - design support & fan duct 
     - [x] - fit cable
-    - [ ] - power screen using 12V Molex source
     - [x] - unsolder power socket & switch from power board
 		- iron with 400-450°C + manual solder pump - need to go smoothly
 		- power socket is also soldered to main board
+	- [ ] - use original power button
 - Misc
 	- [ ] - fit HP
     - [ ] - hdd led
