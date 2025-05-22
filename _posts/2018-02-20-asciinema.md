@@ -9,3 +9,4 @@ tags: cli term ascii recorder art application
 
 see also
 - [ASCII-art Techniques & Animation Tutorial - Part 1](https://www.youtube.com/watch?v=o5v-NS9o4yc)
+	- [Glitch Cosmetic - by Citriondragon](https://www.youtube.com/watch?v=9x9gaBJx94g)
