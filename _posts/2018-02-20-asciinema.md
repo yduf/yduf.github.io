@@ -10,3 +10,5 @@ tags: cli term ascii recorder art application
 see also
 - [ASCII-art Techniques & Animation Tutorial - Part 1](https://www.youtube.com/watch?v=o5v-NS9o4yc)
 	- [Glitch Cosmetic - by Citriondragon](https://www.youtube.com/watch?v=9x9gaBJx94g)
+    - [Quest Drop #4 (Available Nov. 2)](https://www.youtube.com/watch?v=R48OAnYlOBI)
+- [Effulgence - Breaking into particles - Wishlist on Steam](https://www.youtube.com/watch?v=SmPP-x4EODo)
