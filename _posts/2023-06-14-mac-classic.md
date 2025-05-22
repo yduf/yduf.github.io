@@ -111,9 +111,9 @@ see also
 		- [x] - remove metal backplate - drill / cut / melt attach
 	- [ ] - cut chassis
 	- [ ] - design foot / hook mechanism
-    	- [1/2] - glue a corniere on each side for supporting motherboard
+		- [x] - glue a corniere on each side for supporting motherboard
 	- [ ] - reset / power on button fit
-    	- [ ] - reuse original one ?
+		- [ ] - reuse original one ?
 - [ATX Power fit](#atx-power-fitting)
 	- [x] - design support & fan duct 
     - [x] - fit cable
