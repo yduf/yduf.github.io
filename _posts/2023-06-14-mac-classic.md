@@ -109,8 +109,8 @@ see also
 - [Motherboard Fit](#motherboard-fit)
     - [x] - cut backplate - [used this kind of tool](https://www.amazon.fr/Milwaukee-48-22-0012-Compact-Scie-m%C3%A9taux-Rouge/dp/B003VY8WA2)
 		- [x] - remove metal backplate - drill / cut / melt attach
-	- [ ] - cut chassis
-	- [ ] - design foot / hook mechanism
+	- [x] - cut chassis
+	- [x] - design foot / hook mechanism
 		- [x] - glue a corniere on each side for supporting motherboard
 	- [ ] - reset / power on button fit
 		- [ ] - reuse original one ?
