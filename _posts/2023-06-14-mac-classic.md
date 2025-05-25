@@ -133,6 +133,7 @@ see also
 	- [ ] - fit HP
     - [ ] - hdd led
     	- [braket to hold led](https://www.thingiverse.com/thing:6578146) that could be usefull
+	- [ ] - design a prettier backpanel cover
         
 - Closing
 	- [ ] archive motherboard doc
