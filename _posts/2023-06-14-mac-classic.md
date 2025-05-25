@@ -249,7 +249,7 @@ Options are:
 	- [removing back](https://www.insanelymac.com/uploads/monthly_2020_06/IMG_2690.thumb.jpg.a47016e7388456fd653f2e492360c0c3.jpg)
 - reuse power/reset button on the side
 
-[![caption](https://www.insanelymac.com/uploads/monthly_2020_06/IMG_2708.thumb.jpg.ca4b1cabc31331eb325a2497c21e65af.jpg)](https://www.insanelymac.com/forum/topic/344354-vintage-mac-classic-nas/)
+[![caption](https://media.printables.com/media/prints/7eaf4f09-711d-416c-a681-b2585681890a/images/9860941_df5de4f7-4310-4656-9398-208220103dd4_f341ec67-73c4-49d1-bc0b-231923d7e553/thumbs/cover/320x240/jpg/img_20250524_131802.webp)](https://www.printables.com/model/1307381-mac-classic-mini-itx)
 
 
 [![caption](https://m.media-amazon.com/images/I/51uCFHBLNuS._SS284_.jpg)](https://www.amazon.fr/gp/product/B08GM91HBQ)
