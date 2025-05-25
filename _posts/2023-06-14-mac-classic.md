@@ -240,7 +240,7 @@ Options are:
 
 [![caption](https://www.insanelymac.com/uploads/monthly_2020_06/IMG_2777.thumb.jpg.9db74c0d42bca2c8d6204677a81e981b.jpg)](https://www.insanelymac.com/forum/topic/344354-vintage-mac-classic-nas/)
 
-![caption](./2025-05-03_16-17-pc-fit.png)
+![caption](https://media.printables.com/media/prints/f14999e1-314e-4761-ba8e-856872cedb7b/images/9860915_fc6d335d-97dd-4eba-b19d-b8d3a3a7a385_a07c9d37-850a-4866-a02a-36b995c3ccfe/thumbs/cover/320x240/jpg/img_20250525_142813.webp)
 
 ### [Motherboard Fit](https://www.printables.com/model/1307381-mac-classic-mini-itx)
 
