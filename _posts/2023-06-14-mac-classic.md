@@ -245,7 +245,7 @@ Options are:
 ### [Motherboard Fit](https://www.printables.com/model/1307381-mac-classic-mini-itx)
 
 - 3dprint somelegs to support the mother board
-- [cut the back of the framel](https://youtu.be/nguN392TH-g?si=MQ8X2YtvCZiFf07-&t=429)
+- [cut the back of the frame](https://youtu.be/nguN392TH-g?si=MQ8X2YtvCZiFf07-&t=429)
 	- [removing back](https://www.insanelymac.com/uploads/monthly_2020_06/IMG_2690.thumb.jpg.a47016e7388456fd653f2e492360c0c3.jpg)
 - reuse power/reset button on the side
 
