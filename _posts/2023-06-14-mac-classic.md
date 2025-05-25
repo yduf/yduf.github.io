@@ -122,7 +122,7 @@ see also
     - [x] - unsolder power socket & switch from power board
 		- iron with 400-450°C + manual solder pump - need to go smoothly
 		- power socket is also soldered to main board
-	- [x] - use original power button
+	- [ ] - use original power switch
 
 - Missing / Finish
 	- [ ] - power socket fit & power switch
