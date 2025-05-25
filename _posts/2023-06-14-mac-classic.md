@@ -1,7 +1,7 @@
 ---
 published: true
-title: "Macintosh Classic \U0001F4BE \U0001F6A7"
-tags: 3dmodel retro project macintosh pc-hardware chemical in-progress
+title: "Macintosh Classic \U0001F4BE "
+tags: 3dmodel retro project macintosh pc-hardware chemical
 toc: true
 ---
 > Tiny Mac III (Pi 4) - [instructable](https://www.instructables.com/Tiny-Mac-II-Pi-Zero-2-and-Tiny-Mac-III-Pi-4-With-A/) / [HN](https://news.ycombinator.com/item?id=36289682) / [r/VintageApple ](https://www.reddit.com/r/VintageApple/) / [wikipedia](https://en.wikipedia.org/wiki/Macintosh_Classic)
