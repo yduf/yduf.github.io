@@ -105,7 +105,7 @@ see also
     - [x] - fix screen on acrylic
     - [x] - attach main electronic - screwed on bottom bezel / taped on mid board
     - [x] - power screen using 12V Molex source
-    - [ ] - attach control button
+    - [ ] - attach screen control
 - [Motherboard Fit](#motherboard-fit)
     - [x] - cut backplate - [used this kind of tool](https://www.amazon.fr/Milwaukee-48-22-0012-Compact-Scie-m%C3%A9taux-Rouge/dp/B003VY8WA2)
 		- [x] - remove metal backplate - drill / cut / melt attach
