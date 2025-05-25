@@ -242,7 +242,7 @@ Options are:
 
 ![caption](./2025-05-03_16-17-pc-fit.png)
 
-### Motherboard Fit
+### [Motherboard Fit](https://www.printables.com/model/1307381-mac-classic-mini-itx)
 
 - 3dprint somelegs to support the mother board
 - [cut the back of the framel](https://youtu.be/nguN392TH-g?si=MQ8X2YtvCZiFf07-&t=429)
