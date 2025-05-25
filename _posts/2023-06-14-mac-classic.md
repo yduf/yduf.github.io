@@ -124,7 +124,7 @@ see also
 		- power socket is also soldered to main board
 	- [ ] - use original power switch
 
-- Missing / Finish
+- Missing / to Finish
 	- [ ] - power socket fit & power switch
     - [ ] - cut plate to secure socket bracket
     - [ ] - serial number sticker to glue back (didn't like the retrobright cleaning process).
