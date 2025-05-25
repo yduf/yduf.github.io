@@ -127,6 +127,7 @@ see also
 - Missing / Finish
 	- [ ] - power socket fit & power switch
     - [ ] - cut plate to secure socket bracket
+    - [ ] - serial number sticker to glue back (didn't like the retrobright process).
 
 - Optional
 	- [ ] - fit HP
