@@ -226,7 +226,7 @@ Options are:
 - [Macintosh Plus mini Retrofit](https://www.youtube.com/watch?v=dpgFJmEe90I&t=1644s) - acrylic sheet + custom bezel 
 	- [shop](https://www.etsy.com/shop/RetroAppleAT)
 
-### ATX power fitting
+### [ATX power fitting](https://www.printables.com/model/1307372-mac-classic-atx-psu)
 - use ATX fan as exhaust fan 
 	- put ATX on left side in front and close to back window
     - use a fanduct
