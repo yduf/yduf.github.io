@@ -118,15 +118,16 @@ see also
 - [ATX Power fit](#atx-power-fitting)
 	- [x] - design support & fan duct 
     - [ ] - fit cable
-    	- [x] - direct connection ton internal ATX
+		- [x] - direct connection to internal ATX
     - [x] - unsolder power socket & switch from power board
 		- iron with 400-450°C + manual solder pump - need to go smoothly
 		- power socket is also soldered to main board
 	- [x] - use original power button
 
-- Missing
+- Missing / Finish
 	- [ ] - power socket fit & power switch
     - [ ] - cut plate to secure socket bracket
+
 - Optional
 	- [ ] - fit HP
     - [ ] - hdd led
