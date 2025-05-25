@@ -123,10 +123,15 @@ see also
 		- iron with 400-450°C + manual solder pump - need to go smoothly
 		- power socket is also soldered to main board
 	- [x] - use original power button
-- Misc
+
+- Missing
+	- [ ] - power socket fit & power switch
+    - [ ] - cut plate to secure socket bracket
+- Optional
 	- [ ] - fit HP
     - [ ] - hdd led
     	- [braket to hold led](https://www.thingiverse.com/thing:6578146) that could be usefull
+        
 - Closing
 	- [ ] archive motherboard doc
     - [ ] adds my own pics to project
