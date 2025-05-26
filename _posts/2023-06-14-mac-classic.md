@@ -241,7 +241,7 @@ Options are:
 
 [![caption](https://www.insanelymac.com/uploads/monthly_2020_06/IMG_2777.thumb.jpg.9db74c0d42bca2c8d6204677a81e981b.jpg)](https://www.insanelymac.com/forum/topic/344354-vintage-mac-classic-nas/)
 
-[![caption](https://media.printables.com/media/prints/f14999e1-314e-4761-ba8e-856872cedb7b/images/9860915_fc6d335d-97dd-4eba-b19d-b8d3a3a7a385_a07c9d37-850a-4866-a02a-36b995c3ccfe/thumbs/inside/1600x1200/jpg/img_20250525_142813.webp)]()
+[![caption](https://media.printables.com/media/prints/3e00612b-6339-43b8-b9f8-8785c31cf36a/images/9860707_e101353e-e252-4252-845d-c4c2a6467130_c1d9909b-afe6-448f-a97b-841793a16ded/thumbs/inside/1600x1200/jpg/img_20250521_133403.webp)](https://www.printables.com/model/1307372-mac-classic-atx-psu)
 
 ### [Motherboard Fit](https://www.printables.com/model/1307381-mac-classic-mini-itx)
 
@@ -250,7 +250,7 @@ Options are:
 	- [removing back](https://www.insanelymac.com/uploads/monthly_2020_06/IMG_2690.thumb.jpg.a47016e7388456fd653f2e492360c0c3.jpg)
 - reuse power/reset button on the side
 
-[![caption](https://media.printables.com/media/prints/7eaf4f09-711d-416c-a681-b2585681890a/images/9860941_df5de4f7-4310-4656-9398-208220103dd4_f341ec67-73c4-49d1-bc0b-231923d7e553/thumbs/cover/320x240/jpg/img_20250524_131802.webp)](https://www.printables.com/model/1307372-mac-classic-atx-psu)
+[![caption](https://media.printables.com/media/prints/7eaf4f09-711d-416c-a681-b2585681890a/images/9860941_df5de4f7-4310-4656-9398-208220103dd4_f341ec67-73c4-49d1-bc0b-231923d7e553/thumbs/cover/320x240/jpg/img_20250524_131802.webp)](https://www.printables.com/model/1307381-mac-classic-mini-itx)
 
 
 [![caption](https://media.printables.com/media/prints/951b2b70-03b1-40e2-92db-2a66eed59d46/images/9860914_0f534fd3-0288-4ff0-8f10-3ff8a2a95ad1_8c7d49cb-ba03-4608-b8f1-ea1d86fbf437/thumbs/inside/1600x1200/jpg/img_20250525_143446.webp)](https://www.amazon.fr/gp/product/B08GM91HBQ)
