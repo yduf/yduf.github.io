@@ -15,7 +15,7 @@ tags: history
     - [Le massacre de la tribu des El Ouffia](https://www.youtube.com/watch?v=mHm6YOIWt4w)
 
 ### Haiti
-- [Qui a aboli l’esclavage ? - La chronique de SeumBoy dans "La dernière"](https://www.youtube.com/watch?v=gvsJNYDF360) - ce sont les esclaves révoltés qui ont forcé l'abolition de l'esclavage (rétabli temporairement par Napoleon).
+- [Qui a aboli l’esclavage ? - La chronique de SeumBoy dans "La dernière"](https://www.youtube.com/watch?v=gvsJNYDF360) - ce sont les esclaves révoltés qui ont forcé l'abolition de l'esclavage (rétabli temporairement par Napoleon en 1802 pour des reson economique).
 
 
 ### see also
