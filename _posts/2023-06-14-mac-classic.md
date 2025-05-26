@@ -151,6 +151,7 @@ see also
 
 - Mac Classic HS - 50€ (leboncoin)
 - clavier sans fil
+	- [retro mouse](https://www.youtube.com/watch?v=miN8sADrsgA) - 3D Printed - Apple Macintosh Mouse
 - [picotron onboard]({% post_url 2025-04-12-main-picotron %})
 	- requiert un amd64.
     
