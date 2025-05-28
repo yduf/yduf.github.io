@@ -8,16 +8,18 @@ toc: true
 
 <link rel="shortcut icon" href="https://img.icons8.com/?size=100&id=22195&format=png" type="image/x-icon" />
 
+[![project outcome](https://media.printables.com/media/prints/9b2d22de-2d6a-4166-b4c3-d84e34cae4c9/images/9860913_00d9e0a1-578c-49da-aa6f-1f2f5aa0e200_c96cc6c7-090d-494d-b802-f2ccfd98bc22/thumbs/inside/1600x1200/jpg/img_20250525_143553.webp)](https://www.printables.com/model/1307381-mac-classic-mini-itx)
 
-[![caption](https://retrorepairsandrefurbs.com/wp-content/uploads/2023/07/img_2500-1.jpg?w=3136)](https://retrorepairsandrefurbs.com/2023/06/22/1991-apple-macintosh-classic-i-repair-restoration/)
 
+# [Classic](https://everymac.com/systems/apple/mac_classic/specs/mac_classic.html)
 
 [![caption](https://upload.wikimedia.org/wikipedia/en/timeline/lvjuq81m4e89xlvtqw5vez5pc0dpjp2.png)](https://en.wikipedia.org/wiki/Macintosh_128K)
+
+[![caption](https://retrorepairsandrefurbs.com/wp-content/uploads/2023/07/img_2500-1.jpg?w=3136)](https://retrorepairsandrefurbs.com/2023/06/22/1991-apple-macintosh-classic-i-repair-restoration/)
 
 [![caption](https://cdn.prod.website-files.com/5b44edefca321a1e2d0c2aa6/5e7f5af10c4ef4ca3bf73da6_Dimensions-Guide-Digital-Apple-iMac-Macintosh-128K-1984-Dimensions.svg)](https://www.dimensions.com/element/apple-macintosh-128k-1984)
 
 
-# [Classic](https://everymac.com/systems/apple/mac_classic/specs/mac_classic.html)
 
 ## 3dprinted
 
