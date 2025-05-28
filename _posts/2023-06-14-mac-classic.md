@@ -4,7 +4,7 @@ title: "Macintosh Classic \U0001F4BE "
 tags: 3dmodel retro project macintosh pc-hardware chemical
 toc: true
 ---
-> Tiny Mac III (Pi 4) - [instructable](https://www.instructables.com/Tiny-Mac-II-Pi-Zero-2-and-Tiny-Mac-III-Pi-4-With-A/) / [HN](https://news.ycombinator.com/item?id=36289682) / [r/VintageApple ](https://www.reddit.com/r/VintageApple/) / [wikipedia](https://en.wikipedia.org/wiki/Macintosh_Classic)
+> retrofitting project - yduf / [r/VintageApple ](https://www.reddit.com/r/VintageApple/) / [wikipedia](https://en.wikipedia.org/wiki/Macintosh_Classic)
 
 <link rel="shortcut icon" href="https://img.icons8.com/?size=100&id=22195&format=png" type="image/x-icon" />
 
@@ -247,6 +247,8 @@ Options are:
     - [x] [remote vscode]({% post_url 2019-04-29-vscode-server %})  - for cli access
 
 ## 3dprinted
+
+> Tiny Mac III (Pi 4) - [instructable](https://www.instructables.com/Tiny-Mac-II-Pi-Zero-2-and-Tiny-Mac-III-Pi-4-With-A/) / [HN](https://news.ycombinator.com/item?id=36289682)
 
 - [3D Printed Full-Size Macintosh - The Brewintosh](https://www.youtube.com/watch?v=7N9oz4Ylzm4&list=PLh9akXp2EH2CBLVl-UZKirYpzl8suuAYc&index=1) / [arstechnica](https://arstechnica.com/gadgets/2024/03/3d-printed-mac-replica-is-a-maker-masterwork-inside-an-entirely-accurate-shell/) - full reconstruction of a  Macintosh from scratch.
 	- [STL & part info](https://kevinnoki.gumroad.com/l/Brewintosh)
