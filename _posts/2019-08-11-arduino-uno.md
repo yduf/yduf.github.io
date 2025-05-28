@@ -3,6 +3,8 @@ published: true
 title: Arduino UNO Pinout
 tags: arduino pinout
 ---
+> Arduino UNO -  [cheap vs. expensive](https://www.youtube.com/watch?v=7DXQgJO2F_g)
+
 ## [schemas](https://www.circuito.io/blog/arduino-uno-pinout/)
 
 - [diff Uno, R2 and R3](https://startingelectronics.org/articles/arduino/uno-r3-r2-differences/)
