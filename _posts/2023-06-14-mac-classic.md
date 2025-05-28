@@ -4,7 +4,7 @@ title: "Macintosh Classic \U0001F4BE "
 tags: 3dmodel retro project macintosh pc-hardware chemical
 toc: true
 ---
-> retrofitting project - yduf / [r/VintageApple ](https://www.reddit.com/r/VintageApple/) / [wikipedia](https://en.wikipedia.org/wiki/Macintosh_Classic)
+> My retrofitting project - yduf / [r/VintageApple ](https://www.reddit.com/r/VintageApple/) / [wikipedia](https://en.wikipedia.org/wiki/Macintosh_Classic)
 
 <link rel="shortcut icon" href="https://img.icons8.com/?size=100&id=22195&format=png" type="image/x-icon" />
 
