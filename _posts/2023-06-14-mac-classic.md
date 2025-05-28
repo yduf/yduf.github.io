@@ -246,7 +246,7 @@ Options are:
 	- [x] [Share home]({% post_url 2019-05-10-nfs %}#sharing-home-folder-) - for seamless data access and navigation
     - [x] [remote vscode]({% post_url 2019-04-29-vscode-server %})  - for cli access
 
-## 3dprinted
+# 3d Printed Alternatives
 
 > Tiny Mac III (Pi 4) - [instructable](https://www.instructables.com/Tiny-Mac-II-Pi-Zero-2-and-Tiny-Mac-III-Pi-4-With-A/) / [HN](https://news.ycombinator.com/item?id=36289682)
 
