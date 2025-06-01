@@ -1,5 +1,5 @@
 ---
-title: Know solved problem
+title: Know solved problems
 published: true
 tags: LLM problem mental-model
 ---
