@@ -1,7 +1,7 @@
 ---
 published: true
 title: Super fast linker (C++)
-tags: compiler linker c++
+tags: compiler linker c++ meson
 ---
 > I wanted to use the linker to link a Chromium executable with full debug info (~2 GiB in size) just in 1 second. LLVM's [lld](https://news.ycombinator.com/item?id=13670458)[¹](https://lld.llvm.org/), the fastest open-source linker which I originally created a few years ago, takes about 12 seconds to link Chromium on my machine. So the goal is 12x performance bump over lld. Compared to GNU gold, it's more than 50x. - [mold](https://github.com/rui314/mold) / [HN](https://news.ycombinator.com/item?id=26233244)
 
@@ -11,13 +11,34 @@ tags: compiler linker c++
 **gold** - previous attempt   (33s)  
 **ld**   - default from gcc   (42s)  
 
-### [seting up mold](https://chatgpt.com/share/67b4ec70-7164-800d-b0e5-15c374172817)
+### [Seting up mold](https://chatgpt.com/share/67b4ec70-7164-800d-b0e5-15c374172817)
 
 {% highlight bash %}
 $ sudo apt install mold
 
 $ sudo update-alternatives --install /usr/bin/ld ld $(which mold) 100
 {% endhighlight %}
+
+### Meson Setup
+
+Easiest way is to define a native configuration redefining LD
+{% highlight ini %}
+# native.config
+# meson builddir/ --native-file native.config
+[binaries]               
+ld = 'mold'
+{% endhighlight %}
+
+And refer to that config when defining the build
+{% highlight bash %}
+$ meson  ./build/  --native-file native.config
+
+# check that the config is taken into account
+$ ninja -C build -v
+-- should display -fuse-ld=mold
+{% endhighlight %}
+
+
 
 ### [Why is mold so fast?](https://github.com/rui314/mold?tab=readme-ov-file#why-is-mold-so-fast)
 
