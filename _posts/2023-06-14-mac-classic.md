@@ -29,7 +29,9 @@ toc: true
 	- plastic wrap created marks ?
 - [Macintosh SE Restoration](https://www.youtube.com/watch?v=wXWlJFrX19s)
 	- [CRT handling](https://youtu.be/wXWlJFrX19s?si=iym1iMN2EnSPOQhu&t=268)
-    
+
+Note: this is the inside of a SE:
+
 [![open](https://i0.wp.com/retroviator.com/wp-content/uploads/2023/08/img_3498-scaled.jpeg?resize=1536%2C1536&ssl=1)](https://retroviator.com/macintosh-se-superdrive/)
 
 ### [Macintosh Classic disassembly](https://www.ifixit.com/Guide/Macintosh+Classic+disassembly/155322)
