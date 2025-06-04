@@ -12,6 +12,7 @@ First known modern origin is from [Napier around 1614](https://en.wikipedia.org/
 
 see also
 - [The Lost Art of Logarithms](https://www.lostartoflogarithms.com/) / [HN](https://news.ycombinator.com/item?id=43356314)
+- [Estimating Logarithms](https://news.ycombinator.com/item?id=44142251)
 
 ### [Logarithmic scale](https://en.wikipedia.org/wiki/Logarithm#Logarithmic_scale)
 
