@@ -10,6 +10,8 @@ tags: despair.com climate-war science
 
 [![caption](https://img.youtube.com/vi/FhBnW7bZHEE/0.jpg)](https://www.youtube.com/watch?v=FhBnW7bZHEE)
 
+- [	End of an Era: Landsat 7 Decommissioned After 25 Years of Earth Observation](https://news.ycombinator.com/item?id=44188248) - A very large number[1](https://www.science.org/content/article/dozens-active-and-planned-nasa-spacecraft-killed-trump-budget-request) of earth-observing satellites have been cancelled in one stroke, including the destruction of operational satellites currently in orbit, for no reason besides conspiratorial grievances. 
+	- "Orbiting Carbon Observatories (OCOs): OCO-2 ... and OCO-3 ... Deep Space Climate Observatory ... Terra, Aqua, and Aura satellites ... Atmosphere Observing System (AOS) ...Surface Biology and Geology (SBG) mission ... next generation of Landsat for the U.S. Geological Survey and new geostationary satellites for the National Oceanic and Atmospheric Administration"
 
 - [Les sécheresses sont-elles archi-sèches ?](https://www.youtube.com/watch?v=X5FPzsKCKd0) - sources officielles des mesures du climat / secheresse en France.
 	- [infoclimat](https://www.infoclimat.fr/) - source en open data (pour la pluspart)
