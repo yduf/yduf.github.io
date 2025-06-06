@@ -45,8 +45,11 @@ if a PDF document already contains a layer of text (as it has been OCR'd) it wil
 
 Podman install derived from  [ppngx: Podman + Paperless-ngx](https://github.com/jdoss/ppngx).
 
-`start.sh`  
-`podman pod stop paperless` 
+{% highlight bash %}
+$ podman play kube ./paperless.yaml
+or 
+$ systemctl --user start paperless.service
+{% endhighlight %}
 
 ### see also
 - [Paperless, paperless-ng, paperless-ngx ... where are we going ...?](https://www.reddit.com/r/selfhosted/comments/100gm61/paperless_paperlessng_paperlessngx_where_are_we/) - paperless-ngx is the only version/fork of paperless that is currently developped.
