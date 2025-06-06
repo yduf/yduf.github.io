@@ -14,7 +14,7 @@ tags: doc text broken
 - [not all pdf files can be imported successfully]()
 	- [ [BUG] PDF gets scrambled while being imported #4016 ](https://github.com/paperless-ngx/paperless-ngx/issues/4016)
 
-## Setup
+## Usage
 
 > Paperless converts your documents from regular PDFs to PDF/A which is a subset of the PDF standard. This subset is designed for long-term storage. - [Over-engineering my document storage system with Paperless-ngx](https://skerritt.blog/how-i-store-physical-documents/)
 
@@ -40,7 +40,7 @@ if a PDF document already contains a layer of text (as it has been OCR'd) it wil
 
 ### Email sync - TBD 
 
-## [Installation](https://github.com/yduf/ppngx#ppngx-podman--paperless-ngx)
+## [Setup](https://github.com/yduf/ppngx#ppngx-podman--paperless-ngx)
 
 Podman install derived from  [ppngx: Podman + Paperless-ngx](https://github.com/jdoss/ppngx).
 
