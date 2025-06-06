@@ -75,7 +75,7 @@ see also
 
 ### Floppy Drive
 
-- [Sony MP-F75W Teardown](https://www.ifixit.com/Teardown/Sony+MP-F75W+Teardown/151675)
+- [Sony MP-F75W Teardown](https://www.ifixit.com/Teardown/Sony+MP-F75W+Teardown/151675) / [youtube](https://www.youtube.com/watch?v=qYkjn8Q-ZeQ)
 	- [Interchangeabilty and Compatibility of Apple 1.4 MB Floppy SuperDrives](https://lowendmac.com/2007/interchangeabilty-and-compatibility-of-apple-1-4-mb-floppy-superdrives/)
 
 # Project - rehousing
