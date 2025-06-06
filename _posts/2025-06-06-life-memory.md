@@ -8,4 +8,4 @@ tags: life memory
 
 Des petits tiroirs avec de petites clefs.
 
-[![memory](https://aethermug.com/assets/posts/i-do-not-remember-my-life-and-it-s-fine/kolar.webp)](https://aethermug.com/posts/i-do-not-remember-my-life-and-it-s-fine)
+[![tiroir](https://aethermug.com/assets/posts/i-do-not-remember-my-life-and-it-s-fine/kolar.webp)](https://aethermug.com/posts/i-do-not-remember-my-life-and-it-s-fine)
