@@ -1,7 +1,7 @@
 ---
 published: true
 title: Paperless-ngx ⛑
-tags: doc text broken
+tags: doc text docker broken
 ---
 > A Clutter-Free Life: Going Paperless with Paperless-ngx - [article](https://nerdyarticles.com/a-clutter-free-life-with-paperless-ngx/) / [HN](https://news.ycombinator.com/item?id=37800951) / [Home](https://docs.paperless-ngx.com/) / [github](https://github.com/paperless-ngx/paperless-ngx) / [local](http://tronaut:8000)
 
