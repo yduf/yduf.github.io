@@ -30,6 +30,8 @@ toc: true
 - [Macintosh SE Restoration](https://www.youtube.com/watch?v=wXWlJFrX19s)
 	- [CRT handling](https://youtu.be/wXWlJFrX19s?si=iym1iMN2EnSPOQhu&t=268)
 
+- [Macintosh SE](https://oldcrap.org/2018/01/27/apple-macintosh-se/) - recovery of a Macintosh SE motherboard severely damaged due to a battery leak. _I didn't think this could be possible and choose the destructive path below_.
+
 Note: this is the inside of a SE:
 
 [![open](https://i0.wp.com/retroviator.com/wp-content/uploads/2023/08/img_3498-scaled.jpeg?resize=1536%2C1536&ssl=1)](https://retroviator.com/macintosh-se-superdrive/)
@@ -70,6 +72,11 @@ see also
 ### Electronic
 
 - [Macintosh Classic Schematic (bomarc).pdf (bomarc)](https://github.com/nickpunt/nubus-se30/blob/master/Schematics/bomarc/Macintosh%20Classic%20Schematic%20(bomarc).pdf)
+
+### Floppy Drive
+
+- [Sony MP-F75W Teardown](https://www.ifixit.com/Teardown/Sony+MP-F75W+Teardown/151675)
+	- [Interchangeabilty and Compatibility of Apple 1.4 MB Floppy SuperDrives](https://lowendmac.com/2007/interchangeabilty-and-compatibility-of-apple-1-4-mb-floppy-superdrives/)
 
 # Project - rehousing
 
