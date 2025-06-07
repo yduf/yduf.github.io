@@ -187,7 +187,7 @@ Hardware Total:        **535€**
 
 
 
-### Screen
+### Screen 🖵
 
 - [my own 3dprinted Bezel](https://www.printables.com/model/1283304-mac-classic-bezel) - good fit / not easy to glue
 - acrylic filler, fill the remaining gap between the original display screws. Protect display.
