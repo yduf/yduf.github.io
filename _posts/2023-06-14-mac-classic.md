@@ -77,6 +77,7 @@ see also
 
 - [Sony MP-F75W Teardown](https://www.ifixit.com/Teardown/Sony+MP-F75W+Teardown/151675) / [youtube](https://www.youtube.com/watch?v=qYkjn8Q-ZeQ)
 	- [Interchangeabilty and Compatibility of Apple 1.4 MB Floppy SuperDrives](https://lowendmac.com/2007/interchangeabilty-and-compatibility-of-apple-1-4-mb-floppy-superdrives/) / [copy](https://siber-sonic.com/mac/superfloppy.html)
+- [Floppy Emu](https://www.bigmessowires.com/floppy-emu/) - a floppy and hard disk emulator for classic Apple II, Macintosh, and Lisa computers. It uses an SD memory card and custom hardware to mimic an Apple floppy disk and drive, or an Apple hard drive. The Emu behaves exactly like a real disk drive, requiring no special software or drivers.
 
 # Project - rehousing
 
