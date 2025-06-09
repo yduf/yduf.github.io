@@ -13,4 +13,6 @@ see also
     - Quantum computers look like they're already slightly expanding the scope of what mathematical statements we can know
     - Can we know even more than that? Depends what the ultimate laws of physics are
 
+> LLMs are divinatory instruments, our era's oracle, minus the incense and theatrics. - [HN](https://news.ycombinator.com/item?id=44219546)
+
 ![invocation](https://br.atsit.in/fr/wp-content/uploads/2021/11/la-mysterieuse-mise-a-jour-de-noel-de-phasmophobia-ajoutera-un-cercle-dinvocation.jpg)
