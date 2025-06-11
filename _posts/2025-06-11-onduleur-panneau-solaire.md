@@ -1,7 +1,7 @@
 ---
 title: Onduleur panneau solaire
 published: true
-tags: solar power
+tags: home solar power
 ---
 > [forum-photovoltaique.fr](https://forum-photovoltaique.fr/index.php)
 
