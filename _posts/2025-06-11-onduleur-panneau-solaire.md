@@ -3,6 +3,8 @@ title: Onduleur panneau solaire
 published: true
 tags: solar power
 ---
+> [forum-photovoltaique.fr](https://forum-photovoltaique.fr/index.php)
+
 Installation initiale
 
 - [SunEzy 2600]()
