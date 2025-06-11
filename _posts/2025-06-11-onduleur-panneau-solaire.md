@@ -12,6 +12,9 @@ Installation initiale
 - [SunEzy 2600]()
 
 Pourrait-être remplacé par
+
+[Les vendeurs en lignes sont pléthoriques.](https://forum-photovoltaique.fr/viewtopic.php?p=781652&hilit=kasyk#p781652)
+
 - [Onduleur réseau 3kW - MPPT - 3000TL-G3 - SOFAR](https://allo.solar/onduleur-reseau-3-3kw-mppt-3300tl-g3-sofar.html) - 400€
 	- [Garanti 10 ans ?](https://allo.solar/amfile/file/download/file/2019/product/1677/) Europe
     - [doc](https://allo.solar/amfile/file/download/file/2276/product/1677/) / [FR](https://allo.solar/amfile/file/download/file/1771/product/1677/)
