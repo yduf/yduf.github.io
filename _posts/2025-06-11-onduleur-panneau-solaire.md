@@ -18,3 +18,4 @@ Pourrait-être remplacé par
 
 - [HUAWEI Onduleur monophasé 3kw 2MPPT + antenne intégrée - SUN2000-3KTL-L1](https://www.123elec.com/huawei-onduleur-monophase-3kw-2mppt-antenne-integree-sun2000-3ktl-l1.html) - 585€ / [Onduleur hybride HUAWEI monophasé SUN2000-2KTL-L1 ](https://www.solaris-store.com/8498-onduleur-huawei-monophase-sun2000-2ktl-l1-2000w-230v.html)
 	- pas d'affichage
+    - Garantie 10 ans
