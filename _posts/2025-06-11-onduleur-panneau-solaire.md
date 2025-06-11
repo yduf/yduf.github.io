@@ -5,6 +5,8 @@ tags: solar power
 ---
 > [forum-photovoltaique.fr](https://forum-photovoltaique.fr/index.php)
 
+- [arnaque photovoltaique](https://forum-photovoltaique.fr/viewtopic.php?t=34117)
+
 Installation initiale
 
 - [SunEzy 2600]()
