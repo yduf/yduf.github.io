@@ -8,6 +8,7 @@ tags: solar power
 - [arnaque photovoltaique](https://forum-photovoltaique.fr/viewtopic.php?t=34117)
 
 ### Installation initiale
+[onduleur schneider sunezy 2800](https://www.forumphotovoltaique.com/onduleur-schneider-sunezy/)
 
 - [SunEzy 2800 avec message "défaut EEPROM"](https://forum-photovoltaique.fr/viewtopic.php?p=781652&hilit=kasyk#p781652)
 
