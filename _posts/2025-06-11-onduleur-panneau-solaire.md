@@ -15,3 +15,6 @@ Pourrait-être remplacé par
 - [ SPF3000TL HVM-24- Growatt ](https://www.leroymerlin.fr/produits/onduleur-hybride-3kw-24v-mppt-50a-spf3000tl-hvm-24-growatt-89576493.html) - 600€
 
 - [Deye Sun 3KW-G 1 MPPT avec WiFi ](https://www.leroymerlin.fr/produits/onduleur-deye-sun-3kw-g-1-mppt-avec-wifi-94908380.html)
+
+- [HUAWEI Onduleur monophasé 3kw 2MPPT + antenne intégrée - SUN2000-3KTL-L1](https://www.123elec.com/huawei-onduleur-monophase-3kw-2mppt-antenne-integree-sun2000-3ktl-l1.html) - 585€ / [Onduleur hybride HUAWEI monophasé SUN2000-2KTL-L1 ](https://www.solaris-store.com/8498-onduleur-huawei-monophase-sun2000-2ktl-l1-2000w-230v.html)
+	- pas d'affichage
