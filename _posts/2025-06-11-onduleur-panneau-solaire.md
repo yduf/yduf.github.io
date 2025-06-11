@@ -7,11 +7,11 @@ tags: solar power
 
 - [arnaque photovoltaique](https://forum-photovoltaique.fr/viewtopic.php?t=34117)
 
-Installation initiale
+### Installation initiale
 
-- [SunEzy 2600]()
+- [SunEzy 2800 avec message "défaut EEPROM"](https://forum-photovoltaique.fr/viewtopic.php?p=781652&hilit=kasyk#p781652)
 
-Pourrait-être remplacé par
+### Pourrait-être remplacé par
 
 [Les vendeurs en lignes sont pléthoriques.](https://forum-photovoltaique.fr/viewtopic.php?p=781652&hilit=kasyk#p781652)
 
