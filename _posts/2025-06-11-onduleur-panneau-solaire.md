@@ -11,6 +11,7 @@ tags: solar power
 [onduleur schneider sunezy 2800](https://www.forumphotovoltaique.com/onduleur-schneider-sunezy/)
 
 - [SunEzy 2800 avec message "défaut EEPROM"](https://forum-photovoltaique.fr/viewtopic.php?p=781652&hilit=kasyk#p781652)
+	- [ElectronLibre](https://forum-photovoltaique.fr/viewtopic.php?p=603949#p603949)
 
 ### Pourrait-être remplacé par
 
