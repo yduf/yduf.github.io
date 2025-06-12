@@ -31,8 +31,8 @@ et $-1+1/2=-2B$
 
 Enfin
 
-soit $C=1+2+3+4+5+6+7+...$
-$C-B=4+8+12+16+...$
+soit $C=1+2+3+4+5+6+7+...$  
+$C-B=4+8+12+16+...$  
 
 qui correspond a la somme de la table des 4:  
 $C-B=4.(1+2+3+4+...) = 4.C$
