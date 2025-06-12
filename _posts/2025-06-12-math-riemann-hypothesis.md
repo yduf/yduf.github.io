@@ -10,24 +10,24 @@ see also
 - Riemann Hypothesis $1^x = 0 ?$
 
 
-Demonstration
+### Demonstration
 $1+2+3+4+...=-1/12$
 
 soit $A=1-1+1-1+1-1+...$
 
-$-A = -1+1-1+1-1+...$
+$-A = -1+1-1+1-1+...$  
 $1-A = 1-1+1-1+1-1+...$
 donc $1-A=A$
 
-qui donne $A=1/2$
+**qui donne $A=1/2$**
 
-soit $B=1-2+3-4+5-6+7...$
-$A+B = 2-3+4-5+6-7+...$
-$-1+A+B=-1+2-3+4-5+6-7+...$
-donc $-1+A+B=-B$
-$-1+1/2=-2B$
+soit $B=1-2+3-4+5-6+7...$  
+$A+B = 2-3+4-5+6-7+...$  
+$-1+A+B=-1+2-3+4-5+6-7+...$  
+donc $-1+A+B=-B$  
+et $-1+1/2=-2B$  
 
-qui donne $B=1/4$
+**qui donne $B=1/4$**
 
 Enfin
 
@@ -38,6 +38,6 @@ qui correspond a la somme de la table des 4:
 $C-B=4.(1+2+3+4+...) = 4.C$
 
 En remplacant $B=1/4$ on trouve $-1/4 = 3C$
-et donc finalement $C=-1/12$
+**et donc finalement $C=-1/12$**
 
 Voila, voila, voila...
