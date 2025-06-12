@@ -37,7 +37,7 @@ $C-B=4+8+12+16+...$
 qui correspond a la somme de la table des 4:
 $C-B=4.(1+2+3+4+...) = 4.C$
 
-En remplacant $B=1/4$ on trouve $-1/4 = 3C$
+En remplacant $B=1/4$ on trouve $-1/4 = 3C$  
 **et donc finalement $C=-1/12$**
 
 Voila, voila, voila... on est pas plus avancé.
