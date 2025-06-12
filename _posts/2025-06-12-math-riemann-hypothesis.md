@@ -7,7 +7,7 @@ use_math: true
 > Faire des mathématiques c'est donner le même nom a des choses différentes - H. Poincarré / [micmath](https://www.youtube.com/watch?v=xqTWRtNDO3U)
 
 see also
-- Riemann Hypothesis $1^x = 0 ?$
+- Riemann Hypothesis $1^x + = 0 ?$
 
 
 ### Demonstration
