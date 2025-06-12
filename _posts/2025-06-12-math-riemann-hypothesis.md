@@ -1,5 +1,5 @@
 ---
-title: 1+2+3+4+5+...=-1/12
+title: 1+2+3+4+5+...= -1/12
 published: true
 tags: math
 use_math: true
