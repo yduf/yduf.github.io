@@ -98,7 +98,7 @@ see also
     - [x] - fix screen on acrylic
     - [x] - attach main electronic - screwed on bottom bezel / taped on mid board
     - [x] - power screen using 12V Molex source
-    - [ ] - attach screen control
+    - [x] - attach screen control
 - [Motherboard Fit](#motherboard-fit)
     - [x] - cut backplate - [used this kind of tool](https://www.amazon.fr/Milwaukee-48-22-0012-Compact-Scie-m%C3%A9taux-Rouge/dp/B003VY8WA2)
 		- [x] - remove metal backplate - drill / cut / melt attach
@@ -193,7 +193,8 @@ Hardware Total:        **535€**
 - [my own 3dprinted Bezel](https://www.printables.com/model/1283304-mac-classic-bezel) - good fit / not easy to glue
 - acrylic filler, fill the remaining gap between the original display screws. Protect display.
 - [colle B7000](https://chatgpt.com/share/680e243e-b2c0-800d-8402-18915d6c845e) - decollage en chauffant a 80°C
-- [control button in floppy disk drive](https://youtu.be/nguN392TH-g?si=nXbxcn8i43qxHAmO&t=297)
+- [LCD screen control](https://www.printables.com/model/1326582-mac-classic-lcd-screen-control) - under the screen
+	- [~~control button in floppy disk drive~~](https://youtu.be/nguN392TH-g?si=nXbxcn8i43qxHAmO&t=297)
 
 My Choice [**Ecran IPS 4/3**](https://youtu.be/nguN392TH-g?si=Qj1b74SA7zqf23BR&)
 - [VSDISPLAY Écran LCD 9,7](https://www.amazon.fr/gp/product/B099Z9SVX7) - spec [ écran IPS eDP 440nit](https://chatgpt.com/share/680016d4-093c-800d-b9ec-d3bceeb10884) ref VS-RTD09703-V1
