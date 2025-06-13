@@ -7,6 +7,7 @@ tags: filesystem tree hash network internet p2p torrent
 
 see also
 - [Build your own BitTorrent](https://news.ycombinator.com/item?id=37941075)
+- [Show HN: I wrote a BitTorrent Client from scratch](https://news.ycombinator.com/item?id=44265851)
 
 ## hash trees / per-file hash trees
 ![caption](https://blog.libtorrent.org/wp-content/uploads/2020/09/merkle-hash-tree.png) <!-- .element height="50%" width="50% ustify-content="left" -->
