@@ -7,3 +7,4 @@ tags: hexagon math devil music
 
 ### see also
 - [Zaza Fournier - Hexagone](https://www.youtube.com/watch?v=YJhuBvMWce0)
+- [Le triangle de Sierpinski était en fait un hexagone](https://www.youtube.com/shorts/kMA8bdkErII)
