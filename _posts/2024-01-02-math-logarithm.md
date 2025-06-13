@@ -16,6 +16,7 @@ see also
 - [Merveilleux logarithmes - Micmaths](https://www.youtube.com/watch?v=rWfl7Pw8YVE) - transformer les multiplications en additions.
 	- echelle de Richter est en $log_10$
     - histoire des tables de logarithme ([Bouvart et Ratinet](https://fr.wikipedia.org/wiki/Bouvart_et_Ratinet))
+    - base $e$ - correlle la valeur du logarithm (base) a la vitesse( valeur)
 
 ### [Logarithmic scale](https://en.wikipedia.org/wiki/Logarithm#Logarithmic_scale)
 
