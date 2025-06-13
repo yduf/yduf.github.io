@@ -3,7 +3,7 @@ published: true
 title: Treetop (parser)
 tags: ruby parser AST
 ---
-> Treetop is a Ruby library that allows you to create parsers easily by describing them using a Parsing Expression Grammar (PEG). - [A quick intro](http://thingsaaronmade.com/blog/a-quick-intro-to-writing-a-parser-using-treetop.html)
+> Treetop is a Ruby library that allows you to create parsers easily by describing them using a Parsing Expression Grammar (PEG). - [A quick intro](http://thingsaaronmade.com/blog/a-quick-intro-to-writing-a-parser-using-treetop.html) / [github](https://github.com/cjheath/treetop)
 
 ### see also
 - [Visualizing Packrat Parsing](https://dubroy.com/blog/visualizing-packrat-parsing/)
