@@ -81,7 +81,7 @@ see also
 
 # Project - rehousing
 
-[![2025 version](https://media.printables.com/media/prints/9b0afa6a-6005-4023-a0fe-57dd4aaf0962/images/10009764_492c6684-9d32-4701-9097-6dec685190fd_470d862d-3c29-4231-aa2f-1e5467ed196d/thumbs/inside/1600x1200/jpg/img_20250613_170118.webp)](https://www.printables.com/model/1307381-mac-classic-mini-itx)
+[![2025 version](https://media.printables.com/media/prints/35bd5ac9-a8d4-44e2-ad80-e15b9dc0d275/images/10009806_ea17c3a0-028f-46b3-93c3-b146d032331d_841868c7-e1a2-4855-b004-0e03e78a74d1/thumbs/inside/1600x1200/jpg/img_20250613_174550.webp)](https://www.printables.com/model/1307381-mac-classic-mini-itx)
 
 - Case
 	- [x] - retrobright case - didn't go as planned
