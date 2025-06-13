@@ -14,6 +14,7 @@ see also
 - [The Lost Art of Logarithms](https://www.lostartoflogarithms.com/) / [HN](https://news.ycombinator.com/item?id=43356314)
 - [Estimating Logarithms](https://news.ycombinator.com/item?id=44142251)
 - [Merveilleux logarithmes - Micmaths](https://www.youtube.com/watch?v=rWfl7Pw8YVE)
+	- echelle de Richter est en $log_10$
 
 ### [Logarithmic scale](https://en.wikipedia.org/wiki/Logarithm#Logarithmic_scale)
 
