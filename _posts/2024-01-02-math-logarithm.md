@@ -29,6 +29,11 @@ Starting from 2 on the lower scale, add the distance to 3 on the upper scale to 
 
 [![Schematic depiction of a slide rule](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Slide_rule_example2_with_labels.svg/825px-Slide_rule_example2_with_labels.svg.png)](https://en.wikipedia.org/wiki/Logarithm)
 
-
+### Mis
+- Logarithm et exponentiel sont au restos, c'est epo qui paye car logarithme ne paye rien.
+- C'est logarithme et exponentiel qui sont sur un bâteau, soudain logarithme crie "on dérive, on dérive !!". Exponentiel : "et alors ?" 
+- les soirs de pleine lune, les profs de maths se transforment en lougarithmes
+- Logarithme et exponentielle participent à un concours de dessin. Qui gagne ?
+Exponentielle, car logarithme décimal. 
 
 [ ![caption](https://static01.nyt.com/images/2024/02/11/multimedia/00Shawlee-3-02-bcpf-print2/00Shawlee-3-02-bcpf-superJumbo.jpg?quality=75&auto=webp)](https://www.nytimes.com/2024/02/08/science/walter-shawlee-dead.html)
