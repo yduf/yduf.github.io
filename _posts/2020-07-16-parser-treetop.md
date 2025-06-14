@@ -85,16 +85,17 @@ class A < Treetop::Runtime::SyntaxNode
         super( input, interval, nil)
     end
 end
-                                      
+{% endhighlight %}
+
 **Notes** Ruby being ruby
 - you can extend `Treetop::Runtime::SyntaxNode`
 - It is not mandatory to inherit from `Treetop::Runtime::SyntaxNode` (duck typing will work as long as require method are implemented).
                                             
-{% endhighlight %}
-
 see also
 - [A quick intro](http://thingsaaronmade.com/blog/a-quick-intro-to-writing-a-parser-using-treetop.html) / [github](https://github.com/aarongough/treetop-sexp-parser)
+- my sql grammar POC [sql](https://github.com/yduf/sql-treetop) - for demos of principle above
 
+                                      
 ## Doc / 
 - [Turning a parse tree into an abstract syntax tree (AST)](https://stackoverflow.com/questions/24209732/turning-a-treetop-parse-tree-into-an-abstract-syntax-tree-ast)
 	- [filtering parse tree to get an ast](https://groups.google.com/g/treetop-dev/c/8tzdfWxGY0k/m/YBdQu-hHmVUJ)
