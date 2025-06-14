@@ -44,7 +44,7 @@ class Parser
   # it every time we need to parse a string
   Treetop.load( 'python3_parser.treetop')
   @@parser = Python3Parser.new
-  tree = @@parser.parse("some compliant code") # -> tree if parsed or nil 
+  tree = @@parser.parse("some compliant code") # return -> tree if parsed or nil 
   
 end
 {% endhighlight %}
