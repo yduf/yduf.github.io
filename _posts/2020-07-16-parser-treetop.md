@@ -125,14 +125,23 @@ to it. You might get away with doing something [similar](https://github.com/cjhe
 [![caption](https://img.youtube.com/vi/v5tTDZSIVrg/0.jpg)](https://www.youtube.com/watch?v=v5tTDZSIVrg)
 
 ### Some treetop example
-
-[_Why you should not use (f)lex, yacc and bison (ANTLR)_](https://tomassetti.me/why-you-should-not-use-flex-yacc-and-bison/)
   
 - Clifford Heath [CQL](https://github.com/cjheath/activefacts-cql)
 - my sql grammar POC [sql](https://github.com/yduf/sql-treetop)
 - [A “grue”some look at Statemachine and Treetop](http://matthewkwilliams.com/index.php/2008/09/05/a-gruesome-look-at-statemachine-and-treetop/)  
   
 # [Alternatives](https://www.ruby-forum.com/t/which-library-to-write-a-parser/215786/11)
+
+[_Why you should not use (f)lex, yacc and bison (from ANTLR)_](https://tomassetti.me/why-you-should-not-use-flex-yacc-and-bison/)
+
+Lex and Yacc were the first popular and efficient lexers and parsers generators, flex and Bison were the first widespread open-source versions compatible with the original software. Each of these software has more than 30 years of history, which is an achievement in itself.
+- Stability and Development of New Features - they are stable and maintained software but there is no active development.
+- Separation between Grammar and Code - flex and Bison maintain an old-school design with little support for readability or productivity.
+- Unicode Support - flex does not directly support Unicode 
+- Grammar Format - Bison only supports BNF, which makes grammars more complicated 
+- Features of Lexing Algorithms - flex supports regular expressions to define rules, which works for most elements, but adds complexity
+- Features of Parsing Algorithms - Bison supports two parsing algorithms that cover all ranges of performance and languages. It gives cryptic error messages 
+  
 - [parslet](http://kschiess.github.io/parslet/)
 	- [compared to other](http://blog.absurd.li/2011/02/02/parslet_and_its_friends.html)
     - [Get started](http://kschiess.github.io/parslet/get-started.html)
