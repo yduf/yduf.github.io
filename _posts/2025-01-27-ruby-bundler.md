@@ -8,6 +8,8 @@ tags: ruby build-system
 ### [Setup](https://bundler.io/#getting-started)
 
 Start by writing a Gemfile at the root of your ruby project
+you can use `bundle init` to do so.
+
 {% highlight ruby %}
 # my gemfile
 source 'https://rubygems.org'
