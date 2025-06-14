@@ -39,8 +39,8 @@ require_relative 'node_extensions.rb'
 
 class Parser
   
-  # Load the Treetop grammar from the 'python3_parser.treetop' file, and create a new
-  # instance of that parser as a class variable so we don't have to re-create
+  # Load the Treetop grammar from the 'python3_parser.treetop' file -> Python3Parser
+  # and then create a new instance of that parser as a class variable so we don't have to re-create
   # it every time we need to parse a string
   Treetop.load( 'python3_parser.treetop')
   @@parser = Python3Parser.new
