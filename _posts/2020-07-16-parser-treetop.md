@@ -51,6 +51,17 @@ end
 
 ### The Grammar
 
+It require a least one rule (the root node), to make the above code work:
+
+{% highlight ruby %}
+# python3_parser.treetop
+grammar Python3
+  rule hello
+    'hello chomsky'
+  end
+end
+{% endhighlight %}
+
 ### The Nodes
 
 see also
