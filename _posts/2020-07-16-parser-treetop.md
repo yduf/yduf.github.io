@@ -82,7 +82,7 @@ Then in `node_extensions.rb`
 
 class A < Treetop::Runtime::SyntaxNode
     def initialize( input, interval, elements = nil)
-        super( input, interval, nil)
+        super( input, interval, elements)
     end
 end
 {% endhighlight %}
