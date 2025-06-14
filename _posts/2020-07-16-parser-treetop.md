@@ -76,6 +76,9 @@ to it. You might get away with doing something [similar](https://github.com/cjhe
 [![caption](https://img.youtube.com/vi/v5tTDZSIVrg/0.jpg)](https://www.youtube.com/watch?v=v5tTDZSIVrg)
 
 ### Some treetop example
+
+[_Why you should not use (f)lex, yacc and bison (ANTLR)_](https://tomassetti.me/why-you-should-not-use-flex-yacc-and-bison/)
+  
 - Clifford Heath [CQL](https://github.com/cjheath/activefacts-cql)
 - my sql grammar POC [sql](https://github.com/yduf/sql-treetop)
 - [A “grue”some look at Statemachine and Treetop](http://matthewkwilliams.com/index.php/2008/09/05/a-gruesome-look-at-statemachine-and-treetop/)  
@@ -91,4 +94,4 @@ to it. You might get away with doing something [similar](https://github.com/cjhe
 	- example [sql-parser](https://github.com/kissmetrics/sql-parser)
     	- [sqlite-parser (js)](https://github.com/codeschool/sqlite-parser)
     
-- [Why you should not use (f)lex, yacc and bison (ANTLR)](https://tomassetti.me/why-you-should-not-use-flex-yacc-and-bison/)
+
