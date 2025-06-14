@@ -96,7 +96,7 @@ see also
 - my sql grammar POC [sql](https://github.com/yduf/sql-treetop) - for demos of principle above
 
                                       
-## Doc / 
+## [Doc](https://cjheath.github.io/treetop/syntactic_recognition.html) 
 - [Turning a parse tree into an abstract syntax tree (AST)](https://stackoverflow.com/questions/24209732/turning-a-treetop-parse-tree-into-an-abstract-syntax-tree-ast)
 	- [filtering parse tree to get an ast](https://groups.google.com/g/treetop-dev/c/8tzdfWxGY0k/m/YBdQu-hHmVUJ)
 	  - [Treetop's Confusing Behavior](https://www.flydata.com/blog/treetops-confusing-behaviors/)
