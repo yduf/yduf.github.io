@@ -14,13 +14,20 @@ toc: true
 - [Visualizing Packrat Parsing](https://dubroy.com/blog/visualizing-packrat-parsing/)
 - [Understanding parser combinators: a deep dive - Scott Wlaschin](https://www.youtube.com/watch?v=RDalzi7mhdY)
 
-## [Home](https://github.com/cjheath/treetop?tab=readme-ov-file#support) (still alive)
+# [Home](https://github.com/cjheath/treetop?tab=readme-ov-file#support) (still alive)
 
 - performance are good [compared to other](http://blog.absurd.li/2011/02/02/parslet_and_its_friends.html)
 - [Performance of parsers: PEG vs LALR(1) or LL(k)](https://stackoverflow.com/questions/11373644/performance-of-parsers-peg-vs-lalr1-or-llk) - PEG parsers can use unlimited lookahead (while maintaining linear parse time on average, via packrat) unlike (default) LL(k), or LR(k) parsers which use limited lookahead, while maintining linear parse time.
 
-### Doc / Tutorials
-- [A quick intro](http://thingsaaronmade.com/blog/a-quick-intro-to-writing-a-parser-using-treetop.html)
+## Tutorials
+[A quick intro](http://thingsaaronmade.com/blog/a-quick-intro-to-writing-a-parser-using-treetop.html) / [github](https://github.com/aarongough/treetop-sexp-parser)
+
+They are 3 kind of objects to implements:
+- the Parser itself, by levaring treetop, that where we will have a `parse` method.
+- the grammar, which will layout how we will parse and build the tree
+- the node extension classes, which is optional, but will allows to customize the AST tree to host pertient information regarding what has been parsed.
+
+## Doc / 
 - [Turning a parse tree into an abstract syntax tree (AST)](https://stackoverflow.com/questions/24209732/turning-a-treetop-parse-tree-into-an-abstract-syntax-tree-ast)
 	- [filtering parse tree to get an ast](https://groups.google.com/g/treetop-dev/c/8tzdfWxGY0k/m/YBdQu-hHmVUJ)
 	  - [Treetop's Confusing Behavior](https://www.flydata.com/blog/treetops-confusing-behaviors/)
