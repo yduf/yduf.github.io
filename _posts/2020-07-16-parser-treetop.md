@@ -132,7 +132,7 @@ to it. You might get away with doing something [similar](https://github.com/cjhe
 - my sql grammar POC [sql](https://github.com/yduf/sql-treetop)
 - [A “grue”some look at Statemachine and Treetop](http://matthewkwilliams.com/index.php/2008/09/05/a-gruesome-look-at-statemachine-and-treetop/)  
   
-### [Alternatives](https://www.ruby-forum.com/t/which-library-to-write-a-parser/215786/11)
+# [Alternatives](https://www.ruby-forum.com/t/which-library-to-write-a-parser/215786/11)
 - [parslet](http://kschiess.github.io/parslet/)
 	- [compared to other](http://blog.absurd.li/2011/02/02/parslet_and_its_friends.html)
     - [Get started](http://kschiess.github.io/parslet/get-started.html)
