@@ -23,3 +23,5 @@ Then use Bundler to setup your dev environment
 $ bundle install
 $ git add Gemfile Gemfile.lock
 {% endhighlight %}
+
+### [.gemspec and Gemfile](https://yehudakatz.com/2010/12/16/clarifying-the-roles-of-the-gemspec-and-gemfile/)
