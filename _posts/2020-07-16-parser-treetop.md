@@ -39,7 +39,7 @@ require_relative 'node_extensions.rb'
 
 class Parser
   
-  # Load the Treetop grammar from the 'python3_parser.treetop' file -> Python3Parser
+  # Load the Treetop grammar from the 'python3_parser.treetop' file -> produce <grammar name>Parser
   # and then create a new instance of that parser as a class variable so we don't have to re-create
   # it every time we need to parse a string
   Treetop.load( 'python3_parser.treetop')
@@ -152,5 +152,3 @@ Lex and Yacc were the first popular and efficient lexers and parsers generators,
 - [rexical](https://github.com/tenderlove/rexical/tree/master) / [racc](https://github.com/ruby/racc/wiki)
 	- example [sql-parser](https://github.com/kissmetrics/sql-parser)
     	- [sqlite-parser (js)](https://github.com/codeschool/sqlite-parser)
-    
-
