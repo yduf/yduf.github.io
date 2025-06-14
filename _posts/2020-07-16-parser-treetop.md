@@ -90,7 +90,7 @@ end
 **Notes** Ruby being ruby
 - you can extend `Treetop::Runtime::SyntaxNode`
 - It is not mandatory to inherit from `Treetop::Runtime::SyntaxNode` (duck typing will work as long as require method are implemented).
-- see below to advice about using module to provide these Node class.
+- **see below to advice about using module to provide these Node class.**
                                             
 see also
 - [A quick intro](http://thingsaaronmade.com/blog/a-quick-intro-to-writing-a-parser-using-treetop.html) / [github](https://github.com/aarongough/treetop-sexp-parser)
