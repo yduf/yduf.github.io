@@ -3,13 +3,13 @@ published: true
 title: Treetop (parser)
 tags: ruby parser AST
 ---
-> Treetop is a Ruby library that allows you to create parsers easily by describing them using a Parsing Expression Grammar (PEG). - [A quick intro](http://thingsaaronmade.com/blog/a-quick-intro-to-writing-a-parser-using-treetop.html) / [github](https://github.com/cjheath/treetop)
+> Treetop is a Ruby library that allows you to create parsers easily by describing them using a Parsing Expression Grammar (PEG). - [A quick intro](http://thingsaaronmade.com/blog/a-quick-intro-to-writing-a-parser-using-treetop.html) / [github](https://github.com/cjheath/treetop?tab=readme-ov-file#support)
 
 ### see also
 - [Visualizing Packrat Parsing](https://dubroy.com/blog/visualizing-packrat-parsing/)
 - [Understanding parser combinators: a deep dive - Scott Wlaschin](https://www.youtube.com/watch?v=RDalzi7mhdY)
 
-## [Home](https://github.com/cjheath/treetop) (still alive)
+## [Home](https://github.com/cjheath/treetop?tab=readme-ov-file#support) (still alive)
 
 - performance are good [compared to other](http://blog.absurd.li/2011/02/02/parslet_and_its_friends.html)
 - [Performance of parsers: PEG vs LALR(1) or LL(k)](https://stackoverflow.com/questions/11373644/performance-of-parsers-peg-vs-lalr1-or-llk) - PEG parsers can use unlimited lookahead (while maintaining linear parse time on average, via packrat) unlike (default) LL(k), or LR(k) parsers which use limited lookahead, while maintining linear parse time.
