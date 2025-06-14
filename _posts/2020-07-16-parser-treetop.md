@@ -21,12 +21,37 @@ toc: true
 
 ## [Tutorials](https://github.com/cjheath/treetop?tab=readme-ov-file#tutorial)
 
-
 They are 3 kind of objects to implements:
 - the Parser itself, by levaring treetop, that where we will have a `parse` method.
 - the grammar, which will layout how we will parse and build the tree
 - the node extension classes, which is optional, but will allows to customize the AST tree to host pertient information regarding what has been parsed.
 
+### The Parser
+
+It would look like
+
+{% highlight ruby %}
+# In file parser.rb
+require 'treetop'
+
+# Load our custom syntax node classes so the parser can use them
+require_relative 'node_extensions.rb'
+
+class Parser
+  
+  # Load the Treetop grammar from the 'sexp_parser' file, and create a new
+  # instance of that parser as a class variable so we don't have to re-create
+  # it every time we need to parse a string
+  Treetop.load( 'python3_parser.treetop')
+  @@parser = Python3Parser.new
+  tree = @@parser.parse("some compliant code") # -> tree or nil 
+  
+end
+{% endhighlight %}
+
+### The Grammar
+
+### The Nodes
 
 see also
 - [A quick intro](http://thingsaaronmade.com/blog/a-quick-intro-to-writing-a-parser-using-treetop.html) / [github](https://github.com/aarongough/treetop-sexp-parser)
