@@ -65,7 +65,32 @@ end
 
 ### The Nodes
 
-TBD
+The parser run by Treetop follow the grammar rules and build a Tree of `Treetop::Runtime::SyntaxNode`.
+The grammar allows to instanciate differente kind of Node if you like to. To do it, you just need to provide the class in bracket inside the rule, like so:
+  
+{% highlight ruby %}
+# python3_parser.treetop
+grammar Python3
+	rule a; 	something <A>;	end
+end
+{% endhighlight %}
+  
+Then in `node_extensions.rb`
+  
+{% highlight ruby %}
+# node_extensions.rb
+
+class A < Treetop::Runtime::SyntaxNode
+    def initialize( input, interval, elements = nil)
+        super( input, interval, nil)
+    end
+end
+                                      
+**Notes** Ruby being ruby
+- you can extend `Treetop::Runtime::SyntaxNode`
+- It is not mandatory to inherit from `Treetop::Runtime::SyntaxNode` (duck typing will work as long as require method are implemented)
+                                            
+{% endhighlight %}
 
 see also
 - [A quick intro](http://thingsaaronmade.com/blog/a-quick-intro-to-writing-a-parser-using-treetop.html) / [github](https://github.com/aarongough/treetop-sexp-parser)
