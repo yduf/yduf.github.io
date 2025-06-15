@@ -90,7 +90,7 @@ end
 {% endhighlight %}
 
 **Notes** 
-- the `SyntaxNode` has some [usefull methods]() like `terminal?`
+- the `SyntaxNode` has some [usefull methods](https://cjheath.github.io/treetop/semantic_interpretation.html) like `terminal?`
 - Ruby being ruby, you can extend `Treetop::Runtime::SyntaxNode`
 - **see below to advice about using module to provide these Node class.**
                                             
