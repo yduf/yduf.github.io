@@ -14,6 +14,8 @@ _some distros, notably Debian, distribute a version of XScreenSaver that is year
 - [Flying Toasters](https://github.com/torunar/flying-toasters-xscreensaver?tab=readme-ov-file#flying-toasters)
 - [GLMatrix](https://trendoceans.com/install-xscreensaver/)
 
+add it to a [.xscreensaver config](https://chatgpt.com/share/684eed4e-23ec-800d-9d53-e4ebccb17d54) - _wasn't able to generate one with xscreensaver-config???_
+
 ### Building
 
 {% highlight bash %}
