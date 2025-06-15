@@ -3,7 +3,7 @@ title: XScreenSaver
 published: true
 tags: retro display blog-people
 ---
-> XScreenSaver - [jwz.org](https://www.jwz.org/xscreensaver/) / [~github](https://github.com/Zygo/xscreensaver)
+> XScreenSaver - [jwz.org](https://www.jwz.org/xscreensaver/) / [man](https://www.commandlinux.com/man-page/man1/xscreensaver.1.html) / [~github](https://github.com/Zygo/xscreensaver)
 
 - [Installing the Epic XScreenSaver Collection on Linux Mint 21](https://thelinuxcode.com/install-xscreensaver-linux-mint/)
 - [Flying Toasters](https://github.com/torunar/flying-toasters-xscreensaver?tab=readme-ov-file#flying-toasters)
