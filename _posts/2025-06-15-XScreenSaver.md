@@ -9,7 +9,10 @@ _some distros, notably Debian, distribute a version of XScreenSaver that is year
 
 - [Changelog](https://www.jwz.org/xscreensaver/changelog.html)
 - [Installing the Epic XScreenSaver Collection on Linux Mint 21](https://thelinuxcode.com/install-xscreensaver-linux-mint/)
+
+### Iconic
 - [Flying Toasters](https://github.com/torunar/flying-toasters-xscreensaver?tab=readme-ov-file#flying-toasters)
+- [GLMatrix](https://trendoceans.com/install-xscreensaver/)
 
 ### Building
 
