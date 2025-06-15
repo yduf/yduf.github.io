@@ -49,7 +49,7 @@ class Parser
 end
 {% endhighlight %}
 
-### The Grammar
+### [The Grammar](https://cjheath.github.io/treetop/syntactic_recognition.html)
 
 It require a least one rule (the root node), to make the above code work:
 The first rule becomes the root of the grammar, causing its expression to be matched when a parser for the grammar is fed a string. 
