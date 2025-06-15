@@ -22,5 +22,9 @@ $ ./configure --prefix=/usr  # check the output of this command for missing depe
 
 # compile
 $ make -j 12                 # as much as you can
+
+# install
+$ sudo make install
+$ make clean
 {% endhighlight %}
 
