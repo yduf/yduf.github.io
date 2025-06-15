@@ -15,9 +15,12 @@ _some distros, notably Debian, distribute a version of XScreenSaver that is year
 
 {% highlight bash %}
 # install dependencies
-$ sudo apt install intltool
+$ sudo apt install intltool libxi-dev
 
-$ ./configure --prefix=/usr  # configure
+# configure
+$ ./configure --prefix=/usr  # check the output of this command for missing dependancy
+
+# compile
 $ make -j 12                 # as much as you can
 {% endhighlight %}
 
