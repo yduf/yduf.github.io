@@ -73,7 +73,9 @@ The grammar allows to instanciate differente kind of Node if you like to. To do 
 {% highlight ruby %}
 # python3_parser.treetop
 grammar Python3
-	rule a: something <A>
+   rule a
+     something <A>
+   end
 end
 {% endhighlight %}
   
