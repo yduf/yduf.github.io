@@ -78,3 +78,4 @@ see also
 - [How to run pods as systemd services with Podman](https://www.redhat.com/sysadmin/podman-run-pods-systemd-services)
 - [Dockerless, part 3: Moving development environment to containers with Podman ](https://mkdev.me/posts/dockerless-part-3-moving-development-environment-to-containers-with-podman)
 - [The Joy of Linux Theming in the Age of Bootable Containers](https://news.ycombinator.com/item?id=43743784) - Bootable Containers Initiative. Conceptually, it allows you to define your operating system as a Containerfile.
+	- [Regular containers also happen to work great for testing dotfiles.](https://news.ycombinator.com/item?id=43745493)
