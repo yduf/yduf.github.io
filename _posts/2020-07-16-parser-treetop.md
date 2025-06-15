@@ -201,3 +201,7 @@ Lex and Yacc were the first popular and efficient lexers and parsers generators,
 - [rexical](https://github.com/tenderlove/rexical/tree/master) / [racc](https://github.com/ruby/racc/wiki)
 	- example [sql-parser](https://github.com/kissmetrics/sql-parser)
     	- [sqlite-parser (js)](https://github.com/codeschool/sqlite-parser)
+
+## Advanced Techniques
+
+### [Semantic Predicates](https://github.com/cjheath/treetop?tab=readme-ov-file#semantic-predicates)
