@@ -22,9 +22,9 @@ toc: true
 ## [Tutorials](https://github.com/cjheath/treetop?tab=readme-ov-file#tutorial)
 
 They are 3 kind of objects to implements:
-- the Parser itself, by levaring treetop, that where we will have a `parse` method.
-- the grammar, which will layout how we will parse and build the tree
-- the node extension classes, which is optional, but will allows to customize the AST tree to host pertient information regarding what has been parsed.
+- [**the Parser**](#the-parser) itself, by levaring treetop, that where we will have a `parse` method.
+- [**the grammar**](#the-grammar), which will layout how we will parse and build the tree
+- [**the node**](#the-nodes) extension classes, which is optional, but will allows to customize the AST tree to host pertient information regarding what has been parsed.
 
 ### The Parser
 
