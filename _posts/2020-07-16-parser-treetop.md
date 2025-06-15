@@ -13,6 +13,7 @@ toc: true
 ### see also
 - [Visualizing Packrat Parsing](https://dubroy.com/blog/visualizing-packrat-parsing/)
 - [Understanding parser combinators: a deep dive - Scott Wlaschin](https://www.youtube.com/watch?v=RDalzi7mhdY)
+- [ruby-ast-explorer](https://github.com/rajasegar/ruby-ast-explorer?tab=readme-ov-file#ruby-ast-explorer)
 
 # [Home](https://github.com/cjheath/treetop?tab=readme-ov-file#support) (still alive)
 
