@@ -215,8 +215,8 @@ For linux there are some options to put shader on desktop, see [ChatGPT](https:/
 - [Picom](https://yduf.github.io/CRT-shader/#picom) - There also a possibility to simulate CRT.
 - see also [xrandr]({% post_url 2019-04-05-rotate-display %}#xrandr)
 - Wayland?
-- changing resolution on this screen make display scale down (this could be used at first), internal control may allow to reposition screen on lower resolution
-	- not tested since I need to get back access to screen control for that operation.
+- Changing the resolution video to 1920x1080 make the full desktop visible on this screen (fit perfectly but losing 4:3 aspect).
+	- the OSD menu, has greyed option for repositioning or scale image => didn't find anyway to enable them at all.
 
 [![caption](https://m.media-amazon.com/images/I/71hn2L+7btL._AC_SL1500_.jpg)](https://www.amazon.fr/gp/product/B099Z9SVX7?smid=A28KS01BONGL5G&th=1)
     
