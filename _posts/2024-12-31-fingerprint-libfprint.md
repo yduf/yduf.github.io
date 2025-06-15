@@ -3,7 +3,9 @@ title: Fingerprint reader (linux)
 published: true
 tags: linux-system fingerprint
 ---
-> [libfprint](https://gitlab.freedesktop.org/libfprint/libfprint)
+> [Linux Mint 22.2](https://blog.linuxmint.com/?p=4850) will feature a brand new app called [Fingwit](https://github.com/xapp-project/fingwit?tab=readme-ov-file#fingwit)
+
+### [libfprint](https://gitlab.freedesktop.org/libfprint/libfprint)
 
 <link rel="shortcut icon" href="https://www.pngall.com/wp-content/uploads/2016/06/Fingerprint-Free-Download-PNG.png" type="image/x-icon" />
 
