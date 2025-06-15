@@ -3,7 +3,7 @@ title: XScreenSaver
 published: true
 tags: retro display blog-people
 ---
-> XScreenSaver - [jwz.org](https://www.jwz.org/xscreensaver/) / [man](https://manpages.ubuntu.com/manpages/xenial/man1/xscreensaver.1.html)
+> XScreenSaver - [jwz.org](https://www.jwz.org/xscreensaver/) / [man](https://www.jwz.org/xscreensaver/man1.html)
 
 _some distros, notably Debian, distribute a version of XScreenSaver that is years out of date. This is bad and they should feel bad._
 
