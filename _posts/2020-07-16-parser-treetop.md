@@ -91,7 +91,7 @@ end
 
 **Notes** 
 - the `SyntaxNode` has some [usefull methods](https://cjheath.github.io/treetop/semantic_interpretation.html) like `terminal?`
-- Ruby being ruby, you can extend `Treetop::Runtime::SyntaxNode`, and even their instance
+- Ruby being ruby, you can extend `Treetop::Runtime::SyntaxNode`, and even their instance (using the block mechanism supported by the grammar)
 - **see below to advice about using module to provide these Node class.**
                                             
 see also
