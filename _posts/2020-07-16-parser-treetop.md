@@ -96,7 +96,7 @@ end
                                             
 see also
 - [A quick intro](http://thingsaaronmade.com/blog/a-quick-intro-to-writing-a-parser-using-treetop.html) / [github](https://github.com/aarongough/treetop-sexp-parser)
-- my sql grammar POC [sql](https://github.com/yduf/sql-treetop) - for demos of principle above
+- my [sql grammar POC](https://github.com/yduf/sql-treetop) - for demos of principle above
 
                                       
 ## [Doc](https://cjheath.github.io/treetop/syntactic_recognition.html)
