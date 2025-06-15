@@ -212,3 +212,6 @@ Sometimes, you need to run external Ruby code to decide whether this syntax rule
     word &{ |s| symbol_reserved?(s[0].text_value) }
   end
 {% endhighlight %}
+
+**Notes**  
+- the semantic predicate `&{ ... }` syntax while close to the Node extension `{ ... }` is fundamentally different in behavior.
