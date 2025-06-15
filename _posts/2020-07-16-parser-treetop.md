@@ -52,7 +52,7 @@ end
 ### The Grammar
 
 It require a least one rule (the root node), to make the above code work:
-The first rule becomes the root of the grammar, causing its expression to be matched when a parser for the grammar is fed a string.
+The first rule becomes the root of the grammar, causing its expression to be matched when a parser for the grammar is fed a string. 
 
 {% highlight ruby %}
 # python3_parser.treetop
@@ -62,6 +62,8 @@ grammar Python3
   end
 end
 {% endhighlight %}
+  
+Contrary to Lex/yacc approach, here the grammar directly integrate the lexer. It works directly on the stream of characters.
 
 ### The Nodes
 
