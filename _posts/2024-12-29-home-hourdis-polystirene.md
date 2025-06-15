@@ -9,3 +9,4 @@ tags: home
 - [Plancher hourdis en polystyrène : Avantages, inconvénients et coût](https://les-bobines.fr/plancher-hourdis-en-polystyrene-avantages-inconvenients-et-cout/)
 - [Exemple de pose hourdi polystyrene](https://youtube.com/shorts/iW8Zrj3gUTY?si=-VDwdYoVJLeFEAoN)
 - [Comment installer une suspente HOURDIS](https://www.youtube.com/watch?v=idYVfF3EJto)
+	- Grip Hourdis Multi usage sur poutrelles béton](https://www.psigroupe.com/fr/pai/grip-hm-grip-hourdis-multi-usage-sur-poutrelles-beton)
