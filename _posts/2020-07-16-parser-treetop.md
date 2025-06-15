@@ -95,7 +95,24 @@ end
 - the `SyntaxNode` has some [usefull methods](https://cjheath.github.io/treetop/semantic_interpretation.html) like `terminal?`
 - Ruby being ruby, you can extend `Treetop::Runtime::SyntaxNode`, and even their instance (using the block mechanism supported by the grammar)
 - **see below to advice about using module to provide these Node class.**
-                                            
+                                      
+**Inline Method Definition**
+
+So rather than instanciating new Nodes;
+- you can overide default method or add custom members directly to the `SyntaxNode` like so:
+
+{% highlight ruby %}
+# python3_parser.treetop
+rule abc
+  a b c {
+    # overide the to_s method of the instanciated nodes of abc rule
+    def to_s   
+      a.to_s + b.to_s + c.to_s
+    end
+  }
+end
+{% endhighlight %}
+
 see also
 - [A quick intro](http://thingsaaronmade.com/blog/a-quick-intro-to-writing-a-parser-using-treetop.html) / [github](https://github.com/aarongough/treetop-sexp-parser)
 - my [sql grammar POC](https://github.com/yduf/sql-treetop) - for demos of principle above
