@@ -98,8 +98,7 @@ end
                                       
 **Inline Method Definition**
 
-So rather than instanciating new Nodes;
-- you can overide default method or add custom members directly to the `SyntaxNode` like so:
+So rather than instanciating new Nodes, you can overide default method or add custom members directly to the `SyntaxNode` like so:
 
 {% highlight ruby %}
 # python3_parser.treetop
