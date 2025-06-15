@@ -204,3 +204,11 @@ Lex and Yacc were the first popular and efficient lexers and parsers generators,
 ## Advanced Techniques
 
 ### [Semantic Predicates](https://github.com/cjheath/treetop?tab=readme-ov-file#semantic-predicates)
+
+Sometimes, you need to run external Ruby code to decide whether this syntax rule should continue or should fail. You can do this using either positive or negative semantic predicates. These are Ruby code blocks (lambdas) which are called when the parser reaches that location. 
+
+{% highlight ruby %}
+  rule reserved
+    word &{ |s| symbol_reserved?(s[0].text_value) }
+  end
+{% endhighlight %}
