@@ -15,7 +15,7 @@ _some distros, notably Debian, distribute a version of XScreenSaver that is year
 
 {% highlight bash %}
 # install dependencies
-$ sudo apt install intltool libxi-dev
+$ sudo apt install intltool libxi-dev libgtk-3-dev libxml2-dev
 
 # configure
 $ ./configure --prefix=/usr  # check the output of this command for missing dependancy
