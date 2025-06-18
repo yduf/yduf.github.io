@@ -9,6 +9,8 @@ tags: freecad code-review
 	- [dependencies](https://freecad.github.io/DevelopersHandbook/gettingstarted/dependencies.html#dependencies) / [Compile on Linux](https://wiki.freecad.org/Compile_on_Linux)
 - [The FreeCAD source code](https://wiki.freecad.org/The_FreeCAD_source_code)
 
+## Organisation
+
 ### [Part Module](https://wiki.freecad.org/Part_Workbench)
 
 Essentially all 2D and 3D drawing functions in every workbench (Workbench Draft.svg Draft, Workbench Sketcher.svg Sketcher, Workbench PartDesign.svg PartDesign, etc.), are based on these functions exposed by the Part Workbench. Therefore, the Part Workbench is considered the corGUI component of the modelling capabilities of FreeCAD. 
@@ -32,3 +34,7 @@ In FreeCAD, normally, we don't need to interact directly with the Open Inventor 
 
 ### see also
 - [FeatureHole.cpp](https://github.com/FreeCAD/FreeCAD/blob/252707a803e96f3accfb5ac3e455a3aeaf7e974c/src/Mod/PartDesign/App/FeatureHole.cpp#L644) - where all metrics for hole are hardcoded...
+
+## Building Freecad
+
+- [[SOLVED] help on compile FreeCAD on Linux Mint](https://forum.freecad.org/viewtopic.php?t=36581)
