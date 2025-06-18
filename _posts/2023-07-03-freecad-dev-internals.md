@@ -37,4 +37,4 @@ In FreeCAD, normally, we don't need to interact directly with the Open Inventor 
 
 ## Building Freecad
 
-- [[SOLVED] help on compile FreeCAD on Linux Mint](https://forum.freecad.org/viewtopic.php?t=36581)
+- [[SOLVED] help on compile FreeCAD (0.19) on Linux Mint](https://forum.freecad.org/viewtopic.php?t=36581)
