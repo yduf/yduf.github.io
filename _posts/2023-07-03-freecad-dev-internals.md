@@ -37,5 +37,13 @@ In FreeCAD, normally, we don't need to interact directly with the Open Inventor 
 
 ## [Building Freecad](https://wiki.freecad.org/Compile_on_Linux)
 
+On recent Linux distributions, FreeCAD is generally easy to build, since all dependencies are usually provided by the package manager. It basically involves three steps:
+
+- Getting the FreeCAD source code
+- Getting the dependencies or packages that FreeCAD depends on
+- Configure with cmake and compile with make
+
 - [Using Linux Mint 22.x OpenFOAM 11 and self compiling FreeCAD (0.21.1)](https://forum.freecad.org/viewtopic.php?p=815620#p815620)
 - [[SOLVED] help on compile FreeCAD (0.19) on Linux Mint](https://forum.freecad.org/viewtopic.php?t=36581)
+
+[![build process](https://wiki.freecad.org/images/e/ed/FreeCAD_source_compilation_workflow.svg)](https://wiki.freecad.org/Compile_on_Linux)
