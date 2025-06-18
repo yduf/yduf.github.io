@@ -35,6 +35,7 @@ In FreeCAD, normally, we don't need to interact directly with the Open Inventor 
 ### see also
 - [FeatureHole.cpp](https://github.com/FreeCAD/FreeCAD/blob/252707a803e96f3accfb5ac3e455a3aeaf7e974c/src/Mod/PartDesign/App/FeatureHole.cpp#L644) - where all metrics for hole are hardcoded...
 
-## Building Freecad
+## [Building Freecad](https://wiki.freecad.org/Compile_on_Linux)
 
+- [Using Linux Mint 22.x OpenFOAM 11 and self compiling FreeCAD (0.21.1)](https://forum.freecad.org/viewtopic.php?p=815620#p815620)
 - [[SOLVED] help on compile FreeCAD (0.19) on Linux Mint](https://forum.freecad.org/viewtopic.php?t=36581)
