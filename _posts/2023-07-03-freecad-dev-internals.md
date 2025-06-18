@@ -14,6 +14,11 @@ toc: true
 
 FreeCAD is designed from the ground up with Python integration at its core. It provides a powerful Python API that allows users to script, automate, and extend almost every part of the application. - [ChatGPT](https://chatgpt.com/c/68531f70-1fc8-800d-952e-ad3c49bc5ac9)
 
+You can write Python scripts outside of FreeCAD and run them using:
+{% highlight bash %}
+$ freecadcmd script.py
+{% endhighlight %}
+
 ### [Part Module](https://wiki.freecad.org/Part_Workbench)
 
 Essentially all 2D and 3D drawing functions in every workbench (Workbench Draft.svg Draft, Workbench Sketcher.svg Sketcher, Workbench PartDesign.svg PartDesign, etc.), are based on these functions exposed by the Part Workbench. Therefore, the Part Workbench is considered the corGUI component of the modelling capabilities of FreeCAD. 
