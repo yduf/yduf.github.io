@@ -1,7 +1,7 @@
 ---
 published: true
 title: Freecad Internals (dev)
-tags: freecad code-review
+tags: freecad code-review python
 toc: true
 ---
 > [Developer hub](https://wiki.freecad.org/Developer_hub) / [Power users hub](https://wiki.freecad.org/Power_users_hub) / [mastodon](https://fosstodon.org/@FreeCAD)
