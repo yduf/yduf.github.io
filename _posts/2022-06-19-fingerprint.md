@@ -9,5 +9,8 @@ tags: identity security fingerprint
 
 <link rel="shortcut icon" href="https://www.pngall.com/wp-content/uploads/2016/06/Fingerprint-Free-Download-PNG.png" type="image/x-icon" />
 
+### Internet
+- [My browser fingerprint ](https://www.amiunique.org/fingerprint)
+
 see also
 - [German minister photo fingerprint 'theft' seemed far too EASY](https://www.theregister.com/2014/12/30/hacking_fingerprints_get_a_hires_pic_and_commercial_software/)
