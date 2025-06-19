@@ -119,6 +119,8 @@ see also
 
 ### Debuging
 
+Enable error messages: Check parser.failure_reason and parser.failure_line if parsing fails.
+
 {% highlight ruby %}
 # python3_parser.treetop
 puts tree    # will iterate on to_s
