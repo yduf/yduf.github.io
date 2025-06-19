@@ -124,7 +124,8 @@ see also
 puts tree    # will iterate on to_s
 p tree       # will iterate on inspect
 {% endhighlight %}
-                                      | Method      | Output Style                  | Uses Which Method? | Adds Newline? | Purpose                              |
+
+| Method      | Output Style                  | Uses Which Method? | Adds Newline? | Purpose                              |
 | ----------- | ----------------------------- | ------------------ | ------------- | ------------------------------------ |
 | `puts node` | Human-readable string         | Calls `to_s`       | Yes           | For clean user-facing output         |
 | `p node`    | Debug-style (raw Ruby syntax) | Calls `inspect`    | Yes           | For debugging and inspecting objects |
