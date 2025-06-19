@@ -225,7 +225,8 @@ Sometimes, you need to run external Ruby code to decide whether this syntax rule
 
 {% highlight ruby %}
 rule reserved
-  word &{ |s| symbol_reserved?(s[0].text_value) }
+  word &{ |s| symbol_reserved?(s[0].text_value) } # positive predicate
+  word !{ |s| symbol_reserved?(s[0].text_value) } # negative predicate
 end
 {% endhighlight %}
 
