@@ -117,6 +117,18 @@ see also
 - [A quick intro](http://thingsaaronmade.com/blog/a-quick-intro-to-writing-a-parser-using-treetop.html) / [github](https://github.com/aarongough/treetop-sexp-parser)
 - my [sql grammar POC](https://github.com/yduf/sql-treetop) - for demos of principle above
 
+### Debuging
+
+{% highlight ruby %}
+# python3_parser.treetop
+puts tree    # will iterate on to_s
+p tree       # will iterate on inspect
+{% endhighlight %}
+                                      | Method      | Output Style                  | Uses Which Method? | Adds Newline? | Purpose                              |
+| ----------- | ----------------------------- | ------------------ | ------------- | ------------------------------------ |
+| `puts node` | Human-readable string         | Calls `to_s`       | Yes           | For clean user-facing output         |
+| `p node`    | Debug-style (raw Ruby syntax) | Calls `inspect`    | Yes           | For debugging and inspecting objects |
+
                                       
 ## [Doc](https://cjheath.github.io/treetop/syntactic_recognition.html)
 
