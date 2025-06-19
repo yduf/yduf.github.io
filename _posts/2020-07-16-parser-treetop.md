@@ -124,7 +124,7 @@ Enable error messages: Check parser.failure_reason and parser.failure_line if pa
 {% highlight ruby %}
 # python3_parser.treetop
 puts tree    # will iterate on to_s
-p tree       # will iterate on inspect
+p    tree    # will iterate on inspect
 {% endhighlight %}
 
 | **Method**      | **Output Style**                  | **Uses Which Method?** | **Adds Newline?** | **Purpose**                              |
