@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Treetop (parser)
 tags: ruby parser AST
 toc: true
@@ -65,6 +65,10 @@ end
 {% endhighlight %}
   
 Contrary to Lex/yacc approach, here the grammar directly integrate the lexer. It works directly on the stream of characters.
+  
+**Notes**
+- only base expression are considered terminals (like "hello", [Az]*) each one them will lead to a Node being created.
+- fortunately Treetop [now support regexp](https://github.com/cjheath/treetop?tab=readme-ov-file#terminal-symbols) / [2](https://groups.google.com/g/treetop-dev/c/q3FcsQYlfn8) as terminals, so it can helps to reduce number of nodes created. eg: using `"([\t ]*\n)+"r` to replace `([\t ]* "\n")` in a rule (otherwise you got 3 nodes created with the latter: 1 parent \<-\> 2 children.
 
 ### [The Nodes](https://cjheath.github.io/treetop/semantic_interpretation.html)
 
