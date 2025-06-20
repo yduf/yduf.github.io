@@ -112,6 +112,23 @@ rule abc
   }
 end
 {% endhighlight %}
+                                      
+[**Labels**](https://cjheath.github.io/treetop/semantic_interpretation.html)
+
+{% highlight ruby %}
+# python3_parser.treetop
+rule labels
+  first_letter:[a-z] rest_letters:(', ' letter:[a-z])* {
+    def letters
+      [first_letter] + rest_letters.elements.map do |comma_and_letter|
+        comma_and_letter.letter
+      end
+    end
+  }
+end
+{% endhighlight %}
+
+Subexpressions can be given an explicit label to have an element accessor method defined for them. The labeled expressions could have been extracted to their own rules, but if they aren't used elsewhere, labels still enable them to be referenced by a name within the expression's methods.
 
 see also
 - [A quick intro](http://thingsaaronmade.com/blog/a-quick-intro-to-writing-a-parser-using-treetop.html) / [github](https://github.com/aarongough/treetop-sexp-parser)
