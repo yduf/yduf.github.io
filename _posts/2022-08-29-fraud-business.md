@@ -18,3 +18,6 @@ So, to answer our question: What’s the deal with the weird wrong-number texts?
 	- [Showing A Scammer HIS OWN Local BILLBOARD!](https://www.youtube.com/watch?v=jjukOD4f32U)
 - [Fraud, so much fraud ](https://news.ycombinator.com/item?id=41672599) - scientific fraud
 - [Moving Bricks: Money-laundering practices in the online scam industry](https://news.ycombinator.com/item?id=41669934)
+
+- [les MUTE NEWS : les FAKE NEWS 2.0](https://www.youtube.com/watch?v=KDIocZ5Pp3k) - les parties d'extremes droites ont plus tendances a emettre de fake news.
+
