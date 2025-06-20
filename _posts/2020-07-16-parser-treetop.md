@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Treetop (parser)
 tags: ruby parser AST
 toc: true
