@@ -130,6 +130,22 @@ rule labels
 end
 {% endhighlight %}
 
+You can then override the element accessor produced by label with access to the super keyword. 
+
+{% highlight ruby %}
+# python3_parser.treetop
+rule labels
+  first_letter:[a-z] rest_letters:(', ' letter:[a-z])* {
+    def letters
+      [first_letter] + rest_letters
+    end
+
+    def rest_letters
+      super.elements.map { |comma_and_letter| comma_and_letter.letter }
+    end
+  }
+end
+{% endhighlight %}
 
 see also
 - [A quick intro](http://thingsaaronmade.com/blog/a-quick-intro-to-writing-a-parser-using-treetop.html) / [github](https://github.com/aarongough/treetop-sexp-parser)
