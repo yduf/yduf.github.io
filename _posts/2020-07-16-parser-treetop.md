@@ -233,6 +233,23 @@ to it. You might get away with doing something [similar](https://github.com/cjhe
 - my sql grammar POC [sql](https://github.com/yduf/sql-treetop)
 - [A “grue”some look at Statemachine and Treetop](http://matthewkwilliams.com/index.php/2008/09/05/a-gruesome-look-at-statemachine-and-treetop/)  
   
+
+## Advanced Techniques
+
+### [Semantic Predicates](https://github.com/cjheath/treetop?tab=readme-ov-file#semantic-predicates)
+
+Sometimes, you need to run external Ruby code to decide whether this syntax rule should continue or should fail. You can do this using either positive or negative semantic predicates. These are Ruby code blocks (lambdas) which are called when the parser reaches that location. 
+
+{% highlight ruby %}
+rule reserved
+  word &{ |s| symbol_reserved?(s[0].text_value) } # positive predicate
+  word !{ |s| symbol_reserved?(s[0].text_value) } # negative predicate
+end
+{% endhighlight %}
+
+**Notes**  
+- the semantic predicate `&{ ... }` syntax while close to the Node extension `{ ... }` is fundamentally different in behavior.
+
 # [Alternatives](https://www.ruby-forum.com/t/which-library-to-write-a-parser/215786/11)
 
 [_Why you should not use (f)lex, yacc and bison (from ANTLR)_](https://tomassetti.me/why-you-should-not-use-flex-yacc-and-bison/)
@@ -254,19 +271,3 @@ Lex and Yacc were the first popular and efficient lexers and parsers generators,
 - [rexical](https://github.com/tenderlove/rexical/tree/master) / [racc](https://github.com/ruby/racc/wiki)
 	- example [sql-parser](https://github.com/kissmetrics/sql-parser)
     	- [sqlite-parser (js)](https://github.com/codeschool/sqlite-parser)
-
-## Advanced Techniques
-
-### [Semantic Predicates](https://github.com/cjheath/treetop?tab=readme-ov-file#semantic-predicates)
-
-Sometimes, you need to run external Ruby code to decide whether this syntax rule should continue or should fail. You can do this using either positive or negative semantic predicates. These are Ruby code blocks (lambdas) which are called when the parser reaches that location. 
-
-{% highlight ruby %}
-rule reserved
-  word &{ |s| symbol_reserved?(s[0].text_value) } # positive predicate
-  word !{ |s| symbol_reserved?(s[0].text_value) } # negative predicate
-end
-{% endhighlight %}
-
-**Notes**  
-- the semantic predicate `&{ ... }` syntax while close to the Node extension `{ ... }` is fundamentally different in behavior.
