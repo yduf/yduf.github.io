@@ -16,3 +16,6 @@ Couleur de l'acier en fonction de la temperature
 - temperature de trempe
 - temperature de normalisation
 - point de curie
+
+see also
+- [les aciers de récupération](https://www.youtube.com/watch?v=MhGZHKR_TPs)
