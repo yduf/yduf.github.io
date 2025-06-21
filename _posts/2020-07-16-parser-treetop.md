@@ -263,7 +263,7 @@ Lex and Yacc were the first popular and efficient lexers and parsers generators,
 - Features of Parsing Algorithms - Bison supports two parsing algorithms that cover all ranges of performance and languages. It gives cryptic error messages 
   
 - [parslet](http://kschiess.github.io/parslet/)
-	- [compared to other](http://blog.absurd.li/2011/02/02/parslet_and_its_friends.html)
+	- [compared to other](http://blog.absurd.li/2011/02/02/parslet_and_its_friends.html) - uses the PEG formalism for its grammars
     - [Get started](http://kschiess.github.io/parslet/get-started.html)
     - [Stack Traces in Parslet](http://blog.absurd.li/2011/01/11/stack_traces_in_parslet.html)
 - [whittle ?](https://github.com/d11wtq/whittle)
