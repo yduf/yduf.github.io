@@ -1,7 +1,7 @@
 ---
 title: Mechanical Computer
 published: true
-tags: computer
+tags: mechanical  computer
 ---
 > Marble...
 
