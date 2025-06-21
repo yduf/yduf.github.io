@@ -7,3 +7,4 @@ tags: craftmanship yduf
 
 see also
 - [RARE ZEPHYR 1939 - Façonnage d'un toit et d'une passerelle en métal ! Marteau-pilon/roue anglaise](https://www.youtube.com/watch?v=-OmMLe0yNOw)
+- [A Surprising Method for Making a Small Box](https://youtube.com/shorts/_DXosSfbwOY?si=rAygvSU982mIuLHb)
