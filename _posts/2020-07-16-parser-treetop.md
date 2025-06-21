@@ -266,7 +266,7 @@ Lex and Yacc were the first popular and efficient lexers and parsers generators,
 	- [compared to other](http://blog.absurd.li/2011/02/02/parslet_and_its_friends.html) - uses the PEG formalism for its grammars
     - [Get started](http://kschiess.github.io/parslet/get-started.html)
     - [Stack Traces in Parslet](http://blog.absurd.li/2011/01/11/stack_traces_in_parslet.html)
-- [whittle ?](https://github.com/d11wtq/whittle)
+- [whittle ?](https://github.com/d11wtq/whittle) - A little LALR(1) Parser in Pure Ruby
 	- [Whittle: the new, powerful, easy-to-use Parser on the ruby block (all ruby, all the time, based on the LALR(1) algorithm)](https://www.reddit.com/r/ruby/comments/msgn9/whittle_the_new_powerful_easytouse_parser_on_the/)
 - [rexical](https://github.com/tenderlove/rexical/tree/master) / [racc](https://github.com/ruby/racc/wiki)
 	- example [sql-parser](https://github.com/kissmetrics/sql-parser)
