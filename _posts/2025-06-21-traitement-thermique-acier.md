@@ -12,3 +12,7 @@ Le grain de l'acier
 Couleur de l'acier en fonction de la temperature
 
 [![couleur par temperature](http://fabriquersoncout.11vm-serv.net/images/couleur%20de%20forge.jpg)](http://fabriquersoncout.11vm-serv.net/images/couleur%20de%20forge.jpg)
+
+- temperature de trempe
+- temperature de normalisation
+- point de curie
