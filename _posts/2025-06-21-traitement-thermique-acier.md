@@ -3,7 +3,7 @@ title: Traitement thermiques
 published: true
 tags: metal
 ---
-> Techniques de traitement thermiques / trempes de l'acier - [ le Traitement Thermique](https://www.youtube.com/watch?v=YNqji-1DOo0)
+> Techniques de traitement thermiques / trempes de l'acier - [ le Traitement Thermique (coutellerie)](https://www.youtube.com/watch?v=YNqji-1DOo0)
 
 Le grain de l'acier
 
