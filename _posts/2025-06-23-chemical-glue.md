@@ -1,5 +1,5 @@
 ---
-title: Glue
+title: 'Glue '
 published: true
 tags: home glue chemical
 ---
