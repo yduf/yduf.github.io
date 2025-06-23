@@ -1,6 +1,6 @@
 ---
 published: true
-title: Store banne
+title: "Store banne \U0001F3E0"
 tags: home
 ---
 > Originellement, la banne désignait la bâche qui était tendue devant les devantures de petits commerces, type épiceries. C’est ce qui a donné son nom au [store banne](https://www.bricoleurdudimanche.com/enquetes-et-dossiers/enquetes/store-banne-manuel-ou-electrique.html) 
