@@ -1,5 +1,5 @@
 ---
-title: Velux
+title: "Velux \U0001F3E0"
 published: true
 tags: home
 ---
@@ -20,4 +20,4 @@ dim 114 (largeur) x 118 (Hauteur)
 
 **Chambre est** 
 Ref: GHL 606  
-dim 114 (largeur) x 118 (Hauteur)  
+dim 114 (largeur) x 118 (Hauteur)
