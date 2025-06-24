@@ -24,6 +24,7 @@ see also
         - $exp(y.x) = exp(y)^x$
         - $exp(1.x) = exp(1)^x = e^x = exp(x)$
         - $e = lim( 1+ 1/n)^n$
+        - $e^ix = cos(x) + isin(x)$
 
 ### [Logarithmic scale](https://en.wikipedia.org/wiki/Logarithm#Logarithmic_scale)
 
