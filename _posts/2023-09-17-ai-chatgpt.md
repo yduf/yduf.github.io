@@ -12,6 +12,7 @@ ChatGPT is a _development limité_ of human knowledge, you can get a good initia
 - [What's wrong with LLMs and what we should be building instead](https://www.youtube.com/watch?v=cEyHsMzbZBs)
 
 ### see also
+- [Êtes-vous WEIRD? - La chronique d'Albert Moukheiber dans "La dernière"](https://www.youtube.com/watch?v=NAXS8N7JbsU)
 - [AI to replace 2.4 million jobs in the US by 2030, many fewer than other forms of automation](https://www.theregister.com/2023/09/06/generative_ai_jobs_forrester_report/)
 - [C++hatGPT & AI Tools' Impact](https://www.youtube.com/watch?v=trGJsOcA4hY) - explores the inner workings of large language models with an eye for leveraging them effectively for coding tasks. 
 	- Good art is skill + taste + creativy 
