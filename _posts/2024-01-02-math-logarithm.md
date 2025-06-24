@@ -17,7 +17,8 @@ see also
 	- echelle de Richter est en $log_10$ / le PH idem.
     - histoire des tables de logarithme ([Bouvart et Ratinet](https://fr.wikipedia.org/wiki/Bouvart_et_Ratinet))
     - base $e$ - correlle la valeur du logarithm (base) a la vitesse( valeur) - définit le logarithme népérien (nommé en hommage a Neper)
-- [Pourquoi 2,718 Est Le Meilleur Nombre?](https://www.youtube.com/watch?v=-T9qge2ckLU)
+- [Pourquoi 2,718 Est Le Meilleur Nombre?](https://www.youtube.com/watch?v=-T9qge2ckLU) - logarithm hypberbolique, logarithm naturel, logarithm népérien. 
+	- $e$ pour Euler, irrationel et transcendant (n'est racine d'aucu polynome).
 
 ### [Logarithmic scale](https://en.wikipedia.org/wiki/Logarithm#Logarithmic_scale)
 
