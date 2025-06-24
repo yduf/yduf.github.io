@@ -19,6 +19,11 @@ see also
     - base $e$ - correlle la valeur du logarithm (base) a la vitesse( valeur) - définit le logarithme népérien (nommé en hommage a Neper)
 - [Pourquoi 2,718 Est Le Meilleur Nombre?](https://www.youtube.com/watch?v=-T9qge2ckLU) - logarithm hypberbolique, logarithm naturel, logarithm népérien. 
 	- $e$ pour Euler, irrationel et transcendant (n'est racine d'aucu polynome).
+    - $exp(x) = 1 + x + x²/2! + x³/3! + ...$
+		- $exp(1) = e$
+        - $exp(y.x) = exp(y)^x$
+        - $exp(1.x) = exp(1)^x = e^x = exp(x)$
+        - $e = lim( 1+ 1/n)^n$
 
 ### [Logarithmic scale](https://en.wikipedia.org/wiki/Logarithm#Logarithmic_scale)
 
