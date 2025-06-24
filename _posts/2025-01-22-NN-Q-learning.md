@@ -74,6 +74,8 @@ Note that ε-greedy is the simplest to tune, but also the worst performing explo
 
 ## This World is to Big to fit in a table 🚧 
 
+And also the more granular, the more amount of time it will take to learn the best move from it...
+
 Discretizing most world this way would require a huge table.
 Rather than uzing an explicit table, we will use a neural network to learn and approximate that Q-Function without storing it in a table:
 - the input layer will match the tuple identifying our cell
