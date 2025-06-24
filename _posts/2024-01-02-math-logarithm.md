@@ -18,7 +18,7 @@ see also
     - histoire des tables de logarithme ([Bouvart et Ratinet](https://fr.wikipedia.org/wiki/Bouvart_et_Ratinet))
     - base $e$ - correlle la valeur du logarithm (base) a la vitesse( valeur) - définit le logarithme népérien (nommé en hommage a Neper)
 - [Pourquoi 2,718 Est Le Meilleur Nombre?](https://www.youtube.com/watch?v=-T9qge2ckLU) - logarithm hypberbolique, logarithm naturel, logarithm népérien. 
-	- $e$ pour Euler, irrationel et transcendant (n'est racine d'aucu polynome).
+	- $e$ pour [Euler](https://www.youtube.com/watch?v=ObnL52whD3A), irrationel et transcendant (n'est racine d'aucu polynome).
     - $exp(x) = 1 + x + x²/2! + x³/3! + ...$
 		- $exp(1) = e$
         - $exp(y.x) = exp(y)^x$
