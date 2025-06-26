@@ -183,11 +183,32 @@ def foo[]):
 ~~~~~~~^
 {% endhighlight %}
                                       
+When tree is build, you can also inspect it
 {% highlight ruby %}
 # python3_parser.treetop
 puts tree    # will iterate on to_s
 p    tree    # will iterate on inspect
 {% endhighlight %}
+
+<pre>
+Parsed successfully!
+SyntaxNode+Program0 offset=0, "def foo():\n":
+  SyntaxNode offset=0, ""
+  SyntaxNode offset=0, "def foo():\n":
+    FuncDef+Funcdef0 offset=0, "def foo():\n" (s1,s2,name,S,s3):
+      SyntaxNode offset=0, "def"
+      SyntaxNode offset=3, " "
+      Name+Name0 offset=4, "foo" (s):
+        SyntaxNode offset=4, "foo"
+        SyntaxNode offset=7, ""
+      SyntaxNode offset=7, "("
+      SyntaxNode offset=8, ""
+      SyntaxNode offset=8, ")"
+      SyntaxNode offset=9, ""
+      SyntaxNode offset=9, ":"
+      SyntaxNode offset=10, ""
+      SyntaxNode offset=10, "\n"
+</pre>
 
 | **Method**      | **Output Style**                  | **Uses Which Method?** | **Adds Newline?** | **Purpose**                              |
 | ----------- | ----------------------------- | ------------------ | ------------- | ------------------------------------ |
