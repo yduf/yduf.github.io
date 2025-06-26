@@ -69,6 +69,8 @@ Contrary to Lex/yacc approach, here the grammar directly integrate the lexer. It
 **Notes**
 - only base expression are considered terminals (like "hello", [Az]*) each one them will lead to a Node being created.
 - fortunately Treetop [now support regexp](https://github.com/cjheath/treetop?tab=readme-ov-file#terminal-symbols) / [2](https://groups.google.com/g/treetop-dev/c/q3FcsQYlfn8) as terminals, so it can helps to reduce number of nodes created. eg: using `"([\t ]*\n)+"r` to replace `([\t ]* "\n")` in a rule (otherwise you got 3 nodes created with the latter: 1 parent \<-\> 2 children.
+- [how to handle spaces?](https://stackoverflow.com/questions/46612712/treetop-parser-how-to-handle-spaces?rq=3) - It's not enough to define the space rule, you have to use it anywhere there might be space
+	- Because this occurs often, I usually use a shorter rule name **S** for mandatory space, and the lowercase version **s** for optional space. - [cliffordheath](https://stackoverflow.com/a/46615369/51386)
 
 ### [The Nodes](https://cjheath.github.io/treetop/semantic_interpretation.html)
 
