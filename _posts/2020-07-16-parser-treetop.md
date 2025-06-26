@@ -24,8 +24,9 @@ toc: true
 
 They are 3 kind of objects to implements:
 - [**the Parser**](#the-parser) itself, by levaring treetop, that where we will have a `parse` method.
-- [**the grammar**](#the-grammar), which will layout how we will parse and build the tree
-- [**the node**](#the-nodes) extension classes, which is optional, but will allows to customize the AST tree to host pertient information regarding what has been parsed.
+- [**the Grammar**](#the-grammar), which will layout how we will parse and build the tree
+- [**the Node**](#the-nodes) extension classes, which is optional, but will allows to customize the AST tree to host pertient information regarding what has been parsed.
+- [**the Tree**](#the-tree) - if parsing succeed, this will be your result.
 
 ### The Parser
 
@@ -156,6 +157,11 @@ end
 see also
 - [A quick intro](http://thingsaaronmade.com/blog/a-quick-intro-to-writing-a-parser-using-treetop.html) / [github](https://github.com/aarongough/treetop-sexp-parser)
 - my [sql grammar POC](https://github.com/yduf/sql-treetop) - for demos of principle above
+
+                                      
+### The Tree
+
+TBD
 
 ### Debuging
 
