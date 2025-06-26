@@ -167,7 +167,22 @@ TBD
 ### Debuging
 
 Enable error messages: Check parser.failure_reason and parser.failure_line if parsing fails.
+You can even implement something like that:
+{% highlight ruby %}
+  parser.failure_reason =~ /^(Expected .+) after/m
+  puts "ERROR: #{$1.gsub("\n", '$NEWLINE')}:"
+  puts input.lines.to_a[ parser.failure_line - 1]
+  puts "#{'~' * ( parser.failure_column - 1)}^"     
+{% endhighlight %}
 
+Which will output, the exact point where grammar diverge from input:
+{% highlight bash %}
+# python3_parser.treetop
+ERROR: Expected "(" at line 1, column 8 (byte 8):
+def foo[]):
+~~~~~~~^
+{% endhighlight %}
+                                      
 {% highlight ruby %}
 # python3_parser.treetop
 puts tree    # will iterate on to_s
