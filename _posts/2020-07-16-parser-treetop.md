@@ -167,7 +167,7 @@ TBD
 ### Debuging
 
 Enable error messages: Check parser.failure_reason and parser.failure_line if parsing fails.
-You can even implement something like that:
+You can even [implement something like that](https://github.com/yduf/sql-treetop/blob/master/sql.rb):
 {% highlight ruby %}
   parser.failure_reason =~ /^(Expected .+) after/m
   puts "ERROR: #{$1.gsub("\n", '$NEWLINE')}:"
