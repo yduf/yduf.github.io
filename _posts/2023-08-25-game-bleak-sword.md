@@ -9,6 +9,7 @@ tags: games dungeon
 
 ### [Helpful Tips and Tricks](https://www.gamezebo.com/walkthroughs/bleak-sword-guide-tips-cheats-and-strategies/)
 - This game is base upon counterattack (parry + attack).
+	-  When an exclamation mark appears over an attack, that’s a good sign that the enemy can’t be parried.
 - You don’t have to attack the enemy you blocked while parrying
 - Use consumables when you need them
 
