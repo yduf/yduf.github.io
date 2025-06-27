@@ -26,6 +26,8 @@ $ xhc-whb04b-6 -u # put you in interactive mode
 ### [Hal configuration](https://www.linuxcnc.org/docs/2.8/html/man/man1/xhc-whb04b-6.1.html#HAL%20CONFIGURATION%20EXAMPLE)
 
 Add the relevant part into hal
+you can use the [example here](# https://www.linuxcnc.org/docs/2.8/html/man/man1/xhc-whb04b-6.1.html#HAL%20CONFIGURATION%20EXAMPLE
+)
 
 - [XHC WHB04B LinuxCNC Setup](https://chatgpt.com/share/68279a3b-9748-800d-9017-746b663315ea)
 
