@@ -28,6 +28,11 @@ $ xhc-whb04b-6 -u # put you in interactive mode
 Add the relevant part into hal
 you can use the [example here](# https://www.linuxcnc.org/docs/2.8/html/man/man1/xhc-whb04b-6.1.html#HAL%20CONFIGURATION%20EXAMPL)
 
+![caption](https://www.nvcnc.net/wp-content/uploads/2021/06/whb04b.jpg)
+
+
+
+### Misc..?
 - [XHC WHB04B LinuxCNC Setup](https://chatgpt.com/share/68279a3b-9748-800d-9017-746b663315ea)
 
 - [linuxcnc](https://linuxcnc.org/docs/2.8/html/man/man1/xhc-whb04b-6.1.html) / [video](https://www.youtube.com/watch?v=2eGAj-_dNoA)
@@ -35,4 +40,4 @@ you can use the [example here](# https://www.linuxcnc.org/docs/2.8/html/man/man1
     - [2022 02 LinuxCNC WHB Pendant](https://www.youtube.com/watch?v=2s3nYbYNvNU) - setup ?
 
 - [xhc-whb04b-6](https://github.com/rubienr/machinekit/blob/feature-xhc-whb04b-6/src/hal/user_comps/xhc-whb04b-6/README.md) - 
-![caption](https://www.nvcnc.net/wp-content/uploads/2021/06/whb04b.jpg)
+
