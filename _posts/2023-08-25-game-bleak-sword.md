@@ -3,9 +3,12 @@ published: true
 title: Bleak Sword
 tags: games dungeon
 ---
-> [Bleak Sword](https://twitter.com/more8bit?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E990314804152815618%7Ctwgr%5E%7Ctwcon%5Es1_) is a dark fantasy action-adventure video game  - [Home](https://www.bleaksword.com/) / [Helpful Tips and Tricks](https://www.youtube.com/watch?v=M8JT1yII4-c)
+> [Bleak Sword](https://twitter.com/more8bit?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E990314804152815618%7Ctwgr%5E%7Ctwcon%5Es1_) is a dark fantasy action-adventure video game  - [Home](https://www.bleaksword.com/)
 
 - Works perfectly with Wine
+
+### [Helpful Tips and Tricks](https://www.youtube.com/watch?v=M8JT1yII4-c)
+- This game is base upon parry (counterattack)
 
 see also
 - [Crawl Launch Trailer](https://www.youtube.com/watch?v=IAqjWpK6IO8&t=2s)
