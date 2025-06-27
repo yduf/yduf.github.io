@@ -7,8 +7,10 @@ tags: games dungeon
 
 - Works perfectly with Wine
 
-### [Helpful Tips and Tricks](https://www.youtube.com/watch?v=M8JT1yII4-c)
-- This game is base upon parry (counterattack)
+### [Helpful Tips and Tricks](https://www.gamezebo.com/walkthroughs/bleak-sword-guide-tips-cheats-and-strategies/)
+- This game is base upon counterattack (parry + attack).
+- You don’t have to attack the enemy you blocked while parrying
+- Use consumables when you need them
 
 see also
 - [Crawl Launch Trailer](https://www.youtube.com/watch?v=IAqjWpK6IO8&t=2s)
