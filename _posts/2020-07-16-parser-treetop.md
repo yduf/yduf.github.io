@@ -26,6 +26,8 @@ They are 3 kind of objects to implements:
 - [**the Parser**](#the-parser) itself, by levaring treetop, that where we will have a `parse` method.
 - [**the Grammar**](#the-grammar), which will layout how we will parse and build the tree
 - [**the Node**](#the-nodes) extension classes, which is optional, but will allows to customize the AST tree to host pertient information regarding what has been parsed.
+
+Output
 - [**the Tree**](#the-tree) - if parsing succeed, this will be your result.
 
 ### The Parser
