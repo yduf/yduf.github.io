@@ -19,7 +19,7 @@ The program xhc-whb04b-6 is bundled with linuxcnc.
 Verify that the device appears with `lsusb`
 
 Then check that it is recognized
-{% highlight cpp %}
+{% highlight bash %}
 $ xhc-whb04b-6 -u # put you in interactive mode
 
 # some output that will be triggered by event on the jog dial
@@ -28,8 +28,15 @@ $ xhc-whb04b-6 -u # put you in interactive mode
 
 ### [Hal configuration](https://www.linuxcnc.org/docs/2.8/html/man/man1/xhc-whb04b-6.1.html#HAL%20CONFIGURATION%20EXAMPLE)
 
-Add the relevant part into hal
+Then Add the relevant part into your .hal files
 you can use the [example here](# https://www.linuxcnc.org/docs/2.8/html/man/man1/xhc-whb04b-6.1.html#HAL%20CONFIGURATION%20EXAMPL)
+
+{% highlight bash %}
+$ xhc-whb04b-6 -u # put you in interactive mode
+
+# some output that will be triggered by event on the jog dial
+# and the LCD should display selection
+{% endhighlight %}
 
 
 
