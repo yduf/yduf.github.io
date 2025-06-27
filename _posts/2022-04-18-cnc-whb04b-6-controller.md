@@ -29,13 +29,27 @@ $ xhc-whb04b-6 -u # put you in interactive mode
 ### [Hal configuration](https://www.linuxcnc.org/docs/2.8/html/man/man1/xhc-whb04b-6.1.html#HAL%20CONFIGURATION%20EXAMPLE)
 
 Then Add the relevant part into your .hal files
-you can use the [example here](# https://www.linuxcnc.org/docs/2.8/html/man/man1/xhc-whb04b-6.1.html#HAL%20CONFIGURATION%20EXAMPL)
+you can use the [example here](https://www.linuxcnc.org/docs/2.8/html/man/man1/xhc-whb04b-6.1.html#HAL%20CONFIGURATION%20EXAMPLE)
 
 {% highlight bash %}
-$ xhc-whb04b-6 -u # put you in interactive mode
+### Hal File xhc_whb04b_6.hal Example
+#
+# ######################################################################
+# load pendant components
+# ######################################################################
 
-# some output that will be triggered by event on the jog dial
-# and the LCD should display selection
+loadusr -W xhc-whb04b-6 -HsfB
+
+# ######################################################################
+# pendant signal configuration
+# ######################################################################
+
+# On/Off signals
+net machine.is-on halui.machine.is-on whb.halui.machine.is-on
+net pdnt.machine.on whb.halui.machine.on halui.machine.on
+net pdnt.machine.off whb.halui.machine.off halui.machine.off
+
+...
 {% endhighlight %}
 
 
