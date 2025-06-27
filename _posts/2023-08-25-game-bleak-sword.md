@@ -7,6 +7,11 @@ tags: games dungeon
 
 - Works perfectly with Wine
 
+see also
+- [Crawl Launch Trailer](https://www.youtube.com/watch?v=IAqjWpK6IO8&t=2s)
+
+[![intro](https://www.touchtapplay.com/wp-content/uploads/2019/12/bleak-sword-cheats-tips-1.jpg?w=830)](https://www.touchtapplay.com/bleak-sword-cheats-tips-tricks-guide-to-mastering-the-combat-system/)
+
 ### [Helpful Tips and Tricks](https://www.gamezebo.com/walkthroughs/bleak-sword-guide-tips-cheats-and-strategies/)
 - This game is base upon counterattack (parry + attack).
 	- You can’t parry all attacks
@@ -14,8 +19,6 @@ tags: games dungeon
 - You don’t have to attack the enemy you blocked while parrying
 - Use consumables when you need them
 
-see also
-- [Crawl Launch Trailer](https://www.youtube.com/watch?v=IAqjWpK6IO8&t=2s)
 
 [![screenshot](https://www.gematsu.com/wp-content/uploads/2023/05/Bleak-Sword-DX-Date_05-18-23-1024x576.jpg)](https://www.gematsu.com/2023/05/bleak-sword-dx-launches-june-8)
 
