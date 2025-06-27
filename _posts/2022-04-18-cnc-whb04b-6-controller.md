@@ -5,6 +5,21 @@ tags: cnc remote
 ---
 > 6 Axis USB Mach3 Wireless Handwheel Controller - [Merci Fred!](https://www.nvcnc.net/WHB04B-handwheel.html) / [manual](https://www.manualslib.com/download/3088113/Xhc-Whb04b-6.html) / [linuxcnc](https://www.linuxcnc.org/docs/2.8/html/man/man1/xhc-whb04b-6.1.html)
 
+### LinuxCNC setup
+
+The program xhc-whb04b-6 is bundled with linuxcnc.
+
+Verify that the device appears with `lsusb`
+
+Then check that it is recognized
+{% highlight cpp %}
+$ xhc-whb04b-6 -u # put you in interactive mode
+
+# some output that will be triggered by event on the jog dial
+# and the LCD should display selection
+{% endhighlight %}
+
+
 - [XHC WHB04B LinuxCNC Setup](https://chatgpt.com/share/68279a3b-9748-800d-9017-746b663315ea)
 
 - [linuxcnc](https://linuxcnc.org/docs/2.8/html/man/man1/xhc-whb04b-6.1.html) / [video](https://www.youtube.com/watch?v=2eGAj-_dNoA)
