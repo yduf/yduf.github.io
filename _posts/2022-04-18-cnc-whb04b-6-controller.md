@@ -29,9 +29,12 @@ $ xhc-whb04b-6 -u # put you in interactive mode
 ### [Hal configuration](https://www.linuxcnc.org/docs/2.8/html/man/man1/xhc-whb04b-6.1.html#HAL%20CONFIGURATION%20EXAMPLE)
 
 Then Add the relevant part into your .hal files
-you can use the [example here](https://www.linuxcnc.org/docs/2.8/html/man/man1/xhc-whb04b-6.1.html#HAL%20CONFIGURATION%20EXAMPLE)
 
-{% highlight bash %}
+
+<details>
+    <summary>you can use the [example here](https://www.linuxcnc.org/docs/2.8/html/man/man1/xhc-whb04b-6.1.html#HAL%20CONFIGURATION%20EXAMPLE)</summary>
+
+<pre>
 ### Hal File xhc_whb04b_6.hal Example
 #
 # ######################################################################
@@ -50,7 +53,10 @@ net pdnt.machine.on whb.halui.machine.on halui.machine.on
 net pdnt.machine.off whb.halui.machine.off halui.machine.off
 
 ...
-{% endhighlight %}
+</pre>
+
+</details>
+
 
 
 
