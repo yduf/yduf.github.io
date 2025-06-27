@@ -2,11 +2,14 @@
 published: true
 title: WHB04B-6 CNC controller
 tags: cnc remote
+toc: true
 ---
 > 6 Axis USB Mach3 Wireless Handwheel Controller - [Merci Fred!](https://www.nvcnc.net/WHB04B-handwheel.html) / [manual](https://www.manualslib.com/download/3088113/Xhc-Whb04b-6.html) / [linuxcnc](https://www.linuxcnc.org/docs/2.8/html/man/man1/xhc-whb04b-6.1.html)
 
 see also
 - [github](https://github.com/LinuxCNC/linuxcnc/tree/master/src/hal/user_comps/xhc-whb04b-6#xhc-whb04b-6-pendant-component---developer-information)
+
+![caption](https://www.nvcnc.net/wp-content/uploads/2021/06/whb04b.jpg)
 
 
 ## LinuxCNC setup
@@ -28,7 +31,6 @@ $ xhc-whb04b-6 -u # put you in interactive mode
 Add the relevant part into hal
 you can use the [example here](# https://www.linuxcnc.org/docs/2.8/html/man/man1/xhc-whb04b-6.1.html#HAL%20CONFIGURATION%20EXAMPL)
 
-![caption](https://www.nvcnc.net/wp-content/uploads/2021/06/whb04b.jpg)
 
 
 
