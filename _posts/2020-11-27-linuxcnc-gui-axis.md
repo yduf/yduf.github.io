@@ -1,6 +1,6 @@
 ---
 published: true
-title: Axis (Linuxcnc GUI)
+title: Axis GUI (Linuxcnc)
 tags: cnc
 ---
 > AXIS is a graphical front-end for LinuxCNC which features a live preview and backplot. - [Axis](http://linuxcnc.org/docs/html/gui/axis.html)
