@@ -41,7 +41,11 @@ See also
 **Notes** 
 - There are 2 screw hidden behind the 2 foots close to the screen lead.
 - use a suck
-- disconnect battery to avoid short circuit
+- [disconnect battery](https://youtu.be/XoYK6obhu6E?si=-W2VDG0sGSb5cQzO&t=293) to avoid short circuit
+	- metal latch slide back
+    - afterwhat you slide plastic connect up
+- the fanboard is interleaved with the main board
+	- you have to unscrew mainboard to access the fan
 - [fan](https://www.youtube.com/watch?v=BpS7dxr7q7E) greasing
 
 ## Hardware info
