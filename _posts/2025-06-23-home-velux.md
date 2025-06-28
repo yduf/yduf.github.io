@@ -12,11 +12,11 @@ see also
 
 **Salle de bain**
 Ref: GHL 306  
-dim 78 (largeur) x 118 (Hauteur)  
+dim 78 (largeur) x 118 (Hauteur)  - [prix barthelemy](https://barthelemybois.com/velux/812-11553-ggl-3057-velux-rotation-tout-confort-clearfinish.html#/617-dimension-mk06_78x118cm/681-teinte-3057_clearfinish_bois_verni) - 638€
 
 **Chambre ouest**
 Ref: GHL 606  
-dim 114 (largeur) x 118 (Hauteur)  
+dim 114 (largeur) x 118 (Hauteur)  - [ prix barthelemy](https://barthelemybois.com/velux/812-11555-ggl-3057-velux-rotation-tout-confort-clearfinish.html#/622-dimension-sk06_114x118cm/681-teinte-3057_clearfinish_bois_verni) - 785€
 
 **Chambre est** 
 Ref: GHL 606  
