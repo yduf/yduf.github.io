@@ -5,6 +5,9 @@ tags: cnc
 ---
 > AXIS is a graphical front-end for LinuxCNC which features a live preview and backplot. - [Axis](http://linuxcnc.org/docs/html/gui/axis.html)
 
+[![screenshot](https://linuxcnc.org/docs/html/gui/images/axis.png)](https://linuxcnc.org/docs/html/gui/axis.html#cha:axis-gui)
+
+
 ## [A Typical Session](http://linuxcnc.org/docs/html/gui/axis.html#_a_typical_session)
 1. Start LinuxCNC.
 1. Reset E-STOP (F1) and turn the Machine Power (F2) on.
