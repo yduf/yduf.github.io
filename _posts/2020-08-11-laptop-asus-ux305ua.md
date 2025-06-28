@@ -16,6 +16,7 @@ excerpt_separator: <!--more-->
 
 ## [Spec](https://www.ultrabookreview.com/10058-asus-zenbook-ux305ua-review/)
 - Core i7-6500U (2 cores / 4 threads) 
+- Integrated Intel HD 520
 - 8go
 - 1.3kg
 - Full HD IPS Display
