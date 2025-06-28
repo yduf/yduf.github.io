@@ -47,10 +47,11 @@ See also
 - the fanboard is interleaved with the main board
 	- you have to unscrew mainboard to access the fan
 - [fan](https://www.youtube.com/watch?v=BpS7dxr7q7E) greasing
-- [**screen* disconnect](https://youtu.be/XoYK6obhu6E?si=W5zJm5hdJq3ZmO0r&t=392)
+- [**screen* disconnect**](https://youtu.be/XoYK6obhu6E?si=W5zJm5hdJq3ZmO0r&t=392)
 	- disconnect the battery
     - open the laptop and press power button to discharge power 
     - <span style="color:red">**otherwise** removal of connector can spark and damage it.</span>
+
 ## Hardware info
 
 {% highlight bash %}
