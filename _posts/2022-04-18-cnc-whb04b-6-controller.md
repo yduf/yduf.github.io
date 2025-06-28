@@ -28,7 +28,7 @@ $ xhc-whb04b-6 -u # put you in interactive mode
 
 ### [Hal configuration](https://www.linuxcnc.org/docs/2.8/html/man/man1/xhc-whb04b-6.1.html#HAL%20CONFIGURATION%20EXAMPLE)
 
-Then Add the relevant part into your .hal files
+Then Add the relevant part into your [.hal files](https://chatgpt.com/share/685fa697-df0c-800d-8ddb-54d5df53481b)
 You can use the [example here](https://www.linuxcnc.org/docs/2.8/html/man/man1/xhc-whb04b-6.1.html#HAL%20CONFIGURATION%20EXAMPLE)
 
 <details>
