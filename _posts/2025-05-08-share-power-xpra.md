@@ -173,3 +173,15 @@ echo "[*] Connecting to remote xpra session from client..."
 xpra attach ssh:${SERVER_HOST}${XPRA_DISPLAY}
 
 {% endhighlight %}
+
+## Alternatives
+
+[Sunshine](https://docs.lizardbyte.dev/projects/sunshine/latest/index.html)
+
+| Feature              | **Xpra**                                           | **Sunshine (with Moonlight)**                            |
+| -------------------- | -------------------------------------------------- | -------------------------------------------------------- |
+| **Primary Use Case** | Remote desktop/app streaming on Linux/Unix systems | High-performance game streaming                          |
+| **Latency Focus**    | Moderate latency; good for general desktop use     | Ultra-low latency; designed for gaming                   |
+| **Platform Support** | Linux, Windows, macOS                              | Host: Windows & Linux; Client: Moonlight (all platforms) |
+| **Network Use**      | LAN and WAN (supports compression and encryption)  | Best over LAN; WAN with port forwarding or VPN           |
+
