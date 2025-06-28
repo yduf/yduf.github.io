@@ -1,8 +1,6 @@
 ---
-title: Running Steam on Sunshine
+title: "Running Steam on Sunshine \U0001F6A7"
 published: true
 tags: games in-progress
 ---
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+> [can we do it?](https://chatgpt.com/share/68604089-357c-800d-9dbb-a55e3c624046)
