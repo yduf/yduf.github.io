@@ -13,6 +13,7 @@ tags: c++ compiler
 - [Faster C++ builds](https://www.bitsnbites.eu/faster-c-builds/)
 - [Using Precompiled Headers](https://gcc.gnu.org/onlinedocs/gcc/Precompiled-Headers.html)
 - [2 tips to make your C++ projects compile 3 times faster](https://developers.redhat.com/blog/2019/05/15/2-tips-to-make-your-c-projects-compile-3-times-faster#)
+- [ccache](https://ccache.dev/) - speeds up recompilation by caching previous compilations and detecting when the same compilation is being done again.
 
 see also
 - [Distributed C++ Compiler ](https://news.ycombinator.com/item?id=43008797)
