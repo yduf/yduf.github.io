@@ -8,7 +8,7 @@ tags: games in-progress
 - [ ] - install steam on server
 	- [ ] - [export games files](https://chatgpt.com/share/68604c67-f70c-800d-8d62-624aa1971227) through NFS
 		- because there is not enough disk space on server
-    	- mount over local steam config
+    	- share the same drive for steam library
 - [ ] - start game on server
 - [ ] - connect with sunshine
   
