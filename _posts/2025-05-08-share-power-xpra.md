@@ -60,7 +60,7 @@ $ xpra start :100 --daemon=no
 
 see also
 - [Install Xpra](https://richrose.dev/posts/linux/xpra/xpra-setup/) - suggest to run vscode with xpra to make remote available in a browser
-- [Gaming over Xpra](https://superuser.com/questions/1490121/gaming-over-xpra/1771193#1771193)
+- [Gaming over Xpra](https://superuser.com/questions/1490121/gaming-over-xpra/1771193#1771193) - some people recommend to use sunshine instead
 
 # [Host GPU Acceleration](https://github.com/Xpra-org/xpra/blob/master/docs/Usage/OpenGL.md#gpu-acceleration) 
 
