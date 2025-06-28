@@ -44,7 +44,7 @@ See also
 - [disconnect battery](https://youtu.be/XoYK6obhu6E?si=-W2VDG0sGSb5cQzO&t=293) to avoid short circuit
 	- metal latch slide back
     - afterwhat you slide plastic connect up
-- the fanboard is interleaved with the main board
+- the fanboard is interleaved with the main board and tapped to the rad.
 	- you have to unscrew mainboard to access the fan
 - keyboard / pad (just lift up black part) to unlock ribbon cable
 - [fan](https://www.youtube.com/watch?v=BpS7dxr7q7E) greasing
