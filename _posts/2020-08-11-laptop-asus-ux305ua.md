@@ -36,13 +36,13 @@ Number  Size    File system  Name                          Flags
 See also
 - [Suspend issue]({% post_url 2017-12-23-Asus-suspend%})
 
-## [Tear down](https://www.youtube.com/watch?v=XoYK6obhu6E)
+## [Tear down](https://www.youtube.com/watch?v=vmeI6oikaIQ)
 
 **Notes** 
 - There are 2 screw hidden behind the 2 foots close to the screen lead.
 - use a suck
 - disconnect battery to avoid short circuit
-- [fan](https://www.youtube.com/watch?v=BpS7dxr7q7E)
+- [fan](https://www.youtube.com/watch?v=BpS7dxr7q7E) greasing
 
 ## Hardware info
 
