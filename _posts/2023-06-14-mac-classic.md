@@ -251,8 +251,12 @@ Options are:
 	- [removing back](https://www.insanelymac.com/uploads/monthly_2020_06/IMG_2690.thumb.jpg.a47016e7388456fd653f2e492360c0c3.jpg)
 - reuse power/reset button on the side
 
-[![caption](https://media.printables.com/media/prints/7eaf4f09-711d-416c-a681-b2585681890a/images/9860941_df5de4f7-4310-4656-9398-208220103dd4_f341ec67-73c4-49d1-bc0b-231923d7e553/thumbs/cover/320x240/jpg/img_20250524_131802.webp)](https://www.printables.com/model/1307381-mac-classic-mini-itx)
+**Notes** 
+- current cooling system is not performant enough
+	- cpu/gpu raise to 95°C 
+    - bottom frame is very/too hot.
 
+[![caption](https://media.printables.com/media/prints/7eaf4f09-711d-416c-a681-b2585681890a/images/9860941_df5de4f7-4310-4656-9398-208220103dd4_f341ec67-73c4-49d1-bc0b-231923d7e553/thumbs/cover/320x240/jpg/img_20250524_131802.webp)](https://www.printables.com/model/1307381-mac-classic-mini-itx)
 
 [![caption](https://media.printables.com/media/prints/951b2b70-03b1-40e2-92db-2a66eed59d46/images/9860914_0f534fd3-0288-4ff0-8f10-3ff8a2a95ad1_8c7d49cb-ba03-4608-b8f1-ea1d86fbf437/thumbs/inside/1600x1200/jpg/img_20250525_143446.webp)](https://www.amazon.fr/gp/product/B08GM91HBQ)
 
