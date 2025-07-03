@@ -20,5 +20,6 @@ tags: history
 - [Biens meubles, châtiments corporels : à quoi correspond le Code Noir qui n'a jamais été aboli ?](https://www.france24.com/fr/france/20250607-biens-meubles-ch%C3%A2timents-corporels-%C3%A0-quoi-correspond-le-code-noir-qui-n-a-jamais-%C3%A9t%C3%A9-aboli)
 
 ### see also
+- [Imperial boomerang](https://en.wikipedia.org/wiki/Imperial_boomerang) - the thesis that governments that develop repressive techniques to control colonial territories will eventually deploy those same techniques domestically against their own citizens. 
 - [The British Empire Was Much Worse Than You Realize](https://www.newyorker.com/magazine/2022/04/04/the-british-empire-was-much-worse-than-you-realize-caroline-elkinss-legacy-of-violence) / [HN](https://news.ycombinator.com/item?id=42558142) - The world’s biggest colonial power prided itself on being a liberal democracy. Was this part of the problem?
 - [Le racisme à l'époque, c'était pas un jeu](https://www.youtube.com/watch?v=O9K1uN3qBKI) - un pilote de ligne noir, raconte la frayeur de Mohamed Alis quand il decouvre que c'est lui qui va piloter l'avion. Un echange sur la manipulation et les biais induis (Tarzan & les sauvages).
