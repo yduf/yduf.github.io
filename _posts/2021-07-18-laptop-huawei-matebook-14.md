@@ -44,7 +44,7 @@ You can force switch from one to the other
 
 {% highlight bash %}
 # by having the nvidia driver installed and nvidia-prime cli
-$ 
+$ sudo apt install nvidia-prime
 
 # invoking either  intel or nvidia profile
 $ sudo prime-select nvidia
