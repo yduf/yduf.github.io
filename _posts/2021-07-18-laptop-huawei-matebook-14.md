@@ -3,6 +3,7 @@ published: true
 title: "HUAWEI MateBook 14 (2020) \U0001F4BB"
 tags: pc-hardware gpu laptop
 excerpt_separator: <!--more-->
+toc: true
 ---
 
 <!--more-->
@@ -32,6 +33,10 @@ excerpt_separator: <!--more-->
     - [Disabled STAPM and Increased the Power Limit](https://www.reddit.com/r/Amd/comments/a2vs55/i_successfully_disabled_stapm_and_increased_the/)
 - [enable fingerprint scanner]({% post_url 2024-12-31-fingerprint-libfprint %})
 
+### [GPU intel/nvidia](https://chatgpt.com/share/6867d795-63c8-800d-aad8-96d250000571)
+
+This is a dual GPU laptop.
+Which may cause some issue on its own.
 
 ## Startup options
 - F2 - BIOS access
