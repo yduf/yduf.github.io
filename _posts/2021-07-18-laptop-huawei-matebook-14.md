@@ -36,6 +36,9 @@ toc: true
 ### [GPU intel/nvidia](https://chatgpt.com/share/6867d795-63c8-800d-aad8-96d250000571)
 
 This is a dual GPU laptop.
+- Intel UHD Graphics driver: i915
+- NVIDIA GP107M [GeForce MX350]
+
 Which may cause some issue on its own.
 
 ## Startup options
