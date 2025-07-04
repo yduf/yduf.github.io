@@ -40,6 +40,16 @@ This is a dual GPU laptop.
 - NVIDIA GP107M [GeForce MX350]
 
 Which may cause some issue on its own.
+You can force switch from one to the other
+
+{% highlight bash %}
+# by having the nvidia driver installed and nvidia-prime cli
+$ 
+
+# invoking either  intel or nvidia profile
+$ sudo prime-select nvidia
+$ sudo reboot               # and restart :-( ...
+{% endhighlight %}
 
 ## Startup options
 - F2 - BIOS access
