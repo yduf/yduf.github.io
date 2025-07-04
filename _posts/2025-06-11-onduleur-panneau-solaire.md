@@ -6,12 +6,28 @@ tags: home solar power
 > [forum-photovoltaique.fr](https://forum-photovoltaique.fr/index.php)
 
 - [arnaque photovoltaique](https://forum-photovoltaique.fr/viewtopic.php?t=34117)
+- [poste](https://forum-photovoltaique.fr/viewtopic.php?t=78605)
 
 ### Installation initiale
 [onduleur schneider sunezy 2800](https://www.forumphotovoltaique.com/onduleur-schneider-sunezy/)
 
 - [SunEzy 2800 avec message "défaut EEPROM"](https://forum-photovoltaique.fr/viewtopic.php?p=781652&hilit=kasyk#p781652)
 	- [ElectronLibre28](https://forum-photovoltaique.fr/viewtopic.php?p=603949#p603949)
+
+
+- Puissance: 2.96 kVA, tension courant alternatif < 1000V
+- 16 Modules monocristallins Watt&Hom WH185-M 185Wc conforme norm EN 61215 - 20.4m²
+	- puissance unitaire 185Wc (Watt crête)
+	- tension circuit ouvert 44.50v / tension a puissance max (Vmp): 36.90V
+    - intensité de court-circuit 5.31A / Intensité a puissance max: 5.01A
+	- cellule 165mm diag, rendement 17.7%
+	- rendement de 90% sur 20ans / 80% sur 25ans
+    - 3 diodes by-pass
+
+Installation
+- gaines ICT sous les tuiles
+
+
 
 ### Pourrait-être remplacé par
 
