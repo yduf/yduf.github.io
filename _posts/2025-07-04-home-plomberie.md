@@ -17,4 +17,4 @@ et plus grand
 - 1in
 
 Ex pour [les toilettes](https://youtu.be/3u4PlBIy8NY?si=_5XZtcAbpPx4odEd&t=849)
-- tuyau de 12mm et raccord 1/2
+- tuyau de 12mm et [robinet 3/8](https://www.amazon.fr/dp/B019GTO7WC)
