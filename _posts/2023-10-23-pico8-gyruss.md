@@ -3,7 +3,7 @@ published: true
 title: Gyruss - Project
 tags: pico8 codingame project
 ---
-> Gyruss on pico8 - [a contender is born](https://minionsoft.itch.io/gyruss)
+> [Gyruss](https://en.wikipedia.org/wiki/Gyruss) on pico8 - [a contender is born](https://minionsoft.itch.io/gyruss)
 
 <link rel="shortcut icon" href="https://static.wikia.nocookie.net/pico-8/images/4/4a/Site-favicon.ico/revision/latest?cb=20210713144653" type="image/x-icon" />
 
