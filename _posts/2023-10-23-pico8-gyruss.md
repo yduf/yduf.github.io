@@ -12,6 +12,8 @@ see also
 - [Remake of Space Invaders for PICO-8](https://minionsoft.itch.io/space-invaders)
 - [Remake of Galaxian for PICO-8](https://minionsoft.itch.io/galaxian)
 
+- [ I made a circular arcade shoot 'em up ](https://www.reddit.com/r/pico8/comments/xkfdm1/i_made_a_circular_arcade_shoot_em_up/) - [online](https://elastiskalinjen.itch.io/eye-lie-you-might)
+
 ### Sprite Rotation
 - [sprite rotation](https://www.lexaloffle.com/bbs/?tid=31642)
 	- [Rotating a sprite around its center](https://www.lexaloffle.com/bbs/?tid=3593)
