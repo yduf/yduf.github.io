@@ -8,4 +8,5 @@ tags: RL
 see also
 - [Apprentissage par renforcement #2](https://www.youtube.com/watch?v=a4WUL_KZeZo&list=PLpEPgC7cUJ4YPZlfUu0vQTwPraVKPASUa&index=2) - Exploration et Exploitation
 	- [Value Function](https://www.youtube.com/watch?v=m7RyfYNMlA8&list=PLpEPgC7cUJ4YPZlfUu0vQTwPraVKPASUa&index=3) - backtracking from final state
+    - [ Premier Jeu](https://www.youtube.com/watch?v=OKTjheBEvDY&list=PLpEPgC7cUJ4YPZlfUu0vQTwPraVKPASUa&index=4) - jeux des allumettes - value fonction simple a apprendre 
 - [If you want to try...](https://github.com/pb4git/Nash-DQN-CSB-Article?tab=readme-ov-file#if-you-want-to-try) - from Mastering a Pod Racing AI Competition with Nash-DQN
