@@ -16,5 +16,5 @@ Les Raccords classiques dans une maison
 et plus grand
 - 1in
 
-Ex pour les toilettes
+Ex pour [les toilettes](https://youtu.be/3u4PlBIy8NY?si=_5XZtcAbpPx4odEd&t=849)
 - tuyau de 12mm et raccord 1/2
