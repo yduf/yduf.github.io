@@ -7,6 +7,9 @@ tags: pico8 codingame project
 
 <link rel="shortcut icon" href="https://static.wikia.nocookie.net/pico-8/images/4/4a/Site-favicon.ico/revision/latest?cb=20210713144653" type="image/x-icon" />
 
+see also
+- [Remake of scramble for PICO-8](https://minionsoft.itch.io/scramble)
+
 ### Sprite Rotation
 - [sprite rotation](https://www.lexaloffle.com/bbs/?tid=31642)
 	- [Rotating a sprite around its center](https://www.lexaloffle.com/bbs/?tid=3593)
