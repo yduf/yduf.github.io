@@ -10,6 +10,7 @@ tags: pico8 codingame project
 see also
 - [Remake of scramble for PICO-8](https://minionsoft.itch.io/scramble)
 - [Remake of Space Invaders for PICO-8](https://minionsoft.itch.io/space-invaders)
+- [Remake of Galaxian for PICO-8](https://minionsoft.itch.io/galaxian)
 
 ### Sprite Rotation
 - [sprite rotation](https://www.lexaloffle.com/bbs/?tid=31642)
