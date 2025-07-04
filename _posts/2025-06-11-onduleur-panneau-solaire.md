@@ -6,7 +6,7 @@ tags: home solar power
 > [forum-photovoltaique.fr](https://forum-photovoltaique.fr/index.php)
 
 - [arnaque photovoltaique](https://forum-photovoltaique.fr/viewtopic.php?t=34117)
-- [poste](https://forum-photovoltaique.fr/viewtopic.php?t=78605)
+- [poste onduleur HS](https://forum-photovoltaique.fr/viewtopic.php?t=78605)
 
 ### Installation initiale
 [onduleur schneider sunezy 2800](https://www.forumphotovoltaique.com/onduleur-schneider-sunezy/)
