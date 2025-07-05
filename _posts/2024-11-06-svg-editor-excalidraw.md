@@ -8,6 +8,7 @@ Collaborative and end-to-end encrypted. - [Online](https://excalidraw.com/) / [g
 
 - [VSCode Extension](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor) / [HN](https://news.ycombinator.com/item?id=42046575) - Any file with name ending on `.excalidraw.svg` or `.excalidraw.png` is an Excalidraw-editable image of the respective format. This means you can save it alongside your markdown docs and embed them directly, but also edit the exact same file on the IDE.
 
+- [Presentation](https://www.youtube.com/watch?v=fuqomNK_Ntc)
 - [Quick Intro](https://wahlstrand.dev/posts/2022-04-12-excalidraw-tips-andtricks/)
 - [The Ultimate Excalidraw Tutorial for Beginners](https://csswolf.com/the-ultimate-excalidraw-tutorial-for-beginners/)
 
