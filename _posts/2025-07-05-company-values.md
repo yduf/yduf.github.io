@@ -3,7 +3,7 @@ title: Company Values
 published: true
 tags: company value
 ---
-> [This Is How Companies REALLY Come Up With 'Organisational Values'](https://www.youtube.com/watch?v=f1Xn0EUrQg0)
+> [This Is How Companies REALLY Come Up With 'Organisational Values'](https://www.youtube.com/watch?v=f1Xn0EUrQg0) / [Wankernomics](https://www.youtube.com/@Wankernomics/videos)
 
 ### Establishing your company values
 
