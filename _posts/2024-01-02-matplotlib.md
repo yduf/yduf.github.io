@@ -17,10 +17,10 @@ Using as [meson **wrap-git**]({% post_url 2020-08-12-build-meson %}#subprojects)
 
 <pre>
 your_project/
-├── subprojects/
-│   ├── implot.wrap
-│   └── implot_patch/
-│       └── meson.build
+└── subprojects/
+   └─── implot.wrap
+   └── packagefiles/implot_patch/
+       └── meson.build
 </pre>
 
 add _subprojects/implot.wrap_
@@ -28,10 +28,12 @@ add _subprojects/implot.wrap_
 [wrap-git]
 directory = implot
 url = https://github.com/epezent/implot.git
-revision = HEAD  # Or pin a specific commit
+ 
+# Or pin a specific commit
+revision = master
 depth = 1
 
-patch_directory = patch_implot
+patch_directory = implot_patch
 {% endhighlight %}
 
 add _subprojects/implot_patch/meson.build_
