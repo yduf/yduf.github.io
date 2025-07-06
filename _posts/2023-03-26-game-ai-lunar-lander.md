@@ -5,6 +5,8 @@ tags: codingame AI GA in-progress
 ---
 > a lunar lander style web game - [HN](https://news.ycombinator.com/item?id=35032506) / [autopilot](https://news.ycombinator.com/item?id=35090054)
 
+<link rel="shortcut icon" href="https://pic.onlinewebfonts.com/thumbnails/icons_537547.svg" type="image/svg+xml" />
+
 [![caption](https://technologizer.com/wp-content/uploads/2009/07/lunarlander-splash.png)](https://technologizer.com/2009/07/19/lunar-lander/index.html)
 
 ### [Mars Lander (codingame)](https://www.codingame.com/ide/puzzle/mars-lander-episode-1)
