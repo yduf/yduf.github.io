@@ -15,6 +15,14 @@ tags: math imgui lib python visualizer
 
 Using as [meson **wrap-git**]({% post_url 2020-08-12-build-meson %}#subprojects) with [GLFW + ImGui (+ SKIA)]({% post_url 2024-10-05-glfw %})
 
+<pre>
+your_project/
+├── subprojects/
+│   ├── implot.wrap
+│   └── patch_implot/
+│       └── meson.build
+</pre>
+
 add _subprojects/implot.wrap_
 {% highlight ini %}
 [wrap-git]
@@ -22,16 +30,29 @@ directory = implot
 url = https://github.com/epezent/implot.git
 revision = master  # Or pin a specific commit
 depth = 1
+
+patch_directory = patch_implot
 {% endhighlight %}
 
-{% highlight ini %}
-[wrap-git]
-directory = implot
-url = https://github.com/epezent/implot.git
-revision = master  # Or pin a specific commit
-depth = 1
-{% endhighlight %}
+add _subprojects/implot_patch/meson.build_
+{% highlight meson %}
+implot_sources = files(
+  'implot.cpp',
+  'implot_items.cpp',
+)
 
+implot_lib = static_library(
+  'implot',
+  implot_sources,
+  include_directories: include_directories('.'),
+  dependencies: [dependency('imgui', fallback: ['imgui', 'imgui_dep'])],
+)
+
+implot_dep = declare_dependency(
+  link_with: implot_lib,
+  include_directories: include_directories('.'),
+)
+{% endhighlight %}
 
 update _meson.build_
 {% highlight ini %}
