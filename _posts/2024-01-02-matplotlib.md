@@ -84,6 +84,12 @@ executable('my_app',
 )
 {% endhighlight %}
 
+[And into your imgui code](https://github.com/epezent/implot?tab=readme-ov-file#integration)
+{% highlight cpp %}
+ImGui::CreateContext();
+ImPlot::CreateContext();   // Create and destroy an ImPlotContext wherever you do so for your ImGuiContext
+{% endhighlight %}
+
 [![demo](https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/example.PNG)](https://github.com/epezent/implot?tab=readme-ov-file#usage)
 
 ### [implot3d](https://github.com/brenocq/implot3d?tab=readme-ov-file#implot3d) / [HN](https://news.ycombinator.com/item?id=42448913) - easy-to-use, high-performance 3D plotting functionality. 
