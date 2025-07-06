@@ -14,6 +14,9 @@ toc: true
 ### [ImPlot](https://github.com/epezent/implot?tab=readme-ov-file#implot)
 > A 2D immediate mode, GPU accelerated plotting library. - [online demo](https://traineq.org/implot_demo/src/implot_demo.html)
 
+see also
+- [ImPlot Demos](https://github.com/epezent/implot_demos?tab=readme-ov-file#demos) - demos here are more sophisticated than those provided in implot_demo.h, and may rely on third-party libraries that would otherwise clutter ImPlot's main repository.
+
 Using as [meson **wrap-git**]({% post_url 2020-08-12-build-meson %}#subprojects) with [GLFW + ImGui (+ SKIA)]({% post_url 2024-10-05-glfw %})
 <details>
     <summary>details</summary>
@@ -99,5 +102,4 @@ To test it, you can add call `ImPlot::ShowDemoWindow()` somewhere in your update
 [![demo](https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/example.PNG)](https://github.com/epezent/implot?tab=readme-ov-file#usage)
 
 ### [ImPlot3D](https://github.com/brenocq/implot3d?tab=readme-ov-file#implot3d) / [HN](https://news.ycombinator.com/item?id=42448913)
-> easy-to-use, high-performance 3D plotting functionality. 
-
+> easy-to-use, high-performance 3D plotting functionality.
