@@ -1,5 +1,5 @@
 ---
-title: Winter Challenge 2024
+title: (CG) Winter Challenge 2024
 published: true
 tags: codingame
 ---
