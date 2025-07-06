@@ -17,10 +17,11 @@ Using as [meson **wrap-git**]({% post_url 2020-08-12-build-meson %}#subprojects)
 
 <pre>
 your_project/
-└── subprojects/
-   └─── implot.wrap
-   └── packagefiles/implot_patch/
-       └── meson.build
+├── subprojects/
+│   ├── implot.wrap
+│   └── packagefiles/
+│       └── implot/               <-- must match directory = implot
+│           └── meson.build       <-- must be here
 </pre>
 
 add _subprojects/implot.wrap_
@@ -36,8 +37,11 @@ depth = 1
 patch_directory = implot_patch
 {% endhighlight %}
 
-add _subprojects/implot_patch/meson.build_
+add _subprojects/packagefiles/implot/meson.build_
 {% highlight meson %}
+# https://github.com/epezent/implot?tab=readme-ov-file#integration
+project('implot', 'cpp')
+
 implot_sources = files(
   'implot.cpp',
   'implot_items.cpp',
@@ -54,11 +58,18 @@ implot_dep = declare_dependency(
   link_with: implot_lib,
   include_directories: include_directories('.'),
 )
+
+meson.override_dependency('implot', implot_dep)
 {% endhighlight %}
 
 update your project _meson.build_
 {% highlight meson %}
 implot_dep = dependency('implot', fallback: ['implot', 'implot_dep'])
+
+**Notes**
+- Meson **merge together git clone+patch once** when issuing `$ meson setup build .`
+- afterwhat modifying subprojects/packagefiles/implot/meson.build won't be taken into account
+- you need to delete `subprojects/implot` and do the setup again to make it happen.
 
 # Example executable
 executable('my_app',
