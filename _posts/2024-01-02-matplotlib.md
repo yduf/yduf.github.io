@@ -14,6 +14,14 @@ tags: math imgui lib python visualizer
 
 Using as **wrap-git** with [GLFW + ImGui (+ SKIA)]({% post_url 2024-10-05-glfw %})
 
+add _subprojects/implot.wrap_
+{% highlight cpp %}
+[wrap-git]
+directory = implot
+url = https://github.com/epezent/implot.git
+revision = master  # Or pin a specific commit
+depth = 1
+{% endhighlight %}
 
 
 [![demo](https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/example.PNG)](https://github.com/epezent/implot?tab=readme-ov-file#usage)
