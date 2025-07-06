@@ -176,7 +176,7 @@ $ ninja test     (3)
 > Due to our frequent release cycle and development speed, distro packaged software may quickly become outdated.
 
 ### [Downloading Meson](https://mesonbuild.com/Getting-meson.html#downloading-meson)
-Meson releases can be downloaded from the [GitHub release page](), and you can run ./meson.py from inside a release or the git repository itself without doing anything special.
+Meson releases can be downloaded from the [GitHub release page](https://github.com/mesonbuild/meson/releases), and you can run ./meson.py from inside a release or the git repository itself without doing anything special.
 
 ### ??
 
