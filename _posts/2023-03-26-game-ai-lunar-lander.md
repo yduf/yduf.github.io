@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Lunar/Mars Lander \U0001F6A7 "
+title: "Lunar/Mars Lander \U0001F318 \U0001F6A7 "
 tags: codingame AI GA in-progress
 ---
 > a lunar lander style web game - [HN](https://news.ycombinator.com/item?id=35032506) / [autopilot](https://news.ycombinator.com/item?id=35090054)
@@ -24,4 +24,3 @@ tags: codingame AI GA in-progress
 ### see also
 - [Forty Years of Lunar Lander](https://technologizer.com/2009/07/19/lunar-lander/index.html)
 	- [I found a 55 year old bug in the first Lunar Lander game ](https://news.ycombinator.com/item?id=40680218)
-
