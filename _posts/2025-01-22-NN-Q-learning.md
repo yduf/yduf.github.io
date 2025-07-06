@@ -1,7 +1,7 @@
 ---
 title: "Q-Learning \U0001F6A7 "
 published: true
-tags: NN AI in-progress search algorithm
+tags: RL NN AI in-progress search algorithm
 use_math: true
 ---
 > The ability to have agents automatically learn complex policies, solely through environmental rewards - [A Step-by-Step Beginner‘s Guide](https://thelinuxcode.com/demystifying-q-learning-a-step-by-step-beginners-guide/) / [HN](https://news.ycombinator.com/item?id=20685049)
