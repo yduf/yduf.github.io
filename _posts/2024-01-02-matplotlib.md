@@ -14,8 +14,11 @@ toc: true
 ### [ImPlot](https://github.com/epezent/implot?tab=readme-ov-file#implot)
 > A 2D immediate mode, GPU accelerated plotting library.
 
+<details>
+    <summary>
 Using as [meson **wrap-git**]({% post_url 2020-08-12-build-meson %}#subprojects) with [GLFW + ImGui (+ SKIA)]({% post_url 2024-10-05-glfw %})
-
+</summary>
+  
 <pre>
 your_project/
 ├── subprojects/
@@ -92,7 +95,7 @@ ImPlot::CreateContext();   // Create and destroy an ImPlotContext wherever you d
 {% endhighlight %}
 
 To test it, you can add call `ImPlot::ShowDemoWindow()` somewhere in your update loop.
-
+</details>
 
 [![demo](https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/example.PNG)](https://github.com/epezent/implot?tab=readme-ov-file#usage)
 
