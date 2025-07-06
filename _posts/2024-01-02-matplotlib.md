@@ -45,6 +45,8 @@ project('implot', 'cpp')
 implot_sources = files(
   'implot.cpp',
   'implot_items.cpp',
+  'implot_demo.cpp',  # optional
+)
 )
 
 implot_lib = static_library(
