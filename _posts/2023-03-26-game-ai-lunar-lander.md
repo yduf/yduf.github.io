@@ -11,7 +11,7 @@ tags: codingame AI GA in-progress
 
 [![caption](https://technologizer.com/wp-content/uploads/2009/07/lunarlander-splash.png)](https://technologizer.com/2009/07/19/lunar-lander/index.html)
 
-### [Mars Lander (codingame)](https://www.codingame.com/ide/puzzle/mars-lander-episode-1)
+### [Mars Lander (Codingame)](https://www.codingame.com/ide/puzzle/mars-lander-episode-1)
 
 - [Fuel optimisation](https://www.codingame.com/multiplayer/optimization/mars-lander)
 - [A Dedicated Landing with a Genetic Algorithm](https://www.codingame.com/blog/genetic-algorithm-mars-lander/)
