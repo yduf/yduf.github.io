@@ -14,10 +14,9 @@ toc: true
 ### [ImPlot](https://github.com/epezent/implot?tab=readme-ov-file#implot)
 > A 2D immediate mode, GPU accelerated plotting library.
 
-<details>
-    <summary>
 Using as [meson **wrap-git**]({% post_url 2020-08-12-build-meson %}#subprojects) with [GLFW + ImGui (+ SKIA)]({% post_url 2024-10-05-glfw %})
-</summary>
+<details>
+    <summary>details</summary>
   
 <pre>
 your_project/
