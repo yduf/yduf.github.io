@@ -10,6 +10,7 @@ tags: math imgui lib python visualizer
 
 ### ImGui / C++
 
+- [ImPlot](https://github.com/epezent/implot?tab=readme-ov-file#implot) - a 2D immediate mode, GPU accelerated plotting library
+
 - [implot3d](https://github.com/brenocq/implot3d?tab=readme-ov-file#implot3d) / [HN](https://news.ycombinator.com/item?id=42448913) - easy-to-use, high-performance 3D plotting functionality. 
 
-- [ImPlot](https://github.com/epezent/implot?tab=readme-ov-file#implot)
