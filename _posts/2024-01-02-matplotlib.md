@@ -8,14 +8,15 @@ tags: math imgui lib python visualizer
 ### Ruby
 - [Matplotlib](https://github.com/mrkn/matplotlib.rb#matplotlib) - enables to directly call matplotlib from Ruby language. This is built on top of pycall.
 
-### ImGui / C++
+## ImGui / C++
 
-- [ImPlot](https://github.com/epezent/implot?tab=readme-ov-file#implot) - a 2D immediate mode, GPU accelerated plotting library
+### [ImPlot](https://github.com/epezent/implot?tab=readme-ov-file#implot)
+> A 2D immediate mode, GPU accelerated plotting library.
 
-Using as **wrap-git** with [GLFW + ImGui (+ SKIA)]({% post_url 2024-10-05-glfw %})
+Using as [meson **wrap-git**]({% post_url 2020-08-12-build-meson %}#subprojects) with [GLFW + ImGui (+ SKIA)]({% post_url 2024-10-05-glfw %})
 
 add _subprojects/implot.wrap_
-{% highlight cpp %}
+{% highlight ini %}
 [wrap-git]
 directory = implot
 url = https://github.com/epezent/implot.git
@@ -23,6 +24,23 @@ revision = master  # Or pin a specific commit
 depth = 1
 {% endhighlight %}
 
+{% highlight ini %}
+[wrap-git]
+directory = implot
+url = https://github.com/epezent/implot.git
+revision = master  # Or pin a specific commit
+depth = 1
+{% endhighlight %}
+
+
+update _meson.build_
+{% highlight ini %}
+[wrap-git]
+directory = implot
+url = https://github.com/epezent/implot.git
+revision = master  # Or pin a specific commit
+depth = 1
+{% endhighlight %}
 
 [![demo](https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/example.PNG)](https://github.com/epezent/implot?tab=readme-ov-file#usage)
 
