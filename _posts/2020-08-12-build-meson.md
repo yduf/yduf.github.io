@@ -175,6 +175,11 @@ $ ninja test     (3)
 
 > Due to our frequent release cycle and development speed, distro packaged software may quickly become outdated.
 
+### [Downloading Meson](https://mesonbuild.com/Getting-meson.html#downloading-meson)
+Meson releases can be downloaded from the [GitHub release page](), and you can run ./meson.py from inside a release or the git repository itself without doing anything special.
+
+
+
 - [ModuleNotFoundError: No module named 'mesonbuild](https://github.com/mesonbuild/meson/issues/7258)
 
 To install with `sudo ninja install` you need to have meson & ninja available for _root_ user.
