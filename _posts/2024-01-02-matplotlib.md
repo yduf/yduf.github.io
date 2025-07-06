@@ -1,6 +1,6 @@
 ---
 published: true
-title: Matplot
+title: Matplot / ImPlot
 tags: math imgui lib python visualizer meson
 ---
 > Various lib for plotting from c++, ruby or python - [Matplotlib](https://matplotlib.org/) / [github](https://github.com/matplotlib/matplotlib) / [wikipedia](https://en.wikipedia.org/wiki/Matplotlib)
@@ -89,6 +89,9 @@ executable('my_app',
 ImGui::CreateContext();
 ImPlot::CreateContext();   // Create and destroy an ImPlotContext wherever you do so for your ImGuiContext
 {% endhighlight %}
+
+To test it, you can add call `ImPlot::ShowDemoWindow()` somewhere in your update loop.
+
 
 [![demo](https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/example.PNG)](https://github.com/epezent/implot?tab=readme-ov-file#usage)
 
