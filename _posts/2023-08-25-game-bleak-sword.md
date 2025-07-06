@@ -9,7 +9,8 @@ tags: games dungeon broken
 	- was working perfectly with system 8.0.2
     - but now graphic are messed up (no gl texture?)
     	- does not seems to be a driver issue => work the same with intel or nvidia
-        - maybe a DXVK issue
+        - maybe a DXVK issue, since last kernel / update
+        - happened in a strange way / don't know what was change on the system
 
 see also
 - [Crawl Launch Trailer](https://www.youtube.com/watch?v=IAqjWpK6IO8&t=2s)
