@@ -70,6 +70,7 @@ implot_dep = dependency('implot', fallback: ['implot', 'implot_dep'])
 - Meson **merge together git clone+patch once** when issuing `$ meson setup build .`
 - afterwhat modifying subprojects/packagefiles/implot/meson.build won't be taken into account
 - you need to delete `subprojects/implot` and do the setup again to make it happen.
+- or run (?) `meson subprojects update`
 
 # Example executable
 executable('my_app',
