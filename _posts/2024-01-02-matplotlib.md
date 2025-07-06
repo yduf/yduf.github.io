@@ -1,6 +1,6 @@
 ---
 published: true
-title: Matplot / ImPlot
+title: "Matplot / ImPlot \U0001F4C8 "
 tags: math imgui lib python visualizer meson
 toc: true
 ---
