@@ -64,9 +64,6 @@ implot_dep = declare_dependency(
 meson.override_dependency('implot', implot_dep)
 {% endhighlight %}
 
-update your project _meson.build_
-{% highlight meson %}
-implot_dep = dependency('implot', fallback: ['implot', 'implot_dep'])
 
 **Notes**
 - Meson **merge together git clone+patch once** when issuing `$ meson setup build .`
@@ -74,9 +71,15 @@ implot_dep = dependency('implot', fallback: ['implot', 'implot_dep'])
 - you need to delete `subprojects/implot` and do the setup again to make it happen.
 - or run (?) [`meson subprojects update`](https://mensinda.github.io/meson/Subprojects.html#update-subprojects)
 
+update your project _meson.build_
+{% highlight meson %}
+implot_dep = dependency('implot', fallback: ['implot', 'implot_dep'])
+implot_sources = subproject('implot').get_variable('implot_sources')
+
 # Example executable
 executable('my_app',
   sources,
+  implot_sources,  # 👈 add implot sources to your build
   dependencies: [implot_dep],
 )
 {% endhighlight %}
