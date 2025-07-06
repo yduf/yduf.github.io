@@ -19,7 +19,7 @@ Using as [meson **wrap-git**]({% post_url 2020-08-12-build-meson %}#subprojects)
 your_project/
 ├── subprojects/
 │   ├── implot.wrap
-│   └── patch_implot/
+│   └── implot_patch/
 │       └── meson.build
 </pre>
 
