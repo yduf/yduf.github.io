@@ -54,13 +54,15 @@ implot_dep = declare_dependency(
 )
 {% endhighlight %}
 
-update _meson.build_
-{% highlight ini %}
-[wrap-git]
-directory = implot
-url = https://github.com/epezent/implot.git
-revision = master  # Or pin a specific commit
-depth = 1
+update your project _meson.build_
+{% highlight meson %}
+implot_dep = dependency('implot', fallback: ['implot', 'implot_dep'])
+
+# Example executable
+executable('my_app',
+  sources,
+  dependencies: [implot_dep],
+)
 {% endhighlight %}
 
 [![demo](https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/example.PNG)](https://github.com/epezent/implot?tab=readme-ov-file#usage)
