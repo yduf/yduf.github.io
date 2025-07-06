@@ -5,6 +5,8 @@ tags: picotron pico8 retro 8bit platform codingame blog-code
 ---
 > The virtual workstation - [v0.2.0c](https://www.lexaloffle.com/picotron.php) / [r/picotron](https://www.reddit.com/r/picotron/)
 
+[![screenshot](https://www.lexaloffle.com/dl/wip/picotron_desktop2.png)](https://www.lexaloffle.com/picotron.php)
+
 - [User Manual](https://www.lexaloffle.com/dl/docs/picotron_manual.html#Picotron_User_Manual)
 
 
