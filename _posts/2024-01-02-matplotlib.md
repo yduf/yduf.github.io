@@ -12,7 +12,7 @@ toc: true
 ## ImGui / C++
 
 ### [ImPlot](https://github.com/epezent/implot?tab=readme-ov-file#implot)
-> A 2D immediate mode, GPU accelerated plotting library.
+> A 2D immediate mode, GPU accelerated plotting library. - [online demo](https://traineq.org/implot_demo/src/implot_demo.html)
 
 Using as [meson **wrap-git**]({% post_url 2020-08-12-build-meson %}#subprojects) with [GLFW + ImGui (+ SKIA)]({% post_url 2024-10-05-glfw %})
 <details>
