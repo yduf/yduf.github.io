@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Lunar/Mars Lander \U0001F318 \U0001F6A7 "
+title: "(CG) Lunar/Mars Lander \U0001F318 \U0001F6A7 "
 tags: codingame AI GA in-progress
 ---
 > a lunar lander style web game - [HN](https://news.ycombinator.com/item?id=35032506) / [autopilot](https://news.ycombinator.com/item?id=35090054)
