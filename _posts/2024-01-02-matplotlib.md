@@ -12,7 +12,8 @@ tags: math imgui lib python visualizer
 
 - [ImPlot](https://github.com/epezent/implot?tab=readme-ov-file#implot) - a 2D immediate mode, GPU accelerated plotting library
 
-Using as **wrap-git** with [GLFW + ImGui (+ SKIA)]({% post_url 2024-10-05-glfw %}
+Using as **wrap-git** with [GLFW + ImGui (+ SKIA)]({% post_url 2024-10-05-glfw %})
+
 
 
 [![demo](https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/example.PNG)](https://github.com/epezent/implot?tab=readme-ov-file#usage)
