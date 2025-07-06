@@ -2,6 +2,7 @@
 published: true
 title: Matplot / ImPlot
 tags: math imgui lib python visualizer meson
+toc: true
 ---
 > Various lib for plotting from c++, ruby or python - [Matplotlib](https://matplotlib.org/) / [github](https://github.com/matplotlib/matplotlib) / [wikipedia](https://en.wikipedia.org/wiki/Matplotlib)
 
