@@ -97,6 +97,7 @@ revision = v2021.06.14.00
 {% highlight bash %}
 /subprojects/*
 !/subprojects/*.wrap
+!/subprojects/packagefiles/
 {% endhighlight %}
 
 ## Using [pkg-config](https://stackoverflow.com/a/68932575/51386)
