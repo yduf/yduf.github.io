@@ -67,7 +67,11 @@ cmake = import('cmake')
 libfolly = cmake.subproject('libfolly')
 {% endhighlight %}
 
-[Wrap file](https://mesonbuild.com/Wrap-dependency-system-manual.html) tells Meson how to download it for you. If you then use this subproject in your build, Meson will automatically download and extract it during build. This makes subproject embedding extremely easy.
+### [Wrap file](https://mesonbuild.com/Wrap-dependency-system-manual.html) 
+
+Wrap file tells Meson how to download it for you. If you then use this subproject in your build, Meson will automatically download and extract it during build. This makes subproject embedding extremely easy.
+
+They provide a very powerfull mechanism, that also allows to patch non-meson project to make them meson compatible, for eg see [Implot integration]({% post_url 2024-01-02-matplotlib %}#implot).
 
 **see [Wrap DB](https://wrapdb.mesonbuild.com/)/[2](https://github.com/mesonbuild/wrapdb/tree/master)**, to automatically get them for known libs.
 For eg:
