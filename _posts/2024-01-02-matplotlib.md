@@ -28,7 +28,7 @@ add _subprojects/implot.wrap_
 [wrap-git]
 directory = implot
 url = https://github.com/epezent/implot.git
-revision = master  # Or pin a specific commit
+revision = HEAD  # Or pin a specific commit
 depth = 1
 
 patch_directory = patch_implot
