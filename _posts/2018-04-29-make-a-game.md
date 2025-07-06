@@ -10,7 +10,8 @@ tags: codingame sfml
 ### Tetris (SFML - c++)
 [![caption](https://img.youtube.com/vi/zH_omFPqMO4/0.jpg)](https://www.youtube.com/watch?v=zH_omFPqMO4)
 
-## [GLFW](http://www.glfw.org/docs/latest/)
+## [GLFW]({% post_url 2024-10-05-glfw %})
+
 GLFW is a free, Open Source, multi-platform library for OpenGL, OpenGL ES and Vulkan application development. It provides a simple, platform-independent API for creating windows, contexts and surfaces, reading input, handling events, etc.
 
 ## Sprites
