@@ -53,7 +53,7 @@ Note: this is the inside of a SE:
 	- sun is more evenly distributed (5h/1 day).
     - fluerescent light work well (24h).
 
-### [Reusing CRT Video](https://chatgpt.com/share/67fb7b5d-7c2c-800d-adf6-a2f57d0aced3)
+### [Reusing CRT Video](https://chatgpt.com/share/67fb7b5d-7c2c-800d-adf6-a2f57d0aced3) 🖵
 - [Generate a VGA signal for inboard CRT](https://www.hackster.io/news/revive-your-old-macintosh-classic-with-a-raspberry-pi-0e679f8bd168) from a raspberry pi GPIO, see  [instructables](https://www.instructables.com/Turn-a-Broken-Mac-Classic-Into-a-Modern-day-Raspbe/)
 	- full article [here](https://nerdhut.de/2020/03/17/raspberry-pi-dpi-control-crt/)
 
