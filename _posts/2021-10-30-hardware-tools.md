@@ -15,7 +15,7 @@ toc: true
 see also
 - [	The Periodic Table of Tools](https://periodictableoftools.com/index.html) / [HN](https://news.ycombinator.com/item?id=38421044)
 
-### [GCM 10 GDJ](https://www.amazon.fr/gp/product/B08GKYN2LM/ref=ox_sc_saved_title_2?smid=A1X6FK5RDHNB96&psc=1) - Scie à Onglets Radiale
+### Scie à Onglets Radiale - [GCM 10 GDJ](https://www.amazon.fr/gp/product/B08GKYN2LM/ref=ox_sc_saved_title_2?smid=A1X6FK5RDHNB96&psc=1) -
 
 (1 800 W, Ø de lame 254 mm) - 635€ promo
 
