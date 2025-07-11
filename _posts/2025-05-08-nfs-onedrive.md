@@ -16,6 +16,9 @@ On the server side, Seafile stores the files in the libraries in an internal for
 
 [![arch](https://manual.seafile.com/latest/images/seafile-12.0-docker-structure.png)](https://manual.seafile.com/latest/setup/overview/)
 
+Alternative
+- [OneDrive clients for Linux](https://linuxbsdos.com/2025/03/22/3-onedrive-clients-for-linux/)
+
 ## NFS onedrive - Failed
 From raffinement with [ChatGPT](https://chatgpt.com/share/681d9567-4e7c-800d-94c4-1915dfa6082c) there is no equivalent solution:
 - some don't support NFS
