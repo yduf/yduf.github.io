@@ -1,6 +1,6 @@
 ---
 published: true
-title: Linux Switch
+title: Switching to linux
 tags: linux
 ---
 > I have long since given up trying to convince people to switch to Linux as their Desktop OS...  
