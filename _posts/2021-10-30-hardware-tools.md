@@ -2,6 +2,7 @@
 published: true
 title: Hardware / Work Tools
 tags: lab hardware-tools shop
+toc: true
 ---
 > The 4.5" angle grinder is like an agressive little dog that's just waiting for a chance to bite you.  
 > The table saw is like an old pitbull that generally sleeps.  
