@@ -12,6 +12,8 @@ tags: nfs nas in-progress
 
 ### [Deploy Seafile with Podman](https://www.gallus-domesticus.com/blog/seafile-podman-rhel/)
 
+On the server side, Seafile stores the files in the libraries in an internal format. Seafile has its own representation of directories and files (similar to Git)
+
 [![arch](https://manual.seafile.com/latest/images/seafile-12.0-docker-structure.png)](https://manual.seafile.com/latest/setup/overview/)
 
 ## NFS onedrive - Failed
