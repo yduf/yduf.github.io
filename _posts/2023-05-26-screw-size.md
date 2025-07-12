@@ -5,6 +5,9 @@ tags: screw shop
 ---
 > Pour répondre à vos attentes convenablement, elle doit mesurer 3 fois l'épaisseur de la pièce à fixer. - [Comment mesurer une vis ?](https://www.lavisserie.fr/content/13-comment-mesurer-une-vis)
 
+see also
+- [washer](https://www.youtube.com/watch?v=F4EvMVpx1Pw)
+
 ### [Measuring Tips](https://www.metricscrews.us/index.php?main_page=page&id=3)
 
 **Diameter** of tapped hole 
