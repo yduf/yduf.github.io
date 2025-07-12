@@ -9,6 +9,7 @@ see also
 - [Que signifie réellement « Créer de petits jeux » ?](https://prose.io/#yduf/yduf.github.io/edit/master/_posts/2018-04-29-make-a-game.md)
 	- simple mechanic
     - reasonabe time investment
+    - make games that interesting to play / interesting to look at.
 - [How writing a computer game got me jobs at Amazon and Google](https://www.youtube.com/watch?v=ZjTB1Q4Fsmk&list=PLZfuUWMTtMcC1DZF6HxJhqsGrBXu8Jzi7&index=12)
 
 
