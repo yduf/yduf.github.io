@@ -4,3 +4,5 @@ published: true
 tags: freecad
 ---
 >  Complete Beginner Tutorial : 3D Parametric Carport - Woodworking - Direct Assembly - [youtube](https://www.youtube.com/watch?v=5DoHT2lqVU4)
+
+sketch can be used direcly with binder.
