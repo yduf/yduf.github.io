@@ -1,6 +1,6 @@
 ---
 published: true
-title: Hardware / Work Tools
+title: "Hardware / Work Tools \U0001F527"
 tags: lab hardware-tools shop
 toc: true
 ---
