@@ -93,7 +93,7 @@ vs [Homemade](https://www.youtube.com/watch?v=a2kIJDhhZrg)
 - [Amazing 2D adjustment Router jig](https://www.youtube.com/watch?v=GXhKcPUyc8c)
 
 see also
-- [ Comment installer une défonceuse Bosch POF 1400 ACE en mode sous table ](https://www.youtube.com/watch?v=AkSFoIiS2lU)
+- [ Comment installer une défonceuse Bosch POF 1400 ACE en mode sous table ](https://www.youtube.com/watch?v=AkSFoIiS2lU) / [2](https://www.youtube.com/watch?v=AoIzba5UG8k)
 
 # Others
 
