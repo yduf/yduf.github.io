@@ -94,7 +94,8 @@ vs [Homemade](https://www.youtube.com/watch?v=a2kIJDhhZrg)
 
 see also
 - [ Comment installer une défonceuse Bosch POF 1400 ACE en mode sous table ](https://www.youtube.com/watch?v=AkSFoIiS2lU) / [2](https://www.youtube.com/watch?v=AoIzba5UG8k)
-
+	- [ La table de FRAISAGE multifonction est faite en 4 heures. ](https://www.youtube.com/watch?v=CrjwJjnD-p0&t=21s)
+    
 # Others
 
 ### [panel saw](https://www.youtube.com/watch?v=sa2I0vUCXsE)
