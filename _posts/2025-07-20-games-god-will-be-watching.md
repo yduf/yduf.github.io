@@ -3,4 +3,4 @@ title: God will be watching
 published: true
 tags: games death
 ---
-> then what would you do?
+> and then what would you do?
