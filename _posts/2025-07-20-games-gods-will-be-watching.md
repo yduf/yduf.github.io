@@ -1,7 +1,7 @@
 ---
 title: Gods Will Be Watching
 published: true
-tags: games death
+tags: games life
 ---
 > and then what would you do? - [gog](https://www.gog.com/en/game/gods_will_be_watching)
 
