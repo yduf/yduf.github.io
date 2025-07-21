@@ -7,6 +7,7 @@ tags: epaper arm-hardware
 
 ### [Boox Go 10.3](https://www.youtube.com/watch?v=M5tgGr4N7Ms)
 
+- [Change These Settings for an Improved Experience](https://www.youtube.com/watch?v=YUxzi2MsKXA&t=1982s)
 
 ### Boox Note Max 13.3
 - [Boox Note Max](https://www.youtube.com/watch?v=pQjM0EMGX4U)
