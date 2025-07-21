@@ -9,6 +9,7 @@ tags: epaper arm-hardware
 
 - [Change These Settings for an Improved Experience](https://www.youtube.com/watch?v=YUxzi2MsKXA&t=1982s)
 	- sound setting / notifications / ne pas deranger
+    - [turn off bluetooth scan](https://www.youtube.com/watch?v=YUxzi2MsKXA&t=490s)
 
 ### Boox Note Max 13.3
 - [Boox Note Max](https://www.youtube.com/watch?v=pQjM0EMGX4U)
