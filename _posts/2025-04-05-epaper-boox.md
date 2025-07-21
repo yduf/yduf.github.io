@@ -12,6 +12,7 @@ tags: epaper arm-hardware
     - [turn off bluetooth scan](https://www.youtube.com/watch?v=YUxzi2MsKXA&t=490s)
     - [Neoreader config](https://www.youtube.com/watch?v=YUxzi2MsKXA&t=624s)
     - [Neoreader text /image](https://www.youtube.com/watch?v=YUxzi2MsKXA&t=1170s)
+    - [Notebook](https://www.youtube.com/watch?v=YUxzi2MsKXA&t=1293s)
 
 ### Boox Note Max 13.3
 - [Boox Note Max](https://www.youtube.com/watch?v=pQjM0EMGX4U)
