@@ -5,7 +5,7 @@ tags: epaper arm-hardware
 ---
 >  [r/Onyx_Boox ](https://www.reddit.com/r/Onyx_Boox/)
 
-## Boox OS
+## Boox OS Tips
 
 - [Change These Settings for an Improved Experience](https://www.youtube.com/watch?v=YUxzi2MsKXA&t=1982s)
 	- sound setting / notifications / ne pas deranger
@@ -15,6 +15,11 @@ tags: epaper arm-hardware
     - [Notebook](https://www.youtube.com/watch?v=YUxzi2MsKXA&t=1293s)
     
 - [Organize Your Control Center for Faster Access & Fewer Distractions](https://www.youtube.com/watch?v=REzDrrVbHmM)
+
+### Ai vs ChatGPT
+
+- [Chat GPT on Boox, Challenges, Solutions, and Improvements](https://www.youtube.com/watch?v=VHqLx_UzM4M)
+
 
 ### [Boox Go 10.3](https://www.youtube.com/watch?v=M5tgGr4N7Ms)
 
