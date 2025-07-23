@@ -19,6 +19,7 @@ tags: epaper arm-hardware
 ### Ai vs ChatGPT
 
 - [Chat GPT on Boox, Challenges, Solutions, and Improvements](https://www.youtube.com/watch?v=VHqLx_UzM4M)
+	- unfreeze app
 
 
 ### [Boox Go 10.3](https://www.youtube.com/watch?v=M5tgGr4N7Ms)
