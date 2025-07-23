@@ -23,7 +23,7 @@ tags: epaper arm-hardware
 
 ### [Transfer Data](https://chatgpt.com/share/6880a1bd-aed8-800d-b290-eabc5c908e63)
 
-- using USB-C cable **Make sure you have a Data cable as some cable do only charge**
+- using USB-C cable **Make sure you have a data-capable cable as some cable do only charge**
 
 ### [Boox Go 10.3](https://www.youtube.com/watch?v=M5tgGr4N7Ms)
 
