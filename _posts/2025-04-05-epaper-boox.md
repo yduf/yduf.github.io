@@ -2,6 +2,7 @@
 title: Boox Note
 published: true
 tags: epaper arm-hardware
+toc: true
 ---
 >  [r/Onyx_Boox ](https://www.reddit.com/r/Onyx_Boox/)
 
