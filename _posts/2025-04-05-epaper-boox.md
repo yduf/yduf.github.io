@@ -25,9 +25,11 @@ tags: epaper arm-hardware
 
 - using USB-C cable **Make sure you have a data-capable cable as some cable do only charge**
 
-### [Boox Go 10.3](https://www.youtube.com/watch?v=M5tgGr4N7Ms)
+## [Boox Go 10.3](https://www.youtube.com/watch?v=M5tgGr4N7Ms)
 
-### Boox Note Max 13.3
+### [Rooting](https://chatgpt.com/share/6880b734-28e0-800d-bc6b-cfa71ccd70ce)
+
+## Boox Note Max 13.3
 - [Boox Note Max](https://www.youtube.com/watch?v=pQjM0EMGX4U)
 - [This third-party folio](https://www.reddit.com/r/Onyx_Boox/comments/1jq1rs2/this_thirdparty_folio_for_note_max_is/#lightbox)
 - [Boox Note Max Images Side by Side with RM2 and NA3C ](https://www.reddit.com/r/Onyx_Boox/comments/1hs1yyl/boox_note_max_images_side_by_side_with_rm2_and/) - compared to RM2
