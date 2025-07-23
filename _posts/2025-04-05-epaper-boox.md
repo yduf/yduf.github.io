@@ -21,6 +21,9 @@ tags: epaper arm-hardware
 - [Chat GPT on Boox, Challenges, Solutions, and Improvements](https://www.youtube.com/watch?v=VHqLx_UzM4M)
 	- unfreeze app
 
+### [Transfer Data](https://chatgpt.com/share/6880a1bd-aed8-800d-b290-eabc5c908e63)
+
+- using USB-C cable **Make sure you have a Data cable as some cable do only charge**
 
 ### [Boox Go 10.3](https://www.youtube.com/watch?v=M5tgGr4N7Ms)
 
