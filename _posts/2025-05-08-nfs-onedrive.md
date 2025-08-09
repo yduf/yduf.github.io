@@ -5,9 +5,16 @@ tags: nfs nas in-progress
 ---
 >  OneDrive-style experience ?
 
+## _Project_ 💭 
+
+- implement something like copy parti
+- and a fuse filesytem to obtain onedrive / syncthing caching experience.
+
 ## [CopyParty](https://news.ycombinator.com/item?id=44711519)
 
 > turn almost any device into a file server with resumable uploads/downloads using any web browser - [github](turn almost any device into a file server with resumable uploads/downloads using any web browser)
+
+Good performance / implemented in python
 
 ## Seafile
 
