@@ -1,7 +1,7 @@
 ---
 title: Google
 published: true
-tags: google
+tags: google android
 ---
 > knows _everything_? about you...
 
