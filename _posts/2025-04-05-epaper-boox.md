@@ -1,7 +1,7 @@
 ---
 title: Boox Note
 published: true
-tags: epaper arm-hardware
+tags: epaper arm-hardware book
 toc: true
 ---
 >  [r/Onyx_Boox ](https://www.reddit.com/r/Onyx_Boox/)
