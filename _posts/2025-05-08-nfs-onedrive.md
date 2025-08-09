@@ -5,9 +5,13 @@ tags: nfs nas in-progress
 ---
 >  OneDrive-style experience ?
 
-## Seafile 🚧
+## [CopyParty](https://news.ycombinator.com/item?id=44711519)
 
-Seafile exchange block with client, but they are not materialize as native filesystem on server side (and are opaque to the OS).
+> turn almost any device into a file server with resumable uploads/downloads using any web browser - [github](turn almost any device into a file server with resumable uploads/downloads using any web browser)
+
+## Seafile
+
+Seafile exchange block with client, **but they are not materialize as native filesystem on server side (and are opaque to the OS)**.
 
 - have a seafile server
 	- pro is free for 3 users and can use a PostgresDB
