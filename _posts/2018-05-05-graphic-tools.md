@@ -14,4 +14,6 @@ toc: true
 ## [Pixel Art]({% post_url 2018-05-05-Pixel-art %})
 - [PixiEditor](https://github.com/PixiEditor/PixiEditor?tab=readme-ov-file#the-only-2d-graphics-editor-youll-ever-need) - Create beautiful sprites for your games, animations, edit images, create logos. All packed up in an intuitive and familiar interface.
 
-[source](http://www.linfo.org/software_artists.html)
+
+## see also
+[Linux Software for Artists](http://www.linfo.org/software_artists.html)
