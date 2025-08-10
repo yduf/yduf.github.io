@@ -17,3 +17,4 @@ toc: true
 
 ## see also
 - [Linux Software for Artists](http://www.linfo.org/software_artists.html)
+- [Pixel Art]({% post_url 2018-05-05-Pixel-art %})
