@@ -1,7 +1,8 @@
 ---
 title: Graphic Tools (linux)
 published: true
-tags: application graphic-app  image paint drawing
+tags: application graphic-app image paint drawing pixelart
+toc: true
 ---
 ## Vector
 - [Inkscape (vector)]({% post_url 2019-11-25-inkscape %})
@@ -11,5 +12,6 @@ tags: application graphic-app  image paint drawing
 - [MyPaint]({% post_url 2020-09-27-mypaint %})
 
 ## [Pixel Art]({% post_url 2018-05-05-Pixel-art %})
+- [PixiEditor](https://github.com/PixiEditor/PixiEditor?tab=readme-ov-file#the-only-2d-graphics-editor-youll-ever-need) - Create beautiful sprites for your games, animations, edit images, create logos. All packed up in an intuitive and familiar interface.
 
 [source](http://www.linfo.org/software_artists.html)
