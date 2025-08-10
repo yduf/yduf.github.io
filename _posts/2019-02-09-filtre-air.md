@@ -5,6 +5,10 @@ tags: 3dprint filter co2
 ---
 > PM2.5 is of interest because it’s a size that your body has a harder time getting rid of. Larger size particles have an easier time being captured by the upper respiratory system. Smaller things might make it into the blood stream and hopefully be filtered by the kidneys. 2.5 microns is right at the point between where either thing is less likely to happen and instead the stuff might get stuck in your lungs. - [HN](https://news.ycombinator.com/item?id=40501015)
 
+- [Long-term exposure to outdoor air pollution linked to increased risk of dementia](https://news.ycombinator.com/item?id=44846164) 
+	- [PM2.5 is not PM2.5](https://www.airgradient.com/blog/pm25-is-not-pm25/) - It only defines the diameter of the particles but can be composed of very different elements. From salt that dissolves in the lungs to toxic metals.
+    	- [Everything fit in the square hole](https://youtu.be/TNa-8tFoUxs?si=7DmPXBKeTgJVXmFd)
+
 - [3D printers are worse than I thought. Time to do something about it!](https://www.youtube.com/watch?v=nofn_MHrxrs) 
 	- PM2.5 level
       - ABS worst (well over EU regulation) 
