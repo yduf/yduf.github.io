@@ -16,4 +16,4 @@ toc: true
 
 
 ## see also
-[Linux Software for Artists](http://www.linfo.org/software_artists.html)
+- [Linux Software for Artists](http://www.linfo.org/software_artists.html)
