@@ -1,7 +1,7 @@
 ---
 title: Graphic Tools (linux)
 published: true
-tags: application graphic-app image paint drawing pixelart
+tags: application graphic-app  vector-graphic image paint drawing pixelart
 toc: true
 ---
 ## Vector
