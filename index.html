@@ -16,7 +16,7 @@ Now, only God knows.</i> - <a href="{% post_url 2018-06-06-Good-luck %}""><i>Goo
     <!-- Here's a hack to generate a "tag cloud" where the size of
     the word is directly proportional to the number of posts with
     that tag. -->
-    <a href="/tags/#{{ tag | slugify }}-ref" }}/" 
+    <a href="/tags/#{{ tag | slugify }}" }}/" 
     style="font-size: {{ site.tags[tag] | size | times: 1.4 | plus: 10 }}px">
         {{ tag }}
     </a>
