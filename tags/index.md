@@ -101,7 +101,7 @@ title: Tags
 <div id="tags">
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-  <div id="{{ this_word | slugify }}-ref"  class="topic-section">
+  <div id="{{ this_word | slugify }}"  class="topic-section">
     <h2>{{ this_word }}</h2>
 <!-- other tags appearing in posts related to this tag -->
       {% assign related_tags = "" %}
@@ -120,7 +120,7 @@ title: Tags
       <p style="font-size: 0.8em;">
       {% for related_tag in related_tag_list %}
         {% if related_tag != "" %}
-          <a href="#{{ related_tag | slugify }}-ref">{{ related_tag }}</a>{% unless forloop.last %},{% endunless %}
+          <a href="#{{ related_tag | slugify }}">{{ related_tag }}</a>{% unless forloop.last %},{% endunless %}
         {% endif %}
       {% endfor %}
       </p>
@@ -152,7 +152,7 @@ title: Tags
     const data = {
       "nodes": [
     {% for tag in tag_words %}
-        { "name": "{{ tag }}", "size": {{ site.tags[tag] | size | times: 1.4 | plus: 10 }}, "id": "{{ tag | slugify }}-ref" },
+        { "name": "{{ tag }}", "size": {{ site.tags[tag] | size | times: 1.4 | plus: 10 }}, "id": "{{ tag | slugify }}" },
     {% endfor %}
       ],
 
@@ -172,7 +172,7 @@ title: Tags
       {% assign related_tag_list = related_tags | split: "," | sort %}
       
 {% for related_tag in related_tag_list %}{% if related_tag != "" %}
-{ "source": "{{ tag | slugify }}-ref", "target": "{{ related_tag | slugify }}-ref" },{% endif %}{% endfor %}{% endfor %}
+{ "source": "{{ tag | slugify }}", "target": "{{ related_tag | slugify }}" },{% endif %}{% endfor %}{% endfor %}
       ]
     };
     
