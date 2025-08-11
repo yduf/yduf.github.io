@@ -10,6 +10,12 @@ tags: nfs nas in-progress dream project
 - implement something like copy parti
 - and a fuse filesytem to obtain onedrive / syncthing caching experience.
 
+### Notes on implementations constraint
+
+- offload mechanism cannot be supported by a filesystem directly (kind of caching)
+- if allowing multiple client to connect:
+	- a merge / conflict strategy [must be handled ](https://chatgpt.com/share/689a068f-680c-800d-93a5-320b2c7d21e7)
+
 ## [CopyParty](https://news.ycombinator.com/item?id=44711519)
 
 > turn almost any device into a file server with resumable uploads/downloads using any web browser - [github](turn almost any device into a file server with resumable uploads/downloads using any web browser)

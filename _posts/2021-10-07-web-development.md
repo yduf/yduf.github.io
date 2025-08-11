@@ -2,13 +2,14 @@
 published: true
 title: Web development
 tags: web html js
+toc: true
 ---
 > Html + CSS + [Javascript]({% post_url 2020-08-14-javascript-lang %}) => Browser - [Complete web Developer (ZTM Udemy)](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
 
 - JQuery - outdated - library used as compatibility layer between browser
 - LAMP stack - somewhat outdated as well - **L**inux **A**pache **M**ySQL **P**HP
 
-## [HTML](https://www.w3schools.com/tags/default.asp)
+# [HTML](https://www.w3schools.com/tags/default.asp)
 
 HTML5 introduce semantic element : need ref
 
@@ -54,7 +55,7 @@ Head tags
 - `<meta>`
 	
 
-### Form
+## Form
 - `<form>` start a form with default method="GET" , data are passed on url send to server (query string), **password are in clear text** => `?firname=joe&lastname=biz&password=123`
 	- `<input type="text" name="tag1" placeholder="enter input">` self closing input text + tag to identify input
 	- `<input type="email" required>` required input + email validation
@@ -73,7 +74,7 @@ Head tags
     - `<input type="submit" value="ok">` submit button
     - `<input type="reset">` reset form
     
-## CSS - **C**ascading **S**tyle **S**heet
+# CSS - **C**ascading **S**tyle **S**heet
 - [Is There Too Much CSS Now? ](https://css-tricks.com/is-there-too-much-css-now/) / [HN](https://news.ycombinator.com/item?id=33507817)
 - [A Complete Guide to Grid ](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
@@ -133,7 +134,7 @@ Can also be specified inline
 </header>
 {% endhighlight %}
 
-### Properties - [CSS Tricks](https://css-tricks.com/almanac)
+## Properties - [CSS Tricks](https://css-tricks.com/almanac)
 - `color: red;`
 - `border : 5px solid purple;`
 - `background-image: url(backgroundimage.jpg)`;
@@ -158,10 +159,18 @@ Image
 
 - `background: linear-gradient( to right, red, yellow);`
 
-### Selectors
+## Selectors
 
 Multiple `class` attribute can be added to html tags. They are referenced by `.class` in CCS file.
 Element can also uniquely identified by `id` (`#id` in css)
+
+### [HTML rules for id](https://chatgpt.com/share/689a11ff-e428-800d-8adf-690ab1d25f71)
+- Must be unique in the page (no two elements can share the same id).
+- Case-sensitive in HTML5 when used in CSS selectors and JavaScript.
+- Cannot be empty.
+- **Should not contain spaces** (spaces are allowed in HTML5, but will break href="#..." behavior and CSS selectors).
+- Officially: must be at least one character and cannot contain any whitespace characters.
+- Any characters are technically allowed in HTML5 except space, but some may cause trouble in CSS selectors or when used in #fragment navigation.
 
 {% highlight html %}
 <p class="webtext active">
@@ -205,7 +214,7 @@ h2 + p { /* all p elements exactly after h2 */
 - `Selector :firstchild` 
 - `Selector :lastchild`
 
-### Box Model
+## Box Model
 - border
 - display
 - padding
@@ -218,7 +227,7 @@ Dimension
 - 3em - 3x the current element size
 - 3rem - 3x the root element size
   
-### [FlexBox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+## [FlexBox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 Mainly one dimenssional Grid
 
 - [flexbox froggy](https://flexboxfroggy.com/) - a game to learn flexbox
@@ -230,7 +239,7 @@ Mainly one dimenssional Grid
 }
 {% endhighlight %}
   
-### CSS Grid
+## CSS Grid
   
 complement Flexbox
 2 Dimensional Grid
@@ -241,7 +250,7 @@ Both should be able to replace Bootstrap container.
   
 Reuse somebody else's CSS + **Javascript** for component
 
-## Note
+# Note
 - _Responsive UI_ - web jargon that tell that the page resize itself properly whatever the size of the display is.
   
 ## see also:
