@@ -29,13 +29,14 @@ HTML5 introduce semantic element : need ref
 - `<body>` - can trigger javascript load while rendering (non blocking display)
 
 
-tag and element are the same
+### tag and element are the same
 
 - `<h1>` .. `<h6>` header
 - `<p>` paragraph
 - `<b>` (bold) and `<i>` (italic) - outdated and remplaced by `<strong>` and `<em>` (emphasize)
 - `<ul>` start a list, can be nested
 	- `<li>` list element
+		- [count list items](https://chatgpt.com/share/689a1b97-217c-800d-9081-58af74f04b2c) - require javascript
     
 - `<a href="url>text</a>"` - anchor tag = link
 
@@ -45,17 +46,17 @@ tag and element are the same
 - `<script type="text/javascript">` inline scripting
 - `<script type="text/javascript" src="url">` external script, to put at the end of the body to avoid delaying display
 
-Self closing tags
+### Self closing tags
 - `<br>` breakdown ("\n")
 - `<img src="url" alt="text for reader" width="11" height="12">`
 - `<!-- comment -->`
 
-Head tags
+### Head tags
 - `<link>`
 - `<meta>`
 	
 
-## Form
+### Form
 - `<form>` start a form with default method="GET" , data are passed on url send to server (query string), **password are in clear text** => `?firname=joe&lastname=biz&password=123`
 	- `<input type="text" name="tag1" placeholder="enter input">` self closing input text + tag to identify input
 	- `<input type="email" required>` required input + email validation

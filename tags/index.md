@@ -117,46 +117,48 @@ title: Tags
       {% assign related_tag_list = related_tags | split: "," | sort_natural %}
 <details>
     <summary style="font-size: 0.8em;">related tags</summary>
-      <p style="font-size: 0.8em;">
-      {% for related_tag in related_tag_list %}
-        {% if related_tag != "" %}
-          <a href="#{{ related_tag | slugify }}">{{ related_tag }}</a>{% unless forloop.last %},{% endunless %}
-        {% endif %}
-      {% endfor %}
+      <p style="font-size: 0.8em;">{% for related_tag in related_tag_list %}{% if related_tag != "" %}
+          <a href="#{{ related_tag | slugify }}">{{ related_tag }}</a>{% unless forloop.last %},{% endunless %}{% endif %}{% endfor %}
       </p>
 </details>
 
 <!-- posts related to main tag -->
-    <ul class="posts">
-      {% assign sortedPosts = site.tags[this_word] | sort_natural: 'title' %}
-      {% for post in sortedPosts %}{% if post.title != null %}
-      <li itemscope>
-          <a href="{{ post.url }}">{{ post.title }}</a>
-            <span class="entry-date">
-                <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
-                  {{ post.date | date: "%B %d, %Y" }}
-                </time>
-            </span> 
-        </li>
-      {% endif %}{% endfor %}
+    <ul class="posts">{% assign sortedPosts = site.tags[this_word] | sort_natural: 'title' %}{% for post in sortedPosts %}{% if post.title != null %}
+      <li itemscope><a href="{{ post.url }}">{{ post.title }}</a><span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></span> </li>{% endif %}{% endfor %}
     </ul>
-  </div>
-  {% endunless %}
-  {% endfor %}
-
+  </div>{% endunless %}{% endfor %}
 </div>
 
 <script>
+/**
+ * Slugifies a string much like Jekyll does:
+ * - Lowercases
+ * - Transliterates accents via Unicode normalization
+ * - Removes non-alphanumeric characters (except hyphens and whitespace)
+ * - Replaces whitespace with hyphens
+ * - Collapses multiple hyphens
+ * - Trims hyphens from the ends
+ */
+function slugify(str) {
+  return str
+    .toString()
+    .toLowerCase()
+    .trim()
+    .replace(/[^a-z0-9\u00C0-\u017F\s-]/g, '-') // allow basic Latin + Latin-1 Supplement diacritics
+                                                // Remove punctuation (allow letters, digits, spaces, hyphens)
+    .replace(/[\s-]+/g, '-')         // Replace spaces and consecutive hyphens with single hyphen
+    .replace(/^-+|-+$/g, '');        // Trim hyphens from start and end
+}
+
     const width = 400, height = 400;
 
-    const data = {
-      "nodes": [
-    {% for tag in tag_words %}
-        { "name": "{{ tag }}", "size": {{ site.tags[tag] | size | times: 1.4 | plus: 10 }}, "id": "{{ tag | slugify }}" },
-    {% endfor %}
-      ],
+    // Select all h2 elements
+    const h2Elements = document.querySelectorAll('h2');
+    const nodes = Array.from(h2Elements).map(h2 => ({ id: slugify(h2.textContent.trim()), size: 40, name: h2.textContent.trim()}));
 
-      "links": [
+// { "name": "{{ tag }}", "size": {{ site.tags[tag] | size | times: 1.4 | plus: 10 }}, "id": "{{ tag | slugify }}" }
+
+    const links = [
        // { "source": "Machine Learning", "target": "Artificial Intelligence" },
     {% for tag in tag_list %}
       {% assign related_tags = "" %}
@@ -173,7 +175,11 @@ title: Tags
       
 {% for related_tag in related_tag_list %}{% if related_tag != "" %}
 { "source": "{{ tag | slugify }}", "target": "{{ related_tag | slugify }}" },{% endif %}{% endfor %}{% endfor %}
-      ]
+      ];
+
+    const data = {
+      "nodes": nodes,
+      "links": links
     };
     
     const graphContainer = document.getElementById("graph-container");
