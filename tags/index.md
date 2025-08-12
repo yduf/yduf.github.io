@@ -154,7 +154,28 @@ function slugify(str) {
 
     // Select all h2 elements
     const h2Elements = document.querySelectorAll('h2');
-    const nodes = Array.from(h2Elements).map(h2 => ({ id: slugify(h2.textContent.trim()), size: 40, name: h2.textContent.trim()}));
+    const nodes = Array.from(h2Elements).map(h2 => {
+  let list = null;
+  let el = h2.nextElementSibling;
+
+  // Walk through siblings until we find a list or another h2
+  while (el && el.tagName !== 'H2') {
+    if (el.tagName === 'UL' || el.tagName === 'OL') {
+      list = el;
+      break;
+    }
+    el = el.nextElementSibling;
+  }
+
+  // Count <li> items if a list is found
+  const itemCount = list ? list.querySelectorAll('li').length : 0;
+
+  return {
+    id: slugify(h2.textContent.trim()),
+    size: itemCount*1.4+10,
+    name: h2.textContent.trim()
+  };
+});
 
 // { "name": "{{ tag }}", "size": {{ site.tags[tag] | size | times: 1.4 | plus: 10 }}, "id": "{{ tag | slugify }}" }
 
