@@ -124,7 +124,7 @@ title: Tags
 
 <!-- posts related to main tag -->
     <ul class="posts">{% assign sortedPosts = site.tags[this_word] | sort_natural: 'title' %}{% for post in sortedPosts %}{% if post.title != null %}
-      <li itemscope><a href="{{ post.url }}">{{ post.title }}</a><span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></span> </li>{% endif %}{% endfor %}
+      <li itemscope><a href="{{ post.url }}">{{ post.title }}</a> <span class="entry-date"><time datetime=" {{ post.date | date_to_xmlschema }}" itemprop="datePublished"> {{ post.date | date: "%B %d, %Y" }}</time></span> </li>{% endif %}{% endfor %}
     </ul>
   </div>{% endunless %}{% endfor %}
 </div>
@@ -150,53 +150,106 @@ function slugify(str) {
     .replace(/^-+|-+$/g, '');        // Trim hyphens from start and end
 }
 
+function appendToMapArray(map, key, value) {
+  if (!map.has(key)) {
+    map.set(key, []);
+  }
+  map.get(key).push(value);
+}
+
+
     const width = 400, height = 400;
 
     // Select all h2 elements
     const h2Elements = document.querySelectorAll('h2');
+
+    let posts_tags = new Map();
+
     const nodes = Array.from(h2Elements).map(h2 => {
-  let list = null;
-  let el = h2.nextElementSibling;
+      let list = null;
+      let el = h2.nextElementSibling;
 
-  // Walk through siblings until we find a list or another h2
-  while (el && el.tagName !== 'H2') {
-    if (el.tagName === 'UL' || el.tagName === 'OL') {
-      list = el;
-      break;
-    }
-    el = el.nextElementSibling;
-  }
+      // Walk through siblings until we find a list or another h2
+      while (el && el.tagName !== 'H2') {
+        if (el.tagName === 'UL' || el.tagName === 'OL') {
+          list = el;
+          break;
+        }
+        el = el.nextElementSibling;
+      }
 
-  // Count <li> items if a list is found
-  const itemCount = list ? list.querySelectorAll('li').length : 0;
+      const tag_name = h2.textContent.trim();
+      const tag_ref = slugify( tag_name);
 
-  return {
-    id: slugify(h2.textContent.trim()),
-    size: itemCount*1.4+10,
-    name: h2.textContent.trim()
-  };
-});
+      // Count <li> items if a list is found
+      const itemCount = list ? list.querySelectorAll('li').length : 0;
+
+      // recover posts tags
+      if( list) {
+        list.querySelectorAll('li').forEach(item => {
+            // Find the <a> tag inside the current <li>
+            const link = item.querySelector('a');
+            if (link) {
+              appendToMapArray( posts_tags, link.getAttribute('href'), // original value, e.g., "/tintin-rocket/"
+              tag_name);
+            }
+          });
+      }
+
+      return {
+        id: tag_ref,
+        size: itemCount*1.4+10,
+        name: tag_name
+      };
+    });
 
 // { "name": "{{ tag }}", "size": {{ site.tags[tag] | size | times: 1.4 | plus: 10 }}, "id": "{{ tag | slugify }}" }
 
-    const links = [
-       // { "source": "Machine Learning", "target": "Artificial Intelligence" },
-    {% for tag in tag_list %}
-      {% assign related_tags = "" %}
-      
-      {% for post in site.tags[tag] %}
-          {% for related_tag in post.tags %}
-            {% unless related_tag == tag or related_tags contains related_tag %}
-              {% assign related_tags = related_tags | append: related_tag | append: "," %}
-            {% endunless %}
-          {% endfor %}
-      {% endfor %}
-      
-      {% assign related_tag_list = related_tags | split: "," | sort %}
-      
-{% for related_tag in related_tag_list %}{% if related_tag != "" %}
-{ "source": "{{ tag | slugify }}", "target": "{{ related_tag | slugify }}" },{% endif %}{% endfor %}{% endfor %}
-      ];
+
+    // rescan h2 & list in order to consolidate child post tags
+    let links = [];
+
+    Array.from(h2Elements).forEach(h2 => {
+      let list = null;
+      let el = h2.nextElementSibling;
+
+      // Walk through siblings until we find a list or another h2
+      while (el && el.tagName !== 'H2') {
+        if (el.tagName === 'UL' || el.tagName === 'OL') {
+          list = el;
+          break;
+        }
+        el = el.nextElementSibling;
+      }
+
+      const tag_name = h2.textContent.trim();
+      const tag_ref = slugify( tag_name);
+
+      // Count <li> items if a list is found
+      const itemCount = list ? list.querySelectorAll('li').length : 0;
+
+      // rescan posts to aggregate tags
+      if( list) {
+        // merge tags
+        let tag_list = [];
+
+        list.querySelectorAll('li').forEach(item => {
+            // Find the <a> tag inside the current <li>
+            const link = item.querySelector('a');
+            if (link) {
+              tag_list.push( ...posts_tags.get(link.getAttribute('href')) );
+            }
+          });
+
+        // generate each link per tag
+        const mergedUnique = [...new Set(tag_list)];
+        mergedUnique.forEach( item => {
+          links.push({  source: tag_ref,
+                        target: slugify(item)
+                    });
+          });
+      }
+    });
 
     const data = {
       "nodes": nodes,
