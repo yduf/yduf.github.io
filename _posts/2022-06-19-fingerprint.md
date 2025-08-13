@@ -12,6 +12,8 @@ tags: identity security fingerprint internet
 ### Internet
 - [My browser fingerprint ](https://www.amiunique.org/fingerprint) / [ 	
 	Websites are tracking you via browser fingerprinting](https://news.ycombinator.com/item?id=44313206) - _Yes! You are unique among the 3919831 fingerprints in our entire dataset._ - My mom already told that.
+- [	Web fingerprinting is worse than I thought (2023)](https://news.ycombinator.com/item?id=44669853)
 
-see also
+
+### see also
 - [German minister photo fingerprint 'theft' seemed far too EASY](https://www.theregister.com/2014/12/30/hacking_fingerprints_get_a_hires_pic_and_commercial_software/)
