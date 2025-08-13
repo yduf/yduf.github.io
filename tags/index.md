@@ -103,25 +103,6 @@ title: Tags
     {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
   <div id="{{ this_word | slugify }}"  class="topic-section">
     <h2>{{ this_word }}</h2>
-<!-- other tags appearing in posts related to this tag -->
-      {% assign related_tags = "" %}
-      
-      {% for post in site.tags[this_word] %}
-          {% for related_tag in post.tags %}
-            {% unless related_tag == this_word or related_tags contains related_tag %}
-              {% assign related_tags = related_tags | append: related_tag | append: "," %}
-            {% endunless %}
-          {% endfor %}
-      {% endfor %}
-      
-      {% assign related_tag_list = related_tags | split: "," | sort_natural %}
-<details>
-    <summary style="font-size: 0.8em;">related tags</summary>
-      <p style="font-size: 0.8em;">{% for related_tag in related_tag_list %}{% if related_tag != "" %}
-          <a href="#{{ related_tag | slugify }}">{{ related_tag }}</a>{% unless forloop.last %},{% endunless %}{% endif %}{% endfor %}
-      </p>
-</details>
-
 <!-- posts related to main tag -->
     <ul class="posts">{% assign sortedPosts = site.tags[this_word] | sort_natural: 'title' %}{% for post in sortedPosts %}{% if post.title != null %}
       <li itemscope><a href="{{ post.url }}">{{ post.title }}</a> <span class="entry-date"><time datetime=" {{ post.date | date_to_xmlschema }}" itemprop="datePublished"> {{ post.date | date: "%B %d, %Y" }}</time></span> </li>{% endif %}{% endfor %}
@@ -243,11 +224,47 @@ function appendToMapArray(map, key, value) {
 
         // generate each link per tag
         const mergedUnique = [...new Set(tag_list)];
-        mergedUnique.forEach( item => {
+
+        // sort & remove h2 from tag list
+        const tags = mergedUnique.filter(item => item !== tag_name)
+                        .sort((a, b) => a.localeCompare(b, undefined, { numeric: true, sensitivity: "base" }));
+
+        tags.forEach( item => {
           links.push({  source: tag_ref,
                         target: slugify(item)
                     });
           });
+
+        // generate the details field for this h2
+        const details = document.createElement("details");
+
+        // Create the <summary>
+        const summary = document.createElement("summary");
+        summary.style.fontSize = "0.8em";
+        summary.textContent = "related tags";
+        details.appendChild(summary);
+
+        // Create the <p> for links
+        const p = document.createElement("p");
+        p.style.fontSize = "0.8em";
+
+        // Add links from the list
+        tags.forEach((tag, index) => {
+          const a = document.createElement("a");
+          a.href = `#${slugify(tag)}`;
+          a.textContent = tag;
+          p.appendChild(a);
+
+          // Add comma and space except after the last tag
+          if (index < tags.length - 1) {
+            p.appendChild(document.createTextNode(", "));
+          }
+        });
+
+        details.appendChild(p);
+
+        // Insert <details> just after the <h2>
+        h2.insertAdjacentElement("afterend", details);
       }
     });
 
