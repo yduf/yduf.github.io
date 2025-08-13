@@ -6,6 +6,8 @@ use_math: true
 ---
 > 3D Rotors are in a sense the true form of quaternions, or in other words Quaternions are an obfuscated version of Rotors. - [A practical introduction for 3D graphics (2023)](https://jacquesheunis.com/post/rotors/) / [HN](https://news.ycombinator.com/item?id=43234510)
 
+Rotors (unlike quaternions) can easily be extended to higher dimensions
+
 see also
 - [Let's remove Quaternions from every 3D Engine](https://marctenbosch.com/quaternions/)
 
