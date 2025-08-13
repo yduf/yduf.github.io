@@ -13,5 +13,3 @@ Rotors like [quaternions]({% post_url 2018-09-07-quaternion %}) also require 4 d
 
 - **quaterions**: $0*1 + b*i + c*j + d*k$
 - **rotors**:  $0*1 + b*xy + c*yz + d*zx$
-
-[![]()]()
