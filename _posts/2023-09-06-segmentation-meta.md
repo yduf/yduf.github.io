@@ -5,6 +5,10 @@ tags: segmentation AI project
 ---
 > Segment Anything Model (SAM) produces high quality object masks from input prompts such as points or boxes, and it can be used to generate masks for all objects in an image. - [SAM.cpp](https://github.com/YavorGIvanov/sam.cpp?tab=readme-ov-file#samcpp) / [HN](https://news.ycombinator.com/item?id=37398891) 
 
+see also
+- [	Meta introduces Segment Anything Model 2](https://news.ycombinator.com/item?id=41116635)
+- [	Segment Anything Model (SAM) can "cut out" any object in an image](https://news.ycombinator.com/item?id=35455566)
+
 ### [SAM.cpp](https://github.com/YavorGIvanov/sam.cpp?tab=readme-ov-file#samcpp)
 
 Needs [pytorch](https://github.com/pytorch/pytorch?tab=readme-ov-file#docker-image) for model conversion
@@ -19,7 +23,8 @@ python convert-pth-to-ggml.py checkpoints/sam_vit_b_01ec64.pth . 1
 # run inference
 $ ./bin/sam -t 16 -m ../checkpoints/ggml-model-f16.bin -i ../img.jpg 
 {% endhighlight %}
-### [SAMIST](https://github.com/dibrale/samist?tab=readme-ov-file#samist) 
+
+### [SAMIST](https://github.com/dibrale/samist?tab=readme-ov-file#samist)
 
 list different models with different size.
 
