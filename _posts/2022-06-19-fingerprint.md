@@ -1,7 +1,7 @@
 ---
 published: true
 title: Fingerprint
-tags: identity security fingerprint internet
+tags: identity security fingerprint internet web
 ---
 > The point is that fingerprints may not mean the administrator of the device is present, in the same way that a password that cannot be changed also may not mean the administrator of the device has authorized an action.
 > Fingerprints are useful in cases where the effort of copying a fingerprint is greater than the value of the target. They're great for almost everyone with low value systems, like your average easily pickable front door lock. They're good for keeping honest people honest.  
@@ -12,6 +12,8 @@ tags: identity security fingerprint internet
 ### Internet
 - [My browser fingerprint ](https://www.amiunique.org/fingerprint) / [ 	
 	Websites are tracking you via browser fingerprinting](https://news.ycombinator.com/item?id=44313206) - _Yes! You are unique among the 3919831 fingerprints in our entire dataset._ - My mom already told that.
+	- [	The Web Is Broken – Botnet Part 2](https://news.ycombinator.com/item?id=43738603)
+    - [Everyone knows your location, Part 2: try it yourself and share the results](https://news.ycombinator.com/item?id=43716704)
 - [	Web fingerprinting is worse than I thought (2023)](https://news.ycombinator.com/item?id=44669853)
 
 
