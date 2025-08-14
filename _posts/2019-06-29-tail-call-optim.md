@@ -1,9 +1,12 @@
 ---
 published: true
 title: Tail call optimisation (TCO)
-tags: optimize recurse algorithm ruby Fibonacci
+tags: optimize recurse algorithm ruby Fibonacci stacktrace
 ---
 > avoid allocating a new stack frame for a function because the calling function will simply return the value that it gets from the called function. The most common use is tail-recursion, where a recursive function written to take advantage of tail-call optimization can use constant stack space. - [SO](https://stackoverflow.com/a/310980/51386)
+
+see also
+- [	Why tail-recursive functions are loops](https://news.ycombinator.com/item?id=44837949) - One surprising fact is that we can systematically compile any program so that every call is a tail-call, by completely transforming the program into continuation-passing-style (CPS), this essentially eliminates the stack.
 
 
 ## TCO transformation
