@@ -18,3 +18,6 @@ Using [Kiwix](https://www.kiwix.org/en/) to [offline wikipedia](https://wastalin
 - [Read-Only Wikipedia on IPFS](https://github.com/ipfs/distributed-wikipedia-mirror#goal-1-read-only-wikipedia-on-ipfs)
 - [Data-Mining Wikipedia for Fun and Profit (billpg.com)](https://news.ycombinator.com/item?id=28234122)
 - [ Database Download](https://en.wikipedia.org/wiki/Wikipedia:Database_download) / [HN](https://news.ycombinator.com/item?id=43811732)
+
+## see also
+- [	The Article in the Most Languages](https://news.ycombinator.com/item?id=44844647) - After a full month of coordinated, decentralised action, the number of articles about Mr. Woodard was reduced from 335 articles to 20. A full decade of dedicated self-promotion by an individual network has been undone in only a few weeks by our community.

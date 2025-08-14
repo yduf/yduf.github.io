@@ -1,7 +1,7 @@
 ---
 published: true
 title: LibreSprite
-tags: application image sprite pixelart
+tags: graphic-app image sprite pixelart
 ---
 > a fork of Aseprite - [Home](https://libresprite.github.io/#!/) 
 
