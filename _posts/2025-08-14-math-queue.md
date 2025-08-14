@@ -1,7 +1,7 @@
 ---
 title: Queue Theory
 published: true
-tags: queue
+tags: queue algorithm
 ---
 >  Just being aware of it is already half the battle. - [Basic Queueing Theory](https://yzr95924.github.io/pdf/book/Basic-Queueing-Theory.pdf)
 
