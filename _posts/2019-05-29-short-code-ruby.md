@@ -2,6 +2,7 @@
 title: Shortest code (Ruby)
 published: true
 tags: ruby codegolf codingame string array
+excerpt_separator: ""
 ---
 ## Tips
 ### Read inputs
