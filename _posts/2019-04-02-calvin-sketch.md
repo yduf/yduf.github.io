@@ -1,7 +1,7 @@
 ---
 published: true
 title: Calvin and Hobbes (3D skech)
-tags: comic fun
+tags: comix fun
 excerpt_separator: ''
 ---
 ## Sketchfab

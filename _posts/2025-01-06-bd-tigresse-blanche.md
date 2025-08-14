@@ -1,7 +1,7 @@
 ---
 title: Tigresse Blanche (BD)
 published: true
-tags: bd comic
+tags: bd comix
 ---
 > Pour la jeune et belle Alix, le moment est venu d'accomplir sa première mission de mouche rouge, agent secret de première classe du parti communiste chinois. - [Tigresse Blanche](https://www.bedetheque.com/serie-11872-BD-Tigresse-Blanche.html)
 

@@ -1,7 +1,7 @@
 ---
 published: true
 title: "\U0001F353Strawberry  (Amarok †)"
-tags: application music
+tags: application music-app
 ---
 > Living fork of [Clementine](https://www.clementine-player.org/) itself inspired by [Amarok 1.4](https://amarok.kde.org/), - [Home](https://github.com/strawberrymusicplayer/strawberry#strawberry-strawberry-music-player-)
 

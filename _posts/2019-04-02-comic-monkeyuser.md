@@ -1,7 +1,7 @@
 ---
 published: true
 title: New version
-tags: fun comic software job
+tags: fun comix software job
 ---
 > Shiny new things - [End of the line (MonkeyUser.com)](https://www.monkeyuser.com/)
 
