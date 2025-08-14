@@ -7,3 +7,4 @@ tags: queue algorithm
 
 see also
 - [	There isn't much point to HTTP/2 past the load balancer](https://news.ycombinator.com/item?id=43168533)
+- [Dice and Queues](https://news.ycombinator.com/item?id=43640115)
