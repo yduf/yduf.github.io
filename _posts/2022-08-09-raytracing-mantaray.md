@@ -1,7 +1,7 @@
 ---
 published: true
 title: MantaRay
-tags: raytracing
+tags: procedural raytracing
 ---
 >  an advanced open-source renderer. It uses modern rendering techniques to generate photorealistic images of complex scenes. - [github](https://github.com/ange-yaghi/manta-ray) / [youtube](https://www.youtube.com/channel/UCV0t1y4h_6-2SqEpXBXgwFQ)
 
