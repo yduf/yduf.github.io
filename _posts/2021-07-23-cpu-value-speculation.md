@@ -1,6 +1,6 @@
 ---
 published: true
-title: Value Speculation Attack
+title: Value Speculation Attack (Branch Prediction)
 tags: cpu cache security
 ---
 > The trick exploits the branch predictor to guess values, enabling more instruction parallelism and therefore removing a bottleneck on the L1 cache. - [Beating the L1 cache with value speculation](https://mazzo.li/posts/value-speculation.html) / [HN](https://news.ycombinator.com/item?id=27929600)
@@ -10,3 +10,4 @@ Modern CPUs do not process instructions serially, but rather handle many at the 
 ### see also
 - [When you Accidentally Compromise every CPU on Earth](https://www.youtube.com/watch?v=YRohz9VO1YY)
 - [researchers find an unfixable bug in EVERY ARM cpu ](https://www.youtube.com/watch?v=CjpEZ2LAazM)
+- [Branch Privilege Injection: Exploiting branch predictor race conditions](https://news.ycombinator.com/item?id=43974891)
