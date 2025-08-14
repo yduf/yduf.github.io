@@ -13,3 +13,9 @@ $ git restore-mtime
 $ ruby update_mtime.rb
 ```
 
+Serving locally
+``` bash
+$ bundle exec jekyll serve --incremental
+or
+$ bundle exec jekyll serve
+```
