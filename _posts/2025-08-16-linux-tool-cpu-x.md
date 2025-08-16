@@ -1,6 +1,6 @@
 ---
-title: CPU-X / CPU-Z
+title: CPU-X
 published: true
-tags: tools
+tags: linux-system tools
 ---
 > CPU-Z for Linux - [Home](https://thetumultuousunicornofdarkness.github.io/CPU-X/) / [HN](https://news.ycombinator.com/item?id=44490386)
