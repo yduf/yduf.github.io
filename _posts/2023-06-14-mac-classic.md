@@ -295,3 +295,4 @@ Options are:
 - [Macintosh Classic](https://oldcrap.org/2018/10/31/apple-macintosh-classic/)
 - [The Macintosh Garden](https://macintoshgarden.org/)
 - [Infinite Mac](https://infinitemac.org/) - a collection of classic Macintosh and NeXT system releases and software, all easily accessible from the comfort of a web browser.
+- [Trying To Find Meaning In Owning An Old Mac](https://blog.decryption.net.au/posts/macse30.html) / [HN](https://news.ycombinator.com/item?id=44496502) 

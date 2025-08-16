@@ -7,3 +7,4 @@ tags: software refactor pattern
 
 see also
 - [https://refactoring.guru](https://refactoring.guru)
+- [Reasons Not to Refactor](https://news.ycombinator.com/item?id=42928186) - don't get too hung up on things that ultimately won't matter.
