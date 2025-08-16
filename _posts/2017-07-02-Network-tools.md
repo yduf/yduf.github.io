@@ -14,6 +14,7 @@ $ ss -ltpn			# socket status
 
 ## DNS
 - [`wtfis`](https://github.com/pirxthepilot/wtfis?tab=readme-ov-file#wtfis) / [HN](https://news.ycombinator.com/item?id=43967962) - Passive hostname, domain and IP lookup tool for non-robots
+	- Only criticism is that it does use or need a bunch of accounts and API keys which probably makes the setup a bit tedious
 
 ## [perf host/host](https://linuxaria.com/article/tool-command-line-bandwidth-linux)
 [also](https://www.linux.com/learn/five-funny-little-linux-network-testers-and-monitors)
