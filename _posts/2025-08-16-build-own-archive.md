@@ -14,3 +14,6 @@ tags: archive dream project
     - when browsing, ping the archive to know if archive exist / is up to date
 
 Page could be stored as [Zim]({% post_url 2022-10-07-zim-format %}) or [SingleFile]({% post_url 2024-10-28-firefox-singlefile %}) (compressed html)
+
+see also
+- [Zim vs singlefileZ](https://chatgpt.com/share/68a0407f-0e40-800d-95d9-3b5157ac37fd)
