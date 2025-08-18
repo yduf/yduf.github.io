@@ -6,14 +6,9 @@ tags: home solar power
 > [forum-photovoltaique.fr](https://forum-photovoltaique.fr/index.php)
 
 - [arnaque photovoltaique](https://forum-photovoltaique.fr/viewtopic.php?t=34117)
-- [poste onduleur HS](https://forum-photovoltaique.fr/viewtopic.php?t=78605)
 
-### Installation initiale
-[onduleur schneider sunezy 2800](https://www.forumphotovoltaique.com/onduleur-schneider-sunezy/)
-
-- [SunEzy 2800 avec message "défaut EEPROM"](https://forum-photovoltaique.fr/viewtopic.php?p=781652&hilit=kasyk#p781652)
-	- [ElectronLibre28](https://forum-photovoltaique.fr/viewtopic.php?p=603949#p603949)
-
+## Installation initiale
+- [onduleur schneider sunezy 2800](#onduleur-schneider-sunezy-2800)
 
 - Puissance: 2.96 kVA, tension courant alternatif < 1000V
 - 16 Modules monocristallins Watt&Hom WH185-M 185Wc conforme norm EN 61215 - 20.4m²
@@ -26,16 +21,33 @@ tags: home solar power
 
 Installation
 - gaines ICT sous les tuiles
+- 2 boucles de 8 panneaux connectés sur 1 string
+	- VDC = 293V = 293/36.9V ~ 7.94 = 2x8 panels
+    - input current: 3k / 293V => 10.2A
 
+## [Onduleur réseau 3kW - MPPT - 3000TL-G3 - SOFAR](https://allo.solar/onduleur-reseau-3-3kw-mppt-3300tl-g3-sofar.html) - 400€
 
+- Max input voltage: 550V (vs 500V)
+- MPTT voltage range: 50-550V (vs 100-450V)
+- Full load DC voltage range: 275V-500V (vs 250-450V)
+- Max input current: 12A (vs 13A)
 
-### Pourrait-être remplacé par
+- [Garanti 10 ans ?](https://allo.solar/amfile/file/download/file/2019/product/1677/) Europe
+- [doc](https://allo.solar/amfile/file/download/file/2276/product/1677/) / [FR](https://allo.solar/amfile/file/download/file/1771/product/1677/)
+
+## [Onduleur schneider sunezy 2800](https://www.forumphotovoltaique.com/onduleur-schneider-sunezy/)
+
+- [SunEzy 2800 avec message "défaut EEPROM"](https://forum-photovoltaique.fr/viewtopic.php?p=781652&hilit=kasyk#p781652)
+	- [ElectronLibre28](https://forum-photovoltaique.fr/viewtopic.php?p=603949#p603949)
+
+- [poste onduleur HS](https://forum-photovoltaique.fr/viewtopic.php?t=78605)
+
+**Pourrait-être remplacé par**
 
 [Les vendeurs en lignes sont pléthoriques.](https://forum-photovoltaique.fr/viewtopic.php?p=781652&hilit=kasyk#p781652)
 
 - [Onduleur réseau 3kW - MPPT - 3000TL-G3 - SOFAR](https://allo.solar/onduleur-reseau-3-3kw-mppt-3300tl-g3-sofar.html) - 400€
-	- [Garanti 10 ans ?](https://allo.solar/amfile/file/download/file/2019/product/1677/) Europe
-    - [doc](https://allo.solar/amfile/file/download/file/2276/product/1677/) / [FR](https://allo.solar/amfile/file/download/file/1771/product/1677/)
+
 
 - [ SPF3000TL HVM-24- Growatt ](https://www.leroymerlin.fr/produits/onduleur-hybride-3kw-24v-mppt-50a-spf3000tl-hvm-24-growatt-89576493.html) - 600€
 
