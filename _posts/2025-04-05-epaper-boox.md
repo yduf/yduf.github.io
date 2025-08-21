@@ -17,6 +17,9 @@ toc: true
     
 - [Organize Your Control Center for Faster Access & Fewer Distractions](https://www.youtube.com/watch?v=REzDrrVbHmM)
 
+- [Organizing notes & files](https://chatgpt.com/share/68a6dc53-7390-800d-91d8-1d1a098ee6f5)
+	- **Decide early on folders vs tags**: If you think hierarchically, use folders. If you cross-reference often, lean on tags.
+
 ### Ai vs ChatGPT
 
 - [Chat GPT on Boox, Challenges, Solutions, and Improvements](https://www.youtube.com/watch?v=VHqLx_UzM4M)
