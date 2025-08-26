@@ -7,6 +7,8 @@ tags: agile work software despair.com
 >
 > The way we work now is different. Sadly, it’s less motivating, less efficient, and profoundly less respectful of individual abilities. - [little tasks, little trust](https://medium.com/@vincent.bird2020/little-tasks-little-trust-a0e31713ac93)
 
+- [Interview with an Agile Coach ](https://www.youtube.com/watch?v=bB340S0tGf8)
+
 “I am Amerigo, the product guy. Heretofore, no developer will make product decisions, for they are mine.”
 
 “And I am Ferdinand, process guy. Heretofore, no developer will make process decisions, for they are mine.”
