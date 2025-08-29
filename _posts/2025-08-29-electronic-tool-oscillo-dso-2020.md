@@ -2,6 +2,7 @@
 title: Oscilloscope
 published: true
 tags: electronic hardware
+excerpt_separator: ''
 ---
 ## [Voltcraft DSO-2020 USB](https://www.manua.ls/voltcraft/dso-2020-usb/manual?p=1)
 
