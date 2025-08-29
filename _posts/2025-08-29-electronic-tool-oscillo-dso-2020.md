@@ -7,6 +7,7 @@ tags: electronic hardware
 
 - [**OpenHantek6022**](https://github.com/OpenHantek/OpenHantek6022?tab=readme-ov-file#openhantek6022) is a more advanced, actively maintained branch specifically optimized for the Hantek 6022BE/BL (and similar), with advanced features, open firmware, and recent updates.
 	- supported device: Hantek 6022BE and 6022BL as well as compatible scopes (e.g. Voltcraft DSO-2020).
+    - fully support linux
     
 - [**OpenHantek**](https://github.com/OpenHantek/openhantek?tab=readme-ov-file#openhantek---) -  a free software for Hantek and compatible (Voltcraft/Darkwire/Protek/Acetech) USB digital signal oscilloscopes.
 	- OpenHantek is an open-source, cross-platform fork of HantekDSO with enhanced GUI and broader device support.
