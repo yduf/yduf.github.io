@@ -16,5 +16,5 @@ tags: electronic hardware
 - [**HantekDSO**](https://github.com/Blokkendoos/HantekDSO?tab=readme-ov-file#hantekdso) - a USB-oscilloscope software for Hantek, Novatek, Voltcraft, Darkwire, Protek, Acetech, etc DSO2090, 2150, 2250, 5200A, etc. oscilloscopes. (fork from [SourceForge](https://sourceforge.net/projects/hantekdso/))
 	- HantekDSO is the original software by Hantek.
 
-
+[![screenshot](https://github.com/OpenHantek/OpenHantek6022/blob/main/docs/images/screenshot_mainwindow.png)](https://github.com/OpenHantek/OpenHantek6022?tab=readme-ov-file#openhantek6022)
 
