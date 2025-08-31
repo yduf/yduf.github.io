@@ -8,6 +8,9 @@ toc: true
 
 <link rel="shortcut icon" href="https://static.wikia.nocookie.net/pico-8/images/4/4a/Site-favicon.ico/revision/latest?cb=20210713144653" type="image/x-icon" />
 
+see also 
+- [Develop on Pico-8]({% post_url 2023-10-22-pico8-dev %})
+
 [![caption](https://cdn.blot.im/blog_06523a97b0ca417599aeca13c3a85d63/_image_cache/164efc20-40da-4002-8ded-8004962a8b96.png)](https://maxzsol.com/getting-started-with-local-development-for-pico-8-and-vs-code/)
 
 ## Extensions
