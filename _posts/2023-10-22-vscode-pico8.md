@@ -1,6 +1,6 @@
 ---
 published: true
-title: IDE (Pico8-8)
+title: IDE (Pico-8)
 tags: pico8 vscode
 toc: true
 ---
@@ -40,8 +40,9 @@ see also
 - [Getting Started with Local Development for Pico-8 and VS Code](https://maxzsol.com/getting-started-with-local-development-for-pico-8-and-vs-code/)
 - [Pico-8 and external IDE ](https://www.reddit.com/r/pico8/comments/1i7dtqv/pico8_and_external_ide/)
 
-# [Using VS Code with PICO-8](https://maxzsol.com/getting-started-with-local-development-for-pico-8-and-vs-code/) / [2](https://www.youtube.com/watch?v=srPKBhzgZhc)
+# [VS Code with PICO-8](https://maxzsol.com/getting-started-with-local-development-for-pico-8-and-vs-code/) 
 
+[Using VSCode](https://www.youtube.com/watch?v=srPKBhzgZhc) with PICO-8.
 As well as other [Using External Tools](https://www.youtube.com/watch?v=srPKBhzgZhc)
 
 ## [`# include`](https://www.lexaloffle.com/dl/docs/pico-8_manual.html#_INCLUDE)
