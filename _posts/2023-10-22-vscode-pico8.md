@@ -7,7 +7,7 @@ tags: pico8 vscode
 
 <link rel="shortcut icon" href="https://static.wikia.nocookie.net/pico-8/images/4/4a/Site-favicon.ico/revision/latest?cb=20210713144653" type="image/x-icon" />
 
-### Extension
+## Extension
 - [PICO-8 Language Server](https://github.com/japhib/pico8-ls#pico-8-language-server)
 	- Full language support for the PICO-8 dialect of Lua. - (goto definion, etc)
     - View docs on hover, then auto-complete 
@@ -16,7 +16,7 @@ tags: pico8 vscode
 
 - [pico8-theme](https://marketplace.visualstudio.com/items?itemName=ianjsikes.pico8-theme) - color theme in the style of the PICO-8 fantasy console by lexaloffle - you can keep the regular fonts as is.
 
-Alternative
+### Alternatives
 - [pico8vscodeeditor](https://marketplace.visualstudio.com/items?itemName=Grumpydev.pico8vscodeeditor) - facilities for editing Pico-8 p8 files in VSCode.
 	- Pico-8 API snippets - [(Ctrl+Space)](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
 
