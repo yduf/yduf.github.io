@@ -8,4 +8,5 @@ tags: pdf remarkable epaper calendar template
 - [A quiet endorsement of recalendar.me](https://www.reddit.com/r/RemarkableTablet/comments/vfcddu/a_quiet_endorsement_of_recalendarme/)
 
 see also
+- [My Daily Organizer](https://www.mydeepguide.com/shop) - Voja's
 - [digital planner](https://digital-planner.com/boox/daily/ultimate)
