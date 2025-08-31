@@ -14,7 +14,7 @@ tags: pico8 vscode
 
 - [pico8-simple-outline](https://marketplace.visualstudio.com/items?itemName=unremarkable.pico8-simple-outline) - for `*.p8` files: display a list of all the functions in your project, and acces their definition by clicking on them.
 
-- [pico8-theme](https://marketplace.visualstudio.com/items?itemName=ianjsikes.pico8-theme)
+- [pico8-theme](https://marketplace.visualstudio.com/items?itemName=ianjsikes.pico8-theme) - color theme in the style of the PICO-8 fantasy console by lexaloffle - you can keep the regular fonts as is.
 
 Alternative
 - [pico8vscodeeditor](https://marketplace.visualstudio.com/items?itemName=Grumpydev.pico8vscodeeditor) - facilities for editing Pico-8 p8 files in VSCode.
