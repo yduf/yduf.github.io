@@ -2,6 +2,7 @@
 title: '# Codingame'
 published: true
 tags: codingame AI puzzle
+toc: true
 ---
 see also
 - [	Games of Coding ](https://github.com/michelpereira/awesome-games-of-coding) / [HN](https://news.ycombinator.com/item?id=13566247) – A curated list of games that teach you a programming language 
