@@ -88,9 +88,10 @@ end
 
 ### Compression & Packing
 - [PICO-8 Token Optimizations](https://github.com/seleb/PICO-8-Token-Optimizations)
+	- [ put all your game data into a string.](https://www.reddit.com/r/pico8/comments/17ehiba/which_of_these_methods_is_better/) = 1 token 
 	- [compressed size limit](https://www.lexaloffle.com/bbs/?tid=3205)
     - [Shrinko8](https://github.com/thisismypassport/shrinko8#shrinko8) - A set of Pico-8 cart tools, with a focus on shrinking code size.
 - [From one Pico-8 cart to many](https://retroactive.me/post/from-one-pico-cart-to-many/)
 - [rectpack2D](https://github.com/TeamHypersomnia/rectpack2D#rectpack2d) / [HN](https://news.ycombinator.com/item?id=36469297) - A header-only 2D rectangle packing library written in modern C++.
 
-- [PX9](https://www.lexaloffle.com/bbs/?tid=34058) / [PX8](https://www.lexaloffle.com/bbs/?tid=3930) - PX9 is a lightweight gfx & map compression library, intended to replace PX8. It uses the same ideas and interface as px8, but is smaller (~297~ 214 tokens to decompress), and requires zero configuration.
+- [PX9](https://www.lexaloffle.com/bbs/?tid=34058) / [PX8](https://www.lexaloffle.com/bbs/?tid=3930) - PX9 is a lightweight gfx & map compression library, intended to replace PX8. It uses the same ideas and interface as px8, but is smaller (~297~x 214 tokens to decompress), and requires zero configuration.
