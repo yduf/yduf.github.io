@@ -1,6 +1,6 @@
 ---
 published: true
-title: PICO-8 IDE (VSCode)
+title: IDE (pico8-VSCode)
 tags: pico8 vscode
 toc: true
 ---
@@ -18,6 +18,16 @@ toc: true
 - [pico8-simple-outline](https://marketplace.visualstudio.com/items?itemName=unremarkable.pico8-simple-outline) - for `*.p8` files: display a list of all the functions in your project, and acces their definition by clicking on them.
 
 - [pico8-theme](https://marketplace.visualstudio.com/items?itemName=ianjsikes.pico8-theme) - color theme in the style of the PICO-8 fantasy console by lexaloffle - you can keep the regular fonts as is.
+	- [configure it so it's only applied on Pico8 project](https://chatgpt.com/share/68b46f8f-4f98-800d-bd2f-3a0ddeb9609c)
+
+{% highlight json %}
+# .vscode/settings.json
+{
+  "workbench.colorTheme": "PICO-8"
+}
+
+{% endhighlight %}
+    
 
 ### Alternatives
 - [pico8vscodeeditor](https://marketplace.visualstudio.com/items?itemName=Grumpydev.pico8vscodeeditor) - facilities for editing Pico-8 p8 files in VSCode.
