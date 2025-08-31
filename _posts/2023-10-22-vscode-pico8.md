@@ -8,7 +8,9 @@ toc: true
 
 <link rel="shortcut icon" href="https://static.wikia.nocookie.net/pico-8/images/4/4a/Site-favicon.ico/revision/latest?cb=20210713144653" type="image/x-icon" />
 
-## Extension
+[![caption](https://cdn.blot.im/blog_06523a97b0ca417599aeca13c3a85d63/_image_cache/164efc20-40da-4002-8ded-8004962a8b96.png)](https://maxzsol.com/getting-started-with-local-development-for-pico-8-and-vs-code/)
+
+## Extensions
 - [PICO-8 Language Server](https://github.com/japhib/pico8-ls#pico-8-language-server)
 	- Full language support for the PICO-8 dialect of Lua. - (goto definion, etc)
     - View docs on hover, then auto-complete 
@@ -23,8 +25,6 @@ toc: true
 
 - [pico8-vscode](https://github.com/joho/pico8-vscode#pico8-vscode) - editing and running pico8 files.
 
-
-[![caption](https://cdn.blot.im/blog_06523a97b0ca417599aeca13c3a85d63/_image_cache/164efc20-40da-4002-8ded-8004962a8b96.png)](https://maxzsol.com/getting-started-with-local-development-for-pico-8-and-vs-code/)
 
 see also
 - [Using VS Code with PICO-8](https://erika.florist/wiki/computers/vscodepico8)
