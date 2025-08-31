@@ -1,6 +1,6 @@
 ---
 published: true
-title: IDE (Pico8-8)
+title: IDE (Pico-8)
 tags: pico8 vscode
 toc: true
 ---
