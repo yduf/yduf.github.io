@@ -10,8 +10,8 @@ tags: docker registry
 ## [Registrish](https://github.com/jpetazzo/registrish?tab=readme-ov-file#registrish)
 
 kind of a Docker registry, but with many restrictions.
-On the bright side, registrish can be deployed without running the registry code, using almost any static file hosting service. For instance:
 
+On the bright side, registrish can be deployed without running the registry code, using almost any static file hosting service. For instance:
 - a plain NGINX server (without LUA, JSX, or whatever custom module)
 - a plain Apache2 server (using .htaccess overrides)
 - the Netlify CDN
