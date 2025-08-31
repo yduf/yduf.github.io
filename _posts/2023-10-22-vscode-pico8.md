@@ -25,7 +25,6 @@ toc: true
 {
   "workbench.colorTheme": "PICO-8"
 }
-
 {% endhighlight %}
     
 
