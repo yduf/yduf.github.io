@@ -1,5 +1,5 @@
 ---
-title: reCalendar
+title: "reCalendar \U0001F4C6"
 published: true
 tags: pdf remarkable epaper calendar template
 ---
