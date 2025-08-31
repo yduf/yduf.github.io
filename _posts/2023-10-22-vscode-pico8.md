@@ -7,6 +7,22 @@ tags: pico8 vscode
 
 <link rel="shortcut icon" href="https://static.wikia.nocookie.net/pico-8/images/4/4a/Site-favicon.ico/revision/latest?cb=20210713144653" type="image/x-icon" />
 
+### Extension
+- [PICO-8 Language Server](https://github.com/japhib/pico8-ls#pico-8-language-server)
+	- Full language support for the PICO-8 dialect of Lua. - (goto definion, etc)
+    - View docs on hover, then auto-complete 
+
+- [pico8-simple-outline](https://marketplace.visualstudio.com/items?itemName=unremarkable.pico8-simple-outline) - for `*.p8` files: display a list of all the functions in your project, and acces their definition by clicking on them.
+
+- [pico8-theme](https://marketplace.visualstudio.com/items?itemName=ianjsikes.pico8-theme)
+
+Alternative
+- [pico8vscodeeditor](https://marketplace.visualstudio.com/items?itemName=Grumpydev.pico8vscodeeditor) - facilities for editing Pico-8 p8 files in VSCode.
+	- Pico-8 API snippets - [(Ctrl+Space)](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
+
+- [pico8-vscode](https://github.com/joho/pico8-vscode#pico8-vscode) - editing and running pico8 files.
+
+
 [![caption](https://cdn.blot.im/blog_06523a97b0ca417599aeca13c3a85d63/_image_cache/164efc20-40da-4002-8ded-8004962a8b96.png)](https://maxzsol.com/getting-started-with-local-development-for-pico-8-and-vs-code/)
 
 see also
@@ -26,19 +42,6 @@ you can use individual tabs from carts by going [`#include cartname.p8:2`](https
 Alternative way of doing things:
 - [Using VS Code with PICO-8](https://erika.florist/wiki/computers/vscodepico8/) - edit cart directly ?
 
-### Extension
-
-- [PICO-8 Language Server](https://github.com/japhib/pico8-ls#pico-8-language-server)
-	- Full language support for the PICO-8 dialect of Lua. - (goto definion, etc)
-    - View docs on hover, then auto-complete 
-
-- [pico8-simple-outline](https://marketplace.visualstudio.com/items?itemName=unremarkable.pico8-simple-outline) - for `*.p8` files: display a list of all the functions in your project, and acces their definition by clicking on them.
-
-Alternative
-- [pico8vscodeeditor](https://marketplace.visualstudio.com/items?itemName=Grumpydev.pico8vscodeeditor) - facilities for editing Pico-8 p8 files in VSCode.
-	- Pico-8 API snippets - [(Ctrl+Space)](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
-
-- [pico8-vscode](https://github.com/joho/pico8-vscode#pico8-vscode) - editing and running pico8 files.
 
 ### [Doc](https://www.lexaloffle.com/dl/docs/pico-8_manual.html)
 - [Pico-8 API Cheatsheet](https://iiviigames.github.io/pico8-api/)
