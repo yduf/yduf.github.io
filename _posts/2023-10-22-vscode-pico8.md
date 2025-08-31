@@ -31,7 +31,7 @@ see also
 - [Getting Started with Local Development for Pico-8 and VS Code](https://maxzsol.com/getting-started-with-local-development-for-pico-8-and-vs-code/)
 - [Pico-8 and external IDE ](https://www.reddit.com/r/pico8/comments/1i7dtqv/pico8_and_external_ide/)
 
-## [Using VS Code with PICO-8](https://www.youtube.com/watch?v=srPKBhzgZhc)
+## [Using VS Code with PICO-8](https://maxzsol.com/getting-started-with-local-development-for-pico-8-and-vs-code/) / [2](https://www.youtube.com/watch?v=srPKBhzgZhc)
 
 As well as other [Using External Tools](https://www.youtube.com/watch?v=srPKBhzgZhc)
 
