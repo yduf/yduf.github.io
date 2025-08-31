@@ -5,7 +5,7 @@ tags: pico8 demoscene 8bit retro
 ---
 > Retro revival on Pico8
 
-### Zep
+### Zep ([lexaloffle Gifs](https://www.lexaloffle.com/bbs/superblog.php?cat=1&mode=gifs&beforewhen=2025-06-22%2023:59:19&postcarts=0))
 - [Orbys (zep)](https://www.lexaloffle.com/bbs/?tid=37948)
 - [PICO-8 Jam #1](https://www.lexaloffle.com/bbs/?tid=2769)
 
