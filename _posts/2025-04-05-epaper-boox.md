@@ -6,6 +6,8 @@ toc: true
 ---
 >  [r/Onyx_Boox ](https://www.reddit.com/r/Onyx_Boox/)
 
+- [BooxDrop](http://192.168.0.14:8085) 📁
+
 ## Boox OS Tips
 
 - [Change These Settings for an Improved Experience](https://www.youtube.com/watch?v=YUxzi2MsKXA&t=1982s)
