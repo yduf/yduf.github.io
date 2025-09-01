@@ -2,6 +2,7 @@
 published: true
 title: Sprite (Pico-8)
 tags: pico8 sprite pixelart
+toc: true
 ---
 > A small or elusive supernatural being; an elf or pixie. - [noun](https://www.wordnik.com/words/sprite)
 
