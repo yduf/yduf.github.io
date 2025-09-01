@@ -6,6 +6,8 @@ toc: true
 ---
 > The reMarkable is a paper tablet for those who prefer writing on paper, rather than keyboards. Its remarkably fast paper-white display, Linux based operating system and awesome community make it highly attractive amongst hackers and developers. - [r/RemarkableTablet](https://www.reddit.com/r/RemarkableTablet/) / [reMarkable Guide](https://remarkable.guide/)
 
+**Now, I have moved onto [Boox go 10.3]({% post_url 2025-04-05-epaper-boox %})**
+
 see also 
 - [reMarkable Developper Notes]({% post_url 2021-02-04-remarkable-dev %})
 - [reMarkable Hardware]({% post_url 2021-02-05-remarkable-hardware %})
