@@ -18,6 +18,25 @@ toc: true
 	- animation loop & boundary
     - speed setting
 
+Assuming you have GFX 8x8 sprite available from 1 to 5, code looks like this
+{% highlight lua %}
+function _init()
+  sp = 1
+  speed = 0.3
+end
+
+function _draw()
+  cls()
+  if sp < 1+4.9 then
+    sp += speed
+  else
+    sp = 1
+  end
+
+  spr( sp, 63, 63)
+end
+{% endhighlight %}
+
 ### External tools
 - [`export`](https://youtu.be/srPKBhzgZhc?feature=shared&t=724)
 	- `export spritesheet.png`
