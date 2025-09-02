@@ -1,15 +1,17 @@
 ---
 published: true
 title: Sprite (Pico-8)
-tags: pico8 sprite pixelart
+tags: pico8 sprite pixelart online
 toc: true
 ---
 > A small or elusive supernatural being; an elf or pixie. - [noun](https://www.wordnik.com/words/sprite)
 
 <link rel="shortcut icon" href="https://static.wikia.nocookie.net/pico-8/images/4/4a/Site-favicon.ico/revision/latest?cb=20210713144653" type="image/x-icon" />
 
+**Online editor**: [draw pico-8 sprites!](https://nerdyteachers.com/PICO-8/Draw/Sprite/) - up to 32x32
+
+
 - [The secret guide to bullets, sprites, and animations](https://www.lexaloffle.com/bbs/?tid=44686)
-- [draw pico-8 sprites!](https://nerdyteachers.com/PICO-8/Draw/Sprite/) - up to 32x32
 
 ### External tools
 - [`export`](https://youtu.be/srPKBhzgZhc?feature=shared&t=724)
