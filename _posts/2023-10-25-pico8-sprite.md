@@ -15,7 +15,7 @@ toc: true
 
 ### Basic
 - [Easy Sprite Animation in Pico-8 - Beginner Tutorial](https://www.youtube.com/watch?v=8JQz2SL5_Js) - cover animation as basic example
-	- animation loop
+	- animation loop & boundary
     - speed setting
 
 ### External tools
