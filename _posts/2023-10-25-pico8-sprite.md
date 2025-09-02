@@ -18,21 +18,22 @@ toc: true
 	- animation loop & boundary
     - speed setting
 
-Assuming you have GFX 8x8 sprite available from 1 to 5, code looks like this
+Assuming you have GFX 8x8 sprite available from 1 to 5, code looks like this (from [How to Animate a Sprite!](https://nerdyteachers.com/PICO-8/Game_Mechanics/?tutorial=4)):
 {% highlight lua %}
-function _init()
-  sp = 1
-end
+sprite = 1
+x = 64
+y = 64
+timing = 0.25
 
 function _draw()
-  cls()
-  if sp < 1+4.9 then // forward loop
-    sp += 0.3	// fractional frame speed
-  else
-    sp = 1		// back to first sprite
-  end
+    cls()
+    spr(sprite, x, y)
+end
 
-  spr( sp, 63, 63)
+function _update()
+    --animate
+    sprite += timing
+    if sprite >= 5 then sprite = 1 end
 end
 {% endhighlight %}
 
