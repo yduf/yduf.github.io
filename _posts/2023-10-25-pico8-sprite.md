@@ -13,6 +13,10 @@ toc: true
 ## Code
 - [The secret guide to bullets, sprites, and animations](https://www.lexaloffle.com/bbs/?tid=44686)
 
+### Basic
+- [Easy Sprite Animation in Pico-8 - Beginner Tutorial](https://www.youtube.com/watch?v=8JQz2SL5_Js) - fire animation as basic example
+	- cover animation
+
 ### External tools
 - [`export`](https://youtu.be/srPKBhzgZhc?feature=shared&t=724)
 	- `export spritesheet.png`
