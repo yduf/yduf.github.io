@@ -40,7 +40,7 @@ end
 ###  [`anim()`](https://www.lexaloffle.com/bbs/?tid=3115&autoplay=1#pp)
 
 Obviously code above can be made generic.
-And complefixied when dealing with multisprite block (see [Advanced animation](https://www.lexaloffle.com/bbs/?pid=19274&tid=3135&autoplay=1#pp)).
+And complefixied when dealing with non-symetrical actor (multi 8x8 sprite) (see [Advanced animation](https://www.lexaloffle.com/bbs/?pid=19274&tid=3135&autoplay=1#pp)).
 
 ### External tools
 - [`export`](https://youtu.be/srPKBhzgZhc?feature=shared&t=724)
