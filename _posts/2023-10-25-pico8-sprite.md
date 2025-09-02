@@ -39,7 +39,7 @@ end
 
 ###  [`anim()`](https://www.lexaloffle.com/bbs/?tid=3115&autoplay=1#pp)
 
-Obviously code above can be made generic.
+Obviously code above can be made generic (see  [`anim()`](https://www.lexaloffle.com/bbs/?tid=3115&autoplay=1#pp))
 And complefixied when dealing with non-symetrical actor (multi 8x8 sprite) (see [Advanced animation](https://www.lexaloffle.com/bbs/?pid=19274&tid=3135&autoplay=1#pp)).
 
 ### External tools
