@@ -10,7 +10,7 @@ toc: true
 
 **Online editor**: [draw pico-8 sprites!](https://nerdyteachers.com/PICO-8/Draw/Sprite/) - up to 32x32
 
-## Code
+## Sprite Animation
 - [The secret guide to bullets, sprites, and animations](https://www.lexaloffle.com/bbs/?tid=44686)
 
 ### Basic
@@ -36,6 +36,11 @@ function _update()
     if sprite >= 5 then sprite = 1 end
 end
 {% endhighlight %}
+
+###  [`anim()`](https://www.lexaloffle.com/bbs/?tid=3115&autoplay=1#pp)
+
+Obviously code above can be made generic.
+And complefixied when dealing with multisprite block (see [Advanced animation](https://www.lexaloffle.com/bbs/?pid=19274&tid=3135&autoplay=1#pp)).
 
 ### External tools
 - [`export`](https://youtu.be/srPKBhzgZhc?feature=shared&t=724)
