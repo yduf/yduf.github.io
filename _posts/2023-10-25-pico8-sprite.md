@@ -22,13 +22,12 @@ Assuming you have GFX 8x8 sprite available from 1 to 5, code looks like this
 {% highlight lua %}
 function _init()
   sp = 1
-  speed = 0.3
 end
 
 function _draw()
   cls()
   if sp < 1+4.9 then
-    sp += speed
+    sp += 0.3	// fractional frame speed
   else
     sp = 1
   end
