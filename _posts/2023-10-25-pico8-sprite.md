@@ -26,10 +26,10 @@ end
 
 function _draw()
   cls()
-  if sp < 1+4.9 then
+  if sp < 1+4.9 then // forward loop
     sp += 0.3	// fractional frame speed
   else
-    sp = 1
+    sp = 1		// back to first sprite
   end
 
   spr( sp, 63, 63)
