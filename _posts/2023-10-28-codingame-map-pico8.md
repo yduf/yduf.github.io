@@ -6,11 +6,14 @@ layout: pico8
 ---
 > [Making a Roguelike](https://www.youtube.com/watch?v=qLIPY0ro5UY&t=108s)
 
+<link rel="shortcut icon" href="https://static.wikia.nocookie.net/pico-8/images/4/4a/Site-favicon.ico/revision/latest?cb=20210713144653" type="image/x-icon" />
+
+
 ### Tricks
 - [Smooth Map Screens Transition](https://mboffin.itch.io/pico-8-smooth-map-screens)
 	- see end of [Programmer un jeu d'aventure EP3 : Dialogues et animations](https://www.youtube.com/watch?v=z2A-Cr4ESZ4)
 - [ Spawn Enemies](https://www.youtube.com/watch?v=8jb8SHNS66c)
-- [Study notes on Pico-8 movement](https://ljvmiranda921.github.io/notebook/2021/01/31/pico8-offset/)
+
 
 ### Map Editor
 
