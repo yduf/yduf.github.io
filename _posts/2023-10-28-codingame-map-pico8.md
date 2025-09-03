@@ -9,7 +9,7 @@ layout: pico8
 <link rel="shortcut icon" href="https://static.wikia.nocookie.net/pico-8/images/4/4a/Site-favicon.ico/revision/latest?cb=20210713144653" type="image/x-icon" />
 
 see also
-- [Camera](https://pico-8.fandom.com/wiki/Camera) -  camera offset causes all subsequent draw operations to have the offset subtracted from their x and y coordinates.
+- [`camera`](https://pico-8.fandom.com/wiki/Camera) -  camera offset causes all subsequent draw operations to have the offset subtracted from their x and y coordinates.
 
 ### Tricks
 - [Smooth Map Screens Transition](https://mboffin.itch.io/pico-8-smooth-map-screens)
