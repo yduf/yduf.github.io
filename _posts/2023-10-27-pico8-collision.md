@@ -1,9 +1,11 @@
 ---
 published: true
 title: Collision (Pico-8)
-tags: codingame collision pico8
+tags: game-engine collision pico8
 ---
 > Collisions in games aren't just about hitting a wall, they're about breaking through barriers, smashing expectations, and crashing into new adventures! - _ChatGPT_
+
+<link rel="shortcut icon" href="https://static.wikia.nocookie.net/pico-8/images/4/4a/Site-favicon.ico/revision/latest?cb=20210713144653" type="image/x-icon" />
 
 [![caption](https://github.com/RuairiD/pico8-bump.lua/raw/master/img/slide.png) ](https://github.com/RuairiD/pico8-bump.lua)
 
@@ -29,4 +31,3 @@ tags: codingame collision pico8
 
 see also
 - [How to make a Platformer Game!](https://nerdyteachers.com/Explain/Platformer/)
-
