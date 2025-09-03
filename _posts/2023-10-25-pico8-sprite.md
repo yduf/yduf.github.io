@@ -42,6 +42,9 @@ end
 Obviously code above can be made generic (see  [`anim()`](https://www.lexaloffle.com/bbs/?tid=3115&autoplay=1#pp)),
 and complefixied when dealing with non-symetrical actor (multi 8x8 sprite) (see [Advanced animation](https://www.lexaloffle.com/bbs/?pid=19274&tid=3135&autoplay=1#pp)).
 
+see also
+- [Study notes on Pico-8 movement](https://ljvmiranda921.github.io/notebook/2021/01/31/pico8-offset/)
+
 ### External tools
 - [`export`](https://youtu.be/srPKBhzgZhc?feature=shared&t=724)
 	- `export spritesheet.png`
