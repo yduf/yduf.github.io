@@ -10,6 +10,7 @@ layout: pico8
 
 see also
 - [`camera`](https://pico-8.fandom.com/wiki/Camera) -  camera offset causes all subsequent draw operations to have the offset subtracted from their x and y coordinates.
+- [Reusable Actor Class (Quick Start Library) ](https://www.reddit.com/r/pico8/comments/12awvi5/reusable_actor_class_quick_start_library/)
 
 ### Tricks
 - [Smooth Map Screens Transition](https://mboffin.itch.io/pico-8-smooth-map-screens)
