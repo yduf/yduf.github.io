@@ -1,6 +1,6 @@
 ---
 published: true
-title: Background (Pico-8)
+title: Background & Splash screen (Pico-8)
 tags: pico8 image rle zip
 ---
 > [Background images w/o tiles](https://www.lexaloffle.com/bbs/?tid=38884)
