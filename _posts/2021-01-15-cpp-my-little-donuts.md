@@ -30,5 +30,8 @@ t*d);o=x+80*y;N          =8*((g*a-G*h*e)
 
 - [why you NEED math for programming](https://www.youtube.com/watch?v=sW9npZVpiMI)
 	- [how donut.c works](https://www.a1k0n.net/2011/07/20/donut-math.html)
+    
+see also
+- [Signed distance functions in 46 lines of Python ](https://vgel.me/posts/donut/)
 
 [![caption](https://img.youtube.com/vi/DEqXNfs_HhY/0.jpg)](https://www.youtube.com/watch?v=DEqXNfs_HhY)
