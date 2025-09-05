@@ -26,6 +26,37 @@ b = 2
 ### D 
 - [discussion](https://forum.dlang.org/thread/ncwpezwlgeajdrigegee@forum.dlang.org)
 
+## [Lua](https://chatgpt.com/share/68bae107-7690-800d-9d42-e64a66e46792)
+Lua doesn’t have built-in string interpolation
+
+### Using string.format (most common way)
+{% highlight ruby %}
+local name = "Alice"
+local age = 25
+
+local msg = string.format("My name is %s and I am %d years old.", name, age)
+print(msg)
+{% endhighlight %}
+
+### Using concatenation (..)
+{% highlight ruby %}
+name = "James"
+puts "Hello, #{name}"  // Hello, James
+{% endhighlight %}
+
+### Custom interpolation function
+{% highlight ruby %}
+function interpolate(str, vars)
+    return (str:gsub("($%b{})", function(w)
+        return vars[w:sub(3, -2)] or w
+    end))
+end
+
+local name, age = "Alice", 25
+local msg = interpolate("My name is ${name} and I am ${age} years old.", {name=name, age=age})
+print(msg)
+{% endhighlight %}
+
 ### Ruby
 - [Within string literral](http://ruby-for-beginners.rubymonstas.org/bonus/string_interpolation.html)
 {% highlight ruby %}
@@ -65,5 +96,3 @@ console.log(`The size is ${ value }`);
 
 ### [{{Mustache}} templates](http://mustache.github.io/)
 - [mustache.js](https://github.com/janl/mustache.js)
-
-
