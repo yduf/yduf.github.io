@@ -24,6 +24,9 @@ toc: true
 
 - [Best Setup For MDO and Other Documents](https://www.youtube.com/watch?v=6SaN8NeKZMM)
 	- configure palm rejection
+    
+- [App Control and Organization, Bring More Usability and Efficiency to Your Device](https://www.youtube.com/watch?v=nDbdzvyINdY)
+	- freezing
 
 ### Ai vs ChatGPT
 
