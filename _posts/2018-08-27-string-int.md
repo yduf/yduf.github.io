@@ -1,7 +1,8 @@
 ---
 title: String Interpolation
 published: true
-tags: crystal ruby scala dlang string interpolation
+tags: crystal ruby lua scala dlang string interpolation
+toc: true
 ---
 > or variable binding
 
