@@ -32,6 +32,8 @@ toc: true
 - using USB-C cable **Make sure you have a data-capable cable as some cable do only charge**
 - using [BooxDrop](https://help.boox.com/hc/en-us/articles/8569504200596-Transfer-with-Your-Computer#BooxDrop%20App)
 
+see also [Backup](https://chatgpt.com/share/68bae9f5-4024-800d-a950-0420c47ae9b0)
+
 ### [Library](https://www.youtube.com/watch?v=khRk22aYei8)
 
 ### [NeoReader](https://www.youtube.com/watch?v=U-BBvsf0drs)
