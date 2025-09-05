@@ -11,7 +11,8 @@ see [How to create a webdav server with Nginx](https://www.filestash.app/2021/12
 - it works, but it point direclty to /www
 
 ## Remaining issue 🚧
-- can't rename folder
+- can't rename folder in Nemo
+	- but it works in Boox
 
 
 # Apache
