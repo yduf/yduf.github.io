@@ -10,6 +10,8 @@ tags: nas backup in-progress
 see [How to create a webdav server with Nginx](https://www.filestash.app/2021/12/09/nginx-webdav/)
 - it works, but it point direclty to /www
 
+## Remaining issue 🚧
+- can't rename folder
 
 
 # Apache
