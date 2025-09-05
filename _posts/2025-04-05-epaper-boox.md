@@ -22,6 +22,9 @@ toc: true
 - [Organizing notes & files](https://chatgpt.com/share/68a6dc53-7390-800d-91d8-1d1a098ee6f5)
 	- **Decide early on folders vs tags**: If you think hierarchically, use folders. If you cross-reference often, lean on tags.
 
+- [Best Setup For MDO and Other Documents](https://www.youtube.com/watch?v=6SaN8NeKZMM)
+	- configure palm rejection
+
 ### Ai vs ChatGPT
 
 - [Chat GPT on Boox, Challenges, Solutions, and Improvements](https://www.youtube.com/watch?v=VHqLx_UzM4M)
@@ -32,9 +35,16 @@ toc: true
 - using USB-C cable **Make sure you have a data-capable cable as some cable do only charge**
 - using [BooxDrop](https://help.boox.com/hc/en-us/articles/8569504200596-Transfer-with-Your-Computer#BooxDrop%20App)
 
-### [Backup](https://chatgpt.com/share/68bae9f5-4024-800d-a950-0420c47ae9b0)
+## [Backup](https://chatgpt.com/share/68bae9f5-4024-800d-a950-0420c47ae9b0)
 
-- [using Syncthing](https://www.reddit.com/r/Onyx_Boox/comments/12iug2o/tutorial_my_researchphd_workflow_with_a_boox/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_term=1)
+### [Using WebDAV]()
+
+- [Setup and Use Library Synchronization](https://www.youtube.com/watch?v=qN9F45gZjvU)
+
+
+
+
+### [using Syncthing](https://www.reddit.com/r/Onyx_Boox/comments/12iug2o/tutorial_my_researchphd_workflow_with_a_boox/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_term=1)
 
 ### [Library](https://www.youtube.com/watch?v=khRk22aYei8)
 
