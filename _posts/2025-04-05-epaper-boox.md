@@ -32,7 +32,9 @@ toc: true
 - using USB-C cable **Make sure you have a data-capable cable as some cable do only charge**
 - using [BooxDrop](https://help.boox.com/hc/en-us/articles/8569504200596-Transfer-with-Your-Computer#BooxDrop%20App)
 
-see also [Backup](https://chatgpt.com/share/68bae9f5-4024-800d-a950-0420c47ae9b0)
+### [Backup](https://chatgpt.com/share/68bae9f5-4024-800d-a950-0420c47ae9b0)
+
+- [using Syncthing](https://www.reddit.com/r/Onyx_Boox/comments/12iug2o/tutorial_my_researchphd_workflow_with_a_boox/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_term=1)
 
 ### [Library](https://www.youtube.com/watch?v=khRk22aYei8)
 
