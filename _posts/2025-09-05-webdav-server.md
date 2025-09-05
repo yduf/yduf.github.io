@@ -15,3 +15,7 @@ see [How to create a webdav server with Nginx](https://www.filestash.app/2021/12
 # Apache
 
 - [ Hosting a WebDAV Server on Linux: A Practical Guide ](https://www.elite.cloud/post/hosting-a-webdav-server-on-linux-a-practical-guide/)
+
+# Client
+
+On Linux-Mint, Nemo support natively WebDAV protocol.
