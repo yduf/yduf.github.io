@@ -2,6 +2,7 @@
 published: true
 title: Meta-table (Lua class)
 tags: lua
+toc: true
 ---
 > Lua Object-Oriented Tutorial – [Complete Guide](https://gamedevacademy.org/lua-object-oriented-tutorial-complete-guide/)
 
