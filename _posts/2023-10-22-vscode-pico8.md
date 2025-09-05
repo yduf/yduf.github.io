@@ -63,6 +63,9 @@ you can use individual tabs from carts by going [`#include cartname.p8:2`](https
 
 the `printh` function to output text to the terminal.
 
+see also
+- [redirecting all `print` call](https://chatgpt.com/share/68ba7756-3c04-800d-a40f-a868697e6b68)
+
 ## Tokens
 - use _info_ to have token count
 
