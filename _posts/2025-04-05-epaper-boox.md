@@ -37,6 +37,9 @@ toc: true
         
     - in app login error was resolved by switching to firefox as default browser
     	- still needs to be quick for login (even after unfreezing firefox as well).
+        
+	- ChatGPT display
+    	- on latest model : select `universal` layout in EinkWise
 
 
 ### [Transfer Data](https://chatgpt.com/share/6880a1bd-aed8-800d-b290-eabc5c908e63)
