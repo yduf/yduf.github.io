@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Handwriting \U0001F58E"
+title: Handwriting ✍
 tags: handwriting stylus ocr gesture
 ---
 
