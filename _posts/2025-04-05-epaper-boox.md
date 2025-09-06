@@ -32,8 +32,12 @@ toc: true
 
 - [Chat GPT on Boox, Challenges, Solutions, and Improvements](https://www.youtube.com/watch?v=VHqLx_UzM4M)
 	- unfreeze app / optimize app
+    	- stay active in the background
+        - remove startup animation / App startup Acceleration (on)
+        
     - in app login error was resolved by switching to firefox as default browser
     	- still needs to be quick for login (even after unfreezing firefox as well).
+
 
 ### [Transfer Data](https://chatgpt.com/share/6880a1bd-aed8-800d-b290-eabc5c908e63)
 
