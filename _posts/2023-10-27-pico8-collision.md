@@ -40,3 +40,4 @@ see also
 - [How to make a Platformer Game!](https://nerdyteachers.com/Explain/Platformer/)
 
 # Sprites Collision
+- [Hit (pico8)](https://github.com/kikito/hit.p8?tab=readme-ov-file#hit) - Axis-Aligned Bounding Boxes (aabbs) function that doing continuous collision detection
