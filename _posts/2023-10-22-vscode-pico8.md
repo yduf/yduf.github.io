@@ -30,6 +30,7 @@ see also
 }
 {% endhighlight %}
     
+- [PICO-8 Runner](https://marketplace.visualstudio.com/items?itemName=CrowonCrowbar.pico8-runner) - launch dev cart from IDE (`Ctrl+Shift+8`)
 
 ### Alternatives
 - [pico8vscodeeditor](https://marketplace.visualstudio.com/items?itemName=Grumpydev.pico8vscodeeditor) - facilities for editing Pico-8 p8 files in VSCode.
