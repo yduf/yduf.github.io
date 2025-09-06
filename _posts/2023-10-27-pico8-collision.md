@@ -50,5 +50,11 @@ see also
     
 [![aabb](https://gamedev.docrobs.co.uk/wp-content/uploads/2018/03/square_collision.png)](https://gamedev.docrobs.co.uk/first-steps-in-pico-8-hitting-things)
     
+### Invisible Hitbox
+
+For sprite to sprite, instead of trying to calculate the collision of what is displayed on screen you could use invisibles hitbox.
+
+[![hitbox illustration](https://www.lexaloffle.com/bbs/files/13994/Image%20du%20presse-papiers.jpg)](https://www.lexaloffle.com/bbs/?pid=33068#p)
+
 see also
 - [Collision Detection (An Overview) (UPDATED!)](https://www.youtube.com/watch?v=oOEnWQZIePs) -  AABB vs SAT.
