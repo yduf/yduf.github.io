@@ -17,7 +17,6 @@ Yet we will distinguish 2 aspects: [Map boundaries](#map-boundaries) (ground&wal
 ## 8x8 Sprite
 - [Guides for Sprite Collision detection ...](https://www.lexaloffle.com/bbs/?tid=28145)
     - [Advanced Micro Platformer - Starter Kit](https://www.lexaloffle.com/bbs/?tid=28793)
-    - [pico8-bump.lua ](https://github.com/RuairiD/pico8-bump.lua)
     - [★ X-Zero](https://www.lexaloffle.com/bbs/?pid=70362#p) - big sprite x small block / virtual map
 	
 - [Programmer un jeu d'aventure à la Zelda](https://www.youtube.com/watch?v=opj-iZG1m94&list=PLHKUrXMrDS5t3ibCCh412ZAy0slIv3jeE&index=6) - block level collision
@@ -40,8 +39,12 @@ see also
 [![8x8 collision map schema](https://gamedev.docrobs.co.uk/wp-content/uploads/2018/05/fget_explanation.png)](https://gamedev.docrobs.co.uk/first-steps-in-pico-8-easy-collisions-with-map-tiles)
 
 ## Arbitrary Sized Sprite
-- [Map-Collision Example](https://www.lexaloffle.com/bbs/?tid=46181) - big sprite x small block
+- [Map-Collision Example](https://www.lexaloffle.com/bbs/?tid=46181) - big sprite x small block - rectangular check on 8pix checkpoint
 
+## General AABB solution
+- [pico8-bump.lua ](https://github.com/RuairiD/pico8-bump.lua) - see also **Hit** below
+
+[![demo](https://camo.githubusercontent.com/5ab4531956fc1722485ad0f1e781b69bf5f3d6f0aaa3a06f5b9348c096a9958e/68747470733a2f2f6b696b69746f2e6769746875622e696f2f62756d702e6c75612f696d672f62756d702d73696d706c6564656d6f2e676966)](https://github.com/RuairiD/pico8-bump.lua)
 
 # Sprites Collision
 - [Hit (pico8)](https://github.com/kikito/hit.p8?tab=readme-ov-file#hit) - Axis-Aligned Bounding Boxes (AABB) function that doing continuous collision detection - from same authors as [bump.lua](https://github.com/kikito/bump.lua?tab=readme-ov-file#bumplua)
