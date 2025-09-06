@@ -14,13 +14,8 @@ Yet we will distinguish 2 aspects: [Map boundaries](#map-boundaries) (ground&wal
 
 [![caption](https://github.com/RuairiD/pico8-bump.lua/raw/master/img/slide.png) ](https://github.com/RuairiD/pico8-bump.lua)
 
-### Collision
-
+## 8x8 Sprite
 - [Guides for Sprite Collision detection ...](https://www.lexaloffle.com/bbs/?tid=28145)
-
-- [Map-Collision Example](https://www.lexaloffle.com/bbs/?tid=46181) - big sprite x small block
-	- [First Steps in PICO-8: Easy Collisions with Map Tiles](http://gamedev.docrobs.co.uk/first-steps-in-pico-8-easy-collisions-with-map-tiles) - half filled tiles
-	- [Simple Collision Function](https://www.lexaloffle.com/bbs/?tid=3116) - pixel level box collision - same size as map
     - [Advanced Micro Platformer - Starter Kit](https://www.lexaloffle.com/bbs/?tid=28793)
     - [pico8-bump.lua ](https://github.com/RuairiD/pico8-bump.lua)
     - [★ X-Zero](https://www.lexaloffle.com/bbs/?pid=70362#p) - big sprite x small block / virtual map
@@ -43,6 +38,11 @@ see also
     - [online interactive](https://nerdyteachers.com/PICO-8/Collision/98)
 
 [![8x8 collision map schema](https://gamedev.docrobs.co.uk/wp-content/uploads/2018/05/fget_explanation.png)](https://gamedev.docrobs.co.uk/first-steps-in-pico-8-easy-collisions-with-map-tiles)
+
+## Arbitrary Sized Sprite
+- [Map-Collision Example](https://www.lexaloffle.com/bbs/?tid=46181) - big sprite x small block
+
+
 
 # Sprites Collision
 - [Hit (pico8)](https://github.com/kikito/hit.p8?tab=readme-ov-file#hit) - Axis-Aligned Bounding Boxes (AABB) function that doing continuous collision detection - from same authors as [bump.lua](https://github.com/kikito/bump.lua?tab=readme-ov-file#bumplua)
