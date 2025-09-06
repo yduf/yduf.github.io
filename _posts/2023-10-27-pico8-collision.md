@@ -44,7 +44,8 @@ For sprite greater than 8x8, you can thought of them as composite sprite, and by
 
 ## General AABB solution
 
-- [pico8-bump.lua ](https://github.com/RuairiD/pico8-bump.lua?tab=readme-ov-file#pico8-bumplua) - see also **Hit** below
+- [pico8-bump.lua ](https://github.com/RuairiD/pico8-bump.lua?tab=readme-ov-file#pico8-bumplua) 
+	- see also [**Hit**](#sprites-collision) below
 
 [![demo](https://camo.githubusercontent.com/5ab4531956fc1722485ad0f1e781b69bf5f3d6f0aaa3a06f5b9348c096a9958e/68747470733a2f2f6b696b69746f2e6769746875622e696f2f62756d702e6c75612f696d672f62756d702d73696d706c6564656d6f2e676966)](https://github.com/RuairiD/pico8-bump.lua)
 
