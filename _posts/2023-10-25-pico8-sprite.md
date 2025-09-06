@@ -74,7 +74,7 @@ see also
 - [z-index](https://www.lexaloffle.com/bbs/?pid=35182) - use hash (table) indexed on z, rather than sorting sprite for drawing
 
 ### Collision
-- [Guides for Sprite Collision detection ...](https://www.lexaloffle.com/bbs/?tid=28145)
+For collision looks [here]({% post_url 2023-10-27-pico8-collision %})
 
 ### [Stacked Sprites](https://www.youtube.com/watch?v=_Z5eg9UvLRw)
 
