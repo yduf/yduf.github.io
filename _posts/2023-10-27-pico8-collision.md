@@ -20,12 +20,10 @@ Yet we will distinguish 2 aspects: [Map boundaries](#map-boundaries) (ground&wal
 
 - [Guides for Sprite Collision detection ...](https://www.lexaloffle.com/bbs/?tid=28145)
     - [Advanced Micro Platformer - Starter Kit](https://www.lexaloffle.com/bbs/?tid=28793)
-    - [★ X-Zero](https://www.lexaloffle.com/bbs/?pid=70362#p) - big sprite x small block / virtual map
-	
-- [Programmer un jeu d'aventure à la Zelda](https://www.youtube.com/watch?v=opj-iZG1m94&list=PLHKUrXMrDS5t3ibCCh412ZAy0slIv3jeE&index=6) - block level collision
+	- [Programmer un jeu d'aventure à la Zelda](https://www.youtube.com/watch?v=opj-iZG1m94&list=PLHKUrXMrDS5t3ibCCh412ZAy0slIv3jeE&index=6) - block level collision
     - [Micro Platformer - Simple Platforming Engine in 100 Lines of Code](https://www.lexaloffle.com/bbs/?tid=27626)
 - [Breakout #6 - Collision - Pico-8 Hero](https://www.youtube.com/watch?v=ejDC-aIgVIE) - en mode casse brick
-
+    
 - [Pixel Perfect collision](https://forums.insertcredit.com/d/543-pico-8-dev-diary/7) 
 	- [celeste work](https://github.com/ExOK/Celeste2)
 		- tour of [Celest movement (MIT Licenced)](https://www.youtube.com/watch?v=RJN83kSzh2k&t=258s)
@@ -39,10 +37,9 @@ see also
 	- [Simple Collision Function](https://www.lexaloffle.com/bbs/?tid=3116) demo cart
     - [online interactive](https://nerdyteachers.com/PICO-8/Collision/98)
 
-
-
 ## Arbitrary Sized Sprite
-- [Map-Collision Example](https://www.lexaloffle.com/bbs/?tid=46181) - big sprite x small block - rectangular check on 8pix checkpoint
+- [Map-Collision Example](https://www.lexaloffle.com/bbs/?tid=46181) - big sprite x small block - rectangular check on 8x8pix checkpoint
+- [★ X-Zero](https://www.lexaloffle.com/bbs/?pid=70362#p) - big sprite x small block / virtual map
 
 ## General AABB solution
 - [pico8-bump.lua ](https://github.com/RuairiD/pico8-bump.lua) - see also **Hit** below
