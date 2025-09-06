@@ -11,6 +11,8 @@ tags: game-engine collision pico8
 
 ### Collision
 
+- [Guides for Sprite Collision detection ...](https://www.lexaloffle.com/bbs/?tid=28145)
+
 - [Map-Collision Example](https://www.lexaloffle.com/bbs/?tid=46181) - big sprite x small block
 	- [First Steps in PICO-8: Easy Collisions with Map Tiles](http://gamedev.docrobs.co.uk/first-steps-in-pico-8-easy-collisions-with-map-tiles) - half filled tiles
 	- [Simple Collision Function](https://www.lexaloffle.com/bbs/?tid=3116) - pixel level box collision - same size as map
