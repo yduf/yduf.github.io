@@ -40,3 +40,6 @@ Atiyah notes the growing prominence of non-commutative algebra:
 - Rooted in Hamilton’s quaternions and Grassmann’s exterior algebra.
 
 - Now central in areas like operator algebras and quantum theory.
+
+see also
+- [intégrale de Riemann : Cours clair net et précis](https://www.youtube.com/watch?v=WdXlhQSiQbc)
