@@ -6,6 +6,8 @@ toc: true
 ---
 > A small or elusive supernatural being; an elf or pixie. - [noun](https://www.wordnik.com/words/sprite)
 
+For collision looks [here]({% post_url 2023-10-27-pico8-collision %})
+
 <link rel="shortcut icon" href="https://static.wikia.nocookie.net/pico-8/images/4/4a/Site-favicon.ico/revision/latest?cb=20210713144653" type="image/x-icon" />
 
 **Online editor**: [draw pico-8 sprites!](https://nerdyteachers.com/PICO-8/Draw/Sprite/) - up to 32x32
