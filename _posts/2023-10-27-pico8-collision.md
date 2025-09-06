@@ -48,5 +48,7 @@ see also
 	- [A PICO-8 Spaceshooter in 16 GIFs](https://ztiromoritz.github.io/pico-8-shooter/) - collision using box
     - [Breakout #6 - Collision - Pico-8 Hero](https://www.youtube.com/watch?v=ejDC-aIgVIE) - collision detection is a big deal!
     
+[![aabb](https://gamedev.docrobs.co.uk/wp-content/uploads/2018/03/square_collision.png)](https://gamedev.docrobs.co.uk/first-steps-in-pico-8-hitting-things)
+    
 see also
 - [Collision Detection (An Overview) (UPDATED!)](https://www.youtube.com/watch?v=oOEnWQZIePs) -  AABB vs SAT.
