@@ -15,10 +15,11 @@ Yet we will distinguish 2 aspects: [Map boundaries](#map-boundaries) (ground&wal
 [![caption](https://github.com/RuairiD/pico8-bump.lua/raw/master/img/slide.png) ](#general-aabb-solution)
 
 ## 8x8 Sprite
+Pico8 engine provide a lot of support for this through the map & flag function: converting sprite 8x8 coordinates to map coordinate and retrieving cell flags, allows to check for obstacle easily on the 8x8 grid map... at least for cell to cell moves.
 
 [![8x8 collision map schema](https://gamedev.docrobs.co.uk/wp-content/uploads/2018/05/fget_explanation.png)](https://gamedev.docrobs.co.uk/first-steps-in-pico-8-easy-collisions-with-map-tiles)
 
-Pico8 engine provide a lot of support for this through the map & flag function: converting sprite coordinates to map coordinate and retrieving cell flags, allows to check for obstacle easily... at least for cell to cell moves.
+
 
 Some example using this technics:
 - [How to make a Platformer Game!](https://nerdyteachers.com/Explain/Platformer/)
