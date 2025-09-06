@@ -27,8 +27,6 @@ Yet we will distinguish 2 aspects: [Map boundaries](#map-boundaries) (ground&wal
     - [Micro Platformer - Simple Platforming Engine in 100 Lines of Code](https://www.lexaloffle.com/bbs/?tid=27626)
 - [Breakout #6 - Collision - Pico-8 Hero](https://www.youtube.com/watch?v=ejDC-aIgVIE) - en mode casse brick
     
-
-
 [![caption](https://gamedev.docrobs.co.uk/wp-content/uploads/2018/05/fget_col.gif)](http://gamedev.docrobs.co.uk/first-steps-in-pico-8-easy-collisions-with-map-tiles)
 
 Previously:
