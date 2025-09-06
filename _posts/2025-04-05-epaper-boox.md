@@ -28,7 +28,7 @@ toc: true
 - [App Control and Organization, Bring More Usability and Efficiency to Your Device](https://www.youtube.com/watch?v=nDbdzvyINdY)
 	- freezing
 
-### Ai vs ChatGPT
+### ChatGPT on Boox
 
 - [Chat GPT on Boox, Challenges, Solutions, and Improvements](https://www.youtube.com/watch?v=VHqLx_UzM4M)
 	- unfreeze app / optimize app
