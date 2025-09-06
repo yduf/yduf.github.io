@@ -34,7 +34,7 @@ Yet we will distinguish 2 aspects: Map boundaries (ground&wall) et colliding wit
 		- tour of [Celest movement (MIT Licenced)](https://www.youtube.com/watch?v=RJN83kSzh2k&t=258s)
 
 
-[![caption](http://gamedev.docrobs.co.uk/wp-content/uploads/2018/05/fget_map.png) ](http://gamedev.docrobs.co.uk/first-steps-in-pico-8-easy-collisions-with-map-tiles)
+[![caption](https://gamedev.docrobs.co.uk/wp-content/uploads/2018/05/fget_col.gif)](http://gamedev.docrobs.co.uk/first-steps-in-pico-8-easy-collisions-with-map-tiles)
 
 see also
 - [How to make a Platformer Game!](https://nerdyteachers.com/Explain/Platformer/)
