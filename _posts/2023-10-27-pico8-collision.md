@@ -40,6 +40,7 @@ see also
 - [How to make a Platformer Game!](https://nerdyteachers.com/Explain/Platformer/)
 - [Pico-8 Collisions with background tiles using fget and mget](https://www.youtube.com/watch?v=Gs0XFViFxFs) / [blog](https://gamedev.docrobs.co.uk/first-steps-in-pico-8-easy-collisions-with-map-tiles) - xy to grid location / flag on map with 8x8 block.
 	- [Simple Collision Function](https://www.lexaloffle.com/bbs/?tid=3116) demo cart
+    - [online interactive](https://nerdyteachers.com/PICO-8/Collision/98)
 
 [![8x8 collision map schema](https://gamedev.docrobs.co.uk/wp-content/uploads/2018/05/fget_explanation.png)](https://gamedev.docrobs.co.uk/first-steps-in-pico-8-easy-collisions-with-map-tiles)
 
