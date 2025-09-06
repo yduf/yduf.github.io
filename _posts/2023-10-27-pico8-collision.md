@@ -8,7 +8,7 @@ toc: true
 
 <link rel="shortcut icon" href="https://static.wikia.nocookie.net/pico-8/images/4/4a/Site-favicon.ico/revision/latest?cb=20210713144653" type="image/x-icon" />
 
-Yet we will distinguish 2 aspects: Map boundaries (ground&wall) et colliding with other object (sprites).
+Yet we will distinguish 2 aspects: [Map boundaries](#map-boundaries) (ground&wall) and [colliding](#sprites-collision) with other object (sprites).
 
 # Map Boundaries
 
