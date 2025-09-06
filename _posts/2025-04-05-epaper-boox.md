@@ -31,7 +31,8 @@ toc: true
 ### Ai vs ChatGPT
 
 - [Chat GPT on Boox, Challenges, Solutions, and Improvements](https://www.youtube.com/watch?v=VHqLx_UzM4M)
-	- unfreeze app
+	- unfreeze app / optimize app
+    - in app login error was resolved by switching to firefox as default browser
 
 ### [Transfer Data](https://chatgpt.com/share/6880a1bd-aed8-800d-b290-eabc5c908e63)
 
