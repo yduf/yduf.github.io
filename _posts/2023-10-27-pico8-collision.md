@@ -17,25 +17,25 @@ Yet we will distinguish 2 aspects: [Map boundaries](#map-boundaries) (ground&wal
 ## 8x8 Sprite
 
 [![8x8 collision map schema](https://gamedev.docrobs.co.uk/wp-content/uploads/2018/05/fget_explanation.png)](https://gamedev.docrobs.co.uk/first-steps-in-pico-8-easy-collisions-with-map-tiles)
-
+- [How to make a Platformer Game!](https://nerdyteachers.com/Explain/Platformer/)
+- [Pico-8 Collisions with background tiles using fget and mget](https://www.youtube.com/watch?v=Gs0XFViFxFs) / [blog](https://gamedev.docrobs.co.uk/first-steps-in-pico-8-easy-collisions-with-map-tiles) - xy to grid location / flag on map with 8x8 block.
+	- [Simple Collision Function](https://www.lexaloffle.com/bbs/?tid=3116) demo cart
+    - [online interactive](https://nerdyteachers.com/PICO-8/Collision/98)
 - [Guides for Sprite Collision detection ...](https://www.lexaloffle.com/bbs/?tid=28145)
     - [Advanced Micro Platformer - Starter Kit](https://www.lexaloffle.com/bbs/?tid=28793)
 	- [Programmer un jeu d'aventure à la Zelda](https://www.youtube.com/watch?v=opj-iZG1m94&list=PLHKUrXMrDS5t3ibCCh412ZAy0slIv3jeE&index=6) - block level collision
     - [Micro Platformer - Simple Platforming Engine in 100 Lines of Code](https://www.lexaloffle.com/bbs/?tid=27626)
 - [Breakout #6 - Collision - Pico-8 Hero](https://www.youtube.com/watch?v=ejDC-aIgVIE) - en mode casse brick
     
-- [Pixel Perfect collision](https://forums.insertcredit.com/d/543-pico-8-dev-diary/7) 
-	- [celeste work](https://github.com/ExOK/Celeste2)
-		- tour of [Celest movement (MIT Licenced)](https://www.youtube.com/watch?v=RJN83kSzh2k&t=258s)
 
 
 [![caption](https://gamedev.docrobs.co.uk/wp-content/uploads/2018/05/fget_col.gif)](http://gamedev.docrobs.co.uk/first-steps-in-pico-8-easy-collisions-with-map-tiles)
 
-see also
-- [How to make a Platformer Game!](https://nerdyteachers.com/Explain/Platformer/)
-- [Pico-8 Collisions with background tiles using fget and mget](https://www.youtube.com/watch?v=Gs0XFViFxFs) / [blog](https://gamedev.docrobs.co.uk/first-steps-in-pico-8-easy-collisions-with-map-tiles) - xy to grid location / flag on map with 8x8 block.
-	- [Simple Collision Function](https://www.lexaloffle.com/bbs/?tid=3116) demo cart
-    - [online interactive](https://nerdyteachers.com/PICO-8/Collision/98)
+Previously:
+- [Pixel Perfect collision](https://forums.insertcredit.com/d/543-pico-8-dev-diary/7) 
+	- [celeste work](https://github.com/ExOK/Celeste2)
+		- tour of [Celest movement (MIT Licenced)](https://www.youtube.com/watch?v=RJN83kSzh2k&t=258s)
+
 
 ## Arbitrary Sized Sprite
 - [Map-Collision Example](https://www.lexaloffle.com/bbs/?tid=46181) - big sprite x small block - rectangular check on 8x8pix checkpoint
