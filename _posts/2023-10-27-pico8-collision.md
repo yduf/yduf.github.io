@@ -17,6 +17,10 @@ Yet we will distinguish 2 aspects: [Map boundaries](#map-boundaries) (ground&wal
 ## 8x8 Sprite
 
 [![8x8 collision map schema](https://gamedev.docrobs.co.uk/wp-content/uploads/2018/05/fget_explanation.png)](https://gamedev.docrobs.co.uk/first-steps-in-pico-8-easy-collisions-with-map-tiles)
+
+Pico8 engine provide a lot of support for this through the map & flag function: converting sprite coordinates to map coordinate and retrieving cell flags, allows to check for obstacle easily... at least for cell to cell moves.
+
+Some example using this technics:
 - [How to make a Platformer Game!](https://nerdyteachers.com/Explain/Platformer/)
 - [Pico-8 Collisions with background tiles using fget and mget](https://www.youtube.com/watch?v=Gs0XFViFxFs) / [blog](https://gamedev.docrobs.co.uk/first-steps-in-pico-8-easy-collisions-with-map-tiles) - xy to grid location / flag on map with 8x8 block.
 	- [Simple Collision Function](https://www.lexaloffle.com/bbs/?tid=3116) demo cart
@@ -34,12 +38,13 @@ Previously:
 	- [celeste work](https://github.com/ExOK/Celeste2)
 		- tour of [Celest movement (MIT Licenced)](https://www.youtube.com/watch?v=RJN83kSzh2k&t=258s)
 
-
 ## Arbitrary Sized Sprite
+For sprite greater than 8x8, you can thought of them as composite sprite, and by checking on 8 fence pole bouding box, achieve the same behavior implemented above:
 - [Map-Collision Example](https://www.lexaloffle.com/bbs/?tid=46181) - big sprite x small block - rectangular check on 8x8pix checkpoint
 - [★ X-Zero](https://www.lexaloffle.com/bbs/?pid=70362#p) - big sprite x small block / virtual map
 
 ## General AABB solution
+
 - [pico8-bump.lua ](https://github.com/RuairiD/pico8-bump.lua) - see also **Hit** below
 
 [![demo](https://camo.githubusercontent.com/5ab4531956fc1722485ad0f1e781b69bf5f3d6f0aaa3a06f5b9348c096a9958e/68747470733a2f2f6b696b69746f2e6769746875622e696f2f62756d702e6c75612f696d672f62756d702d73696d706c6564656d6f2e676966)](https://github.com/RuairiD/pico8-bump.lua)
