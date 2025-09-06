@@ -7,6 +7,10 @@ tags: game-engine collision pico8
 
 <link rel="shortcut icon" href="https://static.wikia.nocookie.net/pico-8/images/4/4a/Site-favicon.ico/revision/latest?cb=20210713144653" type="image/x-icon" />
 
+Yet we will distinguish 2 aspects: Map boundaries (ground&wall) et colliding with other object (sprites).
+
+# Map Boundaries
+
 [![caption](https://github.com/RuairiD/pico8-bump.lua/raw/master/img/slide.png) ](https://github.com/RuairiD/pico8-bump.lua)
 
 ### Collision
@@ -33,3 +37,5 @@ tags: game-engine collision pico8
 
 see also
 - [How to make a Platformer Game!](https://nerdyteachers.com/Explain/Platformer/)
+
+# Sprites Collision
