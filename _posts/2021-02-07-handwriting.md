@@ -8,6 +8,7 @@ tags: handwriting stylus ocr gesture
 - [calligrapher.ai](https://www.calligrapher.ai/) - generate text to handwriting stroke
 
 - [Calligraphr](https://www.calligraphr.com/en/) - Transform your handwriting or calligraphy into a font!
+	- [Making a font of my handwriting](https://chameth.com/making-a-font-of-my-handwriting/) / [HN](https://news.ycombinator.com/item?id=45141636) - for 8$
 
 ## Data
 - [Competition on Recognition of Online Handwritten Mathematical Expressions (CHROME)](https://www.isical.ac.in/~crohme/CROHME_data.html)
