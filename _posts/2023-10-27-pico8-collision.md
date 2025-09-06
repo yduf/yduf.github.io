@@ -43,3 +43,6 @@ see also
 - [Hit (pico8)](https://github.com/kikito/hit.p8?tab=readme-ov-file#hit) - Axis-Aligned Bounding Boxes (AABB) function that doing continuous collision detection - from same authors as [bump.lua](https://github.com/kikito/bump.lua?tab=readme-ov-file#bumplua)
 	- [A PICO-8 Spaceshooter in 16 GIFs](https://ztiromoritz.github.io/pico-8-shooter/) - collision using box
     - [Breakout #6 - Collision - Pico-8 Hero](https://www.youtube.com/watch?v=ejDC-aIgVIE) - collision detection is a big deal!
+    
+see also
+- [Collision Detection (An Overview) (UPDATED!)](https://www.youtube.com/watch?v=oOEnWQZIePs) -  AABB vs SAT.
