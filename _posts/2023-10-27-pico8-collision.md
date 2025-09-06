@@ -12,7 +12,7 @@ Yet we will distinguish 2 aspects: [Map boundaries](#map-boundaries) (ground&wal
 
 # Map Boundaries
 
-[![caption](https://github.com/RuairiD/pico8-bump.lua/raw/master/img/slide.png) ](https://github.com/RuairiD/pico8-bump.lua)
+[![caption](https://github.com/RuairiD/pico8-bump.lua/raw/master/img/slide.png) ](https://github.com/RuairiD/pico8-bump.lua?tab=readme-ov-file#pico8-bumplua)
 
 ## 8x8 Sprite
 - [Guides for Sprite Collision detection ...](https://www.lexaloffle.com/bbs/?tid=28145)
