@@ -71,4 +71,4 @@ For sprite to sprite, instead of trying to calculate the collision of what is di
 
 see also
 - [Collision Detection (An Overview) (UPDATED!)](https://www.youtube.com/watch?v=oOEnWQZIePs) -  AABB vs SAT.
-- [Building Collision Simulations: An Introduction to Computer Graphics](https://www.youtube.com/watch?v=eED4bSkYCB8&t=825s) - multi sphere collision
+- [Building Collision Simulations: An Introduction to Computer Graphics](https://www.youtube.com/watch?v=eED4bSkYCB8&t=825s) - multi sphere collision - filter test by projecting bounding box on one axis
