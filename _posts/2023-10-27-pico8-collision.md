@@ -50,12 +50,19 @@ For sprite greater than 8x8, you can thought of them as composite sprite, and by
 [![demo](https://camo.githubusercontent.com/5ab4531956fc1722485ad0f1e781b69bf5f3d6f0aaa3a06f5b9348c096a9958e/68747470733a2f2f6b696b69746f2e6769746875622e696f2f62756d702e6c75612f696d672f62756d702d73696d706c6564656d6f2e676966)](https://github.com/RuairiD/pico8-bump.lua)
 
 # Sprites Collision
+
+## Simple approach  
+- [A PICO-8 Spaceshooter in 16 GIFs](https://ztiromoritz.github.io/pico-8-shooter/) - collision using box
+- [Breakout #6 - Collision - Pico-8 Hero](https://www.youtube.com/watch?v=ejDC-aIgVIE) - collision detection is a big deal!
+
+[![aabb](https://gamedev.docrobs.co.uk/wp-content/uploads/2018/03/square_collision.png)](https://gamedev.docrobs.co.uk/first-steps-in-pico-8-hitting-things)
+
+## More General
 - [Hit (pico8)](https://github.com/kikito/hit.p8?tab=readme-ov-file#hit) - Axis-Aligned Bounding Boxes (AABB) function that doing continuous collision detection - from same authors as [bump.lua](https://github.com/kikito/bump.lua?tab=readme-ov-file#bumplua)
 	- There is card on repo that demonstrate hit code
-	- [A PICO-8 Spaceshooter in 16 GIFs](https://ztiromoritz.github.io/pico-8-shooter/) - collision using box
-    - [Breakout #6 - Collision - Pico-8 Hero](https://www.youtube.com/watch?v=ejDC-aIgVIE) - collision detection is a big deal!
     
-[![aabb](https://gamedev.docrobs.co.uk/wp-content/uploads/2018/03/square_collision.png)](https://gamedev.docrobs.co.uk/first-steps-in-pico-8-hitting-things)
+[![hit card](https://github.com/kikito/hit.p8/raw/365c01dafec9b666641ccc62b134c55ff4a6a464/hit.p8.png)](https://www.lexaloffle.com/bbs/widget.php?pid=hit)
+
     
 ### Invisible Hitbox
 
