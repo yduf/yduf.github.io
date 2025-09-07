@@ -62,7 +62,6 @@ For sprite greater than 8x8, you can thought of them as composite sprite, and by
 	- There is card on repo that demonstrate hit code
     
 [![hit card](https://github.com/kikito/hit.p8/raw/365c01dafec9b666641ccc62b134c55ff4a6a464/hit.p8.png)](https://www.lexaloffle.com/bbs/widget.php?pid=hit)
-
     
 ### Invisible Hitbox
 
@@ -72,3 +71,4 @@ For sprite to sprite, instead of trying to calculate the collision of what is di
 
 see also
 - [Collision Detection (An Overview) (UPDATED!)](https://www.youtube.com/watch?v=oOEnWQZIePs) -  AABB vs SAT.
+- [Building Collision Simulations: An Introduction to Computer Graphics](https://www.youtube.com/watch?v=eED4bSkYCB8&t=825s) - multi sphere collision
