@@ -12,10 +12,10 @@ For collision looks [here]({% post_url 2023-10-27-pico8-collision %})
 
 **Online editor**: [draw pico-8 sprites!](https://nerdyteachers.com/PICO-8/Draw/Sprite/) - up to 32x32
 
-## Sprite Animation
+# Sprite Animation
 - [The secret guide to bullets, sprites, and animations](https://www.lexaloffle.com/bbs/?tid=44686)
 
-### Basic
+## Basic
 - [Easy Sprite Animation in Pico-8 - Beginner Tutorial](https://www.youtube.com/watch?v=8JQz2SL5_Js) - cover animation as basic example
 	- animation loop & boundary
     - speed setting
@@ -46,6 +46,7 @@ and complefixied when dealing with non-symetrical actor (multi 8x8 sprite) (see 
 
 see also
 - [Study notes on Pico-8 movement](https://ljvmiranda921.github.io/notebook/2021/01/31/pico8-offset/)
+- [Reusable Actor Class (Quick Start Library) ](https://www.reddit.com/r/pico8/comments/12awvi5/reusable_actor_class_quick_start_library/) / [github](https://github.com/gcoulby/pico-8-reusable-actor) / [demo]()
 
 ### External tools
 - [`export`](https://youtu.be/srPKBhzgZhc?feature=shared&t=724)
