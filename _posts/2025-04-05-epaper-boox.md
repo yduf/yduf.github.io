@@ -52,7 +52,7 @@ toc: true
 ### DropBox
 - [Automating note-taking: Onyx Boox to Notion with OCR and AI summarization](https://michalwlosik.medium.com/automating-note-taking-onyx-boox-to-notion-with-ocr-and-ai-summarization-4a1d8ecd88ec)
 
-### [Using WebDAV]()
+### [Using WebDAV]({% post_url 2025-09-05-webdav-server %})
 
 - [Setup and Use Library Synchronization](https://www.youtube.com/watch?v=qN9F45gZjvU)
 
