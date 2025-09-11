@@ -29,6 +29,11 @@ see also
 - go to settings/Storage -> enable USB Web Interface
 - open browser to [http://10.11.99.1](http://10.11.99.1)
 
+see also
+- [exporting - in bulk. ](https://www.reddit.com/r/RemarkableTablet/comments/186uiz8/exporting_in_bulk/)
+	- [rmweb](https://github.com/kg4zow/rmweb?tab=readme-ov-file#rmweb) - CLI interface,  lists all documents on a reMarakble tablet, or downloads them all as PDF files, using the tablet's built-in web interface.
+    - [reMarkable Connection Utility (RCU)](https://www.davisr.me/projects/rcu/) - OSS - 12$
+
 ### ssh
 - [SSH Access](https://remarkablewiki.com/tech/ssh) - [yduf/ssh]({% post_url 2019-04-29-ssh %})
 	- The reMarkable uses [dropbear](https://matt.ucc.asn.au/dropbear/dropbear.html) (via busybox) for its ssh server. / [github](https://github.com/mkj/dropbear)
