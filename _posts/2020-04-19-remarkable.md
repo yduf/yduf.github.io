@@ -23,7 +23,11 @@ see also
 
 ## Integration
 
-### USB Web Interface
+### [USB Web Interface](https://remarkable.guide/tech/usb-web-interface.html#enable-the-interface)
+
+- connect remarkable to USB
+- go to settings/Storage -> enable USB Web Interface
+- open browser to [http://10.11.99.1](http://10.11.99.1)
 
 ### ssh
 - [SSH Access](https://remarkablewiki.com/tech/ssh) - [yduf/ssh]({% post_url 2019-04-29-ssh %})
