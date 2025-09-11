@@ -32,6 +32,7 @@ see also
 see also
 - [exporting - in bulk. ](https://www.reddit.com/r/RemarkableTablet/comments/186uiz8/exporting_in_bulk/)
 	- [rmweb](https://github.com/kg4zow/rmweb?tab=readme-ov-file#rmweb) - CLI interface,  lists all documents on a reMarakble tablet, or downloads them all as PDF files, using the tablet's built-in web interface.
+    	- `rmweb list`
     - [reMarkable Connection Utility (RCU)](https://www.davisr.me/projects/rcu/) - OSS - 12$
 
 ### ssh
