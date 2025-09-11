@@ -74,6 +74,7 @@ crop=smart&auto=webp&s=de4e46cff9a739175965e561c5f561720660413c)
 
 ## Customization
 - [ddvk/remarkable-hacks](https://github.com/ddvk/remarkable-hacks) - various UI/Gesture enhancement.
+	- [Can I update my remarkable to latest version of the system, after having installed ddvk/remarkable-hacks on it? (chatGPT)](https://chatgpt.com/share/68c31c0a-bbc0-800d-b4d7-9665d94a1d4e) -> yes, but <span style="color:red">**DONT do a FACTORY RESET**</span>
 - [Customizing the Splashscreens](https://remarkablewiki.com/tips/splashscreens) `/usr/share/remarkable`
 	- [Neurone/reMarkable](https://github.com/Neurone/reMarkable) - Automatically change your poweroff and suspend screens every 5 minutes / [Customizing the Splashscreens](https://remarkablewiki.com/tips/splashscreens) - doesn't work since 2.5.0.27 upgrade [only on rm1](https://github.com/ddvk/remarkable-hacks/issues/157)
 		- could be enhanced to use [suspend event](https://askubuntu.com/questions/226278/run-script-on-wakeup) rather than timer.
