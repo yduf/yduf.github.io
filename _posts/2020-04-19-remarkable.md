@@ -74,7 +74,7 @@ crop=smart&auto=webp&s=de4e46cff9a739175965e561c5f561720660413c)
 
 ## Customization
 - [ddvk/remarkable-hacks](https://github.com/ddvk/remarkable-hacks) - various UI/Gesture enhancement.
-	- [Can I update my remarkable to latest version of the system, after having installed ddvk/remarkable-hacks on it? (chatGPT)](https://chatgpt.com/share/68c31c0a-bbc0-800d-b4d7-9665d94a1d4e) -> yes, but <span style="color:red">**DONT do a FACTORY RESET**</span>
+	- [Can I update my remarkable to latest version of the system, after having installed ddvk/remarkable-hacks on it? (chatGPT)](https://chatgpt.com/share/68c31c0a-bbc0-800d-b4d7-9665d94a1d4e) -> yes, but <span style="color:red">[**DONT do a FACTORY RESET**](https://www.reddit.com/r/RemarkableTablet/comments/kmae1e/if_you_start_messing_with_the_device_and/)</span>
 		-  it wont fix anything if you made modification to the rootfs, it will just delete everything in /home
 		- in certain cases it leads to locking yourself out, thus bricking the device. 
 - [Customizing the Splashscreens](https://remarkablewiki.com/tips/splashscreens) `/usr/share/remarkable`
