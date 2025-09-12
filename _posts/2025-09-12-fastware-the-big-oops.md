@@ -13,7 +13,7 @@ Looking Glass (1998)
     - vs where you make it easy
 - Encapsulation boundaries around the system vs Boundaries accross the objects
 - don't make the domain model be in the code.
-	- compile-time hierarchy of encapsulation that matches the domain model
+	- compile-time hierarchy of encapsulation that matches the domain model => Are not that good (and may be counterproductive).
 
 ### OOP
 - oop was just about passing message - (Alan Kay)
