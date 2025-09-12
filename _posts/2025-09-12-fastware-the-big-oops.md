@@ -31,4 +31,5 @@ tags: fastware OOP ECS architecture c++
 	- [ring structured](https://youtu.be/wo84LFzx5nI?si=LtKJzwD9d2dtB_4y&t=5614) designed to rapid constraint satisfaction
     	- chicken - a link in the linked list that point to the sentinel (hen)
 	- the virtual function was the least interessting part of this (because it was possible because draw was very simple)
+    	- the constraint solver was omniscient (ECS model)
 - CSG on Spheres (1997) - NegaMan (Negative Metaball)
