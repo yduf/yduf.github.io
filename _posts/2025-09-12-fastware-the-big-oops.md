@@ -18,6 +18,6 @@ tags: fastware OOP ECS architecture
 - oop was just about passing message - (Alan Kay)
 - inheritance hierarchy was told early (since 1980s)
 	- C++ does not force to do it that way (even if it promoted it a  lot)
-- C++ on simula -> didn't scale
+- Stroustrup 1994 - C++ on simula -> didn't scale 
 	- build was very long / incremental build suck
     - runtime was very slow (because of the GC even when no work was needed)
