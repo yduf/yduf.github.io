@@ -16,4 +16,4 @@ tags: fastware OOP ECS architecture
 
 ### OOP
 - oop was just about passing message
-- inheritance hierarchy was told early.
+- inheritance hierarchy was told early (since 1980s)
