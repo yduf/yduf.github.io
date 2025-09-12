@@ -19,7 +19,7 @@ tags: fastware OOP ECS architecture c++
 - inheritance hierarchy was told early (since 1980s)
 	- C++ does not force to do it that way (even if it promoted it a  lot)
 - Stroustrup 1994 (Design of Evolution of C++) - C++ on simula -> didn't scale 
-	- build was very long / incremental build suck
-    - runtime was very slow (because of the GC even when no work was needed)
+	- Simula build was very long / incremental build suck
+    - Simula runtime was very slow (because of the GC even when no work was needed)
     - about large Teams (were hierarchy and encapsulation should strive) => didn't work even on 1 people team
     - inheritance used mainly for code-reuse
