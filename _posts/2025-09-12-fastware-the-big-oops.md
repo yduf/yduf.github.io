@@ -13,3 +13,7 @@ tags: fastware OOP ECS architecture
 - Encapsulation boundaries around the system vs Boundaries accross the objects
 - don't make the domain model be in the code.
 	- compile-time hierarchy of encapsulation that matches the domain model
+
+### OOP
+- oop was just about passing message
+- inheritance hierarchy was told early.
