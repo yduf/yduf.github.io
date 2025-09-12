@@ -70,6 +70,7 @@ function Vector3.new(x, y, z)
  self.z = z or 0
  return self
 end
+
 -- Overriding the 'magnitude' method for 'Vector3'
 function Vector3:magnitude()
  return math.sqrt(self.x * self.x + self.y * self.y + self.z * self.z)
