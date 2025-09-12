@@ -65,21 +65,21 @@ $ sudo reboot               # and restart :-( ...
 
 That said, technically you dont need any of them. You can just create a Windows 10 usb installer and download your drivers separately and store them on the usb drive in a folder, then format your ssd and reinstall Windows. That will free up your 14gb partition - since that probably houses the stock image of the hard drive that can be restored through WinPE. With your windows installer on a usb stick instead, you’ll get the standard Windows install: an efi partition, a recovery partion, and the rest of your space to your C drive. Though you’ll have to find your serial or a way to transfer the activation license with you.
 
-## [Installing Linux](https://www.tecmint.com/install-linux-mint-alongside-windows-dual-boot-uefi-mode/)
+# [Installing Linux](https://www.tecmint.com/install-linux-mint-alongside-windows-dual-boot-uefi-mode/)
 
-### Shrink/Delete Partition
+## Shrink/Delete Partition
 Using disk management tool
 - remove Data (D:) partition 
 - shrink OS (C:) partition to 50Go (leave 10Go free)
 
 For the moment leave Onekey partition (14Go occupied)
 
-### Linux install
+## Linux install
 Internet connection is recommanded for install (for thirdparty software).
 
 Partition / (100Go), /home (300Go)
 
-### Hardware info
+## Hardware info
 
 - [wifi card is a Intel Wireless-AC 9560](https://www.notebookcheck.net/Huawei-MateBook-14-2020-laptop-review-3-2-clamshell-convinces-both-with-Intel-and-AMD-CPUs.508467.0.htmlwifi)
 	- [wifi issue]({% post_url 2022-01-08-wifi-9560 %})
@@ -119,7 +119,7 @@ Sensors:   System Temperatures: cpu: 35.0 C mobo: N/A gpu: nouveau temp: 34 C
            Fan Speeds (RPM): N/A 
 {% endhighlight %}
   
-### Hardware upgrade
+# Hardware upgrade
 - [Huawei MateBook 14s - disassembly and upgrade options](https://www.youtube.com/watch?v=zwfZ-mRTWpk&t=71s) / [Huawei MateBook D 14 (2020) ](https://www.youtube.com/watch?v=BsiJxz3gKio)
 	- memory soldered directly on the mother board
 	- SSD can be removed.
