@@ -75,3 +75,4 @@ see also
 	- filter test by projecting bounding box on one axis
     - K-D Trees
     - Bouding Volume Hierarchies
+- [ locus.p8 ](https://www.lexaloffle.com/bbs/?pid=165425) - A sparse spatial grid for Pico-8
