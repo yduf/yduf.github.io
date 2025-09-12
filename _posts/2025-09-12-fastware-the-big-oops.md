@@ -8,6 +8,6 @@ tags: fastware OOP ECS architecture
 ### Entity Component System (ECS)
 - the opposite of a fat-struct
 - Architecture care about encapsulation boundaries
-	- where you make it hard to access the system
+	- where you make it difficult to access things
     - vs where you make it easy
-- Boundaries around the system vs Boundaries accross the 
+- Encapsulation boundaries around the system vs Boundaries accross the objects
