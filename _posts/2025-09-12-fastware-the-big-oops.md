@@ -21,3 +21,4 @@ tags: fastware OOP ECS architecture
 - Stroustrup 1994 - C++ on simula -> didn't scale 
 	- build was very long / incremental build suck
     - runtime was very slow (because of the GC even when no work was needed)
+    - about large Teams (were hierarchy and encapsulation should strive) => didn't work even on 1 people team
