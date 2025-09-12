@@ -15,6 +15,6 @@ tags: fastware OOP ECS architecture
 	- compile-time hierarchy of encapsulation that matches the domain model
 
 ### OOP
-- oop was just about passing message
+- oop was just about passing message - (Alan Kay)
 - inheritance hierarchy was told early (since 1980s)
 	- C++ does not force to do it that way (even if it promoted it a  lot)
