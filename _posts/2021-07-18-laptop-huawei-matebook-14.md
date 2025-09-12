@@ -5,7 +5,6 @@ tags: pc-hardware gpu laptop
 excerpt_separator: <!--more-->
 toc: true
 ---
-
 <!--more-->
 
 ## [amazon](https://www.amazon.fr/gp/product/B08P9186JF/ref=ox_sc_act_title_2?smid=A1X6FK5RDHNB96&psc=1) - 2021 - 800€ 
@@ -19,19 +18,20 @@ toc: true
 - [xinput way](https://unix.stackexchange.com/questions/127443/how-do-i-disable-the-touch-screen-on-my-laptop/129603#129603) - `xinput disable <id=13>`
 - [driver way](https://www.blackmoreops.com/2016/10/26/disable-touchscreen-linux/)
 
-## [BIOS](https://consumer.huawei.com/en/support/laptops/matebook-14-2020/) - 1.19 Rev 5.0
+# [BIOS](https://consumer.huawei.com/en/support/laptops/matebook-14-2020/) - 1.19 Rev 5.0
 
-## Linux support
+# Linux support
 - [Nvidia GeForce MX350 driver N/A although installed](https://forums.linuxmint.com/viewtopic.php?t=353047&p=2039798)
 - [power button issue](https://bbs.archlinux.org/viewtopic.php?id=225752)
-	- [ivzave/matebook-linux](https://github.com/ivzave/matebook-linux) - patching [acpi table]({% post_url 2021-07-25-acpi %})
-    	- S3 sleep state: OK on Linux 5.4.0-80-generic
-        - [Fn-Lock](https://github.com/nekr0z/linux-on-huawei-matebook-13-2019/blob/master/README.md#keyboard) - pressing Fn key lock/unlock the functionnality
-    	- Power button: OK, but has to be pressed for at least 1 second to generate event
-        - Fingerpring reader : [KO](https://github.com/nekr0z/linux-on-huawei-matebook-13-2019/blob/master/README.md#fingerprint-reader)
-
-    - [Disabled STAPM and Increased the Power Limit](https://www.reddit.com/r/Amd/comments/a2vs55/i_successfully_disabled_stapm_and_increased_the/)
-- [enable fingerprint scanner]({% post_url 2024-12-31-fingerprint-libfprint %})
+- [ivzave/matebook-linux](https://github.com/ivzave/matebook-linux) - patching [acpi table]({% post_url 2021-07-25-acpi %})
+	- S3 sleep state: OK on Linux 5.4.0-80-generic
+	- [Fn-Lock](https://github.com/nekr0z/linux-on-huawei-matebook-13-2019/blob/master/README.md#keyboard) - pressing Fn key lock/unlock the functionnality
+	- Power button: OK, but has to be pressed for at least 1 second to generate event
+	- [Disabled STAPM and Increased the Power Limit](https://www.reddit.com/r/Amd/comments/a2vs55/i_successfully_disabled_stapm_and_increased_the/)
+	- Fingerpring reader : [KO](https://github.com/nekr0z/linux-on-huawei-matebook-13-2019/blob/master/README.md#fingerprint-reader)
+		- There's currently no way to make this model work in Linux
+        - it use a [Goodix SPI scanner](https://chatgpt.com/share/68c40693-60e8-800d-8d8a-627f94c39f59) - see [Goodix GXFP5187 support (SPI GXFP5187)](https://gitlab.freedesktop.org/libfprint/libfprint/-/issues/112)
+        - and is currenly incompatible with [`Fingerprint`]({% post_url 2024-12-31-fingerprint-libfprint %})
 
 ### [GPU intel/nvidia](https://chatgpt.com/share/6867d795-63c8-800d-aad8-96d250000571)
 
