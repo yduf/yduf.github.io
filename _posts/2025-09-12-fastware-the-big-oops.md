@@ -39,7 +39,7 @@ Looking Glass (1998)
     	- the constraint solver was omniscient (ECS model)
 - CSG on Spheres (1997) - NegaMan (Negative Metaball)
 - Mixin vs Pattern
-- [Fat struct vs ECS](https://youtu.be/wo84LFzx5nI?si=QM7w1b7r-H3ABHuL&t=7390) - Ultimate underworld used Fatstruct for entity
+- [Fat struct vs ECS](https://youtu.be/wo84LFzx5nI?si=QM7w1b7r-H3ABHuL&t=7390) - Ultima underworld used Fatstruct for entity
 
 ### see also
 - [Switching away from OOP](https://www.youtube.com/watch?v=ToBF_mLxEcI)
