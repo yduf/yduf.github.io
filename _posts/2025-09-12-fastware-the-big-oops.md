@@ -25,3 +25,5 @@ tags: fastware OOP ECS architecture c++
     - inheritance used mainly for code-reuse
 	- INSPECT from simula was explicitly not ported to C++ 
     	- forcing latter usage of virtual function (vs discriminated union)
+- Team Fat Struct Founded 1960
+	- Dougals T. Ross (struct(plex) + vtable)
