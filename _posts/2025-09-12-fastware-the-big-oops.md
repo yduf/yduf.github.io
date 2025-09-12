@@ -7,6 +7,8 @@ tags: fastware OOP ECS architecture c++ quote
 
 > The most treacherous metaphors are the ones that seem to work for a time, because they can keep more powerful insights from bubbling up. - Alan Kay (1984)
 
+> Unified function call: The notational distinction between x.f(y) and f(x,y) comes from the flawed OO notion that there always is a single most important object for an operation. I made a mistake adopting that. It was a shallow understanding at the time (but extremely fashionable). Even then, I pointed to sqrt(2) and x+y as examples of problems caused by that view. - [bjarne](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1962r0.pdf)
+
 ### Entity Component System (ECS)
 Looking Glass (1998)
 - the opposite of a fat-struct
