@@ -41,6 +41,11 @@ Looking Glass (1998)
 - Mixin vs Pattern
 - [Fat struct vs ECS](https://youtu.be/wo84LFzx5nI?si=QM7w1b7r-H3ABHuL&t=7390) - Ultima underworld used Fatstruct for entity
 	- how to compact memory and avoid overlap (handle fuel & damage)?
+	- avoid fragmentation
+    - arbitrary sized properties
+    - types at run time
+    - how fast is the fastest case
+    
 
 ### see also
 - [Switching away from OOP](https://www.youtube.com/watch?v=ToBF_mLxEcI)
