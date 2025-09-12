@@ -12,3 +12,4 @@ tags: fastware OOP ECS architecture
     - vs where you make it easy
 - Encapsulation boundaries around the system vs Boundaries accross the objects
 - don't make the domain model be in the code.
+	- compile-time hierarchy of encapsulation that matches the domain model
