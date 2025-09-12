@@ -38,3 +38,10 @@ Looking Glass (1998)
 	- the virtual function was the least interessting part of this (because it was possible because draw was very simple)
     	- the constraint solver was omniscient (ECS model)
 - CSG on Spheres (1997) - NegaMan (Negative Metaball)
+- Mixin vs Pattern
+- [Fat struct vs ECS](https://youtu.be/wo84LFzx5nI?si=QM7w1b7r-H3ABHuL&t=7390) - Ultimate underworld used Fatstruct for entity
+
+### see also
+- [Switching away from OOP](https://www.youtube.com/watch?v=ToBF_mLxEcI)
+- [The Only Unbreakable Law](https://www.youtube.com/watch?v=5IUj1EZwpJY)
+- [Where Does Bad Code Come From?](https://www.youtube.com/watch?v=7YpFGkG-u1w)
