@@ -22,3 +22,4 @@ tags: fastware OOP ECS architecture c++
 	- build was very long / incremental build suck
     - runtime was very slow (because of the GC even when no work was needed)
     - about large Teams (were hierarchy and encapsulation should strive) => didn't work even on 1 people team
+    - inheritance used mainly for code-reuse
