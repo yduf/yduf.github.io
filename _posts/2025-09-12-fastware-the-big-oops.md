@@ -20,4 +20,4 @@ tags: fastware OOP ECS architecture
 	- C++ does not force to do it that way (even if it promoted it a  lot)
 - C++ on simula -> didn't scale
 	- build was very long / incremental build suck
-    - runtime was very slow (because of the GC)
+    - runtime was very slow (because of the GC even when no work was needed)
