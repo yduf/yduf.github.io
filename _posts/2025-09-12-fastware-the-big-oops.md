@@ -6,6 +6,7 @@ tags: fastware OOP ECS architecture c++
 > Anatomy of a Thirty-five-year Mistake – [Casey Muratori (BSC 2025)](https://www.youtube.com/watch?v=wo84LFzx5nI)
 
 ### Entity Component System (ECS)
+Looking Glass (1998)
 - the opposite of a fat-struct
 - Architecture care about encapsulation boundaries
 	- where you make it difficult to access things
