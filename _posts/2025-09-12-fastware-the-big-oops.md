@@ -1,9 +1,11 @@
 ---
 title: The Big OOPs
 published: true
-tags: fastware OOP ECS architecture c++
+tags: fastware OOP ECS architecture c++ quote
 ---
 > Anatomy of a Thirty-five-year Mistake – [Casey Muratori (BSC 2025)](https://www.youtube.com/watch?v=wo84LFzx5nI)
+
+> The most treacherous metaphors are the ones that seem to work for a time, because they can keep more powerful insights from bubbling up. - Alan Kay (1984)
 
 ### Entity Component System (ECS)
 Looking Glass (1998)
