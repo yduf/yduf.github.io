@@ -27,4 +27,5 @@ tags: fastware OOP ECS architecture c++
     	- forcing latter usage of virtual function (vs discriminated union)
 - Team Fat Struct Founded 1960
 	- Dougals T. Ross (struct(plex) + vtable)
-- Ivan Sutherland's SketchPad - probably the most significant thesis ever done - Alan Kay (1987) 
+- Ivan Sutherland's SketchPad - probably the most significant thesis ever done - Alan Kay (1987)
+- CSG on Spheres (1997) - NegaMan (Negative Metaball)
