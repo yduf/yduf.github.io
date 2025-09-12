@@ -28,6 +28,6 @@ tags: fastware OOP ECS architecture c++
 - Team Fat Struct Founded 1960
 	- Dougals T. Ross (struct(plex) + vtable)
 - Ivan Sutherland's SketchPad - probably the most significant thesis ever done - Alan Kay (1987)
-	- ring structured
-    - chicken - a link in the linked list that point to the sentinel (hen)
+	- [ring structured](https://youtu.be/wo84LFzx5nI?si=LtKJzwD9d2dtB_4y&t=5614) designed to rapid constraint satisfaction
+    	- chicken - a link in the linked list that point to the sentinel (hen)
 - CSG on Spheres (1997) - NegaMan (Negative Metaball)
