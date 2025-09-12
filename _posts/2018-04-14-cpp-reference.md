@@ -7,8 +7,9 @@ tags: c++ quote
 
 <link rel="shortcut icon" href="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" type="image/x-icon" />
 
+ A complex system that works is invariably found to have evolved from a simple system that worked. - [Gall's law](https://en.wikipedia.org/wiki/John_Gall_(author)#Gall's_law)
 
-- A complex system that works is invariably found to have evolved from a simple system that worked. - [Gall's law](https://en.wikipedia.org/wiki/John_Gall_(author)#Gall's_law)
+- [C++ Compiler Support Page ](https://cppstat.dev/) / [HN](https://news.ycombinator.com/item?id=45165415) - C++ features and their respective support by compilers 
 
 ### Stroustrup
 - A lot of the so-called ‘safe’ languages outsource all the low-level stuff to C or C++ 
