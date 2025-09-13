@@ -7,6 +7,7 @@ tags: system quote
 
 ### Some work
 - [SkiftOS: A hobby OS built from scratch using C/C++ for ARM, x86, and RISC-V ](https://skiftos.org/) / [HN](https://news.ycombinator.com/item?id=45229414) - 6 years old / not aimed at being posing.
+- [Temple OS](https://www.youtube.com/watch?v=pGnoCpfO2VM) - Ce truc ? La plus grande prouesse informatique
 - [	Operating System in 1,000 Lines – Intro](https://news.ycombinator.com/item?id=42631873)
 - [Writing a “bare metal” operating system for Raspberry Pi 4](https://news.ycombinator.com/item?id=28774022)
 - [	SerenityOS]({% post_url 2025-03-14-system-serenityos %}) - a graphical Unix-like OS for x86, with 90s aesthetics
