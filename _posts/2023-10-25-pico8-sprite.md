@@ -54,6 +54,10 @@ see also
 	- `import spritesheet.png`
 - [respriter](https://www.lexaloffle.com/bbs/?tid=35255) -  move sprites around and have the map updated to point to the new location of your sprites ( remove the 2 square brackets on tab 5, line 375. to fix bugs on latest version)
 
+### Flipping Sprite
+
+[`spr`](https://pico-8.fandom.com/wiki/Spr) has direct support to flip sprite around x and y.
+
 ### Sprite Rotation
 - [tline sprite rotation/scaling](https://www.lexaloffle.com/bbs/?pid=78451)
 - [Sprite Rotation](https://www.lexaloffle.com/bbs/?tid=41632) - 64x64
