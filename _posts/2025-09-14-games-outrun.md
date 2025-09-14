@@ -3,4 +3,4 @@ title: OutRun
 published: true
 tags: games pico8
 ---
-> What if OutRun came to the Game Boy Color? - [OutRun GB](https://itch.io/queue/c/6330095/game-boy-demakes?game_id=3557310&password=)
+> What if OutRun came to the Game Boy Color? - [OutRun GB](https://itch.io/queue/c/6330095/game-boy-demakes?game_id=3557310&password=) / [youtube](https://www.youtube.com/watch?v=_I32BqsXD_A)
