@@ -69,6 +69,9 @@ For sprite to sprite, instead of trying to calculate the collision of what is di
 
 [![hitbox illustration](https://www.lexaloffle.com/bbs/files/13994/Image%20du%20presse-papiers.jpg)](https://www.lexaloffle.com/bbs/?pid=33068#p)
 
+### [Pixel Perfect](https://www.lexaloffle.com/bbs/?tid=3510)
+- [Collision By Pixel](https://www.lexaloffle.com/bbs/?pid=70416)
+
 see also
 - [Collision Detection (An Overview) (UPDATED!)](https://www.youtube.com/watch?v=oOEnWQZIePs) -  AABB vs SAT.
 - [Building Collision Simulations: An Introduction to Computer Graphics](https://www.youtube.com/watch?v=eED4bSkYCB8&t=825s) - multi sphere collision
