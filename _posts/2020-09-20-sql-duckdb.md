@@ -7,6 +7,7 @@ tags: sql db sqlite parquet csv spark
 
 The creator of duckdb argues that people using pandas are missing out of the 50 years of progress in database research - [HN](https://news.ycombinator.com/item?id=45127389)
 	- [DuckDB Internals (CMU Advanced Databases / Spring 2023)](https://www.youtube.com/watch?v=bZOvAKGkzpQ) - duck DB use a vectorized push-base model (implemented in C++)
+		- [support larger than memory execution](https://youtu.be/bZOvAKGkzpQ?si=byfIsHn6atZgqfmQ&t=4015)
 	- [DuckDB – The SQLite for Analytics (Mark Raasveldt, CWI)](https://www.youtube.com/watch?v=PFUZlNQIndo)
 
 - [HN](https://news.ycombinator.com/item?id=31220841) is a lightweight and super fast library/CLI for working with Parquet. It’s SQLite for column formats
