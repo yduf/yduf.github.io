@@ -71,6 +71,8 @@ For sprite to sprite, instead of trying to calculate the collision of what is di
 
 ### [Pixel Perfect](https://www.lexaloffle.com/bbs/?tid=3510)
 - [Collision By Pixel](https://www.lexaloffle.com/bbs/?pid=70416)
+- [defenderexample](https://www.lexaloffle.com/bbs/?tid=44925)
+	- Pixel perfect sprite-based collision.
 
 see also
 - [Collision Detection (An Overview) (UPDATED!)](https://www.youtube.com/watch?v=oOEnWQZIePs) -  AABB vs SAT.
