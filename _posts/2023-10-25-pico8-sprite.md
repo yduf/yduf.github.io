@@ -72,6 +72,9 @@ see also
 
 - [Procedural Animated Sprites Using Screen Space in Pico-8](https://www.youtube.com/watch?v=GZ_U5vXcH8M) / [itch.io](https://isaacgames.itch.io/synthwave-visualizer) - retro sun animation with sprite generated gradiant
 
+### Exploding Sprite
+- [how to manipulate sprite pixels](https://www.lexaloffle.com/bbs/?tid=39162)
+
 ### Tips
 - [Shadow Techniques](https://www.lexaloffle.com/bbs/?tid=27653) - PEEK/POKE MERGE
 - [exploding sprite in particle](https://www.lexaloffle.com/bbs/?tid=39162)
