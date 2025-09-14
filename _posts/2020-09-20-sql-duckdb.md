@@ -6,7 +6,7 @@ tags: sql db sqlite parquet csv spark
 > An embeddable SQL database like SQLite, but supports Postgres features - [DuckDB](https://duckdb.org/) / [github](https://github.com/duckdb/duckdb?tab=readme-ov-file#duckdb) / [HN](https://news.ycombinator.com/item?id=24531085)
 
 The creator of duckdb argues that people using pandas are missing out of the 50 years of progress in database research - [HN](https://news.ycombinator.com/item?id=45127389)
-	- [DuckDB Internals (CMU Advanced Databases / Spring 2023)](https://www.youtube.com/watch?v=bZOvAKGkzpQ)
+	- [DuckDB Internals (CMU Advanced Databases / Spring 2023)](https://www.youtube.com/watch?v=bZOvAKGkzpQ) - duck DB use a vectorized push-base model (implemented in C++)
 	- [DuckDB – The SQLite for Analytics (Mark Raasveldt, CWI)](https://www.youtube.com/watch?v=PFUZlNQIndo)
 
 - [HN](https://news.ycombinator.com/item?id=31220841) is a lightweight and super fast library/CLI for working with Parquet. It’s SQLite for column formats
