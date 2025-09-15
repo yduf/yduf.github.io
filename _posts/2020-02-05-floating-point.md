@@ -5,6 +5,8 @@ tags: math float history c++
 ---
 > Instead of Exponent, think of a Window between two consecutive power of two integers. Instead of a Mantissa, think of an Offset within that window. -  [	Floating point visually explained](https://news.ycombinator.com/item?id=29368529)  
 
+- [	Float Exposed ](https://float.exposed/0x736bf47e) / [HN](https://news.ycombinator.com/item?id=45217415)
+
 [![caption](https://fabiensanglard.net/floating_point_visually_explained/floating_point_intuitive.svg)](https://fabiensanglard.net/floating_point_visually_explained/)
 
 
