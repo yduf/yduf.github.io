@@ -17,6 +17,11 @@ When compiling C or C++ code on compilers such as GCC and clang, turn on these f
 -Wl,-z,relro -Wl,-z,now
 {% endhighlight %}
 
+### C++ Profile
+C and C++ are fundamentally memory-unsafe languages. That doesn't make them bad languages, but it is a reality that you have to face when you work with them. And one of the things we've learned is that building safe abstractions, while not a complete solution, does quite a long way.
+
+And then CISA suggested that "maybe we should stop using memory-unsafe languages." ... C++ profiles is a magic solution to the problem. - [	Safe C++ proposal is not being continued ](https://news.ycombinator.com/item?id=45234460)
+
 ### see also
 - [No more leaks with sanitize flags in gcc and clang](https://lemire.me/blog/2016/04/20/no-more-leaks-with-sanitize-flags-in-gcc-and-clang/) - run a memory sanitizer inside your program
 	- [Catching sanitizer errors programmatically](https://lemire.me/blog/2022/08/20/catching-sanitizer-errors-programmatically/)
