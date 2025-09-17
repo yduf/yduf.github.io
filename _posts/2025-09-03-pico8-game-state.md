@@ -5,6 +5,8 @@ tags: game-engine pico8 lua
 ---
 > State machine for your game - [Intro to a Main Menu](https://www.youtube.com/watch?v=nu2Ief1KYsU) / [advanced](https://nerdyteachers.com/Explain/MainMenu2/)
 
+- [Adding a Main Menu to a Pico 8 game.](https://www.youtube.com/watch?v=5G5Pj-0e0y4)
+
 {% highlight lua %}
 function init_menu()
     _update = update_menu
