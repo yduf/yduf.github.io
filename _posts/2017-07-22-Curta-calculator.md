@@ -51,6 +51,6 @@ Printed on a resin printer
 	- [Pocket Mechanical Calculator - Addiator/Addifix](https://www.youtube.com/watch?v=cT8fSGHHiAs)
 - [CURTA Calculator Assembly](https://www.youtube.com/watch?v=AnTb26WHx2Q&t=378s)
 	- [This Amazing 70 Year Old Calculating Machine](https://www.youtube.com/watch?v=Vh0NLgbuioE)
-
+- [Calculatrices mécaniques à clavier (Comptomètre et Torpedo) ](https://www.youtube.com/watch?v=m-dJUFrVuo4)
 
 ## [Printing Journey](https://github.com/yduf/yduf.github.io/issues/6)
