@@ -6,6 +6,7 @@ tags: system quote
 > Excessive theory is worse than no theory because it makes things seem more difficult than they really are. - [How to create an OS from scratch](https://news.ycombinator.com/item?id=18036538)
 
 ### Some work
+- [We ran a Unix-like OS on our home-built CPU with a home-built C compiler (2020) ](https://news.ycombinator.com/item?id=44404164)
 - [	Writing an operating system kernel from scratch](https://news.ycombinator.com/item?id=45240682)
 - [SkiftOS: A hobby OS built from scratch using C/C++ for ARM, x86, and RISC-V ](https://skiftos.org/) / [HN](https://news.ycombinator.com/item?id=45229414) - 6 years old / not aimed at being posing.
 - [Temple OS](https://www.youtube.com/watch?v=pGnoCpfO2VM) - Ce truc ? La plus grande prouesse informatique
