@@ -14,6 +14,7 @@ see also
     - [Pico Fury](https://www.lexaloffle.com/bbs/?tid=45350)
     - [Pic Off 1.2](https://www.lexaloffle.com/bbs/?tid=45243)
     - [Armor](https://www.lexaloffle.com/bbs/?tid=45211)
+	- [Pico Castle](https://www.lexaloffle.com/bbs/?tid=45124)
 	- [Anti-aliased vectors](https://www.lexaloffle.com/bbs/?pid=49754) by elice and freds72.
 
 <link rel="shortcut icon" href="https://static.wikia.nocookie.net/pico-8/images/4/4a/Site-favicon.ico/revision/latest?cb=20210713144653" type="image/x-icon" />
