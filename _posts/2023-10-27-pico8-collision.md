@@ -70,10 +70,10 @@ For sprite to sprite, instead of trying to calculate the collision of what is di
 [![hitbox illustration](https://www.lexaloffle.com/bbs/files/13994/Image%20du%20presse-papiers.jpg)](https://www.lexaloffle.com/bbs/?pid=33068#p)
 
 ### [Pixel Perfect](https://www.lexaloffle.com/bbs/?tid=3510)
-- [Collision By Pixel](https://www.lexaloffle.com/bbs/?pid=70416)
-- [bitmask example](https://www.lexaloffle.com/bbs/?pid=70416#p)
-- [defenderexample](https://www.lexaloffle.com/bbs/?tid=44925)
-	- Pixel perfect sprite-based collision.
+Pixel perfect sprite-based collision using mask derived from sprite.
+- [bitmask example](https://www.lexaloffle.com/bbs/?pid=98474#p)
+	- [defenderexample](https://www.lexaloffle.com/bbs/?tid=44925)
+	- [Collision By Pixel](https://www.lexaloffle.com/bbs/?pid=70416)
 
 see also
 - [Collision Detection (An Overview) (UPDATED!)](https://www.youtube.com/watch?v=oOEnWQZIePs) -  AABB vs SAT.
