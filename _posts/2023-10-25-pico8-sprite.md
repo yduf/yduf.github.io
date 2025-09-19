@@ -8,6 +8,10 @@ toc: true
 
 For collision looks [here]({% post_url 2023-10-27-pico8-collision %})
 
+see also
+- [Vector Sprite](https://www.lexaloffle.com/bbs/?tid=45490) 
+	- [Anti-aliased vectors](https://www.lexaloffle.com/bbs/?pid=49754) by elice and freds72.
+
 <link rel="shortcut icon" href="https://static.wikia.nocookie.net/pico-8/images/4/4a/Site-favicon.ico/revision/latest?cb=20210713144653" type="image/x-icon" />
 
 **Online editor**: [draw pico-8 sprites!](https://nerdyteachers.com/PICO-8/Draw/Sprite/) - up to 32x32
