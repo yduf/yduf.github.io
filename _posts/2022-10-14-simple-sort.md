@@ -22,5 +22,6 @@ void sort() {
 
 ### see also
 - [Quicksort Algorithm in Five Lines of Code! ](https://www.youtube.com/watch?v=OKc2hAmMOY4) - but not in place
+- [Quicksort explained IKEA-style](https://news.ycombinator.com/item?id=45321849)
 
 [ ![caption](https://github.com/radiantly/simplest-sort/raw/main/demo/screencast.gif)](https://github.com/radiantly/simplest-sort)
