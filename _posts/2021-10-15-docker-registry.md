@@ -3,7 +3,7 @@ published: true
 title: Docker registry
 tags: docker registry
 ---
-> 	Running our Docker registry on-prem with Harbor - [HN](https://news.ycombinator.com/item?id=45038567)
+> Running our Docker registry on-prem with Harbor - [HN](https://news.ycombinator.com/item?id=45038567)
 
 ## Harbor
 
