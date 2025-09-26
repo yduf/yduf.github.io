@@ -78,3 +78,4 @@ Once solved it can be used to derived $C(t)$ (from $\vec{BC(t)}$), which is stil
 
 ### relevant
 - [Math Breakdown: Anime Homing Missiles](https://blog.littlepolygon.com/posts/missile/) / [HN](https://news.ycombinator.com/item?id=34630730)
+- [how to make a prediction shot against moving object ?](https://www.lexaloffle.com/bbs/?tid=44264)
