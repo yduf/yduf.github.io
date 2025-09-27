@@ -12,6 +12,8 @@ tags: pico8 image rle zip
 - [Dither Tutorial + Code](https://www.lexaloffle.com/bbs/?tid=35781)
 - [**Depict**](https://bikibird.itch.io/depict) - an image demake tool for PICO-8.  It converts any image into a dithered image that uses PICO-8 standard colors and is reduced to a maximum width and height of 128 x 128. 
 
+[![example](https://img.itch.zone/aW1nLzE0NDY4MjM4LnBuZw==/original/P3%2Btoy.png)](https://bikibird.itch.io/depict/devlog/656332/depict-update)
+
 
 ### RLE Encoder
 - [String-Based Graphics Rendering System](https://www.lexaloffle.com/bbs/?tid=38829) - Version 2.0 - derived from picoRLE
