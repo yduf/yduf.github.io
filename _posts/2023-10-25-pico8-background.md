@@ -10,6 +10,8 @@ tags: pico8 image rle zip
 ### Image Storage
 - [Import A Full 128x128 Logo To Your Cart (2019)](https://www.lexaloffle.com/bbs/?tid=35876)
 - [Dither Tutorial + Code](https://www.lexaloffle.com/bbs/?tid=35781)
+- [**Depict**](https://bikibird.itch.io/depict) - an image demake tool for PICO-8.  It converts any image into a dithered image that uses PICO-8 standard colors and is reduced to a maximum width and height of 128 x 128. 
+
 
 ### RLE Encoder
 - [String-Based Graphics Rendering System](https://www.lexaloffle.com/bbs/?tid=38829) - Version 2.0 - derived from picoRLE
