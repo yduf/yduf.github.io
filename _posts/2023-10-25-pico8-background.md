@@ -14,6 +14,7 @@ tags: pico8 image rle zip
 	- support hidden colors
 - [PNG To Forum](https://www.lexaloffle.com/bbs/?tid=31790)
 	- allow to load a picture and make ist pastable
+- [New Byte Compressor 2022](https://www.lexaloffle.com/bbs/?tid=50713)
 
 [![example](https://img.itch.zone/aW1nLzE0NDY4MjM4LnBuZw==/original/P3%2Btoy.png)](https://bikibird.itch.io/depict/devlog/656332/depict-update)
 
