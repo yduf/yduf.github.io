@@ -7,11 +7,13 @@ tags: pico8 image rle zip
 
 <link rel="shortcut icon" href="https://static.wikia.nocookie.net/pico-8/images/4/4a/Site-favicon.ico/revision/latest?cb=20210713144653" type="image/x-icon" />
 
-### Image Storage
+### Image Storage 🖼
 - [Import A Full 128x128 Logo To Your Cart (2019)](https://www.lexaloffle.com/bbs/?tid=35876)
 - [Dither Tutorial + Code](https://www.lexaloffle.com/bbs/?tid=35781)
 - [**Depict**](https://bikibird.itch.io/depict) - an image demake tool for PICO-8.  It converts any image into a dithered image that uses PICO-8 standard colors and is reduced to a maximum width and height of 128 x 128. 
 	- support hidden colors
+- [PNG To Forum](https://www.lexaloffle.com/bbs/?tid=31790)
+	- allow to load a picture and make ist pastable
 
 [![example](https://img.itch.zone/aW1nLzE0NDY4MjM4LnBuZw==/original/P3%2Btoy.png)](https://bikibird.itch.io/depict/devlog/656332/depict-update)
 
