@@ -76,6 +76,7 @@ Pixel perfect sprite-based collision using mask derived from sprite.
 	- [Collision By Pixel](https://www.lexaloffle.com/bbs/?pid=70416)
 
 see also
+- [Collision (nerdyteachers)](https://nerdyteachers.com/PICO-8/Collision/)
 - [Collision Detection (An Overview) (UPDATED!)](https://www.youtube.com/watch?v=oOEnWQZIePs) -  AABB vs SAT.
 - [Building Collision Simulations: An Introduction to Computer Graphics](https://www.youtube.com/watch?v=eED4bSkYCB8&t=825s) - multi sphere collision
 	- filter test by projecting bounding box on one axis
