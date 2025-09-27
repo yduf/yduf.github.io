@@ -7,8 +7,9 @@ tags: pico8 image rle zip
 
 <link rel="shortcut icon" href="https://static.wikia.nocookie.net/pico-8/images/4/4a/Site-favicon.ico/revision/latest?cb=20210713144653" type="image/x-icon" />
 
-### Big Image
+### Image Storage
 - [Import A Full 128x128 Logo To Your Cart (2019)](https://www.lexaloffle.com/bbs/?tid=35876)
+- [Dither Tutorial + Code](https://www.lexaloffle.com/bbs/?tid=35781)
 
 ### RLE Encoder
 - [String-Based Graphics Rendering System](https://www.lexaloffle.com/bbs/?tid=38829) - Version 2.0 - derived from picoRLE
