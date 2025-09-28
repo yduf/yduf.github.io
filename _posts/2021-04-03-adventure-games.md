@@ -2,6 +2,7 @@
 published: true
 title: Adventure Games
 tags: retro games adventure
+toc: true
 ---
 > List of graphic adventure games - [wikipedia](https://en.wikipedia.org/wiki/List_of_graphic_adventure_games)
 
