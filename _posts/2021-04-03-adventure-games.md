@@ -22,6 +22,8 @@ toc: true
 ### Text Games
 - Advice fror people trying to get into text adventures: do not start with infocom games. Start with something like Glowgrass, Violet, The Dreamhold, Plundered Hearts*, or Lost Pig. They'pe friendlier to the player. - [post](https://news.ycombinator.com/item?id=45393375) / [HN](https://news.ycombinator.com/item?id=45392164)
 	- [ifdb](https://ifdb.org/search?browse) - top games rated by players
+- [Zork : Grand Inquisitor](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=1042)
+- [Zork Nemesis](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=789)
 
 ### Others
 - [Ark of Time](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=1756&fic=liens)
@@ -40,5 +42,4 @@ toc: true
 - [The Last Express](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=1045)
 - [Starship Titanic](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=1757)
 - [Grim Fandango](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=1046)
-- [Zork : Grand Inquisitor](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=1042)
-- [Zork Nemesis](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=789)
+
