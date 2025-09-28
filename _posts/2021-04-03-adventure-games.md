@@ -17,7 +17,7 @@ tags: retro games adventure
 
 ### Text Games
 - Advice fror people trying to get into text adventures: do not start with infocom games. Start with something like Glowgrass, Violet, The Dreamhold, Plundered Hearts*, or Lost Pig. They'pe friendlier to the player. - [post](https://news.ycombinator.com/item?id=45393375) / [HN](https://news.ycombinator.com/item?id=45392164)
-	- [ifdb](https://ifdb.org/search?browse) - top games rated by player
+	- [ifdb](https://ifdb.org/search?browse) - top games rated by players
 
 ### Others
 - [Ark of Time](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=1756&fic=liens)
