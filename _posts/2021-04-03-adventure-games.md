@@ -12,7 +12,9 @@ toc: true
 - [Monkey Island]({% post_url 2020-07-11-monkey-island %})
 - [Thimbleweed Park]({% post_url 2019-03-02-Thimbleweed-Park %})
 - [Runaway]({% post_url 2024-01-06-games-runaway %})
-
+- [Full Throttle]({% post_url 2021-07-02-game-full-throttle %})
+- The Dig[]()
+- Loom []()
 
 ### Retro Style
 - [Book One](https://powerhoof.itch.io/the-telwynium) / [Book Two](https://powerhoof.itch.io/the-telwynium-book-two) (itchio) -  an early 90s style point and click, with Sierra SCI0 style graphics, but with a fancy new-fangled point 'n click interface.
