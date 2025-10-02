@@ -177,7 +177,9 @@ xpra attach ssh:${SERVER_HOST}${XPRA_DISPLAY}
 
 ## Alternatives
 
-[Sunshine](https://docs.lizardbyte.dev/projects/sunshine/latest/index.html)
+- [self hosted game stremaing](https://chatgpt.com/share/68dedaa7-bc84-800d-8e96-e4f13d65c678) - sunshine + moonlight
+- [Sunshine](https://docs.lizardbyte.dev/projects/sunshine/latest/index.html)
+
 
 | Feature              | **Xpra**                                           | **Sunshine (with Moonlight)**                            |
 | -------------------- | -------------------------------------------------- | -------------------------------------------------------- |
@@ -185,4 +187,3 @@ xpra attach ssh:${SERVER_HOST}${XPRA_DISPLAY}
 | **Latency Focus**    | Moderate latency; good for general desktop use     | Ultra-low latency; designed for gaming                   |
 | **Platform Support** | Linux, Windows, macOS                              | Host: Windows & Linux; Client: Moonlight (all platforms) |
 | **Network Use**      | LAN and WAN (supports compression and encryption)  | Best over LAN; WAN with port forwarding or VPN           |
-
