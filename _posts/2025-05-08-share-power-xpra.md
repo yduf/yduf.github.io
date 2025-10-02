@@ -177,7 +177,7 @@ xpra attach ssh:${SERVER_HOST}${XPRA_DISPLAY}
 
 ## Alternatives
 
-- [self hosted game stremaing](https://chatgpt.com/share/68dedaa7-bc84-800d-8e96-e4f13d65c678) - sunshine + moonlight
+- [self hosted game stremaing](https://chatgpt.com/share/68dedaa7-bc84-800d-8e96-e4f13d65c678) / [HN](https://news.ycombinator.com/item?id=45434046) - sunshine + moonlight
 - [Sunshine](https://docs.lizardbyte.dev/projects/sunshine/latest/index.html)
 
 
