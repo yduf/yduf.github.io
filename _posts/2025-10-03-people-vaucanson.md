@@ -1,7 +1,7 @@
 ---
 title: Vaucanson
 published: true
-tags: history people
+tags: history people lathe
 ---
 > À partir de 1733 ou 1735 et jusqu’en 1737 ou 1738, il construit son premier automate, le flûteur automate, qui joue de la flûte traversière - [La machine de 1751 à l'origine de tout](https://www.youtube.com/watch?v=djB9oK6pkbA) / [Jacques Vaucanson](https://fr.wikipedia.org/wiki/Jacques_Vaucanson)
 
