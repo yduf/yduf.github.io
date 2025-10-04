@@ -5,6 +5,7 @@ tags: reverse bits unsafe binary parser security png
 ---
 > Kaitai Struct: A new way to develop parsers for binary structures - [HN](https://news.ycombinator.com/item?id=30715406) / [Wuffs (Wrangling Untrusted File Formats Safely)](https://github.com/google/wuffs)
 
+[Format Gallery](https://formats.kaitai.io/) / [HN](https://news.ycombinator.com/item?id=45469285) - All formats in this gallery have formal specifications in Kaitai Struct language.
 
 ### see also:
 - [google/Wuffs](https://github.com/google/wuffs) - a memory-safe programming language (and a standard library written in that language) for Wrangling Untrusted File Formats Safely. Transpiling to C.
