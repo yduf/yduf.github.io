@@ -72,8 +72,11 @@ see also
 - [4x4 Sprites](https://www.lexaloffle.com/bbs/?tid=3287) - use sspr()
 	- [sspr() is twice as slow as spr()](https://www.lexaloffle.com/bbs/?pid=20105#p) - There are indeed 'artificial' costs assigned to the internal draw operations. For spr() it's around 1 Lua vm instruction per drawn pixel, and sspr() it's 2.
 
-### Generating Sprite
+### Outline
+- [More efficient sprite outline](https://www.lexaloffle.com/bbs/?pid=145863#p)
+- [Cloud Outline](https://www.lexaloffle.com/bbs/?tid=36885)
 
+### Generating Sprite
 - [Procedural Animated Sprites Using Screen Space in Pico-8](https://www.youtube.com/watch?v=GZ_U5vXcH8M) / [itch.io](https://isaacgames.itch.io/synthwave-visualizer) - retro sun animation with sprite generated gradiant
 
 ### Exploding Sprite
