@@ -7,5 +7,7 @@ tags: pico8 game-engine
 
 see also
 - [Flashy pico-8 title screen 2024 (withouth using sprite space)](https://www.youtube.com/watch?v=AtFgJ69ej_I)
+	- [One-Off GFX (Heracleum)](https://www.lexaloffle.com/bbs/?tid=49901)
+    	- [Ahead of its time ...](https://www.lexaloffle.com/bbs/?tid=50113)
 
 [![demo](https://www.lexaloffle.com/media/66501/oldtimeytitle_0.gif)](https://www.lexaloffle.com/bbs/?tid=50105)
