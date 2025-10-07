@@ -75,3 +75,5 @@ Please note that the "auth" value should be the characters of the secret passwor
 {% endhighlight %}
 
 </details>
+
+- [Extraire les prompts cachés des GPTs - La technique secrète révélée !](https://www.youtube.com/watch?v=53h2fmihhd8)
