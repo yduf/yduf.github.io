@@ -5,6 +5,9 @@ tags: disk synology nas linux filesystem
 ---
 ## [How?](https://superuser.com/questions/550064/how-mount-find-recover-data-in-hdd-outside-of-synology-box)
 
+see also
+- [Synology Reverses Policy Banning Third-Party HDDs After NAS sales plummet](https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/) / [HN](https://news.ycombinator.com/item?id=45513485)
+
 Synology individual drive use mdadm (raid array) filesystem, wich can be recognised to the md127 partition:
 {% highlight cpp %}
 $ lsblk
@@ -72,5 +75,3 @@ Then we can mount vg1 volume
 $ mkdir /media/syno-vg1
 $ mount /dev/vg1/lv -o ro /media/syno-vg1
 {% endhighlight %}
-
-
