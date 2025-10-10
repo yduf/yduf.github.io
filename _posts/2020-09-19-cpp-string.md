@@ -5,6 +5,9 @@ tags: c++ string
 ---
 > Can a std::string contain embedded nulls? - [yes](https://stackoverflow.com/questions/2845769/can-a-stdstring-contain-embedded-nulls)
 
+see also
+- [User-defined literals (since C++11)](https://en.cppreference.com/w/cpp/language/user_literal.html)
+
 ### [Raw string literals c++11](https://stackoverflow.com/a/5460235/51386)
 
 This is the closest to [Ruby Heredoc]({% post_url 2019-02-19-ruby-string %})
