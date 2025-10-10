@@ -1,7 +1,7 @@
 ---
 published: true
 title: Destination moon
-tags: 3dmodel rocket
+tags: 3dmodel rocket moon
 ---
 - [Destination moon](https://pierremuth.wordpress.com/2018/09/08/destination-moon/)
 - [Fusée Tintin – Objectif Lune (v1.0)](http://blog.gregory-vienot.fr/fusee-tintin-objectif-lune/)
