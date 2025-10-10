@@ -79,6 +79,9 @@ see also
 	- [Interchangeabilty and Compatibility of Apple 1.4 MB Floppy SuperDrives](https://lowendmac.com/2007/interchangeabilty-and-compatibility-of-apple-1-4-mb-floppy-superdrives/) / [copy](https://siber-sonic.com/mac/superfloppy.html)
 - [Floppy Emu](https://www.bigmessowires.com/floppy-emu/) - a floppy and hard disk emulator for classic Apple II, Macintosh, and Lisa computers. It uses an SD memory card and custom hardware to mimic an Apple floppy disk and drive, or an Apple hard drive. The Emu behaves exactly like a real disk drive, requiring no special software or drivers.
 
+see also
+- [Floppy8 - A Tiny Computer, in a Floppy Drive](https://abe.today/blogs/main/floppy8-a-tiny-computer-in-a-floppy-drive?utm_source=youtube&utm_medium=product_shelf)
+
 # Project - rehousing
 
 35 years (or so) latter
