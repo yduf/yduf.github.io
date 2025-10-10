@@ -9,3 +9,4 @@ see also
 - [SOA library in C++](https://chatgpt.com/share/68e8e4a2-3838-800d-a173-e9206a65dc00)
 	- [EnTT](https://github.com/skypjack/entt?tab=readme-ov-file) - a header-only, tiny and easy Popular for ECS (Entity-Component-System) in games.
     	- Internally uses SOA for components.
+- [llvm-mos-sdk](https://llvm-mos.github.io/llvm-mos-sdk/classsoa_1_1Array.html) - soa::Array< T, N > - An array implemented as a struct of arrays.
