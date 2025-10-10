@@ -7,6 +7,7 @@ tags: c++ string
 
 see also
 - [User-defined literals (since C++11)](https://en.cppreference.com/w/cpp/language/user_literal.html)
+	- [exploiting this](https://youtu.be/ejbTKtgSZI0?si=kxHDUbl-Ygs3UVr8&t=2372) - this mechanism imply running a function at compile time
 
 ### [Raw string literals c++11](https://stackoverflow.com/a/5460235/51386)
 
