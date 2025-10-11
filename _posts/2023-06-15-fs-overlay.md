@@ -1,7 +1,7 @@
 ---
 published: true
 title: Overlay Filesystem
-tags: filesystem content docker cgroups
+tags: filesystem content docker cgroup
 ---
 > Content-Addressable Overlay Filesystem for Linux - [ComposeFS](https://github.com/containers/composefs) / [HN](https://news.ycombinator.com/item?id=34524651)
 
