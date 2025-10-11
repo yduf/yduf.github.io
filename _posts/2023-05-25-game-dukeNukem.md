@@ -24,3 +24,5 @@ see also
 ### see also
 - [Some interesting facts about Duke Nukem 3D graphics](https://www.youtube.com/watch?v=ErLhj5AWS5M)
 - [Voxels Duke Nukem remake](https://www.youtube.com/@cheello_art/videos)
+- [Diving Into Chaos: Duke Nukem's Code Shouldn't Work (but it does?)](https://www.youtube.com/watch?v=F9lOJlC_kQs)
+- [Duke Nukem 3D Code Review (Fabien Sanglard)](https://fabiensanglard.net/duke3d/)
