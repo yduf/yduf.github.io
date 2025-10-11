@@ -6,6 +6,7 @@ tags: alphabet history
 > Earliest Forms to Modern Latin Script - [youtube](https://www.youtube.com/watch?v=3kGuN8WIGNc)
 
 see also
+- [	The strangest letter of the alphabet: The rise and fall of yogh](https://news.ycombinator.com/item?id=45455882)
 - [	Why English doesn't use accents](https://news.ycombinator.com/item?id=44484137)
 - [Evidence of oldest known alphabetic writing unearthed in ancient Syrian city ](https://news.ycombinator.com/item?id=42224330) - Alphabet 2,400 BCE
 	- Many cultures never invent writing. From well-known 1969 research on 186 pre-industrial societies - [0](https://news.ycombinator.com/item?id=42226508)
