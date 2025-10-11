@@ -7,6 +7,7 @@ tags: psychology mental-model
 
 
 - [La véranda d’Overton - La chronique de Mamari dans "La dernière" ](https://www.youtube.com/watch?v=_kNzHBaz37Q)
+- [L’échappée. Olivier Mannoni : « Le fascisme commence par le langage » ](https://www.youtube.com/watch?v=OwReaFwxI7A)
 
 see also
 - [Controversy]({% post_url 2021-10-30-controversy %})
