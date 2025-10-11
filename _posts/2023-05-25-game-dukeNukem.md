@@ -26,3 +26,4 @@ see also
 - [Voxels Duke Nukem remake](https://www.youtube.com/@cheello_art/videos)
 - [Diving Into Chaos: Duke Nukem's Code Shouldn't Work (but it does?)](https://www.youtube.com/watch?v=F9lOJlC_kQs)
 - [Duke Nukem 3D Code Review (Fabien Sanglard)](https://fabiensanglard.net/duke3d/)
+- [ videogamepreservation/dukenukem3d ](https://github.com/videogamepreservation/dukenukem3d)
