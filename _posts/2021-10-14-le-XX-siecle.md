@@ -16,6 +16,6 @@ tags: history sustainability climate-war quote
 - [L'Homme Ordinaire](https://www.youtube.com/watch?v=pCMDV40reKI&list=LL&index=105)
 
 - [	The Vulture and the Little Girl](https://news.ycombinator.com/item?id=40716917)
-- [Dieudo - L'écologiste ](https://www.youtube.com/watch?v=oCOm7WrGYAI)
+- [Dieudo - L'écologiste ](https://www.youtube.com/watch?v=tWvzFncNnC0)
 
 [![caption](https://i.redd.it/5a8krfiy3q631.jpg)](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F5a8krfiy3q631.jpg)
