@@ -81,8 +81,9 @@ vs [Homemade](https://www.youtube.com/watch?v=a2kIJDhhZrg)
 - search for _drill spindle assembly_ and _linear motion bearings_ _magnetic holder base_
 
 ### [Defonceuse](https://www.youtube.com/watch?v=flZ-Px6bhTE&list=PLg8aH9tX2qI_ld44t1rS3qaXNN2OkvzfX&index=1) - [Bosch POF 1400 ACE](https://www.amazon.fr/Bosch-D%C3%A9fonceuse-POF-1400-%C3%A9lectronique/dp/B000W34ZEW)
-
 2025 - 105€ - promo
+
+Collets supportés: **TBD**
 
 [comparaison](https://www.youtube.com/watch?v=WCjzFpG2Anw) / [choix](https://tout-en-bois.com/10-conseils-pour-bien-choisir-une-defonceuse/) 
 
