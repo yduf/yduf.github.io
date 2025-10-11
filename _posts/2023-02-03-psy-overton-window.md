@@ -1,7 +1,7 @@
 ---
 published: true
 title: Overton window
-tags: psychology mental-model
+tags: psychology mental-model lang
 ---
 > the range of policies politically acceptable to the mainstream population at a given time. It is also known as the window of discourse. - [wikipedia](https://en.wikipedia.org/wiki/Overton_window)
 
