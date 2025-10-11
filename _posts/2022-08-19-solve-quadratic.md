@@ -7,6 +7,8 @@ use_math: true
 > Numerically stable algorithm for solving the quadratic equation when a
 is very small or 0 - [SE](https://math.stackexchange.com/questions/866331/numerically-stable-algorithm-for-solving-the-quadratic-equation-when-a-is-very?newreg=70e12aede30e4337bbadac3882aa8108)
 
+see also
+- [A Forbidden Jutsu for Quadratic Equations](https://www.youtube.com/watch?v=cdQOEa7r3ak) - manual trick for school exercise
 
 ## [Numerically Stable Method for Solving Quadratic Equations](https://people.csail.mit.edu/bkph/articles/Quadratics.pdf)
 
@@ -124,4 +126,4 @@ is very small or 0](https://math.stackexchange.com/questions/866331/numerically-
 - [Loss of significance](https://en.wikipedia.org/wiki/Loss_of_significance#Instability_of_the_quadratic_equation) - has a detail explanation for a stable algorithm
 - [Kahan summation algorithm](https://en.wikipedia.org/wiki/Kahan_summation_algorithm) - also known as compensated summation,[1] significantly reduces the numerical error in the total obtained by adding a sequence of finite-precision floating-point numbers, compared to the obvious approach.
 - The [Herbie](http://herbie.uwplse.org/) tool for automatically rearranging floating point expressions to reduce rounding error
-- [Float or double?](http://www.ilikebigbits.com/2017_06_01_float_or_double.html) - If you need a few numbers here and there, just use double and don't think more about it! 
+- [Float or double?](http://www.ilikebigbits.com/2017_06_01_float_or_double.html) - If you need a few numbers here and there, just use double and don't think more about it!
