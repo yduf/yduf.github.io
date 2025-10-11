@@ -8,7 +8,7 @@ use_math: true
 is very small or 0 - [SE](https://math.stackexchange.com/questions/866331/numerically-stable-algorithm-for-solving-the-quadratic-equation-when-a-is-very?newreg=70e12aede30e4337bbadac3882aa8108)
 
 see also
-- [A Forbidden Jutsu for Quadratic Equations](https://www.youtube.com/watch?v=cdQOEa7r3ak) - manual trick for school exercise
+- [A Forbidden Jutsu for Quadratic Equations](https://www.youtube.com/watch?v=cdQOEa7r3ak) - trick to simplify first factor for school exercise
 
 ## [Numerically Stable Method for Solving Quadratic Equations](https://people.csail.mit.edu/bkph/articles/Quadratics.pdf)
 
