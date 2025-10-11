@@ -5,6 +5,9 @@ tags: c++ game-engine architecture ECS OOP single-header
 ---
 > An entity system is simply a part of your program that uses a particular way of breaking up the logic and variables of your program into source code. - [Part2](http://t-machine.org/index.php/2007/11/11/entity-systems-are-the-future-of-mmog-development-part-2/)
 
+see also
+- [How do you handle entities in PICO-8? ](https://www.reddit.com/r/pico8/comments/1lluma6/how_do_you_handle_entities_in_pico8/)
+
 > [EnTT](https://github.com/skypjack/entt) is a header-only, tiny and easy to use library for game programming and much more written in modern C++, mainly known for its innovative entity-component-system (ECS) model.
 Among others, it's used in Minecraft by Mojang and the ArcGIS Runtime SDKs by Esri. - [HN](https://news.ycombinator.com/item?id=23128702)
 
