@@ -9,7 +9,7 @@ is very small or 0 - [SE](https://math.stackexchange.com/questions/866331/numeri
 
 see also
 - [A Forbidden Jutsu for Quadratic Equations](https://www.youtube.com/watch?v=cdQOEa7r3ak) - trick to simplify first factor for school exercise
-	- $ax²+bx+c$ can be transformed $x²+bx+ac$ and it will have the same solution
+	- $ax²+bx+c$ can be transformed to $x²+bx+a.c$ and it will have the same solution
 
 ## [Numerically Stable Method for Solving Quadratic Equations](https://people.csail.mit.edu/bkph/articles/Quadratics.pdf)
 
