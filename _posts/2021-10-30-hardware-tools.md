@@ -87,7 +87,7 @@ vs [Homemade](https://www.youtube.com/watch?v=a2kIJDhhZrg)
 [comparaison](https://www.youtube.com/watch?v=WCjzFpG2Anw) / [choix](https://tout-en-bois.com/10-conseils-pour-bien-choisir-une-defonceuse/) 
 
 **Ne pas prendre de coffret de fraise. => elles sont de mauvaises qualités comparées a une bonne individuelle et sont dangereuses.**
-- CMT (bonne qualité)
+- [CMT (bonne qualité)](https://www.cmtorangetools.com/eu-fr/fraises-industrielles-pour-defonceuses)
 
 - [Bosh GIF12 CE](https://www.amazon.fr/Bosch-Professional-0601626000-D%C3%A9fonceuse-10000-24000/dp/B00IZ8RS5Y?th=1) / [LCE](https://www.amazon.fr/Bosch-Professional-Oberfr%C3%A4se-GOF-1250/dp/B00IZ8VODQ/ref=psdc_1716189031_t1_B00IZ8RS5Y)
 - [Amazing 2D adjustment Router jig](https://www.youtube.com/watch?v=GXhKcPUyc8c)
