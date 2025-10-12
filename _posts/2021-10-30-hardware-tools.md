@@ -89,10 +89,11 @@ Fraise diametre max: 42mm -> sinon ne passe pas au travers de la base
 	- [CMT Orange Tools 912.100.11](https://www.amazon.fr/dp/B00JBJFJQ6) - Fraise droite avec tranchants en carbure (Ø queue 8 mm/Ø 10 mm/hauteur de coupe 31,7 mm) - 30€ 2025
     - [CMT Orange Tools 918,167,11](https://www.amazon.fr/dp/B00K5RUGUM) - Fraise à queue d'aronde 19 degrés pour hoffmann hw s 8 d 49 x 16,7 x 12,5 (w4) - 42€ 2025
 
+**Considerés**
 - [Bosh GIF12 CE](https://www.amazon.fr/Bosch-Professional-0601626000-D%C3%A9fonceuse-10000-24000/dp/B00IZ8RS5Y?th=1) / [LCE](https://www.amazon.fr/Bosch-Professional-Oberfr%C3%A4se-GOF-1250/dp/B00IZ8VODQ/ref=psdc_1716189031_t1_B00IZ8RS5Y)
-- [Amazing 2D adjustment Router jig](https://www.youtube.com/watch?v=GXhKcPUyc8c)
 
 see also
+- [Amazing 2D adjustment Router jig](https://www.youtube.com/watch?v=GXhKcPUyc8c)
 - [ Comment installer une défonceuse Bosch POF 1400 ACE en mode sous table ](https://www.youtube.com/watch?v=AkSFoIiS2lU) / [2](https://www.youtube.com/watch?v=AoIzba5UG8k)
 	- [ La table de FRAISAGE multifonction est faite en 4 heures. ](https://www.youtube.com/watch?v=CrjwJjnD-p0&t=21s)
     
