@@ -7,3 +7,4 @@ tags: project work blog-code
 
 see also
 - [What can strong engineers do that weak engineers can't?](https://www.seangoedecke.com/weak-engineers/)
+- [My Approach to Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects) / [HN](https://news.ycombinator.com/item?id=45535202) - Path to demo: split large project into a path of demoable achievement.
