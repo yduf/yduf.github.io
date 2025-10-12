@@ -7,6 +7,7 @@ tags: c++ game-engine architecture ECS OOP single-header
 
 see also
 - [How do you handle entities in PICO-8? ](https://www.reddit.com/r/pico8/comments/1lluma6/how_do_you_handle_entities_in_pico8/)
+- [stream-ecs: ECS with auto queue management.](https://www.lexaloffle.com/bbs/?tid=43348)
 
 > [EnTT](https://github.com/skypjack/entt) is a header-only, tiny and easy to use library for game programming and much more written in modern C++, mainly known for its innovative entity-component-system (ECS) model.
 Among others, it's used in Minecraft by Mojang and the ArcGIS Runtime SDKs by Esri. - [HN](https://news.ycombinator.com/item?id=23128702)
