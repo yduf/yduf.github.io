@@ -80,7 +80,7 @@ vs [Homemade](https://www.youtube.com/watch?v=a2kIJDhhZrg)
 2025 - 105€ - promo
 
 Collets supportés: **8mm** , **6mm**, **1/4 (6.35mm)**  
-Fraise diametre max: 42mm -> ne passe pas au travers de la base
+Fraise diametre max: 42mm -> sinon ne passe pas au travers de la base
 
 [comparaison](https://www.youtube.com/watch?v=WCjzFpG2Anw) / [choix](https://tout-en-bois.com/10-conseils-pour-bien-choisir-une-defonceuse/) 
 
