@@ -14,6 +14,6 @@ To run a coroutine, you call `coresume()`. Inside of the coroutine, you can call
 - [RPG Dialogue Scripting Demo](https://www.lexaloffle.com/bbs/?tid=3833) - showcase use of coroutines to create animations and dialogue.
 - [Iris Effect Coroutine](https://www.reddit.com/r/pico8/comments/ne1pfb/iris_effect_coroutine/)
 
-see also
+### see also
 - [COROUTINES](https://nerdyteachers.com/PICO-8/Guide/?COROUTINES)
 - [Pico-8 coroutines are occasionally dead](https://stackoverflow.com/questions/54193676/pico-8-coroutines-are-occasionally-dead)
