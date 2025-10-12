@@ -9,3 +9,4 @@ tags: movie voice speed reading devil
 
 - [The Voices](https://m.imdb.com/title/tt1567437/)
 - [So you think you’ve been implanted against your will?](https://forum.dangerousthings.com/t/so-you-think-youve-been-implanted-against-your-will/64)
+- [The Demon-Haunted World](https://news.ycombinator.com/item?id=45404373) -  normal, rational, intelligent people... can have fictional stories in their heads about how things work.
