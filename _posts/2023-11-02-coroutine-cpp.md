@@ -5,6 +5,7 @@ tags: c++ coroutine
 ---
 > Coroutines are lightweight and trivial to synchronize. They are perfect for small bits of incremental computation, like iterators and tokenizers.  - [	Coroutines in C (2000)](https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html) / [HN](https://news.ycombinator.com/item?id=39502276)
 
+- [Simple coroutines for games in C++](http://www.ilikebigbits.com/2016_03_20_coroutines.html)
 - [A Mental Model for C++ Coroutine](https://uvdn7.github.io/cpp-coro/) / [HN](https://news.ycombinator.com/item?id=44534809)
 - [C++ Coroutines Do Not Spark Joy](https://probablydance.com/2021/10/31/c-coroutines-do-not-spark-joy/)
 - [Writing custom C++20 coroutine systems](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-c++20/)
