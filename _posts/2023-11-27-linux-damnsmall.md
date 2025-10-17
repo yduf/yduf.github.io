@@ -5,6 +5,8 @@ tags: linux-system
 ---
 > Looking for an OS that can run on an old and tight system ?
 
+- [Can "lightweight" Linux distros save this tiny laptop from 2010?](https://www.youtube.com/watch?v=Z7FIgnoc33A)
+
 ( [damnsmalllinux](http://www.damnsmalllinux.org/notes.html) still exist, but doesn't look to be much alive...)
 
 - [The 9 Smallest Linux Distros That Are Minimal and Super Lightweight](https://www.makeuseof.com/tag/linux-distro-space/)
