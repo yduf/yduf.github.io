@@ -13,3 +13,7 @@ A modern, general-purpose web server known for being easy to configure and autom
 - Supports static sites, reverse proxying, load balancing
 - HTTP/2 and HTTP/3 support
 - Cross-platform and portable
+
+## NGINX
+
+TBD
