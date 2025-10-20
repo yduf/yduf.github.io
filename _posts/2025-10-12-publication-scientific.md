@@ -8,4 +8,6 @@ tags: science doc
 see also
 - [sci-hub](https://www.sci-hub.pub/) - filtered by France and others
 	- [wikipedia](https://fr.wikipedia.org/wiki/Sci-Hub)
+    - [Anna's Archive](https://en.wikipedia.org/wiki/Anna%27s_Archive)
+    	- [Anna’s Blog](https://annas-archive.org/blog/duxiu-exclusive.html)
 - [Open Edition](https://www.openedition.org/)
