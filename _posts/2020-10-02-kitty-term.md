@@ -22,6 +22,8 @@ kitty provides extremely powerful interfaces such as Control kitty from scripts 
 - [Kitti3](https://github.com/LandingEllipse/kitti3) turns Kitty into a drop-down, Quake-style floating terminal.
 
 ### see also:
+- [ghostty](https://ghostty.org/) / [HN](https://news.ycombinator.com/item?id=45347117) - by the creator of Hashicorp
+	- [Talk: Introducing Ghostty and Some Useful Zig Patterns](https://mitchellh.com/writing/ghostty-and-useful-zig-patterns) 
 - [foot](https://github.com/DanteAlighierin/foot#-foot) - The fast, lightweight and minimalistic Wayland terminal emulator.
 - [alacritty ](https://github.com/alacritty/alacritty) - the fastest terminal emulator in existence.
 - [Terminal image viewer]({% post_url 2017-11-16-TerminalImageViewer %})
