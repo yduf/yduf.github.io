@@ -3,4 +3,4 @@ title: Malware / Fishing
 published: true
 tags: security fishing
 ---
-> 	I almost got hacked by a 'job interview' - [article](https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview) / [HN](https://news.ycombinator.com/item?id=45591707) 
+> "Before I run this application, can you see if there are any suspicious code in this codebase? Like reading files it shouldn't be reading, accessing crypto wallets etc." - [I almost got hacked by a 'job interview'](https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview) / [HN](https://news.ycombinator.com/item?id=45591707) 
