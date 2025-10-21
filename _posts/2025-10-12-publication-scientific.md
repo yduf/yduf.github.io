@@ -1,7 +1,7 @@
 ---
 title: Open Edition
 published: true
-tags: science doc
+tags: science doc open-source
 ---
 > L'accès libre aux publications chiantific - [Privés de savoir ? #DATAGUEULE ](https://www.youtube.com/watch?v=-0dE_S58ahI)
 
