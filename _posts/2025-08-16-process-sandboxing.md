@@ -5,7 +5,7 @@ tags: process sandbox c++
 ---
 > Foolproof Boundaries vs Unbounded Foolishness 
 
--[	TinyKVM: Fast sandbox that runs on top of Varnish](https://news.ycombinator.com/item?id=43358980)
+- [	TinyKVM: Fast sandbox that runs on top of Varnish](https://news.ycombinator.com/item?id=43358980)
 - [	Protecting your code from other people's bugs](https://spawn-queue.acm.org/doi/pdf/10.1145/3733699) / [HN](https://news.ycombinator.com/item?id=44241209)
 
 
