@@ -7,5 +7,5 @@ tags: epaper storage
 
 ### see also
 - [carte perforée](https://fr.wikipedia.org/wiki/Carte_perfor%C3%A9e)
-
+- Cependant, il faudra attendre les années 1980 pour que les cartes perforées soient entièrement remplacées par les disques durs et les bandes magnétiques. 
 [![carte perforée](https://www.informatique.univ-paris-diderot.fr/_media/ufr/musee/collection/carte_perforees_1_.jpg)](https://www.informatique.univ-paris-diderot.fr/ufr/musee/collection/cartes_perforees)
