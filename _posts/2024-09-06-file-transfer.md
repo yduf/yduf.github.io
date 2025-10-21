@@ -7,6 +7,7 @@ tags: file network
 	- support remote control (both way)
     - can make you phone be used as remote for presentation
     - can ring your phone to find it.
+    - show battery (both way)
 - [Warpinator](https://github.com/linuxmint/warpinator?tab=readme-ov-file#warpinator---send-and-receive-files-across-a-local-network) -  send and receive files across a local network
 	- usefull with android devices vs cloud
 - [	Magic Wormhole](https://news.ycombinator.com/item?id=41275920) - get things from one computer to another, safely 
