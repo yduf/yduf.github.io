@@ -41,3 +41,4 @@ PTZ stands for Pan-Tilt-Zoom.
 - [TP-Link Tapo C200 Camera Reverse Engineering](https://github.com/nervous-inhuman/tplink-tapo-c200-re)
 	- [THE Tapo C200 Research Proj.](https://drmnsamoliu.github.io/shell.html)
     - [Vulnerabilities (CVE)](https://www.opencve.io/cve?vendor=tp-link&product=tapo_c200_firmware)
+- [Amazon’s Ring to partner with Flock](https://news.ycombinator.com/item?id=45614713) - how many existing Ring owners would have bought the camera had they known they would eventually give third parties access to the camera footage.
