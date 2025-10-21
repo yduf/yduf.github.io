@@ -7,5 +7,6 @@ tags: math sphere random
 
 - [How to generate uniformly random points
 on n-spheres and in n-balls](http://extremelearning.com.au/how-to-generate-uniformly-random-points-on-n-spheres-and-n-balls/)
+- [Animate a mesh across a sphere's surface](https://news.ycombinator.com/item?id=44205319)
 
 ![caption](https://secureservercdn.net/50.62.88.172/cnc.a6a.myftpupload.com/wp-content/uploads/2020/06/Offset-Fibonacci-Lattices-v2-1024x1024.jpg)
