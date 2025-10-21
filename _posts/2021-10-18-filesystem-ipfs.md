@@ -8,4 +8,4 @@ tags: filesystem
 used by [Anna's Archive]({% post_url 2025-10-12-publication-scientific.md %})
 
 ### see also
-- [	TernFS – an exabyte scale, multi-region distributed filesystem ](https://news.ycombinator.com/item?id=45646691) - vs Lustre?
+- [	TernFS – an exabyte scale, multi-region distributed filesystem ](https://news.ycombinator.com/item?id=45646691) - vs [Lustre](https://www.lustre.org/)?
