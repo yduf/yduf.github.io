@@ -6,6 +6,7 @@ tags: file network
 - [KDEConnect](https://userbase.kde.org/KDEConnect#Pairing_two_devices_together) can be a better alternative to warpinator
 	- support remote control (both way)
     - can make you phone be used as remote for presentation
+    - can ring your phone to find it.
 - [Warpinator](https://github.com/linuxmint/warpinator?tab=readme-ov-file#warpinator---send-and-receive-files-across-a-local-network) -  send and receive files across a local network
 	- usefull with android devices vs cloud
 - [	Magic Wormhole](https://news.ycombinator.com/item?id=41275920) - get things from one computer to another, safely 
