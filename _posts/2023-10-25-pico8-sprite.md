@@ -66,6 +66,7 @@ see also
 - [tline sprite rotation/scaling](https://www.lexaloffle.com/bbs/?pid=78451)
 - [tline sprite rotation demo/mini-tutorial](https://www.lexaloffle.com/bbs/?tid=45269)
 - [Sprite Rotation](https://www.lexaloffle.com/bbs/?tid=41632) - 64x64
+- [2D transforms](https://www.lexaloffle.com/bbs/?tid=49055)
 
 
 ### Animating Big Sprite
