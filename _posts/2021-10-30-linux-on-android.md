@@ -5,6 +5,9 @@ tags: android phone linux-system project
 ---
 > Installing a regular Linux distribution on an Android device opens a whole new world of possibilities. You can turn your Android device into a full-blown Linux/Apache/MySQL/PHP server and run web-based applications on it, install and use your favorite Linux tools, and even run a graphical desktop environment. - [Linux Mag](https://www.linux-magazine.com/Online/Features/Convert-an-Android-Device-to-Linux)
 
+see also
+- [You don't have to use Android](https://news.ycombinator.com/item?id=45532979) -  _I've been using various GNU/Linux phones for the last 17 years, so being able to do `gcc -o main main.cpp && ./main` on a phone is just natural to me._
+
 - [	Install postmarketOS on Android phone and use Docker as a home server](https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/) / [HN](https://news.ycombinator.com/item?id=42340065) -  about installing postmarketOS on a phone
 - [How To Install a Linux OS On Your Android Phone](https://helpdeskgeek.com/linux-tips/how-to-install-a-linux-os-on-your-android-phone/)
 - [What are the differences between Termux, PRoot, Userland, Linux Deploy, AnLinux and Alpine?](https://superuser.com/questions/1546024/what-are-the-differences-between-termux-proot-userland-linux-deploy-anlinux)
