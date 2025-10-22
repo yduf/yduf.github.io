@@ -7,6 +7,7 @@ toc: true
 > Retro revival on Pico8
 
 - [PICO-8 Demoscene effects](https://www.lexaloffle.com/bbs/?tid=3902)
+- [tweetjam](https://www.lexaloffle.com/bbs/?tid=3726)
 
 [![demo](https://www.lexaloffle.com/media/85395/67_rings_15.gif)](https://www.lexaloffle.com/bbs/superblog.php?cat=1&mode=gifs&beforewhen=2025-06-22%2023:59:19&postcarts=0)
 
