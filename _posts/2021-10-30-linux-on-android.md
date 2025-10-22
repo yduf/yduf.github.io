@@ -7,6 +7,8 @@ tags: android phone linux-system project
 
 see also
 - [You don't have to use Android](https://news.ycombinator.com/item?id=45532979) -  _I've been using various GNU/Linux phones for the last 17 years, so being able to do `gcc -o main main.cpp && ./main` on a phone is just natural to me._
+	- [Librem 5](https://puri.sm/products/librem-5/) - $799
+    - [PinePhone](https://pine64.org/devices/pinephone/) - 350€ / 600€
 
 - [	Install postmarketOS on Android phone and use Docker as a home server](https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/) / [HN](https://news.ycombinator.com/item?id=42340065) -  about installing postmarketOS on a phone
 - [How To Install a Linux OS On Your Android Phone](https://helpdeskgeek.com/linux-tips/how-to-install-a-linux-os-on-your-android-phone/)
