@@ -1,7 +1,7 @@
 ---
 title: Processes sandboxing
 published: true
-tags: process sandbox c++
+tags: process cgroup sandbox c++
 ---
 > Foolproof Boundaries vs Unbounded Foolishness 
 
