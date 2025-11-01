@@ -22,7 +22,7 @@ tags: cnc laser
 ## Fred Gift
 
 A 3020 model
-- [M2 Nano - LiHuiyu Studio Labs](https://lasertextil.com/images/com_hikashop/productos/thumbnails/350x350/Piezas_y_repuestos/Maquinas_laser/suministros/nano-m2/board_nano_m2.jpg)
+- [M2 Nano - LiHuiyu Studio Labs](https://www.raylasers.com/product/cloudray-lihuiyu-m2nano-laser-control-set/)
 	- Firmware ver 2019.01.12
     - Model 6C6879-LASER-M2:9
 
