@@ -9,11 +9,15 @@ tags: cnc laser
 
 [![the beast](https://m.media-amazon.com/images/I/51U5dvHWGCL._AC_UL480_QL65_.jpg)](https://www.amazon.fr/am%C3%A9lior%C3%A9-graveur-affichage-num%C3%A9rique-imprimante/dp/B0FD9FDWS8)
 
-# Software
+# [Software](https://chatgpt.com/share/6905f46e-1180-800d-b3db-15984d8be03b)
 
 ## [MeerK40t](https://github.com/meerk40t/meerk40t?tab=readme-ov-file#welcome-to-meerk40t)
 
 Distributed as AppImate / alive
+
+## []()
+
+## [OpenBuilds](https://software.openbuilds.com/?utm_source=chatgpt.com)
 
 ## [K40 Whisperer](https://www.scorchworks.com/K40whisperer/k40whisperer.html)
 
