@@ -13,7 +13,7 @@ tags: cnc laser
 
 ## [MeerK40t](https://github.com/meerk40t/meerk40t?tab=readme-ov-file#welcome-to-meerk40t)
 
-Distributed as AppImate
+Distributed as AppImate / alive
 
 ## [K40 Whisperer](https://www.scorchworks.com/K40whisperer/k40whisperer.html)
 
