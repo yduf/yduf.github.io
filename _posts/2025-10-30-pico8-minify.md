@@ -30,7 +30,11 @@ see also [PXAVizualiser](https://carlc27843.itch.io/pico-8-source-compression-vi
 - [PX9](https://www.lexaloffle.com/bbs/?tid=34058) / [PX8](https://www.lexaloffle.com/bbs/?tid=3930) - PX9 is a lightweight gfx & map compression library, intended to replace PX8. It uses the same ideas and interface as px8, but is smaller (~297~x 214 tokens to decompress), and requires zero configuration.
 
 - [New Byte Compressor 2022](https://www.lexaloffle.com/bbs/?tid=50713)
-- [Adventures in data compression (2021)](https://www.lexaloffle.com/bbs/?tid=45300)
+- [Adventures in data compression (2021)](https://www.lexaloffle.com/bbs/?tid=45300) - compare different technics and algorithm in pico-8 context:
+	- [Vector Distance Transform (VDT)](https://arxiv.org/abs/2106.03503)
+    - [Lempel-Ziv-Welch (LZW) compression](https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Welch)
+    - [Huffman Coding](https://en.wikipedia.org/wiki/Huffman_coding)
+    - [Run length encoding (RLE)](https://en.wikipedia.org/wiki/Run-length_encoding)
 - [My Compressor (2018)](https://www.lexaloffle.com/bbs/?tid=31725)
 - [SRAM Smasher! (2018)](https://www.lexaloffle.com/bbs/?tid=31632)
 - [Binary Image Compressor (2016)](https://www.lexaloffle.com/bbs/?tid=27892)
