@@ -23,6 +23,11 @@ tags: cnc laser
 
 [![laser CO2](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Laser_CO2.png/1500px-Laser_CO2.png)](https://fr.wikipedia.org/wiki/Laser_au_dioxyde_de_carbone)
 
+    
+- [K40/Chinese CO2 laser cutter/engraver buyer’s guide](https://www.youtube.com/watch?v=Gc_1jDVRKEQ)
+
+- [K40 12x24 Bed Build - Laser tear down and putting the parts together](https://www.youtube.com/watch?v=j20ZhxNnL-Q)
+
 ## Cooling
 **The k40's laser tube is liquid-cooled. Never operate the laser, even for an instant, without active liquid cooling.**
 
@@ -55,11 +60,6 @@ use [LibLaserCut](https://github.com/t-oster/LibLaserCut?tab=readme-ov-file#libl
 	- [Amélioration de la K40 - pointeur laser et Air Assist](https://www.youtube.com/watch?v=AwNY7BHcYXY)
     - [Comment j'utilise la machine laser 40 W et les logiciels](https://www.youtube.com/watch?v=7sGo2O-VHsU)
 
-    
-    
-- [K40/Chinese CO2 laser cutter/engraver buyer’s guide](https://www.youtube.com/watch?v=Gc_1jDVRKEQ)
-
-- [K40 12x24 Bed Build - Laser tear down and putting the parts together](https://www.youtube.com/watch?v=j20ZhxNnL-Q)
 
 - [Acrylic condensation (RDWorks)](https://www.youtube.com/watch?v=n54uNRs8Ydk) - and can catch fire - wary of honeycomb support fume extractor
 
