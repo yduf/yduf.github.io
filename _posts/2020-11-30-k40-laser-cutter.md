@@ -7,7 +7,19 @@ tags: cnc laser
 
 [![caption](https://qph.cf2.quoracdn.net/main-qimg-1482f39eeb7fe2a2abc3631275f95e42-c)](https://news.ycombinator.com/item?id=38865518)
 
+
+1. Never fire the laser with the cover open.
+1. Never operate the laser without the water pump functioning, and proper ventilation.
+1. Never look at the laser directly. Reflections from the laser can permanently blind you. Even reflections off of a wall or material being cut can be incredibly dangerous.
+1. Never leave the operating laser unattended.
+1. Have a fire extinguisher on hand, and be able to kill power to the unit immediately in case of emergency.
+
+
+# Hardware
+
 [![the beast](https://m.media-amazon.com/images/I/51U5dvHWGCL._AC_UL480_QL65_.jpg)](https://www.amazon.fr/am%C3%A9lior%C3%A9-graveur-affichage-num%C3%A9rique-imprimante/dp/B0FD9FDWS8)
+
+
 
 # [Software](https://chatgpt.com/share/6905f46e-1180-800d-b3db-15984d8be03b)
 
@@ -15,7 +27,7 @@ tags: cnc laser
 
 Distributed as AppImate / alive
 
-## [OpenBuilds](https://software.openbuilds.com/?utm_source=chatgpt.com)
+## [OpenBuilds](https://software.openbuilds.com)
 
 ## [K40 Whisperer](https://www.scorchworks.com/K40whisperer/k40whisperer.html)
 
