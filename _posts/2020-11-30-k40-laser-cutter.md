@@ -19,9 +19,16 @@ tags: cnc laser
 
 # [Hardware](https://www.reddit.com/r/lasercutting/wiki/k40/)
 
+## Fred Gift
+
 A 3020 model
+- M2 Nano Corel Draw ?
+
 
 [![the beast](https://m.media-amazon.com/images/I/51U5dvHWGCL._AC_UL480_QL65_.jpg)](https://www.amazon.fr/am%C3%A9lior%C3%A9-graveur-affichage-num%C3%A9rique-imprimante/dp/B0FD9FDWS8)
+
+![high voltage](https://cdn-icons-png.flaticon.com/128/813/813835.png)] - <span style="color:red">[**Approx 20kV are powering the laser**]</span>
+
 
 [![laser CO2](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Laser_CO2.png/1500px-Laser_CO2.png)](https://fr.wikipedia.org/wiki/Laser_au_dioxyde_de_carbone)
 
