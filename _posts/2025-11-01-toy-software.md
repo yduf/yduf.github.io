@@ -1,5 +1,5 @@
 ---
-title: Writing Toy Software Is A Joy
+title: "Writing Toy Software Is A Joy  \U0001F4AD "
 published: true
 tags: toy software project blog-code
 ---
