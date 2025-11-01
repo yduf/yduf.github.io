@@ -15,10 +15,12 @@ tags: cnc laser
 1. Have a fire extinguisher on hand, and be able to kill power to the unit immediately in case of emergency.
 
 
-# Hardware
+# [Hardware](https://www.reddit.com/r/lasercutting/wiki/k40/)
 
 [![the beast](https://m.media-amazon.com/images/I/51U5dvHWGCL._AC_UL480_QL65_.jpg)](https://www.amazon.fr/am%C3%A9lior%C3%A9-graveur-affichage-num%C3%A9rique-imprimante/dp/B0FD9FDWS8)
 
+## Cooling
+The k40's laser tube is liquid-cooled. Never operate the laser, even for an instant, without active liquid cooling.
 
 
 # [Software](https://chatgpt.com/share/6905f46e-1180-800d-b3db-15984d8be03b)
