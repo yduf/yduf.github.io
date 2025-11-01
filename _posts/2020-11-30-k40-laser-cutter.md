@@ -64,6 +64,7 @@ Make sure that the outlet of the water cooling tube (the circled bit) is pointin
 
 - [Connecting the temperature sensor to the M3 nano board?](https://forum.makerforums.info/t/connecting-the-temperature-sensor-to-the-m3-nano-board/89022)
 	- The two button cells in the thermometer module which came with my K40 are in parallel. It turns on with just one cell. So, it’s 1.5V.
+    - Anyhow, some quick googling suggests an LR44 cell has a capacity of 150 mAh. So, 300 mAh for two of them. One AAA cell got 1200 mAh (4x) and an AA cell about twice as much (8x). Either one would last for something like 8+ years.
     
 ## Tube
 
