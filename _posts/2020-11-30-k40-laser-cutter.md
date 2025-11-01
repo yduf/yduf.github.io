@@ -24,7 +24,7 @@ tags: cnc laser
 [![laser CO2](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Laser_CO2.png/1500px-Laser_CO2.png)](https://fr.wikipedia.org/wiki/Laser_au_dioxyde_de_carbone)
 
     
-- [K40/Chinese CO2 laser cutter/engraver buyer’s guide](https://www.youtube.com/watch?v=Gc_1jDVRKEQ)
+- [K40/Chinese CO2 laser cutter/engraver buyer’s guide (Teaching Tech)](https://www.youtube.com/watch?v=Gc_1jDVRKEQ)
 
 - [K40 12x24 Bed Build - Laser tear down and putting the parts together](https://www.youtube.com/watch?v=j20ZhxNnL-Q)
 
