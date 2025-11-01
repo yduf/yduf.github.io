@@ -28,7 +28,7 @@ see also [PXAVizualiser](https://carlc27843.itch.io/pico-8-source-compression-vi
 
 ## Compressor
 - [PX9](https://www.lexaloffle.com/bbs/?tid=34058) / [PX8](https://www.lexaloffle.com/bbs/?tid=3930) - PX9 is a lightweight gfx & map compression library, intended to replace PX8. It uses the same ideas and interface as px8, but is smaller (~297~x 214 tokens to decompress), and requires zero configuration.
-	- [Picocraft: Pico8 Sprite and maps Tricks](https://yourykiki.itch.io/picocraft/devlog/949482/picocraft-pico8-sprite-and-maps-tricks) - Graphics Workflow with PX9
+
 - [New Byte Compressor 2022](https://www.lexaloffle.com/bbs/?tid=50713)
 - [Adventures in data compression (2021)](https://www.lexaloffle.com/bbs/?tid=45300)
 - [My Compressor (2018)](https://www.lexaloffle.com/bbs/?tid=31725)
@@ -46,8 +46,9 @@ see also [PXAVizualiser](https://carlc27843.itch.io/pico-8-source-compression-vi
 
 # MultiCart
 - [From one Pico-8 cart to many](https://retroactive.me/post/from-one-pico-cart-to-many/)
-
-# Sprite Optimisation
+	- [Picocraft: Pico8 Sprite and maps Tricks](https://yourykiki.itch.io/picocraft/devlog/949482/picocraft-pico8-sprite-and-maps-tricks) - Graphics Workflow with PX9
+		- show multicart and upper memory usage
+## Sprite Optimisation
 - [rectpack2D](https://github.com/TeamHypersomnia/rectpack2D#rectpack2d) / [HN](https://news.ycombinator.com/item?id=36469297) - A header-only 2D rectangle packing library written in modern C++.
 
 
