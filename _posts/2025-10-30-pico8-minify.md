@@ -39,13 +39,15 @@ see also [PXAVizualiser](https://carlc27843.itch.io/pico-8-source-compression-vi
 - [A compressed size limit rant](https://www.lexaloffle.com/bbs/?tid=3205)
 - [Alex Kidd Pico Part 3: Code & Music limitations](https://www.domariusgames.com/devblog/akid3_code_music.html)
 
-### Compression & Packing
-
+# Token Optimisation
 
 - [PICO-8 Token Optimizations](https://github.com/seleb/PICO-8-Token-Optimizations)
 	- [ put all your game data into a string.](https://www.reddit.com/r/pico8/comments/17ehiba/which_of_these_methods_is_better/) = 1 token 
 
+# MultiCart
 - [From one Pico-8 cart to many](https://retroactive.me/post/from-one-pico-cart-to-many/)
+
+# Sprite Optimisation
 - [rectpack2D](https://github.com/TeamHypersomnia/rectpack2D#rectpack2d) / [HN](https://news.ycombinator.com/item?id=36469297) - A header-only 2D rectangle packing library written in modern C++.
 
 
