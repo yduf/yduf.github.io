@@ -21,3 +21,4 @@ So, to answer our question: What’s the deal with the weird wrong-number texts?
 
 - [les MUTE NEWS : les FAKE NEWS 2.0](https://www.youtube.com/watch?v=KDIocZ5Pp3k) - les parties d'extremes droites ont plus tendances a emettre de fake news.
 
+- [	Addiction Markets](https://news.ycombinator.com/item?id=45774640)
