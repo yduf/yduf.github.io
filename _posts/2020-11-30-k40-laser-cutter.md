@@ -45,6 +45,8 @@ The water will gradually warm up as the laser is operated. When it starts to get
 [How much cooling is enough?](https://forum.makerforums.info/t/cooling-the-k40-laser-tube/79916)
 - Enough cooling to keep your cooling water bucket under 20°C and enough pumping to keep about one liter of water per minute flowing through your laser tube.
 - Avoid frozen water => Doing this flirts with causing thermal expansion/contraction cracks in the glass.
+- The K40 has to get rid of 160W to 200W of waste heat
+
 
 - [Durée de vie typique et facteurs d'influence des tubes laser CO2](https://www.accteklaser.com/fr/duree-de-vie-typique-et-facteurs-dinfluence-des-tubes-laser-co2/)
 - [Identifying a Defective CO2 Laser Tube by Plasma Color](https://laser-crafting.com/en/defective-co2-laser-tube-how-to-recognize-when-you-need-a-new-laser-tube/) - CO2 laser tubes contain a gas mixture that depletes over time. When the tube is active, you’ll see a purple plasma beam inside. The stronger the color, the more powerful the tube. If the plasma shifts to a pale pink or even white, it’s a clear sign of a defective laser tube.
