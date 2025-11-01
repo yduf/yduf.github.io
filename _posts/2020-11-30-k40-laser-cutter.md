@@ -19,6 +19,8 @@ tags: cnc laser
 
 [![the beast](https://m.media-amazon.com/images/I/51U5dvHWGCL._AC_UL480_QL65_.jpg)](https://www.amazon.fr/am%C3%A9lior%C3%A9-graveur-affichage-num%C3%A9rique-imprimante/dp/B0FD9FDWS8)
 
+[![laser CO2](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Laser_CO2.png/1500px-Laser_CO2.png)](https://fr.wikipedia.org/wiki/Laser_au_dioxyde_de_carbone)
+
 ## Cooling
 **The k40's laser tube is liquid-cooled. Never operate the laser, even for an instant, without active liquid cooling.**
 
