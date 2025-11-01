@@ -47,7 +47,8 @@ The water will gradually warm up as the laser is operated. When it starts to get
 - Avoid frozen water => Doing this flirts with causing thermal expansion/contraction cracks in the glass.
 - The K40 has to get rid of 160W to 200W of waste heat
 - **Move about liter of water per minute through the K40 tube, and cool it to between 18°C and 20°C in the cooling tank.**
-- Always make sure your return hose end goes under the water level in the coolant bucket. Keep in mind that you have to cool the water in your bucket, too, as well as running the water through the laser. Use the largest practical cooling water tank. Most people seem to use 18 to 20 litters and that works well.
+- Always make sure your return hose end goes under the water level in the coolant bucket. This creates a siphon effect which makes your pump work much better.
+- Keep in mind that you have to cool the water in your bucket, too, as well as running the water through the laser. Use the largest practical cooling water tank. Most people seem to use 18 to 20 litters and that works well.
 
 
 - [Durée de vie typique et facteurs d'influence des tubes laser CO2](https://www.accteklaser.com/fr/duree-de-vie-typique-et-facteurs-dinfluence-des-tubes-laser-co2/)
