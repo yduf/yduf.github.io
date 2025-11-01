@@ -7,7 +7,7 @@ tags: cnc laser
 
 [![caption](https://qph.cf2.quoracdn.net/main-qimg-1482f39eeb7fe2a2abc3631275f95e42-c)](https://news.ycombinator.com/item?id=38865518)
 
-[![the beast](https://m.media-amazon.com/images/I/51U5dvHWGCL._AC_UL480_QL65_.jpg)](https://www.amazon.fr/am%C3%A9lior%C3%A9-graveur-affichage-num%C3%A9rique-imprimante/dp/B0FD9FDWS8?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1H36H4D2I0WXZ&dib=eyJ2IjoiMSJ9.gnVBdRekPoA7OF2E43-Fr3XAqAT81iHWIbEOKep6W5Fkx7DXpt8tquHD4RzKkxirYrt--tYJ2jiOmGwOW2s-RJ6I0NK22SLiehmVSABZ5UcFcAk9HkXLFZtwsBayVTtnVuY87xN_IgNuF-gq9vTQe-oi95nmlOgNJ_bxwbHDnZmH7s_N0K2Hvnvrx5tV3xqV5hb3jjrqXdbeHNCu3zLcnSAvtHCiBGOL9zJ5UnLcdrvfNOMg8mGGNSloqHPC2gbLVuUR4wvEGW3P7ubP03s_Xo6-cF6FFvuws7du7APsQNs.jXA78NqYrRzxZEGC01rX-bHHNDsDMVeCi4BkceaJbY4&dib_tag=se&keywords=d%C3%A9coupeuse+K40&qid=1761996827&sprefix=d%C3%A9coupeuse+k40%2Caps%2C124&sr=8-2&ufe=app_do%3Aamzn1.fos.49fccda8-a887-4188-817b-b9a64bb30e43)
+[![the beast](https://m.media-amazon.com/images/I/51U5dvHWGCL._AC_UL480_QL65_.jpg)](https://www.amazon.fr/am%C3%A9lior%C3%A9-graveur-affichage-num%C3%A9rique-imprimante/dp/B0FD9FDWS8)
 
 ### Software
 - [K40 Whisperer](https://www.scorchworks.com/K40whisperer/k40whisperer.html) - a free open source program alternative to the Laser Draw (LaserDRW) program that comes with the cheap Chinese laser cutters available on E-Bay and Amazon. K40 Whisperer reads SVG and DXF files, interprets the data and sends commands to the K40 controller to move the laser head and control the laser accordingly. K40 Whisperer does not require a USB key (dongle) to function. 
