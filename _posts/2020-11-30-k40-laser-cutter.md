@@ -17,6 +17,8 @@ Distributed as AppImate / alive
 
 ## [VisiCut](https://visicut.org/)
 
+use [LibLaserCut](https://github.com/t-oster/LibLaserCut?tab=readme-ov-file#liblasercut), a platform independant library for Lasercutters.
+
 ## [OpenBuilds](https://software.openbuilds.com/?utm_source=chatgpt.com)
 
 ## [K40 Whisperer](https://www.scorchworks.com/K40whisperer/k40whisperer.html)
