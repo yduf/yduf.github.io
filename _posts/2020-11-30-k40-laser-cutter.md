@@ -20,7 +20,9 @@ tags: cnc laser
 [![the beast](https://m.media-amazon.com/images/I/51U5dvHWGCL._AC_UL480_QL65_.jpg)](https://www.amazon.fr/am%C3%A9lior%C3%A9-graveur-affichage-num%C3%A9rique-imprimante/dp/B0FD9FDWS8)
 
 ## Cooling
-The k40's laser tube is liquid-cooled. Never operate the laser, even for an instant, without active liquid cooling.
+**The k40's laser tube is liquid-cooled. Never operate the laser, even for an instant, without active liquid cooling.**
+
+The water will gradually warm up as the laser is operated. When it starts to get warm, either stop using it for a while, or cycle in cooler water.
 
 
 # [Software](https://chatgpt.com/share/6905f46e-1180-800d-b3db-15984d8be03b)
