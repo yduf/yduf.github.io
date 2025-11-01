@@ -15,7 +15,7 @@ tags: cnc laser
 
 Distributed as AppImate / alive
 
-## [VisiCut](https://github.com/t-oster/VisiCut?tab=readme-ov-file#visicut)
+## [VisiCut](https://visicut.org/)
 
 ## [OpenBuilds](https://software.openbuilds.com/?utm_source=chatgpt.com)
 
