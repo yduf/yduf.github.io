@@ -17,6 +17,7 @@ tags: rubik opencv robot lego
 
 ## [Cube Solver](https://medium.com/@brad.hodkinson2/writing-code-to-solve-a-rubiks-cube-7bf9c08de01f)
 
+- [	S.A.R.C.A.S.M: Slightly Annoying Rubik's Cube Automatic Solving Machine ](https://news.ycombinator.com/item?id=45777682)
 - [Robots](https://ruwix.com/the-rubiks-cube/lego-rubiks-cube-robots-rubot2/)
 
 - [Cube Solver Robot With Arduino](https://www.instructables.com/Cool-Cube-Solver-Robot-With-Arduino/) / [github](https://github.com/AndreaFavero71/CUBOTino_base_version) / [HN](https://news.ycombinator.com/item?id=38334784)
