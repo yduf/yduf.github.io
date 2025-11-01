@@ -27,6 +27,7 @@ tags: cnc laser
 The water will gradually warm up as the laser is operated. When it starts to get warm, either stop using it for a while, or cycle in cooler water.
 
 - [Durée de vie typique et facteurs d'influence des tubes laser CO2](https://www.accteklaser.com/fr/duree-de-vie-typique-et-facteurs-dinfluence-des-tubes-laser-co2/)
+- [Identifying a Defective CO2 Laser Tube by Plasma Color](https://laser-crafting.com/en/defective-co2-laser-tube-how-to-recognize-when-you-need-a-new-laser-tube/)
 
 [![tube](https://www.accteklaser.com/wp-content/uploads/elementor/thumbs/Typical-service-life-and-influencing-factors-of-CO2-laser-tubes-qhqvfz78vtaw576m1t1zkmzmqe9aq9jviu6elxfkn4.jpg)](https://www.accteklaser.com/fr/duree-de-vie-typique-et-facteurs-dinfluence-des-tubes-laser-co2/)
 
