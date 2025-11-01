@@ -6,6 +6,8 @@ toc: true
 ---
 > [Shrinko8](https://github.com/thisismypassport/shrinko8?tab=readme-ov-file#shrinko8) - an aggressive cart minifier (+ linter & other tools) - [online](https://thisismypassport.github.io/shrinko8/) / [lexaloffle](https://www.lexaloffle.com/bbs/?tid=48591&utm_source=chatgpt.com)
 
+Sometimes your cartridge fits in the token count, but not the characters count / compressed size, so you can't export it until you reduce the number of characters in the cartridge. - [Aggressive Lua code minification and debug code stripping](https://www.lexaloffle.com/bbs/?tid=36804)
+
 - [r/pico8](https://www.reddit.com/r/pico8/comments/1ney75o/lesson_learned_be_wary_of_heavy_code_commenting/) - A set of Pico-8 cart tools, with a focus on shrinking code size.
     
 - **Tokens**: 8192
@@ -39,7 +41,7 @@ see also [PXAVizualiser](https://carlc27843.itch.io/pico-8-source-compression-vi
 
 ### Compression & Packing
 
-- [Aggressive Lua code minification and debug code stripping](https://www.lexaloffle.com/bbs/?tid=36804)
+
 - [PICO-8 Token Optimizations](https://github.com/seleb/PICO-8-Token-Optimizations)
 	- [ put all your game data into a string.](https://www.reddit.com/r/pico8/comments/17ehiba/which_of_these_methods_is_better/) = 1 token 
 
