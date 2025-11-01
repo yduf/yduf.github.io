@@ -1,6 +1,6 @@
 ---
 published: true
-title: Securing LAN with Pi
+title: Securing Local Network
 tags: raspberry-pi network security wifi
 ---
 > The latest generation of Raspberry Pi is powerful enough to serve as a decent home router. What leads to my decision to use it, and what's my experience? - [Raspberry Pi as a home router](https://www.zahradnik.io/raspberry-pi-as-a-home-router)
@@ -16,3 +16,6 @@ tags: raspberry-pi network security wifi
 - [How to use Raspberry Pi as a Wireless Router with Firewall?](https://raspberrytips.com/raspberry-pi-firewall/)
 - [Using the UFW Firewall on the Raspberry Pi](https://pimylifeup.com/raspberry-pi-ufw/) -  uncomplicated firewall
 - [Raspberry Pi Firewall and Intrusion Detection System](https://www.instructables.com/Raspberry-Pi-Firewall-and-Intrusion-Detection-Syst/)
+
+### see also
+- [	A proposal to restrict sites from accessing a users’ local network](https://news.ycombinator.com/item?id=44183799) -  random website probing arbitrary local IPs  with HTTP requests 
