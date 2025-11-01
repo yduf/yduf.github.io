@@ -2,6 +2,7 @@
 title: Minification (Pico-8)
 published: true
 tags: pico8 zip
+toc: true
 ---
 > [Shrinko8](https://github.com/thisismypassport/shrinko8?tab=readme-ov-file#shrinko8) - an aggressive cart minifier (+ linter & other tools) - [online](https://thisismypassport.github.io/shrinko8/) / [lexaloffle](https://www.lexaloffle.com/bbs/?tid=48591&utm_source=chatgpt.com)
 
