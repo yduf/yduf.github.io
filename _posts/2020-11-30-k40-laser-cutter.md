@@ -46,6 +46,7 @@ The water will gradually warm up as the laser is operated. When it starts to get
 - Enough cooling to keep your cooling water bucket under 20°C and enough pumping to keep about one liter of water per minute flowing through your laser tube.
 - Avoid frozen water => Doing this flirts with causing thermal expansion/contraction cracks in the glass.
 - The K40 has to get rid of 160W to 200W of waste heat
+- **Move about liter of water per minute through the K40 tube, and cool it to between 18°C and 20°C in the cooling tank.**
 
 
 - [Durée de vie typique et facteurs d'influence des tubes laser CO2](https://www.accteklaser.com/fr/duree-de-vie-typique-et-facteurs-dinfluence-des-tubes-laser-co2/)
