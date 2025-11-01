@@ -39,4 +39,4 @@ Il s'agit d'un procédé technique permettant d'exercer sur le bras une force ch
 ### See also
 - [Stereo disc recording](https://www.vinylrecorder.com/stereo.html)
 - [Comprendre la technologie derrière la musique d'avant](https://www.youtube.com/watch?v=nYib8hNkG1k)
-- [Anatomie et décorticage d'une platine et d'un disque vinyle](https://www.youtube.com/watch?v=pP-5bnuHbJY)
+- [Anatomie et décorticage d'une platine et d'un disque vinyle (Deux Ex Silicium)](https://www.youtube.com/watch?v=pP-5bnuHbJY)
