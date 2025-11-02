@@ -69,6 +69,7 @@ see also
 - [Everything You Need to Know About the K40 Chinese Laser Cutter](https://www.youtube.com/watch?v=09NCmW545GQ)
 - [K40 Laser control panel best upgrade under $10.](https://www.youtube.com/watch?v=D1-0TR8-br0)
 - [2019 K40 laser upgrades, Manual Z axis build.](https://www.youtube.com/watch?v=bpImYOqbZK4)
+- [K40 Laser Cutter & Engraver - What Do You Really Need To Get Started?](https://www.youtube.com/watch?v=t8csFQTgGMw)
 - [K40 12x24 Bed Build - Laser tear down and putting the parts together](https://www.youtube.com/watch?v=j20ZhxNnL-Q)
 
 
