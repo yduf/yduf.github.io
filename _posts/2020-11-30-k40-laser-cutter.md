@@ -127,6 +127,7 @@ a replacement for both the software supplied with the K40 and the K40 Whisperer 
 
 A free open source program alternative to the Laser Draw (LaserDRW) program that comes with the cheap Chinese laser cutters available on E-Bay and Amazon. K40 Whisperer reads SVG and DXF files, interprets the data and sends commands to the K40 controller to move the laser head and control the laser accordingly. K40 Whisperer does not require a USB key (dongle) to function. 
 
+[![UI](https://user-images.githubusercontent.com/3001893/127753148-361eefa5-dad7-4d75-b9d7-05b9739c6062.png)](https://github.com/meerk40t/meerk40t/wiki/Beginners:-5.-Understanding-the-user-interface)
 
 ## [VisiCut](https://visicut.org/)
 
