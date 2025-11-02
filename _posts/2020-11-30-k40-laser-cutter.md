@@ -117,9 +117,10 @@ With a K40, you can set the power of the laser from the front panel, but the con
 
 ## [MeerK40t](https://github.com/meerk40t/meerk40t?tab=readme-ov-file#welcome-to-meerk40t)
 
-a replacement for both the software supplied with the K40 and the K40 Whisperer software. It is designed specifically to drive the popular K40 class of (chinese built) laser machines which have an Lhymicro controller board. In the meantime Meerk40 is able to drive other controller boards (e.g. Gerbil based boards, Fibre Lasers and others), and aspires to support even more in the future. - [wiki](https://github.com/meerk40t/meerk40t/wiki)
+A replacement for both the software supplied with the K40 and the K40 Whisperer software. It is designed specifically to drive the popular K40 class of (chinese built) laser machines which have an Lhymicro controller board. In the meantime Meerk40 is able to drive other controller boards (e.g. Gerbil based boards, Fibre Lasers and others), and aspires to support even more in the future. - [wiki](https://github.com/meerk40t/meerk40t/wiki)
 
 
+[![UI](https://user-images.githubusercontent.com/3001893/127753148-361eefa5-dad7-4d75-b9d7-05b9739c6062.png)](https://github.com/meerk40t/meerk40t/wiki/Beginners:-5.-Understanding-the-user-interface)
 
 ## [OpenBuilds](https://software.openbuilds.com)
 
@@ -127,7 +128,6 @@ a replacement for both the software supplied with the K40 and the K40 Whisperer 
 
 A free open source program alternative to the Laser Draw (LaserDRW) program that comes with the cheap Chinese laser cutters available on E-Bay and Amazon. K40 Whisperer reads SVG and DXF files, interprets the data and sends commands to the K40 controller to move the laser head and control the laser accordingly. K40 Whisperer does not require a USB key (dongle) to function. 
 
-[![UI](https://user-images.githubusercontent.com/3001893/127753148-361eefa5-dad7-4d75-b9d7-05b9739c6062.png)](https://github.com/meerk40t/meerk40t/wiki/Beginners:-5.-Understanding-the-user-interface)
 
 ## [VisiCut](https://visicut.org/)
 
