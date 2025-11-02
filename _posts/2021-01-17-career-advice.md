@@ -7,7 +7,7 @@ tags: career work job software simplicity
 >
 > This is the opposite of what you get from new hires/juniors: they tend to focus on which stacks matter, what to learn, how to develop, deploy and maintain. Not much real advice on the behavioral side, to the point that people often take trainings for behavioral interviews and memorize “leadership principles” and other nonsense. - [HN](https://news.ycombinator.com/item?id=25658216) / [What I’ve Learned in 45 Years in the Software Industry](https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry/)
 
-- [Trying to impress people you don't respect](https://www.seangoedecke.com/impressing-people/)
+- [Trying to impress people you don't respect](https://www.seangoedecke.com/impressing-people/) -  climbing the ladder changes who you have to impress, and that can be a difficult transition to navigate.
 - [68 Bits of Unsolicited Advice](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/)
 - [39 pieces of unsolicited advice for Software Engineering Managers](https://camunda.com/blog/2020/08/39-pieces-of-unsolicited-advice-for-software-engineering-managers/)
 - [Drunk Post: Things I've learned as a Sr Engineer](https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/) / [HN](https://news.ycombinator.com/item?id=27333260)
