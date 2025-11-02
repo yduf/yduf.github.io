@@ -50,7 +50,7 @@ A 3020 model
 Buttons are just a digital version of the potentiometer, so it works good. Easy to set the power.
 But you need a mA-meter to keep a eye on power output. 100% on the panel is 140-150% on the tube – and you will kill it quick.
 
-In order not to shorten the life of your laser you need to keep the current below c. 15mA
+In order not to shorten the life of your laser you need to keep the current [below c. 15mA](https://laserhints.com/co2-laser-tubes-everything-you-need-to-know/) (for A 30-35W tube).
 
 
 [![analog meter](https://user-images.githubusercontent.com/3001893/120121608-47e23c80-c19c-11eb-87b9-186417b41e02.png)](https://github.com/meerk40t/meerk40t/wiki/Beginners:-2.-Preparing-your-K40-hardware)
