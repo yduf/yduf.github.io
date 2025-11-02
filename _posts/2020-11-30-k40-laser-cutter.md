@@ -1,6 +1,6 @@
 ---
 published: true
-title: "K40 laser cutter (3020) \U0001F6A7 "
+title: "K40 laser cutter \U0001F6A7 "
 tags: cnc laser laser-cut in-progress
 toc: true
 ---
