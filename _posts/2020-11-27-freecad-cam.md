@@ -6,7 +6,7 @@ tags: CAM cnc freecad-cam
 ## Tutorials
 - [FreeCAD CNC (2021)](https://www.youtube.com/watch?v=U9630DAmOA0)
 
-- [PathWorkbench and 3d contour milling.](https://www.youtube.com/watch?v=t0UUHAVWc90)
+- [PathWorkbench and 3d contour milling. (2018)](https://www.youtube.com/watch?v=t0UUHAVWc90)
 
 - [CNC CAM tutorial](https://www.youtube.com/watch?v=M99VshffvDY&list=LL&index=51) - early introduction to CAM operation
 	- material size / origin
