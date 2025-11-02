@@ -7,6 +7,10 @@ tags: synology nas
 After a power failure during the night, the Synology NAS didn't reboot properly.
 The blue led (power) blinking indefinitely.
 
+see also
+- [	
+	The Synology End Game ](https://news.ycombinator.com/item?id=45060920) - They Used to Be Good, But Now They've Turned to Evil
+
 ## [DS215j](https://www.synology.com/en-global/support/download/DS215j#docs)
 
 # [Recovery steps](http://upperstage.de/2017/03/09/synology-nas-blue-blinking-led-of-death/)
