@@ -17,6 +17,7 @@ toc: true
 1. Never leave the operating laser unattended.
 1. Have a fire extinguisher on hand, and be able to kill power to the unit immediately in case of emergency.
 
+During operation the tube also produces non-laser light in other frequencies including ultra-violet which can shine out from the tube in many directions and also reflect off the laser mirrors.
 
 # [Hardware](https://www.reddit.com/r/lasercutting/wiki/k40/)
 
@@ -98,6 +99,8 @@ Make sure that the outlet of the water cooling tube (the circled bit) is pointin
 [![tube](https://www.accteklaser.com/wp-content/uploads/elementor/thumbs/Typical-service-life-and-influencing-factors-of-CO2-laser-tubes-qhqvfz78vtaw576m1t1zkmzmqe9aq9jviu6elxfkn4.jpg)](https://www.accteklaser.com/fr/duree-de-vie-typique-et-facteurs-dinfluence-des-tubes-laser-co2/)
 
 # [Software](https://chatgpt.com/share/6905f46e-1180-800d-b3db-15984d8be03b)
+
+With a K40, you can set the power of the laser from the front panel, but the controller board is only able to turn the laser on and off.
 
 ## [MeerK40t](https://github.com/meerk40t/meerk40t?tab=readme-ov-file#welcome-to-meerk40t)
 
