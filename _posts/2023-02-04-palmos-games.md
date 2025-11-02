@@ -1,7 +1,7 @@
 ---
 published: true
 title: PalmOS games
-tags: retro games
+tags: retro games palmos
 ---
 > Palm OS developer releases source to classic games, 20 years after release - [HN](https://news.ycombinator.com/item?id=31748248) / [github](https://github.com/ardiri?tab=repositories&q=palmos&type=&language=&sort=)
 
