@@ -55,6 +55,7 @@ But you need a mA-meter to keep a eye on power output. 100% on the panel is 140-
 
 
 see also
+- [Everything You Need to Know About the K40 Chinese Laser Cutter](https://www.youtube.com/watch?v=09NCmW545GQ)
 - [K40 12x24 Bed Build - Laser tear down and putting the parts together](https://www.youtube.com/watch?v=j20ZhxNnL-Q)
 
 
