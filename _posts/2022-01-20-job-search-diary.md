@@ -1,7 +1,7 @@
 ---
 published: true
 title: Job search
-tags: job blog
+tags: job blog-people
 ---
 > I'm keeping a job search diary on my blog - [HN](https://news.ycombinator.com/item?id=30003106)
 
