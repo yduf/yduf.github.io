@@ -3,6 +3,7 @@ published: true
 title: CNC - Freecad CAM
 tags: CAM cnc freecad-cam
 ---
+- [FreeCAD 1.1 - Tutorial CNC/CAM - Masterclass - Complete Project (3D Model, Setup, Path & G-code)](https://www.youtube.com/watch?v=7nBCaV5J0Ts)
 - [FreeCAD CNC (2021)](https://www.youtube.com/watch?v=U9630DAmOA0)
 
 - [CNC with FreeCAD: CAD + CAM workflow (2022)](https://www.youtube.com/watch?v=V5ZTPModuMI)
@@ -18,5 +19,3 @@ tags: CAM cnc freecad-cam
     - operations / simulation
 - [CAM Setup and Cutting (2018)](https://www.youtube.com/watch?v=Aif-bTEMuWY&list=LL&index=49)
 	- dress tags
-
-
