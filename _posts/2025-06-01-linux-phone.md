@@ -9,6 +9,7 @@ tags: phone linux-system vscode
 - [You don't have to use Android](https://news.ycombinator.com/item?id=45532979) -  _I've been using various GNU/Linux phones for the last 17 years, so being able to do `gcc -o main main.cpp && ./main` on a phone is just natural to me._
 	- [Librem 5](https://puri.sm/products/librem-5/) - $799
     - [PinePhone](https://pine64.org/devices/pinephone/) - 350€ / 600€
+    - [Jolla C2 Community Phone](https://commerce.jolla.com/products/jolla-community-phone) - 290€
 
 - [	Using an /e/ phone as a desktop or laptop](https://news.ycombinator.com/item?id=21915586) - /e/ is simply a fork of LineageOS, so these features should work on Lineage as well. Support for USB-connected screens, docking stations etc. is going to be highly hardware dependent, but everything else should work out of the box.
 
