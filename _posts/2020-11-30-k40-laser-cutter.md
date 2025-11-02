@@ -69,6 +69,8 @@ see also
 ## Cooling
 **The k40's laser tube is liquid-cooled. Never operate the laser, even for an instant, without active liquid cooling.**
 
+It is important that you keep your laser tube below 25°C during use (generally recommended between 15°C and 20°C),
+
 The water will gradually warm up as the laser is operated. When it starts to get warm, either stop using it for a while, or cycle in cooler water.
 
 [How much cooling is enough?](https://forum.makerforums.info/t/cooling-the-k40-laser-tube/79916)
