@@ -140,7 +140,7 @@ use [LibLaserCut](https://github.com/t-oster/LibLaserCut?tab=readme-ov-file#libl
 	- [Amélioration de la K40 - pointeur laser et Air Assist](https://www.youtube.com/watch?v=AwNY7BHcYXY)
     - [Comment j'utilise la machine laser 40 W et les logiciels](https://www.youtube.com/watch?v=7sGo2O-VHsU)
 
-
+- [Making an Edge Lit Sign with a K40 Laser Engraver](https://www.youtube.com/watch?v=g9_dl2OKkaQ)
 - [Acrylic condensation (RDWorks)](https://www.youtube.com/watch?v=n54uNRs8Ydk) - and can catch fire - wary of honeycomb support fume extractor
 
 # Source
