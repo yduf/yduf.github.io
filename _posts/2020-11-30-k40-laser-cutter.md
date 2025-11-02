@@ -131,3 +131,4 @@ use [LibLaserCut](https://github.com/t-oster/LibLaserCut?tab=readme-ov-file#libl
 - [Diode lasers vs. Co2 laser tubes. Advantages and disadvantages](https://endurancelasers.com/diode-lasers-vs-co2-laser-tubes/)
 	- diodes: no single diode can create more than 10 watt optical power / Have a long lifespan (if the diode does not work anything really happens to it).
 - [Homemade CO2 Laser Tube](https://www.youtube.com/watch?v=5zpbXpHWSB0) / [Part2](https://www.youtube.com/watch?v=6gfdlH9kcvU)
+- [EFR CO2 laser tube factory ,60W to 220W power](https://www.youtube.com/watch?v=tYDHQ_mH1Bc)
