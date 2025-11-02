@@ -1,7 +1,7 @@
 ---
 published: true
-title: SAT solver
-tags: sat solver
+title: SATisfiability solver
+tags: SAT solver
 ---
 ## [Modern SAT solvers: fast, neat and underused](https://codingnest.com/modern-sat-solvers-fast-neat-underused-part-1-of-n/) - [TheCodingNest](https://codingnest.com/) - [\[HN\]](https://news.ycombinator.com/item?id=19953213)
 - [part 1](https://codingnest.com/modern-sat-solvers-fast-neat-underused-part-1-of-n/)
