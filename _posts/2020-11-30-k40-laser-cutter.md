@@ -16,6 +16,8 @@ toc: true
 1. Never look at the laser directly. Reflections from the laser can permanently blind you. Even reflections off of a wall or material being cut can be incredibly dangerous.
 1. Never leave the operating laser unattended.
 1. Have a fire extinguisher on hand, and be able to kill power to the unit immediately in case of emergency.
+	- Have a properly maintained CO2 fire extinguisher close at hand
+	- Keep a spray bottle of water to hand to supress small flames that may char your material (and which might grow into a major fire)
 
 During operation the tube also produces non-laser light in other frequencies including ultra-violet which can shine out from the tube in many directions and also reflect off the laser mirrors.
 
