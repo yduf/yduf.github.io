@@ -83,6 +83,8 @@ The water will gradually warm up as the laser is operated. When it starts to get
 
 [![bucket](https://user-images.githubusercontent.com/3001893/127775469-04944050-076a-4864-a1d8-904f013b60e9.png)](https://github.com/meerk40t/meerk40t/wiki/Beginners:-2.-Preparing-your-K40-hardware)
 
+**It is also essential that the water you use is non-conducting. The easiest way to achieve this is to use deionised water, (we get ours in 5 litre bottles from our local LIDL store at c. 0.70€ per bottle)**
+
 
 Make sure that the outlet of the water cooling tube (the circled bit) is pointing up to let the air escape (raise the machine):
 
