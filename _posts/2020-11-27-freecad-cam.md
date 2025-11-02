@@ -3,7 +3,6 @@ published: true
 title: CNC - Freecad CAM
 tags: CAM cnc freecad-cam
 ---
-## Tutorials
 - [FreeCAD CNC (2021)](https://www.youtube.com/watch?v=U9630DAmOA0)
 
 - [CNC with FreeCAD: CAD + CAM workflow (2022)](https://www.youtube.com/watch?v=V5ZTPModuMI)
