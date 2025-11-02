@@ -67,6 +67,7 @@ In order not to shorten the life of your laser you need to keep the current [bel
 
 see also
 - [Everything You Need to Know About the K40 Chinese Laser Cutter](https://www.youtube.com/watch?v=09NCmW545GQ)
+- [K40 Laser control panel best upgrade under $10.](https://www.youtube.com/watch?v=D1-0TR8-br0)
 - [K40 12x24 Bed Build - Laser tear down and putting the parts together](https://www.youtube.com/watch?v=j20ZhxNnL-Q)
 
 
