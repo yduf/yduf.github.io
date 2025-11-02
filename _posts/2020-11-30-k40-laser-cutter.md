@@ -53,6 +53,8 @@ But you need a mA-meter to keep a eye on power output. 100% on the panel is 140-
 
 - [Current limiting on the laser is done by pulsing (PWM) the power supply,](https://www.reddit.com/r/ChineseLaserCutters/comments/cyribj/replacing_digital_controls_with_analog/) 
 
+[![new panel](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFKrQ_Be0ai73mCwh3Xvz4xVE36pA8jTMV_Lmn-I0TCRJAf8jdOJt4uXxZDc_PE130VtKHTmNF2dEo_6dlcYuh000HqSLzxEybPl3HNdPwWS8AmQqrLWfl1Y3y_agxnl1sLTdfCEaYY5-5/s1600/Pic+7.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFKrQ_Be0ai73mCwh3Xvz4xVE36pA8jTMV_Lmn-I0TCRJAf8jdOJt4uXxZDc_PE130VtKHTmNF2dEo_6dlcYuh000HqSLzxEybPl3HNdPwWS8AmQqrLWfl1Y3y_agxnl1sLTdfCEaYY5-5/s1600/Pic+7.JPG)
+
 
 see also
 - [Everything You Need to Know About the K40 Chinese Laser Cutter](https://www.youtube.com/watch?v=09NCmW545GQ)
