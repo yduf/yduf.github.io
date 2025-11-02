@@ -41,11 +41,21 @@ A 3020 model
 - [K40/Chinese CO2 laser cutter/engraver buyer’s guide (Teaching Tech)](https://www.youtube.com/watch?v=Gc_1jDVRKEQ)
 
 ### Analog Control
-- [Replacing digital controls with analog](https://www.reddit.com/r/ChineseLaserCutters/comments/cyribj/replacing_digital_controls_with_analog/) - Current limiting on the laser is done by pulsing (PWM) the power supply,
+
+Buttons are just a digital version of the potentiometer, so it works good. Easy to set the power.
+But you need a mA-meter to keep a eye on power output. 100% on the panel is 140-150% on the tube – and you will kill it quick.
+
+- [keep your power at safe levels](https://k40.se/k40-laser-electronics/install-ma-meter/) - Adding a mA-meter to your machine is one of the most important modifications you can do on this machine.
+- [Convert to Analog](https://k40.se/k40-laser-upgrades/analog-power-setting/)
+
+[![schema](https://k40.se/wp-content/uploads/2017/09/k40-laser-enhanced-power-control-schematic.png)](https://k40.se/k40-laser-upgrades/analog-power-setting/)
+
+- [Current limiting on the laser is done by pulsing (PWM) the power supply,](https://www.reddit.com/r/ChineseLaserCutters/comments/cyribj/replacing_digital_controls_with_analog/) 
 
 
 see also
 - [K40 12x24 Bed Build - Laser tear down and putting the parts together](https://www.youtube.com/watch?v=j20ZhxNnL-Q)
+
 
 
 ## Cooling
