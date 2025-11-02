@@ -133,7 +133,7 @@ A free open source program alternative to the Laser Draw (LaserDRW) program that
 
 use [LibLaserCut](https://github.com/t-oster/LibLaserCut?tab=readme-ov-file#liblasercut), a platform independant library for Lasercutters.
 
-### Tutos
+# Tutos
 - [La découpeuse laser K40 - Découverte (Barbatronic)](https://www.youtube.com/watch?v=HpSHowpEGVM&list=LL&index=3)
 	- [Amélioration de la K40 - pointeur laser et Air Assist](https://www.youtube.com/watch?v=AwNY7BHcYXY)
     - [Comment j'utilise la machine laser 40 W et les logiciels](https://www.youtube.com/watch?v=7sGo2O-VHsU)
@@ -141,12 +141,12 @@ use [LibLaserCut](https://github.com/t-oster/LibLaserCut?tab=readme-ov-file#libl
 
 - [Acrylic condensation (RDWorks)](https://www.youtube.com/watch?v=n54uNRs8Ydk) - and can catch fire - wary of honeycomb support fume extractor
 
-### Source
+# Source
 
 - [amazon](https://www.amazon.fr/Samger-Graveur-Gravure-Sculpture-Machine/dp/B07P5C662T/ref=sr_1_10?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=d%C3%A9coupeuse+K40&qid=1606726082&sr=8-10)
 	- VEVOR deconseillé commme vendeur
     
-### see also
+# see also
 - [Diode lasers vs. Co2 laser tubes. Advantages and disadvantages](https://endurancelasers.com/diode-lasers-vs-co2-laser-tubes/)
 	- diodes: no single diode can create more than 10 watt optical power / Have a long lifespan (if the diode does not work anything really happens to it).
 - [Homemade CO2 Laser Tube](https://www.youtube.com/watch?v=5zpbXpHWSB0) / [Part2](https://www.youtube.com/watch?v=6gfdlH9kcvU)
