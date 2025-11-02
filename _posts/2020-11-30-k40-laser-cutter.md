@@ -48,7 +48,7 @@ But you need a mA-meter to keep a eye on power output. 100% on the panel is 140-
 - [keep your power at safe levels](https://k40.se/k40-laser-electronics/install-ma-meter/) - Adding a mA-meter to your machine is one of the most important modifications you can do on this machine.
 - [Convert to Analog](https://k40.se/k40-laser-upgrades/analog-power-setting/)
 
-[![schema](https://k40.se/wp-content/uploads/2017/09/k40-laser-enhanced-power-control-schematic.png)](https://k40.se/k40-laser-upgrades/analog-power-setting/)
+[![schema](https://k40.se/wp-content/uploads/2017/09/k40-ma-meter-installed.png)](https://k40.se/k40-laser-electronics/install-ma-meter/)
 
 - [Current limiting on the laser is done by pulsing (PWM) the power supply,](https://www.reddit.com/r/ChineseLaserCutters/comments/cyribj/replacing_digital_controls_with_analog/) 
 
