@@ -1,7 +1,7 @@
 ---
 published: true
 title: Behringer UMC204HD / UMC404HD
-tags: DAW audio-hardware guitar midi
+tags: DAW audio-hardware guitar midi network bus
 ---
 > Interface audio numérique USB - [Thomann](https://www.thomann.de/fr/behringer_u_phoria_umc204hd.htm?ref=intl&shp=eyJjb3VudHJ5IjoiZnIiLCJjdXJyZW5jeSI6MiwibGFuZ3VhZ2UiOiJmciJ9)
 
@@ -18,4 +18,4 @@ tags: DAW audio-hardware guitar midi
 - [latency issue](https://askubuntu.com/questions/1261052/how-to-setup-my-scarlett-2i2)
 
 ### see also
-- [StageConnect: Behringer protocol is open source](https://news.ycombinator.com/item?id=45625251)
+- [StageConnect: Behringer protocol is open source](https://news.ycombinator.com/item?id=45625251) - StageConnect is a connection to transmit 32 uncompressed audio-channels via a single XLR cable. StageConnect is based on A2B, the Automotive Audio Bus (A2B).
