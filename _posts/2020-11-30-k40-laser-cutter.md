@@ -29,15 +29,24 @@ A 3020 model
 
 [![the beast](https://m.media-amazon.com/images/I/51U5dvHWGCL._AC_UL480_QL65_.jpg)](https://www.amazon.fr/am%C3%A9lior%C3%A9-graveur-affichage-num%C3%A9rique-imprimante/dp/B0FD9FDWS8)
 
+## CO2 Laser
+
 ![high voltage](https://cdn-icons-png.flaticon.com/128/813/813835.png)] - <span style="color:red">[**Approx 20kV arc are powering the laser**]</span>
 
 
 [![laser CO2](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Laser_CO2.png/1500px-Laser_CO2.png)](https://fr.wikipedia.org/wiki/Laser_au_dioxyde_de_carbone)
 
-    
+## Customisation
+
 - [K40/Chinese CO2 laser cutter/engraver buyer’s guide (Teaching Tech)](https://www.youtube.com/watch?v=Gc_1jDVRKEQ)
 
+### Analog Control
+- [Replacing digital controls with analog](https://www.reddit.com/r/ChineseLaserCutters/comments/cyribj/replacing_digital_controls_with_analog/) - Current limiting on the laser is done by pulsing (PWM) the power supply,
+
+
+see also
 - [K40 12x24 Bed Build - Laser tear down and putting the parts together](https://www.youtube.com/watch?v=j20ZhxNnL-Q)
+
 
 ## Cooling
 **The k40's laser tube is liquid-cooled. Never operate the laser, even for an instant, without active liquid cooling.**
