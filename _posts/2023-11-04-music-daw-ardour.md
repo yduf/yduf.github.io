@@ -15,3 +15,6 @@ A session manager is like a patchbay (like [Helvum](https://gitlab.freedesktop.o
 
 see
 - [How To Install raysession on Ubuntu 20.04](https://installati.one/install-raysession-ubuntu-20-04/) -  `sudo apt-get -y install raysession`
+
+### Alternatives
+- [Radium](https://users.notam02.no/~kjetism/radium/) - The Music Editor
