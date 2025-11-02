@@ -2,6 +2,7 @@
 published: true
 title: "K40 laser cutter \U0001F6A7 "
 tags: cnc laser-cut in-progress
+toc: true
 ---
 > Your new laser cutter may attempt to kill you in a number of way... - [The k40 laser resource](https://k40lasercutter.com/) / [r/lasercutting](https://www.reddit.com/r/lasercutting/wiki/k40) / [K40laser.se](https://www.k40laser.se) / [Laser Gods](https://www.lasergods.com)
 
