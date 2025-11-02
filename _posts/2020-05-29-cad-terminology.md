@@ -1,8 +1,10 @@
 ---
 published: true
-title: CAD Terminology
-tags: cad lexic
+title: CAD Engine / Terminology
+tags: cad lexic cad-engine
 ---
+> [Zoo CAD Engine Overview](https://zoo.dev/research/zoo-cad-engine-overview)
+
 - [Chamfer](https://cad.onshape.com/help/Content/chamfer.htm?tocpath=Part%20Studios%7CFeature%20Tools%7C_____8) Break sharp edges with a bevel. Define by the distance to break from the edge and by the angle made with the surface.
 	- [Freecad](https://wiki.freecadweb.org/PartDesign_Chamfer)
     
