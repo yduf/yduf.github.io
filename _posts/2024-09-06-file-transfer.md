@@ -1,8 +1,11 @@
 ---
 title: "File transfer tools \U0001F5A7"
 published: true
-tags: file network
+tags: file network share android
 ---
+- [LocalSend](https://localsend.org/fr) - Partagez des fichiers avec vos appareils à proximité.
+    - can easily share url
+Gratuit, open-source et cross-plateforme.
 - [KDEConnect](https://userbase.kde.org/KDEConnect#Pairing_two_devices_together) can be a better alternative to warpinator
 	- support remote control (both way)
     - can make you phone be used as remote for presentation
