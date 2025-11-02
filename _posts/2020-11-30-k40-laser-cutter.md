@@ -33,6 +33,7 @@ A 3020 model
 
 ![high voltage](https://cdn-icons-png.flaticon.com/128/813/813835.png)] - <span style="color:red">[**Approx 20kV arc are powering the laser**]</span>
 
+**Before doing anything, remove all power cords and let the machine sit at least 30min before even thinking about touching something close to the power supply.**
 
 [![laser CO2](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Laser_CO2.png/1500px-Laser_CO2.png)](https://fr.wikipedia.org/wiki/Laser_au_dioxyde_de_carbone)
 
