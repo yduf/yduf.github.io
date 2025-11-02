@@ -7,3 +7,4 @@ tags: life job finance
 
 see also
 - [Recommended Financial Tools](https://jasonthai.me/blog/2019/06/13/financial-tools/)
+- [ProjectionLab](https://projectionlab.com/) - Simulate your financial future and chart a course toward your best life
