@@ -81,6 +81,8 @@ The water will gradually warm up as the laser is operated. When it starts to get
 - Always make sure your return hose end goes under the water level in the coolant bucket. This creates a siphon effect which makes your pump work much better.
 - Keep in mind that you have to cool the water in your bucket, too, as well as running the water through the laser. Use the largest practical cooling water tank. Most people seem to use 18 to 20 litters and that works well.
 
+[![bucket](https://user-images.githubusercontent.com/3001893/127775469-04944050-076a-4864-a1d8-904f013b60e9.png)](https://github.com/meerk40t/meerk40t/wiki/Beginners:-2.-Preparing-your-K40-hardware)
+
 
 Make sure that the outlet of the water cooling tube (the circled bit) is pointing up to let the air escape (raise the machine):
 
