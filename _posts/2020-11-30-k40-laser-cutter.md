@@ -26,7 +26,7 @@ During operation the tube also produces non-laser light in other frequencies inc
 ## Fred Gift
 
 A 3020 model
-- [M2 Nano - LiHuiyu Studio Labs](https://www.raylasers.com/product/cloudray-lihuiyu-m2nano-laser-control-set/)
+- [M2Nano - Lihuiyu Studio Labs](https://www.raylasers.com/product/cloudray-lihuiyu-m2nano-laser-control-set/)
 	- Firmware ver 2019.01.12
     - Model 6C6879-LASER-M2:9
 
