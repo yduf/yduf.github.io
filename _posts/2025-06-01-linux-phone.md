@@ -10,6 +10,7 @@ tags: phone linux-system vscode
 	- [Librem 5](https://puri.sm/products/librem-5/) - $799
     - [PinePhone](https://pine64.org/devices/pinephone/) - 350€ / 600€
     - [Jolla C2 Community Phone](https://commerce.jolla.com/products/jolla-community-phone) - 290€
+    	- [Worst Phone I Ever Bought - Jolla Phone - SailfishOS](https://www.youtube.com/watch?v=HzCMKbhK-EY)
 
 - [	Using an /e/ phone as a desktop or laptop](https://news.ycombinator.com/item?id=21915586) - /e/ is simply a fork of LineageOS, so these features should work on Lineage as well. Support for USB-connected screens, docking stations etc. is going to be highly hardware dependent, but everything else should work out of the box.
 
