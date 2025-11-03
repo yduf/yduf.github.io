@@ -137,6 +137,7 @@ A free open source program alternative to the Laser Draw (LaserDRW) program that
 use [LibLaserCut](https://github.com/t-oster/LibLaserCut?tab=readme-ov-file#liblasercut), a platform independant library for Lasercutters.
 
 # Tutos
+- [Formation débutant sur les découpeurs laser CO2 ! ](https://www.youtube.com/watch?v=r1ctsFsdDi0)
 - [La découpeuse laser K40 - Découverte (Barbatronic)](https://www.youtube.com/watch?v=HpSHowpEGVM&list=LL&index=3)
 	- [Amélioration de la K40 - pointeur laser et Air Assist](https://www.youtube.com/watch?v=AwNY7BHcYXY)
     - [Comment j'utilise la machine laser 40 W et les logiciels](https://www.youtube.com/watch?v=7sGo2O-VHsU)
