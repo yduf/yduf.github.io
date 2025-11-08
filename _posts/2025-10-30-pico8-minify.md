@@ -40,6 +40,7 @@ see also [PXAVizualiser](https://carlc27843.itch.io/pico-8-source-compression-vi
 - [Binary Image Compressor (2016)](https://www.lexaloffle.com/bbs/?tid=27892)
 
 ### see also
+- [Motivation Crisis: Compression Limit? ](https://www.reddit.com/r/pico8/comments/1omo7zw/motivation_crisis_compression_limit/)
 - [A compressed size limit rant](https://www.lexaloffle.com/bbs/?tid=3205)
 - [Alex Kidd Pico Part 3: Code & Music limitations](https://www.domariusgames.com/devblog/akid3_code_music.html)
 
@@ -55,8 +56,3 @@ see also [PXAVizualiser](https://carlc27843.itch.io/pico-8-source-compression-vi
 
 ## Sprite Optimisation
 - [rectpack2D](https://github.com/TeamHypersomnia/rectpack2D#rectpack2d) / [HN](https://news.ycombinator.com/item?id=36469297) - A header-only 2D rectangle packing library written in modern C++.
-
-
-
-
-
