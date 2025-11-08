@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Matplot / ImPlot \U0001F4C8 "
-tags: math imgui lib python visualizer meson
+tags: plot math visualizer imgui lib python meson
 toc: true
 ---
 > Various lib for plotting from c++, ruby or python - [Matplotlib](https://matplotlib.org/) / [github](https://github.com/matplotlib/matplotlib) / [wikipedia](https://en.wikipedia.org/wiki/Matplotlib)
