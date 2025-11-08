@@ -7,7 +7,11 @@ tags: minecraft server games microsoft
 
 ![caption](https://www.minecraft.net/content/dam/minecraft/home/home-hero-1200x600.jpg)
 
+### Setup
 - [	Minecraft removing obfuscation in Java Edition](https://news.ycombinator.com/item?id=45748879)
 - [Glowstone: open-source Minecraft server](https://news.ycombinator.com/item?id=15767451)
 - [Heroku Minecraft](https://github.com/jacobwgillespie/heroku-minecraft)
 - [Minecraft Versions Download List](https://mcversions.net/)
+
+### see also
+- [	Making Minecraft Spherical ](https://news.ycombinator.com/item?id=45055205)
