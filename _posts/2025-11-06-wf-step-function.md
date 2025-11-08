@@ -7,3 +7,4 @@ tags: workflow
 
 - [Absurd Workflows](https://lucumr.pocoo.org/2025/11/3/absurd-workflows/) - Durable Execution With Just Postgres
 	-  Absurd 1, a tiny SQL-only library with a very thin SDK to enable durable workflows on top of just Postgres — no extension needed.
+- [	Dbos: Durable Workflow Orchestration with Go and PostgreSQL](https://news.ycombinator.com/item?id=45412938)
