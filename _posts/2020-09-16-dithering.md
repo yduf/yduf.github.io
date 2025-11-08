@@ -9,6 +9,7 @@ tags: image graphic
 
 ### see also
 - [	Image Dithering: Eleven Algorithms and Source Code (2012) ](https://news.ycombinator.com/item?id=45698323)
+	- [Halftone vs Dithering](https://news.ycombinator.com/item?id=45750954)
 - [Convert photos to Atkinson dithering](https://gazs.github.io/canvas-atkinson-dither/] / [HN](https://news.ycombinator.com/item?id=44212446) / [github](https://github.com/gazs/canvas-atkinson-dither)
 - [Ditherpunk: The article I wish I had about monochrome image dithering](https://surma.dev/things/ditherpunk/) / [HN](https://news.ycombinator.com/item?id=25633483)
 - [Dithering in games – mini series](https://bartwronski.com/2016/10/30/dithering-in-games-mini-series/)
