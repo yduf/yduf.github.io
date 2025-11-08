@@ -1,7 +1,7 @@
 ---
 title: 'Generic core, specific shell'
 published: true
-tags: software architecture
+tags: software architecture mental-model
 ---
 > Business layer should be on top - [HN](https://news.ycombinator.com/item?id=45726855)
 
