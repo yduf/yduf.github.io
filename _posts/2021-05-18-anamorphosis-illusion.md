@@ -1,7 +1,7 @@
 ---
 published: true
 title: Anamorphosis
-tags: math physics mental-model
+tags: math physics illusion
 ---
 > The Illusion Only Some People Can See - [Veritasium](https://www.youtube.com/watch?v=dBap_Lp-0oc) / [wikipedia](https://en.wikipedia.org/wiki/Anamorphosis)
 
