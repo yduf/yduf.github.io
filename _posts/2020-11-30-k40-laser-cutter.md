@@ -149,9 +149,12 @@ use [LibLaserCut](https://github.com/t-oster/LibLaserCut?tab=readme-ov-file#libl
 
 - [amazon](https://www.amazon.fr/Samger-Graveur-Gravure-Sculpture-Machine/dp/B07P5C662T/ref=sr_1_10?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=d%C3%A9coupeuse+K40&qid=1606726082&sr=8-10)
 	- VEVOR deconseillé commme vendeur
-    
+
+- [Powder Coating With Lasers..Kinda](https://www.youtube.com/watch?v=xOuWrblwhRQ) - A New Way To Fill Your Engraving With Vibrant Color
+
 # see also
 - [Diode lasers vs. Co2 laser tubes. Advantages and disadvantages](https://endurancelasers.com/diode-lasers-vs-co2-laser-tubes/)
 	- diodes: no single diode can create more than 10 watt optical power / Have a long lifespan (if the diode does not work anything really happens to it).
 - [Homemade CO2 Laser Tube](https://www.youtube.com/watch?v=5zpbXpHWSB0) / [Part2](https://www.youtube.com/watch?v=6gfdlH9kcvU)
 - [EFR CO2 laser tube factory ,60W to 220W power](https://www.youtube.com/watch?v=tYDHQ_mH1Bc)
+
