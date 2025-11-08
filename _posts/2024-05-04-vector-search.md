@@ -1,7 +1,7 @@
 ---
 title: Vector DB
 published: true
-tags: nearest-neighbor hash vector-db search
+tags: nearest-neighbor hash vector-db search index
 ---
 > [ChatGPT Recommends](https://chatgpt.com/share/690f23f7-da6c-800d-8c19-def4deb5c03b)
 
