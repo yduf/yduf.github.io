@@ -1,7 +1,7 @@
 ---
 published: true
 title: Calcul Mental
-tags: math sqrt
+tags: math sqrt cpu
 ---
 - [How to multiply ANY numbers the fast way - Fast Math Trick](https://www.youtube.com/watch?v=LgJ5bNHBbD4)
 - [Digit By Digit Square Root Method](https://www.youtube.com/watch?v=6evC4klO_lI)
