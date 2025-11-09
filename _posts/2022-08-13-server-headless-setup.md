@@ -1,7 +1,7 @@
 ---
 published: true
 title: Server / Headless Setup
-tags: hardware server headless raspberry-pi
+tags: ssh linux-system headless
 ---
 > what's missing ?
 
