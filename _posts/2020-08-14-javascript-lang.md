@@ -14,7 +14,7 @@ tags: web js lang online playground
     - A color picker that does more
     - Accordions
     - Dialog modals
-    
+- [You no longer need JavaScript](https://lyra.horse/blog/2025/08/you-dont-need-js/) / [HN](https://news.ycombinator.com/item?id=45056878) - It’s awful. And you don’t need it.
 
 [ ![caption](https://i0.wp.com/codecapsule.com/wp-content/uploads/2021/01/techupskill_frontend-SPA.png?resize=1536%2C864&ssl=1) ](https://codecapsule.com/2021/01/26/complete-overview-frontend-development-2021/)
 
