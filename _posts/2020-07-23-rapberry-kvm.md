@@ -14,3 +14,4 @@ tags: kvm video video-hardware share raspberry-pi webcam streaming
 
 ## Video Streaming
 - [	Using a laptop as an HDMI monitor for an SBC](https://danielmangum.com/posts/laptop-hdmi-monitor-sbc/#fnref:1) / [HN](https://news.ycombinator.com/item?id=45527507)
+	- [HDMI vers USB Carte de Capture](https://www.amazon.fr/dacquisition-Papeaso-aquisition-Streaming-enseignement/dp/B0BL3HVMWW)
