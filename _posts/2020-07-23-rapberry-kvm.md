@@ -12,5 +12,5 @@ tags: kvm video video-hardware share raspberry-pi webcam streaming
 - [pikvm](https://github.com/pikvm/pikvm)
 - [pilo](https://zach.bloomqu.ist/blog/2020/08/pilo-raspberry-pi-lights-out-management.html) / [HN](https://news.ycombinator.com/item?id=24232066)
 
-## Video STreaming
+## Video Streaming
 - [	Using a laptop as an HDMI monitor for an SBC](https://danielmangum.com/posts/laptop-hdmi-monitor-sbc/#fnref:1) / [HN](https://news.ycombinator.com/item?id=45527507)
