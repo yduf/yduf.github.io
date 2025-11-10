@@ -8,8 +8,8 @@ use_math: true
 
 $\int_{0}^{\inf} \mathcal{e}^{st} \,dt$
 
-- what does it means to integrate a complex function ?
-	- scalar function this gives area below the function
-    - but as generalisation it can be seen as the mean on sum of intervall
-    - this generalize as barycenter for complex function
+What does it means to integrate a complex function ?
+- integrating scalar function gives area below the function
+- but as generalisation it can be seen as the mean on sum of intervall
+- this generalize as barycenter for complex function
 	
