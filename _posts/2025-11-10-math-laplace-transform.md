@@ -8,7 +8,7 @@ use_math: true
 
 $\int_{0}^{\inf} f(t) \mathcal{e}^{st} \,dt$
 
-$f(t) = 1$ -> \int_{0}^{\inf} f(t) \mathcal{e}^{st} \,dt = 1/s$
+$f(t) = 1$ -> $\int_{0}^{\inf} f(t) \mathcal{e}^{st} \,dt = 1/s$
 
 Laplace transform is linear.
 It is very similar to the Fourrier transform (Laplace is a generalisation to non pure complex).
@@ -22,4 +22,3 @@ Limited Continutation
 - How to defined a complex function outside of it's defintion domain
 	- either there is no such extension
     - or there is only one that exist
-    
