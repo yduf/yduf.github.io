@@ -4,9 +4,11 @@ published: true
 tags: math complex integral exp 3blue1brown
 use_math: true
 ---
-> [3blue1brown](https://www.youtube.com/watch?v=j0wJBEZdwLs)
+> Undertanding [3blue1brown](https://www.youtube.com/watch?v=j0wJBEZdwLs)
 
 $\int_{0}^{\inf} f(t) \mathcal{e}^{st} \,dt$
+
+$f(t) = 1$ -> \int_{0}^{\inf} f(t) \mathcal{e}^{st} \,dt = 1/s$
 
 What does it means to integrate a complex function ?
 - integrating scalar function gives area below the function
