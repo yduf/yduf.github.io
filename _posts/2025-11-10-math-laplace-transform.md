@@ -4,11 +4,14 @@ published: true
 tags: math complex integral exp 3blue1brown
 use_math: true
 ---
-> Pôles in the transformed fonction expose exponential in the original function - [3blue1brown](https://www.youtube.com/watch?v=j0wJBEZdwLs)
+> Poles in the transformed fonction expose exponential in the original function - [3blue1brown](https://www.youtube.com/watch?v=j0wJBEZdwLs)
 
 $\int_{0}^{\inf} f(t) \mathcal{e}^{st} \,dt$
 
 $f(t) = 1$ -> \int_{0}^{\inf} f(t) \mathcal{e}^{st} \,dt = 1/s$
+
+Laplace transform is linear.
+It is very similar to the Fourrier transform (Laplace is a generalisation to non pure complex).
 
 What does it means to integrate a complex function ?
 - integrating scalar function gives area below the function
