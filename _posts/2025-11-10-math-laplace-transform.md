@@ -12,4 +12,8 @@ What does it means to integrate a complex function ?
 - integrating scalar function gives area below the function
 - but as generalisation it can be seen as the mean on sum of intervall
 - this generalize as barycenter for complex function
-	
+
+Limited Continutation
+- How to defined a complex function outside of it's defintion domain
+	- either there is no such extension
+    - or there is only one that exist
