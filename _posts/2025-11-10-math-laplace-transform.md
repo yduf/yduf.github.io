@@ -4,7 +4,7 @@ published: true
 tags: math complex integral exp 3blue1brown
 use_math: true
 ---
-> Undertanding [3blue1brown](https://www.youtube.com/watch?v=j0wJBEZdwLs)
+> Pôles in the transformed fonction expose exponential in the original function - [3blue1brown](https://www.youtube.com/watch?v=j0wJBEZdwLs)
 
 $\int_{0}^{\inf} f(t) \mathcal{e}^{st} \,dt$
 
@@ -19,3 +19,4 @@ Limited Continutation
 - How to defined a complex function outside of it's defintion domain
 	- either there is no such extension
     - or there is only one that exist
+    
