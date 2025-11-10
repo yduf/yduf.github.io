@@ -6,7 +6,7 @@ use_math: true
 ---
 > [3blue1brown](https://www.youtube.com/watch?v=j0wJBEZdwLs)
 
-$\int_{0}^{\inf} \mathcal{e}^{st} \,dt$
+$\int_{0}^{\inf} f(t) \mathcal{e}^{st} \,dt$
 
 What does it means to integrate a complex function ?
 - integrating scalar function gives area below the function
