@@ -222,7 +222,7 @@ Un PupPack est un ensemble de médias et d'effets visuels qui sont intégrés da
 - ★★★☆☆ [JP's Wrath of Olympus 4.0.0](https://www.vpforums.org/index.php?app=downloads&showfile=16457)
 	- [Wrath of Olympus VP912 FS 1.0.0](https://www.vpforums.org/index.php?app=downloads&showfile=6855)
 
-### see also
+# see also
 - [VPForum](https://www.vpforums.org/index.php?) - to download tables
 	- [VPX Table Tutorials](https://vpinhub.com/vpxtables)
     - [Alphabetical Listing of VPM tables w/Links to Tutorials 1.7.0 ](https://www.vpforums.org/index.php?app=downloads&showfile=5221)
