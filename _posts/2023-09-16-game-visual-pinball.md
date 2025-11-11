@@ -63,7 +63,7 @@ see also
 
 ### [Configuration](https://forums.gameex.com/forums/topic/28932-guide-usingsetup-visual-pinball-108-with-different-settings/)
 
-In previous versions all settings where set in the registry and using for example another system needs a launch script to change the value in the registry. Now all the settings are stored in an INI file.
+In previous versions all settings were set in the registry and using for example another system needs a launch script to change the value in the registry. Now all the settings are stored in an INI file.
 
 You can copy & customize the one located in `~/.vpinball/VPinballX.ini`
 
