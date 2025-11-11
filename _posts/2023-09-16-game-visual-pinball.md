@@ -2,6 +2,7 @@
 published: true
 title: Visual Pinball (VPinballX)
 tags: pincab table games
+toc: true
 ---
 > This project was started by Randy Davis, open sourced in 2010 and continued by the Visual Pinball development team. - [github](https://github.com/vpinball/vpinball) / [wikipedia](https://en.wikipedia.org/wiki/Visual_Pinball) / [doc](https://github.com/vpinball/vpinball/tree/master/docs) / [r/virtualpinball/](https://www.reddit.com/r/virtualpinball/) / [discord](https://discord.com/channels/652274650524418078/1076655472846831667)
 
