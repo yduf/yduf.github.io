@@ -50,3 +50,4 @@ see also
 - [Delores: A Thimbleweed Park mini-adventure]({% post_url 2020-11-29-games-delores %})
 - [Maniac Mansion]({% post_url 2017-07-17-Maniac-Mansion-Deluxe %})
 - [Ron Gilbert]({% post_url 2020-09-04-grumpy-gamer %})
+- [Monkey island poster](https://www.etsy.com/fr/market/monkey_island_poster)
