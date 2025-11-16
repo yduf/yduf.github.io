@@ -9,6 +9,7 @@ tags: electronic wire
 	- work for larger one - 0.3mm
     - as well as for 0.1mm
 
+- at 300° - solder won't hold / enamel won't melt
 
 
 see also
