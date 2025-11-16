@@ -1,7 +1,7 @@
 ---
 published: true
 title: Tapo (wifi camera)
-tags: camera video-hardware network  reverse
+tags: camera video-hardware RTSP network  reverse
 excerpt_separator: ''
 ---
 - 2023 - C212 - 30€  - [amazon](https://www.amazon.fr/gp/product/B0CG9MBCYR/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&th=1)
