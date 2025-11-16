@@ -13,4 +13,4 @@ tags: electronic wire
 
 
 see also
-- []()
+- [how to solder small wire easy way ](https://www.youtube.com/watch?v=IsXP14e7HR8&list=LL&index=2&t=102s) - a wayt to get a goot twist for multiwire
