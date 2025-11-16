@@ -71,6 +71,7 @@ see also
 - [2019 K40 laser upgrades, Manual Z axis build.](https://www.youtube.com/watch?v=bpImYOqbZK4)
 - [K40 Laser Cutter & Engraver - What Do You Really Need To Get Started?](https://www.youtube.com/watch?v=t8csFQTgGMw)
 - [K40 12x24 Bed Build - Laser tear down and putting the parts together](https://www.youtube.com/watch?v=j20ZhxNnL-Q)
+- [OMTECH K40 Plus - Un bon investissement ?](https://www.youtube.com/watch?v=goP29IB8L-I)
 
 
 
@@ -157,4 +158,3 @@ use [LibLaserCut](https://github.com/t-oster/LibLaserCut?tab=readme-ov-file#libl
 	- diodes: no single diode can create more than 10 watt optical power / Have a long lifespan (if the diode does not work anything really happens to it).
 - [Homemade CO2 Laser Tube](https://www.youtube.com/watch?v=5zpbXpHWSB0) / [Part2](https://www.youtube.com/watch?v=6gfdlH9kcvU)
 - [EFR CO2 laser tube factory ,60W to 220W power](https://www.youtube.com/watch?v=tYDHQ_mH1Bc)
-
