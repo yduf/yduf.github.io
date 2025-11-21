@@ -15,5 +15,6 @@ see also
         - delays outside of timing window do not get measured at all
 	- service time vs response time
     	- waiter action time vs queue of people to serve
+ 	- what is sustainable speed / load?
     
 [![slide](https://imgopt.infoq.com/fit-in/1288x0/filters:quality(80)/presentations/latency-response-time/en/slides/sl45.jpg)](https://www.infoq.com/presentations/latency-response-time/)
