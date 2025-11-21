@@ -13,6 +13,8 @@ see also
     - coordinated omission problem
     	- long operations only get measured once
         - delays outside of timing window do not get measured at all
+        - gatling is only one that to not exibit coordinated omission problem
+        	- jmeter all other are wrong
 	- service time vs response time
     	- waiter action time vs queue of people to serve
  	- what is sustainable speed / load?
