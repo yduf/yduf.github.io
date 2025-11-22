@@ -8,6 +8,10 @@ use_math: true
 
 see also
 - Riemann Hypothesis $1^x + 2^x + 3^x + ...= 0 ?$
+- [Numberphile v. Math: the truth about 1+2+3+...=-1/12](https://www.youtube.com/watch?v=YuIIjLr6vUA)
+	- assert that infinite sum is only defined in correspondance with convergence
+    - then as intermediate sum $A$ and $B$ do not converge, then sum does not exists
+    - which is kind of redifining what is sum and when it exists.
 
 
 ### Demonstration
