@@ -57,7 +57,8 @@ In order not to shorten the life of your laser you need to keep the current [bel
 
 - [keep your power at safe levels](https://k40.se/k40-laser-electronics/install-ma-meter/) - Adding a mA-meter to your machine is one of the most important modifications you can do on this machine.
 - [Convert to Analog](https://k40.se/k40-laser-upgrades/analog-power-setting/)
-	- [K40 Laser Amp Meter Installation Miliampmeter](https://www.youtube.com/watch?v=uSuuLWbU2ds)
+	- [K40 Laser Amp Meter Installation Miliampmeter](https://www.youtube.com/watch?v=uSuuLWbU2ds) - show full build
+    - [K40 laser Amp Meter Install](https://www.youtube.com/watch?v=h_xL43_aSbo) - focus on connection
 
 [![schema](https://k40.se/wp-content/uploads/2017/09/k40-ma-meter-installed.png)](https://k40.se/k40-laser-electronics/install-ma-meter/)
 
