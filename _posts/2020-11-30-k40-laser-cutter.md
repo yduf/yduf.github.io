@@ -165,6 +165,8 @@ Fortunately the controller can turn the laser on and off very fast indeed. In fa
 
 A replacement for both the software supplied with the K40 and the K40 Whisperer software. It is designed specifically to drive the popular K40 class of (chinese built) laser machines which have an Lhymicro controller board. In the meantime Meerk40 is able to drive other controller boards (e.g. Gerbil based boards, Fibre Lasers and others), and aspires to support even more in the future. - [wiki](https://github.com/meerk40t/meerk40t/wiki)
 
+### [Tutorials](https://www.youtube.com/watch?v=SZPMhxFWS_Q&list=PLRcH9ggJLNEieFAv81Qb2MmZYxqKXxj6N)
+
 
 [![UI](https://user-images.githubusercontent.com/3001893/127753148-361eefa5-dad7-4d75-b9d7-05b9739c6062.png)](https://github.com/meerk40t/meerk40t/wiki/Beginners:-5.-Understanding-the-user-interface)
 
