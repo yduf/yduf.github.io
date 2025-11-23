@@ -156,6 +156,8 @@ Make sure that the outlet of the water cooling tube (the circled bit) is pointin
 
 With a K40, you can set the power of the laser from the front panel, but the controller board is only able to turn the laser on and off.
   
+Fortunately the controller can turn the laser on and off very fast indeed. In fact it can do this 1,000x per inch (or c. 400 per cm) which is enough to turn it on and off several times in the width of the laser beam itself!!
+  
 </div>
 
 
