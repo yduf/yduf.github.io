@@ -66,9 +66,14 @@ In order not to shorten the life of your laser you need to keep the current [bel
 
 [![schema](https://k40.se/wp-content/uploads/2017/09/k40-ma-meter-installed.png)](https://k40.se/k40-laser-electronics/install-ma-meter/)
 
+[Current limiting on the laser is done by pulsing (PWM) the power supply,](https://www.reddit.com/r/ChineseLaserCutters/comments/cyribj/replacing_digital_controls_with_analog/) 
+- Laser on and off is controlled by the control board, and it does this the L-pin furthest to the right on the power supply. PIN14 in the picture below.
+There is more L-pins but these are connected to the test-buttons only.
+Only jumper cable you should have is the one between P+ and gnd, if you dont have a flow sensor. (pin 5&6 in pic below)
+
 [![connection](https://k40.se/wp-content/uploads/2019/05/oldpsulayout.png)](https://k40.se/k40-laser-upgrades/analog-power-setting/)
 
-- [Current limiting on the laser is done by pulsing (PWM) the power supply,](https://www.reddit.com/r/ChineseLaserCutters/comments/cyribj/replacing_digital_controls_with_analog/) 
+
 
 [![new panel](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFKrQ_Be0ai73mCwh3Xvz4xVE36pA8jTMV_Lmn-I0TCRJAf8jdOJt4uXxZDc_PE130VtKHTmNF2dEo_6dlcYuh000HqSLzxEybPl3HNdPwWS8AmQqrLWfl1Y3y_agxnl1sLTdfCEaYY5-5/s1600/Pic+7.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFKrQ_Be0ai73mCwh3Xvz4xVE36pA8jTMV_Lmn-I0TCRJAf8jdOJt4uXxZDc_PE130VtKHTmNF2dEo_6dlcYuh000HqSLzxEybPl3HNdPwWS8AmQqrLWfl1Y3y_agxnl1sLTdfCEaYY5-5/s1600/Pic+7.JPG)
 
