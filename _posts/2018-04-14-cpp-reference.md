@@ -20,3 +20,4 @@ tags: c++ quote
 - [	Main is usually a function](https://news.ycombinator.com/item?id=37045803) - So then when is it not?
 - [Debug & Build C++ Project]({% post_url 2020-09-19-vscode-cpp-project %})
 - [The C++20 Naughty and Nice List for Game Devs](https://www.jeremyong.com/c++/2023/12/24/cpp20-gamedev-naughty-nice/) -  features I think game devs should probably use (possibly with caveats), and features I think game devs will probably want to avoid.
+- [Undefined behavior in C and C++](https://russellw.github.io/undefined-behavior) / [HN](https://news.ycombinator.com/item?id=44841891)
