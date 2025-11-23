@@ -50,7 +50,7 @@ A 3020 model
 Buttons are just a digital version of the potentiometer, so it works good. Easy to set the power.
 But you need a mA-meter to keep a eye on power output. 100% on the panel is 140-150% on the tube – and you will kill it quick.
 
-**After Amperemetre installed - 26% => 14mA **
+**With Amperemetre installed - 26% => 14mA **
 
 In order not to shorten the life of your laser you need to keep the current [below c. 15mA](https://laserhints.com/co2-laser-tubes-everything-you-need-to-know/) (for A 30-35W tube).
 
