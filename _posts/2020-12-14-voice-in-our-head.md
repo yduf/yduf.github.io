@@ -1,7 +1,7 @@
 ---
 published: true
 title: The Voices
-tags: movie voice speed reading devil
+tags: movie voice thinking speed reading devil
 ---
 > Isn't it weird that we have a little voice in our heads? Like the one you used to read this.
 
