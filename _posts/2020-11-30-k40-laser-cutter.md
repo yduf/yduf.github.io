@@ -41,11 +41,11 @@ A 3020 model
 
 [![laser CO2](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Laser_CO2.png/1500px-Laser_CO2.png)](https://fr.wikipedia.org/wiki/Laser_au_dioxyde_de_carbone)
 
-## Customisation
+# Customisation
 
 - [K40/Chinese CO2 laser cutter/engraver buyer’s guide (Teaching Tech)](https://www.youtube.com/watch?v=Gc_1jDVRKEQ)
 
-### Analog Control
+## Analog Control
 
 Buttons are just a digital version of the potentiometer, so it works good. Easy to set the power.
 But you need a mA-meter to keep a eye on power output. 100% on the panel is 140-150% on the tube – and you will kill it quick.
@@ -55,12 +55,18 @@ In order not to shorten the life of your laser you need to keep the current [bel
 
 [![analog meter](https://user-images.githubusercontent.com/3001893/120121608-47e23c80-c19c-11eb-87b9-186417b41e02.png)](https://github.com/meerk40t/meerk40t/wiki/Beginners:-2.-Preparing-your-K40-hardware)
 
-- [keep your power at safe levels](https://k40.se/k40-laser-electronics/install-ma-meter/) - Adding a mA-meter to your machine is one of the most important modifications you can do on this machine.
-- [Convert to Analog](https://k40.se/k40-laser-upgrades/analog-power-setting/)
-	- [K40 Laser Amp Meter Installation Miliampmeter](https://www.youtube.com/watch?v=uSuuLWbU2ds) - show full build
-    - [K40 laser Amp Meter Install](https://www.youtube.com/watch?v=h_xL43_aSbo) - focus on connection
+
+### [Convert to Analog](https://k40.se/k40-laser-upgrades/analog-power-setting/)
+	
+
+[keep your power at safe levels](https://k40.se/k40-laser-electronics/install-ma-meter/) - Adding a mA-meter to your machine is one of the most important modifications you can do on this machine.
+- should I change the buttons? No, keep it. If you like it it´s really no reason to change it.
+- [K40 Laser Amp Meter Installation Miliampmeter](https://www.youtube.com/watch?v=uSuuLWbU2ds) - show full build
+- [K40 laser Amp Meter Install](https://www.youtube.com/watch?v=h_xL43_aSbo) - focus on connection
 
 [![schema](https://k40.se/wp-content/uploads/2017/09/k40-ma-meter-installed.png)](https://k40.se/k40-laser-electronics/install-ma-meter/)
+
+[![connection](https://k40.se/wp-content/uploads/2019/05/oldpsulayout.png)](https://k40.se/k40-laser-upgrades/analog-power-setting/)
 
 - [Current limiting on the laser is done by pulsing (PWM) the power supply,](https://www.reddit.com/r/ChineseLaserCutters/comments/cyribj/replacing_digital_controls_with_analog/) 
 
