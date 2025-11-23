@@ -58,6 +58,17 @@ In order not to shorten the life of your laser you need to keep the current [bel
 
 ### [Convert to Analog](https://k40.se/k40-laser-upgrades/analog-power-setting/)
 	
+<div style="
+  border-left: 4px solid #3498db;
+  background: #eef7ff;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 6px;
+"  markdown="1" >
+
+Beware of proper insulation:
+ Caution! If this wires comes loose it may create sparks, arcing or even fire due to the increased resistance if the connector isnt properly fastened, so take care to make sure both are properly crimped and fastened!
+</div>
 
 [keep your power at safe levels](https://k40.se/k40-laser-electronics/install-ma-meter/) - Adding a mA-meter to your machine is one of the most important modifications you can do on this machine.
 - should I change the buttons? No, keep it. If you like it it´s really no reason to change it.
