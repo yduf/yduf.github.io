@@ -145,7 +145,19 @@ Make sure that the outlet of the water cooling tube (the circled bit) is pointin
 
 # [Software](https://chatgpt.com/share/6905f46e-1180-800d-b3db-15984d8be03b)
 
+<div style="
+  border-left: 4px solid #3498db;
+  background: #eef7ff;            
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 6px;
+"  markdown="1" >
+
+
 With a K40, you can set the power of the laser from the front panel, but the controller board is only able to turn the laser on and off.
+  
+</div>
+
 
 ## [MeerK40t](https://github.com/meerk40t/meerk40t?tab=readme-ov-file#welcome-to-meerk40t)
 
