@@ -147,7 +147,7 @@ The water will gradually warm up as the laser is operated. When it starts to get
 - Algae growth is a problem, as it interferes with water flow directly, deposits on the glass, prevents heat transfer, and on and on.
 	- Tetra AlgaeControl has been tested to not make your water more conductive.
   	- Tetra’s AlguMin has been reported to work well. 
-	- **Bleach is not recommended.**
+	- **Bleach (Chlore) is not recommended.**
 </div>
 
 Make sure that the outlet of the water cooling tube (the circled bit) is pointing up to let the air escape (raise the machine):
