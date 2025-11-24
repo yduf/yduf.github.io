@@ -146,7 +146,7 @@ The water will gradually warm up as the laser is operated. When it starts to get
 - Anti-freeze is problematic. These can easily cause problems with conductivity.
 - Algae growth is a problem, as it interferes with water flow directly, deposits on the glass, prevents heat transfer, and on and on.
 	- Tetra AlgaeControl has been tested to not make your water more conductive.
-  	- Tetra’s AlguMin has been reported to work well. 
+	- Tetra’s AlguMin has been reported to work well. 
 	- **Bleach (Chlore) is not recommended.**
 </div>
 
