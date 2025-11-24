@@ -142,6 +142,12 @@ The water will gradually warm up as the laser is operated. When it starts to get
 "  markdown="1" >
 
 **It is also essential that the water you use is non-conducting. The easiest way to achieve this is to use deionised water, (we get ours in 5 litre bottles from our local LIDL store at c. 0.70€ per bottle)**
+ 
+- Anti-freeze is problematic. These can easily cause problems with conductivity.
+- Algae growth is a problem, as it interferes with water flow directly, deposits on the glass, prevents heat transfer, and on and on.
+	- Tetra AlgaeControl has been tested to not make your water more conductive.
+  	- Tetra’s AlguMin has been reported to work well. 
+	- **Bleach is not recommended.**
 </div>
 
 Make sure that the outlet of the water cooling tube (the circled bit) is pointing up to let the air escape (raise the machine):
