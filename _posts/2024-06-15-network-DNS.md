@@ -6,6 +6,12 @@ tags: network home security
 > Why is DNS still hard to learn? - [jvns](https://news.ycombinator.com/item?id=36909427)
 
 - [Your ISP Is Watching Everything - Fix It With DNS Filtering!](https://www.youtube.com/watch?v=DqJz3lVowCQ)
+	- use a thirdparty DNS
+    	- nextDNS
+    - piHole - dns forwarder
+    - run your own dns resolver
+    	- ubuntu
+    
 - [Useful Tools to Troubleshoot DNS Name Resolution Problems](https://www.tecmint.com/troubleshoot-dns-in-linux/)
 
 Advice from [ChatGPT](https://chatgpt.com/share/a1cca0b9-cfed-4aab-9f78-d903874d0689)
