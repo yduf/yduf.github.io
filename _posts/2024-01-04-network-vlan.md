@@ -1,7 +1,7 @@
 ---
 published: true
 title: VLAN
-tags: network
+tags: network home
 ---
 > Pipes inside pipes - [VLANs: How to Protect Your Wifi and LAN](https://www.youtube.com/watch?v=9fLwFKGvmAY)
 
