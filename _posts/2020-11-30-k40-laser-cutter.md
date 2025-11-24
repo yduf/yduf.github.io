@@ -104,7 +104,18 @@ see also
 
 
 ## Cooling
+
+<div style="
+  border-left: 5px solid #e53935;
+  background: #ffebee;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 6px;
+"  markdown="1" >
+
 **The k40's laser tube is liquid-cooled. Never operate the laser, even for an instant, without active liquid cooling.**
+</div>
+
 
 It is important that you keep your laser tube below 25°C during use (generally recommended between 15°C and 20°C),
 
@@ -122,6 +133,16 @@ The water will gradually warm up as the laser is operated. When it starts to get
 
 **It is also essential that the water you use is non-conducting. The easiest way to achieve this is to use deionised water, (we get ours in 5 litre bottles from our local LIDL store at c. 0.70€ per bottle)**
 
+<div style="
+  border-left: 5px solid #e53935;
+  background: #ffebee;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 6px;
+"  markdown="1" >
+
+**It is also essential that the water you use is non-conducting. The easiest way to achieve this is to use deionised water, (we get ours in 5 litre bottles from our local LIDL store at c. 0.70€ per bottle)**
+</div>
 
 Make sure that the outlet of the water cooling tube (the circled bit) is pointing up to let the air escape (raise the machine):
 
