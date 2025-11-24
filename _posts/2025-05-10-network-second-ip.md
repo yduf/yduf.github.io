@@ -10,6 +10,8 @@ tags: network linux-system
 Check if you are using netplan or NetworkManager
 `cat /etc/netplan/1-network-manager-all.yaml ` => default to NetworkManager
 
+**this is dependant of the interface: changing a usb dongle will hide it.**
+
 {% highlight bash %}
 $ nmcli connection show
 # You'll see something like: NAME: Wired connection 1 ... DEVICE: enp0s3
@@ -26,4 +28,3 @@ $ sudo nmcli connection down "Wired connection 1" && sudo nmcli connection up "W
 # Check your IPs:
 $ ip addr show enp0s3
 {% endhighlight %}
-
