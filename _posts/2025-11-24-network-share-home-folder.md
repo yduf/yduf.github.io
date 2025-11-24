@@ -25,4 +25,5 @@ To make the /home folder available reachable,
 ip of the server must be fixed, cf:
 
 - [add a 2nd ip]({% post_url 2025-05-10-network-second-ip %}) for a laptop
+	- this is linked the inteface, changing a usb dongle may affect it
 - [setup a static ip]({% post_url 2017-07-16-network %}) for a server
