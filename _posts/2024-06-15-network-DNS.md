@@ -10,7 +10,7 @@ tags: network home security
     	- nextDNS
     - piHole - dns forwarder
     - run your own dns resolver
-    	- ubuntu
+    	- unbound
     
 - [Useful Tools to Troubleshoot DNS Name Resolution Problems](https://www.tecmint.com/troubleshoot-dns-in-linux/)
 
