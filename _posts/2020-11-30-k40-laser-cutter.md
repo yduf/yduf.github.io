@@ -50,7 +50,7 @@ A 3020 model
 Buttons are just a digital version of the potentiometer, so it works good. Easy to set the power.
 But you need a mA-meter to keep a eye on power output. 100% on the panel is 140-150% on the tube – and you will kill it quick.
 
-**With Amperemetre installed - 26% => 14mA **
+**With Amperemetre installed - 26% => 14mA**
 
 In order not to shorten the life of your laser you need to keep the current [below c. 15mA](https://laserhints.com/co2-laser-tubes-everything-you-need-to-know/) (for A 30-35W tube).
 
@@ -190,12 +190,15 @@ use [LibLaserCut](https://github.com/t-oster/LibLaserCut?tab=readme-ov-file#libl
 - [Making an Edge Lit Sign with a K40 Laser Engraver](https://www.youtube.com/watch?v=g9_dl2OKkaQ)
 - [Acrylic condensation (RDWorks)](https://www.youtube.com/watch?v=n54uNRs8Ydk) - and can catch fire - wary of honeycomb support fume extractor
 
+## Other technics
+
+- [Powder Coating With Lasers..Kinda](https://www.youtube.com/watch?v=xOuWrblwhRQ) - A New Way To Fill Your Engraving With Vibrant Color
+
 # Source
 
 - [amazon](https://www.amazon.fr/Samger-Graveur-Gravure-Sculpture-Machine/dp/B07P5C662T/ref=sr_1_10?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=d%C3%A9coupeuse+K40&qid=1606726082&sr=8-10)
 	- VEVOR deconseillé commme vendeur
 
-- [Powder Coating With Lasers..Kinda](https://www.youtube.com/watch?v=xOuWrblwhRQ) - A New Way To Fill Your Engraving With Vibrant Color
 
 # see also
 - [Diode lasers vs. Co2 laser tubes. Advantages and disadvantages](https://endurancelasers.com/diode-lasers-vs-co2-laser-tubes/)
