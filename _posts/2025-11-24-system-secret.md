@@ -14,4 +14,6 @@ _Speaking of config files, since most systems are running containers, and unless
 _Getting secrets from Kubernetes Secrets API I've seen done but lock in again. I'd strongly not recommend this approach unless you are designing a Kubernetes operator or other such type system.
 
 _I will say I've seen Subprocess thing bite people but I've seen less and less subprocess generation these days. Most teams go with message bus type system instead of sub processing since it's more robust and allows independent scaling.
-	
+
+see also
+- [SOPS: Secrets OPerationS](https://github.com/getsops/sops?tab=readme-ov-file#sops-secrets-operations)
