@@ -6,6 +6,7 @@ tags: phone android
 > [amazon](https://www.amazon.fr/dp/B0C7G2T6JH) / [spec](https://www.honor.com/my/phones/honor-90-lite/spec/) - 190€
 
 **Upgraded to MagicOS 8.0.0.158 / android 14 / 1er Juillet 2024**  
+
 - 5G
 - 8Go / 256Go / arm8 (ARM64)
 - 4500mAh
@@ -22,4 +23,4 @@ tags: phone android
 Pour activer le deverouillage par schema:
 Parametres / Securité et confidentialité / Déverouillage de l'appareil
 - Verouillage de l'écran
-	- => Modifier le Mode de déverouillage <= / au lieu de resaisir un code 
+	- => Modifier le Mode de déverouillage <= / au lieu de resaisir un code
