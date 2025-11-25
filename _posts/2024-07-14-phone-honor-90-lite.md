@@ -5,8 +5,9 @@ tags: phone android
 ---
 > [amazon](https://www.amazon.fr/dp/B0C7G2T6JH) / [spec](https://www.honor.com/my/phones/honor-90-lite/spec/) - 190€
 
-**Upgraded to MagicOS 9.0.0.162 / android 14 / 25 Novembre 2025** - auto  
-- Upgraded to MagicOS 8.0.0.158 / android 14 / 1er Juillet 2024**  
+**Upgraded to MagicOS 9.0.0.162 / android 14 / 25 Novembre 2025** 
+	- auto pushed  
+- Upgraded to MagicOS 8.0.0.158 / android 14 / 1er Juillet 2024
 
 - 5G
 - 8Go / 256Go / arm8 (ARM64)
