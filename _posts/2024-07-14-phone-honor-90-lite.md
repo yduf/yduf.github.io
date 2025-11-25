@@ -9,6 +9,7 @@ tags: phone android
 	- auto pushed  
 - Upgraded to MagicOS 8.0.0.158 / android 14 / 1er Juillet 2024
 
+### Hardware
 - 5G
 - 8Go / 256Go / arm8 (ARM64)
 - 4500mAh
