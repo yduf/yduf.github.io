@@ -175,6 +175,10 @@ Make sure that the outlet of the water cooling tube (the circled bit) is pointin
 - [Laser K40 de CrazyChop... De mieux en mieux !](https://www.youtube.com/watch?v=PXovi8xZpZU)
 	- [grille ajustable](https://www.thingiverse.com/thing:2299337)
     - ventilation
+    
+## Squareness
+
+- [Laser K40 enfin couper droit....](https://www.youtube.com/watch?v=EeDF-mxMi6o)
 
 # [Software](https://chatgpt.com/share/6905f46e-1180-800d-b3db-15984d8be03b)
 
