@@ -16,7 +16,7 @@ tags: phone android
 - nano sim
 
 ### Watch
-- Appliction _Magie des Images_ want to have access to everything
+- Application _Magie des Images_ want to have access to everything
 	- raison d'etre de la mise a jour du 25/11/2025 ?
 
 ### Applications
