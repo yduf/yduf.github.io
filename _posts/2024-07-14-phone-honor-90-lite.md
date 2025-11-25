@@ -14,6 +14,7 @@ tags: phone android
 
 ### Watch
 - Appliction _Magie des Images_ want to have access to everything
+	- raison d'etre de la mise a jour du 25/11/2025 ?
 
 ### Applications
 - [Bien-être numérique](https://www.lesnumeriques.com/telecharger/bien-etre-numerique-31380) - google
