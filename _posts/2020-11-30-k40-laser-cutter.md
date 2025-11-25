@@ -173,6 +173,8 @@ Make sure that the outlet of the water cooling tube (the circled bit) is pointin
 ## Grid Adjust
 
 - [Laser K40 de CrazyChop... De mieux en mieux !](https://www.youtube.com/watch?v=PXovi8xZpZU)
+	- [grille ajustable](https://www.thingiverse.com/thing:2299337)
+    - ventilation
 
 # [Software](https://chatgpt.com/share/6905f46e-1180-800d-b3db-15984d8be03b)
 
