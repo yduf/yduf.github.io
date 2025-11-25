@@ -12,6 +12,9 @@ tags: phone android
 - 4500mAh
 - nano sim
 
+### Watch
+- Appliction _Magie des Images_ want to have access to everything
+
 ### Applications
 - [Bien-être numérique](https://www.lesnumeriques.com/telecharger/bien-etre-numerique-31380) - google
 - [Synchronisation des données HONOR](https://www.honor.com/fr/support/content/fr-fr15842586/) - Se connecter avec Identifiant Honor ID 
