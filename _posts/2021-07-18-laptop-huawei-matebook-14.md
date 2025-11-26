@@ -87,6 +87,10 @@ Partition / (100Go), /home (300Go)
 
 As a typical ultrabook, the memory is soldered to the motherboard, and it comes in two variants – 8GB and 16GB. Thankfully, there is an M.2 NVMe slot for storage upgrades.
 
+MateBook 13/1413/14 (2019–2021)
+- M.2 2280 NVMe/SATA
+	- Check BIOS for Gen3/Gen4 support
+
 [![opened](https://laptopmedia.com/wp-content/uploads/2020/09/internals-8-1536x1047.jpg)](https://laptopmedia.com/highlights/inside-huawei-matebook-d-14-2020-disassembly-and-upgrade-options/)
 
 - [wifi card is a Intel Wireless-AC 9560](https://www.notebookcheck.net/Huawei-MateBook-14-2020-laptop-review-3-2-clamshell-convinces-both-with-Intel-and-AMD-CPUs.508467.0.htmlwifi)
