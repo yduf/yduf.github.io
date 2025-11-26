@@ -1,7 +1,7 @@
 ---
 published: true
 title: Stereograms
-tags: computer-vision image fun math
+tags: computer-vision 3d image fun math
 ---
 > They were popular in the ‘90s under the brand “Magic Eye.” - [Adventures in Stereograms](https://ironicsans.substack.com/p/24-adventures-in-stereograms?s=r) / [r/MagicEye](https://www.reddit.com/r/MagicEye/) / [HN](https://news.ycombinator.com/item?id=30850659)
 
