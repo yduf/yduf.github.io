@@ -87,7 +87,7 @@ Partition / (100Go), /home (300Go)
 
 As a typical ultrabook, the memory is soldered to the motherboard, and it comes in two variants – 8GB and 16GB. Thankfully, there is an M.2 NVMe slot for storage upgrades.
 
-MateBook 13/1413/14 (2019–2021)
+[MateBook 13/1413/14 (2019–2021)](https://www.aomeitech.com/clone-tips/huawei-matebook-ssd-upgrade-0044.html)
 - M.2 2280 NVMe/SATA
 	- Check BIOS for Gen3/Gen4 support
 
