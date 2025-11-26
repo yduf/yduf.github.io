@@ -10,7 +10,7 @@ toc: true
 ## [amazon](https://www.amazon.fr/gp/product/B08P9186JF/ref=ox_sc_act_title_2?smid=A1X6FK5RDHNB96&psc=1) - 2021 - 800€ 
 
 - i7-10510U, 4 cores / 8 threads
-- 16Go
+- 16Go / 512Go 
 - NVIDIA MX350 / 3:2 display
 - 1.5kg
 
