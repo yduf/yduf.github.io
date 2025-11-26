@@ -6,7 +6,7 @@ tags: laser-cut freecad
 > [Créez des emboîtements "découpe laser" en un clic avec l’atelier Lasercut Interlocking !](https://www.youtube.com/watch?v=-jrUjM4f2vs)
 
 ### Models
-- [Laser Cut Iris Box - No Screws Needed](https://www.printables.com/model/1354777-laser-cut-iris-box-no-screws-needed)
+- [Laser Cut Iris Box - No Screws Needed](https://www.printables.com/model/1354777-laser-cut-iris-box-no-screws-needed) / [project](https://www.atomm.com/template/19311-lasercut-iris-box)
 - [atomm.com](https://www.atomm.com/)
 
 ### Freecad
