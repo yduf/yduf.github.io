@@ -7,12 +7,14 @@ toc: true
 ---
 <!--more-->
 
-## [amazon](https://www.amazon.fr/gp/product/B08P9186JF/ref=ox_sc_act_title_2?smid=A1X6FK5RDHNB96&psc=1) - 2021 - 800€ 
+## [amazon](https://www.amazon.fr/gp/product/B08P9186JF) - 2021 - 800€ 
 
 - i7-10510U, 4 cores / 8 threads
 - 16Go Ram / 512Go storage
 - NVIDIA MX350 / 3:2 display
 - 1.5kg
+
+[![lookslike](https://m.media-amazon.com/images/I/51vWyVXaCNS._AC_SY300_SX300_QL70_ML2_.jpg)](https://www.amazon.fr/gp/product/B08P9186JF)
 
 ### Disabling Touchscreen
 - [xinput way](https://unix.stackexchange.com/questions/127443/how-do-i-disable-the-touch-screen-on-my-laptop/129603#129603) - `xinput disable <id=13>`
