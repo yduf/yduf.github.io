@@ -2,6 +2,7 @@
 title: Laser Cut (Freecad)
 published: true
 tags: laser-cut freecad
+toc: true
 ---
 > [Créez des emboîtements "découpe laser" en un clic avec l’atelier Lasercut Interlocking !](https://www.youtube.com/watch?v=-jrUjM4f2vs)
 
