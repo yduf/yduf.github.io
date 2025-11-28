@@ -6,6 +6,8 @@ use_math: true
 ---
 > [solving polynomials is really hard... ](https://www.youtube.com/watch?v=9HIy5dJE-zQ)
 
+[![caption](https://img.youtube.com/vi/9HIy5dJE-zQ/0.jpg)](https://www.youtube.com/watch?v=9HIy5dJE-zQ)
+
 $\mathbb{C}$ is algeabraically closed - _What happens on the complex plane stay on the complex plane_
 
 There is no function that take coefficient and gives solution and is continuous.
