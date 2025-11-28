@@ -170,6 +170,11 @@ Make sure that the outlet of the water cooling tube (the circled bit) is pointin
 
 [![tube](https://www.accteklaser.com/wp-content/uploads/elementor/thumbs/Typical-service-life-and-influencing-factors-of-CO2-laser-tubes-qhqvfz78vtaw576m1t1zkmzmqe9aq9jviu6elxfkn4.jpg)](https://www.accteklaser.com/fr/duree-de-vie-typique-et-facteurs-dinfluence-des-tubes-laser-co2/)
 
+## Focus
+- [Adjusting Laser Focus – 3 Simple Methods](https://laser-crafting.com/en/adjusting-laser-focus-3-simple-methods/)
+
+[![schema](https://laser-crafting.com/wp-content/uploads/2024/06/Fokus_Materialmitte2.png)](https://laser-crafting.com/en/adjusting-laser-focus-3-simple-methods/#expert-tip-for-cutting-thick-materials)
+
 ## Grid Adjust
 
 - [Laser K40 de CrazyChop... De mieux en mieux !](https://www.youtube.com/watch?v=PXovi8xZpZU)
