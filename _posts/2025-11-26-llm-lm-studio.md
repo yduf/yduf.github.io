@@ -5,6 +5,9 @@ tags: LLM
 ---
 > a desktop application that allows you to run large language models (LLMs) locally on your computer, without needing an internet connection or cloud services. - [Home](https://lmstudio.ai/) / [chatGPT](https://chatgpt.com/share/69271a38-1cc0-800d-961a-0f7530e249bb)
 
+## Plan then Execute
+- [Implement plan-then-execute strategy](https://chatgpt.com/share/692984d0-9c00-800d-a913-fb8c3ee328f1)
+
 see also
 - [Dolphin LLM](https://chatgpt.com/share/69271a59-6e24-800d-89f0-a4e516fabb41)
 	- [Top 10 Uncensored LLMs You Can Try Now](https://anakin.ai/blog/uncensored-llms/)
