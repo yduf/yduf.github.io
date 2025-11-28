@@ -44,6 +44,7 @@ A 3020 model
 # Customisation
 
 - [K40/Chinese CO2 laser cutter/engraver buyer’s guide (Teaching Tech)](https://www.youtube.com/watch?v=Gc_1jDVRKEQ)
+- [Découpe laser CO2 K40 - Améliorations / hacking de la machine](https://civade.com/post/2020/08/23/D%C3%A9coupe-laser-CO2-K40-Am%C3%A9liorations-/-hacking-de-la-machine) - propose plusieurs amélioration avec leur difficulté et leur pertinance
 
 ## Analog Control
 
