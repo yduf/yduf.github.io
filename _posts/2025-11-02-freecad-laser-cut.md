@@ -25,6 +25,7 @@ toc: true
     
 ### LC Interlocing
 - [FreeCAD : Créez des emboîtements "découpe laser" en un clic avec l’atelier Lasercut Interlocking !](https://www.youtube.com/watch?v=-jrUjM4f2vs)
+	- faire une copie simple pour utiliser l'addon
 
 ##
 see also
