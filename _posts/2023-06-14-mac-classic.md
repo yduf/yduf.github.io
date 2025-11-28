@@ -264,6 +264,7 @@ Options are:
 [![caption](https://media.printables.com/media/prints/951b2b70-03b1-40e2-92db-2a66eed59d46/images/9860914_0f534fd3-0288-4ff0-8f10-3ff8a2a95ad1_8c7d49cb-ba03-4608-b8f1-ea1d86fbf437/thumbs/inside/1600x1200/jpg/img_20250525_143446.webp)](https://www.amazon.fr/gp/product/B08GM91HBQ)
 
 ## [Purpose ?](https://chatgpt.com/share/67fa94de-8158-800d-ba9a-e3204a09ec7d)
+- Can host a [local LLM](tags/#llm)
 - ~~could be a 2.5Gb switch~~
 - could host nginx
 - could be tied to the second available monitor
