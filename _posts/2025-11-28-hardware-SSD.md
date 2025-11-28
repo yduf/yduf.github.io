@@ -8,7 +8,6 @@ tags: pc-hardware storage
 
 | **PCI-Express Speeds (Rounded)** |
 |----------------------------------|
-
 | Version | x1 Bandwidth | x2 Bandwidth | x4 Bandwidth | x8 Bandwidth | x16 Bandwidth |
 |---------|--------------|--------------|--------------|---------------|----------------|
 | PCIe 1.0 | 250 MB/s | 500 MB/s | 750 MB/s | 2 GB/s | 4 GB/s |
