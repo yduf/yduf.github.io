@@ -5,11 +5,14 @@ tags: network linux-system
 ---
 > make your host available on a specific alternative IP address - [chatGPT](https://chatgpt.com/share/681f2745-c928-800d-9057-db5efce02eb3)
 
-### Ubuntu 22+ / Debian 12
+# Ubuntu 22+ / Debian 12
+
+list all network interface (even unconnected) `ls /sys/class/net`
 
 Check if you are using netplan or NetworkManager
 `cat /etc/netplan/1-network-manager-all.yaml ` => default to NetworkManager
 
+## NetworkManager
 <div style="          
   border-left: 5px solid #e53935; /* red */
   background: #ffebee;
@@ -24,6 +27,7 @@ Check if you are using netplan or NetworkManager
 {% highlight bash %}
 $ nmcli connection show
 # You'll see something like: NAME: Wired connection 1 ... DEVICE: enp0s3
+# if nothing => probably not using NetworkManager.
 
 # Add the alternative IP
 $ sudo nmcli connection modify "Wired connection 1" +ipv4.addresses 192.168.0.134/24
@@ -37,3 +41,9 @@ $ sudo nmcli connection down "Wired connection 1" && sudo nmcli connection up "W
 # Check your IPs:
 $ ip addr show enp0s3
 {% endhighlight %}
+
+## Netplan
+
+`cat /etc/netplan/xx.yml`
+
+see [ChatGPT](https://chatgpt.com/share/6929666e-b83c-800d-8f3b-5864628de1cf)
