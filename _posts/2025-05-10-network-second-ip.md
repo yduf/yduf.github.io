@@ -8,6 +8,7 @@ tags: network linux-system
 # Ubuntu 22+ / Debian 12
 
 list all network interface (even unconnected) `ls /sys/class/net`
+or `ifconfig -a`
 
 Check if you are using netplan or NetworkManager
 `cat /etc/netplan/1-network-manager-all.yaml ` => default to NetworkManager
