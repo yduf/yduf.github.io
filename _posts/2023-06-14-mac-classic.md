@@ -160,7 +160,7 @@ see also
 - [Macintosh Classic II Color Hackintosh](https://www.instructables.com/Macintosh-Classic-II-Color-Hackintosh/)
 - [New life on a 30-year-old Macintosh Classic II](https://www.youtube.com/watch?v=a5XxrUhoXqE&t=904s) - glue screen + mac mini. - screen bigger than aperture.
 - [Macintosh Plus mini Retrofit - Build Video!](https://www.youtube.com/watch?v=dpgFJmEe90I)
-	- use an avrylic fake CRT screen for filling the gap
+	- use an acrylic fake CRT screen for filling the gap
 
 ### New Hardware
 
@@ -168,7 +168,7 @@ Hardware Total:        **535€**
 - motherboard/Cpu/ram:   388€
 	- [ryzen 7 5700G](https://www.amazon.fr/dp/B091J3NYVF)  165€ - garantie 3Y
     - [64Go](https://www.amazon.fr/dp/B0C29W4G29)           107€
-    - miniITX            116€ - [Gigabyte A520I AC ITX](https://www.amazon.fr/dp/B08GM91HBQ)
+    - miniITX            116€ - [Gigabyte A520I AC ITX](https://www.amazon.fr/dp/B08GM91HBQ) / [spec](https://www.gigabyte.com/Motherboard/A520I-AC-rev-1x)
 - _better ventirad:        40€_ - not yet 
 	- [Thermalright AXP90-X47 Full copper](https://www.amazon.fr/Thermalright-Refroidisseur-processeur-ventilateur-90x90x15mm/dp/B09WDRKBRJ) - [comparison](https://www.tinytechtweaks.com/en/post/top-6-low-profile-cpu-air-coolers-for-ryzen-7800x3d-a-comparison) - best is a liquid cooler 67° - the second best is this one with 76°
 
