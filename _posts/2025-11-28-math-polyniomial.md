@@ -10,4 +10,13 @@ $\mathbb{C}$ is algeabraically closed - _What happens on the complex plane stay 
 
 There is no function that take coefficient and gives solution and is continuous.
 
-And so can not be written with basic algrebra (indeed we use $\pm$)
+And so can not be written with basic algrebra (indeed quadratic formula use $\pm$)
+
+Square root can be extend to riemann surface for continuity (that returns 2 value opposite to each other).
+
+Commutators
+- 2 roots - uneeded
+- 3 roots - 1 commutators
+- 4 roots - more
+- 5 roots (quintics) - 2x 3cycles - that connect in center - there is no finite number of nested roots (sqr) and cannot be expressed by commutators.
+	- There is no algrebric formulla that solve quintics
