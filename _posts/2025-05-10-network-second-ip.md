@@ -10,8 +10,17 @@ tags: network linux-system
 Check if you are using netplan or NetworkManager
 `cat /etc/netplan/1-network-manager-all.yaml ` => default to NetworkManager
 
+<div style="          
+  border-left: 5px solid #e53935; /* red */
+  background: #ffebee;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 6px;
+"  markdown="1" >
+
 **this is dependant of the interface: changing a usb dongle will hide it.**
 
+</div>
 {% highlight bash %}
 $ nmcli connection show
 # You'll see something like: NAME: Wired connection 1 ... DEVICE: enp0s3
