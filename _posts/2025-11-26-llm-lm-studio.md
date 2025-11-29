@@ -20,7 +20,7 @@ tags: LLM
 
 ## Alternatives
 - [Goose](https://research.aimultiple.com/local-ai-agent/?utm_source=chatgpt.com) - Building Local AI Agents: Goose, Observer AI, AnythingLLM
-- [LocalAGI](https://www.linkedin.com/pulse/localagi-create-run-ai-agents-locally-without-writing-palethorpe-wpqve/) / [github](https://github.com/mudler/LocalAGI) - Create and run AI agents locally without writing code
+- [LocalAGI](https://www.linkedin.com/pulse/localagi-create-run-ai-agents-locally-without-writing-palethorpe-wpqve/) / [github](https://github.com/mudler/LocalAGI) - a self-hostable agent orchestration platform. It lets you build & run autonomous / semi-autonomous “agents” (or even teams of agents) on your own hardware (CPU or GPU), without needing cloud APIs or external services.
 	- [User Guide](https://deepwiki.com/mudler/LocalAGI/4-user-guide#user-guide) - using LocalAGI, a self-hosted AI agent platform that runs 100% locally. It covers creating and managing agents, working with agent groups, interacting with agents, monitoring agent activities, and using browser agents. 
 
 # see also
