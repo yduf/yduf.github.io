@@ -13,7 +13,8 @@ tags: LLM
 [![localworkflow](https://research.aimultiple.com/wp-content/uploads/2025/11/AI-agents-landscape-22-1.jpg.webp)](https://research.aimultiple.com/local-ai-agent/?utm_source=chatgpt.com)
 
 ## LangFuse
-- [Langfuse LM Studio integration](https://chatgpt.com/share/692ab6ce-a274-800d-a00e-fd1db9253e13)
+- [Langfuse LM Studio integration](https://chatgpt.com/share/692ab6ce-a274-800d-a00e-fd1db9253e13) - helps you trace, monitor, debug, evaluate, and analyze what your LLM-based application (or agent system) does.
+	- [LocalAGI vs LangFuse](https://chatgpt.com/share/692abcf2-4df4-800d-9b50-46141e1ee6ab) - 
     
 
 
