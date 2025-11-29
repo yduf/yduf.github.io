@@ -8,6 +8,8 @@ tags: LLM
 # Plan then Execute
 - [Implement plan-then-execute strategy](https://chatgpt.com/share/692984d0-9c00-800d-a913-fb8c3ee328f1)
 	- [Langfuse LM Studio integration](https://chatgpt.com/share/692ab6ce-a274-800d-a00e-fd1db9253e13)
+    
+[![localworkflow](https://research.aimultiple.com/wp-content/uploads/2025/11/AI-agents-landscape-22-1.jpg.webp)](https://research.aimultiple.com/local-ai-agent/?utm_source=chatgpt.com)
 
 # Alternatives
 - [Goose](https://research.aimultiple.com/local-ai-agent/?utm_source=chatgpt.com) - Building Local AI Agents: Goose, Observer AI, AnythingLLM
