@@ -1,7 +1,7 @@
 ---
 title: LM Studio
 published: true
-tags: LLM
+tags: LLM ghidra reverse
 toc: true
 ---
 > a desktop application that allows you to run large language models (LLMs) locally on your computer, without needing an internet connection or cloud services. - [Home](https://lmstudio.ai/) / [chatGPT](https://chatgpt.com/share/69271a38-1cc0-800d-961a-0f7530e249bb)
