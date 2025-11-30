@@ -8,7 +8,7 @@ toc: true
 
 [![example](https://media.printables.com/media/prints/3fb2105e-1fb2-4d20-ac0e-300ffc020fe0/images/10230196_6297538e-6f22-46b7-817a-57ee7dd59375_e5a46fbd-6923-4a51-b719-b07481f78b1e/thumbs/inside/1600x1200/jpg/b933f0ca-e79d-4935-87c8-1bfd79c18473.webp)](https://www.printables.com/model/1354777-laser-cut-iris-box-no-screws-needed)
 
-### [Materials](https://iooner.io/decoupe-laser-les-materiaux/)
+# [Materials](https://iooner.io/decoupe-laser-les-materiaux/)
 
 <div style="            
   border-left: 5px solid #e53935; /* red */
@@ -29,6 +29,27 @@ C’est non !
 - Fibre de verre, Carte de circuit imprimé (Fibre de verre + époxy), Fibre de carbone
 - Polycarbonate, PC, Lexan, Polystyrène mousse expansé/extrudé : fond et à tendance à prendre feu
 
+Bof… Oui, mais…
+
+    Métaux : oubliez leur découpe avec une laser de 40w. Il est possible d’en graver certains, mais attention à la réflexion.
+    Verre : uniquement en gravure encore une fois attention à la réflexion.
+    Néoprène : à surveiller, à tendance à prendre feu facilement.
+    Pierre, Marbre, Ardoise : gravure uniquement.
+    Caoutchoucs sans chlore : cela fume beaucoup et risque d’encrasser l’optique de votre machine. Bonne extraction + air/smoke assist.
+    ABS : je n’ai pas trouvé de source correcte. Certains disent oui d’autres non. Avec précaution donc…
+    HDPE : demande de pousser pas mal la puissance de la machine pour un résultat très moyen et fondu sur les coupes
+
+Oui !
+
+    Bois, Bois brut, Contreplaqués, Balsa
+    MDF (Médium) : Le MDF à tendance à beaucoup fumer assurez-vous d’avoir un air/smoke assist. Préférez plusieurs passes en fonction de l’épaisseur (attention aux biseaux).
+    Papier, Carton, Carton plume (carton+mousse PU)
+    Acrylique, Plexiglas, Nylon, PLA, PET, PP, PS, PA, PI, PMMA
+    Rhodoïd, Transparent pour rétroprojecteur
+    Cuir, Tissus (feutre, chanvre, coton, acrylique, nylon)
+    Polyester/PES, Polyéthylène/PE, Polyuréthane/PUR
+    PCB photo sensibilisé : en gravure.
+
 - Bois 5mm
 - Bois 3mm
 - Acrylic
@@ -45,6 +66,7 @@ C’est non !
 
 ### Tips
 - [patron laser](https://www.youtube.com/shorts/hakEnWBTJKY) - decoupage papier 16%
+- [discord barbatronic](https://discord.com/channels/695209598759469076/776190582828695553)
 
 # Freecad
 
