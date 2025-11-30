@@ -7,6 +7,8 @@ tags: docker windows
 
 ## Install
 
+
+
 [Configure `~/.config/winapps/winapps.conf`](https://github.com/winapps-org/winapps/tree/main?tab=readme-ov-file#step-3-create-a-winapps-configuration-file)
 {% highlight bash %}
 # ~/.config/winapps/winapps.conf
@@ -16,6 +18,9 @@ RDP_PASS=xxx
 {% endhighlight %}
 
 {% highlight bash %}
+# install prerequesite
+$ sudo apt-get install -y freerdp2-x11
+
 $ git clone https://github.com/Fmstrat/winapps.git
 $ cd winapps
 
