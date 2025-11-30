@@ -49,6 +49,8 @@ Playing on keypad is difficult
     - 'E' - examine
     - 'U' - use / pick
 - using mouse work's fine
+	- left button - action menu
+    - right button - inventory
 
 ## Escape from Monkey Island
 
