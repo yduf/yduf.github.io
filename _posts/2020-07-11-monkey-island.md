@@ -4,7 +4,7 @@ title: Monkey Island
 tags: games adventure
 toc: true
 ---
-> A youth named Guybrush Threepwood arrives on the fictional Mêlée Island, with the desire to become a pirate. He seeks out the island's pirate leaders, who set him three trials that must be completed to become a pirate: winning a sword duel against Carla, the island's resident swordmaster, finding a buried treasure, and stealing a valuable idol from the governor's mansion. - [wikipedia](https://en.wikipedia.org/wiki/The_Secret_of_Monkey_Island)
+> A youth named Guybrush Threepwood arrives on the fictional Mêlée Island, with the desire to become a pirate. He seeks out the island's pirate leaders, who set him three trials that must be completed to become a pirate: winning a sword duel against Carla, the island's resident swordmaster, finding a buried treasure, and stealing a valuable idol from the governor's mansion. - [wikipedia](https://en.wikipedia.org/wiki/The_Secret_of_Monkey_Island) / [Monkey Island](https://fr.wikipedia.org/wiki/Monkey_Island) /  [Ron Gilbert]({% post_url 2020-09-04-grumpy-gamer %})
 
 [**The Secrets of Monkey Island’s Source Code**](https://gamehistory.org/monkeyisland/)
 
@@ -69,5 +69,4 @@ work native under linux.
 - [Thimbleweed Park]({% post_url 2019-03-02-Thimbleweed-Park %})
 - [Delores: A Thimbleweed Park mini-adventure]({% post_url 2020-11-29-games-delores %})
 - [Maniac Mansion]({% post_url 2017-07-17-Maniac-Mansion-Deluxe %})
-- [Ron Gilbert]({% post_url 2020-09-04-grumpy-gamer %})
 - [Monkey island poster](https://www.etsy.com/fr/market/monkey_island_poster)
