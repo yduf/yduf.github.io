@@ -10,7 +10,6 @@ toc: true
 
 ### [Materials](https://iooner.io/decoupe-laser-les-materiaux/)
 
-
 <div style="            
   border-left: 5px solid #e53935; /* red */
   background: #ffebee;
