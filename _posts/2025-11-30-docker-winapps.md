@@ -22,6 +22,9 @@ $ sudo apt-get install -y freerdp2-x11
 $ git clone https://github.com/Fmstrat/winapps.git
 $ cd winapps
 
+# Build Windows VM
+$ podman-compose --file ./compose.yaml up
+
 # Launch installer
 $ ./installer.sh --user
 {% endhighlight %}
