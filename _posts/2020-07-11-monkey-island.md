@@ -43,7 +43,7 @@ In the end we can see that this game rely on scummvm, which is unpacked alongsid
 - `Ctrl-Alt-0` - next-scaler
 - `Ctrl-Alt-9` - prev-scaler
     
-Playing on keypad is difficult:
+Playing on touchpad is difficult:
 - didn't find a way to have long press on mouse-1 to display the floating action menu, as a workaround, pressing:
 	- 'T' - talk
     - 'E' - examine
