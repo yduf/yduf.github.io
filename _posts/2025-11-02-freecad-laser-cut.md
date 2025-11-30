@@ -65,6 +65,9 @@ Oui !
 - Polyester/PES, Polyéthylène/PE, Polyuréthane/PUR
 - PCB photo sensibilisé : en gravure.
 
+- [Lacrylic](https://www.decoupe-plexi-sur-mesure.com/)
+- [https://jr-contreplaque.fr/](https://jr-contreplaque.fr/)
+
 ### Reglages
 - Bois 5mm
 - Bois 3mm
