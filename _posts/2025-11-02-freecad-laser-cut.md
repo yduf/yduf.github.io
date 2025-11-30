@@ -17,9 +17,7 @@ toc: true
   margin: 1rem 0;
   border-radius: 6px;
 "  markdown="1" >
-
 C’est non !
-
 </div>
 
 - Les matériaux réfléchissants : ils peuvent endommager la machine et/ou son utilisateur.
@@ -37,18 +35,16 @@ C’est non !
   margin: 1rem 0;
   border-radius: 6px;
 "  markdown="1" >
-
 Bof… Oui, mais…
-
 </div>
 
-    Métaux : oubliez leur découpe avec une laser de 40w. Il est possible d’en graver certains, mais attention à la réflexion.
-    Verre : uniquement en gravure encore une fois attention à la réflexion.
-    Néoprène : à surveiller, à tendance à prendre feu facilement.
-    Pierre, Marbre, Ardoise : gravure uniquement.
-    Caoutchoucs sans chlore : cela fume beaucoup et risque d’encrasser l’optique de votre machine. Bonne extraction + air/smoke assist.
-    ABS : je n’ai pas trouvé de source correcte. Certains disent oui d’autres non. Avec précaution donc…
-    HDPE : demande de pousser pas mal la puissance de la machine pour un résultat très moyen et fondu sur les coupes
+- Métaux : oubliez leur découpe avec une laser de 40w. Il est possible d’en graver certains, mais attention à la réflexion.
+- Verre : uniquement en gravure encore une fois attention à la réflexion.
+- Néoprène : à surveiller, à tendance à prendre feu facilement.
+- Pierre, Marbre, Ardoise : gravure uniquement.
+- Caoutchoucs sans chlore : cela fume beaucoup et risque d’encrasser l’optique de votre machine. Bonne extraction + air/smoke assist.
+- ABS : je n’ai pas trouvé de source correcte. Certains disent oui d’autres non. Avec précaution donc…
+- HDPE : demande de pousser pas mal la puissance de la machine pour un résultat très moyen et fondu sur les coupes
 
 <div style="            
   border-left: 5px solid #43a047;  /* green */
@@ -57,20 +53,17 @@ Bof… Oui, mais…
   margin: 1rem 0;
   border-radius: 6px;
 "  markdown="1" >
-
 Oui !
-
 </div>
 
-
-    Bois, Bois brut, Contreplaqués, Balsa
-    MDF (Médium) : Le MDF à tendance à beaucoup fumer assurez-vous d’avoir un air/smoke assist. Préférez plusieurs passes en fonction de l’épaisseur (attention aux biseaux).
-    Papier, Carton, Carton plume (carton+mousse PU)
-    Acrylique, Plexiglas, Nylon, PLA, PET, PP, PS, PA, PI, PMMA
-    Rhodoïd, Transparent pour rétroprojecteur
-    Cuir, Tissus (feutre, chanvre, coton, acrylique, nylon)
-    Polyester/PES, Polyéthylène/PE, Polyuréthane/PUR
-    PCB photo sensibilisé : en gravure.
+- Bois, Bois brut, Contreplaqués, Balsa
+- MDF (Médium) : Le MDF à tendance à beaucoup fumer assurez-vous d’avoir un air/smoke assist. Préférez plusieurs passes en fonction de l’épaisseur (attention aux biseaux).
+- Papier, Carton, Carton plume (carton+mousse PU)
+- Acrylique, Plexiglas, Nylon, PLA, PET, PP, PS, PA, PI, PMMA
+- Rhodoïd, Transparent pour rétroprojecteur
+- Cuir, Tissus (feutre, chanvre, coton, acrylique, nylon)
+- Polyester/PES, Polyéthylène/PE, Polyuréthane/PUR
+- PCB photo sensibilisé : en gravure.
 
 - Bois 5mm
 - Bois 3mm
