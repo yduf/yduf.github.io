@@ -17,11 +17,11 @@ toc: true
   margin: 1rem 0;
   border-radius: 6px;
 "  markdown="1" >
-C’est non !
+**C’est non !**
 </div>
 
 - Les matériaux réfléchissants : ils peuvent endommager la machine et/ou son utilisateur.
-- PVC, Vinyle et Matériaux contenant du chlore : les fumées seront agrémentées de gaz chloré extrêmement irritant voir mortel. (même avec une bonne ventilation.)
+- PVC, Vinyle et Matériaux contenant du chlore : **les fumées seront agrémentées de gaz chloré extrêmement irritant voir mortel.** (même avec une bonne ventilation.)
 - Téflon, PTFE et Matériaux contenant du fluor : émission de fumées contenant des gaz fluorés.
 - MDF teinté dans la masse, Valchromat : ces matériaux ont tendance à prendre feu.
 - Fibre de verre, Carte de circuit imprimé (Fibre de verre + époxy), Fibre de carbone
