@@ -2,6 +2,7 @@
 published: true
 title: Monkey Island
 tags: games adventure
+toc: true
 ---
 > A youth named Guybrush Threepwood arrives on the fictional Mêlée Island, with the desire to become a pirate. He seeks out the island's pirate leaders, who set him three trials that must be completed to become a pirate: winning a sword duel against Carla, the island's resident swordmaster, finding a buried treasure, and stealing a valuable idol from the governor's mansion. - [wikipedia](https://en.wikipedia.org/wiki/The_Secret_of_Monkey_Island)
 
@@ -62,7 +63,7 @@ work native under linux.
 
 ![caption](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/09/return-to-monkey-island-endings-no-secret.jpg?q=50&fit=crop&w=1500&dpr=1.5)
 
-see also
+## see also
 - [Thimbleweed Park]({% post_url 2019-03-02-Thimbleweed-Park %})
 - [Delores: A Thimbleweed Park mini-adventure]({% post_url 2020-11-29-games-delores %})
 - [Maniac Mansion]({% post_url 2017-07-17-Maniac-Mansion-Deluxe %})
