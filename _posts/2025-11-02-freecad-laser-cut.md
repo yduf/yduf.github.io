@@ -76,6 +76,7 @@ Oui !
 - [30 idées de projets pour la gravure laser](https://www.atelier-collectif.fr/blog/30-idees-de-projets-gravure-laser)
 - [lamp](https://www.youtube.com/shorts/Fl_F_UZUA1A)
 - [Assemblage et test d'une Thermoformeuse](https://www.youtube.com/watch?v=LXa-ahQogP4)
+- [Concevoir son prototype de Thermoplieuse DIY](https://www.youtube.com/watch?v=bUeyVA839kA)
 
 ### TestFile
 - [Laser test grid for s1, d1, and m1](https://www.atomm.com/template/42212-laser-test-grid-for-s1-d1-and-m1)
