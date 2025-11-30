@@ -33,7 +33,10 @@ Install on Linux
 ![caption](https://lutris.net/games/banner/the-curse-of-monkey-island.jpg) <!-- .element height="50%" width="50% ustify-content="left" -->
 
 Install on Linux
-- [Lutris](https://lutris.net/games/the-curse-of-monkey-island/)
+- install directly with native wine integration / [Lutris](https://lutris.net/games/the-curse-of-monkey-island/)
+
+In the end we can see that this game rely on scummvm, which is unpacked alongside with the game
+=> so on linux one can directly run the native and latest [scummvm](https://www.scummvm.org/downloads/#current)
 
 ## Escape from Monkey Island
 
