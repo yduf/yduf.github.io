@@ -6,7 +6,9 @@ toc: true
 ---
 > A youth named Guybrush Threepwood arrives on the fictional Mêlée Island, with the desire to become a pirate. He seeks out the island's pirate leaders, who set him three trials that must be completed to become a pirate: winning a sword duel against Carla, the island's resident swordmaster, finding a buried treasure, and stealing a valuable idol from the governor's mansion. - [wikipedia](https://en.wikipedia.org/wiki/The_Secret_of_Monkey_Island)
 
-- [The Secrets of Monkey Island’s Source Code](https://gamehistory.org/monkeyisland/) 
+- [The Secrets of Monkey Island’s Source Code](https://gamehistory.org/monkeyisland/)
+
+[![banner](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic0.gamerantimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2022%2F04%2FSecret-of-Monkey-Island.jpg&f=1&nofb=1&ipt=c2df1a73e3f180bb1f33c3665add0f2cd92437280d627a3495aa8253ad4d06ce)](https://duckduckgo.com/?q=secret+monkey+island&iar=images&t=lm&iai=https%3A%2F%2Fstatic0.gamerantimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2022%2F04%2FSecret-of-Monkey-Island.jpg)
 
 ## The Secret of Monkey Island: Special Edition 
 
