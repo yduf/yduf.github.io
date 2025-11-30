@@ -40,6 +40,8 @@ In the end we can see that this game rely on scummvm, which is unpacked alongsid
 	- `Ctrl-F5` - give access to ScummVM global menu (in-game)
     - `F1` - game menu
     - `Alt-Return` - toggle full-screen
+    - `Ctrl-Alt-0` - next-scaler
+    - `Ctrl-Alt-9` - prev-scaler
 
 ## Escape from Monkey Island
 
