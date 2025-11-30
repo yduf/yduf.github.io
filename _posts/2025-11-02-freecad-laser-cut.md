@@ -29,7 +29,18 @@ C’est non !
 - Fibre de verre, Carte de circuit imprimé (Fibre de verre + époxy), Fibre de carbone
 - Polycarbonate, PC, Lexan, Polystyrène mousse expansé/extrudé : fond et à tendance à prendre feu
 
+
+<div style="            
+  border-left: 5px solid #fb8c00; /* orange */
+  background: #fff3e0;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 6px;
+"  markdown="1" >
+
 Bof… Oui, mais…
+
+</div>
 
     Métaux : oubliez leur découpe avec une laser de 40w. Il est possible d’en graver certains, mais attention à la réflexion.
     Verre : uniquement en gravure encore une fois attention à la réflexion.
@@ -39,7 +50,18 @@ Bof… Oui, mais…
     ABS : je n’ai pas trouvé de source correcte. Certains disent oui d’autres non. Avec précaution donc…
     HDPE : demande de pousser pas mal la puissance de la machine pour un résultat très moyen et fondu sur les coupes
 
+<div style="            
+  border-left: 5px solid #43a047;  /* green */
+  background: #e8f5e9;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 6px;
+"  markdown="1" >
+
 Oui !
+
+</div>
+
 
     Bois, Bois brut, Contreplaqués, Balsa
     MDF (Médium) : Le MDF à tendance à beaucoup fumer assurez-vous d’avoir un air/smoke assist. Préférez plusieurs passes en fonction de l’épaisseur (attention aux biseaux).
