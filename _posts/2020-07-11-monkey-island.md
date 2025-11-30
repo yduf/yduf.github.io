@@ -37,6 +37,9 @@ Install on Linux
 
 In the end we can see that this game rely on scummvm, which is unpacked alongside with the game
 => so on linux one can directly run the native and latest [scummvm](https://www.scummvm.org/downloads/#current)
+	- `Ctrl-F5` - give access to ScummVM global menu (in-game)
+    - `F1` - game menu
+    - `Alt-Return` - toggle full-screen
 
 ## Escape from Monkey Island
 
