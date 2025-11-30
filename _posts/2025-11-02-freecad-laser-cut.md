@@ -80,7 +80,7 @@ Oui !
 ### TestFile
 - [Laser test grid for s1, d1, and m1](https://www.atomm.com/template/42212-laser-test-grid-for-s1-d1-and-m1)
 
-### Tips
+## Tips
 - [patron laser](https://www.youtube.com/shorts/hakEnWBTJKY) - decoupage papier 16%
 - [discord barbatronic](https://discord.com/channels/695209598759469076/776190582828695553)
 
