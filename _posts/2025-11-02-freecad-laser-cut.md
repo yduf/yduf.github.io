@@ -84,7 +84,7 @@ Oui !
 ## Tips
 - [patron laser](https://www.youtube.com/shorts/hakEnWBTJKY) - decoupage papier 16%
 - [discord barbatronic](https://discord.com/channels/695209598759469076/776190582828695553)
-- [DIY Rotary Module for K40 Laser Engravers!](https://www.youtube.com/watch?v=GOF0u9qsFOI)
+- [DIY Rotary Module for K40 Laser Engravers!](https://www.youtube.com/watch?v=GOF0u9qsFOI) - replace the Y-axis by a rotary motor
 
 # Freecad
 
