@@ -65,7 +65,7 @@ work native under linux.
 
 ![caption](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/09/return-to-monkey-island-endings-no-secret.jpg?q=50&fit=crop&w=1500&dpr=1.5)
 
-## see also
+# see also
 - [Thimbleweed Park]({% post_url 2019-03-02-Thimbleweed-Park %})
 - [Delores: A Thimbleweed Park mini-adventure]({% post_url 2020-11-29-games-delores %})
 - [Maniac Mansion]({% post_url 2017-07-17-Maniac-Mansion-Deluxe %})
