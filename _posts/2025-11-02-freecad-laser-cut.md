@@ -65,6 +65,7 @@ Oui !
 - Polyester/PES, Polyéthylène/PE, Polyuréthane/PUR
 - PCB photo sensibilisé : en gravure.
 
+### Reglages
 - Bois 5mm
 - Bois 3mm
 - Acrylic
