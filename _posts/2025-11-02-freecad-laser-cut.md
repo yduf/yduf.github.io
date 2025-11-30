@@ -38,6 +38,9 @@ C’est non !
 ### TestFile
 - [Laser test grid for s1, d1, and m1](https://www.atomm.com/template/42212-laser-test-grid-for-s1-d1-and-m1)
 
+### Tips
+- [patron laser](https://www.youtube.com/shorts/hakEnWBTJKY)
+
 # Freecad
 
 ## LaserCut Addon
