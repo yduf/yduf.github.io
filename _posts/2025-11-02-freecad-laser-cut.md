@@ -29,6 +29,10 @@ C’est non !
 - Fibre de verre, Carte de circuit imprimé (Fibre de verre + époxy), Fibre de carbone
 - Polycarbonate, PC, Lexan, Polystyrène mousse expansé/extrudé : fond et à tendance à prendre feu
 
+- Bois 5mm
+- Bois 3mm
+- Acrylic
+
 ### Models
 - [Laser Cut Iris Box - No Screws Needed](https://www.printables.com/model/1354777-laser-cut-iris-box-no-screws-needed) / [project](https://www.atomm.com/template/19311-lasercut-iris-box)
 - [atomm.com](https://www.atomm.com/)
