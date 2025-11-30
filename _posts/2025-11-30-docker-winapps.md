@@ -7,10 +7,7 @@ tags: docker windows
 
 ## Install
 
-{% highlight bash %}
-$ git clone https://github.com/Fmstrat/winapps.git
-$ cd winapps
-{% endhighlight %}
+
 
 [Write `~/.config/winapps/winapps.conf`](https://github.com/winapps-org/winapps/tree/main?tab=readme-ov-file#step-3-create-a-winapps-configuration-file)
 {% highlight bash %}
@@ -18,4 +15,12 @@ $ cd winapps
 RDP_USER=abc
 RDP_PASS=xxx
 ... etc
+{% endhighlight %}
+
+{% highlight bash %}
+$ git clone https://github.com/Fmstrat/winapps.git
+$ cd winapps
+
+# Launch installer
+$ ./installer.sh --user
 {% endhighlight %}
