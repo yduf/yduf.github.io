@@ -17,3 +17,4 @@ The creator of duckdb argues that people using pandas are missing out of the 50 
 
 ### see also
 - [	A sharded DuckDB on 63 nodes runs 1T row aggregation challenge in 5 sec](https://news.ycombinator.com/item?id=45694122)
+- [DuckLake](https://ducklake.select/) - advanced data lake features without traditional lakehouse complexity by using Parquet files and your SQL database. It's an open, standalone format from the DuckDB team
