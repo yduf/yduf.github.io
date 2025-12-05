@@ -9,3 +9,4 @@ tags: math triangle puzzle
 
 see also
 - [Russian Teacher Tricks Americans With Impossible Problem](https://www.youtube.com/watch?v=CmskSlStE6Y) - it is obvious is you know that the circumcenter of right triangle is the midpoing of its hypothenuse. Which allows to prove that the dimension of height is impossible in its current definition.
+- [Algebraic Approach to this one](https://www.youtube.com/watch?v=XvF7hDIeQ5w)
