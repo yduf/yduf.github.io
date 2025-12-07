@@ -5,6 +5,22 @@ tags: pc-hardware storage
 ---
 > [speed of a PCIe 4.0 NVMe SSD in a PCIe 3.0 Motherboard Slot?](https://www.techreviewer.com/tech-answers/pcie-40-ssd-in-pcie-30-m2-slot/) 
 
+## [Clone SSD on Linux](https://chatgpt.com/share/6935d24c-db08-800d-ac4d-01b99c2e3a93)
+
+{% highlight bash %}
+$ lsblk
+NAME        MAJ:MIN RM   SIZE RO TYPE MOUNTPOINTS
+sda           8:0    0 931,5G  0 disk 
+└─sda1        8:1    0 931,5G  0 part /media/yves/USB STICK
+nvme0n1     259:0    0 476,9G  0 disk 
+├─nvme0n1p1 259:1    0   100M  0 part /boot/efi
+...
+
+$ sudo dd if=/dev/nvme0n1 of=/dev/sda bs=64M status=progress
+$ sync
+{% endhighlight %}
+
+
 ## [M2 SSD Benchmark & tests de performance](https://ssd-tester.fr/m2_ssd_test.php)
 [Top SSD](https://ssd-tester.fr/top_ssd.php)
 - [Fikwot FN950 1To M.2 SSD](https://ssd-tester.fr/fikwot_fn950_2tb.html)
