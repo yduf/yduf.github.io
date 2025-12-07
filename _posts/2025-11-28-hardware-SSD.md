@@ -15,10 +15,14 @@ sda           8:0    0 931,5G  0 disk
 nvme0n1     259:0    0 476,9G  0 disk 
 ├─nvme0n1p1 259:1    0   100M  0 part /boot/efi
 ...
-
+512110190592 bytes (512 GB, 477 GiB) copied, 1184,7 s, 432 MB/s
 $ sudo dd if=/dev/nvme0n1 of=/dev/sda bs=64M status=progress
 $ sync
 {% endhighlight %}
+
+### Extend partition
+
+
 
 
 ## [M2 SSD Benchmark & tests de performance](https://ssd-tester.fr/m2_ssd_test.php)
@@ -26,8 +30,17 @@ $ sync
 - [Fikwot FN950 1To M.2 SSD](https://ssd-tester.fr/fikwot_fn950_2tb.html)
 - [fanxiang SSD NVMe 4To S910 Pro - Pice 5.0X4 ](https://www.amazon.fr/dp/B0FH27XWKX) - 330€ / 2025
 
+### [SSD performance over USB](https://chatgpt.com/share/6935d530-dfd0-800d-923b-60061aba74c8)
 
-| **PCI-Express Speeds (Rounded)** |
+| Interface              | Real-world speed     | Relative speed vs PCIe 3.0 |
+| ---------------------- | -------------------- | -------------------------- |
+| **PCIe 3.0 x4 NVMe**   | **3,000–3,500 MB/s** | **100%**                   |
+| **USB 3.1 Gen 2 NVMe** | **700–1,050 MB/s**   | **20–30%**                 |
+| **USB 3.1 Gen 1 NVMe** | **350–500 MB/s**     | **10–15%**                 |
+| **USB 2.0 NVMe**       | **30–40 MB/s**       | **1%**                     |
+
+
+### PCI-Express Speeds
 |----------------------------------|
 | Version | x1 Bandwidth | x2 Bandwidth | x4 Bandwidth | x8 Bandwidth | x16 Bandwidth |
 |---------|--------------|--------------|--------------|---------------|----------------|
