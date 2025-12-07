@@ -8,6 +8,7 @@ tags: pc-hardware storage
 ## [M2 SSD Benchmark & tests de performance](https://ssd-tester.fr/m2_ssd_test.php)
 [Top SSD](https://ssd-tester.fr/top_ssd.php)
 - [Fikwot FN950 1To M.2 SSD](https://ssd-tester.fr/fikwot_fn950_2tb.html)
+- [fanxiang SSD NVMe 4To S910 Pro - Pice 5.0X4 ](https://www.amazon.fr/dp/B0FH27XWKX) - 330€ / 2025
 
 
 | **PCI-Express Speeds (Rounded)** |
