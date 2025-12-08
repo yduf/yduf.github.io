@@ -23,12 +23,9 @@ $ sudo dd if=/dev/nvme0n1 of=/dev/sda bs=64M status=progress
 $ sync
 {% endhighlight %}
 
-Then _gparted_ can be used to move & resize existing partition.
-
-
 ### Extend partition
 
-
+Then _gparted_ can be used to move & resize existing partition.
 
 
 ## [M2 SSD Benchmark & tests de performance](https://ssd-tester.fr/m2_ssd_test.php)
