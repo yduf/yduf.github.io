@@ -7,7 +7,7 @@ tags: pc-hardware storage
 
 ## [Clone SSD on Linux](https://chatgpt.com/share/6935d24c-db08-800d-ac4d-01b99c2e3a93)
 
-**NOTE: both disk must be unmounted during the copy**
+**NOTE: both disk must be unmounted during the copy**  
 Otherwise you may end up with error on partition (eg the /boot/efi)
 
 {% highlight bash %}
@@ -45,7 +45,7 @@ Then _gparted_ can be used to move & resize existing partition.
 
 
 ### PCI-Express Speeds
-|----------------------------------|
+
 | Version | x1 Bandwidth | x2 Bandwidth | x4 Bandwidth | x8 Bandwidth | x16 Bandwidth |
 |---------|--------------|--------------|--------------|---------------|----------------|
 | PCIe 1.0 | 250 MB/s | 500 MB/s | 750 MB/s | 2 GB/s | 4 GB/s |
