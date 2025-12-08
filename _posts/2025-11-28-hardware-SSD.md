@@ -7,6 +7,9 @@ tags: pc-hardware storage
 
 ## [Clone SSD on Linux](https://chatgpt.com/share/6935d24c-db08-800d-ac4d-01b99c2e3a93)
 
+**NOTE: both disk must be unmounted during the copy**
+Otherwise you may end up with error on partition (eg the /boot/efi)
+
 {% highlight bash %}
 $ lsblk
 NAME        MAJ:MIN RM   SIZE RO TYPE MOUNTPOINTS
@@ -19,6 +22,7 @@ nvme0n1     259:0    0 476,9G  0 disk
 $ sudo dd if=/dev/nvme0n1 of=/dev/sda bs=64M status=progress
 $ sync
 {% endhighlight %}
+
 
 ### Extend partition
 
