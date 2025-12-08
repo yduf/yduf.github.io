@@ -23,6 +23,8 @@ $ sudo dd if=/dev/nvme0n1 of=/dev/sda bs=64M status=progress
 $ sync
 {% endhighlight %}
 
+Then _gparted_ can be used to move & resize existing partition.
+
 
 ### Extend partition
 
