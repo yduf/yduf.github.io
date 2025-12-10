@@ -30,13 +30,15 @@ Then _gparted_ can be used to move & resize existing partition.
 
 ## [M2 SSD Benchmark & tests de performance](https://ssd-tester.fr/m2_ssd_test.php)
 [Top SSD](https://ssd-tester.fr/top_ssd.php)
-- [Fikwot FN950 1To M.2 SSD](https://ssd-tester.fr/fikwot_fn950_2tb.html)
 - [fanxiang SSD NVMe 4To S910 Pro - Pice 5.0X4 ](https://www.amazon.fr/dp/B0FH27XWKX) - 330€ / 2025
+- [Fikwot FN950 1To M.2 SSD](https://ssd-tester.fr/fikwot_fn950_2tb.html)
+- [Lexar NM610 Pro - 1To](https://ssd-tester.fr/lexar_nm610_pro_1tb.html)
 - WD SN730 512GB - from [huawei matebook 14]({% post_url 2021-07-18-laptop-huawei-matebook-14 %})
 
-**Notes** - [pcie gen 5.0 not recognized by a usb 3.1 nvme adapter?](https://chatgpt.com/share/6939797a-d654-800d-96da-5ab4848724c2) - this is expected...
 
 ### [SSD performance over USB](https://chatgpt.com/share/6935d530-dfd0-800d-923b-60061aba74c8)
+
+**Notes** - [pcie gen 5.0 not recognized by a usb 3.1 nvme adapter?](https://chatgpt.com/share/6939797a-d654-800d-96da-5ab4848724c2) - this is expected...
 
 | Interface              | Real-world speed     | Relative speed vs PCIe 3.0 |
 | ---------------------- | -------------------- | -------------------------- |
