@@ -34,6 +34,8 @@ Then _gparted_ can be used to move & resize existing partition.
 - [fanxiang SSD NVMe 4To S910 Pro - Pice 5.0X4 ](https://www.amazon.fr/dp/B0FH27XWKX) - 330€ / 2025
 - WD SN730 512GB - from [huawei matebook 14]({% post_url 2021-07-18-laptop-huawei-matebook-14 %})
 
+**Notes** - [pcie gen 5.0 not recognized by a usb 3.1 nvme adapter?](https://chatgpt.com/share/6939797a-d654-800d-96da-5ab4848724c2) - this is expected...
+
 ### [SSD performance over USB](https://chatgpt.com/share/6935d530-dfd0-800d-923b-60061aba74c8)
 
 | Interface              | Real-world speed     | Relative speed vs PCIe 3.0 |
