@@ -34,6 +34,7 @@ Then _gparted_ can be used to move & resize existing partition.
 - [Fikwot FN950 1To M.2 SSD](https://ssd-tester.fr/fikwot_fn950_2tb.html)
 - [Lexar NM610 Pro - 1To](https://ssd-tester.fr/lexar_nm610_pro_1tb.html)
 - WD SN730 512GB - from [huawei matebook 14]({% post_url 2021-07-18-laptop-huawei-matebook-14 %})
+- [WD Green 240GB](https://www.amazon.fr/gp/product/B078WYS5K6) - 36€ / 2020
 
 
 ### [SSD performance over USB](https://chatgpt.com/share/6935d530-dfd0-800d-923b-60061aba74c8)
