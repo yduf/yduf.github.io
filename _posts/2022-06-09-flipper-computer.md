@@ -57,6 +57,8 @@ see also
 ### [Creature of the Black Lagoon (CFTBL)](https://www.youtube.com/shorts/Iyw-xgc8CXQ) - 4000 - 6000€ / 2025
 [![creature](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpinballhungary.hu%2Fwp-content%2Fuploads%2F2023%2F07%2FIMG_2087-scaled.jpg&f=1&nofb=1&ipt=beb86c8ed03095fddd8949b96c3a6b9b46b00985e0f9053b9e833d8ec6d3fe45)](https://duckduckgo.com/?t=lm&q=flipper+creature+of+the+black+lagon&ia=images&iax=images&iai=https%3A%2F%2Fpinballhungary.hu%2Fwp-content%2Fuploads%2F2023%2F07%2FIMG_2087-scaled.jpg)
 
+- [vpx](https://www.youtube.com/watch?v=3XS3q9NHjNA)
+
 ## vente
 - [Lyon Flippers](https://www.lyon-flipper.com/flippers)
 - [Flippers](http://www.equipjeux.fr/nos-jeux/flippers/98-flipper-tales-of-the-arabian-night.html)
