@@ -7,6 +7,7 @@ tags: pinball debug computer arcade-hardware
 
 see also
 - [Restauration haute tension ⚡️Donner vie à une technologie oubliée](https://www.youtube.com/watch?v=BbjRCI2Nnos)
+- [What It’s Like Owning a New Pinball Machine in 2025](https://www.youtube.com/watch?v=MwxCy8CY0pE)
 
 ![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.redd.it%2F8gbtqo1rgrzz.jpg&f=1&nofb=1)
 
