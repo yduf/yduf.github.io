@@ -31,6 +31,8 @@ Then _gparted_ can be used to move & resize existing partition.
 
 an MBR-partitioned (standard) drive cannot be > 2To. You need GPT.
 
+Non destructrive process
+
 {% highlight bash %}
 $ sudo gdisk /dev/sdX
 # then press w to write converted partition
