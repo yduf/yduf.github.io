@@ -1,7 +1,7 @@
 ---
 title: SSD
 published: true
-tags: pc-hardware storage
+tags: pc-hardware disk storage
 ---
 > [speed of a PCIe 4.0 NVMe SSD in a PCIe 3.0 Motherboard Slot?](https://www.techreviewer.com/tech-answers/pcie-40-ssd-in-pcie-30-m2-slot/) 
 
