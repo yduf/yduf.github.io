@@ -57,6 +57,7 @@ UUID=XXXX-XXXX  /mnt/usb  vfat  defaults,uid=1000,gid=1000  0  0
   
 # Test the configuration (without rebooting)
 $ sudo mount -a
+$ sudo systemctl daemon-reload
 {% endhighlight %}
 
 
