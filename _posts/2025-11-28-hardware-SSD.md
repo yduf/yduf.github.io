@@ -27,6 +27,16 @@ $ sync
 
 Then _gparted_ can be used to move & resize existing partition.
 
+### [Convert MBR to GPT](https://chatgpt.com/share/693c28ef-16b8-800d-95b0-e440c6ab5458)
+
+an MBR-partitioned (standard) drive cannot be > 2To. You need GPT.
+
+{% highlight bash %}
+$ sudo gdisk /dev/sdX
+# then press w to write converted partition
+w
+{% endhighlight %}
+
 
 ## [M2 SSD Benchmark & tests de performance](https://ssd-tester.fr/m2_ssd_test.php)
 [Top SSD](https://ssd-tester.fr/top_ssd.php)
