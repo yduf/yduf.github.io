@@ -1,6 +1,6 @@
 ---
 published: true
-title: Disk Tool & Diagnostic
+title: Disk Tool & fstab
 tags: disk partition linux-system
 toc: true
 ---
