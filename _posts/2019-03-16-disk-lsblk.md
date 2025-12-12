@@ -1,7 +1,7 @@
 ---
 published: true
 title: Disk Tool & Diagnostic
-tags: disk partition
+tags: disk partition linux-system
 ---
 > [How do I find the UUID of a filesystem](https://serverfault.com/questions/3132/how-do-i-find-the-uuid-of-a-filesystem)
 
