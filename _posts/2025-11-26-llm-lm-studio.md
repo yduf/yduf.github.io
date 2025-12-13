@@ -58,6 +58,7 @@ $ curl http://yves-lab:1234/v1/chat/completions \
   "system_fingerprint": "qwen/qwen3-vl-8b"
 }⏎ 
 {% endhighlight %}
+  </p>
 </details>
 
 ## [Tools](https://lmstudio.ai/docs/developer/openai-compat/tools)
