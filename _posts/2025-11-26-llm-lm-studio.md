@@ -103,3 +103,4 @@ see also
 - [What is Ollama](https://chatgpt.com/share/69271a8f-e8c4-800d-b648-55c924457f29)
 - [Build Ghidra agent](https://chatgpt.com/share/692ac141-c734-800d-85f2-a2965ed30618)
 - [Heretic](https://news.ycombinator.com/item?id=45945587) - Automatic censorship removal for language models
+- [Gemma 3 270M From Scratch](https://news.ycombinator.com/item?id=44962059)
