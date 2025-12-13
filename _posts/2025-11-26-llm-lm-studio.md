@@ -20,6 +20,9 @@ LLMs need prompts. Prompts can get very big very quickly. The so called "skills"
 
 Second-generation Devstral for agentic coding. Built for tool use to explore codebases, edit multiple files, and power software engineering agents with newly added vision support.
 
+see also
+- [	The unexpected effectiveness of one-shot decompilation with Claude](https://news.ycombinator.com/item?id=46080498)
+
 # Plan then Execute
 - [Implement plan-then-execute strategy](https://chatgpt.com/share/692984d0-9c00-800d-a913-fb8c3ee328f1)
 - [Replicating Cursor’s Agent Mode with E2B and AgentKit](https://e2b.dev/blog/replicating-cursors-agent-mode-with-e2b-and-agentkit)
