@@ -6,6 +6,60 @@ toc: true
 ---
 > a desktop application that allows you to run large language models (LLMs) locally on your computer, without needing an internet connection or cloud services. - [Home](https://lmstudio.ai/) / [chatGPT](https://chatgpt.com/share/69271a38-1cc0-800d-961a-0f7530e249bb)
 
+## Server
+On prompt UI (green term):
+- enable Server 🟢 (Status running) and configure Server settings
+	- Serve on Local Network 🟠 -> allow remote access
+    - Server port 1234
+    - Make sure a model is loaded
+    
+Test it works
+
+{% highlight bash %}
+$ curl http://yves-lab:1234/v1/chat/completions \
+                       -H "Content-Type: application/json" \
+                       -d '{
+                     "model": "qwen3",
+                     "messages": [
+                       {"role": "user", "content": "Hello, respond with one word"}
+                     ]
+                   }'
+{% endhighlight %}
+        
+                                       
+<details>
+    <summary>answer</summary>
+    <p>
+{% highlight bash %}
+{
+  "id": "chatcmpl-udbu6gq8kshmddzqmhcrwq",
+  "object": "chat.completion",
+  "created": 1765637850,
+  "model": "qwen/qwen3-vl-8b",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Hello",
+        "reasoning_content": "",
+        "tool_calls": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 14,
+    "completion_tokens": 2,
+    "total_tokens": 16
+  },
+  "stats": {},
+  "system_fingerprint": "qwen/qwen3-vl-8b"
+}⏎ 
+{% endhighlight %}
+</details>
+
 ## [Tools](https://lmstudio.ai/docs/developer/openai-compat/tools)
 
 Enable LLMs to interact with external functions and APIs.
