@@ -6,6 +6,10 @@ toc: true
 ---
 > a desktop application that allows you to run large language models (LLMs) locally on your computer, without needing an internet connection or cloud services. - [Home](https://lmstudio.ai/) / [chatGPT](https://chatgpt.com/share/69271a38-1cc0-800d-961a-0f7530e249bb)
 
+## [Tools](https://lmstudio.ai/docs/developer/openai-compat/tools)
+
+Enable LLMs to interact with external functions and APIs.
+
 # Plan then Execute
 - [Implement plan-then-execute strategy](https://chatgpt.com/share/692984d0-9c00-800d-a913-fb8c3ee328f1)
 - [Replicating Cursor’s Agent Mode with E2B and AgentKit](https://e2b.dev/blog/replicating-cursors-agent-mode-with-e2b-and-agentkit)
