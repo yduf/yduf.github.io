@@ -10,6 +10,10 @@ toc: true
 
 Enable LLMs to interact with external functions and APIs.
 
+## [Skills](https://news.ycombinator.com/item?id=46253591)
+
+LLMs need prompts. Prompts can get very big very quickly. The so called "skills" are simply a mechanism to extend the prompt dynamically. 
+
 ## Models
 
 ### [Devstral 2](https://lmstudio.ai/models/devstral-2)
