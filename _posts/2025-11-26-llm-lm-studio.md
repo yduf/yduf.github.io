@@ -116,3 +116,4 @@ see also
 - [Build Ghidra agent](https://chatgpt.com/share/692ac141-c734-800d-85f2-a2965ed30618)
 - [Heretic](https://news.ycombinator.com/item?id=45945587) - Automatic censorship removal for language models
 - [Gemma 3 270M From Scratch](https://news.ycombinator.com/item?id=44962059)
+- [The security paradox of local LLMs ](https://quesma.com/blog/local-llms-security-paradox/) / [HN](https://news.ycombinator.com/item?id=45668264)
