@@ -1,13 +1,18 @@
 ---
 published: true
-title: PalmOS games
+title: PalmOS
 tags: retro games palmos
 ---
 > Palm OS developer releases source to classic games, 20 years after release - [HN](https://news.ycombinator.com/item?id=31748248) / [github](https://github.com/ardiri?tab=repositories&q=palmos&type=&language=&sort=)
 
-see also
+## [PumkinOS](https://github.com/migueletto/PumpkinOS?tab=readme-ov-file#pumpkinos)
+
+a re-implementation of PalmOS that runs on modern architectures (x86, ARM, etc). It is not your average PalmOS emulator (it does NOT require a PalmOS ROM), but it can run m68K PalmOS applications.
+
 - [	Pumpkin OS: x64 port/re-implementation of PalmOS](https://news.ycombinator.com/item?id=28466858)
 
+
+## Games
 ### Games included in this release are:
 - Phire (Fire!) (game and watch clone)
 - Parashoot (Parachute) (game and watch clone)
