@@ -6,7 +6,7 @@ tags: fun blog robot comix test AI LLM bots
 > There are no more Humans - [Prove you are not a Human](https://www.smbc-comics.com/comic/captcha) / [Robots (Flight of the Conchords
 )](https://www.youtube.com/watch?v=NI9nopaieEc)
 
-- [AI was not invented, it arrived ](https://andrewarrow.dev/2025/12/ai-was-not-invented-it-arrived/) / [HN](https://news.ycombinator.com/item?id=46263874)
+- [AI was not invented, it arrived ](https://andrewarrow.dev/2025/12/ai-was-not-invented-it-arrived/) / [HN](https://news.ycombinator.com/item?id=46263874) - Before, the creator understood the machine, controlled it, and knew why it worked. This time we built the container, do not fully understand what filled it, and met it after it was already there. That is why this feels less like invention and more like discovery.
 
 - [AI Podcast Hosts Discover They’re AI, Not Human](https://www.youtube.com/watch?v=AR4dRtzFvxM) - see [NotebookLM](https://blog.google/technology/ai/notebooklm-audio-overviews/)
 
