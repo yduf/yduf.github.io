@@ -13,3 +13,6 @@ tags: blog pinball arcade-hardware
 
 - [How to build your own pinball machine in 4,761 easy steps](https://www.inverse.com/input/culture/homebrew-pinball-expo-2021)
 - [Pinball from Scratch: 3D printed Flipper Assemblies and Case assembly](https://www.youtube.com/watch?v=QSe4ZymXoos)
+
+- [I Built a Tukkari Virtual Pinball Cabinet in JUST ONE DAY! IKEA Style DIY Flatpack Kit](https://www.youtube.com/watch?v=FZL6rSCBjwM) 
+	- [Tukkari Kit](https://www.tukkari.eu/p/widebody-virtual-pinball-cabinet-vpin-essential-flat-pack-kit)
