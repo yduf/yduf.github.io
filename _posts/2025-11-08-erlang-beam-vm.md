@@ -14,3 +14,5 @@ see also
     
 - [	Why I wrote the BEAM book](https://news.ycombinator.com/item?id=44179257)
 - [	How I fell in love with Erlang](https://news.ycombinator.com/item?id=45785300)
+- [	
+	Writing your own BEAM](https://news.ycombinator.com/item?id=45867828)
