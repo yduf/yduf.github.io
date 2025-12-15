@@ -1,5 +1,5 @@
 ---
-title: CLIP (OpenAI)
+title: Open CLIP (OpenAI)
 published: true
 tags: AI generative-AI word2vec pytorch
 toc: true
