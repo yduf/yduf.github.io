@@ -1,16 +1,16 @@
 ---
 published: true
 title: Pytorch
-tags: NN amd
+tags: NN amd pytorch
 ---
 >  Facebook open-source and free framework based on the Torch library. - [Home](https://pytorch.org/)
 
 see also
 - [PyTorch 2.0](https://pytorch.org/get-started/pytorch-2.0/) - Get Started
 
-## Install
+# [Install](https://chatgpt.com/share/69400fa1-ef94-800d-b395-65757c920299)
 
-with [ROCm]({% post_url 2020-07-24-amd-gpu %}) as prerequesite.
+## with [ROCm]({% post_url 2020-07-24-amd-gpu %}) as prerequesite.
 
 {% highlight bash %}
 # 1.3GB Download
