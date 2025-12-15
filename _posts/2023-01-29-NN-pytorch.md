@@ -3,12 +3,23 @@ published: true
 title: Pytorch
 tags: NN amd pytorch
 ---
->  Facebook open-source and free framework based on the Torch library. - [Home](https://pytorch.org/)
+>  Facebook open-source and free framework based on the Torch library. - [Home](https://pytorch.org/) / [github](https://github.com/pytorch/pytorch?tab=readme-ov-file#docker-image)
 
 see also
 - [PyTorch 2.0](https://pytorch.org/get-started/pytorch-2.0/) - Get Started
 
 # [Install](https://chatgpt.com/share/69400fa1-ef94-800d-b395-65757c920299)
+
+## [Docker images](https://github.com/pytorch/pytorch?tab=readme-ov-file#docker-image)
+
+You can pull a pre-built docker image from Docker Hub and run with docker v19.03+
+
+{% highlight bash %}
+$ podman run --gpus all --rm -ti --ipc=host -v /home/yves/DEV/:/workspace pytorch/pytorch:latest
+{% endhighlight %}
+
+PyTorch uses shared memory to share data between processes, so if torch multiprocessing is used (e.g. for multithreaded data loaders) the default shared memory segment size that container runs with is not enough, and you should increase shared memory size with `--ipc=host`
+
 
 ## with [ROCm]({% post_url 2020-07-24-amd-gpu %}) as prerequesite.
 
@@ -20,13 +31,7 @@ Successfully installed torch-1.13.1+rocm5.2 torchaudio-0.13.1+rocm5.2 torchvisio
 {% endhighlight %}
 
 
-### [Docker images](https://github.com/pytorch/pytorch?tab=readme-ov-file#docker-image)
-
-{% highlight bash %}
-$ podman run --gpus all --rm -ti --ipc=host -v /home/yves/DEV/:/workspace pytorch/pytorch:latest
-{% endhighlight %}
-
-### [Verify installation](https://pytorch.org/get-started/locally/#linux-verification)
+## [Verify installation](https://pytorch.org/get-started/locally/#linux-verification)
 
 Using python repl: run `python3`, and copy past code below.
 
