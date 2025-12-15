@@ -7,3 +7,15 @@ tags: health
 	- consistency beats everything - stick to 3x to 2x times a week
 
 - [#1 Best Meal to UNCLOG Your Arteries (Backed by Science) ](https://www.youtube.com/watch?v=WQIE86q08mk)
+
+
+- [This Pill is linked to DEMENTIA](https://www.youtube.com/watch?v=ny7M6f1y0ow)
+	- **anticholinergic** block acetylcholine to be avoided for extending period
+    	- benadryl (for allergies)
+        - tylenol PM
+        - Unisom
+        - Hydroxyzine / Vistaril / Atarax
+        - Ditropan / Ditrol
+        - Bentyl / Scopolamine
+    - safe alternative against allergies
+    	- Zyrtec / Claritin / Allergra
