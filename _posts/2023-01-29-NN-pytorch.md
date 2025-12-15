@@ -2,6 +2,7 @@
 published: true
 title: Pytorch
 tags: NN amd pytorch
+toc: true
 ---
 >  Facebook open-source and free framework based on the Torch library. - [Home](https://pytorch.org/) / [github](https://github.com/pytorch/pytorch?tab=readme-ov-file#docker-image)
 
