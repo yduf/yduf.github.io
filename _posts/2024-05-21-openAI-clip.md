@@ -14,6 +14,10 @@ toc: true
 $ pip install open_clip_torch
 {% endhighlight %}
 
+# OpenCV
+
+- [example](https://github.com/hpc203/Chinese-CLIP-opencv-onnxrun/blob/main/cpp/src/main.cpp)
+
 see also
 - [CLIP: Connecting text and images](https://openai.com/index/clip/)
 	- [Hugging Face](https://huggingface.co/docs/transformers/model_doc/clip)
