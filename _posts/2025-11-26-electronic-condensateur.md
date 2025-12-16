@@ -3,7 +3,7 @@ title: Condensateur
 published: true
 tags: electronic
 ---
-> [This Simple Device Could Kill You](https://www.youtube.com/watch?v=kHm9pTeEz60)
+> [This Simple Device Could Kill You](https://www.youtube.com/watch?v=kHm9pTeEz60) - never make assumption when handling capacitor
 
 - [Condensateur de securité X et Y](https://www.youtube.com/watch?v=wjFXu0tE69M)
 - [Les bases de la réparation électronique #1 - le condensateur](https://www.youtube.com/watch?v=Fs7kOAeGjhs)
