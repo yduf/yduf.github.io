@@ -19,6 +19,7 @@ see [valgrind: –-tool=memcheck: command not found](https://stackoverflow.com/q
 
 ### Alternatives
 - [Tracy]({% post_url 2024-10-05-profiler-tracy %})
+- [GREASE](https://www.galois.com/articles/introducing-grease)/[HN](https://news.ycombinator.com/item?id=43423523) - An Open-Source Tool for Uncovering Hidden Vulnerabilities in Binary Code
 
 
 ## [Supported platform](https://valgrind.org/info/platforms.html)
