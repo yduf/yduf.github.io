@@ -1,9 +1,12 @@
 ---
 title: exiftool
 published: true
-tags: image metadata jpeg
+tags: image metadata jpeg ruby
 ---
 > [Home](https://exiftool.org/)
+
+see also
+- [MiniExiftool](https://github.com/janfri/mini_exiftool?tab=readme-ov-file#miniexiftool-) - a ruby wrapper for the ExifTool command-line 
 
 ### [Usage](https://chatgpt.com/share/694276d0-95e8-800d-b7eb-3eef1d54fc40)
 
