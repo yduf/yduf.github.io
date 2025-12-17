@@ -12,12 +12,20 @@ $ exiftool -Comment <image.jpg>	              # read comment
 $ exiftool -Comment="my comment" <image.jpg   # write comment
 {% endhighlight %}
 
-### Standard Metadata
+## Standard Metadata
 
 **-Title**="Golden Gate at Dawn"  
 **-Description**="Golden Gate Bridge at sunrise with fog."  
 **-Comment=**="missed boat"
 **-Label**="Approved"
 
+### Tags
 
-
+{% highlight bash %}
+$ exiftool \
+  -XMP-dc:Subject+="mountains" \
+  -XMP-dc:Subject+="fog" \
+  -XMP-lr:HierarchicalSubject+="Nature|Mountains" \
+  -XMP-lr:HierarchicalSubject+="Nature|Fog" \
+  image.jpg
+{% endhighlight %}
