@@ -11,5 +11,4 @@ tags: image metadata jpeg
 $ exiftool -Comment <image.jpg>	              # read comment
 
 $ exiftool -Comment="my comment" <image.jpg   # write comment
-
 {% endhighlight %}
