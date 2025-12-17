@@ -11,3 +11,4 @@ Modern CPUs do not process instructions serially, but rather handle many at the 
 - [When you Accidentally Compromise every CPU on Earth](https://www.youtube.com/watch?v=YRohz9VO1YY)
 - [researchers find an unfixable bug in EVERY ARM cpu ](https://www.youtube.com/watch?v=CjpEZ2LAazM)
 - [Branch Privilege Injection: Exploiting branch predictor race conditions](https://news.ycombinator.com/item?id=43974891)
+- [	Bypassing the Branch Predictor](https://news.ycombinator.com/item?id=45943279)
