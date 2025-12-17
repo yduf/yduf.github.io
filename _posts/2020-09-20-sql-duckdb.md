@@ -22,5 +22,5 @@ The creator of duckdb argues that people using pandas are missing out of the 50 
     - metadata are stored in RDB (Postgres)
 
 ### see also
+- [Duck-UI – Browser-Based SQL IDE for DuckDB ](https://news.ycombinator.com/item?id=45633453)
 - [	A sharded DuckDB on 63 nodes runs 1T row aggregation challenge in 5 sec](https://news.ycombinator.com/item?id=45694122)
-
