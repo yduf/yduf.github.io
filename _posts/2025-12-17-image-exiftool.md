@@ -28,4 +28,7 @@ $ exiftool \
   -XMP-lr:HierarchicalSubject+="Nature|Mountains" \
   -XMP-lr:HierarchicalSubject+="Nature|Fog" \
   image.jpg
+  
+# shortcuts
+$ exiftool -Keywords="sunset, mountains, fog" image.jpg
 {% endhighlight %}
