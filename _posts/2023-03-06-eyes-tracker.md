@@ -11,14 +11,16 @@ see also
 - [3D Eye Tracking in Python](https://www.youtube.com/watch?v=zuoOvywtwtA) / [github](https://github.com/JEOresearch/EyeTracker/tree/main/3DTracker)
 	- [3D Eye Tracking on a Webcam ](https://www.youtube.com/watch?v=6J6Rb7f-Cls)
 
-[![caption](https://github.com/pperle/gaze-tracking-pipeline/raw/main/docs/gaze_tracking_pipeline.png)](https://github.com/pperle/gaze-tracking-pipeline)
-
 ## [Eyes Contact](https://github.com/rehg-lab/eye-contact-cnn?tab=readme-ov-file#eye-contact-cnn)
 
 [![demo](https://github.com/rehg-lab/eye-contact-cnn/raw/master/teaser.gif)](https://github.com/rehg-lab/eye-contact-cnn?tab=readme-ov-file#eye-contact-cnn)
 
 
 ## Starting Point
+
+[![caption](https://github.com/pperle/gaze-tracking-pipeline/raw/main/docs/gaze_tracking_pipeline.png)](https://github.com/pperle/gaze-tracking-pipeline)
+
+
 
 ### Face Landmark Detection
 Using Mediapipe Iris ([Face Geometry Module](https://github.com/google/mediapipe/wiki/MediaPipe-Face-Mesh))
