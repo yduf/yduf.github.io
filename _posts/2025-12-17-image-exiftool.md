@@ -5,7 +5,7 @@ tags: image metadata jpeg
 ---
 > [Home](https://exiftool.org/)
 
-### [Usage](https://chatgpt.com/share/69426d0b-1c80-800d-bab5-33bc0f63e433)
+### [Usage](https://chatgpt.com/share/694276d0-95e8-800d-b7eb-3eef1d54fc40)
 
 {% highlight bash %}
 $ exiftool -Comment <image.jpg>	              # read comment
