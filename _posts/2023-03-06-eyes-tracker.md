@@ -2,6 +2,7 @@
 published: true
 title: Eyes&Gaze Tracker
 tags: human face eyes opencv computer-vision project
+toc: true
 ---
 > ML solution for accurate iris estimation, able to track landmarks involving the iris, pupil and the eye contours using a single RGB camera, in real-time, without the need for specialized hardware. - [MediaPipe Iris ](https://google.github.io/mediapipe/solutions/iris.html) / [Eye Tracking with Mediapipe and OpenCV](https://kh-monib.medium.com/title-gaze-tracking-with-opencv-and-mediapipe-318ac0c9c2c3)
 
@@ -11,6 +12,10 @@ see also
 	- [3D Eye Tracking on a Webcam ](https://www.youtube.com/watch?v=6J6Rb7f-Cls)
 
 [![caption](https://github.com/pperle/gaze-tracking-pipeline/raw/main/docs/gaze_tracking_pipeline.png)](https://github.com/pperle/gaze-tracking-pipeline)
+
+## [Eyes Contact](https://github.com/rehg-lab/eye-contact-cnn?tab=readme-ov-file#eye-contact-cnn)
+
+[![demo](https://github.com/rehg-lab/eye-contact-cnn/raw/master/teaser.gif)](https://github.com/rehg-lab/eye-contact-cnn?tab=readme-ov-file#eye-contact-cnn)
 
 
 ## Starting Point
