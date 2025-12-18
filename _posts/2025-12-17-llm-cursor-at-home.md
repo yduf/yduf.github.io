@@ -15,3 +15,5 @@ Using:
 ## [Cline](https://docs.cline.bot/introduction/welcome)
 
 Cline is an open source AI coding agent that brings frontier AI models directly to your IDE. Unlike autocomplete tools, Cline is a true coding agent that can understand entire codebases, plan complex changes, and execute multi-step tasks.
+
+see [Cline vs Cursor](https://chatgpt.com/share/69446ae1-4990-800d-b80a-bd62c220adb1)
