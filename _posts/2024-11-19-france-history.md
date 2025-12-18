@@ -6,7 +6,7 @@ tags: history
 > Au fond de la colonisation, il y a un négationnisme extrêmement profond de l'altérité qu'elle vise soit à faire disparaître, soit à dominer définitivement. - [Extermination et violence coloniales euphémisées dans l'Algérie du XIXe siècle ](http://histoiredelalgerie.over-blog.com/2017/02/extermination-et-violence-coloniales-euphemisees-dans-l-algerie-du-xixe-siecle.html)
 
 see also
-- [Point de vue sur la colonisation (2025)](https://www.youtube.com/watch?v=9dObfxQztrg) - ONU Vote by country
+- [Point de vue sur la colonisation (2025)](https://www.youtube.com/watch?v=9dObfxQztrg) - ONU Vote by country - journée internationale de lutte contre le colonialisme.
 
 ### Algerie
 - [une manifestation des Algériens de France pour débaptiser la rue Bugeaud](https://www.lyonmag.com/article/141181/lyon-une-manifestation-des-algeriens-de-france-pour-debaptiser-la-rue-bugeaud) - la rue qui porte le nom de Thomas Robert Bugeaud Maréchal de France, connu pour ses massacres commis en Algérie au XIXe siècle.
