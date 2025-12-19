@@ -17,6 +17,8 @@ Using:
 
 ## [Cline](https://docs.cline.bot/introduction/welcome) / [github](https://github.com/cline/cline?tab=readme-ov-file#cline)
 
+- [Getting Started with Cline—The Best VS Code AI Plugin](https://www.youtube.com/watch?v=f33Fw6NiPpw)
+
 Cline is an open source AI coding agent that brings frontier AI models directly to your IDE. Unlike autocomplete tools, Cline is a true coding agent that can understand entire codebases, plan complex changes, and execute multi-step tasks.
 
 see [Cline vs Cursor](https://chatgpt.com/share/69446ae1-4990-800d-b80a-bd62c220adb1)
