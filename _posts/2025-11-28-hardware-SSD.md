@@ -5,6 +5,8 @@ tags: pc-hardware disk storage
 ---
 > [speed of a PCIe 4.0 NVMe SSD in a PCIe 3.0 Motherboard Slot?](https://www.techreviewer.com/tech-answers/pcie-40-ssd-in-pcie-30-m2-slot/) 
 
+[![bysize](https://geekysoumya.com/wp-content/uploads/2022/11/Different-Sizes-Of-M.2-SSD-1536x864.jpg)](https://geekysoumya.com/m-2-pcie-nvme-sizes-explained-2280-2260-2242-etc/)
+
 ## [Clone SSD on Linux](https://chatgpt.com/share/6935d24c-db08-800d-ac4d-01b99c2e3a93)
 
 **NOTE: both disk must be unmounted during the copy**  
