@@ -5,7 +5,8 @@ tags: color web
 ---
 > [Colors Picker for Linux](https://www.maketecheasier.com/color-picker-tools-for-linux/) / [Picket ](https://github.com/rajter/Picket)
 
-- GPick
+- [GPick](https://www.gpick.org/) - an advanced color picker and palette editing tool.
+
 
 see also
 - [Color Name & Hue](https://www.color-blindness.com/color-name-hue/) - enter RGB (Red-Green-Blue) values, HSB (Hue-Saturation-Brightness) numbers or a hexadecimal code for a color, to find its closest match of a named color and its corresponding hue.
