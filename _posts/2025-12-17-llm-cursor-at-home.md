@@ -15,7 +15,7 @@ Using:
 - vscode + [continue.dev](https://marketplace.visualstudio.com/items?itemName=Continue.continue) vscode extension
 - [Qwen2.5-Coder-7B-Instruct](https://model.lmstudio.ai/download/lmstudio-community/Qwen2.5-Coder-7B-Instruct-GGUF)
 
-## [Cline](https://docs.cline.bot/introduction/welcome) / [github](https://github.com/cline/cline?tab=readme-ov-file#cline) / [$$](https://app.cline.bot/dashboard/account?tab=credits)
+## [Cline](https://docs.cline.bot/introduction/welcome) / [github](https://github.com/cline/cline?tab=readme-ov-file#cline) / [👤](https://app.cline.bot/dashboard/account?tab=credits)
 
 - [Getting Started with Cline—The Best VS Code AI Plugin](https://www.youtube.com/watch?v=f33Fw6NiPpw)
 - [Local Models Overview](https://docs.cline.bot/running-models-locally/overview#recommended-models)
