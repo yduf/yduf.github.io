@@ -9,8 +9,17 @@ If you need to move files with xattr between filesystems (e.g., from ZFS to ext4
 
 ### Notes
 Custom attribute are of the form `user.tag` and the prefix `user` is not customizable, only the `tag` part, eg trying to set:
-- `xattr -w blake3.h 1234 src/blake3.rb` => [Errno 95] Operation not supported
-- `xattr -w user.blake3 1234 src/blake3.rb` => works fine
+
+{% highlight cpp %}
+$ xattr -w blake3.h 1234 src/blake3.rb     # [Errno 95] Operation not supported
+
+$ xattr -w user.blake3 1234 src/blake3.rb  # works fine
+
+# Alternatively
+$ getfattr -d filename     # List extended attributes of a file or directory
+$ getfattr -d -h symlink   # List attributes without following symlinks
+
+{% endhighlight %}
 
 ### Lang support
 - Ruby - [ffi-xattr](https://github.com/jarib/ffi-xattr?tab=readme-ov-file#ffi-xattr) - unmaintained
