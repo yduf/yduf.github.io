@@ -30,10 +30,131 @@
           animation: blink 1s infinite;
           text-decoration: none;
         }
+
+      /* Dark mode toggle - CSS only, no JavaScript */
+      #dark-mode-toggle {
+          display: none;
+      }
+
+      .dark-mode-label {
+          cursor: pointer;
+          font-size: 18px;
+          user-select: none;
+          margin-left: 20px;
+          display: inline-block;
+      }
+
+      /* Show sun emoji by default */
+      .dark-mode-label::before {
+          content: '☀️';
+      }
+
+      /* Show moon emoji when checked */
+      body:has(#dark-mode-toggle:checked) .dark-mode-label::before {
+          content: '🌙';
+      }
+
+      /* Dark mode styles when checkbox is checked */
+      body:has(#dark-mode-toggle:checked) {
+          background: #1a1a1a !important;
+          color: #e0e0e0;
+      }
+
+      html:has(#dark-mode-toggle:checked) {
+          background: #1a1a1a;
+      }
+
+      body:has(#dark-mode-toggle:checked) .wrapper-masthead {
+          background: #1a1a1a;
+      }
+
+      body:has(#dark-mode-toggle:checked) .masthead {
+          border-bottom-color: #444;
+      }
+
+      body:has(#dark-mode-toggle:checked) .site-name,
+      body:has(#dark-mode-toggle:checked) .site-name a {
+          color: #e0e0e0;
+      }
+
+      body:has(#dark-mode-toggle:checked) .site-description {
+          color: #aaa;
+      }
+
+      body:has(#dark-mode-toggle:checked) nav a {
+          color: #e0e0e0;
+      }
+
+      body:has(#dark-mode-toggle:checked) #main {
+          background: #1a1a1a;
+          color: #e0e0e0;
+      }
+
+      body:has(#dark-mode-toggle:checked) h1,
+      body:has(#dark-mode-toggle:checked) h2,
+      body:has(#dark-mode-toggle:checked) h3,
+      body:has(#dark-mode-toggle:checked) h4,
+      body:has(#dark-mode-toggle:checked) h5,
+      body:has(#dark-mode-toggle:checked) h6 {
+          color: #e0e0e0;
+      }
+
+      body:has(#dark-mode-toggle:checked) .post blockquote {
+          border-left-color: #666;
+          color: #aaa;
+      }
+
+      body:has(#dark-mode-toggle:checked) .posts > .post {
+          border-bottom-color: #444;
+      }
+
+      body:has(#dark-mode-toggle:checked) .wrapper-footer {
+          background-color: #2a2a2a;
+          border-top-color: #444;
+          border-bottom-color: #444;
+      }
+
+      body:has(#dark-mode-toggle:checked) table th {
+          background-color: #2a2a2a;
+          color: #e0e0e0;
+          border-bottom-color: #555;
+      }
+
+      body:has(#dark-mode-toggle:checked) table td {
+          border-bottom-color: #444;
+      }
+
+      body:has(#dark-mode-toggle:checked) table tr:nth-child(even) {
+          background-color: #252525;
+      }
+
+      body:has(#dark-mode-toggle:checked) table tr:nth-child(odd) {
+          background-color: #1a1a1a;
+      }
+
+      body:has(#dark-mode-toggle:checked) table tr:hover {
+          background-color: #333;
+      }
+
+      body:has(#dark-mode-toggle:checked) code,
+      body:has(#dark-mode-toggle:checked) pre {
+          background-color: #2a2a2a;
+          color: #e0e0e0;
+      }
+
+      body:has(#dark-mode-toggle:checked) a {
+          color: #6bb3ff;
+      }
+
+      body:has(#dark-mode-toggle:checked) .wrapper-footer a {
+          color: #6bb3ff;
+      }
   </style>
   </head>
 
   <body>
+    <input type="checkbox" id="dark-mode-toggle">
+    
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
@@ -47,6 +168,7 @@
           <nav>
             <a href="{{ site.baseurl }}/">Blog</a>
             <a href="{{ site.baseurl }}/about">About</a>
+            <label for="dark-mode-toggle" class="dark-mode-label"></label>
           </nav>
         </header>
       </div>
