@@ -20,7 +20,6 @@ $ xattr -w user.blake3 1234 src/blake3.rb  # works fine
 # Alternatively
 $ getfattr -d filename     # List extended attributes of a file or directory
 $ getfattr -d -h symlink   # List attributes without following symlinks
-
 {% endhighlight %}
 
 ### Lang support
