@@ -22,4 +22,4 @@ $ getfattr -d -h symlink   # List attributes without following symlinks
 {% endhighlight %}
 
 ### Lang support
-- Ruby - [ffi-xattr](https://github.com/jarib/ffi-xattr?tab=readme-ov-file#ffi-xattr) - unmaintained
+- **Ruby** - [ffi-xattr](https://github.com/jarib/ffi-xattr?tab=readme-ov-file#ffi-xattr) - unmaintained
