@@ -1,12 +1,13 @@
 ---
 published: true
 title: Hamming codes
-tags: hamming distance algorithm hash crc 3blue1brown random
+tags: hamming distance algorithm hash crc 3blue1brown random information
 ---
 ## [h■w to ov■rco■e n■ise](https://www.youtube.com/watch?v=X8jsijhllIA)
 > Hamming codes are a family of linear error-correcting codes. Hamming codes can detect up to two-bit errors or correct one-bit errors without detection of uncorrected errors. By contrast, the simple parity code cannot correct errors, and can detect only an odd number of bits in error. Hamming codes are perfect codes, that is, they achieve the highest possible rate for codes with their block length and minimum distance of three. - [wikipedia](https://en.wikipedia.org/wiki/Hamming_code)
 
 - [Rediscovering Hamming code](https://blog.digital-horror.com/rediscovering-hamming-code/) / [HN](https://news.ycombinator.com/item?id=26851708)
+- [	Essential Coding Theory [pdf] ]() / [HN](https://news.ycombinator.com/item?id=45065705) - collection of notes on information encoding and error correction
 
 [![caption](https://img.youtube.com/vi/X8jsijhllIA/0.jpg)](https://www.youtube.com/watch?v=X8jsijhllIA)
 

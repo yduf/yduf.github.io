@@ -28,6 +28,7 @@ see also
 
 ### fork
 - [yt-dlp](https://news.ycombinator.com/item?id=29592707) - remove  50kb/s limits
+	- [	Yt-dlp: External JavaScript runtime now required for full YouTube support](https://news.ycombinator.com/item?id=45898407)
 - [blackjack4494/youtube-dlc ](https://github.com/blackjack4494/youtube-dlc) / [reddit](https://www.reddit.com/r/DataHoarder/comments/ir8ic6/youtubedlc_an_active_fork_of_youtubedl/) / [HN]() 
 
 ### Others

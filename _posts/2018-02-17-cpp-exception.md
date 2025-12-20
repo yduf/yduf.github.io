@@ -1,9 +1,13 @@
 ---
 title: Exception vs Error Code
 published: true
-tags: c++ exception benchmarking
+tags: c++ exception benchmarking linker
 ---
 > [In an earlier blog post](http://nibblestew.blogspot.com/2016/12/comparing-executable-size-of-c.html) we found out that C++ exceptions produce smaller executables than corresponding code using error codes. The most common comment to it was that executable size is not that important, performance is what matters. Since we have the tooling, let's do perf measurements as well. - [Measuring execution performance of C++ exceptions vs error codes](https://nibblestew.blogspot.com/2017/01/measuring-execution-performance-of-c.html)
+
+see also
+- [Cutting C++ Exception Time by +90%? - Khalil Estell - CppCon 2025](https://www.youtube.com/watch?v=wNPfs8aQ4oo) - implemented as a linker addon
+
 
 measurements on an i5-6600K.
 

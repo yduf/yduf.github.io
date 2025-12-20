@@ -1,9 +1,12 @@
 ---
 published: true
 title: Stereograms
-tags: computer-vision fun math
+tags: computer-vision 3d image fun math
 ---
 > They were popular in the ‘90s under the brand “Magic Eye.” - [Adventures in Stereograms](https://ironicsans.substack.com/p/24-adventures-in-stereograms?s=r) / [r/MagicEye](https://www.reddit.com/r/MagicEye/) / [HN](https://news.ycombinator.com/item?id=30850659)
+
+see also
+- [The Math That Reveals What Millions Can't See](https://www.youtube.com/watch?v=LEewrwTjOhQ)
 
 There are still artists playing with stereograms, like [3Dimka](https://www.deviantart.com/3dimka/art/Running-Free-Poster-fragment-848133594), who uses techniques that emphasize the edges of the 3D object, making the most crisp and clear stereogram images I’ve ever seen:
 

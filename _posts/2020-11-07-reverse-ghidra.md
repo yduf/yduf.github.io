@@ -7,6 +7,8 @@ tags: reverse electronic debug vscode ghidra
 
 require Java > 17
 
+[![caption](https://blogs.blackberry.com/content/dam/blogs-blackberry-com/images/blogs/2019/07/080619-ghidra-cylance-lrg.jpg)](https://blogs.blackberry.com/en/2019/07/an-introduction-to-code-analysis-with-ghidra)
+
 ### Features
 - **Decompiler**: ASM to C generation
 
@@ -19,7 +21,6 @@ require Java > 17
 
 - [How we bypassed bytenode and decompiled Node.js bytecode in Ghidra](https://swarm.ptsecurity.com/how-we-bypassed-bytenode-and-decompiled-node-js-bytecode-in-ghidra/)
 
-[![caption](https://blogs.blackberry.com/content/dam/blogs-blackberry-com/images/blogs/2019/07/080619-ghidra-cylance-lrg.jpg)](https://blogs.blackberry.com/en/2019/07/an-introduction-to-code-analysis-with-ghidra)
 
 - [Install Ghidra On Kali Linux](https://executeatwill.com/2019/04/04/Install-Ghidra-on-Kali-Linux/)
 - [The Ghidra Book](https://nostarch.com/GhidraBook) / [HN](https://news.ycombinator.com/item?id=24879314)

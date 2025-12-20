@@ -41,3 +41,7 @@ Sometimes it is very important to iterate and process all entries in a map very 
 	- [ sparsehash](https://github.com/sparsehash/sparsehash) - several hash-map implementations, similar in
 API to SGI's hash_map class, but with different performance
 characteristics.
+
+## [BitCask](https://chatgpt.com/share/69109c58-bb28-800d-9bf0-42e06456daf5)
+
+- [	Filedb: Disk-based key-value store inspired by Bitcask](https://news.ycombinator.com/item?id=44273857)

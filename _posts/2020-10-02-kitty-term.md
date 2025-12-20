@@ -1,7 +1,7 @@
 ---
 published: true
 title: 'Kitty - a modern term '
-tags: cli gpu term image viewer quake zig
+tags: cli gpu retro CRT term image viewer quake zig
 ---
 > the fast, featureful, GPU based terminal emulator - [kitty](https://sw.kovidgoyal.net/kitty/#quickstart) / [HN](https://news.ycombinator.com/item?id=24643008)
 
@@ -24,6 +24,7 @@ kitty provides extremely powerful interfaces such as Control kitty from scripts 
 ### see also:
 - [ghostty](https://ghostty.org/) / [HN](https://news.ycombinator.com/item?id=45347117) - by the creator of Hashicorp
 	- [Talk: Introducing Ghostty and Some Useful Zig Patterns](https://mitchellh.com/writing/ghostty-and-useful-zig-patterns) - Why Zig? Why Not \<Language\> I don't care for this question and I don't care to answer it. I chose Zig, I like Zig, let's move on.
+	- [Can use shader](https://news.ycombinator.com/item?id=46039176) to achieve various effect like **retro-terminal**
 - [foot](https://github.com/DanteAlighierin/foot#-foot) - The fast, lightweight and minimalistic Wayland terminal emulator.
 - [alacritty ](https://github.com/alacritty/alacritty) - the fastest terminal emulator in existence.
 - [Terminal image viewer]({% post_url 2017-11-16-TerminalImageViewer %})

@@ -7,12 +7,14 @@ toc: true
 ---
 <!--more-->
 
-## [amazon](https://www.amazon.fr/gp/product/B08P9186JF/ref=ox_sc_act_title_2?smid=A1X6FK5RDHNB96&psc=1) - 2021 - 800€ 
+## [amazon](https://www.amazon.fr/gp/product/B08P9186JF) - 2021 - 800€ 
 
 - i7-10510U, 4 cores / 8 threads
-- 16Go
+- 16Go Ram / 512Go storage
 - NVIDIA MX350 / 3:2 display
 - 1.5kg
+
+[![lookslike](https://m.media-amazon.com/images/I/51vWyVXaCNS._AC_SY300_SX300_QL70_ML2_.jpg)](https://www.amazon.fr/gp/product/B08P9186JF)
 
 ### Disabling Touchscreen
 - [xinput way](https://unix.stackexchange.com/questions/127443/how-do-i-disable-the-touch-screen-on-my-laptop/129603#129603) - `xinput disable <id=13>`
@@ -79,7 +81,46 @@ Internet connection is recommanded for install (for thirdparty software).
 
 Partition / (100Go), /home (300Go)
 
-## Hardware info
+# Hardware info
+
+## [Disassembly and upgrade optionsis](https://laptopmedia.com/highlights/inside-huawei-matebook-d-14-2020-disassembly-and-upgrade-options/)
+
+As a typical ultrabook, the memory is soldered to the motherboard, and it comes in two variants – 8GB and 16GB. Thankfully, there is an M.2 NVMe slot for storage upgrades.
+
+- [Huawei MateBook 14s - disassembly and upgrade options](https://www.youtube.com/watch?v=zwfZ-mRTWpk&t=71s) / [Huawei MateBook D 14 (2020) ](https://www.youtube.com/watch?v=BsiJxz3gKio)
+	- memory soldered directly on the mother board
+	- SSD can be removed.
+    
+[![opened](https://laptopmedia.com/wp-content/uploads/2020/09/internals-8-1536x1047.jpg)](https://laptopmedia.com/highlights/inside-huawei-matebook-d-14-2020-disassembly-and-upgrade-options/)
+
+### SSD
+
+[MateBook 13/1413/14 (2019–2021)](https://www.aomeitech.com/clone-tips/huawei-matebook-ssd-upgrade-0044.html)
+- M.2 2280 NVMe/SATA
+	- Check BIOS for Gen3/Gen4 support
+
+{% highlight bash %}
+$ sudo lspci -vv -s $(lspci | grep -i nvme | awk '{print $1}') | grep -E 'LnkCap|LnkSta'
+		LnkCap:	Port #0, Speed 8GT/s, Width x4, ASPM L1, Exit Latency L1 <8us
+		LnkSta:	Speed 8GT/s, Width x4
+		LnkCap2: Supported Link Speeds: 2.5-8GT/s, Crosslink- Retimer- 2Retimers- DRS-
+		LnkSta2: Current De-emphasis Level: -6dB, EqualizationComplete+ EqualizationPhase1+
+{% endhighlight %}
+
+**What this means**
+- 8 GT/s = PCIe 3.0
+- x4 lane width
+
+The SSD and the motherboard/slot have both negotiated **PCIe 3.0 x4**, which is the maximum supported by the slot.
+
+You can safely use 2TB, 4TB, or even 8TB NVMe drives on your system.
+
+Your only limitation is speed:
+PCIe 3.0 x4 tops out at ~3.5 GB/s real-world.
+
+Faster PCIe 4.0 and 5.0 NVMe drives will still work but will be bottlenecked to PCIe 3.0 speeds.
+
+### Wifi
 
 - [wifi card is a Intel Wireless-AC 9560](https://www.notebookcheck.net/Huawei-MateBook-14-2020-laptop-review-3-2-clamshell-convinces-both-with-Intel-and-AMD-CPUs.508467.0.htmlwifi)
 	- [wifi issue]({% post_url 2022-01-08-wifi-9560 %})
@@ -119,7 +160,4 @@ Sensors:   System Temperatures: cpu: 35.0 C mobo: N/A gpu: nouveau temp: 34 C
            Fan Speeds (RPM): N/A 
 {% endhighlight %}
   
-# Hardware upgrade
-- [Huawei MateBook 14s - disassembly and upgrade options](https://www.youtube.com/watch?v=zwfZ-mRTWpk&t=71s) / [Huawei MateBook D 14 (2020) ](https://www.youtube.com/watch?v=BsiJxz3gKio)
-	- memory soldered directly on the mother board
-	- SSD can be removed.
+

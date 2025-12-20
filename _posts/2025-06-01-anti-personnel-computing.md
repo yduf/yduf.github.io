@@ -7,3 +7,5 @@ tags: devil hostile lua
 
 see also
 - [Using computers more freely and safely](https://akkartik.name/freewheeling/)
+- [	What we talk about when we talk about sideloading](https://news.ycombinator.com/item?id=45736479) - Google’s message that “Sideloading is Not Going Away” is clear, concise, and false
+- [	Your smartphone, their rules: App stores enable corporate-government censorship](https://news.ycombinator.com/item?id=45979297)

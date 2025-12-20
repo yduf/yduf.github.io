@@ -1,7 +1,7 @@
 ---
 title: Matrix Multiplication
 published: true
-tags: math avx intel matrix algebra
+tags: math algebra matrix avx
 ---
 > you can see mat mul a column (matrix) x scalar (from vector) - [3blueBrown](https://youtu.be/9-Jl0dxWQs8?si=C5rgn9DOmS4Pbymp&t=741)
 
@@ -19,3 +19,5 @@ see also
 see also
 - [Matrix Multiplication](http://matrixmultiplication.xyz/) - animated computation / [HN](https://news.ycombinator.com/item?id=13036386)
 - [ Hierarchical Tiling to speed up my Matrix Multiplication ](https://www.youtube.com/watch?v=KniNW8Xe4Us)
+- [	How to tile matrix multiplication (2023)](https://news.ycombinator.com/item?id=45457825)
+- [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/)

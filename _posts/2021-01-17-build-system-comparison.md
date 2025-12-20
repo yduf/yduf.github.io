@@ -9,6 +9,7 @@ and suggesting exploration of other (as yet unoccupied points) in the landscape.
 
 > The problem of handling the compilation of a project has been encountered well before you were born. That’s why there’s a single method to do it today, being a consensus since several decades... Ha! Ha! Just kidding! - [An overview](https://medium.com/@julienjorge/an-overview-of-build-systems-mostly-for-c-projects-ac9931494444) / [FR](https://linuxfr.org/users/julien_jorge/journaux/un-petit-tour-des-systemes-de-build)
 
+- [what is a build system, anyway?](https://jyn.dev/what-is-a-build-system-anyway/)
 - [Making build systems not suck!](https://lca2015.linux.org.au/slides/140/meson-lca2015.pdf)
 - [I'm Too Old for Broken Builds](https://xorvoid.com/broken_builds.html) - When I get inside a build script file, there's only one thing I really want to do: Leave It ASAP and get back to the real task at hand.
 - [The next generation of Bazel builds](https://blogsystem5.substack.com/p/bazel-next-generation) -  Bazel is really fast at running gigantic builds from scratch and it is really efficient when executing incremental builds. But the problem is that “truly incremental builds” are a rarity, so you end up paying the re-analysis cost many more times than is necessary.

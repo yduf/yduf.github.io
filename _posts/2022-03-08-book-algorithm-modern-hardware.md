@@ -22,3 +22,5 @@ Among the cool things that we will speed up:
 - optimal Karatsuba Algorithm
 - optimal FFT
 
+see also
+- [The Little Book of Algorithms](https://little-book-of.github.io/algorithms/) / [HN](https://news.ycombinator.com/item?id=45564600)

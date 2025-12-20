@@ -5,11 +5,19 @@ tags: phone android
 ---
 > [amazon](https://www.amazon.fr/dp/B0C7G2T6JH) / [spec](https://www.honor.com/my/phones/honor-90-lite/spec/) - 190€
 
-**Upgraded to MagicOS 8.0.0.158 / android 14 / 1er Juillet 2024**  
+**Upgraded to MagicOS 9.0.0.162 / android 14 / 25 Novembre 2025** 
+	- auto pushed  
+- Upgraded to MagicOS 8.0.0.158 / android 14 / 1er Juillet 2024
+
+### Hardware
 - 5G
 - 8Go / 256Go / arm8 (ARM64)
 - 4500mAh
 - nano sim
+
+### Watch
+- Application _Magie des Images_ want to have access to everything
+	- raison d'etre de la mise a jour du 25/11/2025 ?
 
 ### Applications
 - [Bien-être numérique](https://www.lesnumeriques.com/telecharger/bien-etre-numerique-31380) - google
@@ -22,4 +30,4 @@ tags: phone android
 Pour activer le deverouillage par schema:
 Parametres / Securité et confidentialité / Déverouillage de l'appareil
 - Verouillage de l'écran
-	- => Modifier le Mode de déverouillage <= / au lieu de resaisir un code 
+	- => Modifier le Mode de déverouillage <= / au lieu de resaisir un code

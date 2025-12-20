@@ -37,6 +37,7 @@ tags: rubik opencv robot lego
 
 ### 3Dprinted
 - [CUBOTino](https://www.instructables.com/CUBOTino-Autonomous-Small-3D-Printed-Rubiks-Cube-R/?utm_source=newsletter&utm_medium=email)
+- [I Built a Robot That Makes Rubik’s Cube Art](https://www.youtube.com/watch?v=S5ab46QH9M8) - not a solver, but a scrambler to make pixel art
 
 ### Commercial
 

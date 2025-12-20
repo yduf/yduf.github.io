@@ -8,7 +8,13 @@ use_math: true
 
 see also
 - Riemann Hypothesis $1^x + 2^x + 3^x + ...= 0 ?$
-
+- [Numberphile v. Math: the truth about 1+2+3+...=-1/12](https://www.youtube.com/watch?v=YuIIjLr6vUA)
+	- assert that infinite sum is only defined in correspondance with convergence
+    - then as intermediate sum $A$ and $B$ do not converge, then sum does not exists
+    - which is kind of redifining what is sum and when it exists.
+- [$1+2+3+4+...=-1/12$](https://chatgpt.com/share/69219749-0714-800d-8a33-c0a040dd4009) - is considered as _an analytic continuation value_, a method in complex analysis that lets you extend the domain of a function beyond where its original definition converges, while preserving its “shape” (analyticity). In this case:
+	- the original series diverges at those points
+    - but the extended (analytically continued) function assigns finite values there
 
 ### Demonstration
 $1+2+3+4+...=-1/12$

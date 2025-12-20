@@ -14,3 +14,14 @@ The creator of duckdb argues that people using pandas are missing out of the 50 
 - [	The DuckDB Local UI](https://duckdb.org/2025/03/12/duckdb-ui.html) / [HN](https://news.ycombinator.com/item?id=43342712) - the UI is not open source.
 - [Should You Ditch Spark for DuckDb or Polars?](https://milescole.dev/data-engineering/2024/12/12/Should-You-Ditch-Spark-DuckDB-Polars.html) / [HN](https://news.ycombinator.com/item?id=42419224)
 - [How does DuckDB compares to SQLite (chatGPT)](https://chatgpt.com/share/6784f6c5-2254-800d-a086-4e4157d36161)
+
+## DuckLake
+- [DuckLake](https://ducklake.select/) - advanced data lake features without traditional lakehouse complexity by using Parquet files and your SQL database. It's an open, standalone format from the DuckDB team
+- [ Understanding DuckLake: A Table Format with a Modern Architecture ](https://www.youtube.com/watch?v=hrTjvvwhHEQ) - a new table format for storing data on blobstore
+	- data are stored on a blob storage (parquet on S3)
+    - metadata are stored in RDB (Postgres)
+
+### see also
+- [Duck-UI – Browser-Based SQL IDE for DuckDB ](https://news.ycombinator.com/item?id=45633453)
+	- there is an embeded one in [duckdb](https://news.ycombinator.com/item?id=45633548)
+- [	A sharded DuckDB on 63 nodes runs 1T row aggregation challenge in 5 sec](https://news.ycombinator.com/item?id=45694122)

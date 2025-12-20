@@ -33,6 +33,9 @@ Also known as [PCG-461M](https://www.reddit.com/r/vaio/comments/zizudf/please_he
     
 ## Hardware customisation
 
+### Retro-Fitting?
+- [chatGPT](https://chatgpt.com/share/691070a8-bd2c-800d-ba4b-08b6ee7590c2)
+
 ### Keyboard
 - [Laptop's internal keyboard as an external one?](https://superuser.com/questions/184870/laptops-internal-keyboard-as-an-external-one) - In laptops, the keyboard controller circuitry is located on-motherboard, so the keyboard connects directly with a matrix cable. 
 	- [hackaday](https://hackaday.com/2018/12/04/teensy-liberates-the-thinkpad-keyboard/) - use a teensy microcontroler to replicate that funcstionnality

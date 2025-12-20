@@ -2,6 +2,7 @@
 published: true
 title: Unconditional code
 tags: bits float c++
+excerpt_separator: ''
 ---
 ## [Bit Twiddling Hacks](http://graphics.stanford.edu/~seander/bithacks.html#ParityMultiply)
 
@@ -17,3 +18,4 @@ tags: bits float c++
 
 see also
 - [Mel's Hack – The Missing Bits](https://melsloop.com/docs/the-story-of-mel/pages/mels-hack-the-missing-bits) - a finite loop with no exit condition.
+- [Unconditionally Readable C++](https://www.youtube.com/watch?v=OVhX0uhwCz0) - some advice how to write readable condition in c++

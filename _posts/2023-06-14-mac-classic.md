@@ -160,15 +160,17 @@ see also
 - [Macintosh Classic II Color Hackintosh](https://www.instructables.com/Macintosh-Classic-II-Color-Hackintosh/)
 - [New life on a 30-year-old Macintosh Classic II](https://www.youtube.com/watch?v=a5XxrUhoXqE&t=904s) - glue screen + mac mini. - screen bigger than aperture.
 - [Macintosh Plus mini Retrofit - Build Video!](https://www.youtube.com/watch?v=dpgFJmEe90I)
-	- use an avrylic fake CRT screen for filling the gap
+	- use an acrylic fake CRT screen for filling the gap
 
 ### New Hardware
 
 Hardware Total:        **535€**
 - motherboard/Cpu/ram:   388€
 	- [ryzen 7 5700G](https://www.amazon.fr/dp/B091J3NYVF)  165€ - garantie 3Y
+		- 8 Coeurs/16 Threads, 65W TDP
     - [64Go](https://www.amazon.fr/dp/B0C29W4G29)           107€
-    - miniITX            116€ - [Gigabyte A520I AC ITX](https://www.amazon.fr/dp/B08GM91HBQ)
+    - miniITX            116€ - [Gigabyte A520I AC ITX](https://www.amazon.fr/dp/B08GM91HBQ) / [**spec**](https://www.gigabyte.com/Motherboard/A520I-AC-rev-1x) / [manual](https://download.gigabyte.com/FileList/Manual/mb_manual_a520i-ac_1402_e.pdf?v=59849968edde4af54c38e4c0c1bf2ea6)
+		- 3x Hybrid Fan Pin Headers -  PWM or Voltage mode.
 - _better ventirad:        40€_ - not yet 
 	- [Thermalright AXP90-X47 Full copper](https://www.amazon.fr/Thermalright-Refroidisseur-processeur-ventilateur-90x90x15mm/dp/B09WDRKBRJ) - [comparison](https://www.tinytechtweaks.com/en/post/top-6-low-profile-cpu-air-coolers-for-ryzen-7800x3d-a-comparison) - best is a liquid cooler 67° - the second best is this one with 76°
 
@@ -264,6 +266,7 @@ Options are:
 [![caption](https://media.printables.com/media/prints/951b2b70-03b1-40e2-92db-2a66eed59d46/images/9860914_0f534fd3-0288-4ff0-8f10-3ff8a2a95ad1_8c7d49cb-ba03-4608-b8f1-ea1d86fbf437/thumbs/inside/1600x1200/jpg/img_20250525_143446.webp)](https://www.amazon.fr/gp/product/B08GM91HBQ)
 
 ## [Purpose ?](https://chatgpt.com/share/67fa94de-8158-800d-ba9a-e3204a09ec7d)
+- Can host a [local LLM](tags/#llm)
 - ~~could be a 2.5Gb switch~~
 - could host nginx
 - could be tied to the second available monitor

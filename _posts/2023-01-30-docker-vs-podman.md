@@ -28,6 +28,8 @@ Currently, the supported Kubernetes kinds are:
 
 ### Compose
 - [Moving from docker-compose to Podman pods](https://www.redhat.com/sysadmin/compose-podman-pods)
+- [podman compose](https://github.com/containers/podman-compose?tab=readme-ov-file#podman-compose) - An implementation of Compose Spec with Podman backend.
+	- for compatibility with docker compose script
 
 ### SystemD
 
