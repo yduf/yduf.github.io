@@ -195,7 +195,7 @@ image.write_to_file('x.jpg')
 {% endhighlight %}
 
 
-### [Ruby](https://github.com/libvips/ruby-vips)
+# [Ruby](https://github.com/libvips/ruby-vips) 💎
 
 Full bindings are available for 
 - [New API takes shape](http://libvips.blogspot.com/2011/03/new-api-takes-shape.html)
