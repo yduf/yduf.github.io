@@ -18,6 +18,9 @@ Using:
 ## [Cline](https://docs.cline.bot/introduction/welcome) / [github](https://github.com/cline/cline?tab=readme-ov-file#cline)
 
 - [Getting Started with Cline—The Best VS Code AI Plugin](https://www.youtube.com/watch?v=f33Fw6NiPpw)
+- [Local Models Overview](https://docs.cline.bot/running-models-locally/overview#recommended-models)
+	- [Recommended Models](https://docs.cline.bot/running-models-locally/overview#recommended-models)
+    	- Qwen3 Coder 30B is the most reliable model under 70B parameters for Cline
 
 Cline is an open source AI coding agent that brings frontier AI models directly to your IDE. Unlike autocomplete tools, Cline is a true coding agent that can understand entire codebases, plan complex changes, and execute multi-step tasks.
 
