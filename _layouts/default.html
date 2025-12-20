@@ -149,11 +149,29 @@
       body:has(#dark-mode-toggle:checked) .wrapper-footer a {
           color: #6bb3ff;
       }
-  </style>
+  </style>    
   </head>
 
   <body>
     <input type="checkbox" id="dark-mode-toggle">
+    
+
+    <script>
+      // Minimal dark mode persistence with localStorage
+      (function() {
+        const toggle = document.getElementById('dark-mode-toggle');
+        
+        // Restore saved preference on page load
+        if (localStorage.getItem('darkMode') === 'enabled') {
+          toggle.checked = true;
+        }
+        
+        // Save preference when toggled
+        toggle.addEventListener('change', function() {
+          localStorage.setItem('darkMode', this.checked ? 'enabled' : 'disabled');
+        });
+      })();
+    </script>
     
     <div class="wrapper-masthead">
       <div class="container">
