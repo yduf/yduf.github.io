@@ -8,13 +8,15 @@ tags: filesystem file ext4 zfs
 If you need to move files with xattr between filesystems (e.g., from ZFS to ext4), you may encounter compatibility issues. Use tools like tar or rsync with --xattrs to preserve attributes.
 
 ### Notes
-Custom attribute are of the form `user.tag` and the prefix `user` is not customizable, only the `tag` part, eg trying to set:
+Custom attribute are of the form `user.tag` and the prefix `user` is not customizable, only the `tag` part is, eg trying to set:
 
 {% highlight bash %}
 $ xattr -w blake3.h 1234 src/blake3.rb     # [Errno 95] Operation not supported
 
 $ xattr -w user.blake3 1234 src/blake3.rb  # works fine
+{% endhighlight %}
 
+{% highlight bash %}
 # Alternatively
 $ getfattr -d filename     # List extended attributes of a file or directory
 $ getfattr -d -h symlink   # List attributes without following symlinks
