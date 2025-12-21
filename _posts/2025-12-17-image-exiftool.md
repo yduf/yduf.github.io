@@ -35,3 +35,17 @@ $ exiftool \
 # shortcuts
 $ exiftool -Keywords="sunset, mountains, fog" image.jpg
 {% endhighlight %}
+
+# Ruby 💎
+
+{% highlight ruby %}
+require 'mini_exiftool'
+
+photo = MiniExiftool.new("image.jpg")
+
+photo.title       = "Sunset at the beach"
+photo.description = "Taken during summer vacation"
+photo.artist      = "Jane Doe"
+
+photo.save
+{% endhighlight %}
