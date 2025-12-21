@@ -37,6 +37,11 @@ $ exiftool \
 $ exiftool -Keywords="sunset, mountains, fog" image.jpg
 {% endhighlight %}
 
+# digikam
+
+These information are visible in 
+- Metadata Sidebar / exiftool panel
+
 # [Ruby 💎](https://chatgpt.com/share/6947f672-9c28-800d-b8bc-3495b8d2a870)
 
 {% highlight ruby %}
