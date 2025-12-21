@@ -37,7 +37,7 @@ $ exiftool \
 $ exiftool -Keywords="sunset, mountains, fog" image.jpg
 {% endhighlight %}
 
-# digikam
+# [digikam]({% post_url 2021-10-20-photo-digikam %})
 
 These information are visible in 
 - Metadata Sidebar / exiftool panel
