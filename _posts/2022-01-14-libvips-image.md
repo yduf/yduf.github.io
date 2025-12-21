@@ -2,13 +2,14 @@
 published: true
 title: libVIPS
 tags: image-lib color jpeg jxl ruby c++ opencv transform
+toc: true
 ---
 > a demand-driven, [horizontally threaded](https://github.com/libvips/libvips/wiki/Why-is-libvips-quick) image processing library. Compared to similar libraries, libvips runs quickly and uses little memory. - [**libVIPS**](https://www.libvips.org/) / [github](https://github.com/libvips/libvips) / [blog](http://libvips.blogspot.com/) / [wikipedia](https://en.wikipedia.org/wiki/VIPS_(software))
 
 - [Automatic computation reordering](http://libvips.blogspot.com/2017/01/automatic-computation-reordering.html)
 - support jpeg-xl since  [libvips 8.11](https://github.com/libvips/libvips/blob/master/ChangeLogS) - _but not as part as ubuntu release_
 
-### [Compiling](https://github.com/libvips/libvips/wiki/Build-for-Ubuntu)
+## [Compiling](https://github.com/libvips/libvips/wiki/Build-for-Ubuntu)
 
 {% highlight cpp %}
 sudo apt install build-essential ninja-build
@@ -55,7 +56,7 @@ see also
     
 - [Some newbie questions on how to do things with libvips](https://github.com/libvips/libvips/issues/1449)
 
-### [C++ API](https://www.libvips.org/API/current/cpp/)
+# [C++ API](https://www.libvips.org/API/current/cpp/)
 
 The libvips C++ API is a thin layer over the libvips GObject API. It adds automatic reference counting, exceptions, operator overloads, and automatic constant expansion.
 
@@ -177,7 +178,7 @@ VImage conv = in.colourspace(VIPS_INTERPRETATION_sRGB,
 
 ## [Internals](https://www.libvips.org/API/current/How-it-works.md.html)
 
-### [pyvips](https://github.com/libvips/pyvips)
+# [pyvips](https://github.com/libvips/pyvips)
 
 {% highlight python %}
 import pyvips
@@ -194,7 +195,7 @@ image.write_to_file('x.jpg')
 {% endhighlight %}
 
 
-### [Ruby](https://github.com/libvips/ruby-vips)
+# [Ruby](https://github.com/libvips/ruby-vips) 💎
 
 Full bindings are available for 
 - [New API takes shape](http://libvips.blogspot.com/2011/03/new-api-takes-shape.html)
@@ -203,7 +204,7 @@ Full bindings are available for
 	- [Are there any good examples of usage?](https://stackoverflow.com/questions/10709995/ruby-vips-image-processing-library-are-there-any-good-examples-of-usage/10710337#10710337)
 
 
-### [Iterate over pixel](https://github.com/libvips/libvips/issues/2260)
+# [Iterate over pixel](https://github.com/libvips/libvips/issues/2260)
 
 You can't really iterate over pixels in libvips, since images don't really exist. Everything is a delayed computation and pixels only exist on demand. You can either implement a new vips operation, or render the whole image to an area of memory and then treat it like any other array. Have a look at [vips_image_write_to_memory()](https://www.libvips.org/API/current/VipsImage.html#vips-image-write-to-memory).
 
