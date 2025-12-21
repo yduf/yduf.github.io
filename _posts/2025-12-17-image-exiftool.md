@@ -41,6 +41,7 @@ $ exiftool -Keywords="sunset, mountains, fog" image.jpg
 
 These information are visible in 
 - Metadata Sidebar / exiftool panel
+- [Caption may show different information](https://chatgpt.com/share/6947fb6b-2160-800d-9107-1c99f10e027c)
 
 # [Ruby 💎](https://chatgpt.com/share/6947f672-9c28-800d-b8bc-3495b8d2a870)
 
