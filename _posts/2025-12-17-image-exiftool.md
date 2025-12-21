@@ -48,5 +48,9 @@ photo.title       = "Sunset at the beach"
 photo.description = "Taken during summer vacation"
 photo.artist      = "Jane Doe"
 
+# Writing custom or uncommon tags
+photo["XMP:Rating"] = 5
+photo["IPTC:Keywords"] = ["travel", "sunset", "beach"]
+
 photo.save
 {% endhighlight %}
