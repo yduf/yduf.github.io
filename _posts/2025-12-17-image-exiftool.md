@@ -2,6 +2,7 @@
 title: exiftool
 published: true
 tags: image metadata jpeg ruby
+toc: true
 ---
 > [Home](https://exiftool.org/)
 
