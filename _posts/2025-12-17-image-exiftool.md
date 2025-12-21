@@ -37,7 +37,7 @@ $ exiftool \
 $ exiftool -Keywords="sunset, mountains, fog" image.jpg
 {% endhighlight %}
 
-# Ruby 💎
+# [Ruby 💎](https://chatgpt.com/share/6947f672-9c28-800d-b8bc-3495b8d2a870)
 
 {% highlight ruby %}
 require 'mini_exiftool'
