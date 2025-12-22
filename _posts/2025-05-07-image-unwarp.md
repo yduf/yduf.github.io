@@ -1,7 +1,7 @@
 ---
 title: "Deskewing / Dewarping & Stitching Images \U0001F4D0"
 published: true
-tags: image panorama book text warp skew
+tags: image panorama book text warp skew photogrammetry freecad
 toc: true
 ---
 >  scanned or photo taken from hand that do not have ideal perspective - [tools to fix them](https://safjan.com/tools-for-doc-deskewing-and-dewarping/#page-dewarp-11k-stars) / [Hugin](https://hugin.sourceforge.io/tutorials/index.shtml)
