@@ -4,7 +4,7 @@ title: Visual Pinball X (VPX)
 tags: pincab table games
 toc: true
 ---
-> This project was started by Randy Davis, open sourced in 2010 and continued by the Visual Pinball development team. - [github](https://github.com/vpinball/vpinball) / [wikipedia](https://en.wikipedia.org/wiki/Visual_Pinball) / [doc](https://github.com/vpinball/vpinball/tree/master/docs) / [r/virtualpinball/](https://www.reddit.com/r/virtualpinball/) / [discord](https://discord.com/channels/652274650524418078/1076655472846831667)
+> This project was started by Randy Davis, open sourced in 2010 and continued by the Visual Pinball development team. - [github](https://github.com/vpinball/vpinball?tab=readme-ov-file#visual-pinball) / [wikipedia](https://en.wikipedia.org/wiki/Visual_Pinball) / [doc](https://github.com/vpinball/vpinball/tree/master/docs) / [r/virtualpinball/](https://www.reddit.com/r/virtualpinball/) / [discord](https://discord.com/channels/652274650524418078/1076655472846831667)
 
 <link rel="shortcut icon" href="https://avatars.githubusercontent.com/u/20977447?s=48&v=4" type="image/x-icon" />
 
@@ -155,7 +155,7 @@ Un PupPack est un ensemble de médias et d'effets visuels qui sont intégrés da
 
 # [Tables](https://archive.org/download/Visual_Pinball_2020-06-20/Visual%20Pinball%20%5BVPXx%5D%20Original%20Tables/)
 
-see also [virtualpinballspreadsheet](https://virtualpinballspreadsheet.github.io/)
+see also [**virtualpinballspreadsheet**](https://virtualpinballspreadsheet.github.io/)
 
 - ★★★☆☆ [AC/DC](https://youtu.be/u1y8MQQZZEE?feature=shared&t=3993) / [2](https://youtu.be/FUEuoelOSK4?feature=shared&t=193)
 	- [AC/DC](https://vpuniverse.com/files/file/5489-acdc/)
