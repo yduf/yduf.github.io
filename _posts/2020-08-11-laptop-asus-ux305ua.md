@@ -19,7 +19,7 @@ toc: true
 - Core i7-6500U (2 cores / 4 threads) 
 - Integrated Intel HD 520
 - 8go
-- 512 GB M.2 _SATA only_ 80 mm SSD
+- 512 GB M.2 _SATA only_ 80 mm SSD (not nvme)
 - 1.3kg
 - Full HD IPS Display
 
