@@ -8,9 +8,11 @@ toc: true
 
 # [Correct Perspective](https://chatgpt.com/share/681c79f3-9dec-800d-b268-ac7b4160f260)
 
-## [Hugin](https://hugin.sourceforge.io/tutorials/index.shtml)
+## [Using Hugin](https://hugin.sourceforge.io/tutorials/index.shtml)
 
-### Using
+- drag image onto Hugin panorama
+- set HFOV to 50°
+- In the stitcher tab change the projection to **Rectilinear**
 
 **Stitcher Tab** refered in tutorials is [in fact accessible in _View Menu_](https://www.dpreview.com/forums/thread/4170386)
 
