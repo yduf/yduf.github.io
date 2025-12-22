@@ -5,7 +5,7 @@ tags: photo image freecad
 ---
 > [Dessiner un sketch à partir d'une photo](https://forum.freecadweb.org/viewtopic.php?t=69399)
 
-It is recommanded to straighten images before importing them into Freecad, since there, only resizing them is possible. Use [Hugin]({% post_url 2025-05-07-image-unwarp %}#hugin) sticher tool for that.
+> It is recommanded to straighten images before importing them into Freecad, since there, only resizing them is possible. **Use [Hugin]({% post_url 2025-05-07-image-unwarp %}#hugin) sticher tool for that.**
 
 - [Why has the Image Workbench been removed in FreeCAD 0.21 ?](https://www.youtube.com/watch?v=WhxDAgskcHA)
 	- now part of import
