@@ -18,3 +18,5 @@ I’d like to make two arguments in this post:
  
 ## Documentation is more than code comments
 The other fatal flaw of the “self-documenting code” mindset is that it is myopic. It takes a developer-only point of view, only seeing the value of documentation as allowing people to understand how code works. **Documentation is for every possible user.**
+
+[![comic](https://substackcdn.com/image/fetch/$s_!vbdA!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab682c57-84b7-4617-9c4f-2b2bdad0617d_650x891.jpeg)](https://newsletter.manager.dev/p/5-engineering-dogmas-its-time-to)
