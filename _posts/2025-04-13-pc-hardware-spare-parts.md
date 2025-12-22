@@ -1,7 +1,7 @@
 ---
 title: Spare parts
 published: true
-tags: pc-hardware
+tags: pc-hardware disk storage
 ---
 > Inventory here.
 
