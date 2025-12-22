@@ -3,13 +3,14 @@ published: true
 title: "ASUS ZenBook UX305UA (2016)  \U0001F4BB"
 tags: pc-hardware laptop
 excerpt_separator: <!--more-->
+toc: true
 ---
 <!--more-->
 [![caption](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.klikglodok.com%2Ftoko%2Fimg%2Fcms%2FASUS%2FAsus%2520LaptopNotebook%2Fharga-asus-zenbook-ux305ua-fc003t-notebook-core-i5-4gb-256gb-windows-10.jpg&f=1&nofb=1&ipt=42a41695bc255c27096a4ef06c11b50ed30cb5b7012fbe502a07ef345d4401e2&ipo=images)](https://www.ultrabookreview.com/10058-asus-zenbook-ux305ua-review/)
 
 ## [Bios](https://www.asus.com/us/Laptops/ASUS-ZenBook-UX305UA/HelpDesk_BIOS/) version 201 - 2016 / 1200€
 
-## Linux support
+# Linux support
 - [ASUS Zenbook UX305](https://wiki.archlinux.org/title/ASUS_Zenbook_UX305)
 - [DebuggingTouchpadDetection](https://wiki.ubuntu.com/DebuggingTouchpadDetection) / [touchpad](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1535085)
 - [Linux Suspend issue]({% post_url 2017-12-23-Asus-suspend %})
@@ -34,10 +35,30 @@ Number  Size    File system  Name                          Flags
  6      307GB   ext4         home
 {% endhighlight %}
 
-See also
-- [Suspend issue]({% post_url 2017-12-23-Asus-suspend%})
 
-## [Tear down](https://www.youtube.com/watch?v=vmeI6oikaIQ)
+## Suspend issue
+
+Solving Asus issue (going out of suspend restart computer)
+
+1. - shudtown linux properly: 
+This is very important and has to be done has part of the stabilisation process.
+2. - restart
+3. - login
+4. - press power => choose suspend
+5. - wait for suspend to happens
+6. - press power => should wake up
+
+---
+If it works:
+7. - close lid
+8. - wait suspend
+9. - open lid
+10. - should wake up
+
+see also
+- [DebuggingKernelSuspend ](https://wiki.ubuntu.com/DebuggingKernelSuspend)
+
+# [Tear down](https://www.youtube.com/watch?v=vmeI6oikaIQ)
 
 **Notes** 
 - There are 2 screw hidden behind the 2 foots close to the screen lead.
