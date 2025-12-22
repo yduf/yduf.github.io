@@ -14,6 +14,11 @@ toc: true
 - set HFOV to 50°
 - In the stitcher tab change the projection to **Rectilinear**
 - in the control point windows pick one end of a vertical or horizontal feature on the left image  and then other end on the right image.
+	- add some points
+- next go to the optimizer tab
+	- create panorama (this do the optimasation)
+    	- it save the project and the point
+        - create the image (choose jpg).
 
 **Stitcher Tab** refered in tutorials is [in fact accessible in _View Menu_](https://www.dpreview.com/forums/thread/4170386)
 
