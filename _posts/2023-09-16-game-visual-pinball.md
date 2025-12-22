@@ -1,6 +1,6 @@
 ---
 published: true
-title: Visual Pinball (VPinballX)
+title: Visual Pinball X (VPX)
 tags: pincab table games
 toc: true
 ---
