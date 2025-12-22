@@ -13,7 +13,7 @@ toc: true
 - [vpxtools](https://github.com/francisdb/vpxtool) - Cross-platform console based utility for the vpinball ecosystem
 - [pinball-parts](https://github.com/vbousquet/pinball-parts) - Blender Pinball Parts library
 
-### [Fixing & patching](https://github.com/vpinball/vpinball/tree/standalone/standalone#workarounds)
+## [Fixing & patching](https://github.com/vpinball/vpinball/tree/standalone/standalone#workarounds)
 
 DMD & vbs script may need fixing to run on standalone or multiscreen.
 
@@ -29,7 +29,7 @@ see also
 - [Embedding the DMD inside VPX](https://github.com/vbousquet/flexdmd/blob/master/docs/VPXDMD.md)
 - [Adding a DMD to latest tables from JPSalas](https://github.com/vbousquet/flexdmd/blob/master/docs/JPSalas.md)
 
-### [doc](https://github.com/vpinball/vpinball/tree/master/docs)
+## [doc](https://github.com/vpinball/vpinball/tree/master/docs)
 - [Visual Pinball Installation Guide ](https://www.vpforums.org/index.php?app=tutorials&article=1)
 - [Live Editor](https://github.com/vpinball/vpinball/blob/master/docs/LiveUI.md)
 - [View Setup](https://github.com/vpinball/vpinball/blob/master/docs/View%20Setup.md)	
@@ -45,13 +45,13 @@ Enter - pull & release trigger
 Esc - pause game & show menu  
 
 
-### see also
+## see also
 - [Visual Pinball X with BAM head tracking](https://www.youtube.com/watch?v=g-EpTp_3wKo)
 	- [ 3D Virtual Pinball with Kinect 2 head tracking+Future Pinball/Bam Test ](https://www.youtube.com/watch?v=64e7TQ5uj8g)
 	- [Original Kinect for head tracking?](https://www.reddit.com/r/virtualpinball/comments/gfxhiz/original_kinect_for_head_tracking/)
 
 
-## [Native linux](https://github.com/vpinball/vpinball/tree/standalone/standalone)
+# [Native linux](https://github.com/vpinball/vpinball/tree/standalone/standalone)
 
 [Standalone](https://github.com/vpinball/vpinball/blob/master/docs/Build%20Differences.md), is the player ported to other system. But it does not include the editor.
 Only the [Live Editor](#live-editor) is available (if you press esc).
@@ -61,7 +61,7 @@ see also
 - [VPinballX (Standalone) Code]({% post_url 2023-09-27-vpinballx-code %})
 - [Ghostbusters VPX emulation](https://www.patreon.com/posts/update-february-17686171)
 
-### [Configuration](https://forums.gameex.com/forums/topic/28932-guide-usingsetup-visual-pinball-108-with-different-settings/)
+## [Configuration](https://forums.gameex.com/forums/topic/28932-guide-usingsetup-visual-pinball-108-with-different-settings/)
 
 In previous versions all settings were set in the registry and using for example another system needs a launch script to change the value in the registry. Now all the settings are stored in an INI file.
 
@@ -84,7 +84,7 @@ WebServer = 1   ; enable webserver UI: default addr is 0.0.0.0:2112 - allow edit
 
 Can give access to ([demo](https://www.youtube.com/watch?v=KOo2rJOE_BI&t=272s))
 
-### [View Setup](https://github.com/vpinball/vpinball/blob/master/docs/View%20Setup.md#view-setup)
+## [View Setup](https://github.com/vpinball/vpinball/blob/master/docs/View%20Setup.md#view-setup)
 
 It allow to switch Camera Mode from Camera (perpective) to Window (dedicated to cabinet).
 Here the control are mean for cabinet adjustement and so use games key
@@ -92,7 +92,7 @@ Here the control are mean for cabinet adjustement and so use games key
 - lshift / rshift to change value
 - return to validate
 
-### [POV](https://www.vpforums.org/index.php?showtopic=47919)
+## [POV](https://www.vpforums.org/index.php?showtopic=47919)
 
 **POV files** go in the table folder and need to have same exact name as the associated table file
 
@@ -144,10 +144,10 @@ see also
 - MacOS, Linux, and Android builds support [ZeDMD](https://www.pincabpassion.net/t14796-zedmd-installation-english) displays.
 - [Visual Pinball X on Linux](https://davidhouchin.com/posts/vpx-linux/)
 
-### Physics
+## Physics
 - [slow the ball ?](https://www.reddit.com/r/virtualpinball/comments/zjie45/vpinballx_slow_the_ball_down_on_some_tables/)
 
-### [Pup Pack](https://chat.openai.com/c/a298701b-2209-4201-a4c8-9a0dd2881c1a)
+# [Pup Pack](https://chat.openai.com/c/a298701b-2209-4201-a4c8-9a0dd2881c1a)
 
 "PupPack" est un terme utilisé dans le monde du virtual pinball pour désigner un type de package spécifique pour les tables de vpinball, qui sont des simulations de flippers sur ordinateur. Le terme "PupPack" est dérivé de "PinUP Player Pack" ou "PUP Pack".
 
