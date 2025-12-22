@@ -19,7 +19,7 @@ toc: true
 - Core i7-6500U (2 cores / 4 threads) 
 - Integrated Intel HD 520
 - 8go
-- 512 GB M.2 _SATA only_ 80 mm SSD (not nvme)
+- 512 GB M.2 [_SATA only_](https://chatgpt.com/share/69493144-6250-800d-9573-038f3e39dc06) 80 mm SSD (not nvme)
 - 1.3kg
 - Full HD IPS Display
 
