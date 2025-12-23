@@ -14,6 +14,8 @@ Things to consider ⚠️
   
 It is advise to enable different config between the two system (missing application / different version)
 -  consider using a dotfile manager (like [chezmoi](https://www.chezmoi.io/) or yadm) to manage user-specific configs smartly.
+	- see also [Volatile Dotfiles over SSH](https://news.ycombinator.com/item?id=46344381)
+    	- or [altenatives](https://github.com/yarlson/lnk?tab=readme-ov-file#alternatives)
 
 see also
 - [Is it possible to store user's home directories remotely?](https://askubuntu.com/questions/553981/is-it-possible-to-store-users-home-directories-remotely)
