@@ -103,6 +103,8 @@ The picture below was one of few heads on the market. And it was really bad caus
 
 Prefer blowing directly on the base.
 
+[![printable model](https://media.printables.com/media/prints/182012/images/1699944_3ec170e7-7740-4cf8-98f1-ae3b54a012fd/thumbs/inside/1600x1200/jpg/large_display_2019-11-14_22_04_15-window_182012.webp)](https://www.printables.com/model/182012-k40-laser-cutter-air-assist-nozzle-for-6mm-hose)
+
 ## see also
 - [Everything You Need to Know About the K40 Chinese Laser Cutter](https://www.youtube.com/watch?v=09NCmW545GQ)
 - [K40 Laser control panel best upgrade under $10.](https://www.youtube.com/watch?v=D1-0TR8-br0)
