@@ -187,6 +187,8 @@ Make sure that the outlet of the water cooling tube (the circled bit) is pointin
 
 [![schema](https://laser-crafting.com/wp-content/uploads/2024/06/Fokus_Materialmitte2.png)](https://forum.makerforums.info/t/k40-big-ghosting-issue/82588/5)
 
+### [Cleaning](https://help.omtech.com/en/k40-series/maintenance/maintenance-and-cleaning)
+
 ### [K40 Big Ghosting issue](https://forum.makerforums.info/t/k40-big-ghosting-issue/82588) 🛠️
 
 Maybe
