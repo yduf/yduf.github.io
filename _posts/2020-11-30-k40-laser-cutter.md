@@ -176,6 +176,14 @@ Make sure that the outlet of the water cooling tube (the circled bit) is pointin
 
 [![schema](https://laser-crafting.com/wp-content/uploads/2024/06/Fokus_Materialmitte2.png)](https://laser-crafting.com/en/adjusting-laser-focus-3-simple-methods/#expert-tip-for-cutting-thick-materials)
 
+### [K40 Big Ghosting issue](https://forum.makerforums.info/t/k40-big-ghosting-issue/82588) 🛠️
+
+Maybe
+- a combination of mirror missalignment
+- bent brackets
+- lack of QC
+
+
 ## Grid Adjust
 
 - [Laser K40 de CrazyChop... De mieux en mieux !](https://www.youtube.com/watch?v=PXovi8xZpZU)
