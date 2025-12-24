@@ -249,3 +249,4 @@ Parameters(a,b) vs Arguments(4,5)
 - [babeljs](https://babeljs.io) - translate new version of javascript syntax to legacy version
 - [codepen.io](https://codepen.io)
 - [JS Fiddler]({% post_url 2019-01-02-js-fiddler %})
+- [	Fabrice Bellard Releases MicroQuickJS](https://news.ycombinator.com/item?id=46367224) -  a JavaScript engine targetted at embedded systems. It compiles and runs JavaScript programs using as little as 10 kB of RAM. The whole engine requires about 100 kB of ROM (ARM Thumb-2 code) including the C library. The speed is comparable to QuickJS.
