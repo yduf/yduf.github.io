@@ -191,6 +191,7 @@ Make sure that the outlet of the water cooling tube (the circled bit) is pointin
 
 Maybe
 - a combination of mirror missalignment
+- make sure mirror are clean
 - bent brackets
 - lack of QC
 
