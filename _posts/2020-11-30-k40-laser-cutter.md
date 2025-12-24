@@ -167,7 +167,7 @@ Make sure that the outlet of the water cooling tube (the circled bit) is pointin
 - [Cooling Liquid in a K40 Laser / What i use](https://www.youtube.com/watch?v=ookvTMhISDU)
 	- adding raditor coolant (Glycol 20%) ?
     
-### Thermal Sensor
+## Thermal Sensor
 
 - [Connecting the temperature sensor to the M3 nano board?](https://forum.makerforums.info/t/connecting-the-temperature-sensor-to-the-m3-nano-board/89022)
 	- The two button cells in the thermometer module which came with my K40 are in parallel. It turns on with just one cell. So, it’s 1.5V.
