@@ -93,8 +93,17 @@ Only jumper cable you should have is the one between P+ and gnd, if you dont hav
 
 [![new panel](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFKrQ_Be0ai73mCwh3Xvz4xVE36pA8jTMV_Lmn-I0TCRJAf8jdOJt4uXxZDc_PE130VtKHTmNF2dEo_6dlcYuh000HqSLzxEybPl3HNdPwWS8AmQqrLWfl1Y3y_agxnl1sLTdfCEaYY5-5/s1600/Pic+7.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFKrQ_Be0ai73mCwh3Xvz4xVE36pA8jTMV_Lmn-I0TCRJAf8jdOJt4uXxZDc_PE130VtKHTmNF2dEo_6dlcYuh000HqSLzxEybPl3HNdPwWS8AmQqrLWfl1Y3y_agxnl1sLTdfCEaYY5-5/s1600/Pic+7.JPG)
 
+## Air assist 🌬️💨
 
-see also
+### [Usual misconception about air assist](https://k40.se/k40-laser-air-smoke-assist/air-assist/)
+
+The picture below was one of few heads on the market. And it was really bad causing the head acting like a vacuum cleaner, pushing air out in the bottom and sucking smoke in at the top creating optic damages and a lot of cleaning.
+
+[![bad model](https://k40.se/wp-content/uploads/2017/01/k40nozzle-300x300-1.png)](https://k40.se/k40-laser-air-smoke-assist/air-assist/)
+
+Prefer blowing directly on the base.
+
+## see also
 - [Everything You Need to Know About the K40 Chinese Laser Cutter](https://www.youtube.com/watch?v=09NCmW545GQ)
 - [K40 Laser control panel best upgrade under $10.](https://www.youtube.com/watch?v=D1-0TR8-br0)
 - [2019 K40 laser upgrades, Manual Z axis build.](https://www.youtube.com/watch?v=bpImYOqbZK4)
@@ -184,16 +193,6 @@ Maybe
 - lack of QC
 
 [![beam alignment](https://forum.makerforums.info/uploads/default/optimized/3X/2/4/24a0b34b43e67d99caa45d927721e161da9b2c2c_2_1035x582.jpeg)](https://forum.makerforums.info/t/k40-big-ghosting-issue/82588/5)
-
-## Air assist 🌬️💨
-
-### [Usual misconception about air assist](https://k40.se/k40-laser-air-smoke-assist/air-assist/)
-
-The picture below was one of few heads on the market. And it was really bad causing the head acting like a vacuum cleaner, pushing air out in the bottom and sucking smoke in at the top creating optic damages and a lot of cleaning.
-
-[![bad model](https://k40.se/wp-content/uploads/2017/01/k40nozzle-300x300-1.png)](https://k40.se/k40-laser-air-smoke-assist/air-assist/)
-
-Prefer blowing directly on the base.
 
 
 ## Grid Adjust
