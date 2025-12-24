@@ -185,6 +185,14 @@ Maybe
 
 [![beam alignment](https://forum.makerforums.info/uploads/default/optimized/3X/2/4/24a0b34b43e67d99caa45d927721e161da9b2c2c_2_1035x582.jpeg)](https://forum.makerforums.info/t/k40-big-ghosting-issue/82588/5)
 
+## Air assist 🌬️💨
+
+### [Usual misconception about air assist](https://k40.se/k40-laser-air-smoke-assist/air-assist/)
+
+The picture below was one of few heads on the market. And it was really bad causing the head acting like a vacuum cleaner, pushing air out in the bottom and sucking smoke in at the top creating optic damages and a lot of cleaning.
+
+[![bad model](https://k40.se/wp-content/uploads/2017/01/k40nozzle-300x300-1.png)](https://k40.se/k40-laser-air-smoke-assist/air-assist/)
+
 ## Grid Adjust
 
 - [Laser K40 de CrazyChop... De mieux en mieux !](https://www.youtube.com/watch?v=PXovi8xZpZU)
