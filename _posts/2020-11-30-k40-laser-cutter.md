@@ -104,7 +104,7 @@ see also
 
 
 
-## Cooling
+# Cooling 💦
 
 <div style="
   border-left: 5px solid #e53935;
@@ -164,17 +164,17 @@ Make sure that the outlet of the water cooling tube (the circled bit) is pointin
 	- The two button cells in the thermometer module which came with my K40 are in parallel. It turns on with just one cell. So, it’s 1.5V.
     - Anyhow, some quick googling suggests an LR44 cell has a capacity of 150 mAh. So, 300 mAh for two of them. One AAA cell got 1200 mAh (4x) and an AA cell about twice as much (8x). Either one would last for something like 8+ years.
     
-## Tube
+# Tube 🔴
 
 - [Durée de vie typique et facteurs d'influence des tubes laser CO2](https://www.accteklaser.com/fr/duree-de-vie-typique-et-facteurs-dinfluence-des-tubes-laser-co2/)
 - [Identifying a Defective CO2 Laser Tube by Plasma Color](https://laser-crafting.com/en/defective-co2-laser-tube-how-to-recognize-when-you-need-a-new-laser-tube/) - CO2 laser tubes contain a gas mixture that depletes over time. When the tube is active, you’ll see a purple plasma beam inside. The stronger the color, the more powerful the tube. If the plasma shifts to a pale pink or even white, it’s a clear sign of a defective laser tube.
 
 [![tube](https://www.accteklaser.com/wp-content/uploads/elementor/thumbs/Typical-service-life-and-influencing-factors-of-CO2-laser-tubes-qhqvfz78vtaw576m1t1zkmzmqe9aq9jviu6elxfkn4.jpg)](https://www.accteklaser.com/fr/duree-de-vie-typique-et-facteurs-dinfluence-des-tubes-laser-co2/)
 
-## Focus
+## Focus 🔍
 - [Adjusting Laser Focus – 3 Simple Methods](https://laser-crafting.com/en/adjusting-laser-focus-3-simple-methods/)
 
-[![schema](https://laser-crafting.com/wp-content/uploads/2024/06/Fokus_Materialmitte2.png)](https://laser-crafting.com/en/adjusting-laser-focus-3-simple-methods/#expert-tip-for-cutting-thick-materials)
+[![schema](https://laser-crafting.com/wp-content/uploads/2024/06/Fokus_Materialmitte2.png)](https://forum.makerforums.info/t/k40-big-ghosting-issue/82588/5)
 
 ### [K40 Big Ghosting issue](https://forum.makerforums.info/t/k40-big-ghosting-issue/82588) 🛠️
 
@@ -183,6 +183,7 @@ Maybe
 - bent brackets
 - lack of QC
 
+[![beam alignment](https://forum.makerforums.info/uploads/default/optimized/3X/2/4/24a0b34b43e67d99caa45d927721e161da9b2c2c_2_1035x582.jpeg)](https://forum.makerforums.info/t/k40-big-ghosting-issue/82588/5)
 
 ## Grid Adjust
 
