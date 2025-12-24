@@ -193,6 +193,8 @@ The picture below was one of few heads on the market. And it was really bad caus
 
 [![bad model](https://k40.se/wp-content/uploads/2017/01/k40nozzle-300x300-1.png)](https://k40.se/k40-laser-air-smoke-assist/air-assist/)
 
+Prefer blowing directly on the base.
+
 ## Grid Adjust
 
 - [Laser K40 de CrazyChop... De mieux en mieux !](https://www.youtube.com/watch?v=PXovi8xZpZU)
