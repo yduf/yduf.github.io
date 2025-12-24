@@ -195,6 +195,7 @@ The picture below was one of few heads on the market. And it was really bad caus
 
 Prefer blowing directly on the base.
 
+
 ## Grid Adjust
 
 - [Laser K40 de CrazyChop... De mieux en mieux !](https://www.youtube.com/watch?v=PXovi8xZpZU)
