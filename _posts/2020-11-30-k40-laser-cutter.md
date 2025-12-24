@@ -189,7 +189,10 @@ Make sure that the outlet of the water cooling tube (the circled bit) is pointin
 
 ### [Cleaning](https://help.omtech.com/en/k40-series/maintenance/maintenance-and-cleaning)
 
-### [Mirror Replacement](https://www.youtube.com/watch?v=mIn262PcTH4)
+### Mirror Replacement 
+
+- [3 mirrors](https://www.youtube.com/watch?v=Jjaz7E1Xy5c)
+- [Main Mirror Replacement](https://www.youtube.com/watch?v=mIn262PcTH4)
 
 ### [K40 Big Ghosting issue](https://forum.makerforums.info/t/k40-big-ghosting-issue/82588) 🛠️
 
