@@ -237,6 +237,22 @@ Fortunately the controller can turn the laser on and off very fast indeed. In fa
 
 A replacement for both the software supplied with the K40 and the K40 Whisperer software. It is designed specifically to drive the popular K40 class of (chinese built) laser machines which have an Lhymicro controller board. In the meantime Meerk40 is able to drive other controller boards (e.g. Gerbil based boards, Fibre Lasers and others), and aspires to support even more in the future. - [wiki](https://github.com/meerk40t/meerk40t/wiki)
 
+### [USB setup](https://chatgpt.com/share/694ac2ed-b464-800d-b29d-c4af3a7a1729)
+
+{% highlight bash %}
+$ lsusb
+$ sudo nano /etc/udev/rules.d/99-k40.rules
+SUBSYSTEM=="usb", ATTRS{idVendor}=="1a86", MODE="0666"
+SUBSYSTEM=="usb", ATTRS{idVendor}=="10c4", MODE="0666"
+
+#
+$ sudo udevadm control --reload-rules
+$ sudo udevadm trigger
+# Unplug and re-plug the USB cable
+
+
+{% endhighlight %}
+
 ### Issue
 - [second job get stuck fix](https://chatgpt.com/share/692b27b3-93a8-800d-8300-40d79d9ed53e)
 
