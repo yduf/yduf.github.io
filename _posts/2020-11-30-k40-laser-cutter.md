@@ -249,8 +249,6 @@ SUBSYSTEM=="usb", ATTRS{idVendor}=="10c4", MODE="0666"
 $ sudo udevadm control --reload-rules
 $ sudo udevadm trigger
 # Unplug and re-plug the USB cable
-
-
 {% endhighlight %}
 
 ### Issue
