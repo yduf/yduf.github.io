@@ -197,7 +197,7 @@ Make sure that the outlet of the water cooling tube (the circled bit) is pointin
 ### [K40 Big Ghosting issue](https://forum.makerforums.info/t/k40-big-ghosting-issue/82588) 🛠️
 
 Maybe
-- a combination of mirror missalignment
+- [a combination of mirror missalignment](https://www.cnczone.com/forums/laser-engraving-cutting-machine-general-topics/311370-another-k40-newbie-needs-helps-beam-focus.html)
 - make sure mirror are clean
 - bent brackets
 - lack of QC
