@@ -9,7 +9,7 @@ Being surprised that animals so different than us possibly dream is just another
 	Spiders Seem to Have REM-Like Sleep and May Even Dream](https://news.ycombinator.com/item?id=32396061)
     
 - [The Soliloquies of the Lambs: Review of Why Animals Talk](https://news.ycombinator.com/item?id=39324040)
-- [Flying Squirrel plays dead. Fakes crime scene.](https://www.youtube.com/watch?v=f75Vet_sJNo) - Squirrel put a broomstick down and then fake the action to make it look like the broomstick killed him. Looking around to see if owner notice him.
+- [Flying Squirrel plays dead. Fakes crime scene.](https://www.youtube.com/watch?v=f75Vet_sJNo) - Squirrel put a broomstick down and then fake the action to make it look like the broomstick killed him. Looking around to see if owner notice him. (filmed before AI)
 - [	Wild elephants may have names that other elephants use to call them](https://news.ycombinator.com/item?id=40640076)
 - [Fish "Drive" To His Mom To Get Treats](https://www.youtube.com/watch?v=SgXlN0x--u8) - aquarium controlled by fish to go to place where he will be rewarded. - and definitely have more than 3s memory
 - [Craw playing tic-tac-toe](https://youtube.com/shorts/3K2vFmCkO6o?si=kLAL_m6aXxudesza)
