@@ -30,6 +30,7 @@ A 3020 model
 	- Firmware ver 2019.01.12
     - Model 6C6879-LASER-M2:9
 - point laser
+- lentille 12mm Ø
 
 [![the beast](https://m.media-amazon.com/images/I/51U5dvHWGCL._AC_UL480_QL65_.jpg)](https://www.amazon.fr/am%C3%A9lior%C3%A9-graveur-affichage-num%C3%A9rique-imprimante/dp/B0FD9FDWS8)
 
