@@ -18,7 +18,7 @@ toc: true
 ## [Spec](https://www.ultrabookreview.com/10058-asus-zenbook-ux305ua-review/)
 - Core i7-6500U (2 cores / 4 threads) 
 - Integrated Intel HD 520
-- 8go
+- [8go soldered](https://chatgpt.com/share/6952550a-d4ac-800d-90e4-319bb743026f) - no upgrade possible
 - 512 GB M.2 [_SATA only_](https://chatgpt.com/share/69493144-6250-800d-9573-038f3e39dc06) 80 mm SSD (not nvme)
 - 1.3kg
 - Full HD IPS Display
