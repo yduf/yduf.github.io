@@ -19,3 +19,7 @@ tags: health
         - Bentyl / Scopolamine
     - safe alternative against allergies
     	- Zyrtec / Claritin / Allergra
+
+## [Kidney Disease](https://www.youtube.com/watch?v=Gu_0u4HQOBw)
+- half nail symptom
+
