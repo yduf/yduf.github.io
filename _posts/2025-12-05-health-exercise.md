@@ -22,4 +22,6 @@ tags: health
 
 ## [Kidney Disease](https://www.youtube.com/watch?v=Gu_0u4HQOBw)
 - half nail symptom
+- dry skin
+- cystatin C to catch problem earlier
 
