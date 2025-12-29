@@ -216,6 +216,9 @@ Maybe
 
 - [Laser K40 enfin couper droit....](https://www.youtube.com/watch?v=EeDF-mxMi6o)
 
+## Rotary Axis
+- [Rotary Axis For K40 Laser Engraver](https://www.youtube.com/watch?v=-BDObUnKLiY)
+
 # [Software](https://chatgpt.com/share/6905f46e-1180-800d-b3db-15984d8be03b)
 
 <div style="
