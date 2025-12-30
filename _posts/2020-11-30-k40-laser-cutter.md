@@ -185,10 +185,14 @@ Make sure that the outlet of the water cooling tube (the circled bit) is pointin
 
 ## Focus 🔍
 - [Adjusting Laser Focus – 3 Simple Methods](https://laser-crafting.com/en/adjusting-laser-focus-3-simple-methods/)
+- [Upgrading omtech 60W tube to 100W](https://www.youtube.com/watch?v=arrfoOsuL5E)
+	- laser led to help alignment
+    - measure laser power
 
 [![schema](https://laser-crafting.com/wp-content/uploads/2024/06/Fokus_Materialmitte2.png)](https://forum.makerforums.info/t/k40-big-ghosting-issue/82588/5)
 
 ### [Cleaning](https://help.omtech.com/en/k40-series/maintenance/maintenance-and-cleaning)
+
 
 ### Mirror Replacement 
 
