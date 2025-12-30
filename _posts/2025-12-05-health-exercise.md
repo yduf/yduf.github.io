@@ -25,3 +25,4 @@ tags: health
 - dry skin
 - cystatin C to catch problem earlier
 
+## [Glycine & Glynac](https://www.youtube.com/watch?v=mj2v0mXUPf4)
