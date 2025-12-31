@@ -185,9 +185,6 @@ Make sure that the outlet of the water cooling tube (the circled bit) is pointin
 
 ## Focus 🔍
 
-Using tape is a good solution => but don't burn it on mirror, the fume from the glue
-are messing the mirror below. Glue it aside, cf [K40 beam alignment target](https://www.printables.com/model/1535554-k40-beam-alignment-target)
-
 - [Adjusting Laser Focus – 3 Simple Methods](https://laser-crafting.com/en/adjusting-laser-focus-3-simple-methods/)
 - [Upgrading omtech 60W tube to 100W](https://www.youtube.com/watch?v=arrfoOsuL5E)
 	- laser led to help alignment
@@ -198,10 +195,15 @@ are messing the mirror below. Glue it aside, cf [K40 beam alignment target](http
 ### [Cleaning](https://help.omtech.com/en/k40-series/maintenance/maintenance-and-cleaning)
 
 
-### Mirror Replacement 
+### Mirror Alignment 
+
+Using tape is a good solution => but don't burn it on mirror, the fume from the glue
+are messing the mirror below. Glue it aside, cf [K40 beam alignment target](https://www.printables.com/model/1535554-k40-beam-alignment-target)
 
 - [3 mirrors](https://www.youtube.com/watch?v=Jjaz7E1Xy5c)
 - [Main Mirror Replacement](https://www.youtube.com/watch?v=mIn262PcTH4)
+
+
 
 ### [K40 Big Ghosting issue](https://forum.makerforums.info/t/k40-big-ghosting-issue/82588) 🛠️
 
