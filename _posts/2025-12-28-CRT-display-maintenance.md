@@ -12,5 +12,5 @@ tags: arcade CRT display repair
 
 - [All You Need To Know About CRT TV To Fix Stuff](https://www.youtube.com/watch?v=aWVE3z1ZRtg)
 - [Philips CM8833-II CRT Monitor Power Switch Repair and Recapping](https://www.youtube.com/watch?v=LgtNkfX4Rss&list=PLV7mKfRAoVtW5N4hq4puHdBpFp44-vuXU)
-- [How to fully check a Sony PVM M Series - PSU Voltage, CRT Beam, Service Menu & Must Change Caps!](https://www.youtube.com/watch?v=aDixS6pTZkk)
+- [How to fully check a Sony PVM M Series - PSU Voltage, CRT Beam, Service Menu & Must Change Caps! (Retro Tech)](https://www.youtube.com/watch?v=aDixS6pTZkk)
 - [how to repair a tv picture problem? (sinhala )](https://www.youtube.com/watch?v=ZjrBiNgrPV4&list=PLhpo1HyCA5pmq7uNbc2t7plyMJWAfca07)
