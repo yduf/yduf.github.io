@@ -184,6 +184,10 @@ Make sure that the outlet of the water cooling tube (the circled bit) is pointin
 [![tube](https://www.accteklaser.com/wp-content/uploads/elementor/thumbs/Typical-service-life-and-influencing-factors-of-CO2-laser-tubes-qhqvfz78vtaw576m1t1zkmzmqe9aq9jviu6elxfkn4.jpg)](https://www.accteklaser.com/fr/duree-de-vie-typique-et-facteurs-dinfluence-des-tubes-laser-co2/)
 
 ## Focus 🔍
+
+Using tape is a good solution => but don't burn it on mirror, the fume from the glue
+are messing the mirror below. Glue it aside, cf [K40 beam alignment target](https://www.printables.com/model/1535554-k40-beam-alignment-target)
+
 - [Adjusting Laser Focus – 3 Simple Methods](https://laser-crafting.com/en/adjusting-laser-focus-3-simple-methods/)
 - [Upgrading omtech 60W tube to 100W](https://www.youtube.com/watch?v=arrfoOsuL5E)
 	- laser led to help alignment
