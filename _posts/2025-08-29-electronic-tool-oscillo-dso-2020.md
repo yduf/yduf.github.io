@@ -3,7 +3,11 @@ title: Oscilloscope
 published: true
 tags: electronic hardware
 ---
-> How to ACTUALLY Use an Oscilloscope (Beginner-Friendly Guide!) - [youtube](https://www.youtube.com/watch?v=LaY47Qrfs0c) / [Voltcraft DSO-2020 USB](https://www.manua.ls/voltcraft/dso-2020-usb/manual?p=1)
+> How to ACTUALLY Use an Oscilloscope (Beginner-Friendly Guide!) - [youtube](https://www.youtube.com/watch?v=LaY47Qrfs0c)
+
+## [Voltcraft DSO-2020 USB](https://www.manua.ls/voltcraft/dso-2020-usb/manual?p=1)
+20 MHz / 2 canaux / 48 Méch/s 1 Mpts 8 bits mémoire numérique (DSO)
+
 
 - [**OpenHantek6022**](https://github.com/OpenHantek/OpenHantek6022?tab=readme-ov-file#openhantek6022) is a more advanced, actively maintained branch specifically optimized for the Hantek 6022BE/BL (and similar), with advanced features, open firmware, and recent updates.
 	- supported device: Hantek 6022BE and 6022BL as well as compatible scopes (e.g. Voltcraft DSO-2020).
