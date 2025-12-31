@@ -185,6 +185,11 @@ Make sure that the outlet of the water cooling tube (the circled bit) is pointin
 
 ## Focus 🔍
 
+- [Find Laser Focal Length Under 2 Minutes](https://www.youtube.com/watch?v=RYdSKkS75uE)
+	- focal 2"   /  50.8mm - for engrafing
+    - focal 2.5" /  64.5mm - cutting up to 12mm thickness
+    - focal 4"   / 101.6mm - cutting up to 25mm thickness
+
 - [Adjusting Laser Focus – 3 Simple Methods](https://laser-crafting.com/en/adjusting-laser-focus-3-simple-methods/)
 - [Upgrading omtech 60W tube to 100W](https://www.youtube.com/watch?v=arrfoOsuL5E)
 	- laser led to help alignment
