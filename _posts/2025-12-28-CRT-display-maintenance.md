@@ -1,7 +1,7 @@
 ---
 title: Repair CRT display
 published: true
-tags: arcade CRT display repair
+tags: retro arcade CRT display repair
 ---
 > [image issue](https://chatgpt.com/share/695170a8-daf4-800d-9c9c-e2993c99a914)
 
