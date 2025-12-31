@@ -5,6 +5,8 @@ tags: electronic hardware
 ---
 > How to ACTUALLY Use an Oscilloscope (Beginner-Friendly Guide!) - [youtube](https://www.youtube.com/watch?v=LaY47Qrfs0c)
 
+- [**Oscilloscope Safety Tips (Grounding, short circuits, AC danger)**](https://www.youtube.com/watch?v=LaY47Qrfs0c&t=579s)
+
 ## [Voltcraft DSO-2020 USB](https://www.manua.ls/voltcraft/dso-2020-usb/manual?p=1)
 20 MHz / 2 canaux / 48 Méch/s 1 Mpts 8 bits mémoire numérique (DSO)
 
