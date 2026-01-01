@@ -208,7 +208,6 @@ are messing the mirror below. Glue it aside, cf [K40 beam alignment target](http
 <div style="
   border-left: 4px solid #3498db; /* blue */
   background: #eef7ff;
-            
   padding: 1rem;
   margin: 1rem 0;
   border-radius: 6px;
