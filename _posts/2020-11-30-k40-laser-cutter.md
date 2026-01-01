@@ -205,6 +205,8 @@ Make sure that the outlet of the water cooling tube (the circled bit) is pointin
 Using tape is a good solution => but don't burn it on mirror, the fume from the glue
 are messing the mirror below. Glue it aside, cf [K40 beam alignment target](https://www.printables.com/model/1535554-k40-beam-alignment-target)
 
+[MeerK40t](#meerk40t) has a [pulse panel](https://github.com/meerk40t/meerk40t/wiki/Online-Help-pulse#description) to generate consistent laser pulse (rather than the test button on K40 panel)
+
 - [3 mirrors](https://www.youtube.com/watch?v=Jjaz7E1Xy5c)
 - [Main Mirror Replacement](https://www.youtube.com/watch?v=mIn262PcTH4)
 
