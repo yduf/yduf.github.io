@@ -233,6 +233,8 @@ The point should match as closely as possible, if not apply the following algori
 
 Keep the screw as decoupled as above, so that once vertical aligment is reached, moving only one screw is necessary for horizontal alignement.
 
+Once done, use hot glue on mirror screw to secure mirror position.
+
 ![aligment help](mirror-alignement.svg)
 
 see also
