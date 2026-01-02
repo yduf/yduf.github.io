@@ -79,3 +79,7 @@ w
 | PCIe 5.0 | 4 GB/s | 8 GB/s | 16 GB/s | 32 GB/s | 63 GB/s |
 | PCIe 6.0 | 8 GB/s | 15 GB/s | 30 GB/s | 61 GB/s | 121 GB/s |
 | PCIe 7.0 | 15 GB/s | 30 GB/s | 61 GB/s | 121 GB/s | 242 GB/s |
+
+### SSD Sticker
+
+- [some acts as heat spreader](https://www.youtube.com/shorts/7kiPV0emWrw)
