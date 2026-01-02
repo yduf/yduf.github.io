@@ -215,12 +215,27 @@ are messing the mirror below. Glue it aside, cf [K40 beam alignment target](http
 [MeerK40t](#meerk40t) has a [pulse panel](https://github.com/meerk40t/meerk40t/wiki/Online-Help-pulse#description) to generate consistent laser pulse (rather than the test button on K40 panel)
 </div>
 
+Do mirror in order starting from laser beam to cutting plate
 
+Then for each mirror:
+1. slide the mirror (if possible) so that incoming beam fall in the center of the mirror.
+1. Align the reflected beam so that is parrallel in 3D (Horizontal and vertical alignement) to the mechanical axis that it should match, to do that:
+	1. observed the position of the impact off the beam on a close position
+    1. do the same on far away position
+    	1. align vertically first 2x screw to check
+        1. align horizontally lat 1x screw only
+    
+The point should match as closely as possible, if not apply the following algorithm to modify the beam alignment (using the relevant mirror screw):
+- 1 x screw is for horizontal alignment
+- 2 x screw for vertical alignemnt
 
-- [3 mirrors](https://www.youtube.com/watch?v=Jjaz7E1Xy5c)
-- [Main Mirror Replacement](https://www.youtube.com/watch?v=mIn262PcTH4)
+Keep the screw as decoupled as above, so that once vertical aligment is reached, moving only one screw is necessary for horizontal alignement.
 
 ![aligment help](mirror-alignement.svg)
+
+see also
+- [3 mirrors](https://www.youtube.com/watch?v=Jjaz7E1Xy5c)
+- [Main Mirror Replacement](https://www.youtube.com/watch?v=mIn262PcTH4)
 
 
 ### [K40 Big Ghosting issue](https://forum.makerforums.info/t/k40-big-ghosting-issue/82588) 🛠️
