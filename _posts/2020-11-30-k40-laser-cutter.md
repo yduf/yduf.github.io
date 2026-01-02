@@ -190,6 +190,7 @@ Make sure that the outlet of the water cooling tube (the circled bit) is pointin
     - focal 2.5" /  64.5mm - cutting up to 12mm thickness
     - focal 4"   / 101.6mm - cutting up to 25mm thickness
 
+- [Tutorial: How to find focus of laser lens?? CO2 Laser Machine Focal Length](https://www.youtube.com/watch?v=DeiaiNrLnio)
 - [Adjusting Laser Focus – 3 Simple Methods](https://laser-crafting.com/en/adjusting-laser-focus-3-simple-methods/)
 - [Upgrading omtech 60W tube to 100W](https://www.youtube.com/watch?v=arrfoOsuL5E)
 	- laser led to help alignment
