@@ -218,8 +218,8 @@ are messing the mirror below. Glue it aside, cf [K40 beam alignment target](http
 Do mirror in order starting from laser beam to cutting plate
 
 Then for each mirror:
-1. slide the mirror (if possible) so that incoming beam fall in the center of the mirror.
-1. Align the reflected beam so that is parrallel in 3D (Horizontal and vertical alignement) to the mechanical axis that it should match, to do that:
+1. slide the mirror (if possible) so that incoming beam fall in the center of the mirror being modified.
+1. Align the reflected beam so that it become parrallel in 3D (Horizontal and vertical alignement) to the mechanical axis that it should match, to do that:
 	1. observed the position of the impact off the beam on a close position
     1. do the same on far away position
     	1. align vertically first 2x screw to check
