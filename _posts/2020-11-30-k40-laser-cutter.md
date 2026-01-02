@@ -213,6 +213,8 @@ are messing the mirror below. Glue it aside, cf [K40 beam alignment target](http
   border-radius: 6px;
 "  markdown="1" >
 [MeerK40t](#meerk40t) has a [pulse panel](https://github.com/meerk40t/meerk40t/wiki/Online-Help-pulse#description) to generate consistent laser pulse (rather than the test button on K40 panel)
+  
+The smaller, the better. Lower laser power as much as possible to avoid big burn spot.
 </div>
 
 Do mirror in order starting from laser beam to cutting plate
