@@ -228,7 +228,7 @@ Do mirror in order, starting from laser beam to cutting plate.
 
 Then for each mirror:
 1. slide the mirror (if possible) so that the incoming beam fall in the center of the mirror being modified.
-	- Do not target the center of the mirror from the beam (except maybe for first mirror), but move the mirror itself for centering the incoming beam.
+	- **Note:** Do not target the center of the mirror from the beam (except maybe for first mirror), but move the mirror itself for centering the incoming beam.
 1. Align the reflected beam so that it become parrallel in 3D (Horizontal and vertical alignement) to the mechanical axis that it should match, to do that:
 	1. observed the position of the impact off the beam on a close position
     1. do the same on far away position
