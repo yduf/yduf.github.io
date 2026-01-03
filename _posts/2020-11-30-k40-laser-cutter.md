@@ -190,7 +190,13 @@ Make sure that the outlet of the water cooling tube (the circled bit) is pointin
     - focal 2.5" /  64.5mm - cutting up to 12mm thickness
     - focal 4"   / 101.6mm - cutting up to 25mm thickness
 
-- [Tutorial: How to find focus of laser lens?? CO2 Laser Machine Focal Length](https://www.youtube.com/watch?v=DeiaiNrLnio)
+- [Tutorial: How to find focus of laser lens?? CO2 Laser Machine Focal Length](https://www.youtube.com/watch?v=DeiaiNrLnio) - for fixed head height:
+	1. make a ramp
+    1. cut a line over it
+    1. move the laser head on top over the thinnest path
+    1. measure the distancde from the head to the ramp at this place.
+    1. that the distance you want for best focus
+
 - [Adjusting Laser Focus – 3 Simple Methods](https://laser-crafting.com/en/adjusting-laser-focus-3-simple-methods/)
 - [Upgrading omtech 60W tube to 100W](https://www.youtube.com/watch?v=arrfoOsuL5E)
 	- laser led to help alignment
@@ -218,10 +224,11 @@ are messing the mirror below. Glue it aside, cf [K40 beam alignment target](http
 The smaller, the better. Lower laser power as much as possible to avoid big burn spot.
 </div>
 
-Do mirror in order starting from laser beam to cutting plate
+Do mirror in order, starting from laser beam to cutting plate.
 
 Then for each mirror:
-1. slide the mirror (if possible) so that incoming beam fall in the center of the mirror being modified.
+1. slide the mirror (if possible) so that the incoming beam fall in the center of the mirror being modified.
+	- Do not target the center of the mirror from the beam (except maybe for first mirror), but move the mirror itself for centering the incoming beam.
 1. Align the reflected beam so that it become parrallel in 3D (Horizontal and vertical alignement) to the mechanical axis that it should match, to do that:
 	1. observed the position of the impact off the beam on a close position
     1. do the same on far away position
