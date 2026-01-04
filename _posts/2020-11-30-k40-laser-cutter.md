@@ -232,12 +232,11 @@ Then for each mirror:
 1. Align the reflected beam so that it become parrallel in 3D (Horizontal and vertical alignement) to the mechanical axis that it should match, to do that:
 	1. observed the position of the impact off the beam on a close position
     1. do the same on far away position
-    	1. align vertically first 2x screw to check
-        1. align horizontally lat 1x screw only
     
 The point should match as closely as possible, if not apply the following algorithm to modify the beam alignment (using the relevant mirror screw):
+- 1 x screw is fixed: you can think of the middle screw as the pivot point, only there to give some space for the pivoting the mirror on the 2 others axis, then:
 - 1 x screw is for horizontal alignment
-- 2 x screw for vertical alignemnt
+- 1 x screw for vertical alignemnt
 
 Keep the screw as decoupled as above, so that once vertical aligment is reached, moving only one screw is necessary for horizontal alignement.
 
