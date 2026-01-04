@@ -234,7 +234,7 @@ Then for each mirror:
     1. do the same on far away position
     
 The point should match as closely as possible, if not apply the following algorithm to modify the beam alignment (using the relevant mirror screw):
-- 1 x screw is fixed: you can think of the middle screw as the pivot point, only there to give some space for the pivoting the mirror on the 2 others axis, then:
+- 1 x screw is fixed: you can think of the middle screw as the pivot point, only there to give some space for pivoting the mirror on the 2 others axis, then:
 - 1 x screw is for horizontal alignment
 - 1 x screw for vertical alignemnt
 
