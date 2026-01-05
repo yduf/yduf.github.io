@@ -7,6 +7,8 @@ tags: software doc comments
 
 see also
 - [	Comments Are Code (2018)](https://news.ycombinator.com/item?id=39637554)
+- [Turns out writing a book and getting it published with the title "Clean Code" is great marketing.](https://news.ycombinator.com/item?id=46487256)
+	- _one who's always citing books in code review. It's effectively effort amplification as a defense mechanism, now instead of having a discussion with you I have to go read a book first. No thanks._
 
 I’d like to make two arguments in this post:
 - Code comments have value,
