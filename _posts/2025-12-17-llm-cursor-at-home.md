@@ -5,6 +5,9 @@ tags: LLM agentic-AI at_home vscode
 ---
 > How to make your own cursor - [ChatpGPT](https://chatgpt.com/share/694288eb-9fd4-800d-9753-9c1f39b2f9b6)
 
+see also
+- [La bulle IA est monstrueuse et cela va tout péter !!](https://www.youtube.com/watch?v=d2qDKx6JVdQ) - on paye 5x a 10x plus chere l'IA sur le cloud
+
 # VSCode+
 
 - [VSCode + Cline + Continue](https://www.youtube.com/watch?v=7AImkA96mE8) NEVER PAY for CURSOR again. Use this OPEN SOURCE & LOCAL Alternative
