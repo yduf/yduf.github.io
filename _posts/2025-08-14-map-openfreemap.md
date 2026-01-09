@@ -7,6 +7,11 @@ tags: map earth cartography
 
 - [	OpenFreeMap survived 100k requests per second](https://news.ycombinator.com/item?id=44846318)
 
+see also
+- [	Shipmap.org](https://www.shipmap.org/) / [HN](https://news.ycombinator.com/item?id=46527161) - map of ship travelling ocean
+- [submarine cable map](https://news.ycombinator.com/item?id=28641463) - on a glob
+- [The_Victorian_Internet (subsea telegraph network)](https://news.ycombinator.com/item?id=46432999) / [HN](https://en.wikipedia.org/wiki/The_Victorian_Internet) - Alice Springs exists because it was a repeater station for a telegraph line that stretched from Southern Australia all the way to London. 
+
 ### [Quick Start Guide](https://openfreemap.org/quick_start/)
 
 <script src="https://unpkg.com/maplibre-gl/dist/maplibre-gl.js"></script>
