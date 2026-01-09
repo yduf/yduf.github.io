@@ -1,6 +1,6 @@
 ---
 published: true
-title: WinDirStat
+title: WinDirStat / TreeMap
 tags: system disk treemap
 ---
 > WinDirStat is a disk usage statistics viewer - [Home](https://windirstat.net/)/[2](https://www.wikiwand.com/en/WinDirStat#Source_code) / [blog](https://blog.windirstat.net/) / [repo](https://osdn.net/projects/windirstat/#) / [github](https://github.com/windirstat/windirstat)
@@ -13,6 +13,8 @@ tags: system disk treemap
 It uses [treemap](https://www.data-to-viz.com/graph/treemap.html) to represents each file as a colored rectangle, the area of which is proportional to the file's size.
 
 - [Cushion Treemaps: Visualization of Hierarchical Information](https://www.win.tue.nl/~wstahw/publications/papers/ctm.pdf)
+
+- [treemonger](https://github.com/alanbernstein/treemonger?tab=readme-ov-file#what) -  a disk space usage visualizer, inspired by the old version of spacemonger
 
 ![caption](https://windirstat.net/images/windirstat.jpg)
 
@@ -35,3 +37,4 @@ Have same treemap vizualisation ported to linux
 - [	Treemaps are awesome](https://news.ycombinator.com/item?id=36868940)
 - [  Git Heat Map](https://news.ycombinator.com/item?id=34563851) – a tool for visualising git repo activity for each file
 - [TreeSheets]({% post_url 2023-10-13-app-excel-treesheet %}) - A "hierarchical spreadsheet" that is a great replacement for spreadsheets
+- [	Flame Graphs vs Tree Maps vs Sunburst (2017)](https://news.ycombinator.com/item?id=46401052)

@@ -5,6 +5,9 @@ tags: ruby build-system
 ---
 >  consistent environment for Ruby projects by tracking and installing the exact gems and versions that are needed. - [Home](https://bundler.io/)
 
+see also
+- [	Can Bundler be as fast as uv?](https://news.ycombinator.com/item?id=46458302)
+
 ### [Setup](https://bundler.io/#getting-started)
 
 Start by writing a Gemfile at the root of your ruby project

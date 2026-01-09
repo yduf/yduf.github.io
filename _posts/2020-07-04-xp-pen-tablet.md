@@ -11,6 +11,10 @@ tags: hardware linux-hardware tablet mouse stylus
 - [youtube](https://www.youtube.com/results?search_query=xp-pen+12+linux)
 	- [How to get XP-PEN working on Linux Mint Correct!](https://www.youtube.com/watch?v=bnrtPoo6-d8)
 
-see also
+### see also
 - [SOFTWARE & DRIVERS (linux driver!)](https://www.xp-pen.com/download/artist-12pro.html)
 - [https://www.xp-pen.com/download/artist-12pro.html](https://krita-artists.org/t/graphic-tablets-on-linux/351)
+
+And
+- [	Project Patchouli: Open-source electromagnetic drawing tablet hardware ](https://news.ycombinator.com/item?id=46537489)
+- [Build your own EMR Tablet from scratch ](https://www.youtube.com/watch?v=igVscvWAR1s)

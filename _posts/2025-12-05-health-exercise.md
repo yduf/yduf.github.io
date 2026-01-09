@@ -20,6 +20,8 @@ tags: health
     - safe alternative against allergies
     	- Zyrtec / Claritin / Allergra
 
+- [ Too much Omega-3s are dangerous ](https://www.youtube.com/watch?v=W6h5xqLaJjw)
+
 ## [Kidney Disease](https://www.youtube.com/watch?v=Gu_0u4HQOBw)
 - half nail symptom
 - dry skin
