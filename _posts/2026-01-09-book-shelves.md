@@ -4,3 +4,6 @@ published: true
 tags: book project
 ---
 - [Vibe coding a bookshelf with Claude Code](https://balajmarius.com/writings/vibe-coding-a-bookshelf-with-claude-code/) / [HN](https://news.ycombinator.com/item?id=46420453) - [online](https://balajmarius.com/bookshelf/)
+
+see also
+- [Krishna Sundarram](https://nindalf.com/books/) - an other implementation
