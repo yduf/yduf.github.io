@@ -1,5 +1,5 @@
 ---
-title: The book shelves
+title: "The book shelves \U0001F4AD"
 published: true
 tags: book project
 ---
