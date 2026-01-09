@@ -9,6 +9,17 @@ see also
 - [La bulle IA est monstrueuse et cela va tout péter !!](https://www.youtube.com/watch?v=d2qDKx6JVdQ)
 	- on paye 5x a 10x plus chere l'IA sur le cloud
     - les bulles explosent toujours plus fort et plus tard qu'anticipé.
+    - l'IA ce n'est pas que des LLM sur le cloud
+    - renforcer la resilience des entreprise grace a l'IA est une vraie valeur ajoutée
+    - l'automatisation par l'IA n'est pas forcement meilleurs que via les RPA 
+    - mais cela ne marche que sur des solutions complexes (qui sinon ne sont pas rentable)
+    - ex le passage des avions a helices au jet n'a pas été juste un changement de moteur (repensé le process: vol pressurisé en haute altitude / controleur aerien / securité).
+	- la detection de fraude est usage pertinent
+- [10000 Euros par mois grace à l'IA ! Oui et alors ? ](https://www.youtube.com/watch?v=N_FAUkAOK_I) - a propos de [N8N](https://n8n.io/)
+	- le marché de l'automation est déjà saturé et surévalué
+    - on ne sait pas remplacer talent humain par de l'IA
+    - on sait faire que les mauvais deviennent moyen.
+    
 
 # VSCode+
 
