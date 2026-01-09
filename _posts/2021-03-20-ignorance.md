@@ -7,6 +7,7 @@ tags: despair.com science
 
 - [Les batailles du Nutri-Score - Avides de recherche #74](https://www.youtube.com/watch?v=5lzSNK7XQic)
 - [Désinformation: comment les géants américains du pétrole, du plastique et des pesticides utilisent leurs tweets pour retarder l’action climatique](https://www.liberation.fr/environnement/climat/reseau-x-comment-les-geants-americains-du-petrole-du-plastique-et-des-pesticides-utilisent-leurs-tweets-pour-retarder-laction-climatique-20250124_WUHRJ6I67ZARLADWTAPQ4YKAGE/)
+- [	Sugar industry influenced researchers and blamed fat for CVD (2016)](https://news.ycombinator.com/item?id=46526740) - _another fallacy in play where people pushing these debates want you to think that there is only one single cause of CVD or health issues: Either sugar, carbs, fat, or something else. The game they play is to point the finger at one thing and imply that it gets the other thing off the hook. Don’t fall for this game._
 
 > La science ne dit pas ce que nous devons faire de ce qu'elle permet de faire. - [Je ne suis pas expert, mais je... - Étienne Klein](https://www.youtube.com/watch?v=zp-GJAr5kGo) 
 
