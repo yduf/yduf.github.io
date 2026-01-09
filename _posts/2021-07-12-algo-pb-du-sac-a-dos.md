@@ -11,4 +11,4 @@ tags: packing algorithm math puzzle life sprite fft collision
 - [	The Skyline algorithm for packing 2D rectangles](https://news.ycombinator.com/item?id=42173114)
 - [Spectral 3D Bin Packing](https://github.com/Vrroom/psacking?tab=readme-ov-file#spectral-3d-bin-packing) / [HN](https://news.ycombinator.com/item?id=46400158) -  Simple 3D Packing  using a FFT for collision detection
 
-![caption](https://github.com/Vrroom/psacking/raw/main/renders/flyaround.gif)
+[![caption](https://github.com/Vrroom/psacking/raw/main/renders/flyaround.gif)](https://github.com/Vrroom/psacking?tab=readme-ov-file#spectral-3d-bin-packing)
