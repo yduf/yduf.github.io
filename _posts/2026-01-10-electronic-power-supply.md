@@ -5,6 +5,9 @@ tags: power electronic
 ---
 > [Every Component of a Switch Mode Power Supply Explained](https://www.youtube.com/watch?v=3FyXqNcqvRM)
 
+see also
+- [How A Switch Mode Power Supply Really Works? Inside an SMPS](https://www.youtube.com/watch?v=w6ftxjuawZ0)
+
 - inductor (bobine)
 	- act as a spring (load a certain amount of current (like a spring tension))
     - this load is released when cutting input current
