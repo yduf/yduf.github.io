@@ -1,7 +1,7 @@
 ---
 published: true
 title: Async (Ruby)
-tags: ruby async thread quote
+tags: ruby async thread network quote
 toc: true
 ---
 > Async Ruby adds new concurrency features to the language; you can think of it as "threads with none of the downsides". It's been in the making for a couple of years, and with Ruby 3.0, it's finally ready for prime time. - [Bruno Sutic](https://brunosutic.com/blog/async-ruby) / [HN](https://news.ycombinator.com/item?id=29049881)
@@ -9,7 +9,7 @@ toc: true
 ### [why async/await seems to have taken over the world?](https://news.ycombinator.com/item?id=45782574)
 
 - In single threaded scripting languages, it has arisen as a way to allow overlapping computation with communication without having to introduce multi threading and dealing with the fact that memory management and existing code in the language aren't thread-safe.
-- when you require 1 thread per 1 connection, you have trouble getting to thousands of active connections and people want to scale way beyond that.
+- when you require 1 thread per 1 connection, you have trouble getting to thousands of active connections and people want to scale way beyond that. ([C10k problem](https://en.wikipedia.org/wiki/C10k_problem))
 	- The alternative is lightweight/green threads and actors.
     - Those are all some form of coroutines.
     - The thing with await is that it can be retrofitted onto existing languages and runtimes with relatively little effort. 
