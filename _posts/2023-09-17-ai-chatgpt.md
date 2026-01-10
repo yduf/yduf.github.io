@@ -18,7 +18,8 @@ ChatGPT is a _development limité_ of human knowledge, you can get a good initia
 
 Why [Attention Is All You Need](https://arxiv.org/abs/1706.03762) ? (And what is the novelty of tranformer)
 explained by [ChatGPT](https://chatgpt.com/share/69624150-2120-800d-af2a-cc957e6011b3):
-Before this paper, language models and sequence-to-sequence systems typically used:
+
+_Before this paper, language models and sequence-to-sequence systems typically used_:
 - Recurrent Neural Networks (RNNs) — process tokens one by one, carrying a hidden state forward.
 - LSTM/GRU — RNN variants that mitigate some long-term memory problems, but still inherently sequential.
 
