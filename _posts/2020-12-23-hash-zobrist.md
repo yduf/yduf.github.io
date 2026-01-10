@@ -71,3 +71,6 @@ see also
 - [Zobrist Hashing](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-5-zobrist-hashing/)
 - [Correctly Implementing Zobrist Hashing](https://stackoverflow.com/questions/10067514/correctly-implementing-zobrist-hashing)
 - [Zobrist Hashing](https://dev.to/larswaechter/zobrist-hashing-72n)
+
+### see also
+- [Compressing Chess Moves Even Further, To 3.7 Bits Per Move](https://lichess.org/@/marcusbuffett/blog/compressing-chess-moves-even-further-to-37-bits-per-move/YgugQc42) / [HN](https://news.ycombinator.com/item?id=46554652)
