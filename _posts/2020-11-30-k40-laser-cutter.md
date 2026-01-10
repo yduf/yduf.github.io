@@ -354,4 +354,6 @@ use [LibLaserCut](https://github.com/t-oster/LibLaserCut?tab=readme-ov-file#libl
 - [EFR CO2 laser tube factory ,60W to 220W power](https://www.youtube.com/watch?v=tYDHQ_mH1Bc)
 - [K40 Laser Cutter Rebuild-12x24in Cutting Area](https://www.instructables.com/K40-Laser-Cutter-Rebuild-12x24in-Cutting-Area/)
 
+- [DIY Laser cutter - part 2](https://www.youtube.com/watch?v=82QrX7Rr3Os)
+
 [![rebuild](https://content.instructables.com/FBX/6Y9K/K0R1L5FF/FBX6Y9KK0R1L5FF.jpg?auto=webp&frame=1&width=600&height=1024&fit=bounds&md=MjAxOS0wOS0yMCAxNjo0MDo0My4w)](https://www.instructables.com/K40-Laser-Cutter-Rebuild-12x24in-Cutting-Area/)
