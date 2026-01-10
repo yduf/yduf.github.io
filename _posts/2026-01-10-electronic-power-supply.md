@@ -32,7 +32,7 @@ tags: power electronic
 	- show that output current is flowing
     - does not means that there is no input current.
 - resistor in // to outptu capacitor
-	- to empty the output capacitor when powering down and avoid them being kept chargedd
+	- to empty the output capacitor when powering down and avoid them being kept charged
 - capacitor on the returning current (neutral side)
 	- to avoid having frequeny noise commming back to the main
 - fuse / input protection
