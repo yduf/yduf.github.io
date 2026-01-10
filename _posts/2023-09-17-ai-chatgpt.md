@@ -13,6 +13,7 @@ ChatGPT is a _development limité_ of human knowledge, you can get a good initia
 # LLM
 
 - [What's wrong with LLMs and what we should be building instead](https://www.youtube.com/watch?v=cEyHsMzbZBs)
+- [	2025: The Year in LLMs](https://news.ycombinator.com/item?id=46449643)
 
 ## Transformer
 
