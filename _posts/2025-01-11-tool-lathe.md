@@ -13,3 +13,5 @@ tags: hardware lathe cnc
     - they don't have to be centered
     	- drill are extremely flexible
         - center drill are better in the realworld to keep themself being center
+        - drill are not precision machining tool
+        - boring bar are
