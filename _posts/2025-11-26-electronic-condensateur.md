@@ -1,9 +1,11 @@
 ---
-title: Condensateur
+title: "Condensateur \U0001F571\U0001F571\U0001F571"
 published: true
 tags: electronic
 ---
 > [This Simple Device Could Kill You](https://www.youtube.com/watch?v=kHm9pTeEz60) - never make assumption when handling capacitor
+
+- [Dealing with the DEATH CAPACITOR in Vintage Gear](https://www.youtube.com/watch?v=Q0jM05sxy28)
 
 - [Condensateur de securité X et Y](https://www.youtube.com/watch?v=wjFXu0tE69M)
 - [Les bases de la réparation électronique #1 - le condensateur](https://www.youtube.com/watch?v=Fs7kOAeGjhs)
