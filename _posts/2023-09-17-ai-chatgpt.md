@@ -27,7 +27,19 @@ The Transformer made three major shifts:
 - Parallel computation
 - Scalable building blocks
 
-### see also
+see also
+- [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+	- [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
+    	- [tiktokenizer]( https://tiktokenizer.vercel.app) - online syntax coloring token extraction
+        - [Byte Pair algorithm](https://en.wikipedia.org/wiki/Byte_pair_encoding) - identify most used pairs in a sequence
+	- [Let's reproduce GPT-2 (124M)](https://www.youtube.com/watch?v=l8pRSuU81PU)
+- [	Llama from scratch, or how to implement a paper without crying](https://news.ycombinator.com/item?id=37059479)
+- [The Geometry of Truth: Do LLM's Know True and False](https://news.ycombinator.com/item?id=37945961)
+- [whisper.cpp](https://github.com/ggerganov/whisper.cpp#whispercpp) - High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model
+- [Attention Wasn't All We Needed](https://news.ycombinator.com/item?id=44075105)
+
+
+# see also
 - [Êtes-vous WEIRD? - La chronique d'Albert Moukheiber dans "La dernière"](https://www.youtube.com/watch?v=NAXS8N7JbsU) - ChatGPT est W.E.I.R.D
 	- **W**estern
     - **E**ducated
