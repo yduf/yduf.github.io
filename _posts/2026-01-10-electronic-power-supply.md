@@ -1,7 +1,7 @@
 ---
 title: Power Supply
 published: true
-tags: power
+tags: power electronic
 ---
 > [Every Component of a Switch Mode Power Supply Explained](https://www.youtube.com/watch?v=3FyXqNcqvRM)
 
