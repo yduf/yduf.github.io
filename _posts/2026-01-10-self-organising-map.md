@@ -1,11 +1,15 @@
 ---
-title: Self-organising Map (SOM)
+title: "Self-organising Map (SOM) \U0001F4AD"
 published: true
-tags: map AI ML js
+tags: map AI ML js dream project
 ---
 > an unsupervised machine learning technique used to produce a low-dimensional (typically two-dimensional) representation of a higher-dimensional data set while preserving the topological structure of the data. - [wikipedia](https://en.wikipedia.org/wiki/Self-organizing_map)
 
-see also
+### Project Idea
+
+Use an approach similar to _one million screenshot_ below to browse personnal photo archive.
+
+### see also
 - [One million (small web) screenshots](https://nry.me/posts/2025-10-09/small-web-screenshots/?) / [HN](https://news.ycombinator.com/item?id=46354492)
 - [**LeafLet**](https://leafletjs.com/) - an open-source JavaScript library
 for mobile-friendly interactive maps
