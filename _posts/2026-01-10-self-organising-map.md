@@ -2,6 +2,7 @@
 title: "Self-organising Map (SOM) \U0001F4AD"
 published: true
 tags: map AI ML js dream project
+toc: true
 ---
 > an unsupervised machine learning technique used to produce a low-dimensional (typically two-dimensional) representation of a higher-dimensional data set while preserving the topological structure of the data. - [wikipedia](https://en.wikipedia.org/wiki/Self-organizing_map)
 
