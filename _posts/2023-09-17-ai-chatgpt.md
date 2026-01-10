@@ -9,7 +9,22 @@ tags: LLM test c++ mental-model
 
 ChatGPT is a _development limité_ of human knowledge, you can get a good initial point, but when conversing with it, you are derivating farther away from the a valid human interaction. - yduf
 
+# LLM
+
 - [What's wrong with LLMs and what we should be building instead](https://www.youtube.com/watch?v=cEyHsMzbZBs)
+
+## Transformer
+
+Why [Attention Is All You Need](https://arxiv.org/abs/1706.03762) ? (And what is the novelty of tranformer)
+explained by [ChatGPT](https://chatgpt.com/share/69624150-2120-800d-af2a-cc957e6011b3):
+Before this paper, language models and sequence-to-sequence systems typically used:
+- Recurrent Neural Networks (RNNs) — process tokens one by one, carrying a hidden state forward.
+- LSTM/GRU — RNN variants that mitigate some long-term memory problems, but still inherently sequential.
+
+The Transformer made three major shifts:
+- Self-attention replaces recurrence
+- Parallel computation
+- Scalable building blocks
 
 ### see also
 - [Êtes-vous WEIRD? - La chronique d'Albert Moukheiber dans "La dernière"](https://www.youtube.com/watch?v=NAXS8N7JbsU) - ChatGPT est W.E.I.R.D
