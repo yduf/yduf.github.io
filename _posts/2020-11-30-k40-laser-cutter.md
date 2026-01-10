@@ -245,7 +245,7 @@ Once done, use hot glue on mirror screw to secure position.
 ![aligment help](mirror-alignement.svg)
 
 see also
-- [combined tube nonmetal co2 laser machine mirror alignment guide](https://www.youtube.com/watch?v=k8FbWfofzEA)
+- [combined tube nonmetal co2 laser machine mirror alignment guide](https://www.youtube.com/watch?v=k8FbWfofzEA) - alignment in 33 easy step... 😀
 - [3 mirrors](https://www.youtube.com/watch?v=Jjaz7E1Xy5c)
 - [Main Mirror Replacement](https://www.youtube.com/watch?v=mIn262PcTH4)
 
