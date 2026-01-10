@@ -11,6 +11,7 @@ toc: true
 - In single threaded scripting languages, it has arisen as a way to allow overlapping computation with communication without having to introduce multi threading and dealing with the fact that memory management and existing code in the language aren't thread-safe.
 - when you require 1 thread per 1 connection, you have trouble getting to thousands of active connections and people want to scale way beyond that.
 	- The alternative is lightweight/green threads and actors.
+    - Those are all some form of coroutines.
     - The thing with await is that it can be retrofitted onto existing languages and runtimes with relatively little effort. 
 
 ### Ruby
