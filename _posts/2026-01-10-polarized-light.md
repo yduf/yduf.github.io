@@ -1,7 +1,7 @@
 ---
 title: Polarized Light
 published: true
-tags: light
+tags: light moon
 ---
 > oxygen polarize sunlight - [An Optical Navigation System Better Than GPS](https://www.youtube.com/watch?v=4ERqAqwQ1wo)
 
