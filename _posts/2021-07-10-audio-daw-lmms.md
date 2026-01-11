@@ -13,9 +13,7 @@ tags: audio DAW midi
 
 see also
 - [working on small screen](https://chatgpt.com/share/69638767-29cc-800d-9e9b-3f1407b5a788)
-
-### Theme / Customisation
 - [Larger Font](https://lmms.io/forum/viewtopic.php?t=1305&start=10#p73477) / [large Font CSS](https://github.com/musikBear/lmms/blob/master/mB_largeFontCSS.zip)
 
-see also
+## see also
 - [Ardour](https://ardour.org/) / [Ardour 6 Quickstart](https://www.youtube.com/watch?v=bfTAKv4htDE)
