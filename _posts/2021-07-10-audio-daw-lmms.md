@@ -5,6 +5,7 @@ tags: audio DAW midi
 ---
 > Let's make music with a free, cross-platform tool for your computer. - [LMMS](https://lmms.io/)
 
+[![piano roll](https://docs.lmms.io/user-manual/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2FsOyi2widgEtSqcjOGVN2%2Fblobs%2FzoSu0i0Y1Q40srK4uuMp%2Fimage.png&width=400&dpr=3&quality=100&sign=2e567934&sv=2)](https://docs.lmms.io/user-manual/navigating-lmms/general-interface)
 
 ## [Introduction](https://www.youtube.com/watch?v=hqexTrQZuYw)
 
