@@ -5,7 +5,10 @@ tags: audio DAW midi
 ---
 > Let's make music with a free, cross-platform tool for your computer. - [LMMS](https://lmms.io/)
 
+
 ## [Introduction](https://www.youtube.com/watch?v=hqexTrQZuYw)
+
+- [LMMS Tuto DEBUTANT français (Faire une Musique simplement)](https://www.youtube.com/watch?v=HAT3ymuywOw)
 - [Use MIDI Controllers/Devices in LMMS](https://www.youtube.com/watch?v=qSGvcyRzDRo)
 
 ### Theme / Customisation
