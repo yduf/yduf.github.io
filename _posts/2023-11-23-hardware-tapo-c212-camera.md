@@ -3,8 +3,8 @@ published: true
 title: Tapo (wifi camera)
 tags: camera video-hardware RTSP network  reverse
 ---
-- C212 - 30€ / 2023   - [amazon](https://www.amazon.fr/gp/product/B0CG9MBCYR)
-- C220 - 23€ / 2025 
+- C212 - 30€ / 2023 - [amazon](https://www.amazon.fr/gp/product/B0CG9MBCYR)
+- C220 - 23€ / 2025 - [amazon](https://www.amazon.fr/dp/B0CDCL6FLC)
 	- stream1 is 2560x1440 - slow over wifi
 	- stream2 is 640x360 
 - C210 - 18€ / 2025 - [amazon](https://www.amazon.fr/dp/B095CLQ1PT)
