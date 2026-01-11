@@ -10,6 +10,9 @@ toc: true
 
 Use an approach similar to _one million screenshot_ below to browse personnal photo archive.
 
+see also
+- [The Visual Similarity of Movie Posters](https://nry.me/posts/2019-03-24/movie-poster-tsne/) - as a way to group them
+
 ### see also
 - [One million (small web) screenshots](https://nry.me/posts/2025-10-09/small-web-screenshots/?) / [HN](https://news.ycombinator.com/item?id=46354492)
 - [**LeafLet**](https://leafletjs.com/) - an open-source JavaScript library
