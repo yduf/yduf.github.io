@@ -1,5 +1,5 @@
 ---
-title: Sclicer / CAD synergy
+title: Slicer / CAD synergy
 published: true
 tags: freecad 3dprint
 ---
