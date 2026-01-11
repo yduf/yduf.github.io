@@ -3,11 +3,11 @@ published: true
 title: Tapo (wifi camera)
 tags: camera video-hardware RTSP network  reverse
 ---
-- C212 - 30€ / 2023 - [amazon](https://www.amazon.fr/gp/product/B0CG9MBCYR)
-- C220 - 23€ / 2025 - [amazon](https://www.amazon.fr/dp/B0CDCL6FLC)
+- C212 - 30€ / 2023 - (1.3.14) [amazon](https://www.amazon.fr/gp/product/B0CG9MBCYR)
+- C220 - 23€ / 2025 - (1.4.1) [amazon](https://www.amazon.fr/dp/B0CDCL6FLC)
 	- stream1 is 2560x1440 - slow over wifi
 	- stream2 is 640x360 
-- C210 - 18€ / 2025 - [amazon](https://www.amazon.fr/dp/B095CLQ1PT)
+- C210 - 18€ / 2025 - (1.1.1) [amazon](https://www.amazon.fr/dp/B095CLQ1PT)
 
 ### Pro
 - once setup / rstp is functional and can be accessed by ffplay (for eg).
@@ -19,13 +19,24 @@ tags: camera video-hardware RTSP network  reverse
     - the app establish a direct wifi link with the camera and so android complain severa time about losing network: it's just that the connection first switch from wifi to direct cam then to wifi: don't restablish the connection from the android popup or it will mess the setup.
     
 ### RSTP Setup
-- Setup can only be done through the App
-	- one account at the tapo level for global setting
+
+Setup can only be done through the App
+
+- Choose _Reglages de l'appareil/Réglages avancés_
+	- _Compte de la caméra_ : enable
+    	- define login / mdp here
+    - _Paramètre réseau_
+    	- static ip can be define here.
+
+- one account at the tapo level for global setting
     - [a second configuration](https://www.tapo.com/en/faq/34/) from the app to create a user/password and enable the RTSP feed for the device.
 		- high quality `rtsp://user:password/IP Address/stream1`
 		- low  quality `rtsp://user:password/IP Address/stream2`
 	- RSTP is not enabled when a SDCard is present
 - Wifi is restricted to 2.4Ghz
+
+
+
 
 ### ONVIF / PTZ
 
