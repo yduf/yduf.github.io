@@ -59,9 +59,13 @@ see also
 [![super orbit](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.flippers.com%2Fimages%2FGottlieb%2FSuperOrbit_1046S%2FGott_Super_Orbit_serial_1046S-lower.jpg&f=1&nofb=1&ipt=6cf94d5f028f732fc3905d1c8ac65239448fa7fd3629341089446123132e88c6)]()
 
 ### [Creature of the Black Lagoon (CFTBL)](https://www.youtube.com/shorts/Iyw-xgc8CXQ) - 4000 - 6000€ / 2025
-[![creature](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpinballhungary.hu%2Fwp-content%2Fuploads%2F2023%2F07%2FIMG_2087-scaled.jpg&f=1&nofb=1&ipt=beb86c8ed03095fddd8949b96c3a6b9b46b00985e0f9053b9e833d8ec6d3fe45)](https://duckduckgo.com/?t=lm&q=flipper+creature+of+the+black+lagon&ia=images&iax=images&iai=https%3A%2F%2Fpinballhungary.hu%2Fwp-content%2Fuploads%2F2023%2F07%2FIMG_2087-scaled.jpg)
 
 - [vpx](https://www.youtube.com/watch?v=3XS3q9NHjNA)
+- [Creature From the Black Lagoon Video MOD ](https://www.youtube.com/watch?v=IUT51QK5zqo)
+
+[![creature](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpinballhungary.hu%2Fwp-content%2Fuploads%2F2023%2F07%2FIMG_2087-scaled.jpg&f=1&nofb=1&ipt=beb86c8ed03095fddd8949b96c3a6b9b46b00985e0f9053b9e833d8ec6d3fe45)](https://duckduckgo.com/?t=lm&q=flipper+creature+of+the+black+lagon&ia=images&iax=images&iai=https%3A%2F%2Fpinballhungary.hu%2Fwp-content%2Fuploads%2F2023%2F07%2FIMG_2087-scaled.jpg)
+
+
 
 ## vente
 - [Lyon Flippers](https://www.lyon-flipper.com/flippers)
