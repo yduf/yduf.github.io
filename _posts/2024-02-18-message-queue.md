@@ -10,3 +10,4 @@ see also
 	- A durable queue is literally a queue that doesn't drop messages e.g. during an unexpected shutdown. That's all.
     - a durable queue makes it vastly simpler to build a durable workflow engine. - [HN](https://news.ycombinator.com/item?id=45186232)
 - [Camunda External Tasks](https://docs.camunda.org/manual/7.20/user-guide/process-engine/external-tasks/)
+- [I Love You, Redis, But I’m Leaving You for SolidQueue](https://www.simplethread.com/redis-solidqueue/) / [HN]() - migrate an application’s job queues to vanilla PostgreSQL (or SQLite or MySQL).
