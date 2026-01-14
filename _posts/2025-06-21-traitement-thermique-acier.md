@@ -19,3 +19,4 @@ Couleur de l'acier en fonction de la temperature
 
 see also
 - [les aciers de récupération](https://www.youtube.com/watch?v=MhGZHKR_TPs) - trempe / casse / grain
+- [ Comment Retailler et Tremper un Burin Chez Soi : La Méthode la Plus Simple ! ](https://www.youtube.com/watch?v=GefvOWkEHFQ)
