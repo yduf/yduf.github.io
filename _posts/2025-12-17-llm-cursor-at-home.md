@@ -44,3 +44,5 @@ see [Cline vs Cursor](https://chatgpt.com/share/69446ae1-4990-800d-b80a-bd62c220
 
 ## see also
 - [	Aider: AI pair programming in your terminal](https://news.ycombinator.com/item?id=39995725)
+- [OpenCode](https://github.com/anomalyco/opencode) - very similar to Claude Code in terms of capability.
+	- [Unauthenticated remote code execution in OpenCode](https://news.ycombinator.com/item?id=46581095)
