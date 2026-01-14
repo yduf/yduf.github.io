@@ -5,6 +5,9 @@ tags: computer cpu electronic tutorial blog-electronic
 ---
 > It just sits here succesfully doing nothing forever - [Ben Eater](https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA) / [HN](https://news.ycombinator.com/item?id=43533715)
 
+see also
+- [cpu.land](https://cpu.land/) / [HN](https://news.ycombinator.com/item?id=46554982)
+
 [![caption](https://yt3.ggpht.com/S29wEjoodDYZ7RTVEtF30KrFOKABSlqphjNwGzC8RCslsketGsynfUKr8aSpXWMBFAZH9AAP=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)](https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA)
 
 ## [build another 8-bit computer from scratch](https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU)
