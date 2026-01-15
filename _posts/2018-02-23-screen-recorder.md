@@ -3,7 +3,7 @@ title: Screen Recorder for linux
 published: true
 tags: screen recorder linux-audio
 ---
-> Open Broadcaster Software Studio (OBS Studio) - [As of 2024](https://chatgpt.com/share/6740933d-7a98-800d-a1e1-85259c489bbe)
+> Open Broadcaster Software Studio (OBS Studio) - [As of 2024](https://chatgpt.com/share/6740933d-7a98-800d-a1e1-85259c489bbe) / [HN](https://news.ycombinator.com/item?id=46633429)
 
 - [What’s the ideal compression settings for a 1080p coding session screen recording? (minimal file size required) ](https://www.reddit.com/r/videography/comments/k91vcj/whats_the_ideal_compression_settings_for_a_1080p/)
 	- [Shutter Encoder](https://www.shutterencoder.com/)
