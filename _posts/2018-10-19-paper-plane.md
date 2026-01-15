@@ -7,3 +7,4 @@ tags: paper plane
 
 see also
 - [How to Make a Jet Fighter Paper Airplane that Flies FAR! ](https://www.youtube.com/shorts/o0R3n-hZwV4)
+	- [ORIGAMI DRAGON PLANE ORIGAMI TUTORIAL ](https://www.youtube.com/shorts/S3hEab4wOeo)
