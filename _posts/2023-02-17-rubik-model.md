@@ -11,6 +11,8 @@ tags: math rubik
 
 - [	Rubik's Cube in Prolog – Order](https://news.ycombinator.com/item?id=46564818)
 	- [HN](https://news.ycombinator.com/item?id=46626251) - a rubiks cube can be represented by only the orientations of the pieces. You do this by defining their "correct" position in cube coordinates rather than piece coordinates
+    	- By "cube" coordinates i mean a coordinate system centered on the whole cube. 
+        - By "piece" coordinates i mean with the origin centered on one of the smaller pieces of the puzzle.
 - [RUBIK'S CUBE (Pico-8)](https://www.lexaloffle.com/bbs/?tid=52514)
 - [How would you represent a Rubik's Cube in code?](https://stackoverflow.com/questions/500221/how-would-you-represent-a-rubiks-cube-in-code?rq=1)
 - [How to represent a Rubik's Cube in a data structure](https://softwareengineering.stackexchange.com/questions/142760/how-to-represent-a-rubiks-cube-in-a-data-structure)
