@@ -7,7 +7,7 @@ tags: macintosh pc-hardware electronic retro project
 
 - [Macintosh 128K Through Classic II CRT and Yoke](https://applerescueofdenver.com/products-page/macintosh-to-powerpc/shop-by-model-all-in-one/128k-to-plus/macintosh-128k-through-classic-ii-crt-and-yoke/)
 - [Restoring the Macintosh Plus to working order!](https://www.youtube.com/watch?v=7TbCj3chP_c&t=803s)
-
+- [[EXTENDED] Apple Mac SE/30 Analog Board and PSU Restoration - Extended Cut](https://www.youtube.com/watch?v=O0-63sDOfm8)
 
 see also
 - [Rejuvenating a Macintosh CRT with equipment from 1969 #Apple #Mac #VintageComputing @craig1black](https://blog.adafruit.com/2020/06/09/rejuvenating-a-macintosh-crt-with-equipment-from-1969-apple-mac-vintagecomputing-craig1black/)
