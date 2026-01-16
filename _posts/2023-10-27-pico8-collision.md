@@ -12,7 +12,7 @@ Yet we will distinguish 2 aspects: [Map boundaries](#map-boundaries) (ground&wal
 
 # Map Boundaries
 
-- [Zelda in Pico-8 - Top-Down Movement](https://prose.io/#yduf/yduf.github.io/edit/master/_posts/2023-10-28-pico8-map.md)
+- [Zelda in Pico-8 - Top-Down Movement](https://www.youtube.com/watch?v=frqf73ycQc0)
 
 [![caption](https://github.com/RuairiD/pico8-bump.lua/raw/master/img/slide.png) ](#general-aabb-solution)
 
