@@ -22,7 +22,7 @@ toc: true
 
 # [BIOS](https://consumer.huawei.com/en/support/laptops/matebook-14-2020/) - 1.19 Rev 5.0
 
-# Linux support
+# [Linux support](https://wiki.archlinux.org/title/Huawei_MateBook_14_AMD_(2020))
 - [Nvidia GeForce MX350 driver N/A although installed](https://forums.linuxmint.com/viewtopic.php?t=353047&p=2039798)
 - [power button issue](https://bbs.archlinux.org/viewtopic.php?id=225752)
 - [ivzave/matebook-linux](https://github.com/ivzave/matebook-linux) - patching [acpi table]({% post_url 2021-07-25-acpi %})
