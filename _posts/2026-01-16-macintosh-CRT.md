@@ -6,6 +6,7 @@ tags: macintosh pc-hardware electronic retro project
 > Reviving the CRT Display outside of its box.
 
 - [Macintosh 128K Through Classic II CRT and Yoke](https://applerescueofdenver.com/products-page/macintosh-to-powerpc/shop-by-model-all-in-one/128k-to-plus/macintosh-128k-through-classic-ii-crt-and-yoke/)
+- [Restoring the Macintosh Plus to working order!](https://www.youtube.com/watch?v=7TbCj3chP_c&t=803s)
 
 
 see also
