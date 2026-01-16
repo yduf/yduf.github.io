@@ -83,6 +83,30 @@ Partition / (100Go), /home (300Go)
 
 # Hardware info
 
+## GPU
+
+[Check NVIDIA Driver Linux](https://chatgpt.com/share/696a17e3-0930-800d-afd7-874bcef23d1a)
+This laptop has 2 gpu with hybrid graphics (Optimus):
+- Intel/AMD iGPU = primary display
+- NVIDIA MX350 = secondary, power-managed GPU
+
+{% highlight bash %}
+$ lspci -k | grep -EA3 'VGA|3D|Display'
+00:02.0 VGA compatible controller: Intel Corporation CometLake-U GT2 [UHD Graphics] (rev 02)
+	Subsystem: Huaqin Technology Co.Ltd CometLake-U GT2 [UHD Graphics]
+	Kernel driver in use: i915
+	Kernel modules: i915
+--
+01:00.0 3D controller: NVIDIA Corporation GP107M [GeForce MX350] (rev a1)
+	Subsystem: Huaqin Technology Co.Ltd GP107M [GeForce MX350]
+	Kernel modules: nvidiafb, nouveau, nvidia_drm, nvidia
+02:00.0 Non-Volatile memory controller: MAXIO Technology (Hangzhou) Ltd. NVMe SSD Controller MAP1608 (DRAM-less) (rev 01)
+{% endhighlight %}
+
+
+
+
+
 ## [Disassembly and upgrade optionsis](https://laptopmedia.com/highlights/inside-huawei-matebook-d-14-2020-disassembly-and-upgrade-options/)
 
 As a typical ultrabook, the memory is soldered to the motherboard, and it comes in two variants – 8GB and 16GB. Thankfully, there is an M.2 NVMe slot for storage upgrades.
@@ -159,5 +183,3 @@ Partition: ID-1: / size: 91.17 GiB used: 27.78 GiB (30.5%) fs: ext4 dev: /dev/nv
 Sensors:   System Temperatures: cpu: 35.0 C mobo: N/A gpu: nouveau temp: 34 C 
            Fan Speeds (RPM): N/A 
 {% endhighlight %}
-  
-
