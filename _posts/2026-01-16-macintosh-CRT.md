@@ -7,6 +7,7 @@ tags: macintosh pc-hardware electronic retro project
 
 - [ Macintosh Plus power supply troubleshooting and repair ](https://www.youtube.com/watch?v=64TpJGJdxAs)
 - [Macintosh Classic Schematic (bomarc)](https://github.com/nickpunt/nubus-se30/blob/master/Schematics/bomarc/Macintosh%20Classic%20Schematic%20(bomarc).pdf)
+- [Apple Service Manual](https://wiki.retrotechcollection.com/index.php?title=Macintosh_Classic&section=18)
 
 - [Macintosh 128K Through Classic II CRT and Yoke](https://applerescueofdenver.com/products-page/macintosh-to-powerpc/shop-by-model-all-in-one/128k-to-plus/macintosh-128k-through-classic-ii-crt-and-yoke/)
 - [Restoring the Macintosh Plus to working order!](https://www.youtube.com/watch?v=7TbCj3chP_c&t=803s)
