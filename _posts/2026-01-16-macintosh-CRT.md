@@ -11,7 +11,7 @@ tags: macintosh pc-hardware electronic retro project
 see also
 - [Rejuvenating a Macintosh CRT with equipment from 1969 #Apple #Mac #VintageComputing @craig1black](https://blog.adafruit.com/2020/06/09/rejuvenating-a-macintosh-crt-with-equipment-from-1969-apple-mac-vintagecomputing-craig1black/)
 
-## Project
+## Project 💭
 
 Make a binary monitor with remain from [Mac Classic]({% post_url 2023-06-14-mac-classic%})
 
@@ -22,4 +22,3 @@ Make a binary monitor with remain from [Mac Classic]({% post_url 2023-06-14-mac-
 - [ ] - provide video input using a Rasperry pi
 
 [![picture](https://systemtalk.org/img/mac/MacPlus_internals.jpeg)](https://systemtalk.org/post/macintosh-history-8603/)
-
