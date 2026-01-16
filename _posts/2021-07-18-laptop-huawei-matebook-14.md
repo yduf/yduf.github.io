@@ -85,7 +85,7 @@ Partition / (100Go), /home (300Go)
 
 ## GPU
 
-[Check NVIDIA Driver Linux](https://chatgpt.com/share/696a17e3-0930-800d-afd7-874bcef23d1a)
+[Check NVIDIA Driver Linux](hhttps://chatgpt.com/share/696a17e3-0930-800d-afd7-874bcef23d1a)
 This laptop has 2 gpu with hybrid graphics (Optimus):
 - Intel/AMD iGPU = primary display
 - NVIDIA MX350 = secondary, power-managed GPU
