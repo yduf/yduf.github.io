@@ -1,7 +1,7 @@
 ---
 title: Message Queues
 published: true
-tags: queue
+tags: queue architecture
 ---
 > There's essential decoupling and accidental decoupling; decoupling you want, and decoupling which mostly just obscures your business logic. - [The Big Little Guide to Message Queues](https://news.ycombinator.com/item?id=25596026)
 
