@@ -34,7 +34,7 @@ toc: true
 		- There's currently no way to make this model work in Linux
         - it use a [Goodix SPI scanner](https://chatgpt.com/share/68c40693-60e8-800d-8d8a-627f94c39f59) - see [Goodix GXFP5187 support (SPI GXFP5187)](https://gitlab.freedesktop.org/libfprint/libfprint/-/issues/112)
         - and is currenly incompatible with [`Fingerprint`]({% post_url 2024-12-31-fingerprint-libfprint %})
-        - [**Fingerprint reader**](https://wiki.archlinux.org/title/Huawei_MateBook_14_AMD_(2020)) - The Goodix fingerprint reader is currently unsupported officially. There is a fork however, which aims to provide support for the device (along with other similar goodix ones). The driver is currently in testing but there is an aur package for it libfprint-goodixtls-gitAUR which works with fprintd 
+        - [**Fingerprint reader fork**](https://wiki.archlinux.org/title/Huawei_MateBook_14_AMD_(2020)) - The Goodix fingerprint reader is currently unsupported officially. There is a fork however, which aims to provide support for the device (along with other similar goodix ones). The driver is currently in testing but there is an aur package for it libfprint-goodixtls-gitAUR which works with fprintd 
 
 ### [GPU intel/nvidia](https://chatgpt.com/share/6867d795-63c8-800d-aad8-96d250000571)
 
