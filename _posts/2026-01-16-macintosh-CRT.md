@@ -1,7 +1,7 @@
 ---
 title: "Macintosh CRT \U0001F5B5"
 published: true
-tags: macintosh CRT pc-hardware electronic retro project
+tags: macintosh CRT pc-hardware electronic retro dream project
 ---
 > Reviving the CRT Display outside of its box.
 
