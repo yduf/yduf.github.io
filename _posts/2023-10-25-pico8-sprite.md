@@ -18,7 +18,7 @@ see also
 
 Tips for the Embeded Pico 8 Editor
 - **to swap out a color** in your sprite for another one, just select the color you want and control-click the color you’re replacing to instantly replace all of it.
-- [poke(0x5f2e,1)](https://www.lexaloffle.com/bbs/?tid=54390) - prevents PICO-8 from resetting the palette when you return to the editor - so you can used customized palette to draw sprite
+- [poke(0x5f2e,1)](https://www.lexaloffle.com/bbs/?tid=54390) / [details](http://pico8wiki.com/index.php?title=Memory#Hardware_state) - prevents PICO-8 from resetting the palette when you return to the editor - so you can used customized palette to draw sprite
 
 **Online editor**: [draw pico-8 sprites!](https://nerdyteachers.com/PICO-8/Draw/Sprite/) - up to 32x32
 
