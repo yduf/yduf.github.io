@@ -7,6 +7,7 @@ tags: retro arcade CRT display repair
 
 - [**TV and Monitor CRT (Picture Tube) Information**](https://swharden.com/misc/crt-repair/?utm_source=chatgpt.com)
 	- [https://crt-mon.com/](https://crt-mon.com/)
+    	- [Universal Beam Restorer](https://www.crt-mon.com/pdf/_CRT-Data/SENCORE-CR70-Operation-Manual.pdf)
 - [Réparer la télé](https://www.repaircafe.org/fr/reparer-la-tele/)
 - [Repair Café de Montbonnot-Saint-Martin](https://www.ici-grenoble.org/structure/repair-cafe-de-montbonnot-saint-martin)
 	- [dates de permanence (14h-18h30)](https://www.repaircafemontbonnot.fr/)
