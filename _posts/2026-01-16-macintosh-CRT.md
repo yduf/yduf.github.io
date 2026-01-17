@@ -15,6 +15,7 @@ tags: macintosh CRT pc-hardware electronic retro project
 - [[EXTENDED] Apple Mac SE/30 Analog Board and PSU Restoration - Extended Cut](https://www.youtube.com/watch?v=O0-63sDOfm8)
 
 see also
+- [Repair CRT display]({% post_url 2025-12-28-CRT-display-maintenance %})
 - [1084s monitor total recap and repair ](https://www.youtube.com/watch?v=zqtabL2WGNI)
 - [Rejuvenating a Macintosh CRT with equipment from 1969 #Apple #Mac #VintageComputing @craig1black](https://blog.adafruit.com/2020/06/09/rejuvenating-a-macintosh-crt-with-equipment-from-1969-apple-mac-vintagecomputing-craig1black/)
 
