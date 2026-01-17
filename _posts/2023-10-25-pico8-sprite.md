@@ -8,7 +8,7 @@ toc: true
 
 For collision looks [here]({% post_url 2023-10-27-pico8-collision %})
 
-see also
+**see also**
 - [Vector Sprite]({% post_url 2023-11-12-games-pico8 %}#vector-game)
 	- [Anti-aliased vectors](https://www.lexaloffle.com/bbs/?pid=49754) by elice and freds72.
 
@@ -21,7 +21,16 @@ Tips for the Embeded Pico 8 Editor
 - [poke(0x5f2e,1)](https://www.lexaloffle.com/bbs/?tid=54390) / [details](http://pico8wiki.com/index.php?title=Memory#Draw_state) - prevents PICO-8 from resetting the palette when you return to the editor - this enable seeing the customized palette to draw sprite - **this poke must be called inside the program, otherwise reset happens**
 	- poke(0x5f2e,2+1) - will keep enabled the second palette on screen (so display stay after program stop)
 
+## External tools
+- [`export`](https://youtu.be/srPKBhzgZhc?feature=shared&t=724)
+	- `export spritesheet.png`
+	- `import spritesheet.png`
+- [respriter](https://www.lexaloffle.com/bbs/?tid=35255) -  move sprites around and have the map updated to point to the new location of your sprites ( remove the 2 square brackets on tab 5, line 375. to fix bugs on latest version)
+
 **Online editor**: [draw pico-8 sprites!](https://nerdyteachers.com/PICO-8/Draw/Sprite/) - up to 32x32
+
+# Collision
+For collision looks [here]({% post_url 2023-10-27-pico8-collision %})
 
 # Sprite Animation
 - [The secret guide to bullets, sprites, and animations](https://www.lexaloffle.com/bbs/?tid=44686)
@@ -59,11 +68,6 @@ see also
 - [Study notes on Pico-8 movement](https://ljvmiranda921.github.io/notebook/2021/01/31/pico8-offset/)
 - [Reusable Actor Class (Quick Start Library) ](https://www.reddit.com/r/pico8/comments/12awvi5/reusable_actor_class_quick_start_library/) / [github](https://github.com/gcoulby/pico-8-reusable-actor) / [demo]()
 
-### External tools
-- [`export`](https://youtu.be/srPKBhzgZhc?feature=shared&t=724)
-	- `export spritesheet.png`
-	- `import spritesheet.png`
-- [respriter](https://www.lexaloffle.com/bbs/?tid=35255) -  move sprites around and have the map updated to point to the new location of your sprites ( remove the 2 square brackets on tab 5, line 375. to fix bugs on latest version)
 
 ### Flipping Sprite
 
@@ -98,8 +102,6 @@ see also
 - [draws a sprite to the screen with an outline of the specified colour](https://gist.github.com/Liquidream/1b419261dc324708f008f24ee6d13d7b)
 - [z-index](https://www.lexaloffle.com/bbs/?pid=35182) - use hash (table) indexed on z, rather than sorting sprite for drawing
 
-### Collision
-For collision looks [here]({% post_url 2023-10-27-pico8-collision %})
 
 ### [Stacked Sprites](https://www.youtube.com/watch?v=_Z5eg9UvLRw)
 
