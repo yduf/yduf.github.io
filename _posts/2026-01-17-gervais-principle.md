@@ -1,5 +1,5 @@
 ---
-title: Gervais Principle
+title: "Gervais Principle \U00013274"
 published: true
 tags: despair.com enterprise job
 ---
