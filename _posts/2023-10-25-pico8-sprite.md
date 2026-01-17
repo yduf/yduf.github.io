@@ -14,6 +14,12 @@ see also
 
 <link rel="shortcut icon" href="https://static.wikia.nocookie.net/pico-8/images/4/4a/Site-favicon.ico/revision/latest?cb=20210713144653" type="image/x-icon" />
 
+# Editor
+
+Tips for the Embeded Pico 8 Editor
+- **to swap out a color** in your sprite for another one, just select the color you want and control-click the color you’re replacing to instantly replace all of it.
+- [poke(0x5f2e,1)](https://www.lexaloffle.com/bbs/?tid=54390) - prevents PICO-8 from resetting the palette when you return to the editor
+
 **Online editor**: [draw pico-8 sprites!](https://nerdyteachers.com/PICO-8/Draw/Sprite/) - up to 32x32
 
 # Sprite Animation
