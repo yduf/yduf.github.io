@@ -5,4 +5,4 @@ tags: image upscaler
 ---
 > [free image upscaler (ChatGPT)](https://chatgpt.com/share/696ea035-319c-800d-a59e-848b021c0d72)
 
-- used one of the free one but which ?
+- used one of the free online one but which ?
