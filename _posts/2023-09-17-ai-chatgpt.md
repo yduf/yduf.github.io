@@ -40,7 +40,7 @@ see also
 - [whisper.cpp](https://github.com/ggerganov/whisper.cpp#whispercpp) - High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model
 - [Attention Wasn't All We Needed](https://news.ycombinator.com/item?id=44075105)
 - [	The Q, K, V Matrices](https://news.ycombinator.com/item?id=46523887) - At the core of the attention mechanism in LLMs are three matrices: Query, Key, and Value. These matrices are how transformers actually pay attention to different parts of the input. In this write-up, we will go through the construction of these matrices from the ground up.
-	- [HN](https://news.ycombinator.com/item?id=46535549) - Attention is a reinvention of Kernel Smoothing
+	- [HN](https://news.ycombinator.com/item?id=46535549) - Attention is a reinvention of Kernel Smoothing (for what it means?)
 
 # see also
 - [Êtes-vous WEIRD? - La chronique d'Albert Moukheiber dans "La dernière"](https://www.youtube.com/watch?v=NAXS8N7JbsU) - ChatGPT est W.E.I.R.D
