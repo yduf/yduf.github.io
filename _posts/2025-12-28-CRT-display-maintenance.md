@@ -11,6 +11,8 @@ tags: retro arcade CRT display repair
 - [En cas de problème d’images](https://www.lelectronique.com/depannage/technique/cas-de-probleme-d-images.html)
 - [**Notes on the Troubleshooting and Repair of Computer and Video Monitors**](https://www.repairfaq.org/sam/monfaq.htm)
 	- [Tired CRT symptom and causes (ChatGPT)](https://chatgpt.com/share/696e9f2f-b220-800d-8149-e0330b5420e0)
+ 
+
 - [Réparer la télé](https://www.repaircafe.org/fr/reparer-la-tele/)
 - [Repair Café de Montbonnot-Saint-Martin](https://www.ici-grenoble.org/structure/repair-cafe-de-montbonnot-saint-martin)
 	- [dates de permanence (14h-18h30)](https://www.repaircafemontbonnot.fr/)
