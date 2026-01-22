@@ -62,7 +62,31 @@ So:
 ❌ Not a kernel issue
 
 Check Network Manager
-Check DHCP Service
+Check DHCP Service lease
+
+{% highlight bash %}
+$ sudo dhclient -v enx6c1ff76c1d75 
+Internet Systems Consortium DHCP Client 4.4.3-P1 Copyright 2004-2022 Internet Systems Consortium. 
+All rights reserved. 
+For info, please visit https://www.isc.org/software/dhcp/ 
+
+Listening on LPF/enx6c1ff76c1d75/6c:1f:f7:6c:1d:75 
+Sending on LPF/enx6c1ff76c1d75/6c:1f:f7:6c:1d:75 
+Sending on Socket/fallback
+xid: warning: no netdev with useable HWADDR found for seed's uniqueness enforcement xid: rand init seed (0x690ecc6b) built using gethostid 
+DHCPDISCOVER on enx6c1ff76c1d75 to 255.255.255.255 port 67 interval 3 (xid=0x3f28f973)
+...
+{% endhighlight %}
+
+No DHCPOFFER is ever received
+
+That means:
+Ethernet link: ✅ up
+Driver: ✅ working
+Packets sent: ✅ DHCPDISCOVER is broadcast
+Packets received: ❌ none
+
+📌 The DHCP server (router/network) is not replying to this interface at all.
 
 ## [perf host/host](https://linuxaria.com/article/tool-command-line-bandwidth-linux)
 [also](https://www.linux.com/learn/five-funny-little-linux-network-testers-and-monitors)
