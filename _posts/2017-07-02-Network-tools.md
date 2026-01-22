@@ -79,7 +79,7 @@ DHCPDISCOVER on enx6c1ff76c1d75 to 255.255.255.255 port 67 interval 3 (xid=0x3f2
 ...
 {% endhighlight %}
 
-No DHCPOFFER is ever received
+**No DHCPOFFER is ever received**
 
 That means:  
 Ethernet link: ✅ up  
