@@ -50,19 +50,19 @@ DEVICE TYPE STATE CONNECTION
 enx6c1ff76c1d75 ethernet disconnected -- 
 {% endhighlight %}
 
-Hardware & driver: OK
-USB NIC detected: RTL8153
-Driver loaded: r8152
-Interface renamed properly: eth0 → enx6c1ff76c1d75
-Link state: <UP, LOWER_UP> ⟶ Cable + link are detected
+Hardware & driver: OK  
+USB NIC detected: RTL8153  
+Driver loaded: r8152  
+Interface renamed properly: eth0 → enx6c1ff76c1d75  
+Link state: <UP, LOWER_UP> ⟶ Cable + link are detected  
 
 So:
-❌ Not a cable
-❌ Not a driver
-❌ Not a kernel issue
+❌ Not a cable  
+❌ Not a driver  
+❌ Not a kernel issue  
 
-Check Network Manager
-Check DHCP Service lease
+Check Network Manager  
+Check DHCP Service lease  
 
 {% highlight bash %}
 $ sudo dhclient -v enx6c1ff76c1d75 
@@ -80,13 +80,13 @@ DHCPDISCOVER on enx6c1ff76c1d75 to 255.255.255.255 port 67 interval 3 (xid=0x3f2
 
 No DHCPOFFER is ever received
 
-That means:
-Ethernet link: ✅ up
-Driver: ✅ working
-Packets sent: ✅ DHCPDISCOVER is broadcast
-Packets received: ❌ none
+That means:  
+Ethernet link: ✅ up  
+Driver: ✅ working  
+Packets sent: ✅ DHCPDISCOVER is broadcast  
+Packets received: ❌ none  
 
-📌 The DHCP server (router/network) is not replying to this interface at all.
+📌 The DHCP server (router/network) is not replying to this interface at all.  
 
 ## [perf host/host](https://linuxaria.com/article/tool-command-line-bandwidth-linux)
 [also](https://www.linux.com/learn/five-funny-little-linux-network-testers-and-monitors)
