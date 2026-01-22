@@ -57,7 +57,7 @@ Driver loaded: r8152
 Interface renamed properly: eth0 → enx6c1ff76c1d75  
 Link state: <UP, LOWER_UP> ⟶ Cable + link are detected  
 
-So:
+So:  
 ❌ Not a cable  
 ❌ Not a driver  
 ❌ Not a kernel issue  
