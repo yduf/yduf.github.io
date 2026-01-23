@@ -29,6 +29,17 @@ title: Tags
     padding: 10px;
     z-index: 1000;
   }
+
+  #graph-container .graph-header {
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #ddd;
+  }
+
+  #graph-container .graph-header label {
+    font-size: 14px;
+    cursor: pointer;
+  }
         
   .toggle-btn {
       position: fixed;
@@ -89,7 +100,13 @@ title: Tags
 
 <!-- Floating Graph Container -->
 <div id="graph-container">
-  <svg width="400" height="400">
+  <div class="graph-header">
+    <label>
+      <input type="checkbox" class="toggle-checkbox" id="toggleGraphInContainer" />
+      Show Graph
+    </label>
+  </div>
+  <svg width="400" height="380">
     <g id="zoomLayer"></g> <!-- Zoomable container -->
   </svg>
 </div>
@@ -275,74 +292,86 @@ function appendToMapArray(map, key, value) {
     
     const graphContainer = document.getElementById("graph-container");
     const toggleGraphCheckbox = document.getElementById("toggleGraph");
+    const toggleGraphInContainerCheckbox = document.getElementById("toggleGraphInContainer");
 
-    const svg = d3.select("svg");
-    const zoomLayer = d3.select("#zoomLayer");
+    // Graph components - will be initialized lazily
+    let svg, zoomLayer, zoom, simulation, link, node, labels;
+    let graphInitialized = false;
 
-    // Define zoom behavior
-    const zoom = d3.zoom()
-      .scaleExtent([0.1, 5])  // Min 50%, Max 500% zoom
-      .on("zoom", (event) => {
-        zoomLayer.attr("transform", event.transform);
+    // Initialize the graph (lazy loading)
+    function initializeGraph() {
+      if (graphInitialized) return;
+      
+      svg = d3.select("svg");
+      zoomLayer = d3.select("#zoomLayer");
+
+      // Define zoom behavior
+      zoom = d3.zoom()
+        .scaleExtent([0.1, 5])  // Min 50%, Max 500% zoom
+        .on("zoom", (event) => {
+          zoomLayer.attr("transform", event.transform);
+        });
+
+      svg.call(zoom)  // Apply zoom & pan to SVG
+        .call(zoom.transform, d3.zoomIdentity.translate(width / 4, height / 4)); // Initial position
+      
+      simulation = d3.forceSimulation(data.nodes)
+        .force("link", d3.forceLink(data.links).id(d => d.id).distance(80))
+        .force("charge", d3.forceManyBody().strength(-200))
+        .force("center", d3.forceCenter(width / 2, height / 2));
+
+      link = zoomLayer.append("g")
+        .selectAll("line")
+        .data(data.links)
+        .join("line")
+        .attr("stroke", "#999")
+        .attr("stroke-opacity", 0.6)
+        .attr("stroke-width", 2);
+
+      node = zoomLayer.append("g")
+        .selectAll("circle")
+        .data(data.nodes)
+        .join("circle")
+        .attr("r", d => Math.sqrt(d.size) * 2)
+        .attr("fill", "steelblue")
+        .style("cursor", "pointer")
+        .on("click", (event, d) => {
+          highlightNode(d);
+          // Scroll to the relevant section
+          document.getElementById(d.id).scrollIntoView({ behavior: "smooth" });
+        })
+        .call(d3.drag()
+          .on("start", dragStarted)
+          .on("drag", dragged)
+          .on("end", dragEnded));
+
+      labels = zoomLayer.append("g")
+        .selectAll("text")
+        .data(data.nodes)
+        .join("text")
+        .text(d => d.name)
+        .attr("font-size", "10px")
+        .attr("fill", "black")
+        .join("text")
+
+      simulation.on("tick", () => {
+        link
+          .attr("x1", d => d.source.x)
+          .attr("y1", d => d.source.y)
+          .attr("x2", d => d.target.x)
+          .attr("y2", d => d.target.y);
+
+        node
+          .attr("cx", d => d.x)
+          .attr("cy", d => d.y);
+
+        labels
+          .attr("x", d => d.x + 8)
+          .attr("y", d => d.y);
       });
 
-    svg.call(zoom)  // Apply zoom & pan to SVG
-      .call(zoom.transform, d3.zoomIdentity.translate(width / 4, height / 4)); // Initial position
-    
-    const simulation = d3.forceSimulation(data.nodes)
-      .force("link", d3.forceLink(data.links).id(d => d.id).distance(80))
-      .force("charge", d3.forceManyBody().strength(-200))
-      .force("center", d3.forceCenter(width / 2, height / 2));
-
-    const link = zoomLayer.append("g")
-      .selectAll("line")
-      .data(data.links)
-      .join("line")
-      .attr("stroke", "#999")
-      .attr("stroke-opacity", 0.6)
-      .attr("stroke-width", 2);
-
-    const node = zoomLayer.append("g")
-      .selectAll("circle")
-      .data(data.nodes)
-      .join("circle")
-      .attr("r", d => Math.sqrt(d.size) * 2)
-      .attr("fill", "steelblue")
-      .style("cursor", "pointer")
-      .on("click", (event, d) => {
-        highlightNode(d);
-        // Scroll to the relevant section
-        document.getElementById(d.id).scrollIntoView({ behavior: "smooth" });
-      })
-      .call(d3.drag()
-        .on("start", dragStarted)
-        .on("drag", dragged)
-        .on("end", dragEnded));
-
-    const labels = zoomLayer.append("g")
-      .selectAll("text")
-      .data(data.nodes)
-      .join("text")
-      .text(d => d.name)
-      .attr("font-size", "10px")
-      .attr("fill", "black")
-      .join("text")
-
-    simulation.on("tick", () => {
-      link
-        .attr("x1", d => d.source.x)
-        .attr("y1", d => d.source.y)
-        .attr("x2", d => d.target.x)
-        .attr("y2", d => d.target.y);
-
-      node
-        .attr("cx", d => d.x)
-        .attr("cy", d => d.y);
-
-      labels
-        .attr("x", d => d.x + 8)
-        .attr("y", d => d.y);
-    });
+      graphInitialized = true;
+    }
 
     function dragStarted(event, d) {
       if (!event.active) simulation.alphaTarget(0.3).restart();
@@ -363,6 +392,8 @@ function appendToMapArray(map, key, value) {
 
 // Function to focus the graph on a topic
 function focusOnTopic(topicId) {
+  if (!graphInitialized) return;
+  
   const topic = data.nodes.find(node => node.id === topicId);
   if (!topic) return;
 
@@ -380,6 +411,8 @@ function focusOnTopic(topicId) {
 
   // Function to highlight a node and its neighbors
 function highlightNode(selectedNode) {
+  if (!graphInitialized) return;
+  
   const neighbors = new Set();
   data.links.forEach(link => {
     if (link.source.id === selectedNode.id) neighbors.add(link.target.id);
@@ -427,37 +460,55 @@ document.querySelectorAll('.topic-section').forEach(header => {
 });
 
 // Show/Hide Graph Based on Checkbox
-function hideGraph(enabled) {
+function setGraphVisibility(enabled) {
     if (enabled) {
+        // Initialize graph if not already done
+        if (!graphInitialized) {
+          initializeGraph();
+        }
         // Show the graph container
         graphContainer.style.display = "block";
-        simulation.alpha(1).restart(); // Restart the simulation if shown
-        // drawGraph();
+        if (simulation) {
+          simulation.alpha(1).restart(); // Restart the simulation if shown
+        }
     } else {
         // Hide the graph container
         graphContainer.style.display = "none";
-        simulation.stop(); // Stop the simulation if hidden
+        if (simulation) {
+          simulation.stop(); // Stop the simulation if hidden
+        }
     }
 }
 
-toggleGraphCheckbox.addEventListener("change", () => {
-  hideGraph(toggleGraphCheckbox.checked )
-});
-
-// Optional: Save user preference for graph visibility (localStorage)
-const savedPreference = localStorage.getItem("graphVisibility");
-if (savedPreference === "shown") {
-    toggleGraphCheckbox.checked = true;
-    hideGraph(toggleGraphCheckbox.checked )
-} else {
-    toggleGraphCheckbox.checked = false;
-    hideGraph(toggleGraphCheckbox.checked )
+// Synchronize checkboxes - when one changes, update the other
+function syncCheckboxes(sourceCheckbox, targetCheckbox) {
+  targetCheckbox.checked = sourceCheckbox.checked;
+  setGraphVisibility(sourceCheckbox.checked);
+  // Save preference
+  const visibility = sourceCheckbox.checked ? "shown" : "hidden";
+  localStorage.setItem("graphVisibility", visibility);
 }
 
-// Save the preference when the user toggles the checkbox
+// Add event listeners to both checkboxes
 toggleGraphCheckbox.addEventListener("change", () => {
-    const visibility = toggleGraphCheckbox.checked ? "shown" : "hidden";
-    localStorage.setItem("graphVisibility", visibility);
+  syncCheckboxes(toggleGraphCheckbox, toggleGraphInContainerCheckbox);
 });
+
+toggleGraphInContainerCheckbox.addEventListener("change", () => {
+  syncCheckboxes(toggleGraphInContainerCheckbox, toggleGraphCheckbox);
+});
+
+// Load user preference and initialize
+const savedPreference = localStorage.getItem("graphVisibility");
+const shouldShowGraph = savedPreference === "shown";
+
+// Set both checkboxes to the saved state
+toggleGraphCheckbox.checked = shouldShowGraph;
+toggleGraphInContainerCheckbox.checked = shouldShowGraph;
+
+// Only initialize and show graph if enabled
+if (shouldShowGraph) {
+  setGraphVisibility(true);
+}
 
 </script>
