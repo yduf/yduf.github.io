@@ -18,7 +18,7 @@ It takes the stress about needing to monitor all the agents all the time too, wh
 
 I'm on Ubuntu 22.04 and it was surprisingly pleasant to create a layered sandbox approach with bubblewrap and Landlock LSM: 
 - [**Landlock**]({% post_url 2025-05-05-sandbox-landlock %}) for filesystem restrictions (deny-first, only whitelisted paths accessible) and TCP port control (API, git, local dev servers), 
-- bubblewrap for mount namespace isolation (/tmp per-project, hiding secrets), and dnsmasq for DNS whitelisting (only essential domains resolve - everything else gets NXDOMAIN).
+- [**bubblewrap**]({% post_url 2025-08-16-process-sandboxing %}) for mount namespace isolation (/tmp per-project, hiding secrets), and dnsmasq for DNS whitelisting (only essential domains resolve - everything else gets NXDOMAIN).
 
 **see also**
 [	Designing agentic loops](https://news.ycombinator.com/item?id=45426680)
