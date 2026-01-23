@@ -1,5 +1,5 @@
 ---
-title: "Sharing Home folder  \U0001F6A7"
+title: "Sharing $HOME folder  \U0001F6A7"
 published: true
 tags: network nfs home in-progress
 ---
