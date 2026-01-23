@@ -9,5 +9,5 @@ tags: zombie book
 
 
 **see also**
-- [HN’s favourites bookmap](https://hnbooks.pieterma.es/)
+- [HN’s favourites](https://hnbooks.pieterma.es/) - a map of the 1000 most mentioned books on Hacker News. 
 - [LatentTopicExplorer](https://github.com/johnwatson11218/LatentTopicExplorer?tab=readme-ov-file#latenttopicexplorer) - Application to discover and explore topics in a pdf corpus.
