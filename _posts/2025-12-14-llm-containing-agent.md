@@ -17,7 +17,7 @@ _from [HN](https://news.ycombinator.com/item?id=46697610) - It's impossible to n
 It takes the stress about needing to monitor all the agents all the time too, which is great and creates incentives to learn how to build longer tasks for CC with more feedback loops.
 
 I'm on Ubuntu 22.04 and it was surprisingly pleasant to create a layered sandbox approach with bubblewrap and Landlock LSM: 
-- Landlock for filesystem restrictions (deny-first, only whitelisted paths accessible) and TCP port control (API, git, local dev servers), 
+- [**Landlock**]({% post_url 2025-05-05-sandbox-landlock %}) for filesystem restrictions (deny-first, only whitelisted paths accessible) and TCP port control (API, git, local dev servers), 
 - bubblewrap for mount namespace isolation (/tmp per-project, hiding secrets), and dnsmasq for DNS whitelisting (only essential domains resolve - everything else gets NXDOMAIN).
 
 **see also**
