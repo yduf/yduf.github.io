@@ -3,7 +3,10 @@ published: true
 title: Duff's Devices
 tags: c++ compiler tricks
 ---
-## [Loop unrolling](https://en.wikipedia.org/wiki/Duff%27s_device)
+> [Loop unrolling](https://en.wikipedia.org/wiki/Duff%27s_device)
+
+see also
+- [Pigeon's Device ](http://pigeonsnest.co.uk/stuff/pigeons-device.html)
 
 Duff's device is a way of manually implementing loop unrolling by interleaving two syntactic constructs of C: the do-while loop and a switch statement. Its discovery is credited to Tom Duff in November 1983, when Duff was working for Lucasfilm and used it to speed up a real-time animation program. 
 

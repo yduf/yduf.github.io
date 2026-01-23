@@ -10,6 +10,8 @@ toc: true
 
 [![caption](https://www.flylanddesigns.com/wp-content/uploads/Shop-Thumbnail-Pinball-845x321.jpg)](https://www.flylanddesigns.com/)
 
+see also
+- [VPX - What you MUST Know - START HERE](https://www.youtube.com/watch?v=ld7nh_RJFPI)
 - [vpxtools](https://github.com/francisdb/vpxtool) - Cross-platform console based utility for the vpinball ecosystem
 - [pinball-parts](https://github.com/vbousquet/pinball-parts) - Blender Pinball Parts library
 

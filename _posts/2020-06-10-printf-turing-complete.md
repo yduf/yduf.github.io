@@ -16,6 +16,7 @@ tags: ioccc printf security turing-complete tic-tac-toe c++ network
 - [C implementation of Tic-Tac-Toe in a single call to printf](https://github.com/carlini/printf-tac-toe) - [HN](https://news.ycombinator.com/item?id=23445546)
 - [Microcorruption]({% post_url 2017-11-30-reverse-microcorruption %})
 - [	`find` + `mkdir` is Turing complete](https://ogiekako.vercel.app/blog/find_mkdir_tc) / [HN](https://news.ycombinator.com/item?id=41115941) - a system that has only GNU's find and mkdir commands is Turing-complete.
+- [Implementing a web server in a single printf() call](https://tinyhack.com/2014/03/12/implementing-a-web-server-in-a-single-printf-call/) / [HN](https://news.ycombinator.com/item?id=46549714)
 
 {% highlight cpp %}
 #include <stdio.h> 

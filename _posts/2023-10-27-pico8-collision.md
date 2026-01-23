@@ -10,9 +10,12 @@ toc: true
 
 Yet we will distinguish 2 aspects: [Map boundaries](#map-boundaries) (ground&wall) and [colliding](#sprites-collision) with other object (sprites).
 
-# Map Boundaries
+**see also**
+- [Zelda in Pico-8 - Top-Down Movement](https://www.youtube.com/watch?v=frqf73ycQc0)
 
-- [Zelda in Pico-8 - Top-Down Movement](https://prose.io/#yduf/yduf.github.io/edit/master/_posts/2023-10-28-pico8-map.md)
+[![caption](https://img.youtube.com/vi/frqf73ycQc0/0.jpg)](https://www.youtube.com/watch?v=frqf73ycQc0)
+
+# Map Boundaries
 
 [![caption](https://github.com/RuairiD/pico8-bump.lua/raw/master/img/slide.png) ](#general-aabb-solution)
 

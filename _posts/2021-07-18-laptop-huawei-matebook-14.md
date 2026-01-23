@@ -22,7 +22,7 @@ toc: true
 
 # [BIOS](https://consumer.huawei.com/en/support/laptops/matebook-14-2020/) - 1.19 Rev 5.0
 
-# Linux support
+# [Linux support](https://wiki.archlinux.org/title/Huawei_MateBook_14_AMD_(2020))
 - [Nvidia GeForce MX350 driver N/A although installed](https://forums.linuxmint.com/viewtopic.php?t=353047&p=2039798)
 - [power button issue](https://bbs.archlinux.org/viewtopic.php?id=225752)
 - [ivzave/matebook-linux](https://github.com/ivzave/matebook-linux) - patching [acpi table]({% post_url 2021-07-25-acpi %})
@@ -34,6 +34,7 @@ toc: true
 		- There's currently no way to make this model work in Linux
         - it use a [Goodix SPI scanner](https://chatgpt.com/share/68c40693-60e8-800d-8d8a-627f94c39f59) - see [Goodix GXFP5187 support (SPI GXFP5187)](https://gitlab.freedesktop.org/libfprint/libfprint/-/issues/112)
         - and is currenly incompatible with [`Fingerprint`]({% post_url 2024-12-31-fingerprint-libfprint %})
+        - [**Fingerprint reader fork**](https://wiki.archlinux.org/title/Huawei_MateBook_14_AMD_(2020)) - The Goodix fingerprint reader is currently unsupported officially. There is a fork however, which aims to provide support for the device (along with other similar goodix ones). The driver is currently in testing but there is an aur package for it libfprint-goodixtls-gitAUR which works with fprintd 
 
 ### [GPU intel/nvidia](https://chatgpt.com/share/6867d795-63c8-800d-aad8-96d250000571)
 
@@ -82,6 +83,30 @@ Internet connection is recommanded for install (for thirdparty software).
 Partition / (100Go), /home (300Go)
 
 # Hardware info
+
+## GPU
+
+[Check NVIDIA Driver Linux](hhttps://chatgpt.com/share/696a17e3-0930-800d-afd7-874bcef23d1a)
+This laptop has 2 gpu with hybrid graphics (Optimus):
+- Intel/AMD iGPU = primary display
+- NVIDIA MX350 = secondary, power-managed GPU
+
+{% highlight bash %}
+$ lspci -k | grep -EA3 'VGA|3D|Display'
+00:02.0 VGA compatible controller: Intel Corporation CometLake-U GT2 [UHD Graphics] (rev 02)
+	Subsystem: Huaqin Technology Co.Ltd CometLake-U GT2 [UHD Graphics]
+	Kernel driver in use: i915
+	Kernel modules: i915
+--
+01:00.0 3D controller: NVIDIA Corporation GP107M [GeForce MX350] (rev a1)
+	Subsystem: Huaqin Technology Co.Ltd GP107M [GeForce MX350]
+	Kernel modules: nvidiafb, nouveau, nvidia_drm, nvidia
+02:00.0 Non-Volatile memory controller: MAXIO Technology (Hangzhou) Ltd. NVMe SSD Controller MAP1608 (DRAM-less) (rev 01)
+{% endhighlight %}
+
+
+
+
 
 ## [Disassembly and upgrade optionsis](https://laptopmedia.com/highlights/inside-huawei-matebook-d-14-2020-disassembly-and-upgrade-options/)
 
@@ -159,5 +184,3 @@ Partition: ID-1: / size: 91.17 GiB used: 27.78 GiB (30.5%) fs: ext4 dev: /dev/nv
 Sensors:   System Temperatures: cpu: 35.0 C mobo: N/A gpu: nouveau temp: 34 C 
            Fan Speeds (RPM): N/A 
 {% endhighlight %}
-  
-

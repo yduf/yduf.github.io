@@ -2,6 +2,7 @@
 published: true
 title: ChatGPT / Emergent world représentation
 tags: LLM test c++ mental-model
+toc: true
 ---
 > These People fail to realize that an AI outscoring a human on a test does not mean it can actually do the thing the test measures. - [GPT-4 Is Not Getting Worse](https://coagulopath.com/gpt-4-is-not-getting-worse/) / [HN](https://news.ycombinator.com/item?id=37532522)
 
@@ -9,9 +10,39 @@ tags: LLM test c++ mental-model
 
 ChatGPT is a _development limité_ of human knowledge, you can get a good initial point, but when conversing with it, you are derivating farther away from the a valid human interaction. - yduf
 
-- [What's wrong with LLMs and what we should be building instead](https://www.youtube.com/watch?v=cEyHsMzbZBs)
+# LLM
 
-### see also
+- [What's wrong with LLMs and what we should be building instead](https://www.youtube.com/watch?v=cEyHsMzbZBs)
+- [	2025: The Year in LLMs](https://news.ycombinator.com/item?id=46449643)
+
+## Transformer
+
+Why [Attention Is All You Need](https://arxiv.org/abs/1706.03762) ? (And what is the novelty of tranformer)
+explained by [ChatGPT](https://chatgpt.com/share/69624150-2120-800d-af2a-cc957e6011b3):
+
+_Before this paper, language models and sequence-to-sequence systems typically used_:
+- Recurrent Neural Networks (RNNs) — process tokens one by one, carrying a hidden state forward.
+- LSTM/GRU — RNN variants that mitigate some long-term memory problems, but still inherently sequential.
+
+The Transformer made three major shifts:
+- Self-attention replaces recurrence
+- Parallel computation
+- Scalable building blocks
+
+see also
+- [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+	- [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
+    	- [tiktokenizer]( https://tiktokenizer.vercel.app) - online syntax coloring token extraction
+        - [Byte Pair algorithm](https://en.wikipedia.org/wiki/Byte_pair_encoding) - identify most used pairs in a sequence
+	- [Let's reproduce GPT-2 (124M)](https://www.youtube.com/watch?v=l8pRSuU81PU)
+- [	Llama from scratch, or how to implement a paper without crying](https://news.ycombinator.com/item?id=37059479)
+- [The Geometry of Truth: Do LLM's Know True and False](https://news.ycombinator.com/item?id=37945961)
+- [whisper.cpp](https://github.com/ggerganov/whisper.cpp#whispercpp) - High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model
+- [Attention Wasn't All We Needed](https://news.ycombinator.com/item?id=44075105)
+- [	The Q, K, V Matrices](https://news.ycombinator.com/item?id=46523887) - At the core of the attention mechanism in LLMs are three matrices: Query, Key, and Value. These matrices are how transformers actually pay attention to different parts of the input. In this write-up, we will go through the construction of these matrices from the ground up.
+	- [HN](https://news.ycombinator.com/item?id=46535549) - Attention is a reinvention of Kernel Smoothing (for what it means?)
+
+# see also
 - [Êtes-vous WEIRD? - La chronique d'Albert Moukheiber dans "La dernière"](https://www.youtube.com/watch?v=NAXS8N7JbsU) - ChatGPT est W.E.I.R.D
 	- **W**estern
     - **E**ducated

@@ -245,6 +245,7 @@ Once done, use hot glue on mirror screw to secure position.
 ![aligment help](mirror-alignement.svg)
 
 see also
+- [combined tube nonmetal co2 laser machine mirror alignment guide](https://www.youtube.com/watch?v=k8FbWfofzEA) - alignment in 33 easy step... 😀
 - [3 mirrors](https://www.youtube.com/watch?v=Jjaz7E1Xy5c)
 - [Main Mirror Replacement](https://www.youtube.com/watch?v=mIn262PcTH4)
 
@@ -353,5 +354,7 @@ use [LibLaserCut](https://github.com/t-oster/LibLaserCut?tab=readme-ov-file#libl
 - [Homemade CO2 Laser Tube](https://www.youtube.com/watch?v=5zpbXpHWSB0) / [Part2](https://www.youtube.com/watch?v=6gfdlH9kcvU)
 - [EFR CO2 laser tube factory ,60W to 220W power](https://www.youtube.com/watch?v=tYDHQ_mH1Bc)
 - [K40 Laser Cutter Rebuild-12x24in Cutting Area](https://www.instructables.com/K40-Laser-Cutter-Rebuild-12x24in-Cutting-Area/)
+
+- [DIY Laser cutter - part 2](https://www.youtube.com/watch?v=82QrX7Rr3Os)
 
 [![rebuild](https://content.instructables.com/FBX/6Y9K/K0R1L5FF/FBX6Y9KK0R1L5FF.jpg?auto=webp&frame=1&width=600&height=1024&fit=bounds&md=MjAxOS0wOS0yMCAxNjo0MDo0My4w)](https://www.instructables.com/K40-Laser-Cutter-Rebuild-12x24in-Cutting-Area/)

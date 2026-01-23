@@ -81,6 +81,7 @@ see also
 
 see also
 - [Floppy8 - A Tiny Computer, in a Floppy Drive](https://abe.today/blogs/main/floppy8-a-tiny-computer-in-a-floppy-drive?utm_source=youtube&utm_medium=product_shelf)
+- [Repairing and Restoring a Vintage Macintosh Floppy Drive](https://www.youtube.com/watch?v=2LWfjsvc8OA)
 
 # Project - rehousing
 

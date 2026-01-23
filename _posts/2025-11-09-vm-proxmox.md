@@ -7,3 +7,4 @@ tags: vm
 
 see also
 - [What are people doing to get off of VMware?](https://news.ycombinator.com/item?id=45635940)
+- [	SmartOS](https://news.ycombinator.com/item?id=46706947)

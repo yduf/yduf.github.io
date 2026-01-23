@@ -8,6 +8,8 @@ tags: map earth cartography
 - [	OpenFreeMap survived 100k requests per second](https://news.ycombinator.com/item?id=44846318)
 
 see also
+- [OpenStreetMap](https://www.openstreetmap.org/#map=6/46.45/2.21) - [data is free for everyone to use. Our tile servers are not](https://operations.osmfoundation.org/policies/tiles/)
+- [Why NUKEMAP isn’t on Google Maps anymore](https://blog.nuclearsecrecy.com/2019/12/13/why-nukemap-isnt-on-google-maps-anymore/)
 - [	Shipmap.org](https://www.shipmap.org/) / [HN](https://news.ycombinator.com/item?id=46527161) - map of ship travelling ocean
 - [submarine cable map](https://news.ycombinator.com/item?id=28641463) - on a glob
 - [The_Victorian_Internet (subsea telegraph network)](https://news.ycombinator.com/item?id=46432999) / [HN](https://en.wikipedia.org/wiki/The_Victorian_Internet) - Alice Springs exists because it was a repeater station for a telegraph line that stretched from Southern Australia all the way to London. 
