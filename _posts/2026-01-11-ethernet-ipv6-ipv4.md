@@ -7,4 +7,5 @@ tags: network ethernet internet
 
 see also
 - [	IPv6 just turned 30 and still hasn't taken over the world ](https://news.ycombinator.com/item?id=46465327)
+- [IPv6 is not insecure because it lacks a NAT](https://www.johnmaguire.me/blog/ipv6-is-not-insecure-because-it-lacks-nat/)
 - [What Happened to IPv5?](https://chatgpt.com/share/6963e4f6-a314-800d-85b9-0d77056e5f42)
