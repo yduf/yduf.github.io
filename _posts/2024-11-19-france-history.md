@@ -22,7 +22,7 @@ see also
 - [Biens meubles, châtiments corporels : à quoi correspond le Code Noir qui n'a jamais été aboli ?](https://www.france24.com/fr/france/20250607-biens-meubles-ch%C3%A2timents-corporels-%C3%A0-quoi-correspond-le-code-noir-qui-n-a-jamais-%C3%A9t%C3%A9-aboli)
 
 ### Jamaique
-- [POURQUOI LES RASTA PARLENT COMME ÇA ?](https://www.youtube.com/watch?v=vfn_XDlrLPc)
+- [POURQUOI LES RASTA PARLENT COMME ÇA ?](https://www.youtube.com/watch?v=vfn_XDlrLPc) - I & I
 
 ### see also
 - [Imperial boomerang](https://en.wikipedia.org/wiki/Imperial_boomerang) - the thesis that governments that develop repressive techniques to control colonial territories will eventually deploy those same techniques domestically against their own citizens. 
