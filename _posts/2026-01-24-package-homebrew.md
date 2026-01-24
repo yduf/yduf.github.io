@@ -6,6 +6,12 @@ toc: true
 ---
 > [What is the benefit of using homebrew on debian?](https://chatgpt.com/share/69749ee5-1630-800d-a89c-a215cef61cc1)
 
+A very similar setup can also be achieved by using [Nix]({% post_url 2026-01-24-package-nix %}). 
+- At this point Nix, seems less messy and more powerfull.
+
+**The 3 standard package mangaer (apt,brew,nix) can coexist**
+
+
 Benefits
 - Up-to-date versions of software
 	- Large collection of developer tools
@@ -14,11 +20,6 @@ Benefits
 	- [**YET the installer want it**](https://docs.brew.sh/Installation#alternative-installs)
 	- brew install a lot of stuff into `/home/linuxbrew` - [root owned](#root-access)
     	- but then content is tighed to the user
-
-A very similar setup can also be achieved by using [Nix]({% post_url 2026-01-24-package-nix %}). 
-- At this point Nix, seems less messy.
-
-**The 3 (apt,brew,nix) can coexist**
 
 ## Setup
 
