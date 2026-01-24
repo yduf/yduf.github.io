@@ -95,7 +95,14 @@ Flakes are now the standard way to use Nix.
 
 It provide a more advanced [Workflow for Using Flakes](https://chatgpt.com/share/6974e1d8-0350-800d-825e-9bb1d6a02ec6), targeting more specifically developer and project build repetability. _see below_
 
-In spirits it's very similar to tool like _bundler, maven, meson or uv_ in that it ensure a reproducible set of dependancies and their version, but on a more general scope including the tools ecosystem itself.
+In spirits [it's very similar](https://chatgpt.com/share/6974f17f-e5d4-800d-9ba5-cda36b628efc) to tool like _bundler, maven, meson or uv_ in that it ensure a reproducible set of dependancies and their version, but on a more general scope including the tools ecosystem itself.
+
+| Aspect      | Nix flakes                     | uv (as example)                                 |
+| ----------- | ------------------------------ | ------------------------------------- |
+| Locking     | `flake.lock` (pins all inputs) | `uv.lock` (pins Python deps)          |
+| Determinism | Full system-level determinism  | Python dependency determinism         |
+| Solver      | Nix evaluator + fetchers       | Custom Rust resolver (pip-compatible) |
+
 
 ### Create a new project directory
 
