@@ -1,7 +1,7 @@
 ---
-title: NixOS
+title: NixOS - to_merge
 published: true
-tags: nix linux-system
+tags: nix linux-system to_merge
 ---
 > /etc/nixos/configuration.nix 
 > nixos-rebuild switch - [Home](https://nixos.org/)
