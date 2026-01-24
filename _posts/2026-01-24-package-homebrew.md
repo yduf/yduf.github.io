@@ -16,3 +16,8 @@ Yet a similar setup can also be achieved by using [Nix]({% post_url 2026-01-24-p
 
 **The 3 (apt,brew,nix) can coexist**
 
+### Setup
+
+{% highlight bash %}
+$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+{% endhighlight %}
