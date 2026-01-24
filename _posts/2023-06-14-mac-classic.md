@@ -172,6 +172,7 @@ Hardware Total:        **535€**
     - [64Go](https://www.amazon.fr/dp/B0C29W4G29)           107€
     - miniITX            116€ - [Gigabyte A520I AC ITX](https://www.amazon.fr/dp/B08GM91HBQ) / [**spec**](https://www.gigabyte.com/Motherboard/A520I-AC-rev-1x) / [manual](https://download.gigabyte.com/FileList/Manual/mb_manual_a520i-ac_1402_e.pdf?v=59849968edde4af54c38e4c0c1bf2ea6)
 		- 3x Hybrid Fan Pin Headers -  PWM or Voltage mode.
+        - only PCIe 3.0
 - _better ventirad:        40€_ - not yet 
 	- [Thermalright AXP90-X47 Full copper](https://www.amazon.fr/Thermalright-Refroidisseur-processeur-ventilateur-90x90x15mm/dp/B09WDRKBRJ) - [comparison](https://www.tinytechtweaks.com/en/post/top-6-low-profile-cpu-air-coolers-for-ryzen-7800x3d-a-comparison) - best is a liquid cooler 67° - the second best is this one with 76°
 
