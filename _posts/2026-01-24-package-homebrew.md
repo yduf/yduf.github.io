@@ -10,7 +10,7 @@ Benefits
 - Up-to-date versions of software
 	- Large collection of developer tools
 - Consistent tooling across macOS and Linux
-- **No root access required**
+- **No root access required** - after install... but
 	- [**YET the installer want it**](https://docs.brew.sh/Installation#alternative-installs)
 	- brew install a lot of stuff into `/home/linuxbrew` - [root owned](#root-access)
     	- but then content is tighed to the user
