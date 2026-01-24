@@ -25,6 +25,10 @@ $ sh <(curl -L https://nixos.org/nix/install) --no-daemon
 {% endhighlight %}
 
 ### Root Access
+
+`--no-daemon` - is quite straighforward in operation (see below).  
+`--daemon` - is more involved, since it has to setup the daemon. 
+
 <details markdown="1">
 <summary>Root Access Details</summary>
 {% highlight bash %}
