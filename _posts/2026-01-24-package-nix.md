@@ -24,7 +24,7 @@ At this point, there is not much difference between [_Hombrew_]({% post_url 2026
 $ sh <(curl -L https://nixos.org/nix/install) --no-daemon
 {% endhighlight %}
 
-## Root Access
+### Root Access
 
 `--no-daemon` - is quite straighforward in operation (see below).  
 `--daemon` - is more involved, since it has to setup the daemon. 
@@ -64,20 +64,25 @@ The modern, recommended way:
 ✔ Use Home Manager (optionally with NixOS)  
 ✔ Avoid channels and nix-env  
 
-## Using nix-shell
+## Using profile
 
-**temporary environment**
-
-This is useful if you just want to try Zig without permanently installing it
-- This will drop you into a shell where zig is available.
-- When you exit the shell, Zig is no longer available.
+This is similar to other package manager and can be thought as a replacement for brew/apt/etc... but for **user only**
 
 {% highlight bash %}
-# create a temporary shell with tools
-$ nix-shell -p zig
+# install package permanently to user profil
+$ nix profile install nixpkgs#zig
 
-# or just run the tools 
-$ nix run nixpkgs#zig
+# list installed package
+$ nix profile list
+
+# remove
+$ nix profile remove zig
+
+# upgrade
+$ nix profile upgrade '.*'
+
+# search
+$ nix search nixpkgs firefox
 {% endhighlight %}
 
 ## [Using Flakes (Recommended)](https://chatgpt.com/share/6974dc8b-4770-800d-b838-05e4323d7085)
@@ -136,7 +141,23 @@ $ echo "experimental-features = nix-command flakes" >> ~/.config/nix/nix.conf
 # Restart your shell again
 {% endhighlight %}
 
-Then 
+
+## Using nix-shell
+
+**temporary environment**
+
+This is useful if you just want to try Zig without permanently installing it
+- This will drop you into a shell where zig is available.
+- When you exit the shell, Zig is no longer available.
+
+{% highlight bash %}
+# create a temporary shell with tools
+$ nix-shell -p zig
+
+# or just run the tools 
+$ nix run nixpkgs#zig
+{% endhighlight %}
+
 
 ## Using nix-env
 
