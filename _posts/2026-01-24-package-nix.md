@@ -57,6 +57,13 @@ in your shell.
 
 Taking zig as an example
 
+The modern, recommended way:
+✔ Enable Flakes
+✔ Use nix profile for packages
+✔ Use nix develop for projects
+✔ Use Home Manager (optionally with NixOS)
+✔ Avoid channels and nix-env
+
 ### Using nix-shell
 
 **temporary environment**
@@ -81,7 +88,10 @@ Flakes are now the standard way to use Nix.
 {% highlight bash %}
 $ mkdir -p ~/.config/nix
 $ echo "experimental-features = nix-command flakes" >> ~/.config/nix/nix.conf
+# Restart your shell again
 {% endhighlight %}
+
+Then 
 
 ### Using nix-env
 
