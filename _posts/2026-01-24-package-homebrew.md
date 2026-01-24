@@ -11,7 +11,6 @@ A very similar setup can also be achieved by using [Nix]({% post_url 2026-01-24-
 
 **The 3 standard package mangaer (apt,brew,nix) can coexist**
 
-
 Benefits
 - Up-to-date versions of software
 	- Large collection of developer tools
