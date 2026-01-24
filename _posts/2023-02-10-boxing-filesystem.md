@@ -1,6 +1,6 @@
 ---
 published: true
-title: Boxing Filesystem (boxxy .config)
+title: Boxing Filesystem (.config)
 tags: home config filesystem cgroup namespace
 ---
 > boxxy is a tool for boxing up misbehaving Linux applications and forcing them to put their files and directories in the right place, without symlinks! - [boxxy](https://github.com/queer/boxxy#boxxy) / [HN](https://news.ycombinator.com/item?id=34730520)
@@ -17,7 +17,8 @@ $ ./boxxy -l debug ~/app/digiKam-8.1.0-x86-64.appimage --appimage-extract-and-ru
 {% endhighlight %}
 
 
-see also
+## see also
+- [modetc](https://maxwell.eurofusion.eu/git/rnhmjoj/modetc#modetc) - a Linux kernel module that rewrites paths in file operations: it allows you to move files wherever you like, while still having programs finding them where they expected them to be.
 - [The mount namespace](https://www.redhat.com/sysadmin/mount-namespaces)
 	- [Mount namespaces and shared subtrees](https://lwn.net/Articles/689856/)
     - [Linux - understanding the mount namespace & clone CLONE_NEWNS flag](https://stackoverflow.com/questions/22889241/linux-understanding-the-mount-namespace-clone-clone-newns-flag)
