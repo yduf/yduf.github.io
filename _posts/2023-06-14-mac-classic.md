@@ -169,6 +169,7 @@ Hardware Total:        **535€**
 - motherboard/Cpu/ram:   388€
 	- [ryzen 7 5700G](https://www.amazon.fr/dp/B091J3NYVF)  165€ - garantie 3Y
 		- 8 Coeurs/16 Threads, 65W TDP
+        - PCIe 3.0 - [**does not support PCIe 4.0**](https://www.techpowerup.com/cpu-specs/ryzen-7-5700g.c2472) 
     - [64Go](https://www.amazon.fr/dp/B0C29W4G29)           107€
     - miniITX            116€ - [Gigabyte A520I AC ITX](https://www.amazon.fr/dp/B08GM91HBQ) / [**spec**](https://www.gigabyte.com/Motherboard/A520I-AC-rev-1x) / [manual](https://download.gigabyte.com/FileList/Manual/mb_manual_a520i-ac_1402_e.pdf?v=59849968edde4af54c38e4c0c1bf2ea6)
 		- 3x Hybrid Fan Pin Headers -  PWM or Voltage mode.
