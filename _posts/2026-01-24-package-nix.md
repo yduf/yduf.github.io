@@ -58,11 +58,11 @@ in your shell.
 Taking zig as an example
 
 The modern, recommended way:
-✔ Enable Flakes
-✔ Use nix profile for packages
-✔ Use nix develop for projects
-✔ Use Home Manager (optionally with NixOS)
-✔ Avoid channels and nix-env
+✔ Enable Flakes  
+✔ Use nix profile for packages  
+✔ Use nix develop for projects  
+✔ Use Home Manager (optionally with NixOS)  
+✔ Avoid channels and nix-env  
 
 ### Using nix-shell
 
