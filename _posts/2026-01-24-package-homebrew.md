@@ -2,6 +2,7 @@
 title: Homebrew (package)
 published: true
 tags: package
+toc: true
 ---
 > [What is the benefit of using homebrew on debian?](https://chatgpt.com/share/69749ee5-1630-800d-a89c-a215cef61cc1)
 
@@ -17,13 +18,13 @@ A very similar setup can also be achieved by using [Nix]({% post_url 2026-01-24-
 
 **The 3 (apt,brew,nix) can coexist**
 
-### Setup
+## Setup
 
 {% highlight bash %}
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 {% endhighlight %}
 
-**Root Access**
+### Root Access
 <details markdown="1">
 <summary>Root Access Details</summary>
 {% highlight bash %}
