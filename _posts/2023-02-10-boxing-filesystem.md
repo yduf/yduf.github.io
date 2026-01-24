@@ -18,7 +18,7 @@ $ ./boxxy -l debug ~/app/digiKam-8.1.0-x86-64.appimage --appimage-extract-and-ru
 
 
 ## see also
-- [modetc](https://maxwell.eurofusion.eu/git/rnhmjoj/modetc#modetc) - a Linux kernel module that rewrites paths in file operations: it allows you to move files wherever you like, while still having programs finding them where they expected them to be.
+- [modetc](https://maxwell.eurofusion.eu/git/rnhmjoj/modetc#modetc) / [HN](https://news.ycombinator.com/item?id=46741929) - a Linux kernel module that rewrites paths in file operations: it allows you to move files wherever you like, while still having programs finding them where they expected them to be.
 - [The mount namespace](https://www.redhat.com/sysadmin/mount-namespaces)
 	- [Mount namespaces and shared subtrees](https://lwn.net/Articles/689856/)
     - [Linux - understanding the mount namespace & clone CLONE_NEWNS flag](https://stackoverflow.com/questions/22889241/linux-understanding-the-mount-namespace-clone-clone-newns-flag)
