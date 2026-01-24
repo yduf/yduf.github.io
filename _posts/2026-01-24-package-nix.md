@@ -58,7 +58,7 @@ in your shell.
 
 Taking zig as an example
 
-The modern, recommended way:
+The modern, recommended way: 
 ✔ Enable Flakes  
 ✔ Use nix profile for packages  
 ✔ Use nix develop for projects  
