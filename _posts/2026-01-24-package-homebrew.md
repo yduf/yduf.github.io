@@ -24,9 +24,8 @@ $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/
 {% endhighlight %}
 
 **Root Access**
-<details>
-<summary>**Root Access**</summary>
-<p>
+<details markdown="1">
+<summary markdown="1">**Root Access**</summary>
 {% highlight bash %}
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ==> Checking for `sudo` access (which may request your password)...
@@ -82,5 +81,4 @@ Warning: /home/linuxbrew/.linuxbrew/bin is not in your PATH.
 ==> Installation successful!
 
 {% endhighlight %}
-</p>
 </details>
