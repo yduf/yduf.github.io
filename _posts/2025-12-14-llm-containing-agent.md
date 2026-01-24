@@ -23,5 +23,4 @@ I'm on Ubuntu 22.04 and it was surprisingly pleasant to create a layered sandbox
 **see also**
 [	Designing agentic loops](https://news.ycombinator.com/item?id=45426680)
 - [	The Paranoid Guide to Running Copilot CLI in a Secure Docker Sandbox](https://news.ycombinator.com/item?id=45810658)
-
-
+- [Claude Cowork Exfiltrates Files](https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files) / [HN](https://news.ycombinator.com/item?id=46622328) -  we demonstrate how attackers can exfiltrate user files from Cowork by exploiting an unremediated vulnerability in Claude’s coding environment, which now extends to Cowork. The vulnerability was first identified in Claude.ai chat before Cowork existed by Johann Rehberger, who disclosed the vulnerability — it was acknowledged but not remediated by Anthropic. 
