@@ -16,7 +16,9 @@ care of managing the `/nix` folder, whereas there is no daemon in single user.
 
 In both case, there is no requirement for calling `nix` with sudo afterward. 
 
-At this point, there is not much difference between [_Hombrew_]({% post_url 2026-01-24-package-homebrew %}) requirement and _Nix_
+At this point, there is not much difference between [_Hombrew_]({% post_url 2026-01-24-package-homebrew %}) requirement and _Nix_, except that:
+- [homebrew is thought mono-user first](https://chatgpt.com/share/6974bbbf-bae4-800d-8442-514488c80704) - and you need share your one user repos with others
+- Nix + daemon fills like a less messy approach
 
 {% highlight bash %}
 $ sh <(curl -L https://nixos.org/nix/install) --no-daemon
