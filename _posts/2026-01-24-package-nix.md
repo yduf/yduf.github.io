@@ -92,6 +92,7 @@ $ nix search nixpkgs firefox
 ## [Using Flakes (Recommended)](https://chatgpt.com/share/6974dc8b-4770-800d-b838-05e4323d7085)
 
 Flakes are now the standard way to use Nix.
+
 It provide a more advanced [Workflow for Using Flakes](https://chatgpt.com/share/6974e1d8-0350-800d-825e-9bb1d6a02ec6), targeting more specifically developer and project build repetability. _see below_
 
 In spirits it's very similar to tool like _bundler, maven, meson or uv_ in that it ensure a reproducible set of dependancies and their version, but on a more general scope including the tools ecosystem itself.
