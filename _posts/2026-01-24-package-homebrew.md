@@ -9,7 +9,7 @@ toc: true
 A very similar setup can also be achieved by using [Nix]({% post_url 2026-01-24-package-nix %}). 
 - At this point Nix, seems less messy and more powerfull.
 
-**The 3 standard package mangaer (apt,brew,nix) can coexist**
+**These 3 package managers (apt,brew,nix) can coexist**
 
 Benefits
 - Up-to-date versions of software
