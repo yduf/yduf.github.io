@@ -96,7 +96,6 @@ It provide a more advanced [Workflow for Using Flakes](https://chatgpt.com/share
 
 In spirits it's very similar to tool like _bundler, maven, meson or uv_ in that it ensure a reproducible set of dependancies and their version, but on a more general scope including the tools ecosystem itself.
 
-
 ### Create a new project directory
 
 This directory will contain:
