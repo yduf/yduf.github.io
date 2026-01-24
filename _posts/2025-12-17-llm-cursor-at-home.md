@@ -42,6 +42,11 @@ Cline is an open source AI coding agent that brings frontier AI models directly 
 
 see [Cline vs Cursor](https://chatgpt.com/share/69446ae1-4990-800d-b80a-bd62c220adb1)
 
+## [Codex](https://github.com/openai/codex?tab=readme-ov-file#quickstart)
+- [	Unrolling the Codex agent loop](https://news.ycombinator.com/item?id=46737630) – Codex CLI is open source.
+
+    
+ 
 ## Alternatives
 - [	Aider: AI pair programming in your terminal](https://news.ycombinator.com/item?id=39995725)
 - [OpenCode](https://github.com/anomalyco/opencode) - very similar to Claude Code in terms of capability.
