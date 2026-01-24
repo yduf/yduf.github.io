@@ -2,16 +2,21 @@
 title: Proto buffer (serialisation)
 published: true
 tags: serialization  protobuf reverse
+toc: true
 ---
 > [Protocol Buffers](https://developers.google.com/protocol-buffers/)
 Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data.
 
 - [How to install Protobuf on Ubuntu](https://www.geeksforgeeks.org/how-to-install-protobuf-on-ubuntu/)
 
-see also
+**see also**
 - [	Reverse Engineering Protobuf Definitions from Compiled Binaries](https://news.ycombinator.com/item?id=39654445)
+- [Replacing Protobuf with Rust to go 5 times faster](https://news.ycombinator.com/item?id=46732505) - The problem they have software written in Rust, and they need to use the libpg_query library, that is written in C. Because they can't use the C library directly, they had to use a Rust-to-C binding library, that uses Protobuf for portability reasons. Problem is that it is slow.
+	- So what they did is that they wrote their own non-portable but much more optimized Rust-to-C bindings, with the help of a LLM.
+    - Calling the C function is not the problem here. It is dealing with the big data structure this function returns in a Rust-friendly manner.
+		- This is something Protobuf does very well, at the cost of performance.
 
-Alernatives
+# Alernatives
 
 ## [Cap’n Proto]({% post_url 2023-09-26-serialisation-captain-proto %})
 
