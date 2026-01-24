@@ -17,3 +17,28 @@ For starter, I choose **single user mode** with **--no-daemon**
 {% highlight bash %}
 $ sh <(curl -L https://nixos.org/nix/install) --no-daemon
 {% endhighlight %}
+
+### Root Access
+<details markdown="1">
+<summary>Root Access Details</summary>
+{% highlight bash %}
+$ sh <(curl -L https://nixos.org/nix/install) --no-daemon
+Note: a multi-user installation is possible. See https://nix.dev/manual/nix/stable/installation/installing-binary.html#multi-user-installation
+performing a single-user installation of Nix...
+directory /nix does not exist; creating it by running 'mkdir -m 0755 /nix && chown yves /nix' using sudo
+[sudo] password for yves:        
+copying Nix to /nix/store................................................................
+installing 'nix-2.33.1'
+building '/nix/store/v3qb5sdzsj351fsia196zrsfjpz8ksd3-user-environment.drv'...
+unpacking 1 channels...
+modifying /home/yves/.profile...
+placing /home/yves/.config/fish/conf.d/nix.fish...
+
+Installation finished!  To ensure that the necessary environment
+variables are set, either log in again, or type
+
+  . /home/yves/.nix-profile/etc/profile.d/nix.fish
+
+in your shell.
+{% endhighlight %}
+</details>
