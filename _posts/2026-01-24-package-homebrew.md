@@ -9,13 +9,14 @@ toc: true
 Benefits
 - Up-to-date versions of software
 	- Large collection of developer tools
+- Consistent tooling across macOS and Linux
 - **No root access required**
 	- [**YET the installer want it**](https://docs.brew.sh/Installation#alternative-installs)
-	- brew install a lot of stuff into `/home/linuxbrew` - root owned
+	- brew install a lot of stuff into `/home/linuxbrew` - [root owned](#root-access)
     	- but then content is tighed to the user
-- Consistent tooling across macOS and Linux
 
-A very similar setup can also be achieved by using [Nix]({% post_url 2026-01-24-package-nix %}).
+A very similar setup can also be achieved by using [Nix]({% post_url 2026-01-24-package-nix %}). 
+- At this point Nix, seems less messy.
 
 **The 3 (apt,brew,nix) can coexist**
 
