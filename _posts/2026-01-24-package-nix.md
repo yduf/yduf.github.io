@@ -52,3 +52,49 @@ variables are set, either log in again, or type
 in your shell.
 {% endhighlight %}
 </details>
+
+## [Package Install](https://chatgpt.com/share/6974d688-4890-800d-b862-c5c8c0c596d7)
+
+Taking zig as an example
+
+### Using nix-shell
+
+**temporary environment**
+
+This is useful if you just want to try Zig without permanently installing it
+- This will drop you into a shell where zig is available.
+- When you exit the shell, Zig is no longer available.
+
+{% highlight bash %}
+# create a temporary shell with tools
+$ nix-shell -p zig
+
+# or just run the tools 
+$ nix run nixpkgs#zig
+{% endhighlight %}
+
+### [Using Flakes (Recommended)](https://chatgpt.com/share/6974dc8b-4770-800d-b838-05e4323d7085)
+
+Flakes are now the standard way to use Nix.
+
+**Flakes need to be enabled**
+{% highlight bash %}
+$ mkdir -p ~/.config/nix
+$ echo "experimental-features = nix-command flakes" >> ~/.config/nix/nix.conf
+{% endhighlight %}
+
+### Using nix-env
+
+**permanent installation for your use**
+
+This installs Zig in your user profile  
+This will stick with your user account.
+
+{% highlight bash %}
+$ nix-env -iA nixpkgs.zig
+{% endhighlight %}
+
+
+### Using home-manager (optional)
+
+
