@@ -9,6 +9,7 @@ Benefits
 - Up-to-date versions of software
 	- Large collection of developer tools
 - **No root access required**
+	- [**YET the installer want it**](https://docs.brew.sh/Installation#alternative-installs)
 	- brew install into `~/.linuxbrew`
 - Consistent tooling across macOS and Linux
 
