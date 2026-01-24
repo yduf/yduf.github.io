@@ -60,10 +60,10 @@ Taking zig as an example
 
 The modern, recommended way: 
 ✔ Enable Flakes  
-✔ Use nix profile for packages  
-✔ Use nix develop for projects  
-✔ Use Home Manager (optionally with NixOS)  
-✔ Avoid channels and nix-env  
+✔ Use nix [profile](#using-profile) for packages  
+✔ Use nix develop for projects ([Flakes](#using-flakes-recommended))
+✔ Use [Home Manager](#using-home-manager-optional) (optionally with NixOS)  
+✔ Avoid channels and [nix-env](#using-nix-env)  
 
 ## Using profile
 
