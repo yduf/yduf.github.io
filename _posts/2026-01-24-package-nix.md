@@ -11,6 +11,7 @@ For starter, I choose **single user mode** with **--no-daemon**
 - closer to homebrew tools
 - "non invasive"
 	- it still require to create [`/nix` at root by privileged user](https://chatgpt.com/share/6974a5e4-f018-800d-90e0-624f401b835a)
+    - it makes tools host dependant (vs [One $HOME to rule them all)]({% post_url 2025-11-24-network-share-home-folder %})
 
 {% highlight bash %}
 $ sh <(curl -L https://nixos.org/nix/install) --no-daemon
