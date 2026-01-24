@@ -25,7 +25,7 @@ $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/
 
 **Root Access**
 <details markdown="1">
-<summary markdown="1">**Root Access**</summary>
+<summary>Root Access Details</summary>
 {% highlight bash %}
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ==> Checking for `sudo` access (which may request your password)...
