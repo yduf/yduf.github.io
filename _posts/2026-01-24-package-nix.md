@@ -61,7 +61,7 @@ in your shell.
 
 Taking zig as an example
 
-The modern, recommended way: 
+The modern, recommended way:  
 ✔ Enable [Flakes](#using-flakes-recommended)  
 ✔ Use nix [profile](#using-profile) for packages  
 ✔ Use nix develop for projects ([Flakes](#using-flakes-recommended))
