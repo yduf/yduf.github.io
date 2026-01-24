@@ -21,3 +21,4 @@ tags: c++ quote
 - [Debug & Build C++ Project]({% post_url 2020-09-19-vscode-cpp-project %})
 - [The C++20 Naughty and Nice List for Game Devs](https://www.jeremyong.com/c++/2023/12/24/cpp20-gamedev-naughty-nice/) -  features I think game devs should probably use (possibly with caveats), and features I think game devs will probably want to avoid.
 - [Undefined behavior in C and C++](https://russellw.github.io/undefined-behavior) / [HN](https://news.ycombinator.com/item?id=44841891)
+- [	Banned C++ features in Chromium](https://news.ycombinator.com/item?id=46737447) - A lot of it seems to be 'We have something in-house designed for our use cases, use that instead of the standard lib equivalent'.
