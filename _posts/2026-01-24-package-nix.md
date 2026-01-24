@@ -6,6 +6,8 @@ toc: true
 ---
 > A package manager that installs software in /nix/store that you can use alongside your linux distribution - [ChatGPT](https://chatgpt.com/share/6974a2a5-5b6c-800d-8fe3-f1fb83ed44a8)
 
+<link rel="shortcut icon" href="https://nix.dev/_static/favicon.png" type="image/x-icon" />
+
 # [Pick your pills _--daemon/--no-daemon_ ](https://chatgpt.com/share/6974a2a5-5b6c-800d-8fe3-f1fb83ed44a8)
 
 Whatever the choice
