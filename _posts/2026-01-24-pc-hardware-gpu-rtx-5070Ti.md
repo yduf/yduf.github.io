@@ -8,3 +8,4 @@ excerpt_separator: ''
 - 16GB GDDR7 OC Edition
 - PCIe 5.0, HDMI, Display 2.1, 3.125 Slot, Ventilateurs axiaux, revêtement Protecteur PCB
 - 329x140x62.5mm - 2 PC slots
+- [3dmodels](https://grabcad.com/library/asus-tuf-gaming-geforce-rtx-5070-ti-1)
