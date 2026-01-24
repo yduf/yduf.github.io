@@ -70,7 +70,7 @@ This is similar to other package manager and can be thought as a replacement for
 
 {% highlight bash %}
 # install package permanently to user profil
-$ nix profile install nixpkgs#zig
+$ nix profile add nixpkgs#zig
 
 # list installed package
 $ nix profile list
