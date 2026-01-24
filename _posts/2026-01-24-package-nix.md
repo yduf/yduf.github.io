@@ -11,8 +11,8 @@ toc: true
 # [Pick your pills _--daemon/--no-daemon_ ](https://chatgpt.com/share/6974a2a5-5b6c-800d-8fe3-f1fb83ed44a8)
 
 Whatever the choice
-- The installer require to create [`/nix` at root by privileged user](https://chatgpt.com/share/6974a5e4-f018-800d-90e0-624f401b835a)
-    - it makes tools host dependant (vs [One $HOME to rule them all)]({% post_url 2025-11-24-network-share-home-folder %})
+- The installer require to create [`/nix` at root](https://chatgpt.com/share/6974a5e4-f018-800d-90e0-624f401b835a) by a **privileged user**
+    - it makes tools host dependant (vs [One $HOME to rule them all]({% post_url 2025-11-24-network-share-home-folder %}) )
 
 The difference is that multi-user mode, there is a daemon running that take
 care of managing the `/nix` folder, whereas there is no daemon in single user.
