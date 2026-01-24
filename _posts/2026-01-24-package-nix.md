@@ -1,5 +1,5 @@
 ---
-title: Nix (Package)
+title: "Nix (Package) \U0001F4E6"
 published: true
 tags: nix package
 ---
