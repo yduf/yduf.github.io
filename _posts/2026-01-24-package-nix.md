@@ -5,7 +5,7 @@ tags: nix package
 ---
 > A package manager that installs software in /nix/store that you can use alongside your linux distribution - [ChatGPT](https://chatgpt.com/share/6974a2a5-5b6c-800d-8fe3-f1fb83ed44a8)
 
-## [Pick your pills _--daemon/--no-daemon_ ](https://chatgpt.com/share/6974a2a5-5b6c-800d-8fe3-f1fb83ed44a8)
+# [Pick your pills _--daemon/--no-daemon_ ](https://chatgpt.com/share/6974a2a5-5b6c-800d-8fe3-f1fb83ed44a8)
 
 Whatever the choice
 - The installer require to create [`/nix` at root by privileged user](https://chatgpt.com/share/6974a5e4-f018-800d-90e0-624f401b835a)
@@ -24,7 +24,7 @@ At this point, there is not much difference between [_Hombrew_]({% post_url 2026
 $ sh <(curl -L https://nixos.org/nix/install) --no-daemon
 {% endhighlight %}
 
-### Root Access
+## Root Access
 
 `--no-daemon` - is quite straighforward in operation (see below).  
 `--daemon` - is more involved, since it has to setup the daemon. 
@@ -53,7 +53,7 @@ in your shell.
 {% endhighlight %}
 </details>
 
-## [Package Install](https://chatgpt.com/share/6974d688-4890-800d-b862-c5c8c0c596d7)
+# [Package Install](https://chatgpt.com/share/6974d688-4890-800d-b862-c5c8c0c596d7)
 
 Taking zig as an example
 
@@ -64,7 +64,7 @@ The modern, recommended way:
 ✔ Use Home Manager (optionally with NixOS)  
 ✔ Avoid channels and nix-env  
 
-### Using nix-shell
+## Using nix-shell
 
 **temporary environment**
 
@@ -80,11 +80,56 @@ $ nix-shell -p zig
 $ nix run nixpkgs#zig
 {% endhighlight %}
 
-### [Using Flakes (Recommended)](https://chatgpt.com/share/6974dc8b-4770-800d-b838-05e4323d7085)
+## [Using Flakes (Recommended)](https://chatgpt.com/share/6974dc8b-4770-800d-b838-05e4323d7085)
 
 Flakes are now the standard way to use Nix.
 
-**Flakes need to be enabled**
+[Workflow for Using Flakes, is the following](https://chatgpt.com/share/6974e1d8-0350-800d-825e-9bb1d6a02ec6)
+
+### Create a new project directory
+
+This directory will contain:
+- your Zig code
+- your `flake.nix`
+
+{% highlight bash %}
+$ mkdir zig-dev
+$ cd zig-dev
+{% endhighlight %}
+
+### Create the `flake.nix` file
+
+A flake is defined entirely by this file.
+
+{% highlight bash %}
+$ touch flake.nix
+{% endhighlight %}
+
+***Define the flake skeleton***
+
+{% highlight bash %}
+{
+  description = "Zig development environment";
+
+  inputs = {
+    nixpkgs.url = "github:NixOS/nixpkgs";
+  };
+
+  outputs = { self, nixpkgs }:
+  {
+  };
+}
+{% endhighlight %}
+
+### Enter the Zig development environment
+
+This create an isolated shell, taking into account the flake definition.
+
+{% highlight bash %}
+$ nix develop
+{% endhighlight %}
+
+### Flakes need to be enabled
 {% highlight bash %}
 $ mkdir -p ~/.config/nix
 $ echo "experimental-features = nix-command flakes" >> ~/.config/nix/nix.conf
@@ -93,7 +138,7 @@ $ echo "experimental-features = nix-command flakes" >> ~/.config/nix/nix.conf
 
 Then 
 
-### Using nix-env
+## Using nix-env
 
 **permanent installation for your use**
 
@@ -105,6 +150,6 @@ $ nix-env -iA nixpkgs.zig
 {% endhighlight %}
 
 
-### Using home-manager (optional)
+## Using home-manager (optional)
 
-
+TBD
