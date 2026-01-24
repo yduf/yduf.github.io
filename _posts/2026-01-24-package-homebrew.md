@@ -11,7 +11,8 @@ Benefits
 	- Large collection of developer tools
 - **No root access required**
 	- [**YET the installer want it**](https://docs.brew.sh/Installation#alternative-installs)
-	- brew install a lot of stuff into `~/.linuxbrew` - 
+	- brew install a lot of stuff into `/home/linuxbrew` - root owned
+    	- but then content is tighed to the user
 - Consistent tooling across macOS and Linux
 
 A very similar setup can also be achieved by using [Nix]({% post_url 2026-01-24-package-nix %}).
