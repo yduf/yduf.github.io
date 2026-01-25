@@ -12,7 +12,7 @@ tags: nix package build-system docker linux-system
 [**The case for Nix on the home server**](https://www.youtube.com/watch?v=h8oyoDMUM2I)
 - [ NixOS Is The Power User Distro (Now With An Easy Installer!) ](https://www.youtube.com/watch?v=ck4J2Faa7Fc)
 
-**Nix** is a build system, which is the outcome of an Academic Work => [The Purely Functional Software
+[**Nix**]({% post_url 2026-01-24-package-nix %}) is a package manager that can also be used in a build system, which is the outcome of an Academic Work => [The Purely Functional Software
 Deployment Model (2006)](https://edolstra.github.io/pubs/phd-thesis.pdf)  
 **NixOS** - a linux distribution base upon Nix
 - [NixOS is a good server OS, except when it isn't ](https://news.ycombinator.com/item?id=41717050)
