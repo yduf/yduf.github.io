@@ -1,35 +1,70 @@
 ---
 published: true
-title: NixOS - What Is Nix ?
-tags: nix package build-system docker linux-system
+title: Flakes (Nix)
+tags: nix package build-system
 ---
-> On Debian, Fedora, etc, installing a package means letting it put files wherever it likes; which effectively gives the package author root on your system. Not a good base for sandboxing!
->
-> Also, they make it difficult to try out 3rd-party software, or to test newer versions of just some packages.
-> 
-> In 2003 I created 0install to address these problems, and Nix has very similar goals. - [Home](https://nixos.org/) / [r/NixOS ](https://www.reddit.com/r/NixOS/) / [KVM & Wayland](https://roscidus.com/blog/blog/2021/03/07/qubes-lite-with-kvm-and-wayland/#nixos)
+> In spirits [it's very similar](https://chatgpt.com/share/6974f17f-e5d4-800d-9ba5-cda36b628efc) to tool like _bundler, maven, meson or uv_ in that it ensure a reproducible set of dependancies and their version, but on a more general scope including the tools ecosystem itself.
 
-[**The case for Nix on the home server**](https://www.youtube.com/watch?v=h8oyoDMUM2I)
-
-**Nix** is a build system, which is the outcome of an Academic Work => [The Purely Functional Software
-Deployment Model (2006)](https://edolstra.github.io/pubs/phd-thesis.pdf)  
-**NixOS** - a linux distribution base upon Nix
-- [NixOS is a good server OS, except when it isn't ](https://news.ycombinator.com/item?id=41717050)
-
-Nix is sometime proposed as an alternative to docker, because its reproducible system overcome using docker to package snapshot of libs that used to work together.
-
-- [Nix explained from the ground up ](https://www.youtube.com/watch?v=5D3nUU1OVx8) - explain why & what is Nix
-	- a DSL + Platform & a store to get reproducible within same platform
-    - force specific file-system hierarchy
-    - stage one / stage two generation for having clean binaries.
-    	- does it survive [Evil compiler]({% post_url 2022-06-06-devil-compiler %}) ?
+Flakes are now the standard way to use Nix.
 
 
-- [	Fast, Declarative, Reproduble and Composable Developer Environments Using Nix (devenv)](https://devenv.sh/) / [HN](https://news.ycombinator.com/item?id=40010991)
-- [Our Roadmap for Nix](https://news.ycombinator.com/item?id=32374113)
+| Aspect      | Nix flakes                     | uv (as example)                                 |
+| ----------- | ------------------------------ | ------------------------------------- |
+| Locking     | `flake.lock` (pins all inputs) | `uv.lock` (pins Python deps)          |
+| Determinism | Full system-level determinism  | Python dependency determinism         |
+| Solver      | Nix evaluator + fetchers       | Custom Rust resolver (pip-compatible) |
 
-see also
+# [Using Flakes (Recommended)](https://chatgpt.com/share/6974dc8b-4770-800d-b838-05e4323d7085)
 
-- [	Zero to Nix, an unofficial, opinionated, gentle introduction to Nix](https://news.ycombinator.com/item?id=34490376)
-- [	Crafting container images without Dockerfiles](https://news.ycombinator.com/item?id=34678121) - I've been using Nix for this.
-- [Using Nix on Linux Mint](https://leward.eu/using-nix-on-linux-mint/)
+It provide a more advanced [Workflow for Using Flakes](https://chatgpt.com/share/6974e1d8-0350-800d-825e-9bb1d6a02ec6), targeting more specifically developer and project build repetability. _see below_
+
+
+### Create a new project directory
+
+This directory will contain:
+- your Zig code
+- your `flake.nix`
+
+{% highlight bash %}
+$ mkdir zig-dev
+$ cd zig-dev
+{% endhighlight %}
+
+### Create the `flake.nix` file
+
+A flake is defined entirely by this file.
+
+{% highlight bash %}
+$ touch flake.nix
+{% endhighlight %}
+
+***Define the flake skeleton***
+
+{% highlight bash %}
+{
+  description = "Zig development environment";
+
+  inputs = {
+    nixpkgs.url = "github:NixOS/nixpkgs";
+  };
+
+  outputs = { self, nixpkgs }:
+  {
+  };
+}
+{% endhighlight %}
+
+### Enter the Zig development environment
+
+This create an isolated shell, taking into account the flake definition.
+
+{% highlight bash %}
+$ nix develop
+{% endhighlight %}
+
+### Flakes need to be enabled
+{% highlight bash %}
+$ mkdir -p ~/.config/nix
+$ echo "experimental-features = nix-command flakes" >> ~/.config/nix/nix.conf
+# Restart your shell again
+{% endhighlight %}
