@@ -148,7 +148,7 @@ see also
 
 - [Vintage Mac Classic NAS](https://www.insanelymac.com/forum/topic/344354-vintage-mac-classic-nas/) - lot of pics
 - [Not Bad: Remodelling the Mac Classic II into a PC](https://www.youtube.com/watch?v=j3Esy8NP9bo)
-- [I Built a Gaming PC Inside a Retro Mac - The Joshintosh](https://www.youtube.com/watch?v=nVi76ThCDtY) - use the motherboard as support for fan intake
+- [I Built a Gaming PC Inside a Retro Mac - The Joshintosh](https://www.youtube.com/watch?v=nVi76ThCDtY) / [2](https://www.youtube.com/watch?v=dWe6Qmt4uiE) - use the motherboard as support for fan intake
 - [Bad: Fitting a fulll PC (with too much cut)](https://www.youtube.com/watch?v=zBrjSIqgD1A)
 
 - Mac Classic HS - 50€ (leboncoin)
