@@ -23,4 +23,8 @@ tags: retro arcade CRT display repair
 - [How to fully check a Sony PVM M Series - PSU Voltage, CRT Beam, Service Menu & Must Change Caps! (Retro Tech)](https://www.youtube.com/watch?v=aDixS6pTZkk)
 - [how to repair a tv picture problem? (sinhala )](https://www.youtube.com/watch?v=ZjrBiNgrPV4&list=PLhpo1HyCA5pmq7uNbc2t7plyMJWAfca07)
 
+see also
+- [ "Trashed" Tron Arcade Restoration! ](https://www.youtube.com/watch?v=KhHNqwRHC9Q)
+
+
 [![svga monitor parts](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fb8%2F4e%2F84%2Fb84e84b2f52b07b6c1eb16dcacfa0cc3.gif&f=1&nofb=1&ipt=51e6b9bed1c3b868e8d79a4b787e2980c577fb483223f8a27a8beb6cdd47d97c)](https://duckduckgo.com/?t=lm&q=ypical+SVGA+Monitor+Block+Diagram+&ia=images&iax=images&iai=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fb8%2F4e%2F84%2Fb84e84b2f52b07b6c1eb16dcacfa0cc3.gif)
