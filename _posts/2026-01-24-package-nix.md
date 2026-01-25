@@ -93,67 +93,7 @@ $ nix search nixpkgs firefox
 
 Flakes are now the standard way to use Nix.
 
-It provide a more advanced [Workflow for Using Flakes](https://chatgpt.com/share/6974e1d8-0350-800d-825e-9bb1d6a02ec6), targeting more specifically developer and project build repetability. _see below_
-
-In spirits [it's very similar](https://chatgpt.com/share/6974f17f-e5d4-800d-9ba5-cda36b628efc) to tool like _bundler, maven, meson or uv_ in that it ensure a reproducible set of dependancies and their version, but on a more general scope including the tools ecosystem itself.
-
-| Aspect      | Nix flakes                     | uv (as example)                                 |
-| ----------- | ------------------------------ | ------------------------------------- |
-| Locking     | `flake.lock` (pins all inputs) | `uv.lock` (pins Python deps)          |
-| Determinism | Full system-level determinism  | Python dependency determinism         |
-| Solver      | Nix evaluator + fetchers       | Custom Rust resolver (pip-compatible) |
-
-
-### Create a new project directory
-
-This directory will contain:
-- your Zig code
-- your `flake.nix`
-
-{% highlight bash %}
-$ mkdir zig-dev
-$ cd zig-dev
-{% endhighlight %}
-
-### Create the `flake.nix` file
-
-A flake is defined entirely by this file.
-
-{% highlight bash %}
-$ touch flake.nix
-{% endhighlight %}
-
-***Define the flake skeleton***
-
-{% highlight bash %}
-{
-  description = "Zig development environment";
-
-  inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs";
-  };
-
-  outputs = { self, nixpkgs }:
-  {
-  };
-}
-{% endhighlight %}
-
-### Enter the Zig development environment
-
-This create an isolated shell, taking into account the flake definition.
-
-{% highlight bash %}
-$ nix develop
-{% endhighlight %}
-
-### Flakes need to be enabled
-{% highlight bash %}
-$ mkdir -p ~/.config/nix
-$ echo "experimental-features = nix-command flakes" >> ~/.config/nix/nix.conf
-# Restart your shell again
-{% endhighlight %}
-
+see [Nix Flakes]({% post_url 2021-02-05-build-system-nix %})
 
 ## Using nix-shell
 
