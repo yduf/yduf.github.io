@@ -17,7 +17,7 @@ Any rank-2 tensor can be represented as a matrix, but not every matrix is really
 **see also**
 - [ I never intuitively understood Tensors...until now! ](https://www.youtube.com/watch?v=k2FP-T6S1x0) - what is a tensors? Depending on dimension you consider:
 	- In general physical formula have aligned vector, what if not (if you are unlucky) ?
-		- T⁰ = scalar, T¹ = vector, T² = matrix, T³ = rank 3, T⁴ = rank 4 (and yes this happens in physics)
+		- T⁰ = scalar, T¹ = vector, T² = matrix, T³ = rank 3, T⁴ = rank 4 (and yes this happens in physics) Tensor are multi-dimensional array following tensor rules (an extension of algebra rules)
 
 - [Any high-order tensor can be represented as](https://chatgpt.com/share/69774455-08e0-800d-b380-71b9caffbdb2):
 	- A network of low-order tensors (often rank-2 or rank-3)
