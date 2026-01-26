@@ -5,14 +5,14 @@ tags: pc-hardware gpu laptop
 excerpt_separator: <!--more-->
 toc: true
 ---
-> The best laptop I ever owned
+> The best laptop I ever owned, in term of quality/screen/power/battery life.
 <!--more-->
 
 ## [amazon](https://www.amazon.fr/gp/product/B08P9186JF) - 2021 - 800€ 
 
 - i7-10510U, 4 cores / 8 threads
 - 16Go Ram / 512Go storage
-- NVIDIA MX350 / 3:2 display
+- NVIDIA MX350 / **3:2 display**
 - 1.5kg
 
 [![lookslike](https://m.media-amazon.com/images/I/51vWyVXaCNS._AC_SY300_SX300_QL70_ML2_.jpg)](https://www.amazon.fr/gp/product/B08P9186JF)
