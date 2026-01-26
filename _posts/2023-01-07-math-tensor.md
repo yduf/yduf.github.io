@@ -11,8 +11,8 @@ Any rank-2 tensor can be represented as a matrix, but not every matrix is really
 
 [The bottom line of this is:](https://math.stackexchange.com/questions/412423/what-are-the-differences-between-a-matrix-and-a-tensor)
 - The components of a rank-2 tensor can be written in a matrix.
-- The tensor is not that matrix, because different types of tensors can correspond to the same matrix.
-- The differences between those tensor types are uncovered by the basis transformations (hence the physicist's definition: "A tensor is what transforms like a tensor").
+- _The tensor is not that matrix, because different types of tensors can correspond to the same matrix._ ?
+- _The differences between those tensor types are uncovered by the basis transformations (hence the physicist's definition: "A tensor is what transforms like a tensor")._ ?
 
 **see also**
 - [ I never intuitively understood Tensors...until now! ](https://www.youtube.com/watch?v=k2FP-T6S1x0) - what is a tensors? Depending on dimension you consider:
