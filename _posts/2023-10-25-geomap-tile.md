@@ -10,6 +10,6 @@ tags: map tilemap earth
      - PMTiles readers use HTTP Range Requests to fetch only the relevant tile or metadata inside a PMTiles archive on-demand.
 
 ### see also
-- [	MapLibre Tile: A next generation geospatial format optimized for rendering](https://news.ycombinator.com/item?id=44939456)
+- [	MapLibre Tile: A next generation geospatial format optimized for rendering](https://news.ycombinator.com/item?id=44939456) / [2](https://news.ycombinator.com/item?id=46763864)
 - [Serving a custom vector web map using PMTiles and maplibre-gl](https://til.simonwillison.net/gis/pmtiles)
 - [How to implement a tile service ?](https://chatgpt.com/share/6962c557-6840-800d-8027-3d230ad81d93)
