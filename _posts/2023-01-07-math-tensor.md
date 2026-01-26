@@ -14,5 +14,10 @@ Any rank-2 tensor can be represented as a matrix, but not every matrix is really
 - The tensor is not that matrix, because different types of tensors can correspond to the same matrix.
 - The differences between those tensor types are uncovered by the basis transformations (hence the physicist's definition: "A tensor is what transforms like a tensor").
 
+**see also**
+- [ I never intuitively understood Tensors...until now! ](https://www.youtube.com/watch?v=k2FP-T6S1x0) - what is a tensors? Depending on dimension you consider:
+	- In general physical formula have aligned vector, what if not (if you are unlucky) ?
+		- T⁰ = scalar, T¹ = vector, T² = matrix, T³ = rank 3, T⁴ = rank 4 (and yes this happens in physics)
+
 
 [![caption](https://i.stack.imgur.com/ltiol.png)](https://math.stackexchange.com/questions/2943123/what-is-a-tensor)
