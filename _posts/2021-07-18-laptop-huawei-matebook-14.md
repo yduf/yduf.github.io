@@ -5,6 +5,7 @@ tags: pc-hardware gpu laptop
 excerpt_separator: <!--more-->
 toc: true
 ---
+> The best laptop I ever owned
 <!--more-->
 
 ## [amazon](https://www.amazon.fr/gp/product/B08P9186JF) - 2021 - 800€ 
