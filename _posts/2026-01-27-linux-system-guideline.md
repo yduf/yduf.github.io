@@ -1,7 +1,7 @@
 ---
 title: Linux System
 published: true
-tags: linux-system
+tags: linux-system nix
 toc: true
 ---
 > Guideline for system & apps setup
@@ -26,3 +26,7 @@ For user self manage application
 - Freecad
 
 ## Docker / Podman
+
+# DEV / Project
+
+## Nix Flakes
