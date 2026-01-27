@@ -6,16 +6,23 @@ toc: true
 ---
 > Guideline for system & apps setup
 
+# System
+
 For Base system like ubuntu / Linux Mint
 
-# System
 ## APT
 - Kernel
 - systemD
+- ZFS
 
 ## Docker / Podman
 
 # User
+
+For user self manage application
+
 ## Nix
 ## AppImages
+- Freecad
 
+## Docker / Podman
