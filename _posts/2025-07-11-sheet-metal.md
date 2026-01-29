@@ -2,10 +2,11 @@
 title: Sheet Metal
 published: true
 tags: metal
+toc: true
 ---
 > Recycling & Cutting sheet metal
 
-### Soda Can
+## Soda Can
 Are about 0.1mm 
 
 [Kevin Cheung](https://www.youtube.com/@aboutkevincheung)
@@ -13,6 +14,8 @@ Are about 0.1mm
 	- [How to turn aluminium cans into roof tiles](https://www.youtube.com/watch?v=LG5xYKABhVI)
 - [Découpez des tôles avec cette petite machine !](https://www.youtube.com/watch?v=AKVGbrK1mh0)
 
-### Freecad
+## Freecad
 
-see [Sheet metal workbench]({% post_url 2020-05-29-freecad %}#sheet-metal)
+- [Tôlerie FreeCAD en seulement 10 minutes ! ](https://www.youtube.com/watch?v=1tABHJJ66_k)
+	- if latter modified by part workbench, beware of refinement operation that may fuse edge.
+
