@@ -18,4 +18,5 @@ Are about 0.1mm
 
 - [Tôlerie FreeCAD en seulement 10 minutes ! ](https://www.youtube.com/watch?v=1tABHJJ66_k)
 	- if latter modified by part workbench, beware of refinement operation that may fuse edge.
+- [FreeCAD 1.0 SheetMetal improvements #1: Base shape, make wall & unfold](https://www.youtube.com/watch?v=ta1A0BbtzoQ)
 
