@@ -10,7 +10,11 @@ toc: true
 - 329x140x62.5mm - takes 3 PC slots
 - [3dmodels](https://grabcad.com/library/asus-tuf-gaming-geforce-rtx-5070-ti-1)
 
-## Linux Setup
+# Linux Setup
+- linuxmint 22.3 / ubuntu 24.04 LTS
+- kernel 
+- nvidia driver
+
 <div style="
             
   border-left: 5px solid #fb8c00; /* orange */
@@ -41,17 +45,20 @@ $ sudo reboot
 {% endhighlight %}
 </div>
 
-### [Motherboard A520I]({% post_url 2026-01-24-pc-hardware-motherboard %})
+## [Motherboard A520I]({% post_url 2026-01-24-pc-hardware-motherboard %})
 
 [PCIe-3.0](https://chatgpt.com/share/697cbab4-31e4-800d-8c9e-bdf639a90c2d)
 - Enable "4G Decoding"
 - Enable "Resizable BAR" 
+May resolve some issue with older kernel?
 
 nvidia-smi => work
 
-### Cuda
+## Cuda
 
 see
 - [ Installing NVIDIA RTX 5070 / 5070 Ti Drivers and CUDA 12.8 on Debian/Ubuntu 24.04 with Secure Boot Enabled ](https://gist.github.com/devatnull/8e63126e7f2a737c1b05a42822f69eda)
 
-### Pytorch
+## Pytorch
+
+## OpenGL
