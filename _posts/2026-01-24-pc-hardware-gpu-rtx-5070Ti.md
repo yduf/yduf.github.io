@@ -42,11 +42,6 @@ $ lspci | grep -E "VGA|3D"
 - does not work on RTX (cinnamon wm failing)
 
 # Linux Setup
-- linuxmint 22.3 / ubuntu 24.04 LTS
-- kernel 
-- nvidia driver
-	- 570.211.01 - smi working
-
 <div style="
             
   border-left: 5px solid #fb8c00; /* orange */
@@ -59,6 +54,12 @@ $ lspci | grep -E "VGA|3D"
 
 The NVIDIA RTX 5070 is part of the 5000-series, which **requires the Open Kernel Modules and requires driver 580 or newer**. - [Working 580-open Driver Guide](https://github.com/adamn1225/FIXED-NVIDIA-RTX-5070-on-Ubuntu-24.04---Working-580-open-Driver-Guide?tab=readme-ov-file#fixed-nvidia-rtx-5070-on-ubuntu-2404--2410--working-580-open-driver-guide)
 </div>
+
+- linuxmint 22.3 / ubuntu 24.04 LTS
+- kernel: 6.14.0-37-generic
+- nvidia driver
+	- 570.211.01 - smi working
+
 
 <div style="
   border-left: 4px solid #3498db; /* blue */
