@@ -61,7 +61,6 @@ The NVIDIA RTX 5070 is part of the 5000-series, which **requires the Open Kernel
 	- 570.211.01 - smi working
     - 590.48.01 (recommended) - smi work the same
 
-
 <div style="
   border-left: 4px solid #3498db; /* blue */
   background: #eef7ff;
