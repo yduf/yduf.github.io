@@ -56,7 +56,7 @@ $ xrandr --listproviders
 - NVIDIA provider (Source)
 {% endhighlight %}
 
-But
+But...
 
 **PRIME offloading**
 {% highlight bash %}
