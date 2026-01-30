@@ -1,5 +1,5 @@
 ---
-title: "ASUS TUF Gaming GeForce RTX 5070 Ti \U0001F4DF"
+title: "ASUS TUF Gaming GeForce RTX 5070 Ti \U0001F4DF \U0001F6A7 ⛑ "
 published: true
 tags: pc-hardware gpu
 toc: true
@@ -39,7 +39,7 @@ $ lspci | grep -E "VGA|3D"
 - Both GPU are seen
 - you can plug the hdmi cable in whateber socket => it will boot on it
 
-### OpenGL
+### OpenGL 🚧 ⛑ 
 
 Check iGPU is PRIMARY (Xorg / Wayland)
 - opengl works on iGPU (motherboard HDMI)
@@ -48,6 +48,13 @@ Check iGPU is PRIMARY (Xorg / Wayland)
 {% highlight bash %}
 $ glxinfo | grep "OpenGL renderer"
 => AMD Radeon Graphics
+{% endhighlight %}
+
+
+{% highlight bash %}
+$ xrandr --listproviders
+- AMD provider (Sink, Source)
+- NVIDIA provider (Source)
 {% endhighlight %}
 
 **PRIME offloading**
