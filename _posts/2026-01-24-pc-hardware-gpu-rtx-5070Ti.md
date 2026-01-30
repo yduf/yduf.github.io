@@ -21,7 +21,6 @@ IO Ports/
 - Above 4G Decoding: Enabled
 - Re-Size BAR Support: Auto 
 
-
 **MultiGpu**
 AMD CBS/NBIO Common Options/GFS Configuration
 -iGPU Configuration: Auto
@@ -30,7 +29,6 @@ AMD CBS/NBIO Common Options/GFS Configuration
 IO Ports/
 Initial Display Output: IGD Video 
 Integrated Graphic: Auto
-
 
 # Linux Setup
 - linuxmint 22.3 / ubuntu 24.04 LTS
