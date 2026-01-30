@@ -20,7 +20,7 @@ IO Ports/
 - Above 4G Decoding: Enabled
 - Re-Size BAR Support: Auto 
 
-[**MultiGpu**](https://chatgpt.com/share/697d02d1-fc24-800d-9704-1020836c9f14)
+[**MultiGpu**](https://chatgpt.com/share/697d02d1-fc24-800d-9704-1020836c9f14)  
 AMD CBS/NBIO Common Options/GFS Configuration
 -iGPU Configuration: Auto
 -GPU Host Translation Cache: Auto
@@ -48,6 +48,12 @@ Check iGPU is PRIMARY (Xorg / Wayland)
 {% highlight bash %}
 $ glxinfo | grep "OpenGL renderer"
 => AMD Radeon Graphics
+{% endhighlight %}
+
+PRIME offloading
+{% highlight bash %}
+$ __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia glxinfo | grep renderer
+=> Fail the same way as if primary (X_GLXCreateNewContext)
 {% endhighlight %}
 
 # Linux Setup
@@ -86,6 +92,8 @@ $ sudo apt-get remove --purge '^nvidia-.*'
 $ sudo apt autoremove
 $ sudo reboot
 {% endhighlight %}
+  
+### 
 </div>
 
 
