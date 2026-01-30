@@ -20,7 +20,7 @@ IO Ports/
 - Above 4G Decoding: Enabled
 - Re-Size BAR Support: Auto 
 
-**MultiGpu**
+[**MultiGpu**](https://chatgpt.com/share/697d02d1-fc24-800d-9704-1020836c9f14)
 AMD CBS/NBIO Common Options/GFS Configuration
 -iGPU Configuration: Auto
 -GPU Host Translation Cache: Auto
@@ -60,7 +60,8 @@ The NVIDIA RTX 5070 is part of the 5000-series, which **requires the Open Kernel
 - nvidia driver
 	- 570.211.01 - smi working
     - 590.48.01 (recommended) - smi work the same
-
+    	- CUDA Verson: 13.1
+    
 <div style="
   border-left: 4px solid #3498db; /* blue */
   background: #eef7ff;
