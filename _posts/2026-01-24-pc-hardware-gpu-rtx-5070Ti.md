@@ -25,22 +25,3 @@ The NVIDIA RTX 5070 is part of the 5000-series, which **requires the Open Kernel
 
 </div>
 
-  
-All of the following WILL FAIL:
-
-- Installing nvidia-driver-550
-- Installing nvidia-driver-560
-- Installing nvidia-driver-570-open
-- Installing from the graphics-drivers PPA
-- Installing the .run installer
-- Installing mixed 570 + 580 components
-- Booting with Secure Boot enabled
-
-Symptoms include:
-
-- Black screen with blinking _
-- Stuck on Wayland with no Xorg option
-- Only 1 monitor detected
-- nvidia-smi says "no devices found"
-- Kernel module fails to load
-- Impossible dependency loops (570-open depends on 580-open)
