@@ -121,6 +121,11 @@ CUDA works as long as nvidia-smi sees the GPU and the driver is installed. OpenG
 
 [Testing CUDA](https://chatgpt.com/share/697d05e8-3964-800d-b147-3c4606eacf1f)
 
+
+{% highlight bash %}
+$ docker run --rm --gpus all nvidia/cuda:12.3.0-base-ubuntu22.04 nvidia-smi
+{% endhighlight %}
+
 see
 - [ Installing NVIDIA RTX 5070 / 5070 Ti Drivers and CUDA 12.8 on Debian/Ubuntu 24.04 with Secure Boot Enabled ](https://gist.github.com/devatnull/8e63126e7f2a737c1b05a42822f69eda)
 
