@@ -39,7 +39,7 @@ $ lspci | grep -E "VGA|3D"
 - Both GPU are seen
 - you can plug the hdmi cable in whateber socket => it will boot on it
 
-### OpenGL 🚧 ⛑ 
+### OpenGL
 
 Check iGPU is PRIMARY (Xorg / Wayland)
 - opengl works on iGPU (motherboard HDMI)
