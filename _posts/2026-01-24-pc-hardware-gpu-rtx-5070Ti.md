@@ -1,7 +1,8 @@
 ---
-title: ASUS TUF Gaming GeForce RTX 5070 Ti
+title: "ASUS TUF Gaming GeForce RTX 5070 Ti \U0001F4DF"
 published: true
 tags: pc-hardware gpu
+toc: true
 ---
 [ASUS TUF Gaming GeForce RTX 5070 Ti OC Edition](https://www.amazon.fr/dp/B0DVH1Y9VN)  / [Quelle RTX 5070 Ti choisir ?](https://www.youtube.com/watch?v=aGMZDeDlVE4&list=LL&index=76)- 980€ / 01/2026 - before price explosion
 - 16GB GDDR7 OC Edition
