@@ -29,12 +29,17 @@ IO Ports/
 Initial Display Output: IGD Video 
 Integrated Graphic: Auto
 
+Testing that it works
 {% highlight bash %}
 $ lspci | grep -E "VGA|3D"
 01:00.0 VGA compatible controller: NVIDIA Corporation Device 2c05 (rev a1)
 07:00.0 VGA compatible controller: Advanced Micro Devices, Inc. [AMD/ATI] Cezanne [Radeon Vega Series / Radeon Vega Mobile Series] (rev c8)
 {% endhighlight %}
 
+- Both GPU are seen
+- you can plug the hdmi cable in whateber socket => it will boot on it
+- opengl works on iGPU (motherboard HDMI)
+- does not work on RTX (cinnamon wm failing)
 
 # Linux Setup
 - linuxmint 22.3 / ubuntu 24.04 LTS
