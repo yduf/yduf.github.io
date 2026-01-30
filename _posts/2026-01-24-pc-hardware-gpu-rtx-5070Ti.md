@@ -43,7 +43,7 @@ $ lspci | grep -E "VGA|3D"
 
 Check iGPU is PRIMARY (Xorg / Wayland)
 - opengl works on iGPU (motherboard HDMI)
-- does not work on RTX (cinnamon wm failing)
+- ~~does not work on RTX (cinnamon wm failing)~~ - RESOLVED
 
 {% highlight bash %}
 $ glxinfo | grep "OpenGL renderer"
