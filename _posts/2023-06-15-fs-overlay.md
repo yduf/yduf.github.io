@@ -1,9 +1,39 @@
 ---
 published: true
-title: Overlay Filesystem
+title: Overlay Filesystem / UnionFS
 tags: filesystem content docker cgroup
 ---
-> Content-Addressable Overlay Filesystem for Linux - [ComposeFS](https://github.com/containers/composefs) / [HN](https://news.ycombinator.com/item?id=34524651)
+> Content-Addressable Overlay Filesystem for Linux - [ChatGPT](https://chatgpt.com/share/697c6948-9b4c-800d-ad22-6e8301e5066f) / [ComposeFS](https://github.com/containers/composefs) / [HN](https://news.ycombinator.com/item?id=34524651)
+
+## OverlayFS - kernel
+
+<div style="
+            
+  border-left: 5px solid #fb8c00; /* orange */
+  background: #fff3e0;
+            
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 6px;
+"  markdown="1" >
+
+⚠️ Writes must go to a local filesystem
+
+</div>
+
+OverlayFS has strict rules:
+
+- **Lower layer** (read-only): Can be NFS-mounted
+- **Upper layer** (read-write): Must be a local filesystem (ext4, xfs, etc.)
+- **Workdir**:  **Must be on the same local filesystem as the upper layer**
+
+## UnionFS / MergerFS
+
+
+
+## ComposeFS
+
+⚠️ composefs is not a general-purpose union filesystem, and it’s not suitable for arbitrarily unioning an NFS directory with another directory.
 
 - [Using Composefs in OSTree](https://blogs.gnome.org/alexl/2022/06/02/using-composefs-in-ostree/) - The idea is that instead of checking out a hardlinked directory and passing that on the kernel commandline we build a composefs image, enable fs-verity on it and put its filename and digest on the kernel command line instead.
 
