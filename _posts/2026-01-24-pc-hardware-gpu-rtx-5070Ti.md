@@ -22,6 +22,10 @@ toc: true
 "  markdown="1" >
 
 The NVIDIA RTX 5070 is part of the 5000-series, which **requires the Open Kernel Modules and requires driver 580 or newer**. - [Working 580-open Driver Guide](https://github.com/adamn1225/FIXED-NVIDIA-RTX-5070-on-Ubuntu-24.04---Working-580-open-Driver-Guide?tab=readme-ov-file#fixed-nvidia-rtx-5070-on-ubuntu-2404--2410--working-580-open-driver-guide)
-
 </div>
 
+### [Motherboard A520I]({% post_url 2026-01-24-pc-hardware-motherboard %})
+
+[PCIe-3.0](https://chatgpt.com/share/697cbab4-31e4-800d-8c9e-bdf639a90c2d)
+- Enable "4G Decoding"
+- Enable "Resizable BAR" 
