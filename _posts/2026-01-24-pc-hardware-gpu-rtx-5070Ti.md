@@ -181,6 +181,7 @@ $ make deviceQuery
 
 # test
 $ ./Sample/1_Utilities/deviceQuery/deviceQuery
+# If this require sudo (to fix nodevice found) there is a permission issue
 {% endhighlight %}
 
 see
