@@ -27,7 +27,9 @@ OverlayFS has strict rules:
 - **Upper layer** (read-write): Must be a local filesystem (ext4, xfs, etc.)
 - **Workdir**:  **Must be on the same local filesystem as the upper layer**
 
-## UnionFS / MergerFS
+## UnionFS / [MergerFS](https://github.com/trapexit/mergerfs?tab=readme-ov-file#mergerfs---a-featureful-union-filesystem)
+
+[MergerFS](https://github.com/trapexit/mergerfs?tab=readme-ov-file#mergerfs---a-featureful-union-filesystem) is actively maintained and preferred today.
 
 
 
