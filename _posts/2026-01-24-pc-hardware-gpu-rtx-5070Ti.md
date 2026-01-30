@@ -79,6 +79,12 @@ $ __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia glxinfo | grep re
 "  markdown="1" >
 
 The NVIDIA RTX 5070 is part of the 5000-series, which **requires the Open Kernel Modules and requires driver 580 or newer**. - [Working 580-open Driver Guide](https://github.com/adamn1225/FIXED-NVIDIA-RTX-5070-on-Ubuntu-24.04---Working-580-open-Driver-Guide?tab=readme-ov-file#fixed-nvidia-rtx-5070-on-ubuntu-2404--2410--working-580-open-driver-guide)
+  
+On a standard Linux system with proprietary NVIDIA drivers:
+- nvidia-smi should work as a regular user
+- glxinfo should work as a regular user
+
+[Neither command should require sudo](https://chatgpt.com/share/697d1123-590c-800d-82c1-f26cb3620a92)
 </div>
 
 - linuxmint 22.3 / ubuntu 24.04 LTS
