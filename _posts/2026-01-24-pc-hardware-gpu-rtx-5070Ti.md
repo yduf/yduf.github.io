@@ -50,12 +50,13 @@ $ glxinfo | grep "OpenGL renderer"
 => AMD Radeon Graphics
 {% endhighlight %}
 
-
 {% highlight bash %}
 $ xrandr --listproviders
 - AMD provider (Sink, Source)
 - NVIDIA provider (Source)
 {% endhighlight %}
+
+But
 
 **PRIME offloading**
 {% highlight bash %}
