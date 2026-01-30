@@ -119,7 +119,7 @@ CUDA works as long as nvidia-smi sees the GPU and the driver is installed. OpenG
   
 </div>
 
-### [Testing CUDA](https://chatgpt.com/share/697d05e8-3964-800d-b147-3c4606eacf1f)
+## [Testing CUDA](https://chatgpt.com/share/697d05e8-3964-800d-b147-3c4606eacf1f)
 
 
 {% highlight bash %}
