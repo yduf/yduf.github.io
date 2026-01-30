@@ -1,5 +1,5 @@
 ---
-title: "ASUS TUF Gaming GeForce RTX 5070 Ti \U0001F4DF \U0001F6A7 ⛑ "
+title: "ASUS TUF Gaming GeForce RTX 5070 Ti \U0001F4DF \U0001F6A7 "
 published: true
 tags: pc-hardware gpu
 toc: true
