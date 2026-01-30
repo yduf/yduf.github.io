@@ -40,14 +40,15 @@ $ lspci | grep -E "VGA|3D"
 - you can plug the hdmi cable in whateber socket => it will boot on it
 
 ### OpenGL
+
+Check iGPU is PRIMARY (Xorg / Wayland)
 - opengl works on iGPU (motherboard HDMI)
 - does not work on RTX (cinnamon wm failing)
 
-When using iGPU, this can be checked:
 {% highlight bash %}
 $ glxinfo | grep "OpenGL renderer"
+=> AMD Radeon Graphics
 {% endhighlight %}
-
 
 # Linux Setup
 <div style="
