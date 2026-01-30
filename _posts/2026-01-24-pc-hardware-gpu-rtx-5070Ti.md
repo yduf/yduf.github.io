@@ -144,6 +144,7 @@ $ sudo usermod -aG vglusers $USER
 # then logged out / and relog
 {% endhighlight %}
 
+It is certainly linked to my [xpra install]({% post_url 2025-05-08-share-power-xpra %}#virtual-gl)
 
 ## CUDA
 
