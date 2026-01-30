@@ -29,3 +29,9 @@ The NVIDIA RTX 5070 is part of the 5000-series, which **requires the Open Kernel
 [PCIe-3.0](https://chatgpt.com/share/697cbab4-31e4-800d-8c9e-bdf639a90c2d)
 - Enable "4G Decoding"
 - Enable "Resizable BAR" 
+
+nvidia-smi => work
+
+### Cuda
+
+### Pytorch
