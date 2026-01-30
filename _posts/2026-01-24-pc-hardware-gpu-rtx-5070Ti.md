@@ -123,7 +123,7 @@ CUDA works as long as nvidia-smi sees the GPU and the driver is installed. OpenG
 
 
 {% highlight bash %}
-$ docker run --rm --gpus all nvidia/cuda:12.3.0-base-ubuntu22.04 nvidia-smi
+$ podman run --rm --device nvidia.com/gpu=all docker.io/nvidia/cuda:12.3.0-base-ubuntu22.04 nvidia-smi
 {% endhighlight %}
 
 see
