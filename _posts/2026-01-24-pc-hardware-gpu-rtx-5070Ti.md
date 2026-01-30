@@ -101,11 +101,23 @@ $ sudo apt autoremove
 $ sudo reboot
 {% endhighlight %}
   
-### 
 </div>
 
 
 ## Cuda
+
+<div style="
+  border-left: 4px solid #3498db; /* blue */
+  background: #eef7ff;
+            
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 6px;
+"  markdown="1" >
+
+CUDA works as long as nvidia-smi sees the GPU and the driver is installed. OpenGL or graphics output isn’t required for CUDA compute tasks.
+  
+</div>
 
 [Testing CUDA](https://chatgpt.com/share/697d05e8-3964-800d-b147-3c4606eacf1f)
 
