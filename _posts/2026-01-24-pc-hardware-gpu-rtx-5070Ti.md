@@ -38,8 +38,16 @@ $ lspci | grep -E "VGA|3D"
 
 - Both GPU are seen
 - you can plug the hdmi cable in whateber socket => it will boot on it
+
+### OpenGL
 - opengl works on iGPU (motherboard HDMI)
 - does not work on RTX (cinnamon wm failing)
+
+When using iGPU, this can be checked:
+{% highlight bash %}
+$ glxinfo | grep "OpenGL renderer"
+{% endhighlight %}
+
 
 # Linux Setup
 <div style="
@@ -87,4 +95,4 @@ see
 
 ## Pytorch
 
-## OpenGL
+
