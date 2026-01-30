@@ -62,6 +62,9 @@ But...
 {% highlight bash %}
 $ __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia glxinfo | grep renderer
 => Fail the same way as if primary (X_GLXCreateNewContext)
+=> diagnosed it fail because of lack of privilege
+=> sudo __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia glxinfo | grep rendered 
+=> WORKS!!
 {% endhighlight %}
 
 # Linux Setup
@@ -121,9 +124,25 @@ CUDA works as long as nvidia-smi sees the GPU and the driver is installed. OpenG
 
 ## [Testing CUDA](https://chatgpt.com/share/697d05e8-3964-800d-b147-3c4606eacf1f)
 
+**Check that CUDA toolkit is installed**
 
 {% highlight bash %}
-$ podman run --rm --device nvidia.com/gpu=all docker.io/nvidia/cuda:12.3.0-base-ubuntu22.04 nvidia-smi
+$ nvcc --version
+
+# if above is missing
+$ sudo apt install nvidia-cuda-toolkit
+{% endhighlight %}
+
+Install [CUDA Samples](https://github.com/NVIDIA/cuda-samples?tab=readme-ov-file#cuda-samples)
+
+{% highlight bash %}
+$ git clone https://github.com/NVIDIA/cuda-samples.git
+$ mkdir build && cd build
+$ cmake ..
+$ make deviceQuery
+
+# test
+$ ./Sample/1_Utilities/deviceQuery/deviceQuery
 {% endhighlight %}
 
 see
