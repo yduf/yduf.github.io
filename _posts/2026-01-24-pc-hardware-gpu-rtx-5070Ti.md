@@ -21,6 +21,9 @@ tags: pc-hardware gpu
 "  markdown="1" >
 
 The NVIDIA RTX 5070 is part of the 5000-series, which **requires the Open Kernel Modules and requires driver 580 or newer**. - [Working 580-open Driver Guide](https://github.com/adamn1225/FIXED-NVIDIA-RTX-5070-on-Ubuntu-24.04---Working-580-open-Driver-Guide?tab=readme-ov-file#fixed-nvidia-rtx-5070-on-ubuntu-2404--2410--working-580-open-driver-guide)
+
+</div>
+
   
 All of the following WILL FAIL:
 
@@ -40,5 +43,3 @@ Symptoms include:
 - nvidia-smi says "no devices found"
 - Kernel module fails to load
 - Impossible dependency loops (570-open depends on 580-open)
-
-</div>
