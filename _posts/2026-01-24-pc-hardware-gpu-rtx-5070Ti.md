@@ -45,6 +45,7 @@ $ lspci | grep -E "VGA|3D"
 - linuxmint 22.3 / ubuntu 24.04 LTS
 - kernel 
 - nvidia driver
+	- 570.211.01 - smi working
 
 <div style="
             
