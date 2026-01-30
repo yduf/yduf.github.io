@@ -20,8 +20,6 @@ IO Ports/
 - Above 4G Decoding: Enabled
 - Re-Size BAR Support: Auto 
 
-
-
 **MultiGpu**
 AMD CBS/NBIO Common Options/GFS Configuration
 -iGPU Configuration: Auto
