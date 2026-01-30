@@ -10,6 +10,28 @@ toc: true
 - 329x140x62.5mm - takes 3 PC slots
 - [3dmodels](https://grabcad.com/library/asus-tuf-gaming-geforce-rtx-5070-ti-1)
 
+
+# [Motherboard A520I]({% post_url 2026-01-24-pc-hardware-motherboard %})
+
+## Settings
+
+
+IO Ports/
+[**PCIe-3.0**](https://chatgpt.com/share/697cbab4-31e4-800d-8c9e-bdf639a90c2d)
+- Above 4G Decoding: Enabled
+- Re-Size BAR Support: Auto 
+
+
+**MultiGpu**
+AMD CBS/NBIO Common Options/GFS Configuration
+-iGPU Configuration: Auto
+-GPU Host Translation Cache: Auto
+
+IO Ports/
+Initial Display Output: IGD Video 
+Integrated Graphic: Auto
+
+
 # Linux Setup
 - linuxmint 22.3 / ubuntu 24.04 LTS
 - kernel 
@@ -45,14 +67,6 @@ $ sudo reboot
 {% endhighlight %}
 </div>
 
-## [Motherboard A520I]({% post_url 2026-01-24-pc-hardware-motherboard %})
-
-[PCIe-3.0](https://chatgpt.com/share/697cbab4-31e4-800d-8c9e-bdf639a90c2d)
-- Enable "4G Decoding"
-- Enable "Resizable BAR" 
-May resolve some issue with older kernel?
-
-nvidia-smi => work
 
 ## Cuda
 
