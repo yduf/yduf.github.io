@@ -15,11 +15,12 @@ toc: true
 
 ## Settings
 
-
 IO Ports/
 [**PCIe-3.0**](https://chatgpt.com/share/697cbab4-31e4-800d-8c9e-bdf639a90c2d)
 - Above 4G Decoding: Enabled
 - Re-Size BAR Support: Auto 
+
+
 
 **MultiGpu**
 AMD CBS/NBIO Common Options/GFS Configuration
@@ -29,6 +30,13 @@ AMD CBS/NBIO Common Options/GFS Configuration
 IO Ports/
 Initial Display Output: IGD Video 
 Integrated Graphic: Auto
+
+{% highlight bash %}
+$ lspci | grep -E "VGA|3D"
+01:00.0 VGA compatible controller: NVIDIA Corporation Device 2c05 (rev a1)
+07:00.0 VGA compatible controller: Advanced Micro Devices, Inc. [AMD/ATI] Cezanne [Radeon Vega Series / Radeon Vega Mobile Series] (rev c8)
+{% endhighlight %}
+
 
 # Linux Setup
 - linuxmint 22.3 / ubuntu 24.04 LTS
