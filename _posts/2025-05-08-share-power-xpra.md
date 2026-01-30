@@ -1,7 +1,7 @@
 ---
 title: Xpra
 published: true
-tags: remote display opengl
+tags: remote display opengl gpu
 toc: true
 ---
 > persistent remote display server and client for forwarding applications and desktop screens. - [Home](https://xpra.org/index.html) / [github](https://github.com/Xpra-org/xpra/?tab=readme-ov-file#about) / [man](https://manpages.org/xpra)
