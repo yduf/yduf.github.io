@@ -51,4 +51,7 @@ nvidia-smi => work
 
 ### Cuda
 
+see
+- [ Installing NVIDIA RTX 5070 / 5070 Ti Drivers and CUDA 12.8 on Debian/Ubuntu 24.04 with Secure Boot Enabled ](https://gist.github.com/devatnull/8e63126e7f2a737c1b05a42822f69eda)
+
 ### Pytorch
