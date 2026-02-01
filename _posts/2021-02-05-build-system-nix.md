@@ -16,6 +16,21 @@ Flakes are now the standard way to use Nix.
 
 # [Using Flakes (Recommended)](https://chatgpt.com/share/6974dc8b-4770-800d-b838-05e4323d7085)
 
+<div style="
+  border-left: 5px solid #fb8c00; /* orange */
+  background: #fff3e0;
+            
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 6px;
+"  markdown="1" >
+Flakes need to be enabled
+  
+$ mkdir -p ~/.config/nix
+$ echo "experimental-features = nix-command flakes" >> ~/.config/nix/nix.conf
+# Restart your shell again
+</div>
+
 It provide a more advanced [Workflow for Using Flakes](https://chatgpt.com/share/6974e1d8-0350-800d-825e-9bb1d6a02ec6), targeting more specifically developer and project build repetability. _see below_
 
 
@@ -62,9 +77,3 @@ This create an isolated shell, taking into account the flake definition.
 $ nix develop
 {% endhighlight %}
 
-### Flakes need to be enabled
-{% highlight bash %}
-$ mkdir -p ~/.config/nix
-$ echo "experimental-features = nix-command flakes" >> ~/.config/nix/nix.conf
-# Restart your shell again
-{% endhighlight %}
