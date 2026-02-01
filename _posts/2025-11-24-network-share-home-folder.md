@@ -78,11 +78,17 @@ Mouting
 - _~/Documents_ → /export/media/docs
 - _~/Video_ → /export/media/videos 
 
-Modify _auto.master_
+Modify _auto.master_ & _auto.yves
 
 {% highlight bash %}
 # auto.master
 /home/yves    /etc/auto.yves
+{% endhighlight %}
+
+{% highlight bash %}
+# auto.yves
+Documents  -fstype=nfs,rw,nosuid,nodev    yves-huv:/home/yves/Documents
+Videos     -fstype=nfs,rw,nosuid,nodev    yves-huv:/home/yves/Videos
 {% endhighlight %}
 
 
