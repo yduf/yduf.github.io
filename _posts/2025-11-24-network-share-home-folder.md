@@ -14,6 +14,7 @@ Things to consider ⚠️
 - firefox will refuse to start thinking it's already started
 
 There are 2 Scenarios
+
 |       | Login on Host | Login from SSH |
 |-------|-------|----------------|
 | .config | | |
