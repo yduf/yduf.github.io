@@ -1,9 +1,8 @@
 ---
 title: "Sharing $HOME folder  \U0001F6A7"
 published: true
-tags: network nfs home in-progress
+tags: network nfs home config in-progress
 toc: true
-excerpt_separator: ''
 ---
 > seamlessly share a /home/user directory between two Linux computers -  [ChatGPT](https://chatgpt.com/share/68206e70-c3ac-800d-83aa-1e488dabacf2)
 
