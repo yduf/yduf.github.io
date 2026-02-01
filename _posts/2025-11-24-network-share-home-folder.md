@@ -13,9 +13,9 @@ Things to consider ⚠️
 	- to be able to connect to other system [own key need to be added to ~/.ssh/authorized_keys](https://yduf.github.io/ssh/#copy-ssh-keys-to-another-machine---askubuntu)
 - firefox will refuse to start thinking it's already started
 
-There are 2 Scenarios
+There are 2 Scenarios to consider
 
-| Item    | Login on Host | Login from SSH |
+| ~/      | Login on Host | Login from SSH |
 |---------|---------------|----------------|
 | .config |               |                |
 | files   |               |                |
