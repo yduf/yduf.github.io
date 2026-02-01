@@ -87,6 +87,7 @@ Modify _auto.master_ & _auto.yves
 {% highlight bash %}
 # /etc/auto.yves
 /home/yves/Documents/  -fstype=nfs,rw,nosuid,nodev    yves-huv:/home/yves/Documents/
+/home/yves/Videos/  -fstype=nfs,rw,nosuid,nodev    yves-huv:/home/yves/Videos/
 {% endhighlight %}
 
 Check that it works
