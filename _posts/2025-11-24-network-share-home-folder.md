@@ -15,11 +15,11 @@ Things to consider ⚠️
 
 There are 2 Scenarios
 
-|       | Login on Host | Login from SSH |
-|-------|-------|----------------|
-| .config | | |
-| files   | | |
-| Folder  | | |
+| Item    | Login on Host | Login from SSH |
+|---------|---------------|----------------|
+| .config |               |                |
+| files   |               |                |
+| Folder  |               |                |
 
 
 It is advise to enable different config between the two system (missing application / different version)
