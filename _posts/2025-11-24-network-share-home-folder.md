@@ -32,7 +32,6 @@ Using _chezmoi_ synchronisation is not automatic, but is still easy.
 
 It is advise to enable different config between the two system (missing application / different version)
 -  consider using a dotfile manager (like [chezmoi](https://www.chezmoi.io/) or yadm) to manage user-specific configs smartly, or [altenatives (lnk)](https://github.com/yarlson/lnk?tab=readme-ov-file#alternatives) / [stow](https://systemcrafters.net/managing-your-dotfiles/using-gnu-stow/)
-
         
 - [chezmoi](https://www.chezmoi.io/) - helps you manage your personal configuration files (dotfiles, like `~/.gitconfig`) across multiple machines.
 	- install .dotfile from a git repo on a new empty machine
