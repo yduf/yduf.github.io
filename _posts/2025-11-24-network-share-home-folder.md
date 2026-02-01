@@ -91,6 +91,12 @@ Documents  -fstype=nfs,rw,nosuid,nodev    yves-huv:/home/yves/Documents
 Videos     -fstype=nfs,rw,nosuid,nodev    yves-huv:/home/yves/Videos
 {% endhighlight %}
 
+Check that it works
+{% highlight bash %}
+$ sudo systemctl restart autofs
+$ ls ~/Documents
+$ ls ~/Videos
+{% endhighlight %}
 
 # Fixing IP
 
