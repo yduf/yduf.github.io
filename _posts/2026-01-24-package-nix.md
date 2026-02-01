@@ -80,11 +80,12 @@ The modern, recommended way:
 "  markdown="1" >
 profile need to be enabled
   
+{% highlight bash %}
 $ mkdir -p ~/.config/nix
 $ echo "experimental-features = nix-command flakes" >> ~/.config/nix/nix.conf
 # Restart your shell again
+{% endhighlight %}
 </div>
-
 
 This is similar to other package manager and can be thought as a replacement for brew/apt/etc... but for **user only**
 
