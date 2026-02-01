@@ -73,6 +73,9 @@ Which file needs to be syncrhonized anyway?
 
 Any `~/folder` can be covered by autofs.
 
+Example:
+
+Mouting _~/Documents_
 
 
 # Fixing IP
