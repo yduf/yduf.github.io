@@ -15,7 +15,7 @@ tags: monitoring disk
   border-radius: 6px;
 "  markdown="1" >
 
-> netdata is a very common source of constant disk write
+**netdata is a very common source of constant disk write**
 
 By default, netdata writes metrics to disk continuously (its internal database), even if you’re not actively viewing dashboards.
 
@@ -35,4 +35,3 @@ $ sudo iotop -oPa
 		- `sudo touch /opt/netdata/etc/netdata/.opt-out-from-anonymous-statistics`
 		- `--disable-telemetry`
 		- `--no-updates`
-
