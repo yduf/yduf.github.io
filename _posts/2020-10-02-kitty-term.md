@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Kitty / Ghostty - a modern term '
+title: Kitty & Ghostty - modern terms
 tags: cli gpu retro CRT term image viewer quake zig
 toc: true
 ---
