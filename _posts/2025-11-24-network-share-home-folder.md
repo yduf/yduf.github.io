@@ -18,17 +18,23 @@ There are 2 Scenarios to consider
 | ~/      | Login on Host | Login from SSH |
 |---------|---------------|----------------|
 | .config |               |                |
-| files   |               |                |
+| Files   |               |                |
 | Folder  |               |                |
 
 ## .config
 
 It is advise to enable different config between the two system (missing application / different version)
--  consider using a dotfile manager (like [chezmoi](https://www.chezmoi.io/) or yadm) to manage user-specific configs smartly.
-	- see also [Volatile Dotfiles over SSH](https://news.ycombinator.com/item?id=46344381)
-    	- or [altenatives (lnk)](https://github.com/yarlson/lnk?tab=readme-ov-file#alternatives) / [stow](https://systemcrafters.net/managing-your-dotfiles/using-gnu-stow/) / [kyrat](https://github.com/fsquillace/kyrat/)
-
-## .files
+-  consider using a dotfile manager (like [chezmoi](https://www.chezmoi.io/) or yadm) to manage user-specific configs smartly, or [altenatives (lnk)](https://github.com/yarlson/lnk?tab=readme-ov-file#alternatives) / [stow](https://systemcrafters.net/managing-your-dotfiles/using-gnu-stow/)
+- see also [Volatile Dotfiles over SSH](https://news.ycombinator.com/item?id=46344381) / [kyrat](https://github.com/fsquillace/kyrat/) 
+        
+- [chezmoi](https://www.chezmoi.io/) - chezmoi helps you manage your personal configuration files (dotfiles, like `~/.gitconfig`) across multiple machines.
+	- install .dotfile from a git repo on a new empty machine
+    - easy update
+    
+- [kyrat](https://github.com/fsquillace/kyrat/?tab=readme-ov-file#kyrat) - A simple ssh wrapper script that brings your dotfiles always with you on Linux. kyrat can transfer to the remote host and source the following dotfiles
+	- bashrc
+    
+## Files
 
 ## Folder 
 
