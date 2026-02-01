@@ -45,7 +45,11 @@ Using _chezmoi_ synchronisation is not automatic, but is still easy.
     - choose which file are managed by chezmoi 
     
 **example**
-Adding `~/.config/nix`
+Adding `~/.config/nix
+
+{% highlight bash %}
+$ 
+{% endhighlight %}`
 
 **see also**  
 One other possibility (dismissed)
