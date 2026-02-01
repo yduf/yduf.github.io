@@ -33,5 +33,6 @@ Nix is sometime proposed as an alternative to docker, because its reproducible s
 - [	Zero to Nix, an unofficial, opinionated, gentle introduction to Nix](https://news.ycombinator.com/item?id=34490376)
 - [	Crafting container images without Dockerfiles](https://news.ycombinator.com/item?id=34678121) - I've been using Nix for this.
 - [Using Nix on Linux Mint](https://leward.eu/using-nix-on-linux-mint/)
+- [	Guix System First Impressions as a Nix User](https://news.ycombinator.com/item?id=46835612) - replace Nix langage by Scheme.
 
 - [	Call by Hash](https://news.ycombinator.com/item?id=39699251) - What happens if we make URLs immutable?
