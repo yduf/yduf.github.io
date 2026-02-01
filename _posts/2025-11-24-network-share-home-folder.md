@@ -39,7 +39,7 @@ Using _chezmoi_ synchronisation is not automatic, but is still easy.
 
 ## .config
         
-- [chezmoi](https://www.chezmoi.io/) - helps you manage your personal configuration files (dotfiles, like `~/.gitconfig`) across multiple machines.
+Using [dotfiles](https://github.com/yduf/dotfiles) and [chezmoi](https://www.chezmoi.io/) - helps you manage your personal configuration files (dotfiles, like `~/.gitconfig`) across multiple machines.
 	- install .dotfile from a git repo on a new empty machine
     - easy update
     - choose which file are managed by chezmoi 
