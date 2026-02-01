@@ -70,9 +70,11 @@ Which file needs to be syncrhonized anyway?
 - `~/` root is private to each host,
 - don't write any shared files there and keep writing to autofs folder for sync
 
-## Folder 
+## [Folder](https://chatgpt.com/share/697f5191-68d4-800d-b91f-9b743bab101c)
 
 Any `~/folder` can be covered by autofs.
+
+
 
 # Fixing IP
 
