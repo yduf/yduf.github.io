@@ -31,7 +31,10 @@ $ git remote add origin git@github.com:yduf/dotfiles.git
 # and push
 {% endhighlight %}
 
-# Sync on other
+# Multi-Host
+
+Use the Git repo to share and synchronize these config accross multiple computers.
+Reference the repo when setting up the new computer.
 
 {% highlight bash %}
 $ chezmoi init git@github.com:yduf/dotfiles.git
