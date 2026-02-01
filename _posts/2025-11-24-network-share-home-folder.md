@@ -81,12 +81,12 @@ Modify _auto.master_ & _auto.yves
 {% highlight bash %}
 # auto.master
 # direct map
-/-    /etc/auto.yves
+/-    /etc/yves/auto.yves	--ghost,--timeout=30
 {% endhighlight %}
 
 {% highlight bash %}
-# /etc/yves/auto.documents
-Documents  -fstype=nfs,rw,nosuid,nodev    yves-huv:/home/yves/Documents/
+# /etc/auto.yves
+/home/yves/Documents/  -fstype=nfs,rw,nosuid,nodev    yves-huv:/home/yves/Documents/
 {% endhighlight %}
 
 Check that it works
