@@ -21,13 +21,18 @@ There are 2 Scenarios to consider
 | files   |               |                |
 | Folder  |               |                |
 
+## .config
 
 It is advise to enable different config between the two system (missing application / different version)
 -  consider using a dotfile manager (like [chezmoi](https://www.chezmoi.io/) or yadm) to manage user-specific configs smartly.
 	- see also [Volatile Dotfiles over SSH](https://news.ycombinator.com/item?id=46344381)
     	- or [altenatives (lnk)](https://github.com/yarlson/lnk?tab=readme-ov-file#alternatives) / [stow](https://systemcrafters.net/managing-your-dotfiles/using-gnu-stow/) / [kyrat](https://github.com/fsquillace/kyrat/)
 
-see also
+## .files
+
+## Folder 
+
+# see also
 - [Is it possible to store user's home directories remotely?](https://askubuntu.com/questions/553981/is-it-possible-to-store-users-home-directories-remotely)
 - [how to deal with shared home directory on linux?](https://superuser.com/questions/211792/how-to-deal-with-shared-home-directory-on-linux)
 
