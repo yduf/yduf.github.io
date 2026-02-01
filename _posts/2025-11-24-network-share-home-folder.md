@@ -46,7 +46,9 @@ It is advise to enable different config between the two system (missing applicat
 
 This can be covered by 
 - _chezmoi_ but with  no automatic synchronisation.
-- rsync
+- rsync if prefered
+
+Which file needs to be syncrhonized anyway?
 
 ## Folder 
 
