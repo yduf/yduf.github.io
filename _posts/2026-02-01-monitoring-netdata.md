@@ -29,7 +29,11 @@ $ sudo iotop -oPa
 **-P** → show per-process (not per-thread)  
 **-a** → accumulate I/O over time
 
-### Netdata  dashboard
+# Setup
+
+- [How to setup netdata on linux.](https://chatgpt.com/share/697fa396-3110-800d-b362-baf5524b9bbd)
+
+## Netdata  dashboard
 - [netdata instead of Grafana](https://github.com/davestephens/ansible-nas/issues/8) see [netdata/netdata](https://github.com/netdata/netdata)
 	- [Install Netdata with kickstart.sh](https://learn.netdata.cloud/docs/netdata-agent/installation/linux) - script can be customized and accept arguments
 		- `sudo touch /opt/netdata/etc/netdata/.opt-out-from-anonymous-statistics`
