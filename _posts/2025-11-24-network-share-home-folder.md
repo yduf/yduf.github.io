@@ -71,11 +71,20 @@ Which file needs to be syncrhonized anyway?
 
 ## [Folder](https://chatgpt.com/share/697f5191-68d4-800d-b91f-9b743bab101c)
 
-Any `~/folder` can be covered by autofs.
+Any `~/folder` can be covered by [autofs]({% post_url 2019-05-10-nfs %}).
 
-Example:
+**Example:**   
+Mouting 
+- _~/Documents_ → /export/media/docs
+- _~/Video_ → /export/media/videos 
 
-Mouting _~/Documents_
+Modify _auto.master_
+
+{% highlight bash %}
+# auto.master
+/home/yves/Documents    /etc/yves/auto.documents
+/home/yves/Videos       /etc/yves/auto.videos
+{% endhighlight %}
 
 
 # Fixing IP
