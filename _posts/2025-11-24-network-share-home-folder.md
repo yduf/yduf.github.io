@@ -17,9 +17,11 @@ There are 2 Scenarios to consider
 
 | ~/      | Login on Host | Login from SSH |
 |---------|---------------|----------------|
-| [.config](#.config) |               |                |
-| [Files](#files)   |               |                |
-| [Folder](#folder)  |               |                |
+| [.config](#.config) | _chezmoi_     | same |
+| [Files](#files)     | _chezmoi_     | same |
+| [Folder](#folder)   | _autofs_      | same |
+
+Using _chezmoi_ synchronisation is not automatic, but is still easy.
 
 ## .config
 
