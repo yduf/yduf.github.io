@@ -18,7 +18,7 @@ And there was also some other drawbacks ⚠️
 - firefox will refuse to start thinking it's already started
 
 It is advise to enable different config between the two system (missing application / different version)
--  consider using a dotfile manager (like [chezmoi](https://www.chezmoi.io/) or yadm) to manage user-specific configs smartly, or [altenatives (lnk)](https://github.com/yarlson/lnk?tab=readme-ov-file#alternatives) / [stow](https://systemcrafters.net/managing-your-dotfiles/using-gnu-stow/)
+-  consider using a dotfile manager (like [chezmoi](https://www.chezmoi.io/) or yadm) to manage user-specific configs smartly
 
 Now moving to an alternative approach.
 There are 2 Scenarios to consider
@@ -42,7 +42,7 @@ Using _chezmoi_ synchronisation is not automatic, but is still easy.
 One other possibility (dismissed)
 - [kyrat](https://github.com/fsquillace/kyrat/?tab=readme-ov-file#kyrat) - A simple ssh wrapper script that brings your dotfiles always with you on Linux. kyrat can transfer to the remote host and source the following dotfiles
 	- bashrc
-- [Volatile Dotfiles over SSH](https://news.ycombinator.com/item?id=46344381) - discussion about various tools that can be helpfull
+- [Volatile Dotfiles over SSH](https://news.ycombinator.com/item?id=46344381) - discussion about various tools that can be helpfull [(lnk)](https://github.com/yarlson/lnk?tab=readme-ov-file#alternatives) / [stow](https://systemcrafters.net/managing-your-dotfiles/using-gnu-stow/)
 
 ## Files
 
