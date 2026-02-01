@@ -145,3 +145,9 @@ This will stick with your user account.
 $ nix-env -iA nixpkgs.zig
 {% endhighlight %}
 
+## [Nix and sudo?](https://chatgpt.com/share/697f8013-6144-800d-8562-e2804fcc47d5)
+
+Nix packages don’t mix with sudo the way system package managers do, and that’s usually by design.
+
+Nix installs packages into user profiles (~/.nix-profile).
+sudo resets PATH for security, so it doesn’t see user-installed Nix binaries.
