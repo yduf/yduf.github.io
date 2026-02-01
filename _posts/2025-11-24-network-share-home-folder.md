@@ -82,8 +82,7 @@ Modify _auto.master_
 
 {% highlight bash %}
 # auto.master
-/home/yves/Documents    /etc/yves/auto.documents
-/home/yves/Videos       /etc/yves/auto.videos
+/home/yves    /etc/auto.yves
 {% endhighlight %}
 
 
