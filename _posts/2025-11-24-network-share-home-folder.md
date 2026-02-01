@@ -48,7 +48,7 @@ Using _chezmoi_ synchronisation is not automatic, but is still easy.
 Adding `~/.config/nix
 
 {% highlight bash %}
-$ 
+$ chezmoi add .config/nix/nix.conf
 {% endhighlight %}`
 
 **see also**  
