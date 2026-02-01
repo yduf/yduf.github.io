@@ -3,6 +3,7 @@ title: "Sharing $HOME folder  \U0001F6A7"
 published: true
 tags: network nfs home in-progress
 toc: true
+excerpt_separator: ''
 ---
 <link rel="shortcut icon" href="https://cdn.iconscout.com/icon/premium/png-512-thumb/network-folder-10-794131.png?f=webp&w=512" type="image/x-icon" />
 
