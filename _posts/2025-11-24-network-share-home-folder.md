@@ -29,6 +29,11 @@ There are 2 Scenarios to consider
 | [.config](#.config) | _chezmoi_     | same |
 | [Files](#files)     | _chezmoi_     | same |
 | [Folder](#folder)   | _autofs_      | same |
+|---------|---------------|----------------|
+| [Nix package]() | | |
+|---------|---------------|----------------|
+| base system | | |
+
 
 Using _chezmoi_ synchronisation is not automatic, but is still easy.
 
