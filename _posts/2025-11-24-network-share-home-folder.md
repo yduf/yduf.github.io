@@ -17,6 +17,9 @@ And there was also some other drawbacks ⚠️
 	- to be able to connect to other system [own key need to be added to ~/.ssh/authorized_keys](https://yduf.github.io/ssh/#copy-ssh-keys-to-another-machine---askubuntu)
 - firefox will refuse to start thinking it's already started
 
+It is advise to enable different config between the two system (missing application / different version)
+-  consider using a dotfile manager (like [chezmoi](https://www.chezmoi.io/) or yadm) to manage user-specific configs smartly, or [altenatives (lnk)](https://github.com/yarlson/lnk?tab=readme-ov-file#alternatives) / [stow](https://systemcrafters.net/managing-your-dotfiles/using-gnu-stow/)
+
 Now moving to an alternative approach.
 There are 2 Scenarios to consider
 
@@ -29,9 +32,6 @@ There are 2 Scenarios to consider
 Using _chezmoi_ synchronisation is not automatic, but is still easy.
 
 ## .config
-
-It is advise to enable different config between the two system (missing application / different version)
--  consider using a dotfile manager (like [chezmoi](https://www.chezmoi.io/) or yadm) to manage user-specific configs smartly, or [altenatives (lnk)](https://github.com/yarlson/lnk?tab=readme-ov-file#alternatives) / [stow](https://systemcrafters.net/managing-your-dotfiles/using-gnu-stow/)
         
 - [chezmoi](https://www.chezmoi.io/) - helps you manage your personal configuration files (dotfiles, like `~/.gitconfig`) across multiple machines.
 	- install .dotfile from a git repo on a new empty machine
