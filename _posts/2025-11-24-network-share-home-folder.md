@@ -17,9 +17,9 @@ There are 2 Scenarios to consider
 
 | ~/      | Login on Host | Login from SSH |
 |---------|---------------|----------------|
-| .config |               |                |
-| Files   |               |                |
-| Folder  |               |                |
+| [.config](#.config) |               |                |
+| [Files](#files)   |               |                |
+| [Folder](#folder)  |               |                |
 
 ## .config
 
