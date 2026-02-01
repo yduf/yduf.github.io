@@ -6,7 +6,7 @@ toc: true
 ---
 > [chezmoi](https://www.chezmoi.io/) helps you manage your personal configuration files (dotfiles, like `~/.gitconfig`) across multiple machines.
 
-Mainly act as wrapper around _git_ and the management of a special repo dedicated to _.config_ files.
+Mainly act as wrapper around _git_ and the management of a special repo dedicated to _.config_ files. All regular git command are available when steping inside the _chezmoi_ repo which is accessible with `chezmoi cd`.
 
 # Install
 
