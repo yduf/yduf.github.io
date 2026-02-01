@@ -7,12 +7,17 @@ toc: true
 <link rel="shortcut icon" href="https://cdn.iconscout.com/icon/premium/png-512-thumb/network-folder-10-794131.png?f=webp&w=512" type="image/x-icon" />
 
 # [Sharing Home folder](https://chatgpt.com/share/68206e70-c3ac-800d-83aa-1e488dabacf2)
+
+First idea was to share the full ~/ folder through nfs.
+- it won't allow login if the nfs server is unreachable
+- they are some _race conditions_ (not so sure) when connecting from ssh that made that solution unstable.
   
-Things to consider ⚠️
+And there was also some other drawbacks ⚠️
 - **ssh keys will be shared ash well**
 	- to be able to connect to other system [own key need to be added to ~/.ssh/authorized_keys](https://yduf.github.io/ssh/#copy-ssh-keys-to-another-machine---askubuntu)
 - firefox will refuse to start thinking it's already started
 
+Now moving to an alternative approach.
 There are 2 Scenarios to consider
 
 | ~/      | Login on Host | Login from SSH |
