@@ -72,6 +72,7 @@ Which file needs to be syncrhonized anyway?
 ## [Folder](https://chatgpt.com/share/697f5191-68d4-800d-b91f-9b743bab101c)
 
 Any `~/folder` can be covered by [autofs]({% post_url 2019-05-10-nfs %}).
+But you have to use [direct map Configuration](https://chatgpt.com/share/697f6678-fa7c-800d-9c45-0128173356e9)
 
 ### Working example
 
@@ -79,12 +80,8 @@ Modify _auto.master_ & _auto.yves
 
 {% highlight bash %}
 # auto.master
-+auto.yves
-{% endhighlight %}
-
-{% highlight bash %}
-# auto.yves
-/home/yves/Documents    /etc/yves/auto.documents
+# direct map
+/-    /etc/auto.yves
 {% endhighlight %}
 
 {% highlight bash %}
