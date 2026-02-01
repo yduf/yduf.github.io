@@ -129,7 +129,12 @@ $ nix run nixpkgs#zig
 {% endhighlight %}
 
 
-## Using nix-env
+
+## Using home-manager (optional)
+
+Nix Home Manager is a tool in the Nix ecosystem that lets you manage your user-specific environment declaratively using Nix—similar to how NixOS manages system configuration, but applied to a user’s home directory and personal setup. - [ChatGPT](https://chatgpt.com/share/6975e6a4-7990-800d-bdbd-6764ff1ae249)
+
+## ~~Using nix-env~~ (depracated)
 
 **permanent installation for your use**
 
@@ -140,7 +145,3 @@ This will stick with your user account.
 $ nix-env -iA nixpkgs.zig
 {% endhighlight %}
 
-
-## Using home-manager (optional)
-
-Nix Home Manager is a tool in the Nix ecosystem that lets you manage your user-specific environment declaratively using Nix—similar to how NixOS manages system configuration, but applied to a user’s home directory and personal setup. - [ChatGPT](https://chatgpt.com/share/6975e6a4-7990-800d-bdbd-6764ff1ae249)
