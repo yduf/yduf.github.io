@@ -27,16 +27,23 @@ It is advise to enable different config between the two system (missing applicat
 -  consider using a dotfile manager (like [chezmoi](https://www.chezmoi.io/) or yadm) to manage user-specific configs smartly, or [altenatives (lnk)](https://github.com/yarlson/lnk?tab=readme-ov-file#alternatives) / [stow](https://systemcrafters.net/managing-your-dotfiles/using-gnu-stow/)
 - see also [Volatile Dotfiles over SSH](https://news.ycombinator.com/item?id=46344381) / [kyrat](https://github.com/fsquillace/kyrat/) 
         
-- [chezmoi](https://www.chezmoi.io/) - chezmoi helps you manage your personal configuration files (dotfiles, like `~/.gitconfig`) across multiple machines.
+- [chezmoi](https://www.chezmoi.io/) - helps you manage your personal configuration files (dotfiles, like `~/.gitconfig`) across multiple machines.
 	- install .dotfile from a git repo on a new empty machine
     - easy update
+    - choose which file are managed by chezmoi 
     
 - [kyrat](https://github.com/fsquillace/kyrat/?tab=readme-ov-file#kyrat) - A simple ssh wrapper script that brings your dotfiles always with you on Linux. kyrat can transfer to the remote host and source the following dotfiles
 	- bashrc
     
 ## Files
 
+This can be covered by 
+- _chezmoi_ but with  no automatic synchronisation.
+- rsync
+
 ## Folder 
+
+This can be covered by autofs.
 
 # see also
 - [Is it possible to store user's home directories remotely?](https://askubuntu.com/questions/553981/is-it-possible-to-store-users-home-directories-remotely)
