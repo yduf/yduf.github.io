@@ -30,7 +30,7 @@ There are 2 Scenarios to consider
 | [Files](#files)     | _chezmoi_     | same |
 | [Folder](#folder)   | _autofs_      | same |
 |---------|---------------|----------------|
-| [Nix package]() | | |
+| [Nix package]({% post_url 2026-01-24-package-nix %}) | | |
 |---------|---------------|----------------|
 | base system | | |
 
