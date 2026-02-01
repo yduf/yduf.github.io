@@ -43,6 +43,9 @@ Using _chezmoi_ synchronisation is not automatic, but is still easy.
 	- install .dotfile from a git repo on a new empty machine
     - easy update
     - choose which file are managed by chezmoi 
+    
+**example**
+Adding `~/.config/nix`
 
 **see also**  
 One other possibility (dismissed)
