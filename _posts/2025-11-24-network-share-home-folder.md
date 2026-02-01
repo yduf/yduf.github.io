@@ -71,8 +71,21 @@ Which file needs to be syncrhonized anyway?
 
 ## [Folder](https://chatgpt.com/share/697f5191-68d4-800d-b91f-9b743bab101c)
 
+<div style="
+  border-left: 5px solid #43a047;  /* green */
+  background: #e8f5e9;
+            
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 6px;
+"  markdown="1" >
+
+
 Any `~/folder` can be covered by [autofs]({% post_url 2019-05-10-nfs %}).
 But you have to use [direct map Configuration](https://chatgpt.com/share/697f6678-fa7c-800d-9c45-0128173356e9)
+
+</div>
+
 
 ### Working example
 
@@ -94,6 +107,7 @@ Check that it works
 {% highlight bash %}
 $ sudo systemctl restart autofs
 $ ls ~/Documents
+$ ls ~/Videos
 {% endhighlight %}
 
 ### Non working Example   
