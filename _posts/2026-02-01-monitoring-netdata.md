@@ -29,8 +29,6 @@ $ sudo iotop -oPa
 **-P** → show per-process (not per-thread)  
 **-a** → accumulate I/O over time
 
-
-
 ### Netdata  dashboard
 - [netdata instead of Grafana](https://github.com/davestephens/ansible-nas/issues/8) see [netdata/netdata](https://github.com/netdata/netdata)
 	- [Install Netdata with kickstart.sh](https://learn.netdata.cloud/docs/netdata-agent/installation/linux) - script can be customized and accept arguments
