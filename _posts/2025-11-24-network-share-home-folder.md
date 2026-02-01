@@ -36,7 +36,7 @@ There are 2 Scenarios to consider
 
 
 Using _chezmoi_ synchronisation is not automatic, but is still easy.
-Folder autofs is cumbersome, but done few time.
+Folder autofs is cumbersome, but done very few time.
 
 ## .config
         
