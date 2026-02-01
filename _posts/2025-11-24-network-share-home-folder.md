@@ -9,7 +9,6 @@ excerpt_separator: ''
 
 <link rel="shortcut icon" href="https://cdn.iconscout.com/icon/premium/png-512-thumb/network-folder-10-794131.png?f=webp&w=512" type="image/x-icon" />
 
-
 First idea was to share the full `~/` folder through nfs.
 - it won't allow login if the nfs server is unreachable
 - they are some _race conditions_ (not so sure) when connecting from ssh that made that solution unstable.
