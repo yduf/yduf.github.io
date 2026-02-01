@@ -26,9 +26,11 @@ Flakes are now the standard way to use Nix.
 "  markdown="1" >
 Flakes need to be enabled
   
+{% highlight bash %}
 $ mkdir -p ~/.config/nix
 $ echo "experimental-features = nix-command flakes" >> ~/.config/nix/nix.conf
 # Restart your shell again
+{% endhighlight %}
 </div>
 
 It provide a more advanced [Workflow for Using Flakes](https://chatgpt.com/share/6974e1d8-0350-800d-825e-9bb1d6a02ec6), targeting more specifically developer and project build repetability. _see below_
