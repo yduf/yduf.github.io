@@ -16,7 +16,13 @@ $ chezmoi -v apply
 ## Git Sync
 
 Leverage a git repo to syncronize everything
+Create a [dotfile](https://github.com/yduf/dotfiles) repo on github and attach it to _chezmoi_
 
+{% highlight bash %}
+$ chezmoi cd
+$ git remote add origin git@github.com:yduf/dotfiles.git
+# and push
+{% endhighlight %}
 
 
 # Install
