@@ -23,7 +23,7 @@ kitty provides extremely powerful interfaces such as Control kitty from scripts 
 
 - [Kitti3](https://github.com/LandingEllipse/kitti3) turns Kitty into a drop-down, Quake-style floating terminal.
 
-## [ghostty](https://ghostty.org/) 
+## [Ghostty](https://ghostty.org/) 
 
 By the creator of Hashicorp - [HN](https://news.ycombinator.com/item?id=45347117)
 - [Talk: Introducing Ghostty and Some Useful Zig Patterns](https://mitchellh.com/writing/ghostty-and-useful-zig-patterns) - Why Zig? Why Not \<Language\> I don't care for this question and I don't care to answer it. I chose Zig, I like Zig, let's move on.
