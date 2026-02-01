@@ -81,7 +81,7 @@ Modify _auto.master_ & _auto.yves
 {% highlight bash %}
 # auto.master
 # direct map
-/-    /etc/yves/auto.yves	--ghost,--timeout=30
+/-    /etc/auto.yves	--ghost,--timeout=30
 {% endhighlight %}
 
 {% highlight bash %}
