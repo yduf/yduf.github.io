@@ -6,7 +6,7 @@ toc: true
 ---
 <link rel="shortcut icon" href="https://cdn.iconscout.com/icon/premium/png-512-thumb/network-folder-10-794131.png?f=webp&w=512" type="image/x-icon" />
 
-# [Sharing Home folder](https://chatgpt.com/share/68206e70-c3ac-800d-83aa-1e488dabacf2)
+- [ChatGPT](https://chatgpt.com/share/68206e70-c3ac-800d-83aa-1e488dabacf2)
 
 First idea was to share the full ~/ folder through nfs.
 - it won't allow login if the nfs server is unreachable
