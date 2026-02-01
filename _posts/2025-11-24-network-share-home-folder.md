@@ -6,13 +6,21 @@ toc: true
 ---
 <link rel="shortcut icon" href="https://cdn.iconscout.com/icon/premium/png-512-thumb/network-folder-10-794131.png?f=webp&w=512" type="image/x-icon" />
 
-## [Sharing Home folder](https://chatgpt.com/share/68206e70-c3ac-800d-83aa-1e488dabacf2)
+# [Sharing Home folder](https://chatgpt.com/share/68206e70-c3ac-800d-83aa-1e488dabacf2)
   
 Things to consider ⚠️
 - **ssh keys will be shared ash well**
 	- to be able to connect to other system [own key need to be added to ~/.ssh/authorized_keys](https://yduf.github.io/ssh/#copy-ssh-keys-to-another-machine---askubuntu)
 - firefox will refuse to start thinking it's already started
-  
+
+There are 2 Scenarios
+|       | Login on Host | Login from SSH |
+|-------|-------|----------------|
+| .config | | |
+| files   | | |
+| Folder  | | |
+
+
 It is advise to enable different config between the two system (missing application / different version)
 -  consider using a dotfile manager (like [chezmoi](https://www.chezmoi.io/) or yadm) to manage user-specific configs smartly.
 	- see also [Volatile Dotfiles over SSH](https://news.ycombinator.com/item?id=46344381)
