@@ -23,15 +23,15 @@ It is advise to enable different config between the two system (missing applicat
 Now moving to an alternative approach.
 There are 2 Scenarios to consider
 
-| ~/      | Login on Host | Login from SSH |
+| ~/      | Exec on Host | remote Exec |
 |---------|---------------|----------------|
 | [.config](#.config) | _chezmoi_     | same |
-| [Files](#files)     | none     | same |
+| [Files](#files)     | local1     | local2 |
 | [Folder](#folder)   | _autofs_      | same |
 |---------|---------------|----------------|
-| [Nix package]({% post_url 2026-01-24-package-nix %}) | | |
+| [Nix package]({% post_url 2026-01-24-package-nix %}) | local1 | local2 |
 |---------|---------------|----------------|
-| base system | | |
+| base system | local1 | local2 |
 
 
 - Using _chezmoi_ synchronisation is not automatic, but is still easy.
@@ -160,6 +160,12 @@ ip of the server must be fixed, cf:
 - [add a 2nd ip]({% post_url 2025-05-10-network-second-ip %}) for a laptop
 	- this is dependant of the interface: changing a usb dongle will hide it.
 - [setup a static ip]({% post_url 2017-07-16-network %}) for a server
+
+# Usage
+
+## Freecad XPra
+
+## VSCode
 
 # see also
 - [Is it possible to store user's home directories remotely?](https://askubuntu.com/questions/553981/is-it-possible-to-store-users-home-directories-remotely)
