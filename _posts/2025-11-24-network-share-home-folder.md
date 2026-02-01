@@ -35,8 +35,8 @@ There are 2 Scenarios to consider
 | base system | | |
 
 
-Using _chezmoi_ synchronisation is not automatic, but is still easy.
-Folder autofs is cumbersome, but done very few time.
+- Using _chezmoi_ synchronisation is not automatic, but is still easy.
+- Folder autofs is cumbersome, but done very few time. It also provide a kind of sandboxing, exposing only what is required for processing on other computer
 
 ## .config
         
