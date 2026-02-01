@@ -9,7 +9,7 @@ excerpt_separator: ''
 
 - [ChatGPT](https://chatgpt.com/share/68206e70-c3ac-800d-83aa-1e488dabacf2)
 
-First idea was to share the full ~/ folder through nfs.
+First idea was to share the full `~/` folder through nfs.
 - it won't allow login if the nfs server is unreachable
 - they are some _race conditions_ (not so sure) when connecting from ssh that made that solution unstable.
   
