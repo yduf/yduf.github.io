@@ -4,7 +4,9 @@ published: true
 tags: config nix package
 toc: true
 ---
-> - [chezmoi](https://www.chezmoi.io/) helps you manage your personal configuration files (dotfiles, like `~/.gitconfig`) across multiple machines.
+> [chezmoi](https://www.chezmoi.io/) helps you manage your personal configuration files (dotfiles, like `~/.gitconfig`) across multiple machines.
+
+Mainly act as wrapper around _git_ and the management of a special repo dedicated to _.config_ files.
 
 # Install
 
@@ -41,6 +43,3 @@ $ chezmoi init git@github.com:yduf/dotfiles.git
 $ chezmoi diff
 $ chezmoi apply -v
 {% endhighlight %}
-
-
-
