@@ -63,10 +63,10 @@ Taking zig as an example
 
 The modern, recommended way:  
 ✔ Enable [Flakes](#using-flakes-recommended)  
-✔ Use nix [profile](#using-profile) for packages  
-✔ Use nix develop for projects ([Flakes](#using-flakes-recommended))
+✔ Use [nix profile](#using-profile) for packages  
+✔ Use `nix develop` for projects ([Flakes](#using-flakes-recommended))  
 ✔ Use [Home Manager](#using-home-manager-optional) (optionally with NixOS)  
-✔ Avoid channels and [nix-env](#using-nix-env)  
+\- Avoid channels and [nix-env](#using-nix-env)  
 
 ## Using profile
 
