@@ -1,7 +1,7 @@
 ---
 title: "Nix (Package) \U0001F4E6"
 published: true
-tags: nix package
+tags: nix package config
 toc: true
 ---
 > A package manager that installs software in /nix/store that you can use alongside your linux distribution - [Home](https://nix.dev/manual/nix/2.28/command-ref/new-cli/nix.html) / [ChatGPT](https://chatgpt.com/share/6974a2a5-5b6c-800d-8fe3-f1fb83ed44a8)
