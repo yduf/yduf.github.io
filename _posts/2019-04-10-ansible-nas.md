@@ -96,12 +96,7 @@ toc: true
 - [spectre mitigation disabled]({% post_url 2019-10-14-linux-fast %})
 
 ### Monitoring
-- [**Netdata**](http://192.168.0.125:19999) dashboard
-	- [netdata instead of Grafana](https://github.com/davestephens/ansible-nas/issues/8) see [netdata/netdata](https://github.com/netdata/netdata)
-		- [Install Netdata with kickstart.sh](https://learn.netdata.cloud/docs/netdata-agent/installation/linux) - script can be customized and accept arguments
-			- `sudo touch /opt/netdata/etc/netdata/.opt-out-from-anonymous-statistics`
-			- `--disable-telemetry`
-			- `--no-updates`
+- [**Netdata**]({% post_url 2026-02-01-monitoring-netdata %}) - beware of disk activity with default config
 - `glances` - kind of htop cli + cpu temps
     
 ### Remote Access
