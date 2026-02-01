@@ -27,7 +27,7 @@ There are 2 Scenarios to consider
 | ~/      | Login on Host | Login from SSH |
 |---------|---------------|----------------|
 | [.config](#.config) | _chezmoi_     | same |
-| [Files](#files)     | _chezmoi_     | same |
+| [Files](#files)     | none     | same |
 | [Folder](#folder)   | _autofs_      | same |
 |---------|---------------|----------------|
 | [Nix package]({% post_url 2026-01-24-package-nix %}) | | |
