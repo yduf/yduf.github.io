@@ -49,6 +49,9 @@ This can be covered by
 - rsync if prefered
 
 Which file needs to be syncrhonized anyway?
+One easy restriction is that
+- ~/ root is private to each host,
+- don't write any shared files there and keep writing to autofs folder for sync
 
 ## Folder 
 
