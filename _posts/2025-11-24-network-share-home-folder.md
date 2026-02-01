@@ -166,7 +166,7 @@ ip of the server must be fixed, cf:
 Some example of configuration usage makint usefull to share $HOME
 hosted on huv (laptop) with lab (more powerfull server).
 
-## Freecad XPra
+## Freecad
 
 ## VSCode
 
