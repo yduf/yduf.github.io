@@ -42,7 +42,7 @@ Using _chezmoi_ synchronisation is not automatic, but is still easy.
 One other possibility (dismissed)
 - [kyrat](https://github.com/fsquillace/kyrat/?tab=readme-ov-file#kyrat) - A simple ssh wrapper script that brings your dotfiles always with you on Linux. kyrat can transfer to the remote host and source the following dotfiles
 	- bashrc
-- [Volatile Dotfiles over SSH](https://news.ycombinator.com/item?id=46344381)
+- [Volatile Dotfiles over SSH](https://news.ycombinator.com/item?id=46344381) - discussion about various tools that can be helpfull
 
 ## Files
 
@@ -59,11 +59,7 @@ One easy restriction is that
 
 Any `~/folder` can be covered by autofs.
 
-# see also
-- [Is it possible to store user's home directories remotely?](https://askubuntu.com/questions/553981/is-it-possible-to-store-users-home-directories-remotely)
-- [how to deal with shared home directory on linux?](https://superuser.com/questions/211792/how-to-deal-with-shared-home-directory-on-linux)
-
-## Fixing IP
+# Fixing IP
 
 To make the /home folder available reachable,
 ip of the server must be fixed, cf:
@@ -71,3 +67,7 @@ ip of the server must be fixed, cf:
 - [add a 2nd ip]({% post_url 2025-05-10-network-second-ip %}) for a laptop
 	- this is dependant of the interface: changing a usb dongle will hide it.
 - [setup a static ip]({% post_url 2017-07-16-network %}) for a server
+
+# see also
+- [Is it possible to store user's home directories remotely?](https://askubuntu.com/questions/553981/is-it-possible-to-store-users-home-directories-remotely)
+- [how to deal with shared home directory on linux?](https://superuser.com/questions/211792/how-to-deal-with-shared-home-directory-on-linux)
