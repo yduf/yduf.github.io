@@ -70,6 +70,22 @@ The modern, recommended way:
 
 ## Using profile
 
+<div style="
+  border-left: 5px solid #fb8c00; /* orange */
+  background: #fff3e0;
+            
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 6px;
+"  markdown="1" >
+profile need to be enabled
+  
+$ mkdir -p ~/.config/nix
+$ echo "experimental-features = nix-command flakes" >> ~/.config/nix/nix.conf
+# Restart your shell again
+</div>
+
+
 This is similar to other package manager and can be thought as a replacement for brew/apt/etc... but for **user only**
 
 {% highlight bash %}
