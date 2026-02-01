@@ -79,11 +79,13 @@ Modify _auto.master_ & _auto.yves
 
 {% highlight bash %}
 # auto.master
-/home/yves/Documents    /etc/yves/auto.documents
++auto.yves
 {% endhighlight %}
 
 {% highlight bash %}
 # auto.yves
+/home/yves/Documents    /etc/yves/auto.documents
+
 Documents  -fstype=nfs,rw,nosuid,nodev    yves-huv:/home/yves/Documents
 {% endhighlight %}
 
