@@ -13,6 +13,12 @@ $ chezmoi add ~/.bashrc
 $ chezmoi -v apply
 {% endhighlight %}
 
+## Git Sync
+
+Leverage a git repo to syncronize everything
+
+
+
 # Install
 
 {% highlight bash %}
