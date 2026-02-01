@@ -73,7 +73,43 @@ Which file needs to be syncrhonized anyway?
 
 Any `~/folder` can be covered by [autofs]({% post_url 2019-05-10-nfs %}).
 
-**Example:**   
+### Working example
+
+Modify _auto.master_ & _auto.yves
+
+{% highlight bash %}
+# auto.master
+/home/yves/Documents    /etc/yves/auto.documents
+{% endhighlight %}
+
+{% highlight bash %}
+# auto.yves
+Documents  -fstype=nfs,rw,nosuid,nodev    yves-huv:/home/yves/Documents
+{% endhighlight %}
+
+Check that it works
+{% highlight bash %}
+$ sudo systemctl restart autofs
+$ ls ~/Documents
+{% endhighlight %}
+
+### Non working Example   
+
+<div style="
+  border-left: 5px solid #e53935; /* red */
+  background: #ffebee;
+            
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 6px;
+"  markdown="1" >
+
+This setup will prevent tools like kitty ssh to work, because nothing can be written on ~/ directly, only mounted folder (~/Documents,~/Videos) are accessible.
+
+</div>
+
+If for simplifying configuration we let autofs handle the ~/, it will hide everything except the automounted folder.
+
 Mouting 
 - _~/Documents_ → /export/media/docs
 - _~/Video_ → /export/media/videos 
@@ -97,6 +133,7 @@ $ sudo systemctl restart autofs
 $ ls ~/Documents
 $ ls ~/Videos
 {% endhighlight %}
+
 
 # Fixing IP
 
