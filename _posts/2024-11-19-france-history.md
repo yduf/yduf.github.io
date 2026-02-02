@@ -16,7 +16,7 @@ see also
     - _Nous, ce que nous avons fait, c'est que les villageois algériens se réfugiaient dans des grottes. On a muré les grottes. On a mis du bois dans les grottes. [On a allumé du feu et on les a asphyxiés.](https://orientxxi.info/lu-vu-entendu/algerie-les-enfumades-du-dahra-au-dela-du-recit-colonial,8073)
     - [Le massacre de la tribu des El Ouffia](https://www.youtube.com/watch?v=mHm6YOIWt4w)
 - [des armes chimiques utilisées par la France en Algérie](https://www.jeuneafrique.com/1694731/politique/un-documentaire-leve-le-tabou-des-armes-chimiques-utilisees-par-la-france-en-algerie/) - entre 1956 et 1962, en Algérie, la France a expérimenté, autorisé puis utilisé des armes chimiques pour capturer ou tuer les soldats de l’Armée de libération nationale (ALN) abrités dans des grottes, des casemates ou des silos à grains. Elle a aussi, systématiquement, traité par ces moyens chimiques les grottes trop vastes pour être détruites afin d’empêcher leur réutilisation. Plus de soixante ans plus tard, certaines de ces cachettes restent extrêmement dangereuses pour qui s’y aventurerait.
-- Charon - [8 février 1962 quand la police tuait ](https://www.youtube.com/watch?v=KktwCdMdPqw) 
+- Charonne - [8 février 1962 quand la police tuait ](https://www.youtube.com/watch?v=KktwCdMdPqw) - quand le prefet se defile sur la police, la police sur la RATP, etc...
 
 ### Haiti
 - [Qui a aboli l’esclavage ? - La chronique de SeumBoy dans "La dernière"](https://www.youtube.com/watch?v=gvsJNYDF360) - ce sont les esclaves révoltés qui ont forcé l'abolition de l'esclavage (rétabli temporairement par Napoleon en 1802 pour des reson economique).
