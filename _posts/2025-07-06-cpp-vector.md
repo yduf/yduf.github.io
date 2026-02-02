@@ -5,8 +5,9 @@ tags: c++ vector array
 ---
 > [cppreference](https://en.cppreference.com/w/cpp/container/vector.html)
 
-see also
+**see also**
 - [semistable vector](https://github.com/joaquintides/semistable_vector?tab=readme-ov-file#a-proof-of-concept-of-a-semistable-vector-container)
+- [The magic container](https://www.youtube.com/watch?v=L4xOCvELWlU)
 
 ### [intializer list](https://chatgpt.com/share/686a453b-7468-800d-b304-eca61633337b) / [ref](https://en.cppreference.com/w/cpp/utility/initializer_list.html)
 
