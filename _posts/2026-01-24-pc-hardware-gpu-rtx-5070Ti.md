@@ -6,6 +6,7 @@ toc: true
 excerpt_separator: <!--more-->
 ---
 > [Quelle RTX 5070 Ti choisir ?](https://www.youtube.com/watch?v=aGMZDeDlVE4&list=LL&index=76)
+
 <!--more-->
 [ASUS TUF Gaming GeForce RTX 5070 Ti OC Edition](https://www.amazon.fr/dp/B0DVH1Y9VN)  - 980€ / 01/2026 - before price explosion
 - 16GB GDDR7 OC Edition
