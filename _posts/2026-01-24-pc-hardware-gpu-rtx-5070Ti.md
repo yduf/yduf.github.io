@@ -3,7 +3,9 @@ title: "ASUS TUF Gaming GeForce RTX 5070 Ti \U0001F4DF \U0001F6A7 "
 published: true
 tags: pc-hardware gpu
 toc: true
+excerpt_separator: <!--more-->
 ---
+<!--more-->
 [ASUS TUF Gaming GeForce RTX 5070 Ti OC Edition](https://www.amazon.fr/dp/B0DVH1Y9VN)  / [Quelle RTX 5070 Ti choisir ?](https://www.youtube.com/watch?v=aGMZDeDlVE4&list=LL&index=76)- 980€ / 01/2026 - before price explosion
 - 16GB GDDR7 OC Edition
 - PCIe 5.0, HDMI, Display 2.1, 3.125 Slot, Ventilateurs axiaux, revêtement Protecteur PCB
@@ -188,5 +190,4 @@ $ ./Sample/1_Utilities/deviceQuery/deviceQuery
 see
 - [ Installing NVIDIA RTX 5070 / 5070 Ti Drivers and CUDA 12.8 on Debian/Ubuntu 24.04 with Secure Boot Enabled ](https://gist.github.com/devatnull/8e63126e7f2a737c1b05a42822f69eda)
 
-## Pytorch 🚧 
-
+## Pytorch 🚧
