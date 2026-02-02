@@ -9,4 +9,4 @@ The web server uses between 1 and 2.5 watts of power...
 
 see also
 - [Le RECYCLAGE INFINI ♻️ dans un monde fini ?](https://www.youtube.com/watch?v=-leGbUY9DiQ)
-- [You are being misled about renewable energy technology. ](https://www.youtube.com/watch?v=KtQ9nt2ZeGM) - promote solar & battery as renewable vs petrol
+- [You are being misled about renewable energy technology. ](https://www.youtube.com/watch?v=KtQ9nt2ZeGM) - promote solar & battery as renewable  vs petrol which is disposable
