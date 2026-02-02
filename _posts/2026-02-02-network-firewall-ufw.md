@@ -2,6 +2,7 @@
 title: Uncomplicated Firewall (UFW)
 published: true
 tags: network security
+toc: true
 ---
 > a user-friendly front end for managing firewall rules, built on top of iptables (older systems) or nftables (newer systems) - [ChatGPT](https://chatgpt.com/share/69810196-7b98-800d-bdc6-38f3ea8b6a39) / [using UFW](https://blog.stephane-robert.info/docs/securiser/reseaux/ufw/)
 
