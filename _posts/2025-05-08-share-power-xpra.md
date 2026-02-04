@@ -10,6 +10,10 @@ Xpra differs from standard X forwarding primarily in allowing disconnection and 
 
 Xpra has some support for Wayland.
 
+**see also**
+- [Install Xpra](https://richrose.dev/posts/linux/xpra/xpra-setup/) - suggest to run vscode with xpra to make remote available in a browser
+- [Gaming over Xpra](https://superuser.com/questions/1490121/gaming-over-xpra/1771193#1771193) - some people recommend to use [sunshine](#alternatives) instead
+
 ### [Setup](https://bytexd.com/xpra/)
 
 **Debian and Ubuntu also ships xpra packages, though their stable versions are completely out of date, broken and unsupported, they should not be used.** - [doc](https://github.com/Xpra-org/xpra/wiki/Distribution-Packages)
@@ -57,10 +61,6 @@ Start in direct mode (no-daemon)
 {% highlight bash %}
 $ xpra start :100 --daemon=no
 {% endhighlight %}
-
-see also
-- [Install Xpra](https://richrose.dev/posts/linux/xpra/xpra-setup/) - suggest to run vscode with xpra to make remote available in a browser
-- [Gaming over Xpra](https://superuser.com/questions/1490121/gaming-over-xpra/1771193#1771193) - some people recommend to use sunshine instead
 
 # [Host GPU Acceleration](https://github.com/Xpra-org/xpra/blob/master/docs/Usage/OpenGL.md#gpu-acceleration) 
 
