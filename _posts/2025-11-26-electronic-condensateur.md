@@ -19,3 +19,5 @@ tags: electronic
 	- np zero rating - compensate for temperature variation - has a mark on top (black mark)
     	- if not this could for ex cause frequency shift on board using them
 - [Why Put A Capacitor Across The Diode? Here's Why!](https://www.youtube.com/watch?v=MUVLHRaYilU) - because otherwise the diode create noise
+
+- [Vie et mort d'un condensateur 💥](https://www.youtube.com/watch?v=xk2Q-zAE5QI)
