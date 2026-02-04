@@ -8,7 +8,7 @@ tags: office
 **see also**
 - [The Document Editor That You Forgot](https://www.youtube.com/watch?v=vP0InDJBjxY)
 	- abiword
-    - onlyoffice
+    - [onlyoffice](https://github.com/ONLYOFFICE)
 
 - Libreoffice will eat your document sooner or later if you edit a word file - switch to ods then back to .doc if needed
 - To be fair, Word will won't eat it, but it will eventually shred it quite well to the point where there is no practical difference.
