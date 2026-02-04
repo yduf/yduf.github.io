@@ -25,6 +25,26 @@ $ sudo ufw deny 23            # Block Telnet
 $ sudo ufw delete allow 80    # Remove a rule
 {% endhighlight %}
 
+## Rules rules
+
+[Explaination about rules format](https://chatgpt.com/share/6982f13e-b97c-800d-a27b-8fe21efff410)
+
+{% highlight bash %}
+$ sudo ufw status verbose
+Status: active
+Logging: on (low)
+Default: deny (incoming), allow (outgoing), disabled (routed)
+New profiles: skip
+
+To                         Action      From
+--                         ------      ----
+2049/tcp on enx6c1ff76c1d75 ALLOW IN    Anywhere                  
+2049                       DENY IN     Anywhere                  
+2049/tcp (v6) on enx6c1ff76c1d75 ALLOW IN    Anywhere (v6)             
+2049 (v6)                  DENY IN     Anywhere (v6)             
+{% endhighlight %}
+
+
 ## Logs
 
 {% highlight bash %}
@@ -43,6 +63,3 @@ $ sudo tail -f /var/log/ufw.log # real time
 $ sudo grep "BLOCK" /var/log/ufw.log # blocked traffic
 
 {% endhighlight %}
-
-
-
