@@ -178,6 +178,7 @@ xpra attach ssh:${SERVER_HOST}${XPRA_DISPLAY}
 **see also**
 - [understaning warning / error](https://chatgpt.com/share/69832c79-a26c-800d-9814-1c7a3de2551f)
 	- (gst-plugin-scanner): CRITICAL: _dma_fmt_to_dma_drm_fmts: assertion 'fmt != GST_VIDEO_FORMAT_UNKNOWN' failed
+    - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
 	- ⚠️ zerocopy upload is not available
 
 ## Alternatives
