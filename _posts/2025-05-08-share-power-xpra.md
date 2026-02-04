@@ -175,6 +175,11 @@ xpra attach ssh:${SERVER_HOST}${XPRA_DISPLAY}
 
 {% endhighlight %}
 
+**see also**
+- [understaning warning / error](https://chatgpt.com/share/69832c79-a26c-800d-9814-1c7a3de2551f)
+	- (gst-plugin-scanner): CRITICAL: _dma_fmt_to_dma_drm_fmts: assertion 'fmt != GST_VIDEO_FORMAT_UNKNOWN' failed
+	- ⚠️ zerocopy upload is not available
+
 ## Alternatives
 
 - [self hosted game stremaing](https://chatgpt.com/share/68dedaa7-bc84-800d-8e96-e4f13d65c678) / [HN](https://news.ycombinator.com/item?id=45434046) - sunshine + moonlight
