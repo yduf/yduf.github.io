@@ -1,7 +1,7 @@
 ---
 published: true
 title: LibreOffice
-tags: application
+tags: office
 ---
 > [LibreOffice is better at reading old Word files than Word](https://news.ycombinator.com/item?id=38906331)
 
