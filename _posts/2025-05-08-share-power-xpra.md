@@ -181,6 +181,8 @@ xpra attach ssh:${SERVER_HOST}${XPRA_DISPLAY}
 - [Sunshine](https://docs.lizardbyte.dev/projects/sunshine/latest/index.html)
 
 
+[Xpra vs Sunshine](https://chatgpt.com/share/6982fa0e-42c8-800d-938d-f3770085e8a6)
+
 | Feature              | **Xpra**                                           | **Sunshine (with Moonlight)**                            |
 | -------------------- | -------------------------------------------------- | -------------------------------------------------------- |
 | **Primary Use Case** | Remote desktop/app streaming on Linux/Unix systems | High-performance game streaming                          |
