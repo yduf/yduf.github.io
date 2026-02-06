@@ -33,6 +33,10 @@ $ sudo iotop -oPa
 
 - [How to setup netdata on linux.](https://chatgpt.com/share/697fa396-3110-800d-b362-baf5524b9bbd)
 
+{% highlight bash %}
+$ sudo systemctl restart netdata
+{% endhighlight %}
+
 ## Netdata  dashboard
 - [netdata instead of Grafana](https://github.com/davestephens/ansible-nas/issues/8) see [netdata/netdata](https://github.com/netdata/netdata)
 	- [Install Netdata with kickstart.sh](https://learn.netdata.cloud/docs/netdata-agent/installation/linux) - script can be customized and accept arguments
@@ -42,7 +46,7 @@ $ sudo iotop -oPa
 
 ## [Ram only](https://chatgpt.com/share/69859d6c-9684-800d-ad63-1af3c32a0b5f)
 
-{% highlight bash %}
+{% highlight ini %}
 # /opt/netdata/netdata-configs/netdata.conf
 [global]
     memory mode = ram
