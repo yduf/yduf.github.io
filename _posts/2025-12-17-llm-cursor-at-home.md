@@ -25,6 +25,20 @@ see also
 
 - [VSCode + Cline + Continue](https://www.youtube.com/watch?v=7AImkA96mE8) NEVER PAY for CURSOR again. Use this OPEN SOURCE & LOCAL Alternative
 
+[Cline vs Continue](https://chatgpt.com/share/6985a625-e1d0-800d-b494-2773a91cf209)
+
+| Aspect                      | **Cline**                 | **Continue**           |
+| --------------------------- | ------------------------- | ---------------------- |
+| Core idea                   | Autonomous AI agent       | AI coding copilot      |
+| Autonomy                    | Very high                 | Low–medium             |
+| Can run terminal commands   | ✅ Yes (with approval)     | ❌ No                   |
+| Can edit many files at once | ✅ Yes                     | ⚠️ Limited             |
+| Can create/delete files     | ✅ Yes                     | ⚠️ Mostly edits        |
+| Interaction style           | Task-driven agent         | Inline assistant       |
+| Risk level                  | Higher (powerful)         | Lower (controlled)     |
+| Best for                    | Big refactors, automation | Day-to-day coding help |
+
+
 ## [continue.dev](https://chatgpt.com/share/694288eb-9fd4-800d-9753-9c1f39b2f9b6)
 
 Using:
