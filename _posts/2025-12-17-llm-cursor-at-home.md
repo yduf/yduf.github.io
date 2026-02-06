@@ -28,7 +28,7 @@ see also
 
 [Cline vs Continue](https://chatgpt.com/share/6985a625-e1d0-800d-b494-2773a91cf209)
 
-| Aspect                      | [**Cline**](##cline--github--)                 | [**Continue**](#continuedev)           |
+| Aspect                      | [**Cline**](#cline--github--)                 | [**Continue**](#continuedev)           |
 | --------------------------- | ------------------------- | ---------------------- |
 | Core idea                   | Autonomous AI agent       | AI coding copilot      |
 | Autonomy                    | Very high                 | Low–medium             |
@@ -66,3 +66,10 @@ see [Cline vs Cursor](https://chatgpt.com/share/69446ae1-4990-800d-b80a-bd62c220
 - [	Aider: AI pair programming in your terminal](https://news.ycombinator.com/item?id=39995725)
 - [OpenCode](https://github.com/anomalyco/opencode) - very similar to Claude Code in terms of capability.
 	- [Unauthenticated remote code execution in OpenCode](https://news.ycombinator.com/item?id=46581095)
+
+# LLM
+
+
+[“instruct”](https://chatgpt.com/share/6985a9bb-67b0-800d-8a87-83d97db2f72b) refers to a model that is specifically trained or fine-tuned to follow instructions from users in a helpful, safe, and coherent way.
+
+## 
