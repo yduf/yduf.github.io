@@ -43,7 +43,7 @@ $ sudo iotop -oPa
 ## [Ram only](https://chatgpt.com/share/69859d6c-9684-800d-ad63-1af3c32a0b5f)
 
 {% highlight bash %}
-# netdata.conf
+# /opt/netdata/netdata-configs/netdata.conf
 [global]
     memory mode = ram
     
