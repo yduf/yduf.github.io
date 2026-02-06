@@ -39,3 +39,14 @@ $ sudo iotop -oPa
 		- `sudo touch /opt/netdata/etc/netdata/.opt-out-from-anonymous-statistics`
 		- `--disable-telemetry`
 		- `--no-updates`
+
+## Disable disk database
+
+{% highlight bash %}
+# netdata.conf
+[global]
+    memory mode = ram
+    
+[health]
+    enabled = no
+{% endhighlight %}
