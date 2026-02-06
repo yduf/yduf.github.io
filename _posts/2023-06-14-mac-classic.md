@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Macintosh Classic \U0001F4BE "
-tags: 3dmodel retro project macintosh pc-hardware chemical yduf
+tags: 3dmodel retro project macintosh CRT pc-hardware chemical yduf
 toc: true
 ---
 > My retrofitting project - yduf / [r/VintageApple ](https://www.reddit.com/r/VintageApple/) / [wikipedia](https://en.wikipedia.org/wiki/Macintosh_Classic)
