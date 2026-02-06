@@ -40,7 +40,7 @@ $ sudo iotop -oPa
 		- `--disable-telemetry`
 		- `--no-updates`
 
-## [Ram only]()
+## [Ram only](https://chatgpt.com/share/69859d6c-9684-800d-ad63-1af3c32a0b5f)
 
 {% highlight bash %}
 # netdata.conf
