@@ -92,7 +92,7 @@ Fraise diametre max: 42mm -> sinon ne passe pas au travers de la base
 **Considerés**
 - [Bosh GIF12 CE](https://www.amazon.fr/Bosch-Professional-0601626000-D%C3%A9fonceuse-10000-24000/dp/B00IZ8RS5Y?th=1) / [LCE](https://www.amazon.fr/Bosch-Professional-Oberfr%C3%A4se-GOF-1250/dp/B00IZ8VODQ/ref=psdc_1716189031_t1_B00IZ8RS5Y)
 
-see also
+**see also**
 - [Avoid These 7 Router Mistakes Every Beginner Makes](https://www.youtube.com/watch?v=3hg0UB7DJVY)
 - [Amazing 2D adjustment Router jig](https://www.youtube.com/watch?v=GXhKcPUyc8c)
 - [ Comment installer une défonceuse Bosch POF 1400 ACE en mode sous table ](https://www.youtube.com/watch?v=AkSFoIiS2lU) / [2](https://www.youtube.com/watch?v=AoIzba5UG8k)
