@@ -2,6 +2,7 @@
 title: Cursor@Home
 published: true
 tags: LLM agentic-AI at_home vscode
+toc: true
 ---
 > How to make your own cursor - [ChatpGPT](https://chatgpt.com/share/694288eb-9fd4-800d-9753-9c1f39b2f9b6)
 
@@ -27,7 +28,7 @@ see also
 
 [Cline vs Continue](https://chatgpt.com/share/6985a625-e1d0-800d-b494-2773a91cf209)
 
-| Aspect                      | **Cline**                 | **Continue**           |
+| Aspect                      | [**Cline**](#)                 | **Continue**           |
 | --------------------------- | ------------------------- | ---------------------- |
 | Core idea                   | Autonomous AI agent       | AI coding copilot      |
 | Autonomy                    | Very high                 | Low–medium             |
