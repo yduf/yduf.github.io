@@ -15,7 +15,7 @@ toc: true
 see also
 - [	The Periodic Table of Tools](https://periodictableoftools.com/index.html) / [HN](https://news.ycombinator.com/item?id=38421044)
 
-## Scie à Onglets Radiale - [GCM 10 GDJ](https://www.amazon.fr/gp/product/B08GKYN2LM/ref=ox_sc_saved_title_2?smid=A1X6FK5RDHNB96&psc=1) 
+# Scie à Onglets Radiale - [GCM 10 GDJ](https://www.amazon.fr/gp/product/B08GKYN2LM/ref=ox_sc_saved_title_2?smid=A1X6FK5RDHNB96&psc=1) 
 (1 800 W, Ø de lame 254 mm) - 635€ promo
 
 [**If The Blade Sees Its Shadow, It’s Another 64th Of Accuracy**](https://hackaday.com/2022/09/11/if-the-blade-sees-its-shadow-its-another-64th-of-accuracy/)
@@ -34,12 +34,12 @@ see also
 - [Einhell Scie à onglet radiale TC-SM 2131/1 Dual](https://www.amazon.fr/Einhell-TC-SM-2131-glissi%C3%A8re-dispositif-tungst%C3%A8ne/dp/B0816WP4JW/ref=sr_1_5?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1O6PMV4XM6I2O&keywords=scie+onglet&qid=1651934990&sprefix=scie+onglet%2Caps%2C175&sr=8-5) / [test]()
 - [ENERGYSAW-254SB PEUGEOT](https://www.bricozor.com/scie-onglets-radiale-double-inclinaison-energysaw-254sb-peugeot.html) / [manual](https://manuall.co.uk/peugeot-energysaw-254sb-mitre-saw/)
     
-## Band Saw 
+# Band Saw 
 [Band saw Vs Chop saw - Scheppach MBS1100 Metal Cutting Band Saw 127mm - Review and modifications](https://www.youtube.com/watch?v=X5_m1PGU_Js&list=LL&index=8)
 
 - lame: longueur 1140mm
 
-## [Aspirateur Chantier](https://www.youtube.com/watch?v=f_aXEV_BllU)
+# [Aspirateur Chantier](https://www.youtube.com/watch?v=f_aXEV_BllU)
 
 - Kpa: > 20
 - l/mm > 4000 / 65 l/s
@@ -51,12 +51,12 @@ Cuve en inox => perforé par corosion
 
 - [Tuto : Démarrage automatique pour aspirateur à copeaux](https://www.youtube.com/watch?v=wGa-r4M88k0)
 
-### [Cyclone d'atelier](https://www.youtube.com/watch?v=ZUT4XFnr1cc)
+## [Cyclone d'atelier](https://www.youtube.com/watch?v=ZUT4XFnr1cc)
 
 - [Simple Cyclone Dust Collector](https://www.youtube.com/watch?v=1WnitgYFnE0) / [updated](https://www.youtube.com/watch?v=BeU4nqSJtBY)
 
 
-## Perceuse à colonne [ Holzmann SB162VN ](https://www.youtube.com/watch?v=vBOyEKgupxM) / [amazon](https://www.amazon.fr/Holzmann-Perceuse-variateur-affichage-SB162VN-230V/dp/B0797TGW49/ref=cm_cr_arp_d_product_top?ie=UTF8)
+# Perceuse à colonne [ Holzmann SB162VN ](https://www.youtube.com/watch?v=vBOyEKgupxM) / [amazon](https://www.amazon.fr/Holzmann-Perceuse-variateur-affichage-SB162VN-230V/dp/B0797TGW49/ref=cm_cr_arp_d_product_top?ie=UTF8)
 
 vs [EINHELL TE-BD 750 E](https://www.youtube.com/watch?v=2tvq04D1oBw) - cone morse MK2/CM2
 	- [precision](https://www.youtube.com/watch?v=twAIaMYnSGo) / [montage](https://www.youtube.com/watch?v=JlSuew2QfWk)
@@ -76,7 +76,7 @@ vs [Scheppach DP60](https://www.youtube.com/watch?v=BTVz-uoeb8M) / [Parkside](ht
 vs [Homemade](https://www.youtube.com/watch?v=a2kIJDhhZrg)
 - search for _drill spindle assembly_ and _linear motion bearings_ _magnetic holder base_
 
-## [Defonceuse](https://www.youtube.com/watch?v=flZ-Px6bhTE&list=PLg8aH9tX2qI_ld44t1rS3qaXNN2OkvzfX&index=1) - [Bosch POF 1400 ACE](https://www.amazon.fr/Bosch-D%C3%A9fonceuse-POF-1400-%C3%A9lectronique/dp/B000W34ZEW)
+# [Defonceuse](https://www.youtube.com/watch?v=flZ-Px6bhTE&list=PLg8aH9tX2qI_ld44t1rS3qaXNN2OkvzfX&index=1) - [Bosch POF 1400 ACE](https://www.amazon.fr/Bosch-D%C3%A9fonceuse-POF-1400-%C3%A9lectronique/dp/B000W34ZEW)
 2025 - 105€ - promo
 
 Collets supportés: **8mm** , **6mm**, **1/4 (6.35mm)**  
@@ -93,6 +93,7 @@ Fraise diametre max: 42mm -> sinon ne passe pas au travers de la base
 - [Bosh GIF12 CE](https://www.amazon.fr/Bosch-Professional-0601626000-D%C3%A9fonceuse-10000-24000/dp/B00IZ8RS5Y?th=1) / [LCE](https://www.amazon.fr/Bosch-Professional-Oberfr%C3%A4se-GOF-1250/dp/B00IZ8VODQ/ref=psdc_1716189031_t1_B00IZ8RS5Y)
 
 see also
+- [Avoid These 7 Router Mistakes Every Beginner Makes](https://www.youtube.com/watch?v=3hg0UB7DJVY)
 - [Amazing 2D adjustment Router jig](https://www.youtube.com/watch?v=GXhKcPUyc8c)
 - [ Comment installer une défonceuse Bosch POF 1400 ACE en mode sous table ](https://www.youtube.com/watch?v=AkSFoIiS2lU) / [2](https://www.youtube.com/watch?v=AoIzba5UG8k)
 	- [ La table de FRAISAGE multifonction est faite en 4 heures. ](https://www.youtube.com/watch?v=CrjwJjnD-p0&t=21s)
