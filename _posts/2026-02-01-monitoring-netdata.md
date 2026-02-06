@@ -65,3 +65,11 @@ $ sudo systemctl restart netdata
 [db]
     mode = ram
 {% endhighlight %}
+
+## Nvidia
+
+{% highlight ini %}
+# /opt/netdata/netdata-configs/netdata.conf
+[plugins]
+    nvidia_smi = yes
+{% endhighlight %}
