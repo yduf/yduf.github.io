@@ -12,4 +12,4 @@ on n-spheres and in n-balls](http://extremelearning.com.au/how-to-generate-unifo
 [![caption](https://www.pngkit.com/png/full/722-7228771_fibonacci-sphere-lattice-is-an-easy-way-to.png)](https://www.pngkit.com/bigpic/u2t4q8r5t4a9e6e6/)
 
 **see also**
-- [Théorème de la Boule Chevelue ](https://www.youtube.com/watch?v=BHdbsHFs2P0)
+- [Théorème de la Boule Chevelue ](https://www.youtube.com/watch?v=BHdbsHFs2P0) - probleme des vecteurs tangents
