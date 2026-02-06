@@ -13,3 +13,4 @@ on n-spheres and in n-balls](http://extremelearning.com.au/how-to-generate-unifo
 
 **see also**
 - [Théorème de la Boule Chevelue ](https://www.youtube.com/watch?v=BHdbsHFs2P0) - probleme du glitch des vecteurs tangents
+	- il y a toujours au moins un point zero (pas 2)
