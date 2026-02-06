@@ -12,4 +12,5 @@ tags: qemu docker
         - Katacontainer (pour faire tourner des containers dans une VM)
 	- App Containers
     	- podman / docker / containerD / CRI-o / runc / crun
-    - System Container
+    - System Containers
+    	- LXC (containers + OS) / LXD
