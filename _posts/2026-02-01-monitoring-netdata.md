@@ -40,7 +40,7 @@ $ sudo iotop -oPa
 		- `--disable-telemetry`
 		- `--no-updates`
 
-## Disable disk database
+## [Ram only]()
 
 {% highlight bash %}
 # netdata.conf
@@ -49,4 +49,15 @@ $ sudo iotop -oPa
     
 [health]
     enabled = no
+    
+[logging]
+    debug log = none
+    error log = none
+    access log = none
+    
+[registry]
+    enabled = no
+    
+[db]
+    mode = ram
 {% endhighlight %}
