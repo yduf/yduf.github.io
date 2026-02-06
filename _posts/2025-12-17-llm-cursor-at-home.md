@@ -28,7 +28,7 @@ see also
 
 [Cline vs Continue](https://chatgpt.com/share/6985a625-e1d0-800d-b494-2773a91cf209)
 
-| Aspect                      | [**Cline**](#)                 | **Continue**           |
+| Aspect                      | [**Cline**](##cline--github--)                 | [**Continue**](#continuedev)           |
 | --------------------------- | ------------------------- | ---------------------- |
 | Core idea                   | Autonomous AI agent       | AI coding copilot      |
 | Autonomy                    | Very high                 | Low–medium             |
