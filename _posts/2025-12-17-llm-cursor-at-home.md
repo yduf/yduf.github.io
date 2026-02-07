@@ -48,14 +48,17 @@ Using:
 
 ## [Cline](https://docs.cline.bot/introduction/welcome) / [github](https://github.com/cline/cline?tab=readme-ov-file#cline) / [👤](https://app.cline.bot/dashboard/account?tab=credits)
 
-- [Getting Started with Cline—The Best VS Code AI Plugin](https://www.youtube.com/watch?v=f33Fw6NiPpw)
-- [Local Models Overview](https://docs.cline.bot/running-models-locally/overview#recommended-models)
-	- [Recommended Models](https://docs.cline.bot/running-models-locally/overview#recommended-models)
-    	- Qwen3 Coder 30B is the most reliable model under 70B parameters for Cline
-
 Cline is an open source AI coding agent that brings frontier AI models directly to your IDE. Unlike autocomplete tools, Cline is a true coding agent that can understand entire codebases, plan complex changes, and execute multi-step tasks.
 
+- [Getting Started with Cline—The Best VS Code AI Plugin](https://www.youtube.com/watch?v=f33Fw6NiPpw)
+
 see [Cline vs Cursor](https://chatgpt.com/share/69446ae1-4990-800d-b80a-bd62c220adb1)
+
+### [Local Models Overview](https://docs.cline.bot/running-models-locally/overview#recommended-models)
+
+[**Recommended Models**](https://docs.cline.bot/running-models-locally/overview#recommended-models)
+- use **Qwen3 Coder 30B A3B Instruct**. This model delivers strong coding performance and reliable tool use.
+
 
 ## [Codex](https://github.com/openai/codex?tab=readme-ov-file#quickstart)
 - [	Unrolling the Codex agent loop](https://news.ycombinator.com/item?id=46737630) – Codex CLI is open source.
@@ -72,4 +75,4 @@ see [Cline vs Cursor](https://chatgpt.com/share/69446ae1-4990-800d-b80a-bd62c220
 
 [“instruct”](https://chatgpt.com/share/6985a9bb-67b0-800d-8a87-83d97db2f72b) refers to a model that is specifically trained or fine-tuned to follow instructions from users in a helpful, safe, and coherent way.
 
-## 
+##
