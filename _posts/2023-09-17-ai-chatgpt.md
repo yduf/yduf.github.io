@@ -1,6 +1,6 @@
 ---
 published: true
-title: ChatGPT / Emergent world représentation
+title: LLM / Emergent world représentation
 tags: LLM test c++ mental-model
 toc: true
 ---
