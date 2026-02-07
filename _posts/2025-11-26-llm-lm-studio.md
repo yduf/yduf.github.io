@@ -6,6 +6,8 @@ toc: true
 ---
 > a desktop application that allows you to run large language models (LLMs) locally on your computer, without needing an internet connection or cloud services. - [Home](https://lmstudio.ai/) / [chatGPT](https://chatgpt.com/share/69271a38-1cc0-800d-961a-0f7530e249bb)
 
+- [LM Studio 0.4 ](https://news.ycombinator.com/item?id=46799477)
+
 ## [Performance](https://chatgpt.com/share/693d9f4e-6920-800d-a207-ca84d8263e1e)
 They can be accessed and tailored by model
 
