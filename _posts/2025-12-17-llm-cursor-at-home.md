@@ -58,8 +58,7 @@ see [Cline vs Cursor](https://chatgpt.com/share/69446ae1-4990-800d-b80a-bd62c220
 
 Integration with [LM Studio](https://docs.cline.bot/running-models-locally/lm-studio)
 
-[**Recommended Models**](https://docs.cline.bot/running-models-locally/overview#recommended-models)
-- use **Qwen3 Coder 30B A3B Instruct**. This model delivers strong coding performance and reliable tool use.
+- [use **Qwen3 Coder 30B A3B Instruct**](https://docs.cline.bot/running-models-locally/overview#recommended-models). This model delivers strong coding performance and reliable tool use.
 
 
 ## [Codex](https://github.com/openai/codex?tab=readme-ov-file#quickstart)
