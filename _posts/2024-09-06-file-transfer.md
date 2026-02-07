@@ -15,4 +15,4 @@ Gratuit, open-source et cross-plateforme.
 	- usefull with android devices vs cloud
 - [	Magic Wormhole](https://news.ycombinator.com/item?id=41275920) - get things from one computer to another, safely 
 - [Syncthing]({% post_url 2019-11-17-syncthing %}) - own p2p networks
-- [copyparty](https://github.com/9001/copyparty?tab=readme-ov-file#-copyparty) 💾 - turn almost any device into a file server with resumable uploads/downloads using any web browser
+- [copyparty](https://github.com/9001/copyparty?tab=readme-ov-file#-copyparty) / [HN](https://news.ycombinator.com/item?id=44711519) 💾 - turn almost any device into a file server with resumable uploads/downloads using any web browser
