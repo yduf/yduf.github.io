@@ -307,3 +307,4 @@ Options are:
 - [Infinite Mac](https://infinitemac.org/) - a collection of classic Macintosh and NeXT system releases and software, all easily accessible from the comfort of a web browser.
 - [Trying To Find Meaning In Owning An Old Mac](https://blog.decryption.net.au/posts/macse30.html) / [HN](https://news.ycombinator.com/item?id=44496502)
 - [Build log: Macintosh Classic](https://www.jeffgeerling.com/blog/2025/build-log-macintosh-classic)
+- [PicoMac : le premier Macintosh, 40 ans plus tard](https://www.youtube.com/watch?v=pr16icOHAPM)
