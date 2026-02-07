@@ -4,7 +4,7 @@ published: true
 tags: LLM ghidra reverse
 toc: true
 ---
-> a desktop application that allows you to run large language models (LLMs) locally on your computer, without needing an internet connection or cloud services. - [Home](https://lmstudio.ai/) / [chatGPT](https://chatgpt.com/share/69271a38-1cc0-800d-961a-0f7530e249bb)
+> a desktop application that allows you to run large language models (LLMs) locally on your computer, without needing an internet connection or cloud services. - [Home](https://lmstudio.ai/) / [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/) / [chatGPT](https://chatgpt.com/share/69271a38-1cc0-800d-961a-0f7530e249bb)
 
 - [LM Studio 0.4 ](https://news.ycombinator.com/item?id=46799477)
 
