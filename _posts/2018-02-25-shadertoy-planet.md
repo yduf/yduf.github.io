@@ -1,7 +1,7 @@
 ---
-title: Planet Shadertoy
+title: Shadertoy / Pico GPU
 published: true
-tags: shader online
+tags: shader online gpu
 ---
 > [teleport](https://www.shadertoy.com/view/4tjGRh) - [An introduction to Shader Art Coding](https://www.youtube.com/watch?v=f4s1h2YETNY)
 
