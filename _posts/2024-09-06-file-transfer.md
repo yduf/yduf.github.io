@@ -1,7 +1,7 @@
 ---
 title: "File transfer tools \U0001F5A7"
 published: true
-tags: file network share android
+tags: ftp file network share android
 ---
 - [LocalSend](https://localsend.org/fr) - Partagez des fichiers avec vos appareils à proximité.
     - can easily share url
