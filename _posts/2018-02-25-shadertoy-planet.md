@@ -5,7 +5,9 @@ tags: shader online
 ---
 > [teleport](https://www.shadertoy.com/view/4tjGRh) - [An introduction to Shader Art Coding](https://www.youtube.com/watch?v=f4s1h2YETNY)
 
-see also
+**see also**
+- [Pico GPU](https://ncannasse.github.io/picogpu/) / [articlde](https://gamefromscratch.com/pico-gpu-virtual-gpu-for-learning-shaders/) - Virtual GPU For Learning Shaders
+	- Shaders are Hard. [This Virtual GPU Makes Them Simple.](https://www.youtube.com/watch?v=CwATlvIO02w)
 - [Interactive intro to shaders](https://news.ycombinator.com/item?id=38032288)
 - [An introduction to Shader Art Coding](https://www.youtube.com/watch?v=f4s1h2YETNY)
 
