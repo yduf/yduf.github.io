@@ -1,7 +1,7 @@
 ---
 title: Excalidraw (SVG Editor)
 published: true
-tags: svg vector-graphic vscode inkscape
+tags: diagram doc svg vector-graphic vscode inkscape
 ---
 > An open source virtual hand-drawn style whiteboard.
 Collaborative and end-to-end encrypted. - [Online](https://excalidraw.com/) / [github](https://github.com/excalidraw/excalidraw?tab=readme-ov-file#--excalidraw-editor---blog---documentation---excalidraw)
