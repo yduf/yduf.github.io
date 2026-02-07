@@ -5,6 +5,9 @@ tags: microscope
 ---
 - [best microscopy of 2016](https://arstechnica.com/science/2016/10/a-sense-of-scale-the-best-microscopy-of-2016/)
 
+**see also**
+- [An Open Source Motorized XYZ Micro-Manipulator - Affordable sub µm Motion Control](https://www.youtube.com/watch?v=MgQbPdiuUTw)
+
 # Hardware
 - [openflexure](https://openflexure.org/) / [HN](https://news.ycombinator.com/item?id=30577258) -  I recommend 3d printing the v7 version - high precision mechanical positioning 
 	- [OpenFlexure Microscope]()
