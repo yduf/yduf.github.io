@@ -7,6 +7,9 @@ tags: nix package build-system
 
 Flakes are now the standard way to use Nix.
 
+**see also**
+- [Custom Cross Compiler with Nix ](https://www.hobson.space/posts/nixcross/)
+
 
 | Aspect      | Nix flakes                     | uv (as example)                                 |
 | ----------- | ------------------------------ | ------------------------------------- |
@@ -78,4 +81,3 @@ This create an isolated shell, taking into account the flake definition.
 {% highlight bash %}
 $ nix develop
 {% endhighlight %}
-
