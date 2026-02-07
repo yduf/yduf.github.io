@@ -1,7 +1,7 @@
 ---
 title: "File transfer tools \U0001F5A7"
 published: true
-tags: ftp file nas network share android
+tags: ftp file nfs nas network share android
 ---
 - [LocalSend](https://localsend.org/fr) - Partagez des fichiers avec vos appareils à proximité.
     - can easily share url
