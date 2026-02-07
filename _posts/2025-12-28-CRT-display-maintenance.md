@@ -10,6 +10,7 @@ tags: retro arcade CRT display repair
     	- [Universal Beam Restorer](https://www.crt-mon.com/pdf/_CRT-Data/SENCORE-CR70-Operation-Manual.pdf)
 - [En cas de problème d’images](https://www.lelectronique.com/depannage/technique/cas-de-probleme-d-images.html)
 - [**Notes on the Troubleshooting and Repair of Computer and Video Monitors**](https://www.repairfaq.org/sam/monfaq.htm)
+	- [**Bad focus (fuzzy picture)**](https://www.repairfaq.org/sam/monfaq.htm#monbadfoc)
 	- [Tired CRT symptom and causes (ChatGPT)](https://chatgpt.com/share/696e9f2f-b220-800d-8149-e0330b5420e0)
  
 
