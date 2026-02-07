@@ -1,5 +1,5 @@
 ---
-title: Processes sandboxing
+title: Processes sandboxing (Bubblewrap)
 published: true
 tags: process cgroup sandbox c++
 toc: true
