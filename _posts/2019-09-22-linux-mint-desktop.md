@@ -1,7 +1,8 @@
 ---
 published: true
-title: Linux Mint Desktop
+title: '# Linux Mint Desktop'
 tags: linux-system ubuntu desktop application quote
+toc: true
 ---
 > one of the best alternatives to Microsoft Windows and Apple MacOS. - [Linux Mint](https://linuxmint.com/about.php) /  [Cool desktops don’t change](https://news.ycombinator.com/item?id=31769604) 
 
@@ -17,6 +18,10 @@ tags: linux-system ubuntu desktop application quote
 
 ### Linux Mint 21
 - display manager is lightdm
+
+### [Launch at startup](https://chatgpt.com/share/69871a8d-822c-800d-b870-e39877746a69)
+
+look for "Startup Application" Configuration
 
 ### [Add Application to Cinnamon Menu and Panel](https://www.scottcking.com/2020/07/13/linux-mint-20-cinnamon-manually-add-application-to-cinnamon-menu-panel/)
 
