@@ -1,7 +1,8 @@
 ---
 published: true
-title: VSCode Extension DEV
+title: Extension DEV (VSCode)
 tags: vscode-internal
+toc: true
 ---
 > We'll teach you the fundamental concepts for building extensions.- [Your First Extension](https://code.visualstudio.com/api/get-started/your-first-extension) / [digitalocean](https://www.digitalocean.com/community/tutorials/how-to-create-your-first-visual-studio-code-extension) / [youtube](https://www.youtube.com/watch?v=srwsnNhiqv8)
 
@@ -9,17 +10,102 @@ tags: vscode-internal
 
 see also [Typescript](2020-12-07-typescript)
 
-# Install
-## Prerequesite
+![caption](https://code.visualstudio.com/assets/api/extension-capabilities/extending-workbench/workbench-contribution.png)
+
+
+# Prerequesite
+
+## Node.js
+For developing and building VS Code extensions, the community and tooling generally recommend using a current [Node.js LTS version](https://chatgpt.com/share/6988b2e2-d4f0-800d-af0c-f727391e63b9)
 - [Node.js]({% post_url 2020-11-29-node-js %}) and Git
 
-{% highlight bash %}
-$ sudo npm install -g yo generator-code
+`flake.nix`
+{% highlight json %}
+{
+  description = "Node.js + npm dev environment";
+
+  inputs = {
+    nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
+  };
+
+  outputs = { self, nixpkgs }:
+    let
+      system = "x86_64-linux"; # or aarch64-darwin, etc.
+      pkgs = import nixpkgs { inherit system; };
+    in {
+      devShells.${system}.default = pkgs.mkShell {
+        packages = [
+          pkgs.nodejs_22            # includes npm
+          pkgs.nodePackages.yo      # yo
+			  ];
+      };
+    };
+}
 {% endhighlight %}
 
-## Issue
-### Everything goes well, but extension does not show.
-[**Resolved**](https://www.reddit.com/r/vscode/comments/a6ox7w/writing_a_hello_world_extension_doesnt_appear_to/): It turned out that yo code was generating an extension with minimum version number too high for my vscode to run. Unfortunately it didn't throw an error telling me this was the case.
+## Yo
+{% highlight bash %}
+$ sudo npm install -g yo generator-code
+
+# if using nix
+$ nix develop
+$ npm init -y
+$ npm install --save-dev generator-code
+{% endhighlight %}
+
+# [Start New](https://chatgpt.com/share/6988bf49-f460-800d-bf1b-654cbe566c6b)
+
+## Scaffold a New Extension
+
+{% highlight bash %}
+$ yo code
+{% endhighlight %}
+
+- **What type of extension?** → New Extension (TypeScript)
+- **Extension name** → my-first-extension
+- **Identifier** → press Enter
+- **Description** → optional
+- **Initialize git repo?** → your choice
+- **Package manager** → npm
+
+{% highlight bash %}
+my-first-extension/
+├── src/
+│   └── extension.ts      ← main logic
+├── package.json          ← extension manifest
+├── tsconfig.json
+└── README.md
+{% endhighlight %}
+
+
+### Version Issue
+
+<div style="
+
+            
+  border-left: 5px solid #fb8c00; /* orange */
+  background: #fff3e0;
+            
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 6px;
+"  markdown="1" >
+
+Everything goes well, but extension does not show.
+
+[**Resolved**](https://www.reddit.com/r/vscode/comments/a6ox7w/writing_a_hello_world_extension_doesnt_appear_to/):  
+
+It turned out that yo code was generating an extension with minimum version number too high for my vscode to run. Unfortunately 
+it didn't throw an error telling me this was the case.
+
+Lower vscode version required in  `package.json`
+{% highlight json %}
+  "engines": {
+    "vscode": "^1.108.0"
+  },
+{% endhighlight %}
+</div>
+
 
 ## [VS Code API](https://code.visualstudio.com/api/references/vscode-api) / [Extension samples](https://github.com/Microsoft/vscode-extension-samples)
 - [Extending Workbench](https://code.visualstudio.com/api/extension-capabilities/extending-workbench)
@@ -49,7 +135,7 @@ $ sudo npm install -g yo generator-code
 - [FS API](https://stackoverflow.com/questions/53559240/how-should-i-access-the-file-system-of-the-vscodes-user)
 	- [Extension ressource access](https://stackoverflow.com/questions/49962461/accessing-resources-in-vscode-previewhtml-with-file-scheme)
 
-## [VSCode layout](https://stackoverflow.com/questions/41874426/moving-panel-in-visual-studio-code-to-right-side)
+# [VSCode layout](https://stackoverflow.com/questions/41874426/moving-panel-in-visual-studio-code-to-right-side)
 
 ![caption](https://i.stack.imgur.com/QPSw4.png)
 
