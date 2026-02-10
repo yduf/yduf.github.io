@@ -38,6 +38,17 @@ For developing and building VS Code extensions, the community and tooling genera
           pkgs.nodejs_22            # includes npm
           pkgs.nodePackages.yo      # yo
 			  ];
+
+			# vsce for packaging .vsix file
+			# only provided by npm
+      shellHook = ''
+        export PATH="$PWD/node_modules/.bin:$PATH"
+
+        if [ ! -x node_modules/.bin/vsce ]; then
+          echo "Installing vsce locally (npm)..."
+          npm install --no-save @vscode/vsce
+        fi
+      '';
       };
     };
 }
@@ -104,10 +115,112 @@ Lower vscode version required in  `package.json`
     "vscode": "^1.108.0"
   },
 {% endhighlight %}
+
+so that it matches $`code --version`
 </div>
 
+## Run the Extension (Development Mode)
 
-## [VS Code API](https://code.visualstudio.com/api/references/vscode-api) / [Extension samples](https://github.com/Microsoft/vscode-extension-samples)
+- Open the project in VS Code
+- Press F5
+
+This launches a new VS Code window called the Extension Development Host.
+
+### [Ext Configuration](https://chatgpt.com/share/6989cba5-1c30-800d-9a80-2e3b7376f539)
+
+exposed configuration in [package.json](https://chatgpt.com/share/6989cba5-1c30-800d-9a80-2e3b7376f539)
+
+### [Custom Icon](https://chatgpt.com/share/6989d3f9-796c-800d-8ac7-1a0262613b1e)
+
+Prepare the icon file:
+- Format: PNG
+- Recommended size: 128×128 px (square)
+- Background: Transparent or solid (both fine)
+
+{% highlight bash %}
+my-extension/
+├── package.json
+├── icon.png
+└── src/
+
+# package.json
+{
+  "name": "my-extension",
+  "displayName": "My Extension",
+  "description": "Does something cool",
+  "version": "0.0.1",
+  "publisher": "your-publisher-name",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.85.0"
+  }
+}
+{% endhighlight %}
+
+You’ll see the icon:
+- In the Extensions sidebar
+- In the extension details page
+- In the Marketplace (after publishing)
+
+### [Documentation](https://chatgpt.com/share/698a4803-0794-800d-944b-8065f1a12e3a)
+
+## [Debug](https://chatgpt.com/share/6989faea-b6c8-800d-b0e3-6382c7b5c7f1)
+
+## [Sharing Extension](https://chatgpt.com/share/6989f5ce-e4d8-800d-b49f-89a6f63120cf)
+
+You can share a VS Code extension without publishing it on the Microsoft Marketplace. The key is to distribute the extension as a .vsix file, which is the packaged format for VS Code extensions
+
+{% highlight bash %}
+$ vsce package
+{% endhighlight %}
+
+
+## Publishing
+
+### [Market Place](https://chatgpt.com/share/6989d3a9-6c30-800d-b88e-c62b07846352)
+
+<div style="
+  border-left: 4px solid #3498db; /* blue */
+  background: #eef7ff;
+
+            
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 6px;
+"  markdown="1" >
+
+[UsefullCode](https://marketplace.visualstudio.com/manage/publishers/UsefullCode)
+
+</div>
+
+Go to the [Visual Studio Marketplace](https://marketplace.visualstudio.com/manage) and log in.
+- Click “Create Publisher”.
+- Give it a unique name (publisher ID).
+- You’ll get a publisher ID, which you’ll use when packaging and publishing.
+
+{% highlight bash %}
+$ vsce login <publisher-name>
+# paste Generated PTA
+{% endhighlight %}
+
+[It will ask for a Personal Access Token (PAT).](https://code.visualstudio.com/api/working-with-extensions/publishing-extension#get-a-personal-access-token)
+
+The key distinction (this causes the confusion)
+There are three different things people often mix up:
+- Microsoft personal account (@outlook.com, @hotmail.com, etc.)
+- Azure subscription / Azure Portal account (portal.azure.com, resources, billing)
+- **Azure DevOps organization** ← this is what PATs belong to
+  - so you must sign in to Azure Devops to be able to sign in a vscode Extension
+
+A Personal Access Token is NOT tied to Azure (portal) or subscriptions.
+It is tied only to an Azure DevOps organization.
+
+
+### [VS Codium](https://chatgpt.com/share/6989d448-7900-800d-9665-2df21f0829f4)
+
+# [VS Code API](https://code.visualstudio.com/api/references/vscode-api) 
+
+[Extension samples](https://github.com/Microsoft/vscode-extension-samples)
 - [Extending Workbench](https://code.visualstudio.com/api/extension-capabilities/extending-workbench)
 	- [Tree View](https://code.visualstudio.com/api/extension-guides/tree-view#view-container) / [TreeItem](https://code.visualstudio.com/api/references/vscode-api#TreeItem)
     	- [TreeDataProvider example](https://stackoverflow.com/questions/56534723/simple-example-to-implement-vs-code-treedataprovider-with-json-data)

@@ -1,6 +1,7 @@
 ---
 title: Date picker (VSCode)
 tags: vscode calendar vscode-snippet
+toc: true
 ---
 > Insert today’s date when typing // in CHANGELOG.md - [ChatGPT](https://chatgpt.com/share/698868ff-066c-800d-b765-718d66d041fa)
 
@@ -18,7 +19,7 @@ tags: vscode calendar vscode-snippet
 [VS Code snippets cannot directly invoke commands.](https://chatgpt.com/share/6989b137-0860-800d-b2a8-18408a7234ed)
 Alternative is to either
 - generate text for a command and wait user validation
-- use keybinding instead (which can run a command)
+- use [keybinding](https://chatgpt.com/share/6989d507-e544-800d-9157-ccc95990a927) instead (which can run a command)
 
 </div>
 
@@ -36,4 +37,10 @@ Choose markdown
 {% endhighlight %}
 
 Then typing // then Tab in CHANGELOG.md inserts: current date.
+
+## With Extension
+
+cf [my own](https://github.com/yduf/Calendar?tab=readme-ov-file#calendar)
+- include snippets above
+- provide calendar interface for insert & edit
 

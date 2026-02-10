@@ -19,3 +19,8 @@ $ bundle exec jekyll serve --incremental
 or
 $ bundle exec jekyll serve
 ```
+
+## Tags Graph
+
+Tag relationship can be computed by (but not used?)
+extract_tag_link.rb
