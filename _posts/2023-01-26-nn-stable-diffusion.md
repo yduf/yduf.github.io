@@ -18,5 +18,6 @@ Advanced
 - [Depth-to-image in Stable Diffusion 2: All you need to know](https://stable-diffusion-art.com/depth-to-image/)
 
 see also
+- [Les images/vidéos avec l'IA: comment ça marche ?](https://www.youtube.com/watch?v=iv-5mZ_9CPY)
 - [Comment ces IA inventent-elles des images ?](https://www.youtube.com/watch?v=tdelUss-5hY) / [blog](https://scienceetonnante.com/2023/01/13/stable-diffusion/) - stable diffusion epliqué.
 	- GAN / apprentissage supervisé vs non-supervisé / diffusion / conditionnement / plongement (embedding)

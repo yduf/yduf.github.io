@@ -1,7 +1,7 @@
 ---
 title: Infinite stack
 published: true
-tags: physic puzzle
+tags: physics puzzle
 ---
 > [	The Block Stacking Problem](https://news.ycombinator.com/item?id=44937819)
 

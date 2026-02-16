@@ -14,3 +14,4 @@ TODO: rescucite PSP
 
 ### see also
 - [The 20 year old PSP can now connect to WPA2 WiFi Networks ](https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/)
+- [	PlayStation 2 Recompilation Project Is Absolutely Incredible](https://news.ycombinator.com/item?id=46814743)

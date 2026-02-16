@@ -76,6 +76,8 @@ HTML5 introduce semantic element : need ref
     - `<input type="reset">` reset form
     
 # CSS - **C**ascading **S**tyle **S**heet
+
+- [Stop writing CSS like it's 2015](https://modern-css.com/?baseline=newly) / [HN](https://news.ycombinator.com/item?id=47025851) - Modern CSS code snippets, side by side with the old hacks they replace. Every technique you still Google has a clean, native replacement now.
 - [Is There Too Much CSS Now? ](https://css-tricks.com/is-there-too-much-css-now/) / [HN](https://news.ycombinator.com/item?id=33507817)
 - [A Complete Guide to Grid ](https://css-tricks.com/snippets/css/complete-guide-grid/)
 

@@ -7,6 +7,7 @@ tags: avx c++ codingame
 - [std-simd](https://github.com/VcDevel/std-simd) - portable, zero-overhead C++ types for explicitly data-parallel programming
 - [Vc library](https://github.com/VcDevel/Vc) - _in maintenance mode_ - used by [Krita]({% post_url 2021-03-21-krita-code %})
 - [Highway]({% post_url 2022-10-24-cpp-highway-lib %})- Google C++ library that provides portable SIMD/vector intrinsics.
+- [	Expressive Vector Engine (EVE)](https://news.ycombinator.com/item?id=42603188) - SIMD in C++
 
-see also:
+**see also**
 - [std::valarray](https://en.cppreference.com/w/cpp/numeric/valarray) -  Some C++ standard library implementations use expression templates to implement efficient operations on std::valarray... Only rarely are valarrays optimized any further, as in e.g. Intel Integrated Performance Primitives.

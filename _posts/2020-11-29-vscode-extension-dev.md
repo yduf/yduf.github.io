@@ -55,14 +55,19 @@ For developing and building VS Code extensions, the community and tooling genera
 {% endhighlight %}
 
 ## Yo
+
 {% highlight bash %}
 $ sudo npm install -g yo generator-code
+{% endhighlight %}
 
+{% highlight bash %}
 # if using nix
 $ nix develop
 $ npm init -y
 $ npm install --save-dev generator-code
 {% endhighlight %}
+
+**see also** [about Integrating npm in shellHook](https://chatgpt.com/share/698c9224-3e70-800d-9a59-42fc9f831a60)
 
 # [Start New](https://chatgpt.com/share/6988bf49-f460-800d-bf1b-654cbe566c6b)
 

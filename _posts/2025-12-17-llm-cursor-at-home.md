@@ -6,7 +6,8 @@ toc: true
 ---
 > How to make your own cursor - [ChatpGPT](https://chatgpt.com/share/694288eb-9fd4-800d-9753-9c1f39b2f9b6)
 
-see also
+**see also**
+- [How to code Claude Code in 200 lines of code](https://news.ycombinator.com/item?id=46545620)
 - [La bulle IA est monstrueuse et cela va tout péter !!](https://www.youtube.com/watch?v=d2qDKx6JVdQ)
 	- on paye 5x a 10x plus chere l'IA sur le cloud
     - les bulles explosent toujours plus fort et plus tard qu'anticipé.

@@ -10,6 +10,8 @@ toc: true
 
 ChatGPT is a _development limité_ of human knowledge, you can get a good initial point, but when conversing with it, you are derivating farther away from the a valid human interaction. - yduf
 
+- [	I want to wash my car. The car wash is 50 meters away. Should I walk or drive?](https://news.ycombinator.com/item?id=47031580)
+
 # LLM
 
 - [	A History of Large Language Models](https://news.ycombinator.com/item?id=45488892)
@@ -30,7 +32,7 @@ The Transformer made three major shifts:
 - Parallel computation
 - Scalable building blocks
 
-see also
+**see also**
 - [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 	- [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
     	- [tiktokenizer]( https://tiktokenizer.vercel.app) - online syntax coloring token extraction

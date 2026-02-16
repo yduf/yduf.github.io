@@ -10,3 +10,6 @@ tags: arcade emulator
 
 - [r/MAME ROMs & "My game won't play" FAQ.](https://www.reddit.com/r/MAME/comments/enz17s/rmame_roms_my_game_wont_play_faq_please_read/)
 - [What is MAME 2003-Plus?](https://github.com/libretro/mame2003-plus-libretro#what-is-mame-2003-plus)
+
+**see also**
+- [EmuDevz: A game about developing emulators](https://news.ycombinator.com/item?id=46662515)

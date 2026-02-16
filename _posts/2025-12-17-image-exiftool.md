@@ -4,7 +4,7 @@ published: true
 tags: image photo metadata jpeg ruby
 toc: true
 ---
-> [Home](https://exiftool.org/)
+> By far, the most durable aspect of my photo management workflow is that it only relies on EXIF to store metadata about photos. - [HN](https://news.ycombinator.com/item?id=46794971) / [exiftool](https://exiftool.org/)
 
 see also
 - [MiniExiftool](https://github.com/janfri/mini_exiftool?tab=readme-ov-file#miniexiftool-) - a ruby wrapper for the ExifTool command-line 

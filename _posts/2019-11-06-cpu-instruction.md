@@ -5,7 +5,9 @@ tags: computer cpu electronic tutorial blog-electronic
 ---
 > It just sits here succesfully doing nothing forever - [Ben Eater](https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA) / [HN](https://news.ycombinator.com/item?id=43533715)
 
-see also
+**see also**
+- [How is data stored?](https://www.makingsoftware.com/chapters/how-is-data-stored) /  [HN](https://news.ycombinator.com/item?id=46960485)
+	- [codehiddenlanguage](https://codehiddenlanguage.com/) - The Hidden Language of Computer Hardware and Software
 - [cpu.land](https://cpu.land/) / [HN](https://news.ycombinator.com/item?id=46554982)
 
 [![caption](https://yt3.ggpht.com/S29wEjoodDYZ7RTVEtF30KrFOKABSlqphjNwGzC8RCslsketGsynfUKr8aSpXWMBFAZH9AAP=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)](https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA)
