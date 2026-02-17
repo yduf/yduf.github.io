@@ -144,12 +144,14 @@ $ ccache --set-config=prefix_command=icecc
 {% endhighlight %}
 
 
-### [icecream-sundae](https://github.com/JPEWdev/icecream-sundae?tab=readme-ov-file#icecream-sundae) 
+## [icecream-sundae](https://github.com/JPEWdev/icecream-sundae?tab=readme-ov-file#icecream-sundae) 
 
 Commandline Monitor for Icecream.
 To compile from source => easy setup
 
 **require libicecc-dev**
+
+[![demo](https://github.com/JPEWdev/icecream-sundae/raw/master/images/demo.gif)](https://github.com/JPEWdev/icecream-sundae?tab=readme-ov-file#icecream-sundae)
 
 
 **see also**

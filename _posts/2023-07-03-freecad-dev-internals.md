@@ -81,10 +81,14 @@ The FreeCAD developer’s tool set:
 
 ## [Compiling (Linux)](https://wiki.freecad.org/Compile_on_Linux)
 
+Wiki page advocate to first clone the [Freecad Repo]() to yourself (for future PR).
+If you do so, you may want to disable the [github actions](https://chatgpt.com/share/6994a1a5-b4d8-800d-bcb6-efa208fc5378) in your copy.
+- Repository → Settings → Actions → General: Disable actions
+
 {% highlight bash %}
-$ git clone --recurse-submodules <>/FreeCAD FreeCAD-src
+$ git clone --recurse-submodules <your repo>/FreeCAD FreeCAD-src
 # or 
-$ git clone <>/FreeCAD.git
+$ git clone <your repo>/FreeCAD.git
 $ git submodule update --init --recursive # if forgotten
 {% endhighlight %}
 
