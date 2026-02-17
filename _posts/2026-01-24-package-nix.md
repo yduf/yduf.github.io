@@ -28,7 +28,7 @@ At this point, there is not much difference between [_Hombrew_]({% post_url 2026
 $ sh <(curl -L https://nixos.org/nix/install) --no-daemon
 {% endhighlight %}
 
-### Root Access
+## Root Access
 
 `--no-daemon` - is quite straighforward in operation (see below).  
 `--daemon` - is more involved, since it has to setup the daemon. 
@@ -56,6 +56,33 @@ variables are set, either log in again, or type
 in your shell.
 {% endhighlight %}
 </details>
+
+## daemon
+
+{% highlight bash %}
+$ sudo systemctl stop nix-daemon
+{% endhighlight %}
+
+## `/nix`
+
+<div style="            
+  border-left: 5px solid #fb8c00; /* orange */
+  background: #fff3e0;
+
+            
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 6px;
+"  markdown="1" >
+Move /nix via a mount, never via a symlink  
+(it can be a bind mount to redirect toward an other filesytem folder)
+</div>
+
+Nix require to be located at `/nix`. Things to consider is that as package are downloaded the `/nix` folder will consume more space.
+So it may be wise to locate it on its own partition (not on `/`)
+
+The [recommended way](https://chatgpt.com/share/69935fac-4e0c-800d-aa68-27de3abe706a) to do that is to dedicate a partion a use a bind mount
+
 
 # [Package Install](https://chatgpt.com/share/6974d688-4890-800d-b862-c5c8c0c596d7)
 

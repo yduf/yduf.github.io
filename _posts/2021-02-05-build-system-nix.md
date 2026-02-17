@@ -81,3 +81,7 @@ This create an isolated shell, taking into account the flake definition.
 {% highlight bash %}
 $ nix develop
 {% endhighlight %}
+
+## [`flake-utils`](https://chatgpt.com/share/69939168-f030-800d-ae1d-fe43a9aa7e3b)
+
+flake-utils is a small helper library for Nix flakes that reduces boilerplate when writing flake.nix files.
