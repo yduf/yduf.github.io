@@ -104,4 +104,6 @@ Fraise diametre max: 42mm -> sinon ne passe pas au travers de la base
 
 ### [scie sou table](https://www.youtube.com/watch?v=_kX8xAWHdsY)
 
+- [Bosch GTS 254](https://www.kamody.fr/bosch-gts-254-scie-circulaire-sur-table-0601b45000-13727) / [idealo](https://www.idealo.fr/prix/202054782/bosch-gts-254.html) - 300€ 2026
+
 ### [oscilating saw](https://www.youtube.com/watch?v=SgCam8t3670)
