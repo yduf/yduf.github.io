@@ -1,7 +1,7 @@
 ---
 published: true
 title: Tapo (wifi camera)
-tags: camera video-hardware RTSP network  reverse
+tags: webcam camera video-hardware RTSP network reverse security
 toc: true
 ---
 - C212 - 30€ / 2023 - (1.3.14) [amazon](https://www.amazon.fr/gp/product/B0CG9MBCYR)
@@ -11,16 +11,16 @@ toc: true
 	- stream2 is 640x360 
 - C210 - 18€ / 2025 - (1.1.1) [amazon](https://www.amazon.fr/dp/B095CLQ1PT)
 
-### Pro
+## Pro
 - once setup / rstp is functional and can be accessed by ffplay (for eg).
 - seems to be supported by [iSpy](https://github.com/ispysoftware/iSpy)
 
-### Cons
+## Cons
 - Need to install Android/iOS App + create an account
 	- setup is a bit strange (and derouting at first) when trying to setup the Wifi connection
     - the app establish a direct wifi link with the camera and so android complain severa time about losing network: it's just that the connection first switch from wifi to direct cam then to wifi: don't restablish the connection from the android popup or it will mess the setup.
     
-### RSTP Setup
+# RSTP Setup
 
 Setup can only be done through the App
 
@@ -38,9 +38,7 @@ Setup can only be done through the App
 - Wifi is restricted to 2.4Ghz
 
 
-
-
-### ONVIF / PTZ
+# ONVIF / PTZ
 
 ONVIF stands for Open Network Video Interface Forum.  
 PTZ stands for Pan-Tilt-Zoom.
@@ -52,7 +50,7 @@ PTZ stands for Pan-Tilt-Zoom.
 - [ONVIFViewer](https://www.debugpoint.com/onvifviewer-internet-camera-viewer-for-linux/) / [gitlab](https://gitlab.com/caspermeijn/onvifviewer) - Linux Internet Camera Viewer - dev stopped
 
 
-### see also
+# see also
 - [How to view Tapo camera on PC through RTSP stream](https://www.tapo.com/en/faq/34/)
 - [Tapo P100 Homebridge](https://github.com/homebridge/homebridge/wiki/Install-Homebridge-on-Debian-or-Ubuntu-Linux ) -  javascript server emulating Homekit API 
 	- [HomeAssistant - Tapo: Cameras Control](https://github.com/JurajNyiri/HomeAssistant-Tapo-Control#homeassistant---tapo-cameras-control)
@@ -60,3 +58,4 @@ PTZ stands for Pan-Tilt-Zoom.
 	- [THE Tapo C200 Research Proj.](https://drmnsamoliu.github.io/shell.html)
     - [Vulnerabilities (CVE)](https://www.opencve.io/cve?vendor=tp-link&product=tapo_c200_firmware)
 - [Amazon’s Ring to partner with Flock](https://news.ycombinator.com/item?id=45614713) - how many existing Ring owners would have bought the camera had they known they would eventually give third parties access to the camera footage.
+	- [Amazon's Ring and Google's Nest Unwittingly Reveal the Severity of the U.S. Surveillance State](https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly) / [HN](https://news.ycombinator.com/item?id=47023238)
