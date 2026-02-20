@@ -1,7 +1,7 @@
 ---
 published: true
 title: "HUAWEI MateBook 14 (2020) \U0001F4BB"
-tags: pc-hardware gpu laptop
+tags: pc-hardware gpu nvidia laptop
 excerpt_separator: <!--more-->
 toc: true
 ---

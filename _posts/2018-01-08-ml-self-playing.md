@@ -7,3 +7,4 @@ tags: AI NN papers chess codingame
 
 **see also**
 - [Sameshi – a ~1200 Elo chess engine that fits within 2KB ](https://news.ycombinator.com/item?id=47014500)
+- [	Chess engines do weird stuff](https://news.ycombinator.com/item?id=47049845)

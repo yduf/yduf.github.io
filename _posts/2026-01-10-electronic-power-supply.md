@@ -30,7 +30,7 @@ see also
 - Output capacitor
 	- smooth again the resulting DC
 
-### Other details
+## Other details
 - LED + resistor (to not blow the LED)
 	- show that output current is flowing
     - does not means that there is no input current.
@@ -49,3 +49,6 @@ see also
 And other
 - to make sure the Electro Magnetic compatibility (EMC) regulation is assured
 	- in order to don't mess with other equipment
+
+## see also
+- [Fix this part before it KILLS your vintage computer!](https://www.youtube.com/watch?v=brq3OkRDbPE)

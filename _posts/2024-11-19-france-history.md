@@ -25,6 +25,9 @@ see also
 ### Jamaique
 - [POURQUOI LES RASTA PARLENT COMME ÇA ?](https://www.youtube.com/watch?v=vfn_XDlrLPc) - I & I
 
+### Martinique
+- [En Martinique, le 14 février 1974, l’État tuait des ouvriers de la banane](https://reporterre.net/En-Martinique-le-14-fevrier-1974-l-Etat-tuait-des-ouvriers-de-la-banane)
+
 ### see also
 - [Imperial boomerang](https://en.wikipedia.org/wiki/Imperial_boomerang) - the thesis that governments that develop repressive techniques to control colonial territories will eventually deploy those same techniques domestically against their own citizens. 
 - [The British Empire Was Much Worse Than You Realize](https://www.newyorker.com/magazine/2022/04/04/the-british-empire-was-much-worse-than-you-realize-caroline-elkinss-legacy-of-violence) / [HN](https://news.ycombinator.com/item?id=42558142) - The world’s biggest colonial power prided itself on being a liberal democracy. Was this part of the problem?

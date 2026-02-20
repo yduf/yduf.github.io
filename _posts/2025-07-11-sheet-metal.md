@@ -6,6 +6,9 @@ toc: true
 ---
 > Recycling & Cutting sheet metal
 
+**see also**
+- [Why There Are 11+ Ways to Cut Steel](https://www.youtube.com/watch?v=KkCDoQbjBLo)
+
 ## Soda Can
 Are about 0.1mm 
 

@@ -1,0 +1,4 @@
+,ruby,python,typescript,javascript,lua
+immutable,*,✅ ,✅ ,✅ ,✅ 
+unicode,utf8,PEP 393,UTF-16,UTF-16,Bytes
+per string encoding,✅ ,❌,❌,❌,❌

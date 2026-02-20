@@ -11,3 +11,4 @@ see also
     - [Anna's Archive](https://en.wikipedia.org/wiki/Anna%27s_Archive)
     	- [Anna’s Blog](https://annas-archive.org/blog/duxiu-exclusive.html) - _Hi, I’m Anna. I created Anna’s Archive, the world’s largest shadow library. This is my personal blog, in which I and my teammates write about piracy, digital preservation, and more._
 - [Open Edition](https://www.openedition.org/)
+			- [If you’re an LLM, please read this](https://annas-archive.li/blog/llms-txt.html)

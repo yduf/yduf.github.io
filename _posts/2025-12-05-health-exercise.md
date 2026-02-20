@@ -6,8 +6,6 @@ tags: health
 - [ Fastest Way to Shrink Visceral Fat (Backed by Science) ](https://www.youtube.com/watch?v=Zt6WaTBnj7E)
 	- consistency beats everything - stick to 3x to 2x times a week
 
-- [#1 Best Meal to UNCLOG Your Arteries (Backed by Science) ](https://www.youtube.com/watch?v=WQIE86q08mk)
-
 
 - [This Pill is linked to DEMENTIA](https://www.youtube.com/watch?v=ny7M6f1y0ow)
 	- **anticholinergic** block acetylcholine to be avoided for extending period
@@ -22,6 +20,18 @@ tags: health
 
 - [ Too much Omega-3s are dangerous ](https://www.youtube.com/watch?v=W6h5xqLaJjw)
 
+
+## Plaque Formation 
+- [#1 Best Meal to UNCLOG Your Arteries (Backed by Science) ](https://www.youtube.com/watch?v=WQIE86q08mk)
+    - Diet don't work if you don't stick to it
+    - reduce inflamation
+        - food rich in lycopene are good
+            - tomatoes / pamplemousse / pasteque
+        - Phystosterols
+            - legumes / carottes / Fruits
+        - Flavanoids
+            - pommes / oignons / baie / oranges
+        
 ## [Kidney Disease](https://www.youtube.com/watch?v=Gu_0u4HQOBw)
 - half nail symptom
 - dry skin

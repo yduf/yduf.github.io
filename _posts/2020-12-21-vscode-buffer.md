@@ -1,7 +1,7 @@
 ---
 published: true
 title: VSCode Text Buffer Reimplementation
-tags: vscode-internal text string benchmarking
+tags: vscode-internal text string benchmarking v8
 ---
 > During an in-depth exploration, we found that a C++ implementation of the text buffer could lead to significant memory savings, but we didn't see the performance enhancements we were hoping for. Converting strings between a custom native representation and V8's strings is costly and in our case, compromised any performance gained from implementing text buffer operations in C++... Not going native, we had to find ways to improve our JavaScript/TypeScript code. - [Text Buffer Reimplementation](https://code.visualstudio.com/blogs/2018/03/23/text-buffer-reimplementation)
 

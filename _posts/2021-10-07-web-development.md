@@ -80,7 +80,7 @@ HTML5 introduce semantic element : need ref
 - [Stop writing CSS like it's 2015](https://modern-css.com/?baseline=newly) / [HN](https://news.ycombinator.com/item?id=47025851) - Modern CSS code snippets, side by side with the old hacks they replace. Every technique you still Google has a clean, native replacement now.
 - [Is There Too Much CSS Now? ](https://css-tricks.com/is-there-too-much-css-now/) / [HN](https://news.ycombinator.com/item?id=33507817)
 - [A Complete Guide to Grid ](https://css-tricks.com/snippets/css/complete-guide-grid/)
-
+- [Is it possible to apply CSS to half of a character?](https://stackoverflow.com/questions/23569441/is-it-possible-to-apply-css-to-half-of-a-character) - yes it is
 
 CSS 3 - introduced transition / animation
 

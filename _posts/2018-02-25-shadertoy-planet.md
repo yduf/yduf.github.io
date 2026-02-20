@@ -5,6 +5,8 @@ tags: shader online gpu
 ---
 > [teleport](https://www.shadertoy.com/view/4tjGRh) - [An introduction to Shader Art Coding](https://www.youtube.com/watch?v=f4s1h2YETNY)
 
+- [WebGL/GLSL - How does a ShaderToy work?](https://stackoverflow.com/questions/19449590/webgl-glsl-how-does-a-shadertoy-work)
+
 **see also**
 - [Pico GPU](https://ncannasse.github.io/picogpu/) / [articlde](https://gamefromscratch.com/pico-gpu-virtual-gpu-for-learning-shaders/) / [github](https://github.com/ncannasse/picogpu?tab=readme-ov-file#pico-gpu)  - Virtual GPU For Learning Shaders
 	- Shaders are Hard. [This Virtual GPU Makes Them Simple.](https://www.youtube.com/watch?v=CwATlvIO02w)

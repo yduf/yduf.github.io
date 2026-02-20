@@ -308,3 +308,6 @@ Options are:
 - [Trying To Find Meaning In Owning An Old Mac](https://blog.decryption.net.au/posts/macse30.html) / [HN](https://news.ycombinator.com/item?id=44496502)
 - [Build log: Macintosh Classic](https://www.jeffgeerling.com/blog/2025/build-log-macintosh-classic)
 - [PicoMac : le premier Macintosh, 40 ans plus tard](https://www.youtube.com/watch?v=pr16icOHAPM)
+- [I turned a CLOCK into a vintage Mac! ](https://www.youtube.com/watch?v=dRr5iVjMfqs) / [2](https://www.youtube.com/watch?v=a_NyV5jsUsw)
+	- [RayCue Maclock ](https://www.amazon.fr/RayCue-lordinateur-luminosit%C3%A9-Calendrier-temp%C3%A9rature/dp/B0FQJ9WSTP)
+	- [Making a Tiny Mac From a Raspberry Pi Zero](https://www.instructables.com/Making-a-Tiny-Mac-From-a-Raspberry-Pi-Zero/)

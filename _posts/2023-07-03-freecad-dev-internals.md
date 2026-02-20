@@ -1,14 +1,14 @@
 ---
 published: true
-title: Freecad Internals (dev)
-tags: freecad code-review python
+title: Freecad Internals (dev) 🚧
+tags: freecad code-review python in-progress
 toc: true
 ---
-> [Developer hub](https://wiki.freecad.org/Developer_hub) / [Power users hub](https://wiki.freecad.org/Power_users_hub) / [mastodon](https://fosstodon.org/@FreeCAD)
+> [Developer hub](https://wiki.freecad.org/Developer_hub) / [Power users hub](https://wiki.freecad.org/Power_users_hub) / [mastodon](https://fosstodon.org/@FreeCAD) / [FreeCAD Developers Handbook](https://freecad.github.io/DevelopersHandbook/gettingstarted/)
 
-- [FreeCAD Developers Handbook](https://freecad.github.io/DevelopersHandbook/gettingstarted/)
-	- [dependencies](https://freecad.github.io/DevelopersHandbook/gettingstarted/dependencies.html#dependencies) / [Compile on Linux](https://wiki.freecad.org/Compile_on_Linux)
-- [The FreeCAD source code](https://wiki.freecad.org/The_FreeCAD_source_code)
+
+[Advanced Screwdriver Modeling](https://www.youtube.com/watch?v=If6jgolrqDA)
+[![screenshot](https://github.com/FreeCAD/FreeCAD/raw/main/.github/images/partdesign.png)](https://github.com/FreeCAD/FreeCAD?tab=readme-ov-file#your-own-3d-parametric-modeler)
 
 # Organisation
 
@@ -21,7 +21,11 @@ $ freecadcmd script.py
 
 ## Tree source
 
-- [Workbench creation](https://wiki.freecad.org/Workbench_creation)
+[The FreeCAD source code](https://wiki.freecad.org/The_FreeCAD_source_code)
+ - [Workbench creation](https://wiki.freecad.org/Workbench_creation)
+
+The FreeCAD code is programmed **mainly in C++**, but **relies heavily on Python**. A very large part of its functionality provides associated Python bindings, and it is part of the core philosophy of the FreeCAD development to always offer python access to any new feature implemented in C++. To obtain this, [**CPython**](https://fr.wikipedia.org/wiki/CPython) (the C interfacing tools provided by Python itself) and specially [**PyCXX are heavily used**](https://chatgpt.com/share/6995cb77-ada0-800d-a69f-71d995e9d7a4) throughout FreeCAD. Many templates and custom tools are also provided in the FreeCAD code itself to turn the building of associated python bindings very easy. Some more high-level parts of the FreeCAD code are coded fully in Python.
+
 
 ### [Part Module](https://wiki.freecad.org/Part_Workbench)
 
@@ -65,6 +69,8 @@ In FreeCAD, normally, we don't need to interact directly with the Open Inventor 
 
 ## [Dependencies](https://freecad.github.io/DevelopersHandbook/gettingstarted/dependencies#dependencies)
 
+- [Compile on Linux](https://wiki.freecad.org/Compile_on_Linux)
+
 ## [Technicals Guide](https://freecad.github.io/DevelopersHandbook/technical/#technical)
 
 A guide for developers learning their way around the FreeCAD codebase.
@@ -81,7 +87,7 @@ The FreeCAD developer’s tool set:
 
 ## [Compiling (Linux)](https://wiki.freecad.org/Compile_on_Linux)
 
-Wiki page advocate to first clone the [Freecad Repo]() to yourself (for future PR).
+Wiki page advocate to first clone the [Freecad Repo](https://github.com/FreeCAD/FreeCAD) to yourself (for future PR).
 If you do so, you may want to disable the [github actions](https://chatgpt.com/share/6994a1a5-b4d8-800d-bcb6-efa208fc5378) in your copy.
 - Repository → Settings → Actions → General: Disable actions
 
@@ -112,6 +118,12 @@ $ cmake -G Ninja .. \
 $ ninja -j$(nproc --ignore=2)    # or cmake --build .
 {% endhighlight %}
 
-### Troubleshooting
+Note: ccache can be used as a proxy towared icecream to distribute compilation
 
+### Troubleshooting 🚧
+
+- QT / GL don't work => Freecad doesn't start
 - [**PySide6**](https://github.com/FreeCAD/FreeCAD/issues/18104) - Compilation is ok. but FreeCAD can't locate the modules when ran.
+
+### Project 💭 
+- have embeded profiling for freecad dev

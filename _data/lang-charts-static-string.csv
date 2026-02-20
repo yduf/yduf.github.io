@@ -1,0 +1,4 @@
+,c++,rust,zig,go,java
+immutable,❌,✅ (&str),✅ ([]const u8),✅,✅
+unicode,Bytes,utf8,Bytes,utf8,UTF-16
+per string encoding,~,~,~,~,~
