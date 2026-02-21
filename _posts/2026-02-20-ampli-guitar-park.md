@@ -8,6 +8,12 @@ tags: guitar audio-hardware electronic in-progress broken
 
 [PARK G10R SCHEMATIC](https://elektrotanya.com/park_g10r_schematic.pdf/download.html#dl)
 
+# Reparation
+
+Dead on September 2025
+- Fusible broken
+- Crashing potentiometer
+
 # [Fusible](https://elektrotanya.com/content/park-g10-guitar-combo-fuse-blow?utm_source=chatgpt.com)
 
 Fusible temporisé (T) 5x20mmm - 250V - [T160L/250V](https://chatgpt.com/share/6998c45a-ea58-800d-81d4-a9b44e354e01) - [amazon](https://www.amazon.fr/gp/product/B09JZG7G62?smid=A1X6FK5RDHNB96&th=1)
@@ -76,3 +82,6 @@ Fonctionnement : La résistance change de façon mathématiquement linéaire. Po
 Marquage : "B" ou "Linear" ou "Lin" gravé sur le potard.
 
 Règle générale : Volume = Audio (A) / Tonalité = Linéaire (B) ou Audio selon préférence.
+
+# see also
+- [ Dead Roland Boss Katana-100 Guitar Amplifier : The Internet Says These Are Impossible To Repair ](https://www.youtube.com/watch?v=FFKbDYCo9QA)

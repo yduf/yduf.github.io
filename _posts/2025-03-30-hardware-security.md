@@ -2,6 +2,7 @@
 title: Hardware security
 published: true
 tags: hardware-security security reverse
+toc: true
 ---
 > Why, and for whom ?
 
