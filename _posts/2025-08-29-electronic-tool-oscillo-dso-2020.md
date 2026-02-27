@@ -2,10 +2,36 @@
 title: Oscilloscope
 published: true
 tags: electronic-hardware
+toc: true
 ---
 > How to ACTUALLY Use an Oscilloscope (Beginner-Friendly Guide!) - [youtube](https://www.youtube.com/watch?v=LaY47Qrfs0c)
 
+<div style="            
+  border-left: 5px solid #e53935; /* red */
+  background: #ffebee;
+
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 6px;
+"  markdown="1" >
+
+[How to ACTUALLY Use an Oscilloscope (Beginner-Friendly Guide!](https://www.youtube.com/watch?v=LaY47Qrfs0c)
 - [**Oscilloscope Safety Tips (Grounding, short circuits, AC danger)**](https://www.youtube.com/watch?v=LaY47Qrfs0c&t=579s)
+- [How NOT To Blow Up Your Oscilloscope!](https://www.youtube.com/watch?v=xaELqAo4kkQ)
+	- there is no problem when you work on an 
+		- [isolated circuit](https://youtu.be/xaELqAo4kkQ?t=471) (eg: battery powered)
+		- same for [isolated power supply (tranformed with no ground)](https://youtu.be/xaELqAo4kkQ?t=551)
+		- [if there is an earth](https://youtu.be/xaELqAo4kkQ?t=787) -> there may be an earth connection that shorten the negative line
+			- **THIS WILL BLOW UP** -> connecting the probe earth will create a short circuit
+			- [**USB Product when connected**](https://youtu.be/xaELqAo4kkQ?t=946) - will be connected to earth of the computer
+				- they are usb isolator
+		- to probe safely High Energy system
+			- [**you need a high voltage energy probe**](https://youtu.be/xaELqAo4kkQ?t=1268)
+			- recommanded if you work on powersupply
+			- or use an isolated power supply to pair the device you are testing
+
+</div>
+
 
 # Digital Oscilloscope
 
@@ -31,6 +57,8 @@ tags: electronic-hardware
 Avec generateur de forme d'onde cv [Hantek DSO5102P vs DSO2D15](https://chatgpt.com/share/69998485-aeb4-800d-8621-25199c0fb253)
 
 - [Review/Teardown of a Hantek DSO2D10 Oscilloscope ](https://www.youtube.com/watch?v=Mmx7eo9STXE)
+
+[![photo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Freballing.store%2F5125-large_default%2Fosciloscopio-hantek-dso2d10-100mhz.jpg&f=1&nofb=1&ipt=3f886dc321ae0d32602ba9636b363d9f818c34bdb9fb35e808458b84c314ae05)](https://duckduckgo.com/?t=lm&q=hantek+dso2d10&ia=images&iax=images&iai=https%3A%2F%2Freballing.store%2F5125-large_default%2Fosciloscopio-hantek-dso2d10-100mhz.jpg)
 
 ### Hacking
 

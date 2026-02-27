@@ -85,3 +85,7 @@ Règle générale : Volume = Audio (A) / Tonalité = Linéaire (B) ou Audio selo
 
 # see also
 - [ Dead Roland Boss Katana-100 Guitar Amplifier : The Internet Says These Are Impossible To Repair ](https://www.youtube.com/watch?v=FFKbDYCo9QA)
+- [Pourquoi démonter un potentiomètre pour le nettoyer](https://www.astuces-pratiques.fr/electronique/nettoyer-et-reparer-un-potentiometre)
+- [Potentiomètre guitare – faire le bon choix](https://www.cabler-sa-guitare.fr/potentiometre-guitare-faire-son-choix/)
+
+- [FICHES AIDE POTENTIOMETRES](https://www.emma-music.com/fiches-aide-potentiometres-c102x3937409)

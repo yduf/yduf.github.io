@@ -30,4 +30,6 @@ _To think of consciousness as a dichotomy instead of a spectrum is baffling to m
 - [Enthoven vs. ChatGPT : QUI EST L'IMPOSTEUR ?](https://www.youtube.com/watch?v=dOF9vc5tLJ4) - man pretend machine will never be able to think (man is Enthoven)
 	- _"On a d'un côté quelque chose capable de générer à volonté des suites de mots sur n'importe quoi en donnant une troublante illusion de compétence... et de l'autre côté un chatbot."_ - Mr Phi
     - les machines ne pense pas ... car ce sont des machines (en conclusion c'est un dogme).
+- [ Luc Julia au Sénat : autopsie d'un grand N'IMPORTE QUOI ](https://www.youtube.com/watch?v=e5kDHL-nnh4)
+	- [Luc Julia face à Monsieur Phi - Tech&Co la quotidienne du 01/09/2025 ](https://www.youtube.com/watch?v=xKeFsOceT44)
 - [Monsters We Trust with Our Lives](https://www.youtube.com/watch?v=GVkNB-WAMew) - self awareness tests
