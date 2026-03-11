@@ -49,7 +49,7 @@ Note: this is the inside of a SE:
 - [with 3% hydrogen peroxyde and plastic wrap + 4sun hours](https://www.youtube.com/watch?v=bJZSrRU1xt4)
     - [hydrogen peroxide cream](https://www.amazon.fr/s?k=hydrogen+peroxide+cream&__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HMB39DGQCZ6G&sprefix=hydrogen+peroxide+cream%2Caps%2C419&ref=nb_sb_noss) - [12% + plastic wrap](https://www.youtube.com/watch?v=RsIwIHJt_ps)
 - [nouvelles techniques pour restaurer des plastiques jaunis !](https://www.youtube.com/watch?v=qZYbchvSUDY) - chauffée a 71°
-- [Retr0bright](https://www.youtube.com/watch?v=xBS_UEV35W4) - de-yellowing do's, dont's, and playing devil's advocate - test different light condition
+- [Retr0bright](private) - de-yellowing do's, dont's, and playing devil's advocate - test different light condition
 	- sun is more evenly distributed (5h/1 day).
     - fluerescent light work well (24h).
 
@@ -142,8 +142,8 @@ see also
 
 ## Fiting a Full PC
 
-- [Mac Classic Retrofit - Breathe new life into a classic!](https://www.youtube.com/watch?v=nguN392TH-g)
-	- [cutting back panel](https://youtu.be/nguN392TH-g?si=MQ8X2YtvCZiFf07-&t=429)
+- [Mac Classic Retrofit - Breathe new life into a classic!](private)
+	- [cutting back panel](private)
     - or build a [backpanel to avoid it](https://www.instructables.com/Macintosh-Classic-II-Color-Hackintosh/)
 
 - [Vintage Mac Classic NAS](https://www.insanelymac.com/forum/topic/344354-vintage-mac-classic-nas/) - lot of pics
@@ -207,9 +207,9 @@ Hardware Total:        **535€**
 - acrylic filler, fill the remaining gap between the original display screws. Protect display.
 - [colle B7000](https://chatgpt.com/share/680e243e-b2c0-800d-8402-18915d6c845e) - decollage en chauffant a 80°C
 - [LCD screen control](https://www.printables.com/model/1326582-mac-classic-lcd-screen-control) - under the screen
-	- [~~control button in floppy disk drive~~](https://youtu.be/nguN392TH-g?si=nXbxcn8i43qxHAmO&t=297)
+	- [~~control button in floppy disk drive~~](private)
 
-My Choice [**Ecran IPS 4/3**](https://youtu.be/nguN392TH-g?si=Qj1b74SA7zqf23BR&)
+My Choice [**Ecran IPS 4/3**](private)
 - [VSDISPLAY Écran LCD 9,7](https://www.amazon.fr/gp/product/B099Z9SVX7) - spec [ écran IPS eDP 440nit](https://chatgpt.com/share/680016d4-093c-800d-b9ec-d3bceeb10884) ref VS-RTD09703-V1
 	- the light is not homogenous (top is dimmer than bottom)
     - Sufficient brightness is only possible when powered in 12V.
@@ -233,7 +233,7 @@ Options are:
 - [ Mac Classic with LCD inside the CRT part 1](https://www.youtube.com/watch?v=-mMaO6ULuSk&list=LL&index=19) / [part3](https://www.youtube.com/watch?v=3grAxKGzBt0)- glass cut / smaller lcd 8in screen fit.
     - [cutting the tube](https://www.youtube.com/watch?v=nVWXaGI7gfQ&t=158s) - _just don't breathe the phosphors._
  - [fitting a pi](https://jm.iq.pl/macintoshpi-mac-os-7-8-9-for-raspberry-pi/) / [using it](https://www.youtube.com/watch?v=yDPkjhl2oSI) - simple black fillout
-	- [3dprinted fillout](https://www.youtube.com/watch?v=nguN392TH-g) / [thingiverse](https://www.thingiverse.com/thing:3551263/files)
+	- [3dprinted fillout](private) / [thingiverse](https://www.thingiverse.com/thing:3551263/files)
 - [Macintosh Plus mini Retrofit](https://www.youtube.com/watch?v=dpgFJmEe90I&t=1644s) - acrylic sheet + custom bezel 
 	- [shop](https://www.etsy.com/shop/RetroAppleAT)
 
@@ -256,7 +256,7 @@ Options are:
 ### [Motherboard Fit](https://www.printables.com/model/1307381-mac-classic-mini-itx)
 
 - 3dprint somelegs to support the mother board
-- [cut the back of the frame](https://youtu.be/nguN392TH-g?si=MQ8X2YtvCZiFf07-&t=429)
+- [cut the back of the frame](private)
 	- [removing back](https://www.insanelymac.com/uploads/monthly_2020_06/IMG_2690.thumb.jpg.a47016e7388456fd653f2e492360c0c3.jpg)
 - reuse power/reset button on the side
 

@@ -7,6 +7,6 @@ tags: games adventure
 >
 > [Sadly, though, I’m not one of these people…](https://www.filfre.net/2021/07/full-throttle/)
 
-- [VF](https://www.youtube.com/watch?v=MJDbw2wLpAA) / [BO](https://www.youtube.com/watch?v=VVsAt7C0K4k)
+- [VF](https://www.youtube.com/watch?v=MJDbw2wLpAA) / [BO](deleted)
 
-[![caption](https://img.youtube.com/vi/VVsAt7C0K4k/0.jpg)](https://www.youtube.com/watch?v=VVsAt7C0K4k)
+[![caption](https://img.youtube.com/vi/VVsAt7C0K4k/0.jpg)](deleted)

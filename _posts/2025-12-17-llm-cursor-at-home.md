@@ -6,6 +6,10 @@ toc: true
 ---
 > How to make your own cursor - [ChatpGPT](https://chatgpt.com/share/694288eb-9fd4-800d-9753-9c1f39b2f9b6)
 
+- [Local Models Overview](https://docs.cline.bot/running-models-locally/overview#recommended-models)
+- Integration with [LM Studio](https://docs.cline.bot/running-models-locally/lm-studio)
+
+
 **see also**
 - [How to code Claude Code in 200 lines of code](https://news.ycombinator.com/item?id=46545620)
 - [La bulle IA est monstrueuse et cela va tout péter !!](https://www.youtube.com/watch?v=d2qDKx6JVdQ)
@@ -23,7 +27,7 @@ toc: true
     - on sait faire que les mauvais deviennent moyen.
     
 
-# VSCode+
+# VSCode
 
 - [VSCode + Cline + Continue](https://www.youtube.com/watch?v=7AImkA96mE8) NEVER PAY for CURSOR again. Use this OPEN SOURCE & LOCAL Alternative
 
@@ -55,27 +59,11 @@ Cline is an open source AI coding agent that brings frontier AI models directly 
 
 see [Cline vs Cursor](https://chatgpt.com/share/69446ae1-4990-800d-b80a-bd62c220adb1)
 
-### [Local Models Overview](https://docs.cline.bot/running-models-locally/overview#recommended-models)
-
-Integration with [LM Studio](https://docs.cline.bot/running-models-locally/lm-studio)
-
-- [use **Qwen3 Coder 30B A3B Instruct**](https://docs.cline.bot/running-models-locally/overview#recommended-models). This model delivers strong coding performance and reliable tool use.
-	- [Which local models actually work with Cline? AMD tested them all](https://cline.ghost.io/local-models-amd/)
-
 
 ## [Codex](https://github.com/openai/codex?tab=readme-ov-file#quickstart)
 - [	Unrolling the Codex agent loop](https://news.ycombinator.com/item?id=46737630) – Codex CLI is open source.
 
-    
- 
 ## Alternatives
 - [	Aider: AI pair programming in your terminal](https://news.ycombinator.com/item?id=39995725)
 - [OpenCode](https://github.com/anomalyco/opencode) - very similar to Claude Code in terms of capability.
 	- [Unauthenticated remote code execution in OpenCode](https://news.ycombinator.com/item?id=46581095)
-
-# LLM
-
-
-[“instruct”](https://chatgpt.com/share/6985a9bb-67b0-800d-8a87-83d97db2f72b) refers to a model that is specifically trained or fine-tuned to follow instructions from users in a helpful, safe, and coherent way.
-
-##

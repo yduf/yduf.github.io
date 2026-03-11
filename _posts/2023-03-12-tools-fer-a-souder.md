@@ -1,7 +1,7 @@
 ---
 published: true
 title: Fer à Souder
-tags: lab hardware-tools
+tags: lab electronic-hardware
 toc: true
 ---
 > [ Tuto soudures, les erreurs "classiques" - Apprendre à réparer l'électronique ](https://www.youtube.com/watch?v=lqda_i2XDJs)
@@ -31,11 +31,20 @@ Diametre interieur 4.2 / ext 6.5
 
 # [750W Station de Soudage](https://www.amazon.fr/dp/B07V6878PZ)
 
-750W Station de Soudage et de Fer à Souder à Air Chaud, 2 en 1 Fer a Souder Pour Le Dessoudage Station Air Chaud 200~480°C  - 68€ / 2024
+750W Station de Soudage et de Fer à Souder à Air Chaud, 2 en 1 Fer a Souder Pour Le Dessoudage Station Air Chaud 200~480°C  - 62€ / 2024
 
 [![photo](https://m.media-amazon.com/images/I/717DU1JszcL._AC_SY300_SX300_QL70_ML2_.jpg)](https://www.amazon.fr/dp/B07V6878PZ)
 
-# Desoldering
+# [YIHUA 948D-I](https://www.amazon.fr/YIHUA-948D-I-performance-antistatique-temp%C3%A9rature/dp/B0F8QQ27NL)
+
+Station de dessoudage 110 W haute performance, antistatique, avec contrôle de température réglable de 380 à 480°C,3 canaux préréglés,conversion °C/°F,mise en veille automatique - 129€ / 2026 
 
 - [Stop Lifting Pads! The Best Budget Desoldering Tools for 2026](https://www.youtube.com/watch?v=v1t3sCCVUxw)
-    - [YIHUA 948D-I Station de dessoudage 110 W ](https://www.amazon.fr/gp/product/B0F8QQ27NL?smid=A2ROFELMX9359Y) - 
+    - [YIHUA 948D-I Station de dessoudage 110 W ](https://www.amazon.fr/gp/product/B0F8QQ27NL?smid=A2ROFELMX9359Y)
+    - [DE-SOLDERING made VERY EASY - YIHUA 948 Unboxing and testing](https://www.youtube.com/watch?v=mV6LyCPWg1E)
+
+[![photo](https://manuals.plus/ae/1005009435969430/images/Sde429b3d142b498c8dd191a0fa03bd93U.jpg)](https://manuals.plus/ae/1005009435969430)
+
+## Desoldering tips
+
+- [Desoldering Made Easy - Amazing Trick](https://www.youtube.com/watch?v=Vou2xlJkuoU)

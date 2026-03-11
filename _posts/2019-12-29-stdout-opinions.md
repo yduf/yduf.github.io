@@ -6,7 +6,11 @@ tags: software despair.com quote fun opinions
 > You should like it if I like it  
 > Trust my choice and tag along  
 > I am right and you are wrong 
-> - [$stdout - Opinions](https://www.youtube.com/watch?v=yqTpG5obPV8)  
+> \- [$stdout - Opinions](https://www.youtube.com/watch?v=yqTpG5obPV8)  
+
+**see also**
+- _I am wasting my time with these opinions. Let's do what everyone does._ - [Shipping a button in 2026…](https://www.youtube.com/watch?v=xE9W9Ghe4Jk)
+
 
 I like Ruby, I like Go  
 But strong typing for the win  

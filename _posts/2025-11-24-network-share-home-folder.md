@@ -163,7 +163,7 @@ ip of the server must be fixed, cf:
 
 # Usage
 
-Some example of configuration usage makint usefull to share $HOME
+Some example of configuration usage making usefull to share $HOME
 hosted on huv (laptop) with lab (more powerfull server).
 
 see [Homelab]({% post_url 2020-07-25-homelab %})

@@ -24,7 +24,7 @@ see also
 
 ### Face Landmark Detection
 Using Mediapipe Iris ([Face Geometry Module](https://github.com/google/mediapipe/wiki/MediaPipe-Face-Mesh))
-- [Iris Tracking MediaPipe](https://www.youtube.com/watch?v=DNKAvDeqH_Y) / [part 2](https://www.youtube.com/watch?v=8CIxfcbGU3s) / [medium](https://medium.com/mlearning-ai/iris-segmentation-mediapipe-python-a4deb711aae3)
+- [Iris Tracking MediaPipe](DELETED) / [part 2](deleted) / [medium](https://medium.com/mlearning-ai/iris-segmentation-mediapipe-python-a4deb711aae3)
 
 [![caption](https://1.bp.blogspot.com/-N494e9_yk00/XywzbwgHMgI/AAAAAAAAGUo/4rWZgcvMPaQVphDK6SSeDZp8-79REaIAwCLcBGAsYHQ/s0/image8.gif)](https://ai.googleblog.com/2020/08/mediapipe-iris-real-time-iris-tracking.html)
 

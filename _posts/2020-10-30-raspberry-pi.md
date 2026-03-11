@@ -2,8 +2,9 @@
 published: true
 title: Raspberry Pi / ARM Fleet
 tags: raspberry-pi arm-hardware
+toc: true
 ---
-> The Raspberry Pi is a tiny and affordable computer that you can use to learn programming through fun, practical projects. - [raspberrypi.org](https://www.raspberrypi.org)
+> The Raspberry Pi is a tiny and affordable computer that you can use to learn programming through fun, practical projects. - [raspberrypi.org](https://www.raspberrypi.org) /  [r/raspberry_pi](https://www.reddit.com/r/raspberry_pi/)
 
 {::nomarkdown}
 <link rel="shortcut icon" href="https://www.raspberrypi.org/app/themes/mind-control/images/favicon.png" type="image/png" />
@@ -11,7 +12,7 @@ tags: raspberry-pi arm-hardware
 
 [![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Raspberry_Pi_-_Model_A.jpg/330px-Raspberry_Pi_-_Model_A.jpg)](https://en.wikipedia.org/wiki/Raspberry_Pi)
 
-### [Fleet](https://howchoo.com/pi/raspberry-pi-models/)
+# [Fleet](https://howchoo.com/pi/raspberry-pi-models/)
 [Checking Model version](https://www.raspberrypi-spy.co.uk/2012/09/checking-your-raspberry-pi-board-version/) `cat /proc/device-tree/model` 
 or `pinout` in new raspbian version
 - **[BananaPi M2 Zero](https://wiki.banana-pi.org/Banana_Pi_BPI-M2_ZERO)** ([The100]()) - arm A7 - 0.5Go - (2024)
@@ -22,12 +23,12 @@ or `pinout` in new raspbian version
 and also
 - [CubieTruck (Cubieboard3)]({% post_url 2023-06-19-arm-cubietruck %}) - 2Go - (2013)
 
-### GPIO
+# GPIO
 
 ![caption](https://www.raspberrypi-spy.co.uk/wp-content/uploads/2012/06/raspberry_pi_3_model_b_plus_gpio.jpg)
 
-## USB
-### [Finding Serial ports](https://www.klipper3d.org/FAQ.html#wheres-my-serial-port)
+# USB
+## [Finding Serial ports](https://www.klipper3d.org/FAQ.html#wheres-my-serial-port)
 - `ls /dev/serial/by-id/*` -> **this is stable**
 - `lsusb` -> USB-Serial adapter
 - `dmesg | grep -i serial` -> 3f201000.serial: ttyAMA0
@@ -38,18 +39,18 @@ and also
 **WARNING** - [/dev/serial/by-id missing](https://www.reddit.com/r/debian/comments/1331wlr/comment/jihlmvs/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 	- edit `/usr/lib/udev/rules.d/60-serial.rules`
 
-### [turn off USB ports power](https://forums.raspberrypi.com/viewtopic.php?p=813383#p813383)
+## [turn off USB ports power](https://forums.raspberrypi.com/viewtopic.php?p=813383#p813383)
 
 `hub-ctrl.c/hub-ctrl -h 0 -P 2 -p 0 ` turn off the power to the all the usb ports
 
-### [Temperature Monitoring](https://www.raspberrypi-spy.co.uk/2020/11/raspberry-pi-temperature-monitoring/) - `vcgencmd measure_temp`
+# [Temperature Monitoring](https://www.raspberrypi-spy.co.uk/2020/11/raspberry-pi-temperature-monitoring/) - `vcgencmd measure_temp`
 
-### [Wifi]({% post_url 2021-04-18-wifi %})
+# [Wifi]({% post_url 2021-04-18-wifi %})
 - [Disable WiFi (wlan0) on Pi](https://raspberrypi.stackexchange.com/questions/43720/disable-wifi-wlan0-on-pi-3)
 
-### [Boot](({% post_url 2020-09-20-uast-drive %}))
+# [Boot](({% post_url 2020-09-20-uast-drive %}))
 
-## [r/raspberry_pi](https://www.reddit.com/r/raspberry_pi/)
+# see also
 - [Act as a usb device for another computer.](https://www.reddit.com/r/raspberry_pi/comments/jir0u8/i_just_realized_the_raspberry_pi_4_can_do/)
 - [How to Install Vulkan on Raspberry Pi](https://www.reddit.com/r/raspberry_pi/comments/ji9a47/how_to_install_vulkan_on_raspberry_pi/)
 - [automated ioquake3 compiler script for raspbian](https://www.reddit.com/r/raspberry_pi/comments/ji20ns/automated_ioquake3_compiler_script_for_raspbian/)

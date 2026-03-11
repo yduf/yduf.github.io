@@ -1,1 +1,3 @@
-Reduce tags page size (around 3.5m now)
+- Reduce tags page size (around 3.5m now)
+- Rework inline style and css
+  - make style for encart for simpler insert
