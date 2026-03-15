@@ -1,5 +1,5 @@
 ---
-title: 16bits vector shift ? (AVX)
+title: AVX 16bits vector shift?
 published: true
 tags: 16bits bits shift c++ avx
 ---
