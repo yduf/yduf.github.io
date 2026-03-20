@@ -54,14 +54,7 @@ In FreeCAD, normally, we don't need to interact directly with the Open Inventor 
 # [Building Freecad](https://wiki.freecad.org/Compile_on_Linux)
 
 
-<div style="
-  border-left: 4px solid #3498db; /* blue */
-  background: #eef7ff;
-            
-  padding: 1rem;
-  margin: 1rem 0;
-  border-radius: 6px;
-"  markdown="1" >
+<div class="encart blue" markdown="1">
 
 [FreeCAD Developers Handbook](https://freecad.github.io/DevelopersHandbook/gettingstarted/)
 

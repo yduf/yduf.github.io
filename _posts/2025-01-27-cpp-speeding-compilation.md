@@ -83,15 +83,7 @@ Workers need to know where the scheduler is. On LAN, workers can broadcast to fi
 You may need to disable Firewall for first test to make this happens (and then set appropriate rules latter on).
 
 ## Setup
-<div style="
-            
-  border-left: 5px solid #fb8c00; /* orange */
-  background: #fff3e0;
-            
-  padding: 1rem;
-  margin: 1rem 0;
-  border-radius: 6px;
-"  markdown="1" >
+<div class="encart orange" markdown="1">
 
 We recommend that you use packages maintained by your distribution if possible. Your distribution should provide customized startup scripts that make icecream fit better into the way your system is configured.
 </div>
@@ -116,14 +108,7 @@ $ sudo systemctl status icecc-scheduler
 
 ## Config
 
-<div style="
-  border-left: 4px solid #3498db; /* blue */
-  background: #eef7ff;
-            
-  padding: 1rem;
-  margin: 1rem 0;
-  border-radius: 6px;
-"  markdown="1" >
+<div class="encart blue" markdown="1">
 
 #### [Using icecream in heterogeneous environments](https://github.com/icecc/icecream?tab=readme-ov-file#using-icecream-in-heterogeneous-environments)
 

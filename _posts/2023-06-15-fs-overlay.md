@@ -8,15 +8,7 @@ toc: true
 
 ## OverlayFS - kernel
 
-<div style="
-            
-  border-left: 5px solid #fb8c00; /* orange */
-  background: #fff3e0;
-            
-  padding: 1rem;
-  margin: 1rem 0;
-  border-radius: 6px;
-"  markdown="1" >
+<div class="encart orange" markdown="1">
 
 ⚠️ Writes must go to a local filesystem
 

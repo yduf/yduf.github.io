@@ -74,15 +74,7 @@ $ __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia glxinfo | grep re
 see [Permissions](#permissions) for resolution
 
 # Linux Setup
-<div style="
-            
-  border-left: 5px solid #fb8c00; /* orange */
-  background: #fff3e0;
-            
-  padding: 1rem;
-  margin: 1rem 0;
-  border-radius: 6px;
-"  markdown="1" >
+<div class="encart orange" markdown="1">
 
 The NVIDIA RTX 5070 is part of the 5000-series, which **requires the Open Kernel Modules and requires driver 580 or newer**. - [Working 580-open Driver Guide](https://github.com/adamn1225/FIXED-NVIDIA-RTX-5070-on-Ubuntu-24.04---Working-580-open-Driver-Guide?tab=readme-ov-file#fixed-nvidia-rtx-5070-on-ubuntu-2404--2410--working-580-open-driver-guide)
 
@@ -95,14 +87,7 @@ The NVIDIA RTX 5070 is part of the 5000-series, which **requires the Open Kernel
     - 590.48.01 (recommended) - smi work the same
     	- CUDA Verson: 13.1
     
-<div style="
-  border-left: 4px solid #3498db; /* blue */
-  background: #eef7ff;
-            
-  padding: 1rem;
-  margin: 1rem 0;
-  border-radius: 6px;
-"  markdown="1" >
+<div class="encart blue" markdown="1">
 
 Removing previous driver:  
 {% highlight bash %}
@@ -115,15 +100,7 @@ $ sudo reboot
 
 ## Permissions
 
-<div style="
-            
-  border-left: 5px solid #fb8c00; /* orange */
-  background: #fff3e0;
-            
-  padding: 1rem;
-  margin: 1rem 0;
-  border-radius: 6px;
-"  markdown="1" >
+<div class="encart orange" markdown="1">
   
 On a standard Linux system with proprietary NVIDIA drivers:
 - nvidia-smi should work as a regular user
@@ -152,14 +129,7 @@ It is certainly linked to my [xpra install]({% post_url 2025-05-08-share-power-x
 
 ## CUDA
 
-<div style="
-  border-left: 4px solid #3498db; /* blue */
-  background: #eef7ff;
-            
-  padding: 1rem;
-  margin: 1rem 0;
-  border-radius: 6px;
-"  markdown="1" >
+<div class="encart blue" markdown="1">
 
 CUDA works as long as nvidia-smi sees the GPU and the driver is installed. OpenGL or graphics output isn’t required for CUDA compute tasks.
   

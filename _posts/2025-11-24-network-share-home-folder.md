@@ -71,14 +71,7 @@ Which file needs to be syncrhonized anyway?
 
 ## [Folder](https://chatgpt.com/share/697f5191-68d4-800d-b91f-9b743bab101c)
 
-<div style="
-  border-left: 5px solid #43a047;  /* green */
-  background: #e8f5e9;
-            
-  padding: 1rem;
-  margin: 1rem 0;
-  border-radius: 6px;
-"  markdown="1" >
+<div class="encart green" markdown="1">
 
 
 Any `~/folder` can be covered by [autofs]({% post_url 2019-05-10-nfs %}).
@@ -112,14 +105,7 @@ $ ls ~/Videos
 
 ### Non working Example   
 
-<div style="
-  border-left: 5px solid #e53935; /* red */
-  background: #ffebee;
-            
-  padding: 1rem;
-  margin: 1rem 0;
-  border-radius: 6px;
-"  markdown="1" >
+<div class="encart red" markdown="1">
 
 This setup will prevent tools like kitty ssh to work, because nothing can be written on ~/ directly, only mounted folder (~/Documents,~/Videos) are accessible.
 

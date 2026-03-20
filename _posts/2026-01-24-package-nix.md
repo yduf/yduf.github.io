@@ -65,15 +65,7 @@ $ sudo systemctl stop nix-daemon
 
 ## `/nix`
 
-<div style="            
-  border-left: 5px solid #fb8c00; /* orange */
-  background: #fff3e0;
-
-            
-  padding: 1rem;
-  margin: 1rem 0;
-  border-radius: 6px;
-"  markdown="1" >
+<div class="encart orange" markdown="1">
 Move /nix via a mount, never via a symlink  
 (it can be a bind mount to redirect toward an other filesytem folder)
 </div>
@@ -97,14 +89,7 @@ The modern, recommended way:
 
 ## Using profile
 
-<div style="
-  border-left: 5px solid #fb8c00; /* orange */
-  background: #fff3e0;
-            
-  padding: 1rem;
-  margin: 1rem 0;
-  border-radius: 6px;
-"  markdown="1" >
+<div class="encart orange" markdown="1">
 profile need to be enabled
   
 {% highlight bash %}

@@ -19,14 +19,7 @@ Flakes are now the standard way to use Nix.
 
 # [Using Flakes (Recommended)](https://chatgpt.com/share/6974dc8b-4770-800d-b838-05e4323d7085)
 
-<div style="
-  border-left: 5px solid #fb8c00; /* orange */
-  background: #fff3e0;
-            
-  padding: 1rem;
-  margin: 1rem 0;
-  border-radius: 6px;
-"  markdown="1" >
+<div class="encart orange" markdown="1">
 Flakes need to be enabled
   
 {% highlight bash %}

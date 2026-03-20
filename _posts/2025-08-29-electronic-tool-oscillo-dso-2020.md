@@ -6,14 +6,7 @@ toc: true
 ---
 > How to ACTUALLY Use an Oscilloscope (Beginner-Friendly Guide!) - [youtube](https://www.youtube.com/watch?v=LaY47Qrfs0c)
 
-<div style="            
-  border-left: 5px solid #e53935; /* red */
-  background: #ffebee;
-
-  padding: 1rem;
-  margin: 1rem 0;
-  border-radius: 6px;
-"  markdown="1" >
+<div class="encart red" markdown="1">
 
 [How to ACTUALLY Use an Oscilloscope (Beginner-Friendly Guide!](https://www.youtube.com/watch?v=LaY47Qrfs0c)
 - [**Oscilloscope Safety Tips (Grounding, short circuits, AC danger)**](https://www.youtube.com/watch?v=LaY47Qrfs0c&t=579s)

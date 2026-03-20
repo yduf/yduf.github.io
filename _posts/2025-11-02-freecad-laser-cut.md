@@ -10,13 +10,7 @@ toc: true
 
 # [Materials 🔗](https://iooner.io/decoupe-laser-les-materiaux/)
 
-<div style="            
-  border-left: 5px solid #e53935; /* red */
-  background: #ffebee;
-  padding: 1rem;
-  margin: 1rem 0;
-  border-radius: 6px;
-"  markdown="1" >
+<div class="encart red" markdown="1">
 **C’est non !**
 </div>
 
@@ -28,13 +22,7 @@ toc: true
 - Polycarbonate, PC, Lexan, Polystyrène mousse expansé/extrudé : fond et à tendance à prendre feu
 
 
-<div style="            
-  border-left: 5px solid #fb8c00; /* orange */
-  background: #fff3e0;
-  padding: 1rem;
-  margin: 1rem 0;
-  border-radius: 6px;
-"  markdown="1" >
+<div class="encart orange" markdown="1">
 Bof… Oui, mais…
 </div>
 
@@ -46,13 +34,7 @@ Bof… Oui, mais…
 - ABS : je n’ai pas trouvé de source correcte. Certains disent oui d’autres non. Avec précaution donc…
 - HDPE : demande de pousser pas mal la puissance de la machine pour un résultat très moyen et fondu sur les coupes
 
-<div style="            
-  border-left: 5px solid #43a047;  /* green */
-  background: #e8f5e9;
-  padding: 1rem;
-  margin: 1rem 0;
-  border-radius: 6px;
-"  markdown="1" >
+<div class="encart green" markdown="1">
 Oui !
 </div>
 
