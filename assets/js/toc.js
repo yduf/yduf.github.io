@@ -37,42 +37,89 @@ document.addEventListener("DOMContentLoaded", function () {
   titleBar.appendChild(checkbox);
   toc.appendChild(titleBar);
 
-  // Create list container
-  const list = document.createElement("ul");
-  list.id = "toc-list";
-  list.style.listStyle = "none";
-  list.style.padding = "0";
-  list.style.margin = "0";
+  // Function to build nested TOC
+  function buildTOC(headings, startIndex, level) {
+    const ul = document.createElement("ul");
+    ul.style.listStyle = "none";
+    ul.style.padding = "0";
+    ul.style.margin = "0";
 
-  headings.forEach((heading, index) => {
-    // Ensure each heading has an ID
-    if (!heading.id) {
-      heading.id = `heading-${index}`;
+    let i = startIndex;
+    while (i < headings.length) {
+      const heading = headings[i];
+      const currentLevel = parseInt(heading.tagName[1]);
+      if (currentLevel < level) break;
+
+      // Ensure each heading has an ID
+      if (!heading.id) {
+        heading.id = `heading-${i}`;
+      }
+
+      const li = document.createElement("li");
+      li.style.marginBottom = "0.4rem";
+      li.style.marginLeft = level > 1 ? `${(level-1)*1}rem` : "0";
+
+      const a = document.createElement("a");
+      a.href = `#${heading.id}`;
+      a.textContent = heading.textContent;
+      a.style.textDecoration = "none";
+      a.style.color = "#007BFF";
+      a.style.fontSize = "0.9rem";
+
+      // this is not mandatory
+      // it only provide smooth scrolling
+      // a.addEventListener("click", function (e) {
+      //   e.preventDefault();
+      //   document.getElementById(heading.id).scrollIntoView({ behavior: "smooth" });
+      //   history.pushState(null, "", `#${heading.id}`);
+      // });
+
+      li.appendChild(a);
+
+      // Check if next heading is a child
+      const nextIndex = i + 1;
+      if (nextIndex < headings.length && parseInt(headings[nextIndex].tagName[1]) > currentLevel) {
+        // Has children, add toggle
+        const toggle = document.createElement("span");
+        toggle.textContent = "▼";
+        toggle.style.cursor = "pointer";
+        toggle.style.float = "right";
+        toggle.style.marginLeft = "0.5rem";
+        toggle.style.fontSize = "0.8rem";
+        li.appendChild(toggle);
+
+        // Create sub ul
+        const subUl = buildTOC(headings, nextIndex, currentLevel + 1);
+        subUl.style.display = "block"; // Initially visible
+        li.appendChild(subUl);
+
+        // Toggle event
+        toggle.addEventListener("click", function() {
+          if (subUl.style.display === "none") {
+            subUl.style.display = "block";
+            toggle.textContent = "▼";
+          } else {
+            subUl.style.display = "none";
+            toggle.textContent = "▶";
+          }
+        });
+
+        // Skip the children
+        i = nextIndex;
+        while (i < headings.length && parseInt(headings[i].tagName[1]) > currentLevel) {
+          i++;
+        }
+      } else {
+        i++;
+      }
+
+      ul.appendChild(li);
     }
+    return ul;
+  }
 
-    const li = document.createElement("li");
-    li.style.marginBottom = "0.4rem";
-    li.style.marginLeft = heading.tagName === "H2" ? "1rem" : heading.tagName === "H3" ? "2rem" : "0";
-
-    const a = document.createElement("a");
-    a.href = `#${heading.id}`;
-    a.textContent = heading.textContent;
-    a.style.textDecoration = "none";
-    a.style.color = "#007BFF";
-    a.style.fontSize = "0.9rem";
-
-    // this is not mandatory
-    // it only provide smooth scrolling
-    // a.addEventListener("click", function (e) {
-    //   e.preventDefault();
-    //   document.getElementById(heading.id).scrollIntoView({ behavior: "smooth" });
-    //   history.pushState(null, "", `#${heading.id}`);
-    // });
-
-    li.appendChild(a);
-    list.appendChild(li);
-  });
-
+  // Create TOC list
+  const list = buildTOC(Array.from(headings), 0, 1);
   toc.appendChild(list);
   document.body.appendChild(toc);
 
