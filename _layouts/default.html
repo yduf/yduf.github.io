@@ -176,6 +176,50 @@
       body:has(#dark-mode-toggle:checked) .encart.blue {
           border-left-color: #3498db;
       }
+
+      body:has(#dark-mode-toggle:checked) .date {
+          color: #aaa;
+      }
+
+      body:has(#dark-mode-toggle:checked) ::-moz-selection {
+          color: #e0e0e0;
+          background: #555;
+      }
+
+      body:has(#dark-mode-toggle:checked) ::selection {
+          color: #e0e0e0;
+          background: #555;
+      }
+
+      /* TOC styles */
+      #toc {
+          background: #fff;
+          border: 1px solid #ddd;
+          box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      }
+
+      #toc-title label {
+          color: #000;
+      }
+
+      #toc a {
+          color: #007BFF;
+      }
+
+      /* Dark mode styles for TOC */
+      body:has(#dark-mode-toggle:checked) #toc {
+          background: #2a2a2a;
+          border-color: #444;
+          box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+      }
+
+      body:has(#dark-mode-toggle:checked) #toc-title label {
+          color: #e0e0e0;
+      }
+
+      body:has(#dark-mode-toggle:checked) #toc a {
+          color: #6bb3ff;
+      }
   </style>
   </head>
 

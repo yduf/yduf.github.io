@@ -12,10 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
   toc.style.maxHeight = "80vh";
   toc.style.overflowY = "auto";
   toc.style.width = "250px";
-  toc.style.background = "#fff";
-  toc.style.border = "1px solid #ddd";
   toc.style.padding = "1rem";
-  toc.style.boxShadow = "0 4px 12px rgba(0,0,0,0.1)";
   toc.style.fontFamily = "Arial, sans-serif";
   toc.style.zIndex = "1000";
   toc.style.borderRadius = "8px";
@@ -63,7 +60,6 @@ document.addEventListener("DOMContentLoaded", function () {
       a.href = `#${heading.id}`;
       a.textContent = heading.textContent;
       a.style.textDecoration = "none";
-      a.style.color = "#007BFF";
       a.style.fontSize = "0.9rem";
 
       // this is not mandatory
