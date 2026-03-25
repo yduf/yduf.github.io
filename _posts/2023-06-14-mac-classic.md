@@ -277,7 +277,6 @@ Options are:
 - could be used to offload computation / memory hog
 	- [x] [Xpra]({% post_url 2025-05-08-share-power-xpra %}) - to remote connect to application
 	- [x] [Share home]({% post_url 2019-05-10-nfs %}#sharing-home-folder-) - for seamless data access and navigation
-    - [x] [remote vscode]({% post_url 2019-04-29-vscode-server %})  - for cli access
 
 # 3d Printed Alternatives
 

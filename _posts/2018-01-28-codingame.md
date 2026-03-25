@@ -1,20 +1,69 @@
 ---
 title: '# Codingame'
 published: true
-tags: codingame AI puzzle
+tags: codingame AI puzzle c++
 toc: true
+excerpt_separator: ""
 ---
-see also
+[![banner](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.i-programmer.info%2Fimages%2Fstories%2FNews%2F2016%2FApril%2FB%2Fsmashcodebanner.jpg&f=1&nofb=1&ipt=ebe0c26fe83ace25dfab3072e748ddd267d433dae2e73b8461babf8b1dd8bd2b)](https://duckduckgo.com/?q=codingame+banner+&iar=images&t=lm&iai=https%3A%2F%2Fwww.i-programmer.info%2Fimages%2Fstories%2FNews%2F2016%2FApril%2FB%2Fsmashcodebanner.jpg)
+
+# Learnings
+
+| Algorithm   | Description |
+|------------|------------|
+| [MCTS (Monte Carlo Tree Search)]({% post_url 2018-05-20-montecarlo-mcts-tree-search %}) | Designed for turn-based games. It builds a search tree using random simulations (playouts) to evaluate moves, balancing exploration and exploitation to find strong decisions over time. |
+| [Smitsimax]({% post_url 2018-12-14-mcts-smitsimax %})  | An adaptation of MCTS for simultaneous-move games. Instead of assuming alternating turns, it accounts for both players acting at the same time, often modeling uncertainty about the opponent’s choice. |
+| [Beam Search]({% post_url 2020-05-21-beam-search %}) | A heuristic search algorithm that explores a limited set (beam width) of the most promising nodes at each depth. It focuses on deep exploration of likely good paths, with less emphasis on modeling or anticipating opponent strategies. |
+
+**see also**
 - [	Games of Coding ](https://github.com/michelpereira/awesome-games-of-coding) / [HN](https://news.ycombinator.com/item?id=13566247) – A curated list of games that teach you a programming language 
-- [C++ flags & HW Limits]({% post_url 2017-12-18-cpp-flag-codingame %})
+
+# HW Limits
+> Your program is compiled and run in a Linux environment on a _64bit_ multi-core architecture. - [Environment/lang](https://www.codingame.com/faq)
+
+- 1 cpu
+- Memory limits is 768MB - [forum](https://forum.codingame.com/t/killed-on-c-memory-reservations/140640/77)
+- source code is 100k characters
+
+# [C++ flags ⮺](https://forum.codingame.com/t/languages-update/1574/264)  (2024-09-25)
+
+<div class="encart orange" markdown="1">
+<span style="color:red">**SIGSEGV will often been seen as Timeout by the Codingame engine (without any clue given).**</span>  
+see [Stacktrace]({% post_url 2022-12-08-cpp-stacktrace %}) - for a quick Signal handler that could help diagnosing this situation.
+</div>
+
+[**compiler**](https://www.codingame.com/playgrounds/40701/help-center/languages-versions): g++ 11.2.0 mode C++20  
+**flags**: -std=gnu++17 -Werror=return-type -g -pthread  
+**libraries**: -lm -lpthread -ldl -lcrypt  
+
+[**Optimization trick**](https://www.codingame.com/forum/t/c-and-the-o3-compilation-flag/1670/15)
+
+<details markdown="1"><summary>#pragma GCC</summary>
+{% highlight cpp %}
+// trigger optimisation from source file
+#pragma GCC optimize("O3")
+#pragma GCC optimize("inline")
+#pragma GCC optimize("omit-frame-pointer")
+#pragma GCC optimize("unroll-loops") //Optimization flags
+
+#pragma GCC optimize("Ofast")
+
+#pragma GCC option("arch=native","tune=native","no-zero-upper") //Enable AVX
+#pragma GCC target("avx")  //Enable AVX
+#pragma GCC target "bmi2"
+#include <x86intrin.h> //AVX/SSE Extensions
+{% endhighlight %}
+</details>
+
+# Ruby 3.1.2  (2024-09-25)
 
 
-## Arena
+# Arena
 
 - [psyleague](https://github.com/FakePsyho/psyleague?tab=readme-ov-file#main-features) - cmd-line league system for bot contests.
 	- recommended by smits
 
-### Referee
+## Referee
 
 For Legacy games:
 - [codinGame](https://github.com/SpiritusSancti5/codinGame/tree/master/Referees) - These are the actual codingame referees, written by CG staff.
@@ -24,14 +73,14 @@ For Legacy games:
 - [Agade Arena](https://github.com/Agade09/CSB-Runner-Arena)
 - [loicmarie](https://github.com/loicmarie/cg-csb-referee-cpp) - Referee for the CodinGame contest Coders Strike Back, written in CPP
 
-### External
+# External Playground
 - [Cg-brutaltester](https://www.codingame.com/forum/t/cg-brutaltester-because-you-love-to-be-brutal/2716) / [github](https://github.com/dreignier/cg-brutaltester)
 	- [latest adatper](https://github.com/Akarachudra/brutaltester-spring-challenge-2020/commit/762330b5f559fca3aca0e03998e4b8a3ea7e7edb)
     - older  / [Github](https://github.com/dreignier/cgstats)
     
 - [The Game Runner](https://www.codingame.com/playgrounds/25775/codingame-sdk-documentation/game-runner) - The Game Runner lets you run your game locally during developement. It comes with a handy HTML package to watch each game's replay. The parameters you set to the Game Runner will not affect the final contribution.
 
-### using Codingame playground
+# Using Codingame playground
 - [CG Benchmark](https://github.com/s-vivien/CGBenchmark#cg-benchmark) - A benchmark tool for CodinGame:
     - don't need to have your browser open
     - you can queue several codes to run big fat batches of games and compare results easily.
@@ -56,21 +105,24 @@ For Legacy games:
 ## Chrome Extension
 - [sync](https://www.codingame.com/forum/t/codingame-sync-beta/614/58)
 
-## [Merger Tools](https://github.com/yduf/CG-rubyprep?tab=readme-ov-file#c-include-files-packer)
+## [Merger Tools ⮺](https://github.com/yduf/CG-rubyprep?tab=readme-ov-file#c-include-files-packer)
 
-My [own](https://github.com/yduf/CG-rubyprep?tab=readme-ov-file#c-include-files-packer).
+<div class="encart blue" markdown="1">
+Use [my own](https://github.com/yduf/CG-rubyprep?tab=readme-ov-file#c-include-files-packer).
+</div>
+
 
 - [Merge C++ files into a single source file](https://stackoverflow.com/questions/5995773/merge-c-files-into-a-single-source-file/46373134#46373134)
 
-## Cheating
+# Cheating
 - [CG-Send-Binary](https://github.com/Agade09/CG-Send-Binary?tab=readme-ov-file#cg-send-binary) -  Flagged as a cheat during contests since Wondev Woman
 
 
-## Technical details
+# Technical details
 - [Magus](https://forum.codingame.com/t/public-api-for-statistics-or-other-useful-things/1247/6)
 - [API](https://www.codingame.com/forum/t/api-the-place-to-ask-for-improvements-in-cg-api/2514)
 
-# [CodinGame SDK](https://www.codingame.com/playgrounds/25775/codingame-sdk-documentation/introduction)
+# [CodinGame SDK ⮺](https://www.codingame.com/playgrounds/25775/codingame-sdk-documentation/introduction)
 The CodinGame SDK is a Java project that allows you to write programming games for CodinGame.
 
 # Maybe old

@@ -102,7 +102,6 @@ toc: true
 ### Remote Access
 - [**Cockpit**](http://192.168.0.125:9090)
 - ssh
-- [VSCode server]({% post_url 2019-04-29-vscode-server %})
 
 ## Shared Folder
 

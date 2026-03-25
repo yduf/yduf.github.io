@@ -1,7 +1,8 @@
 ---
 published: true
-title: Debug & Build C++ Project (VSCode) 🐛
+title: C++ Project - Debug & Build (VSCode) 🐛
 tags: debug-c++ vscode gdb c++ build-system
+toc: truetm
 ---
 > How to set up C++ Compiler with Visual Studio Code. - [Setup Visual Studio Code for Multi-File C++ Projects](https://dev.to/talhabalaj/setup-visual-studio-code-for-multi-file-c-projects-1jpi)
 
@@ -11,11 +12,31 @@ see also
 - [C++ in VS Code: A Quick Guide](https://www.youtube.com/watch?v=qeEcV6u1kV4&t=24s)
 - [Godot Docs](https://docs.godotengine.org/en/latest/contributing/development/configuring_an_ide/visual_studio_code.html)
 
+# Toolings
+## [_clangd_](https://open-vsx.org/extension/llvm-vs-code-extensions/vscode-clangd)
+This is an opensource alternatives to microscoft extension which are not supported by VSCodium or Code-server.
+Provides C/C++ language IDE features for VS Code
+- code completion
+- compile errors and warnings
+- go-to-definition and cross references
+- include management
+- code formatting
+- simple refactorings
+
+cf [setup clangd](https://chatgpt.com/share/69c138a9-c084-800d-9125-13fcc2ba88ac)
+
+- [C++ TestMate]({% post_url 2021-06-25-cpp-test-vscode %}) - run unit Test inside VSCode
+- [Disassembly Explorer]({% post_url 2017-12-18-compiler-explorer %}) - an alternative to [Compiler explorer]({% post_url 2017-12-18-compiler-explorer %})
+
+## C/C++ Extension Pack
+This is the microsoft extension that work only with VSCode.
+It is also quite ressources hungry.
+
 ### Notes
 In  `~/.cache/vscode-cpptools` you will find that [VSCode store](https://github.com/microsoft/vscode-cpptools/issues/12066) a huge amount of file info, that you can safely clean to regain some disk spaces.
 
 
-### Quick start
+# Quick start
 Install [Code runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) extension.
 
 Customize it inside your project to have includes path, eg:
@@ -63,7 +84,7 @@ To debug this single files, use the [C/C++](https://marketplace.visualstudio.com
 {% endhighlight %}
 
 
-### [Build task](https://code.visualstudio.com/Docs/editor/tasks) - `ctrl+shift+b`
+## [Build task](https://code.visualstudio.com/Docs/editor/tasks) - `ctrl+shift+b`
 
 VSCode's build in keyboard shortcut to task by making it of type `build`. The easiest way to set up tasks is to press `ctrl+shift+b`.
 
@@ -89,7 +110,7 @@ In fiel `.vscode/tasks.json`
 }
 {% endhighlight %}
 
-### [Debug Task](https://code.visualstudio.com/docs/editor/debugging) / [LLDB]({% post_url 2022-09-26-debug-vscode-lldb %}) / [GDB]({% post_url 2023-02-03-debug-gdb %})
+## [Debug Task](https://code.visualstudio.com/docs/editor/debugging) / [LLDB]({% post_url 2022-09-26-debug-vscode-lldb %}) / [GDB]({% post_url 2023-02-03-debug-gdb %})
 `Ctrl+F5` => Run / `F5` => Debug
 
 `launch.json`
@@ -98,5 +119,5 @@ In fiel `.vscode/tasks.json`
 {% endhighlight %}
 
 
-### [C/C++ configurations](https://code.visualstudio.com/docs/cpp/config-msvc#_cc-configurations)
+## [C/C++ configurations](https://code.visualstudio.com/docs/cpp/config-msvc#_cc-configurations)
 - [c_cpp_properties.json reference](https://code.visualstudio.com/docs/cpp/c-cpp-properties-schema-reference)
