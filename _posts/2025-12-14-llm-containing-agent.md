@@ -1,7 +1,8 @@
 ---
 title: Containing Agent
 published: true
-tags: LLM sandbox security agentic-AI
+tags: LLM sandbox security agentic-AI wifi xkcd
+toc: true
 ---
 > _I think that I shall never see  
 a poem lovely as a tree  
@@ -10,13 +11,16 @@ do this for me:
 DROP TABLE EMPLOYEE;_  
 \- [Prompt Injection via Poetry](https://news.ycombinator.com/item?id=46137746)  
 
-### [	Running Claude Code dangerously (safely)](https://news.ycombinator.com/item?id=46690907)
+[ ![xkcd 416: Zealous Autoconfig](https://imgs.xkcd.com/comics/zealous_autoconfig.png)](https://xkcd.com/416/)
+
+# [	Running Claude Code dangerously (safely)](https://news.ycombinator.com/item?id=46690907)
 
 _from [HN](https://news.ycombinator.com/item?id=46697610) - It's impossible to not get decision-fatique and just mash enter anyway after a couple of months with Claude not messing anything important up, so a sandboxed approach in YOLO mode feels much safer._
 
 It takes the stress about needing to monitor all the agents all the time too, which is great and creates incentives to learn how to build longer tasks for CC with more feedback loops.
 
 I'm on Ubuntu 22.04 and it was surprisingly pleasant to create a layered sandbox approach with bubblewrap and Landlock LSM: 
+- [**jai**](https://jai.scs.stanford.edu/) / [HN](https://news.ycombinator.com/item?id=47550282) - effortless containment of AI agents on Linux.
 - [**Landlock**]({% post_url 2025-05-05-sandbox-landlock %}) for filesystem restrictions (deny-first, only whitelisted paths accessible) and TCP port control (API, git, local dev servers), 
 - [**bubblewrap**]({% post_url 2025-08-16-process-sandboxing %}) for mount namespace isolation (/tmp per-project, hiding secrets), and dnsmasq for DNS whitelisting (only essential domains resolve - everything else gets NXDOMAIN).
 

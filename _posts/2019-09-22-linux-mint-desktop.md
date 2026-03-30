@@ -14,6 +14,8 @@ toc: true
 	- linux mint 21   (vanessa)  <-> ubuntu Jammy 22.04 LTS
 - [Wayland](https://blog.linuxmint.com/) - wayland is coming
 
+- [ Bill Gates Responds to Users DITCHING Windows for Linux Mint ](https://www.youtube.com/watch?v=hzXWv6m-MYQ)
+
 ![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.debugpoint.com%2Fwp-content%2Fuploads%2F2019%2F08%2FLinux-Mint-19.2-Cinnamon-Desktop.png&f=1&nofb=1&ipt=9fdd213c785d245226f9030ff499a2615feb7de3b24dd87a59836bcbd19677e1&ipo=images)
 
 ### Linux Mint 21

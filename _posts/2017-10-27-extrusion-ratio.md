@@ -7,6 +7,9 @@ tags: 3dprint calibration cura
 > - tuning your extruder steps/mm value - this mechanical part can use recommanded value  
 > - tuning your extrusion multiplier - this is specific to each filament  
 
+**see also**
+- [ Filament Calibration Masterclass – 95% do it wrong! ](https://www.youtube.com/watch?v=gVU5If1VsAM)
+
 ### [Tuning your extruder steps/mm value ](https://www.youtube.com/watch?v=W901s6zTwiw)
 
 When the g_code require a certain amount of filament, this allow to get the right length of filament.
