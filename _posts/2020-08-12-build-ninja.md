@@ -10,7 +10,7 @@ see also
 - [The Success and Failure of Ninja](https://neugierig.org/software/blog/2020/05/ninja.html) / [HN](https://news.ycombinator.com/item?id=42268310) - review ninja core design choice
 - [Samourai](https://github.com/michaelforney/samurai?tab=readme-ov-file#samurai) - an alternative to ninja
 
-# [Ninja ⮺](https://github.com/ninja-build/ninja)
+# [Ninja ⮺](https://github.com/ninja-build/ninja?tab=readme-ov-file#ninja)
 Some explicit non-goals:
 - convenient syntax for writing build files by hand. You should generate your ninja files using another program. This is how we can sidestep many policy decisions.
 - built-in rules. Out of the box, Ninja has no rules for e.g. compiling C code.

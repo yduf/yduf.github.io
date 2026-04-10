@@ -8,7 +8,7 @@ toc: true
 
 <link rel="shortcut icon" href="https://nix.dev/_static/favicon.png" type="image/x-icon" />
 
-# [Pick your pills _--daemon/--no-daemon_ ](https://chatgpt.com/share/6974a2a5-5b6c-800d-8fe3-f1fb83ed44a8)
+# [Pick your pills _--daemon/--no-daemon_  ⮺](https://chatgpt.com/share/6974a2a5-5b6c-800d-8fe3-f1fb83ed44a8)
 
 Whatever the choice
 - The installer require to create [`/nix` at root](https://chatgpt.com/share/6974a5e4-f018-800d-90e0-624f401b835a) by a **privileged user**
@@ -76,7 +76,7 @@ So it may be wise to locate it on its own partition (not on `/`)
 The [recommended way](https://chatgpt.com/share/69935fac-4e0c-800d-aa68-27de3abe706a) to do that is to dedicate a partion a use a bind mount
 
 
-# [Package Install](https://chatgpt.com/share/6974d688-4890-800d-b862-c5c8c0c596d7)
+# [Package Install ⮺](https://chatgpt.com/share/6974d688-4890-800d-b862-c5c8c0c596d7)
 
 Taking zig as an example
 
@@ -118,7 +118,7 @@ $ nix profile upgrade '.*'
 $ nix search nixpkgs firefox
 {% endhighlight %}
 
-## [Using Flakes (Recommended)](https://chatgpt.com/share/6974dc8b-4770-800d-b838-05e4323d7085)
+## [Using Flakes (Recommended)  ⮺](https://chatgpt.com/share/6974dc8b-4770-800d-b838-05e4323d7085)
 
 Flakes are now the standard way to use Nix.
 
@@ -126,7 +126,12 @@ see [Nix Flakes]({% post_url 2021-02-05-build-system-nix %})
 
 ## Using nix-shell
 
-**temporary environment**
+This can be used as alternative to nix [Flakes](#using-flakes-recommended), even when flakes are the recommended options:
+- In a similary way to flakes, complex setup can be put into [`shell.nix`](https://github.com/yduf/CUDA-Marker/blob/master/shell.nix) files and
+invoked with `$ nix-shell` commands. 
+- Contrary to flakes it avoid copying and hashing the folder, which may be a burden for massive repos.
+
+It also can be used to create **temporary environment** in one command line.
 
 This is useful if you just want to try Zig without permanently installing it
 - This will drop you into a shell where zig is available.
@@ -139,7 +144,6 @@ $ nix-shell -p zig
 # or just run the tools 
 $ nix run nixpkgs#zig
 {% endhighlight %}
-
 
 
 ## Using home-manager (optional)
@@ -157,9 +161,14 @@ This will stick with your user account.
 $ nix-env -iA nixpkgs.zig
 {% endhighlight %}
 
-## [Nix and sudo?](https://chatgpt.com/share/697f8013-6144-800d-8562-e2804fcc47d5)
+## [Nix and sudo? ⮺](https://chatgpt.com/share/697f8013-6144-800d-8562-e2804fcc47d5)
 
 Nix packages don’t mix with sudo the way system package managers do, and that’s usually by design.
 
 Nix installs packages into user profiles (~/.nix-profile).
 sudo resets PATH for security, so it doesn’t see user-installed Nix binaries.
+
+# [direnv  ⮺](https://chatgpt.com/share/69d376f2-a164-8385-a38e-7ce10cb40b6a)
+
+**direnv in Nix** is a workflow tool that automatically loads and unloads development environments when you enter or leave a directory—commonly used together with Nix to manage reproducible dev setups.
+

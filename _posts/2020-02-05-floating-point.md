@@ -1,11 +1,12 @@
 ---
 published: true
 title: Floating point number (IEEE-754)
-tags: math float history c++
+tags: math float history c++ computer
 ---
 > Instead of Exponent, think of a Window between two consecutive power of two integers. Instead of a Mantissa, think of an Offset within that window. -  [	Floating point visually explained](https://news.ycombinator.com/item?id=29368529)  
 
 - [	Float Exposed ](https://float.exposed/0x736bf47e) / [HN](https://news.ycombinator.com/item?id=45217415)
+- [Floating point from scratch: Hard Mode](https://essenceia.github.io/projects/floating_dragon/) / [HN](https://news.ycombinator.com/item?id=47641472) - logic cells, hardware pipeline architectures, RTL (register-transfer level), ASIC floorplans, and tapeout. Building hardware is hard, as iteration cycles are long and fabricating stuff costs real money. That was quite a journey.
 
 [![caption](https://fabiensanglard.net/floating_point_visually_explained/floating_point_intuitive.svg)](https://fabiensanglard.net/floating_point_visually_explained/)
 

@@ -13,6 +13,8 @@ DROP TABLE EMPLOYEE;_
 
 [ ![xkcd 416: Zealous Autoconfig](https://imgs.xkcd.com/comics/zealous_autoconfig.png)](https://xkcd.com/416/)
 
+>  There are dozens of projects like this emerging right now. They all share the same challenge: establishing credibility.- [zerobox](https://news.ycombinator.com/item?id=47604585)
+
 # [	Running Claude Code dangerously (safely)](https://news.ycombinator.com/item?id=46690907)
 
 _from [HN](https://news.ycombinator.com/item?id=46697610) - It's impossible to not get decision-fatique and just mash enter anyway after a couple of months with Claude not messing anything important up, so a sandboxed approach in YOLO mode feels much safer._

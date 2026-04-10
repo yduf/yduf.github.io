@@ -45,13 +45,13 @@ toc: true
 | Best for                    | Big refactors, automation | Day-to-day coding help |
 
 
-## [continue.dev](https://chatgpt.com/share/694288eb-9fd4-800d-9753-9c1f39b2f9b6)
+# [continue.dev ⮺](https://chatgpt.com/share/694288eb-9fd4-800d-9753-9c1f39b2f9b6)
 
 Using:
 - vscode + [continue.dev](https://marketplace.visualstudio.com/items?itemName=Continue.continue) vscode extension
 - [Qwen2.5-Coder-7B-Instruct](https://model.lmstudio.ai/download/lmstudio-community/Qwen2.5-Coder-7B-Instruct-GGUF)
 
-## [Cline](https://docs.cline.bot/introduction/welcome) / [github](https://github.com/cline/cline?tab=readme-ov-file#cline) / [👤](https://app.cline.bot/dashboard/account?tab=credits)
+# [Cline ⮺](https://docs.cline.bot/introduction/welcome) / [github](https://github.com/cline/cline?tab=readme-ov-file#cline) / [👤](https://app.cline.bot/dashboard/account?tab=credits)
 
 Cline is an open source AI coding agent that brings frontier AI models directly to your IDE. Unlike autocomplete tools, Cline is a true coding agent that can understand entire codebases, plan complex changes, and execute multi-step tasks.
 
@@ -59,11 +59,41 @@ Cline is an open source AI coding agent that brings frontier AI models directly 
 
 see [Cline vs Cursor](https://chatgpt.com/share/69446ae1-4990-800d-b80a-bd62c220adb1)
 
+|        | [Model Leaderboard ⮺](https://vercel.com/ai-gateway/leaderboards) |    |                                                                                                                        |
+|--------|-----------------------|------------|
+| Plan   | z-ai/glm-4.6          | 2026-04-03 |
+| Act    | x-ai/grok-code-fast-1 | 2026-04-03 |
 
-## [Codex](https://github.com/openai/codex?tab=readme-ov-file#quickstart)
+## [CLI ⮺](https://docs.cline.bot/getting-started/installing-cline#cli)
+
+prerequesite: needs Node 20+, see [isntallation]({% post_url 2020-11-29-node-js %})
+[Getting Started](https://docs.cline.bot/cline-cli/getting-started)
+
+`cline`
+- [config](https://docs.cline.bot/cline-cli/cli-reference#cline-config) - Opens an interactive configuration view
+
+{% highlight bash %}
+$ npm install -g cline
+$ cline auth
+{% endhighlight %}
+
+
+# Claude
+
+- [Claude Code Unpacked](https://ccunpacked.dev/#agent-loop) / [HN](https://news.ycombinator.com/item?id=47597085) - overview of Claude implementation and behavior
+    - [Claude Code Leaks](https://www.ccleaks.com/)
+- [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode, and more](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/) / [HN](https://news.ycombinator.com/item?id=47586778) / [github](https://github.com/alex000kim/claude-code/tree/main/src)
+    - Anti-distillation: injecting fake tools to poison copycats
+    - Frustration detection via regex (yes, regex)
+    - Native client attestation below the JS runtime /  the binary itself cryptographically proves it’s the real Claude Code client.
+    - 250,000 wasted API calls per day
+    - KAIROS: the unreleased autonomous agent mode
+
+
+# [Codex ⮺](https://github.com/openai/codex?tab=readme-ov-file#quickstart)
 - [	Unrolling the Codex agent loop](https://news.ycombinator.com/item?id=46737630) – Codex CLI is open source.
 
-## Alternatives
+# Alternatives
 - [	Aider: AI pair programming in your terminal](https://news.ycombinator.com/item?id=39995725)
 - [OpenCode](https://github.com/anomalyco/opencode) - very similar to Claude Code in terms of capability.
 	- [Unauthenticated remote code execution in OpenCode](https://news.ycombinator.com/item?id=46581095)

@@ -1,7 +1,7 @@
 ---
-title: "ASUS TUF Gaming GeForce RTX 5070 Ti \U0001F4DF \U0001F6A7 "
+title: "ASUS TUF Gaming GeForce RTX 5070 Ti 📟"
 published: true
-tags: pc-hardware gpu nvidia
+tags: pc-hardware gpu nvidia cuda pytorch
 toc: true
 excerpt_separator: <!--more-->
 ---
@@ -15,7 +15,7 @@ excerpt_separator: <!--more-->
 - [3dmodels](https://grabcad.com/library/asus-tuf-gaming-geforce-rtx-5070-ti-1)
 
 
-# [Motherboard A520I]({% post_url 2026-01-24-pc-hardware-motherboard %})
+# [Motherboard A520I ⮺]({% post_url 2026-01-24-pc-hardware-motherboard %})
 
 ## Settings
 
@@ -135,7 +135,7 @@ CUDA works as long as nvidia-smi sees the GPU and the driver is installed. OpenG
   
 </div>
 
-## [Testing CUDA](https://chatgpt.com/share/697d05e8-3964-800d-b147-3c4606eacf1f)
+## [Testing CUDA ⮺](https://chatgpt.com/share/697d05e8-3964-800d-b147-3c4606eacf1f)
 
 **Check that CUDA toolkit is installed**
 
@@ -162,4 +162,6 @@ $ ./Sample/1_Utilities/deviceQuery/deviceQuery
 see
 - [ Installing NVIDIA RTX 5070 / 5070 Ti Drivers and CUDA 12.8 on Debian/Ubuntu 24.04 with Secure Boot Enabled ](https://gist.github.com/devatnull/8e63126e7f2a737c1b05a42822f69eda)
 
-## Pytorch 🚧
+## Pytorch
+
+see [system GPU+CUDA + Nix Python + uv pytorch](https://github.com/yduf/CUDA-Marker/tree/master?tab=readme-ov-file#system-gpucuda--nix-python--uv-pytorch) 
