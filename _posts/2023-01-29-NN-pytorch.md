@@ -26,7 +26,9 @@ $ podman run --gpus all --rm -ti --ipc=host -v /home/yves/DEV/:/workspace pytorc
 PyTorch uses shared memory to share data between processes, so if torch multiprocessing is used (e.g. for multithreaded data loaders) the default shared memory segment size that container runs with is not enough, and you should increase shared memory size with `--ipc=host`
 
 
-## with [ROCm ⮺]({% post_url 2020-07-24-amd-gpu %}) as prerequesite.
+## [ROCm ⮺]({% post_url 2020-07-24-amd-gpu %})
+
+Have a working ROCm first.
 
 {% highlight bash %}
 # 1.3GB Download
@@ -36,7 +38,7 @@ Successfully installed torch-1.13.1+rocm5.2 torchaudio-0.13.1+rocm5.2 torchvisio
 {% endhighlight %}
 
 
-## [Verify installation ⮺](https://pytorch.org/get-started/locally/#linux-verification)
+# [Verify installation ⮺](https://pytorch.org/get-started/locally/#linux-verification)
 
 Using python repl: run `python3`, and copy past code below.
 

@@ -1,16 +1,15 @@
 ---
 published: true
 title: Pytorch vs Tensorflow
-tags: tensorflow security
+tags: pytorch tensorflow security
 ---
 > [PyTorch vs TensorFlow: What is Best for Deep Learning in 2023?](https://www.turing.com/kb/pytorch-vs-tensorflow)
 
 **What is TensorFlow?** - Google open-source library based on Python.
 
-[**What is PyTorch?**]({% post_url 2017-11-27-CG-meanmax %}) - Facebook open-source and free framework based on the Torch library.
+[**What is PyTorch?**]({% post_url 2023-01-29-NN-pytorch %}) - Facebook open-source and free framework based on the Torch library.
 
 ## Difference between PyTorch and TensorFlow
-
 
 **Deployment & scalability** If your project has a large scope and needs large-scale deployment then your choice should be TensorFlow. On the other hand, if it is just prototyping for a research project at a smaller scale or anything alike then PyTorch should be the option.
 
