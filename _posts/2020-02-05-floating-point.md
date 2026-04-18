@@ -1,7 +1,7 @@
 ---
 published: true
 title: Floating point number (IEEE-754)
-tags: math float history c++ computer
+tags: math numeric float history c++ computer
 ---
 > Instead of Exponent, think of a Window between two consecutive power of two integers. Instead of a Mantissa, think of an Offset within that window. -  [	Floating point visually explained](https://news.ycombinator.com/item?id=29368529)  
 
@@ -22,3 +22,4 @@ tags: math float history c++ computer
 - [floats, bits, and constant expressions](https://brnz.org/hbr/?p=1518) - Can you access the bits that represent an IEEE754 single precision float in a C++14 constant expression (constexpr)?
 - [The number of floats between 0 and 1](https://news.ycombinator.com/item?id=41390712)
 - [C++ to machine code](https://www.bitsnbites.eu/i-want-to-show-a-thing-cpp-code-generation/) - C++ code snippet that we will compile defines two public functions, get_exponent() and set_exponent() - match 2 asm instruction when compiled.
+- [Posit floating point numbers: thin triangles and other tricks (2019](https://marc-b-reynolds.github.io/math/2019/02/06/Posit1.html) / [HN](https://news.ycombinator.com/item?id=44319144) 

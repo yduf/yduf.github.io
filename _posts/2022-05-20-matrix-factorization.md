@@ -1,7 +1,7 @@
 ---
 published: true
 title: null
-tags: math algebra matrix
+tags: math algebra matrix numeric
 ---
 > Six matrix factorizations dominate in numerical linear algebra and matrix analysis: for most purposes one of them is sufficient for the task at hand. - [The Big Six Matrix Factorizations](https://nhigham.com/2022/05/18/the-big-six-matrix-factorizations/) / [HN](https://news.ycombinator.com/item?id=31421745)
 

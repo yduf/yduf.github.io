@@ -7,6 +7,9 @@ tags: tools reverse debug-c++  ghidra
 
 - [Destroying x86_64 instruction decoders with differential fuzzing](https://blog.trailofbits.com/2019/10/31/destroying-x86_64-instruction-decoders-with-differential-fuzzing/) - (x86_64) Instruction decoding is hard
 	- [	Exploring x86-64 Instruction Encoding](https://news.ycombinator.com/item?id=38899860) - Understanding x86 instruction encoding is far better done in octal - [HN](https://news.ycombinator.com/item?id=38907539)
+- [RE//verse 2026: Thinking Like a Compiler: Obfuscation from the Other Side by Laurie Kirk](https://www.youtube.com/watch?v=jfqFHHsYQAs)
+	- obfuscator at lvm level (ollvm)
+		- flatteing.cpp
 
 
 ### Cutter

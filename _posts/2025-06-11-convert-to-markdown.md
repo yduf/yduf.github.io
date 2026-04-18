@@ -14,6 +14,10 @@ Marker converts documents to markdown, JSON, chunks, and HTML quickly and accura
 
 Marker benchmarks favorably compared to cloud services like Llamaparse and Mathpix, as well as other open source tools.
 
+**see also**
+- [docling](https://www.docling.ai/) -  converts messy documents into structured data and simplifies downstream document and AI processing by detecting tables, formulas, reading order, OCR, and much more. 
+
+
 ### Install
 **Install using** [nix flake](https://github.com/yduf/CUDA-Marker/tree/master?tab=readme-ov-file#system-gpucuda--nix-python--uv-pytorch)
 

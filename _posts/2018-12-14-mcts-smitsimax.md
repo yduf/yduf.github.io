@@ -1,12 +1,13 @@
 ---
 published: true
-title: Handling simultaneous move (Smitsimax)
+title: Handling simultaneous move (SmitsiMax)
 tags: MCTS codingame
 ---
 > UTC forest - [Smitsimax](https://www.codingame.com/playgrounds/36476/smitsimax)
 
-see also
-- [Post mortem Olymbits (msmits, rank 8)](https://docs.google.com/document/d/11rkVuEuF5Ulp5BqjWV-snUMwNIBHmX156byEk1tox2E/edit?tab=t.0)
+**see also**
+- [Code of Kutulu - Feedback & Strategies (MSmits, rank 4)](https://forum.codingame.com/t/code-of-kutulu-feedback-strategies/40543/21)
+- [Post mortem Olymbits (MSmits, rank 8)](https://docs.google.com/document/d/11rkVuEuF5Ulp5BqjWV-snUMwNIBHmX156byEk1tox2E/edit?tab=t.0)
 
 Similarities with Monte Carlo Tree Search (MCTS)
 

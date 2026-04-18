@@ -5,6 +5,10 @@ tags: sqlite git vcs
 ---
 > Fossil is a distributed version control system (DVCS) written beginning in 2007 by the architect of SQLite for the purpose of managing the SQLite project. - [The History And Purpose Of Fossil](https://www.fossil-scm.org/home/doc/trunk/www/history.md) / [HN](https://news.ycombinator.com/item?id=27719947) / [The Untold Story of SQLite](https://corecursive.com/066-sqlite-with-richard-hipp/)
 
+**see also**
+- [	Pijul a FOSS distributed version control system](https://news.ycombinator.com/item?id=47672941)
+
+
 ![caption](https://fossil-scm.org/home/doc/trunk/www/fossil3.gif)
 
 ## [Fossil vs Git](https://fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki)

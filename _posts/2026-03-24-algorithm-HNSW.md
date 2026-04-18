@@ -1,6 +1,6 @@
 ---
 title: Hierarchical navigable small world (HNSW)
-tags: algorithm search nearest-neighbor
+tags: algorithm search nearest-neighbor HNSW
 ---
 >  a fundamental breakthrough in approximate nearest neighbor search for high-dimensional vector spaces. Introduced by Yury Malkov and Dmitry Yashunin in 2016. The algorithm achieves logarithmic search complexity through a sophisticated multi-layer graph structure that separates connections by characteristic distance scales, enabling efficient navigation from coarse to fine granularity during search operations. - [Medium](https://medium.com/thedeephub/understading-hnsw-hierarchical-navigable-small-world-ff1a72d98605) / [Wikipedia](https://en.wikipedia.org/wiki/Hierarchical_navigable_small_world)
 

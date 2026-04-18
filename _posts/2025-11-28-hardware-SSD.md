@@ -2,15 +2,21 @@
 title: SSD
 published: true
 tags: pc-hardware disk storage
+toc: true
 ---
 > [speed of a PCIe 4.0 NVMe SSD in a PCIe 3.0 Motherboard Slot?](https://www.techreviewer.com/tech-answers/pcie-40-ssd-in-pcie-30-m2-slot/) 
 
+## Interface
+
 [![bysize](https://geekysoumya.com/wp-content/uploads/2022/11/Different-Sizes-Of-M.2-SSD-1536x864.jpg)](https://geekysoumya.com/m-2-pcie-nvme-sizes-explained-2280-2260-2242-etc/)
 
-## [Clone SSD on Linux](https://chatgpt.com/share/6935d24c-db08-800d-ac4d-01b99c2e3a93)
+# [Clone SSD on Linux ⮺](https://chatgpt.com/share/6935d24c-db08-800d-ac4d-01b99c2e3a93)
 
+<div class="encart red" markdown="1">
 **NOTE: both disk must be unmounted during the copy**  
 Otherwise you may end up with error on partition (eg the /boot/efi)
+</div>
+
 
 {% highlight bash %}
 $ lsblk
@@ -25,11 +31,11 @@ $ sudo dd if=/dev/nvme0n1 of=/dev/sda bs=64M status=progress
 $ sync
 {% endhighlight %}
 
-### Extend partition
+## Extend partition
 
 Then _gparted_ can be used to move & resize existing partition.
 
-### [Convert MBR to GPT](https://chatgpt.com/share/693c28ef-16b8-800d-95b0-e440c6ab5458)
+## [Convert MBR to GPT ⮺](https://chatgpt.com/share/693c28ef-16b8-800d-95b0-e440c6ab5458)
 
 an MBR-partitioned (standard) drive cannot be > 2To. You need GPT.
 
@@ -41,22 +47,26 @@ $ sudo gdisk /dev/sdX
 w
 {% endhighlight %}
 
+# PC-Hardware 📟 
 
-## [M2 SSD Benchmark & tests de performance](https://ssd-tester.fr/m2_ssd_test.php)
+| **Model** | **Capacity** | **Interface**  | **Price / Year** | **Location / Source** |
+|-------|----------|------------|--------------|-------------------|
+| [fanxiang SSD NVMe S910 Pro](https://www.amazon.fr/dp/B0FH27XWKX) | 4 To / 14G&nbsp;B/s | 🖴 NVMe PCIe&nbsp;5.0&nbsp;x4 | 330€ (2025)       | [Mac Classic]({% post_url 2023-06-14-mac-classic %})  |
+| [Fikwot FN950](https://ssd-tester.fr/fikwot_fn950_2tb.html)       | 1 To / 4.8&nbsp;GB/s   | 🖴 NVMe    | — | [huawei matebook&nbsp;14]({% post_url 2021-07-18-laptop-huawei-matebook-14 %}) |
+| 🔧 [Lexar NM610 Pro](https://ssd-tester.fr/lexar_nm610_pro_1tb.html) | 1 To  / 3.3&nbsp;GB/s  | 🖴 NVMe | — | — |
+| 🔧 WD SN730                                                          | 0.5 To / 3.4&nbsp;GB/s | 🖴 NVMe | OEM (2020) | ♻️ [huawei matebook&nbsp;14]({% post_url 2021-07-18-laptop-huawei-matebook-14 %}) |
+| 🔧 [WD Green](https://www.amazon.fr/gp/product/B078WYS5K6)           | 240 Go / 0.5&nbsp;GB/s | 🖴 SATA | 36€ (2020) | ♻️ [lab 2020]({% post_url 2020-05-24-pc-2020 %}) |
 
-[Top SSD](https://ssd-tester.fr/top_ssd.php)
+**🔧**: Spare  
+**🖴**: M.2 2280  
+**♻️**: from
 
-**NVMe M.2 2280**
-- [fanxiang SSD NVMe 4To S910 Pro - Pice 5.0X4 ](https://www.amazon.fr/dp/B0FH27XWKX) - 330€ / 2025 - in [Mac Classic]({% post_url 2023-06-14-mac-classic %}) 
-- [Fikwot FN950 1To M.2 SSD](https://ssd-tester.fr/fikwot_fn950_2tb.html) - in [huawei matebook 14]({% post_url 2021-07-18-laptop-huawei-matebook-14 %})
+# Performance
 
-**Spare**  
-- [Lexar NM610 Pro - 1To](https://ssd-tester.fr/lexar_nm610_pro_1tb.html)
-- WD SN730 512GB - from [huawei matebook 14]({% post_url 2021-07-18-laptop-huawei-matebook-14 %})
-- [WD Green 240GB](https://www.amazon.fr/gp/product/B078WYS5K6) - 36€ / 2020 - from [lab 2020]({% post_url 2020-05-24-pc-2020 %})
+- [M2 SSD Benchmark & tests de performance](https://ssd-tester.fr/m2_ssd_test.php)
+- [Top SSD](https://ssd-tester.fr/top_ssd.php)
 
-
-### [SSD performance over USB](https://chatgpt.com/share/6935d530-dfd0-800d-923b-60061aba74c8)
+## [SSD performance over USB ⮺](https://chatgpt.com/share/6935d530-dfd0-800d-923b-60061aba74c8)
 
 **Notes** - [pcie gen 5.0 not recognized by a usb 3.1 nvme adapter?](https://chatgpt.com/share/6939797a-d654-800d-96da-5ab4848724c2) - this is expected...
 
@@ -68,7 +78,7 @@ w
 | **USB 2.0 NVMe**       | **30–40 MB/s**       | **1%**                     |
 
 
-### PCI-Express Speeds
+## PCI-Express Speeds
 
 | Version | x1 Bandwidth | x2 Bandwidth | x4 Bandwidth | x8 Bandwidth | x16 Bandwidth |
 |---------|--------------|--------------|--------------|---------------|----------------|
@@ -80,6 +90,6 @@ w
 | PCIe 6.0 | 8 GB/s | 15 GB/s | 30 GB/s | 61 GB/s | 121 GB/s |
 | PCIe 7.0 | 15 GB/s | 30 GB/s | 61 GB/s | 121 GB/s | 242 GB/s |
 
-### SSD Sticker
+## SSD Sticker
 
 - [some acts as heat spreader](https://www.youtube.com/shorts/7kiPV0emWrw)

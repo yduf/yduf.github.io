@@ -6,8 +6,13 @@ tags: alphabet history
 > Earliest Forms to Modern Latin Script - [youtube](https://www.youtube.com/watch?v=3kGuN8WIGNc)
 
 - [How far back in time can you understand English?](https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english) / [HN](https://news.ycombinator.com/item?id=47061614) - _And þæt heo sægde wæs eall soþ. Ic ƿifode on hire, and heo ƿæs ful scyne ƿif, ƿis ond ƿælfæst. Ne gemette ic næfre ær sƿylce ƿifman._
+- ["L'affrication" et autres fricatives prépausales](https://www.youtube.com/watch?v=mw_de0x9PVg) - ces sons fantômes qui hantent notre langage
+    - visible sur l'histoire des langues - camera => cham'br'e en francais alors que le latin n'avait pas de son 'B'.
+    - Bonjour'e
+    - Merci-sh
 
-see also
+
+**see also**
 - [Writing Systems of the World | Abjads, Alphabets, Abugidas, Syllabaries & Logosyllabaries](https://www.youtube.com/watch?v=Mmz42awTRsA)
 - [	The strangest letter of the alphabet: The rise and fall of yogh](https://news.ycombinator.com/item?id=45455882)
 - [	Why English doesn't use accents](https://news.ycombinator.com/item?id=44484137)

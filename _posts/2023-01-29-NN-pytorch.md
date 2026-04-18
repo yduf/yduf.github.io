@@ -40,6 +40,7 @@ Successfully installed torch-1.13.1+rocm5.2 torchaudio-0.13.1+rocm5.2 torchvisio
 
 # [Verify installation ⮺](https://pytorch.org/get-started/locally/#linux-verification)
 
+## Torch code
 Using python repl: run `python3`, and copy past code below.
 
 {% highlight python %}
@@ -50,7 +51,15 @@ print(x)
 
 => should output a tensor
 
+
+## GPU Test
+
+<div class="encart blue" markdown="1">
 - [How do I check if PyTorch is using the GPU?](https://stackoverflow.com/questions/48152674/how-do-i-check-if-pytorch-is-using-the-gpu)
+{% highlight bash %}
+$ python -c "import torch; print(torch.cuda.is_available()); print(torch.cuda.get_device_name(0))"
+{% endhighlight %}
+</div>
 
 Additionally, to check if your GPU driver and CUDA/ROCm is enabled and accessible by PyTorch, run the following commands to return whether or not the GPU driver is enabled (the ROCm build of PyTorch uses the same semantics at the python API level)
 
@@ -69,7 +78,7 @@ torch.set_default_tensor_type(torch.cuda.FloatTensor) # Set default tensor type 
 
 If crashing with "hipErrorNoBinaryForGpu: Unable to find code object for all current devices!" then [`export HSA_OVERRIDE_GFX_VERSION=10.3.0`](https://stackoverflow.com/questions/73575955/pytorch-hiperrornobinaryforgpu-unable-to-find-code-object-for-all-current-devi)
 
-### [Benchmarking ⮺](https://github.com/LukasHedegaard/pytorch-benchmark)
+## [Benchmarking ⮺](https://github.com/LukasHedegaard/pytorch-benchmark)
 
 Monitoring on one console with `watch -n 1 rocm-smi` and `htop` in an other
 

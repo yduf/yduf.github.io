@@ -11,6 +11,8 @@ excerpt_separator: ""
 
 | Algorithm   | Description |
 |------------|------------|
+| Random search | Play randomly one or more action and keep the best according to a fitness / heuristic function|
+| Genetic algorithm | Generate random sequence, evaluate them, merge them and let evolution pick the best one  |
 | [MCTS (Monte Carlo Tree Search)]({% post_url 2018-05-20-montecarlo-mcts-tree-search %}) | Designed for turn-based games. It builds a search tree using random simulations (playouts) to evaluate moves, balancing exploration and exploitation to find strong decisions over time. |
 | [Smitsimax]({% post_url 2018-12-14-mcts-smitsimax %})  | An adaptation of MCTS for simultaneous-move games. Instead of assuming alternating turns, it accounts for both players acting at the same time, often modeling uncertainty about the opponent’s choice. |
 | [Beam Search]({% post_url 2020-05-21-beam-search %}) | A heuristic search algorithm that explores a limited set (beam width) of the most promising nodes at each depth. It focuses on deep exploration of likely good paths, with less emphasis on modeling or anticipating opponent strategies. |
