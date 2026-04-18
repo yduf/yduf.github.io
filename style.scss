@@ -98,6 +98,18 @@ ul ul, ol ul {
   list-style-type: circle;
 }
 
+details summary {
+  list-style: none;
+}
+
+details summary::after {
+  content: " ▶";
+}
+
+details[open] summary::after {
+  content: " ▼";
+}
+
 em, i {
   font-style: italic;
 }
