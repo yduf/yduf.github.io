@@ -42,28 +42,19 @@ h1, h2, h3, h4, h5, h6 {
   @include mobile {
     line-height: 1.4;
   }
-  
-  // Heading anchor links - show '#' on hover
-  position: relative;
-  padding-left: 1.5em;
-  margin-left: -1.5em;
-  
-  &::before {
-    content: '#';
-    position: absolute;
-    left: 0;
+
+  // Show the anchor '#' link on hover
+  .anchor-heading {
     color: $blue;
-    opacity: 0;
     font-weight: normal;
+    opacity: 0;
     transition: opacity 0.2s;
+    margin-right: 0.3em;
+    text-decoration: none;
   }
-  
-  &:hover::before {
+
+  &:hover .anchor-heading {
     opacity: 0.5;
-  }
-  
-  &:target::before {
-    opacity: 1;
   }
 }
 
