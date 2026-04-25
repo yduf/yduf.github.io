@@ -1,9 +1,9 @@
 ---
 published: true
-title: Video Editor
-tags: video editor renderfarm
+title: KDenlive (Video Editor) 🎬
+tags: video editor renderfarm broadcast
 ---
-> Kdenlive is an open source video editor. - [Kdenlive](https://kdenlive.org/en/features/) / [ r/kdenlive ](https://www.reddit.com/r/kdenlive/)
+> Kdenlive is an open source video editor. - [Home](https://kdenlive.org/fr/) / [ r/kdenlive ](https://www.reddit.com/r/kdenlive/)
 
 - [Learn Kdenlive in 30 Minutes](https://www.youtube.com/watch?v=zYD0b8LpiQA) - Video Editing Basics
 

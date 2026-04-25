@@ -8,6 +8,9 @@ toc: true
 
 Mainly act as wrapper around _git_ and the management of a special repo dedicated to _.config_ files. All regular git command are available when steping inside the _chezmoi_ repo which is accessible with `chezmoi cd`.
 
+**see also**
+- [ How To ACTUALLY Manage Dotfiles with Stow  ](https://www.youtube.com/watch?v=TLFsee7DDSI) - Full Guide + Git Workflow
+
 # Install
 
 {% highlight bash %}

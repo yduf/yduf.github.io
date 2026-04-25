@@ -1,5 +1,5 @@
 ---
-title: (CG) Hypersonic (Bomberman)
+title: (CG) Hypersonic (Bomberman) 💣
 published: true
 tags: codingame
 ---

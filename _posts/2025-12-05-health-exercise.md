@@ -3,6 +3,11 @@ title: Health Exercise
 published: true
 tags: health
 ---
+
+# Exercise
+- [If You Sit All Day, Do This Daily ](https://www.youtube.com/watch?v=sWydkC6u8tY)
+    - [ I sat on the floor for 1000 days, this is what happened. ](https://www.youtube.com/watch?v=7GnNyA7qkhk)
+
 - [ Fastest Way to Shrink Visceral Fat (Backed by Science) ](https://www.youtube.com/watch?v=Zt6WaTBnj7E)
 	- consistency beats everything - stick to 3x to 2x times a week
 

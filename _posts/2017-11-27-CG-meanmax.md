@@ -1,5 +1,5 @@
 ---
-title: (CG) Mean Max
+title: (CG) Mean Max 🚕
 published: true
 tags: codingame genetic-algorithm
 ---

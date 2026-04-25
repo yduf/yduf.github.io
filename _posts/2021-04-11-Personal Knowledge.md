@@ -1,7 +1,8 @@
 ---
 published: true
 title: Personal Knowledge
-tags: blog knowledge mental-model search archive
+tags: blog knowledge mental-model search archive agentic-AI
+toc: true
 ---
 > Information is not so useful if you can't access and search it quickly. Instant search changes the way you think. - [Building personal search infrastructure for your knowledge and code](https://beepb00p.xyz/pkm-search.html) / [HN](https://news.ycombinator.com/item?id=22160572)
 
@@ -22,3 +23,10 @@ tags: blog knowledge mental-model search archive
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge/blob/master/SUMMARY.md) / [HN](https://news.ycombinator.com/item?id=21332957)
 
 - [Your Personal Archiving Project: Where Do You Start?](https://blogs.loc.gov/thesignal/2016/05/how-to-begin-a-personal-archiving-project/)
+
+## Using AI
+
+- [Karpathy's Wiki vs. Open Brain. One Fails When You Need It Most.](https://www.youtube.com/watch?v=dxq7WtWxi44)
+  - Having an AI that learn over time.
+    - karpathy's is write time system knowlegde system (work happens one time at input)
+    - open brain is query system (analysis is done at query time)

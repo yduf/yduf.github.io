@@ -8,10 +8,14 @@ tags: climate-war science movie games computer
 > Jouer un bon coup dans un jeu ou les regles font que de toute facon on perd a la fin. ça n'est pas interessant. Il faut refuser la partie ou alors il faut tricher. - [Barrau chez Janco : exposé devant le shift project à Lyon.](https://youtu.be/VajcUf7xRTQ?t=3140)
 
 
-see also
+**see also**
 - [David Lightman's bedroom in the 1983 movie "WarGames"](https://www.miniatua.com/work/imsai/)
-	- [IMSAI 8080 microcomputer](https://www.miniatua.com/work/imsai/img/16.jpg) / [museum](https://americanhistory.si.edu/collections/nmah_334326) / [wikipedia](https://en.wikipedia.org/wiki/IMSAI_8080) / [thingiverse](https://www.thingiverse.com/thing:1546298)
-    - [Bob's Unnecessary Retro Processor](https://www.youtube.com/watch?v=6GI3cAsZgF0)
+  - [IMSAI 8080 microcomputer](https://www.miniatua.com/work/imsai/img/16.jpg) / [museum](https://americanhistory.si.edu/collections/nmah_334326) / [wikipedia](https://en.wikipedia.org/wiki/IMSAI_8080) / [thingiverse](https://www.thingiverse.com/thing:1546298)
+    - [IMSAI 8080 ](https://www.youtube.com/watch?v=gW5J1xDjM-A) — You know that computer from WarGames 
+    - [IMSAI 8080 replica](https://thehighnibble.com/imsai8080/#overview)
+  - [Bob's Unnecessary Retro Processor](https://www.youtube.com/watch?v=6GI3cAsZgF0)
+
+[![caption](https://pc-museum.com/gallery/rcm-046-medium.jpg)](https://pc-museum.com/046-imsai8080/index.htm)
 
 - [DEFCON](https://www.gog.com/fr/game/defcon) / [2](https://defcon.fileplanet.com/) - You play a General hidden deep within an underground bunker. Your mission is to successfully exterminate your enemy's civilian population whilst saving your own.
 

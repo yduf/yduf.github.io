@@ -1,5 +1,5 @@
 ---
-title: (CG) Coders of the Carribean
+title: (CG) Coders of the Carribean 🏴‍☠️
 published: true
 tags: codingame contest
 ---

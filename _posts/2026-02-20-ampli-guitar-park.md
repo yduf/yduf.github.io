@@ -1,6 +1,6 @@
 ---
-title: Ampli Guitar Park 🚧 ⛑
-tags: guitar audio-hardware electronic in-progress broken
+title: Ampli Guitar Park
+tags: guitar audio-hardware electronic
 ---
 > Great sounding small guitar combo designed by Marshall and made in Korea in the 90s. This also has a real spring reverb tank! - [Park G10R](https://reverb.com/fr/item/82486025-park-g10) - avec reverb
 
@@ -8,11 +8,14 @@ tags: guitar audio-hardware electronic in-progress broken
 
 [PARK G10R SCHEMATIC](https://elektrotanya.com/park_g10r_schematic.pdf/download.html#dl)
 
-# Reparation
+# Reparation March 2026
 
 Dead on September 2025
-- Fusible broken
-- Crashing potentiometer
+- Fusible broken -> replaced
+- Crashing potentiometer -> all changed
+  - cleaned up previous resoldering (done by who?)
+- a screw was missing for holding transfo
+
 
 # [Fusible](https://elektrotanya.com/content/park-g10-guitar-combo-fuse-blow?utm_source=chatgpt.com)
 
@@ -48,15 +51,15 @@ Axis diameter 0.24inch/6mm
 Axis length   0.7inch/20mm thread included
 Axis length   0.4inch without thread
 
-| Control  | Value |
-|----------|-------|
-| Gain 1   | B10K  |
-| Gain 2   | B200K |
-| Treble   | B20K  |
-| Middle   | B2.2K |
-| Bass     | B20K  |
-| Reverb   | B20K  |
-| Master   | A10K  |
+| Control  | Value |New Value (replacement)|
+|----------|-------|------|
+| Gain 1   | B10K  |B10K  |
+| Gain 2   | B200K |B200K |
+| Treble   | B20K  |B20K  |
+| Middle   | B2.2K |**B2K** |
+| Bass     | B20K  |B20K  |
+| Reverb   | B20K  |B20K  |
+| Master   | A10K  |A10K  |
 
 
 ## Courbe Audio (Logarithmique) vs Linéaire

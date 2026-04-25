@@ -1,7 +1,7 @@
 ---
 title: Droste Effect - Logarithmic image
 published: true
-tags: image effect  mesh warp 3blue1brown   complex-number math 3Blue1Brown
+tags: image effect mesh warp complex-number math 3blue1brown
 ---
 > An image containing itself to the infinity.  
 > The Ultimate [Escher’s Droste Effect](http://2008.sub.blue/projects/droste.html) - [A logarithmic image transformation](http://www.josleys.com/article_show.php?id=82) / [HN](https://news.ycombinator.com/item?id=15763308)
