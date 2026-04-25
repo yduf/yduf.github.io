@@ -43,13 +43,16 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 1.4;
   }
 
-  // Show the anchor '#' link on hover
+  // Show the anchor '#' link on hover, positioned to the left without shifting text
+  position: relative;
+
   .anchor-heading {
+    position: absolute;
+    left: -1.2em;
     color: $blue;
     font-weight: normal;
     opacity: 0;
     transition: opacity 0.2s;
-    margin-right: 0.3em;
     text-decoration: none;
   }
 

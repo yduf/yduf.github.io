@@ -58,7 +58,12 @@ document.addEventListener("DOMContentLoaded", function () {
 
       const a = document.createElement("a");
       a.href = `#${heading.id}`;
-      a.textContent = heading.textContent;
+      // Get heading text without the anchor '#' link (but preserve '#' that is
+      // part of the heading's own content, e.g. "C# language")
+      const headingClone = heading.cloneNode(true);
+      const anchorLink = headingClone.querySelector('.anchor-heading');
+      if (anchorLink) anchorLink.remove();
+      a.textContent = headingClone.textContent.trim();
       a.style.textDecoration = "none";
       a.style.fontSize = "0.9rem";
 
