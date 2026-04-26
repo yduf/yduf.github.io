@@ -2,10 +2,11 @@
 published: true
 title: Linux on a Droid
 tags: android phone linux-system project
+toc: true
 ---
 > Installing a regular Linux distribution on an Android device opens a whole new world of possibilities. You can turn your Android device into a full-blown Linux/Apache/MySQL/PHP server and run web-based applications on it, install and use your favorite Linux tools, and even run a graphical desktop environment. - [Linux Mag](https://www.linux-magazine.com/Online/Features/Convert-an-Android-Device-to-Linux)
 
-see also
+**see also**
 - [Linux Phone]({% post_url 2025-06-01-linux-phone %})
 
 - [	Install postmarketOS on Android phone and use Docker as a home server](https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/) / [HN](https://news.ycombinator.com/item?id=42340065) -  about installing postmarketOS on a phone
@@ -16,8 +17,12 @@ They all provide a container,what chroot mainly do is to pretend you root dir is
 - **Userland** is build on **termux**, **Linux deploy** is a app using it's own code
 
 ## On non rooted phone
-### [Termux](https://www.youtube.com/watch?v=KxOGyuGq0Ts)
+
+
+### [Termux ⮺](https://www.youtube.com/watch?v=KxOGyuGq0Ts)
 **Do not use Termux app from Google Play. It is deprecated** - [github](https://github.com/termux/termux-app/releases/tag/v0.118.1)
+
+- [ I Turned My Android Phone Into Real Linux PC — Not Samsung DeX ](https://www.youtube.com/watch?v=QCr4WWsfVv8)
 
 Opensource and maintained as of 2024
 
@@ -44,11 +49,11 @@ $ adb shell "/system/bin/dumpsys activity settings | grep max_phantom_processes"
 $ adb shell "/system/bin/device_config get activity_manager max_phantom_processes"
 {% endhighlight %}
 
-### [Linux Deploy](https://github.com/meefik/linuxdeploy)
+### [Linux Deploy ⮺](https://github.com/meefik/linuxdeploy)
 
 Linux Deploy installs and runs GNU/Linux, and seems to be the best option if you have root access.
 
-### [ UserLAnd](https://www.androidauthority.com/install-ubuntu-on-your-android-smartphone-765408/)
+### [ UserLAnd ⮺](https://www.androidauthority.com/install-ubuntu-on-your-android-smartphone-765408/)
 
 **UserLAnd seems to be a fork of an older version of Termux**
 
@@ -62,4 +67,4 @@ Closed source / payed option.
 - [AndroNix](https://www.makeuseof.com/tag/how-to-linux-on-android/) 
 
 ## On rooted phone
-### [Lindroid](https://hackaday.com/2024/06/18/lindroid-promises-true-linux-on-android/)
+### [Lindroid ⮺](https://hackaday.com/2024/06/18/lindroid-promises-true-linux-on-android/)

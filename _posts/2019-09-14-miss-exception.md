@@ -12,3 +12,11 @@ This apply particulariy to Java checked exception, and is amplified when using l
 - [Exceptions in Java 8 Lambda Expressions](https://www.baeldung.com/java-lambda-exceptions)
 	- [Sneakily Throwing Exceptions in Lambda Expressions in Java](https://4comprehension.com/sneakily-throwing-exceptions-in-lambda-expressions-in-java/)
 - [How to Handle Checked Exceptions With Lambda Expression](https://dzone.com/articles/how-to-handle-checked-exception-in-lambda-expressi)
+
+**see also**
+- [ Exploring the ways different languages handle errors ](https://www.youtube.com/watch?v=zOUsVf1LsKg)
+  - exception
+  - sum Types (value or error info) (rust / zig)
+  - sentinel values (C)
+  - Error as a value (go)
+  

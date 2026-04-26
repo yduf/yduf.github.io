@@ -12,6 +12,7 @@ tags: security
   - Faille [IDOR](https://www.youtube.com/watch?v=O835O3SeiTg)
 
 - [	Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign](https://news.ycombinator.com/item?id=47876043) - password manager
-
+- 2026-04-25 [  npm, PyPI, and Docker Hub.](https://www.youtube.com/watch?v=r5U4S0uUIVk) 
+ 
 # 2023
 - [Everything authenticated by Microsoft is tainted ](https://news.ycombinator.com/item?id=37702095) 

@@ -20,6 +20,7 @@ Transient prompt allows you to change your prompt after you execute your command
 
 Only supported by 
 - [fish](https://starship.rs/advanced-config/#transientprompt-and-transientrightprompt-in-fish)
+  - [can be used to display actual status after execution](https://chatgpt.com/share/69ec658a-f68c-83eb-8ed5-53b1114ae101)
 - bash
 - [powsershell](https://gilbertsanchez.com/posts/prompt-starship/)
 

@@ -10,7 +10,7 @@ One of the main historical motivations of introducing logarithms is the formula 
 
 First known modern origin is from [Napier around 1614](https://en.wikipedia.org/wiki/History_of_logarithms). Napier worked decades before calculus was invented, the exponential function was understood, or coordinate geometry was developed by Descartes. But predecessor function sharing similarities dates from [-2000 (quarter square multiplication), around 800 and 1544 (binary log) ](https://en.wikipedia.org/wiki/History_of_logarithms#Predecessors)
 
-see also
+**see also**
 - [The Lost Art of Logarithms](https://www.lostartoflogarithms.com/) / [HN](https://news.ycombinator.com/item?id=43356314)
 - [Estimating Logarithms](https://news.ycombinator.com/item?id=44142251)
 - [Merveilleux logarithmes - Micmaths](https://www.youtube.com/watch?v=rWfl7Pw8YVE) - transformer les multiplications en additions.
@@ -27,6 +27,7 @@ see also
         - $e^ix = cos(x) + isin(x)$ Formule d'Euler
         - $e^iπ = cos(π) + isin(π)$ Identité d'Euler
         - $e^iπ - 1 = 0$ Identité d'Euler
+- [ Mathematician Collapses All Functions to One Weird Formula ](https://www.youtube.com/watch?v=hwtqJaS42xk)
 
 ### [Logarithmic scale](https://en.wikipedia.org/wiki/Logarithm#Logarithmic_scale)
 
@@ -39,7 +40,7 @@ Starting from 2 on the lower scale, add the distance to 3 on the upper scale to 
 
 [![Schematic depiction of a slide rule](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Slide_rule_example2_with_labels.svg/825px-Slide_rule_example2_with_labels.svg.png)](https://en.wikipedia.org/wiki/Logarithm)
 
-### Mis
+### Misc
 - Logarithm et exponentiel sont au restos, c'est epo qui paye car logarithme ne paye rien.
 - C'est logarithme et exponentiel qui sont sur un bâteau, soudain logarithme crie "on dérive, on dérive !!". Exponentiel : "et alors ?" 
 - les soirs de pleine lune, les profs de maths se transforment en lougarithmes

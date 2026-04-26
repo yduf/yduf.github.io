@@ -14,6 +14,7 @@ tags: phone android
 - 8Go / 256Go / arm8 (ARM64)
 - 4500mAh
 - nano sim
+- Type-C, USB 2.0 - **no display output**
 
 ### Watch
 - Application _Magie des Images_ want to have access to everything

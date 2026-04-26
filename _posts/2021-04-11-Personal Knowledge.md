@@ -28,5 +28,5 @@ toc: true
 
 - [Karpathy's Wiki vs. Open Brain. One Fails When You Need It Most.](https://www.youtube.com/watch?v=dxq7WtWxi44)
   - Having an AI that learn over time.
-    - karpathy's is write time system knowlegde system (work happens one time at input)
+    - karpathy's is write time system knowlegde system (work happens one time at input) - [Karpathy's LLM Wiki - Full Beginner Setup Guide](https://www.youtube.com/watch?v=iXd0t60YmMw)
     - open brain is query system (analysis is done at query time)
