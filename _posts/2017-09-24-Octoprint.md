@@ -1,7 +1,7 @@
 ---
 title: Octoprint (before moving to fluidd)
 published: true
-tags: 3dprinter docker klipper
+tags: 3dprinter docker klipper obsolete
 ---
 >  Web interface for your 3D printer - [Home](https://octoprint.org/)
 

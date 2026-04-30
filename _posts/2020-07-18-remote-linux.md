@@ -1,9 +1,14 @@
 ---
 published: true
 title: Remote linux (rdp)
-tags: linux remote desktop rdp
+tags: remote linux-desktop rdp
 ---
 > using vinagre - [Best VNC Viewer Clients For Linux](https://www.poftut.com/best-vnc-viewer-clients-linux/)
+
+<div class="encart green" markdown="1">
+[Xpra]({% post_url 2025-05-08-share-power-xpra %}) might be a better alternative now.
+</div>
+
 
 - [remmmina](https://remmina.org/)
 	- sudo apt install remmina remmina-plugin-rdp remmina remmina-plugin-vnc

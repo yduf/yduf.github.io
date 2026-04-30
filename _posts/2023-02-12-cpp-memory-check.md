@@ -1,6 +1,6 @@
 ---
 published: true
-title: Checking Memory
+title: Checking Memory 📊 📈
 tags: c++-memory memory linux-system security
 toc: true
 ---

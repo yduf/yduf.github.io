@@ -1,7 +1,7 @@
 ---
 published: true
 title: Flameshot (screenshot)
-tags: linux tools image
+tags: linux-desktop application image
 ---
 > Powerful yet simple to use screenshot software. - [Flameshot](https://github.com/flameshot-org/flameshot/?tab=readme-ov-file#--------------------------------flameshot----) / [HN](https://news.ycombinator.com/item?id=26113753)
 
