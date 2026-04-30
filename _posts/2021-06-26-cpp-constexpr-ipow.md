@@ -5,11 +5,12 @@ tags: c++ math power recurse optimize fastware Fibonacci
 ---
 > A good optimizing compiler will transform tail-recursive functions to run as fast as imperative code. - [SO](https://stackoverflow.com/questions/17719674/c11-fast-constexpr-integer-powers#17728525)
 
-see also
+**see also**
 - [C++ Super Optimization: 1000X Faster](https://www.youtube.com/watch?v=8-VZoXn8f9U) - general overview of `constexpr` usage and optimisation 
 	- demo with recursive Fibonacci and prime number
 - [Fast alternative to pow()](https://chatgpt.com/share/6735d225-a59c-800d-b059-58adc4717ded)
-
+- [ const is more than you think! ](https://www.youtube.com/watch?v=qzxS0nDrQJU) - zig / C3 / C++
+- 
 ### ipow
 {% highlight cpp %}
 #include <cstdint>

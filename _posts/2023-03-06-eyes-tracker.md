@@ -6,10 +6,16 @@ toc: true
 ---
 > ML solution for accurate iris estimation, able to track landmarks involving the iris, pupil and the eye contours using a single RGB camera, in real-time, without the need for specialized hardware. - [MediaPipe Iris ](https://google.github.io/mediapipe/solutions/iris.html) / [Eye Tracking with Mediapipe and OpenCV](https://kh-monib.medium.com/title-gaze-tracking-with-opencv-and-mediapipe-318ac0c9c2c3)
 
-see also
+**see also**
 - [Faster code editors, ep06 - Eye tracking](https://www.youtube.com/watch?v=NK-6XOi54Cg)
 - [3D Eye Tracking in Python](https://www.youtube.com/watch?v=zuoOvywtwtA) / [github](https://github.com/JEOresearch/EyeTracker/tree/main/3DTracker)
 	- [3D Eye Tracking on a Webcam ](https://www.youtube.com/watch?v=6J6Rb7f-Cls)
+  
+# Open Source Project
+- [The Hidden Math Behind 3D Eye Tracking](https://www.youtube.com/watch?v=Gh8LS9erugE) - near eye tracking from IR camera
+  - find dark center (eye hole)
+  - find ellipse pupills 
+  
 
 ## [Eyes Contact](https://github.com/rehg-lab/eye-contact-cnn?tab=readme-ov-file#eye-contact-cnn)
 

@@ -22,14 +22,15 @@ tags: video editor renderfarm broadcast
 
 ### [Workflow  ⮺](https://chatgpt.com/share/69ecfc33-0eb0-83eb-a91a-7f282e555e59)
 
-Simple recommended setup
+[Simple recommended setup](https://www.reddit.com/r/obs/comments/l6yt0c/best_obs_mic_settings_for_any_mic_obs_filters/)
 
-In OBS:
+**In OBS:**
+- Noise Gate
 - Noise suppression → ON
 - Compressor → light
 - Limiter → ON
 
-In Kdenlive:
+**In Kdenlive:**
 - EQ → adjust voice tone
 - Normalize loudness → final step
 
@@ -45,6 +46,7 @@ see [EasyEffect  ⮺]([title]({% post_url 2026-04-25-audio-easyeffects %}))
 
 **see also**
 - [How to add audio effects to your voice in Linux with PipeWire and Carla](https://www.youtube.com/watch?v=JtMSLkolITE)
+- [LES FILTRES OBS QUE TU DOIS METTRE SUR TON MICRO](https://www.youtube.com/watch?v=K4U9-yw0qfE)
 
 ### Troubleshooting
 - [Audio recording not working ](https://www.reddit.com/r/kdenlive/comments/gy4pi8/audio_recording_not_working/)

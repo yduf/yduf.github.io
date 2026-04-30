@@ -1,7 +1,7 @@
 ---
-title: Screen Recorder for linux
+title: Screen Recorder for linux 🔴
 published: true
-tags: screen recorder broadcast youtube linux-audio gif
+tags: screen recorder broadcast youtube linux-audio gif profile
 toc: true
 ---
 > Open Broadcaster Software Studio (OBS Studio) - [As of 2024](https://chatgpt.com/share/6740933d-7a98-800d-a1e1-85259c489bbe) / [HN](https://news.ycombinator.com/item?id=46633429)
@@ -21,6 +21,18 @@ Most complete with Wayland support.
 - [Setting up OBS Studio](https://github.com/mikeroyal/PipeWire-Guide?tab=readme-ov-file#setting-up-obs-studio)
 	- [Useful OBS Studio 3rd party plugins and themes.](https://github.com/mikeroyal/PipeWire-Guide?tab=readme-ov-file#useful-obs-studio-3rd-party-plugins-and-themes)
 
+**Features**
+- Audio filtering
+- recording screen or window
+- Game capture
+
+## Vertical Recording
+- [ Setup OBS to Vertically record VS Code Editor for Youtube shorts and Tiktok ](https://www.youtube.com/watch?v=O3FEXbTQJYc)
+
+## [Hardware Keys ⮺](https://chatgpt.com/share/69ee6545-50fc-83eb-b368-a9bc5efda608)
+
+[![example](https://m.media-amazon.com/images/I/618cGC2LsNL._AC_AA180_.jpg)](https://www.amazon.fr/gp/product/B0GR51XYHH)
+
 # [SimpleScreenRecorder ⮺](http://www.maartenbaert.be/simplescreenrecorder/)
 
 {% highlight bash %}
@@ -32,7 +44,6 @@ sudo apt-get install simplescreenrecorder
 # [GIF Recorder ⮺](https://chatgpt.com/share/698b21e4-e968-800d-8bea-8b5d5def2cf8)
 
 ## [Peek ⮺](https://www.it-connect.fr/enregistrer-des-gif-sous-linux-avec-peek/)
-
 
 # [review ⮺](https://itsfoss.com/best-linux-screen-recorders/)
 - [Vokoscreen](https://github.com/vkohaupt/vokoscreen)

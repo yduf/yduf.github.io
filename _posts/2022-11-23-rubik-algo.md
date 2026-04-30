@@ -7,7 +7,8 @@ tags: rubik
 
 **see also**
 - [ This 6 Year Old Shocked Everyone With This New Method ](https://www.youtube.com/watch?v=MaORORH_VIs)
-  - ZB method
+  - [ZB method](https://www.youtube.com/watch?v=vOAM5jMPqKE) - predict the cross + 3 pairs
+    - 793 to memorize for the final stage
 - [My system for solving Rubik's cube](http://www.ws.binghamton.edu/fridrich/system.html) / [HN](https://news.ycombinator.com/item?id=37416999)
 - [Can a Rubik's Cube be brute-forced?](https://news.ycombinator.com/item?id=36645846)
 
