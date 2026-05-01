@@ -19,3 +19,6 @@ tags: security js python microsoft windows
 
 # 2023
 - [Everything authenticated by Microsoft is tainted ](https://news.ycombinator.com/item?id=37702095) 
+
+# 2005
+- [fast16.sys](https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/) / [HN](https://news.ycombinator.com/item?id=47913855) - selectively targets high-precision calculation software, patching code in memory to tamper with results.

@@ -5,6 +5,10 @@ tags: co2 climate-war petrol
 ---
 > Petrol availability may be divided by 2 in 2050, decline should start around 2030. This will divide the import in europe from 2 to 20 during the same period. - [risques d'approvisionnement de l’UE ](https://www.connaissancedesenergies.org/petrole-shift-project-precise-les-risques-dapprovisionnement-de-lue-220218)
 
+- 2026 - Iran war 
+ 
+- [How an Oil Refinery Works](https://news.ycombinator.com/item?id=47962548)
+
 **see also**
 - [Delay, deflect, downplay, and other ways fossil fuel companies block climate action.](https://news.ycombinator.com/item?id=37765049)
 - [ Jancovici révèle une vérité dérangeante sur le pétrole ](https://www.youtube.com/watch?v=jjR2mb_SUj4)

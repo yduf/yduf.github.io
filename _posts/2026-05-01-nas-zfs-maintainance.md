@@ -5,9 +5,51 @@ toc: true
 ---
 > Incident - [Netdata](http://192.168.0.125:19999/)
 
-# [2026-05-01 ⮺]()
+<div class="encart green" markdown="1">
+[$ zpool list](https://chatgpt.com/share/69f4ee60-5528-83eb-b959-c54cb78f8f3c)
+- SIZE: 10.9 TB → total usable capacity
+- ALLOC: 6.91 TB → space currently used
+- FREE: 3.96 TB → remaining space
+- CAP (capacity): 63% → how full the pool is
+- FRAG: 1% → extremely low fragmentation (this is excellent)
+- DEDUP: 1.00× → deduplication is effectively not saving space (likely off or no duplicate data)
+- HEALTH: ONLINE → everything is working normally
+
+</div>
+
+# [2026-05-01 ⮺](https://chatgpt.com/share/69f4e6b8-3c28-83eb-9b5b-ec5a67f051a2)
 
 After scrub
+
+<div class="encart blue" markdown="1">
+**state**: ONLINE → pool is working fine  
+**errors**: No known data errors → no corruption reached your files 👍  
+**CKSUM 562 on sdc** → 562 checksum mismatches detected on that disk  
+**scrub repaired 25.7M** → ZFS found bad data and successfully fixed it using parity (RAIDZ1)  
+</div>
+
+{% highlight bash %}
+$ zpool status
+  pool: storage_pool
+ state: ONLINE
+status: One or more devices has experienced an unrecoverable error.  An
+	attempt was made to correct the error.  Applications are unaffected.
+action: Determine if the device needs to be replaced, and clear the errors
+	using 'zpool clear' or replace the device with 'zpool replace'.
+   see: https://openzfs.github.io/openzfs-docs/msg/ZFS-8000-9P
+  scan: scrub repaired 25.7M in 06:32:41 with 0 errors on Fri May  1 17:26:48 2026
+config:
+
+	NAME          STATE     READ WRITE CKSUM
+	storage_pool  ONLINE       0     0     0
+	 raidz1-0    ONLINE       0     0     0
+	   sda       ONLINE       0     0     0
+	   sdb       ONLINE       0     0     0
+	   sdc       ONLINE       0     0   562
+
+errors: No known data errors
+{% endhighlight %}
+
 
 # [2026-05-01 ⮺](https://chatgpt.com/share/69f485ab-6278-83eb-bc6d-54def0df3554)
 
