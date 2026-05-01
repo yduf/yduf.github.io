@@ -1,6 +1,6 @@
 ---
-title: Compromised
-tags: security
+title: Compromised 🔐
+tags: security js python microsoft windows
 ---
 > who's next?
 
@@ -14,5 +14,8 @@ tags: security
 - [	Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign](https://news.ycombinator.com/item?id=47876043) - password manager
 - 2026-04-25 [  npm, PyPI, and Docker Hub.](https://www.youtube.com/watch?v=r5U4S0uUIVk) 
  
+- [Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library](https://news.ycombinator.com/item?id=47964617) - 2026-04-30
+  
+
 # 2023
 - [Everything authenticated by Microsoft is tainted ](https://news.ycombinator.com/item?id=37702095) 

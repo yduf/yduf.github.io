@@ -1,12 +1,15 @@
 ---
-title: "Windows / linux Dual Boot"
+title: "Windows / linux Dual Boot 🪟🐧"
 tags: windows linux-system ubuntu
+toc: true
 ---
 > How to not break your windows 11 laptop when installing Linux.
 
-This has been tested with LinuxMint 22.3 / Windows 11 Pro (in a enterprise environment)
+<div class="encart green" markdown="1">
+This has been tested with **LinuxMint 22.3** / **Windows 11 Pro** (in a enterprise environment) - 2026-04-30
+</div>
 
-# Windows 11
+# Windows 11 🪟
 
 How to boot linux along side Windows 11 + bitlocker
 
@@ -35,13 +38,13 @@ From inside Windows As Admin
 
 **Notes** doing so, you are disabling TPM and fingerprint login won't work anymore on windows
 
-## Install Linux
+# Install Linux 🐧
 
 - suspend bitlocker again (from Windows) (safe but is required?)
 - restart quickly
 - boot linux installer (now that secure boot is disabled)
 
-### [Dedicated EFI ⮺](https://www.youtube.com/watch?v=0gSr8YsJtd0)
+## [Dedicated EFI ⮺](https://www.youtube.com/watch?v=0gSr8YsJtd0)
 
 <div class="encart orange" markdown="1">
 To avoid interacting with Windows EFI:
@@ -71,15 +74,14 @@ Then proceed to install
 Choose the new EFI as "device for boot loader installation"
 
 
-### [Encrypted setup LUKS ⮺](https://www.youtube.com/watch?v=ZmZYrBPVRVQ&t=167s)
+## [Encrypted setup LUKS ⮺](https://www.youtube.com/watch?v=ZmZYrBPVRVQ&t=167s)
 
 Trick to set it up in the installer
 - choose erase all
 - set [LUKS]({% post_url 2026-04-29-security-luks %})
 - change the install to something else
 
-### Finalize
-
+## Finalize
 
 If you have removed the boot flags you have to set them back
 - choose continue testing
@@ -92,7 +94,7 @@ set 1 boot on
 q
 {% endhighlight %}
 
-### Adding Grub
+## Adding Grub
 
 TBD / use bios for now
 
@@ -100,7 +102,15 @@ TBD / use bios for now
 
 {% endhighlight %}
 
-# Intune
+## [Restoring Secure Boot ⮺](https://wiki.ubuntu.com/UEFI/SecureBoot)
+
+TBD
+
+# [Intune ](https://chatgpt.com/share/69f3ae16-d6d0-83eb-a31a-f18ec157ff11)
+
+Microsoft Intune is a cloud-based device and application management service used by organizations to control and secure employee devices and data.
+
+In simple terms, its purpose is to help companies manage how devices (like laptops, phones, and tablets) are used for work.
 
 ## Install Edge
 
@@ -141,5 +151,27 @@ Intune may complain that password constraint are not compliant
 
 cf [Linux Intune Password Compliance](https://chatgpt.com/share/69f2ec73-ef64-83eb-a147-9387b1c7201f)
 
-# [Microsof Teams ⮺](https://linuxcapable.com/how-to-install-microsoft-teams-on-ubuntu-linux/)
+# [Microsof Teams ⮺](https://linuxcapable.com/how-to-install-microsoft-teams-on-ubuntu-linux/) 🗨️
+
+I choose the Flatpak methods
+- linuxmint is avoiding snaps
+- flatpak is supported natively in linuxmint _Software Manager_ 
+
+# [OneDrive ⮺](https://chatgpt.com/share/69f3aa0b-52f4-83eb-b576-6da62ccb4b49) 🛢️
+
+TBD
+
+**see also**
+- [ top 3 OneDrive clients for Linux](https://linuxbsdos.com/2025/03/22/3-onedrive-clients-for-linux/)
+
+[rclone](https://rclone.org/onedrive/) looks good 
+- Mounts OneDrive as a filesystem → appears directly in Nemo sidebar
+- No full sync required (on-demand access possible)
+- Very stable and widely used
+
+## [Why Use OneDrive on Linux?  ⮺](https://linuxvox.com/blog/ondrive-linux/#why-use-onedrive-on-linux)
+
+- **Cross-platform compatibility**: If you work across different operating systems, OneDrive allows you to access your files regardless of whether you are using Windows, macOS, or Linux.
+- **File sharing**: You can easily share files and folders with colleagues, friends, or family members using OneDrive's sharing features.
+- **Backup**: OneDrive serves as a backup solution for your important files, protecting them from local hardware failures.
 

@@ -1,7 +1,7 @@
 ---
 published: true
 title: Graphic Books Library
-tags: graphic book raytracing physics
+tags: graphic book ray-tracing physics
 ---
 - [An Introduction to Ray Tracing](http://www.realtimerendering.com/blog/an-introduction-to-ray-tracing-is-now-free-for-download/)
 - [Physically Based Rendering](http://www.pbr-book.org/)

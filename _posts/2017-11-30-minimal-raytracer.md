@@ -1,7 +1,7 @@
 ---
 title: A minimal raytracer
 published: true
-tags: raytracing ioccc c++
+tags: ray-tracing ioccc c++
 ---
 > Make a business card sized raytracer - [
 Needlessly complex](https://mzucker.github.io/2016/08/03/miniray.html)

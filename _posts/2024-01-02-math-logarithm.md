@@ -27,6 +27,7 @@ First known modern origin is from [Napier around 1614](https://en.wikipedia.org/
         - $e^ix = cos(x) + isin(x)$ Formule d'Euler
         - $e^iπ = cos(π) + isin(π)$ Identité d'Euler
         - $e^iπ - 1 = 0$ Identité d'Euler
+      - [What's the deal with Euler's identity?](https://lcamtuf.substack.com/p/whats-the-deal-with-eulers-identity) / [HN](https://news.ycombinator.com/item?id=46092453)
 - [ Mathematician Collapses All Functions to One Weird Formula ](https://www.youtube.com/watch?v=hwtqJaS42xk)
 
 ### [Logarithmic scale](https://en.wikipedia.org/wiki/Logarithm#Logarithmic_scale)

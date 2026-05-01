@@ -1,7 +1,7 @@
 ---
 published: true
 title: Ray Tracing in One Weekend
-tags: graphic shader raytracing tutorial
+tags: graphic shader ray-tracing tutorial
 ---
 > I decided to adapt
 my course notes into a how-to, to get you to a cool program as quickly as possible. It will not be

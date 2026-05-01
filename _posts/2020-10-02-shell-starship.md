@@ -8,6 +8,9 @@ toc: true
 - [ The Greatest Minimal Shell Prompt Ever Existed ](https://www.youtube.com/watch?v=oe3gadOQk44)
   - [starship.toml](starship/.config/starship/starship.toml)
 
+**see also**
+- [ The Forever Timeless Terminal Setup ](https://www.youtube.com/watch?v=MHPRnM38Dyc)
+
 # Feature
 - live update
 - change windows title

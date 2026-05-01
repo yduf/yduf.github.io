@@ -84,6 +84,7 @@ This require to add the launcher app to panel (default panel, allows only unpin,
 
 ### Systems
 
+- Cinnamon Classic Menu
 - CPU Temperature Indicator (temperature@fevimu)
 - Dark Mode
 - Multi-Core System Monitor (multicore-sys-monitor@ccadeptic23)

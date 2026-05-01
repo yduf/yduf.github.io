@@ -1,7 +1,7 @@
 ---
 title: Embree Ray Tracing
 published: true
-tags: intel avx raytracing
+tags: intel avx ray-tracing
 ---
 > Embree is an open source high fidelity visualization toolkit for application developers who 
 want to create compelling visual applications to deliver an outstanding user experience on 

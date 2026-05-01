@@ -1,7 +1,7 @@
 ---
 published: true
 title: Physically Based Shading
-tags: raytracing shader physics
+tags: ray-tracing shader physics
 ---
 > [Playground (knarkowicz)](https://www.shadertoy.com/view/4sSfzK)
 

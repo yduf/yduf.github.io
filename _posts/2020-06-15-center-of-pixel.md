@@ -2,7 +2,7 @@
 published: true
 title: 'The Center of the Pixel is (0.5, 0.5)'
 publisehd: true
-tags: image opengl raytracing float
+tags: image opengl ray-tracing float
 ---
 > Pixel centers at (0.5, 0.5) is the convention adopted by all major graphics APIs (OpenGL, DirectX, Vulkan, Metal). That’s because it makes the math, especially around image scaling, becomes a lot simpler. - [HN](https://news.ycombinator.com/item?id=23498294)
 
