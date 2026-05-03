@@ -2,6 +2,7 @@
 title: Message Queues
 published: true
 tags: queue architecture
+toc: true
 ---
 > There's essential decoupling and accidental decoupling; decoupling you want, and decoupling which mostly just obscures your business logic. - [The Big Little Guide to Message Queues](https://news.ycombinator.com/item?id=25596026)
 
@@ -15,10 +16,18 @@ _The decoupling narrative is oversold for queues._
 
 All this logic needs to complete, in sequence, but without higher order workflow systems which encode the state machine, a series of messages and producers and consumers is like so much assembly code hiding the logic. It's easy to end up with the equivalent of COMEFROM code in a message system.
 
+# Task vs Events
+
+[Kafka, RabbitMQ, or SQS? Start Here](https://www.youtube.com/watch?v=uvgb6O6SRcE)
+- **Tasks**: you want to execute them once
+- **Events**: can be shared with multiple subscribers
+
+**Kafka**: logs  - you can rewind at anytime (huge investment)
+**RabbitMQ**: broker - consume message are gone
+**SQS**: managed - with its own limitation
 
 
-
-see also
+# see also
 - [durable message queueing](https://chatgpt.com/share/68cbadfa-5810-800d-a18c-a64f19776d23)
 	- A durable queue is literally a queue that doesn't drop messages e.g. during an unexpected shutdown. That's all.
     - a durable queue makes it vastly simpler to build a durable workflow engine. - [HN](https://news.ycombinator.com/item?id=45186232)

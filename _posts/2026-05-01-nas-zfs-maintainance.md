@@ -5,6 +5,10 @@ toc: true
 ---
 > Incident - [Netdata](http://192.168.0.125:19999/)
 
+<div class="encart blue" markdown="1">
+[**Pool - RAID5 / Z1**](http://127.0.0.1:4000/zfs-ubuntu/#1---pool---raid5--z1) - 3disks x 4To - 
+</div>
+
 <div class="encart green" markdown="1">
 [$ zpool list](https://chatgpt.com/share/69f4ee60-5528-83eb-b959-c54cb78f8f3c)
 - SIZE: 10.9 TB → total usable capacity
@@ -50,6 +54,7 @@ config:
 errors: No known data errors
 {% endhighlight %}
 
+After [`smartctl -a /dev/sdc`](https://chatgpt.com/share/69f70002-3764-83eb-80f2-b492ac36d2c8) => no error detected
 
 # [2026-05-01 ⮺](https://chatgpt.com/share/69f485ab-6278-83eb-bc6d-54def0df3554)
 

@@ -84,9 +84,10 @@ This require to add the launcher app to panel (default panel, allows only unpin,
 
 ### Systems
 
-- Cinnamon Classic Menu
-- CPU Temperature Indicator (temperature@fevimu)
 - Dark Mode
+- Cinnamon Classic Menu
+- Power Consumption Display (batterypower@joka42)
+- CPU Temperature Indicator (temperature@fevimu)
 - Multi-Core System Monitor (multicore-sys-monitor@ccadeptic23)
 
 # [File Explorer ⮺](https://doc.ubuntu-fr.org/nemo)

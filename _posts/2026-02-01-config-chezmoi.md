@@ -1,5 +1,5 @@
 ---
-title: ChezMoi
+title: ChezMoi ~
 published: true
 tags: config nix package
 toc: true
@@ -8,8 +8,20 @@ toc: true
 
 Mainly act as wrapper around _git_ and the management of a special repo dedicated to _.config_ files. All regular git command are available when steping inside the _chezmoi_ repo which is accessible with `chezmoi cd`.
 
-**see also**
-- [ How To ACTUALLY Manage Dotfiles with Stow  ](https://www.youtube.com/watch?v=TLFsee7DDSI) - Full Guide + Git Workflow
+[chezmoi vs Stow](https://chatgpt.com/share/69f63076-e49c-83eb-b21d-62fec797628e)
+
+## chezmoi ~
+- A dedicated dotfile manager with features for templating, encryption, multi-host config, and more.
+- Designed specifically for managing personal config across machines.
+- Maintains a source state (a repo you version control) and applies that safely to your home directory.
+
+## GNU Stow 🔗
+- A symlink farm manager (not dotfiles-specific).
+- Manages sets of files by placing them in separate directories and symlinking them into a target directory.
+- Great for organizing local configuration, packages, or any grouped files using symlinks.
+
+[ How To ACTUALLY Manage Dotfiles with Stow  ](https://www.youtube.com/watch?v=TLFsee7DDSI) - Full Guide + Git Workflow
+
 
 # Install
 

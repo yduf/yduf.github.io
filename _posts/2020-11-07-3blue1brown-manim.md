@@ -1,6 +1,6 @@
 ---
 published: true
-title: Manim (3Blue1Brown) ∑
+title: Manim (3Blue1Brown) 🎬
 tags: math animation 3blue1brown vscode
 toc: true
 ---

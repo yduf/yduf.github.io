@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Uptime 15,364 days (Voyager I)'
+title: 'Uptime 15,364 days (Voyager I) 🛰️'
 tags: quote software space computer voyager
 ---
 > Many applications running for long periods of time eventually transition to broken states, and cannot recover except by being restarted. - [HN](https://news.ycombinator.com/item?id=21288195)
@@ -15,4 +15,5 @@ tags: quote software space computer voyager
 
 - 17/11/2024 - [Voyager 1 Breaks Its Silence with NASA via Radio Transmitter Not Used Since 1981 ](https://news.ycombinator.com/item?id=42107078)
 - 13/12/2023 - [Voyager 1 stops communicating with Earth](https://news.ycombinator.com/item?id=38640900)
-- 12/09/2013 - Voyager leaves Solar System
+- 12/09/2013 - Voyager [leaves Solar System](https://chatgpt.com/share/69f62dcf-f2e4-83eb-8186-ab907e429e78)
+  - [ Gravity Assists Are Basically Free Energy ](https://www.youtube.com/watch?v=1baBzd1XPkU)

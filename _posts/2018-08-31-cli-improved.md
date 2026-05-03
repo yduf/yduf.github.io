@@ -20,6 +20,7 @@ toc: true
   - **csvlens** - scroll over csv files
   - **eza** - improved ls - can display icon / group in grid
   - **tldr** - summarize man page
+  - [**yara**](https://www.youtube.com/watch?v=3l_G46vnQX8) - advanced grep for scan
 
 
 ## [**bat** > cat ⮺](https://github.com/sharkdp/bat#syntax-highlighting)

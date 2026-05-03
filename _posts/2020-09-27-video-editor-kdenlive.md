@@ -2,10 +2,25 @@
 published: true
 title: KDenlive (Video Editor) 🎬
 tags: video editor renderfarm broadcast
+toc: true
 ---
 > Kdenlive is an open source video editor. - [Home](https://kdenlive.org/fr/) / [ r/kdenlive ](https://www.reddit.com/r/kdenlive/)
 
-# Tutorials
+# [Kdenlive in 30 Minutes ⮺](https://www.youtube.com/watch?v=zYD0b8LpiQA)
+
+Video Editing Basics
+- [Change Speed](https://www.youtube.com/watch?v=zYD0b8LpiQA#:~:text=Change%20Speed,-27) - Ctrl+click allow to redimension by changing speed instead of cropping
+- [Extract Frame to project](https://docs.kdenlive.org/en/tips_and_tricks/tips_and_tricks/extract_frame_to_project.html)
+  - [Freeze Frame](https://docs.kdenlive.org/en/effects_and_filters/video_effects/motion/freeze.html) / [demo](https://www.youtube.com/watch?v=eV3IHCmCYhs)
+- [Overlay Clips](https://www.youtube.com/watch?v=zYD0b8LpiQA&t=651s)
+  - [Animated Overlay](https://www.youtube.com/watch?v=p6_iuULZ42o)
+
+## Transition
+- [method 1](https://www.youtube.com/watch?v=voSkdnoAsZg) - vertical transition
+- [method 2](https://www.youtube.com/watch?v=zYD0b8LpiQA&t=797s) - horizontal transition  
+
+
+
 - [ I make all my videos using Linux. Here's how. ](https://www.youtube.com/watch?v=PEFqdqRr18E)
   - kdenlive + [obs]({% post_url 2018-02-23-screen-recorder %}) - recommend flathub
   - 2 Audio recording + auto sync audio track
@@ -16,7 +31,16 @@ tags: video editor renderfarm broadcast
     - Audio -
     - Photo - as camera Lumix
 
-- [Learn Kdenlive in 30 Minutes](https://www.youtube.com/watch?v=zYD0b8LpiQA) - Video Editing Basics
+## [Sequence ⮺](https://www.youtube.com/watch?v=zYD0b8LpiQA&t=1407s)
+- create sequence from selection
+- creat new sequence
+
+## Title
+- [ How to Create Smooth Subtitle Animation - Kdenlive Tutorial ](https://www.youtube.com/watch?v=44ufamHGIgQ)
+rus
+
+## Vertical Video
+- [ Convert Horizontal Videos To Vertical - Kdenlive Tutorial ](https://www.youtube.com/watch?v=ymJ3jaBmwDY)
 
 ## Audio
 

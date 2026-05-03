@@ -7,6 +7,21 @@ toc: true
 >  [r/Onyx_Boox ](https://www.reddit.com/r/Onyx_Boox/)
 
 - [BooxDrop 📁](http://192.168.0.14:8085)
+  
+# Custom Note Template
+
+It is very easy to creat custom template:
+- create a new note
+- draw your template (with help from the smart tool for doing circle / rect / line)
+  - change linewidth / and color as you like
+  - copy / replicate and adjust the layout
+- when the page is done
+  - export it as vector pdf and then move it in   `Storage/noteTemplates`
+
+Now create a new Notes
+- go to custom Template
+- choose Add / and pick up the pdf created above.
+- It will be use as the page template, and by default you will write in the calc above (like any other template)
 
 ## Boox OS Tips
 

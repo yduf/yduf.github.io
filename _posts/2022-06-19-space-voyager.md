@@ -1,7 +1,7 @@
 ---
 published: true
 title: Voyager I/II
-tags: space astronomy quote
+tags: space astronomy gravity quote
 ---
 > You carry more computing power in your pocket than what we have on Voyager. And by that, I don't mean your smart phone. I mean you car key fob. - [HN](https://news.ycombinator.com/item?id=31779964)
 
