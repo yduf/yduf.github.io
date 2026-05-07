@@ -5,6 +5,11 @@ toc: true
 ---
 > Running Model locally - [Cursor@Home]({% post_url 2025-12-17-llm-cursor-at-home %})
 
+| Model | Size | Speed | Comments |
+| --- | --- | --- | --- |
+| unsloth/qwen3-coder-30b-a3b-instruct | 11GB/12.4GB | 55.46 tok/sec - 1019 tokens - 0.03s to first token |  |
+|  |  |  |  |
+
 # [Qwen3.5](https://news.ycombinator.com/item?id=47292522)
 
 Qwen3.5 is Alibaba’s new model family, including Qwen3.5-35B-A3B, 27B, 122B-A10B and 397B-A17B and the new Small series: Qwen3.5-0.8B, 2B, 4B and 9B. The multimodal hybrid reasoning LLMs deliver the strongest performances for their sizes. They support 256K context across 201 languages, have thinking + non-thinking, and excel in agentic coding, vision, chat, and long-context tasks. The 35B and 27B models work on a 22GB Mac / RAM device.

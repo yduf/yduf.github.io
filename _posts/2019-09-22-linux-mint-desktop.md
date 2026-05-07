@@ -75,6 +75,12 @@ This require to add the launcher app to panel (default panel, allows only unpin,
 
 ## [Recent files](https://askubuntu.com/questions/540661/how-do-i-disable-the-recent-files-feature-in-the-cinnamon-desktop-environment) - pull up the menu, type 'privacy' 
 
+## Accessability
+
+[Zoom while scrolling with two fingers](https://chatgpt.com/share/69fc3334-fae8-83eb-aa14-83d7b1f88d74)
+- enable zoom in Accessability panel
+- Alt + 2finger pad scroll / or wheel mouse
+
 ## Applets
 
 ### Workspace setting

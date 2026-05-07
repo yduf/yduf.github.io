@@ -42,6 +42,8 @@ see [Fully working Manim setup](https://github.com/yduf/Manim-starter#fully-work
 
 ## [Hello World ⮺](https://docs.manim.community/en/stable/tutorials/quickstart.html)
 
+- [Manim Basics in 100 Seconds](https://www.youtube.com/watch?v=rIgOfmcd1iA)
+
 {% highlight bash %}
 $ manim init project my-project --default
 {% endhighlight %}
@@ -60,3 +62,42 @@ class CreateCircle(Scene):
 ## Example
 - [IDS graph search Algorithm](https://www.youtube.com/watch?v=7DLmUKHdi6A) / [code](https://github.com/Danial-Kord/Artificial-Intelligence-Visualization)
 
+## [Mobjects ⮺](https://docs.manim.community/en/stable/tutorials/building_blocks.html#mobjects)
+
+Mobjects are the basic building blocks for all manim animations. Each class that derives from Mobject represents an object that can be displayed on the screen. 
+
+## [VGroup ⮺](https://docs.manim.community/en/stable/reference/manim.mobject.types.vectorized_mobject.VGroup.html)
+
+a VGroup (short for Vectorized Group) is a container that let you “bundle” shape together so you can move, scale, or animate them all at once:
+- Holds multiple vectorized mobjects (like shapes, text, lines)
+- Lets you apply transformations to the whole group
+- Keeps relative positioning between its elements
+
+{% highlight python %}
+from manim import *
+
+class VGroupExample(Scene):
+    def construct(self):
+        circle = Circle()
+        square = Square().shift(RIGHT)
+        triangle = Triangle().shift(LEFT)
+
+        group = VGroup(circle, square, triangle)
+
+        self.play(Create(group))
+        self.play(group.animate.shift(UP))
+{% endhighlight %}
+
+## [Scene ⮺](https://docs.manim.community/en/stable/tutorials/building_blocks.html#scenes)
+
+The _Scene_ class is the connective tissue of manim. Every mobject has to be added to a scene to be displayed, or removed from it to cease being displayed. Every animation has to be played by a scene, and every time interval where no animation occurs is determined by a call to wait(). 
+
+## Animation
+
+- [88 Manim Animations in ONE Video ](https://www.youtube.com/watch?v=5qj3b7DY5oA&t=50s)
+
+## Graph
+
+- [ 2D Graphs](https://www.youtube.com/watch?v=jFqYq9quBds&list=PL3Q3QFVgazl1qr948EOpix__PrVxjg4RO&index=9)
+- [Graphing with Updaters](https://www.youtube.com/watch?v=kXqAme1jCmg&list=PL3Q3QFVgazl1qr948EOpix__PrVxjg4RO&index=10)
+- [ 3D Graphing](https://www.youtube.com/watch?v=FEtYAw3sI9Y&list=PL3Q3QFVgazl1qr948EOpix__PrVxjg4RO&index=52)

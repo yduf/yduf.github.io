@@ -106,6 +106,28 @@ TBD / use bios for now
 
 TBD
 
+## [Hardware Clock  ⮺](https://chatgpt.com/share/69f86113-cfdc-83eb-8a79-64554bb386f3)
+
+Windows and Linux interpret the hardware clock differently.
+- Linux assumes the hardware clock (RTC) is set to UTC
+- Windows 11 assumes the hardware clock is set to local time
+
+Fix one or the other:  
+**Make Windows use UTC** - this may not work if registry is erase on reboot (entreprise setup)
+- regedit: `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\TimeZoneInformation`
+  - DWORD (32-bit) named: RealTimeIsUniversal
+  - Set value to: 1
+  
+and you need to be Admin.
+
+**Make Linux us local Time**
+This is probably the safest & simplest
+
+{% highlight bash %}
+$ timedatectl set-local-rtc 1
+{% endhighlight %}
+
+
 # [Intune ](https://chatgpt.com/share/69f3ae16-d6d0-83eb-a31a-f18ec157ff11)
 
 Microsoft Intune is a cloud-based device and application management service used by organizations to control and secure employee devices and data.
