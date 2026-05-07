@@ -6,8 +6,8 @@ toc: true
 > Running Model locally - [Cursor@Home]({% post_url 2025-12-17-llm-cursor-at-home %})
 
 | Model | Size | Speed | Comments |
-| --- | --- | --- | --- |
-| unsloth/qwen3-coder-30b-a3b-instruct | 11GB/12.4GB | 55.46 tok/sec - 1019 tokens - 0.03s to first token |  |
+| ------------------------------------ | ----------- | -------------------------------------------------- | --- |
+| unsloth/qwen3-coder-30b-a3b-instruct | 11GB/12.4GB | 55.46 tok/sec -² 1019 tokens - 0.03s to first token | LM Studio 3.6 |
 |  |  |  |  |
 
 # [Qwen3.5](https://news.ycombinator.com/item?id=47292522)
