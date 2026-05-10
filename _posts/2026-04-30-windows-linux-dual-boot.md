@@ -1,6 +1,6 @@
 ---
 title: "Windows / linux Dual Boot 🪟🐧"
-tags: windows linux-system ubuntu
+tags: windows linux-system boot ubuntu
 toc: true
 ---
 > How to not break your windows 11 laptop when installing Linux.

@@ -1,7 +1,7 @@
 ---
 published: true
 title: '# ZFS (Ubuntu) 🖴'
-tags: zfs linux-system storage
+tags: zfs linux-system disk storage
 toc: true
 ---
 > ZFS unlike most other storage systems, it unifies both of these roles and acts as both the volume manager and the file system. Therefore, it has complete knowledge of both the physical disks and volumes - [wikipedia](https://en.wikipedia.org/wiki/ZFS)
@@ -42,7 +42,23 @@ cd /storage_pool
 df -h .
 {% endhighlight %}
 
+## [Backup ⮺](https://chatgpt.com/share/69fb6405-824c-83eb-a1f5-7204809e90e5)
+
+You can backup easily from zfs pool to an other zfs pool using [Syncoid](https://github.com/jimsalterjrs/sanoid#syncoid).
+From pool to usb-3 at 0.5TB/hour (100MB/s)
+
+{% highlight bash %}
+$ syncoid \
+  --recursive \
+  --compress=zstd-fast \
+  --no-sync-snap \
+  --mbuffer-size=1G \
+  storage_pool \
+  backup/storage_pool
+{% endhighlight %}
+
 ## [Replacing a (silently) failing disk in a ZFS pool](https://imil.net/blog/2019/07/02/Replacing-a-silently-failing-disk-in-a-ZFS-pool/)
+
 
 # Configuration
   

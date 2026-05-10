@@ -44,6 +44,13 @@ rus
 
 ## Audio
 
+### [Voice Over  ⮺](https://chatgpt.com/share/6a005a47-001c-83eb-9d1f-dddbc58aba71)
+- [How to Record Audio Voiceover in Kdenlive](https://www.youtube.com/shorts/moppoD-TC6c)
+
+Kdenlive usually applies effects during playback and editing, not true ultra-low-latency live monitoring like a DAW (Digital Audio Workstation).
+
+A lot of creators therefore use external audio processing tools instead. Reddit users frequently recommend using external apps like Audacity, OBS, or system-level audio routing for better live voice processing.
+
 ### [Workflow  ⮺](https://chatgpt.com/share/69ecfc33-0eb0-83eb-a91a-7f282e555e59)
 
 [Simple recommended setup](https://www.reddit.com/r/obs/comments/l6yt0c/best_obs_mic_settings_for_any_mic_obs_filters/)
@@ -95,6 +102,12 @@ Try using an [older version without the bug](https://www.reddit.com/r/kdenlive/c
 - [Sequence](https://www.youtube.com/watch?v=fWaGG8xY51M)
 	- [BUG: No audio from sequence when created from clips in main timeline ](https://www.reddit.com/r/kdenlive/comments/1b2pifa/bug_no_audio_from_sequence_when_created_from/) - just reinsert them in the main sequence
 
+### Effect
+- [Remove Peopel and Objects From Video](https://www.youtube.com/shorts/bS7M1MHhFq4)
+
+- [Transform Your Videos With Overlays](https://www.youtube.com/watch?v=kE85bq-qFLI)
+
+- [Zoom In](https://www.youtube.com/watch?v=wW7FbKVe77Y&list=PLF9C79uP55063AJyZyYaDMqzWcbjum-ma)
 
 ### Renderfarm
 - [render notes](https://gist.github.com/glilco/952a54520ec3dc93394c4c80e1d44a2e)

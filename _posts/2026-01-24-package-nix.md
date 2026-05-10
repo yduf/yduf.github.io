@@ -8,6 +8,9 @@ toc: true
 
 <link rel="shortcut icon" href="https://nix.dev/_static/favicon.png" type="image/x-icon" />
 
+**see also**
+- [mise](https://mise.jdx.dev/) / [HN](https://news.ycombinator.com/item?id=48038864) - some people recommend _mise_ as simpler alternative to nix for devenv configuration.
+
 # [Pick your pills _--daemon/--no-daemon_  ⮺](https://chatgpt.com/share/6974a2a5-5b6c-800d-8fe3-f1fb83ed44a8)
 
 Whatever the choice

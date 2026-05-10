@@ -7,10 +7,28 @@ toc: true
 
 | Model | Size | Speed | Comments |
 | ------------------------------------ | ----------- | -------------------------------------------------- | --- |
-| unsloth/qwen3-coder-30b-a3b-instruct | 11GB/12.4GB | 55.46 tok/sec -² 1019 tokens - 0.03s to first token | LM Studio 3.6 |
-|  |  |  |  |
+| qwen3-14b-claude-4.5-opus-high-reasoning-distill                    | 9GB | 80 tok/sec | LM Studio 4.12 |
+| unsloth/qwen3-coder-30b-a3b-instruct                                | 11GB/12.4GB | 55.46 tok/sec - 1019 tokens - 0.03s to first token | LM Studio 3.6 |
+| llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-NVFP4-Experts-Only-GGUF | 12.5GB | 10 tok/sec - 2898 tokens - 1.16s to first token | LM Studio 4.12 |
+| llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-NVFP4-Experts-Only-GGUF | 12.5GB | 10 tok/sec - 2898 tokens - 1.16s to first token | LM Studio 4.12 |
 
-# [Qwen3.5](https://news.ycombinator.com/item?id=47292522)
+
+# [Qwen3.6 ⮺](https://ollama.com/library/qwen3.6:35b-a3b-coding-nvfp4)
+
+This release delivers substantial upgrades, particularly in
+
+- Agentic Coding: the model now handles frontend workflows and repository-level reasoning with greater fluency and precision.
+
+- Thinking Preservation: we’ve introduced a new option to retain reasoning context from historical messages, streamlining iterative development and reducing overhead.
+
+**see also**
+- [ Qwen 3.6 Locally: Can I use it for my daily tasks? ](https://www.youtube.com/watch?v=7ejQSGaiyQE)
+  - 27B - better on coding task (but dense)
+  - 35B - faster
+  - [Prompt Vault](https://github.com/w512/Prompt-Vault#prompt-vault) - a curated collection of structured coding prompts and challenges designed for testing Large Language Models (LLMs)
+
+
+# [Qwen3.5 ⮺](https://news.ycombinator.com/item?id=47292522)
 
 Qwen3.5 is Alibaba’s new model family, including Qwen3.5-35B-A3B, 27B, 122B-A10B and 397B-A17B and the new Small series: Qwen3.5-0.8B, 2B, 4B and 9B. The multimodal hybrid reasoning LLMs deliver the strongest performances for their sizes. They support 256K context across 201 languages, have thinking + non-thinking, and excel in agentic coding, vision, chat, and long-context tasks. The 35B and 27B models work on a 22GB Mac / RAM device.
 
@@ -34,7 +52,7 @@ It’s also easier to run locally because the total model size is smaller (30B).
 [**RTX 5070 Ti**](https://chatgpt.com/share/69adda48-f1a0-800d-8d16-b17fa96b7e28)
 - [Running 3.5 9B on my ASUS 5070ti 16G with lm studio](https://news.ycombinator.com/item?id=47294937)
 
-## [Qwen3-Coder-Next](https://chatgpt.com/share/69ade4d7-b610-800d-a969-78b61b8c503f)
+## [Qwen3-Coder-Next ⮺](https://chatgpt.com/share/69ade4d7-b610-800d-a969-78b61b8c503f)
 
 Much larger model: ~80B parameters total / ~3B active per token 
 - very sparse Mixture-of-Experts
@@ -57,7 +75,7 @@ Typical strengths:
 
 # Quantisation
 
-## [Q4_K_M](https://chatgpt.com/share/69addc61-4328-800d-b04c-3c3f1c1ae897)
+## [Q4_K_M ⮺](https://chatgpt.com/share/69addc61-4328-800d-b04c-3c3f1c1ae897)
 
 Q4_K_M is a compressed 4-bit version of an AI model that balances small size with good accuracy.
 
@@ -75,7 +93,7 @@ Instead of compressing each weight independently, it compresses blocks of weight
 
 # Model Parameters
 
-## [A3B](https://chatgpt.com/share/69addea8-9148-800d-92e3-67c4e0926a2b)
+## [A3B ⮺](https://chatgpt.com/share/69addea8-9148-800d-92e3-67c4e0926a2b)
 
 Some newer models use a Mixture-of-Experts (MoE) architecture.  
 **A3B** → Active 3B parameters during inference.
@@ -92,7 +110,11 @@ Example
 | ERNIE-4.5-21B-A3B | 21B              | ~3B active        |
 
 
-## [instruct](https://chatgpt.com/share/6985a9bb-67b0-800d-8a87-83d97db2f72b) 
+## [instruct ⮺](https://chatgpt.com/share/6985a9bb-67b0-800d-8a87-83d97db2f72b) 
 
 This refers to a model that is specifically trained or fine-tuned to follow instructions from users in a helpful, safe, and coherent way.
 
+
+## [DFlash ⮺](https://github.com/z-lab/dflash#dflash-block-diffusion-for-flash-speculative-decoding) 
+
+DFlash is a novel speculative decoding method that utilizes a lightweight block diffusion model for drafting. It enables efficient, high-quality parallel drafting that pushes the limits of inference speed.

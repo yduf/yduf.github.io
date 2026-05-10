@@ -1,7 +1,7 @@
 ---
 published: true
 title: Mount drive outside of Synology Box
-tags: disk synology nas linux filesystem
+tags: disk synology filesystem linux-system
 ---
 ## [How?](https://superuser.com/questions/550064/how-mount-find-recover-data-in-hdd-outside-of-synology-box)
 
