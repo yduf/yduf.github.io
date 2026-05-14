@@ -1,5 +1,5 @@
 ---
-title: Android Remote control
+title: Android Remote control 📱
 published: true
 tags: android kvm remote display debug-android
 ---

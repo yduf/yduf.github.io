@@ -9,6 +9,7 @@ tags: computer cpu electronic tutorial blog-electronic
 - [How is data stored?](https://www.makingsoftware.com/chapters/how-is-data-stored) /  [HN](https://news.ycombinator.com/item?id=46960485)
 	- [codehiddenlanguage](https://codehiddenlanguage.com/) - The Hidden Language of Computer Hardware and Software
 - [cpu.land](https://cpu.land/) / [HN](https://news.ycombinator.com/item?id=46554982)
+- [Screenshots of Old Desktop OSes](https://news.ycombinator.com/item?id=48104428)
 
 [![caption](https://yt3.ggpht.com/S29wEjoodDYZ7RTVEtF30KrFOKABSlqphjNwGzC8RCslsketGsynfUKr8aSpXWMBFAZH9AAP=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)](https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA)
 

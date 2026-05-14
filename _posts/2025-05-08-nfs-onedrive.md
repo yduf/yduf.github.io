@@ -27,6 +27,8 @@ toc: true
 **Notes**:
 - not to be confused with [rclone serve s3](https://rclone.org/commands/rclone_serve_s3/) which make rclone emulate a S3 backend and is still exprimental
 
+**see also**
+- [I Just Want Simple S3](https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/) / [HNvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv](https://news.ycombinator.com/item?id=47729350)
 
 # [CopyParty ⮺](https://news.ycombinator.com/item?id=44711519)
 

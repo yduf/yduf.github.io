@@ -5,6 +5,11 @@ toc: true
 ---
 > Running Model locally - [Cursor@Home]({% post_url 2025-12-17-llm-cursor-at-home %})
 
+# [ Models  ⮺](https://huggingface.co/models)
+
+**see also**
+- [The Best Local Agentic Coding Workflow (Complete Guide)](https://www.youtube.com/watch?v=UngVdAsQEiU)
+
 | Model | Size | Speed | Comments |
 | ------------------------------------ | ----------- | -------------------------------------------------- | --- |
 | qwen3-14b-claude-4.5-opus-high-reasoning-distill                    | 9GB | 80 tok/sec | LM Studio 4.12 |

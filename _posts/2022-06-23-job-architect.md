@@ -1,7 +1,7 @@
 ---
 published: true
 title: Software Architect
-tags: job
+tags: job senior
 ---
 > The Software Architect is responsible for defining the high level and detailed technical designs for supported teams and or programs. The Software Architect will collaborate with technical leadership to translate business requirements into technical solutions that align with product roadmap business goals and technology strategy. [linkedin offer](https://www.linkedin.com/jobs/view/3128216408/?lgTemp=jobs_jymbii_digest&eBP=NotAvailableFromMidTier&lgCta=eml-jymbii-organic-job-card&recommendedFlavor=SCHOOL_RECRUIT&refId=u4MJNKQTlc2rBm0y0caGKA%3D%3D&trackingId=u4MJNKQTlc2rBm0y0caGKA%3D%3D&midToken=AQFARR38CrFIvA&midSig=2CYuZvYQnn7qk1&trk=eml-jobs_jymbii_digest-jymbii-31-job_card_mercado&trkEmail=eml-jobs_jymbii_digest-jymbii-31-job_card_mercado-null-ptpe0%7El4pirrmi%7Es1-null-jobs%7Eview)
 

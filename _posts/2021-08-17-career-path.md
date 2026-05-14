@@ -1,7 +1,7 @@
 ---
 published: true
 title: Career Path
-tags: career job
+tags: career job senior
 ---
 > getting promoted—like other forms of external validation—shouldn’t be the ultimate goal in anyone’s career, because it’s not fulfilling. - [Career Growth: What Paths After Senior Engineer](https://codecapsule.com/2021/06/15/career-growth-what-paths-after-senior-engineer/)
 

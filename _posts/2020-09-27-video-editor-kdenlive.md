@@ -108,6 +108,7 @@ Try using an [older version without the bug](https://www.reddit.com/r/kdenlive/c
 - [Transform Your Videos With Overlays](https://www.youtube.com/watch?v=kE85bq-qFLI)
 
 - [Zoom In](https://www.youtube.com/watch?v=wW7FbKVe77Y&list=PLF9C79uP55063AJyZyYaDMqzWcbjum-ma)
+- [Object Mask](https://www.youtube.com/watch?v=4Pw9b6xhO_k) - object detection
 
 ### Renderfarm
 - [render notes](https://gist.github.com/glilco/952a54520ec3dc93394c4c80e1d44a2e)

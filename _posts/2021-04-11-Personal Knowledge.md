@@ -8,7 +8,7 @@ toc: true
 
 > Knowledge is ephemeral. Even recording knowledge doesn't imply or guarantee that it will be passed down the generations entire. In fact, throughout history there are times when humankind 'forgot' how to do certain things. - [Jonathan Blow – Preventing the Collapse of Civilization](https://news.ycombinator.com/item?id=25788317)
 
-## [How to organize personal knowledge?](https://news.ycombinator.com/item?id=17892731)
+# [How to organize personal knowledge?](https://news.ycombinator.com/item?id=17892731)
 
 - [	Logseq ](https://news.ycombinator.com/item?id=25090176) – privacy-first, open-source knowledge sharing and management platform
 - [dendron](https://www.dendron.so/) a local-first, markdown based, hierarchical note-taking application built on top of VSCode and friends. / [HN](https://news.ycombinator.com/item?id=26491764) / [2](https://news.ycombinator.com/item?id=29998680)
@@ -30,3 +30,11 @@ toc: true
   - Having an AI that learn over time.
     - karpathy's is write time system knowlegde system (work happens one time at input) - [Karpathy's LLM Wiki - Full Beginner Setup Guide](https://www.youtube.com/watch?v=iXd0t60YmMw)
     - open brain is query system (analysis is done at query time)
+
+## Sources
+
+Backup
+- youtube
+- hackernews
+- chatgpt
+- web

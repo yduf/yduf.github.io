@@ -1,7 +1,7 @@
 ---
 published: true
 title: Job interview
-tags: job
+tags: job senior
 ---
 > When you're junior, coachability is what gets you hired. How quickly can we train you to be effective?
 >

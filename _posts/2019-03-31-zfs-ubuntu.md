@@ -12,7 +12,7 @@ toc: true
     - You'll see the module loaded automatically if you use it.
     - The user space zfsutils-linux package will be included in Ubuntu Main, with security updates provided by Canonical.
 
-# [The Basics](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
+# [The Basics  ⮺](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
 
 **ZFS pool** and thus your _file system_ is based on one or more **VDEVs**. And those VDEVs contain the actual hard drives.
 
@@ -103,7 +103,17 @@ zfs rename tank/home/maybee tank/ws/maybee             # relocate (mv)
 {% endhighlight %}
   
 When you relocate a file system through rename, the new location must be within the same pool and it must have enough disk space to hold this new file system. If the new location does not have enough disk space, possibly because it has reached its quota, rename operation fails.
-  
+
+
+## [Mount Point  ⮺](https://chatgpt.com/share/6a05c2c0-8b6c-83eb-8b99-d3f3f634dedd)
+
+On ZFS, mount points are not defined in /etc/fstab. They are stored as dataset properties inside the pool itself.
+So it travels with the pool and is automatically restored when the pool is imported.
+
+{% highlight bash %}
+$ zfs get mountpoint
+{% endhighlight %}
+
 ### [Changing FS Mount Point](https://www.tech-recipes.com/rx/1412/zfs-set-or-change-the-mount-point-of-a-filesystem/)
   
 To change the mount point of the filesystem techrx/logs to /var/logs, you must first create the mount point (just mkdir a directory) if it does not exist, and then change it

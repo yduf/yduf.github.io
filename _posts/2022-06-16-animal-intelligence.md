@@ -7,7 +7,12 @@ tags: animal human AI LLM identity
 
 Being surprised that animals so different than us possibly dream is just another form of [Descartes’ ridiculous thought](https://www.cambridge.org/core/journals/canadian-journal-of-philosophy/article/abs/descartes-on-the-animal-within-and-the-animals-without/78F88E65AFD6B17B36E1C964A0131A34). - [ 	
 	Spiders Seem to Have REM-Like Sleep and May Even Dream](https://news.ycombinator.com/item?id=32396061)
-    
+
+- [They’re made out of meat](http://www.terrybisson.com/theyre-made-out-of-meat-2/) / [HN](https://news.ycombinator.com/item?id=47688678)
+  - _There’s no doubt about it. We picked up several from different parts of the planet, took them aboard our recon vessels, and probed them all the way through. They’re completely meat._
+  - That’s impossible. What about the radio signals? The messages to the stars?
+  - _I’m not asking you, I’m telling you. These creatures are the only sentient race in that sector and they’re made out of meat._
+
 - [The Soliloquies of the Lambs: Review of Why Animals Talk](https://news.ycombinator.com/item?id=39324040)
 - [Flying Squirrel plays dead. Fakes crime scene.](https://www.youtube.com/watch?v=f75Vet_sJNo) - Squirrel put a broomstick down and then fake the action to make it look like the broomstick killed him. Looking around to see if owner notice him. (filmed before AI)
 - [	Wild elephants may have names that other elephants use to call them](https://news.ycombinator.com/item?id=40640076)

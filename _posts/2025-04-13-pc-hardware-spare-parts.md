@@ -42,3 +42,10 @@ tags: pc-hardware disk storage
     {% endtablerow %}
   {% endfor %}
 </table>
+
+# SATA
+
+| Disk | Year | Capacity | comments |
+| --- | --- | --- | --- |
+| WD10EADS | 2009 | 1To |  |
+| Samsung HD103SJ | 2010 | 1To |  |

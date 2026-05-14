@@ -1,8 +1,10 @@
 ---
 title: Reducing ambiguity
-tags: software job 
+tags: software job senior
 ---
 > [What Actually Makes You Senior](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/) / [HN](https://news.ycombinator.com/item?id=46327692)
+
+- [	Why senior developers fail to communicate their expertise](https://news.ycombinator.com/item?id=48109460)
 
 Meanwhile the industry standard definition since the 80s:
 - Junior - someone who can work under guidance.

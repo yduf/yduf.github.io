@@ -1,7 +1,7 @@
 ---
 published: true
 title: Mechanical Clock Display
-tags: clock 3dmodel
+tags: mechanical clock 3dmodel project
 ---
 > nice looking clock
 
@@ -10,3 +10,6 @@ tags: clock 3dmodel
 inspired [by ?](http://fablabsendai-flat.com/2019/11/04/mechanical7seg_jp/)
 
 [![caption](https://cdn.hackaday.io/images/3467801665223403555.jpg)](https://hackaday.io/project/187684-eptaora)
+
+**see also**
+- [Flipdiscs](https://flipdisc.io/) / [HN](https://news.ycombinator.com/item?id=47875795) 

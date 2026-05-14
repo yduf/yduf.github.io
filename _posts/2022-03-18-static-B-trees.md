@@ -6,6 +6,7 @@ tags: tree search algorithm fastware
 > Static B-Trees,  a data structure for faster binary search - [Algorithmica.org](https://en.algorithmica.org/hpc/data-structures/s-tree/) / [HN](https://news.ycombinator.com/item?id=30376140)
 
 ### see also
+- [	40x Faster Binary Search](https://news.ycombinator.com/item?id=47726340) / [slide](https://fr.slideshare.net/slideshow/embed_code/key/F2exkhxT6GuWe4) -  exploit everything that modern CPUs have to offer (SIMD, ILP, prefetching, efficient caching) in order to gain 40x increased throughput over the Rust standard library implementation.
 - [You can beat the binary search](https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/) / [HN](https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/) - using SIMD
 - [	B-Trees Require Fewer Comparisons Than Balanced Binary Search Trees](https://news.ycombinator.com/item?id=40768418) 
 	- How B-trees can win is by taking advantage of the node children being sorted in an array. This allows a binary search to be used. Binary search makes B-tree more or less equivalent to a very balanced binary tree. - [HN](https://news.ycombinator.com/item?id=40774105)
