@@ -1,9 +1,14 @@
 ---
 title: Running Local LLM
-tags: LLM at_home
+tags: LLM at_home network
 toc: true
 ---
 > Running Model locally - [Cursor@Home]({% post_url 2025-12-17-llm-cursor-at-home %})
+
+
+**see also**
+- [ 4-node AMD cluster](https://www.youtube.com/watch?v=32cjdHVoSRo) - runing 512GB Model locally / needs $$$$
+  - 4-node Minisforum MS-S1 Max Strix Halo cluster
 
 # [ Models  ⮺](https://huggingface.co/models)
 
@@ -123,3 +128,7 @@ This refers to a model that is specifically trained or fine-tuned to follow inst
 ## [DFlash ⮺](https://github.com/z-lab/dflash#dflash-block-diffusion-for-flash-speculative-decoding) 
 
 DFlash is a novel speculative decoding method that utilizes a lightweight block diffusion model for drafting. It enables efficient, high-quality parallel drafting that pushes the limits of inference speed.
+
+## GGUF
+
+- [What's in a GGUF, besides the weights - and what's still missing?](https://nobodywho.ooo/posts/whats-in-a-gguf/) / [HN](https://news.ycombinator.com/item?id=48138332)

@@ -76,10 +76,19 @@ Cline is an open source AI coding agent that brings frontier AI models directly 
 
 see [Cline vs Cursor](https://chatgpt.com/share/69446ae1-4990-800d-b80a-bd62c220adb1)
 
-|        | [Model Leaderboard ⮺](https://vercel.com/ai-gateway/leaderboards) |    |                                                                                                                        |
-|--------|-----------------------|------------|
-| Plan   | z-ai/glm-4.6          | 2026-04-03 |
-| Act    | x-ai/grok-code-fast-1 | 2026-04-03 |
+| [Model Leaderboard ⮺](https://vercel.com/ai-gateway/leaderboards) |  | Plan | Act | Price |
+| --- | --- | --- | --- | --- |
+| deepseek/deepseek-v4-pro | 2026-05-17 |  | ✅ | Context: 1.0MInput: $0.43/MOutput: $0.87/M | 
+| z-ai/glm-4.6 | 2026-04-03 | ✅ |  |  |
+| moonshotai/kimi-k2.6 | 2026-05-17  |  | ✅ | Context: 262K Input: $0.73/M Output: $3.49/M |
+| x-ai/grok-code-fast-1 | 2026-04-03 |  | ✅ |  |
+
+## Setup
+- Native tools: 
+- Background edit: enabled
+
+### Terminal
+- background execution mode (avoid messing & be stuck within VSCode)
 
 ## [CLI ⮺](https://docs.cline.bot/getting-started/installing-cline#cli)
 

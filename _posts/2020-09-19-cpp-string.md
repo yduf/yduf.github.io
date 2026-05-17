@@ -2,14 +2,16 @@
 published: true
 title: String litterals (c++)
 tags: c++ string
+toc: true
 ---
 > Can a std::string contain embedded nulls? - [yes](https://stackoverflow.com/questions/2845769/can-a-stdstring-contain-embedded-nulls)
 
-see also
+**see also**
 - [User-defined literals (since C++11)](https://en.cppreference.com/w/cpp/language/user_literal.html)
 	- [exploiting this](https://youtu.be/ejbTKtgSZI0?si=kxHDUbl-Ygs3UVr8&t=2372) - this mechanism imply running a function at compile time
 
-### [Raw string literals c++11](https://stackoverflow.com/a/5460235/51386)
+
+# [Raw string (C++11) ⮺](https://stackoverflow.com/a/5460235/51386)
 
 This is the closest to [Ruby Heredoc]({% post_url 2019-02-19-ruby-string %})
 
@@ -25,6 +27,18 @@ Or I will rend thee in the gobberwarts with my blurlecruncheon, see if I don't.
 )V0G0N";
 {% endhighlight %}
 
+
+simple form
+
+{% highlight cpp %}
+const char* schema = R"(
+        CREATE TABLE IF NOT EXISTS meta (
+            key   TEXT PRIMARY KEY,
+            value INTEGER NOT NULL
+        ) WITHOUT ROWID;
+{% endhighlight %}
+
+# x line
 older solution, for a one line string
 
 {% highlight cpp %}
@@ -34,6 +48,7 @@ std::string multiline_str =
     "Line 3";
 {% endhighlight %}
 
+# macro
 or [with a _macro_](https://www.delftstack.com/howto/cpp/cpp-multiline-string-cpp/) / [SO](https://stackoverflow.com/a/14293615/51386). It will replace any number of consecutive whitespace characters by a single space
 {% highlight cpp %}
 #define MULTILINE_STRING(...) #__VA_ARGS__
@@ -43,7 +58,7 @@ or [with a _macro_](https://www.delftstack.com/howto/cpp/cpp-multiline-string-cp
       by the help of Delft Stack Tutorials.);
 {% endhighlight %}
 
-### see also
+# see also
 - [	Just how constexpr is C++20’s std:string?](https://news.ycombinator.com/item?id=37431425)
 
 {% highlight cpp %}

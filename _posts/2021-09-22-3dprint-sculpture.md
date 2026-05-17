@@ -7,6 +7,8 @@ tags: art 3dprint statue
 
 ![caption](https://miro.medium.com/max/1400/1*W_A3tqlt1IfzxvKWvDQJ0w.jpeg)
 
+- [3d printed livesize Ghost in the Shell Major Motoko Kusanagi](https://www.youtube.com/watch?v=n3vc6QKy6sk)
+  
 see also
 - [LuBan](https://www.luban3d.com/) - autocut software for printing big parts
 	- [How to Easily Print Large Models on Your 3D Printer](https://www.youtube.com/watch?v=uY2lr0GNEVs)

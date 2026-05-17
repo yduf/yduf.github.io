@@ -2,9 +2,15 @@
 title: DNS
 published: true
 tags: network home security
+toc: true
 ---
 > Why is DNS still hard to learn? - [jvns](https://news.ycombinator.com/item?id=36909427)
 
+# Setup
+
+- [	You can run a DNS server (2025)](https://news.ycombinator.com/item?id=47453738)
+	- The ISP's blackhole the IP for some blocked domains. So changing your DNS to 8.8.8.8 will resolve the domain, but the IP won't work. A VPN avoids this, since the traffic goes via the VPN IP. - [HN](https://news.ycombinator.com/item?id=46426560)
+	- 
 - [Your ISP Is Watching Everything - Fix It With DNS Filtering!](https://www.youtube.com/watch?v=DqJz3lVowCQ)
 	- use a thirdparty DNS
     	- nextDNS

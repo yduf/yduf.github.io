@@ -2,7 +2,15 @@
 published: true
 title: Handwriting ✍
 tags: handwriting stylus ocr gesture
+toc: true
 ---
+> One of the hardest problems in digital humanities has finally been solved - [The Writing Is on the Wall for Handwriting Recognition  ](https://newsletter.dancohen.org/archive/the-writing-is-on-the-wall-for-handwriting-recognition/) / [HN](https://news.ycombinator.com/item?id=46058154)
+
+_Gemini (3) transcribed the letter perfectly: it figured out that the right side is the beginning of the letter, not the left (the letter actually continues on the other side of the paper, which accounts for the discontinuity between the two sides we are viewing); it left off the periods where Boole also (oddly) omitted this punctuation; and it includes a self-reflective analysis of where it might be wrong and provides alternative readings._
+
+[![manuscript](https://assets.buttondown.email/images/30822b31-88b6-4418-a07b-4b559e22e28d.png?w=960&fit=max)](https://newsletter.dancohen.org/archive/the-writing-is-on-the-wall-for-handwriting-recognition/)
+
+
 
 - [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/) - a tool that converts text to an image that looks like handwriting
 - [calligrapher.ai](https://www.calligrapher.ai/) - generate text to handwriting stroke

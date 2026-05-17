@@ -15,12 +15,14 @@ toc: true
 - [Understanding parser combinators: a deep dive - Scott Wlaschin](https://www.youtube.com/watch?v=RDalzi7mhdY)
 - [ruby-ast-explorer](https://github.com/rajasegar/ruby-ast-explorer?tab=readme-ov-file#ruby-ast-explorer)
 
-# [Home](https://github.com/cjheath/treetop?tab=readme-ov-file#support) (still alive)
+# [Home ⮺](https://github.com/cjheath/treetop?tab=readme-ov-file#support)
+
+(still alive)
 
 - performance are good [compared to other](http://blog.absurd.li/2011/02/02/parslet_and_its_friends.html)
 - [Performance of parsers: PEG vs LALR(1) or LL(k)](https://stackoverflow.com/questions/11373644/performance-of-parsers-peg-vs-lalr1-or-llk) - PEG parsers can use unlimited lookahead (while maintaining linear parse time on average, via packrat) unlike (default) LL(k), or LR(k) parsers which use limited lookahead, while maintining linear parse time.
 
-## [Tutorials](https://github.com/cjheath/treetop?tab=readme-ov-file#tutorial)
+## [Tutorials ⮺](https://github.com/cjheath/treetop?tab=readme-ov-file#tutorial)
 
 They are 3 kind of objects to implements:
 - [**the Parser**](#the-parser) itself, by levaring treetop, that where we will have a `parse` method.
@@ -53,7 +55,7 @@ class Parser
 end
 {% endhighlight %}
 
-### [The Grammar](https://cjheath.github.io/treetop/syntactic_recognition.html)
+### [The Grammar ⮺](https://cjheath.github.io/treetop/syntactic_recognition.html)
 
 It require a least one rule (the root node), to make the above code work:
 The first rule becomes the root of the grammar, causing its expression to be matched when a parser for the grammar is fed a string. 
@@ -76,7 +78,7 @@ Contrary to Lex/yacc approach, here the grammar directly integrate the lexer. It
 	- It's not enough to define the space rule, you have to use it anywhere there might be space
 	- Because this occurs often, I usually use a shorter rule name **S** for mandatory space, and the lowercase version **s** for optional space. - [cliffordheath](https://stackoverflow.com/a/46615369/51386)
 
-### [The Nodes](https://cjheath.github.io/treetop/semantic_interpretation.html)
+### [The Nodes ⮺](https://cjheath.github.io/treetop/semantic_interpretation.html)
 
 The parser run by Treetop follow the grammar rules and build a Tree of [`Treetop::Runtime::SyntaxNode`](https://github.com/cjheath/treetop/blob/master/lib/treetop/runtime/syntax_node.rb).
 The grammar allows to instanciate differente kind of Node if you like to. To do it, you just need to provide the class in bracket inside the rule, like so:
@@ -218,7 +220,13 @@ SyntaxNode+Program0 offset=0, "def foo():\n":
 | `p node`    | Debug-style (raw Ruby syntax) | Calls `inspect`    | Yes           | For debugging and inspecting objects |
 
                                       
-## [Doc](https://cjheath.github.io/treetop/syntactic_recognition.html)
+## [Doc ⮺](https://cjheath.github.io/treetop/syntactic_recognition.html)
+
+- [Getting started with Treetop](https://po-ru.com/2009/07/11/getting-started-with-treetop)
+- [A quick intro to writing a parser with Treetop](http://thingsaaronmade.com/blog/a-quick-intro-to-writing-a-parser-using-treetop.html)
+
+- [TireSwing](https://zerowidth.com/2008/introducing-tireswing/) - a simpler way of defining Treetop nodes, building them from the grammar itself, and defining visitors for the resulting AST. 
+  - [Simple node and visitor definitions for Treetop grammars.](https://github.com/zerowidth/tire_swing/tree/master)
 
 - [Turning a parse tree into an abstract syntax tree (AST)](https://stackoverflow.com/questions/24209732/turning-a-treetop-parse-tree-into-an-abstract-syntax-tree-ast)
 	- [filtering parse tree to get an ast](https://groups.google.com/g/treetop-dev/c/8tzdfWxGY0k/m/YBdQu-hHmVUJ)
@@ -283,7 +291,7 @@ to it. You might get away with doing something [similar](https://github.com/cjhe
 
 ## Advanced Techniques
 
-### [Semantic Predicates](https://github.com/cjheath/treetop?tab=readme-ov-file#semantic-predicates)
+### [Semantic Predicates ⮺](https://github.com/cjheath/treetop?tab=readme-ov-file#semantic-predicates)
 
 Sometimes, you need to run external Ruby code to decide whether this syntax rule should continue or should fail. You can do this using either positive or negative semantic predicates. These are Ruby code blocks (lambdas) which are called when the parser reaches that location. 
 
@@ -297,7 +305,7 @@ end
 **Notes**  
 - the semantic predicate `&{ ... }` syntax while close to the Node extension `{ ... }` is fundamentally different in behavior.
 
-# [Alternatives](https://www.ruby-forum.com/t/which-library-to-write-a-parser/215786/11)
+# [Alternatives ⮺](https://www.ruby-forum.com/t/which-library-to-write-a-parser/215786/11)
 
 [_Why you should not use (f)lex, yacc and bison (from ANTLR)_](https://tomassetti.me/why-you-should-not-use-flex-yacc-and-bison/)
 
@@ -318,3 +326,7 @@ Lex and Yacc were the first popular and efficient lexers and parsers generators,
 - [rexical](https://github.com/tenderlove/rexical/tree/master) / [racc](https://github.com/ruby/racc/wiki)
 	- example [sql-parser](https://github.com/kissmetrics/sql-parser)
     	- [sqlite-parser (js)](https://github.com/codeschool/sqlite-parser)
+
+# Handling Error
+- [chumsky](https://blog.jsbarretto.com/post/parser-combinators-and-error-recovery) - Why can't error-tolerant parsers also be easy to write?
+- [Writing a Parser — Part III: Syntax Error Handling](https://supunsetunga.medium.com/writing-a-parser-syntax-error-handling-b71b67a8ac66)
