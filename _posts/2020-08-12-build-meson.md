@@ -10,6 +10,15 @@ toc: true
 
 **Prefer latest version >= 0.59 rather than prepackaged distrib version**
 
+# Features
+- multiplatform support for Linux, macOS, Windows, GCC, Clang, Visual Studio and others
+- supported languages include C, C++, D, Fortran, Java, Rust
+- build definitions in a very readable and user friendly non-Turing complete DSL
+- cross compilation for many operating systems as well as bare metal
+optimized for extremely fast full and incremental builds without sacrificing correctness
+- built-in multiplatform dependency provider that works together with distro packages
+
+
 # [Compiling a Meson project ⮺](https://mesonbuild.com/Quick-guide.html#compiling-a-meson-project)
 
 The only thing to note is that you need to create a separate build directory. Meson will not allow you to build source code inside your source tree. All build artifacts are stored in the build directory.
@@ -218,13 +227,6 @@ $ python3 -m pip install meson
 ## VSCode
 - [Meson & VSCode: Develop your project in a modern IDE](https://www.collabora.com/news-and-blog/blog/2023/04/18/meson-and-vscode-develop-your-project-modern-ide/)
 
-# Features
-- multiplatform support for Linux, macOS, Windows, GCC, Clang, Visual Studio and others
-- supported languages include C, C++, D, Fortran, Java, Rust
-- build definitions in a very readable and user friendly non-Turing complete DSL
-- cross compilation for many operating systems as well as bare metal
-optimized for extremely fast full and incremental builds without sacrificing correctness
-- built-in multiplatform dependency provider that works together with distro packages
 
 # FAQ
 - Why is Meson's configuration language not Turing-complete? - [Against The Use Of Programming Languages in Configuration Files](https://taint.org/2011/02/18/001527a.html)
