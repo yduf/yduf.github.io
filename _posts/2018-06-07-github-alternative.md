@@ -1,9 +1,10 @@
 ---
 title: GitHub alternatives
 published: true
-tags: git
+tags: github
 ---
-## If you've been keeping up with [HN](https://news.ycombinator.com/item?id=17252838) the past day or so there have been a bunch of great discussion around alternatives
+> If you've been keeping up with [HN](https://news.ycombinator.com/item?id=17252838) the past day or so there have been a bunch of great discussion around alternatives
+
 - [Kallithea]( https://news.ycombinator.com/item?id=17246386)
 - [Phabricator]( https://news.ycombinator.com/item?id=17245649)
 - [GitTorrent]( https://news.ycombinator.com/item?id=17234498 )

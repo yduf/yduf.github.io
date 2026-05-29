@@ -1,5 +1,5 @@
 ---
-title: Microcorruption
+title: Microcorruption ┌∩┐(◣_◢)┌∩┐
 published: true
 tags: reverse security debug-c++ capture-the-flag
 ---

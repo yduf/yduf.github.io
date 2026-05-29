@@ -1,6 +1,7 @@
 ---
 published: true
 tags: fun
+excerpt_separator: ""
 ---
 ## Computer religion
 

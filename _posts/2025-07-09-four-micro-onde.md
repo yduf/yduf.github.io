@@ -8,6 +8,7 @@ tags: micro-wave physics plasma music
 - [The Microwave Oven **Magnetron**: What an Engineer Means by “Best”](https://www.youtube.com/watch?v=p8IO9u9IuOs)
   - derived from radar 
   - first microwave - 1946 - 370kg - 2000$
+  - [The Secret Physics Inside Your Microwave!](https://www.youtube.com/shorts/KEpp0pyeG64)
 
 **see also**
 - [LES MICRO-ONDES (live) - CHANSON PLUS BIFLUORÉE ](https://www.youtube.com/watch?v=m3HTeB7vsp8) - Les micro-ondes, on les programme / Mais attention tout ça peut tourner au drame

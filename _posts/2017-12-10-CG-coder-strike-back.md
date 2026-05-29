@@ -1,22 +1,23 @@
 ---
-title: (CG) Coder Strike Back / Mad Pod Racing
+title: (CG) Coder Strike Back / Mad Pod Racing 🛸
 published: true
 tags: codingame NN genetic-algorithm
 ---
-> I did not had the opportunity to participate to this one.
+> There is a great [read from Magus](http://files.magusgeek.com/csb/csb_en.html) about it.
 
-But there is a great [read from Magus](http://files.magusgeek.com/csb/csb_en.html) about it.
+**see also**
+- [ Superhuman Safe and Agile Racing through Multi-Agent Reinforcement Learning ](https://www.youtube.com/watch?v=TSwtrHQgjD8)
 
 - [Jeff06 1st](https://www.codingame.com/blog/genetic-algorithms-coders-strike-back-game/)
 - [pb4608 3rd](https://www.codingame.com/blog/coders-strike-back-pb4608s-ai-rank-3rd/)
 
-### Refere
+# Refere
 - [codinGame/Referees/Coders Strike Back](https://github.com/SpiritusSancti5/codinGame/tree/master/Referees/Coders%20Strike%20Back)
 
-### Tools
+# Tools
 - [CSB-Runner-Arena (Agade)](https://github.com/Agade09/CSB-Runner-Arena)
 
-### [NN Bots](https://www.codingame.com/forum/t/neural-network-ressources/1667/32)
+# [NN Bots](https://www.codingame.com/forum/t/neural-network-ressources/1667/32)
 - [Bleuj](https://forum.codingame.com/t/neural-network-ressources/1667/7)
 - [_CPC_Herbert](https://www.codingame.com/forum/t/neural-network-ressources/1667/9) - using Unsupervised learning 
 - [Agade](https://forum.codingame.com/t/neural-network-ressources/1667/19) - q-learning

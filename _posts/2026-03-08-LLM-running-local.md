@@ -9,18 +9,20 @@ toc: true
 **see also**
 - [ 4-node AMD cluster](https://www.youtube.com/watch?v=32cjdHVoSRo) - runing 512GB Model locally / needs $$$$
   - 4-node Minisforum MS-S1 Max Strix Halo cluster
-
+- [tokenspeed](https://mikeveerman.github.io/tokenspeed/?rate=30.1&mode=code) / [HN](https://news.ycombinator.com/item?id=48174920)
+  
 # [ Models  ⮺](https://huggingface.co/models)
 
 **see also**
 - [The Best Local Agentic Coding Workflow (Complete Guide)](https://www.youtube.com/watch?v=UngVdAsQEiU)
 
-| Model | Size | Speed | Comments |
-| ------------------------------------ | ----------- | -------------------------------------------------- | --- |
-| qwen3-14b-claude-4.5-opus-high-reasoning-distill                    | 9GB | 80 tok/sec | LM Studio 4.12 |
-| unsloth/qwen3-coder-30b-a3b-instruct                                | 11GB/12.4GB | 55.46 tok/sec - 1019 tokens - 0.03s to first token | LM Studio 3.6 |
-| llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-NVFP4-Experts-Only-GGUF | 12.5GB | 10 tok/sec - 2898 tokens - 1.16s to first token | LM Studio 4.12 |
-| llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-NVFP4-Experts-Only-GGUF | 12.5GB | 10 tok/sec - 2898 tokens - 1.16s to first token | LM Studio 4.12 |
+| rank | Model |  | Size | Speed | Comments |
+| --- | --- | --- | --- | --- | --- |
+|  | [Qwen3.6 27B](https://news.ycombinator.com/item?id=48247535) |  |  |  |  |
+|  | qwen3-14b-claude-4.5-opus-high-reasoning-distill |  | 9GB | 80 tok/sec | LM Studio 4.12 |
+|  | unsloth/qwen3-coder-30b-a3b-instruct |  | 11GB/12.4GB | 55.46 tok/sec - 1019 tokens - 0.03s to first token | LM Studio 3.6 |
+|  | llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-NVFP4-Experts-Only-GGUF |  | 12.5GB | 10 tok/sec - 2898 tokens - 1.16s to first token | LM Studio 4.12 |
+|  | llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-NVFP4-Experts-Only-GGUF |  | 12.5GB | 10 tok/sec - 2898 tokens - 1.16s to first token | LM Studio 4.12 |
 
 
 # [Qwen3.6 ⮺](https://ollama.com/library/qwen3.6:35b-a3b-coding-nvfp4)

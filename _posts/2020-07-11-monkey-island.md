@@ -1,6 +1,6 @@
 ---
 published: true
-title: Monkey Island
+title: Monkey Island 🏝️
 tags: games adventure
 toc: true
 ---

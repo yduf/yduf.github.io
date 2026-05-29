@@ -6,11 +6,15 @@ toc: true
 ---
 > Finding Duplicate / [checking backup coverage](https://chatgpt.com/share/6a05aaf6-77e4-83eb-8f5a-bbded9ba6978)
 
-[![Czkawka](https://user-images.githubusercontent.com/41945903/102616149-66490400-4137-11eb-9cd6-813b2b070834.png)](https://github.com/qarmin/czkawka#features)
 
 # Project 💭 
-Make a tool dedicated to find if a file or folder is archived on a backupp drive, based
-on content not folder structure.
+
+Make a tool dedicated to find if a file or folder is archived on a backup drive, based
+on file content not folder structure.
+
+<div class="encart green" markdown="1">
+Implemented in [Covered ☂️](https://github.com/yduf/covered#covered-%EF%B8%8F)
+</div>
 
 # [Krokiet / Czkawka ⮺](https://github.com/qarmin/czkawka#features)
 

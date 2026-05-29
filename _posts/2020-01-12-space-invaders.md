@@ -1,6 +1,6 @@
 ---
 published: true
-title: Space Invaders
+title: Space Invaders 👾
 tags: retro 8bit arcade games
 ---
 > One of the most influential video games of all time. - [wikipedia](https://en.wikipedia.org/wiki/Space_Invaders)
