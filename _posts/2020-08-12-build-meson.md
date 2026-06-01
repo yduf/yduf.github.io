@@ -40,9 +40,21 @@ executable('demo', 'main.cc', dependencies : gtkdep)
 
 ## [Optimized build ⮺](https://stackoverflow.com/questions/64794068/how-to-set-debug-and-optimization-flag-with-meson/69188608#69188608)
 
+Have dedicated folder for each build type
+
+{% highlight bash %}
+$ meson setup debug    --buildtype=debug
+$ meson setup debugOpt --buildtype=debugoptimized
+$ meson setup release  --buildtype=release
+{% endhighlight %}
+
+Or you can reconfigure your current build folder
+
 {% highlight bash %}
 $ meson --reconfigure --buildtype=debugoptimized # or debug or release
 {% endhighlight %}
+
+**Notes** for debug you may prefer [optimization level: -Og ](https://stackoverflow.com/questions/7493947/whats-the-best-g-optimization-level-when-building-a-debug-target)
 
 ## [Include directories ⮺](https://mesonbuild.com/Reference-manual_returned_inc.html)
 

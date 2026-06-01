@@ -1,8 +1,11 @@
 ---
 published: true
-title: Flood-fill & Diffusion Map
-tags: algorithm flood-fill diffusion map codingame pathfinding
+title: "Flood-fill & Diffusion Map ≋"
+tags: algorithm flood-fill diffusion map codingame pathfinding xor avx casey-muratori blog-code
 ---
+> 1994 Intern Question #3: Flood Fill Color Detection - [XOR != eq. & SIMD](https://www.youtube.com/watch?v=OE_UNZW-4_U)
+
+
 ### [Dijkstra Maps](http://www.roguebasin.com/index.php/Dijkstra_Maps_Visualized)
 - [The Incredible Power of Dijkstra Maps](http://www.roguebasin.com/index.php/The_Incredible_Power_of_Dijkstra_Maps)
 	- [How flood-fill algorithm works](https://github.com/azsdaja/FloodSpill-CSharp/wiki)

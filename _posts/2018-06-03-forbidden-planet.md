@@ -1,7 +1,7 @@
 ---
 title: Forbidden planet (1956)
 published: true
-tags: movie robot
+tags: movie sci-fi robot
 ---
 > A starship crew goes to investigate the silence of a planet's colony only to find two survivors and a deadly secret that one of them has. - [7.7](https://www.imdb.com/title/tt0049223/) / [wikipedia](https://en.wikipedia.org/wiki/Forbidden_Planet) 
 

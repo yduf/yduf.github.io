@@ -14,8 +14,25 @@ toc: true
 Open source - support for win / macos / linux.
 Most complete with Wayland support.
 
-[**install**  ⮺](https://obsproject.com/download#linux) / [release](https://github.com/obsproject/obs-studio/releases)
+## [install ⮺](https://obsproject.com/download#linux) / [release](https://github.com/obsproject/obs-studio/releases)
+- OBS is available as flatpak (directly supported by software installer  in linuxMint),
 - [OBS-Studio-appimage (unofficial)](https://github.com/ivan-hc/OBS-Studio-appimage)
+
+**Notes**
+- AppImages store profiles in `/.config/obs-studio/`
+- whereas Flatpak store them in `~/.var/app/com.obsproject.Studio/config/obs-studio/`
+
+To sync them, copy profiles & scene in the other location.
+Audio Filter are in stored in scene folder.
+
+If you need to merge them, for scene the best way is to import/export them.
+
+{% highlight language %}
+$ cp -r ~/.config/obs-studio/basic/profiles ~/.var/app/com.obsproject.Studio/config/obs-studio/basic/
+$ cp -r ~/.config/obs-studio/basic/scenes ~/.var/app/com.obsproject.Studio/config/obs-studio/basic/
+{% endhighlight %}
+
+
 
 **see also**
 - [Setting up OBS Studio](https://github.com/mikeroyal/PipeWire-Guide?tab=readme-ov-file#setting-up-obs-studio)
