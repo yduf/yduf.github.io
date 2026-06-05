@@ -28,6 +28,7 @@ _Are animals aware of their surroundings? Yes. Are animals showing the behaviour
 
 _To think of consciousness as a dichotomy instead of a spectrum is baffling to me. As is thinking of consciousness as being a single, indivisible thing._ - [	Are animals conscious?](https://news.ycombinator.com/item?id=40714449)
 
+- [ Video shows chimpanzee caged for 28 years seeing open sky for first time ](https://www.youtube.com/watch?v=r2PS-qoM35M)
 
 
 ### see also

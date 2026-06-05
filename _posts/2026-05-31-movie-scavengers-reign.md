@@ -6,5 +6,6 @@ tags: movie anime sci-fi
 
 **see also**
 - [Les Maîtres du temps](https://en.wikipedia.org/wiki/Les_Ma%C3%AEtres_du_temps) / [imdb](https://www.imdb.com/fr/title/tt0084315/)
+- [Demeter](https://fr.wikipedia.org/wiki/D%C3%A9m%C3%A9ter) 🌱 - δᾶ μήτηρ / dâ mếtêr -  la Mère de la Terre / la Terre Mère - déesse Greque de l'agriculture et des moissons.
 
 [![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.justwatch.com%2Fimages%2Fbackdrop%2F286306384%2Fs480%2Fscavengers-reign%2Fscavengers-reign&f=1&nofb=1&ipt=39ad99abb83781c55d46f4f92004f37f0752b2f897820bd4997ddbf3495d4154)](https://www.youtube.com/watch?v=JOsZVmVPn4E)

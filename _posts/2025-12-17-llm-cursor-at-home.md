@@ -44,6 +44,19 @@ Ask the questions one at a time.
 If a question can be answered by exploring the codebase, explore the codebase instead.
 {% endhighlight %}
 
+# Price 💲
+
+[ Coding LLM Prices Comparison: My 5 Takeaways ](https://www.youtube.com/watch?v=3AaCSGBWj7E), per prompt:
+
+| Model           | Rank |  Cost |
+| --------------- | ----: | ----: |
+| Sonnet 4.6      |    15 | $0.47 |
+| Composer 2.5    |    17 | $0.18 |
+| deepseek-V4-Pro |     9 | $0.11 |
+| Qwen 3.6 Plus   |     6 | $0.07 |
+
+
+
 # VSCode
 
 - [VSCode + Cline + Continue](https://www.youtube.com/watch?v=7AImkA96mE8) NEVER PAY for CURSOR again. Use this OPEN SOURCE & LOCAL Alternative
