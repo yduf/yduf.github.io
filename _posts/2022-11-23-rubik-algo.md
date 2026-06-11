@@ -2,7 +2,11 @@
 published: true
 title: Rubik's algo 3x3
 tags: rubik
+toc: true
+rubik_oll: true
 ---
+<script src="/assets/js/rubik_oll.js"></script>
+
 > [Ruwix](https://ruwix.com/the-rubiks-cube/algorithm/) / [Quelle méthode pour votre niveau ?](https://www.youtube.com/watch?v=keuarQZmDAA)
 
 **see also**
@@ -12,7 +16,9 @@ tags: rubik
 - [My system for solving Rubik's cube](http://www.ws.binghamton.edu/fridrich/system.html) / [HN](https://news.ycombinator.com/item?id=37416999)
 - [Can a Rubik's Cube be brute-forced?](https://news.ycombinator.com/item?id=36645846)
 
-## [Methode debutante](https://www.youtube.com/watch?v=E29pksDLVRQ)
+- [Magik tricks](https://www.youtube.com/shorts/vHOB6nuCGv8) - M' U D R M 
+
+# [Methode debutante](https://www.youtube.com/watch?v=E29pksDLVRQ)
 - [Le belge simplifié !](https://www.youtube.com/watch?v=HSDXq6Ed4Hw)
 - [face jaune](https://www.youtube.com/watch?v=BBCGVhUORNQ)
 	- la croix ( 0 , I) see below
@@ -27,8 +33,9 @@ tags: rubik
  / [mirror](https://defhacks.github.io/badmephisto-mirror/pll.html)
 - [FAQ](http://badmephisto.com/)
 
-## [La croix](https://www.youtube.com/watch?v=IraFkPozVM0)
+## [La croix ⮺](https://www.youtube.com/watch?v=IraFkPozVM0) ✚
 
+- [ 10 Must Know Cross Tips! [CFOP Method] ](https://www.youtube.com/watch?v=HDlDcRhCR0Q)
 
 ## [Les F2L intuitifs](https://www.youtube.com/watch?v=FKLyQvc4QrM)
 - [3 cas](https://youtu.be/FKLyQvc4QrM?t=322)
@@ -46,7 +53,19 @@ Obtenir la croix jaune
 - [F R U R' U' F'](https://youtu.be/FZJq-VK5Ngo?t=165) - trait ou point
 - [F U R U' R' F'](https://youtu.be/FZJq-VK5Ngo?t=193) - virgule
 	- R' U' F' U F R
- 
+
+<!-- OLL 22 initial state -->
+<div style="display:flex; align-items:center; gap:1rem; margin:1rem 0">
+  <div id="oll-22"></div>
+  <code><a href="https://www.youtube.com/shorts/L38dcLUnVP8">R U2' R2' U' R2 U' R2' U2' R</a></code>
+</div>
+<script>drawOLL('oll-22',{
+      back:['X','X','Y'],
+  top:[['Y','X','Y','X','X'],
+       ['X','Y','Y','Y','X'],
+       ['Y','X','Y','X','X']],
+     front:['X','X','Y']}, 12)
+</script>
 
 ## Completer avec [Les OLL](https://www.youtube.com/watch?v=mqvxojuUFy4&list=PLh9akXp2EH2D1MBpl8gb0w2WM0eiailpB&index=8) adaptés - #57
 
