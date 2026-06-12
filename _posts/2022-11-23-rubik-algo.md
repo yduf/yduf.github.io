@@ -18,18 +18,18 @@ rubik_oll: true
 
 - [Magik tricks](https://www.youtube.com/shorts/vHOB6nuCGv8) - M' U D R M 
 
-# [Methode debutante](https://www.youtube.com/watch?v=E29pksDLVRQ)
+# [Methode debutante ⮺](https://www.youtube.com/watch?v=E29pksDLVRQ)
 - [Le belge simplifié !](https://www.youtube.com/watch?v=HSDXq6Ed4Hw)
 - [face jaune](https://www.youtube.com/watch?v=BBCGVhUORNQ)
 	- la croix ( 0 , I) see below
     
 
-# [Method Fridrich](https://www.youtube.com/watch?v=keuarQZmDAA) - review
+# [Method Fridrich ⮺](https://www.youtube.com/watch?v=keuarQZmDAA) - review
 
 > Prioriser l'apprentisage des  PLL (21) sur les OLL (57).  
 > Commens par les OLL 2 look (construction de la croix jaune)
 
-### [badmephisto pdf](/images/badmephisto-speedcubing-method.pdf)
+### [badmephisto pdf ⮺](/images/badmephisto-speedcubing-method.pdf)
  / [mirror](https://defhacks.github.io/badmephisto-mirror/pll.html)
 - [FAQ](http://badmephisto.com/)
 
@@ -37,29 +37,30 @@ rubik_oll: true
 
 - [ 10 Must Know Cross Tips! [CFOP Method] ](https://www.youtube.com/watch?v=HDlDcRhCR0Q)
 
-## [Les F2L intuitifs](https://www.youtube.com/watch?v=FKLyQvc4QrM)
+## [Les F2L intuitifs ⮺](https://www.youtube.com/watch?v=FKLyQvc4QrM)
 - [3 cas](https://youtu.be/FKLyQvc4QrM?t=322)
 - [How to Solve F2L in the Back [tips & more]](https://www.youtube.com/watch?v=1TzHHPJ_2HY)
 
-## [Les F2L](https://www.youtube.com/watch?v=QnWZeEDAtVM&t=0s)
+## [Les F2L ⮺](https://www.youtube.com/watch?v=QnWZeEDAtVM&t=0s)
 - U' [ R U R' ](https://youtu.be/QnWZeEDAtVM?t=215)  
 
 - [r U' R' U R U r'](https://www.youtube.com/watch?v=6lef76z55F4&list=PLh9akXp2EH2D1MBpl8gb0w2WM0eiailpB&index=5)
 
 <!-- F2L example: joined pair at UFR -->
-<div style="display:flex; align-items:center; gap:1rem; margin:1rem 0">
-  <div id="f2l-example"></div>
+<div markdown="1" style="display:flex; align-items:center; gap:1rem; margin:1rem 0">
+  <div id="f2l-25"></div>
+  <code><a href="https://www.youtube.com/shorts/rpEBAi1eG7w">U'(R' F R F')(R U R')</a></code> - f2l-25
 </div>
-<script>drawF2L('f2l-example',{
-  top:[['Y','X','X'],
-       ['G','Y','R'],
-       ['X','X','X']],
-  side:[[['R','X','X'],['G','Y','X']],
-        [['Y','O','X'],['X','R','X']],
-        [['X','X','X'],['X','X','X']]]}, 12)
+<script>drawF2L('f2l-25',{
+  top:[['X','X','X'],
+       ['X','X','X'],
+       ['X','B','X']],
+  side:[[['X','X','X'],['X','R','X']],
+        [['B','B','X'],['X','R','R']],
+        [['B','B','B'],['R','R','R']]]}, 12)
 </script>
 
-## [les OLL et PLL 2 look !](https://www.youtube.com/watch?v=FZJq-VK5Ngo)
+## [les OLL et PLL 2 look! ⮺](https://www.youtube.com/watch?v=FZJq-VK5Ngo)
 
 Obtenir la croix jaune
 - [F R U R' U' F'](https://youtu.be/FZJq-VK5Ngo?t=165) - trait ou point
@@ -67,7 +68,7 @@ Obtenir la croix jaune
 	- R' U' F' U F R
 
 <!-- OLL 22 initial state -->
-<div style="display:flex; align-items:center; gap:1rem; margin:1rem 0">
+<div markdown="1" style="display:flex; align-items:center; gap:1rem; margin:1rem 0">
   <div id="oll-22"></div>
   <code><a href="https://www.youtube.com/shorts/L38dcLUnVP8">R U2' R2' U' R2 U' R2' U2' R</a></code> - oll-22 ([4 side OLL 22 algorithm](https://www.youtube.com/watch?v=TN6HWBaPPhE))
 </div>
@@ -79,7 +80,7 @@ Obtenir la croix jaune
      front:['X','X','Y']}, 12)
 </script>
 
-## Completer avec [Les OLL](https://www.youtube.com/watch?v=mqvxojuUFy4&list=PLh9akXp2EH2D1MBpl8gb0w2WM0eiailpB&index=8) adaptés - #57
+## Completer avec [Les OLL ⮺](https://www.youtube.com/watch?v=mqvxojuUFy4&list=PLh9akXp2EH2D1MBpl8gb0w2WM0eiailpB&index=8) adaptés - #57
 
 [R U R' U R U2 R'](https://youtu.be/mqvxojuUFy4?t=121) - small square  
 R U2 R' U' R U' R'
@@ -91,7 +92,7 @@ R U2 R2 U' R2 U' R2 U2 R
 [l' U' R D' R' U R D](https://youtu.be/mqvxojuUFy4?t=265)
 
 
-## [Les PLL](https://www.youtube.com/watch?v=w7WCC615cEs) - #21
+## [Les PLL ⮺](https://www.youtube.com/watch?v=w7WCC615cEs) - #21
 
 [M2 U' M2 U2 M2 U' M2](https://youtu.be/w7WCC615cEs?t=116) - PLL H
 
@@ -123,13 +124,13 @@ R' U L' U2 R U' R' U2 L R U'
 - [U'R U2 M' B r'](https://youtu.be/yEGp7kbHR3M) - join med + corner at corner
 - [R' U R' F R F' R](https://www.youtube.com/watch?v=gABZSNHCMR0) - invert slice
 
-## [Les COLL](https://youtu.be/keuarQZmDAA?t=1022) 
+## [Les COLL ⮺](https://youtu.be/keuarQZmDAA?t=1022) 
 - XCROSS
 - WINTER VARIATION 
 - ZBLL (493)
 - 1LLL (3000)
 
-# [Kociemba's Algorithm](https://www.speedsolving.com/wiki/index.php/Kociemba's_Algorithm)
+# [Kociemba's Algorithm ⮺](https://www.speedsolving.com/wiki/index.php/Kociemba's_Algorithm)
 
 A computer algorithm for solving the 3x3x3 cube, created by Herbert Kociemba. It is similar to the Thistlethwaite's algorithm though with fewer steps thanks to the improvement of computer memory storage and processing speed. 
 
