@@ -46,6 +46,18 @@ rubik_oll: true
 
 - [r U' R' U R U r'](https://www.youtube.com/watch?v=6lef76z55F4&list=PLh9akXp2EH2D1MBpl8gb0w2WM0eiailpB&index=5)
 
+<!-- F2L example: joined pair at UFR -->
+<div style="display:flex; align-items:center; gap:1rem; margin:1rem 0">
+  <div id="f2l-example"></div>
+</div>
+<script>drawF2L('f2l-example',{
+  top:[['Y','X','X'],
+       ['G','Y','R'],
+       ['X','X','X']],
+  side:[[['R','X','X'],['G','Y','X']],
+        [['Y','O','X'],['X','R','X']],
+        [['X','X','X'],['X','X','X']]]}, 12)
+</script>
 
 ## [les OLL et PLL 2 look !](https://www.youtube.com/watch?v=FZJq-VK5Ngo)
 
@@ -57,7 +69,7 @@ Obtenir la croix jaune
 <!-- OLL 22 initial state -->
 <div style="display:flex; align-items:center; gap:1rem; margin:1rem 0">
   <div id="oll-22"></div>
-  <code><a href="https://www.youtube.com/shorts/L38dcLUnVP8">R U2' R2' U' R2 U' R2' U2' R</a></code>
+  <code><a href="https://www.youtube.com/shorts/L38dcLUnVP8">R U2' R2' U' R2 U' R2' U2' R</a></code> - oll-22 ([4 side OLL 22 algorithm](https://www.youtube.com/watch?v=TN6HWBaPPhE))
 </div>
 <script>drawOLL('oll-22',{
       back:['X','X','Y'],
@@ -92,7 +104,21 @@ R' U L' U2 R U' R' U2 L R U'
 # Advanced (sub 10s)
 
 ### Algorithm
-- [R2 U' S' U2 U' R2](https://www.youtube.com/watch?v=1u8BptRSXaw&list=PLh9akXp2EH2D1MBpl8gb0w2WM0eiailpB&index=3) - The New Fastest U Perm (0.5 Execution)
+
+<!-- Ua initial state -->
+<div style="display:flex; align-items:center; gap:1rem; margin:1rem 0">
+  <div id="Ua"></div>
+  <code><a href="https://www.youtube.com/watch?v=1u8BptRSXaw&list=PLh9akXp2EH2D1MBpl8gb0w2WM0eiailpB&index=3">R2 U' S' U2 U' R2</a></code> - Ua -  The New Fastest U Perm (0.5 Execution)
+</div> 
+<script>drawOLL('Ua',{
+      back:['O','R','O'],
+  top:[['B','X','X','X','G'],
+       ['B','X','X','X','O'],
+       ['B','X','X','X','G']],
+     front:['R','G','R']}, 12)
+</script>
+
+
 - [r U'R'U R U r'](https://youtu.be/6lef76z55F4) - join med + corner at corner
 - [U'R U2 M' B r'](https://youtu.be/yEGp7kbHR3M) - join med + corner at corner
 - [R' U R' F R F' R](https://www.youtube.com/watch?v=gABZSNHCMR0) - invert slice
