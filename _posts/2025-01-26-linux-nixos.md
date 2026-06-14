@@ -2,8 +2,9 @@
 title: NixOS - What Is Nix ?
 published: true
 tags: nix package build-system docker linux-system
+excerpt_separator: <!--more-->
 ---
-> On Debian, Fedora, etc, installing a package means letting it put files wherever it likes; which effectively gives the package author root on your system. Not a good base for sandboxing!
+> On Debian, Fedora, etc, installing a package means letting it put files wherever it likes; which effectively gives the package author root on your system. Not a good base for sandboxing! <!--more-->
 >
 > Also, they make it difficult to try out 3rd-party software, or to test newer versions of just some packages.
 > 

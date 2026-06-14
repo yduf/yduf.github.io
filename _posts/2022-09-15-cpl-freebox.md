@@ -2,6 +2,7 @@
 published: true
 title: Boitier CPL Freebox
 tags: freebox network
+excerpt_separator: ""
 ---
 ### [Associez les deux freeplugs](https://freebox-news.com/tutoriel/freeplug)
 - Connectez le câble secteur sur l’un des deux boîtiers puis branchez l'autre extrémité de ce câble sur une prise électrique murale (ou mieux, sur une multiprise branchée au secteur). Après avoir clignoté quelques secondes, la diode s’allume en rouge.

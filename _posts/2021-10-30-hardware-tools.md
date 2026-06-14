@@ -3,10 +3,11 @@ published: true
 title: "Hardware / Work Tools \U0001F527"
 tags: lab hardware-tools shop
 toc: true
+excerpt_separator: <!--more-->
 ---
 > The 4.5" angle grinder is like an agressive little dog that's just waiting for a chance to bite you.  
 > The table saw is like an old pitbull that generally sleeps.  
-> The 6"/7"/9" grinder is a skunk.  
+> The 6"/7"/9" grinder is a skunk.  <!--more-->
 >
 > Everyone who's ever given it the chance has a story about the time the angle grinder nipped at them. The people who pestered the old pitbull until it got sick of their crap have 9 fingers. Nobody has problems with the skunk because it's pretty obvious what'll happen if you disrespect it. - [HN](https://news.ycombinator.com/item?id=41593762)
 

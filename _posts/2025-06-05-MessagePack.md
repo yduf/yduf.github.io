@@ -2,8 +2,9 @@
 title: MessagePack
 published: true
 tags: serialization protobuf json
+excerpt_separator: <!--more-->
 ---
-> MessagePack is an efficient binary serialization format. It lets you exchange data among multiple languages like JSON. But it's faster and smaller. Small integers are encoded into a single byte, and typical short strings require only one extra byte in addition to the strings themselves. - [Home](https://msgpack.org/)
+> MessagePack is an efficient binary serialization format. <!--more--> It lets you exchange data among multiple languages like JSON. But it's faster and smaller. Small integers are encoded into a single byte, and typical short strings require only one extra byte in addition to the strings themselves. - [Home](https://msgpack.org/)
 
 see also
 - [CBOR](https://en.wikipedia.org/wiki/CBOR) - Concise Binary Object Representation 

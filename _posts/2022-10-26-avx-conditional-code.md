@@ -2,8 +2,9 @@
 published: true
 title: Condition in vector code
 tags: c++ avx
+excerpt_separator: <!--more-->
 ---
-> If a vector component is already finished, freeze it to avoid doing any further calculations on it. This is done by masking the finished components on any value assignment. The unfinished vector components will keep being updated, but finished ones won't. - [Controlling the Data Flow](https://www.codingame.com/playgrounds/283/sse-avx-vectorization/controlling-the-data-flow)
+> If a vector component is already finished, freeze it to avoid doing any further calculations on it. <!--more--> This is done by masking the finished components on any value assignment. The unfinished vector components will keep being updated, but finished ones won't. - [Controlling the Data Flow](https://www.codingame.com/playgrounds/283/sse-avx-vectorization/controlling-the-data-flow)
 
 {% highlight cpp %}
 inline v8f slowFunction(int i){

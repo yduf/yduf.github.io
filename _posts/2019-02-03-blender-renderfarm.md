@@ -3,8 +3,9 @@ published: true
 title: Setting Up a Renderfarm (Blender)
 tags: blender gpu cluster ikea lab
 toc: true
+excerpt_separator: <!--more-->
 ---
-> The [Helmer](https://www.ikea.com/us/en/catalog/categories/departments/workspaces/10711/) filing cabinet from IKEA serves as the perfect enclosure for a small farm. It's actually kind of bizarre how well it houses all the components. And you can pick one of these up for $40 - and even in a few different colors. I feel like RED or YELLOW would make your farm run at least 2% faster - [blender tutorial](https://cgcookie.com/tutorial/setting-up-a-renderfarm/)
+> The [Helmer](https://www.ikea.com/us/en/catalog/categories/departments/workspaces/10711/) filing cabinet from IKEA serves as the perfect enclosure for a small farm. <!--more--> It's actually kind of bizarre how well it houses all the components. And you can pick one of these up for $40 - and even in a few different colors. I feel like RED or YELLOW would make your farm run at least 2% faster - [blender tutorial](https://cgcookie.com/tutorial/setting-up-a-renderfarm/)
 
 # [Software ⮺](https://chatgpt.com/share/6a1c3b3e-afb8-83eb-9e9f-a3a338ce6720)
 

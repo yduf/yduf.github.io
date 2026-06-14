@@ -2,8 +2,9 @@
 published: true
 title: Le 20eme siecle
 tags: history sustainability climate-war quote
+excerpt_separator: <!--more-->
 ---
-> Mais sais-tu ce qu'était le 20eme siecle ?  ...   
+> Mais sais-tu ce qu'était le 20eme siecle ?  ...   <!--more-->
 > On détruisait notre planète, on laissait les gens crever de faim alors qu'on avait tout pour créer une société plus juste. Notre technologie, elle nous dépassait.    
 > Et le pire,   
 > c'est que tout le monde le savait. Où en tout cas tout le monde pouvait s'en rendre compte. - [Nexus VI](https://youtu.be/yDkGQFsbgtY?list=TLPQMTIxMDIwMjEMEbA2tTHT7g&t=1030)

@@ -2,8 +2,9 @@
 published: true
 title: Diplopia
 tags: medecine eyes
+excerpt_separator: <!--more-->
 ---
-> Diplopia can also occur when viewing with only one eye...  multiple image perception includes the consideration of such conditions as ... diffraction-based (rather than geometrical) optical models have shown that common optical conditions, [especially astigmatism](https://www.youtube.com/watch?v=SoqjbfSlSds), can also produce this symptom. - [wikipedia](https://en.wikipedia.org/wiki/Diplopia#Monocular)
+> Diplopia can also occur when viewing with only one eye... <!--more--> multiple image perception includes the consideration of such conditions as ... diffraction-based (rather than geometrical) optical models have shown that common optical conditions, [especially astigmatism](https://www.youtube.com/watch?v=SoqjbfSlSds), can also produce this symptom. - [wikipedia](https://en.wikipedia.org/wiki/Diplopia#Monocular)
 
 Monocular diplopia may be induced in many individuals, even those with normal eyesight, with simple defocusing experiments involving fine, high-contrast lines.
 

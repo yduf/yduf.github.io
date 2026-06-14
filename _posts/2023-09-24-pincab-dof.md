@@ -2,8 +2,9 @@
 published: true
 title: DOF (Direct Output Framework)
 tags: pincab
+excerpt_separator: <!--more-->
 ---
-> DOF is a separate piece of software that you can install on your system to control feedback devices. It's not really a full separate program; it's more of an add-on that works together with Visual Pinball and other software. DOF handles the communications between the pinball software and your output controller devices. - [DOF Setup](http://mjrnet.org/pinscape/BuildGuideV2/BuildGuide.php?sid=DOF)
+> DOF is a separate piece of software that you can install on your system to control feedback devices. <!--more--> It's not really a full separate program; it's more of an add-on that works together with Visual Pinball and other software. DOF handles the communications between the pinball software and your output controller devices. - [DOF Setup](http://mjrnet.org/pinscape/BuildGuideV2/BuildGuide.php?sid=DOF)
 
 
 ### [How VP and DOF communicate](http://mjrnet.org/pinscape/BuildGuideV2/BuildGuide.php?sid=DOF)

@@ -2,6 +2,7 @@
 published: true
 title: Asus ZenPad 8.0 P022
 tags: hardware battery
+excerpt_separator: ""
 ---
 ## Battery
 - [ Before Replacing Your Phone Battery Watch This](https://www.youtube.com/watch?v=g41ivRm1ABk)

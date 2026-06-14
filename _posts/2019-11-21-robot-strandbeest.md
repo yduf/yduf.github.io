@@ -2,8 +2,9 @@
 published: true
 title: Strandbeest - Walking Pod 🚧
 tags:  mechanical pods robot 3dprint in-progress
+excerpt_separator: <!--more-->
 ---
-> The Playa Crawler is what's considered a "mutant vehicle" or "art car" and is a piece of kinetic art. I made it to be used as my own personal vehicle to get around at Burning Man and i wanted something interesting and unique so I created a chair that walks with the legs. the leg linkage was invented by Theo Jansen, a Dutch artist who creates this massive walking sculptures called Strandbeest that walk along the beach being pushed by the wind. - [Playa crawler](https://www.youtube.com/watch?v=TzehmObSjAE) - [Strandbeest](https://www.youtube.com/watch?v=LewVEF2B_pM)
+> The Playa Crawler is what's considered a "mutant vehicle" or "art car" and is a piece of kinetic art. <!--more--> I made it to be used as my own personal vehicle to get around at Burning Man and i wanted something interesting and unique so I created a chair that walks with the legs. the leg linkage was invented by Theo Jansen, a Dutch artist who creates this massive walking sculptures called Strandbeest that walk along the beach being pushed by the wind. - [Playa crawler](https://www.youtube.com/watch?v=TzehmObSjAE) - [Strandbeest](https://www.youtube.com/watch?v=LewVEF2B_pM)
 
 [![The Beest - A Strandbeest Walker](https://cdn.thingiverse.com/renders/85/01/21/61/3d/1454ef6648bba21002caefc618e364dc_preview_featured.jpg)](https://www.thingiverse.com/thing:2216204)
 

@@ -2,8 +2,9 @@
 title: Reinforcement Learning (RL)
 published: true
 tags: RL NN
+excerpt_separator: <!--more-->
 ---
-> a high-level framework for solving sequential decision-making problems. An RL agent navigates an environment by taking actions based on some observations, receiving rewards as a result. Most RL algorithms work by maximizing the expected total rewards an agent collects in a trajectory, e.g., during one in-game round. - [Deep Reinforcement Learning With TensorFlow 2.1](http://inoryy.com/post/tensorflow2-deep-reinforcement-learning/)
+> a high-level framework for solving sequential decision-making problems. <!--more--> An RL agent navigates an environment by taking actions based on some observations, receiving rewards as a result. Most RL algorithms work by maximizing the expected total rewards an agent collects in a trajectory, e.g., during one in-game round. - [Deep Reinforcement Learning With TensorFlow 2.1](http://inoryy.com/post/tensorflow2-deep-reinforcement-learning/)
 
 see also
 - [Apprentissage par renforcement #2](https://www.youtube.com/watch?v=a4WUL_KZeZo&list=PLpEPgC7cUJ4YPZlfUu0vQTwPraVKPASUa&index=2) - Exploration et Exploitation

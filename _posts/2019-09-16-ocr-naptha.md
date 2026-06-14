@@ -2,8 +2,9 @@
 published: true
 title: Project Naptha (ocr)
 tags: text ocr computer-vision opencv algorithm
+excerpt_separator: <!--more-->
 ---
-> automatically applies state-of-the-art computer vision algorithms on every image you see while browsing the web. The result is a seamless and intuitive experience, where you can highlight as well as copy and paste and even edit and translate the text formerly trapped within an image. - [
+> automatically applies state-of-the-art computer vision algorithms on every image you see while browsing the web. <!--more--> The result is a seamless and intuitive experience, where you can highlight as well as copy and paste and even edit and translate the text formerly trapped within an image. - [
 Project Naptha](https://projectnaptha.com/)
 
 - [HN1](https://news.ycombinator.com/item?id=20919147)

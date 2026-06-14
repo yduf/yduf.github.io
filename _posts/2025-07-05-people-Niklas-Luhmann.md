@@ -2,8 +2,9 @@
 title: Finding Niklas Luhmann
 published: true
 tags: people org jekyll
+excerpt_separator: <!--more-->
 ---
-> Luhmann was famous for his extensive use of the "slip box" or Zettelkasten note-taking method... He used them to systematically organize the results of his excessive and broadly interdisciplinary reading. Luhmann built up a zettelkasten of some 90,000 index cards for his research, and credited it with making his extraordinarily prolific writing possible.  - [wikipedia](https://en.wikipedia.org/wiki/Niklas_Luhmann#Note-taking_system_(Zettelkasten))
+> Luhmann was famous for his extensive use of the "slip box" or Zettelkasten note-taking method... <!--more--> He used them to systematically organize the results of his excessive and broadly interdisciplinary reading. Luhmann built up a zettelkasten of some 90,000 index cards for his research, and credited it with making his extraordinarily prolific writing possible.  - [wikipedia](https://en.wikipedia.org/wiki/Niklas_Luhmann#Note-taking_system_(Zettelkasten))
 
 from [HN](https://news.ycombinator.com/item?id=44426803)
 Looks like the author followed a similar approach in Obsidian, a tool to store markdown notes in an interconnected manner.

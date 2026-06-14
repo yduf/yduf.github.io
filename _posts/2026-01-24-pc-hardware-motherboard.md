@@ -2,6 +2,7 @@
 title: Motherboard
 published: true
 tags: pc-hardware
+excerpt_separator: ""
 ---
 
 | Model      | cpu | DDR  | PCIe | M.2 | In     | Description  

@@ -2,8 +2,9 @@
 published: true
 title: Execute Task periodically
 tags: linux-system systemd automation service timer
+excerpt_separator: <!--more-->
 ---
-> Cron, however, fails if your system happens to not be running when the appropriate execution time occurs.  
+> Cron, however, fails if your system happens to not be running when the appropriate execution time occurs. <!--more-->
 > Anacron insures that the task will be executed when your system is again active. However, the anacron frequency of execution can be no less than daily.
 >
 > Systemd timers offer the best of both cron and anacron. - [Systemd Timers for Scheduling Tasks](https://fedoramagazine.org/systemd-timers-for-scheduling-tasks/) / [systemd/Timers](https://wiki.archlinux.org/index.php/Systemd/Timers#As_a_cron_replacement)

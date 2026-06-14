@@ -2,8 +2,9 @@
 published: true
 title: Compression with Singular Value Decomposition
 tags: eigen-value math image jpeg SVD compression
+excerpt_separator: <!--more-->
 ---
-> Any set of images can be broken down with [Principal Component Analysis](http://setosa.io/ev/principal-component-analysis/). This has been done pretty successfully with [faces](https://en.wikipedia.org/wiki/Eigenface). Here we’ll take a look at style.- [Principal Component Analysis and Fashion](https://medium.com/hackerati/eigenstyle-8c52cc979029) /  [github](https://github.com/graceavery/Eigenstyle)
+> Any set of images can be broken down with [Principal Component Analysis](http://setosa.io/ev/principal-component-analysis/). <!--more--> This has been done pretty successfully with [faces](https://en.wikipedia.org/wiki/Eigenface). Here we’ll take a look at style.- [Principal Component Analysis and Fashion](https://medium.com/hackerati/eigenstyle-8c52cc979029) /  [github](https://github.com/graceavery/Eigenstyle)
 
 [![caption](http://graceavery.com/eigenstyle/4_eigendress.png)](https://github.com/graceavery/Eigenstyle)
 

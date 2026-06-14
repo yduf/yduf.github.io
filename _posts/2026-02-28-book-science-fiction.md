@@ -1,6 +1,7 @@
 ---
-title: Science fiction
+title: Science fiction 📚
 tags: book
+excerpt_separator: ""
 ---
 ## Hyperion
 the tales of a group of pilgrims sent to Hyperion's Time Tombs, to make a request of the Shrike, a metallic creature that is said to grant one wish to each pilgrim. - [Dan Simmons](https://en.wikipedia.org/wiki/Dan_Simmons) / [HN](https://news.ycombinator.com/item?id=47183578)

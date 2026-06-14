@@ -2,8 +2,9 @@
 published: true
 title: Consciousness
 tags: AI concept identity
+excerpt_separator: <!--more-->
 ---
-> You have understanding and intellingence and awareness... And somehow, understanding is in the middle of it. Could you say of an entity that it's actually intelligent if it doesn't have the quality of understanding? - [the limitations of a computational view of consciousness](https://www.youtube.com/watch?v=orMtwOz6Db0)
+> You have understanding and intellingence and awareness... <!--more--> And somehow, understanding is in the middle of it. Could you say of an entity that it's actually intelligent if it doesn't have the quality of understanding? - [the limitations of a computational view of consciousness](https://www.youtube.com/watch?v=orMtwOz6Db0)
 
 - [Consciousness is a great mystery. Its definition isn't.](https://www.theintrinsicperspective.com/p/consciousness-is-a-great-mystery)
 
