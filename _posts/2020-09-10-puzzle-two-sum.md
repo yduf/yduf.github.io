@@ -2,9 +2,9 @@
 published: true
 title: Two sum (puzzle)
 tags: leetcode puzzle algorithm
+excerpt_separator: <!--more-->
 ---
-> Given an array of integers `nums̀` and an integer `target`, return indices of the two numbers such that they add up to `target`.
->
+> Given an array of integers `nums̀` and an integer `target`, return indices of the two numbers such that they add up to `target`.<!--more-->
 > You may assume that each input would have exactly one solution, and you may not use the same element twice. - [LeetCode](https://leetcode.com/problems/two-sum/)
 
 - [solution](https://www.youtube.com/watch?v=KLlXCFG5TnA)

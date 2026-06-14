@@ -1,5 +1,5 @@
 ---
-title: Crystal
+title: Crystal 💎
 published: true
 tags: crystal lang golang
 permalink: /crystal/

@@ -59,7 +59,7 @@ function _update()
 end
 {% endhighlight %}
 
-###  [`anim()`](https://www.lexaloffle.com/bbs/?tid=3115&autoplay=1#pp)
+###  [`anim()`  ⮺](https://www.lexaloffle.com/bbs/?tid=3115&autoplay=1#pp)
 
 Obviously code above can be made generic (see  [`anim()`](https://www.lexaloffle.com/bbs/?tid=3115&autoplay=1#pp)),
 and complefixied when dealing with non-symetrical actor (multi 8x8 sprite) (see [Advanced animation](https://www.lexaloffle.com/bbs/?pid=19274&tid=3135&autoplay=1#pp)).
@@ -103,8 +103,9 @@ see also
 - [z-index](https://www.lexaloffle.com/bbs/?pid=35182) - use hash (table) indexed on z, rather than sorting sprite for drawing
 
 
-### [Stacked Sprites](https://www.youtube.com/watch?v=_Z5eg9UvLRw)
+### [Stacked Sprites ⮺](https://www.youtube.com/watch?v=_Z5eg9UvLRw)
 
+- [ The Illegal Way To Make 3D Games ](https://www.youtube.com/watch?v=cQKS_LAcbI8)
 - [Beginners Guide to Sprite Stacking using Magica Voxel and GameMaker Studio 2 or any Other Engine](https://medium.com/@avsnoopy/beginners-guide-to-sprite-stacking-in-gamemaker-studio-2-and-magica-voxel-part-1-f7a1394569c0)
 - [Flaming Stacks: Using stacked sprites in Flame](https://blog.codemagic.io/flaming-stacks/)
 - [Sprite Stacking](https://www.samd.is/2020/04/10/sprite-stacking.html) -  How to Make a 3D Game with a 2D Engine
@@ -118,7 +119,7 @@ see also
 </div>
 {:/}
 
-### [Sprite Composer](https://www.lexaloffle.com/bbs/?tid=50974)
+### [Sprite Composer ⮺](https://www.lexaloffle.com/bbs/?tid=50974)
 
 Create animation from sprite composition
 

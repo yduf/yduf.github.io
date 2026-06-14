@@ -1,6 +1,6 @@
 ---
 published: true
-title: Extend Desktop to Monitor over LAN
+title: Extend Desktop to Monitor over LAN 🖥️
 tags: remote display kvm vnc
 ---
 >  multi-head functionality for displays that might be located on different machines.

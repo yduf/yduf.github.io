@@ -17,14 +17,27 @@ rubik_oll: true
 - [Can a Rubik's Cube be brute-forced?](https://news.ycombinator.com/item?id=36645846)
 
 - [Magik tricks](https://www.youtube.com/shorts/vHOB6nuCGv8) - M' U D R M 
+- [ Sub 5 with 5 Methods ](https://www.youtube.com/watch?v=1qXdeTYZ4Jo) - roux / ZZ / CFOP / CFCE / CFEC
 
 # [Methode debutante ⮺](https://www.youtube.com/watch?v=E29pksDLVRQ)
 - [Le belge simplifié !](https://www.youtube.com/watch?v=HSDXq6Ed4Hw)
 - [face jaune](https://www.youtube.com/watch?v=BBCGVhUORNQ)
 	- la croix ( 0 , I) see below
     
+# [Roux Method ⮺](https://www.youtube.com/watch?v=ImBWkk-7teA)
 
-# [Method Fridrich ⮺](https://www.youtube.com/watch?v=keuarQZmDAA) - review
+No cross method.
+
+Half block
+- do half green
+- do half blue 
+
+CMLL (42 algs)
+- corner at the last layer
+
+Finish by middle cube
+
+# [Method Fridrich ⮺](https://www.youtube.com/watch?v=keuarQZmDAA)
 
 > Prioriser l'apprentisage des  PLL (21) sur les OLL (57).  
 > Commens par les OLL 2 look (construction de la croix jaune)
@@ -67,6 +80,20 @@ Obtenir la croix jaune
 - [F U R U' R' F'](https://youtu.be/FZJq-VK5Ngo?t=193) - virgule
 	- R' U' F' U F R
 
+<!-- OLL 27 initial state -->
+<div markdown="1" style="display:flex; align-items:center; gap:1rem; margin:1rem 0">
+  <div id="oll-27"></div>
+  <code><a href="https://www.youtube.com/shorts/yhV4PPAPTu8">R U R' U R U2 R'</a></code> - oll-27 - small square  
+  <code><a href="https://youtu.be/mqvxojuUFy4?t=121">R U2 R' U' R U' R'</a></code> - left side
+</div>
+<script>drawOLL('oll-27',{
+      back:['Y','X','X'],
+  top:[['X','X','Y','X','Y'],
+       ['X','Y','Y','Y','X'],
+       ['X','Y','Y','X','X']],
+     front:['X','X','Y']}, 12)
+</script>
+
 <!-- OLL 22 initial state -->
 <div markdown="1" style="display:flex; align-items:center; gap:1rem; margin:1rem 0">
   <div id="oll-22"></div>
@@ -80,10 +107,11 @@ Obtenir la croix jaune
      front:['X','X','Y']}, 12)
 </script>
 
+
+
 ## Completer avec [Les OLL ⮺](https://www.youtube.com/watch?v=mqvxojuUFy4&list=PLh9akXp2EH2D1MBpl8gb0w2WM0eiailpB&index=8) adaptés - #57
 
-[R U R' U R U2 R'](https://youtu.be/mqvxojuUFy4?t=121) - small square  
-R U2 R' U' R U' R'
+
 
 [R U2 R' U' R U R' U' R U' R'](https://youtu.be/mqvxojuUFy4?t=181) - cross   
 R U2 R2 U' R2 U' R2 U2 R
@@ -104,8 +132,6 @@ R' U L' U2 R U' R' U2 L R U'
 
 # Advanced (sub 10s)
 
-### Algorithm
-
 <!-- Ua initial state -->
 <div style="display:flex; align-items:center; gap:1rem; margin:1rem 0">
   <div id="Ua"></div>
@@ -113,14 +139,27 @@ R' U L' U2 R U' R' U2 L R U'
 </div> 
 <script>drawOLL('Ua',{
       back:['O','R','O'],
-  top:[['B','X','X','X','G'],
-       ['B','X','X','X','O'],
-       ['B','X','X','X','G']],
+  top:[['B','X','Y','X','G'],
+       ['B','X','X','Y','O'],
+       ['B','X','Y','X','G']],
      front:['R','G','R']}, 12)
 </script>
 
 
-- [r U'R'U R U r'](https://youtu.be/6lef76z55F4) - join med + corner at corner
+<!-- F2L example: joined pair at UFR -->
+<div markdown="1" style="display:flex; align-items:center; gap:1rem; margin:1rem 0">
+  <div id="f2l-join-med-1"></div>
+  <code><a href="https://youtu.be/6lef76z55F4">r U'R'U R U r'</a></code> - join med + corner at corner
+</div>
+<script>drawF2L('f2l-join-med-1',{
+  top:[['X','X','X'],
+       ['O','X','X'],
+       ['X','X','O']],
+  side:[[['X','G','X'],['X','X','G']],
+        [['G','G','X'],['X','O','X']],
+        [['G','G','X'],['X','O','X']]]}, 12)
+</script>
+
 - [U'R U2 M' B r'](https://youtu.be/yEGp7kbHR3M) - join med + corner at corner
 - [R' U R' F R F' R](https://www.youtube.com/watch?v=gABZSNHCMR0) - invert slice
 

@@ -1,6 +1,6 @@
 ---
 published: true
-title: moreutils (cli)
+title: moreutils (cli) 📠
 tags: cli
 ---
 - **chronic:** runs a command quietly unless it fails
@@ -10,6 +10,7 @@ tags: cli
 - **ifne:** run a program if the standard input is not empty
 - **isutf8:** check if a file or standard input is utf-8
 - **lckdo:** execute a program with a lock held
+- [**ls**]({% post_url 2023-10-22-cli-term-ls-hyperlink %}) hides gem in options
 - **mispipe:** pipe two commands, returning the exit status of the first
 - [**parallel**]({% post_url 2021-08-07-cli-parallel %}) - run multiple jobs at once
 - **pee:** tee standard input to pipes

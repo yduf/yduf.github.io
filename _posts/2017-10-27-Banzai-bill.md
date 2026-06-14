@@ -1,4 +1,5 @@
 ---
+title: Banzai Bill 🚅
 published: true
 tags: 3dmodel
 ---

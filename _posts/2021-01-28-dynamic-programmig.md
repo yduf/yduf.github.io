@@ -3,8 +3,10 @@ published: true
 title: Dynamic Programming
 tags: algorithm recursive optimize complexity Fibonacci
 use_math: true
+excerpt_separator: <!--more-->
 ---
-> it refers to simplifying a complicated problem by breaking it down into simpler sub-problems in a recursive manner.  While some decision problems cannot be taken apart this way, decisions that span several points in time do often break apart recursively. Likewise, in computer science, if a problem can be solved optimally by breaking it into sub-problems and then recursively finding the optimal solutions to the sub-problems, then it is said to have optimal substructure. - [Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming)
+> it refers to simplifying a complicated problem by breaking it down into simpler sub-problems in a recursive manner. <!--more-->
+> While some decision problems cannot be taken apart this way, decisions that span several points in time do often break apart recursively. Likewise, in computer science, if a problem can be solved optimally by breaking it into sub-problems and then recursively finding the optimal solutions to the sub-problems, then it is said to have optimal substructure. - [Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming)
 
 > Wilson was Secretary of Defense, and he actually had a pathological fear and hatred of the word "research" ... dynamic programming was a good name. It was something not even a Congressman could object to. So I used it as an umbrella for my activities. - [How Bellman came up with this name](https://en.wikipedia.org/wiki/Dynamic_programming#History)
 

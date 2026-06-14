@@ -1,5 +1,5 @@
 ---
-title: Notebook OpenFormat
+title: Notebook OpenFormat 📓
 published: true
 tags: notebook
 ---

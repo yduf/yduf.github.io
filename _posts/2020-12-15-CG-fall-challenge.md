@@ -2,9 +2,10 @@
 published: true
 title: (CG) Spice Girls (Fall Challenge 2020) ⚗️
 tags: codingame
+excerpt_separator: <!--more-->
 ---
-> Perhaps the only CG game where better search is worse?
-Thanks to the random recipe drawn after a brew which has the property to mess up any plans and transform a lead or a win straight into a loss. - [reCurse (3thd)](https://forum.codingame.com/t/fall-challenge-2020-feedbacks-strategies/187846/81)
+> Perhaps the only CG game where better search is worse? <!--more-->
+> Thanks to the random recipe drawn after a brew which has the property to mess up any plans and transform a lead or a win straight into a loss. - [reCurse (3thd)](https://forum.codingame.com/t/fall-challenge-2020-feedbacks-strategies/187846/81)
 
 
 ![caption](https://static.codingame.com/servlet/fileservlet?id=54137529209898&format=puzzle_cover)

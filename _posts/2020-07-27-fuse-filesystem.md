@@ -2,8 +2,10 @@
 published: true
 title: FUSE Filesystem
 tags: software filesystem
+excerpt_separator: <!--more-->
 ---
-> FUSE (Filesystem in Userspace) is an interface for userspace programs to export a filesystem to the Linux kernel. The FUSE project consists of two components: the fuse kernel module (maintained in the regular kernel repositories) and the libfuse userspace library (maintained in this repository). libfuse provides the reference implementation for communicating with the FUSE kernel module. - [libfuse](https://github.com/libfuse/libfuse)
+> FUSE (Filesystem in Userspace) is an interface for userspace programs to export a filesystem to the Linux kernel. <!--more-->
+> The FUSE project consists of two components: the fuse kernel module (maintained in the regular kernel repositories) and the libfuse userspace library (maintained in this repository). libfuse provides the reference implementation for communicating with the FUSE kernel module. - [libfuse](https://github.com/libfuse/libfuse)
 
 see also
 - [amifuse](https://github.com/reinauer/amifuse?tab=readme-ov-file#amifuse) / [HN](https://news.ycombinator.com/item?id=46473726) - runs actual Amiga filesystem drivers (like PFS3) through m68k CPU emulation, allowing you to read Amiga hard disk images without relying on reverse-engineered implementations.
