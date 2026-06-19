@@ -115,7 +115,7 @@ title: Tags
 <script src="{{ '/assets/js/d3.v7.min.js' | relative_url }}"></script>
 
 
-<div id="tags">
+<div id="tags toc">
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
   <div id="{{ this_word | slugify }}"  class="topic-section">
