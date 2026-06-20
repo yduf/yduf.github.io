@@ -19,6 +19,9 @@ rubik_oll: true
 - [Magik tricks](https://www.youtube.com/shorts/vHOB6nuCGv8) - M' U D R M 
 - [ Sub 5 with 5 Methods ](https://www.youtube.com/watch?v=1qXdeTYZ4Jo) - roux / ZZ / CFOP / CFCE / CFEC
 
+
+
+
 # [Methode debutante ⮺](https://www.youtube.com/watch?v=E29pksDLVRQ)
 - [Le belge simplifié !](https://www.youtube.com/watch?v=HSDXq6Ed4Hw)
 - [face jaune](https://www.youtube.com/watch?v=BBCGVhUORNQ)
@@ -191,3 +194,22 @@ Iterative Deepening (for Phase 1)
 
 Let's say our first solution took 15 moves for F2L and 11 moves for LL. That means that our cube takes at most 15 + 11 = 26 moves to solve.  
 So let's try looking at all the solutions that take 15 moves for F2L. If any of them give us an LL that takes fewer than 11 moves, we can find a shorter solution.
+
+## Finter tricks
+- [ Rubik's Cube: How to Develop FASTER Turning Speed! ](https://www.youtube.com/watch?v=VCz6zq2iyRM)
+- [ Your Algorithm Sucks (proof) ](https://www.youtube.com/watch?v=1ZbTTzdC-bk)
+
+# [ What Algorithms are WORTH Learning?  ⮺](https://www.youtube.com/watch?v=5-i7Fwx5DTU)
+
+## VLS
+
+### OLL
+- winter variation
+
+## VHLS
+Not worth it.
+
+## [Pseudoslotting (F2L)  ⮺](https://www.youtube.com/watch?v=49Izh9ZnBog)
+- wrong pairing
+
+### Edge orientation

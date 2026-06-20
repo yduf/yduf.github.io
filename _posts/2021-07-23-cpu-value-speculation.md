@@ -7,9 +7,10 @@ tags: cpu branch cache security
 
 Modern CPUs do not process instructions serially, but rather handle many at the same time. They read many instructions at once, break them down in stages, and then try to fill all the computation units they have with as many tasks from as many instructions as possible.3 For instance, modern Intel processors are designed for a throughput of 4 instructions per clock cycle, and AMD Zen processors for up to 5 or 6. However, branches pose a challenge when wanting to execute instructions in parallel.
 
-### see also
+**see also**
 - [When you Accidentally Compromise every CPU on Earth](https://www.youtube.com/watch?v=YRohz9VO1YY)
 - [researchers find an unfixable bug in EVERY ARM cpu ](https://www.youtube.com/watch?v=CjpEZ2LAazM)
 - [Branch Privilege Injection: Exploiting branch predictor race conditions](https://news.ycombinator.com/item?id=43974891)
 - [	Bypassing the Branch Predictor](https://news.ycombinator.com/item?id=45943279)
 - [	How many branches can your CPU predict? (lemire)](https://lemire.me/blog/2026/03/18/how-many-branches-can-your-cpu-predict/) / [HN](https://news.ycombinator.com/item?id=47432779) - AMD Zen 5 processor can predict perfectly 30,000 branches.
+- [	Beating the L1 cache with value speculation (2021)](https://news.ycombinator.com/item?id=45544235)

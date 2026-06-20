@@ -8,8 +8,9 @@ tags: cpu photo physics LLM
       - moins de 1% de l'energie utilisée atteind le silicium
       - TSMC dit non pour l'instant
     - la frontiere des 3 nm - utiliser des accelerateurs de particules ? (FEL) 
+      - [  America is coming for Europe's most important machine ](https://www.youtube.com/watch?v=cnsKl2JouOc)
       - xLight (USA) - integrate in ASML
-      - substrate (USA) - rayon X
+      - substrate (USA) - rayon X  
       - KEK (Japan)
       - SSMB (Chine)
 

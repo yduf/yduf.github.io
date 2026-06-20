@@ -13,7 +13,8 @@ tags: co2 climate-war
     - ...
     - _[2050 -  2t](https://www.hellocarbo.com/blog/calculer/bilan-carbone-personnel/)_ - objectifs...
 	
-- [ Carbon results for yduf.github.io ](https://www.websitecarbon.com/website/yduf-github-io/) - cleaner than
-94 % of web pages tested - Only
-0.07 g of CO2 is produced every time someone visits this web page.  
-Over a year, with 10,000 monthly page views, This web page emits the amount of carbon that 1 tree absorbs in a year.
+# [Carbon results for yduf.github.io ](https://www.websitecarbon.com/?utm_source=chatgpt.com)
+- 2026 - [cleaner than 95 % of all web pages globally ](https://www.websitecarbon.com/website/yduf-github-io/)
+- 2021 - [cleaner than 94 % of web pages tested](https://www.websitecarbon.com/website/yduf-github-io/)
+  - Only 0.07 g of CO2 is produced every time someone visits this web page. 
+  - Over a year, with 10,000 monthly page views, This web page emits the amount of carbon that 1 tree absorbs in a year.

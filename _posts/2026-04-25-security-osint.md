@@ -1,6 +1,6 @@
 ---
 title: OSINT
-tags: security graph internet
+tags: security graph internet osint
 ---
 >  [Comment retrouver n'importe qui sur Internet ? (Sensibilisation OSINT)](https://www.youtube.com/watch?v=VlTn5AB5SJE)
 

@@ -1,7 +1,7 @@
 ---
 title: Cursor@Home
 published: true
-tags: LLM agentic-AI at_home vscode
+tags: LLM agentic-AI at_home vscode project
 toc: true
 ---
 > How to make your own cursor - [ChatpGPT](https://chatgpt.com/share/694288eb-9fd4-800d-9753-9c1f39b2f9b6)
@@ -93,7 +93,8 @@ Long session are coslty because of the increased input token.
 
 | Rank | [Model Leaderboard ⮺](https://vercel.com/ai-gateway/leaderboards) |  | Plan | Act | Price | Comment |
 | --- | --- | --- | --- | --- | --- | --- |
-| ★★★★☆ | deepseek/deepseek-v4-pro | 2026-05-17 |  | ✅ | Context: 1.0MInput: $0.43/MOutput: $0.87/M | cheapest |
+| ★★★★☆ | deepseek/deepseek-v4-pro | 2026-05-17 |  | ✅ | Context: 1.0MInput: $0.43/MOutput: $0.87/M | cheap |
+| ? | deepseek/deepseek-flash |  |  | ✅ |  | cheapest |
 |  | z-ai/glm-4.6 | 2026-04-03 | ✅ |  |  |  |
 |  | moonshotai/kimi-k2.6 | 2026-05-17 |  | ✅ | Context: 262K Input: $0.73/M Output: $3.49/M |  |
 |  | x-ai/grok-code-fast-1 | 2026-04-03 |  | ✅ |  |  |
@@ -118,8 +119,29 @@ $ npm install -g cline
 $ cline auth
 {% endhighlight %}
 
+# [pi.dev  ⮺](https://pi.dev/)
+
+An open-source, terminal-based AI coding agent designed around a minimalist philosophy - (github)[https://github.com/earendil-works/pi#pi-agent-harness-mono-repo] / [HN](https://news.ycombinator.com/item?id=47143754).
+
+Pi provides:
+
+- AI coding assistance directly in the terminal: it can read files, edit files, write code, and run shell commands inside a project.
+- Broad model support: it connects to 15+ providers and hundreds of models, including OpenAI, Anthropic, Google, local/self-hosted models, and others.
+
+**see also**
+- [What is Pi](https://chatgpt.com/share/6a339260-e8d0-83eb-bd35-9b5eee4c75c7)
+- [ Code Isn't Free — Mario Zechner on the Hard Truths of Coding With AI (creator of Pi) ](https://www.youtube.com/watch?v=GhjU-KvXtT0)
+- [A coding agent with the IDE wired in. omp.sh](https://github.com/can1357/oh-my-pi)
+
+# [Hermes  ⮺](https://hermes-agent.nousresearch.com/)
+
+## Project 💭
+
+Run it on raspberry-pi
 
 # Claude
+
+Did you know that it is named _Claude_ in reference to _Claude Shanon_ the man that defined _anthropie_ of information content (and the company is named antropic...)
 
 - [Claude Code Unpacked](https://ccunpacked.dev/#agent-loop) / [HN](https://news.ycombinator.com/item?id=47597085) - overview of Claude implementation and behavior
     - [Claude Code Leaks](https://www.ccleaks.com/)
@@ -138,3 +160,7 @@ $ cline auth
 - [	Aider: AI pair programming in your terminal](https://news.ycombinator.com/item?id=39995725)
 - [OpenCode](https://github.com/anomalyco/opencode) - very similar to Claude Code in terms of capability.
 	- [Unauthenticated remote code execution in OpenCode](https://news.ycombinator.com/item?id=46581095)
+
+# Model provider
+- [ New #1 open-source AI model is here! ](https://www.youtube.com/watch?v=6d__WOpZswY)
+  - GLM 5.2 - Zcode

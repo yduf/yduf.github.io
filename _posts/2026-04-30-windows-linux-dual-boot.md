@@ -5,6 +5,9 @@ toc: true
 ---
 > How to not break your windows 11 laptop when installing Linux.
 
+**see also**
+- [NVRAM / Multipartition Install](https://www.youtube.com/watch?v=qFQFmhGbRek) - OS not fully contained in the disk / General partition info.
+
 <div class="encart green" markdown="1">
 This has been tested with **LinuxMint 22.3** / **Windows 11 Pro** (in a enterprise environment) - 2026-04-30
 </div>

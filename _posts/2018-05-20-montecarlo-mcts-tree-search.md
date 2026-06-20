@@ -3,6 +3,7 @@ title: '# Monte-Carlo Tree Search (MCTS)'
 published: true
 tags: AI MCTS search montecarlo algorithm
 use_math: true
+toc: true
 ---
 > Monte Carlo Tree Search was introduced by [Rémi Coulom in 2006](https://hal.inria.fr/inria-00116992/document) as a building block of Crazy Stone – Go playing engine with an impressive performance. - [Beginners guide](https://int8.io/monte-carlo-tree-search-beginners-guide/)
 
@@ -10,15 +11,32 @@ Monte Carlo Tree Search has one main purpose: given a **game state** to choose *
 
 A **game tree** is a tree in which every node represents certain **state** of the game. Transition from a **node** to one of its **children** (if they exist) is a move. The number of node’s children is called **a branching factor**. Root node of the tree represents the **initial state** of the game. We also distinguish **terminal nodes** of the game tree – nodes with no children, from where game cannot be continued anymore. The terminal node’s states can be evaluated – this is where game result is concluded.
 
-## Upper Confidence Bounds for Trees (UCT)
+# Upper Confidence Bounds for Trees (UCT)
 
-$uct = \Large\frac{score}{visit} + C \sqrt{ \Large\frac{2*ln(V)}{visit} }$
+For a node $n$ and its children $i$
+
+[ $\operatorname{UCT}(n,i) = \Large\frac{score_i}{visit_i} + C \sqrt{ \Large\frac{\ln(visit_n)}{visit_i} }$ ](https://int8.io/monte-carlo-tree-search-beginners-guide/#upper-confidence-bound-applied-to-trees)
 
 Evaluation function using UCT is balanced between:
 - **exploration**  (second term) - meaning exploring tree space to gain new knowledge
 - **exploitation** (first term - score) - meaning using aquired knowledge to focus on promising node.
 
 As each node is visited, the denominator of the exploration term increases, which decreases its contribution.  On  the  other  hand,  if  another  child  of  the  parent node  is  visited,  the  numerator  increases  and  hence  the exploration  values  of  unvisited  siblings  increase.  The exploration  term  ensures  that  each  child  has  a  non-zero  probability  of  selection,  which  is  essential  giventhe random nature of the playouts.
+
+At the end, pick the node with the highest number of visits.
+
+## [ Origin ⮺](https://chatgpt.com/share/6a350e08-7e20-83ed-8360-19dfdc641132)
+
+The UCT formula (“Upper Confidence bounds applied to Trees”) comes from combining two ideas: the multi-armed bandit problem and Monte Carlo Tree Search (MCTS).
+
+It originates from the UCB1 algorithm for the multi-armed bandit problem, developed by Peter Auer, Nicolò Cesa-Bianchi, and Paul Fischer.
+
+Imagine a slot machine with several levers ("arms"), each with an unknown average payout. You repeatedly pull levers and want to maximize reward. You face a dilemma:
+
+- exploit: pull the lever that currently looks best
+- explore: test uncertain levers that might actually be better
+
+UCT is not an arbitrary formula. The square root and logarithm come directly from statistical concentration bounds. The $\ln(N)$ grows slowly, so exploration never disappears entirely, while $ 1/ \sqrt(n_i)$ causes uncertainty to shrink as a child is sampled more.
 
 # MCTS Algorithm
 
@@ -71,9 +89,9 @@ function BACKUP(v,∆)
 
 see also [HN](https://news.ycombinator.com/item?id=10209677)
 
-## [Tic-Tac-Toe](http://www.baeldung.com/java-monte-carlo-tree-search)
+# [Tic-Tac-Toe ⮺](http://www.baeldung.com/java-monte-carlo-tree-search)
 
-## [Deep Dive](http://www.moderndescartes.com/essays/deep_dive_mcts/)
+## [Deep Dive ⮺](http://www.moderndescartes.com/essays/deep_dive_mcts/)
 This essay digs into the “how do you reach a higher level of gameplay?” part of the process. Despite replacing all human heuristics, AlphaGoZero still uses tree search algorithms at its core. I hope to convince you that AlphaGoZero’s success is as much due to this algorithm as it is due to machine learning.
 
 ## Good Explaination
@@ -83,7 +101,7 @@ This essay digs into the “how do you reach a higher level of gameplay?” part
 
 
 
-### Papers
+# Papers
 
 - [A Survey of Monte Carlo Tree Search Methods](https://repository.essex.ac.uk/4117/1/MCTS-Survey.pdf)
 - [MCTS for multiplayer games](https://project.dke.maastrichtuniversity.nl/games/files/phd/Nijssen_thesis.pdf)

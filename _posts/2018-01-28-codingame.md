@@ -110,7 +110,7 @@ For Legacy games:
 ## [Merger Tools ⮺](https://github.com/yduf/CG-rubyprep?tab=readme-ov-file#c-include-files-packer)
 
 <div class="encart blue" markdown="1">
-Use [my own](https://github.com/yduf/CG-rubyprep?tab=readme-ov-file#c-include-files-packer).
+I Use [**my own**](https://github.com/yduf/CG-rubyprep?tab=readme-ov-file#c-include-files-packer).
 </div>
 
 

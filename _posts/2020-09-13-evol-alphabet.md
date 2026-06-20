@@ -11,6 +11,13 @@ tags: alphabet history
     - Bonjour'e
     - Merci-sh
 
+- [The hidden logic behind #, @, & and §](https://www.youtube.com/watch?v=cSsyG2pE-GY)
+  - # is pound - abrevation of _libra_ - or hash, as the mark of hashed wood
+    - # not the same as _sharp_ which also comes from _b_
+  - & - is _et_ and wordized as ampersend
+  - § _signum sectonis_ - section sign - also call the silcrow (vs the pilcrow ¶ / paragraph)
+  - * _asterisk_ in greek little start 
+  - 👉 Manicule - little hand
 
 **see also**
 - [Writing Systems of the World | Abjads, Alphabets, Abugidas, Syllabaries & Logosyllabaries](https://www.youtube.com/watch?v=Mmz42awTRsA)

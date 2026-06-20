@@ -215,7 +215,7 @@ $ ninja test     (3)
 2. Each time you build it
 3. Each time you run tests
 
-# [Install⬇ ⮺](https://mesonbuild.com/Quick-guide.html#installation-using-package-manager)
+# [Install ⮺ ⬇](https://mesonbuild.com/Quick-guide.html#installation-using-package-manager)
 
 > Due to our frequent release cycle and development speed, distro packaged software may quickly become outdated.
 
