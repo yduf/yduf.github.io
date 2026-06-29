@@ -1,34 +1,42 @@
 ---
 published: true
-title: Raspberry Pi / ARM Fleet
+title: "# Raspberry Pi / ARM Fleet 🫐"
 tags: raspberry-pi arm-hardware
 toc: true
 ---
 > The Raspberry Pi is a tiny and affordable computer that you can use to learn programming through fun, practical projects. - [raspberrypi.org](https://www.raspberrypi.org) /  [r/raspberry_pi](https://www.reddit.com/r/raspberry_pi/)
 
-{::nomarkdown}
 <link rel="shortcut icon" href="https://www.raspberrypi.org/app/themes/mind-control/images/favicon.png" type="image/png" />
-{:/}
+
 
 [![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Raspberry_Pi_-_Model_A.jpg/330px-Raspberry_Pi_-_Model_A.jpg)](https://en.wikipedia.org/wiki/Raspberry_Pi)
 
-# [Fleet](https://howchoo.com/pi/raspberry-pi-models/)
-[Checking Model version](https://www.raspberrypi-spy.co.uk/2012/09/checking-your-raspberry-pi-board-version/) `cat /proc/device-tree/model` 
+# [Fleet ⮺](https://howchoo.com/pi/raspberry-pi-models/)
+
+<div class="encart blue" markdown="1">
+[Checking Model version](https://www.raspberrypi-spy.co.uk/2012/09/checking-your-raspberry-pi-board-version/) `cat /proc/device-tree/model`  
+
 or `pinout` in new raspbian version
-- **[BananaPi M2 Zero](https://wiki.banana-pi.org/Banana_Pi_BPI-M2_ZERO)** ([The100]()) - arm A7 - 0.5Go - (2024)
-- Raspberry Pi 4 Model B Rev 1.2 ([ender6](http://ender6)) - armv7l - 4Go - (2021)
-- Raspberry Pi 3 Model B Rev 1.2 ([ender3](http://ender3))- armv7l - 1Go - (2019)
-- Raspberry Pi _1_ Model B Rev 2 - arm 32bits - 0.5Go - (2013) - [Raspi-OS](https://www.raspberrypi.com/software/operating-systems/#raspberry-pi-os-legacy)
+</div>
 
-and also
-- [CubieTruck (Cubieboard3)]({% post_url 2023-06-19-arm-cubietruck %}) - 2Go - (2013)
 
-# GPIO
+| Device | Hostname / Alias | Architecture | RAM | Year | Compute Power* | Notes |
+|---|---:|---|---:|---:|---:|---|
+| [Raspberry Pi 5 Model B Rev 1.0]({% post_url 2026-06-21-hardware-raspberry-pi5 %}) |  | ARM Cortex-A76 (ARMv8-A, 64-bit, quad-core) | 8GB | 2026 | ~15–20× | |
+| **[BananaPi M2 Zero](https://wiki.banana-pi.org/Banana_Pi_BPI-M2_ZERO)** | [The100]() | ARM Cortex-A7 | 0.5Go | 2024 | ~1.5× | |
+| Raspberry Pi 4 Model B Rev 1.2 | [ender6](http://ender6) | ARM Cortex-A72 (ARMv8-A, 64-bit, quad-core) | 4Go | 2021 | ~8–10× | |
+| Raspberry Pi 3 Model B Rev 1.2 | [ender3](http://ender3) | ARM Cortex-A53 (ARMv8-A, 64-bit, quad-core) | 1Go | 2019 | ~4–5× | |
+| Raspberry Pi 1 Model B Rev 2 | | ARM1176JZF-S (ARMv6, 32-bit, single-core) | 0.5Go | 2013 | 1× | [Raspi-OS](https://www.raspberrypi.com/software/operating-systems/#raspberry-pi-os-legacy) |
+| [CubieTruck (Cubieboard3)]({% post_url 2023-06-19-arm-cubietruck %}) | | Allwinner A20 (dual Cortex-A7) | 2Go | 2013 | ~2× | |
+
+*Compute power is a rough relative CPU estimate (multi-core + IPC + clock improvements), not a benchmark score. It is useful for quickly judging things like Kubernetes nodes, Docker workloads, CI runners, or lightweight servers.
+
+## GPIO
 
 ![caption](https://www.raspberrypi-spy.co.uk/wp-content/uploads/2012/06/raspberry_pi_3_model_b_plus_gpio.jpg)
 
-# USB
-## [Finding Serial ports](https://www.klipper3d.org/FAQ.html#wheres-my-serial-port)
+## USB
+### [Finding Serial ports ⮺](https://www.klipper3d.org/FAQ.html#wheres-my-serial-port)
 - `ls /dev/serial/by-id/*` -> **this is stable**
 - `lsusb` -> USB-Serial adapter
 - `dmesg | grep -i serial` -> 3f201000.serial: ttyAMA0
@@ -39,16 +47,18 @@ and also
 **WARNING** - [/dev/serial/by-id missing](https://www.reddit.com/r/debian/comments/1331wlr/comment/jihlmvs/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 	- edit `/usr/lib/udev/rules.d/60-serial.rules`
 
-## [turn off USB ports power](https://forums.raspberrypi.com/viewtopic.php?p=813383#p813383)
+### [turn off USB ports power ⮺](https://forums.raspberrypi.com/viewtopic.php?p=813383#p813383)
 
 `hub-ctrl.c/hub-ctrl -h 0 -P 2 -p 0 ` turn off the power to the all the usb ports
 
-# [Temperature Monitoring](https://www.raspberrypi-spy.co.uk/2020/11/raspberry-pi-temperature-monitoring/) - `vcgencmd measure_temp`
+## [Temperature Check ⮺ 🌡](https://www.raspberrypi-spy.co.uk/2020/11/raspberry-pi-temperature-monitoring/) 
 
-# [Wifi]({% post_url 2021-04-18-wifi %})
+{% highlight bash %}
+$ vcgencmd measure_temp
+{% endhighlight %}
+
+## [Wifi ⮺]({% post_url 2021-04-18-wifi %})
 - [Disable WiFi (wlan0) on Pi](https://raspberrypi.stackexchange.com/questions/43720/disable-wifi-wlan0-on-pi-3)
-
-# [Boot](({% post_url 2020-09-20-uast-drive %}))
 
 # see also
 - [Act as a usb device for another computer.](https://www.reddit.com/r/raspberry_pi/comments/jir0u8/i_just_realized_the_raspberry_pi_4_can_do/)

@@ -195,7 +195,8 @@ Iterative Deepening (for Phase 1)
 Let's say our first solution took 15 moves for F2L and 11 moves for LL. That means that our cube takes at most 15 + 11 = 26 moves to solve.  
 So let's try looking at all the solutions that take 15 moves for F2L. If any of them give us an LL that takes fewer than 11 moves, we can find a shorter solution.
 
-## Finter tricks
+## Finger tricks
+- [How to Turn FASTER ](https://www.youtube.com/watch?v=__q-5MwlOiU)
 - [ Rubik's Cube: How to Develop FASTER Turning Speed! ](https://www.youtube.com/watch?v=VCz6zq2iyRM)
 - [ Your Algorithm Sucks (proof) ](https://www.youtube.com/watch?v=1ZbTTzdC-bk)
 

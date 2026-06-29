@@ -19,7 +19,7 @@ toc: true
     - [IMSAI 8080 ](https://www.youtube.com/watch?v=gW5J1xDjM-A) — You know that computer from WarGames 
     - [IMSAI 8080 replica](https://thehighnibble.com/imsai8080/#overview)
   - [Bob's Unnecessary Retro Processor](https://www.youtube.com/watch?v=6GI3cAsZgF0)
-- [ tactical thermonuclear gnome ](https://www.youtube.com/watch?v=YPW_HeOHA1E)
+- [ tactical thermonuclear gnome ](https://www.youtube.com/watch?v=YPW_HeOHA1E) 🎅
 
 [![caption](https://pc-museum.com/gallery/rcm-046-medium.jpg)](https://pc-museum.com/046-imsai8080/index.htm)
 

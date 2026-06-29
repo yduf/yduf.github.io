@@ -94,10 +94,11 @@ Long session are coslty because of the increased input token.
 | Rank | [Model Leaderboard ⮺](https://vercel.com/ai-gateway/leaderboards) |  | Plan | Act | Price | Comment |
 | --- | --- | --- | --- | --- | --- | --- |
 | ★★★★☆ | deepseek/deepseek-v4-pro | 2026-05-17 |  | ✅ | Context: 1.0MInput: $0.43/MOutput: $0.87/M | cheap |
-| ? | deepseek/deepseek-flash |  |  | ✅ |  | cheapest |
+| ? | deepseek/deepseek-flash |  |  | ✅ |  | cheapest (free) |
 |  | z-ai/glm-4.6 | 2026-04-03 | ✅ |  |  |  |
 |  | moonshotai/kimi-k2.6 | 2026-05-17 |  | ✅ | Context: 262K Input: $0.73/M Output: $3.49/M |  |
 |  | x-ai/grok-code-fast-1 | 2026-04-03 |  | ✅ |  |  |
+| [☆☆☆☆☆](https://www.youtube.com/watch?v=BGZjs1dQfsk) |Gemma4 12B Coder | 2026-04-03 |  | ✅ |  | 16GB Local LLM setup |
 
 ## Setup
 - Native tools: 

@@ -56,6 +56,7 @@ w
 | 🔧 [Lexar NM610 Pro](https://ssd-tester.fr/lexar_nm610_pro_1tb.html) | 1 To  / 3.3&nbsp;GB/s  | 🖴 NVMe | — | — |
 | 🔧 WD SN730                                                          | 0.5 To / 3.4&nbsp;GB/s | 🖴 NVMe | OEM (2020) | ♻️ [huawei matebook&nbsp;14]({% post_url 2021-07-18-laptop-huawei-matebook-14 %}) |
 | 🔧 [WD Green](https://www.amazon.fr/gp/product/B078WYS5K6)           | 240 Go / 0.5&nbsp;GB/s | 🖴 SATA | 36€ (2020) | ♻️ [lab 2020]({% post_url 2020-05-24-pc-2020 %}) |
+| Patriot P300 | 250 Go | 🖴 NVMe | | [Pi 5]({% post_url 2026-06-21-hardware-raspberry-pi5 %}) |
 
 **🔧**: Spare  
 **🖴**: M.2 2280  
