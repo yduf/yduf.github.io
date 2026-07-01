@@ -14,6 +14,7 @@ toc: true
 # [ Models  ⮺](https://huggingface.co/models)
 
 **see also**
+- [Top Model by task](https://openrouter.ai/rankings#task-spend)
 - [The Best Local Agentic Coding Workflow (Complete Guide)](https://www.youtube.com/watch?v=UngVdAsQEiU)
 
 | rank | Model |  | Size | Speed | Comments |
@@ -24,6 +25,20 @@ toc: true
 |  | llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-NVFP4-Experts-Only-GGUF |  | 12.5GB | 10 tok/sec - 2898 tokens - 1.16s to first token | LM Studio 4.12 |
 |  | llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-NVFP4-Experts-Only-GGUF |  | 12.5GB | 10 tok/sec - 2898 tokens - 1.16s to first token | LM Studio 4.12 |
 
+- [ QWEN 3.6 27B sur 16GB VRAM : La meilleure configuration ](https://www.youtube.com/watch?v=YElKs1ihn3M)
+  - [	RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8](https://news.ycombinator.com/item?id=48515454)
+
+Avec un KV Cache en Q4 tu dégrades énormément la qualité. Autant passer sur un 35b a3b avec MoE (même sans MTP) qui sera beaucoup plus rapide et de meilleure qualité, surtout si tu le prends en Q6 voire Q8. Le KV cache c'est toujours Q8 minimum, ou alors turboquant, et encore (turbo4 minimum, pas turbo3).
+
+Je sais pas comment vous faites pour du dev avec 55k de contexte, à moins de faire juste quelques petits scripts par ci par là. Pour moi c'est beaucoup trop peu (je suis développeur depuis plus de 30 ans). C'est minimum 256k pour que le modèle ait une vue d'ensemble de l'architecture du projet, puisse chercher dans la doc, les headers, git, ticketing, logs, etc, bref bosser dans de bonnes conditions. J'utilise Opencode.
+
+Par ailleurs il est indispensable d'activer la persistence du raisonnement (preserve_thinking). Ce n'est pas fait par défaut par llama.cpp (du moins avec les modèles Qwen 3.6) donc le modèle oublie ses propres raisonnements d'un tour à l'autre. Pour tester, il faut lui demander de penser à deux nombres et de donner seulement l'un des deux. Allez voir les deux nombres dans son raisonnement. Ensuite, on lui demande de nous donner l'autre nombre auquel il pensait dans le message précédent, et là il va dire n'importe quoi ! Parce qu'il l'aura oublié !
+Du coup, en activant preserve_thinking, on gagne énormément en qualité vu que le modèle n'oublie rien. Mais effectivement ça demande un contexte plus grand. Et même si la qualité de la plupart des modèles locaux se dégrade à partir de 128k, c'est quand même indispensable. Ça vaut vraiment le coup. Qwen 3.6 35b a3b a pu me terminer des projets de tests qu'aucun autre LLM local n'avait pu grâce à ce réglage.
+
+Pour ma part je n'ai que 12 Go sur ma RTX 4070 + i5 12400F et 64 Go DDR5. J'ai Qwen 3.6 35b a3b UD-Q4_K_M, KV cache en Q8, 256k de contexte, 34 moe sur CPU, batch 16384 et ubatch 2048 (ça dépote en pp). En bench je suis à 70 t/s tg. En pratique entre 60 et 35 entre le début et la fin du contexte. J'ai testé 27b mais Q2 obligatoire pour le faire rentrer dans 12 GO de VRAM, donc c'est pourri.
+Sinon j'ai laissé tomber MTP car d'une part ça demande de la mémoire supplémentaire (donc potentiellement des couches ou KV cache à offloader ==> perte de performance) et de plus j'ai noté une baisse de qualité, même avec un excellent taux d'acceptation.
+
+En espérant avoir apporté quelques informations utiles !
 
 # [Qwen3.6 ⮺](https://ollama.com/library/qwen3.6:35b-a3b-coding-nvfp4)
 

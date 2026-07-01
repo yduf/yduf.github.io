@@ -2,6 +2,7 @@
 published: true
 title: Printing Sculpture
 tags: art 3dprint statue
+toc: true
 ---
 > All of these larger prints were made by printing the objects in smaller pieces on consumer-grade desktop machines, then assembling the pieces. - [Cosmo Wenman](https://cosmowenman.com/) / [medium](https://medium.com/@CosmoWenman/3d-printing-3d-capture-and-opportunities-for-design-custodians-7985097d2ac4) / [thingiverse](https://www.thingiverse.com/thing:196037)
 
@@ -9,25 +10,26 @@ tags: art 3dprint statue
 
 - [3d printed livesize Ghost in the Shell Major Motoko Kusanagi](https://www.youtube.com/watch?v=n3vc6QKy6sk)
   
-see also
+**see also**
 - [LuBan](https://www.luban3d.com/) - autocut software for printing big parts
 	- [How to Easily Print Large Models on Your 3D Printer](https://www.youtube.com/watch?v=uY2lr0GNEVs)
 - [Make Plaster Statues from 3D Prints — No Silicone Required](https://www.youtube.com/watch?v=2j9BSms_avc) - print hollow mold in pla and smooth them with steam for unfolding (by cutting them).
+- [ Silicone Lifecasting of Posed Female Torso using Body Double by Smooth-On ](https://www.youtube.com/watch?v=GTTgCUQ8BQM)
 
-###  [Scan the World](https://www.myminifactory.com/scantheworld/)
+#  [Scan the World](https://www.myminifactory.com/scantheworld/)
 - [Venus Reclining on a Sea Monster with Cupid and a Putto](https://www.thingiverse.com/thing:24263)
 - [Déesse chatte Bastet ](https://ateliersartmuseesnationaux.fr/fr/sculptures/RE000037?guid=614a58682d82c)
 - [ARTS-REPRODUCTIONS.COM](http://www.arts-reproductions.com/posts/34-copies-et-reproductions-de-sculptures-statues-bustes-et-statuettes-sur-mesure)
 - [Chinese stone lion: history of the great guardian](https://www.myminifactory.com/stories/chinese-stone-lion-history-of-the-great-guardian)
 
-### Bronze
+# Bronze
 - [Comment se fabrique une sculpture en bronze](https://www.royaldecorations.fr/comment-se-fabrique-une-sculpture-en-bronze) - La "cire perdue"
 
-### Marbre
+# Marbre
 - [réalisation d'une statue en marbre](https://www.youtube.com/watch?v=H5a7oln81hI)
 - [poudre de marbre](https://www.rolandcoster.com/marbre/comment-utiliser-de-la-poudre-de-marbre.html) / [marchant](http://www.lamarchandecouleurs.com/Les-poudres-et-granules-de-marbre-10-1-59.html)
 
-### 3dprint
+# 3dprint
 - [Resting Grace](https://www.reddit.com/r/3Dprinting/comments/w2tl3m/resting_grace_statue_sculpted_in_zbrush_and_3d/)
 - [r/3Dprinting](https://www.reddit.com/r/3Dprinting/search/?q=Statue&restrict_sr=1&sr_nsfw=&include_over_18=1)
 	- [Sylvanas (WoW)](https://www.reddit.com/r/3Dprinting/comments/vret1r/wanted_to_show_off_my_most_recent_statues/)
@@ -37,7 +39,7 @@ see also
     - [dynosaur](https://www.reddit.com/r/3Dprinting/comments/w2iyfk/pelvis_and_hips_well_under_way_waiting_for/)
 
 
-### Resin
+# Resin
 - [Build The Mandalorian's new ship](https://www.youtube.com/watch?v=WiBaR0eL5z4)
 	- [clear canopee](https://www.reddit.com/r/3Dprinting/)
 

@@ -15,9 +15,12 @@ tags: security js python microsoft windows
 - 2026-04-25 [  npm, PyPI, and Docker Hub.](https://www.youtube.com/watch?v=r5U4S0uUIVk) 
  
 - [Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library](https://news.ycombinator.com/item?id=47964617) - 2026-04-30
-- [Arch Linux](https://www.youtube.com/watch?v=f-E9culhQGM) / [sources](https://archlinux.org/news/active-aur-malicious-packages-incident/) - 2026-06-12
+- [Arch Linux](https://www.youtube.com/watch?v=f-E9culhQGM) / [2](https://www.youtube.com/watch?v=oLK-OWdEm7I) / [sources](https://archlinux.org/news/active-aur-malicious-packages-incident/) - 2026-06-12
 - [Microsoft’s open source tools were hacked to steal passwords of AI developers](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/) / [HN](https://news.ycombinator.com/item?id=48457830) - 2026-06-09 - It's a continuation of the Shai Halud worm and the lack of security around developer dependnecy installations, which has existed for a very long time.
+- [	One million passports leaked online ](https://www.theverge.com/tech/947157/
 
+## Leaked 
+- 2026-06-30 - passports-data-breach-cannabis-club-systems-nefos-puffpal) / [HN](https://news.ycombinator.com/item?id=48706389) - cannabis club in Spain photo had public ID  and possibly yphone number exposed to internet 
 
   
 

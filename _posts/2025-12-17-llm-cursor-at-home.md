@@ -153,6 +153,14 @@ Did you know that it is named _Claude_ in reference to _Claude Shanon_ the man t
     - 250,000 wasted API calls per day
     - KAIROS: the unreleased autonomous agent mode
 
+**see also**
+- [Claude Code Is Steganographically Marking Requests](https://thereallo.dev/blog/claude-code-prompt-steganography) / [HN](https://news.ycombinator.com/item?id=48734373) - claude code todays date differently depending on local configuration to tweek behavior depending on users
+  - [Claude Code now allows Anthropic to remotely inject system prompts](https://news.ycombinator.com/item?id=48259288)
+  - To summarize what they've already been doing:
+    - filtering out people from the wrong side of "all humanity", years before it was demanded by the government
+    - downgrading their models in arbitrary ways (later saying "sorry but not really")
+    - actively sabotaging the replies, as in covertly modifying them to feed the users incorrect results
+- [Claude Conway](https://chatgpt.com/share/6a4573cd-e6e8-83eb-9347-2c9c10a582e5) - instead of a normal chatbot that waits for you to type something, Conway would act more like a persistent background assistant that keeps running and can continue working over time. supposed to spy on you;
 
 # [Codex ⮺](https://github.com/openai/codex?tab=readme-ov-file#quickstart)
 - [	Unrolling the Codex agent loop](https://news.ycombinator.com/item?id=46737630) – Codex CLI is open source.
