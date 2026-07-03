@@ -136,9 +136,17 @@ Pi provides:
 
 # [Hermes  ⮺](https://hermes-agent.nousresearch.com/)
 
+[6 Hermes Agent use cases](https://www.youtube.com/watch?v=AQHlyGA2cZM)
+- /goal
+- Kanban
+
 ## Project 💭
 
-Run it on raspberry-pi
+[Run it on raspberry-pi]({% post_url 2026-06-21-hardware-raspberry-pi5 %})
+
+- [install](https://www.youtube.com/watch?v=BBDfNxKXBe4&t=53s)
+  - Telegram setup
+
 
 # Claude
 
@@ -173,3 +181,5 @@ Did you know that it is named _Claude_ in reference to _Claude Shanon_ the man t
 # Model provider
 - [ New #1 open-source AI model is here! ](https://www.youtube.com/watch?v=6d__WOpZswY)
   - GLM 5.2 - Zcode
+
+## [Deepseek  ⮺ 👤](https://platform.deepseek.com/usage)

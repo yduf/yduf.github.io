@@ -7,19 +7,31 @@ toc: true
 
 <link rel="shortcut icon" href="https://www.raspberrypi.org/app/themes/mind-control/images/favicon.png" type="image/png" />
 
+| **Service** | **Manage** |
+|-|-|
+| [Watchdog 🐕‍🦺]({% post_url 2026-07-02-computer-watchdog %}) | |
+| [Tailscale]({% post_url 2026-07-02-vpn-tailscale %})| [🏠](https://login.tailscale.com/admin/machines) |
+| [Hermes](https://hermes-agent.nousresearch.com/) | `hermes dashboard` + ssh port forward|
+| Telegram | |
+| nginx | :80 |
+| [php](https://chatgpt.com/share/6a46b923-bcd0-83eb-bab0-9a10acd13874) | [php](http://100.69.234.21/test.php) | 
+| | [hello](http://100.69.234.21/hello.php) | 
+| | [Nav](http://100.69.234.21/Nav_tst/Nav.php) |
+| cups | :631 |
+
 [![boSunFounder Pironman 5 - Raspberry Pi casex](https://media.ldlc.com/r705/ld/products/00/06/23/84/LD0006238443.jpg)](https://www.ldlc.com/en/product/PB00677828.html)
 
-# project 💭
 
-Use it to host a Hermes Agent accessible from anywhere
+# project 💭 🚧
+
+Use it to host a [Hermes Agent]({% post_url 2025-12-17-llm-cursor-at-home %}#hermes--) accessible from anywhere
 
 - [ ] - give it a static ip (secondary?) 🚧
   - [ ] it boots on nvme drive - so secondary may be helpfull as fallback
-- [ ] - setup ssh key access
 
 # Notes
 
-Appears as pi3 on nmap scan
+Appears as pi2/pi3 on nmap scan
 
 {% highlight bash %}
 MAC Address: 7E:AB:F1:0E:85:C3 (Unknown)
@@ -62,7 +74,7 @@ Operating System: Debian GNU/Linux 12 (bookworm)
 ## [OLED ⮺](https://chatgpt.com/share/6a37bc5e-6944-83ed-87f8-cb39238bfe2c) 🚧 ⛑ 
 
 <div class="encart blue" markdown="1">
-Ecran OLED 1.3"  
+Ecran OLED ~~1.3"~~ 0.96"
 nappe 30 pin - visible coté écran  
 pin 1 en haut avec ecrant visible coté droit.  
 SH1106 / GME12864-44

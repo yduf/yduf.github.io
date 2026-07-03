@@ -10,6 +10,7 @@ toc: true
 $ netstat -untap
 $ whowatch			# interactive  user and process monitoring tool
 $ ss -ltpn			# socket status
+$ sudo ss -tulpen
 {% endhighlight %}
 
 

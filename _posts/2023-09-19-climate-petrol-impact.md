@@ -10,6 +10,7 @@ tags: co2 climate-war petrol
 - [How an Oil Refinery Works](https://news.ycombinator.com/item?id=47962548)
 
 **see also**
+- [Canicule, IA, détroit d’Ormuz : le regard amer de Jean-Marc Jancovici ](https://www.youtube.com/watch?v=Tx3xHIeQqlM) - lien entre crise sociale / montée de l'extreme droite / et 10% des plus riches qui surfent sur l'économie mondiale.
 - [Delay, deflect, downplay, and other ways fossil fuel companies block climate action.](https://news.ycombinator.com/item?id=37765049)
 - [ Jancovici révèle une vérité dérangeante sur le pétrole ](https://www.youtube.com/watch?v=jjR2mb_SUj4)
 
