@@ -10,6 +10,8 @@ toc: true
 - Integration with [LM Studio](https://docs.cline.bot/running-models-locally/lm-studio)
 
 
+[![hal](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.indiewire.com%2Fwp-content%2Fuploads%2F2018%2F11%2Fshutterstock_5886285ag.jpg&f=1&nofb=1&ipt=61da107b61b197cb912c7883d9872f5007700d023551d84c8b1b2f7bb171f504)](https://duckduckgo.com/?q=2001+l%27odyss%C3%A9+hal&iar=images&t=lm&iai=https%3A%2F%2Fwww.indiewire.com%2Fwp-content%2Fuploads%2F2018%2F11%2Fshutterstock_5886285ag.jpg)
+
 **see also**
 - [How to code Claude Code in 200 lines of code](https://news.ycombinator.com/item?id=46545620)
 - [La bulle IA est monstrueuse et cela va tout péter !!](https://www.youtube.com/watch?v=d2qDKx6JVdQ)
@@ -134,7 +136,7 @@ Pi provides:
 - [ Code Isn't Free — Mario Zechner on the Hard Truths of Coding With AI (creator of Pi) ](https://www.youtube.com/watch?v=GhjU-KvXtT0)
 - [A coding agent with the IDE wired in. omp.sh](https://github.com/can1357/oh-my-pi)
 
-# [Hermes  ⮺](https://hermes-agent.nousresearch.com/)
+# [Hermes ⮺ 🔱](https://hermes-agent.nousresearch.com/)
 
 [6 Hermes Agent use cases](https://www.youtube.com/watch?v=AQHlyGA2cZM)
 - /goal
@@ -147,6 +149,42 @@ Pi provides:
 - [install](https://www.youtube.com/watch?v=BBDfNxKXBe4&t=53s)
   - Telegram setup
 
+## Dashboard
+
+<details markdown="1"><summary>Running as service</summary>
+{% highlight ini %}
+# /etc/systemd/system/hermes-dashboard.service
+[Unit]
+Description=Hermes Dashboard
+After=network.target
+
+[Service]
+Type=simple
+User=YOUR_USERNAME
+WorkingDirectory=/home/YOUR_USERNAME
+ExecStart=/usr/local/bin/hermes dashboard --no-open
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
+{% endhighlight %}
+
+{% highlight bash %}
+# setup
+$ sudo systemctl daemon-reload
+$ sudo systemctl enable hermes-dashboard
+$ sudo systemctl start hermes-dashboard
+
+# test
+$ sudo systemctl status hermes-dashboard
+$ journalctl -u hermes-dashboard -f
+{% endhighlight %}
+</details>
+
+
+**see also**
+- [ J'ai testé Hermès Agents : voici pourquoi je l'ai désinstallé ](https://www.youtube.com/watch?v=gFSQgS0te60)
 
 # Claude
 

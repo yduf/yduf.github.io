@@ -1,7 +1,7 @@
 ---
 published: true
 title: Securing Local Network
-tags: raspberry-pi network security wifi
+tags: raspberry-pi network-security wifi
 ---
 > The latest generation of Raspberry Pi is powerful enough to serve as a decent home router. What leads to my decision to use it, and what's my experience? - [Raspberry Pi as a home router](https://www.zahradnik.io/raspberry-pi-as-a-home-router)
 

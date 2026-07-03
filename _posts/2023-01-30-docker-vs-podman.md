@@ -7,17 +7,17 @@ excerpt_separator: <!--more-->
 ---
 > People associate running **pods** with _Kubernetes_. <!--more--> And when they run containers in their development runtimes, they do not even think about the role pods could play—even in a localized runtime.  Most people coming from the _Docker_ world of running **single containers** do not envision the concept of running **pods**. - [Podman: Managing pods and containers in a local container runtime](https://developers.redhat.com/blog/2019/01/15/podman-managing-containers-pods#)
 
-see also
+**see also**
 - [I ditched Docker for Podman ](https://news.ycombinator.com/item?id=45137525)
 
-### [Ultimate Docker to Podman Migration Guide: It’s NOT difficult](https://www.smarthomebeginner.com/docker-to-podman-migration-guide/)
+# [Ultimate Docker to Podman Migration Guide: It’s NOT difficult ⮺](https://www.smarthomebeginner.com/docker-to-podman-migration-guide/)
 - Fortunately for us, Podman is described as a "drop-in replacement" for Docker. And it's true.
 - One huge difference, however, is that we are running in a [**rootless environment**](https://blog.christophersmart.com/2021/01/26/user-ids-and-rootless-containers-with-podman/): we don't need to add our user to a Podman group, or use sudo when running Podman commands. (using **uid=0** is the correct thing to do here inside container for mouting folder)
 - **Podman on Ubuntu, for some odd reason, has no default registries included at all! An annoyance, but an easy fix.**
 - Enable Containers to Run After Logout:  The root user is allowed to continue running processes in the background even when not logged-in. As we will be running in a rootless environment, we don't have the same privilege by default.
 - Restart Containers and Start on Boot: Systemd Unit files
 
-## [Podman Kube Play Support](https://docs.podman.io/en/latest/markdown/podman-kube-play.1.html#podman-kube-play-support)
+# [Kube Play Support ⮺](https://docs.podman.io/en/latest/markdown/podman-kube-play.1.html#podman-kube-play-support)
 
 Currently, the supported Kubernetes kinds are:
 - [Pod](https://kubernetes.io/docs/concepts/workloads/pods/)
@@ -27,16 +27,16 @@ Currently, the supported Kubernetes kinds are:
 - Secret*
 - DaemonSet
 
-### Compose
+# Compose
 - [Moving from docker-compose to Podman pods](https://www.redhat.com/sysadmin/compose-podman-pods)
 - [podman compose](https://github.com/containers/podman-compose?tab=readme-ov-file#podman-compose) - An implementation of Compose Spec with Podman backend.
 	- for compatibility with docker compose script
 
-### SystemD
+# SystemD
 
 **Note**: `podman generate systemd` **is deprecated**. We recommend using [Quadlet]({% post_url 2023-10-20-systemd-podman-quadlet %}) files when running Podman containers or pods under systemd.
 
-### [PODs](https://kubernetes.io/docs/concepts/workloads/pods/)
+# [PODs ⮺](https://kubernetes.io/docs/concepts/workloads/pods/)
 
 ✅ [initContainers](https://kubernetes.io/docs/concepts/workloads/pods/init-containers/)    
 ✅ [containers](https://kubernetes.io/docs/concepts/workloads/pods/)  
@@ -51,14 +51,14 @@ Currently, the supported Kubernetes kinds are:
 - [`podman generate kube my-pod >> my-pod.yaml`](https://www.redhat.com/sysadmin/compose-podman-pods#generate-the-yaml-for-our-pod) - Generate the YAML for our pod
 - [`podman play kube ./my-pod.yaml`](https://www.redhat.com/sysadmin/compose-podman-pods) - Bring up a pod from the YAML
 
-### [Health Check](https://developers.redhat.com/blog/2019/04/18/monitoring-container-vitality-and-availability-with-podman#interacting_with_the_results_of_healthchecks)
+## [Health Check ⮺](https://developers.redhat.com/blog/2019/04/18/monitoring-container-vitality-and-availability-with-podman#interacting_with_the_results_of_healthchecks)
 
 - [Keeping services alive with custom healthcheck actions](https://www.redhat.com/sysadmin/podman-edge-healthcheck)
 
-### Management tools
+# Management tools
 - [Cockpit]({% post_url 2022-11-04-linux-cockpit %}) a web-based GUI for your server, [ has a nice plugin for us to manage Podman ](https://www.smarthomebeginner.com/docker-to-podman-migration-guide/#Cockpit)
 
-### [Install](https://podman.io/docs/installation)
+# [Install ⮺ ](https://podman.io/docs/installation)
 
 see also [How To Install Podman 4 on Ubuntu 22.04](https://devicetests.com/install-podman-4-ubuntu-22-04)
 
@@ -73,12 +73,12 @@ Test that docker works
 podman run hello-world
 {% endhighlight %}
 
-see also
+**see also**
 - [Podman Tutorial For Beginners: Step by Step Guides](https://devopscube.com/podman-tutorial-beginners/)
 - [Using Podman pods Instead of docker-compose](https://www.mavjs.org/post/podman-pods-instead-of-docker-compose/)
 	- alternatively [Podman Compose or Docker Compose: Which should you use in Podman?](https://www.redhat.com/sysadmin/podman-compose-docker-compose)
 
-### see also
+# see also
 - [Containers vs. Pods - Taking a Deeper Look](https://iximiuz.com/en/posts/containers-vs-pods/)
 - [How to run pods as systemd services with Podman](https://www.redhat.com/sysadmin/podman-run-pods-systemd-services)
 - [Dockerless, part 3: Moving development environment to containers with Podman ](https://mkdev.me/posts/dockerless-part-3-moving-development-environment-to-containers-with-podman)

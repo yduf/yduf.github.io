@@ -3,7 +3,7 @@ title: Tailscale
 tags: vpn internet
 toc: true
 ---
-> Can be used as [Reverse tunnel / mesh VPN (recommended)](https://chatgpt.com/share/6a462f1c-3e80-83eb-937a-646a7cd66f30) - [Home](https://tailscale.com/)
+> Can be used as [Reverse tunnel / mesh VPN (recommended)](https://chatgpt.com/share/6a462f1c-3e80-83eb-937a-646a7cd66f30) - [Home](https://tailscale.com/) / [📡](https://login.tailscale.com/admin/machines)
 
 
 # Free Tier

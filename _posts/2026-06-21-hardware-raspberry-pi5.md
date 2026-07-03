@@ -1,23 +1,33 @@
 ---
 title: Raspberry pi5 💭
-tags: raspberry-pi arm-hardware project 
+tags: raspberry-pi arm-hardware watchdog project 
 toc: true
 ---
 > inherited [Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/) + [Pironman 5](https://docs.sunfounder.com/projects/pironman5/fr/latest/pironman5/intro_pironman5.html#intro-pironman5)
 
 <link rel="shortcut icon" href="https://www.raspberrypi.org/app/themes/mind-control/images/favicon.png" type="image/png" />
 
+<div class="encart blue" markdown="1">
+It acts as bastion  
+{% highlight bash %}
+$ ssh -J bastion tronaut
+{% endhighlight %}
+</div>
+
 | **Service** | **Manage** |
 |-|-|
 | [Watchdog 🐕‍🦺]({% post_url 2026-07-02-computer-watchdog %}) | |
-| [Tailscale]({% post_url 2026-07-02-vpn-tailscale %})| [🏠](https://login.tailscale.com/admin/machines) |
-| [Hermes](https://hermes-agent.nousresearch.com/) | `hermes dashboard` + ssh port forward|
-| Telegram | |
+| [Tailscale]({% post_url 2026-07-02-vpn-tailscale %})| [📡](https://login.tailscale.com/admin/machines) |
+| [Hermes]({% post_url 2025-12-17-llm-cursor-at-home %}#hermes--) | [🔱](http://localhost:9119) *|
+| Telegram | [topic mode](https://chatgpt.com/share/6a47845c-5914-83ed-8d05-30b69839f799) |
 | nginx | :80 |
 | [php](https://chatgpt.com/share/6a46b923-bcd0-83eb-bab0-9a10acd13874) | [php](http://100.69.234.21/test.php) | 
 | | [hello](http://100.69.234.21/hello.php) | 
 | | [Nav](http://100.69.234.21/Nav_tst/Nav.php) |
 | cups | :631 |
+| use [yduf](/) as knowledge base | read only copy |
+
+\* - require port forward: `ssh -N -L 9119:127.0.0.1:9119 100.69.234.21`
 
 [![boSunFounder Pironman 5 - Raspberry Pi casex](https://media.ldlc.com/r705/ld/products/00/06/23/84/LD0006238443.jpg)](https://www.ldlc.com/en/product/PB00677828.html)
 
