@@ -27,7 +27,7 @@ $ ssh -J bastion tronaut
 | cups | :631 |
 | use [yduf](/) as knowledge base | read only copy |
 
-\* - require port forward: `ssh -N -L 9119:127.0.0.1:9119 100.69.234.21`
+\* - require [port forward]({% post_url 2021-02-07-ssh-tunnels %}): `ssh -N -L 9119:127.0.0.1:9119 100.69.234.21`
 
 [![boSunFounder Pironman 5 - Raspberry Pi casex](https://media.ldlc.com/r705/ld/products/00/06/23/84/LD0006238443.jpg)](https://www.ldlc.com/en/product/PB00677828.html)
 
@@ -71,9 +71,10 @@ Operating System: Debian GNU/Linux 12 (bookworm)
 
 # [Pironman 5 ⮺](https://docs.sunfounder.com/projects/pironman5/fr/latest/pironman5/intro_pironman5.html#intro-pironman5)
 
+[When your case is more expensive than your computer ](https://www.youtube.com/watch?v=j_LKKugfoh4)
 - [ Complete Assembly and Boot Guide: Pironman 5 with NVMe SSD ](https://www.youtube.com/watch?v=tCKTgAeWIjc)
 - [ Assembly (pdf)](https://raw.githubusercontent.com/sunfounder/sf-pdf/master/assembly_file/Z0312V20-A0001127-Pironman5.pdf)
-
+  
 [![kit](https://media.ldlc.com/r1600/ld/products/00/06/23/84/LD0006238447.jpg)](https://www.ldlc.com/en/product/PB00677828.html)
 
 ## [Software ⮺](https://github.com/sunfounder/pironman5#pironman-5)

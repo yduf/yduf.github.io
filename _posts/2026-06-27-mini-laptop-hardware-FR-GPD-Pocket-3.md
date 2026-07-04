@@ -12,6 +12,13 @@ toc: true
 
 [amazon](https://www.amazon.fr/dp/B0DDRJJL1R) - 2026 - 850€
 
+## BIOS
+
+<div class="encart blue" markdown="1">
+BIOS => press F12 on start
+boot => press Fn+F7
+</div>
+
 ## Spec
 
 - CPU - Pentium Gold 7505 (64 bits @ 3,5 GHz) 
@@ -50,7 +57,30 @@ toc: true
 
 # Linux Support
 
+<div class="encart blue" markdown="1">
+see [Windows 11 / linux Dual Boot]({% post_url 2026-04-30-windows-linux-dual-boot %})
+
+**disable secure boot**
+**You cannot repartition Windows partition from linux**
+- need to boot windows => but fortunately it is less an hassle than on Dell 
+  - **I have done that without internet connectivity**
+- juste enter login/password + few config and it's setup
+
+- [linux firmware](https://www.gpd.hk/gpdpocket3firmware) / [github](https://github.com/wimpysworld/umpc-ubuntu)
+</div>
+
 - [Some Notes on running Linux on the GPD Pocket 4](https://wstyler.ucsd.edu/posts/linux_gpdpocket4.html)
 
 - [GPD Pocket 4 Speaker DSP](https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/) [HN](https://news.ycombinator.com/item?id=43635295)
 - [Linux configs for Gpd Pocket 4](https://codeberg.org/elloskelling/linux-gpd-pocket-4)
+
+# Windows 11
+
+<div class="encart blue" markdown="1">
+To resize partition: Win + X → choose Disk Management
+
+**Bitlocker was not activated by default on this system**
+</div>
+
+- [This is the flashing firmware of Pocket 3 1195G7 / 1125G4 / 7505 (Windows 11 integrated with the driver). ](https://www.gpd.hk/gpdpocket3firmware)
+  - **Attention: reinstallnation will remove all data in drive C, please backup your data before action.**

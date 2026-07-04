@@ -11,3 +11,7 @@ tags: ssh network-security
 {% highlight bash %}
 ssh -N -L [local_port]:127.0.0.1:[remote_port] 100.69.234.21
 {% endhighlight %}
+
+**see also**
+- [How Attackers Intercept HTTPS](https://www.youtube.com/watch?v=n9BD4YxiWqM) - using eBPF trace
+  - [Would this work on ssh](https://chatgpt.com/share/6a47d65c-21cc-83eb-aa9d-9a75bb1da85a) - it could but it's a (bit?) harder
