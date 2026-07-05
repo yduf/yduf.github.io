@@ -1,6 +1,6 @@
 ---
 published: true
-title: Particule fine
+title: Particules fines
 tags: 3dprint filter co2
 excerpt_separator: <!--more-->
 ---
@@ -19,14 +19,18 @@ excerpt_separator: <!--more-->
       - PLA - the best one
 
 
-## Air quality
-### [Formaldehyde Concentration in Building Air](https://inspectapedia.com/indoor_air_quality/Formaldehyde_Gas_Exposure_Limits.php)
+# Air quality
+
+## CO2
+- [The bottleneck might be the air in the room](https://news.ycombinator.com/item?id=48783117) - At 1,000 ppm, performance dropped significantly on six of nine decision-making measures compared with a clean-air baseline of 600. At 2,500 ppm, seven of the nine fell substantially, some into a range they called dysfunctional.
+
+## [Formaldehyde Concentration in Building Air](https://inspectapedia.com/indoor_air_quality/Formaldehyde_Gas_Exposure_Limits.php)
 - \> 0.0123  - mild irritation or allergic sensitization in some people
 - \> 0.615 mg/M³ - irritation to eyes & mucous membranes
 - \> 1.23 mg/M³ - possible nasopharyngeal cancer
 - \> 3.684 mg/M³- Respiratory impairment and damage
 
-### [TVOC](https://www.environmental-expert.com/news/what-are-acceptable-voc-levels-in-the-air-814546)
+## [TVOC](https://www.environmental-expert.com/news/what-are-acceptable-voc-levels-in-the-air-814546)
 - Less than 0.3 mg/m3: Low
 - 0.3 to 0.5 mg/m3: Acceptable
 - 0.5 to 1 mg/m3: Marginal

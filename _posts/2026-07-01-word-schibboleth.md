@@ -1,5 +1,5 @@
 ---
-title: Schibboleth
+title: Schibboleth ש
 tags: words
 excerpt_separator: <!--more-->
 ---

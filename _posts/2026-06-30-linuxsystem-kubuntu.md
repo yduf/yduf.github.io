@@ -19,6 +19,12 @@ _Building on the Ubuntu 26.04 LTS base released today by Canonical, Kubuntu 26.0
 
 Planed to power [GPD Pocket 3]({% post_url 2026-06-27-mini-laptop-hardware-FR-GPD-Pocket-3 %})
 
+## UI
+
+### [Virtual Desktop ⮺](https://chatgpt.com/share/6a48d3e6-1650-83eb-bbf7-2ca04739019e)
+
+
+
 ## [Dolphin ⮺](https://kubuntu.org/discover/)
 
 Dolphin is the default file Manager.
