@@ -1,7 +1,8 @@
 ---
 published: true
-title: Donkey Kong
+title: Donkey Kong 🦍
 tags: games arcade pico8
+toc: true
 ---
 > the product of Nintendo's efforts to develop a hit to rival Pac-Man (1980) and break into the North American market. - [wikipedia](https://en.wikipedia.org/wiki/Donkey_Kong_(arcade_game)) 
 
@@ -14,7 +15,7 @@ tags: games arcade pico8
 - [Coding Donkey Kong From Scratch](https://www.youtube.com/watch?v=X8pf7pyMLnA&list=PLVC4FeTscK5CVlPi00MvMWRlytjEd5X8K) - Clickteam Fusion 2.5
 
 
-### Emulation
+# Emulation
 
  If your build of MAME is 0.116 or newer, then the dkong.zip sound samples file is no longer needed.
 As of MAME 0.116 Donkey Kong uses discrete sound emulation, and the sound samples if present will be ignored by MAME.
@@ -27,6 +28,6 @@ With an older build such as [MAME 0.078](https://forums.launchbox-app.com/topic/
 
 ![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpinballandmore.com%2Fwp%2Fwp-content%2Fuploads%2F2016%2F10%2FIMG_5840.jpg&f=1&nofb=1&ipt=3efb28c56719835fc80202b0c8778700cf47aa84c5c9e070a0a7dc52f0967347&ipo=images)
 
-### see also
+# see also
 - [King Kong (1976)](https://www.imdb.com/title/tt0074751/?ref_=ttls_li_tt)
 	- [King Kong (1933)](https://www.imdb.com/title/tt0024216/?ref_=ttls_li_tt)

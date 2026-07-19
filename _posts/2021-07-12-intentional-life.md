@@ -1,13 +1,26 @@
 ---
 published: true
 title: An intentional life
-tags: life work purpose
+tags: life purpose work phone
+toc: true
 ---
 > By constraining your time, a full-time job limits the nature of experiences you can have. It imposes a schedule that your entire life has to fit around. Every decision involving time has to pass the “let me check with work” test. That means your time is not yours - you borrow it from your employer. - [Work Didn’t Work](https://suketk.com/why-i-quit-google)
 
 [![caption](http://www.cse.buffalo.edu/~rapaport/Mutts-20090105-intensionVsExtension.gif)](https://cse.buffalo.edu/~rapaport/intensional.html)
 
-### see also
+# Attention span
+- [intention vs decision](https://www.youtube.com/watch?v=zNyeaF7KaNY) 
+	- intention - what you planned to do
+	- decision - realising your intention
+	- attention span is in general of 5h (for adolescent)
+		- multitasking consume more or less ressource - depending on the task
+		- focusing help on complex task
+		- attention need rest - doing nothing (idleness) is an impotant activity (not the same as resting)
+		- is medium dependant 
+		- is a faculty like memory (even if it can be developed in certain context)
+		- phone presence is disrupting concentration (rather than usage)
+
+# see also
 - [Dear Self; we need to talk about ambition](https://news.ycombinator.com/item?id=38817396)
 	- Find a community you enjoy spending time in.
 	- Create value for people in that community.

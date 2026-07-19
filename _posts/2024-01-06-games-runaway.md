@@ -1,9 +1,10 @@
 ---
-published: true
 title: Runaway
 tags: games adventure quote
+excerpt_separator: <!--more-->
 ---
-> He Who Knows Does Not Speak
+> He, who knows, does not speak <!--more-->
+> He, who speaks, does not know
 
 Inspired by the road movie genre and films such as Pulp Fiction and Raising Arizona - [wikipedia](https://en.wikipedia.org/wiki/Runaway:_A_Road_Adventure)
 
@@ -13,3 +14,4 @@ Play under wine directly (badly support 2 monitor config - performance issue on 
 
 ### Runaway 2: The Dream of the Turtle - 2006
 [![caption](https://lutris.net/games/banner/runaway-2-the-dream-of-the-turtle.jpg)](https://lutris.net/games/runaway-2-the-dream-of-the-turtle/) Same as previously - play underwine directly / first video is shoppy on 2 screen, but after everything works fine.
+

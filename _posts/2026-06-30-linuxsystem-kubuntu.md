@@ -1,9 +1,9 @@
 ---
 title: Kubuntu 🧿
-tags: linux-system ubuntu linux-desktop 
+tags: linux-system ubuntu linux-desktop wayland 
 toc: true
 ---
-> [Home](https://kubuntu.org/)
+> Combines the power of Ubuntu together with the elegant KDE Plasma desktop. - [Home](https://kubuntu.org/)
 
 <link rel="shortcut icon" href="https://kubuntu.org/images/favicon.ico" type="image/x-icon" />
 

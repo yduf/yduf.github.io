@@ -40,27 +40,51 @@ CMLL (42 algs)
 
 Finish by middle cube
 
-# [Method Fridrich ⮺](https://www.youtube.com/watch?v=keuarQZmDAA)
+# [Method Fridrich ⮺ 🚧](https://www.youtube.com/watch?v=keuarQZmDAA)
 
-> Prioriser l'apprentisage des  PLL (21) sur les OLL (57).  
-> Commens par les OLL 2 look (construction de la croix jaune)
+<div class="encart blue" markdown="1">
+Prioriser l'apprentisage des  PLL (21) sur les OLL (57).  
+Commencer par les OLL 2 look (construction de la croix jaune)
 
-### [badmephisto pdf ⮺](/images/badmephisto-speedcubing-method.pdf)
- / [mirror](https://defhacks.github.io/badmephisto-mirror/pll.html)
+**PLL** - Permute Last Layer
+**OLL** - Orient Last Layer
+***F2L* - First 2 Layer
+## [badmephisto pdf ⮺](/images/badmephisto-speedcubing-method.pdf)
+
+[mirror](https://defhacks.github.io/badmephisto-mirror/pll.html)
 - [FAQ](http://badmephisto.com/)
 
-## [La croix ⮺](https://www.youtube.com/watch?v=IraFkPozVM0) ✚
+</div>
 
+
+## [White ✚ ⮺](https://www.youtube.com/watch?v=IraFkPozVM0)
 - [ 10 Must Know Cross Tips! [CFOP Method] ](https://www.youtube.com/watch?v=HDlDcRhCR0Q)
 
-## [Les F2L intuitifs ⮺](https://www.youtube.com/watch?v=FKLyQvc4QrM)
-- [3 cas](https://youtu.be/FKLyQvc4QrM?t=322)
-- [How to Solve F2L in the Back [tips & more]](https://www.youtube.com/watch?v=1TzHHPJ_2HY)
 
-## [Les F2L ⮺](https://www.youtube.com/watch?v=QnWZeEDAtVM&t=0s)
+## [F2L ⮺](https://www.youtube.com/watch?v=QnWZeEDAtVM&t=0s)
 - U' [ R U R' ](https://youtu.be/QnWZeEDAtVM?t=215)  
 
 - [r U' R' U R U r'](https://www.youtube.com/watch?v=6lef76z55F4&list=PLh9akXp2EH2D1MBpl8gb0w2WM0eiailpB&index=5)
+
+### [Les intuitifs ⮺](https://www.youtube.com/watch?v=FKLyQvc4QrM)
+- [3 cas](https://youtu.be/FKLyQvc4QrM?t=322)
+- [How to Solve F2L in the Back [tips & more]](https://www.youtube.com/watch?v=1TzHHPJ_2HY)
+
+<!-- F2L example: joined pair at UFR -->
+<div markdown="1" style="display:flex; align-items:center; gap:1rem; margin:1rem 0">
+  <div id="f2l-4"></div>
+  <code><a href="https://www.youtube.com/shorts/rpEBAi1eG7w">R U R'</a></code> - f2l-4
+</div>
+<script>drawF2L('f2l-4',{
+  top:[['X','X','X'],
+       ['X','X','R'],
+       ['G','X','X']],
+  side:[[['X','X','R'],['W','X','X']],
+        [['R','R','X'],['X','G','G']],
+        [['R','R','X'],['X','G','G']]]}, 12)
+</script>
+
+
 
 <!-- F2L example: joined pair at UFR -->
 <div markdown="1" style="display:flex; align-items:center; gap:1rem; margin:1rem 0">
@@ -76,12 +100,90 @@ Finish by middle cube
         [['B','B','B'],['R','R','R']]]}, 12)
 </script>
 
-## [les OLL et PLL 2 look! ⮺](https://www.youtube.com/watch?v=FZJq-VK5Ngo)
+
+<!-- F2L example: joined pair at UFR -->
+<div markdown="1" style="display:flex; align-items:center; gap:1rem; margin:1rem 0">
+  <div id="f2l-26"></div>
+  <code><a href="https://www.youtube.com/watch?v=eXKBJAJxWdk">U (R U' R')(F R'F'R)</a></code> - f2l-26
+</div>
+<script>drawF2L('f2l-26',{
+  top:[['X','X','X'],
+       ['R','X','X'],
+       ['X','X','X']],
+  side:[[['X','B','X'],['X','X','X']],
+        [['B','B','X'],['X','R','R']],
+        [['B','B','B'],['R','R','R']]]}, 12)
+</script>
+
+
+
+### Pairs
+<!-- F2L example: joined pair at UFR -->
+<div markdown="1" style="display:flex; align-items:center; gap:1rem; margin:1rem 0">
+  <div id="f2l-15"></div>
+  <code><a href="https://www.youtube.com/watch?v=73vZX29LA1s">R U R'U2 (R U'R'U) R U'R'</a></code> - split by pair going over - f2l-15  
+  <code>R'D'R U' (R'D R U) R U'R'</code> - advanced
+</div>
+<script>drawF2L('f2l-15',{
+  top:[['X','X','X'],
+       ['B','X','X'],
+       ['B','X','X']],
+  side:[[['X','R','W'],['R','X','X']],
+        [['B','B','X'],['X','R','R']],
+        [['B','B','X'],['X','R','R']]]}, 12)
+</script>
+
+
+## Yellow ✚
+
+### [2 look! ⮺](https://www.youtube.com/watch?v=FZJq-VK5Ngo)
+
 
 Obtenir la croix jaune
 - [F R U R' U' F'](https://youtu.be/FZJq-VK5Ngo?t=165) - trait ou point
 - [F U R U' R' F'](https://youtu.be/FZJq-VK5Ngo?t=193) - virgule
 	- R' U' F' U F R
+
+<!-- OLL 1 initial state -->
+<div markdown="1" style="display:flex; align-items:center; gap:1rem; margin:1rem 0">
+  <div id="oll-1"></div>
+  <code><a href="https://www.youtube.com/shorts/yhV4PPAPTu8">f (R U R' U') f'</a></code> - oll-1 - probability 1/2  
+</div>
+<script>drawOLL('oll-1',{
+      back:['X','Y','X'],
+  top:[['X','X','X','X','X'],
+       ['Y','X','Y','Y','X'],
+       ['X','X','Y','X','X']],
+     front:['X','X','X']}, 12)
+</script>
+
+<!-- OLL 2 initial state -->
+<div markdown="1" style="display:flex; align-items:center; gap:1rem; margin:1rem 0">
+  <div id="oll-2"></div>
+  <code><a href="https://www.youtube.com/shorts/yhV4PPAPTu8">F (R U R' U') F'</a></code> - oll-2 - probability 1/4  
+</div>
+<script>drawOLL('oll-2',{
+      back:['X','Y','X'],
+  top:[['X','X','X','X','X'],
+       ['X','Y','Y','Y','X'],
+       ['X','X','X','X','X']],
+     front:['X','Y','X']}, 12)
+</script>
+
+<!-- OLL 2 initial state -->
+<div markdown="1" style="display:flex; align-items:center; gap:1rem; margin:1rem 0">
+  <div id="oll-3"></div>
+  <code><a href="https://www.youtube.com/shorts/yhV4PPAPTu8">F (R U R' U') F' f (R U R' U') f' </a></code> - oll-3 - probability 1/8  
+</div>
+<script>drawOLL('oll-3',{
+      back:['X','X','X'],
+  top:[['X','X','X','X','X'],
+       ['X','X','Y','X','X'],
+       ['X','X','X','X','X']],
+     front:['X','X','X']}, 12)
+</script>
+
+## OLL
 
 <!-- OLL 27 initial state -->
 <div markdown="1" style="display:flex; align-items:center; gap:1rem; margin:1rem 0">

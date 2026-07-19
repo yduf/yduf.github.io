@@ -1,9 +1,11 @@
 ---
 published: true
 title: Career Advice
-tags: career work job software simplicity senior
+tags: career work software simplicity
+toc: true
+excerpt_separator: <!--more-->
 ---
-> Something that I find interesting is that career advice coming from professionals having many years of experience focuses almost exclusively on the people aspects and not the technology: communication, trust, teamwork, documentation, clarity. The advice is clear, precise and honest.
+> Something that I find interesting is that career advice coming from professionals having many years of experience focuses almost exclusively on the people aspects and not the technology: communication, trust, teamwork, documentation, clarity. <!--more--> The advice is clear, precise and honest.
 >
 > This is the opposite of what you get from new hires/juniors: they tend to focus on which stacks matter, what to learn, how to develop, deploy and maintain. Not much real advice on the behavioral side, to the point that people often take trainings for behavioral interviews and memorize “leadership principles” and other nonsense. - [HN](https://news.ycombinator.com/item?id=25658216) / [What I’ve Learned in 45 Years in the Software Industry](https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry/)
 
@@ -13,7 +15,7 @@ tags: career work job software simplicity senior
 - [Drunk Post: Things I've learned as a Sr Engineer](https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/) / [HN](https://news.ycombinator.com/item?id=27333260)
 - [An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
 
-## Focus on the Fundamentals
+# the Fundamentals
 
 Technology constantly changes, but some fundamental approaches to software development transcend these trends. Here are six fundamentals that will continue to be relevant for a long time.
 
@@ -24,6 +26,6 @@ Technology constantly changes, but some fundamental approaches to software devel
 - **Automated Testing** —  Well-tested code allows your team to move fast with confidence.
 - **Clean**, **understandable**, and **navigable code and design** — Think of the next engineer that will take over your code as your customer.  Build code that your successor won’t have any trouble reading, maintaining, and updating.
 
-## Simplicity
+# Simplicity
 
 Fighting complexity is a never-ending cause. Solutions should be as simple as possible. Assume the next person to maintain your code won’t be as smart as you. When you can use fewer technologies, do so.

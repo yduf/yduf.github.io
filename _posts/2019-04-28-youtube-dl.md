@@ -2,6 +2,7 @@
 published: true
 title: Youtube-dl
 tags: video youtube
+toc: true
 ---
 > download videos from youtube.com or other video platforms - [youtube-dl.org](https://youtube-dl.org/)
 
@@ -26,7 +27,7 @@ see also
 - [Invidious](https://github.com/iv-org/invidious) is an alternative front-end to YouTube.
 - [What's the best way to own video?](https://news.ycombinator.com/item?id=32457210)
 
-### fork
+# [yt-dlp ⮺](https://github.com/yt-dlp/yt-dlp)
 - [yt-dlp](https://news.ycombinator.com/item?id=29592707) - remove  50kb/s limits
 	- [	Yt-dlp: External JavaScript runtime now required for full YouTube support](https://news.ycombinator.com/item?id=45898407)
 - [blackjack4494/youtube-dlc ](https://github.com/blackjack4494/youtube-dlc) / [reddit](https://www.reddit.com/r/DataHoarder/comments/ir8ic6/youtubedlc_an_active_fork_of_youtubedl/) / [HN]() 

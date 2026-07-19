@@ -3,6 +3,7 @@ published: true
 title: Tapo (wifi camera)
 tags: webcam camera video-hardware RTSP network reverse security
 toc: true
+excerpt_separator: ""
 ---
 - C212 - 30€ / 2023 - (1.3.14) [amazon](https://www.amazon.fr/gp/product/B0CG9MBCYR)
 	- (1.3.14) - mandatory to set static ip

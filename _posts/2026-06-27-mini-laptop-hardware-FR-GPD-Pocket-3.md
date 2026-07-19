@@ -1,6 +1,6 @@
 ---
-title: GPD Pocket 3 
-tags: laptop-mini cyberdeck pc-hardware project
+title: GPD Pocket 3 📟
+tags: laptop-mini cyberdeck stylus pc-hardware project
 toc: true
 ---
 > [Review: My Travel Buddy (Pocket 4)](https://www.youtube.com/watch?v=POeAkLD3w08) / [amazon](https://www.amazon.fr/GPD-Pocket-Ordinateur-Portable-Bluetooth/dp/B0DNR8DNLS/) / [size](https://www.youtube.com/shorts/ODeQJshC88o)

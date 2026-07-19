@@ -6,7 +6,7 @@ tags: jekyll vscode vscode-snippet
 
 ## Extension
 
--  [Jekyll Post Generator](https://marketplace.visualstudio.com/items?itemName=k-r-o-s.jekyll-post-generator&ssr=false#review-details) - Quickly create new Jekyll posts with front matter and proper filenames with date
+-  [Jekyll Post Generator](https://marketplace.visualstudio.com/items?itemName=k-r-o-s.jekyll-post-generator&ssr=false#review-details) / [github](https://github.com/k-r-o-s/jekyll-post-generator) - Quickly create new Jekyll posts with front matter and proper filenames with date
   - `SHIFT+CTRL+P` - New Jekyll Post
 
 ## VSCode Snippet

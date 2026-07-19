@@ -1,7 +1,8 @@
 ---
 published: true
-title: Powkiddy RGB30
+title: Powkiddy RGB30 🎮
 tags: arcade gameboy games-hardware pico8 retro CRT
+toc: true
 ---
 > [Powkiddy](https://powkiddy.com/en-fr/products/pre-sale-powkiddy-rgb30-rk3566-handheld-game-console-built-in-wifi) RGB30 - [In-Depth Review](https://www.youtube.com/watch?v=XgIlD4rNe8k) / [r/PowKiddy](https://www.reddit.com/r/PowKiddy/)
 
@@ -13,14 +14,14 @@ tags: arcade gameboy games-hardware pico8 retro CRT
     - [I successfully swapped X and O on my RGB30!](https://www.reddit.com/r/pico8/comments/1igjij1/i_successfully_swapped_x_and_o_on_my_rgb30/)
 - [PortMaster]({% post_url 2025-04-19-arcade-portmaster %}) / [youtube](https://www.youtube.com/watch?v=HUg86HrE3c4)
 
-![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.n1ZfSor20nrbr8o_S4CbiAHaEK%26pid%3DApi&f=1&ipt=0c888f97e66313041f302f62badb6b3275070124924c51e9d8b45643321d5fd5&ipo=images)
+[![caption](https://storage.ghost.io/c/58/fd/58fdc82a-ad84-44e2-ad58-166d1b419bc4/content/images/size/w1000/wp-content/uploads/2023/09/powkiddy_rgb30_review8.jpg)](https://retrododo.com/powkiddy-rgb30-review/)
 
-## [System](https://www.reddit.com/r/RG353V/comments/ya2twg/as_of_now_should_i_go_with_arkos_or_jelos/)
+# [System ⮺](https://www.reddit.com/r/RG353V/comments/ya2twg/as_of_now_should_i_go_with_arkos_or_jelos/)
 
 They both use [Emulation Station]({% post_url 2023-11-12-emulationstation %}) they both use [Retroarch]({% post_url 2023-11-11-arcade-retroarch %}), they both use [thememaster](https://johnirvine1433.github.io/ThemeMaster/).
 
 
-### [JELOS](https://jelos.org/devices/powkiddy/rgb30/) v20231029 - Just Enough Linux Operating System - [Entware](https://github.com/Entware/Entware/wiki) base
+## [JELOS ⮺](https://jelos.org/devices/powkiddy/rgb30/) v20231029 - Just Enough Linux Operating System - [Entware](https://github.com/Entware/Entware/wiki) base
 - Bluetooth audio and controller support.
 - Support for HDMI audio and video out, and USB audio.
 - Device to device and device to cloud sync with Syncthing and rclone.
@@ -35,7 +36,7 @@ Update crash the system / (or is it rom sdcard ?) or just bad rom ?
 
 
 
-### [ArkOS]({% post_url 2023-11-11-arcade-arkos %}) - Ubuntu base
+## [ArkOS ⮺]({% post_url 2023-11-11-arcade-arkos %}) - Ubuntu base
 
 ArkOS does not obfuscate the line between Emulationstation and Retroarch. You're trying to set a Retroarch option, so you're going to have to do it in Retroarch, not Emulationstation. - [ArkOS set Shader](https://www.reddit.com/r/SBCGaming/comments/yc7w5x/arkos_set_shader/)
 
@@ -54,12 +55,12 @@ Audio:     Device-1: rk3568-dw-hdmi driver: dwhdmi_rockchip
            Sound Server: ALSA v: k4.19.172 
 {% endhighlight %}
 
-## Customisation
+# Customisation
 
-### Shader
+## Shader
 - [Combine overlays with LCD shaders](https://retrogamecorps.com/2021/01/28/guide-handheld-screen-settings-for-rg351-devices/) / [youtube](https://www.youtube.com/watch?v=H0KjQrkusmI&t=2s)
     
-### Hardware
+## Hardware
 
 - [Rockchip RK3566 (ARM)](https://www.notebookcheck.net/Rockchip-RK3566-Processor-Benchmarks-and-Specs.741611.0.html)
 	- integrates four ARM Cortex-A55 cores with up to 2 GHz
@@ -73,11 +74,11 @@ Audio:     Device-1: rk3568-dw-hdmi driver: dwhdmi_rockchip
 
 - [Add and enable a rumble (vibration) motor.](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30#q-how-do-i-add-and-enable-a-rumble-vibration-motor-to-my-unit)
 
-### Games Recommanded
+# Games Recommanded
 - [Platform Explorer ROMs Pack](https://www.reddit.com/r/Roms/comments/x2cn29/platform_explorer_roms_pack_top_games_hacks/)
 - [PICOwesome v1.4 (oct-31-2022)](https://www.reddit.com/r/Roms/comments/yj2irf/picowesome_v14_oct312022/) - full set of cart
 - [Tiny Best Set: GO!](https://archive.org/details/tiny-best-set-go)
 - [Neo-Geo]({% post_url 2023-11-10-game-arcade-neogeo %}) - is working if using the [proper config](https://www.reddit.com/user/VultureMadAtTheOx/comments/1032kag/a_curated_and_scraped_rom_collection_20_reupload/)
 
-### see also
+# see also
 - [Retro Handhelds](https://retrohandhelds.gg/) - retro gaming community

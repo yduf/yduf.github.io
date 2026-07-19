@@ -3,7 +3,7 @@ published: true
 title: Handling simultaneous move (SmitsiMax)
 tags: MCTS codingame
 ---
-> UTC forest - [Smitsimax](https://www.codingame.com/playgrounds/36476/smitsimax)
+> UTC forest - [Smitsimax](https://www.codingame.com/playgrounds/36476/smitsimax) / [Smitsimax from scratch](https://mightyprofessionalgaming.com/tutorials/smitsimax-from-scratch)
 
 **see also**
 - [Code of Kutulu - Feedback & Strategies (MSmits, rank 4)](https://forum.codingame.com/t/code-of-kutulu-feedback-strategies/40543/21)

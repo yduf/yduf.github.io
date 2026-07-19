@@ -1,5 +1,5 @@
 ---
-title: Jardin
+title: Jardin 🌳
 published: true
 tags: home
 ---

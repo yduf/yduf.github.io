@@ -1,10 +1,10 @@
 ---
 published: true
-title: Toxic Productivity
-tags: life job work
+title: Toxic Productivity 🍄
+tags: work life
 excerpt_separator: <!--more-->
 ---
-> **Untangle your self-worth and your work** <!--more-->
+> Untangle your self-worth and your work <!--more-->
 > 
 > When you are passionate about your work, it can easily bleed into every other area of your life — you read about work-related topics in your free time, you think about a particularly challenging problem in the shower, you journal about your work, etc. It also changes ones social circle: hanging out with an ambitious and curious start-up crowd easily leads to work as the default topic in a gathering of friends. Once you have work deeply embedded in your interests and social life, it does not take a huge mental leap to "work is what defines me as an individual".
 > 

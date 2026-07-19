@@ -45,7 +45,11 @@ The Transformer made three major shifts:
 - [	The Q, K, V Matrices](https://news.ycombinator.com/item?id=46523887) - At the core of the attention mechanism in LLMs are three matrices: Query, Key, and Value. These matrices are how transformers actually pay attention to different parts of the input. In this write-up, we will go through the construction of these matrices from the ground up.
 	- [HN](https://news.ycombinator.com/item?id=46535549) - Attention is a reinvention of Kernel Smoothing (for what it means?)
 
-# see also
+# Intelligence (iA)
+- [9 plus gros mensonges sur l'intelligence artificielle ](https://www.youtube.com/watch?v=mYqYaB1QAFE&t=1s) - Thibaut Giraud / MrPhi
+	- ce ne sont que des math / ce ne sont que des atomes
+		- Luc Julia
+		- raphael enthoveen
 - [Êtes-vous WEIRD? - La chronique d'Albert Moukheiber dans "La dernière"](https://www.youtube.com/watch?v=NAXS8N7JbsU) - ChatGPT est W.E.I.R.D
 	- **W**estern
     - **E**ducated
