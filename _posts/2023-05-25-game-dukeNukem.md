@@ -1,7 +1,8 @@
 ---
 published: true
-title: Duke Nukem 3D
+title: Duke Nukem 3D ☢️
 tags: games doom
+toc: true
 ---
 > It's time to kick ass and chew bubble gum, and I'm all outta gum!  - [Eduke32](http://www.eduke32.com/) / [Hi Res Pack 2023](https://www.youtube.com/watch?v=rYN2S7BuCoI) / [Packages](http://wiki.eduke32.com/wiki/Packages)
 
@@ -11,17 +12,18 @@ tags: games doom
 	- [Duke Nukem 3D: Atomic Edition](https://www.zoom-platform.com/product/duke-nukem-3d-atomic-edition)
 - [Duke Nukem 3D Savior of Babes - Hollywood Holocaust](https://www.youtube.com/watch?v=0GgtfHgwSu8)
 
-see also
+**see also**
 - [Building EDuke32 on Linux](http://wiki.eduke32.com/wiki/Building_EDuke32_on_Linux)
 	- [Acquiring the EDuke32 Source Code](http://wiki.eduke32.com/wiki/Acquiring_the_EDuke32_Source_Code)
+- [ Duke Nukem 3D Gets Path Tracing + Voxel Sprite Mods - So How Do They Look? ](https://www.youtube.com/watch?v=Xe0F8tBtUDc)
 
-### Remake
+# Remake
 - [Serious Duke 3D](https://www.youtube.com/watch?v=eE147UkGIsA) - L.A. Meltdown: Hollywood Holocaust (Modern) 
 - [DN3DooM](https://www.youtube.com/watch?v=dEcaEEdOxoY) - Honte Remastered Experimental
 	- [Honte Remastered Experimental: MAP01-MAP04 ](https://www.youtube.com/watch?v=dEcaEEdOxoY)
 	- [Hollywood Holocaust (Duke Nukem 3D map remake) ](https://www.youtube.com/watch?v=BWutKWl2IY0)
 
-### see also
+# see also
 - [Some interesting facts about Duke Nukem 3D graphics](https://www.youtube.com/watch?v=ErLhj5AWS5M)
 - [Voxels Duke Nukem remake](https://www.youtube.com/@cheello_art/videos)
 - [Diving Into Chaos: Duke Nukem's Code Shouldn't Work (but it does?)](https://www.youtube.com/watch?v=F9lOJlC_kQs)

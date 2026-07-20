@@ -12,19 +12,26 @@ toc: true
   - disposition
     - qwerty-lafayette (cheapest move)
     - ergo-L
-  
-# Alternatively
-[configure key event directly on linux](https://chatgpt.com/share/6a05d4b8-6958-83eb-ae90-684c4f54fe56)
 
-## [ keyd ⮺](https://github.com/rvaiya/keyd#impetus)
+<div class="encart blue" markdown="1">
+**Alternatively**  
+[configure key event directly on linux](https://chatgpt.com/share/6a05d4b8-6958-83eb-ae90-684c4f54fe56)
+</div>  
+
+# [ keyd ⮺](https://github.com/rvaiya/keyd#impetus)
 
 keyd has several unique features many of which are traditionally only found in custom keyboard firmware like QMK as well as some which are unique to keyd.
+
+- [Linux Keyboard Configuration with Keyd](https://www.karimarttila.fi/keyboard/2023/11/16/linux-keyboard-configuration-with-keyd.html)
+  - you can have one config file for each physical keyboard
+  - [man](https://raw.githubusercontent.com/rvaiya/keyd/refs/heads/master/docs/keyd.scdoc)
+    - how to import a layout (azerty) ?
 
 **keyd is for people who:**
 - Want to have multiple keyboards with different layouts on the same machine.
 - want to launch program with a simple key eg: `[f12 = command(firefox)`](https://chatgpt.com/share/6a0e160f-bbd4-83eb-8bf1-b9c6ff64615e)
 
-### Kb Identify
+## Kb Identify
 
 To identify the keyboard
 {% highlight bash %}
@@ -60,7 +67,7 @@ $ sudo keyd reload
 {% endhighlight %}
 
 
-### [Media Keys ⮺](https://chatgpt.com/share/6a0cc588-f61c-83eb-bf95-c98254195502)
+## [Media Keys ⮺](https://chatgpt.com/share/6a0cc588-f61c-83eb-bf95-c98254195502)
 
 play
 record - may not be recognised
@@ -73,7 +80,7 @@ volumedown
 mute
 
 
-## [Kanata ⮺](https://github.com/jtroo/kanata)
+# [Kanata ⮺](https://github.com/jtroo/kanata)
 
 - [Keyd vs Kanata](https://chatgpt.com/share/6a0ca691-5438-83eb-8d26-228e83d6a722)
   - support chord

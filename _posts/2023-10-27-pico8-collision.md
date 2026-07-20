@@ -1,7 +1,7 @@
 ---
 published: true
 title: Collision (Pico-8)
-tags: pico8 game-engine collision
+tags: pico8 game-engine collision zelda
 toc: true
 ---
 > Collisions in games aren't just about hitting a wall, they're about breaking through barriers, smashing expectations, and crashing into new adventures! - _ChatGPT_

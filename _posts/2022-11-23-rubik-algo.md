@@ -138,11 +138,7 @@ Commencer par les OLL 2 look (construction de la croix jaune)
 
 ### [2 look! ⮺](https://www.youtube.com/watch?v=FZJq-VK5Ngo)
 
-
 Obtenir la croix jaune
-- [F R U R' U' F'](https://youtu.be/FZJq-VK5Ngo?t=165) - trait ou point
-- [F U R U' R' F'](https://youtu.be/FZJq-VK5Ngo?t=193) - virgule
-	- R' U' F' U F R
 
 <!-- OLL 1 initial state -->
 <div markdown="1" style="display:flex; align-items:center; gap:1rem; margin:1rem 0">
@@ -184,6 +180,8 @@ Obtenir la croix jaune
 </script>
 
 ## OLL
+
+La face jaune sans passer par la croix
 
 <!-- OLL 27 initial state -->
 <div markdown="1" style="display:flex; align-items:center; gap:1rem; margin:1rem 0">

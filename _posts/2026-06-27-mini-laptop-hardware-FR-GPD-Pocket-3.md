@@ -3,19 +3,70 @@ title: GPD Pocket 3 📟
 tags: laptop-mini cyberdeck stylus pc-hardware project
 toc: true
 ---
-> [Review: My Travel Buddy (Pocket 4)](https://www.youtube.com/watch?v=POeAkLD3w08) / [amazon](https://www.amazon.fr/GPD-Pocket-Ordinateur-Portable-Bluetooth/dp/B0DNR8DNLS/) / [size](https://www.youtube.com/shorts/ODeQJshC88o)
+> My Travel Buddy  - [Review (Pocket 4)](https://www.youtube.com/watch?v=POeAkLD3w08) / [amazon](https://www.amazon.fr/GPD-Pocket-Ordinateur-Portable-Bluetooth/dp/B0DNR8DNLS/) / [size](https://www.youtube.com/shorts/ODeQJshC88o) / [r/GPDPocket ](https://www.reddit.com/r/GPDPocket/)
 
+<link rel="shortcut icon" href="https://fontsaddict.com/images/icons/png/28544.png" type="image/x-icon" />
 
 [![photo](https://m.media-amazon.com/images/I/418iV6xJf6L._AC_SX300_SY300_QL70_ML2_.jpg)](https://www.amazon.fr/dp/B0DDRJJL1R)
 
 # [Pocket 3 ⮺](https://chatgpt.com/share/6a4219ff-0cb0-83eb-a553-29faa0c3f643)
 
-[amazon](https://www.amazon.fr/dp/B0DDRJJL1R) - 2026 - 850€
+A small form factor laptop, yet mostly as capable as my [Huawei laptop]({% post_url 2021-07-18-laptop-huawei-matebook-14 %}). - [amazon](https://www.amazon.fr/dp/B0DDRJJL1R) - 2026 - 850€
+
+**Alternatives**
+- [Pocket 4](https://www.youtube.com/watch?v=POeAkLD3w08) has much better (over) spec  but was too pricey for the job. - start at 1200€
+- [Kooforway](https://www.amazon.fr/gp/aw/d/B0DFQBSQBL) - was cheaper even if less powerfull and could have been sufficient  - 450€
+
+**Pro**
+- screen touch is usefull in that config, as it allozs to replace mouse wheel for scrolling
+- usb-C supercharge
+
+**Cons**
+
+## Issue
+
+### Frame
+The version I got had a twisted frame out of the box - but I was leaving the day after and returning it was not an option
+
+- [ GPD Pocket 3 not sitting flat on desk ](https://www.reddit.com/r/GPDPocket/comments/sa7oja/gpd_pocket_3_not_sitting_flat_on_desk/?utm_source=chatgpt.com) - check pad flatness / unscrewing botton may help unwrap
+
+### [Camera ⮺](https://chatgpt.com/share/6a5e06c8-10bc-83eb-abd5-2e8f856efb22)
+
+Defautlt setup is very slow 
+- 1600×1200 × 2 bytes/pixel ≈ 3.8 MB per frame
+- ×15 fps ≈ 57 MB/s over USB
+
+Reconfigure it
+
+{% highlight bash %}
+$ qv4l2
+{% endhighlight %}
+## Keyboard
+
+Keyboard size is ok, but
+- It is qwerty - I should fix that some way
+  - minim remap with [keyd]({% post_url 2026-05-10-keyboard-qmk-via %})
+    - Q <-> A, W <-> Z 
+    - capslock -> ctrl
+
+<details markdown="1"><summary>keyd config</summary>
+{% highlight init %}
+[ids]
+258a:000c:f0dea6ce
+
+[main]
+q = a
+w = z
+a = q
+z = w
+capslock = leftcontrol
+{% endhighlight %}
+</details>
 
 ## BIOS
 
 <div class="encart blue" markdown="1">
-BIOS => press F12 on start
+BIOS => press F12 on start  
 boot => press Fn+F7
 </div>
 
@@ -69,8 +120,10 @@ see [Windows 11 / linux Dual Boot]({% post_url 2026-04-30-windows-linux-dual-boo
 - [linux firmware](https://www.gpd.hk/gpdpocket3firmware) / [github](https://github.com/wimpysworld/umpc-ubuntu)
 </div>
 
-- [Some Notes on running Linux on the GPD Pocket 4](https://wstyler.ucsd.edu/posts/linux_gpdpocket4.html)
+[Kubuntu]({% post_url 2026-06-30-linuxsystem-kubuntu %}) is  working perfectly fine (auto orientation / custom dpi font scaling).
 
+**see also**
+- [Some Notes on running Linux on the GPD Pocket 4](https://wstyler.ucsd.edu/posts/linux_gpdpocket4.html)
 - [GPD Pocket 4 Speaker DSP](https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/) [HN](https://news.ycombinator.com/item?id=43635295)
 - [Linux configs for Gpd Pocket 4](https://codeberg.org/elloskelling/linux-gpd-pocket-4)
 

@@ -13,6 +13,9 @@ $ git restore-mtime
 $ ruby update_mtime.rb
 ```
 
+if not installed
+sudo apt install git-restore-mtime
+
 Serving locally
 ``` bash
 $ bundle exec jekyll serve --incremental
