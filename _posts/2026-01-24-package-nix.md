@@ -1,5 +1,5 @@
 ---
-title: "Nix (Package) \U0001F4E6"
+title: "Nix (Package) 📦"
 published: true
 tags: nix package config
 toc: true
@@ -11,6 +11,7 @@ toc: true
 **see also**
 - [mise](https://mise.jdx.dev/) / [HN](https://news.ycombinator.com/item?id=48038864) - some people recommend _mise_ as simpler alternative to nix for devenv configuration.
 
+<div class="encart blue" markdown="1">
 # [Pick your pills _--daemon/--no-daemon_  ⮺](https://chatgpt.com/share/6974a2a5-5b6c-800d-8fe3-f1fb83ed44a8)
 
 Whatever the choice
@@ -21,6 +22,7 @@ The difference is that multi-user mode, there is a daemon running that take
 care of managing the `/nix` folder, whereas there is no daemon in single user.
 
 In both case, there is no requirement for calling `nix` with sudo afterward. 
+</div>
 
 At this point, there is not much difference between [_Hombrew_]({% post_url 2026-01-24-package-homebrew %}) requirement and _Nix_, except that:
 - [homebrew is thought mono-user first](https://chatgpt.com/share/6974bbbf-bae4-800d-8442-514488c80704) - and you have to share your one user repos with others
@@ -92,6 +94,10 @@ The modern, recommended way:
 
 ## Using profile
 
+<div class="encart green" markdown="1">
+This is similar to other package manager and can be thought as a replacement for brew/apt/etc... but for **user only**
+</div>
+
 <div class="encart orange" markdown="1">
 profile need to be enabled
   
@@ -102,7 +108,7 @@ $ echo "experimental-features = nix-command flakes" >> ~/.config/nix/nix.conf
 {% endhighlight %}
 </div>
 
-This is similar to other package manager and can be thought as a replacement for brew/apt/etc... but for **user only**
+Usage
 
 {% highlight bash %}
 # install package permanently to user profil
@@ -120,12 +126,6 @@ $ nix profile upgrade '.*'
 # search
 $ nix search nixpkgs firefox
 {% endhighlight %}
-
-## [Using Flakes (Recommended)  ⮺](https://chatgpt.com/share/6974dc8b-4770-800d-b838-05e4323d7085)
-
-Flakes are now the standard way to use Nix.
-
-see [Nix Flakes]({% post_url 2021-02-05-build-system-nix %})
 
 ## Using nix-shell
 
@@ -149,11 +149,58 @@ $ nix run nixpkgs#zig
 {% endhighlight %}
 
 
-## Using home-manager (optional)
+## [Using home-manager  ⮺](https://nix-community.github.io/home-manager/preface.html)
 
+<div class="encart green" markdown="1">
 Nix Home Manager is a tool in the Nix ecosystem that lets you manage your user-specific environment declaratively using Nix—similar to how NixOS manages system configuration, but applied to a user’s home directory and personal setup. - [ChatGPT](https://chatgpt.com/share/6975e6a4-7990-800d-bdbd-6764ff1ae249)
+</div>
 
-## ~~Using nix-env~~ (depracated)
+Rather than managing package one by one like with `nix profile` it enable to specify a desired setup though
+ [`~/.config/home-manager/home.nix`](https://nix-community.github.io/home-manager/usage.html). It can cover dot_file or on the contrary be used in conjunction with cheznoi - [chatgpt](https://chatgpt.com/share/6a621de9-4578-83eb-b921-90c26aadd4e4) / [2](https://chatgpt.com/share/6a5f857d-d758-83eb-8797-7ff1c61fc09a)
+
+It will recreate the desired scope from
+
+{% highlight bash %}
+$ home-manager switch
+{% endhighlight %}
+
+### [Setup ⮺]({% post_url 2026-01-27-linux-system-guideline %})
+
+- use [chez moi]({% post_url 2026-02-01-config-chezmoi %}) for archiving shqring and dotfile
+- use home manager for user package deployment and setup
+
+**Notes** home manager and nix profile can be used together and it shouldn't be a problem as lons as they [don't overlapp](https://chatgpt.com/share/6a6220e8-8e44-83eb-8270-ec25ddf5c11a)
+
+### User packages
+
+ex of user packages setup
+
+{% highlight bash %}
+{
+  home.packages = with pkgs; [
+    git
+    fd
+    ripgrep
+    fzf
+    tmux
+    neovim
+  ];
+
+  home.stateVersion = "25.05";
+}
+{% endhighlight %}
+
+### Install
+
+
+
+## [Using Flakes (Recommended)  ⮺](https://chatgpt.com/share/6974dc8b-4770-800d-b838-05e4323d7085) 
+
+Flakes are now the standard way to use Nix.
+
+see [Nix Flakes]({% post_url 2021-02-05-build-system-nix %})
+
+## ~~Using nix-env~~ (deprecated)
 
 **permanent installation for your use**
 

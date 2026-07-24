@@ -33,6 +33,11 @@ Dolphin is the default file Manager.
 
 Is available from the start and can be use to share/control phone
 
+## xed
+
+Is not available and replaced by [pluma](https://chatgpt.com/share/6a6359b7-ba00-83ed-8738-8e5c77595190) - same code base
+
+
 ## [Remote Desktop (RDP) ⮺ 🚧 ](https://chatgpt.com/share/6a48df68-c09c-83eb-aa24-c80c3e716e3b)
 
 <div class="encart orange" markdown="1">

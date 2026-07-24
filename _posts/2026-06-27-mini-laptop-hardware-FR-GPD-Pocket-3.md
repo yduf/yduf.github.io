@@ -126,6 +126,7 @@ see [Windows 11 / linux Dual Boot]({% post_url 2026-04-30-windows-linux-dual-boo
 - [Some Notes on running Linux on the GPD Pocket 4](https://wstyler.ucsd.edu/posts/linux_gpdpocket4.html)
 - [GPD Pocket 4 Speaker DSP](https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/) [HN](https://news.ycombinator.com/item?id=43635295)
 - [Linux configs for Gpd Pocket 4](https://codeberg.org/elloskelling/linux-gpd-pocket-4)
+- [UMPC hardware configuration for Ubuntu](https://github.com/wimpysworld/umpc-ubuntu)
 
 # Windows 11
 
