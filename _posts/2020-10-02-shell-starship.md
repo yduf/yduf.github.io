@@ -27,13 +27,14 @@ Only supported by
 - bash
 - [powsershell](https://gilbertsanchez.com/posts/prompt-starship/)
 
-# Install
+# Install 📥
 
 {% highlight bash %}
 $ nix profile install nixpkgs#starship
 {% endhighlight %}
 
-require a [Nerd font]({% post_url 2020-10-05-nerd-font %})
+require a [Nerd font]({% post_url 2020-10-05-nerd-font %})?
+- a least a font with emoji, but it seems that all distro have that now
 
 # [Configuration ⮺](https://starship.rs/config/)
 

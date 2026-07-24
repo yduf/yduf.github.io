@@ -1,22 +1,24 @@
 ---
 title: Hermes 🔱
-tags: agentic-AI
+tags: agentic-AI hermes
 toc: true
 ---
 > [Home](https://hermes-agent.nousresearch.com/)
+
+<link rel="icon" href="https://hermes-agent.nousresearch.com/favicon.ico?favicon.0urifig_ow-kc.ico" sizes="48x48" type="image/x-icon">
 
 [6 Hermes Agent use cases](https://www.youtube.com/watch?v=AQHlyGA2cZM)
 - /goal
 - Kanban
 
-## Project 💭
+# Project 💭
 
 [Run it on raspberry-pi]({% post_url 2026-06-21-hardware-raspberry-pi5 %})
 
 - [install](https://www.youtube.com/watch?v=BBDfNxKXBe4&t=53s)
   - Telegram setup
 
-## Dashboard
+# Dashboard
 
 <details markdown="1"><summary>Running as service</summary>
 {% highlight ini %}
@@ -49,6 +51,14 @@ $ journalctl -u hermes-dashboard -f
 {% endhighlight %}
 </details>
 
+# Security
+
+## Sudo
+- [hermes-sudo](https://github.com/brakthehack/hermes-sudo) - PAM ?
+  - Does not seems to behave as expected
+    - ask for sudo password once (twice in fact)
+    - then keep calling sudo.. without asking and without error
+      - Terminal("Running sudo podman stop forgejo + 1 command")
 
 # see also
 - [ J'ai testé Hermès Agents : voici pourquoi je l'ai désinstallé ](https://www.youtube.com/watch?v=gFSQgS0te60)

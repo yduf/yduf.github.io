@@ -8,7 +8,7 @@ toc: true
 <link rel="shortcut icon" href="https://www.raspberrypi.org/app/themes/mind-control/images/favicon.png" type="image/png" />
 
 <div class="encart blue" markdown="1">
-It acts as bastion ♖
+It acts as bastion 🏰
 {% highlight bash %}
 $ ssh -J bastion tronaut
 {% endhighlight %}
@@ -18,7 +18,7 @@ $ ssh -J bastion tronaut
 |-|-|
 | [Watchdog 🐕‍🦺]({% post_url 2026-07-02-computer-watchdog %}) | |
 | [Tailscale]({% post_url 2026-07-02-vpn-tailscale %})| [📡](https://login.tailscale.com/admin/machines) |
-| [Hermes]({% post_url 2025-12-17-llm-cursor-at-home %}#hermes--) | [🔱](http://localhost:9119) *|
+| [Hermes]({% post_url 2026-07-23-agent-hermes %}) | [🔱](http://localhost:9119) *|
 | Telegram | [topic mode](https://chatgpt.com/share/6a47845c-5914-83ed-8d05-30b69839f799) |
 | nginx | :80 |
 | [php](https://chatgpt.com/share/6a46b923-bcd0-83eb-bab0-9a10acd13874) | [php](http://100.69.234.21/test.php) | 

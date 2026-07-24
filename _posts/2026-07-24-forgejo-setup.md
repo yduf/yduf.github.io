@@ -1,9 +1,11 @@
 ---
 title: Forgejo — Installation sur Raspberry Pi (Podman + PostgreSQL)
-tags: forgejo podman postgresql debian
+tags: forgejo hermes
+toc: true
+excerpt_separator: ""
 ---
 
-## Stack
+# Stack
 
 - **OS** : Debian 12 Bookworm (aarch64)
 - **Forgejo** : v16.0.1 (stable)
@@ -12,7 +14,7 @@ tags: forgejo podman postgresql debian
 - **Réseau** : `Network=host` (pas de reverse proxy, pas de SSL, LAN uniquement)
 - **Port** : 3000
 
-## Architecture
+# Architecture
 
 ```
 ┌─────────────────────────────────────────────┐
@@ -32,9 +34,9 @@ tags: forgejo podman postgresql debian
 └─────────────────────────────────────────────┘
 ```
 
-## Fichiers de configuration
+# Fichiers de configuration
 
-### 1. Service systemd — `/etc/systemd/system/forgejo.service`
+## 1. Service systemd — `/etc/systemd/system/forgejo.service`
 
 ```ini
 [Unit]
@@ -70,7 +72,7 @@ NotifyAccess=all
 WantedBy=multi-user.target
 ```
 
-### 2. Config Forgejo — `/var/lib/forgejo/gitea/conf/app.ini`
+## 2. Config Forgejo — `/var/lib/forgejo/gitea/conf/app.ini`
 
 Générée par le formulaire d'installation de Forgejo. Sections clés :
 - `[database]` : PostgreSQL, schema `forgejo`
@@ -80,11 +82,11 @@ Générée par le formulaire d'installation de Forgejo. Sections clés :
 - `[openid]` : désactivé
 - `[cron.update_checker]` : activé
 
-### 3. Désactivation SSH — `/var/lib/forgejo/custom-s6-override/openssh/down`
+## 3. Désactivation SSH — `/var/lib/forgejo/custom-s6-override/openssh/down`
 
 Contient `disabled` pour empêcher le superviseur s6 du container de lancer sshd (conflit avec le port 22 de l'hôte).
 
-## PostgreSQL
+# PostgreSQL
 
 ```sql
 CREATE ROLE forgejo WITH LOGIN PASSWORD '<password>';
@@ -92,7 +94,7 @@ CREATE DATABASE forgejo OWNER forgejo;
 CREATE SCHEMA forgejo AUTHORIZATION forgejo;
 ```
 
-## Commandes utiles
+# Commandes utiles
 
 ```bash
 # Gestion du service
@@ -112,4 +114,4 @@ sudo -u postgres psql -d forgejo     # Console DB
 ## Accès
 
 - **LAN** : `http://192.168.0.80:3000`
-- **Tailscale** : `http://100.69.234.21:3000`
+- **Tailscale** : `http://bastion:3000`

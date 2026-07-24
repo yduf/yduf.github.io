@@ -37,6 +37,8 @@ Is available from the start and can be use to share/control phone
 
 Is not available and replaced by [pluma](https://chatgpt.com/share/6a6359b7-ba00-83ed-8738-8e5c77595190) - same code base
 
+see [Create `xed` alias for pluma](https://chatgpt.com/share/6a639853-08fc-83ed-ae75-90bf031c620e)
+
 
 ## [Remote Desktop (RDP) ⮺ 🚧 ](https://chatgpt.com/share/6a48df68-c09c-83eb-aa24-c80c3e716e3b)
 
