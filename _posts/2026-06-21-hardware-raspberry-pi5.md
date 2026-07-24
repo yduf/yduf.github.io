@@ -1,6 +1,6 @@
 ---
 title: Raspberry pi5 💭
-tags: raspberry-pi arm-hardware watchdog project 
+tags: raspberry-pi arm-hardware watchdog project bastion
 toc: true
 ---
 > inherited [Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/) + [Pironman 5](https://docs.sunfounder.com/projects/pironman5/fr/latest/pironman5/intro_pironman5.html#intro-pironman5)
@@ -8,7 +8,7 @@ toc: true
 <link rel="shortcut icon" href="https://www.raspberrypi.org/app/themes/mind-control/images/favicon.png" type="image/png" />
 
 <div class="encart blue" markdown="1">
-It acts as bastion  
+It acts as bastion ♖
 {% highlight bash %}
 $ ssh -J bastion tronaut
 {% endhighlight %}
@@ -82,10 +82,10 @@ Operating System: Debian GNU/Linux 12 (bookworm)
 - [Setting Up on Raspberry Pi OS/Ubuntu/Kali Linux/Homebridge](https://docs.sunfounder.com/projects/pironman5/en/latest/pironman5/set_up/set_up_rpi_os.html#setting-up-on-raspberry-pi-os-ubuntu-kali-linux-homebridge)
 
 
-## [OLED ⮺](https://chatgpt.com/share/6a37bc5e-6944-83ed-87f8-cb39238bfe2c) 🚧 ⛑ 
+## [OLED ⮺](https://chatgpt.com/share/6a37bc5e-6944-83ed-87f8-cb39238bfe2c) 🖥️
 
 <div class="encart blue" markdown="1">
-Ecran OLED ~~1.3"~~ 0.96"
+Ecran OLED  0.96"
 nappe 30 pin - visible coté écran  
 pin 1 en haut avec ecrant visible coté droit.  
 SH1106 / GME12864-44
@@ -93,7 +93,19 @@ SH1106 / GME12864-44
 eg [![model amazon](https://m.media-amazon.com/images/I/31vbztes-kL._SX342_SY445_QL70_ML2_.jpg)](https://www.amazon.fr/%C3%89cran-OLED-SH1106-CH1116G-Driver/dp/B0C7GTLTV)
 </div>
 
-- [Troubleshooting OLED display](https://chatgpt.com/share/6a37ba8f-a84c-83ed-b3b0-4de09bf28b00)
+### Setup
+
+Disable OLED Timeout
+
+{% highlight bash %}
+$ sudo pironman5 -os 0
+$ sudo systemctl restart pironman5.service
+{% endhighlight %}
+
+
+<details markdown="1"><summary>Troubleshooting</summary>
+
+### [Troubleshooting OLED display ⮺](https://chatgpt.com/share/6a37ba8f-a84c-83ed-b3b0-4de09bf28b00)
 
 {% highlight bash %}
 $ sudo i2cdetect -y 1
@@ -122,12 +134,27 @@ $ dmesg | grep -i i2c
 {% endhighlight %}
 
 
+</details>
 
-## Power Button 🚧
 
-As no effect
 
-## [Power Consumption ⮺](https://chatgpt.com/share/6a37af6c-85d4-83eb-9fc7-4391cfe1fe47)
+
+## [Power Button ⮺ ⏻](https://chatgpt.com/share/6a631384-1bf0-83eb-a5cb-7448c842e0f8)
+
+<div class="encart red" markdown="1">
+Hold for 5 seconds → forced power off (not recommended except if the system is hung).
+</div>
+
+The behavior depends on your OS:
+- Raspberry Pi OS Lite: single press → safe shutdown.
+- Raspberry Pi OS Desktop:
+  - On standard Raspberry Pi OS, a short press typically brings up the shutdown dialog (or requires a second quick press, depending on the OS version).
+  - On current Pironman 5 software, hold for about 2 seconds → safe shutdown.
+
+
+
+
+# [Power Consumption ⮺](https://chatgpt.com/share/6a37af6c-85d4-83eb-9fc7-4391cfe1fe47)
 
 | Scenario                                                   | Estimated total system power |
 | ---------------------------------------------------------- | ---------------------------: |
@@ -137,7 +164,7 @@ As no effect
 | Heavy CPU load + active NVMe activity                      |                     ~10–14 W |
 | Stress case (CPU max + SSD writes + peripherals)           |                     ~14–18 W |
 
-## [GPU  ⮺](https://chatgpt.com/share/6a38d395-e5b0-83eb-81d4-07f42f3dcec4)
+# [GPU  ⮺](https://chatgpt.com/share/6a38d395-e5b0-83eb-81d4-07f42f3dcec4)
 
 - pi 5 has unified memory
 - yet GPU was designed for graphics and video not for matrix operation.

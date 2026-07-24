@@ -10,11 +10,21 @@ toc: true
 
 For Base system like ubuntu / Linux Mint
 - enable [Nix]({% post_url 2026-01-24-package-nix %}) to support user autonomy 
+- maintains a list of [base packages](https://chatgpt.com/share/6a632c95-9710-83eb-b06a-08876fe519b6) required
+
+The isting can be build from manuall installed package
+{% highlight bash %}
+$ apt-mark showmanual
+{% endhighlight %}
+
+and scripted for installation as in [my dotfiles](https://github.com/yduf/dotfiles/tree/master)
 
 ## APT
 - Kernel
 - systemD
 - ZFS
+
+
 
 ## Docker / Podman
 

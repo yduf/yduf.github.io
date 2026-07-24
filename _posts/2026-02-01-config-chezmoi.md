@@ -4,14 +4,14 @@ published: true
 tags: config shell linux-system nix package
 toc: true
 ---
-> [chezmoi](https://www.chezmoi.io/) helps you manage your personal configuration files (dotfiles, like `~/.gitconfig`) across multiple machines.
+> [chezmoi](https://www.chezmoi.io/) helps you manage your personal configuration files (dotfiles, like `~/.gitconfig`) across multiple machines. - [my dotfiles](https://github.com/yduf/dotfiles/tree/master)
 
 Mainly act as wrapper around _git_ and the management of a special repo dedicated to _.config_ files. All regular git command are available when steping inside the _chezmoi_ repo which is accessible with `chezmoi cd`.
 
 **see also**
 [chezmoi vs Stow](https://chatgpt.com/share/69f63076-e49c-83eb-b21d-62fec797628e)
 
-## chezmoi ~
+## [chezmoi ~ ](https://www.chezmoi.io/)
 - A dedicated dotfile manager with features for templating, encryption, multi-host config, and more.
 - Designed specifically for managing personal config across machines.
 - Maintains a source state (a repo you version control) and applies that safely to your home directory.
@@ -24,9 +24,15 @@ Mainly act as wrapper around _git_ and the management of a special repo dedicate
 [ How To ACTUALLY Manage Dotfiles with Stow  ](https://www.youtube.com/watch?v=TLFsee7DDSI) - Full Guide + Git Workflow
 
 
-# Install
+# Install 📥
+
+For bootstrapping use apt otherwise nix is available
 
 {% highlight bash %}
+$ apt-get install chezmoi
+or
+$ sh -c "$(curl -fsLS get.chezmoi.io)" -- -b $HOME/.local/bin
+
 $ nix profile add nixpkgs#chezmoi
 {% endhighlight %}
 
@@ -58,4 +64,6 @@ Reference the repo when setting up the new computer.
 $ chezmoi init git@github.com:yduf/dotfiles.git
 $ chezmoi diff
 $ chezmoi apply -v
+
+$ chezmoi update
 {% endhighlight %}
