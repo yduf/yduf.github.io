@@ -27,11 +27,31 @@ Only supported by
 - bash
 - [powsershell](https://gilbertsanchez.com/posts/prompt-starship/)
 
+# Install
+
+{% highlight bash %}
+$ nix profile install nixpkgs#starship
+{% endhighlight %}
+
+require a [Nerd font]({% post_url 2020-10-05-nerd-font %})
 
 # [Configuration ⮺](https://starship.rs/config/)
 
+cf [Chez moi]({% post_url 2026-02-01-config-chezmoi %})
+
 {% highlight bash %}
 $ mkdir -p ~/.config && touch ~/.config/starship.toml
+{% endhighlight %}
+
+## [Enable ⮺](https://starship.rs/)
+
+by shell
+{% highlight bash %}
+# bash
+$ eval "$(starship init bash)"
+
+# fish
+$ starship init fish | source
 {% endhighlight %}
 
 ## [promt by shell ⮺](https://chatgpt.com/share/69eb8d1c-17bc-83eb-94e2-a5e2c9867da6)

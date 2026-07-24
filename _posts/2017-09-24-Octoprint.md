@@ -1,5 +1,5 @@
 ---
-title: Octoprint (before moving to fluidd)
+title: ~Octoprint (before moving to fluidd)
 published: true
 tags: 3dprinter docker klipper obsolete
 ---
@@ -9,10 +9,11 @@ tags: 3dprinter docker klipper obsolete
 <link rel="shortcut icon" href="https://octoprint.org/assets/img/tentacle-20x20.png" type="image/x-icon" />
 {:/}
 
-Pros
+**Pros**  
 - was doing the job
 - have plugin system
-Cons
+
+**Cons**  
 - news message when login in
 - not so good Klipper integration (handling reboot/error)
 - slow ui / logon

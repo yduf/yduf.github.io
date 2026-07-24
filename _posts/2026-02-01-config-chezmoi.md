@@ -1,13 +1,14 @@
 ---
-title: ChezMoi ~
+title: ChezMoi ~ 🏡
 published: true
-tags: config nix package
+tags: config shell linux-system nix package
 toc: true
 ---
 > [chezmoi](https://www.chezmoi.io/) helps you manage your personal configuration files (dotfiles, like `~/.gitconfig`) across multiple machines.
 
 Mainly act as wrapper around _git_ and the management of a special repo dedicated to _.config_ files. All regular git command are available when steping inside the _chezmoi_ repo which is accessible with `chezmoi cd`.
 
+**see also**
 [chezmoi vs Stow](https://chatgpt.com/share/69f63076-e49c-83eb-b21d-62fec797628e)
 
 ## chezmoi ~
@@ -39,7 +40,7 @@ $ chezmoi -v apply
 
 # Git Sync
 
-Leverage a git repo to syncronize everything
+Leverage a git repo to synchronize everything
 Create a [dotfile](https://github.com/yduf/dotfiles) repo on github and attach it to _chezmoi_
 
 {% highlight bash %}

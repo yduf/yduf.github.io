@@ -79,6 +79,17 @@ volumeup
 volumedown
 mute
 
+# [Layout ⮺](https://chatgpt.com/share/6a6219ab-6b28-83eb-8218-9da8d4d060a0)
+
+ex AZERTY kebyoard
+{% highlight ini %}
+# /etc/keyd/azerty.conf
+[ids]
+*
+
+[main]
+include layouts/fr
+{% endhighlight %}
 
 # [Kanata ⮺](https://github.com/jtroo/kanata)
 
