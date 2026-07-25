@@ -1,6 +1,6 @@
 ---
 title: Raspberry pi5 💭
-tags: raspberry-pi arm-hardware watchdog project bastion
+tags: raspberry-pi arm-hardware watchdog project bastion forgejo
 toc: true
 ---
 > inherited [Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/) + [Pironman 5](https://docs.sunfounder.com/projects/pironman5/fr/latest/pironman5/intro_pironman5.html#intro-pironman5)
@@ -19,6 +19,7 @@ $ ssh -J bastion tronaut
 | [Watchdog 🐕‍🦺]({% post_url 2026-07-02-computer-watchdog %}) | |
 | [Tailscale]({% post_url 2026-07-02-vpn-tailscale %})| [📡](https://login.tailscale.com/admin/machines) |
 | [Hermes]({% post_url 2026-07-23-agent-hermes %}) | [🔱](http://localhost:9119) *|
+| [Forgejo]({% post_url 2018-06-07-github-alt-home %}) | [🧬](http://bastion:3000) **|
 | Telegram | [topic mode](https://chatgpt.com/share/6a47845c-5914-83ed-8d05-30b69839f799) |
 | nginx | :80 |
 | [php](https://chatgpt.com/share/6a46b923-bcd0-83eb-bab0-9a10acd13874) | [php](http://100.69.234.21/test.php) | 
@@ -27,7 +28,8 @@ $ ssh -J bastion tronaut
 | cups | :631 |
 | use [yduf](/) as knowledge base | read only copy |
 
-\* - require [port forward]({% post_url 2021-02-07-ssh-tunnels %}): `ssh -N -L 9119:127.0.0.1:9119 100.69.234.21`
+\* - require [port forward]({% post_url 2021-02-07-ssh-tunnels %}): `ssh -N -L 9119:127.0.0.1:9119 bastion`  
+\*\* - require [port forward]({% post_url 2021-02-07-ssh-tunnels %}): `ssh -N -L 3000:127.0.0.1:3000 bastion`
 
 [![boSunFounder Pironman 5 - Raspberry Pi casex](https://media.ldlc.com/r705/ld/products/00/06/23/84/LD0006238443.jpg)](https://www.ldlc.com/en/product/PB00677828.html)
 
@@ -151,7 +153,25 @@ The behavior depends on your OS:
   - On standard Raspberry Pi OS, a short press typically brings up the shutdown dialog (or requires a second quick press, depending on the OS version).
   - On current Pironman 5 software, hold for about 2 seconds → safe shutdown.
 
+### Power off
 
+When powered off - [fan and led are kept alive](https://forum.sunfounder.com/t/raspberry-pi5-case-fans-not-turning-off-after-shutdown/1510).
+They shutdown then restart - one can think that the pi is on, but it's not the case - only the hat is powered on.
+
+This can be disabled by setting the firmware to `POWER_OFF_ON_HALT=1`
+
+{% highlight bash %}
+$ sudo rpi-eeprom-config -e # -e for edit
+[all]
+BOOT_UART=1
+POWER_OFF_ON_HALT=1
+BOOT_ORDER=0xf146
+{% endhighlight %}
+
+Then Ctrl+X + Y to save.
+The change is not visible until reboot, but it taken into account
+
+Then once powered off, only a red led is visible (rather than a green one when the pi is powered).
 
 
 # [Power Consumption ⮺](https://chatgpt.com/share/6a37af6c-85d4-83eb-9fc7-4391cfe1fe47)

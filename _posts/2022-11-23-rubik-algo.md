@@ -44,11 +44,11 @@ Finish by middle cube
 
 <div class="encart blue" markdown="1">
 Prioriser l'apprentisage des  PLL (21) sur les OLL (57).  
-Commencer par les OLL 2 look (construction de la croix jaune)
+Commencer par les [OLL 2 look](#2-look-) (construction de la croix jaune (4 algos) puis resolution avec 7 algos supplementaire)
 
-**PLL** - Permute Last Layer
-**OLL** - Orient Last Layer
-***F2L* - First 2 Layer
+**PLL** - Permute Last Layer  
+**OLL** - Orient Last Layer  
+**F2L** - First 2 Layer  
 ## [badmephisto pdf ⮺](/images/badmephisto-speedcubing-method.pdf)
 
 [mirror](https://defhacks.github.io/badmephisto-mirror/pll.html)
@@ -179,9 +179,41 @@ Obtenir la croix jaune
      front:['X','X','X']}, 12)
 </script>
 
-## OLL
+### Bonus
 
-La face jaune sans passer par la croix
+Same algo as simple case, but will work directly
+
+<!-- OLL 1 initial state -->
+<div markdown="1" style="display:flex; align-items:center; gap:1rem; margin:1rem 0">
+  <div id="oll-1b"></div>
+  <code><a href="https://www.youtube.com/shorts/yhV4PPAPTu8">f (R U R' U') f'</a></code> - oll-1 Bonus - full cover
+</div>
+<script>drawOLL('oll-1b',{
+      back:['X','Y','X'],
+  top:[['Y','X','X','Y','X'],
+       ['Y','X','Y','Y','X'],
+       ['Y','X','Y','Y','X']],
+     front:['X','X','X']}, 12)
+</script>
+
+<!-- OLL 2 initial state -->
+<div markdown="1" style="display:flex; align-items:center; gap:1rem; margin:1rem 0">
+  <div id="oll-2b"></div>
+  <code><a href="https://www.youtube.com/shorts/yhV4PPAPTu8">F (R U R' U') F'</a></code> - oll-2 Bonus - full cover
+</div>
+<script>drawOLL('oll-2b',{
+      back:['X','Y','X'],
+  top:[['Y','X','X','Y','X'],
+       ['X','Y','Y','Y','X'],
+       ['Y','X','X','Y','X']],
+     front:['X','Y','X']}, 12)
+</script>
+
+
+## Look 2
+
+
+En direct ou apres la croix jaune
 
 <!-- OLL 27 initial state -->
 <div markdown="1" style="display:flex; align-items:center; gap:1rem; margin:1rem 0">
@@ -210,6 +242,63 @@ La face jaune sans passer par la croix
      front:['X','X','Y']}, 12)
 </script>
 
+<!-- OLL 24 initial state -->
+<div markdown="1" style="display:flex; align-items:center; gap:1rem; margin:1rem 0">
+  <div id="oll-24"></div>
+  <code><a href="">(r U R' U')(r' F R) F'</a></code> - oll-24
+</div>
+<script>drawOLL('oll-24',{
+      back:['Y','X','X'],
+  top:[['X','X','Y','Y','X'],
+       ['X','Y','Y','Y','X'],
+       ['X','X','Y','Y','X']],
+     front:['Y','X','X']}, 12)
+</script>
+
+<!-- OLL 25 initial state -->
+<div markdown="1" style="display:flex; align-items:center; gap:1rem; margin:1rem 0">
+  <div id="oll-25"></div>
+  <code><a href="">F'(r U R' U')(r' F R )</a></code> - oll-25 - move similar to oll-24
+</div>
+<script>drawOLL('oll-25',{
+      back:['X','X','X'],
+  top:[['Y','X','Y','Y','X'],
+       ['X','Y','Y','Y','X'],
+       ['X','Y','Y','X','X']],
+     front:['X','X','Y']}, 12)
+</script>
+
+<!-- OLL 24b initial state -->
+<div markdown="1" style="display:flex; align-items:center; gap:1rem; margin:1rem 0">
+  <div id="oll-24b"></div>
+  <code><a href="https://www.youtube.com/watch?v=bTXoA52Edsw">R'F'r U R U'r' F</a></code> - oll-24-b - faster?
+</div>
+<script>drawOLL('oll-24b',{
+      back:['X','X','Y'],
+  top:[['X','Y','Y','X','X'],
+       ['X','Y','Y','Y','X'],
+       ['X','Y','Y','X','X']],
+     front:['X','X','Y']}, 12)
+</script>
+
+
+## OLL
+
+La face jaune sans passer par la croix
+
+<!-- OLL 2 initial state -->
+<div markdown="1" style="display:flex; align-items:center; gap:1rem; margin:1rem 0">
+  <div id="oll-33"></div>
+  <code><a href="">(R U R' U') (R' F R F')</a></code> - oll-33 T2 - probability 1/54  
+  <code><a href="https://www.youtube.com/shorts/INdbIRW7VRY">F R U'R'U R U R' F'</a></code> - other algo - two hands  
+</div>
+<script>drawOLL('oll-33',{
+      back:['Y','Y','X'],
+  top:[['X','X','X','Y','X'],
+       ['X','Y','Y','Y','X'],
+       ['X','X','X','Y','X']],
+     front:['Y','Y','X']}, 12)
+</script>
 
 
 ## Completer avec [Les OLL ⮺](https://www.youtube.com/watch?v=mqvxojuUFy4&list=PLh9akXp2EH2D1MBpl8gb0w2WM0eiailpB&index=8) adaptés - #57

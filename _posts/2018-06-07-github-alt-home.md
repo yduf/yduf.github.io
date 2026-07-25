@@ -1,7 +1,7 @@
 ---
 title: GitHub@Home
 published: true
-tags: github at_home
+tags: github at_home forgejo
 toc: true
 ---
 > [On-prem GitHub Alternatives](https://chatgpt.com/share/6a5f9791-942c-83ed-9d3e-b0a8ce9a7ccc)
