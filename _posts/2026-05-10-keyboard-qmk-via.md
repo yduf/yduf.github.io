@@ -66,6 +66,33 @@ or
 $ sudo keyd reload
 {% endhighlight %}
 
+Keyd logs can be inspected by
+{% highlight bash %}
+$ sudo journalctl -u keyd -b
+{% endhighlight %}
+
+<details markdown="1"><summary>logs example</summary>
+
+{% highlight bash %}
+juil. 25 09:44:43 yves-pocket systemd[1]: keyd.service: Main process exited, code=exited, status=15/n/a
+juil. 25 09:44:43 yves-pocket systemd[1]: keyd.service: Failed with result 'exit-code'.
+juil. 25 09:44:43 yves-pocket systemd[1]: Stopped keyd.service - key remapping daemon.
+juil. 25 09:44:43 yves-pocket systemd[1]: keyd.service: Consumed 216ms CPU time over 5min 26.739s wall clock time, >
+juil. 25 09:44:43 yves-pocket systemd[1]: Started keyd.service - key remapping daemon.
+juil. 25 09:44:43 yves-pocket keyd[31062]: CONFIG: parsing /etc/keyd/native.conf
+juil. 25 09:44:43 yves-pocket keyd[31062]:         WARNING: /etc/keyd/native.conf:9: You should use layer(control) >
+juil. 25 09:44:43 yves-pocket keyd[31062]: CONFIG: parsing /etc/keyd/jellycomb.conf
+juil. 25 09:44:43 yves-pocket keyd[31062]: Starting keyd v2.6.0 (f564288)
+juil. 25 09:44:43 yves-pocket keyd[31062]: DEVICE: ignoring 062a:4102:fd440bee  (MOSART Semi. 2.4G Wireless Mouse C>
+juil. 25 09:44:43 yves-pocket keyd[31062]: DEVICE: ignoring 062a:4102:160eb82b  (MOSART Semi. 2.4G Wireless Mouse)
+juil. 25 09:44:43 yves-pocket keyd[31062]: DEVICE: ignoring 25a7:fa23:6b55f79f  (Compx 2.4G Receiver System Control)
+juil. 25 09:44:43 yves-pocket keyd[31062]: DEVICE: ignoring 25a7:fa23:149e98b0  (Compx 2.4G Receiver Consumer Contr>
+juil. 25 09:44:43 yves-pocket keyd[31062]: DEVICE: ignoring 25a7:fa23:dc9a6987  (Compx 2.4G Receiver Mouse)
+juil. 25 09:44:43 yves-pocket keyd[31062]: DEVICE: match    25a7:fa23:b3402519  /etc/keyd/jellycomb.conf        (Co>
+{% endhighlight %}
+</details>
+
+
 
 ## [Media Keys ⮺](https://chatgpt.com/share/6a0cc588-f61c-83eb-bf95-c98254195502)
 
@@ -79,16 +106,20 @@ volumeup
 volumedown
 mute
 
-# [Layout ⮺](https://chatgpt.com/share/6a6219ab-6b28-83eb-8218-9da8d4d060a0)
+## [Layout ⮺](https://chatgpt.com/share/6a6219ab-6b28-83eb-8218-9da8d4d060a0)
 
-ex AZERTY kebyoard
+ex: external AZERTY keyboard for [pocket 3]({% post_url 2026-06-27-mini-laptop-hardware-FR-GPD-Pocket-3 %})
 {% highlight ini %}
 # /etc/keyd/azerty.conf
 [ids]
-*
+25a7:fa23:b3402519
+
+include layouts/fr
+
+[global]
+default_layout = fr
 
 [main]
-include layouts/fr
 {% endhighlight %}
 
 # [Kanata ⮺](https://github.com/jtroo/kanata)
