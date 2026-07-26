@@ -10,6 +10,17 @@
   overflow: scroll;
 }
 
+/* When GFM-style triple backtick code blocks are used, the <pre> element also
+   gets the .highlight class, causing double borders/shadows. This neutralizes
+   the inner .highlight so it renders identically to {% highlight %} blocks. */
+.highlight .highlight {
+  background: transparent;
+  padding: 0;
+  border: none;
+  box-shadow: none;
+  margin: 0;
+}
+
 code {
   font-family:'Bitstream Vera Sans Mono','Courier', monospace;
 }
