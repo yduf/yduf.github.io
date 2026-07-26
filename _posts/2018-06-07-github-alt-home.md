@@ -4,14 +4,22 @@ published: true
 tags: github at_home forgejo
 toc: true
 ---
-> [On-prem GitHub Alternatives](https://chatgpt.com/share/6a5f9791-942c-83ed-9d3e-b0a8ce9a7ccc)
+> [On-prem GitHub Alternatives](https://chatgpt.com/share/6a5f9791-942c-83ed-9d3e-b0a8ce9a7ccc) - [Forgejo](https://forgejo.org/)
 
-# [Forgejo ⮺](https://forgejo.org/)
+<link rel="shortcut icon" href="https://forgejo.org/favicon.ico">
 
 A self-hosted lightweight software forge.
 Easy to install and low maintenance, it just does the job. - fork of [Gitea](https://forgejo.org/compare-to-gitea/)
 
-## [Setup ⮺](https://chatgpt.com/share/6a61d28d-8730-83eb-baa5-3387296aa7d6)
+
+# [Releases  ⮺](https://chatgpt.com/share/6a64e4cb-e5e8-83eb-a4e7-7fa3368c8824)
+
+Can be used to host thirdpary binary assets to ease deployment with [chezmoi]({% post_url 2026-02-01-config-chezmoi %})
+
+For public repos they are accessible to anyone (limited by LAN access here).
+Auth is only mendatory for private repos.
+
+# [Setup ⮺](https://chatgpt.com/share/6a61d28d-8730-83eb-baa5-3387296aa7d6)
 - [Postgres setup]({% post_url 2025-12-17-db-postgres %})
 - [Podman](https://forgejo.org/docs/latest/admin/installation/docker/#podman)
 
@@ -35,7 +43,7 @@ cf [Forgejo setup]({% post_url 2026-07-24-forgejo-setup %})
 
 
 <details markdown="1"><summary>Configs</summary>
-### Configs
+## Configs
 
 | Fichier | Rôle |
 |---------|------|
@@ -43,15 +51,11 @@ cf [Forgejo setup]({% post_url 2026-07-24-forgejo-setup %})
 | `/var/lib/forgejo/gitea/conf/app.ini` | Config Forgejo (générée par le formulaire d'installation) |
 | `/var/lib/forgejo/custom-s6-override/openssh/down` | Désactive le serveur SSH interne du container |
 
-### DB (Postgres)
+## DB (Postgres)
 - Base : forgejo                                                     
 - Rôle : forgejo                                                                                                                          
 - Schéma : forgejo
 </details>
-
-## [Releases  ⮺](https://chatgpt.com/share/6a64e4cb-e5e8-83eb-a4e7-7fa3368c8824)
-
-Can be used to host thirdpary binary assets to ease deployment with [chezmoi]({% post_url 2026-02-01-config-chezmoi %})
 
 
 # Jekyll 

@@ -4,6 +4,8 @@ tags: forgejo hermes
 toc: true
 excerpt_separator: ""
 ---
+<link rel="shortcut icon" href="https://forgejo.org/favicon.ico">
+
 
 # Stack
 
@@ -17,22 +19,22 @@ excerpt_separator: ""
 # Architecture
 
 ```
-┌─────────────────────────────────────────────┐
-│  HÔTE (raspberrypi)                         │
-│                                             │
+┌────────────────────────────────────────────┐
+│  HÔTE (raspberrypi)                        │
+│                                            │
 │  ┌─────────────────────────┐   ┌─────────┐ │
 │  │  Container forgejo      │   │ Postgres│ │
 │  │  ┌───────────────────┐  │   │ :5432   │ │
-│  │  │ Forgejo            │  │   └─────────┘ │
-│  │  │ :3000 (HTTP)       │  │               │
-│  │  │ :2222 (SSH)        │  │               │
-│  │  │                    │  │               │
-│  │  │ /data → /var/lib/  │  │               │
-│  │  │       forgejo      │  │               │
+│  │  │ Forgejo           │  │   └─────────┘ │
+│  │  │ :3000 (HTTP)      │  │               │
+│  │  │ :2222 (SSH)       │  │               │
+│  │  │                   │  │               │
+│  │  │ /data → /var/lib/ │  │               │
+│  │  │       forgejo     │  │               │
 │  │  └───────────────────┘  │               │
 │  └─────────────────────────┘               │
-│       Network=host (127.0.0.1:5432)         │
-└─────────────────────────────────────────────┘
+│       Network=host (127.0.0.1:5432)        │
+└────────────────────────────────────────────┘
 ```
 
 # Fichiers de configuration

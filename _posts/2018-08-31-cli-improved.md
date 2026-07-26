@@ -8,7 +8,7 @@ toc: true
 
 **see also**
 - [37 INSANE Linux Commands you NEED to Know in 2025 ](https://www.youtube.com/watch?v=6P-vjgPx9ww)
-  - [**duf**]({% post_url 2018-07-11-disk-full %}) - df more readable
+  - [**duf**]({% post_url 2018-07-11-disk-full %}) - prettier version of df 
   - [**mosh**]({% post_url 2017-06-04-ssh-mosh %}) - ssh on lagging connection
   - **wormhole** - send file overnetwork without setting up server
   - ...
@@ -32,8 +32,9 @@ toc: true
 
 A cat(1) clone with wings. It has highlighting, paging, line numbers and git integration. 
 
-
 The bat command also allows me to search during output (only if the output is longer than the screen height) using the / key binding (similarly to less searching).
+
+- [𝐛𝐚𝐭: the tool to syntax highlight (almost) anything on Linux ](https://www.youtube.com/watch?v=90sZYRoe-fo)
 
 It can still be used like cat: "Whenever bat detects a non-interactive terminal, it will fall back to printing the plain file contents." 
 

@@ -16,6 +16,7 @@ A small form factor laptop, yet mostly as capable as my [Huawei laptop]({% post_
 **Alternatives**
 - [Pocket 4](https://www.youtube.com/watch?v=POeAkLD3w08) has much better (over) spec  but was too pricey for the job. - start at 1200€
 - [Kooforway](https://www.amazon.fr/gp/aw/d/B0DFQBSQBL) - was cheaper even if less powerfull and could have been sufficient  - 450€
+- [PEAKAGO](https://www.youtube.com/watch?v=oHaQi9ajkrY)
 
 **Pro**
 - screen touch is usefull in that config, as it allozs to replace mouse wheel for scrolling
