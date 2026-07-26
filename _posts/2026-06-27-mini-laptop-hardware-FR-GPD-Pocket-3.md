@@ -1,6 +1,6 @@
 ---
 title: GPD Pocket 3 📟
-tags: laptop-mini cyberdeck stylus pc-hardware project
+tags: laptop-mini cyberdeck stylus pc-hardware retro picotron project
 toc: true
 ---
 > My Travel Buddy  - [Review (Pocket 4)](https://www.youtube.com/watch?v=POeAkLD3w08) / [amazon](https://www.amazon.fr/GPD-Pocket-Ordinateur-Portable-Bluetooth/dp/B0DNR8DNLS/) / [size](https://www.youtube.com/shorts/ODeQJshC88o) / [r/GPDPocket ](https://www.reddit.com/r/GPDPocket/)
@@ -138,3 +138,15 @@ To resize partition: Win + X → choose Disk Management
 
 - [This is the flashing firmware of Pocket 3 1195G7 / 1125G4 / 7505 (Windows 11 integrated with the driver). ](https://www.gpd.hk/gpdpocket3firmware)
   - **Attention: reinstallnation will remove all data in drive C, please backup your data before action.**
+
+# [ Mini Micro  ⮺ 💭](https://news.ycombinator.com/item?id=48291947)
+
+Coud be used to setup a neo-retro virtual computer
+
+- [Mini Micro Fantasy Computer](https://miniscript.org/MiniMicro/index.html#about)
+
+[![demo](https://miniscript.org/MiniMicro/img/asteroids.gif)](https://miniscript.org/MiniMicro/index.html#about)
+
+- [picotron]({% post_url 2025-04-12-main-picotron %})
+
+[![screenshot](https://www.lexaloffle.com/dl/wip/picotron_desktop2.png)](https://www.lexaloffle.com/picotron.php)

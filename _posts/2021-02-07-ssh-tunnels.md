@@ -18,7 +18,7 @@ ssh -N -L [local_port]:127.0.0.1:[remote_port] 100.69.234.21
 # [Port forwarding ⮺ 🚧](https://chatgpt.com/share/6a647248-30ac-83eb-958f-7988a7616534) 
 
 Notable
-- sshuttle - route an entire subnet over SSH
+- [sshuttle](https://github.com/sshuttle/sshuttle#sshuttle-where-transparent-proxy-meets-vpn-meets-ssh) / [doc](https://sshuttle.readthedocs.io/en/stable/how-it-works.html) - route an entire subnet over SSH - did not understand what id does
 - systemd user services + Cockpit (surprisingly nice)
 - Autossh - automatically reconnects dropped tunnels.
 - or custom tools
@@ -27,3 +27,4 @@ Notable
 # see also
 - [How Attackers Intercept HTTPS](https://www.youtube.com/watch?v=n9BD4YxiWqM) - using eBPF trace
   - [Would this work on ssh](https://chatgpt.com/share/6a47d65c-21cc-83eb-aa9d-9a75bb1da85a) - it could but it's a (bit?) harder
+- [sshuttle vs kubefwd](https://chatgpt.com/share/6a64894e-c9c8-83ed-9cd1-801061cd93f3)

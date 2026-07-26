@@ -7,6 +7,11 @@ toc: true
 > [Home](https://remysharp.com/2018/08/23/cli-improved) / [\[HN\]](https://news.ycombinator.com/item?id=17874718)
 
 **see also**
+- [37 INSANE Linux Commands you NEED to Know in 2025 ](https://www.youtube.com/watch?v=6P-vjgPx9ww)
+  - [**duf**]({% post_url 2018-07-11-disk-full %}) - df more readable
+  - [**mosh**]({% post_url 2017-06-04-ssh-mosh %}) - ssh on lagging connection
+  - **wormhole** - send file overnetwork without setting up server
+  - ...
 - [10 CLI Tools I'm using alongside Claude Code](https://www.youtube.com/watch?v=3NzCBIcIqD0) / [part 2](https://www.youtube.com/watch?v=dTcfWvZkaV8)
   - lazygit
   - glow - like bat
@@ -15,7 +20,7 @@ toc: true
     - **yazi**
   - **zoxide** - memorize where you are use to go (and cd you there)
     - interactive mode
-  - **btop** - see [top cmd below](#bpytop--bashtop--htop--top-)
+  - [**btop**]({% post_url 2018-08-30-htop %}) - see [top cmd below](#bpytop--bashtop--htop--top-)
   - **chafa** - terminal viewer
   - **csvlens** - scroll over csv files
   - **eza** - improved ls - can display icon / group in grid

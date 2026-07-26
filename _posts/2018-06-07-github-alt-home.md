@@ -49,6 +49,9 @@ cf [Forgejo setup]({% post_url 2026-07-24-forgejo-setup %})
 - Schéma : forgejo
 </details>
 
+## [Releases  ⮺](https://chatgpt.com/share/6a64e4cb-e5e8-83eb-a4e7-7fa3368c8824)
+
+Can be used to host thirdpary binary assets to ease deployment with [chezmoi]({% post_url 2026-02-01-config-chezmoi %})
 
 
 # Jekyll 

@@ -2,20 +2,28 @@
 title: Picotron
 published: true
 tags: picotron pico8 retro 8bit platform codingame blog-code
+toc: true
 ---
-> The virtual workstation - [v0.2.0c](https://www.lexaloffle.com/picotron.php) / [r/picotron](https://www.reddit.com/r/picotron/)
+> The virtual workstation - [v0.3.0d2](https://www.lexaloffle.com/picotron.php) / [r/picotron](https://www.reddit.com/r/picotron/)
 
 [![screenshot](https://www.lexaloffle.com/dl/wip/picotron_desktop2.png)](https://www.lexaloffle.com/picotron.php)
 
+**see also**
 - [User Manual](https://www.lexaloffle.com/dl/docs/picotron_manual.html#Picotron_User_Manual)
+- [A Beginner’s Guide to Picotron (2024)](https://www.youtube.com/watch?v=0zosWy39ul0)
 
-
-- [Wor](https://www.reddit.com/r/picotron/comments/1ikk759/wor_games_the_picotron_shines_with_another/)
-- [Phoenix](https://www.reddit.com/r/picotron/comments/1fewmok/phoenix_a_brand_new_version_of_phoenix_for_2024/)
-
-### Tutorial
+# Tutorial
 - [Picotron GUI](https://www.reddit.com/r/picotron/comments/1ep54s7/picotron_gui_cpu_usage_and_troubleshooting/)
 - [Get Support to PICO-8/Picotron in VSCode](https://www.lexaloffle.com/bbs/?pid=159667)
 - [Picotron Playground](https://www.youtube.com/watch?v=e8LXpPwW3FI)
 
 [![caption](https://preview.redd.it/threads-of-tomot-just-got-updated-v0-phucrlzvhose1.png?width=320&crop=smart&auto=webp&s=6c6b7cacbe8cd15479aa0ff5b741c3ea9d45f9b2)](https://www.reddit.com/r/picotron/comments/1jqt55f/threads_of_tomot_just_got_updated/)
+
+## GUI
+- [ All Picotron GUI mouse / touchpad Events in 8 minutes! (part #6) ](https://www.youtube.com/watch?v=467SZVCtcdU)
+
+## Games 🕹️
+
+- [Pico Hunt](https://www.lexaloffle.com/bbs/?tid=148732)
+- [Wor](https://www.reddit.com/r/picotron/comments/1ikk759/wor_games_the_picotron_shines_with_another/)
+- [Phoenix](https://www.reddit.com/r/picotron/comments/1fewmok/phoenix_a_brand_new_version_of_phoenix_for_2024/)

@@ -1,9 +1,13 @@
 ---
 title: Tracing UUID 🩴
-tags:  uuid tracing windows android systemd fingerprint privacy
+tags:  uuid tracing windows android google systemd fingerprint privacy 
 toc: true
 ---
 > your foot steps
+
+# Your ISP
+
+- isp are now issuing id for ad tracking
 
 # Windows 
 
@@ -24,6 +28,10 @@ _Edge has a feature where it will periodically pull the bookmarks and browsing h
 # Android
 
 - [	Android Developer Verification: Threat masquerading as protection](https://news.ycombinator.com/item?id=48755965)
+
+## [GAID  ⮺](https://chatgpt.com/share/6a64f044-71d8-83ed-818d-aaad5a6aebfc)
+
+Google Advertising ID. It is a unique, resettable identifier assigned by Android devices for advertising and analytics purposes.
 
 # MacOS
 TBD
