@@ -1,21 +1,24 @@
 ---
-published: true
-title: Cockpit
-tags: system linux-system
+title: Cockpit 🚅
+tags: linux-system
 toc: true
 ---
 > a web-based graphical interface for servers - [local](http://localhost:9090) / [Home](https://cockpit-project.org/)
 
 <link rel="shortcut icon" href="https://cockpit-project.org/images/favicon.png" type="image/png">
 
-[Managing Linux servers with Cockpit](https://lwn.net//Articles/965434/) / [HN]()
+[![screenshot](https://cockpit-project.org/images/screenshot/network-overview.webp)](https://cockpit-project.org/)
+
+[Managing Linux servers with Cockpit](https://lwn.net//Articles/965434/)
 - [tronaut](https://tronaut:9090/)
 - [yves-lab](https://yves-lab:9090/)
 - [sophie-iMac](https://sophie-imac:9090/)
 
-## Operation
+# Operation
 - [Question: Updating managed servers through centralised Cockpit
 #12216](https://github.com/cockpit-project/cockpit/issues/12216) - you have to login directly on remote system
+
+# [Authentication ⮺](https://chatgpt.com/share/6a66369c-b32c-83eb-a6b1-075c6c21dac2)
 
 # [Install](https://www.smarthomebeginner.com/docker-to-podman-migration-guide/#Cockpit)
 

@@ -30,7 +30,10 @@ toc: true
     
 # Skills
 
-## [grill-me ⮺](https://www.youtube.com/watch?v=rLNLa2dcjG8)
+## [/grill-me ⮺](https://www.youtube.com/watch?v=rLNLa2dcjG8)
+
+- [ I stopped using /grill-me for coding. Here’s what I use instead ](https://www.youtube.com/watch?v=6BB6exR8Zd8)
+  - use ubiquitous langage
 
 - [github](https://github.com/mattpocock/skills/blob/main/grill-me/SKILL.md)
 {% highlight markdown %}
@@ -45,6 +48,11 @@ Ask the questions one at a time.
 
 If a question can be answered by exploring the codebase, explore the codebase instead.
 {% endhighlight %}
+
+## [/handoff ⮺](https://www.youtube.com/watch?v=dtAJ2dOd3ko&t=13s)
+
+Learn how to hand off your AI coding sessions to separate agents using the /handoff skill. In this deep dive, I explain why I built this skill, how it differs from /compact, and show real-world patterns for managing multiple concurrent AI sessions.
+- you can also use it to pass it back to the owning session.
 
 # Price 💲
 

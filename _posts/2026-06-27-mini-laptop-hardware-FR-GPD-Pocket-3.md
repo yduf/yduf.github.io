@@ -107,6 +107,9 @@ boot => press Fn+F7
 ## Module
 - [KVM Original Pocket 4](https://www.amazon.fr/GPD-Module-KVM-Original-Pocket/dp/B0DYM5SDCX)
 
+## Tear Down
+- [ShortCircuit](https://www.youtube.com/watch?v=6ar72m4PLW0&t=311s)
+
 # Linux Support
 
 <div class="encart blue" markdown="1">
@@ -128,6 +131,7 @@ see [Windows 11 / linux Dual Boot]({% post_url 2026-04-30-windows-linux-dual-boo
 - [GPD Pocket 4 Speaker DSP](https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/) [HN](https://news.ycombinator.com/item?id=43635295)
 - [Linux configs for Gpd Pocket 4](https://codeberg.org/elloskelling/linux-gpd-pocket-4)
 - [UMPC hardware configuration for Ubuntu](https://github.com/wimpysworld/umpc-ubuntu)
+- [ Linux on the GPD Pocket 3 mini-laptop (Ubuntu 21.10 and Fedora 35) ](https://www.youtube.com/watch?v=WAbSuOY1Ka8)
 
 # Windows 11
 

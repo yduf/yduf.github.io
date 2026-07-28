@@ -1,6 +1,6 @@
 ---
 title: Hermes 🔱
-tags: agentic-AI hermes
+tags: agentic-AI agent-memory hermes
 toc: true
 ---
 > [Home](https://hermes-agent.nousresearch.com/)
@@ -62,3 +62,4 @@ $ journalctl -u hermes-dashboard -f
 
 # see also
 - [ J'ai testé Hermès Agents : voici pourquoi je l'ai désinstallé ](https://www.youtube.com/watch?v=gFSQgS0te60)
+- [ The memory problem ](https://www.youtube.com/watch?v=lqiwQiDglGk)
