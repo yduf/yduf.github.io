@@ -4,6 +4,9 @@ title: Speech to Text (ASR)
 tags: text speech speech2text ffmpeg
 excerpt_separator: ""
 ---
+# Android
+- [NotelyVoice](https://www.youtube.com/watch?v=h5cUViwcXWM) / [github](https://github.com/Notely-Voice/NotelyVoice#notely-voice)
+
 # [Handy ⮺](https://handy.computer/)
 
 speak into any text field - [github](https://github.com/cjpais/Handy#handy) / [HN](https://news.ycombinator.com/item?id=46628397)

@@ -105,6 +105,20 @@ TBD / use bios for now
 
 {% endhighlight %}
 
+## [Recovery Key  ⮺](https://support.microsoft.com/fr-FR/Windows/Security/Encryption/find-your-bitlocker-recovery-key)
+
+<div class="encart red" markdown="1">
+Before doing anything, make sure you are able to get access to your Bitlocker recovery key.
+- it will be ask, anytime bitlocker fill traumatized,
+- this can happens even when windows update the firmware.
+
+It is normally backed up on your microsoft account see [https://aka.ms/myrecoverykey](https://aka.ms/myrecoverykey) / [support](https://support.microsoft.com/fr-FR/Windows/Security/Encryption/find-your-bitlocker-recovery-key)
+
+**Si vous ne trouvez pas la clé de récupération BitLocker et que vous ne parvenez pas à annuler les modifications qui en ont causé la nécessité, vous devez réinitialiser votre appareil à l’aide de l’une des options de récupération Windows.**
+
+**La réinitialisation de votre appareil entraîne la suppression de tous vos fichiers.**
+</div>
+
 ## [Restoring Secure Boot ⮺](https://wiki.ubuntu.com/UEFI/SecureBoot)
 
 TBD
