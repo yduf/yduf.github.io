@@ -1,5 +1,5 @@
 ---
-title: ChezMoi ~ 🏡
+title: ChezMoi ~/🏡
 published: true
 tags: config shell linux-system nix package
 toc: true

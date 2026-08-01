@@ -24,10 +24,19 @@ toc: true
 A small form factor laptop, yet mostly as capable as my [Huawei laptop]({% post_url 2021-07-18-laptop-huawei-matebook-14 %}). 
 
 **Alternatives**
-- [Pocket 3](https://www.amazon.fr/GPD-Quad-Core-1920x1200p-Bluetooth-GPD-POCKET-3-N6000/dp/B09Q3KWFR6) - 8Go version (discovered afterward) - 720€
+- [Pocket 3](https://www.amazon.fr/GPD-Quad-Core-1920x1200p-Bluetooth-GPD-POCKET-3-N6000/dp/B09Q3KWFR6) - N6000 Quad-Core / 8Go version (discovered afterward) - 720€
 - [Pocket 4](https://www.youtube.com/watch?v=POeAkLD3w08) has much better (over) spec  but was too pricey for the job. - start at 1200€
-- [Kooforway](https://www.amazon.fr/gp/aw/d/B0DFQBSQBL) - was cheaper even if less powerfull and could have been sufficient  - 450€
+- [Kooforway](https://www.amazon.fr/gp/aw/d/B0DFQBSQBL) - was cheaper even if less powerfull (N95) and could have been sufficient  - 450€
 - [PEAKAGO](https://www.youtube.com/watch?v=oHaQi9ajkrY) - obsolete?
+
+[CPU comparison](https://chatgpt.com/share/6a6e2ca2-ca94-83eb-ba9e-f54cfc0252fb)
+
+| CPU                         | Cores / Threads | Architecture             | Relative Overall Performance* | Relative Single-Core | Typical Power |
+| --------------------------- | --------------: | ------------------------ | ----------------------------: | -------------------: | ------------: |
+| **Intel N6000**             |           4 / 4 | Jasper Lake (Atom)       |                        **55** |               **60** |           6 W |
+| **Intel Pentium Gold 7505** |           2 / 4 | Tiger Lake (Core)        |                        **98** |              **100** |          15 W |
+| **Intel N95**               |           4 / 4 | Alder Lake-N (Gracemont) |                       **100** |               **84** |          15 W |
+
 
 **Pro**
 - screen touch is usefull in that config, as it allozs to replace mouse wheel for scrolling
