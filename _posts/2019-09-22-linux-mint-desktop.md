@@ -21,14 +21,20 @@ toc: true
 
 ![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.debugpoint.com%2Fwp-content%2Fuploads%2F2019%2F08%2FLinux-Mint-19.2-Cinnamon-Desktop.png&f=1&nofb=1&ipt=9fdd213c785d245226f9030ff499a2615feb7de3b24dd87a59836bcbd19677e1&ipo=images)
 
-# Linux Mint 21
-- display manager is lightdm
+# Linux Mint
 
-## [Launch at startup](https://chatgpt.com/share/69871a8d-822c-800d-b870-e39877746a69)
+## Display Manager
+Linux Mint 21 - display manager is lightdm
+
+## [Power Profile  ⮺ 🔋](https://forums.linuxmint.com/viewtopic.php?t=464855)
+
+- [Linux-Mint-power-mode-auto-changer](https://github.com/EugeneJk/Linux-Mint-power-mode-auto-changer)
+
+## [Launch at startup  ⮺](https://chatgpt.com/share/69871a8d-822c-800d-b870-e39877746a69)
 
 look for "Startup Application" Configuration
 
-## [Add Application to Cinnamon Menu and Panel](https://www.scottcking.com/2020/07/13/linux-mint-20-cinnamon-manually-add-application-to-cinnamon-menu-panel/)
+## [Add Application to Cinnamon Menu and Panel  ⮺](https://www.scottcking.com/2020/07/13/linux-mint-20-cinnamon-manually-add-application-to-cinnamon-menu-panel/)
 
 Add an entry in `/usr/share/applications` with the name of the [`<desired_name>.desktop`](https://wiki.archlinux.org/title/Desktop_entries) and
 with content (see also [Recognized desktop entry keys](https://specifications.freedesktop.org/desktop-entry-spec/latest/ar01s06.html)):

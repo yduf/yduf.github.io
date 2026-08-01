@@ -17,7 +17,7 @@ Flakes are now the standard way to use Nix.
 | Determinism | Full system-level determinism  | Python dependency determinism         |
 | Solver      | Nix evaluator + fetchers       | Custom Rust resolver (pip-compatible) |
 
-# [Using Flakes (Recommended)](https://chatgpt.com/share/6974dc8b-4770-800d-b838-05e4323d7085)
+# [Using Flakes ⮺](https://chatgpt.com/share/6974dc8b-4770-800d-b838-05e4323d7085)
 
 <div class="encart orange" markdown="1">
 Flakes need to be enabled

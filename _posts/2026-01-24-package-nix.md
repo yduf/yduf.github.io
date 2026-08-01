@@ -11,8 +11,11 @@ toc: true
 **see also**
 - [mise](https://mise.jdx.dev/) / [HN](https://news.ycombinator.com/item?id=48038864) - some people recommend _mise_ as simpler alternative to nix for devenv configuration.
 
+# Install 📥
+
 <div class="encart blue" markdown="1">
-# [Pick your pills _--daemon/--no-daemon_  ⮺](https://chatgpt.com/share/6974a2a5-5b6c-800d-8fe3-f1fb83ed44a8)
+
+[**Pick your pills _--daemon/--no-daemon_ **](https://chatgpt.com/share/6974a2a5-5b6c-800d-8fe3-f1fb83ed44a8)
 
 Whatever the choice
 - The installer require to create [`/nix` at root](https://chatgpt.com/share/6974a5e4-f018-800d-90e0-624f401b835a) by a **privileged user**
@@ -22,6 +25,8 @@ The difference is that multi-user mode, there is a daemon running that take
 care of managing the `/nix` folder, whereas there is no daemon in single user.
 
 In both case, there is no requirement for calling `nix` with sudo afterward. 
+
+[**There isn't an in-place switch to single-user mode**](https://chatgpt.com/share/6a6def02-c96c-83eb-9a8f-c8d2a12f89d4). The supported approach is to [uninstall the daemon](https://nix.dev/manual/nix/2.35/installation/uninstall.html) installation and reinstall Nix in single-user mode.
 </div>
 
 At this point, there is not much difference between [_Hombrew_]({% post_url 2026-01-24-package-homebrew %}) requirement and _Nix_, except that:
@@ -86,13 +91,13 @@ The [recommended way](https://chatgpt.com/share/69935fac-4e0c-800d-aa68-27de3abe
 Taking zig as an example
 
 The modern, recommended way:  
-✔ Enable [Flakes](#using-flakes-recommended)  
-✔ Use [nix profile](#using-profile) for packages  
+✔ Enable [Flakes](#using-flakes--%EF%B8%8F)  
+✔ Use [nix profile](#using-profile-) for packages  
 ✔ Use `nix develop` for projects ([Flakes](#using-flakes-recommended))  
-✔ Use [Home Manager](#using-home-manager-optional) (optionally with NixOS)  
+✔ Use [Home Manager](#using-home-manager--) (optionally with NixOS)  
 \- Avoid channels and [nix-env](#using-nix-env)  
 
-## Using profile
+## Using profile 👤
 
 <div class="encart green" markdown="1">
 This is similar to other package manager and can be thought as a replacement for brew/apt/etc... but for **user only**
@@ -127,7 +132,7 @@ $ nix profile upgrade '.*'
 $ nix search nixpkgs firefox
 {% endhighlight %}
 
-## Using nix-shell
+## Using nix-shell 🐚
 
 This can be used as alternative to nix [Flakes](#using-flakes-recommended), even when flakes are the recommended options:
 - In a similary way to flakes, complex setup can be put into [`shell.nix`](https://github.com/yduf/CUDA-Marker/blob/master/shell.nix) files and
@@ -149,7 +154,7 @@ $ nix run nixpkgs#zig
 {% endhighlight %}
 
 
-## [Using home-manager  ⮺](https://nix-community.github.io/home-manager/preface.html)
+## [Using home-manager ⮺ 🏠](https://nix-community.github.io/home-manager/preface.html)
 
 <div class="encart green" markdown="1">
 Nix Home Manager is a tool in the Nix ecosystem that lets you manage your user-specific environment declaratively using Nix—similar to how NixOS manages system configuration, but applied to a user’s home directory and personal setup. - [ChatGPT](https://chatgpt.com/share/6975e6a4-7990-800d-bdbd-6764ff1ae249)
@@ -160,22 +165,43 @@ Rather than managing package one by one like with `nix profile` it enable to spe
 
 It will recreate the desired scope from
 
-{% highlight bash %}
+```bash
 $ home-manager switch
-{% endhighlight %}
+```
 
 ### [Setup ⮺]({% post_url 2026-01-27-linux-system-guideline %})
 
-- use [chez moi]({% post_url 2026-02-01-config-chezmoi %}) for archiving shqring and dotfile
+- use [chez moi]({% post_url 2026-02-01-config-chezmoi %}) for archiving sharing and dotfile
 - use home manager for user package deployment and setup
 
 **Notes** home manager and nix profile can be used together and it shouldn't be a problem as lons as they [don't overlapp](https://chatgpt.com/share/6a6220e8-8e44-83eb-8270-ec25ddf5c11a)
+
+
+### [ Install ⮺ 📥](https://chatgpt.com/share/6a6deaaa-7dac-83eb-962a-b84c80afe9ca)
+
+On Linux Mint, you use Home Manager in standalone mode (not as a NixOS module).
+- [Install Nix](#install-)
+- [Enable flakes]({% post_url 2021-02-05-build-system-nix %}#using-flakes-)
+- Initialize Home Manager
+
+```bash
+$ nix run home-manager/release-26.05 -- init --switch
+# This create (versioned by chezmoi)
+~/.config/home-manager/
+├── flake.nix
+└── home.nix
+```
+
+- Edit your configuration, [see below]()
+- Apply changes: `$ home-manager switch`
+
 
 ### User packages
 
 ex of user packages setup
 
-{% highlight bash %}
+```bash
+$ micro ~/.config/home-manager/home.nix
 {
   home.packages = with pkgs; [
     git
@@ -188,13 +214,13 @@ ex of user packages setup
 
   home.stateVersion = "25.05";
 }
-{% endhighlight %}
+```
 
-### Install
+### Misc Config
+- [programs.home-manager.enable = true](https://chatgpt.com/share/6a6df389-e320-83eb-a35a-dc621d151671) - self install / update
 
 
-
-## [Using Flakes (Recommended)  ⮺](https://chatgpt.com/share/6974dc8b-4770-800d-b838-05e4323d7085) 
+## [Using Flakes ⮺ ❄️](https://chatgpt.com/share/6974dc8b-4770-800d-b838-05e4323d7085) 
 
 Flakes are now the standard way to use Nix.
 
@@ -207,18 +233,20 @@ see [Nix Flakes]({% post_url 2021-02-05-build-system-nix %})
 This installs Zig in your user profile  
 This will stick with your user account.
 
-{% highlight bash %}
+```bash
 $ nix-env -iA nixpkgs.zig
-{% endhighlight %}
+```
 
-## [Nix and sudo? ⮺](https://chatgpt.com/share/697f8013-6144-800d-8562-e2804fcc47d5)
+# [Nix and sudo? ⮺ 🛃](https://chatgpt.com/share/697f8013-6144-800d-8562-e2804fcc47d5)
 
+<div class="encart red" markdown="1">
 Nix packages don’t mix with sudo the way system package managers do, and that’s usually by design.
+</div>
 
 Nix installs packages into user profiles (~/.nix-profile).
 sudo resets PATH for security, so it doesn’t see user-installed Nix binaries.
 
-# [direnv  ⮺](https://chatgpt.com/share/69d376f2-a164-8385-a38e-7ce10cb40b6a)
+# [direnv ⮺ 📂](https://chatgpt.com/share/69d376f2-a164-8385-a38e-7ce10cb40b6a)
 
 **direnv in Nix** is a workflow tool that automatically loads and unloads development environments when you enter or leave a directory—commonly used together with Nix to manage reproducible dev setups.
 

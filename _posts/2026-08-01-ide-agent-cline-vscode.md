@@ -44,13 +44,30 @@ Unlike Claude Code, which supports explicit commands such as `/skill-name`, Clin
 
 </div>
 
-## [CLI ⮺](https://docs.cline.bot/getting-started/installing-cline#cli)
+# [CLI ⮺](https://docs.cline.bot/getting-started/installing-cline#cli)
+
+<div class="encart blue" markdown="1">
+[`herdr`]({% post_url 2026-07-29-ssh-term-herdr %}) might help here
+</div>
+
+`cline`
+- [config](https://docs.cline.bot/cline-cli/cli-reference#cline-config) - Opens an interactive configuration view
+
+## Install 📥
 
 prerequesite: needs Node 20+, see [isntallation]({% post_url 2020-11-29-node-js %})
 [Getting Started](https://docs.cline.bot/cline-cli/getting-started)
 
-`cline`
-- [config](https://docs.cline.bot/cline-cli/cli-reference#cline-config) - Opens an interactive configuration view
+<div class="encart orange" markdown="1">
+If using `$ $ npm install --prefix ~/.local cline` (eg in nix)
+
+npm failed to setup symlink properly and you have to [fix it manually](https://chatgpt.com/share/6a6e1e53-488c-83eb-8c51-ce1162564aec)
+
+```bash
+$ ln -sf ~/.local/node_modules/cline/bin/cline ~/.local/bin/cline
+```
+
+</div>
 
 {% highlight bash %}
 $ npm install -g cline
