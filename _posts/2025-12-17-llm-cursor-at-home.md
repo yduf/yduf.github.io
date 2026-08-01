@@ -28,31 +28,11 @@ toc: true
     - on ne sait pas remplacer talent humain par de l'IA
     - on sait faire que les mauvais deviennent moyen.
     
-# Skills
+# [Skills ⮺]({% post_url 2026-06-05-usefull-prompt %})
 
-## [/grill-me ⮺](https://www.youtube.com/watch?v=rLNLa2dcjG8)
+**Notes**: depending on agent used, skill may be trigger differently.
 
-- [ I stopped using /grill-me for coding. Here’s what I use instead ](https://www.youtube.com/watch?v=6BB6exR8Zd8)
-  - use ubiquitous langage
-
-- [github](https://github.com/mattpocock/skills/blob/main/grill-me/SKILL.md)
-{% highlight markdown %}
----
-name: grill-me
-description: Interview the user relentlessly about a plan or design until reaching shared understanding, resolving each branch of the decision tree. Use when user wants to stress-test a plan, get grilled on their design, or mentions "grill me".
----
-
-Interview me relentlessly about every aspect of this plan until we reach a shared understanding. Walk down each branch of the design tree, resolving dependencies between decisions one-by-one. For each question, provide your recommended answer.
-
-Ask the questions one at a time.
-
-If a question can be answered by exploring the codebase, explore the codebase instead.
-{% endhighlight %}
-
-## [/handoff ⮺](https://www.youtube.com/watch?v=dtAJ2dOd3ko&t=13s)
-
-Learn how to hand off your AI coding sessions to separate agents using the /handoff skill. In this deep dive, I explain why I built this skill, how it differs from /compact, and show real-world patterns for managing multiple concurrent AI sessions.
-- you can also use it to pass it back to the owning session.
+eg: Unlike Claude Code, which supports explicit commands such as `/skill-name`, [Cline's]({% post_url 2026-08-01-ide-agent-cline-vscode %}) public documentation describes automatic triggering rather than a user-facing command to invoke a skill by name.
 
 # Price 💲
 
@@ -65,15 +45,13 @@ Learn how to hand off your AI coding sessions to separate agents using the /hand
 | deepseek-V4-Pro |     9 | $0.11 |
 | Qwen 3.6 Plus   |     6 | $0.07 |
 
-
-
 # VSCode
 
 - [VSCode + Cline + Continue](https://www.youtube.com/watch?v=7AImkA96mE8) NEVER PAY for CURSOR again. Use this OPEN SOURCE & LOCAL Alternative
 
 [Cline vs Continue](https://chatgpt.com/share/6985a625-e1d0-800d-b494-2773a91cf209)
 
-| Aspect                      | [**Cline**](#cline--github--)                 | [**Continue**](#continuedev)           |
+| Aspect                      | [**Cline**](#cline--)     | [**Continue**](#continuedev) |
 | --------------------------- | ------------------------- | ---------------------- |
 | Core idea                   | Autonomous AI agent       | AI coding copilot      |
 | Autonomy                    | Very high                 | Low–medium             |
@@ -91,44 +69,9 @@ Using:
 - vscode + [continue.dev](https://marketplace.visualstudio.com/items?itemName=Continue.continue) vscode extension
 - [Qwen2.5-Coder-7B-Instruct](https://model.lmstudio.ai/download/lmstudio-community/Qwen2.5-Coder-7B-Instruct-GGUF)
 
-# [Cline ⮺](https://docs.cline.bot/introduction/welcome) / [github](https://github.com/cline/cline?tab=readme-ov-file#cline) / [👤](https://app.cline.bot/dashboard/account?tab=credits)
+# [Cline ⮺ 🤖]({% post_url 2026-08-01-ide-agent-cline-vscode %})
 
-Cline is an open source AI coding agent that brings frontier AI models directly to your IDE. Unlike autocomplete tools, Cline is a true coding agent that can understand entire codebases, plan complex changes, and execute multi-step tasks.
-
-- [Getting Started with Cline—The Best VS Code AI Plugin](https://www.youtube.com/watch?v=f33Fw6NiPpw)
-
-see [Cline vs Cursor](https://chatgpt.com/share/69446ae1-4990-800d-b80a-bd62c220adb1)
-
-Long session are coslty because of the increased input token.
-
-| Rank | [Model Leaderboard ⮺](https://vercel.com/ai-gateway/leaderboards) |  | Plan | Act | Price | Comment |
-| --- | --- | --- | --- | --- | --- | --- |
-| ★★★★☆ | deepseek/deepseek-v4-pro | 2026-05-17 |  | ✅ | Context: 1.0MInput: $0.43/MOutput: $0.87/M | cheap |
-| ? | deepseek/deepseek-flash |  |  | ✅ |  | cheapest (free) |
-|  | z-ai/glm-4.6 | 2026-04-03 | ✅ |  |  |  |
-|  | moonshotai/kimi-k2.6 | 2026-05-17 |  | ✅ | Context: 262K Input: $0.73/M Output: $3.49/M |  |
-|  | x-ai/grok-code-fast-1 | 2026-04-03 |  | ✅ |  |  |
-| [☆☆☆☆☆](https://www.youtube.com/watch?v=BGZjs1dQfsk) |Gemma4 12B Coder | 2026-04-03 |  | ✅ |  | 16GB Local LLM setup |
-
-## Setup
-- Native tools: 
-- Background edit: enabled
-
-### Terminal
-- background execution mode (avoid messing & be stuck within VSCode)
-
-## [CLI ⮺](https://docs.cline.bot/getting-started/installing-cline#cli)
-
-prerequesite: needs Node 20+, see [isntallation]({% post_url 2020-11-29-node-js %})
-[Getting Started](https://docs.cline.bot/cline-cli/getting-started)
-
-`cline`
-- [config](https://docs.cline.bot/cline-cli/cli-reference#cline-config) - Opens an interactive configuration view
-
-{% highlight bash %}
-$ npm install -g cline
-$ cline auth
-{% endhighlight %}
+[Cline]({% post_url 2026-08-01-ide-agent-cline-vscode %}) is an open source AI coding agent that brings frontier AI models directly to your IDE. Unlike autocomplete tools, Cline is a true coding agent that can understand entire codebases, plan complex changes, and execute multi-step tasks.
 
 # [pi.dev  ⮺](https://pi.dev/)
 

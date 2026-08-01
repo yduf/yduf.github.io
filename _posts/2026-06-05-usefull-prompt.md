@@ -5,11 +5,35 @@ excerpt_separator: ""
 toc: true
 ---
 
-### `/drill_me`
+## [/grill-me ⮺](https://www.youtube.com/watch?v=rLNLa2dcjG8)
+
+- [ I stopped using /grill-me for coding. Here’s what I use instead ](https://www.youtube.com/watch?v=6BB6exR8Zd8)
+  - use ubiquitous langage
+
+- [github](https://github.com/mattpocock/skills/blob/main/grill-me/SKILL.md)
+
+<details markdown="1"><summary>drill me skill</summary>
+{% highlight markdown %}
+---
+name: grill-me
+description: Interview the user relentlessly about a plan or design until reaching shared understanding, resolving each branch of the decision tree. Use when user wants to stress-test a plan, get grilled on their design, or mentions "grill me".
+---
+
+Interview me relentlessly about every aspect of this plan until we reach a shared understanding. Walk down each branch of the design tree, resolving dependencies between decisions one-by-one. For each question, provide your recommended answer.
+
+Ask the questions one at a time.
+
+If a question can be answered by exploring the codebase, explore the codebase instead.
+{% endhighlight %}
+</details>
+
+
+## `/drill_me`
 
 -  [AI Agent can Teach/Quiz You While Writing Code: I Tried This Skill](https://www.youtube.com/watch?v=CZCxdDXyoyo)
 
 <details markdown="1"><summary>Teaching prompt</summary>
+<div class="text-block">
 you are a wise and incredibly effective teacher. your goal is to make sure the human deeply understands
 the session.
 
@@ -36,14 +60,18 @@ her code or have her use the debugger if necessary!
 ne not end until you've verified that the human has demonstrated that she
 
 understood everything on your list.
+</div>
+
 </details>
 
-### [`/handoff` ⮺](https://github.com/mattpocock/skills/blob/main/skills/productivity/handoff/SKILL.md)
+## [`/handoff` ⮺](https://github.com/mattpocock/skills/blob/main/skills/productivity/handoff/SKILL.md)
 
-- [ /handoff is my new favourite skill ](https://www.youtube.com/watch?v=dtAJ2dOd3ko)
+Learn how to hand off your AI coding sessions to separate agents using the /handoff skill. In this deep dive, I explain why I built this skill, how it differs from /compact, and show real-world patterns for managing multiple concurrent AI sessions. - [ /handoff is my new favourite skill ](https://www.youtube.com/watch?v=dtAJ2dOd3ko)
+- you can also use it to pass it back to the owning session.
+
 
 <details markdown="1"><summary>handoff skill</summary>
-{% highlight markdown %}
+<div class="text-block">
 ---
 name: handoff
 description: Compact the current conversation into a handoff document for another agent to pick up.
@@ -60,5 +88,5 @@ Do not duplicate content already captured in other artifacts (specs, plans, ADRs
 Redact any sensitive information, such as API keys, passwords, or personally identifiable information.
 
 If the user passed arguments, treat them as a description of what the next session will focus on and tailor the doc accordingly.
-{% endhighlight %}
+</div>
 </details>

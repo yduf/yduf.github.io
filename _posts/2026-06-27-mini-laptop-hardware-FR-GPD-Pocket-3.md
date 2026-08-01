@@ -7,16 +7,27 @@ toc: true
 
 <link rel="shortcut icon" href="https://fontsaddict.com/images/icons/png/28544.png" type="image/x-icon" />
 
-[![photo](https://m.media-amazon.com/images/I/418iV6xJf6L._AC_SX300_SY300_QL70_ML2_.jpg)](https://www.amazon.fr/dp/B0DDRJJL1R)
+[**amazon**](https://www.amazon.fr/dp/B0DDRJJL1R) - 2026 / 850€
+
+<div markdown="1" style="display:flex; align-items:center; gap:1rem; margin:1rem 0">
+  <div  markdown="1">[![photo](https://m.media-amazon.com/images/I/418iV6xJf6L._AC_SX300_SY300_QL70_ML2_.jpg)](https://www.amazon.fr/dp/B0DDRJJL1R)
+</div>
+- Pentium Gold 7505, 2 cores / 4 threads 
+- 16Go Ram / 512Go storage
+- Graphique UHD 
+- Wi-Fi 6E Tri Band (802.11ax) / 2.5G Eth
+- 725 g
+</div>
 
 # [Pocket 3 ⮺](https://chatgpt.com/share/6a4219ff-0cb0-83eb-a553-29faa0c3f643)
 
-A small form factor laptop, yet mostly as capable as my [Huawei laptop]({% post_url 2021-07-18-laptop-huawei-matebook-14 %}). - [amazon](https://www.amazon.fr/dp/B0DDRJJL1R) - 2026 - 850€
+A small form factor laptop, yet mostly as capable as my [Huawei laptop]({% post_url 2021-07-18-laptop-huawei-matebook-14 %}). 
 
 **Alternatives**
+- [Pocket 3](https://www.amazon.fr/GPD-Quad-Core-1920x1200p-Bluetooth-GPD-POCKET-3-N6000/dp/B09Q3KWFR6) - 8Go version (discovered afterward) - 720€
 - [Pocket 4](https://www.youtube.com/watch?v=POeAkLD3w08) has much better (over) spec  but was too pricey for the job. - start at 1200€
 - [Kooforway](https://www.amazon.fr/gp/aw/d/B0DFQBSQBL) - was cheaper even if less powerfull and could have been sufficient  - 450€
-- [PEAKAGO](https://www.youtube.com/watch?v=oHaQi9ajkrY)
+- [PEAKAGO](https://www.youtube.com/watch?v=oHaQi9ajkrY) - obsolete?
 
 **Pro**
 - screen touch is usefull in that config, as it allozs to replace mouse wheel for scrolling
@@ -67,8 +78,8 @@ capslock = leftcontrol
 ## BIOS
 
 <div class="encart blue" markdown="1">
-BIOS => press F12 on start  
-boot => press Fn+F7
+BIOS => press `F12` on start  
+boot => press `Fn+F7`
 </div>
 
 ## Spec

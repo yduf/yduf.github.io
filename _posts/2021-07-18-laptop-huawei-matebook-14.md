@@ -8,22 +8,25 @@ toc: true
 > The best laptop I ever owned, in term of quality/screen/power/battery life.
 <!--more-->
 
-## [amazon](https://www.amazon.fr/gp/product/B08P9186JF) - 2021 - 800€ 
+[**amazon**](https://www.amazon.fr/gp/product/B08P9186JF) - 2021 / 800€ 
 
+<div markdown="1" style="display:flex; align-items:center; gap:1rem; margin:1rem 0">
+  <div  markdown="1">[![lookslike](https://m.media-amazon.com/images/I/51vWyVXaCNS._AC_SY300_SX300_QL70_ML2_.jpg)](https://www.amazon.fr/gp/product/B08P9186JF)
+</div>
 - i7-10510U, 4 cores / 8 threads
 - 16Go Ram / 512Go storage
 - NVIDIA MX350 / **3:2 display**
 - 1.5kg
+</div>
 
-[![lookslike](https://m.media-amazon.com/images/I/51vWyVXaCNS._AC_SY300_SX300_QL70_ML2_.jpg)](https://www.amazon.fr/gp/product/B08P9186JF)
-
-### Disabling Touchscreen
+## Disabling Touchscreen
 - [xinput way](https://unix.stackexchange.com/questions/127443/how-do-i-disable-the-touch-screen-on-my-laptop/129603#129603) - `xinput disable <id=13>`
 - [driver way](https://www.blackmoreops.com/2016/10/26/disable-touchscreen-linux/)
 
-# [BIOS](https://consumer.huawei.com/en/support/laptops/matebook-14-2020/) - 1.19 Rev 5.0
+# [BIOS ⮺](https://consumer.huawei.com/en/support/laptops/matebook-14-2020/) 
+- 1.19 Rev 5.0
 
-# [Linux support](https://wiki.archlinux.org/title/Huawei_MateBook_14_AMD_(2020))
+# [Linux support ⮺](https://wiki.archlinux.org/title/Huawei_MateBook_14_AMD_(2020))
 - [Nvidia GeForce MX350 driver N/A although installed](https://forums.linuxmint.com/viewtopic.php?t=353047&p=2039798)
 - [power button issue](https://bbs.archlinux.org/viewtopic.php?id=225752)
 - [ivzave/matebook-linux](https://github.com/ivzave/matebook-linux) - patching [acpi table]({% post_url 2021-07-25-acpi %})
@@ -37,7 +40,7 @@ toc: true
         - and is currenly incompatible with [`Fingerprint`]({% post_url 2024-12-31-fingerprint-libfprint %})
         - [**Fingerprint reader fork**](https://wiki.archlinux.org/title/Huawei_MateBook_14_AMD_(2020)) - The Goodix fingerprint reader is currently unsupported officially. There is a fork however, which aims to provide support for the device (along with other similar goodix ones). The driver is currently in testing but there is an aur package for it libfprint-goodixtls-gitAUR which works with fprintd 
 
-### [GPU intel/nvidia](https://chatgpt.com/share/6867d795-63c8-800d-aad8-96d250000571)
+### [GPU intel/nvidia ⮺](https://chatgpt.com/share/6867d795-63c8-800d-aad8-96d250000571)
 
 This is a dual GPU laptop.
 - Intel UHD Graphics driver: i915
@@ -46,21 +49,24 @@ This is a dual GPU laptop.
 Which may cause some issue on its own.
 You can force switch from one to the other
 
-{% highlight bash %}
+
+```bash
 # by having the nvidia driver installed and nvidia-prime cli
 $ sudo apt install nvidia-prime
 
 # invoking either  intel or nvidia profile
 $ sudo prime-select nvidia
 $ sudo reboot               # and restart :-( ...
-{% endhighlight %}
+```
 
-## Startup options
-- F2 - BIOS access
-- F10 - windows restore
-- [F12](https://consumer.huawei.com/en/support/content/en-us00693076/) - boot select
+## Boot options
+<div class="encart blue" markdown="1">
+**F2** - BIOS access  
+**F10** - windows restore  
+[**F12**](https://consumer.huawei.com/en/support/content/en-us00693076/) - boot select
+</div>
 
-## [Factory partition](https://www.reddit.com/r/MatebookXPro/comments/9xnhe1/partitioning_on_a_new_device/)
+## [Factory partition ⮺](https://www.reddit.com/r/MatebookXPro/comments/9xnhe1/partitioning_on_a_new_device/)
 - System (120Go) - Windows 10 (C:)
 - Data   (341Go) - D:
 - WINPE  (.5GB) - WinPE is a preinstallation environment that lets you install Windows from a wim file... probably from the 14gb key partition.
@@ -69,7 +75,7 @@ $ sudo reboot               # and restart :-( ...
 
 That said, technically you dont need any of them. You can just create a Windows 10 usb installer and download your drivers separately and store them on the usb drive in a folder, then format your ssd and reinstall Windows. That will free up your 14gb partition - since that probably houses the stock image of the hard drive that can be restored through WinPE. With your windows installer on a usb stick instead, you’ll get the standard Windows install: an efi partition, a recovery partion, and the rest of your space to your C drive. Though you’ll have to find your serial or a way to transfer the activation license with you.
 
-# [Installing Linux](https://www.tecmint.com/install-linux-mint-alongside-windows-dual-boot-uefi-mode/)
+# [Installing Linux ⮺](https://www.tecmint.com/install-linux-mint-alongside-windows-dual-boot-uefi-mode/)
 
 ## Shrink/Delete Partition
 Using disk management tool
@@ -84,6 +90,13 @@ Internet connection is recommanded for install (for thirdparty software).
 Partition / (100Go), /home (300Go)
 
 # Hardware info
+
+KLVC-WXX9 identifies a Huawei MateBook platform.
+
+```bash
+$ sudo dmidecode -s system-product-name 
+KLVC-WXX9
+```
 
 ## GPU
 
@@ -106,47 +119,7 @@ $ lspci -k | grep -EA3 'VGA|3D|Display'
 {% endhighlight %}
 
 
-
-
-
-## [Disassembly and upgrade optionsis](https://laptopmedia.com/highlights/inside-huawei-matebook-d-14-2020-disassembly-and-upgrade-options/)
-
-As a typical ultrabook, the memory is soldered to the motherboard, and it comes in two variants – 8GB and 16GB. Thankfully, there is an M.2 NVMe slot for storage upgrades.
-
-- [Huawei MateBook 14s - disassembly and upgrade options](https://www.youtube.com/watch?v=zwfZ-mRTWpk&t=71s) / [Huawei MateBook D 14 (2020) ](https://www.youtube.com/watch?v=BsiJxz3gKio)
-	- memory soldered directly on the mother board
-	- SSD can be removed.
-    
-[![opened](https://laptopmedia.com/wp-content/uploads/2020/09/internals-8-1536x1047.jpg)](https://laptopmedia.com/highlights/inside-huawei-matebook-d-14-2020-disassembly-and-upgrade-options/)
-
-### SSD
-
-[MateBook 13/1413/14 (2019–2021)](https://www.aomeitech.com/clone-tips/huawei-matebook-ssd-upgrade-0044.html)
-- M.2 2280 NVMe/SATA
-	- Check BIOS for Gen3/Gen4 support
-
-{% highlight bash %}
-$ sudo lspci -vv -s $(lspci | grep -i nvme | awk '{print $1}') | grep -E 'LnkCap|LnkSta'
-		LnkCap:	Port #0, Speed 8GT/s, Width x4, ASPM L1, Exit Latency L1 <8us
-		LnkSta:	Speed 8GT/s, Width x4
-		LnkCap2: Supported Link Speeds: 2.5-8GT/s, Crosslink- Retimer- 2Retimers- DRS-
-		LnkSta2: Current De-emphasis Level: -6dB, EqualizationComplete+ EqualizationPhase1+
-{% endhighlight %}
-
-**What this means**
-- 8 GT/s = PCIe 3.0
-- x4 lane width
-
-The SSD and the motherboard/slot have both negotiated **PCIe 3.0 x4**, which is the maximum supported by the slot.
-
-You can safely use 2TB, 4TB, or even 8TB NVMe drives on your system.
-
-Your only limitation is speed:
-PCIe 3.0 x4 tops out at ~3.5 GB/s real-world.
-
-Faster PCIe 4.0 and 5.0 NVMe drives will still work but will be bottlenecked to PCIe 3.0 speeds.
-
-### Wifi
+## Wifi
 
 - [wifi card is a Intel Wireless-AC 9560](https://www.notebookcheck.net/Huawei-MateBook-14-2020-laptop-review-3-2-clamshell-convinces-both-with-Intel-and-AMD-CPUs.508467.0.htmlwifi)
 	- [wifi issue]({% post_url 2022-01-08-wifi-9560 %})
@@ -185,3 +158,51 @@ Partition: ID-1: / size: 91.17 GiB used: 27.78 GiB (30.5%) fs: ext4 dev: /dev/nv
 Sensors:   System Temperatures: cpu: 35.0 C mobo: N/A gpu: nouveau temp: 34 C 
            Fan Speeds (RPM): N/A 
 {% endhighlight %}
+
+<div class="encart orange" markdown="1">
+
+## [Fan ⮺](https://chatgpt.com/share/6a6dc6e6-4f4c-83ed-a2b8-4c0e7f5c28a0)
+
+The fan curve is stored in the laptop's firmware (BIOS/EC), not in Linux.
+
+- `thermald` installed
+- powersetup (through UI) -> has the most impact on CPU temp
+
+</div>
+
+## [Disassembly ⮺](https://laptopmedia.com/highlights/inside-huawei-matebook-d-14-2020-disassembly-and-upgrade-options/)
+
+As a typical ultrabook, the memory is soldered to the motherboard, and it comes in two variants – 8GB and 16GB. Thankfully, there is an M.2 NVMe slot for storage upgrades.
+
+- [Huawei MateBook 14s - disassembly and upgrade options](https://www.youtube.com/watch?v=zwfZ-mRTWpk&t=71s) / [Huawei MateBook D 14 (2020) ](https://www.youtube.com/watch?v=BsiJxz3gKio)
+	- memory soldered directly on the mother board
+	- SSD can be removed.
+    
+[![opened](https://laptopmedia.com/wp-content/uploads/2020/09/internals-8-1536x1047.jpg)](https://laptopmedia.com/highlights/inside-huawei-matebook-d-14-2020-disassembly-and-upgrade-options/)
+
+### SSD
+
+[MateBook 13/1413/14 (2019–2021)](https://www.aomeitech.com/clone-tips/huawei-matebook-ssd-upgrade-0044.html)
+- M.2 2280 NVMe/SATA
+	- Check BIOS for Gen3/Gen4 support
+
+{% highlight bash %}
+$ sudo lspci -vv -s $(lspci | grep -i nvme | awk '{print $1}') | grep -E 'LnkCap|LnkSta'
+		LnkCap:	Port #0, Speed 8GT/s, Width x4, ASPM L1, Exit Latency L1 <8us
+		LnkSta:	Speed 8GT/s, Width x4
+		LnkCap2: Supported Link Speeds: 2.5-8GT/s, Crosslink- Retimer- 2Retimers- DRS-
+		LnkSta2: Current De-emphasis Level: -6dB, EqualizationComplete+ EqualizationPhase1+
+{% endhighlight %}
+
+**What this means**
+- 8 GT/s = PCIe 3.0
+- x4 lane width
+
+The SSD and the motherboard/slot have both negotiated **PCIe 3.0 x4**, which is the maximum supported by the slot.
+
+You can safely use 2TB, 4TB, or even 8TB NVMe drives on your system.
+
+Your only limitation is speed:
+PCIe 3.0 x4 tops out at ~3.5 GB/s real-world.
+
+Faster PCIe 4.0 and 5.0 NVMe drives will still work but will be bottlenecked to PCIe 3.0 speeds.
