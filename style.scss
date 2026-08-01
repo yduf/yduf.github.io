@@ -390,3 +390,13 @@ tr:hover {
     background: #eef7ff;
   }
 }
+
+.text-block {
+  background: #f6f8fa;
+  border: 1px solid #d0d7de;
+  border-radius: 6px;
+  padding: 1em;
+  font-family: monospace;
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+}
