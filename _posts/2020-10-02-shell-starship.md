@@ -46,9 +46,14 @@ $ mkdir -p ~/.config && touch ~/.config/starship.toml
 
 ## [Enable ⮺](https://starship.rs/)
 
+<div class="encart blue" markdown="1">
+Starship only make sense for interactive shell,
+so don't invoke it in `.profile` where it may not already be accessible (for eg if loaded via nix)
+</div>
+
 by shell
 {% highlight bash %}
-# bash
+# .bashrc
 $ eval "$(starship init bash)"
 
 # fish

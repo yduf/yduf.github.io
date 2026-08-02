@@ -34,9 +34,9 @@ At this point, there is not much difference between [_Hombrew_]({% post_url 2026
 - Nix + daemon fills like a lot less messy approach
 - Nix philosphy/power is now reachable: you can start using [profile](#using-profile) like _Homebrew_ packages and climb to [Flakes](#using-flakes-recommended) latter on.
 
-{% highlight bash %}
+```bash
 $ sh <(curl -L https://nixos.org/nix/install) --no-daemon
-{% endhighlight %}
+```
 
 ## Root Access
 

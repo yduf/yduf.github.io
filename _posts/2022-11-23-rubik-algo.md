@@ -281,10 +281,31 @@ En direct ou apres la croix jaune
      front:['X','X','Y']}, 12)
 </script>
 
+## [Les PLL ⮺](https://www.youtube.com/watch?v=w7WCC615cEs) - #21
+
+[M2 U' M2 U2 M2 U' M2](https://youtu.be/w7WCC615cEs?t=116) - PLL H
+
+R2 U' S' U2 S U' R2 - [fastests U perm](https://www.youtube.com/watch?v=1u8BptRSXaw&list=PLh9akXp2EH2D1MBpl8gb0w2WM0eiailpB&index=4)  
+
+[R U R' F' R U R' U' R' F R2 U' R' U' ](https://youtu.be/w7WCC615cEs?t=547) - PLL J & J'  
+R' U L' U2 R U' R' U2 L R U'
+
+<!-- PLL T initial state -->
+<div markdown="1" style="display:flex; align-items:center; gap:1rem; margin:1rem 0">
+  <div id="pll-T"></div>
+  <code><a href="https://www.youtube.com/watch?v=F65J2NNnL8M&t=117s">(R U R' U')(R' F)(R2 U' R') U' (R U R' F')</a></code> - ppl T
+</div>
+<script>drawOLL('pll-T',{
+      back:['O','O','G'],
+  top:[['B','Y','Y','Y','R'],
+       ['G','Y','Y','Y','G'],
+       ['B','Y','Y','Y','O']],
+     front:['R','R','G']}, 12)
+</script>
 
 ## OLL
 
-La face jaune sans passer par la croix
+La face jaune sans passer par la croix. A connaitre après les PLL.
 
 <!-- OLL 2 initial state -->
 <div markdown="1" style="display:flex; align-items:center; gap:1rem; margin:1rem 0">
@@ -312,14 +333,6 @@ R U2 R2 U' R2 U' R2 U2 R
 [l' U' R D' R' U R D](https://youtu.be/mqvxojuUFy4?t=265)
 
 
-## [Les PLL ⮺](https://www.youtube.com/watch?v=w7WCC615cEs) - #21
-
-[M2 U' M2 U2 M2 U' M2](https://youtu.be/w7WCC615cEs?t=116) - PLL H
-
-R2 U' S' U2 S U' R2 - [fastests U perm](https://www.youtube.com/watch?v=1u8BptRSXaw&list=PLh9akXp2EH2D1MBpl8gb0w2WM0eiailpB&index=4)  
-
-[R U R' F' R U R' U' R' F R2 U' R' U' ](https://youtu.be/w7WCC615cEs?t=547) - PLL J & J'  
-R' U L' U2 R U' R' U2 L R U'
 
 
 # Advanced (sub 10s)

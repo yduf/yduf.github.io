@@ -1,6 +1,6 @@
 ---
 published: true
-title: LLM / Emergent world représentation
+title: LLM / Emergent world representation
 tags: LLM test c++ mental-model
 toc: true
 ---
@@ -10,7 +10,9 @@ toc: true
 
 ChatGPT is a _development limité_ of human knowledge, you can get a good initial point, but when conversing with it, you are derivating farther away from the a valid human interaction. - yduf
 
+**see also**
 - [	I want to wash my car. The car wash is 50 meters away. Should I walk or drive?](https://news.ycombinator.com/item?id=47031580)
+- [Are you in the weight?](https://www.intheweights.com/) - check (your own) celibrity from model weight
 
 # LLM
 

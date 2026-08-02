@@ -7,6 +7,10 @@ toc: true
 
 <link rel="icon" href="https://hermes-agent.nousresearch.com/favicon.ico?favicon.0urifig_ow-kc.ico" sizes="48x48" type="image/x-icon">
 
+<div class="encart blue" markdown="1">
+[Cline CLI]({% post_url 2026-08-01-ide-agent-cline-vscode %}#cli-) can be used in a similar way for administrative task.
+</div>
+
 [6 Hermes Agent use cases](https://www.youtube.com/watch?v=AQHlyGA2cZM)
 - /goal
 - Kanban

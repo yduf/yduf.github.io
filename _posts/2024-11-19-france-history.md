@@ -30,6 +30,9 @@ see also
 ### Martinique
 - [En Martinique, le 14 février 1974, l’État tuait des ouvriers de la banane](https://reporterre.net/En-Martinique-le-14-fevrier-1974-l-Etat-tuait-des-ouvriers-de-la-banane)
 
+### Guadeloupe
+- [ Le massacre en Guadeloupe dont personne ne parle ](https://www.youtube.com/watch?v=tyuAQN3uu_U) - Le 26 mai 1967, à Pointe-à-Pitre, les forces de l'ordre françaises ouvrent le feu sur une foule de manifestants et d'ouvriers en grève. Le bilan officiel parle de 7 morts. Les historiens, les familles et les témoins évoquent des chiffres allant jusqu'à 200 victimes. Dans cet épisode, on revient sur le contexte social et colonial de la Guadeloupe des années 1960, sur la naissance du mouvement autonomiste du GONG, sur le rôle central du préfet Pierre Bolotte — un homme formé à la répression coloniale en Indochine et en Algérie — et sur celui de Jacques Foccart, l'homme de l'ombre du général de Gaulle dans les anciennes colonies.
+
 ### see also
 - [Imperial boomerang](https://en.wikipedia.org/wiki/Imperial_boomerang) - the thesis that governments that develop repressive techniques to control colonial territories will eventually deploy those same techniques domestically against their own citizens. 
 - [The British Empire Was Much Worse Than You Realize](https://www.newyorker.com/magazine/2022/04/04/the-british-empire-was-much-worse-than-you-realize-caroline-elkinss-legacy-of-violence) / [HN](https://news.ycombinator.com/item?id=42558142) - The world’s biggest colonial power prided itself on being a liberal democracy. Was this part of the problem?

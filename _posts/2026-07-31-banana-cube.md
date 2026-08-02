@@ -1,5 +1,5 @@
 ---
-title: "Banana Bube 🍌"
+title: "Banana Cube 🍌"
 tags: rubik
 ---
 >  [ Easy Solve Banana Cube ](https://www.youtube.com/watch?v=YYUZGxe0wPI)
