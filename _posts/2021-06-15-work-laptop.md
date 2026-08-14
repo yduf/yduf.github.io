@@ -4,6 +4,8 @@ title: Work Laptops
 tags: pc-hardware laptop macos-system
 excerpt_separator: ""
 ---
+**see also**
+- [laptop occasion](https://www.laptopservice.fr/)
 
 ### [DELL PRO MAX 16 MC16250](https://www.dell.com/fr-fr/shop/ordinateurs-portables-dell/ordinateur-portable-dell-pro-max-16/spd/dell-pro-max-mc16250-laptop/xcto_mc16250_emea?redirectto=SOC&configurationid=baa3db4d-53a6-4041-8bc8-611a3e3d84ab)
 2700€ - 2026

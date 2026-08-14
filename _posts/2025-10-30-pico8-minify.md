@@ -1,5 +1,5 @@
 ---
-title: Minification (Pico-8)
+title: Minification (Pico-8) 🗜️
 published: true
 tags: pico8 zip
 toc: true
@@ -48,6 +48,12 @@ see also [PXAVizualiser](https://carlc27843.itch.io/pico-8-source-compression-vi
 
 - [PICO-8 Token Optimizations](https://github.com/seleb/PICO-8-Token-Optimizations)
 	- [ put all your game data into a string.](https://www.reddit.com/r/pico8/comments/17ehiba/which_of_these_methods_is_better/) = 1 token 
+
+## [shrinko8 ⮺ 🗜️](https://github.com/thisismypassport/shrinko8#shrinko8)
+
+A set of Pico-8 & Picotron cart tools, with a focus on shrinking code size.
+
+- used by [Mars rescue](https://www.reddit.com/r/pico8/comments/1oerlvu/comment/nl6ylx5/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 # MultiCart
 - [From one Pico-8 cart to many](https://retroactive.me/post/from-one-pico-cart-to-many/)

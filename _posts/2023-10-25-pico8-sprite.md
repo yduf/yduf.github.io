@@ -1,6 +1,6 @@
 ---
 published: true
-title: Sprite (Pico-8)
+title: Sprite (Pico-8) 👾
 tags: pico8 sprite pixelart online
 toc: true
 ---
@@ -21,6 +21,10 @@ Tips for the Embeded Pico 8 Editor
 - [poke(0x5f2e,1)](https://www.lexaloffle.com/bbs/?tid=54390) / [details](http://pico8wiki.com/index.php?title=Memory#Draw_state) - prevents PICO-8 from resetting the palette when you return to the editor - this enable seeing the customized palette to draw sprite - **this poke must be called inside the program, otherwise reset happens**
 	- poke(0x5f2e,2+1) - will keep enabled the second palette on screen (so display stay after program stop)
 
+- [GFXedit](https://github.com/GPIforGit/GFXedit#gfxedit-for-pico8) - GFXedit is a small tool to handle the sprite, map und label data from a p8-file with many features, like export and import as png or lua-data, copy&paste, display the usage of sprite and many more.
+
+[![GFXedit screenshot](https://github.com/GPIforGit/GFXedit/raw/main/GFXedit.jpg)](https://github.com/GPIforGit/GFXedit#gfxedit-for-pico8)
+
 ## External tools
 - [`export`](https://youtu.be/srPKBhzgZhc?feature=shared&t=724)
 	- `export spritesheet.png`
@@ -28,6 +32,13 @@ Tips for the Embeded Pico 8 Editor
 - [respriter](https://www.lexaloffle.com/bbs/?tid=35255) -  move sprites around and have the map updated to point to the new location of your sprites ( remove the 2 square brackets on tab 5, line 375. to fix bugs on latest version)
 
 **Online editor**: [draw pico-8 sprites!](https://nerdyteachers.com/PICO-8/Draw/Sprite/) - up to 32x32
+
+# Physics
+Player movement is one of the most important systems in any game because it is foundational to the gameplay experience. It defines how players interact with the world, how challenges are designed, the pacing, and how the game feels moment to moment. Small changes in movement rules can completely alter pacing, difficulty, and player experience. Because of this, there is no single “correct” way to design movement, only approaches that better fit certain goals, genres, and player expectations. - [game design: Player Movement Types](https://nerdyteachers.com/PICO-8/Game_Design/111)
+
+
+- [ Advanced Movement and Physics Tinkering - Pico 8 ](https://nerdyteachers.com/PICO-8/Game_Mechanics/?tutorial=10) / [youtube](https://www.youtube.com/watch?v=So1J6f_mvBo)
+
 
 # Collision
 For collision looks [here]({% post_url 2023-10-27-pico8-collision %})
@@ -74,6 +85,10 @@ see also
 [`spr`](https://pico-8.fandom.com/wiki/Spr) has direct support to flip sprite around x and y.
 
 ### Sprite Rotation
+
+[Mars Rescue](https://www.reddit.com/r/pico8/comments/1oerlvu/comment/nl6z4j7/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) using [tline](https://www.lexaloffle.com/bbs/?tid=38548)
+
+- [Sprite Rotation Code Snippet](https://www.lexaloffle.com/bbs/?pid=tline3drot_example) - an example of the tline3d rotation algorithm!
 - [tline sprite rotation/scaling](https://www.lexaloffle.com/bbs/?pid=78451)
 - [tline sprite rotation demo/mini-tutorial](https://www.lexaloffle.com/bbs/?tid=45269)
 - [Sprite Rotation](https://www.lexaloffle.com/bbs/?tid=41632) - 64x64

@@ -16,6 +16,9 @@ tags: codingame adventure quote json blog-people
 - [Linux laptop](https://grumpygamer.com/my_linux_laptop)
 - [Delores Source Code Released!](https://grumpygamer.com/delores_dev) / [github](https://github.com/grumpygamer/DeloresDev)
 
+- [Thimbleweed-Park]({% post_url 2019-03-02-Thimbleweed-Park %})
+- [Monkey Island 🏝️]({% post_url 2020-07-11-monkey-island %})
+
 ### see also
 - [	A Pixel Parable](https://olano.dev/blog/a-pixel-parable/) / [HN](https://news.ycombinator.com/item?id=42606433) - Mark Ferrari story at LucasFilm Games.
 

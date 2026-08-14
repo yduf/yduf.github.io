@@ -2,14 +2,17 @@
 title: Tracy Profiler
 published: true
 tags: benchmarking hardware profiler
+toc: true
 ---
 > A real time, nanosecond resolution, remote telemetry, hybrid frame and sampling profiler for games and other applications. - [github](https://github.com/wolfpld/tracy/tree/master?tab=readme-ov-file#tracy-profiler)
 
+<link rel="icon" href="https://tracy.nereid.pl/favicon.svg">
+
 - [An Introduction to Tracy Profiler in C++ (cppcon 2023)](https://www.youtube.com/watch?v=ghXk3Bk5F2U&t=828s)
 
-[![caption](https://github.com/wolfpld/tracy/raw/master/doc/profiler.png)](https://github.com/wolfpld/tracy)
+[![caption](https://github.com/wolfpld/tracy/raw/master/doc/profiler.png)](https://tracy.nereid.pl/)
 
-### [Installation](https://chatgpt.com/share/6728b6e3-fc9c-800d-bc55-98737823c9a1)
+# [Install ⮺ 📥 ](https://chatgpt.com/share/6728b6e3-fc9c-800d-bc55-98737823c9a1)
 
 On linux, need to build from source.
 
@@ -25,7 +28,7 @@ $ cmake -B profiler/build -S profiler -DCMAKE_BUILD_TYPE=Release -DLEGACY=ON
 $ cmake --build profiler/build --config Release --parallel
 {% endhighlight %}
 
-## [Tracing C++](https://github.com/davidwed/tracy?tab=readme-ov-file#initial-client-setup)
+# [Tracing C++  ⮺](https://github.com/davidwed/tracy?tab=readme-ov-file#initial-client-setup)
 
 Include in your code (look in example folder):
 
@@ -71,35 +74,43 @@ FrameMarkEnd( sl_AudioProcessing ) ;
 
 {% endhighlight %}
 
-### [Zone](https://github.com/davidwed/tracy?tab=readme-ov-file#marking-zones)
+### [Zone  ⮺](https://github.com/davidwed/tracy?tab=readme-ov-file#marking-zones)
 
 To record a zone's execution time add the ZoneScoped macro at the beginning of the scope you want to measure. This will automatically record function name, source file name and location. Optionally you may use the ZoneScopedC( 0xRRGGBB ) macro to set a custom color for the zone. Note that the color value will be constant in the recording.
 
-### [Plotting Data](https://github.com/davidwed/tracy?tab=readme-ov-file#plotting-data)
+### [Plotting Data  ⮺](https://github.com/davidwed/tracy?tab=readme-ov-file#plotting-data)
 
 Tracy is able to capture and draw value changes over time.
 
-### [Message Log](https://github.com/davidwed/tracy?tab=readme-ov-file#message-log)
+### [Message Log  ⮺](https://github.com/davidwed/tracy?tab=readme-ov-file#message-log)
 
 You can send messages (for example, your typical debug output) using the TracyMessage( text, size ) macro;
 
-### [Memory Profiling](https://github.com/davidwed/tracy?tab=readme-ov-file#memory-profiling)
+### [Memory Profiling  ⮺](https://github.com/davidwed/tracy?tab=readme-ov-file#memory-profiling)
 
-### [Callstack](https://chatgpt.com/share/67294318-9a1c-800d-81a0-749fa826d17b)
+### [Callstack  ⮺](https://chatgpt.com/share/67294318-9a1c-800d-81a0-749fa826d17b)
 
 The easiest way is to launch instrument code [with high privilege](https://markhedleyjones.com/notes/using-tracy-profiler) => this will allows stack sampling and stack collection
 
 You can force call stack capture in the non-S postfixed macros by adding the TRACY_CALLSTACK define, set
 to the desired call stack capture depth.
 
+# [Mixed mode ⮺](https://chatgpt.com/share/6a75a190-812c-83eb-8d5c-cea533e37b60)
 
+Tracy can profile both the Java and native C++ portions of your application, but it does not automatically give you a unified mixed-mode call stack across the JNI boundary.
 
+For this case sampling profiler is a better choice:
 
-### see also
+- [async-profiler](https://github.com/async-profiler/async-profiler#async-profiler) (excellent for Java + JNI on Linux/macOS)
+- Intel VTune (excellent mixed Java/native support)
+- Linux perf with JVM frame support
+- Java Flight Recorder (JFR) combined with native profilers
+
+# see also
 - [Tracy Profiler](https://github.com/davidwed/tracy?tab=readme-ov-file#tracy-profiler)
 - [Integrating Tracy Profiler in C++](https://luxeengine.com/integrating-tracy-profiler-in-cpp/)
 
-### Alternatives
+# Alternatives
 - [VTune]({% post_url 2019-02-14-vtune %}) - intel proprietary tools
 - [Optik (Brofiler)](https://github.com/bombomby/optick?tab=readme-ov-file#optick-c-profiler-for-games) / [HN](https://news.ycombinator.com/item?id=29092136) - how to make it work on linux is unclear
 - [KUtrace](https://github.com/dicksites/KUtrace) / [HN](https://news.ycombinator.com/item?id=40972099) -  an extremely low-overhead Linux kernel tracing facility for observing all 

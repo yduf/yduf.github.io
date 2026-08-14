@@ -26,12 +26,18 @@ A small form factor laptop, yet mostly as capable as my [Huawei laptop]({% post_
 **Alternatives**
 - [Pocket 3](https://www.amazon.fr/GPD-Quad-Core-1920x1200p-Bluetooth-GPD-POCKET-3-N6000/dp/B09Q3KWFR6) - N6000 Quad-Core / 8Go version (discovered afterward) - 720€
 - [Pocket 4](https://www.youtube.com/watch?v=POeAkLD3w08) has much better (over) spec  but was too pricey for the job. - start at 1200€
-- [Kooforway](https://www.amazon.fr/gp/aw/d/B0DFQBSQBL) - was cheaper even if less powerfull (N95) and could have been sufficient  - 450€
+- [Kooforway](https://www.amazon.fr/gp/aw/d/B0DFQBSQBL) / [video](https://www.youtube.com/watch?v=QAFw0T09la0) - was cheaper even if less powerfull (N95) and could have been sufficient  - 450€
+- [CHUWI Minibook](https://www.reddit.com/r/pico8/comments/1v2m49n/new_8_laptop_travel_setup/)
 - [PEAKAGO](https://www.youtube.com/watch?v=oHaQi9ajkrY) - obsolete?
 
-[CPU comparison](https://chatgpt.com/share/6a6e2ca2-ca94-83eb-ba9e-f54cfc0252fb)
+[**Should not buy**](https://www.reddit.com/r/cyberDeck/)
+These looks nice / but are probably a bad choice
+- [uConsole](https://www.clockworkpi.com/home-uconsole) - [À quoi sert votre uConsole ? ](https://www.reddit.com/r/ClockworkPi/comments/1jj1zu8/what_does_your_uconsole_do/?tl=fr)
+- [hackberry pi](https://www.reddit.com/r/pico8/comments/1vibrc1/got_my_portable_gamedev_setup_working/)
+- [picocalc](https://www.clockworkpi.com/picocalc)
 
-| CPU                         | Cores / Threads | Architecture             | Relative Overall Performance* | Relative Single-Core | Typical Power |
+
+| [CPU comparison](https://chatgpt.com/share/6a6e2ca2-ca94-83eb-ba9e-f54cfc0252fb)                         | Cores / Threads | Architecture             | Relative Overall Performance* | Relative Single-Core | Typical Power |
 | --------------------------- | --------------: | ------------------------ | ----------------------------: | -------------------: | ------------: |
 | **Intel N6000**             |           4 / 4 | Jasper Lake (Atom)       |                        **55** |               **60** |           6 W |
 | **Intel Pentium Gold 7505** |           2 / 4 | Tiger Lake (Core)        |                        **98** |              **100** |          15 W |

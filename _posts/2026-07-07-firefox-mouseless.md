@@ -6,7 +6,9 @@ toc: true
 > Firefox [Mouseless](https://addons.mozilla.org/en-US/firefox/addon/mouseless-plugin/) / Chrome [Click by Voice](https://github.com/mdbridge/click-by-voice) - [Browse Websites Without a Mouse](https://www.techjunkie.com/browse-web-without-mouse/)
 
 **see also**
--[mouseless app](www.youtube.com/@TheCymian)
+- [mousemaster](https://github.com/petoncle/mousemaster#mousemaster) / [Neru](https://github.com/y3owk1n/neru#neru) / [warpd](https://github.com/rvaiya/warpd#what) /
+  - [mouseable](https://github.com/wirekang/mouseable/#mouseable) - windows only
+    -[mouseless app](www.youtube.com/@TheCymian) - payd clone
 
 # [Firefox Mouseless ⮺](https://addons.mozilla.org/en-US/firefox/addon/mouseless-plugin/) 
 <div class="encart blue" markdown="1">

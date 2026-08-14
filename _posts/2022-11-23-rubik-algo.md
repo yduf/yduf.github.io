@@ -297,10 +297,10 @@ R' U L' U2 R U' R' U2 L R U'
 </div>
 <script>drawOLL('pll-T',{
       back:['O','O','G'],
-  top:[['B','Y','Y','Y','R'],
+  top:[['B','X','X','Y','R'],
        ['G','Y','Y','Y','G'],
-       ['B','Y','Y','Y','O']],
-     front:['R','R','G']}, 12)
+       ['B','X','X','Y','O']],
+     front:['R','R','G']}, 12, {arrow: [3,9, 4,6]})
 </script>
 
 ## OLL

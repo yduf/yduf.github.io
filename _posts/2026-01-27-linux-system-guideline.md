@@ -4,7 +4,7 @@ published: true
 tags: linux-system package nix guideline
 toc: true
 ---
-> Guideline for system & apps setup
+> Guideline for system & apps setup - [Unix was built for me](https://www.youtube.com/shorts/5psZs9EXq4Q)
 
 # System
 

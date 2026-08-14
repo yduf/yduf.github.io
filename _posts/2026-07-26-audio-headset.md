@@ -1,5 +1,5 @@
 ---
-title: Headset
+title: Headset 🎧
 tags: audio-hardware
 toc: true
 ---

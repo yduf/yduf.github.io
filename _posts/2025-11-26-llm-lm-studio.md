@@ -8,6 +8,9 @@ toc: true
 
 - [LM Studio 0.4 ](https://news.ycombinator.com/item?id=46799477)
 
+**see also**
+- [unsloth](https://github.com/unslothai/unsloth#----------------) - an open-source framework for running, fine-tuning, and deploying large language models (LLMs) on your own hardware. It became popular because it makes model training faster and more memory-efficient, allowing people to fine-tune models like Llama, Qwen, Gemma, Mistral, and DeepSeek on consumer GPUs that might otherwise be too limited. - [chatgpt](https://chatgpt.com/share/6a6f6d7b-8d54-83eb-adb5-8a6d12298af6)
+
 ## [Performance](https://chatgpt.com/share/693d9f4e-6920-800d-a207-ca84d8263e1e)
 They can be accessed and tailored by model
 

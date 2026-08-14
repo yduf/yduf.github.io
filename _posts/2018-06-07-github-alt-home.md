@@ -57,6 +57,7 @@ cf [Forgejo setup]({% post_url 2026-07-24-forgejo-setup %})
 - Schéma : forgejo
 </details>
 
+# [Forgejo Actions  ⮺](https://chatgpt.com/share/6a75f403-5488-83eb-82a3-a09949f40483)
 
 # Jekyll 
 - this can run in the background

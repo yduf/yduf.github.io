@@ -6,6 +6,7 @@ excerpt_separator: <!--more-->
 ---
 > Shipping is a social construct within a company. <!--more--> Concretely, that means that a project is shipped when the important people at your company believe it is shipped. - [	How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/) / [HN](https://news.ycombinator.com/item?id=42111031)
 
-see also
+**see also**
 - [What can strong engineers do that weak engineers can't?](https://www.seangoedecke.com/weak-engineers/)
 - [My Approach to Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects) / [HN](https://news.ycombinator.com/item?id=45535202) - Path to demo: split large project into a path of demoable achievement.
+- [Things I have not changed my opinion on](https://chriskiehl.com/article/thoughts-after-10-years) / [HN](https://news.ycombinator.com/item?id=42946281) - 93%, maybe 95.2%, of project managers, could disappear tomorrow to either no effect or a net gain in efficiency. (this estimate is up from 4 years ago)

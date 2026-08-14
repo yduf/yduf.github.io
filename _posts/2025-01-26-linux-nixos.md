@@ -10,6 +10,10 @@ excerpt_separator: <!--more-->
 > 
 > In 2003 I created 0install to address these problems, and Nix has very similar goals. - [Home](https://nixos.org/) / [r/NixOS ](https://www.reddit.com/r/NixOS/) / [KVM & Wayland](https://roscidus.com/blog/blog/2021/03/07/qubes-lite-with-kvm-and-wayland/#nixos)
 
+**see also**
+- [ France Deleted Windows, Now They Use THIS Unpopular OS ](https://www.youtube.com/watch?v=hmGAId0J2Lc) - the shift to NixOS inside France's digital affairs directorate, the Ubuntu-based distro already running 100,000+ Gendarmerie machines, and the EU OS project taking shape right now.
+
+
 [**The case for Nix on the home server**](https://www.youtube.com/watch?v=h8oyoDMUM2I)
 - [ NixOS Is The Power User Distro (Now With An Easy Installer!) ](https://www.youtube.com/watch?v=ck4J2Faa7Fc)
 

@@ -15,18 +15,31 @@ toc: true
 **see also**
 - [How to code Claude Code in 200 lines of code](https://news.ycombinator.com/item?id=46545620)
 - [La bulle IA est monstrueuse et cela va tout péter !!](https://www.youtube.com/watch?v=d2qDKx6JVdQ)
-	- on paye 5x a 10x plus chere l'IA sur le cloud
-    - les bulles explosent toujours plus fort et plus tard qu'anticipé.
-    - l'IA ce n'est pas que des LLM sur le cloud
-    - renforcer la resilience des entreprise grace a l'IA est une vraie valeur ajoutée
-    - l'automatisation par l'IA n'est pas forcement meilleurs que via les RPA 
-    - mais cela ne marche que sur des solutions complexes (qui sinon ne sont pas rentable)
-    - ex le passage des avions a helices au jet n'a pas été juste un changement de moteur (repensé le process: vol pressurisé en haute altitude / controleur aerien / securité).
-	- la detection de fraude est usage pertinent
+<details markdown="1"><summary>summary</summary>
+- on paye 5x a 10x plus chere l'IA sur le cloud
+  - les bulles explosent toujours plus fort et plus tard qu'anticipé.
+  - l'IA ce n'est pas que des LLM sur le cloud
+  - renforcer la resilience des entreprise grace a l'IA est une vraie valeur ajoutée
+  - l'automatisation par l'IA n'est pas forcement meilleurs que via les RPA 
+  - mais cela ne marche que sur des solutions complexes (qui sinon ne sont pas rentable)
+  - ex le passage des avions a helices au jet n'a pas été juste un changement de moteur (repensé le process: vol pressurisé en haute altitude / controleur aerien / securité).
+- la detection de fraude est usage pertinent
 - [10000 Euros par mois grace à l'IA ! Oui et alors ? ](https://www.youtube.com/watch?v=N_FAUkAOK_I) - a propos de [N8N](https://n8n.io/)
-	- le marché de l'automation est déjà saturé et surévalué
-    - on ne sait pas remplacer talent humain par de l'IA
-    - on sait faire que les mauvais deviennent moyen.
+- le marché de l'automation est déjà saturé et surévalué
+  - on ne sait pas remplacer talent humain par de l'IA
+  - on sait faire que les mauvais deviennent moyen.
+</details>
+
+
+# [The Session You Cannot Take With You ⮺ 🔒](https://earendil.com/posts/session-portability/)
+_The original promise of an inference API was wonderfully simple: send some input, receive some output. If you kept both, you had the conversation. You could inspect it, archive it, replay it, or give it to a different model._ - [HN](https://news.ycombinator.com/item?id=49118781)
+
+**Inference APIs are frustratingly moving away from that property, at least somewhat. They increasingly return a mixture of text and provider-bound state that is very intentionally non-portable.**
+- provider-sealed state.
+- No Reasoning For You
+- Hidden Searches
+- Opaque Compaction
+- Subagents Come With Hidden Instructions
     
 # [Skills ⮺]({% post_url 2026-06-05-usefull-prompt %})
 

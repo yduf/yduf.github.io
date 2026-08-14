@@ -6,11 +6,14 @@ toc: true
 ---
 > [How do I find the UUID of a filesystem](https://serverfault.com/questions/3132/how-do-i-find-the-uuid-of-a-filesystem)
 
-## [Configure `fstab`](https://chatgpt.com/share/693c4ff0-db8c-800d-bd64-56cec214cd09)
+**see also**
+- [HDD Firmware Hacking](https://news.ycombinator.com/item?id=48137553)
+
+# [Configure `fstab` ⮺](https://chatgpt.com/share/693c4ff0-db8c-800d-bd64-56cec214cd09)
 
 Note the UUID of the partition (recommended over device names like /dev/sda1, because device names can change).
 
-### lsblk
+## lsblk
 {% highlight bash %}
 $ lsblk -f
 
@@ -26,18 +29,18 @@ nvme0n1
 └─nvme0n1p8 ext4   1.0           4afbee46-d169-4e8b-aabd-45686c7d6cb6  437,1G    37% /home
 {% endhighlight %}
 
-### blkid /dev/sda7
+## blkid /dev/sda7
 {% highlight bash %}
 $ blkid
 /dev/sda7: UUID="dffbe19f-eb0f-4027-8912-db9299ac26eb" TYPE="ext4" PARTLABEL="archive" PARTUUID="c4359d67-57b3-4595-8bad-175876fd71bb" 
 {% endhighlight %}
 
-### Identify HDD by SATA port number
+## Identify HDD by SATA port number
 {% highlight bash %}
 $ lscscsi
 {% endhighlight %}
 
-### `fstab`
+## `fstab`
 
 {% highlight bash %}
 # Create the mount point
@@ -61,7 +64,7 @@ $ sudo systemctl daemon-reload
 {% endhighlight %}
 
 
-## [Remove a SATA disk from a running system](https://unix.stackexchange.com/questions/43413/how-can-i-safely-remove-a-sata-disk-from-a-running-system)
+# [Remove a SATA disk from a running system ⮺](https://unix.stackexchange.com/questions/43413/how-can-i-safely-remove-a-sata-disk-from-a-running-system)
 
 - [ disconnect hot-swap SATA hard drive](https://askubuntu.com/questions/989410/whats-the-proper-way-to-disconnect-hot-swap-sata-hard-drive/989466#989466)
 
