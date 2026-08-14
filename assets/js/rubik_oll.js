@@ -1,9 +1,17 @@
 // rubik_oll.js — draw OLL case diagrams as inline SVG
-// Usage: drawOLL('container-id', { back, top, front }, size)
+// Usage: drawOLL('container-id', { back, top, front }, size, opts?)
 //   top: [[left, c0, c1, c2, right], [left, c0, c1, c2, right], [left, c0, c1, c2, right]]
 //   back: ['L','C','R']  — thin strips above the 3 top-face columns
 //   front: ['L','C','R'] — thin strips below the 3 top-face columns
 //   size: top-face square size in px (default 24)
+//   opts: optional — either an array of arrow facets [s1,e1, s2,e2, ...]
+//         or an object { arrow: [...] }. Facets are numbered 1..9,
+//         left→right, top→bottom on the yellow face:
+//           1 2 3
+//           4 5 6
+//           7 8 9
+//         Each pair draws an arrow from the start facet centre to the
+//         end facet centre on top of the yellow face.
 
 (function () {
   const STROKE = '#333';
@@ -27,7 +35,7 @@
     return side && Array.isArray(side) && side.length === 3;
   }
 
-  window.drawOLL = function (containerId, state, size) {
+  window.drawOLL = function (containerId, state, size, opts) {
     const container = document.getElementById(containerId);
     if (!container) return;
 
@@ -86,6 +94,64 @@
     if (hasSide(front)) {
       for (let c = 0; c < 3; c++) {
         svg += rect(topX(c), t + MG + th + MG, S, t, SR, clr(front[c]), STROKE);
+      }
+    }
+
+    // --- arrows on top of the yellow face ---
+    // opts can be an array [s1,e1, s2,e2, ...] or an object { arrow: [...] }
+    let arrows = null;
+    if (opts) {
+      if (Array.isArray(opts)) arrows = opts;
+      else if (typeof opts === 'object' && Array.isArray(opts.arrow)) arrows = opts.arrow;
+    }
+
+    if (arrows && arrows.length >= 2) {
+      const AR = '#333';                             // arrow colour (black)
+      const AW = Math.max(1.5, Math.round(S / 10));  // shaft width
+      const HL = Math.max(6, Math.round(S * 0.45));  // arrowhead length
+      const HW = Math.max(3, Math.round(S * 0.28));  // arrowhead half-width
+
+      // facet n (1..9) → centre of the corresponding 3×3 yellow face square
+      function facetCenter(n) {
+        const c = (n - 1) % 3;
+        const r = Math.floor((n - 1) / 3);
+        return [topX(c) + S / 2, topY(r) + S / 2];
+      }
+
+      // one arrowhead: tip [tx,ty], direction unit [ux,uy], perpendicular [px,py]
+      function arrowHead(tx, ty, ux, uy, px, py) {
+        const bx = tx - ux * HL, by = ty - uy * HL;   // base centre behind tip
+        const b1x = bx + px * HW, b1y = by + py * HW;
+        const b2x = bx - px * HW, b2y = by - py * HW;
+        return '  <polygon points="' + b1x + ',' + b1y + ' ' +
+               b2x + ',' + b2y + ' ' + tx + ',' + ty +
+               '" fill="' + AR + '" stroke="' + AR + '" stroke-width="1"/>\n';
+      }
+
+      for (let i = 0; i + 1 < arrows.length; i += 2) {
+        const s = arrows[i], e = arrows[i + 1];
+        if (s < 1 || s > 9 || e < 1 || e > 9) continue;
+        const p1 = facetCenter(s);
+        const p2 = facetCenter(e);
+        const dx = p2[0] - p1[0];
+        const dy = p2[1] - p1[1];
+        const len = Math.sqrt(dx * dx + dy * dy);
+        if (len < 0.5) continue;                     // same facet — skip
+        const ux = dx / len, uy = dy / len;
+        const px = -uy, py = ux;                     // perpendicular unit
+        // shaft: shortened by the arrowhead length on both ends
+        const x1 = p1[0] + ux * HL;
+        const y1 = p1[1] + uy * HL;
+        const x2 = p2[0] - ux * HL;
+        const y2 = p2[1] - uy * HL;
+        svg += '  <line x1="' + x1 + '" y1="' + y1 +
+               '" x2="' + x2 + '" y2="' + y2 +
+               '" fill="none" stroke="' + AR + '" stroke-width="' + AW +
+               '" stroke-linecap="round"/>\n';
+        // arrowhead at the start — points backward (away from the arrow)
+        svg += arrowHead(p1[0], p1[1], -ux, -uy, px, py);
+        // arrowhead at the end — points forward (along the arrow)
+        svg += arrowHead(p2[0], p2[1], ux, uy, px, py);
       }
     }
 
