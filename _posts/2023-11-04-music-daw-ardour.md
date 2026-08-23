@@ -1,11 +1,14 @@
 ---
 published: true
 title: Ardour
-tags: audio DAW midi
+tags: audio DAW midi audio-sequencer
 ---
 > Ardour by [unfa](https://www.youtube.com/watch?v=qistxioVgMw)
 
 - [Ardour MIDI Masterclass](https://www.youtube.com/watch?v=ACJ1suTVouw)
+
+# Setup 
+- [ How to use a MIDI keyboard to control Ardour ](https://www.youtube.com/watch?v=56BDrtZNhY0)
 
 ### Toolkit
 

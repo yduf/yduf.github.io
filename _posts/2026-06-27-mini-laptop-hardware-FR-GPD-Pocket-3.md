@@ -27,7 +27,7 @@ A small form factor laptop, yet mostly as capable as my [Huawei laptop]({% post_
 - [Pocket 3](https://www.amazon.fr/GPD-Quad-Core-1920x1200p-Bluetooth-GPD-POCKET-3-N6000/dp/B09Q3KWFR6) - N6000 Quad-Core / 8Go version (discovered afterward) - 720€
 - [Pocket 4](https://www.youtube.com/watch?v=POeAkLD3w08) has much better (over) spec  but was too pricey for the job. - start at 1200€
 - [Kooforway](https://www.amazon.fr/gp/aw/d/B0DFQBSQBL) / [video](https://www.youtube.com/watch?v=QAFw0T09la0) - was cheaper even if less powerfull (N95) and could have been sufficient  - 450€
-- [CHUWI Minibook](https://www.reddit.com/r/pico8/comments/1v2m49n/new_8_laptop_travel_setup/)
+- [CHUWI Minibook](https://www.reddit.com/r/pico8/comments/1v2m49n/new_8_laptop_travel_setup/) / [review](https://www.youtube.com/watch?v=R7ojRfHvW-k) - 470€ 
 - [PEAKAGO](https://www.youtube.com/watch?v=oHaQi9ajkrY) - obsolete?
 
 [**Should not buy**](https://www.reddit.com/r/cyberDeck/)
@@ -37,11 +37,13 @@ These looks nice / but are probably a bad choice
 - [picocalc](https://www.clockworkpi.com/picocalc)
 
 
-| [CPU comparison](https://chatgpt.com/share/6a6e2ca2-ca94-83eb-ba9e-f54cfc0252fb)                         | Cores / Threads | Architecture             | Relative Overall Performance* | Relative Single-Core | Typical Power |
+| [CPU](https://chatgpt.com/share/6a803796-cbf0-83eb-bad7-902ef047e39f)                    | Cores / Threads | Architecture             | Relative Overall Performance* | Relative Single-Core | Typical Power |
 | --------------------------- | --------------: | ------------------------ | ----------------------------: | -------------------: | ------------: |
-| **Intel N6000**             |           4 / 4 | Jasper Lake (Atom)       |                        **55** |               **60** |           6 W |
-| **Intel Pentium Gold 7505** |           2 / 4 | Tiger Lake (Core)        |                        **98** |              **100** |          15 W |
-| **Intel N95**               |           4 / 4 | Alder Lake-N (Gracemont) |                       **100** |               **84** |          15 W |
+| **N6000**        |           4 / 4 | Jasper Lake (Atom)       |      ▮▮▮▮▮▮&nbsp;&nbsp;**55**  |    **60** |    6 W |
+| **Pentium 7505** |           2 / 4 | Tiger Lake (Core)        |  ▮▮▮▮▮▮▮▮▮▮&nbsp;&nbsp;**98**  |   **100** |   15 W |
+| **N95**          |           4 / 4 | Alder Lake-N (Gracemont) |  ▮▮▮▮▮▮▮▮▮▮&nbsp;**100** |    **84** |   15 W |
+| [**i7-10510U**]({% post_url 2021-07-18-laptop-huawei-matebook-14 %})    |           4 / 8 | Comet Lake               | ▮▮▮▮▮▮▮▮▮▮▮&nbsp;**115** |    **95** |   15 W |
+
 
 
 **Pro**
@@ -133,7 +135,7 @@ boot => press `Fn+F7`
 ## Module
 - [KVM Original Pocket 4](https://www.amazon.fr/GPD-Module-KVM-Original-Pocket/dp/B0DYM5SDCX)
 
-## Tear Down
+# Tear Down
 - [ShortCircuit](https://www.youtube.com/watch?v=6ar72m4PLW0&t=311s)
 
 # Linux Support

@@ -1,7 +1,6 @@
 ---
-published: true
 title: LMMS
-tags: audio DAW midi
+tags:  linux-audio DAW midi audio-sequencer
 ---
 > Let's make music with a free, cross-platform tool for your computer. - [LMMS](https://lmms.io/)
 

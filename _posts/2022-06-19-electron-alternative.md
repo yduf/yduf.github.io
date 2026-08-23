@@ -1,7 +1,7 @@
 ---
 published: true
 title: Electron Alternatives
-tags: js web
+tags: js web gui
 ---
 > [moving out of electron](https://news.ycombinator.com/item?id=31764773)
 

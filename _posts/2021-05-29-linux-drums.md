@@ -1,13 +1,13 @@
 ---
-published: true
-title: Drum Machine
-tags: audio midi drums
+title: Drum Machine (Hydrogen) 🥁
+tags: midi drums linux-audio  audio-sequencer
 ---
-> A software drum machine for Linux - [Home](http://hydrogen-music.org/screenshots/)
+> A software drum machine for Linux - [Hydrogen](http://hydrogen-music.org/screenshots/)
 
 - [An Introduction to Hydrogen](https://www.linuxjournal.com/article/7846)
-
 - [How To Program Drum Grooves](https://www.youtube.com/watch?v=23qiThX93bE)
+
+[![screenshot](http://hydrogen-music.org/images/screenshots/main-window.png)](http://hydrogen-music.org/screenshots/)
 
 ## Alternatives
 - [drumbit](https://drumbit.app/) - online

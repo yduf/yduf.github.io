@@ -1,10 +1,9 @@
 ---
-title: Picotron
-published: true
-tags: picotron pico8 retro 8bit platform codingame blog-code
+title: Picotron 🖳
+tags: picotron pico8 retro 8bit gui codingame blog-code
 toc: true
 ---
-> The virtual workstation - [v0.3.0d2](https://www.lexaloffle.com/picotron.php) / [r/picotron](https://www.reddit.com/r/picotron/)
+> The [Fantasy](https://www.lexaloffle.com/picotron.php?page=faq&utm_source=chatgpt.com) workstation - [v0.3.0d2](https://www.lexaloffle.com/picotron.php) / [r/picotron](https://www.reddit.com/r/picotron/)
 
 [![screenshot](https://www.lexaloffle.com/dl/wip/picotron_desktop2.png)](https://www.lexaloffle.com/picotron.php)
 

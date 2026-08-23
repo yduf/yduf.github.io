@@ -1,9 +1,13 @@
 ---
 title: Headset 🎧
-tags: audio-hardware
+tags: audio-hardware headset
 toc: true
 ---
 > Info about headset
+
+# [Redmi buds 4 Pro ⮺](https://www.mi.com/fr/support/faq/details/KA-10235/)
+
+Inherited
 
 # Jabra 65
 

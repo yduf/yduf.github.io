@@ -1,9 +1,12 @@
 ---
-published: true
 title: WinDirStat / TreeMap
-tags: system disk treemap
+tags: system disk treemap project
+toc: true
 ---
-> WinDirStat is a disk usage statistics viewer - [Home](https://windirstat.net/)/[2](https://www.wikiwand.com/en/WinDirStat#Source_code) / [blog](https://blog.windirstat.net/) / [repo](https://osdn.net/projects/windirstat/#) / [github](https://github.com/windirstat/windirstat)
+> WinDirStat is a disk usage statistics viewer - [Home](https://windirstat.net/)/[2](https://www.wikiwand.com/en/WinDirStat#Source_code) / [blog](https://blog.windirstat.net/) / [repo](https://osdn.net/projects/windirstat/#) / [github](https://github.com/windirstat/windirstat#windirstat---windows-directory-statistics)
+
+[![caption](https://windirstat.net/images/windirstat.jpg)](https://windirstat.net/)
+
 
 - [WinDirStat-next](https://github.com/windirstat/windirstat-next?tab=readme-ov-file#windirstat---windows-directory-statistics)  / [HN](https://news.ycombinator.com/item?id=40449767)
 	- [QDirStat](https://github.com/shundhammer/qdirstat) - KDirStat without any KDE
@@ -16,13 +19,12 @@ It uses [treemap](https://www.data-to-viz.com/graph/treemap.html) to represents 
 
 - [treemonger](https://github.com/alanbernstein/treemonger?tab=readme-ov-file#what) -  a disk space usage visualizer, inspired by the old version of spacemonger
 
-![caption](https://windirstat.net/images/windirstat.jpg)
 
-## Project
+# Project 💭 
 
 Have same treemap vizualisation ported to linux
 
-### CodeMap
+## CodeMap
 - treemap code is in `windirstat/Controls/treemap.cpp` CTreemapPreview::OnPaint()
 	- CTreemap::DrawTreemapDoubleBuffered()
     	- CTreemap::DrawTreemap()
@@ -33,7 +35,7 @@ Have same treemap vizualisation ported to linux
         - CTreemap::DrawChildren()    
 
 
-### see also
+# see also
 - [	Treemaps are awesome](https://news.ycombinator.com/item?id=36868940)
 - [  Git Heat Map](https://news.ycombinator.com/item?id=34563851) – a tool for visualising git repo activity for each file
 - [TreeSheets]({% post_url 2023-10-13-app-excel-treesheet %}) - A "hierarchical spreadsheet" that is a great replacement for spreadsheets

@@ -1,6 +1,6 @@
 ---
 title: DjVu
-tags: text image pdf OCR
+tags: text image pdf ocr
 ---
 > DjVu is good at sharing compressed book scans, and PDF is not. - [
 DjVu and its connection to Deep Learning ](https://scottlocklin.wordpress.com/2023/05/31/djvu-and-its-connection-to-deep-learning/) / [HN](https://news.ycombinator.com/item?id=47022213) / [Reader](https://djvureader.org/)

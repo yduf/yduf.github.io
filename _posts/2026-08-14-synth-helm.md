@@ -1,11 +1,22 @@
 ---
-title: "Helm 🎛️"
-tags: midi sythn
+title: "Helm 🎛️🎵"
+tags: midi synth linux-audio
 toc: true
 ---
-> [Home](https://tytel.org/helm/)
+> [Home](https://tytel.org/helm/) / [github](https://github.com/mtytel/helm#helm) / [manual](https://tytel.org/static/docs/helm_manual.pdf)
 
 [![screenshot](https://tytel.org/static/images/helm_screenshot.png)](https://tytel.org/helm/)
+
+# [Setup ⮺ 🎛️](https://chatgpt.com/share/6a7f63b2-9ad0-83eb-b170-c302a99a7a6e)
+
+<div class="encart blue" markdown="1">
+Right-click a parameter you want to control and choose **MIDI Learn.**
+Then turn the keyboard controller eg knob on [Akai MPK ]({% post_url 2021-07-09-akai-mpk %})
+
+Helm should associate that knob with the parameter.
+</div>
+
+If Helm receives the keyboard but not the knobs, don't immediately assume the MPK is broken. The keyboard and knobs can be sending different MIDI messages/channels, and Helm may need the controller mapping learned explicitly.
 
 # Install 📥 
 

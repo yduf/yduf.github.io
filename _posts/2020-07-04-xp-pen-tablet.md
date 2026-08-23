@@ -1,7 +1,6 @@
 ---
-published: true
 title: XP-Pen Artist 12
-tags: hardware linux-hardware tablet mouse stylus
+tags: pc-hardware linux-desktop tablet mouse stylus
 ---
 > Compact Design of 11.6 Inch FHD display with 178° degree of visual angle , 16.7M Great color and 1920x1080 resolution ,6 handy shortcut keys with a slim touch Pad - [support](https://www.xp-pen.com/search/index.html?keyword=artist+12) / [amazon](https://www.amazon.fr/gp/product/B07GNK18VJ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)
 
@@ -11,10 +10,14 @@ tags: hardware linux-hardware tablet mouse stylus
 - [youtube](https://www.youtube.com/results?search_query=xp-pen+12+linux)
 	- [How to get XP-PEN working on Linux Mint Correct!](https://www.youtube.com/watch?v=bnrtPoo6-d8)
 
-### see also
+# see also
 - [SOFTWARE & DRIVERS (linux driver!)](https://www.xp-pen.com/download/artist-12pro.html)
 - [https://www.xp-pen.com/download/artist-12pro.html](https://krita-artists.org/t/graphic-tablets-on-linux/351)
 
 And
 - [	Project Patchouli: Open-source electromagnetic drawing tablet hardware ](https://news.ycombinator.com/item?id=46537489)
 - [Build your own EMR Tablet from scratch ](https://www.youtube.com/watch?v=igVscvWAR1s)
+
+# Alternative
+- [Huion camvas gt 191 and Linux support](https://www.reddit.com/r/huion/comments/6qol7b/huion_camvas_gt_191_and_linux_support/)
+	- [custom edev driver](https://github.com/benthor/HuionKamvasGT191LinuxDriver) see [krita](https://docs.krita.org/en/reference_manual/list_supported_tablets.html)

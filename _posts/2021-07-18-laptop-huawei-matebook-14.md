@@ -15,16 +15,26 @@ toc: true
 </div>
 - i7-10510U, 4 cores / 8 threads
 - 16Go Ram / 512Go storage
-- NVIDIA MX350 / **3:2 display**
+- NVIDIA MX350
+- **3:2** Display
 - 1.5kg
+</div>
+
+
+# [BIOS ⮺](https://consumer.huawei.com/en/support/laptops/matebook-14-2020/) 
+- 1.19 Rev 5.0
+
+<div class="encart blue" markdown="1">
+## Boot options
+**F2** - BIOS access  
+**F10** - windows restore  
+[**F12**](https://consumer.huawei.com/en/support/content/en-us00693076/) - boot select
 </div>
 
 ## Disabling Touchscreen
 - [xinput way](https://unix.stackexchange.com/questions/127443/how-do-i-disable-the-touch-screen-on-my-laptop/129603#129603) - `xinput disable <id=13>`
 - [driver way](https://www.blackmoreops.com/2016/10/26/disable-touchscreen-linux/)
 
-# [BIOS ⮺](https://consumer.huawei.com/en/support/laptops/matebook-14-2020/) 
-- 1.19 Rev 5.0
 
 # [Linux support ⮺](https://wiki.archlinux.org/title/Huawei_MateBook_14_AMD_(2020))
 - [Nvidia GeForce MX350 driver N/A although installed](https://forums.linuxmint.com/viewtopic.php?t=353047&p=2039798)
@@ -59,12 +69,7 @@ $ sudo prime-select nvidia
 $ sudo reboot               # and restart :-( ...
 ```
 
-## Boot options
-<div class="encart blue" markdown="1">
-**F2** - BIOS access  
-**F10** - windows restore  
-[**F12**](https://consumer.huawei.com/en/support/content/en-us00693076/) - boot select
-</div>
+# [Installing Linux ⮺](https://www.tecmint.com/install-linux-mint-alongside-windows-dual-boot-uefi-mode/)
 
 ## [Factory partition ⮺](https://www.reddit.com/r/MatebookXPro/comments/9xnhe1/partitioning_on_a_new_device/)
 - System (120Go) - Windows 10 (C:)
@@ -75,7 +80,6 @@ $ sudo reboot               # and restart :-( ...
 
 That said, technically you dont need any of them. You can just create a Windows 10 usb installer and download your drivers separately and store them on the usb drive in a folder, then format your ssd and reinstall Windows. That will free up your 14gb partition - since that probably houses the stock image of the hard drive that can be restored through WinPE. With your windows installer on a usb stick instead, you’ll get the standard Windows install: an efi partition, a recovery partion, and the rest of your space to your C drive. Though you’ll have to find your serial or a way to transfer the activation license with you.
 
-# [Installing Linux ⮺](https://www.tecmint.com/install-linux-mint-alongside-windows-dual-boot-uefi-mode/)
 
 ## Shrink/Delete Partition
 Using disk management tool
@@ -170,7 +174,7 @@ The fan curve is stored in the laptop's firmware (BIOS/EC), not in Linux.
 
 </div>
 
-## [Disassembly ⮺](https://laptopmedia.com/highlights/inside-huawei-matebook-d-14-2020-disassembly-and-upgrade-options/)
+# [Disassembly ⮺](https://laptopmedia.com/highlights/inside-huawei-matebook-d-14-2020-disassembly-and-upgrade-options/)
 
 As a typical ultrabook, the memory is soldered to the motherboard, and it comes in two variants – 8GB and 16GB. Thankfully, there is an M.2 NVMe slot for storage upgrades.
 
@@ -180,7 +184,7 @@ As a typical ultrabook, the memory is soldered to the motherboard, and it comes 
     
 [![opened](https://laptopmedia.com/wp-content/uploads/2020/09/internals-8-1536x1047.jpg)](https://laptopmedia.com/highlights/inside-huawei-matebook-d-14-2020-disassembly-and-upgrade-options/)
 
-### SSD
+## SSD
 
 [MateBook 13/1413/14 (2019–2021)](https://www.aomeitech.com/clone-tips/huawei-matebook-ssd-upgrade-0044.html)
 - M.2 2280 NVMe/SATA

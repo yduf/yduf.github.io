@@ -1,26 +1,32 @@
 ---
-published: true
-title: LilyPond (Music sheet)
+title: LilyPond (Music sheet) 🎶
 tags: music write guitar tab drums vscode
+toc: true
 ---
-> LilyPond is a music engraving program, devoted to producing the highest-quality sheet music possible - [lilypond.org](http://lilypond.org/) / [wikipedia](https://en.wikipedia.org/wiki/LilyPond)
+> LilyPond is a music engraving program, devoted to producing the highest-quality sheet music possible - [lilypond.org](http://lilypond.org/) / [wikipedia](https://en.wikipedia.org/wiki/LilyPond) / [online](https://www.hacklily.org/)
 
-### see also
+
+**see also**
 - [Notation Must Die: The Battle For How We Read Music](https://www.youtube.com/watch?v=Eq3bUFgEcb4) - reviews origin of musical notation and alternative proposal. 
 
 ![caption](http://lilypond.org/pictures/bwv861-lilypond.png)
 
 
-## Install / [online](https://www.hacklily.org/)
+# Install 
 
-### [Front-end Applications](http://lilypond.org/easier-editing.html)
+## [Front-end Applications ⮺](http://lilypond.org/easier-editing.html)
 - [Denemo](http://denemo.org/)
 - [Frescobaldi](https://www.frescobaldi.org/) - sheet music text editor.
 
-### [VSLilyPond](https://github.com/lhl2617/VSLilyPond) - [Music IDE: Lilypond in Visual Studio Code](https://blog.anonymous-function.net/2017/10/24/music-ide-lilypond-in-visual-studio-code/)
-- [Setup Guide](https://github.com/lhl2617/VSLilyPond/blob/HEAD/docs/INSTALL.md)
+## [VSLilyPond ⮺](https://github.com/lhl2617/VSLilyPond)
 
-## [Aternatives](http://linuxmao.org/Le+coin+des+guitaristes)
+<div class="encart blue" markdown="1">
+[Music IDE: Lilypond in Visual Studio Code](https://blog.anonymous-function.net/2017/10/24/music-ide-lilypond-in-visual-studio-code/)
+- [Setup Guide](https://github.com/lhl2617/VSLilyPond/blob/HEAD/docs/INSTALL.md)
+</div>
+
+
+# [Aternatives ⮺](http://linuxmao.org/Le+coin+des+guitaristes)
 - [TuxGuitar](http://tuxguitar.com.ar/) - easier edit for Tabs
  	- [Exporting tabs from TuxGuitar to Lilypond](https://music.stackexchange.com/questions/101453/exporting-tabs-from-tuxguitar-to-lilypond) - and [fixing them](https://piware.de/post/2018-09-16-gavis-song/) with [convert-ly](https://lilypond.org/doc/v2.18/Documentation/usage/updating-files-with-convert_002dly.en.html)
 {% highlight bash %}
@@ -29,7 +35,7 @@ convert-ly tuxguitar_export.ly > converted.ly
 
 - [MuseScore](https://musescore.org/en)
 
-## Doc
+# Doc
 - [intro](https://lilypond.org/website/text-input.html)
 	- Notes are encoded with letters and numbers. 
     - Alterations are made with different names: add -`is` for sharp, and -`es` for flat.
@@ -39,7 +45,7 @@ convert-ly tuxguitar_export.ly > converted.ly
 
 - [Line breaking](http://lilypond.org/doc/v2.18/Documentation/notation/line-breaking) ` \break`
 
-## [Drums](https://lilypond.org/doc/v2.21/Documentation/notation/common-notation-for-percussion)
+# [Drums ⮺ 🥁](https://lilypond.org/doc/v2.21/Documentation/notation/common-notation-for-percussion)
 
 With the exception of the snare and bass drum, there seems to be no consensus about where individual sound sources should be placed on the staff. - [Customizing Note Layout](https://lilypondcookbook.com/post/74735874981/drum-music-4-customizing-note-layout)
 
@@ -51,9 +57,8 @@ With the exception of the snare and bass drum, there seems to be no consensus ab
 - [Isolated percent repeats](https://lilypond.org/doc/v2.22/Documentation/snippets/repeats#repeats-isolated-percent-repeats)
 - [Extend measure so it occupies whole line](https://music.stackexchange.com/questions/24780/extend-measure-so-it-occupies-whole-line)
 
-## Guitar
+# Guitar 🎸
 ![caption](https://lilypond.org/doc/v2.22/Documentation/24/lily-9d3837f7.png)
-
 
 - [Guitar ref](http://lilypond.org/doc/v2.19/Documentation/notation/common-notation-for-fretted-strings.en.html)
 	- [tablatures](https://lilypond.org/doc/v2.22/Documentation/notation/common-notation-for-fretted-strings#default-tablatures)

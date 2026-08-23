@@ -15,7 +15,7 @@ tags: identity security fingerprint internet web
 	- [	The Web Is Broken – Botnet Part 2](https://news.ycombinator.com/item?id=43738603)
     - [Everyone knows your location, Part 2: try it yourself and share the results](https://news.ycombinator.com/item?id=43716704)
 - [	Web fingerprinting is worse than I thought (2023)](https://news.ycombinator.com/item?id=44669853)
-
+- [AliExpress webpage keeping multipoint Bluetooth headphones active with WebAudio fingerprinting ](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html) / [HN](https://news.ycombinator.com/item?id=49372583) 
 
 ### see also
 - [German minister photo fingerprint 'theft' seemed far too EASY](https://www.theregister.com/2014/12/30/hacking_fingerprints_get_a_hires_pic_and_commercial_software/)

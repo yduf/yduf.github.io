@@ -1,7 +1,7 @@
 ---
 published: true
 title: Sound tracker 🚧 
-tags: 8bit online amiga music audio chiptune project
+tags: 8bit online amiga audio-sequencer chiptune project
 toc: true
 ---
 > Furnace – the biggest multi-system chiptune tracker ever made - [HN](https://news.ycombinator.com/item?id=41609254)

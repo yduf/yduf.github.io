@@ -20,23 +20,11 @@ toc: true
 
 They both use [Emulation Station]({% post_url 2023-11-12-emulationstation %}) they both use [Retroarch]({% post_url 2023-11-11-arcade-retroarch %}), they both use [thememaster](https://johnirvine1433.github.io/ThemeMaster/).
 
+## [ArkOS ⮺]({% post_url 2023-11-11-arcade-arkos %}) 
+<div class="encart blue" markdown="1">
+ Ubuntu based - **currently in use**
 
-## [JELOS ⮺](https://jelos.org/devices/powkiddy/rgb30/) v20231029 - Just Enough Linux Operating System - [Entware](https://github.com/Entware/Entware/wiki) base
-- Bluetooth audio and controller support.
-- Support for HDMI audio and video out, and USB audio.
-- Device to device and device to cloud sync with Syncthing and rclone.
-- Integrated cross-device local and remote network play. support [Moonlight ?](https://moonlight-stream.org/)
-
-Update crash the system / (or is it rom sdcard ?) or just bad rom ?
-
-- [Powkiddy RGB30 Setup Guide](https://retrohandheldguides.com/rgb30-setup-guide/)
-- [Adding Games](https://jelos.org/play/add-games/)
-	- add files to rom folder
-    - press `START` then `Game Settings` then select `Update Gamelists` under the Tools header.
-
-
-
-## [ArkOS ⮺]({% post_url 2023-11-11-arcade-arkos %}) - Ubuntu base
+</div>
 
 ArkOS does not obfuscate the line between Emulationstation and Retroarch. You're trying to set a Retroarch option, so you're going to have to do it in Retroarch, not Emulationstation. - [ArkOS set Shader](https://www.reddit.com/r/SBCGaming/comments/yc7w5x/arkos_set_shader/)
 
@@ -54,6 +42,30 @@ Audio:     Device-1: rk3568-dw-hdmi driver: dwhdmi_rockchip
            Device-3: simple-audio-card driver: asoc_simple_card 
            Sound Server: ALSA v: k4.19.172 
 {% endhighlight %}
+
+
+## [JELOS ⮺](https://jelos.org/devices/powkiddy/rgb30/)  
+<div class="encart orange" markdown="1">
+v20231029 - Just Enough Linux Operating System - [Entware](https://github.com/Entware/Entware/wiki) base
+
+[**Project is discontinued**](https://github.com/JustEnoughLinuxOS/distribution#project-end-of-life)
+</div>
+
+- Bluetooth audio and controller support.
+- Support for HDMI audio and video out, and USB audio.
+- Device to device and device to cloud sync with Syncthing and rclone.
+- Integrated cross-device local and remote network play. support [Moonlight ?](https://moonlight-stream.org/)
+
+Update crash the system / (or is it rom sdcard ?) or just bad rom ?
+
+- [Powkiddy RGB30 Setup Guide](https://retrohandheldguides.com/rgb30-setup-guide/)
+- [Adding Games](https://jelos.org/play/add-games/)
+	- add files to rom folder
+    - press `START` then `Game Settings` then select `Update Gamelists` under the Tools header.
+
+
+
+
 
 # Customisation
 

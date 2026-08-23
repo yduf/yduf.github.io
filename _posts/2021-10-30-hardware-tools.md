@@ -48,9 +48,13 @@ see also
 
 Cuve en inox => perforé par corosion
 
-- [Einhell Aspirateur eaux et poussières TE-VC 2230 SA ](https://www.amazon.fr/gp/product/B00BLZVL7E)
+## [Einhell Aspirateur eaux et poussières TE-VC 2230 SA ⮺](https://www.amazon.fr/gp/product/B00BLZVL7E)
 
 - [Tuto : Démarrage automatique pour aspirateur à copeaux](https://www.youtube.com/watch?v=wGa-r4M88k0)
+
+## [ WD 2.200 ⮺](https://s1.kaercher-media.com/mam/16295560/mainproduct/23179/d1.jpg)
+
+[![model](https://s1.kaercher-media.com/mam/16295560/mainproduct/23179/d1.jpg)](https://s1.kaercher-media.com/mam/16295560/mainproduct/23179/d1.jpg)
 
 ## [Cyclone d'atelier](https://www.youtube.com/watch?v=ZUT4XFnr1cc)
 

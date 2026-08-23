@@ -8,8 +8,11 @@ toc: true
 
 <link rel="shortcut icon" href="https://nix.dev/_static/favicon.png" type="image/x-icon" />
 
-**see also**
+**see also**  
+[mise vs direnv vs nix](https://chatgpt.com/share/6a897f37-741c-83eb-af88-5e0084ac49cb)
 - [mise](https://mise.jdx.dev/) / [HN](https://news.ycombinator.com/item?id=48038864) - some people recommend _mise_ as simpler alternative to nix for devenv configuration.
+  - [	Fnox, a secret manager that pairs well with mise ](https://news.ycombinator.com/item?id=45722931)
+- [direnv ](https://chatgpt.com/share/69d376f2-a164-8385-a38e-7ce10cb40b6a) a workflow tool that automatically loads and unloads development environments when you enter or leave a directory—commonly used together with Nix to manage reproducible dev setups.
 
 # Install 📥
 
@@ -246,7 +249,4 @@ Nix packages don’t mix with sudo the way system package managers do, and that�
 Nix installs packages into user profiles (~/.nix-profile).
 sudo resets PATH for security, so it doesn’t see user-installed Nix binaries.
 
-# [direnv ⮺ 📂](https://chatgpt.com/share/69d376f2-a164-8385-a38e-7ce10cb40b6a)
-
-**direnv in Nix** is a workflow tool that automatically loads and unloads development environments when you enter or leave a directory—commonly used together with Nix to manage reproducible dev setups.
 

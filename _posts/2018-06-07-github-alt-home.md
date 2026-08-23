@@ -11,6 +11,9 @@ toc: true
 A self-hosted lightweight software forge.
 Easy to install and low maintenance, it just does the job. - fork of [Gitea](https://forgejo.org/compare-to-gitea/)
 
+**see also**
+- [	Ask HN: Alternatives to GitHub](https://news.ycombinator.com/item?id=49331033)
+
 
 # [Releases  ⮺](https://chatgpt.com/share/6a64e4cb-e5e8-83eb-a4e7-7fa3368c8824)
 
@@ -20,13 +23,13 @@ For public repos they are accessible to anyone (limited by LAN access here).
 Auth is only mendatory for private repos.
 
 # [Setup ⮺](https://chatgpt.com/share/6a61d28d-8730-83eb-baa5-3387296aa7d6)
-- [Postgres setup]({% post_url 2025-12-17-db-postgres %})
-- [Podman](https://forgejo.org/docs/latest/admin/installation/docker/#podman)
 
-<div class="encart orange" markdown="1">
+<div class="encart green" markdown="1">
 Performed by Hermes
 
 cf [Forgejo setup]({% post_url 2026-07-24-forgejo-setup %})
+- [Postgres setup]({% post_url 2025-12-17-db-postgres %})
+- [Podman](https://forgejo.org/docs/latest/admin/installation/docker/#podman)
 </div>
 
 <div class="encart blue" markdown="1">
