@@ -1,16 +1,26 @@
 ---
-published: true
 title: Lost in Maze
 tags: maze pathfinding algorithm online codingame
 toc: true
 ---
 > Mazes in general (and hence algorithms to create Mazes) can be organized along seven different classifications. - [Maze Classification](https://www.astrolog.org/labyrnth/algrithm.htm) / [HN](https://news.ycombinator.com/item?id=47593861)
 
+**see also**
+- [	Zero Lines Maze: What the 8-Bit Guy's One-Liner Can Still Teach Us](https://retrogamecoders.com/zero-lines-maze/) / [HN](https://news.ycombinator.com/item?id=48279507)
+  - `10 PRINT CHR$(205.5+RND(1)); :GOTO 10` - There's a [300-page MIT Press book](https://10print.org/10_PRINT_121114.pdf) analyzing exactly this line of code - see [HN](https://news.ycombinator.com/item?id=19481207) / [2](https://news.ycombinator.com/item?id=4856207)
+
+ruby version 
+```bash
+$ echo 'loop do print ["\u2571","\u2572"].sample ; sleep 0.001 end'|ruby
+```
+
+
 # [Labyrinth Algorithms ⮺](http://bryukh.com/labyrinth-algorithms/) with code
 - [A* Search (Amit)](https://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html)
 	[C++](https://www.redblobgames.com/pathfinding/a-star/implementation.html#cpp-astar)
 - Breadth First Search (BFS)
 - Depth First Search (DFS)
+
 
 # [Online path-finding ⮺](http://qiao.github.io/PathFinding.js/visual/)
 

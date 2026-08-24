@@ -1,7 +1,6 @@
 ---
 title: "ASUS TUF Gaming GeForce RTX 5070 Ti 📟"
-published: true
-tags: pc-hardware gpu nvidia cuda pytorch
+tags: pc-hardware gpu nvidia cuda pytorch agentic-AI
 toc: true
 excerpt_separator: <!--more-->
 ---
@@ -14,6 +13,18 @@ excerpt_separator: <!--more-->
 - 329x140x62.5mm - takes 3 PC slots
 - [3dmodels](https://grabcad.com/library/asus-tuf-gaming-geforce-rtx-5070-ti-1)
 
+
+# RTX 5070 vs 5070 Ti  
+[**Laquelle choisir ?**](https://buildmypc.fr/rtx-5070-vs-5070-ti)
+
+| Spécifications      | RTX 5070        | RTX 5070 Ti     |
+|---------------------|-----------------|-----------------|
+| Architecture        | Blackwell       | Blackwell       |
+| Cœurs CUDA          | 6144            | 8960            |
+| Fréquence boost     | 2512 MHz        | 2452 MHz        |
+| VRAM                | 12 GB GDDR7     | 16 GB GDDR7     |
+| Bus mémoire         | 192 bit         | 256 bit         |
+| TDP                 | 250 W           | 300 W           |
 
 # [Motherboard A520I ⮺]({% post_url 2026-01-24-pc-hardware-motherboard %})
 
@@ -77,6 +88,8 @@ see [Permissions](#permissions) for resolution
 <div class="encart orange" markdown="1">
 
 The NVIDIA RTX 5070 is part of the 5000-series, which **requires the Open Kernel Modules and requires driver 580 or newer**. - [Working 580-open Driver Guide](https://github.com/adamn1225/FIXED-NVIDIA-RTX-5070-on-Ubuntu-24.04---Working-580-open-Driver-Guide?tab=readme-ov-file#fixed-nvidia-rtx-5070-on-ubuntu-2404--2410--working-580-open-driver-guide)
+
+- linux support - [chatGPT](https://chatgpt.com/share/69628851-6550-800d-b8aa-e224d57f551a)
 
 </div>
 

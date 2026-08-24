@@ -25,6 +25,7 @@ toc: true
 |  | llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-NVFP4-Experts-Only-GGUF |  | 12.5GB | 10 tok/sec - 2898 tokens - 1.16s to first token | LM Studio 4.12 |
 |  | llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-NVFP4-Experts-Only-GGUF |  | 12.5GB | 10 tok/sec - 2898 tokens - 1.16s to first token | LM Studio 4.12 |
 
+- [	I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes](https://news.ycombinator.com/item?id=49407507)
 - [ QWEN 3.6 27B sur 16GB VRAM : La meilleure configuration ](https://www.youtube.com/watch?v=YElKs1ihn3M)
   - [	RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8](https://news.ycombinator.com/item?id=48515454)
 

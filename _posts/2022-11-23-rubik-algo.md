@@ -117,10 +117,10 @@ Commencer par les [OLL 2 look](#2-look-) (construction de la croix jaune (4 algo
 
 
 
-### Pairs
+### F2L Pairs
 
 <div class="encart blue" markdown="1">
-To learn after [2 looks](#2-look-)
+First 2 Layer algos, to learn after [2 looks](#2-look-)
 </div>
 
 <!-- F2L example: joined pair at UFR -->
