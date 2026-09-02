@@ -16,6 +16,7 @@ toc: true
 **see also**
 - [Top Model by task](https://openrouter.ai/rankings#task-spend)
 - [The Best Local Agentic Coding Workflow (Complete Guide)](https://www.youtube.com/watch?v=UngVdAsQEiU)
+- [Your Open Source Model Could Have a Hidden Time-Release Backdoor](https://morgin.ai/articles/your-open-source-model-could-have-a-hidden-time-release-backdoor.html) - demonstrate that harness context can be used to trigger a different answer in controlled condition.
 
 | rank | Model |  | Size | Speed | Comments |
 | --- | --- | --- | --- | --- | --- |

@@ -18,6 +18,8 @@ the Windows Global Device Identifier (GDID)
 - [Microsoft GDID telemetry includes full browsing and gaming history ](https://news.ycombinator.com/item?id=48787239)
 - windows update link GDID with ip addr
 
+- [	MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://news.ycombinator.com/item?id=49421158)
+
 ## Edge
 _Edge has a feature where it will periodically pull the bookmarks and browsing history from any other browsers you have installed, so they'll then get sent to Microsoft and associated with your Microsoft account. This was initially enabled by default without the user's consent_
 
@@ -46,3 +48,7 @@ TBD
 
 ## Firefox
 
+## ChatGPT
+
+- [ Proton Reveals What AI REALLY Knows About You ](https://www.youtube.com/watch?v=gALlnlFt4LU)
+  

@@ -22,5 +22,9 @@ tags: codingame pico8 dream project
 - [Squiddy (PICO-1k Jam)](https://www.lexaloffle.com/bbs/?tid=44826)
 - [Je travaille sur la refonte d'un jeu que j'ai commencé il y a des années ](https://www.reddit.com/r/pico8/comments/1ss2aaq/working_on_remaking_a_game_i_started_years_ago/) - multi layer scrolling
 
+# Demo Idea
+- [Arise - Nightworks - C64 Demo - C64 Ultimate64 EliteII + SIDKick2350 + PDsid [8580]](https://www.youtube.com/watch?v=DnxWSn52A0Q) - light tower
+- [ Impossible Mission III – The New Game for the Commodore 64! Great fun! ](https://www.youtube.com/watch?v=NyU-H1L9VGU) - intro screen with computer hacked
+
 **see also**
 - [ Moventure - Trailer ](https://www.youtube.com/watch?v=XVzh1_e0y9k)

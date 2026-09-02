@@ -18,8 +18,8 @@ $ ssh -J bastion tronaut
 |-|-|
 | [Watchdog 🐕‍🦺]({% post_url 2026-07-02-computer-watchdog %}) | |
 | [Tailscale]({% post_url 2026-07-02-vpn-tailscale %})| [📡](https://login.tailscale.com/admin/machines) |
-| [Hermes]({% post_url 2026-07-23-agent-hermes %}) | [🔱](http://localhost:9119) *|
-| [Forgejo]({% post_url 2018-06-07-github-alt-home %}) | [🧬](http://bastion:3000) **|
+| [Hermes]({% post_url 2026-07-23-agent-hermes %}) | [🔱  *](http://localhost:9119)|
+| [Forgejo]({% post_url 2018-06-07-github-alt-home %}) | [🧬 **](http://localhost:3000)|
 | Telegram | [topic mode](https://chatgpt.com/share/6a47845c-5914-83ed-8d05-30b69839f799) |
 | nginx | :80 |
 | [php](https://chatgpt.com/share/6a46b923-bcd0-83eb-bab0-9a10acd13874) | [php](http://100.69.234.21/test.php) | 
@@ -29,7 +29,7 @@ $ ssh -J bastion tronaut
 | use [yduf](/) as knowledge base | read only copy |
 
 \* - require [port forward]({% post_url 2021-02-07-ssh-tunnels %}): `ssh -N -L 9119:127.0.0.1:9119 bastion`  
-\*\* - require [port forward]({% post_url 2021-02-07-ssh-tunnels %}): `ssh -N -L 3000:127.0.0.1:3000 bastion`
+\*\* - require [port forward]({% post_url 2021-02-07-ssh-tunnels %}): `ssh -N -L 3000:127.0.0.1:3000 bastion` cf [Client setup]({% post_url 2018-06-07-github-alt-home %}#client-setup-)
 
 [![boSunFounder Pironman 5 - Raspberry Pi casex](https://media.ldlc.com/r705/ld/products/00/06/23/84/LD0006238443.jpg)](https://www.ldlc.com/en/product/PB00677828.html)
 

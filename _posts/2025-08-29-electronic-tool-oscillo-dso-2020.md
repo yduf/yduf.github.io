@@ -1,10 +1,13 @@
 ---
 title: Oscilloscope
 published: true
-tags: electronic-hardware
+tags: electronic-hardware music
 toc: true
 ---
 > How to ACTUALLY Use an Oscilloscope (Beginner-Friendly Guide!) - [youtube](https://www.youtube.com/watch?v=LaY47Qrfs0c)
+
+**see also**
+- [ Oscilloscope Music - Intersect ](https://www.youtube.com/watch?v=R9jOWIhZZCE)
 
 <div class="encart red" markdown="1">
 

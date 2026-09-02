@@ -20,7 +20,7 @@ toc: true
 
 # [Authentication ⮺](https://chatgpt.com/share/6a66369c-b32c-83eb-a6b1-075c6c21dac2)
 
-# [Install](https://www.smarthomebeginner.com/docker-to-podman-migration-guide/#Cockpit)
+# [Install ⮺ 📥 ](https://www.smarthomebeginner.com/docker-to-podman-migration-guide/#Cockpit)
 
 <div class="encart orange" markdown="1">
 Cockpit is not intended to be run as a container, but instead directly on the host. It can manage more than just Podman containers, but those are our focus today.

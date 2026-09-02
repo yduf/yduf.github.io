@@ -1,23 +1,31 @@
 ---
 published: true
-title: Bleak Sword ⚔- ⛑
-tags: games dungeon broken
+title: Bleak Sword ⚔
+tags: games dungeon
+toc: true
 ---
 > [Bleak Sword](https://twitter.com/more8bit?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E990314804152815618%7Ctwgr%5E%7Ctwcon%5Es1_) is a dark fantasy action-adventure video game  - [Home](https://www.bleaksword.com/)
 
-- ~~Works perfectly with Wine~~
-	- was working perfectly with system 8.0.2 under Lutris
-    - but now graphic are messed up (no gl texture?)
-    	- does not seems to be a driver issue => work the same with intel or nvidia
-        - maybe a DXVK issue, since last kernel / update
-        - happened in a strange way / don't know what was change on the system
+<div markdown="1" style="background-image: url('https://images.gog-statics.com/42bf8d9bff141dca4db1037eb4f6fb9fc00bbc038278bb58e3db5dece94ff394_bg_crop_1920x655.jpg'); background-size: cover; background-position: center; padding: 60px 40px; color: white;">
+Works perfectly with Wine System 11.0 from Lutris
+- AS long AS DXVK is **disabled**
+</div>
 
-see also
+# see also
 - [Crawl Launch Trailer](https://www.youtube.com/watch?v=IAqjWpK6IO8&t=2s)
 
 [![intro](https://www.touchtapplay.com/wp-content/uploads/2019/12/bleak-sword-cheats-tips-1.jpg?w=830)](https://www.touchtapplay.com/bleak-sword-cheats-tips-tricks-guide-to-mastering-the-combat-system/)
 
-### [Helpful Tips and Tricks](https://www.gamezebo.com/walkthroughs/bleak-sword-guide-tips-cheats-and-strategies/)
+# Setup 
+
+## Flatpack 💭 
+
+- [x] - Make it available as a flatpack image	
+  - cline/deepseek-flash was able to build the flatpack from lustris working setup - (lutris also installed as flatpack) 
+  - goes from 450Mb Archive to 850Mb flatpack (game + wine + system)
+- use [forgejo]({% post_url 2018-06-07-github-alt-home %}) as flatpack registry
+
+# [Helpful Tips and Tricks](https://www.gamezebo.com/walkthroughs/bleak-sword-guide-tips-cheats-and-strategies/)
 - This game is base upon counterattack (parry + attack).
 	- You can’t parry all attacks
 	- When an exclamation mark appears over an attack, that’s a good sign that the enemy can’t be parried.

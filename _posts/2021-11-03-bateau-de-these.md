@@ -15,3 +15,4 @@ a voir aussi
 - [L'individu n'existe pas](https://youtube.com/shorts/NKbwVVCFLSo?si=PE7F-ijc61NsabPa) - notre corps est un assemblage de colonie de bacteries
 - [LE CYBERPUNK](https://youtu.be/v3HjYBS0IYQ?t=854) - la frontiere entre l'humain et le robot
 - [Mon beau navire ô ma mémoire - Avons-nous assez navigué ?](https://www.youtube.com/watch?v=BVh2yEAUklQ)
+- [ La fin du monde a tout détruit, sauf moi. ](https://www.youtube.com/watch?v=nkWiRL--O_Y)

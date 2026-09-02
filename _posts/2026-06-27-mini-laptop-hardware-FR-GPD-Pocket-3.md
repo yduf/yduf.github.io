@@ -159,7 +159,7 @@ see [Windows 11 / linux Dual Boot]({% post_url 2026-04-30-windows-linux-dual-boo
 - [GPD Pocket 4 Speaker DSP](https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/) [HN](https://news.ycombinator.com/item?id=43635295)
 - [Linux configs for Gpd Pocket 4](https://codeberg.org/elloskelling/linux-gpd-pocket-4)
 - [UMPC hardware configuration for Ubuntu](https://github.com/wimpysworld/umpc-ubuntu)
-- [ Linux on the GPD Pocket 3 mini-laptop (Ubuntu 21.10 and Fedora 35) ](https://www.youtube.com/watch?v=WAbSuOY1Ka8)
+- [Linux on the GPD Pocket 3 mini-laptop (Ubuntu 21.10 and Fedora 35) ](https://www.youtube.com/watch?v=WAbSuOY1Ka8)
 
 # Windows 11
 
@@ -183,3 +183,16 @@ Coud be used to setup a neo-retro virtual computer
 - [picotron]({% post_url 2025-04-12-main-picotron %})
 
 [![screenshot](https://www.lexaloffle.com/dl/wip/picotron_desktop2.png)](https://www.lexaloffle.com/picotron.php)
+
+# see also
+## Cyberdeck
+- [r/cyberDeck/](https://www.reddit.com/r/cyberDeck/)
+  - [ conception d'une boîte à outils ](https://www.reddit.com/r/cyberDeck/comments/1w127xp/toolbox_build/) - for CNC?
+  - [ boîte à chier 2.0 ](https://www.reddit.com/r/cyberDeck/comments/1vv2ddt/shitbox_20/)
+- [r/phonedeck/](https://www.reddit.com/r/phonedeck/)
+  - [Modular C‑Deck - Clamshell Palmtop](https://www.printables.com/model/1355982-modular-c-deck-clamshell-palmtop)
+  - [Rii Mini Clavier K01X1 ](https://www.amazon.fr/Rii-Clavier-AZERTY-Touchpad-Android/dp/B082VYZ694)
+  - [Rii Mini Clavier Rétroéclairé](https://www.amazon.fr/Rii-R%C3%A9tro%C3%A9clair%C3%A9-Bluetooth-Ultra-Portable-Compatible/dp/B0DL28446F)
+
+
+[![photo](https://media.printables.com/media/prints/70164c0b-9e5c-42e5-b919-e2f6d134d429/images/10238637_491ca806-bf37-4364-a50a-e7b6a40fdbcf_1f63d2ed-011b-4023-8e32-0b351e4b691d/thumbs/inside/1600x1200/jpeg/photo_2025-06-21-160734.webp)](https://www.printables.com/model/1355982-modular-c-deck-clamshell-palmtop)

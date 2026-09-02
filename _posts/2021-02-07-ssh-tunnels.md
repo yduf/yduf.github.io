@@ -1,7 +1,6 @@
 ---
-published: true
 title: SSH tunnels 🚇
-tags: ssh network-security in-progress
+tags: ssh network-security
 toc: true
 ---
 > explains use cases and examples of SSH tunnels - [A visual guide to SSH tunnels](https://robotmoon.com/ssh-tunnels/) / [HN](https://news.ycombinator.com/item?id=26053323)
@@ -15,12 +14,23 @@ toc: true
 ssh -N -L [local_port]:127.0.0.1:[remote_port] 100.69.234.21
 {% endhighlight %}
 
-# [Port forwarding ⮺ 🚧](https://chatgpt.com/share/6a647248-30ac-83eb-958f-7988a7616534) 
+# [Port forwarding ⮺](https://chatgpt.com/share/6a647248-30ac-83eb-958f-7988a7616534) 
 
-Notable
+## autossh
+
+see [Automatiser tunnel SSH](https://chatgpt.com/share/6a97bdae-e804-83eb-a257-28223cafde99)
+
+```ini
+# ssh-config
+Host bastion
+    ServerAliveInterval 30
+    ServerAliveCountMax 3
+    TCPKeepAlive yes
+```
+
+**Notable**
 - [sshuttle](https://github.com/sshuttle/sshuttle#sshuttle-where-transparent-proxy-meets-vpn-meets-ssh) / [doc](https://sshuttle.readthedocs.io/en/stable/how-it-works.html) - route an entire subnet over SSH - did not understand what id does
-- systemd user services + Cockpit (surprisingly nice)
-- Autossh - automatically reconnects dropped tunnels.
+- systemd user services + [Cockpit (surprisingly nice)](https://chatgpt.com/share/6a97c82c-bc8c-83ed-bc32-3fdbeef5db35) - with restrictions for user services
 - or custom tools
 
 

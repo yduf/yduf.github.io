@@ -29,5 +29,6 @@ excerpt_separator: <!--more-->
 	- pourtant l'esprit et le corps ne font qu'un.
 - [Et si ChatGPT était déjà conscient ? - Albert Moukheiber et Monsieur Phi](https://www.youtube.com/watch?v=HlGv8ssW5Qs)
     - être un agent causal - pouvoir naviguer le monde incarné - avoir une subjectivité - une causalité
+- [ La fin du monde a tout détruit, sauf moi. ](https://www.youtube.com/watch?v=nkWiRL--O_Y)
 
 ![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnQKMNI5X148%2Fmaxresdefault.jpg&f=1&nofb=1)

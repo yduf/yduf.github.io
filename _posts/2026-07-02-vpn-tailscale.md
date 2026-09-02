@@ -5,6 +5,11 @@ toc: true
 ---
 > Can be used as [Reverse tunnel / mesh VPN (recommended)](https://chatgpt.com/share/6a462f1c-3e80-83eb-937a-646a7cd66f30) - [Home](https://tailscale.com/) / [📡](https://login.tailscale.com/admin/machines)
 
+<div class="encart blue" markdown="1">
+If both machines are on the same LAN, Tailscale will normally optimize this quite nicely.
+
+The important distinction is that Tailscale does not normally route the traffic through the Tailscale/DERP servers just because you're using a Tailscale IP. - [ChatGPT](https://chatgpt.com/c/6a97bb7b-5288-83eb-929b-1e6712cd2ff7)
+</div>
 
 # Free Tier
 

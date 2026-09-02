@@ -22,6 +22,46 @@ Can be used to host thirdpary binary assets to ease deployment with [chezmoi]({%
 For public repos they are accessible to anyone (limited by LAN access here).
 Auth is only mendatory for private repos.
 
+# [Client Setup ⮺](https://chatgpt.com/share/6a97bdae-e804-83eb-a257-28223cafde99)
+
+Auto-reconnect with tunnel using [autossh]({% post_url 2021-02-07-ssh-tunnels %}autossh) + user service
+
+<details markdown="1"><summary>Details of systemd user service</summary>
+## Systemd
+
+```ini
+# ~/.config/systemd/user/forgejo-tunnel.service
+[Unit]
+Description=SSH tunnel to Forgejo
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+ExecStart=/usr/bin/autossh -M 0 -N -L 3000:127.0.0.1:3000 bastion
+
+Restart=always
+RestartSec=10
+
+# Don't consider the service failed just because the laptop
+# temporarily loses its network connection.
+TimeoutStartSec=0
+
+[Install]
+WantedBy=default.target
+```
+
+Enable with
+```bash
+$ systemctl --user daemon-reload
+$ systemctl --user enable --now forgejo-tunnel
+```
+</details>
+
+Check
+```bash
+$ systemctl --user status forgejo-tunnel
+$ journalctl --user -u forgejo-tunnel -f
+```
 # [Setup ⮺](https://chatgpt.com/share/6a61d28d-8730-83eb-baa5-3387296aa7d6)
 
 <div class="encart green" markdown="1">
