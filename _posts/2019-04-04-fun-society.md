@@ -3,7 +3,7 @@ published: true
 title: Fun society 🤖
 tags: movie fun despair.com
 ---
-> [Mr Robot](https://twitter.com/whoismrrobot) is coming back
+> [Mr Robot](https://twitter.com/whoismrrobot) is coming back - / [youtube](https://www.youtube.com/@MrRobot/videos)
 
 **see also**
 - _I don't know how to talk to people. My dad was the only one I could talk to. But he died._ - [Iconic Opening Scenes from Season 1 - Mr. Robot](https://www.youtube.com/watch?v=rElWirDpi-o)

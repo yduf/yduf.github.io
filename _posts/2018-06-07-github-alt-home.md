@@ -1,6 +1,5 @@
 ---
-title: GitHub@Home
-published: true
+title: GitHub@Home (forgejo)
 tags: github at_home forgejo
 toc: true
 ---

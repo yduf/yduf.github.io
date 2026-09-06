@@ -1,10 +1,13 @@
 ---
 title: De-compiler
-published: true
-tags: LLM reverse compiler ghidra java
+tags: LLM reverse compiler decompiler ghidra blog-code project
 toc: true
 ---
 > Decompiling Binary Code with LLM - [	LLM4Decompile](https://github.com/albertan017/LLM4Decompile?tab=readme-ov-file#llm4decompile) / [HN](https://news.ycombinator.com/item?id=39733275)
+
+**see also**
+- [Decompiling a Nintendo 64 Game in 84 Days](https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/) / [HN](https://news.ycombinator.com/item?id=49466006) -  the original Snowboard Kids is now 100% decompiled! This means that all functions1 have matching C implementations that, when compiled, produce identical machine code to the original game.
+
 
 # Java
 

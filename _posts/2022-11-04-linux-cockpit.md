@@ -1,6 +1,6 @@
 ---
 title: Cockpit 🚅
-tags: linux-system
+tags: linux-system project
 toc: true
 ---
 > a web-based graphical interface for servers - [local](http://localhost:9090) / [Home](https://cockpit-project.org/)
@@ -34,3 +34,9 @@ $ sudo apt install cockpit
 
 **see also**
 - [How to Install Cockpit Web Console on Ubuntu 20.04 Server](https://www.linuxtechi.com/how-to-install-cockpit-on-ubuntu-20-04/)
+
+# Project  💭
+
+Make a small console tui that help managing user service
+ 
+see [chkservice ](https://askubuntu.com/questions/1030850/is-there-a-gui-tool-for-managing-systemd-on-ubuntu-18-04-bionic-beaver) for inspiration

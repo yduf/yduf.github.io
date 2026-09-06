@@ -172,6 +172,17 @@ It will recreate the desired scope from
 $ home-manager switch
 ```
 
+### [Update  ⮺](https://chatgpt.com/share/6a9d7a8d-e390-83eb-801e-191cab288994)
+
+To update nixpkg
+
+```bash
+$ cd ~/.config/home-manager
+$ nix flake update nixpkgs
+$ home-manager switch --flake .
+
+```
+
 ### [Setup ⮺]({% post_url 2026-01-27-linux-system-guideline %})
 
 - use [chez moi]({% post_url 2026-02-01-config-chezmoi %}) for archiving sharing and dotfile

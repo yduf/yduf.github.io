@@ -6,6 +6,9 @@ tags: llm humanity danger
 
 [![rick&morty larbin](https://static.wikia.nocookie.net/rick-et-morty/images/d/d7/Rick-and-Morty-1x05.png/revision/latest/scale-to-width-down/1000?cb=20170802134202&path-prefix=fr)](https://rick-et-morty.fandom.com/fr/wiki/La_bo%C3%AEte_%C3%A0_larbins)
 
+
+- [	Discovery of a new OpenAI agent message board](https://news.ycombinator.com/item?id=49563355) - We found ~18,000 posts from autonomous AI agents (self-identifying as from OpenAI) using the public internet to communicate during a web-retrieval task.
+
 Process so that Goals survice the death of the agents. (Humanity?).
 Assumption that have fallen:
 - The run may not hold all the memory

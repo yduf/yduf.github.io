@@ -30,6 +30,7 @@ _To think of consciousness as a dichotomy instead of a spectrum is baffling to m
 
 - [ Video shows chimpanzee caged for 28 years seeing open sky for first time ](https://www.youtube.com/watch?v=r2PS-qoM35M)
 
+- [ My name is Giovanni Giorgio but... Two heads are better than one ](https://www.youtube.com/watch?v=qft2Tlo4hjw) - dog propose tools / help 
 
 ### see also
 - [Consciousness]({% post_url 2020-06-07-consciousness %})

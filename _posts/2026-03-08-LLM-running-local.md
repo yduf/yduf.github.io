@@ -20,6 +20,7 @@ toc: true
 
 | rank | Model |  | Size | Speed | Comments |
 | --- | --- | --- | --- | --- | --- |
+|  | [Qwen3.8 27B](#qwen-38) |  |  |  |  |
 |  | [Qwen3.6 27B](https://news.ycombinator.com/item?id=48247535) |  |  |  |  |
 |  | qwen3-14b-claude-4.5-opus-high-reasoning-distill |  | 9GB | 80 tok/sec | LM Studio 4.12 |
 |  | unsloth/qwen3-coder-30b-a3b-instruct |  | 11GB/12.4GB | 55.46 tok/sec - 1019 tokens - 0.03s to first token | LM Studio 3.6 |
@@ -41,6 +42,12 @@ Pour ma part je n'ai que 12 Go sur ma RTX 4070 + i5 12400F et 64 Go DDR5. J'ai Q
 Sinon j'ai laissé tomber MTP car d'une part ça demande de la mémoire supplémentaire (donc potentiellement des couches ou KV cache à offloader ==> perte de performance) et de plus j'ai noté une baisse de qualité, même avec un excellent taux d'acceptation.
 
 En espérant avoir apporté quelques informations utiles !
+
+# Qwen 3.8
+- [ Qwen 3.8 27B GSQ RCO tested - 16GB Local LLM setup ](https://www.youtube.com/watch?v=jFHu6wx_TMQ) -  from ISTA DAS Lab Austria,
+  - [ Qwen 3.8 27B Quantizations Q1 - Q8 compared ](https://www.youtube.com/watch?v=WNMnbba35VI)
+  - [ Qwen 3.8 27B Reasoning Levels Tested - Not What I Expected ](https://www.youtube.com/watch?v=z64J6bC16iQ)
+  - [ Qwen 3.8 27B Cold Fusion tested - 16GB Local LLM setup ](https://www.youtube.com/watch?v=wR_cLfRLBDs)
 
 # [Qwen3.6 ⮺](https://ollama.com/library/qwen3.6:35b-a3b-coding-nvfp4)
 

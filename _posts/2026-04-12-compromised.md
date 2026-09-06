@@ -19,9 +19,10 @@ tags: security js python microsoft windows
 - [Microsoft’s open source tools were hacked to steal passwords of AI developers](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/) / [HN](https://news.ycombinator.com/item?id=48457830) - 2026-06-09 - It's a continuation of the Shai Halud worm and the lack of security around developer dependnecy installations, which has existed for a very long time.
 - [	One million passports leaked online ](https://www.theverge.com/tech/947157/
 
+
 ## Leaked 
 - 2026-06-30 - passports-data-breach-cannabis-club-systems-nefos-puffpal) / [HN](https://news.ycombinator.com/item?id=48706389) - cannabis club in Spain photo had public ID  and possibly yphone number exposed to internet 
-
+- [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/) / [HN](https://news.ycombinator.com/item?id=49529621) - A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada.
   
 
 # 2023

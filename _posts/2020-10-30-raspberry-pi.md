@@ -8,6 +8,9 @@ toc: true
 
 <link rel="shortcut icon" href="https://www.raspberrypi.org/app/themes/mind-control/images/favicon.png" type="image/png" />
 
+**see also**
+- [The History of the Raspberry Pi](https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline)
+
 
 [![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Raspberry_Pi_-_Model_A.jpg/330px-Raspberry_Pi_-_Model_A.jpg)](https://en.wikipedia.org/wiki/Raspberry_Pi)
 

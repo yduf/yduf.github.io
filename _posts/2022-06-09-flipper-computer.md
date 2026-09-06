@@ -1,7 +1,6 @@
 ---
-published: true
 title: Pinball computer
-tags: pinball debug computer arcade-hardware
+tags: pinball loom debug computer arcade-hardware
 ---
 > Electrocute yourself debugging in a pre-computer era - [Working On Gottlieb's 1974 BIG SHOT Pinball Machine](https://www.youtube.com/watch?v=-Ws-0IrZNqo) / [2](https://www.youtube.com/watch?v=6JSWAcdkcjc) / [3](https://www.youtube.com/watch?v=rhPQk2onadg)
 
@@ -9,9 +8,10 @@ tags: pinball debug computer arcade-hardware
 - [Old pinball machines are amazingly complex ](https://www.youtube.com/watch?v=ue-1JoJQaEg) - in depth history of pinball machines, as well as internal mechanics
 	- [Fun With Pinball](https://www.youtube.com/watch?v=ue-1JoJQaEg) / [HN](https://news.ycombinator.com/item?id=46969088)
 
-see also
+**see also**
 - [Restauration haute tension ⚡️Donner vie à une technologie oubliée](https://www.youtube.com/watch?v=BbjRCI2Nnos)
 - [What It’s Like Owning a New Pinball Machine in 2025](https://www.youtube.com/watch?v=MwxCy8CY0pE)
+- [knitting](https://www.youtube.com/shorts/-EB96ew3ScY)
 
 ![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.redd.it%2F8gbtqo1rgrzz.jpg&f=1&nofb=1)
 

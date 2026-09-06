@@ -18,6 +18,11 @@ tags: microscope
 
 [![caption](https://cdn.arstechnica.net/wp-content/uploads/2016/10/Siwanowicz_1-980x1087.jpg)](https://arstechnica.com/science/2016/10/a-sense-of-scale-the-best-microscopy-of-2016/)
 
+
+## Polarize
+
+- [ Turn your $600 microscope into $6000 microscope for $5 bucks ](https://www.youtube.com/watch?v=LEZwEoKcPV8)
+
 # Trinocular
 
 - [Mechanic ROBOT 6560T Review](https://www.youtube.com/watch?v=6TWRBREhsIc)

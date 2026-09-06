@@ -7,5 +7,6 @@ tags: java enterprise software despair.com quote
 
 - What Happens to Your Code When You Use These Enterprise Programming Tricks - [youtube](https://www.youtube.com/watch?v=FyCYva9DhsI)
 
-- [Translation From VC-Backed PR Jargon to English](https://daringfireball.net/2020/05/abovitz_magic_leap_translation) - [HN](https://news.ycombinator.com/item?id=23346620)
+- [Translation From VC-Backed PR Jargon to English](https://daringfireball.net/2020/05/abovitz_magic_leap_translation) / [HN](https://news.ycombinator.com/item?id=23346620)
+  - [When The Boss Only Knows How To Speak In Corporate Jargon ](https://www.youtube.com/shorts/pAsytZsdwU4)
 

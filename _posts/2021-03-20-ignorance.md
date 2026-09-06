@@ -3,7 +3,7 @@ published: true
 title: Scientific driven Ignorance
 tags: despair.com science
 ---
-> Comment, des ravages du tabac au déni du changement climatique, on instrumentalise la science pour démentir... la science. - [La fabrique de l'ignorance (ARTE)](https://www.youtube.com/watch?v=6IGVqsnxCE0)
+> Comment, des ravages du tabac au déni du changement climatique, on instrumentalise la science pour démentir... la science. - [La fabrique de l'ignorance (ARTE)](https://www.youtube.com/watch?v=KGqCRbqzvBI)
 
 - [Les batailles du Nutri-Score - Avides de recherche #74](https://www.youtube.com/watch?v=5lzSNK7XQic)
 - [Désinformation: comment les géants américains du pétrole, du plastique et des pesticides utilisent leurs tweets pour retarder l’action climatique](https://www.liberation.fr/environnement/climat/reseau-x-comment-les-geants-americains-du-petrole-du-plastique-et-des-pesticides-utilisent-leurs-tweets-pour-retarder-laction-climatique-20250124_WUHRJ6I67ZARLADWTAPQ4YKAGE/)

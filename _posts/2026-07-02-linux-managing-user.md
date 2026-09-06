@@ -54,6 +54,13 @@ $ sudo usermod -d /home/newusername -m newusername
 $ sudo groupmod -n newusername oldusername
 {% endhighlight %}
 
+## [Delete  ⮺](https://chatgpt.com/share/6a9a9fea-dbd8-83eb-a38d-47ed7c78d6af)
+
+```bash
+$ sudo userdel username
+$ sudo killall -u alice
+```
+
 # [Admin user ⮺](https://chatgpt.com/share/6a4698b6-4b1c-83eb-a6f7-6a5bc95edea8)
 
 {% highlight bash %}
