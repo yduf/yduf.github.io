@@ -3,15 +3,24 @@ title: Hermes 🔱
 tags: agentic-AI agent-memory hermes
 toc: true
 ---
-> [Home](https://hermes-agent.nousresearch.com/)
+> [Guide complet 2026](https://www.youtube.com/watch?v=TkT_B_S6wNY) - [Home](https://hermes-agent.nousresearch.com/)
 
 <link rel="icon" href="https://hermes-agent.nousresearch.com/favicon.ico?favicon.0urifig_ow-kc.ico" sizes="48x48" type="image/x-icon">
+
+<div class="encart red" markdown="1">
+**bigest security issue** - is prompt injection.
+
+Keys have to bet put in the `.env`
+
+**/stop** => to abort
+</div>
 
 <div class="encart blue" markdown="1">
 [Cline CLI]({% post_url 2026-08-01-ide-agent-cline-vscode %}#cli-) can be used in a similar way for administrative task.
 </div>
 
 [6 Hermes Agent use cases](https://www.youtube.com/watch?v=AQHlyGA2cZM)
+- cron
 - /goal
 - Kanban
 
@@ -21,6 +30,15 @@ toc: true
 
 - [install](https://www.youtube.com/watch?v=BBDfNxKXBe4&t=53s)
   - Telegram setup
+
+# [Client Setup ⮺]({% post_url 2018-06-07-github-alt-home %}#systemd)
+
+Auto-reconnect with tunnel using autossh + user service
+
+```bash
+$ systemctl --user status hermes-tunnel
+$ journalctl --user -u hermes-tunnel -f
+```
 
 # Dashboard
 

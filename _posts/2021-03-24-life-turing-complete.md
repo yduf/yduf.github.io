@@ -1,5 +1,4 @@
 ---
-published: true
 title: Life is Turing Complete
 tags: avx gpu life turing-complete
 ---
@@ -12,7 +11,8 @@ tags: avx gpu life turing-complete
 - [ALiEn](https://alien-project.org/) / [HN](https://news.ycombinator.com/item?id=27472224) – a GPU-accelerated artificial life simulation program
 - [Conway's Game of Life on GPU using CUDA](http://www.marekfiser.com/Projects/Conways-Game-of-Life-on-GPU-using-CUDA/4-Advanced-lookup-table-implementation)
 
-see also
+**see also**
+- [Conway's Game of Life With Time as an Axis](https://www.youtube.com/shorts/5BY9N_Rp244)
 - [	A colorful Game of Life](https://news.ycombinator.com/item?id=42961868)
 - [Artificial Life (Simulation & Code)](https://www.youtube.com/watch?v=0Kx4Y9TVMGg) - 4 particle with different interaction forces / [github](https://github.com/hunar4321/particle-life) / [live](https://hunar4321.github.io/particle-life/particle_life.html#91651088029)
 - [How does the _mm256_shuffle_epi8 make sense in this Game of Life implementation?](https://stackoverflow.com/questions/54551462/how-does-the-mm256-shuffle-epi8-make-sense-in-this-game-of-life-implementation)

@@ -22,5 +22,11 @@ tags: ev-car
 - [Geovelo](https://play.google.com/store/apps/details?id=fr.geovelo&utm_source=chatgpt.com) / [ChatGPT](https://chatgpt.com/c/6a9409ab-229c-83eb-bed6-fd752b7f68be)
 - [CycleCam](https://play.google.com/store/apps/details?hl=fr&id=app.cyclecam&utm_source=chatgpt.com) - Dashcam for Bikes
 
-# Kind of disassembly
+## Kind of disassembly
 - [ Disassemble E-Bike TQ-HPR50 Components - Trek Fuel EXe ](https://www.youtube.com/watch?v=Nwu3KCYlSn0)
+
+# Reception
+- [x] enregistrement velo - sur https://bicycode.eu/mon-compte/ - ok
+- [x] faire un essai - ok
+- [x] montage ok
+  - [ ] - comprendre a quoi serve les pieces restantes

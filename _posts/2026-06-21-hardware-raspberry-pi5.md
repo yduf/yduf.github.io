@@ -20,6 +20,7 @@ $ ssh -J bastion tronaut
 | [Tailscale]({% post_url 2026-07-02-vpn-tailscale %})| [📡](https://login.tailscale.com/admin/machines) |
 | [Hermes]({% post_url 2026-07-23-agent-hermes %}) | [🔱  *](http://localhost:9119)|
 | [Forgejo]({% post_url 2018-06-07-github-alt-home %}) | [🧬 **](http://localhost:3000)|
+| [n8n]({% post_url 2026-09-09-wf-n8n %}) | [⇢ ](http://localhost:5678)|
 | Telegram | [topic mode](https://chatgpt.com/share/6a47845c-5914-83ed-8d05-30b69839f799) |
 | nginx | :80 |
 | [php](https://chatgpt.com/share/6a46b923-bcd0-83eb-bab0-9a10acd13874) | [php](http://100.69.234.21/test.php) | 

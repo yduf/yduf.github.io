@@ -13,6 +13,10 @@ toc: true
   
 # [ Models  ⮺](https://huggingface.co/models)
 
+<div class="encart blue" markdown="1">
+[ Bob-Bench Tier List - 31 Local Coding LLMs Ranked ](https://www.youtube.com/watch?v=fx_t8RL2bbU)
+</div>
+
 **see also**
 - [Top Model by task](https://openrouter.ai/rankings#task-spend)
 - [The Best Local Agentic Coding Workflow (Complete Guide)](https://www.youtube.com/watch?v=UngVdAsQEiU)
@@ -44,6 +48,9 @@ Sinon j'ai laissé tomber MTP car d'une part ça demande de la mémoire supplém
 En espérant avoir apporté quelques informations utiles !
 
 # Qwen 3.8
+
+- [ Qwen3.8 Flash: Over 7x Faster First Token ](https://www.youtube.com/watch?v=RlsxXB5q-cA) -  llama.cpp vs SGLang vs FreeToken. Benchmarked! (96GB)
+
 - [ Qwen 3.8 27B GSQ RCO tested - 16GB Local LLM setup ](https://www.youtube.com/watch?v=jFHu6wx_TMQ) -  from ISTA DAS Lab Austria,
   - [ Qwen 3.8 27B Quantizations Q1 - Q8 compared ](https://www.youtube.com/watch?v=WNMnbba35VI)
   - [ Qwen 3.8 27B Reasoning Levels Tested - Not What I Expected ](https://www.youtube.com/watch?v=z64J6bC16iQ)

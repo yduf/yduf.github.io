@@ -13,6 +13,8 @@ excerpt_separator: <!--more-->
 - 329x140x62.5mm - takes 3 PC slots
 - [3dmodels](https://grabcad.com/library/asus-tuf-gaming-geforce-rtx-5070-ti-1)
 
+**see also**
+- [Tesla V100 32GB](https://www.youtube.com/watch?v=3P6m_QBIgAo)
 
 # RTX 5070 vs 5070 Ti  
 [**Laquelle choisir ?**](https://buildmypc.fr/rtx-5070-vs-5070-ti)
