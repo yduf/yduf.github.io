@@ -2,6 +2,7 @@
 title: Mermaid 🧜‍♀️
 tags: doc UML diagram markdown online
 toc: true
+mermaid: true
 ---
 > Sequence diagrams, the only good thing UML brought to software development - [HN](https://news.ycombinator.com/item?id=36342931) / [2](https://news.ycombinator.com/item?id=31273777) / [online](https://mermaid.live)
 
@@ -12,14 +13,6 @@ as well as in [github](https://github.blog/2022-02-14-include-diagrams-markdown-
 
 - [Howto example in this page](https://chatgpt.com/share/6a9d9f3b-dc08-83ed-a7bd-947df82ce645)
 </div>
-
-<script type="module">
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
-
-  mermaid.initialize({
-    startOnLoad: true
-  });
-</script>
 
 <style>
 .mermaid-example {

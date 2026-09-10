@@ -58,7 +58,7 @@ Currently, the supported Kubernetes kinds are:
 # Management tools
 - [Cockpit]({% post_url 2022-11-04-linux-cockpit %}) a web-based GUI for your server, [ has a nice plugin for us to manage Podman ](https://www.smarthomebeginner.com/docker-to-podman-migration-guide/#Cockpit)
 
-# [Install ⮺ ](https://podman.io/docs/installation)
+# [Install ⮺ 📥](https://podman.io/docs/installation)
 
 see also [How To Install Podman 4 on Ubuntu 22.04](https://devicetests.com/install-podman-4-ubuntu-22-04)
 
