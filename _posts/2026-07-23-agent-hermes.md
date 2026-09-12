@@ -1,6 +1,6 @@
 ---
 title: Hermes 🔱
-tags: agentic-AI agent-memory hermes
+tags: agentic-AI agent-memory hermes harness
 toc: true
 ---
 > [Guide complet 2026](https://www.youtube.com/watch?v=TkT_B_S6wNY) - [Home](https://hermes-agent.nousresearch.com/)

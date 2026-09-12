@@ -1,6 +1,6 @@
 ---
 title: Cline 🤖
-tags: agentic-AI vscode 
+tags: agentic-AI harness vscode 
 toc: true
 ---
 > Cline is an open source AI coding agent that brings frontier AI models directly to your IDE. Unlike autocomplete tools, Cline is a true coding agent that can understand entire codebases, plan complex changes, and execute multi-step tasks. - [Cline](https://docs.cline.bot/introduction/welcome) / [github](https://github.com/cline/cline?tab=readme-ov-file#cline) / [👤](https://app.cline.bot/dashboard/account?tab=credits)

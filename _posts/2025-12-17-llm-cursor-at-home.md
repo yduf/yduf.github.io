@@ -1,7 +1,6 @@
 ---
 title: Cursor@Home
-published: true
-tags: LLM agentic-AI at_home vscode
+tags: LLM agentic-AI harness at_home vscode
 toc: true
 ---
 > How to make your own cursor - [ChatpGPT](https://chatgpt.com/share/694288eb-9fd4-800d-9753-9c1f39b2f9b6)
@@ -121,6 +120,7 @@ Did you know that it is named _Claude_ in reference to _Claude Shanon_ the man t
     - filtering out people from the wrong side of "all humanity", years before it was demanded by the government
     - downgrading their models in arbitrary ways (later saying "sorry but not really")
     - actively sabotaging the replies, as in covertly modifying them to feed the users incorrect results
+- [Claude is only available to people over 18 years](https://news.ycombinator.com/item?id=49656225)
 - [Claude Conway](https://chatgpt.com/share/6a4573cd-e6e8-83eb-9347-2c9c10a582e5) - instead of a normal chatbot that waits for you to type something, Conway would act more like a persistent background assistant that keeps running and can continue working over time. supposed to spy on you;
 
 # [Codex ⮺](https://github.com/openai/codex?tab=readme-ov-file#quickstart)

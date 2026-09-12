@@ -1,5 +1,5 @@
 ---
-title: Running Local LLM
+title: Running Local LLM 🤖
 tags: LLM at_home network
 toc: true
 ---
@@ -22,14 +22,15 @@ toc: true
 - [The Best Local Agentic Coding Workflow (Complete Guide)](https://www.youtube.com/watch?v=UngVdAsQEiU)
 - [Your Open Source Model Could Have a Hidden Time-Release Backdoor](https://morgin.ai/articles/your-open-source-model-could-have-a-hidden-time-release-backdoor.html) - demonstrate that harness context can be used to trigger a different answer in controlled condition.
 
-| rank | Model |  | Size | Speed | Comments |
-| --- | --- | --- | --- | --- | --- |
-|  | [Qwen3.8 27B](#qwen-38) |  |  |  |  |
-|  | [Qwen3.6 27B](https://news.ycombinator.com/item?id=48247535) |  |  |  |  |
-|  | qwen3-14b-claude-4.5-opus-high-reasoning-distill |  | 9GB | 80 tok/sec | LM Studio 4.12 |
-|  | unsloth/qwen3-coder-30b-a3b-instruct |  | 11GB/12.4GB | 55.46 tok/sec - 1019 tokens - 0.03s to first token | LM Studio 3.6 |
-|  | llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-NVFP4-Experts-Only-GGUF |  | 12.5GB | 10 tok/sec - 2898 tokens - 1.16s to first token | LM Studio 4.12 |
-|  | llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-NVFP4-Experts-Only-GGUF |  | 12.5GB | 10 tok/sec - 2898 tokens - 1.16s to first token | LM Studio 4.12 |
+| rank | Model               |  Size | Speed | Comments |
+| --- | ---                  | ---  | ---    | --- |
+|  | [Qwen3.8 27B](#qwen-38) |  15.9Go = 13Go + cont 46k   | 6t/s | LM Studio 4.24 |
+|  | [Qwen3.6 27B](https://news.ycombinator.com/item?id=48247535) |  | |  |  |
+|  | [**Qwen3(?) 14B**](#qwen3-14b-claude-45-opus-high-reasoning-distill) |  15.9Go = 9Go + cont 46k | 80t/s  |  |
+|  | qwen3-14b-claude-4.5-opus-high-reasoning-distill   | 9GB | 80 tok/sec | LM Studio 4.12 |
+|  | unsloth/qwen3-coder-30b-a3b-instruct   | 11GB/12.4GB | 55.46 tok/sec - 1019 tokens - 0.03s to first token | LM Studio 3.6 |
+|  | llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-NVFP4-Experts-Only-GGUF  | 12.5GB | 10 tok/sec - 2898 tokens - 1.16s to first token | LM Studio 4.12 |
+|  | llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-NVFP4-Experts-Only-GGUF  | 12.5GB | 10 tok/sec - 2898 tokens - 1.16s to first token | LM Studio 4.12 |
 
 - [	I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes](https://news.ycombinator.com/item?id=49407507)
 - [ QWEN 3.6 27B sur 16GB VRAM : La meilleure configuration ](https://www.youtube.com/watch?v=YElKs1ihn3M)
@@ -48,6 +49,13 @@ Sinon j'ai laissé tomber MTP car d'une part ça demande de la mémoire supplém
 En espérant avoir apporté quelques informations utiles !
 
 # Qwen 3.8
+
+<div class="encart blue" markdown="1">
+Testing
+- [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF) 13Gb with -mtp 
+  
+</div>
+
 
 - [ Qwen3.8 Flash: Over 7x Faster First Token ](https://www.youtube.com/watch?v=RlsxXB5q-cA) -  llama.cpp vs SGLang vs FreeToken. Benchmarked! (96GB)
 
@@ -77,6 +85,10 @@ Qwen3.5 is Alibaba’s new model family, including Qwen3.5-35B-A3B, 27B, 122B-A1
 
 See all [GGUFs here](https://huggingface.co/collections/unsloth/qwen35).
 - [How to run Qwen 3.5 locally ](https://news.ycombinator.com/item?id=47292522)
+
+# Qwen3
+
+## qwen3-14b-claude-4.5-opus-high-reasoning-distill
 
 ## Qwen3-Coder-30B-A3B-Instruct-GGUF
 
@@ -134,6 +146,10 @@ Instead of compressing each weight independently, it compresses blocks of weight
 
 **M** a variant of the quantisation scheme  (S (small) / M (Medium) / L (Large) precision)
 
+## GSQ-RCO
+
+A particular quantization method/format intended to preserve quality at very low bit rates
+
 # Model Parameters
 
 ## [A3B ⮺](https://chatgpt.com/share/69addea8-9148-800d-92e3-67c4e0926a2b)
@@ -152,6 +168,14 @@ Example
 | Qwen3.5-35B-A3B   | 35B              | ~3B active        |
 | ERNIE-4.5-21B-A3B | 21B              | ~3B active        |
 
+
+## -mtp
+
+-mtp build (about 0.35 GB larger) that carries the model's Multi-Token Prediction head for speculative decoding in llama.cpp. The weights are otherwise identical, so quality is unchanged.
+
+you're adding machinery that can make decoding faster.
+
+And the MTP speedup only happens when your inference engine actually supports/activates MTP. This repo specifically targets llama.cpp's draft-mtp speculative decoding.
 
 ## [instruct ⮺](https://chatgpt.com/share/6985a9bb-67b0-800d-8a87-83d97db2f72b) 
 

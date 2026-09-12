@@ -1,6 +1,6 @@
 ---
 title: "Agent Fleet & LLM harness 🐕‍🦺"
-tags: agentic-AI kanban
+tags: agentic-AI harness kanban
 ---
 > Benching Harness - [Leaderboard](https://agentscope-ai.github.io/PawBench/) / [PawBench](https://github.com/agentscope-ai/PawBench?utm_source=chatgpt.com#-pawbench) / [ChatGPT](https://chatgpt.com/share/6a89bb17-55b0-83ed-a713-7ae1123bdb41) / [What Is a Harness? ](https://news.ycombinator.com/item?id=49409092)
 

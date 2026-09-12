@@ -1,6 +1,5 @@
 ---
-published: true
-title: OpenSky
+title: OpenSky 🕊️
 tags: plane anime
 ---
 > An [individual airplane](https://www.youtube.com/watch?v=JAobfMSX9dg) like in  [Films du Studio Ghibli - 1984 : Nausicaä de la Vallée du vent](https://duckduckgo.com/?t=lm&q=nausica+et+la+vall%C3%A9e+du+vent&iax=images&ia=images&iai=https%3A%2F%2Fgeekbecois.com%2Fwp-content%2Fuploads%2F2019%2F04%2Fnausicaa_01.jpg)- [360° POV](https://www.youtube.com/watch?v=jhve8eEVxNU)
@@ -10,6 +9,7 @@ tags: plane anime
 
 **see also**
 - [ Sabre F-86](https://www.youtube.com/watch?v=WyI-bkQgoc4)
+- [  Adam Savage Experiences Anatomically Correct Wings! ](https://www.youtube.com/watch?v=WT7MLrxor1A)
 
 [![caption](https://www.petworks.co.jp/opensky/img/img01.jpg)](https://www.youtube.com/@kazuhiko_hachiya)
 

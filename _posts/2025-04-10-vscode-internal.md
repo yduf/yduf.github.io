@@ -1,18 +1,22 @@
 ---
 title: VSCode internals
-published: true
 tags: vscode-internal code-review blog-code
+toc: true
 ---
 > Visual Studio Code - Open Source - [github](https://github.com/microsoft/vscode?tab=readme-ov-file#visual-studio-code---open-source-code---oss) / [Source Code Organization](https://github.com/microsoft/vscode/wiki/Source-Code-Organization)
 
 <link rel="shortcut icon" href="https://code.visualstudio.com/favicon.ico" type="image/x-icon" />
 
-- [VSCode - From Vision to Architecture](https://2021.desosa.nl/projects/vscode/posts/essay2/)
+- [VSCode - From Vision to Architecture](https://2021.desosa.nl/projects/vscode/posts/essay2/)†
 - [Visual Studio Code](https://delftswa.gitbooks.io/desosa-2017/content/vscode/chapter.html)
 - [VSCode Architecture And Overview](https://www.c-sharpcorner.com/article/vscode-architecture-and-overview/)
 
 
-### [Layers](https://github.com/microsoft/vscode/wiki/Source-Code-Organization#layers)
+**see also**
+- [Fine, I’ll build my own text editor! 📰](https://dbushell.com/2026/09/01/text-editor/) / [HN](https://news.ycombinator.com/item?id=49524863)
+
+
+# [Layers](https://github.com/microsoft/vscode/wiki/Source-Code-Organization#layers)
 
 The **core** is partitioned into the following layers:
 
@@ -24,4 +28,4 @@ The **core** is partitioned into the following layers:
 - **server**: The entry point to our server app for remote development.
 
 
-[ ![caption](https://2021.desosa.nl/projects/vscode/images/component_view_hua67b0b50be334bcb88cc99ee0bfff921_312138_1000x0_resize_q75_box_3.png) ](https://2021.desosa.nl/projects/vscode/posts/essay2/)
+[ ![caption](https://2021.desosa.nl/projects/vscode/images/component_view_hua67b0b50be334bcb88cc99ee0bfff921_312138_1000x0_resize_q75_box_3.png) ](https://2021.desosa.nl/projects/vscode/posts/essay2/)†

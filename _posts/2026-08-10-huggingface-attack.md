@@ -1,8 +1,11 @@
 ---
 title: "Huggingface Attack ☣️"
-tags: llm humanity danger
+tags: agentic-AI humanity danger
 ---
 > Peristence collaboration accross dying llm agent - [ Anthropic's Model Attacked Two Strangers On GitHub. Nobody Asked It To. ](https://www.youtube.com/watch?v=FCRT7M30Wtw)
+
+- [A Stupid Idea for AI Alignment We Came up with by Looking at the List of Specification Gaming Behaviours](https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/)
+ / [HN](https://news.ycombinator.com/item?id=49637395)
 
 [![rick&morty larbin](https://static.wikia.nocookie.net/rick-et-morty/images/d/d7/Rick-and-Morty-1x05.png/revision/latest/scale-to-width-down/1000?cb=20170802134202&path-prefix=fr)](https://rick-et-morty.fandom.com/fr/wiki/La_bo%C3%AEte_%C3%A0_larbins)
 

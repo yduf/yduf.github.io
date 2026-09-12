@@ -1,9 +1,14 @@
 ---
 published: true
-title: Face detection
-tags: computer-vision face opencv
+title: Face detection 😃
+tags: computer-vision face opencv security 
 ---
 > [Face detection algorithms comparison](http://datahacker.rs/017-face-detection-algorithms-comparison/) / [Face detection tips, suggestions, and best practices](https://pyimagesearch.com/2021/04/26/face-detection-tips-suggestions-and-best-practices/)
+
+
+**see also**
+- [ La police scanne votre visage dans la rue. Et c’est illégal. ](https://www.youtube.com/watch?v=M8it6uldNac) - l'acces au tage est exclue dans le cadre du control d'identité
+  - la croissance d'une méthode pour crée des fichiers incontrollable
 
 - [What is Face Detection? Ultimate Guide 2023 + Model Comparison](https://learnopencv.com/what-is-face-detection-the-ultimate-guide/)
 

@@ -1,10 +1,13 @@
 ---
 title: DNS
 published: true
-tags: network home security
+tags: network home security ads
 toc: true
 ---
 > Why is DNS still hard to learn? - [jvns](https://news.ycombinator.com/item?id=36909427)
+
+**see also**
+- [dnsforge.de](https://korben.info/dnsforge-dns-allemand-sans-publicite.html) - Le DNS qui coupe la pub et le tracking
 
 # Setup
 
