@@ -33,3 +33,4 @@ All this logic needs to complete, in sequence, but without higher order workflow
     - a durable queue makes it vastly simpler to build a durable workflow engine. - [HN](https://news.ycombinator.com/item?id=45186232)
 - [Camunda External Tasks](https://docs.camunda.org/manual/7.20/user-guide/process-engine/external-tasks/)
 - [I Love You, Redis, But I’m Leaving You for SolidQueue](https://www.simplethread.com/redis-solidqueue/) / [HN](https://news.ycombinator.com/item?id=46614037) - migrate an application’s job queues to vanilla PostgreSQL (or SQLite or MySQL).
+- [Asynchronous Messaging, Part 2: Durable Queues](https://blog.stephencleary.com/2021/01/asynchronous-messaging-2-durable-queues.html)

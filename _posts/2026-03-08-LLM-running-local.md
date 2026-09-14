@@ -18,6 +18,7 @@ toc: true
 </div>
 
 **see also**
+- [Model benchmarks](https://lukesdevlab.com/)
 - [Top Model by task](https://openrouter.ai/rankings#task-spend)
 - [The Best Local Agentic Coding Workflow (Complete Guide)](https://www.youtube.com/watch?v=UngVdAsQEiU)
 - [Your Open Source Model Could Have a Hidden Time-Release Backdoor](https://morgin.ai/articles/your-open-source-model-could-have-a-hidden-time-release-backdoor.html) - demonstrate that harness context can be used to trigger a different answer in controlled condition.
@@ -53,7 +54,7 @@ En espérant avoir apporté quelques informations utiles !
 <div class="encart blue" markdown="1">
 Testing
 - [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF) 13Gb with -mtp 
-  
+  - Quantization: IQ3_S - [Benchmark](https://www.youtube.com/watch?v=jFHu6wx_TMQ)
 </div>
 
 

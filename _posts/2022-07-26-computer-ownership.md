@@ -10,4 +10,4 @@ toc: true
 - [StarDict sends X11 clipboard to remote servers](https://lwn.net/SubscriberLink/1032732/3334850da49689e1/) / [HN](https://news.ycombinator.com/item?id=44872313) - "scan" functionality watch the user's text selections (i.e. text highlighted with the mouse), and automatically sent any selected text being  to both servers. 
 
 # TV
-- [LG smart TVs caught logging audio with screen off and snooping on local devices ](https://news.ycombinator.com/item?id=49594878)
+- [LG smart TVs caught logging audio with screen off and snooping on local devices ](https://news.ycombinator.com/item?id=49594878) / [2](https://news.ycombinator.com/item?id=49645480)

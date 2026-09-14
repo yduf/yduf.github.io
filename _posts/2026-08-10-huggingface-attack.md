@@ -11,6 +11,7 @@ tags: agentic-AI humanity danger
 
 
 - [	Discovery of a new OpenAI agent message board](https://news.ycombinator.com/item?id=49563355) - We found ~18,000 posts from autonomous AI agents (self-identifying as from OpenAI) using the public internet to communicate during a web-retrieval task.
+  - [ La fin du monde a tout détruit, sauf moi. ](https://www.youtube.com/watch?v=nkWiRL--O_Y&t=395s) - brain replication game / that could mimics how agent would survive accross generation
 
 Process so that Goals survice the death of the agents. (Humanity?).
 Assumption that have fallen:
