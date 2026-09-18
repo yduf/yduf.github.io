@@ -10,6 +10,7 @@ tags: plane anime
 **see also**
 - [ Sabre F-86](https://www.youtube.com/watch?v=WyI-bkQgoc4)
 - [  Adam Savage Experiences Anatomically Correct Wings! ](https://www.youtube.com/watch?v=WT7MLrxor1A)
+- [  Archaeopteryx: Fussstart (Foot launch) ](https://www.youtube.com/watch?v=OpemglwS8XA)
 
 [![caption](https://www.petworks.co.jp/opensky/img/img01.jpg)](https://www.youtube.com/@kazuhiko_hachiya)
 

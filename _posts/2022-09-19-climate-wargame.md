@@ -1,7 +1,7 @@
 ---
 published: true
 title: Wargames
-tags: climate-war science movie games computer
+tags: climate-war science movie games computer security
 toc: true
 ---
 > A strange game. The only winning move is not to play. How about a nice game of chess? - [Joshua](https://www.quotes.net/movies/wargames_12413)
@@ -20,6 +20,7 @@ toc: true
     - [IMSAI 8080 replica](https://thehighnibble.com/imsai8080/#overview)
   - [Bob's Unnecessary Retro Processor](https://www.youtube.com/watch?v=6GI3cAsZgF0)
 - [ tactical thermonuclear gnome ](https://www.youtube.com/watch?v=YPW_HeOHA1E) 🎅
+-  [ we can just build a better WOPR](https://news.ycombinator.com/item?id=49750434)
 
 [![caption](https://pc-museum.com/gallery/rcm-046-medium.jpg)](https://pc-museum.com/046-imsai8080/index.htm)
 

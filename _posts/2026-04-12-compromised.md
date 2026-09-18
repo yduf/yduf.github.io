@@ -18,7 +18,7 @@ tags: security js python microsoft windows
 - [Arch Linux](https://www.youtube.com/watch?v=f-E9culhQGM) / [2](https://www.youtube.com/watch?v=oLK-OWdEm7I) / [sources](https://archlinux.org/news/active-aur-malicious-packages-incident/) - 2026-06-12
 - [Microsoft’s open source tools were hacked to steal passwords of AI developers](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/) / [HN](https://news.ycombinator.com/item?id=48457830) - 2026-06-09 - It's a continuation of the Shai Halud worm and the lack of security around developer dependnecy installations, which has existed for a very long time.
 - [	One million passports leaked online ](https://www.theverge.com/tech/947157/
-
+- [Chess.com Leak Exposes 7.3M Users](https://news.ycombinator.com/item?id=49691584)
 
 ## Leaked 
 - 2026-06-30 - passports-data-breach-cannabis-club-systems-nefos-puffpal) / [HN](https://news.ycombinator.com/item?id=48706389) - cannabis club in Spain photo had public ID  and possibly yphone number exposed to internet 

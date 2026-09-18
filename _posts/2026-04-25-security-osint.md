@@ -8,6 +8,7 @@ toc: true
 # [Graph ⮺](https://chatgpt.com/share/6a3f8655-3f0c-83eb-ad6c-10897d85d4e1)
 
 Visualize dependencies between data to detect pivot.
+- [OpenCTI](https://github.com/OpenCTI-Platform/opencti#introduction) / [video](https://www.youtube.com/watch?v=XYvfald8geM)
 - [SpiderFoot](https://github.com/smicallef/spiderfoot#features) - onprem / opensource
 - [Maltego]() - online
 
