@@ -7,8 +7,14 @@ toc: true
 > [Bleak Sword](https://twitter.com/more8bit?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E990314804152815618%7Ctwgr%5E%7Ctwcon%5Es1_) is a dark fantasy action-adventure video game  - [Home](https://www.bleaksword.com/)
 
 <div markdown="1" style="background-image: url('https://images.gog-statics.com/42bf8d9bff141dca4db1037eb4f6fb9fc00bbc038278bb58e3db5dece94ff394_bg_crop_1920x655.jpg'); background-size: cover; background-position: center; padding: 60px 40px; color: white;">
-Works perfectly with Wine System 11.0 from Lutris
-- AS long AS DXVK is **disabled**
+Works perfectly with Wine or GE Proton
+- issue with DXVK caused by [broken kernel support on i915]({% post_url 2021-07-18-laptop-huawei-matebook-14 %}#i915)
+- sound issue coming from [GE Proton](#ge-proton) & Lutris Flatpak.
+
+All fixed by [cline]({% post_url 2026-08-01-ide-agent-cline-vscode %})
+
+Can be launched directly with `/home/yves/Games/gog/bleak-sword/launch-bleaksword.sh`
+
 </div>
 
 # see also

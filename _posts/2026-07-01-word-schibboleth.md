@@ -7,3 +7,7 @@ excerpt_separator: <!--more-->
 
 **see also**
 - [AI Schibboleth](https://news.ycombinator.com/item?id=48741888) - _"Now here is the insight that makes the whole thing click."_
+  - _It's young, and it shows_
+  - _not a toy, but not a sprawling project either, and ideally.._
+  - _And that’s the trap_
+  - _real_ / _genuine_

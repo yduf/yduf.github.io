@@ -2,7 +2,9 @@
 title: "Deepseek Harness 🐋"
 tags: agentic-AI harness
 ---
-> [ Qwen3.8 27B: Same Model, Three Harnesses, One Clear Winner ](https://www.youtube.com/watch?v=sSySOPGNdjw&t=1210s) - 1. Deepseek, 2. Pi, 3. Hermes 
+> [ Qwen3.8 27B: Same Model, Three Harnesses, One Clear Winner ](https://www.youtube.com/watch?v=sSySOPGNdjw&t=1210s) - 1. Deepseek, 2. Pi, 3. Hermes  - [github](https://github.com/deepseek-ai/deepseek-harness?utm_source=chatgpt.com#deepseek-harness)
+
+_It is built on an everything-is-a-plugin architecture and powered by Cordis, whose design is described in  [A Programming Paradigm for Spatiotemporal Composability](https://arxiv.org/abs/2608.25512)._
 
 # VSCode
 

@@ -17,6 +17,8 @@ toc: true
 [ Bob-Bench Tier List - 31 Local Coding LLMs Ranked ](https://www.youtube.com/watch?v=fx_t8RL2bbU)
 </div>
 
+- [Deepseek V4.1 Flash vs Qwen 3.8 Flash, GLM 5.3 Flash, Gemini 3.8 Flash](https://www.youtube.com/watch?v=mzothrIi0cE)
+
 **see also**
 - [Model benchmarks](https://lukesdevlab.com/)
 - [Top Model by task](https://openrouter.ai/rankings#task-spend)

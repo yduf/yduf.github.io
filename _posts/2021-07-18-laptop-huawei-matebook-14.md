@@ -50,7 +50,7 @@ toc: true
         - and is currenly incompatible with [`Fingerprint`]({% post_url 2024-12-31-fingerprint-libfprint %})
         - [**Fingerprint reader fork**](https://wiki.archlinux.org/title/Huawei_MateBook_14_AMD_(2020)) - The Goodix fingerprint reader is currently unsupported officially. There is a fork however, which aims to provide support for the device (along with other similar goodix ones). The driver is currently in testing but there is an aur package for it libfprint-goodixtls-gitAUR which works with fprintd 
 
-### [GPU intel/nvidia ⮺](https://chatgpt.com/share/6867d795-63c8-800d-aad8-96d250000571)
+## [GPU intel/nvidia ⮺](https://chatgpt.com/share/6867d795-63c8-800d-aad8-96d250000571)
 
 This is a dual GPU laptop.
 - Intel UHD Graphics driver: i915
@@ -68,6 +68,21 @@ $ sudo apt install nvidia-prime
 $ sudo prime-select nvidia
 $ sudo reboot               # and restart :-( ...
 ```
+
+### i915
+
+<div class="encart red" markdown="1">
+When enabling DXVK/Vulkan with wine: The Intel UHD's Vulkan stack on this machine is simply broken on this kernel/driver combination.
+
+**Switch to MX350** using _prime-select on-demand_
+</div>
+
+Modern Intel GPUs support preemption: the graphics driver can pause a running render job (even in the middle of executing commands/shaders) to let something more urgent run — e.g., another app's frame, a compositor update, or a higher-priority context — and then resume the paused job later. This improves latency and fairness between applications.
+
+On your GPU generation (Gen9/Gen9.5), this preemption is implemented through a somewhat fragile mechanism, and your kernel log shows it's exactly where things break:
+i915 0000:00:02.0: [drm] Resetting rcs0 for preemption time out
+i915 0000:00:02.0: [drm] GPU HANG: ecode 9:1:e757fefe, in BleakSwordDX.ex
+Translation: the driver tried to preempt a running job on the render engine (rcs0), the GPU never acknowledged the preemption request ("preemption time out"), the driver concluded the engine was hung, and reset the whole render engine. That reset is what kills DXVK/Vulkan apps with VK_ERROR_DEVICE_LOST.
 
 # [Installing Linux ⮺](https://www.tecmint.com/install-linux-mint-alongside-windows-dual-boot-uefi-mode/)
 
