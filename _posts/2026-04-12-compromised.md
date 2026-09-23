@@ -1,6 +1,6 @@
 ---
 title: Compromised 🔐
-tags: security js python microsoft windows
+tags: security taint js python microsoft windows
 ---
 > who's next?
 

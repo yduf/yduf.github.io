@@ -1,14 +1,29 @@
 ---
-published: true
 title: Scientific driven Ignorance
-tags: despair.com science
+tags: despair.com science social ignorance knowledge
+toc: true
 ---
 > Comment, des ravages du tabac au déni du changement climatique, on instrumentalise la science pour démentir... la science. - [La fabrique de l'ignorance (ARTE)](https://www.youtube.com/watch?v=KGqCRbqzvBI)
 
+- [ La machine écraseuse d’orphelins - La chronique d'Albert Moukheiber dans La dernière ](https://www.youtube.com/watch?v=Sok_ewjWPF8) - comment se voiler la face en pretendant protéger la jeunesse.
+  
+# Food
 - [Les batailles du Nutri-Score - Avides de recherche #74](https://www.youtube.com/watch?v=5lzSNK7XQic)
-- [Désinformation: comment les géants américains du pétrole, du plastique et des pesticides utilisent leurs tweets pour retarder l’action climatique](https://www.liberation.fr/environnement/climat/reseau-x-comment-les-geants-americains-du-petrole-du-plastique-et-des-pesticides-utilisent-leurs-tweets-pour-retarder-laction-climatique-20250124_WUHRJ6I67ZARLADWTAPQ4YKAGE/)
 - [	Sugar industry influenced researchers and blamed fat for CVD (2016)](https://news.ycombinator.com/item?id=46526740) - _another fallacy in play where people pushing these debates want you to think that there is only one single cause of CVD or health issues: Either sugar, carbs, fat, or something else. The game they play is to point the finger at one thing and imply that it gets the other thing off the hook. Don’t fall for this game._
 
+# Health
+
+- [Microplastics found in live human lung tissue](Microplastics found in live human lung tissue) - Note however that US academic institutions basically cut all research into these subjects due to political and industrial pressure. It started with Republican attacks on USGS funding for environmental pollution research in the early 1990s, and continued with NIH cutting funding for environmental carcinogen research in favor of inheritied genetic explanations for cancer. Hence, 'little firm evidence'. 
+- [Désinformation: comment les géants américains du pétrole, du plastique et des pesticides utilisent leurs tweets pour retarder l’action climatique](https://www.liberation.fr/environnement/climat/reseau-x-comment-les-geants-americains-du-petrole-du-plastique-et-des-pesticides-utilisent-leurs-tweets-pour-retarder-laction-climatique-20250124_WUHRJ6I67ZARLADWTAPQ4YKAGE/)
+
+# Racisme
+- [Tout ce que l'on ne veut surtout pas savoir sur le racisme](https://www.youtube.com/watch?v=1An_SWss5yc)
+  - [Ouvrir les yeux sur l'ignorance blanche](https://www.youtube.com/watch?v=6r9TcVKArOU)
+  - les inegalités subsistent et sont déniés sous couvert d'égalité des chances (cf [merits]({% post_url 2020-04-22-merits %}))
+  - _je ne veux pas perdre ce que j'ai dit ce que je ne possède pas_
+- [ Les téléteubés - La chronique d'Audrey Vernon dans La dernière ](https://www.youtube.com/watch?v=oXnaDR9pkXo) - _liker n'est pas lutter_.
+
+# General
 > La science ne dit pas ce que nous devons faire de ce qu'elle permet de faire. - [Je ne suis pas expert, mais je... - Étienne Klein](https://www.youtube.com/watch?v=zp-GJAr5kGo) 
 
 - nous savons que ... et nous nous demandons si ...
@@ -23,6 +38,5 @@ tags: despair.com science
 
 - [On sait que c'est fake. On s'en balek](https://www.youtube.com/watch?v=W18vrY0SaT8) - Cette façon dont les faits s'effacent et le vrai s'affaisse quand, sous la surface, le faux se professe.
 
-- [Microplastics found in live human lung tissue](Microplastics found in live human lung tissue) - Note however that US academic institutions basically cut all research into these subjects due to political and industrial pressure. It started with Republican attacks on USGS funding for environmental pollution research in the early 1990s, and continued with NIH cutting funding for environmental carcinogen research in favor of inheritied genetic explanations for cancer. Hence, 'little firm evidence'. 
 
 [ ![caption](https://upload.wikimedia.org/wikipedia/commons/c/ca/The_Isolator_%28cropped%29.jpg)](https://laughingsquid.com/the-isolator-bizarre-helmet-1925/)
