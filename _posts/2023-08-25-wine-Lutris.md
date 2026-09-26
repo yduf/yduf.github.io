@@ -1,11 +1,15 @@
 ---
 title: Lutris
-tags: games wine lutris nvidia gpu
+tags: games wine lutris nvidia gpu emulator
 toc: true
 ---
 > Play all your games on Linux - [Home](https://lutris.net/) / [r/linux_gaming](https://www.reddit.com/r/linux_gaming/comments/sbncmq/are_there_any_just_works_controllers_for/)
 
+# Runners
+
 - [Adding runner](https://github.com/lutris/lutris/discussions/3772) - menu / preferences
+
+## [PPSSPP ⮺]({% post_url 2023-10-20-console-psp %}#ppsspp-)
 
 # GE Proton
 
@@ -29,14 +33,14 @@ The fix (no root required)
 Now ALSA's pcm_pulse plugin loads inside the sandbox, routes to the PipeWire socket (which the Flatpak already had access to), and the audio flows.
 </div>
 
-# [Gamescope](https://wiki.archlinux.org/title/Gamescope)
+# [Gamescope  ⮺](https://wiki.archlinux.org/title/Gamescope)
 
 Gamescope is a microcompositor from Valve that is used on the Steam Deck. Its goal is to provide an isolated compositor that is tailored towards gaming and supports many gaming-centric features such as:
 - Spoofing resolutions.
 - pscaling using AMD FidelityFX™ Super Resolution or NVIDIA Image Scaling.
 - Limiting framerates.
 
-# [What is DXVK?](https://github.com/lutris/docs/blob/master/HowToDXVK.md)
+# [What is DXVK?  ⮺](https://github.com/lutris/docs/blob/master/HowToDXVK.md)
 
 <div class="encart orange" markdown="1">
 Lutris runs inside the Flatpak sandbox, where the host's NVIDIA driver is invisible — Flatpak apps get it via a matching org.freedesktop.Platform.GL.nvidia-XXX extension. You had extensions for old driver versions (525/535/570) but not for 580.178.04 (the current host driver) — so inside the sandbox there was no NVIDIA Vulkan driver at all, and DXVK aborted instantly. That's also why Lutris logged "card0" is No GPU.
@@ -44,6 +48,10 @@ Lutris runs inside the Flatpak sandbox, where the host's NVIDIA driver is invisi
 
 So if running multigpu, this has to be adjusted.
 
-# [What is Esync?](https://github.com/lutris/docs/blob/master/HowToEsync.md)
+# [What is Esync?  ⮺](https://github.com/lutris/docs/blob/master/HowToEsync.md)
+
+Esync removes wineserver overhead for synchronization objects. This increases performance for a lot of games, especially ones that rely heavily on multithreading.
+
+Esync is enabled by default starting with Lutris 0.5.9 and all presently available Lutris Wine versions include Esync.
 
 [![caption](https://lutris.net/static/images/screenshots/gog-screen.jpg)](https://lutris.net/about)

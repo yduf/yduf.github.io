@@ -1,6 +1,5 @@
 ---
 title: Sharing $HOME folder
-published: true
 tags: network nfs home config
 toc: true
 ---
@@ -69,7 +68,7 @@ Which file needs to be syncrhonized anyway?
 - `~/` root is private to each host,
 - don't write any shared files there and keep writing to autofs folder for sync
 
-## [Folder](https://chatgpt.com/share/697f5191-68d4-800d-b91f-9b743bab101c)
+## [Folder ⮺](https://chatgpt.com/share/697f5191-68d4-800d-b91f-9b743bab101c)
 
 <div class="encart green" markdown="1">
 
@@ -155,5 +154,7 @@ hosted on huv (laptop) with lab (more powerfull server).
 see [Homelab]({% post_url 2020-07-25-homelab %})
 
 # see also
+
 - [Is it possible to store user's home directories remotely?](https://askubuntu.com/questions/553981/is-it-possible-to-store-users-home-directories-remotely)
 - [how to deal with shared home directory on linux?](https://superuser.com/questions/211792/how-to-deal-with-shared-home-directory-on-linux)
+- [sshfs](https://chatgpt.com/share/6ab7df7f-f170-83ed-a22b-75ae762acd81) - mounts a directory on a remote machine as if it were a local filesystem, using SSH underneath. Particularly nice when the remote machine is not under your administrative control.

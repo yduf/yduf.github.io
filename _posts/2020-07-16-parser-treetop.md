@@ -14,6 +14,7 @@ toc: true
 - [Visualizing Packrat Parsing](https://dubroy.com/blog/visualizing-packrat-parsing/)
 - [Understanding parser combinators: a deep dive - Scott Wlaschin](https://www.youtube.com/watch?v=RDalzi7mhdY)
 - [ruby-ast-explorer](https://github.com/rajasegar/ruby-ast-explorer?tab=readme-ov-file#ruby-ast-explorer)
+- [PEGTL (c++)](https://github.com/taocpp/PEGTL#welcome-to-the-pegtl) - a zero-dependency C++ header-only parser combinator library for creating parsers according to a Parsing Expression Grammar (PEG).
 
 # [Home ⮺](https://github.com/cjheath/treetop?tab=readme-ov-file#support)
 

@@ -113,5 +113,12 @@ Fraise diametre max: 42mm -> sinon ne passe pas au travers de la base
 
 ### [oscilating saw](https://www.youtube.com/watch?v=SgCam8t3670)
 
+# Custom Tools
+- [Custom Tools](https://www.youtube.com/watch?v=I2MlWnLESAs)
+  - 1. Bottle Cutter
+  - 1. Saw Blade Sharpener
+  - 2. Electrical Tape Wrapper
+
+
 # Info
 - [Little notch on knife blade](https://www.youtube.com/watch?v=l4slcL5YYdQ) - it's part of the manufactoring process and serve no purposejson

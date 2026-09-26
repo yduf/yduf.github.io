@@ -1,7 +1,7 @@
 ---
 title: Laplace transform
 published: true
-tags: math complex integral exp 3blue1brown
+tags: math complex-number integral exp 3blue1brown
 use_math: true
 ---
 > Poles in the transformed fonction expose exponential in the original function - [3blue1brown](https://www.youtube.com/watch?v=j0wJBEZdwLs)

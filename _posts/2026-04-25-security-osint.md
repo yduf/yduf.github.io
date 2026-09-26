@@ -15,6 +15,7 @@ Visualize dependencies between data to detect pivot.
 # Geographic
 
 - [overpass turbo](https://overpass-turbo.eu/) -  un outil web de filtrage de données pour OpenStreetMap.
+- [	Dating a takeoff photo to the second using runway markings as a ruler](https://blog.spuria.app/writeups/angle-of-ascent-billund-klm-takeoff/) / [HN](https://news.ycombinator.com/item?id=49841471)
 
 # Tools
 - sherlock - recherche d'utilisateur sur internet
