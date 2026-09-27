@@ -32,13 +32,14 @@ tags: rubik opencv robot lego
 - [ARM Powered Android LEGO MultiCuber 777](https://www.youtube.com/watch?v=b5b9BIBuOd4)
 
 ### LEGO
-- [Tilted Twister 2.0](https://tiltedtwister.com/tiltedtwister2.html) / [parts](https://tiltedtwister.com/tt2partslist.html) / [download](https://tiltedtwister.com/tt2download.html)
+- [Tilted Twister 2.0](https://tiltedtwister.com/tiltedtwister2.html) / [parts](https://tiltedtwister.com/tt2partslist.html) / [download](https://tiltedtwister.com/tt2download.html) / [home](https://generalroboticslab.com/cartesian_handv1)
 
 
 ### 3Dprinted
 - [CUBOTino](https://www.instructables.com/CUBOTino-Autonomous-Small-3D-Printed-Rubiks-Cube-R/?utm_source=newsletter&utm_medium=email)
 - [I Built a Robot That Makes Rubik’s Cube Art](https://www.youtube.com/watch?v=S5ab46QH9M8) - not a solver, but a scrambler to make pixel art
 
+- [ The Cartesian Hand: In-Hand Manipulation with All-Linear Fingers ](https://www.youtube.com/watch?v=ktNcPPTPsQE)
 ### Commercial
 
 - [GAN](https://www.youtube.com/watch?v=ymOTs6P7Pzg) / [amazon](https://www.amazon.fr/product-reviews/B081CWHMNL/ref=acr_dp_hist_1?ie=UTF8&filterByStar=one_star&reviewerType=all_reviews#reviews-filter-bar)

@@ -10,6 +10,36 @@ toc: true
 **see also**
 - [Musica Crolles](https://www.musicacrolles.com/)
 
+# Setup 🥁
+
+- [Setting up a small electric drum kit - Alesis Nitro Mesh Kit ]()
+  - flat angle for drums
+  - tight setting pad together
+  - high enough setting
+  - tabouret
+    - legs a litte greater than 90°
+- [How to set up ANY drumset for YOUR body, step by step](https://www.youtube.com/watch?v=TL4ROyxJJHk)
+  - quick drum - aligned with right leg
+  - high hat - follow on left leg - as seeting on a chair
+    - may be closer to asjust for arm distance
+    - drop the snare in the middle (somehow)
+      - having legs on both side
+      - facing the snare
+      - a little higher than the knee
+    - stick should match a shallow angle with the top of the highhat
+  - fourth tom (rightmost one)
+    - may be a little lower than the snare (save your finger and avoid hiting the edge)
+  - rag tom
+    - aligned wih the body and the snare
+    - as closed to the snare as possible
+    - not super high 
+    - with a bit of angle
+- [How To Set Up An E-Drum Set](https://www.youtube.com/watch?v=sUmn1U2OP1w)
+
+**see also**
+- [Vdrum Tips](https://www.youtube.com/@Vdrumtips1){: .reference-only}
+  - [ E-drum cymbal cleaning ](https://www.youtube.com/watch?v=qEmtvnekQg4){: .reference-only}
+
 # [Version](https://www.sweetwater.com/sweetcare/articles/roland-td-9-viewing-current-version/)
 
 Use the following steps to view the current software version in the TD-9:
@@ -39,3 +69,6 @@ The “APLI” version listed is the current version.
 
 - [Roland TD-9 with Lemon cymbal upgrades](https://www.reddit.com/r/edrums/comments/oz7rzg/roland_td9_with_lemon_cymbal_upgrades/)
 
+# see also
+- [ Quelle batterie électronique acheter en 2026 ! ](https://www.youtube.com/watch?v=YVbc0ht3cfU)
+- [Drum solo on a Roland TD9](https://www.youtube.com/shorts/_aSvb4fCx94)

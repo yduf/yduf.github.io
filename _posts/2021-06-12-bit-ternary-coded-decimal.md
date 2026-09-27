@@ -47,7 +47,8 @@ int main() {
 Notes: it still requires 2*9=18bits to represent Tic-tac-toe state in Binary-Coded Ternary (contrary to the sample code above which use 16bits integer).
 
 # see also
-- [Qwen3.8-27B on 6GB VRAM: Bonsai 27B](https://www.youtube.com/watch?v=LqpRNhAP09U) - 1.7bits per weight using ternary value [-1, 0, 1]
+- [Qwen3.8-27B on 6GB VRAM: Bonsai 27B](https://www.youtube.com/watch?v=LqpRNhAP09U){: .reference-only} - 1.7bits per weight using ternary value [-1, 0, 1]
+  - [ i ran bonsai 2 for 24 hours so you don't have to ](https://www.youtube.com/watch?v=RjJ-yyBXagk){: .reference-only} - not necessary a usefull option outside of embeded (phone) device
   - In the Human brain - on average _Each synapse can store roughly 4.7 bits of information_ - [HN](https://news.ycombinator.com/item?id=47205514)
 
 # Resources

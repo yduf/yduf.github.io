@@ -56,16 +56,16 @@ En espérant avoir apporté quelques informations utiles !
 <div class="encart blue" markdown="1">
 Testing
 - [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF) 13Gb with -mtp 
-  - Quantization: IQ3_S - [Benchmark](https://www.youtube.com/watch?v=jFHu6wx_TMQ)
+  - Quantization: IQ3_S - [Benchmark](https://www.youtube.com/watch?v=jFHu6wx_TMQ){: .reference-only}
 </div>
 
+- [Qwen 3.8 27B sur 16 Go de VRAM : il a résolu le bug que DeepSeek V4 Flash a raté](https://www.youtube.com/watch?v=X32wgScxTtY){: .reference-only}
+- [ Qwen3.8 Flash: Over 7x Faster First Token ](https://www.youtube.com/watch?v=RlsxXB5q-cA){: .reference-only} -  llama.cpp vs SGLang vs FreeToken. Benchmarked! (96GB)
 
-- [ Qwen3.8 Flash: Over 7x Faster First Token ](https://www.youtube.com/watch?v=RlsxXB5q-cA) -  llama.cpp vs SGLang vs FreeToken. Benchmarked! (96GB)
-
-- [ Qwen 3.8 27B GSQ RCO tested - 16GB Local LLM setup ](https://www.youtube.com/watch?v=jFHu6wx_TMQ) -  from ISTA DAS Lab Austria,
-  - [ Qwen 3.8 27B Quantizations Q1 - Q8 compared ](https://www.youtube.com/watch?v=WNMnbba35VI)
-  - [ Qwen 3.8 27B Reasoning Levels Tested - Not What I Expected ](https://www.youtube.com/watch?v=z64J6bC16iQ)
-  - [ Qwen 3.8 27B Cold Fusion tested - 16GB Local LLM setup ](https://www.youtube.com/watch?v=wR_cLfRLBDs)
+- [ Qwen 3.8 27B GSQ RCO tested - 16GB Local LLM setup ](https://www.youtube.com/watch?v=jFHu6wx_TMQ){: .reference-only} -  from ISTA DAS Lab Austria,
+  - [ Qwen 3.8 27B Quantizations Q1 - Q8 compared ](https://www.youtube.com/watch?v=WNMnbba35VI){: .reference-only}
+  - [ Qwen 3.8 27B Reasoning Levels Tested - Not What I Expected ](https://www.youtube.com/watch?v=z64J6bC16iQ){: .reference-only}
+  - [ Qwen 3.8 27B Cold Fusion tested - 16GB Local LLM setup ](https://www.youtube.com/watch?v=wR_cLfRLBDs){: .reference-only}
 
 # [Qwen3.6 ⮺](https://ollama.com/library/qwen3.6:35b-a3b-coding-nvfp4)
 
