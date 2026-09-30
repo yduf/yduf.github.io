@@ -122,6 +122,7 @@ Did you know that it is named _Claude_ in reference to _Claude Shanon_ the man t
     - actively sabotaging the replies, as in covertly modifying them to feed the users incorrect results
 - [Claude is only available to people over 18 years](https://news.ycombinator.com/item?id=49656225)
 - [Claude Conway](https://chatgpt.com/share/6a4573cd-e6e8-83eb-9347-2c9c10a582e5) - instead of a normal chatbot that waits for you to type something, Conway would act more like a persistent background assistant that keeps running and can continue working over time. supposed to spy on you;
+- [Jean-Claude la version amélioré de Claude](https://www.youtube.com/watch?v=RTC_YiDWkfc){: .reference-only}
 
 # [Codex ⮺](https://github.com/openai/codex?tab=readme-ov-file#quickstart)
 - [	Unrolling the Codex agent loop](https://news.ycombinator.com/item?id=46737630) – Codex CLI is open source.

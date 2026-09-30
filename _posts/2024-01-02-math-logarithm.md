@@ -1,8 +1,8 @@
 ---
-published: true
 title: Logarithm
-tags: math calculator
+tags: math calculator exp
 use_math: true
+toc: true
 ---
 > [Calculating Logarithms by Hand](https://news.ycombinator.com/item?id=38836437) - [wikipedia](https://en.wikipedia.org/wiki/Logarithm)
 
@@ -30,18 +30,19 @@ First known modern origin is from [Napier around 1614](https://en.wikipedia.org/
       - [What's the deal with Euler's identity?](https://lcamtuf.substack.com/p/whats-the-deal-with-eulers-identity) / [HN](https://news.ycombinator.com/item?id=46092453)
 - [ Mathematician Collapses All Functions to One Weird Formula ](https://www.youtube.com/watch?v=hwtqJaS42xk)
 
-### [Logarithmic scale](https://en.wikipedia.org/wiki/Logarithm#Logarithmic_scale)
+# [Logarithmic scale ⮺](https://en.wikipedia.org/wiki/Logarithm#Logarithmic_scale)
 
 [ ![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Germany_Hyperinflation.svg/330px-Germany_Hyperinflation.svg.png) ](https://en.wikipedia.org/wiki/Logarithm#Logarithmic_scale)
 
 
-### [Slide rules](https://news.ycombinator.com/item?id=39309083)
+## [Slide rules ⮺](https://news.ycombinator.com/item?id=39309083)
 
 Starting from 2 on the lower scale, add the distance to 3 on the upper scale to reach the product 6. The slide rule works because it is marked such that the distance from 1 to x is proportional to the logarithm of x.
 
 [![Schematic depiction of a slide rule](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Slide_rule_example2_with_labels.svg/825px-Slide_rule_example2_with_labels.svg.png)](https://en.wikipedia.org/wiki/Logarithm)
 
-### Misc
+
+## Misc
 - Logarithm et exponentiel sont au restos, c'est epo qui paye car logarithme ne paye rien.
 - C'est logarithme et exponentiel qui sont sur un bâteau, soudain logarithme crie "on dérive, on dérive !!". Exponentiel : "et alors ?" 
 - les soirs de pleine lune, les profs de maths se transforment en lougarithmes
@@ -49,3 +50,7 @@ Starting from 2 on the lower scale, add the distance to 3 on the upper scale to 
 Exponentielle, car logarithme décimal. 
 
 [ ![caption](https://static01.nyt.com/images/2024/02/11/multimedia/00Shawlee-3-02-bcpf-print2/00Shawlee-3-02-bcpf-superJumbo.jpg?quality=75&auto=webp)](https://www.nytimes.com/2024/02/08/science/walter-shawlee-dead.html)
+
+# exp
+
+- [Tu vas enfin comprendre la fonction exponentielle ](https://www.youtube.com/watch?v=BKBKMo6GJlI) - pour l'exp valeur = vitesse au meme point

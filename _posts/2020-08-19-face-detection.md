@@ -9,6 +9,7 @@ tags: computer-vision face opencv security
 **see also**
 - [ La police scanne votre visage dans la rue. Et c’est illégal. ](https://www.youtube.com/watch?v=M8it6uldNac) - l'acces au tage est exclue dans le cadre du control d'identité
   - la croissance d'une méthode pour crée des fichiers incontrollable
+- [ Un ex-DGSI balance tout sur la surveillance de masse de l'État ](https://www.youtube.com/watch?v=B-etGxgIkP8) - le tage c'est 40ans de retention
 
 - [What is Face Detection? Ultimate Guide 2023 + Model Comparison](https://learnopencv.com/what-is-face-detection-the-ultimate-guide/)
 
