@@ -43,7 +43,7 @@ Station de dessoudage 110 W haute performance, antistatique, avec contrôle de t
     - [YIHUA 948D-I Station de dessoudage 110 W ](https://www.amazon.fr/gp/product/B0F8QQ27NL?smid=A2ROFELMX9359Y)
     - [DE-SOLDERING made VERY EASY - YIHUA 948 Unboxing and testing](https://www.youtube.com/watch?v=mV6LyCPWg1E)
 
-[![photo](https://manuals.plus/ae/1005009435969430/images/Sde429b3d142b498c8dd191a0fa03bd93U.jpg)](https://manuals.plus/ae/1005009435969430)
+[![photo](https://manuals.plus/ae/1005009435969430/images/Sde429b3d142b498c8dd191a0fa03bd93U.jpg){: .error-403-forbidden}](https://manuals.plus/ae/1005009435969430)
 
 ## Desoldering tips
 

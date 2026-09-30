@@ -25,4 +25,4 @@ Need to authenticate to access downloads.
 
 [![caption](https://wallpapercave.com/dwp2x/wp2237057.jpg)](https://wallpapercave.com/dont-starve-wallpapers)
 
-[![caption](https://static.wikia.nocookie.net/dont-starve-game/images/1/19/Not-crazy.png/revision/latest?cb=20140430184518)](https://dontstarve.fandom.com/wiki/Forgotten_Knowledge_Puzzles)
+[![caption](https://static.wikia.nocookie.net/dont-starve-game/images/1/19/Not-crazy.png/revision/latest?cb=20140430184518){: .error-403-forbidden}](https://dontstarve.fandom.com/wiki/Forgotten_Knowledge_Puzzles)

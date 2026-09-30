@@ -25,4 +25,4 @@ Any rank-2 tensor can be represented as a matrix, but not every matrix is really
 	- Connected by contractions
 
 
-[![caption](https://i.stack.imgur.com/ltiol.png)](https://math.stackexchange.com/questions/2943123/what-is-a-tensor)
+[![caption](https://i.stack.imgur.com/ltiol.png){: .error-403-forbidden}](https://math.stackexchange.com/questions/2943123/what-is-a-tensor)

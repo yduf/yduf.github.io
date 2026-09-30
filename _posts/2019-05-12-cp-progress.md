@@ -5,7 +5,7 @@ tags: cp cli progress-bar
 ---
 > A command that looks for coreutils basic commands (cp, mv, dd, tar, gzip/gunzip, cat, etc.) currently running on your system and displays the percentage of copied data. It can also show estimated time and throughput, and provides a "top-like" mode (monitoring). - [progress](https://github.com/Xfennec/progress)
 
-![caption](https://camo.githubusercontent.com/48bdeb64edffd7223f60a454260fedb617083079a1f4b9b6858380447ce4ff1e/68747470733a2f2f7261772e6769746875622e636f6d2f5866656e6e65632f70726f67726573732f6d61737465722f636170747572652e706e67)
+![caption](https://camo.githubusercontent.com/48bdeb64edffd7223f60a454260fedb617083079a1f4b9b6858380447ce4ff1e/68747470733a2f2f7261772e6769746875622e636f6d2f5866656e6e65632f70726f67726573732f6d61737465722f636170747572652e706e67){: .error-403-forbidden}
 
 ## One big file
 ### [pv](https://askubuntu.com/questions/17275/how-to-show-the-transfer-progress-and-speed-when-copying-files-with-cp/17279#17279)

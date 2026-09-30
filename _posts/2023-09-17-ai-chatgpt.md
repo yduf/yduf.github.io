@@ -78,7 +78,7 @@ The Transformer made three major shifts:
     	- la seule execution d'un algorithme ne suffit pas a générer de la compréhension - subjectif vs objectif (l'experience de la chambre chinoise) - "la vraie comprehension" ? / la conscience
         - une comprehension objective sans comprehension subjective
 	- agrument enormément critiqué (de part et d'autre)
-[![caption](https://www.monkeyuser.com/assets/images/2020/191-reverse-turing-test.png)](https://www.monkeyuser.com/2020/reverse-turing-test/)
+[![caption](https://www.monkeyuser.com/assets/images/2020/191-reverse-turing-test.png){: .error-404-not-found}](https://www.monkeyuser.com/2020/reverse-turing-test/)
 		- l'homme processeur ne comprend rien,
         - mais le systeme (la chambre chinoise) est le detenteur de la comprehension.
         - l'exceptionalité humaine sans justification (les machines (toutes) ne pensent pas (toujours))

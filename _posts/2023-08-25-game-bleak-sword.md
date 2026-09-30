@@ -19,7 +19,7 @@ Can be launched directly with `/home/yves/Games/gog/bleak-sword/launch-bleakswor
 # see also
 - [Crawl Launch Trailer](https://www.youtube.com/watch?v=IAqjWpK6IO8&t=2s)
 
-[![intro](https://www.touchtapplay.com/wp-content/uploads/2019/12/bleak-sword-cheats-tips-1.jpg?w=830)](https://www.touchtapplay.com/bleak-sword-cheats-tips-tricks-guide-to-mastering-the-combat-system/)
+[![intro](https://www.touchtapplay.com/wp-content/uploads/2019/12/bleak-sword-cheats-tips-1.jpg?w=830){: .error-403-forbidden}](https://www.touchtapplay.com/bleak-sword-cheats-tips-tricks-guide-to-mastering-the-combat-system/)
 
 # Setup 
 

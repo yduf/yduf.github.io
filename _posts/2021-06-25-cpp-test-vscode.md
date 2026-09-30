@@ -16,4 +16,4 @@ Just add the list of test executables, to `.vscode/settings.json` (or globally i
 }
 {% endhighlight %}
 
-![caption](https://github.com/matepek/vscode-catch2-test-adapter/raw/master/resources/ScreenShot_2021-11-20.png)
+![caption](https://github.com/matepek/vscode-catch2-test-adapter/raw/master/resources/ScreenShot_2021-11-20.png){: .error-404-not-found}

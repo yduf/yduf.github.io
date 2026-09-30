@@ -12,4 +12,4 @@ tags: hamming distance algorithm hash crc 3blue1brown random information
 
 [![caption](https://img.youtube.com/vi/X8jsijhllIA/0.jpg)](https://www.youtube.com/watch?v=X8jsijhllIA)
 
-![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hamming%287%2C4%29.svg/320px-Hamming%287%2C4%29.svg.png) <!-- .element height="50%" width="50% ustify-content="left" -->
+![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hamming%287%2C4%29.svg/320px-Hamming%287%2C4%29.svg.png){: .error-400-bad-request} <!-- .element height="50%" width="50% ustify-content="left" -->

@@ -8,7 +8,7 @@ toc: true
 
 <link rel="shortcut icon" href="https://docs.paperless-ngx.com/assets/favicon.png" type="image/x-icon" />
 
-[![caption](https://docs.paperless-ngx.com/assets/screenshots/documents-smallcards.png#only-light)](https://docs.paperless-ngx.com)
+[![caption](https://docs.paperless-ngx.com/assets/screenshots/documents-smallcards.png#only-light){: .error-403-forbidden}](https://docs.paperless-ngx.com)
 
 ## Troubleshoot
 - [Pdf is rotated after consume #3368](https://github.com/paperless-ngx/paperless-ngx/issues/3368)

@@ -54,17 +54,17 @@ tags: pinball loom debug computer arcade-hardware
 ### [Count-Down (Gotlieb)](https://www.ipdb.org/machine.cgi?id=573) / [Flippers](http://www.equipjeux.fr/nos-jeux/flippers/70-flipper-count-down.html) / [Joe's Classic Video Games](https://www.youtube.com/watch?v=3KA71VGiyTg)  - 2500€
 -  EM version of this game is [Gottlieb's 1979 'Space Walk'](https://www.ipdb.org/machine.cgi?id=2263)
 
-[![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.ricardostatic.ch%2Ft_1000x750%2Fpl%2F1163028926%2F1%2F1%2Fcount-down-flipper-pinball.jpg&f=1&nofb=1&ipt=6645855af58c19063d6d5bf720bf7541fcdc545d11b3954f38ad8655a64fa935&ipo=images)](https://duckduckgo.com/?q=Count-Down+pinball&t=lm&iax=images&ia=images&iai=https%3A%2F%2Fimg.ricardostatic.ch%2Ft_1000x750%2Fpl%2F1163028926%2F1%2F1%2Fcount-down-flipper-pinball.jpg)
+[![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.ricardostatic.ch%2Ft_1000x750%2Fpl%2F1163028926%2F1%2F1%2Fcount-down-flipper-pinball.jpg&f=1&nofb=1&ipt=6645855af58c19063d6d5bf720bf7541fcdc545d11b3954f38ad8655a64fa935&ipo=images){: .error-400-bad-request}](https://duckduckgo.com/?q=Count-Down+pinball&t=lm&iax=images&ia=images&iai=https%3A%2F%2Fimg.ricardostatic.ch%2Ft_1000x750%2Fpl%2F1163028926%2F1%2F1%2Fcount-down-flipper-pinball.jpg)
 
 ### [Super Orbit (Gottlieb 1983)](https://www.youtube.com/watch?v=djUkyCw23ww) - 1700€ / 2025
-[![super orbit](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.flippers.com%2Fimages%2FGottlieb%2FSuperOrbit_1046S%2FGott_Super_Orbit_serial_1046S-lower.jpg&f=1&nofb=1&ipt=6cf94d5f028f732fc3905d1c8ac65239448fa7fd3629341089446123132e88c6)]()
+[![super orbit](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.flippers.com%2Fimages%2FGottlieb%2FSuperOrbit_1046S%2FGott_Super_Orbit_serial_1046S-lower.jpg&f=1&nofb=1&ipt=6cf94d5f028f732fc3905d1c8ac65239448fa7fd3629341089446123132e88c6){: .error-400-bad-request}]()
 
 ### [Creature of the Black Lagoon (CFTBL)](https://www.youtube.com/shorts/Iyw-xgc8CXQ) - 4000 - 6000€ / 2025
 
 - [vpx](https://www.youtube.com/watch?v=3XS3q9NHjNA)
 - [Creature From the Black Lagoon Video MOD ](https://www.youtube.com/watch?v=IUT51QK5zqo)
 
-[![creature](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpinballhungary.hu%2Fwp-content%2Fuploads%2F2023%2F07%2FIMG_2087-scaled.jpg&f=1&nofb=1&ipt=beb86c8ed03095fddd8949b96c3a6b9b46b00985e0f9053b9e833d8ec6d3fe45)](https://duckduckgo.com/?t=lm&q=flipper+creature+of+the+black+lagon&ia=images&iax=images&iai=https%3A%2F%2Fpinballhungary.hu%2Fwp-content%2Fuploads%2F2023%2F07%2FIMG_2087-scaled.jpg)
+[![creature](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpinballhungary.hu%2Fwp-content%2Fuploads%2F2023%2F07%2FIMG_2087-scaled.jpg&f=1&nofb=1&ipt=beb86c8ed03095fddd8949b96c3a6b9b46b00985e0f9053b9e833d8ec6d3fe45){: .error-400-bad-request}](https://duckduckgo.com/?t=lm&q=flipper+creature+of+the+black+lagon&ia=images&iax=images&iai=https%3A%2F%2Fpinballhungary.hu%2Fwp-content%2Fuploads%2F2023%2F07%2FIMG_2087-scaled.jpg)
 
 
 

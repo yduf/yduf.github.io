@@ -7,4 +7,4 @@ tags: minecraft react codingame
 
 - [youtube](https://www.youtube.com/watch?v=Lc2JvBXMesY)
 
-[![caption](https://ideascdn.lego.com/media/generate/lego_ci/ea287bef-b61c-4175-afe8-f47d20aa8440/resize:950:633/webp)](https://ideas.lego.com/projects/11fb03f1-7fd6-47d5-bef7-a39763a523bf)
+[![caption](https://ideascdn.lego.com/media/generate/lego_ci/ea287bef-b61c-4175-afe8-f47d20aa8440/resize:950:633/webp){: .error-403-forbidden}](https://ideas.lego.com/projects/11fb03f1-7fd6-47d5-bef7-a39763a523bf)

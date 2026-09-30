@@ -62,4 +62,4 @@ and then 99
 - [MFC-J4535dw](https://www.brother-usa.com/products/mfcj4535dw)
 
 
-![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.pJkACbsmiXWVbwHMnPl8bwHaFj%26pid%3DApi&f=1)
+![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.pJkACbsmiXWVbwHMnPl8bwHaFj%26pid%3DApi&f=1){: .error-400-bad-request}

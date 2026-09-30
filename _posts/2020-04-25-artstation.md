@@ -12,8 +12,8 @@ Art & Design - [ArtStation](https://www.artstation.com/artwork?sorting=picks)
 **see also**
 - [	Public Domain Image Archive](https://pdimagearchive.org/) / [HN](https://news.ycombinator.com/item?id=48430539)
     
-![caption](https://cdna.artstation.com/p/assets/images/images/004/720/972/large/randall-mackey-mural2.jpg?1485790389)
+![caption](https://cdna.artstation.com/p/assets/images/images/004/720/972/large/randall-mackey-mural2.jpg?1485790389){: .error-403-forbidden}
 
 ![caption](https://cdna.artstation.com/p/assets/images/images/020/706/302/large/lorenzo-lanfranconi-ex-22-f.jpg?1568841029)
 
-![caption](https://cdnb.artstation.com/p/assets/images/images/005/564/325/large/randall-mackey-twinplanet-color.jpg?1492011144)
+![caption](https://cdnb.artstation.com/p/assets/images/images/005/564/325/large/randall-mackey-twinplanet-color.jpg?1492011144){: .error-403-forbidden}

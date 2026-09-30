@@ -9,7 +9,7 @@ toc: true
 see also
 - [github](https://github.com/LinuxCNC/linuxcnc/tree/master/src/hal/user_comps/xhc-whb04b-6#xhc-whb04b-6-pendant-component---developer-information)
 
-![caption](https://www.nvcnc.net/wp-content/uploads/2021/06/whb04b.jpg)
+![caption](https://www.nvcnc.net/wp-content/uploads/2021/06/whb04b.jpg){: .error-403-forbidden}
 
 
 ## LinuxCNC setup

@@ -40,7 +40,7 @@ A 3020 model
 
 **Before doing anything, remove all power cords and let the machine sit at least 30min before even thinking about touching something close to the power supply.**
 
-[![laser CO2](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Laser_CO2.png/1500px-Laser_CO2.png)](https://fr.wikipedia.org/wiki/Laser_au_dioxyde_de_carbone)
+[![laser CO2](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Laser_CO2.png/1500px-Laser_CO2.png){: .error-400-bad-request}](https://fr.wikipedia.org/wiki/Laser_au_dioxyde_de_carbone)
 
 # Customisation
 

@@ -48,7 +48,7 @@ Seafile exchange block with client, **but they are not materialize as native fil
 
 On the server side, Seafile stores the files in the libraries in an internal format. Seafile has its own representation of directories and files (similar to Git)
 
-[![arch](https://manual.seafile.com/latest/images/seafile-12.0-docker-structure.png)](https://manual.seafile.com/latest/setup/overview/)
+[![arch](https://manual.seafile.com/latest/images/seafile-12.0-docker-structure.png){: .error-404-not-found}](https://manual.seafile.com/latest/setup/overview/)
 
 Alternative
 - [OneDrive clients for Linux](https://linuxbsdos.com/2025/03/22/3-onedrive-clients-for-linux/)

@@ -6,7 +6,7 @@ use_math: true
 ---
 > Games played on three-in-a-row boards can be traced back to ancient Egypt - [wikipedia](https://en.wikipedia.org/wiki/Tic-tac-toe)
 
-![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Tic-tac-toe-game-1.svg/958px-Tic-tac-toe-game-1.svg.png)
+![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Tic-tac-toe-game-1.svg/958px-Tic-tac-toe-game-1.svg.png){: .error-400-bad-request}
 
 ## [Combinatorics of all unique Tic Tac Toe boards](https://stackoverflow.com/questions/7466429/generate-a-list-of-all-unique-tic-tac-toe-boards)
 

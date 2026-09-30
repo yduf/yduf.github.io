@@ -18,4 +18,4 @@ ROT13 is a simple letter substitution cipher that replaces a letter with the 13t
 
 Because there are 26 letters in the Latin alphabet and 26 = 2 × 13, the ROT13 function is its own inverse:
 
-[![rot13](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ROT13_table_with_example.svg/375px-ROT13_table_with_example.svg.png)](https://en.wikipedia.org/wiki/ROT13)
+[![rot13](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ROT13_table_with_example.svg/375px-ROT13_table_with_example.svg.png){: .error-400-bad-request}](https://en.wikipedia.org/wiki/ROT13)

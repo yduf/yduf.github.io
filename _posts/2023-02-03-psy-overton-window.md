@@ -12,4 +12,4 @@ tags: psychology mental-model lang
 see also
 - [Controversy]({% post_url 2021-10-30-controversy %})
 
-![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Overton_Window_diagram.svg/440px-Overton_Window_diagram.svg.png)
+![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Overton_Window_diagram.svg/440px-Overton_Window_diagram.svg.png){: .error-400-bad-request}

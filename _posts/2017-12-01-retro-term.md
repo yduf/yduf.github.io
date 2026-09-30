@@ -9,4 +9,4 @@ tags: retro CRT term
 - [Cool Retro Terminal For Raspberry Pi](https://www.youtube.com/watch?v=7wAJLk_ArDk)
 - [Simulating a CRT TV with C++ and OpenGL](http://nicktasios.nl/posts/simulating-a-crt-tv-with-c++-and-opengl.html)
 
-![screenshot](https://camo.githubusercontent.com/cf43a96fa96637a216c7f6efa66a2ab513824770/687474703a2f2f692e696d6775722e636f6d2f4c78306163517a2e6a7067)
+![screenshot](https://camo.githubusercontent.com/cf43a96fa96637a216c7f6efa66a2ab513824770/687474703a2f2f692e696d6775722e636f6d2f4c78306163517a2e6a7067){: .error-403-forbidden}

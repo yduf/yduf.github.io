@@ -44,4 +44,4 @@ Direct extrusion with BIQU H2
 
 In the below example, I would choose about 0.055.
 
-![caption](https://github.com/AndrewEllis93/Print-Tuning-Guide/raw/main/images/KFactor-Print.jpg)
+![caption](https://github.com/AndrewEllis93/Print-Tuning-Guide/raw/main/images/KFactor-Print.jpg){: .error-404-not-found}

@@ -8,7 +8,7 @@ tags: codingame adventure
 - [now has a Linux Beta](https://www.gamingonlinux.com/2020/09/delores-a-thimbleweed-park-mini-adventure-now-has-a-linux-beta) - steam only for now
 	- [Ron Gilbert, developer of Thimbleweed Park is switching to Linux](https://www.gamingonlinux.com/2020/07/ron-gilbert-developer-of-thimbleweed-park-is-switching-to-linux)
 
-![caption](https://thimbleweedpark.com/img/delores_header.png)
+![caption](https://thimbleweedpark.com/img/delores_header.png){: .error-404-not-found}
 
 ### see also
 - [ink](https://www.inklestudios.com/ink/) - A narrative scripting language for games.

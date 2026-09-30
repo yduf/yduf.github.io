@@ -10,4 +10,4 @@ see also
 
 - [Introduction to Clusters](https://www.jeffgeerling.com/blog/2020/raspberry-pi-cluster-episode-1-introduction-clusters)
 
-![caption](https://www.jeffgeerling.com/sites/default/files/images/dramble-version-4-poe.jpeg)
+![caption](https://www.jeffgeerling.com/sites/default/files/images/dramble-version-4-poe.jpeg){: .error-404-not-found}

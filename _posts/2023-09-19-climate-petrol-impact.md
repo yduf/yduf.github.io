@@ -14,7 +14,7 @@ tags: co2 climate-war petrol
 - [Delay, deflect, downplay, and other ways fossil fuel companies block climate action.](https://news.ycombinator.com/item?id=37765049)
 - [ Jancovici révèle une vérité dérangeante sur le pétrole ](https://www.youtube.com/watch?v=jjR2mb_SUj4)
 
-[![caption](https://www.connaissancedesenergies.org/sites/default/files/inline-images/Petrole-Production-des-16-principaux-pays-fournisseurs-UE_0.png)](https://www.connaissancedesenergies.org/petrole-shift-project-precise-les-risques-dapprovisionnement-de-lue-220218)
+[![caption](https://www.connaissancedesenergies.org/sites/default/files/inline-images/Petrole-Production-des-16-principaux-pays-fournisseurs-UE_0.png){: .error-404-not-found}](https://www.connaissancedesenergies.org/petrole-shift-project-precise-les-risques-dapprovisionnement-de-lue-220218)
 
 
 - avec moins d'energie, il y aura moins d'échange / ca ne veut pas dire qu'il n'y aura plus d'échange - [L'industrie française et la commande publique par Jancovici](https://www.youtube.com/watch?v=c6BTDREaqiU)

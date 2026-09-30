@@ -8,7 +8,7 @@ tags: 3dprinter calibration
 
 - [aussi parallelisme barre avant/arriere.](https://www.lesimprimantes3d.fr/forum/topic/1182-tuto-video-calibration-de-la-1ere-couche-pour-la-disco200-sans-capteur/)
 
-[![caption](https://img.youtube.com/vi/3xyoIZ4oPYc/0.jpg)](https://www.youtube.com/watch?v=3xyoIZ4oPYc)
+[![caption](https://img.youtube.com/vi/3xyoIZ4oPYc/0.jpg){: .error-404-not-found}](https://www.youtube.com/watch?v=3xyoIZ4oPYc)
 
 
 ## Calibration Z

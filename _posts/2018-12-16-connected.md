@@ -17,4 +17,4 @@ tags: algorithm graph topology
     - Tarjan’s Algorithm 
     
 
-![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pseudoforest.svg/480px-Pseudoforest.svg.png)
+![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pseudoforest.svg/480px-Pseudoforest.svg.png){: .error-400-bad-request}

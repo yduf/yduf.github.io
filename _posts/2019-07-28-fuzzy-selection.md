@@ -18,4 +18,4 @@ echo '' | fzf --print-query --preview "cat *.json | jq {q}"
 	- Git
 		- **Ctrl+Alt+S** (S for status) - the current repository's git status
     
-![caption](https://github.com/PatrickF1/fzf.fish/raw/assets/directory.gif)
+![caption](https://github.com/PatrickF1/fzf.fish/raw/assets/directory.gif){: .error-404-not-found}

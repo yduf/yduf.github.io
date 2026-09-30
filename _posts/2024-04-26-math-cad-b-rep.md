@@ -8,4 +8,4 @@ tags: math cad
 see also
 - [Fornjot](https://www.fornjot.app/) - early-stage b-rep CAD kernel, written in Rust
 
-[![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/WEAZER0.jpg/600px-WEAZER0.jpg)](https://en.wikipedia.org/wiki/Boundary_representation)
+[![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/WEAZER0.jpg/600px-WEAZER0.jpg){: .error-400-bad-request}](https://en.wikipedia.org/wiki/Boundary_representation)

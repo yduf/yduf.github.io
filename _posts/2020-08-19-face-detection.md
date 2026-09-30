@@ -27,7 +27,7 @@ tags: computer-vision face opencv security
 	- Integral Image - compute sum once, then 4 point give the integral inside the given rectangle
 	- Adaboost - build a strong classifier from weaker one, complementing each previous one
     
-[![caption](https://github.com/opencv/opencv_zoo/raw/master/models/face_detection_yunet/examples/yunet_demo.gif)](https://github.com/opencv/opencv_zoo/tree/master/models/face_detection_yunet)
+[![caption](https://github.com/opencv/opencv_zoo/raw/master/models/face_detection_yunet/examples/yunet_demo.gif){: .error-404-not-found}](https://github.com/opencv/opencv_zoo/tree/master/models/face_detection_yunet)
 
 ## [Yolo](https://github.com/akanametov/yolov8-face)
 
@@ -55,7 +55,7 @@ tags: computer-vision face opencv security
 - [Face Detection with OpenCV for non frontal images](https://stackoverflow.com/questions/8798670/face-detection-with-opencv-for-non-frontal-images)
 	- [Feature detection in profile face images](https://stackoverflow.com/questions/22145565/feature-detection-in-profile-face-images)
 
-![caption](https://raw.githubusercontent.com/deepinsight/insightface/master/resources/facerecognitionfromvideo.PNG) <!-- .element height="50%" width="50% ustify-content="left" -->
+![caption](https://raw.githubusercontent.com/deepinsight/insightface/master/resources/facerecognitionfromvideo.PNG){: .error-404-not-found} <!-- .element height="50%" width="50% ustify-content="left" -->
 
 
 ### Body detection

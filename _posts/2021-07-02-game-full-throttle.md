@@ -9,4 +9,4 @@ tags: games adventure
 
 - [VF](https://www.youtube.com/watch?v=MJDbw2wLpAA) / [BO](deleted)
 
-[![caption](https://img.youtube.com/vi/VVsAt7C0K4k/0.jpg)](deleted)
+[![caption](https://img.youtube.com/vi/VVsAt7C0K4k/0.jpg){: .error-404-not-found}](deleted)

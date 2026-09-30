@@ -33,7 +33,7 @@ _A sorted array from low-to-high is a valid min-heap._
 - [Geometric Search Trees](https://news.ycombinator.com/item?id=41546874) - define zip tree as well
 - [How can building a heap be O(n) time complexity?](https://stackoverflow.com/questions/9755721/how-can-building-a-heap-be-on-time-complexity)
 
-[![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Max-Heap-new.svg/440px-Max-Heap-new.svg.png)](https://commons.wikimedia.org/wiki/File:Max-Heap-new.svg)
+[![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Max-Heap-new.svg/440px-Max-Heap-new.svg.png){: .error-400-bad-request}](https://commons.wikimedia.org/wiki/File:Max-Heap-new.svg)
 
 ### As C++ Algorithm
 

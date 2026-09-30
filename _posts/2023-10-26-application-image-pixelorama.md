@@ -16,4 +16,4 @@ see also:
 - [bobsprite.com](https://bobsprite.com/editor)
 - [pixilart.com](https://www.pixilart.com/draw?ref=home-page)
 
-[![caption](https://godotengine.org/assets/showcase/pixelorama.png) ](https://godotengine.org/showcase/pixelorama/)
+[![caption](https://godotengine.org/assets/showcase/pixelorama.png){: .error-404-not-found} ](https://godotengine.org/showcase/pixelorama/)

@@ -48,4 +48,4 @@ One reason is that it utilizes faster algorithms and more efficient data structu
 
 Here is a side-by-side comparison of per-core CPU usage for lld (left) and mold (right), linking the same program, a Chromium executable.
 
-[![caption](https://github.com/rui314/mold/raw/main/docs/htop.gif) ](https://github.com/rui314/mold?tab=readme-ov-file#mold-a-modern-linker)
+[![caption](https://github.com/rui314/mold/raw/main/docs/htop.gif){: .error-404-not-found} ](https://github.com/rui314/mold?tab=readme-ov-file#mold-a-modern-linker)

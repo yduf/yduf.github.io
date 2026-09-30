@@ -92,4 +92,4 @@ When using cylinder() with difference() to place holes in objects, the holes wil
 - [NopSCADlib/Screws](https://github.com/nophead/NopSCADlib/blob/master/readme.md#screws)
 - [OpenSCAD Screw Holes](https://www.thingiverse.com/thing:1731893)
     
-    ![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/OpenSCAD_Under_size_hole.jpg/240px-OpenSCAD_Under_size_hole.jpg)
+    ![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/OpenSCAD_Under_size_hole.jpg/240px-OpenSCAD_Under_size_hole.jpg){: .error-400-bad-request}

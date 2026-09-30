@@ -5,7 +5,7 @@ tags: expert software
 ---
 > ten years of experience or the same year of experience ten times - [How Developers Stop Learning: Rise of the Expert Beginner](https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/) 
 
-![caption](https://daedtech.com/pics/Learning.jpg)
+![caption](https://daedtech.com/pics/Learning.jpg){: .error-404-not-found}
 
 see also
 - [The Intellectual Yet Idiot]({% post_url 2019-03-26-idiot %})

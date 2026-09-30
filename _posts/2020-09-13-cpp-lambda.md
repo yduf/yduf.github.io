@@ -28,4 +28,4 @@ main()
 
 ## [All About Lambda Function in C++(From C++11 to C++20)](http://www.vishalchovatiya.com/learn-lambda-function-in-cpp-with-example/)
 
-![caption](https://secureservercdn.net/160.153.137.218/bkh.972.myftpupload.com/wp-content/uploads/Learn-lambda-function-in-C-with-example.png) <!-- .element height="50%" width="50% ustify-content="left" -->
+![caption](https://secureservercdn.net/160.153.137.218/bkh.972.myftpupload.com/wp-content/uploads/Learn-lambda-function-in-C-with-example.png){: .error-406-not-acceptable} <!-- .element height="50%" width="50% ustify-content="left" -->

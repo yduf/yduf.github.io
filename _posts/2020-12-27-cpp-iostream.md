@@ -15,7 +15,7 @@ tags: c++ file io-stream codingame
 - [The Boost Iostreams Library](https://www.boost.org/doc/libs/1_70_0/libs/iostreams/doc/index.html)
 	- [Tee-ing input (cin) out to a log file (or clog)](https://stackoverflow.com/questions/998072/tee-ing-input-cin-out-to-a-log-file-or-clog)
     
-[![caption](https://upload.cppreference.com/mwiki/images/7/75/std-streambuf.svg)](https://en.cppreference.com/w/cpp/io/basic_streambuf)
+[![caption](https://upload.cppreference.com/mwiki/images/7/75/std-streambuf.svg){: .error-404-not-found}](https://en.cppreference.com/w/cpp/io/basic_streambuf)
 
     
 ### [ yduf/input_logger.hh ](https://gist.github.com/yduf/3806be006f79e31558b10026a85088da)

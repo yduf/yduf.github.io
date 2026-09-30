@@ -19,7 +19,7 @@ More detailed explaination on narrowing range search:
 - [How to use Morton Order(z order curve) in range search?](https://stackoverflow.com/questions/30170783/how-to-use-morton-orderz-order-curve-in-range-search)
 - [LitMax and BigMin computation](http://docs.raima.com/rdme/9_1/Content/GS/POIexample.htm#zdivide)
 
-![caption](https://i.stack.imgur.com/Lqa16.png)
+![caption](https://i.stack.imgur.com/Lqa16.png){: .error-403-forbidden}
 
 - [HN](https://news.ycombinator.com/item?id=41061630) - An interesting variant of space-filling curves + dimensionality reduction is [Geohash](https://en.wikipedia.org/wiki/Geohash] [^:1](http://geohash.org/) which takes a lon/lat and uses a Z-curve approach to produce a hash such as `u4pruydqqvj` representing the location. 
 

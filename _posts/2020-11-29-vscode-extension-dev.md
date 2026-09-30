@@ -238,6 +238,6 @@ It is tied only to an Azure DevOps organization.
 
 # [VSCode layout](https://stackoverflow.com/questions/41874426/moving-panel-in-visual-studio-code-to-right-side)
 
-![caption](https://i.stack.imgur.com/QPSw4.png)
+![caption](https://i.stack.imgur.com/QPSw4.png){: .error-403-forbidden}
 
 ![caption](https://code.visualstudio.com/assets/api/extension-capabilities/extending-workbench/workbench-contribution.png)

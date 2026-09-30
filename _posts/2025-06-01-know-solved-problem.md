@@ -17,4 +17,4 @@ see also
 
 - [	My AI skeptic friends are all nuts](https://news.ycombinator.com/item?id=44163063) - All progress on LLMs could halt today, and LLMs would remain the 2nd most important thing to happen over the course of my career.
 
-![invocation](https://br.atsit.in/fr/wp-content/uploads/2021/11/la-mysterieuse-mise-a-jour-de-noel-de-phasmophobia-ajoutera-un-cercle-dinvocation.jpg)
+![invocation](https://br.atsit.in/fr/wp-content/uploads/2021/11/la-mysterieuse-mise-a-jour-de-noel-de-phasmophobia-ajoutera-un-cercle-dinvocation.jpg){: .error-522}

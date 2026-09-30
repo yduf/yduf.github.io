@@ -70,7 +70,7 @@ This can be used to extract any bitfield of the input, and even do a lot of bit-
 | PEXT | 	0xff00fff0 | 	0x12345678 | 	0x00012567 |
 | PDEP | 	0xff00fff0 |	0x00012567 |	0x12005670 |
 
-[![caption](https://i.stack.imgur.com/75CQL.png)](https://stackoverflow.com/questions/21144237/standard-c11-code-equivalent-to-the-pext-haswell-instruction-and-likely-to-be)
+[![caption](https://i.stack.imgur.com/75CQL.png){: .error-403-forbidden}](https://stackoverflow.com/questions/21144237/standard-c11-code-equivalent-to-the-pext-haswell-instruction-and-likely-to-be)
 
 
 They are accessible in [c++](https://cpp.hotexamples.com/examples/-/-/_pext_u64/cpp-_pext_u64-function-examples.html)

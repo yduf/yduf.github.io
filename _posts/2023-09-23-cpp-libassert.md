@@ -9,4 +9,4 @@ tags: debug-c++ lib-c++ test
 - [Code Europe 2023 Closing Keynote by Andrei Alexandrescu](https://youtu.be/trGJsOcA4hY?feature=shared&t=3371) - refer to _libassert_ for it's usage of _operator->*_ in implementation of _EXPECT_
 
 
-[![caption](https://github.com/jeremy-rifkin/libassert/raw/main/screenshots/f.png)](https://github.com/jeremy-rifkin/libassert#extra-diagnostics-)
+[![caption](https://github.com/jeremy-rifkin/libassert/raw/main/screenshots/f.png){: .error-404-not-found}](https://github.com/jeremy-rifkin/libassert#extra-diagnostics-)

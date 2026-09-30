@@ -5,7 +5,7 @@ tags: quine image
 ---
 > A formula that visually represents itself when graphed at a specific location in the (x, y) plane. - [wikipedia](https://en.m.wikipedia.org/wiki/Tupper%27s_self-referential_formula) / [HN](https://news.ycombinator.com/item?id=30066003)
 
-![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Tupper%27s_self_referential_formula_plot.svg/1230px-Tupper%27s_self_referential_formula_plot.svg.png)
+![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Tupper%27s_self_referential_formula_plot.svg/1230px-Tupper%27s_self_referential_formula_plot.svg.png){: .error-400-bad-request}
 
 - [Demystifying Tupper's formula ](https://eli.thegreenplace.net/2023/demystifying-tuppers-formula/) / [HN](https://news.ycombinator.com/item?id=36039232)- he amazement subsides slightly when we discover that for a different K [1], we get a different plot:
 

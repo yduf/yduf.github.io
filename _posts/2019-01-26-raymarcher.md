@@ -23,7 +23,7 @@ excerpt_separator: <!--more-->
 
 ## [Coding Adventure](https://www.youtube.com/watch?v=Cp5WWtMoeKg)
 
-[![caption](https://img.youtube.com/vi/XuSnLbB1j6E/0.jpg)](https://www.youtube.com/watch?v=XuSnLbB1j6E)
+[![caption](https://img.youtube.com/vi/XuSnLbB1j6E/0.jpg){: .error-404-not-found}](https://www.youtube.com/watch?v=XuSnLbB1j6E)
 
 ## [Tutorial 1](https://www.shadertoy.com/view/MdBfRK)
 

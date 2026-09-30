@@ -7,7 +7,7 @@ tags: math probability hash
 
 5 C 3 = 10: 3 elements subsets of 5 elements set
 
-![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Combinations_without_repetition%3B_5_choose_3.svg/440px-Combinations_without_repetition%3B_5_choose_3.svg.png)
+![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Combinations_without_repetition%3B_5_choose_3.svg/440px-Combinations_without_repetition%3B_5_choose_3.svg.png){: .error-400-bad-request}
 
 ### [Combinatorial Number system](https://en.wikipedia.org/wiki/Combinatorial_number_system)
 

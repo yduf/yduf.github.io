@@ -7,4 +7,4 @@ tags: games
 
 - **Active** - [OpenLara](https://github.com/XProger/OpenLara)
 
-[![caption](https://img.youtube.com/vi/B2yW0Vd8jqc/0.jpg)](https://www.youtube.com/watch?v=B2yW0Vd8jqc)
+[![caption](https://img.youtube.com/vi/B2yW0Vd8jqc/0.jpg){: .error-404-not-found}](https://www.youtube.com/watch?v=B2yW0Vd8jqc)

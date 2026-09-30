@@ -39,7 +39,7 @@ First known modern origin is from [Napier around 1614](https://en.wikipedia.org/
 
 Starting from 2 on the lower scale, add the distance to 3 on the upper scale to reach the product 6. The slide rule works because it is marked such that the distance from 1 to x is proportional to the logarithm of x.
 
-[![Schematic depiction of a slide rule](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Slide_rule_example2_with_labels.svg/825px-Slide_rule_example2_with_labels.svg.png)](https://en.wikipedia.org/wiki/Logarithm)
+[![Schematic depiction of a slide rule](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Slide_rule_example2_with_labels.svg/825px-Slide_rule_example2_with_labels.svg.png){: .error-400-bad-request}](https://en.wikipedia.org/wiki/Logarithm)
 
 
 ## Misc
