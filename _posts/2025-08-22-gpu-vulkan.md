@@ -32,7 +32,8 @@ Choice: the **distro provides the GPU-facing runtime**, [nix]({% post_url 2026-0
 | Piece | Provider | Why |
 |---|---|---|
 | `vulkaninfo`, `vkcube` | **system** - `vulkan-tools` 1.3.275 | must match the installed GPU driver to enumerate the *real* GPUs |
-| `vulkan-loader`, `vulkan-headers` | nix - 1.4.357 | `libvulkan.so` + headers for building |
+| `vulkan-loader`, `vulkan-dev`, `vulkan.pc` | **system** - 1.3.275 | the loader must NOT come from nix — see [pitfall](#pitfall-nix-profile-in-runpath) |
+| `vulkan-headers` | nix - 1.4.357 | build-time headers only |
 | `vulkan-validation-layers` | nix - 1.4.357 | version-matched to the nix loader, per-user, no `sudo` |
 | `glslang`, `shaderc`, `spirv-tools`, `spirv-cross` | nix | shader → SPIR-V toolchain |
 | `volk`, `vk-bootstrap`, `VMA`, `glm`, `glfw`, `sdl3` | nix | C++ helpers |
@@ -81,7 +82,45 @@ Either run the app in a **nix-gl-host** environment (nix glibc + bound host driv
 $ sudo apt install vulkan-validationlayers   # 1.3.275, loadable by the distro loader
 ```
 
-Also: the nix loader ships **no `vulkan.pc`**, so meson's `dependency('vulkan')` resolves to the **system** `vulkan.pc` (1.3.275) unless you point `PKG_CONFIG_PATH` at the loader's `-dev` output.
+### Pitfall: nix profile in RUNPATH
+
+<div class="encart orange" markdown="1">
+
+With **nix cmake** + **system gcc**, cmake finds the loader in the nix profile (`~/.nix-profile/lib/libvulkan.so`) and bakes that directory into the library's **RUNPATH**:
+
+```bash
+$ readelf -d libggml-vulkan.so.0.25.3 | grep RUNPATH
+  Library runpath: [/…/build/bin:/home/yves/.nix-profile/lib:]
+```
+
+RUNPATH is searched **before** system paths, so the **nix** loader wins and drags in **nix libdl / nix libc** → a system-compiled binary dies at startup:
+
+```bash
+$ ./build/bin/llama
+./build/bin/llama: /lib/x86_64-linux-gnu/libc.so.6: version
+  `GLIBC_ABI_DT_X86_64_PLT' not found
+  (required by /nix/store/…-glibc-2.42-84/lib/libdl.so.2)
+```
+
+</div>
+
+Diagnosis: `LD_DEBUG=libs` showed `libvulkan.so.1` resolved from `~/.nix-profile/lib`, which carries `RUNPATH=/nix/store/…-glibc/lib`. Fix by forcing the distro loader (`LD_LIBRARY_PATH=/usr/lib/x86_64-linux-gnu` made it run), then permanently by removing it from the profile.
+
+**Rule:** the linker/loader for anything that must touch the real GPU comes from the **distro**. Keep `~/.nix-profile/lib` free of `libvulkan.so*`.
+
+For an already-built binary:
+
+```bash
+$ nix shell nixpkgs#patchelf -c patchelf --set-rpath '$ORIGIN' libggml-vulkan.so.0.25.3
+```
+
+or reconfigure so the loader is on a standard path (no RUNPATH gets written):
+
+```bash
+$ cmake -S . -B build -DGGML_VULKAN=ON \
+    -DVulkan_INCLUDE_DIR=/usr/include \
+    -DVulkan_LIBRARY=/usr/lib/x86_64-linux-gnu/libvulkan.so.1
+```
 
 </details>
 
@@ -94,7 +133,8 @@ Via Home Manager
 ```nix
 home.packages = with pkgs; [
   # Vulkan / GPU shader toolchain
-  vulkan-loader             # ICD loader (libvulkan.so)
+  # NOTE: no vulkan-loader / vulkan-tools here — the distro provides the
+  # loader + libvulkan-dev + vulkaninfo/vkcube (see pitfall above).
   vulkan-headers            # C/C++ headers
   vulkan-validation-layers  # VK_LAYER_KHRONOS_validation
   vulkan-extension-layer
