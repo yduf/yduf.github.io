@@ -26,3 +26,6 @@ tags: security
 10. The JBIG2 logic uses AND, OR, XOR and XNOR operations when iterating through these objects (to apply the 'diff' on glyphs). The attacker can craft a file that strings together these logic operations so that it basically forms a software logic circuit.
 
 11. So this exploit basically emulates a computer architecture inside an image codec, which can be used to operate on arbitrary memory!
+
+**see also**
+- [ JUSTE cliquer sur un lien suffit-il pour te hacker ? ](https://www.youtube.com/watch?v=njMjZzbM9FY) 
