@@ -7,6 +7,10 @@ excerpt_separator: <!--more-->
 > Vulkan is a cross-platform, open standard set of APIs that allows programs to use GPU hardware in various ways, from drawing on screen, to doing calculations, to decoding video via custom hardware accelerators. <!--more--> Rather than using a custom hardware accelerator present, these codecs are based on compute shaders, and work on any implementation of Vulkan 1.3.
 Decoders use the same hwaccel API and commands, so users do not need to do anything special to enable them, as enabling Vulkan decoding is sufficient to use them. - [ffmpeg 8.0](https://ffmpeg.org/index.html#pr8.0) / [HN](https://news.ycombinator.com/item?id=44985730)
 
+- [Vulkan vs CUDA](https://chatgpt.com/share/6abdfeb6-2e40-83eb-b207-74ceeee6614a)
+
+# OS
+
 <div class="encart blue" markdown="1">
 # Check Availability
 
@@ -17,7 +21,10 @@ $ vkcube    # showcase cube
 ```
 </div>
 
-- [Vulkan vs CUDA](https://chatgpt.com/share/6abdfeb6-2e40-83eb-b207-74ceeee6614a)
+
+```bash
+$ sudo apt install vulkan-tools libvulkan1 
+```
 
 # Dev Setup  📥
 
@@ -82,9 +89,10 @@ Either run the app in a **nix-gl-host** environment (nix glibc + bound host driv
 $ sudo apt install vulkan-validationlayers   # 1.3.275, loadable by the distro loader
 ```
 
-### Pitfall: nix profile in RUNPATH
+## NO vulkan-loader
 
-<div class="encart orange" markdown="1">
+<div class="encart red" markdown="1">
+**Pitfall: nix profile in RUNPATH**
 
 With **nix cmake** + **system gcc**, cmake finds the loader in the nix profile (`~/.nix-profile/lib/libvulkan.so`) and bakes that directory into the library's **RUNPATH**:
 

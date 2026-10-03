@@ -3,9 +3,15 @@ title: Roland TD9 🥁
 tags: audio-hardware drums
 toc: true
 ---
-> V-Drums Module - [TD9](https://www.roland.com/global/products/td-9/)
+> V-Drums Module - [TD9 KX](https://www.roland.com/global/products/td-9/)
+- le bon coin - 700€ / 2022
 
 ![caption](https://preview.redd.it/69qxluh20rf71.jpg?width=960&crop=smart&auto=webp&s=2d131b4f61beabbf6841186c3e30cb63338e94ef)
+
+# Learning
+
+- [ DÉBUTANT : Votre Premier Rythme à la Batterie ](https://www.youtube.com/watch?v=JWMM9-MbcGc)
+- [Vos 3 premiers FILLS/BREAKS à la batterie](https://www.youtube.com/watch?v=BECVCM0vukY)
 
 **see also**
 - [Musica Crolles](https://www.musicacrolles.com/)
@@ -40,7 +46,27 @@ toc: true
 - [Vdrum Tips](https://www.youtube.com/@Vdrumtips1){: .reference-only}
   - [ E-drum cymbal cleaning ](https://www.youtube.com/watch?v=qEmtvnekQg4){: .reference-only}
 
-# [Version](https://www.sweetwater.com/sweetcare/articles/roland-td-9-viewing-current-version/)
+# Hardware
+
+## TD9 KX
+Voici la liste des éléments d’origine de la Roland TD-9KX :
+
+| Élément              | Modèle Roland d’origine | Quantité |
+| -------------------- | ----------------------- | -------- |
+| Caisse claire        | PD-105                  | 1        |
+| Tom 1                | PD-85                   | 1        |
+| Tom 2                | PD-85                   | 1        |
+| Tom 3                | PD-85                   | 1        |
+| Grosse caisse        | KD-8                    | 1        |
+| Charleston (Hi-Hat)  | CY-5                    | 1        |
+| Pédale de charleston | FD-8                    | 1        |
+| Cymbale Crash        | CY-8                    | 1        |
+| Cymbale Ride         | CY-12R/C                | 1        |
+| Module de sons       | TD-9                    | 1        |
+
+À noter : cette liste correspond à la configuration d’origine de la TD-9KX, et non à la TD-9K ou à la TD-9KX2. Les pieds, le rack et les pédales de grosse caisse peuvent varier selon le pack et les accessoires fournis.
+
+## [Version](https://www.sweetwater.com/sweetcare/articles/roland-td-9-viewing-current-version/)
 
 Use the following steps to view the current software version in the TD-9:
 

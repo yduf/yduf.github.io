@@ -1,9 +1,10 @@
 ---
-published: true
 title: Meaning of Life
 tags: life quote identity
 ---
 > Etre mort c'est comme être con, on ne s'en rend pas compte. Ce sont les autres autours qui sont tristes.
+
+La vie a quoi ca sert? On s'en bas les couilles... il n'y a pas _LE_ sens de la vie, il y a le sens de _TA_ vie. - [ J AI RE-REINSTALLÉ JEAN CLAUDE (mon assistant IA) ](https://www.youtube.com/watch?v=ljRVhMM_m3w)
 
 > Si le monde n'a pas de sens, c'est pour une bonne raison...  
 > C'est pour que tu lui en donne un! - [Et tout le monde s'en fout #80 - Toi - Épisode Final](https://www.youtube.com/watch?v=rdsm5XqPt7g)
@@ -16,5 +17,6 @@ tags: life quote identity
 
 > Etre mort c'est comme n'avoir jamais été en vie.
 
-see also
+
+**see also**
 - Avant de savoir s'il y a une vie après la mort, il conviendrait de se rassurer qu'il y en une avant, qu'il convient de ne pas la rater. [comment on ](https://www.youtube.com/watch?v=vA2xH91VzkA)

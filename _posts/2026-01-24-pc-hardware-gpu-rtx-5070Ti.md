@@ -28,6 +28,8 @@ excerpt_separator: <!--more-->
 | Bus mémoire         | 192 bit         | 256 bit         |
 | TDP                 | 250 W           | 300 W           |
 
+- [rtx 5070Ti vs RX 7800 XT](https://chatgpt.com/share/6ac156d0-c15c-83eb-9380-d1d6b755beea) - La 5070 Ti dispose notamment de 16 Go de GDDR7 et d'une bande passante de 896 Go/s, contre 16 Go de GDDR6 à 624 Go/s pour la 7800 XT.
+
 # [Motherboard A520I ⮺]({% post_url 2026-01-24-pc-hardware-motherboard %})
 
 ## Settings
@@ -142,8 +144,31 @@ $ sudo usermod -aG vglusers $USER
 
 It is certainly linked to my [xpra install]({% post_url 2025-05-08-share-power-xpra %}#virtual-gl)
 
+
 ## [CUDA ⮺]({% post_url 2026-10-01-nvidia-cuda %})
 
+<div class="encart orange" markdown="1">
+### Why the dashboard says 0.45 GiB used with no processes
+
+Netdata and glances report NVML's `used`, which **includes** the driver's `Reserved` pool. So the graph shows ~0.45 GiB consumed while nothing is running.
+
+**It is not reclaimable** There is no Linux equivalent of the Windows `NVreg_ReserveVideoMemory` knob. 
+</div>
+
+{% highlight bash %}
+$ nvidia-smi --query-compute-apps=pid,process_name,used_memory --format=csv
+pid, process_name, used_gpu_memory [MiB]          # empty
+
+$ nvidia-smi -q -d MEMORY
+    Total     : 16303 MiB
+    Reserved  :  461 MiB    <-- this is the 0.45 GiB
+    Used      :    2 MiB    <-- genuinely in use, by nobody
+    Free      : 15842 MiB
+{% endhighlight %}
+
+`16303 − 15842 = 461`. The pool belongs to the kernel driver (`nvidia`, `nvidia_uvm`, `nvidia_drm`) and is allocated at driver-init time.
+
+This same 461 MiB is what makes a 16 GB NVIDIA card tighter than an equally-sized AMD card — see the [llama.cpp VRAM budget]({% post_url 2023-12-03-llm-llama %}#qwen38-27b-i1-iq4_xs-gguf-smaller).
 
 ## Pytorch
 

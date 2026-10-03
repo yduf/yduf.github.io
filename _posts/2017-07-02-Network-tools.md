@@ -1,10 +1,10 @@
 ---
-published: true
-tags: linux network benchmarking
-title: Network Tools
+title: # Network Tools 📡
+tags: linux-system network benchmarking
 toc: true
+excerpt_separator: ""
 ---
-## [Probing Host](https://www.linux.com/learn/who-and-what-my-network-probing-your-network-linux)
+# [Probing Host ⮺](https://www.linux.com/learn/who-and-what-my-network-probing-your-network-linux)
 
 {% highlight bash %}
 $ netstat -untap
@@ -22,7 +22,7 @@ $ sudo ss -tulpen
 
 ## Troubleshooting
 
-### [Wired link](https://chatgpt.com/share/6971d811-a1a8-800d-be49-e723a1a4e261)
+### [Wired link  ⮺](https://chatgpt.com/share/6971d811-a1a8-800d-be49-e723a1a4e261)
 
 Check link status
 {% highlight bash %}
@@ -103,4 +103,4 @@ terry@uberpc:~$ iperf -c studio
 {% endhighlight %}
 
 
-## [Misc](http://www.linuxhomenetworking.com/wiki/index.php/Quick_HOWTO_:_Ch04_:_Simple_Network_Troubleshooting)
+# [Misc  ⮺](http://www.linuxhomenetworking.com/wiki/index.php/Quick_HOWTO_:_Ch04_:_Simple_Network_Troubleshooting)

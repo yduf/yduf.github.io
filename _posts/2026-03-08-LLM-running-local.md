@@ -55,10 +55,38 @@ En espérant avoir apporté quelques informations utiles !
 
 <div class="encart blue" markdown="1">
 Testing
+- [ Qwen3.8-27B-i1-IQ4_XS-GGUF-Smaller  ](https://www.youtube.com/watch?v=X32wgScxTtY){: .reference-only}
+  - 100 000 tokens de contexte avec un KV Cache en Q4 on RX 7800
+  -  65 000 on RTX 5070Ti
 - [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF) 13Gb with -mtp 
   - Quantization: IQ3_S - [Benchmark](https://www.youtube.com/watch?v=jFHu6wx_TMQ){: .reference-only}
 </div>
 
+## 16 Go
+
+### [ Qwen3.8-27B-i1-IQ4_XS-GGUF-Smaller  ⮺](https://www.youtube.com/watch?v=X32wgScxTtY){: .reference-only}
+
+- [Qwen3.8-27B-i1-IQ4_XS-GGUF-Smaller](https://huggingface.co/jrell/Qwen3.8-27B-i1-IQ4_XS-GGUF-Smaller) - A custom hybrid quantization of the Qwen3.8-27B base model, specifically designed to fit Multi-Token Prediction (MTP) and long context into a strict 16GB VRAM hardware budget (like consumer RTX 4080 / RTX 5080 cards).
+- [mmproj-Qwen3.8-27B-f16.gguf](https://huggingface.co/bartowski/Qwen3.8-27B-GGUF/blob/main/mmproj-Qwen3.8-27B-f16.gguf?utm_source=chatgpt.com)
+- Le quant Q4_XS_Smaller : un 27B dense sur 16 Go de VRAM
+- Le KV Cache en Q4 : 100 000 tokens de contexte, avec vision et MTP activés
+- 100 000 tokens de contexte avec un KV Cache en Q4
+
+```bash
+$ llama-server \
+  --model Qwen3.8-27B-i1-IQ4_XS-GGUF-Smaller.gguf \
+  --mmproj mmproj-Qwen3.8-27B-f16.gguf \               # vision support
+  --ctx-size 100000 \
+  --n-gpu-layers 999 \
+  --cache-type-k q4_0 --cache-type-v q4_0 \
+  --spec-type draft-mtp --spec-draft-n-max 3 \
+  --parallel 1 \
+  --reasoning-preserve \
+  --host 0.0.0.0 --port 8080 \
+  --alias "Qwen3.8-27B-i1"
+```
+
+## see also
 - [Qwen 3.8 27B sur 16 Go de VRAM : il a résolu le bug que DeepSeek V4 Flash a raté](https://www.youtube.com/watch?v=X32wgScxTtY){: .reference-only}
 - [ Qwen3.8 Flash: Over 7x Faster First Token ](https://www.youtube.com/watch?v=RlsxXB5q-cA){: .reference-only} -  llama.cpp vs SGLang vs FreeToken. Benchmarked! (96GB)
 
