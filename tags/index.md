@@ -82,8 +82,41 @@ title: Tags
 <!-- site_tags:  -->
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 
-<!-- tag_words sorted: -->
-{% assign tag_words = site_tags | split:',' | sort_natural %}
+<!-- tag_words sorted in natural order (numeric runs compared as numbers, case-insensitive): -->
+<!-- each entry is "sort_key<space>original_tag"; sort_key = downcased tag with every digit run -->
+<!-- left-padded to 8 zeros, so 2 < 10 and case variants (NN/nn) stay adjacent, original case kept -->
+{% assign tagged_entries = '' %}
+{% for tag_pair in site.tags %}
+  {% assign tag = tag_pair | first %}
+  {% assign chars = tag | downcase | append: ' ' | split: '' %}
+  {% assign key = '' %}
+  {% assign run = '' %}
+  {% for ch in chars %}
+    {% if ch >= '0' and ch <= '9' %}
+      {% assign run = run | append: ch %}
+    {% else %}
+      {% if run != '' %}
+        {% assign padded = run %}
+        {% for z in (1..8) %}
+          {% assign plen = padded | size %}
+          {% if plen < 8 %}
+            {% assign padded = '0' | append: padded %}
+          {% endif %}
+        {% endfor %}
+        {% assign key = key | append: padded %}
+        {% assign run = '' %}
+      {% endif %}
+      {% assign key = key | append: ch %}
+    {% endif %}
+  {% endfor %}
+  {% assign entry = key | append: tag %}
+  {% if tagged_entries == '' %}
+    {% assign tagged_entries = entry %}
+  {% else %}
+    {% assign tagged_entries = tagged_entries | append: ',' | append: entry %}
+  {% endif %}
+{% endfor %}
+{% assign tag_words = tagged_entries | split: ',' | sort %}
 
 
 <!-- tags relationship: -->
@@ -117,7 +150,7 @@ title: Tags
 
 <div id="tags toc">
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
-    {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
+    {% assign this_word = tag_words[item] | split: ' ' | last %}
   <div id="{{ this_word | slugify }}"  class="topic-section">
     <h2>{{ this_word }}</h2>
 <!-- posts related to main tag -->
