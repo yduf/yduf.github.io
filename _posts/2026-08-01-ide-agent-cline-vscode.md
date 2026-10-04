@@ -86,7 +86,7 @@ prerequesite: needs Node 20+, see [isntallation]({% post_url 2020-11-29-node-js 
 [Getting Started](https://docs.cline.bot/cline-cli/getting-started)
 
 <div class="encart orange" markdown="1">
-If using `$ $ npm install --prefix ~/.local cline` (eg in nix)
+If using `$ npm install --prefix ~/.local cline` (eg in nix)
 
 npm failed to setup symlink properly and you have to [fix it manually](https://chatgpt.com/share/6a6e1e53-488c-83eb-8c51-ce1162564aec)
 
@@ -96,7 +96,13 @@ $ ln -sf ~/.local/node_modules/cline/bin/cline ~/.local/bin/cline
 
 </div>
 
-{% highlight bash %}
-$ npm install -g cline
+```bash
+$ npm install --prefix ~/.local cline
+
+# fix symlink
+$ ln -sf ~/.local/node_modules/cline/bin/cline ~/.local/bin/cline
+
+# init
 $ cline auth
-{% endhighlight %}
+```
+

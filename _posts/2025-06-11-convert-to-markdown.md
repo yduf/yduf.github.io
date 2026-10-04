@@ -1,7 +1,6 @@
 ---
 title: Convert to Markdown
-published: true
-tags: markdown pdf doc LLM
+tags: markdown pdf doc agentic-AI
 toc: true
 ---
 > converting various files to Markdown for use with LLMs and related text analysis pipelines. 
