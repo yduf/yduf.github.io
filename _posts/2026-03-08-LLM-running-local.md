@@ -67,10 +67,10 @@ Testing
 ### [ Qwen3.8-27B-i1-IQ4_XS-GGUF-Smaller  ⮺](https://www.youtube.com/watch?v=X32wgScxTtY){: .reference-only}
 
 - [Qwen3.8-27B-i1-IQ4_XS-GGUF-Smaller](https://huggingface.co/jrell/Qwen3.8-27B-i1-IQ4_XS-GGUF-Smaller) - A custom hybrid quantization of the Qwen3.8-27B base model, specifically designed to fit Multi-Token Prediction (MTP) and long context into a strict 16GB VRAM hardware budget (like consumer RTX 4080 / RTX 5080 cards).
-- [mmproj-Qwen3.8-27B-f16.gguf](https://huggingface.co/bartowski/Qwen3.8-27B-GGUF/blob/main/mmproj-Qwen3.8-27B-f16.gguf?utm_source=chatgpt.com)
+- [mmproj-Qwen3.8-27B-f16.gguf](https://huggingface.co/bartowski/Qwen3.8-27B-GGUF/blob/main/mmproj-Qwen3.8-27B-f16.gguf?utm_source=chatgpt.com) - vision to text
 - Le quant Q4_XS_Smaller : un 27B dense sur 16 Go de VRAM
 - Le KV Cache en Q4 : 100 000 tokens de contexte, avec vision et MTP activés
-- 100 000 tokens de contexte avec un KV Cache en Q4
+- 100k tokens de contexte avec un KV Cache en Q4 - en theorie => [65k sur Nvdia]({% post_url 2023-12-03-llm-llama %}#where-the-vram-goes)
 
 ```bash
 $ llama-server \

@@ -39,6 +39,11 @@ as well as in [github](https://github.blog/2022-02-14-include-diagrams-markdown-
 }
 </style>
 
+# [Block ⮺](https://mermaid.live/edit#pako:eNpNUUtuwjAUvIr1kCqQAsr_41ZIQDYseoHWXTjxAyISO3IcAUXcvU7SinrhmZFmxs_2HUolECgUtSrPywINZ7JUdd_IjnhMEiKK-ZxBvmWwWAx6NG60Vpe9iN8-GbzIomtf_-8MvtZzoS7yGaD7fOCEbCbY2uCGXCqBREkklSTmhKSphKjRxifTbgCUYoCu5SUOZOzZ52S5XE9896SdudVItuRQ1TWdZXHmdEarM9JZEAS_fGkPNScatldw4KgrAdToHh1oUDd8kHAfuhjYiRo7DLVU4IH3tWHA5MPGWi4_lGr-klr1xxPQA687q_pWcIN5xY-aPy32Gqh3qpcGqJelDqCojNLv0-uPnzD2Ar3DFWgWr6Io9f0kCjI39iMHbkBDN1mFfuYmiRemYZBEDwe-xzncVZpErl1e6Lm-H6TR4wevw5Bc)
+
+Not sure it was done with Mermaid, but probably could
+
+[![ex](https://preview.redd.it/15-year-old-me-would-be-impressed-not-sure-about-you-guys-v0-axwsidezjgsh1.png?width=1080&crop=smart&auto=webp&s=42520e1c5f2b232a19b3213e6fed9f85b0fcbde0)](https://www.reddit.com/r/homelab/comments/1wt9pg5/15_year_old_me_would_be_impressed_not_sure_about/)
 
 # [Entity–Relationship ⮺](https://chatgpt.com/share/6a9d9222-89d4-83eb-a13e-5af063b5e780)
 

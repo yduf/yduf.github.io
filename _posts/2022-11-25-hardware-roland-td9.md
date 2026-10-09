@@ -10,6 +10,7 @@ toc: true
 
 # Learning
 
+## Poom chack
 - [ DÉBUTANT : Votre Premier Rythme à la Batterie ](https://www.youtube.com/watch?v=JWMM9-MbcGc)
 - [Vos 3 premiers FILLS/BREAKS à la batterie](https://www.youtube.com/watch?v=BECVCM0vukY)
 
@@ -65,6 +66,16 @@ Voici la liste des éléments d’origine de la Roland TD-9KX :
 | Module de sons       | TD-9                    | 1        |
 
 À noter : cette liste correspond à la configuration d’origine de la TD-9KX, et non à la TD-9K ou à la TD-9KX2. Les pieds, le rack et les pédales de grosse caisse peuvent varier selon le pack et les accessoires fournis.
+
+## Pedale Charley
+
+- [pb avec la pédale](https://fr.audiofanzine.com/batterie-electronique/roland/td-9kw/forums/t.660116,pedale-charley-de-ma-td9.html)
+  - [tutos reparation ](https://www.latavernedesbatteurs.com/viewtopic.php?f=20&t=3118)
+
+possibilité de remplacement
+- [Millenium CH-13X 13" Hi-Hat Pad & Stand ](https://www.thomann.fr/millenium_ch_13x_13_hi_hat_pad_stand.htm) - 100€ / 2026
+  - [vh 11 est compatible avec la td9](https://www.ladrummerie.com/viewtopic.php?t=20374&start=15)
+
 
 ## [Version](https://www.sweetwater.com/sweetcare/articles/roland-td-9-viewing-current-version/)
 

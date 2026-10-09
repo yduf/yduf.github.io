@@ -22,3 +22,4 @@ Available as flatpack or appimage
 # see also
 - [The 20 year old PSP can now connect to WPA2 WiFi Networks ](https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/)
 - [	PlayStation 2 Recompilation Project Is Absolutely Incredible](https://news.ycombinator.com/item?id=46814743)
+- [PSP Web Recomp](https://github.com/snuri00/psp-web-recomp#psp-web-recomp) / [HN](https://news.ycombinator.com/item?id=49991243) - PSP games running in the browser without an emulator. The game's MIPS machine code is translated ahead of time into C++, compiled to WebAssembly, and linked against a small reimplementation of the PSP's operating system and graphics chip that draws with WebGL2.

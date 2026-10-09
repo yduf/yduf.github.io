@@ -8,6 +8,10 @@ toc: true
 
 > Jouer un bon coup dans un jeu ou les regles font que de toute facon on perd a la fin. ça n'est pas interessant. Il faut refuser la partie ou alors il faut tricher. - [Barrau chez Janco : exposé devant le shift project à Lyon.](https://youtu.be/VajcUf7xRTQ?t=3140)
 
+- [ Comment devenir impossible à manipuler ](https://www.youtube.com/watch?v=OcP86-j9Esg) - Le loup garoux
+  - l'asymétrie de l'information 
+  - le jeux est une compétition entre ceux qui comprennent ce qui est en train de se passer et ceux qui ne le comprennent pas.
+  - arrêter de supposer que tous le monde joue au même jeux que vous.
 
 ![caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fscifiempire.net%2Fwordpress%2Fwp-content%2Fuploads%2F2015%2F11%2FPhoto-compilation-Wargames.jpg&f=1&nofb=1)
 

@@ -35,3 +35,9 @@ Visualize dependencies between data to detect pivot.
 - recherche IA
 - les reseaux sociaux (LinkedIn / X / Instagram / Facebook)
   - supprimer ses comptes
+
+# Obfuscation
+- [ J'ai empoisonné mes propres données (et c'est légal) ](https://www.youtube.com/watch?v=f4ZCWzBJhkU)
+  - plutot que cacher - bruiter ses données
+  - _legende_ / _sock puppet_ - une idée secondaire cohérente
+    - utiliser la repetition pour propager des infos fausses par recoupement (ex date de naissance)

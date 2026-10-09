@@ -25,6 +25,7 @@ tags: security taint js python microsoft windows
 - [	One million passports leaked online ](https://www.theverge.com/tech/947157/
 - [Chess.com Leak Exposes 7.3M Users](https://news.ycombinator.com/item?id=49691584)
 - ['We hacked the FBI:' Hackers say they have data on all FBI employees](https://news.ycombinator.com/item?id=49805278)
+- LDCL - 2026-10-05 - notif email
 
 # 2023
 - [Everything authenticated by Microsoft is tainted ](https://news.ycombinator.com/item?id=37702095) 
