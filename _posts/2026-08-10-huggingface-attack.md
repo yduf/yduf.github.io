@@ -1,6 +1,6 @@
 ---
 title: "Huggingface Attack ☣️"
-tags: agentic-AI humanity danger
+tags: bots agentic-AI humanity danger
 ---
 > Peristence collaboration accross dying llm agent - [ Anthropic's Model Attacked Two Strangers On GitHub. Nobody Asked It To. ](https://www.youtube.com/watch?v=FCRT7M30Wtw)
 
@@ -25,6 +25,12 @@ the inside scoop on agent coordination, the UK AISI results, and the shakeup at 
 - What the Hugging Face postmortem numbers reveal about agent-speed intrusion
 - Where Google's senior fellow exits leave the frontier lab race
 
+# Swarm bots
+- [ Le Web est cassé : Ce que révèlent les dernières 48 heures (22 oct. 2026)](https://www.youtube.com/watch?v=O8LpZbK8dgg) - exploitation des failles php
+  - how agentic swarm are attacking server
+  - [stigmergie](https://fr.wikipedia.org/wiki/Stigmergie)
+  - memory - is a vector of threat once tainted - paatrimoine hereditaire
+    - virus mental (I love you letter)
 
 **see also**
 - les fourmis - [demain les chiens (La Cité) / City — Clifford D. Simak](https://fr.wikipedia.org/wiki/Demain_les_chiens) - in which ants are given conditions that allow them to survive year-round. They progressively develop an industrial society; when the human character destroys their colony, they simply recover and build something larger.

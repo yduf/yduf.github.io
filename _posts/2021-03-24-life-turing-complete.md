@@ -11,6 +11,9 @@ tags: avx gpu life turing-complete
 - [ALiEn](https://alien-project.org/) / [HN](https://news.ycombinator.com/item?id=27472224) – a GPU-accelerated artificial life simulation program
 - [Conway's Game of Life on GPU using CUDA](http://www.marekfiser.com/Projects/Conways-Game-of-Life-on-GPU-using-CUDA/4-Advanced-lookup-table-implementation)
 
+# Alternatives
+- [Logic_Arrows_Demo](https://www.youtube.com/shorts/I31Pk7sKcGc)
+
 **see also**
 - [Conway's Game of Life With Time as an Axis](https://www.youtube.com/shorts/5BY9N_Rp244)
 - [	A colorful Game of Life](https://news.ycombinator.com/item?id=42961868)

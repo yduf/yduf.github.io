@@ -9,8 +9,8 @@ tags: computer-vision face opencv security
 **see also**
 - [ La police scanne votre visage dans la rue. Et c’est illégal. ](https://www.youtube.com/watch?v=M8it6uldNac) - l'acces au tage est exclue dans le cadre du control d'identité
   - la croissance d'une méthode pour crée des fichiers incontrollable
-- [ Un ex-DGSI balance tout sur la surveillance de masse de l'État ](https://www.youtube.com/watch?v=B-etGxgIkP8) - le tage c'est 40ans de retention
-
+- [ Un ex-DGSI balance tout sur la surveillance de masse de l'État ](https://www.youtube.com/watch?v=B-etGxgIkP8) - le TAJ c'est 40ans de retention
+	- [17 octobre : le "TAJ" pour identifier les pilleurs ?](https://www.youtube.com/shorts/EGzzsvOnIXc)
 - [What is Face Detection? Ultimate Guide 2023 + Model Comparison](https://learnopencv.com/what-is-face-detection-the-ultimate-guide/)
 
 [![caption](https://learnopencv.com/wp-content/uploads/2017/02/real-time-face-tracking.gif)](https://learnopencv.com/object-tracking-using-opencv-cpp-python/)

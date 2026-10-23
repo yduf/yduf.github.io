@@ -217,6 +217,11 @@ This refers to a model that is specifically trained or fine-tuned to follow inst
 
 DFlash is a novel speculative decoding method that utilizes a lightweight block diffusion model for drafting. It enables efficient, high-quality parallel drafting that pushes the limits of inference speed.
 
+## Uncensored
+- [ Uncensored AI Costs $5 to Make. Nobody Can Stop It. ](https://www.youtube.com/watch?v=EArYx3GZSlQ)
+  - [Heretic: Fully automatic censorship removal for language models](https://github.com/p-e-w/heretic#heretic-fully-automatic-censorship-removal-for-language-models---) - a tool that removes censorship (aka "safety alignment") from transformer-based language models without expensive post-training. It combines an advanced implementation of directional ablation, also known as "abliteration" (Arditi et al. 2024, Lai 2025 (1, 2)), with a TPE-based parameter optimizer powered by Optuna.
+
+
 ## GGUF
 
 - [What's in a GGUF, besides the weights - and what's still missing?](https://nobodywho.ooo/posts/whats-in-a-gguf/) / [HN](https://news.ycombinator.com/item?id=48138332)

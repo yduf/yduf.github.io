@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "# DS215j (synology) 💭"
+title: "# DS215j (Synology) 💭"
 tags: nas nfs synology hardware project
 toc: true
 ---
@@ -14,7 +14,14 @@ toc: true
 
 revive it with a [2x1To Raid 1 setup](https://chatgpt.com/share/6a046739-fe24-83eb-baee-9fdd324ff11b) - and expose it as nfs
 
-# [spec ⮺](https://chatgpt.com/share/6a045899-36f4-83eb-af1c-fba8078eff67)
+# DS215j
+
+<div class="encart blue" markdown="1">
+[**DS215j vs DS216j**](https://chatgpt.com/share/6aca06ec-22e8-83eb-8c8d-b0ab89c1f532)
+- they are quite close
+</div>
+
+## [spec ⮺](https://chatgpt.com/share/6a045899-36f4-83eb-af1c-fba8078eff67)
 **CPU:** Marvell Armada 375, dual-core @ 800 MHz  
 **RAM:** 512 MB DDR3 (not expandable)  
 **Architecture:** ARM-based (low power, limited performance)  
@@ -35,6 +42,14 @@ revive it with a [2x1To Raid 1 setup](https://chatgpt.com/share/6a046739-fe24-83
 **Size:** ~165 × 100 × 225 mm  
 **Weight:** ~0.88 kg
 
+# Tailscale
+
+<div class="encart blue" markdown="1">
+Tailscale can run on both the Synology DS216j and DS215j. Both models have compatible ARM architectures, and Tailscale provides Synology packages for them.
+
+- Open the Synology Package Center and search for Tailscale.
+- The DS216j uses the armada38x architecture, while the DS215j uses armada375, so you must use the correct package for each model.
+</div>
 
 # [nfs ⮺](https://chatgpt.com/share/6a045813-4b3c-83eb-9f20-b748d7d8f1da) 
 - only v3

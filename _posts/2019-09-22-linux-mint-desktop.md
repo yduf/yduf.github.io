@@ -1,6 +1,5 @@
 ---
-published: true
-title: '# Linux Mint Desktop'
+title: '# Linux Mint Desktop 🍃'
 tags: linux-system ubuntu linux-desktop application quote
 toc: true
 ---
@@ -67,7 +66,7 @@ Custimoze the launch command for eg, then run [`update-desktop-database ~/.local
 
 ## [Fix Broken package](https://www.fosslinux.com/8782/fix-broken-linux-mint-updates-due-to-the-broken-packages.htm)
 
-## Updating
+# Updating Mint
 - [How to upgrade to Linux Mint 22](https://linuxmint-user-guide.readthedocs.io/en/latest/upgrade-to-mint-22.html)
 - [How to upgrade to Linux Mint 21](https://linuxmint-user-guide.readthedocs.io/en/latest/upgrade-to-mint-21.html#)
 - [How to upgrade to Linux Mint 20](https://linuxmint-user-guide.readthedocs.io/en/latest/upgrade-to-mint-20.html)

@@ -1,6 +1,5 @@
 ---
-title: SSD
-published: true
+title: SSD / disk 🖴
 tags: pc-hardware disk storage
 toc: true
 ---

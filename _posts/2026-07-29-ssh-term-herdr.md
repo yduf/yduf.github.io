@@ -1,6 +1,6 @@
 ---
 title: herdr 🐑 (~tmux)
-tags:  term tmux
+tags:  ssh term tmux
 ---
 > One terminal to rule them all - [Home](https://herdr.dev/) / [youtube](https://www.youtube.com/watch?v=yQDARWdrPeY) / [HN](https://news.ycombinator.com/item?id=48756578)
 
@@ -9,7 +9,7 @@ tags:  term tmux
 - [feature demo](https://www.youtube.com/watch?v=Oa2BXTerhtY)
   
 ```bash
-$ herdr -- remote yves@bastion  # self install if needed
+$ herdr --remote yves@bastion  # self install if needed
 ```
 
 # [Config ⮺](https://herdr.dev/docs/configuration/)

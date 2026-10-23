@@ -13,6 +13,7 @@ toc: true
 ## Poom chack
 - [ DÉBUTANT : Votre Premier Rythme à la Batterie ](https://www.youtube.com/watch?v=JWMM9-MbcGc)
 - [Vos 3 premiers FILLS/BREAKS à la batterie](https://www.youtube.com/watch?v=BECVCM0vukY)
+    
 
 **see also**
 - [Musica Crolles](https://www.musicacrolles.com/)

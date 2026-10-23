@@ -174,8 +174,16 @@ The change is not visible until reboot, but it taken into account
 
 Then once powered off, only a red led is visible (rather than a green one when the pi is powered).
 
+# Hardware
 
-# [Power Consumption ⮺](https://chatgpt.com/share/6a37af6c-85d4-83eb-9fc7-4391cfe1fe47)
+<div class="encart blue" markdown="1">
+**Host**: Raspberry Pi 5 Model B Rev 1.0   
+**CPU**: (4) @ 2.400GHz  
+**Memory**: 2051MiB / 8063MiB  
+**Disk**: [nvme 250 Go]({% post_url 2025-11-28-hardware-SSD %}#pc-hardware-)  
+</div>
+
+## [Power Consumption ⮺](https://chatgpt.com/share/6a37af6c-85d4-83eb-9fc7-4391cfe1fe47)
 
 | Scenario                                                   | Estimated total system power |
 | ---------------------------------------------------------- | ---------------------------: |
@@ -185,7 +193,8 @@ Then once powered off, only a red led is visible (rather than a green one when t
 | Heavy CPU load + active NVMe activity                      |                     ~10–14 W |
 | Stress case (CPU max + SSD writes + peripherals)           |                     ~14–18 W |
 
-# [GPU  ⮺](https://chatgpt.com/share/6a38d395-e5b0-83eb-81d4-07f42f3dcec4)
+
+## [GPU  ⮺](https://chatgpt.com/share/6a38d395-e5b0-83eb-81d4-07f42f3dcec4)
 
 - pi 5 has unified memory
 - yet GPU was designed for graphics and video not for matrix operation.

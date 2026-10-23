@@ -10,6 +10,9 @@ Works exclusively in the browser.
 $ openfox   # start the server & open browser page
 ```
 
+**see also**
+- [ Prise en main OpenFox : le meilleur harnais pour l'IA locale(*j'suis pas du tout biaisé, c'est FAUX) ](https://www.youtube.com/watch?v=F2iVKgQh_TU)
+
 # Install 📥 
 
 <div class="encart orange" markdown="1">

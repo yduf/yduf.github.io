@@ -1,18 +1,22 @@
 ---
-published: true
-title: Ghidra - the NSA toolkit
+title: Ghidra - the NSA toolkit 🐉
 tags: reverse electronic debug vscode ghidra
+toc: true²
 ---
 > A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission - [Ghidra](https://ghidra-sre.org/) / [HN](https://news.ycombinator.com/item?id=19315273) / [github](https://github.com/NationalSecurityAgency/ghidra)
 
-require Java > 17
-
 [![caption](https://blogs.blackberry.com/content/dam/blogs-blackberry-com/images/blogs/2019/07/080619-ghidra-cylance-lrg.jpg)](https://blogs.blackberry.com/en/2019/07/an-introduction-to-code-analysis-with-ghidra)
 
-### Features
+# Install 📥 
+
+Using [home-manager]({% post_url 2026-01-24-package-nix %})
+
+**Ghidra 12.1.2** - OpenJDK 21.0.12
+
+# Features
 - **Decompiler**: ASM to C generation
 
-### Hints
+## Hints
 - [What're you telling me, Ghidra?](https://byte.how/posts/what-are-you-telling-me-ghidra/) - An introduction to Ghidra's primary components
 	- [CheatSheet](https://ghidra-sre.org/CheatSheet.html) - for keyboard shortcut
     - [An introduction to hacking video games with Ghidra](https://www.youtube.com/watch?v=qCEZC3cPc1s)
@@ -32,6 +36,10 @@ require Java > 17
 
 - [Decompiler (vscode)](https://marketplace.visualstudio.com/items?itemName=tintinweb.vscode-decompiler) -  integration of Ghidra decompiler
 
-### see also
+# CTF
+- [Microcorruption ┌∩┐(◣_◢)┌∩┐]({% post_url 2017-11-30-reverse-microcorruption %})
+
+
+# see also
 - [Reverse engineering an e-ink display ](https://zeus.ugent.be/blog/22-23/reverse_engineering_epaper/) / [HN](https://news.ycombinator.com/item?id=34738649)
 - [	Using Ghidra and Python to reverse engineer Ecco the Dolphin](https://news.ycombinator.com/item?id=42076884)

@@ -1,6 +1,6 @@
 ---
 title: OSINT (Open source intelligence)
-tags: security graph internet osint project
+tags: security graph internet map osint project
 toc: true
 ---
 >  [Comment retrouver n'importe qui sur Internet ? (Sensibilisation OSINT)](https://www.youtube.com/watch?v=VlTn5AB5SJE) / [2](https://www.youtube.com/watch?v=8XDRUk4soS8)

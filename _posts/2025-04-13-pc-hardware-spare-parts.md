@@ -1,7 +1,7 @@
 ---
 title: Spare parts
-published: true
 tags: pc-hardware disk storage
+toc: true
 ---
 > Inventory here.
 
@@ -43,9 +43,18 @@ tags: pc-hardware disk storage
   {% endfor %}
 </table>
 
+# [SSD  ⮺]({% post_url 2025-11-28-hardware-SSD %})
+
 # SATA
 
 | Disk | Year | Capacity | comments |
 | --- | --- | --- | --- |
-| WD10EADS | 2009 | 1To |  |
-| Samsung HD103SJ | 2010 | 1To |  |
+| WD                | ?    |    2To | [Tristan]({% post_url 2026-10-16-pc-tristan %}) |
+| WD                | 2011 |    2To | Fred    |
+| Samsung HD103SJ   | 2010 |    1To |         |
+| WD10EADS          | 2009 |    1To |         |
+| WD5000AAKS        | 2007 |  0.5To |         |
+| Hitachi           | 2003 | 0.12To |         |
+
+**see also**
+- [NAS]({% post_url 2019-01-21-home-nas %})
