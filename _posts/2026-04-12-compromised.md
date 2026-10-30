@@ -17,6 +17,7 @@ tags: security taint js python microsoft windows
 - [Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library](https://news.ycombinator.com/item?id=47964617) - 2026-04-30
 - [Arch Linux](https://www.youtube.com/watch?v=f-E9culhQGM) / [2](https://www.youtube.com/watch?v=oLK-OWdEm7I) / [sources](https://archlinux.org/news/active-aur-malicious-packages-incident/) - 2026-06-12
 - [Microsoft’s open source tools were hacked to steal passwords of AI developers](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/) / [HN](https://news.ycombinator.com/item?id=48457830) - 2026-06-09 - It's a continuation of the Shai Halud worm and the lack of security around developer dependnecy installations, which has existed for a very long time.
+- [Des magasins Système U, Intermarché, E.Leclerc et Monoprix touchés par une cyberattaque contre leurs installations frigorifiques](https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-magasins-systeme-u-et-intermarche-touches-par-une-cyberattaque-contre-leurs-installations-frigorifiques_8233720.html)
 
 
 ## Leaked 

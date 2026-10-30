@@ -1,16 +1,17 @@
 ---
-title: "Deepseek Harness 🐋"
+title: "Deepseek 🐋"
 tags: agentic-AI harness
 ---
 > [ Qwen3.8 27B: Same Model, Three Harnesses, One Clear Winner ](https://www.youtube.com/watch?v=sSySOPGNdjw&t=1210s) - 1. Deepseek, 2. Pi, 3. Hermes  - [github](https://github.com/deepseek-ai/deepseek-harness?utm_source=chatgpt.com#deepseek-harness)
 
+# Harness
 _It is built on an everything-is-a-plugin architecture and powered by Cordis, whose design is described in  [A Programming Paradigm for Spatiotemporal Composability](https://arxiv.org/abs/2608.25512)._
 
-# VSCode
+## VSCode
 
 - [DeepSeek Harness for VS Code](https://marketplace.visualstudio.com/items?itemName=skymecode.deepseek-harness-for-vscode&utm_source=chatgpt.com)
 
-# Setup
+## Setup
 
 ```bash
 $ node --expose-internals \
@@ -18,7 +19,7 @@ $ node --expose-internals \
   web --no-open # --no-open prevent opening the page in browser
 ```
 
-# LM Studio
+## LM Studio
 
 To use LM Studio with this harness you have to configure a custom adapter.
 
@@ -35,3 +36,10 @@ API key:       generate a password
 </pre>
 </div>
 
+# v4.1 Flash (LLM)
+
+- [DeepSeek choque encore toute l'industrie de l'IA (actu IA)](https://www.youtube.com/watch?v=nqFhLLELd4o)
+  - KV Cache sur SSD
+
+## see also
+- [DeepInfer](https://github.com/deepseek-ai/DeepInfer)

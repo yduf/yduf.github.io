@@ -4,7 +4,11 @@ tags: agentic-AI harness kanban
 ---
 > Benching Harness - [Leaderboard](https://agentscope-ai.github.io/PawBench/) / [PawBench](https://github.com/agentscope-ai/PawBench?utm_source=chatgpt.com#-pawbench) / [ChatGPT](https://chatgpt.com/share/6a89bb17-55b0-83ed-a713-7ae1123bdb41) / [What Is a Harness? ](https://news.ycombinator.com/item?id=49409092)
 
+
+
 <div class="encart blue" markdown="1">
+[What Is an Agent Harness?](https://muhammadraza.me/2026/what-is-an-agent-harness/) - The software around an LLM that turns it into an agent: the loop, tools, context, and guardrails. Where the term came from and why more isn't better.
+ 
 **see also**
 - [Superpowers](https://github.com/obra/superpowers#superpowers) - a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them.
 - [	Munder Difflin – Agent harness to run an office of your clones ](https://munderdiffl.in/) / [HN](https://news.ycombinator.com/item?id=49398152)

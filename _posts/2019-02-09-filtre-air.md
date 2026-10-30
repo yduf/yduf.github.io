@@ -1,7 +1,7 @@
 ---
-published: true
 title: Particules fines
 tags: 3dprint filter co2
+toc: true
 excerpt_separator: <!--more-->
 ---
 > PM2.5 is of interest because it’s a size that your body has a harder time getting rid of. <!--more--> Larger size particles have an easier time being captured by the upper respiratory system. Smaller things might make it into the blood stream and hopefully be filtered by the kidneys. 2.5 microns is right at the point between where either thing is less likely to happen and instead the stuff might get stuck in your lungs. - [HN](https://news.ycombinator.com/item?id=40501015)
@@ -10,6 +10,7 @@ excerpt_separator: <!--more-->
 	- 0.3 micrometers are even smaller than the wavelength of light, which demonstrates the problem: how should we see something that is smaller than light itself? - electron microscope
 	- [PM2.5 is not PM2.5](https://www.airgradient.com/blog/pm25-is-not-pm25/) - It only defines the diameter of the particles but can be composed of very different elements. From salt that dissolves in the lungs to toxic metals.
     	- [Everything fit in the square hole](https://youtu.be/TNa-8tFoUxs?si=7DmPXBKeTgJVXmFd)
+      	- [It works on my machine!](https://www.youtube.com/shorts/uKfTEQIKIsA)
 
 - [3D printers are worse than I thought. Time to do something about it!](https://www.youtube.com/watch?v=nofn_MHrxrs) 
 	- PM2.5 level

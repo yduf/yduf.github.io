@@ -1,7 +1,6 @@
 ---
-published: true
 title: Animal Intelligence
-tags: animal human AI LLM identity
+tags: animal human iA LLM identity
 ---
 > [why intelligence isn’t just for humans](https://news.ycombinator.com/item?id=31730127)
 

@@ -1,24 +1,29 @@
 ---
-published: true
 title: Floating point number (IEEE-754)
 tags: math numeric float history c++ computer
+toc: true
 ---
 > Instead of Exponent, think of a Window between two consecutive power of two integers. Instead of a Mantissa, think of an Offset within that window. -  [	Floating point visually explained](https://news.ycombinator.com/item?id=29368529)  
+
+[![caption](https://fabiensanglard.net/floating_point_visually_explained/floating_point_intuitive.svg)](https://fabiensanglard.net/floating_point_visually_explained/)
+
+[![caption](https://fabiensanglard.net/floating_point_visually_explained/floating_point_window.svg)](https://fabiensanglard.net/floating_point_visually_explained/)
+
+# IEEE 754 binary64
+
+<div class="encart blue" markdown="1">
+[un double est généralement représenté sur 64 bits (8 octets), avec une précision d'environ 15 à 17 chiffres décimaux significatifs.](https://chatgpt.com/share/6adf9a82-f738-83ed-af29-f58a43b12b7c)
+</div>
 
 - [	Exposing Floating Point – Bartosz Ciechanowski (2019)](https://ciechanow.ski/exposing-floating-point/) / [HN](https://news.ycombinator.com/item?id=47908139)
 - [	Float Exposed ](https://float.exposed/0x736bf47e) / [HN](https://news.ycombinator.com/item?id=45217415)
 - [Floating point from scratch: Hard Mode](https://essenceia.github.io/projects/floating_dragon/) / [HN](https://news.ycombinator.com/item?id=47641472) - logic cells, hardware pipeline architectures, RTL (register-transfer level), ASIC floorplans, and tapeout. Building hardware is hard, as iteration cycles are long and fabricating stuff costs real money. That was quite a journey.
 
-[![caption](https://fabiensanglard.net/floating_point_visually_explained/floating_point_intuitive.svg)](https://fabiensanglard.net/floating_point_visually_explained/)
-
-
-[![caption](https://fabiensanglard.net/floating_point_visually_explained/floating_point_window.svg)](https://fabiensanglard.net/floating_point_visually_explained/)
-
 > But why did DEC use 8 bits for the exponent in the F and D formats? The reason is to be able to represent all important physical constants, including the Plank constant (6.626070040 × 10^-34) and the Avogradro constant (6.022140857 × 10^23) - [SO](https://retrocomputing.stackexchange.com/questions/13493/where-did-the-free-parameters-of-ieee-754-come-from/13496#13496)
 
 [![caption](https://www.bitsnbites.eu/wp-content/uploads/2021/11/ieee754-single-precision-1.png)](https://www.bitsnbites.eu/i-want-to-show-a-thing-cpp-code-generation/)
 
-### see also
+# see also
 - [Floating-point arithmetic (wikipedia)](https://en.wikipedia.org/wiki/Floating-point_arithmetic)
 - [floats, bits, and constant expressions](https://brnz.org/hbr/?p=1518) - Can you access the bits that represent an IEEE754 single precision float in a C++14 constant expression (constexpr)?
 - [The number of floats between 0 and 1](https://news.ycombinator.com/item?id=41390712)

@@ -1,5 +1,5 @@
 ---
-title: LilyPond (Music sheet) 🎶
+title: LilyPond (Music sheet) 🎼
 tags: music write guitar tab drums vscode
 toc: true
 ---

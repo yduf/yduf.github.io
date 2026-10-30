@@ -1,14 +1,16 @@
 ---
-title: Carte POI hors-ligne — Martin + MapLibre + FastAPI sur Raspberry Pi
-tags: map martin maplibre fastapi postgis podman
+title: Carte POI hors-ligne (iA)
+tags: map martin iA-generated
 toc: true
-excerpt_separator: ""
 ---
+> Martin + MapLibre + FastAPI sur Raspberry Pi
 
-> Objectif : une carte **entièrement hors-ligne** (fond vectoriel, imagerie satellite,
-> orthophoto IGN) et un éditeur de points d'intérêt (recherche, création, modification,
-> catégories), accessible uniquement depuis mon réseau Tailscale. Aucun appel à un service
-> de tuiles externe à l'exécution.
+<div class="encart blue" markdown="1">
+Objectif : une carte **entièrement hors-ligne** (fond vectoriel, imagerie satellite,
+orthophoto IGN) et un éditeur de points d'intérêt (recherche, création, modification,
+catégories), accessible uniquement depuis mon réseau Tailscale. Aucun appel à un service
+de tuiles externe à l'exécution.
+</div>
 
 # Stack
 

@@ -1,6 +1,6 @@
 ---
 title: polkit (iA)
-tags: linux-security security ai_generated
+tags: linux-security security iA-generated
 ---
 > polkit is an authorization framework used by systemd-adjacent privileged services. It answers yes/no/ask for *individual privileged operations* that a daemon explicitly asks about over D-Bus.
 
