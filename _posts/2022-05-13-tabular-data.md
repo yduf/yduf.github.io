@@ -1,7 +1,6 @@
 ---
-published: true
 title: File format for tabular data
-tags: file db array parquet csv
+tags: file db array parquet csv excel
 ---
 > there is several high quality and well-developed formats - [HN](https://news.ycombinator.com/item?id=31255775)
 

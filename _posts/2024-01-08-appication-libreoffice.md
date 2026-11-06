@@ -1,10 +1,18 @@
 ---
-published: true
 title: Office Suit 📝
-tags: linux-desktop office diagram
+tags: linux-desktop office diagram excel
 toc: true
 ---
 > Word, powerpoint and excel on linux.
+
+# [ArtCraft ⮺](https://getartcraft.com/)
+## [GridCraft ⮺](https://getartcraft.com/apps/gridcraft)
+
+The closest OpenSource version to Excel - [github](https://github.com/storytold/gridcraft#gridcraft)
+
+A fast, open-source, clean-room take on modern spreadsheet workflows. It runs natively on macOS, Windows, Linux and BSD, and in the browser via WebAssembly.
+By the ArtCraft team.
+
 
 # [WPS Office ⮺](https://fr.wps.com/office/linux/?utm_source=chatgpt.com)
 
