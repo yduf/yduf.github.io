@@ -4,6 +4,8 @@ tags: games
 ---
 > [Walker playground](https://markblah.github.io/lemmings/) / [HN](https://news.ycombinator.com/item?id=50375354)
 
+<div id="walker-counter">0 walkers</div>
+
 <!-- Wrap the playground markup in a <div class="lemmings"> so these styles only apply here, not to the rest of the page -->
 <style>
   .lemmings {
@@ -45,11 +47,58 @@ tags: games
   .lemmings .gh { float: right; display: flex; gap: 8px; margin: 0 0 8px 16px; }
 </style>
 
+<!-- live walker counter -->
+<style>
+  #walker-counter {
+    position: fixed;
+    top: 80px;
+    right: 20px;
+    padding: 6px 12px;
+    border-radius: 999px;
+    background: rgba(0, 0, 0, 0.75);
+    color: #fff;
+    font: 600 14px/1 system-ui, -apple-system, sans-serif;
+    z-index: 2147483646; /* just under the walker overlay (2147483647) */
+    pointer-events: none;
+    user-select: none;
+  }
+</style>
+
 <!-- walker engine from https://github.com/MarkBlah/lemmings (https://markblah.github.io/lemmings/walker.min.js) -->
 <script src="{{ '/assets/js/lemmings/walker.min.js' | relative_url }}"></script>
 <script>
-  // add one walker every second
-  setInterval(function () {
-    if (window.__walker) window.__walker.add();
-  }, 1000);
+  (function () {
+    var MAX_WALKERS = 100;
+
+    // add one walker every second, up to MAX_WALKERS
+    setInterval(function () {
+      if (!window.__walker) return;
+      if (walkerCount() >= MAX_WALKERS) return;
+      window.__walker.add();
+    }, 1000);
+
+    // show how many walkers are on the page: the engine keeps one .wrap
+    // element per walker inside an open shadow root on a direct <html> child
+    var counter = document.getElementById('walker-counter');
+    var lastCount = -1;
+
+    function walkerCount() {
+      var host = Array.prototype.find.call(document.documentElement.children, function (el) {
+        return el.shadowRoot && el.tagName === 'DIV';
+      });
+      return host ? host.shadowRoot.querySelectorAll('.wrap').length : 0;
+    }
+
+    function updateCounter() {
+      if (!counter) return;
+      var n = walkerCount();
+      if (n !== lastCount) {
+        lastCount = n;
+        counter.textContent = n + (n === 1 ? ' walker' : ' walkers');
+      }
+    }
+
+    setInterval(updateCounter, 500);
+    updateCounter();
+  })();
 </script>
