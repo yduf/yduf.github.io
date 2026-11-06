@@ -41,8 +41,8 @@ The Missing [Package](https://formulae.brew.sh/formula/) Manager for macOS (or L
 
 - [	Our audit of Homebrew](https://news.ycombinator.com/item?id=41114839)
 
-see also
-- [Brightness Control](({% post_url 2021-08-17-brightness-control %}#macos))
+**see also**
+- [Brightness Control 🔆](({% post_url 2021-08-17-brightness-control %}#macos))
 
 ### [VSCode](https://code.visualstudio.com/docs/setup/mac)
 

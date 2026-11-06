@@ -1,14 +1,11 @@
 ---
-published: true
 title: Hacking the Attacknid (Spiderbots) 🕷️
 tags: robot reverse 2.4GHz project
+toc: true
 ---
 > The hexapod is the clever design work of Jaimie Mantzel, a somewhat eccentric Canadian inventor. In fact, the Attacknid is really a miniature version of [the Giant Robot Mantzel](https://www.youtube.com/watch?time_continue=698&v=YjTcReaOqQ0) recently finished building. What makes Mantzel’s design impressive is that despite its six legs, only two DC motors control its movement ­— compare that with the 12 servo motors minimum you’d find in any other six-legged walker. - [Arduino project: Hacking the Attacknid](https://web.archive.org/web/20140319044803/http://apcmag.com:80/arduino-project-hacking-attacknid.htm#null)
 
 ![caption](https://web.archive.org/web/20140320075928im_/http://media.apcmag.com/wp-content/uploads/sites/20/2014/03/attacknid.jpg)
-
-**see also**
-- [How to build a shitty robot](https://mariozechner.at/posts/2026-05-30-shitty-robot/) - dissasembly and customisation of a toy robot
 
 ## Arduino project: Hacking the Attacknid
 
@@ -33,5 +30,12 @@ The controller has something that resembles a NRF24L01 RF transceiver in it.
 
 - [De-weaponizing Robotic Killer Spiderbots](https://makezine.com/article/maker-news/de-weaponizing-robotic-killer-spiderbots/)
 
-### see also
+**see also**
 - [Reversing a 2.4GHz Remote Control ](https://news.ycombinator.com/item?id=31168052)
+
+# see also
+- [How to build a shitty robot](https://mariozechner.at/posts/2026-05-30-shitty-robot/) - dissasembly and customisation of a toy robot
+- [ I built a hexapod that changes its walk mid-stride. ](https://www.youtube.com/watch?v=vSmU1OX91-0) / [github](https://github.com/forgevolt/Hexapod#hexapod)
+
+[![hexapod](https://github.com/forgevolt/Hexapod/raw/main/docs/hexapod.jpg)](https://github.com/forgevolt/Hexapod#hexapod)
+

@@ -104,6 +104,7 @@ Pi provides:
 
 Did you know that it is named _Claude_ in reference to _Claude Shanon_ the man that defined _anthropie_ of information content (and the company is named antropic...)
 
+- [ Claude Helped Rebuild Zelda. **Now Its Own Rules Say No**. ](https://www.youtube.com/watch?v=oKKW4Gz3skY)
 - [Claude Code Unpacked](https://ccunpacked.dev/#agent-loop) / [HN](https://news.ycombinator.com/item?id=47597085) - overview of Claude implementation and behavior
     - [Claude Code Leaks](https://www.ccleaks.com/)
 - [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode, and more](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/) / [HN](https://news.ycombinator.com/item?id=47586778) / [github](https://github.com/alex000kim/claude-code/tree/main/src)
@@ -112,6 +113,9 @@ Did you know that it is named _Claude_ in reference to _Claude Shanon_ the man t
     - Native client attestation below the JS runtime /  the binary itself cryptographically proves it’s the real Claude Code client.
     - 250,000 wasted API calls per day
     - KAIROS: the unreleased autonomous agent mode
+- [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace ](https://news.ycombinator.com/item?id=50300683) -The core problem is that VScode extensions does not need to be signed at all 
+  - A malicious actor used access to Cursor’s marketplace to publish a tampered copy of the Claude Code extension, which we didn’t build or publish.
+    - or is it ? - [ Anthropic got hacked | Eli the Computer Guy ](https://www.youtube.com/watch?v=Vy8L9a0OBRQ)
 
 **see also**
 - [Claude Code Is Steganographically Marking Requests](https://thereallo.dev/blog/claude-code-prompt-steganography) / [HN](https://news.ycombinator.com/item?id=48734373) - claude code todays date differently depending on local configuration to tweek behavior depending on users

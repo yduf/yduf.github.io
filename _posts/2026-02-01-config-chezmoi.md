@@ -47,7 +47,10 @@ $ chez moi apply
 
 # Install 📥
 
-For bootstrapping use apt otherwise nix is available
+<div class="encart green" markdown="1">
+For bootstrapping use apt otherwise [nix]({% post_url 2026-01-24-package-nix %}) is available
+</div>
+
 
 {% highlight bash %}
 $ apt-get install chezmoi

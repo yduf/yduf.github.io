@@ -18,6 +18,7 @@ tags: history
     - ["Oradour coloniaux français" : "Il y a eu des massacres équivalents à celui d'Oradour" en Algérie](https://www.france24.com/fr/afrique/20260419-oradour-coloniaux-fran%C3%A7ais-massacres-%C3%A9quivalents-oradour-alg%C3%A9rie-colonisation) - À partir du 8 mai 1945, il y a eu de terribles massacres en Algérie – dont le bilan se situe entre 30 000 et 35 000 morts. Des civils ont été massacrés par l'armée française et par des milices coloniales, et les cadavres ont parfois été brûlés dans des fours à chaux pour les faire disparaître. Ces techniques de terreur et de massacres n'ont pas grand-chose à envier aux méthodes employées par la division "Das Reich" à Oradour-sur-Glane.  
     - [Le massacre de la tribu des El Ouffia](https://www.youtube.com/watch?v=mHm6YOIWt4w)
     - [Massacre du 23 mai 1956 en Kabylie : trois villages "pacifiés" par l’armée française en Algérie](https://www.france24.com/fr/afrique/20260523-massacre-23-mai-1956-kabylie-trois-villages-pacifi%C3%A9s-arm%C3%A9e-fran%C3%A7aise-alg%C3%A9rie) - Le 23 mai 1956, l’armée française exécute sommairement 75 villageois à Ait Soula, Tazrouts et Agouni, dans la vallée de la Soummam en Algérie. Près de 200 femmes sont rassemblées dans une mosquée, dénudées de forces et parfois violées. Des violences coloniales sur lesquelles ont enquêté la documentariste Safia Kessas et l’historien Fabrice Riceputi. 
+    - [La colonisation un crime?](https://www.youtube.com/shorts/q04SmfxkCO0)
 - [des armes chimiques utilisées par la France en Algérie](https://www.jeuneafrique.com/1694731/politique/un-documentaire-leve-le-tabou-des-armes-chimiques-utilisees-par-la-france-en-algerie/) - entre 1956 et 1962, en Algérie, la France a expérimenté, autorisé puis utilisé des armes chimiques pour capturer ou tuer les soldats de l’Armée de libération nationale (ALN) abrités dans des grottes, des casemates ou des silos à grains. Elle a aussi, systématiquement, traité par ces moyens chimiques les grottes trop vastes pour être détruites afin d’empêcher leur réutilisation. Plus de soixante ans plus tard, certaines de ces cachettes restent extrêmement dangereuses pour qui s’y aventurerait.
 - Charonne - [8 février 1962 quand la police tuait ](https://www.youtube.com/watch?v=KktwCdMdPqw) - quand le prefet se defile sur la police, la police sur la RATP, etc...
 
@@ -33,6 +34,15 @@ tags: history
 
 ### Guadeloupe
 - [ Le massacre en Guadeloupe dont personne ne parle ](https://www.youtube.com/watch?v=tyuAQN3uu_U) - Le 26 mai 1967, à Pointe-à-Pitre, les forces de l'ordre françaises ouvrent le feu sur une foule de manifestants et d'ouvriers en grève. Le bilan officiel parle de 7 morts. Les historiens, les familles et les témoins évoquent des chiffres allant jusqu'à 200 victimes. Dans cet épisode, on revient sur le contexte social et colonial de la Guadeloupe des années 1960, sur la naissance du mouvement autonomiste du GONG, sur le rôle central du préfet Pierre Bolotte — un homme formé à la répression coloniale en Indochine et en Algérie — et sur celui de Jacques Foccart, l'homme de l'ombre du général de Gaulle dans les anciennes colonies.
+
+# L'Empire Romain
+
+## [Les Gaulois ⮺](https://www.youtube.com/watch?v=fW3DbKYSkpg&list=PLv1KZC6gJTFlbdBD_610rc3yAd5x3qu56&index=23)
+
+L'Histoire des Gaulois a été écrite par Jules Cesar.
+
+- [> 4.2 Millions de mort pendant la Guerre des Gaules](https://www.youtube.com/shorts/Kw4qqwl4dZg) 
+  -  [L’empire n’a jamais pris fin](https://www.youtube.com/playlist?list=PLv1KZC6gJTFlbdBD_610rc3yAd5x3qu56) / [rencontre apocalyptique avec Pacôme Thiellement(https://www.lesinrocks.com/livres/lempire-na-jamais-pris-fin-rencontre-apocalyptique-avec-pacome-thiellement-704855-28-10-2026/) - _Ce n’est pas la France qu’on déteste, ce sont les connards._
 
 ### see also
 - [Imperial boomerang](https://en.wikipedia.org/wiki/Imperial_boomerang) - the thesis that governments that develop repressive techniques to control colonial territories will eventually deploy those same techniques domestically against their own citizens. 

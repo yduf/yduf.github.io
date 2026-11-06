@@ -1,11 +1,20 @@
 ---
-title: "Agent Fleet & LLM harness 🐕‍🦺"
+title: "# Agent Fleet & LLM harness 🐕‍🦺"
 tags: agentic-AI harness kanban
+toc: true
 ---
 > Benching Harness - [Leaderboard](https://agentscope-ai.github.io/PawBench/) / [PawBench](https://github.com/agentscope-ai/PawBench?utm_source=chatgpt.com#-pawbench) / [ChatGPT](https://chatgpt.com/share/6a89bb17-55b0-83ed-a713-7ae1123bdb41) / [What Is a Harness? ](https://news.ycombinator.com/item?id=49409092)
 
+# Fleet
 
+| Agent                                                             | huv | pi5 | lab |
+| ---- | --  | --- | --  | 
+| [Hermes 🔱]({% post_url 2026-07-23-agent-hermes %})               |     | [🔱](http://127.0.0.1:3080/) |     |
+| [Cline 🤖]({% post_url 2026-08-01-ide-agent-cline-vscode %})      | ✅  |     | ✅  |
+| [OpenFox 🦊]({% post_url 2026-10-04-harness-openfox %})           |  ?  |     | [🦊](http://yves-lab:10369)   |
+| [DeepSeek Harness 🐋]({% post_url 2026-09-11-deepseek-harness %}) |  ?  |     |     |
 
+# Harness
 <div class="encart blue" markdown="1">
 [What Is an Agent Harness?](https://muhammadraza.me/2026/what-is-an-agent-harness/) - The software around an LLM that turns it into an agent: the loop, tools, context, and guardrails. Where the term came from and why more isn't better.
  
@@ -28,15 +37,21 @@ tags: agentic-AI harness kanban
 
 ## KV Cache
 
+<div class="encart blue" markdown="1">
+[Outils d'analyse du cache](https://www.youtube.com/watch?v=LfbRuOsFC_8&t=207s)
+
+</div>
+
 Gestion du cache par les differents Harness au 2026-09-25
 [Le classement](https://www.youtube.com/watch?v=AkwItxJ9AbA){: .reference-only}
-- [**OpenFox**](https://github.com/co-l/openfox#openfox) - le score parfait. Plan en 19 secondes, skill et MCP ajoutés sans invalider le cache, accès instantané au secret, compactage nickel. Le meilleur harnais pour l'IA locale, et la vidéo explique pourquoi.
-- OpenCode 2.0 - excellent, quasi parfait. Aucune invalidation sur tout le scénario, accès instantané partout. Seul bémol : le prompt de compactage remplace le dernier message utilisateur. Sinon, score parfait.
--  [**DeepSeek Harness**]({% post_url 2026-09-11-deepseek-harness %})- très prometteur. Cache parfaitement respecté, compactage nickel, injection intelligente de la différence dans le contexte. Il ne manque que la gestion des skills pour un score parfait.
+- [**OpenFox 🦊**]({% post_url 2026-10-04-harness-openfox %}) - **5/5** - le score parfait. Plan en 19 secondes, skill et MCP ajoutés sans invalider le cache, accès instantané au secret, compactage nickel. Le meilleur harnais pour l'IA locale, et la vidéo explique pourquoi.
+- OpenCode 2.0 - **4.5/5** - excellent, quasi parfait. Aucune invalidation sur tout le scénario, accès instantané partout. Seul bémol : le prompt de compactage remplace le dernier message utilisateur. Sinon, score parfait.
+- [**DeepSeek Harness 🐋**]({% post_url 2026-09-11-deepseek-harness %}) - **4/5** -  très prometteur. Cache parfaitement respecté, compactage nickel, injection intelligente de la différence dans le contexte. Il ne manque que la gestion des skills pour un score parfait.
 - Codex et QwenCode - fluides au quotidien, mais un compactage effroyable qui détruit le préfixe du cache au pire moment.
-- Claude Code - 2.5/5. Des requêtes bizarres (dont un prompt AFK), un MCP qui échoue, pas d'accès instantané. Inutilisable en l'état sans proxy.
--  [**Cline**]({% post_url 2026-08-01-ide-agent-cline-vscode %})- l'ancien champion déchu. D'une première place à l'avant-dernière : invalidation totale au build, AGENTS.md injecté dans le système prompt.
-- Pi - la boîte à Lego. Tout est à construire à la main, et le cache ne tient pas au passage plan vers build.
 - Goose - la découverte du jour, maintenu sous l'égide de la Linux Foundation. Beaucoup de bugs, mais tous résolvables avec un peu de réflexion et de travail.
+- Claude Code - **2.5/5**. Des requêtes bizarres (dont un prompt AFK), un MCP qui échoue, pas d'accès instantané. Inutilisable en l'état sans proxy.
+- [**Hermes 🔱**]({% post_url 2026-07-23-agent-hermes %}) - **2.5/5**.
+- [**Cline 🤖**]({% post_url 2026-08-01-ide-agent-cline-vscode %}) - **2/5** - l'ancien champion déchu. D'une première place à l'avant-dernière : invalidation totale au build, AGENTS.md injecté dans le système prompt.
+- Pi - la boîte à Lego. Tout est à construire à la main, et le cache ne tient pas au passage plan vers build.
 
 

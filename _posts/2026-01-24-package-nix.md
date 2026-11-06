@@ -1,6 +1,5 @@
 ---
 title: "Nix (Package) 📦"
-published: true
 tags: nix package config
 toc: true
 ---

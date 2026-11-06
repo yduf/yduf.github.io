@@ -74,7 +74,13 @@ Use it in MCP definition
 
 ### Cline
 
+### OpenFox
 
+<div class="encart green" markdown="1">
+self install:
+
+I want to setup https://github.com/morluto/rea#rea-reverse-engineer-anything within this openfox server.
+</div>
 
 ## Tools
 

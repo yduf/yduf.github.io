@@ -25,3 +25,4 @@ toc: true
 
 ### Effect
 - [Mosaic Effect](https://www.lexaloffle.com/bbs/?tid=49553)
+- [ Slit Scan (Time Displacement) Test ](https://www.youtube.com/watch?v=QAkqCWUxCug) - video

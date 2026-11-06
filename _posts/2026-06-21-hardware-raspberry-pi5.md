@@ -1,6 +1,6 @@
 ---
 title: Raspberry pi5 💭
-tags: raspberry-pi arm-hardware watchdog project bastion forgejo
+tags: raspberry-pi arm-hardware watchdog project bastion harness hermes forgejo
 toc: true
 ---
 > inherited [Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/) + [Pironman 5](https://docs.sunfounder.com/projects/pironman5/fr/latest/pironman5/intro_pironman5.html#intro-pironman5)
@@ -23,9 +23,9 @@ $ ssh -J bastion tronaut
 | [n8n]({% post_url 2026-09-09-wf-n8n %}) | [⇢ ](http://localhost:5678)|
 | Telegram | [topic mode](https://chatgpt.com/share/6a47845c-5914-83ed-8d05-30b69839f799) |
 | nginx | :80 |
-| [php](https://chatgpt.com/share/6a46b923-bcd0-83eb-bab0-9a10acd13874) | [php](http://100.69.234.21/test.php) | 
-| | [hello](http://100.69.234.21/hello.php) | 
-| | [Nav](http://100.69.234.21/Nav_tst/Nav.php) |
+| [php](https://chatgpt.com/share/6a46b923-bcd0-83eb-bab0-9a10acd13874) | [~~php~~](http://100.69.234.21/test.php) - disabled | 
+| | [~~hello~~](http://100.69.234.21/hello.php) | 
+| | [~~Nav~~](http://100.69.234.21/Nav_tst/Nav.php) |
 | cups | :631 |
 | use [yduf](/) as knowledge base | read only copy |
 
@@ -46,20 +46,19 @@ Use it to host a [Hermes Agent]({% post_url 2025-12-17-llm-cursor-at-home %}#her
 
 Appears as pi2/pi3 on nmap scan
 
-{% highlight bash %}
+```bash
 MAC Address: 7E:AB:F1:0E:85:C3 (Unknown)
 Nmap scan report for raspberrypi3.home (192.168.0.30)
-{% endhighlight %}
+```
 
 
 # OS
 
 <div class="encart blue" markdown="1">
-
 Raspberry Pi OS (64-bit), Bookworm-based, on Raspberry Pi 5  
 `$ systemctl get-default` => **graphical.target**
 
-{% highlight bash %}
+```bash
 $ hostnamectl 
  Static hostname: raspberrypi
        Icon name: computer
@@ -68,7 +67,7 @@ $ hostnamectl
 Operating System: Debian GNU/Linux 12 (bookworm)  
           Kernel: Linux 6.6.62+rpt-rpi-2712
     Architecture: arm64
-{% endhighlight %}
+```
 </div>
 
 
@@ -100,17 +99,37 @@ eg [![model amazon](https://m.media-amazon.com/images/I/31vbztes-kL._SX342_SY445
 
 Disable OLED Timeout
 
-{% highlight bash %}
+```bash
 $ sudo pironman5 -os 0
 $ sudo systemctl restart pironman5.service
-{% endhighlight %}
+```
 
+
+### SSD Access
+
+<div class="encart blue" markdown="1">
+Analyzed by Hermes:
+
+pironman5's DataLogger samples the box every second (CPU%, per-core, freq, CPU/GPU temps, RAM, NVMe free/used, net up/down, fan state
+    + PWM) and POSTs one point to InfluxDB.
+</div>
+
+
+It's purely the history/graph feature of the SunFounder Pironman5 web dashboard (raspberrypi) — nothing else on the system consumes it.    
+    Nothing in the OS, the fan control, or the OLED reads it back.
+
+setting "enable_history": false
+
+```bash
+/opt/pironman5/config.json → {"system": {"oled_sleep_timeout": 0, "enable_history": false}} (backup:                                  
+    /home/yves/pironman5-config.json.bak-2026-10-30-195852).
+```
 
 <details markdown="1"><summary>Troubleshooting</summary>
 
 ### [Troubleshooting OLED display ⮺](https://chatgpt.com/share/6a37ba8f-a84c-83ed-b3b0-4de09bf28b00)
 
-{% highlight bash %}
+```bash
 $ sudo i2cdetect -y 1
 should output 3c somewhere (it does not)
 
@@ -123,23 +142,19 @@ $ sudo dmesg | grep -i i2c
 [    2.869550] i2c_dev: i2c /dev entries driver
 [   21.694662] i2c_designware 1f00074000.i2c: i2c_dw_handle_tx_abort: lost arbitration
 [   21.705781] i2c_designware 1f00074000.i2c: i2c_dw_handle_tx_abort: SDA stuck at low
-{% endhighlight %}
+```
 
 SDA stuck at low signifie que la ligne de données I²C est maintenue en permanence à l’état bas
 
 **Déconnection uniquement la nappe OLED du Pironman.**
 
-{% highlight bash %}
+```bash
 $ dmesg | grep -i i2c
 [    0.970193] brcmstb-i2c 107d508200.i2c:  @97500hz registered in interrupt mode
 [    0.970296] brcmstb-i2c 107d508280.i2c:  @97500hz registered in interrupt mode
 [    3.076795] i2c_dev: i2c /dev entries driver
-{% endhighlight %}
-
-
+```
 </details>
-
-
 
 
 ## [Power Button ⮺ ⏻](https://chatgpt.com/share/6a631384-1bf0-83eb-a5cb-7448c842e0f8)
@@ -161,13 +176,13 @@ They shutdown then restart - one can think that the pi is on, but it's not the c
 
 This can be disabled by setting the firmware to `POWER_OFF_ON_HALT=1`
 
-{% highlight bash %}
+```bash
 $ sudo rpi-eeprom-config -e # -e for edit
 [all]
 BOOT_UART=1
 POWER_OFF_ON_HALT=1
 BOOT_ORDER=0xf146
-{% endhighlight %}
+```
 
 Then Ctrl+X + Y to save.
 The change is not visible until reboot, but it taken into account

@@ -13,6 +13,10 @@ $ openfox   # start the server & open browser page
 **see also**
 - [ Prise en main OpenFox : le meilleur harnais pour l'IA locale(*j'suis pas du tout biaisé, c'est FAUX) ](https://www.youtube.com/watch?v=F2iVKgQh_TU)
 
+# Vs
+## [OpenCode ⮺](https://chatgpt.com/share/6aeba65d-030c-83ed-a204-244d6a012a49)
+
+
 # Install 📥 
 
 <div class="encart orange" markdown="1">

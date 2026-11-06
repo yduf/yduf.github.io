@@ -3,6 +3,7 @@ published: true
 title: An intentional life
 tags: life purpose work phone
 toc: true
+mermaid: true
 ---
 > By constraining your time, a full-time job limits the nature of experiences you can have. It imposes a schedule that your entire life has to fit around. Every decision involving time has to pass the “let me check with work” test. That means your time is not yours - you borrow it from your employer. - [Work Didn’t Work](https://suketk.com/why-i-quit-google)
 
@@ -19,6 +20,19 @@ toc: true
 		- is medium dependant 
 		- is a faculty like memory (even if it can be developed in certain context)
 		- phone presence is disrupting concentration (rather than usage)
+
+## [Living ⮺](https://news.ycombinator.com/item?id=50345943)
+
+<pre class="mermaid">
+venn-beta
+    title "Living rather than Surviving"
+    set Feasible["What you are good at doing"]
+    set Viable["What people will pay you to do"]
+    set Desirable["What you like doing"]
+    union Desirable,Feasible,Viable[""]
+</pre>
+
+
 
 # see also
 - [Dear Self; we need to talk about ambition](https://news.ycombinator.com/item?id=38817396)

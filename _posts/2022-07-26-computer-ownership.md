@@ -11,3 +11,4 @@ toc: true
 
 # TV
 - [LG smart TVs caught logging audio with screen off and snooping on local devices ](https://news.ycombinator.com/item?id=49594878) / [2](https://news.ycombinator.com/item?id=49645480)
+  - [ Reverse Engineering Proves What We Suspected All Along.. ](https://www.youtube.com/watch?v=7h7FYGF7tuQ){: .reference-only}
