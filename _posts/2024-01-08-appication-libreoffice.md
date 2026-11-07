@@ -1,6 +1,6 @@
 ---
 title: Office Suit 📝
-tags: linux-desktop office diagram excel
+tags: linux-desktop office diagram excel MCP
 toc: true
 ---
 > Word, powerpoint and excel on linux.
@@ -10,9 +10,16 @@ toc: true
 
 The closest OpenSource version to Excel - [github](https://github.com/storytold/gridcraft#gridcraft)
 
-A fast, open-source, clean-room take on modern spreadsheet workflows. It runs natively on macOS, Windows, Linux and BSD, and in the browser via WebAssembly.
-By the ArtCraft team.
+An ambitious attempt to build a modern spreadsheet application from scratch, rather than simply creating another spreadsheet interface on top of an existing engine.
 
+Its central idea is to combine the familiar Excel-style workflow with a high-performance native engine written in Rust. - [ChatGPT](https://chatgpt.com/share/6aeee14e-f0bc-83ed-bf1a-bd4de329d420)
+
+### [Agentic AI ⮺ 🐿️](https://chatgpt.com/share/6aeee14e-f0bc-83ed-bf1a-bd4de329d420)
+
+GridCraft exposes functionality through:
+- An MCP server.
+- A command-line interface.
+- A JSON control channel.
 
 # [WPS Office ⮺](https://fr.wps.com/office/linux/?utm_source=chatgpt.com)
 

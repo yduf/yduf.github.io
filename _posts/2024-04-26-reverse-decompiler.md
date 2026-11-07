@@ -1,6 +1,6 @@
 ---
 title: De-compiler (REA)
-tags: LLM reverse compiler decompiler ghidra blog-code project
+tags: MCP reverse compiler decompiler ghidra blog-code
 toc: true
 ---
 > Decompiling Binary Code with LLM - [ Reverse Engineer Anything (REA) Explained: The Software Industry Will Never Be the Same ](https://www.youtube.com/watch?v=gjCBASA-1as) / [github](https://github.com/morluto/rea#rea-reverse-engineer-anything)
@@ -25,7 +25,7 @@ Your agent calls REA through MCP to inspect the target and trace relevant code. 
 [![diagram](https://github.com/morluto/rea/raw/main/website/public/assets/figures/rea-investigation-flow.svg)](https://github.com/morluto/rea#how-rea-works)
 
 
-# REA Setup 📥 🚧 
+# REA Setup 📥 
 
 <div class="encart orange" markdown="1">
 How to setup with cline or OpenFox?
@@ -37,6 +37,7 @@ $ npx rea-agents setup
 # install skills
 ```
 
+## MCP 🐿️
 **Register the MCP server manually**
 
 ```bash
