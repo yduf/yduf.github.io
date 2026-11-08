@@ -48,6 +48,7 @@ see also [PXAVizualiser](https://carlc27843.itch.io/pico-8-source-compression-vi
 
 - [PICO-8 Token Optimizations](https://github.com/seleb/PICO-8-Token-Optimizations)
 	- [ put all your game data into a string.](https://www.reddit.com/r/pico8/comments/17ehiba/which_of_these_methods_is_better/) = 1 token 
+- [Partage de mes idées de codage et d'économie de jetons que j'ai apprises. ](https://www.reddit.com/r/pico8/comments/1xjqpsj/sharing_token_saving_coding_ideas_ive_learned/)
 
 ## [shrinko8 ⮺ 🗜️](https://github.com/thisismypassport/shrinko8#shrinko8)
 

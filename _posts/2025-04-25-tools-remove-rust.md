@@ -1,6 +1,5 @@
 ---
-title: Removing rust
-published: true
+title: Removing rust / Electroplate
 tags: rust chemical
 ---
 > Nobody like rust - ;-) 
@@ -17,3 +16,5 @@ tags: rust chemical
     	- au niveau du bac d'electrolyse
         	- present dans le bac => oxyde de fer, present a l'état naturel dans les sols
             - la soude, une fois diluée, n'est pas polluante.
+# Electroplate
+- [ How to Electroplate 3D Prints | The Complete Beginner's Tutorial ](https://www.youtube.com/watch?v=ny9Y1RejifQ)

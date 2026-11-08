@@ -1,5 +1,4 @@
 ---
-published: true
 title: Ansible-NAS
 tags: nas zfs nfs ansible monitoring
 toc: true

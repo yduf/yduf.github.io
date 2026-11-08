@@ -7,6 +7,14 @@ toc: true
 
 <link rel="shortcut icon" href="https://nix.dev/_static/favicon.png" type="image/x-icon" />
 
+| Host | [chezmoi]({% post_url 2026-02-01-config-chezmoi %}) | [home-manager](#using-home-manager--) |[ nix-shell](#using-nix-shell-) | Notes |
+| ---  | --- | --- | --- |
+| [huv]({% post_url 2021-07-18-laptop-huawei-matebook-14 %})                | 🏡 | 📦 | 🐚  | DEV usage |
+| [pocket]({% post_url 2026-06-27-mini-laptop-hardware-FR-GPD-Pocket-3 %})  | ? | ? |  | | 
+| [lab]({% post_url 2020-07-25-homelab %})                                  | 🏡 | 📦 | 🐚  | $HOME shared |
+| [nas]({% post_url 2019-04-10-ansible-nas %})                              | ❌ |  |  |  |
+| [pi5]({% post_url 2026-06-21-hardware-raspberry-pi5 %})                   | |  |  |  | 
+
 **see also**  
 [mise vs direnv vs nix](https://chatgpt.com/share/6a897f37-741c-83eb-af88-5e0084ac49cb)
 - [mise](https://mise.jdx.dev/) / [HN](https://news.ycombinator.com/item?id=48038864) - some people recommend _mise_ as simpler alternative to nix for devenv configuration.

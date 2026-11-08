@@ -1,6 +1,6 @@
 ---
 title: "OpenFox 🦊"
-tags: agentic-AI harness 
+tags: agentic-AI harness local-mode offline
 ---
 > Autonomous coding agent for local LLMs with contract-driven execution. - [github](https://github.com/co-l/openfox#openfox)
 

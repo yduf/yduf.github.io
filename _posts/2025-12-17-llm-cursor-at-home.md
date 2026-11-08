@@ -114,8 +114,7 @@ Did you know that it is named _Claude_ in reference to _Claude Shanon_ the man t
     - 250,000 wasted API calls per day
     - KAIROS: the unreleased autonomous agent mode
 - [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace ](https://news.ycombinator.com/item?id=50300683) -The core problem is that VScode extensions does not need to be signed at all 
-  - A malicious actor used access to Cursor’s marketplace to publish a tampered copy of the Claude Code extension, which we didn’t build or publish.
-    - or is it ? - [ Anthropic got hacked | Eli the Computer Guy ](https://www.youtube.com/watch?v=Vy8L9a0OBRQ)
+  - A malicious actor used access to Cursor’s marketplace to publish a tampered copy of the Claude Code extension, which we didn’t build or publish. The versions on our official channels are not affected and this only impacts Cursor users. - [HN](https://news.ycombinator.com/item?id=50304129)
 
 **see also**
 - [Claude Code Is Steganographically Marking Requests](https://thereallo.dev/blog/claude-code-prompt-steganography) / [HN](https://news.ycombinator.com/item?id=48734373) - claude code todays date differently depending on local configuration to tweek behavior depending on users

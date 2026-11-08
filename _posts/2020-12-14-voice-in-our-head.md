@@ -9,6 +9,8 @@ tags: movie voice thinking speed reading devil
 
 - [When is it better to think without words?](https://www.henrikkarlsson.xyz/p/wordless-thought) / [HN](https://news.ycombinator.com/item?id=45687441) - In the 1940s, when the French mathematician Jacques Hadamard asked good mathematicians how they came up with solutions to hard problems, they nearly universally answered that they didn’t think in words; neither did they think in images or equations. Rather, what passed through the mathematicians as they struggled with problems were such things as vibrations in their hands, nonsense words in their ears, or blurry shapes in their heads
 
+- [	Chain of Thought for Humans](https://news.ycombinator.com/item?id=50154100) - "Free association" in psychoanalysis just asks people to let themselves speak, to fall into their speech, let it unfold - but it is very, very hard to do, because what you say tends to not be what you want to say. 
+
 ### see also
 - [The Voices](https://m.imdb.com/title/tt1567437/)
 - [So you think you’ve been implanted against your will?](https://forum.dangerousthings.com/t/so-you-think-youve-been-implanted-against-your-will/64)

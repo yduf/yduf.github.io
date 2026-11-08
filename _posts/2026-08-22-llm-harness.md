@@ -7,7 +7,7 @@ toc: true
 
 # Fleet
 
-| Agent                                                             | huv | pi5 | lab |
+| Agent                                                             | [huv]({% post_url 2021-07-18-laptop-huawei-matebook-14 %}) | [pi5]({% post_url 2026-06-21-hardware-raspberry-pi5 %}) | [lab]({% post_url 2020-07-25-homelab %}) |
 | ---- | --  | --- | --  | 
 | [Hermes 🔱]({% post_url 2026-07-23-agent-hermes %})               |     | [🔱](http://127.0.0.1:3080/) |     |
 | [Cline 🤖]({% post_url 2026-08-01-ide-agent-cline-vscode %})      | ✅  |     | ✅  |

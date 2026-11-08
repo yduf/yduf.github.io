@@ -1,17 +1,16 @@
 ---
-published: true
-title: "Macintosh Classic \U0001F4BE "
+title: "Macintosh Classic 💾"
 tags: 3dmodel retro computer project macintosh CRT pc-hardware chemical yduf
 toc: true
 ---
-> My retrofitting project - yduf / [r/VintageApple ](https://www.reddit.com/r/VintageApple/) / [wikipedia](https://en.wikipedia.org/wiki/Macintosh_Classic)
+> My retrofitting project - [yduf](https://www.printables.com/@yduf_314869/collections/3897133) / [r/VintageApple ](https://www.reddit.com/r/VintageApple/) / [wikipedia](https://en.wikipedia.org/wiki/Macintosh_Classic)
 
 <link rel="shortcut icon" href="https://img.icons8.com/?size=100&id=22195&format=png" type="image/x-icon" />
 
 [![project outcome](https://media.printables.com/media/prints/9b2d22de-2d6a-4166-b4c3-d84e34cae4c9/images/9860913_00d9e0a1-578c-49da-aa6f-1f2f5aa0e200_c96cc6c7-090d-494d-b802-f2ccfd98bc22/thumbs/inside/1600x1200/jpg/img_20250525_143553.webp)](https://www.printables.com/model/1307381-mac-classic-mini-itx)
 
 
-# [Classic](https://everymac.com/systems/apple/mac_classic/specs/mac_classic.html)
+# [Classic ⮺](https://everymac.com/systems/apple/mac_classic/specs/mac_classic.html)
 
 [![caption](https://upload.wikimedia.org/wikipedia/en/timeline/lvjuq81m4e89xlvtqw5vez5pc0dpjp2.png)](https://en.wikipedia.org/wiki/Macintosh_128K)
 
@@ -36,7 +35,7 @@ Note: this is the inside of a SE:
 
 [![open](https://i0.wp.com/retroviator.com/wp-content/uploads/2023/08/img_3498-scaled.jpeg?resize=1536%2C1536&ssl=1)](https://retroviator.com/macintosh-se-superdrive/)
 
-### [Macintosh Classic disassembly](https://www.ifixit.com/Guide/Macintosh+Classic+disassembly/155322)
+### [Macintosh Classic disassembly ⮺](https://www.ifixit.com/Guide/Macintosh+Classic+disassembly/155322)
 
 - **[How (not) to discharge a CRT!](https://www.youtube.com/watch?v=a6FMpvs71pc&t=347s) ⚡**
 - [Removing the motherboard](https://www.ifixit.com/Guide/Macintosh+Classic+disassembly/155322#s323923) - The motherboard has no screws, so it can be removed by pulling upwards.
@@ -44,7 +43,7 @@ Note: this is the inside of a SE:
 - [Remove The Floppy Drive ](https://www.ifixit.com/Guide/Macintosh+Classic+disassembly/155322#s323924) - 4 screws to remove - all hidden below, accessible only after removing the mother board, 2 behind the plastic fan
 
     
-### [Cleaning case](https://youtu.be/wXWlJFrX19s?si=L4vHJeL8XdlmXszw&t=386) 
+### [Cleaning case ⮺](https://youtu.be/wXWlJFrX19s?si=L4vHJeL8XdlmXszw&t=386) 
 
 - [with 3% hydrogen peroxyde and plastic wrap + 4sun hours](https://www.youtube.com/watch?v=bJZSrRU1xt4)
     - [hydrogen peroxide cream](https://www.amazon.fr/s?k=hydrogen+peroxide+cream&__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HMB39DGQCZ6G&sprefix=hydrogen+peroxide+cream%2Caps%2C419&ref=nb_sb_noss) - [12% + plastic wrap](https://www.youtube.com/watch?v=RsIwIHJt_ps)
@@ -53,7 +52,7 @@ Note: this is the inside of a SE:
 	- sun is more evenly distributed (5h/1 day).
     - fluerescent light work well (24h).
 
-### [Reusing CRT Video](https://chatgpt.com/share/67fb7b5d-7c2c-800d-adf6-a2f57d0aced3) 🖵
+### [Reusing CRT Video ⮺](https://chatgpt.com/share/67fb7b5d-7c2c-800d-adf6-a2f57d0aced3) 🖵
 - [Generate a VGA signal for inboard CRT](https://www.hackster.io/news/revive-your-old-macintosh-classic-with-a-raspberry-pi-0e679f8bd168) from a raspberry pi GPIO, see  [instructables](https://www.instructables.com/Turn-a-Broken-Mac-Classic-Into-a-Modern-day-Raspbe/)
 	- full article [here](https://nerdhut.de/2020/03/17/raspberry-pi-dpi-control-crt/)
 
@@ -73,7 +72,7 @@ see also
 
 - [Macintosh Classic Schematic (bomarc).pdf (bomarc)](https://github.com/nickpunt/nubus-se30/blob/master/Schematics/bomarc/Macintosh%20Classic%20Schematic%20(bomarc).pdf)
 
-### [Floppy Drive](https://en.wikipedia.org/wiki/Floppy_disk)
+### [Floppy Drive ⮺  💾](https://en.wikipedia.org/wiki/Floppy_disk)
 
 - [Sony MP-F75W Teardown](https://www.ifixit.com/Teardown/Sony+MP-F75W+Teardown/151675) / [youtube](https://www.youtube.com/watch?v=qYkjn8Q-ZeQ)
 	- [Interchangeabilty and Compatibility of Apple 1.4 MB Floppy SuperDrives](https://lowendmac.com/2007/interchangeabilty-and-compatibility-of-apple-1-4-mb-floppy-superdrives/) / [copy](https://siber-sonic.com/mac/superfloppy.html)
@@ -157,7 +156,7 @@ see also
 - [picotron onboard]({% post_url 2025-04-12-main-picotron %})
 	- requiert un amd64.
     
-see also
+**see also**
 - [retrofitted Macintosh Classic ](https://www.reddit.com/r/VintageApple/comments/q2x90k/my_new_retrofitted_macintosh_classic/) - has link to [rebuild a mac mouse](https://www.youtube.com/watch?v=miN8sADrsgA)
 - [Macintosh Classic II Color Hackintosh](https://www.instructables.com/Macintosh-Classic-II-Color-Hackintosh/)
 - [New life on a 30-year-old Macintosh Classic II](https://www.youtube.com/watch?v=a5XxrUhoXqE&t=904s) - glue screen + mac mini. - screen bigger than aperture.
@@ -238,7 +237,7 @@ Options are:
 - [Macintosh Plus mini Retrofit](https://www.youtube.com/watch?v=dpgFJmEe90I&t=1644s) - acrylic sheet + custom bezel 
 	- [shop](https://www.etsy.com/shop/RetroAppleAT)
 
-### [ATX power fitting](https://www.printables.com/model/1307372-mac-classic-atx-psu)
+### [ATX power fitting ⮺](https://www.printables.com/model/1307372-mac-classic-atx-psu)
 - use ATX fan as exhaust fan 
 	- put ATX on left side in front and close to back window
     - use a fanduct
@@ -254,7 +253,7 @@ Options are:
 
 [![caption](https://media.printables.com/media/prints/3e00612b-6339-43b8-b9f8-8785c31cf36a/images/9860707_e101353e-e252-4252-845d-c4c2a6467130_c1d9909b-afe6-448f-a97b-841793a16ded/thumbs/inside/1600x1200/jpg/img_20250521_133403.webp)](https://www.printables.com/model/1307372-mac-classic-atx-psu)
 
-### [Motherboard Fit](https://www.printables.com/model/1307381-mac-classic-mini-itx)
+### [Motherboard Fit ⮺](https://www.printables.com/model/1307381-mac-classic-mini-itx)
 
 - 3dprint somelegs to support the mother board
 - [cut the back of the frame](private)
@@ -273,7 +272,16 @@ Options are:
 
 [![caption](https://media.printables.com/media/prints/951b2b70-03b1-40e2-92db-2a66eed59d46/images/9860914_0f534fd3-0288-4ff0-8f10-3ff8a2a95ad1_8c7d49cb-ba03-4608-b8f1-ea1d86fbf437/thumbs/inside/1600x1200/jpg/img_20250525_143446.webp)](https://www.amazon.fr/gp/product/B08GM91HBQ)
 
-## [Purpose ?](https://chatgpt.com/share/67fa94de-8158-800d-ba9a-e3204a09ec7d)
+## [Purpose ? ⮺](https://chatgpt.com/share/67fa94de-8158-800d-ba9a-e3204a09ec7d)
+
+<div class="encart blue" markdown="1">
+As of 2026
+- most of the hardware has been repurposed in [Homelab]({% post_url 2020-07-25-homelab %}) - because GPU didn't fit..
+- And most other purpose below have been distributed either on
+  - [Homelab]({% post_url 2020-07-25-homelab %})
+  - or [pi5]({% post_url 2026-06-21-hardware-raspberry-pi5 %})
+</div>
+
 - Can host a [local LLM](tags/#llm)
 - ~~could be a 2.5Gb switch~~
 - could host nginx

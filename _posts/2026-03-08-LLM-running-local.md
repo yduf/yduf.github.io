@@ -1,6 +1,6 @@
 ---
 title: Running Local LLM 🤖
-tags: LLM at_home network
+tags: LLM local-mode at_home offline
 toc: true
 ---
 > Running Model locally - [Cursor@Home]({% post_url 2025-12-17-llm-cursor-at-home %})
@@ -23,7 +23,7 @@ toc: true
 - [Model benchmarks](https://lukesdevlab.com/)
 - [Top Model by task](https://openrouter.ai/rankings#task-spend)
 - [The Best Local Agentic Coding Workflow (Complete Guide)](https://www.youtube.com/watch?v=UngVdAsQEiU)
-- [Your Open Source Model Could Have a Hidden Time-Release Backdoor](https://morgin.ai/articles/your-open-source-model-could-have-a-hidden-time-release-backdoor.html) - demonstrate that harness context can be used to trigger a different answer in controlled condition.
+
 
 | rank | Model               |  Size | Speed | Comments |
 | --- | ---                  | ---  | ---    | --- |
@@ -35,21 +35,11 @@ toc: true
 |  | llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-NVFP4-Experts-Only-GGUF  | 12.5GB | 10 tok/sec - 2898 tokens - 1.16s to first token | LM Studio 4.12 |
 |  | llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-NVFP4-Experts-Only-GGUF  | 12.5GB | 10 tok/sec - 2898 tokens - 1.16s to first token | LM Studio 4.12 |
 
-- [	I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes](https://news.ycombinator.com/item?id=49407507)
-- [ QWEN 3.6 27B sur 16GB VRAM : La meilleure configuration ](https://www.youtube.com/watch?v=YElKs1ihn3M)
-  - [	RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8](https://news.ycombinator.com/item?id=48515454)
 
-Avec un KV Cache en Q4 tu dégrades énormément la qualité. Autant passer sur un 35b a3b avec MoE (même sans MTP) qui sera beaucoup plus rapide et de meilleure qualité, surtout si tu le prends en Q6 voire Q8. Le KV cache c'est toujours Q8 minimum, ou alors turboquant, et encore (turbo4 minimum, pas turbo3).
+## Security
 
-Je sais pas comment vous faites pour du dev avec 55k de contexte, à moins de faire juste quelques petits scripts par ci par là. Pour moi c'est beaucoup trop peu (je suis développeur depuis plus de 30 ans). C'est minimum 256k pour que le modèle ait une vue d'ensemble de l'architecture du projet, puisse chercher dans la doc, les headers, git, ticketing, logs, etc, bref bosser dans de bonnes conditions. J'utilise Opencode.
-
-Par ailleurs il est indispensable d'activer la persistence du raisonnement (preserve_thinking). Ce n'est pas fait par défaut par llama.cpp (du moins avec les modèles Qwen 3.6) donc le modèle oublie ses propres raisonnements d'un tour à l'autre. Pour tester, il faut lui demander de penser à deux nombres et de donner seulement l'un des deux. Allez voir les deux nombres dans son raisonnement. Ensuite, on lui demande de nous donner l'autre nombre auquel il pensait dans le message précédent, et là il va dire n'importe quoi ! Parce qu'il l'aura oublié !
-Du coup, en activant preserve_thinking, on gagne énormément en qualité vu que le modèle n'oublie rien. Mais effectivement ça demande un contexte plus grand. Et même si la qualité de la plupart des modèles locaux se dégrade à partir de 128k, c'est quand même indispensable. Ça vaut vraiment le coup. Qwen 3.6 35b a3b a pu me terminer des projets de tests qu'aucun autre LLM local n'avait pu grâce à ce réglage.
-
-Pour ma part je n'ai que 12 Go sur ma RTX 4070 + i5 12400F et 64 Go DDR5. J'ai Qwen 3.6 35b a3b UD-Q4_K_M, KV cache en Q8, 256k de contexte, 34 moe sur CPU, batch 16384 et ubatch 2048 (ça dépote en pp). En bench je suis à 70 t/s tg. En pratique entre 60 et 35 entre le début et la fin du contexte. J'ai testé 27b mais Q2 obligatoire pour le faire rentrer dans 12 GO de VRAM, donc c'est pourri.
-Sinon j'ai laissé tomber MTP car d'une part ça demande de la mémoire supplémentaire (donc potentiellement des couches ou KV cache à offloader ==> perte de performance) et de plus j'ai noté une baisse de qualité, même avec un excellent taux d'acceptation.
-
-En espérant avoir apporté quelques informations utiles !
+[	Agentic backdoors via pretraining poisoning ](https://news.ycombinator.com/item?id=50341334) - Of course this is authored by people at Anthropic. Continuing their narrative that open sourced models are dangerous and that people should trust the closed sourced providers.
+- [Your Open Source Model Could Have a Hidden Time-Release Backdoor](https://morgin.ai/articles/your-open-source-model-could-have-a-hidden-time-release-backdoor.html) - demonstrate that harness context can be used to trigger a different answer in controlled condition.
 
 # Qwen 3.8
 
@@ -61,6 +51,9 @@ Testing
 - [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF) 13Gb with -mtp 
   - Quantization: IQ3_S - [Benchmark](https://www.youtube.com/watch?v=jFHu6wx_TMQ){: .reference-only}
 </div>
+
+- [	I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes](https://news.ycombinator.com/item?id=49407507)
+
 
 ## 16 Go
 
@@ -108,6 +101,8 @@ This release delivers substantial upgrades, particularly in
   - 27B - better on coding task (but dense)
   - 35B - faster
   - [Prompt Vault](https://github.com/w512/Prompt-Vault#prompt-vault) - a curated collection of structured coding prompts and challenges designed for testing Large Language Models (LLMs)
+- [ QWEN 3.6 27B sur 16GB VRAM : La meilleure configuration ](https://www.youtube.com/watch?v=YElKs1ihn3M)
+  - [	RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8](https://news.ycombinator.com/item?id=48515454)
 
 
 # [Qwen3.5 ⮺](https://news.ycombinator.com/item?id=47292522)
@@ -158,6 +153,15 @@ Typical strengths:
 - debugging from logs
 - multi-step tool use
 - IDE agents (Cline, Claude Code, etc.)
+
+
+# DeepSeek v4.1 Flash
+
+<div class="encart blue" markdown="1">
+ Every day I envy the version of me that bought the 5090 instead of the 5070 before I really learned how important the onboard ram was. 
+</div>
+
+- [ I Run Full DeepSeek v4.1 Flash on a 12GB GPU ](https://www.youtube.com/watch?v=nkb4mfa3S0A)
 
 # Quantisation
 

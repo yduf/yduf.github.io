@@ -19,6 +19,23 @@ toc: true
 - 725 g
 </div>
 
+# Project
+## [ Mini Micro  ⮺ 💭](https://news.ycombinator.com/item?id=48291947)
+
+Coud be used to setup a neo-retro virtual computer
+
+- [Mini Micro Fantasy Computer](https://miniscript.org/MiniMicro/index.html#about)
+
+[![demo](https://miniscript.org/MiniMicro/img/asteroids.gif)](https://miniscript.org/MiniMicro/index.html#about)
+
+- [picotron]({% post_url 2025-04-12-main-picotron %})
+
+[![screenshot](https://www.lexaloffle.com/dl/wip/picotron_desktop2.png)](https://www.lexaloffle.com/picotron.php)
+
+## [ Cricut ⮺ 🚧 ]({% post_url 2022-07-11-cricut %})
+
+My Last Windows computer - Maybe could run cricut sofware
+
 # [Pocket 3 ⮺](https://chatgpt.com/share/6a4219ff-0cb0-83eb-a553-29faa0c3f643)
 
 A small form factor laptop, yet mostly as capable as my [Huawei laptop]({% post_url 2021-07-18-laptop-huawei-matebook-14 %}). 
@@ -172,17 +189,7 @@ To resize partition: Win + X → choose Disk Management
 - [This is the flashing firmware of Pocket 3 1195G7 / 1125G4 / 7505 (Windows 11 integrated with the driver). ](https://www.gpd.hk/gpdpocket3firmware)
   - **Attention: reinstallnation will remove all data in drive C, please backup your data before action.**
 
-# [ Mini Micro  ⮺ 💭](https://news.ycombinator.com/item?id=48291947)
 
-Coud be used to setup a neo-retro virtual computer
-
-- [Mini Micro Fantasy Computer](https://miniscript.org/MiniMicro/index.html#about)
-
-[![demo](https://miniscript.org/MiniMicro/img/asteroids.gif)](https://miniscript.org/MiniMicro/index.html#about)
-
-- [picotron]({% post_url 2025-04-12-main-picotron %})
-
-[![screenshot](https://www.lexaloffle.com/dl/wip/picotron_desktop2.png)](https://www.lexaloffle.com/picotron.php)
 
 # see also
 ## Cyberdeck
