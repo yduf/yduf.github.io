@@ -1,6 +1,6 @@
 ---
-title: Forgejo — Installation sur Raspberry Pi (Podman + PostgreSQL)
-tags: forgejo hermes
+title: Forgejo — Installation sur Raspberry Pi (iA)
+tags: forgejo hermes iA-generated
 toc: true
 excerpt_separator: ""
 ---

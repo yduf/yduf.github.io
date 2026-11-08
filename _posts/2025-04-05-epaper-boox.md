@@ -1,6 +1,5 @@
 ---
 title: Boox Note
-published: true
 tags: epaper arm-hardware android book
 toc: true
 ---
